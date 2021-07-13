@@ -3,7 +3,7 @@
 ###################################
 
 rm(list=ls(all=TRUE))
-Tax = read.table('C:/Users/PC/Desktop/MitoClub/MtDnaInvertebrate/Body/2Derived/MtDnaFullList.csv', head = TRUE, sep = '\t', comment.char = "") # because there is '#' in 4422	NW_003307477.1	Coprinopsis cinerea okayama7#130	['Eukaryota', 'Fungi', 'Dikarya', 'Basidiomycota', 'Agaricomycotina', 'Agaricomycetes', 'Agaricomycetidae', 'Agaricales', 'Psathyrellaceae', 'Coprinopsis']
+Tax = read.table('C:/Users/PC/Desktop/MitoClub/MtDnaInvertebrate/Body/2Derived/MtDnaFullList.csv', head = TRUE, sep = ';', comment.char = "") # because there is '#' in 4422	NW_003307477.1	Coprinopsis cinerea okayama7#130	['Eukaryota', 'Fungi', 'Dikarya', 'Basidiomycota', 'Agaricomycotina', 'Agaricomycetes', 'Agaricomycetidae', 'Agaricales', 'Psathyrellaceae', 'Coprinopsis']
 Tax$Group1 = 'Eukaryota:Other'
 Tax$Group2 = 'NotAssigned'
 for (i in 1:nrow(Tax))
@@ -16,7 +16,7 @@ for (i in 1:nrow(Tax))
   if (length(grep('Viridiplantae',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Other'}
     if (length(grep('Chlorophyta',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Chlorophyta'}
     if (length(grep('Streptophyta',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Streptophyta:Other'}
-    if (length(grep('Briophyta',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Streptophyta:Bryophyta'}
+    if (length(grep('Bryophyta',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Streptophyta:Bryophyta'}
     if (length(grep('Marchantiophyta',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Streptophyta:Marchantiophyta'}
     if (length(grep('Tracheophyta',Tax$Taxonomy[i]))) {Tax$Group2[i] ='Viridiplantae:Streptophyta:Tracheophyta'}
   if (length(grep('Stramenopiles',Tax$Taxonomy[i]))) {Tax$Group1[i] ='Stramenopiles'}
@@ -70,7 +70,7 @@ for (i in 1:nrow(Tax))
 table(Tax$Group1)
 table(Tax$Group2)
 
-write.table(file="C:/Users/PC/Desktop/MitoClub/MtDnaInvertebrate/Body/2Derived/MtDnaFullListWithTax.csv", Tax, row.names=FALSE, sep=";")
+write.table(file="C:/Users/PC/Desktop/MitoClub/MtDnaInvertebrate/Body/2Derived/MtDnaFullList.csv", Tax, row.names=FALSE, sep=";")
 
 # to see 'NotAssigned'
 
