@@ -1,65 +1,13 @@
-	YP_008378982.1|ND1	YP_008378983.1|ND2	YP_008378984.1|COX1	YP_008378985.1|COX2	YP_008378986.1|ATP8	YP_008378987.1|ATP6	YP_008378988.1|COX3	YP_008378989.1|ND3	YP_008378990.1|ND4L	YP_008378991.1|ND4	YP_008378992.1|ND5	YP_008378994.1|CYTB
-TTT	9	9	25	4	0	5	11	5	1	8	17	9
-TTC	8	3	17	2	3	7	14	2	5	11	28	19
-TTA	14	16	17	7	2	10	3	1	7	21	24	9
-TTG	1	0	0	1	2	2	0	0	1	2	0	1
-TCT	2	3	5	3	0	5	5	0	2	5	5	5
-TCC	8	7	9	5	1	3	3	2	3	8	19	9
-TCA	9	10	14	6	4	3	7	2	3	16	18	7
-TCG	1	0	0	0	0	1	0	0	0	0	1	0
-TAT	10	4	13	6	1	1	7	2	0	9	11	5
-TAC	4	5	7	5	2	1	3	2	2	10	4	9
-TGT	1	1	0	0	0	0	0	0	3	3	2	1
-TGC	1	1	1	3	0	0	2	1	0	1	3	3
-TGA	8	10	15	5	2	3	11	4	0	13	10	11
-TGG	1	0	2	0	1	0	1	0	0	0	2	1
-CTT	13	7	11	10	1	7	8	9	3	17	14	9
-CTC	11	11	6	4	1	4	8	6	2	17	14	13
-CTA	22	31	23	12	5	17	12	10	9	28	46	25
-CTG	1	0	1	2	1	2	1	0	1	6	2	3
-CCT	2	2	9	2	3	7	5	4	1	4	4	3
-CCC	8	9	8	4	2	3	3	1	1	7	10	8
-CCA	11	8	10	7	0	4	2	3	0	9	8	10
-CCG	0	0	2	2	0	0	0	0	0	0	2	1
-CAT	0	1	9	2	0	2	7	0	1	5	8	2
-CAC	3	2	9	5	1	5	10	0	1	5	8	9
-CAA	6	13	6	6	4	6	7	3	2	10	17	5
-CAG	0	0	0	0	0	2	0	0	0	0	2	1
-CGT	0	0	1	1	0	0	0	0	0	1	1	1
-CGC	0	0	2	3	0	2	1	1	0	1	3	2
-CGA	8	2	5	2	0	3	4	0	1	7	4	5
-CGG	0	1	0	0	0	0	0	0	0	0	0	0
-ATT	14	23	20	11	5	21	11	3	5	27	25	23
-ATC	8	17	16	7	1	12	3	4	4	16	30	18
-ATA	17	29	30	11	1	7	10	2	5	28	35	13
-ATG	1	3	3	3	1	2	2	1	3	7	4	1
-ACT	4	6	13	8	2	6	4	2	1	6	7	2
-ACC	11	16	7	2	1	8	9	0	4	14	16	8
-ACA	13	20	13	6	5	8	11	6	2	19	29	16
-ACG	1	0	2	1	1	0	1	0	0	0	0	0
-AAT	6	6	8	4	2	6	6	1	3	12	17	6
-AAC	6	14	8	0	1	3	1	3	2	10	20	12
-AAA	7	11	9	4	6	4	2	4	0	11	18	8
-AAG	0	1	0	0	0	1	0	0	0	2	1	2
-AGT	2	1	0	2	0	0	3	0	1	3	0	1
-AGC	0	1	3	2	1	4	0	1	0	8	10	3
-GTT	3	2	10	5	1	2	3	2	1	3	5	1
-GTC	2	1	6	1	0	1	4	1	1	2	4	3
-GTA	6	2	20	6	0	6	5	3	2	7	6	9
-GTG	1	0	3	1	0	0	2	1	0	2	0	0
-GCT	6	4	12	6	0	4	3	0	2	5	6	5
-GCC	11	9	13	3	0	7	11	6	4	8	17	11
-GCA	10	5	16	1	0	4	2	5	1	13	16	10
-GCG	1	0	1	0	0	1	0	0	1	0	0	0
-GAT	0	0	11	5	0	0	3	0	0	0	6	2
-GAC	3	0	5	5	2	1	1	2	1	4	5	9
-GAA	11	5	7	13	1	3	8	6	2	7	11	5
-GAG	0	0	3	3	0	0	0	0	0	2	0	1
-GGT	5	3	10	1	0	1	9	1	1	4	2	7
-GGC	3	5	12	3	0	4	6	2	3	4	9	5
-GGA	4	5	17	3	0	4	5	0	0	11	13	8
-GGG	0	2	8	1	0	1	1	1	0	0	4	4
-TAA	0	0	0	1	0	1	0	1	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008378982.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	9	8	14	1	2	8	9	1	10	4	1	1	8	1	13	11	22	1	2	8	11	0	0	3	6	0	0	0	8	0	14	8	17	1	4	11	13	1	6	6	7	0	2	0	3	2	6	1	6	11	10	1	0	3	11	0	5	3	4	0	0	0	0	0
+1	ND2	YP_008378983.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	9	3	16	0	3	7	10	0	4	5	1	1	10	0	7	11	31	0	2	9	8	0	1	2	13	0	0	0	2	1	23	17	29	3	6	16	20	0	6	14	11	1	1	1	2	1	2	0	4	9	5	0	0	0	5	0	3	5	5	2	0	0	0	0
+2	COX1	YP_008378984.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	25	17	17	0	5	9	14	0	13	7	0	1	15	2	11	6	23	1	9	8	10	2	9	9	6	0	1	2	5	0	20	16	30	3	13	7	13	2	8	8	9	0	0	3	10	6	20	3	12	13	16	1	11	5	7	3	10	12	17	8	0	1	0	0
+3	COX2	YP_008378985.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	4	2	7	1	3	5	6	0	6	5	0	3	5	0	10	4	12	2	2	4	7	2	2	5	6	0	1	3	2	0	11	7	11	3	8	2	6	1	4	0	4	0	2	2	5	1	6	1	6	3	1	0	5	5	13	3	1	3	3	1	1	0	0	0
+4	ATP8	YP_008378986.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	0	3	2	2	0	1	4	0	1	2	0	0	2	1	1	1	5	1	3	2	0	0	0	1	4	0	0	0	0	0	5	1	1	1	2	1	5	1	2	1	6	0	0	1	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0
+5	ATP6	YP_008378987.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	5	7	10	2	5	3	3	1	1	1	0	0	3	0	7	4	17	2	7	3	4	0	2	5	6	2	0	2	3	0	21	12	7	2	6	8	8	0	6	3	4	1	0	4	2	1	6	0	4	7	4	1	0	1	3	0	1	4	4	1	1	0	0	0
+6	COX3	YP_008378988.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	11	14	3	0	5	3	7	0	7	3	0	2	11	1	8	8	12	1	5	3	2	0	7	10	7	0	0	1	4	0	11	3	10	2	4	9	11	1	6	1	2	0	3	0	3	4	5	2	3	11	2	0	3	1	8	0	9	6	5	1	0	0	0	0
+7	ND3	YP_008378989.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	5	2	1	0	0	2	2	0	2	2	0	1	4	0	9	6	10	0	4	1	3	0	0	0	3	0	0	1	0	0	3	4	2	1	2	0	6	0	1	3	4	0	0	1	2	1	3	1	0	6	5	0	0	2	6	0	1	2	0	1	1	0	0	0
+8	ND4L	YP_008378990.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	1	5	7	1	2	3	3	0	0	2	3	0	0	0	3	2	9	1	1	1	0	0	1	1	2	0	0	0	1	0	5	4	5	3	1	4	2	0	3	2	0	0	1	0	1	1	2	0	2	4	1	1	0	1	2	0	1	3	0	0	1	0	0	0
+9	ND4	YP_008378991.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	8	11	21	2	5	8	16	0	9	10	3	1	13	0	17	17	28	6	4	7	9	0	5	5	10	0	1	1	7	0	27	16	28	7	6	14	19	0	12	10	11	2	3	8	3	2	7	2	5	8	13	0	0	4	7	2	4	4	11	0	0	0	0	0
+10	ND5	YP_008378992.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	17	28	24	0	5	19	18	1	11	4	2	3	10	2	14	14	46	2	4	10	8	2	8	8	17	2	1	3	4	0	25	30	35	4	7	16	29	0	17	20	18	1	0	10	5	4	6	0	6	17	16	0	6	5	11	0	2	9	13	4	1	0	0	0
+11	CYTB	YP_008378994.1	Eulemur rufus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lemuridae, Eulemur	9	19	9	1	5	9	7	0	5	9	1	3	11	1	9	13	25	3	3	8	10	1	2	9	5	1	1	2	5	0	23	18	13	1	2	8	16	0	6	12	8	2	1	3	1	3	9	0	5	11	10	0	2	9	5	1	7	5	8	4	0	0	1	0

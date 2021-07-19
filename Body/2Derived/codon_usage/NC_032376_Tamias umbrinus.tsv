@@ -1,65 +1,13 @@
-	YP_009332101.1|ND1	YP_009332102.1|ND2	YP_009332103.1|COX1	YP_009332104.1|COX2	YP_009332105.1|ATP8	YP_009332106.1|ATP6	YP_009332107.1|COX3	YP_009332108.1|ND3	YP_009332109.1|ND4L	YP_009332110.1|ND4	YP_009332111.1|ND5	YP_009332113.1|CYTB
-TTT	11	8	19	6	2	7	13	4	3	10	19	12
-TTC	10	8	23	1	1	6	9	4	2	11	30	17
-TTA	19	11	18	15	1	13	9	9	10	22	15	11
-TTG	0	2	0	0	1	0	0	0	0	1	0	0
-TCT	3	7	9	2	1	1	3	0	2	10	15	5
-TCC	4	8	5	6	1	4	2	2	0	8	6	10
-TCA	12	16	11	9	4	6	12	5	7	17	25	6
-TCG	0	0	1	0	0	0	0	0	0	1	1	0
-TAT	6	3	11	8	1	1	7	2	2	11	12	6
-TAC	3	5	8	2	1	1	3	1	2	7	6	10
-TGT	1	0	0	2	0	0	1	0	2	0	1	1
-TGC	1	0	1	0	0	0	1	1	2	3	4	3
-TGA	9	9	16	4	3	3	11	4	0	12	11	12
-TGG	0	1	1	1	0	0	1	0	0	0	1	0
-CTT	4	7	10	4	2	10	9	3	4	12	19	15
-CTC	7	7	9	6	2	8	3	4	2	8	11	12
-CTA	29	31	19	9	3	10	15	9	7	35	45	20
-CTG	0	0	3	1	1	0	0	0	0	3	3	0
-CCT	4	3	13	4	3	4	2	2	1	6	5	2
-CCC	10	6	2	2	1	5	4	2	1	7	7	5
-CCA	8	12	9	7	2	5	4	2	0	7	13	14
-CCG	0	0	4	1	0	0	0	0	0	1	0	1
-CAT	0	1	11	4	1	2	6	0	0	5	2	4
-CAC	3	2	7	4	1	5	10	0	2	6	10	8
-CAA	7	8	6	5	4	9	7	2	2	11	16	6
-CAG	0	0	0	0	0	0	0	1	0	0	0	0
-CGT	0	0	3	1	0	0	3	0	0	2	2	2
-CGC	2	0	0	0	0	1	0	1	0	1	3	1
-CGA	5	3	5	5	0	4	2	0	1	7	4	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	21	23	30	11	4	22	11	6	5	32	35	23
-ATC	5	21	9	8	3	5	4	6	4	21	23	19
-ATA	20	25	30	11	3	12	8	5	7	31	40	14
-ATG	1	1	2	2	1	3	1	0	1	2	2	2
-ACT	10	6	11	4	0	5	1	2	1	6	14	7
-ACC	5	15	7	3	1	6	6	2	2	10	8	7
-ACA	12	15	20	9	3	8	15	2	1	25	24	11
-ACG	0	1	0	1	1	1	0	0	0	0	2	0
-AAT	6	8	10	4	0	7	7	4	1	7	10	5
-AAC	6	14	6	2	3	4	3	1	4	12	26	10
-AAA	8	11	9	4	6	4	2	3	0	12	21	8
-AAG	0	0	0	0	0	0	0	1	0	1	1	2
-AGT	0	0	0	0	0	0	0	1	0	0	1	0
-AGC	2	5	3	5	0	3	4	0	0	8	9	3
-GTT	4	3	14	3	0	2	2	0	2	1	5	5
-GTC	2	0	4	2	0	2	4	1	0	3	5	6
-GTA	4	4	19	6	0	6	9	2	3	6	7	7
-GTG	1	1	0	0	0	0	0	0	1	0	0	0
-GCT	7	2	14	4	1	3	4	2	1	11	12	5
-GCC	6	6	6	3	1	6	6	3	2	10	11	9
-GCA	14	7	20	1	0	7	5	3	4	7	14	6
-GCG	1	0	2	0	0	0	1	1	0	0	0	1
-GAT	1	0	11	4	1	1	2	0	0	2	3	6
-GAC	2	1	5	8	1	0	1	2	1	2	7	5
-GAA	10	5	9	15	2	3	8	6	2	7	10	4
-GAG	0	0	1	0	0	0	0	0	0	1	1	2
-GGT	1	1	9	1	0	4	0	0	1	1	2	3
-GGC	5	4	7	1	0	1	7	3	1	2	7	6
-GGA	4	10	29	5	0	6	13	1	2	15	18	15
-GGG	2	0	2	1	0	0	0	0	0	0	1	0
-TAA	0	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009332101.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	11	10	19	0	3	4	12	0	6	3	1	1	9	0	4	7	29	0	4	10	8	0	0	3	7	0	0	2	5	0	21	5	20	1	10	5	12	0	6	6	8	0	0	2	4	2	4	1	7	6	14	1	1	2	10	0	1	5	4	2	0	0	0	0
+1	ND2	YP_009332102.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	8	8	11	2	7	8	16	0	3	5	0	0	9	1	7	7	31	0	3	6	12	0	1	2	8	0	0	0	3	0	23	21	25	1	6	15	15	1	8	14	11	0	0	5	3	0	4	1	2	6	7	0	0	1	5	0	1	4	10	0	0	0	0	0
+2	COX1	YP_009332103.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	19	23	18	0	9	5	11	1	11	8	0	1	16	1	10	9	19	3	13	2	9	4	11	7	6	0	3	0	5	0	30	9	30	2	11	7	20	0	10	6	9	0	0	3	14	4	19	0	14	6	20	2	11	5	9	1	9	7	29	2	0	1	0	0
+3	COX2	YP_009332104.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	6	1	15	0	2	6	9	0	8	2	2	0	4	1	4	6	9	1	4	2	7	1	4	4	5	0	1	0	5	0	11	8	11	2	4	3	9	1	4	2	4	0	0	5	3	2	6	0	4	3	1	0	4	8	15	0	1	1	5	1	1	0	0	0
+4	ATP8	YP_009332105.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	2	1	1	1	1	1	4	0	1	1	0	0	3	0	2	2	3	1	3	1	2	0	1	1	4	0	0	0	0	0	4	3	3	1	0	1	3	1	0	3	6	0	0	0	0	0	0	0	1	1	0	0	1	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009332106.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	7	6	13	0	1	4	6	0	1	1	0	0	3	0	10	8	10	0	4	5	5	0	2	5	9	0	0	1	4	0	22	5	12	3	5	6	8	1	7	4	4	0	0	3	2	2	6	0	3	6	7	0	1	0	3	0	4	1	6	0	1	0	0	0
+6	COX3	YP_009332107.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	13	9	9	0	3	2	12	0	7	3	1	1	11	1	9	3	15	0	2	4	4	0	6	10	7	0	3	0	2	0	11	4	8	1	1	6	15	0	7	3	2	0	0	4	2	4	9	0	4	6	5	1	2	1	8	0	0	7	13	0	0	0	0	0
+7	ND3	YP_009332108.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	4	4	9	0	0	2	5	0	2	1	0	1	4	0	3	4	9	0	2	2	2	0	0	0	2	1	0	1	0	0	6	6	5	0	2	2	2	0	4	1	3	1	1	0	0	1	2	0	2	3	3	1	0	2	6	0	0	3	1	0	0	0	0	0
+8	ND4L	YP_009332109.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	3	2	10	0	2	0	7	0	2	2	2	2	0	0	4	2	7	0	1	1	0	0	0	2	2	0	0	0	1	0	5	4	7	1	1	2	1	0	1	4	0	0	0	0	2	0	3	1	1	2	4	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_009332110.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	10	11	22	1	10	8	17	1	11	7	0	3	12	0	12	8	35	3	6	7	7	1	5	6	11	0	2	1	7	0	32	21	31	2	6	10	25	0	7	12	12	1	0	8	1	3	6	0	11	10	7	0	2	2	7	1	1	2	15	0	0	0	0	0
+10	ND5	YP_009332111.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	19	30	15	0	15	6	25	1	12	6	1	4	11	1	19	11	45	3	5	7	13	0	2	10	16	0	2	3	4	0	35	23	40	2	14	8	24	2	10	26	21	1	1	9	5	5	7	0	12	11	14	0	3	7	10	1	2	7	18	1	1	0	0	0
+11	CYTB	YP_009332113.1	Tamias umbrinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Tamias	12	17	11	0	5	10	6	0	6	10	1	3	12	0	15	12	20	0	2	5	14	1	4	8	6	0	2	1	5	0	23	19	14	2	7	7	11	0	5	10	8	2	0	3	5	6	7	0	5	9	6	1	6	5	4	2	3	6	15	0	1	0	0	0

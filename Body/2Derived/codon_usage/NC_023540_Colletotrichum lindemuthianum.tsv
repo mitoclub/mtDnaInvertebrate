@@ -1,65 +1,17 @@
-	YP_009003969.1	YP_009003970.1	YP_009003971.1	YP_009003972.1|cox1	YP_009003973.1|cox3	YP_009003974.1|nad6	YP_009003975.1|rps3	YP_009003976.1|nad3	YP_009003977.1|atp9	YP_009003978.1|cox2	YP_009003979.1|nad4L	YP_009003980.1|nad5	YP_009003981.1|nad4	YP_009003982.1|atp8	YP_009003983.1|atp6	YP_009003984.1|nad1
-TTT	13	22	15	21	15	12	19	33	1	7	4	34	32	6	13	17
-TTC	18	1	2	15	10	5	3	11	5	6	1	24	14	1	10	13
-TTA	45	31	21	51	23	28	37	69	10	20	11	75	60	7	45	51
-TTG	0	4	2	1	1	5	4	4	1	2	1	2	4	0	1	2
-TCT	7	11	8	8	8	7	18	13	1	8	2	20	15	3	5	5
-TCC	2	0	0	0	0	0	1	0	0	0	1	3	0	0	0	2
-TCA	5	8	5	8	2	4	6	11	2	9	1	12	7	0	6	7
-TCG	1	0	1	0	0	2	2	1	0	2	0	2	1	0	0	0
-TAT	13	13	16	9	6	8	13	32	2	10	4	28	21	2	3	12
-TAC	11	2	5	11	6	0	4	4	0	5	0	9	5	1	5	7
-TGT	1	4	3	1	2	1	1	2	0	3	0	5	2	0	1	3
-TGC	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0
-TGA	7	2	3	12	9	2	5	5	0	6	0	7	3	0	1	8
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	4	2	2	5	8	0	2	7	1	1	2	8	5	2	2	7
-CTC	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	2	3	4	4	1	6	2	3	0	3	0	6	4	0	1	7
-CTG	1	0	0	0	0	0	3	0	0	0	0	1	1	0	0	1
-CCT	12	8	5	17	9	2	5	9	1	5	0	17	8	1	7	8
-CCC	1	1	3	3	0	2	1	0	0	0	0	1	0	0	0	1
-CCA	7	2	4	6	1	1	2	3	0	7	0	1	3	2	1	3
-CCG	0	1	1	0	0	0	2	1	0	1	0	0	0	0	0	1
-CAT	5	4	9	8	9	3	5	8	0	9	0	11	4	0	7	0
-CAC	4	0	3	4	4	0	0	1	0	1	0	2	1	0	1	1
-CAA	8	9	11	9	4	4	6	14	2	7	1	12	7	1	7	7
-CAG	0	0	1	0	0	0	2	0	0	1	0	0	0	0	0	0
-CGT	1	1	4	1	0	0	3	1	0	0	0	3	0	1	0	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	1	0	0	1	0	2	0	0	0	0	0	0	0	0
-CGG	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	15	13	13	10	8	9	26	2	9	4	24	12	3	8	13
-ATC	3	2	1	5	0	4	3	4	1	2	3	3	7	1	4	2
-ATA	23	15	9	22	17	19	26	51	4	15	15	45	31	2	22	19
-ATG	14	4	4	15	4	4	4	10	3	7	4	17	9	1	4	9
-ACT	8	8	13	6	7	4	6	17	0	6	2	16	12	2	10	12
-ACC	0	2	1	1	0	0	0	1	0	0	1	1	1	0	0	0
-ACA	10	7	4	17	12	7	6	17	4	2	0	20	17	1	4	6
-ACG	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
-AAT	12	24	24	10	5	15	40	31	1	6	3	23	15	1	12	12
-AAC	9	0	5	6	4	3	6	4	0	2	0	9	2	0	4	3
-AAA	10	20	25	10	3	7	54	18	1	5	2	20	12	1	6	7
-AAG	0	6	6	0	0	1	5	0	0	0	0	0	0	1	0	0
-AGT	10	7	7	19	10	11	15	20	0	4	2	25	13	1	7	14
-AGC	3	2	4	4	0	4	4	3	0	0	1	9	1	0	6	1
-AGA	9	5	8	8	4	1	13	8	2	6	3	5	8	2	3	7
-AGG	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-GTT	18	5	4	20	3	3	7	20	2	5	2	21	11	0	4	13
-GTC	1	2	2	0	0	0	0	0	0	0	0	2	1	0	0	0
-GTA	14	3	9	13	9	8	11	11	3	13	1	21	14	6	8	9
-GTG	0	0	2	2	4	2	1	1	1	0	0	3	1	0	2	5
-GCT	18	3	6	21	12	3	5	17	6	5	3	21	15	0	9	15
-GCC	0	0	2	4	1	3	4	3	2	1	1	2	2	0	3	7
-GCA	10	1	2	9	6	6	5	4	2	5	2	17	5	2	3	7
-GCG	0	0	1	0	0	2	5	0	1	1	0	2	1	0	0	3
-GAT	7	14	16	6	8	6	8	11	0	9	2	13	8	1	3	7
-GAC	2	0	3	5	0	1	1	2	0	3	0	1	3	0	2	0
-GAA	6	6	17	4	5	3	14	11	1	17	3	12	12	1	4	9
-GAG	2	2	2	1	1	2	1	1	0	0	0	2	0	0	1	4
-GGT	12	8	9	17	17	6	4	14	5	2	2	26	13	1	10	13
-GGC	0	0	1	0	0	0	1	1	0	0	0	0	0	0	1	0
-GGA	13	6	2	24	6	7	8	14	7	10	3	19	18	0	7	6
-GGG	0	0	2	4	3	1	1	1	0	0	2	2	0	0	0	1
-TAA	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009003969.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	13	18	45	0	7	2	5	1	13	11	1	0	7	0	4	0	2	1	12	1	7	0	5	4	8	0	1	0	0	0	9	3	23	14	8	0	10	0	12	9	10	0	10	3	9	0	18	1	14	0	18	0	10	0	7	2	6	2	12	0	13	0	1	0
+1	None	YP_009003970.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	22	1	31	4	11	0	8	0	13	2	4	0	2	0	2	0	3	0	8	1	2	1	4	0	9	0	1	0	0	1	15	2	15	4	8	2	7	0	24	0	20	6	7	2	5	1	5	2	3	0	3	0	1	0	14	0	6	2	8	0	6	0	1	0
+2	None	YP_009003971.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	15	2	21	2	8	0	5	1	16	5	3	1	3	0	2	1	4	0	5	3	4	1	9	3	11	1	4	0	1	1	13	1	9	4	13	1	4	0	24	5	25	6	7	4	8	0	4	2	9	2	6	2	2	1	16	3	17	2	9	1	2	2	1	0
+3	cox1	YP_009003972.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	21	15	51	1	8	0	8	0	9	11	1	0	12	0	5	0	4	0	17	3	6	0	8	4	9	0	1	0	0	0	13	5	22	15	6	1	17	0	10	6	10	0	19	4	8	0	20	0	13	2	21	4	9	0	6	5	4	1	17	0	24	4	0	1
+4	cox3	YP_009003973.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	15	10	23	1	8	0	2	0	6	6	2	0	9	0	8	0	1	0	9	0	1	0	9	4	4	0	0	0	0	0	10	0	17	4	7	0	12	0	5	4	3	0	10	0	4	0	3	0	9	4	12	1	6	0	8	0	5	1	17	0	6	3	1	0
+5	nad6	YP_009003974.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	12	5	28	5	7	0	4	2	8	0	1	0	2	0	0	0	6	0	2	2	1	0	3	0	4	0	0	0	1	0	8	4	19	4	4	0	7	0	15	3	7	1	11	4	1	1	3	0	8	2	3	3	6	2	6	1	3	2	6	0	7	1	0	1
+6	rps3	YP_009003975.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	19	3	37	4	18	1	6	2	13	4	1	1	5	0	2	0	2	3	5	1	2	2	5	0	6	2	3	0	0	0	9	3	26	4	6	0	6	0	40	6	54	5	15	4	13	0	7	0	11	1	5	4	5	5	8	1	14	1	4	1	8	1	1	0
+7	nad3	YP_009003976.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	33	11	69	4	13	0	11	1	32	4	2	0	5	0	7	0	3	0	9	0	3	1	8	1	14	0	1	0	2	0	26	4	51	10	17	1	17	0	31	4	18	0	20	3	8	0	20	0	11	1	17	3	4	0	11	2	11	1	14	1	14	1	1	0
+8	atp9	YP_009003977.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	1	5	10	1	1	0	2	0	2	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	2	1	4	3	0	0	4	0	1	0	1	0	0	0	2	0	2	0	3	1	6	2	2	1	0	0	1	0	5	0	7	0	1	0
+9	cox2	YP_009003978.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	7	6	20	2	8	0	9	2	10	5	3	0	6	0	1	0	3	0	5	0	7	1	9	1	7	1	0	0	0	0	9	2	15	7	6	0	2	0	6	2	5	0	4	0	6	0	5	0	13	0	5	1	5	1	9	3	17	0	2	0	10	0	1	0
+10	nad4L	YP_009003979.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	4	1	11	1	2	1	1	0	4	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	4	3	15	4	2	1	0	0	3	0	2	0	2	1	3	0	2	0	1	0	3	1	2	0	2	0	3	0	2	0	3	2	1	0
+11	nad5	YP_009003980.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	34	24	75	2	20	3	12	2	28	9	5	0	7	0	8	0	6	1	17	1	1	0	11	2	12	0	3	0	0	0	24	3	45	17	16	1	20	1	23	9	20	0	25	9	5	0	21	2	21	3	21	2	17	2	13	1	12	2	26	0	19	2	1	0
+12	nad4	YP_009003981.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	32	14	60	4	15	0	7	1	21	5	2	1	3	0	5	0	4	1	8	0	3	0	4	1	7	0	0	0	0	0	12	7	31	9	12	1	17	1	15	2	12	0	13	1	8	0	11	1	14	1	15	2	5	1	8	3	12	0	13	0	18	0	1	0
+13	atp8	YP_009003982.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	6	1	7	0	3	0	0	0	2	1	0	0	0	0	2	0	0	0	1	0	2	0	0	0	1	0	1	0	0	0	3	1	2	1	2	0	1	0	1	0	1	1	1	0	2	0	0	0	6	0	0	0	2	0	1	0	1	0	1	0	0	0	1	0
+14	atp6	YP_009003983.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	13	10	45	1	5	0	6	0	3	5	1	0	1	0	2	0	1	0	7	0	1	0	7	1	7	0	0	0	0	0	8	4	22	4	10	0	4	0	12	4	6	0	7	6	3	0	4	0	8	2	9	3	3	0	3	2	4	1	10	1	7	0	1	0
+15	nad1	YP_009003984.1	Colletotrichum lindemuthianum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum	17	13	51	2	5	2	7	0	12	7	3	0	8	0	7	0	7	1	8	1	3	1	0	1	7	0	1	0	0	0	13	2	19	9	12	0	6	0	12	3	7	0	14	1	7	0	13	0	9	5	15	7	7	3	7	0	9	4	13	0	6	1	1	0

@@ -1,65 +1,13 @@
-	YP_009471322.1|ORF1	YP_009471324.1|nad4	YP_009471325.1|rps3	YP_009471326.1|cob	YP_009471327.1|cox2	YP_009471328.1|nad1	YP_009471329.1|atp6	YP_009471330.1|atp8	YP_009471331.1|cox3	YP_009471332.1|nad4L	YP_009471333.1|nad5	YP_009471334.1|cox1
-TTT	26	36	15	30	10	23	13	8	18	5	43	23
-TTC	5	6	0	6	3	6	3	0	5	0	4	15
-TTA	29	47	30	38	20	37	18	6	17	11	52	34
-TTG	9	11	7	5	2	9	2	0	4	1	11	3
-TCT	23	16	15	7	2	9	5	0	6	1	16	8
-TCC	1	5	2	1	2	4	1	0	1	1	4	1
-TCA	7	12	6	10	7	5	3	1	8	2	14	9
-TCG	1	3	2	0	0	1	0	0	0	0	4	0
-TAT	14	24	27	10	10	17	6	2	6	4	25	13
-TAC	8	6	3	5	2	3	1	1	4	0	8	8
-TGT	8	6	1	1	4	2	1	0	3	0	10	0
-TGC	2	0	0	0	1	2	0	0	0	0	4	2
-TGA	11	2	4	6	5	2	2	0	3	0	6	11
-TGG	4	1	1	1	1	1	0	0	1	0	6	5
-CTT	13	9	15	7	1	11	4	1	7	4	13	11
-CTC	0	0	1	0	0	0	1	0	0	0	0	0
-CTA	8	15	11	2	6	9	3	0	3	0	8	18
-CTG	6	1	0	1	0	1	3	0	1	0	1	2
-CCT	13	11	5	12	8	8	7	1	4	0	13	15
-CCC	5	0	2	1	0	2	0	0	3	0	5	0
-CCA	11	2	2	6	5	4	0	2	2	0	0	5
-CCG	2	0	0	2	1	1	1	0	1	0	0	3
-CAT	8	4	2	8	5	1	2	0	7	0	9	10
-CAC	3	2	1	2	3	0	1	0	1	0	3	6
-CAA	17	6	8	7	7	5	6	2	3	1	12	13
-CAG	7	2	1	0	1	1	0	0	3	0	5	1
-CGT	2	3	6	1	0	1	0	1	0	0	5	2
-CGC	0	1	0	0	0	0	0	1	0	0	0	0
-CGA	2	0	2	0	0	0	0	0	0	0	4	0
-CGG	2	0	0	0	0	0	0	0	0	0	0	0
-ATT	14	22	12	7	9	12	7	2	9	3	16	13
-ATC	6	6	0	3	2	5	3	0	1	3	9	5
-ATA	16	29	22	29	16	26	15	5	9	13	43	21
-ATG	9	7	4	15	6	9	2	2	7	3	19	14
-ACT	18	11	8	4	3	7	5	2	5	1	16	2
-ACC	4	4	3	1	0	3	1	0	1	0	4	0
-ACA	11	16	9	10	5	7	5	1	12	1	16	16
-ACG	2	2	3	0	1	2	0	0	1	0	3	5
-AAT	25	12	37	11	6	5	7	2	5	1	29	8
-AAC	13	7	8	9	2	1	8	0	5	1	13	9
-AAA	27	11	52	9	5	4	3	2	3	2	35	9
-AAG	9	1	11	2	1	4	0	0	1	0	12	4
-AGT	15	9	10	8	7	7	5	0	7	2	15	21
-AGC	13	4	4	2	1	4	3	0	0	1	6	3
-AGA	7	7	20	9	6	7	2	1	2	3	7	11
-AGG	4	2	9	0	1	0	2	0	2	0	5	1
-GTT	12	15	10	12	10	14	3	2	7	1	21	12
-GTC	7	2	1	4	0	2	1	0	0	0	3	2
-GTA	11	10	10	10	3	6	5	2	5	1	18	13
-GTG	2	7	3	2	4	3	0	0	1	1	6	6
-GCT	16	16	3	11	8	13	5	0	6	5	14	12
-GCC	5	4	2	5	3	4	4	1	6	0	6	8
-GCA	6	7	6	9	2	12	6	0	5	3	8	11
-GCG	3	0	1	3	0	0	1	0	0	0	2	3
-GAT	15	9	11	8	8	5	2	0	2	3	18	11
-GAC	14	2	3	1	6	3	0	0	2	0	4	3
-GAA	10	7	9	8	12	11	2	0	4	3	15	5
-GAG	12	3	6	2	4	4	3	0	2	0	5	1
-GGT	15	19	8	15	8	11	4	0	9	3	23	22
-GGC	6	1	0	0	0	0	2	0	3	1	2	0
-GGA	11	7	2	4	3	8	3	0	4	4	11	14
-GGG	7	3	1	4	1	0	0	0	1	0	4	5
-TAA	1	1	1	0	0	0	0	0	0	1	1	0
-TAG	0	0	0	0	1	1	1	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ORF1	YP_009471322.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	26	5	29	9	23	1	7	1	14	8	8	2	11	4	13	0	8	6	13	5	11	2	8	3	17	7	2	0	2	2	14	6	16	9	18	4	11	2	25	13	27	9	15	13	7	4	12	7	11	2	16	5	6	3	15	14	10	12	15	6	11	7	1	0
+1	nad4	YP_009471324.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	36	6	47	11	16	5	12	3	24	6	6	0	2	1	9	0	15	1	11	0	2	0	4	2	6	2	3	1	0	0	22	6	29	7	11	4	16	2	12	7	11	1	9	4	7	2	15	2	10	7	16	4	7	0	9	2	7	3	19	1	7	3	1	0
+2	rps3	YP_009471325.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	15	0	30	7	15	2	6	2	27	3	1	0	4	1	15	1	11	0	5	2	2	0	2	1	8	1	6	0	2	0	12	0	22	4	8	3	9	3	37	8	52	11	10	4	20	9	10	1	10	3	3	2	6	1	11	3	9	6	8	0	2	1	1	0
+3	cob	YP_009471326.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	30	6	38	5	7	1	10	0	10	5	1	0	6	1	7	0	2	1	12	1	6	2	8	2	7	0	1	0	0	0	7	3	29	15	4	1	10	0	11	9	9	2	8	2	9	0	12	4	10	2	11	5	9	3	8	1	8	2	15	0	4	4	0	0
+4	cox2	YP_009471327.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	10	3	20	2	2	2	7	0	10	2	4	1	5	1	1	0	6	0	8	0	5	1	5	3	7	1	0	0	0	0	9	2	16	6	3	0	5	1	6	2	5	1	7	1	6	1	10	0	3	4	8	3	2	0	8	6	12	4	8	0	3	1	0	1
+5	nad1	YP_009471328.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	23	6	37	9	9	4	5	1	17	3	2	2	2	1	11	0	9	1	8	2	4	1	1	0	5	1	1	0	0	0	12	5	26	9	7	3	7	2	5	1	4	4	7	4	7	0	14	2	6	3	13	4	12	0	5	3	11	4	11	0	8	0	0	1
+6	atp6	YP_009471329.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	13	3	18	2	5	1	3	0	6	1	1	0	2	0	4	1	3	3	7	0	0	1	2	1	6	0	0	0	0	0	7	3	15	2	5	1	5	0	7	8	3	0	5	3	2	2	3	1	5	0	5	4	6	1	2	0	2	3	4	2	3	0	0	1
+7	atp8	YP_009471330.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	8	0	6	0	0	0	1	0	2	1	0	0	0	0	1	0	0	0	1	0	2	0	0	0	2	0	1	1	0	0	2	0	5	2	2	0	1	0	2	0	2	0	0	0	1	0	2	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+8	cox3	YP_009471331.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	18	5	17	4	6	1	8	0	6	4	3	0	3	1	7	0	3	1	4	3	2	1	7	1	3	3	0	0	0	0	9	1	9	7	5	1	12	1	5	5	3	1	7	0	2	2	7	0	5	1	6	6	5	0	2	2	4	2	9	3	4	1	0	0
+9	nad4L	YP_009471332.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	5	0	11	1	1	1	2	0	4	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	13	3	1	0	1	0	1	1	2	0	2	1	3	0	1	0	1	1	5	0	3	0	3	0	3	0	3	1	4	0	1	0
+10	nad5	YP_009471333.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	43	4	52	11	16	4	14	4	25	8	10	4	6	6	13	0	8	1	13	5	0	0	9	3	12	5	5	0	4	0	16	9	43	19	16	4	16	3	29	13	35	12	15	6	7	5	21	3	18	6	14	6	8	2	18	4	15	5	23	2	11	4	1	0
+11	cox1	YP_009471334.1	Alectoria fallacina	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Alectoria	23	15	34	3	8	1	9	0	13	8	0	2	11	5	11	0	18	2	15	0	5	3	10	6	13	1	2	0	0	0	13	5	21	14	2	0	16	5	8	9	9	4	21	3	11	1	12	2	13	6	12	8	11	3	11	3	5	1	22	0	14	5	0	0

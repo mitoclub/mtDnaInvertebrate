@@ -1,65 +1,13 @@
-	YP_004464933.1|ND1	YP_004464934.1|ND2	YP_004464935.1|COX1	YP_004464936.1|COX2	YP_004464937.1|ATP8	YP_004464938.1|ATP6	YP_004464939.1|COX3	YP_004464940.1|ND3	YP_004464941.1|ND4L	YP_004464942.1|ND4	YP_004464943.1|ND5	YP_004464945.1|CYTB
-TTT	9	9	29	7	2	7	12	9	2	11	23	15
-TTC	8	1	13	4	1	5	10	1	3	5	14	16
-TTA	22	23	25	16	2	15	15	11	12	35	35	23
-TTG	1	1	1	0	0	0	0	0	0	2	1	1
-TCT	2	0	8	4	0	2	1	1	2	3	5	4
-TCC	3	4	2	3	0	1	3	2	3	8	7	2
-TCA	12	9	12	6	1	2	7	3	2	10	23	11
-TCG	0	0	0	0	0	0	0	0	0	0	2	0
-TAT	8	3	17	4	0	1	5	1	0	10	11	9
-TAC	3	3	1	4	0	3	5	1	0	3	9	5
-TGT	0	1	0	1	0	0	2	0	2	2	2	2
-TGC	0	0	1	2	0	0	0	1	1	3	6	1
-TGA	8	11	16	5	5	5	12	4	1	20	13	12
-TGG	0	0	1	0	0	0	0	1	0	0	1	0
-CTT	10	17	23	6	1	16	9	5	2	20	18	11
-CTC	4	3	1	2	1	5	1	1	5	10	7	4
-CTA	24	19	11	2	0	9	8	9	5	19	26	22
-CTG	0	2	2	2	0	2	0	0	1	1	2	2
-CCT	0	2	6	3	2	3	2	1	1	5	3	4
-CCC	7	2	3	5	3	3	2	2	1	6	9	2
-CCA	16	15	17	6	3	11	8	4	0	15	15	17
-CCG	1	1	2	0	0	0	0	0	0	0	0	0
-CAT	3	3	10	5	1	1	4	0	4	7	8	7
-CAC	1	4	8	3	1	2	12	1	1	5	6	5
-CAA	6	15	7	7	2	8	7	3	3	11	17	6
-CAG	1	0	1	0	1	1	1	0	0	1	0	0
-CGT	1	0	0	0	0	0	0	0	1	1	1	1
-CGC	1	0	2	3	0	0	2	0	0	2	2	0
-CGA	6	4	6	2	0	5	2	1	1	8	8	7
-CGG	1	0	0	1	0	0	1	1	0	0	0	0
-ATT	20	23	30	14	7	20	12	6	1	26	31	22
-ATC	5	5	8	7	1	4	4	1	0	12	27	10
-ATA	15	22	16	7	1	9	8	3	5	28	32	10
-ATG	1	3	7	2	1	3	1	1	2	4	2	3
-ACT	7	8	8	2	1	5	6	2	0	4	10	4
-ACC	4	21	8	5	2	5	2	1	2	13	14	5
-ACA	10	19	23	3	0	11	13	5	5	25	25	13
-ACG	0	1	0	0	0	0	1	0	0	1	1	0
-AAT	7	5	12	4	3	5	1	0	1	4	16	10
-AAC	4	5	4	2	3	4	0	3	2	10	10	9
-AAA	7	10	8	3	4	2	2	1	0	10	26	10
-AAG	0	0	0	2	0	0	0	0	0	0	0	0
-AGT	0	1	1	1	0	2	1	0	0	2	4	0
-AGC	2	7	4	2	0	2	2	0	3	2	9	1
-GTT	5	1	20	4	1	4	2	1	1	2	5	5
-GTC	2	1	2	6	0	2	5	1	0	3	2	4
-GTA	8	3	19	10	0	7	11	1	1	10	16	17
-GTG	2	0	3	0	0	1	1	1	0	2	1	1
-GCT	7	7	12	5	0	6	5	5	4	9	15	8
-GCC	6	13	12	5	1	4	10	1	3	13	15	6
-GCA	17	17	21	6	0	8	7	3	6	13	18	12
-GCG	1	0	1	0	0	1	0	0	0	0	0	0
-GAT	3	0	9	6	1	0	3	4	1	1	3	5
-GAC	3	3	6	6	1	1	3	0	0	3	8	5
-GAA	11	4	10	13	1	4	9	7	3	11	14	6
-GAG	0	0	0	3	0	0	0	0	0	0	0	0
-GGT	3	1	11	2	0	1	3	0	0	4	2	2
-GGC	4	3	5	0	0	1	4	2	1	7	3	4
-GGA	10	12	20	7	0	8	11	2	3	17	23	17
-GGG	2	1	11	0	0	0	3	2	1	1	1	2
-TAA	1	0	1	0	0	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004464933.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	9	8	22	1	2	3	12	0	8	3	0	0	8	0	10	4	24	0	0	7	16	1	3	1	6	1	1	1	6	1	20	5	15	1	7	4	10	0	7	4	7	0	0	2	5	2	8	2	7	6	17	1	3	3	11	0	3	4	10	2	1	0	0	0
+1	ND2	YP_004464934.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	9	1	23	1	0	4	9	0	3	3	1	0	11	0	17	3	19	2	2	2	15	1	3	4	15	0	0	0	4	0	23	5	22	3	8	21	19	1	5	5	10	0	1	7	1	1	3	0	7	13	17	0	0	3	4	0	1	3	12	1	0	0	0	0
+2	COX1	YP_004464935.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	29	13	25	1	8	2	12	0	17	1	0	1	16	1	23	1	11	2	6	3	17	2	10	8	7	1	0	2	6	0	30	8	16	7	8	8	23	0	12	4	8	0	1	4	20	2	19	3	12	12	21	1	9	6	10	0	11	5	20	11	1	0	0	0
+3	COX2	YP_004464936.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	7	4	16	0	4	3	6	0	4	4	1	2	5	0	6	2	2	2	3	5	6	0	5	3	7	0	0	3	2	1	14	7	7	2	2	5	3	0	4	2	3	2	1	2	4	6	10	0	5	5	6	0	6	6	13	3	2	0	7	0	0	0	0	0
+4	ATP8	YP_004464937.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	2	1	2	0	0	0	1	0	0	0	0	0	5	0	1	1	0	0	2	3	3	0	1	1	2	1	0	0	0	0	7	1	1	1	1	2	0	0	3	3	4	0	0	0	1	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_004464938.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	7	5	15	0	2	1	2	0	1	3	0	0	5	0	16	5	9	2	3	3	11	0	1	2	8	1	0	0	5	0	20	4	9	3	5	5	11	0	5	4	2	0	2	2	4	2	7	1	6	4	8	1	0	1	4	0	1	1	8	0	0	0	0	0
+6	COX3	YP_004464939.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	12	10	15	0	1	3	7	0	5	5	2	0	12	0	9	1	8	0	2	2	8	0	4	12	7	1	0	2	2	1	12	4	8	1	6	2	13	1	1	0	2	0	1	2	2	5	11	1	5	10	7	0	3	3	9	0	3	4	11	3	0	0	0	0
+7	ND3	YP_004464940.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	9	1	11	0	1	2	3	0	1	1	0	1	4	1	5	1	9	0	1	2	4	0	0	1	3	0	0	0	1	1	6	1	3	1	2	1	5	0	0	3	1	0	0	0	1	1	1	1	5	1	3	0	4	0	7	0	0	2	2	2	0	0	0	0
+8	ND4L	YP_004464941.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	2	3	12	0	2	3	2	0	0	0	2	1	1	0	2	5	5	1	1	1	0	0	4	1	3	0	1	0	1	0	1	0	5	2	0	2	5	0	1	2	0	0	0	3	1	0	1	0	4	3	6	0	1	0	3	0	0	1	3	1	1	0	0	0
+9	ND4	YP_004464942.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	11	5	35	2	3	8	10	0	10	3	2	3	20	0	20	10	19	1	5	6	15	0	7	5	11	1	1	2	8	0	26	12	28	4	4	13	25	1	4	10	10	0	2	2	2	3	10	2	9	13	13	0	1	3	11	0	4	7	17	1	0	0	0	0
+10	ND5	YP_004464943.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	23	14	35	1	5	7	23	2	11	9	2	6	13	1	18	7	26	2	3	9	15	0	8	6	17	0	1	2	8	0	31	27	32	2	10	14	25	1	16	10	26	0	4	9	5	2	16	1	15	15	18	0	3	8	14	0	2	3	23	1	1	0	0	0
+11	CYTB	YP_004464945.1	Danio dangila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	15	16	23	1	4	2	11	0	9	5	2	1	12	0	11	4	22	2	4	2	17	0	7	5	6	0	1	0	7	0	22	10	10	3	4	5	13	0	10	9	10	0	0	1	5	4	17	1	8	6	12	0	5	5	6	0	2	4	17	2	0	0	0	0

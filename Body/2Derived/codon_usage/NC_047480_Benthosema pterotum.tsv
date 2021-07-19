@@ -1,65 +1,13 @@
-	YP_009776984.1|ND1	YP_009776985.1|ND2	YP_009776986.1|COX1	YP_009776987.1|COX2	YP_009776988.1|ATP8	YP_009776989.1|ATP6	YP_009776990.1|COX3	YP_009776991.1|ND3	YP_009776992.1|ND4L	YP_009776993.1|ND4	YP_009776994.1|ND5	YP_009776996.1|CYTB
-TTT	9	3	11	4	1	4	3	5	4	6	13	8
-TTC	10	8	31	5	3	7	23	4	2	10	27	24
-TTA	0	5	3	6	1	9	3	0	2	12	15	2
-TTG	1	0	1	0	0	0	0	2	0	3	2	2
-TCT	9	3	5	2	1	1	1	1	0	4	4	5
-TCC	7	11	9	3	1	5	7	5	3	9	16	10
-TCA	3	10	6	4	1	1	4	1	2	11	9	6
-TCG	0	1	0	1	0	0	2	0	3	1	2	1
-TAT	8	2	9	3	0	1	0	0	0	5	0	4
-TAC	4	6	8	6	0	2	10	2	1	7	7	10
-TGT	0	0	0	0	0	0	0	0	1	2	3	0
-TGC	0	2	2	2	0	0	2	1	2	3	5	3
-TGA	7	11	17	5	4	5	11	5	1	18	12	13
-TGG	1	0	0	0	1	0	2	1	0	1	2	0
-CTT	17	17	17	5	1	14	5	5	2	23	24	15
-CTC	25	29	18	5	1	16	15	11	6	29	22	21
-CTA	12	17	18	8	3	15	9	8	10	23	25	12
-CTG	6	7	5	2	0	3	0	3	3	10	7	5
-CCT	6	2	5	2	2	3	2	2	2	4	3	3
-CCC	10	13	13	8	6	5	7	4	0	16	19	13
-CCA	7	7	9	4	1	5	3	1	0	7	8	5
-CCG	1	1	1	0	1	2	0	1	0	3	2	1
-CAT	0	1	5	0	0	3	3	1	1	2	4	4
-CAC	4	8	14	10	1	1	13	0	3	10	14	9
-CAA	4	9	7	7	2	6	8	2	2	11	17	7
-CAG	4	2	2	1	0	2	1	1	1	0	2	0
-CGT	3	0	0	0	0	2	1	0	0	2	2	1
-CGC	2	2	2	2	0	0	0	1	1	3	2	2
-CGA	2	0	7	2	0	4	3	0	2	4	5	4
-CGG	1	2	1	1	0	0	1	1	0	2	0	1
-ATT	7	14	15	11	1	10	3	2	1	14	27	15
-ATC	14	8	24	7	3	6	11	6	1	19	23	17
-ATA	7	11	11	8	1	6	5	1	2	14	23	6
-ATG	2	2	9	4	1	4	2	2	3	10	7	4
-ACT	1	2	10	2	0	6	1	0	0	2	10	1
-ACC	9	28	13	4	2	6	11	4	6	20	21	14
-ACA	8	15	17	6	1	6	10	0	2	11	21	10
-ACG	1	0	0	1	0	1	1	0	0	1	7	0
-AAT	3	1	4	3	1	2	1	0	0	3	5	3
-AAC	9	7	13	1	4	7	2	2	2	8	22	15
-AAA	6	7	8	3	2	2	2	1	0	8	17	6
-AAG	1	1	0	1	0	0	0	0	0	2	3	3
-AGT	0	2	0	1	0	0	0	0	0	1	4	0
-AGC	4	5	5	2	2	5	3	1	1	5	9	2
-GTT	2	0	9	4	0	3	7	1	0	2	6	7
-GTC	13	1	18	11	2	6	5	3	0	7	12	10
-GTA	7	2	13	6	0	3	3	0	1	4	11	4
-GTG	2	1	5	1	0	1	1	0	0	1	2	3
-GCT	4	1	8	2	0	1	4	3	2	4	4	6
-GCC	17	21	25	9	1	9	10	2	7	24	30	16
-GCA	10	13	13	4	0	8	6	4	4	12	17	7
-GCG	3	1	1	1	1	1	1	0	2	2	3	0
-GAT	0	0	3	4	0	0	0	0	0	1	3	3
-GAC	4	2	12	11	0	1	5	4	1	4	9	8
-GAA	10	5	7	12	1	4	9	6	2	9	9	5
-GAG	1	1	2	2	1	0	0	0	0	2	3	0
-GGT	2	1	7	2	0	4	3	0	1	4	2	2
-GGC	8	10	16	3	0	4	15	5	5	19	14	15
-GGA	5	6	14	4	0	1	4	1	1	5	14	9
-GGG	1	1	9	2	0	4	0	0	0	1	0	0
-TAA	1	0	0	0	1	1	1	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	1	0	0	1	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009776984.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	9	10	0	1	9	7	3	0	8	4	0	0	7	1	17	25	12	6	6	10	7	1	0	4	4	4	3	2	2	1	7	14	7	2	1	9	8	1	3	9	6	1	0	4	2	13	7	2	4	17	10	3	0	4	10	1	2	8	5	1	1	0	0	0
+1	ND2	YP_009776985.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	3	8	5	0	3	11	10	1	2	6	0	2	11	0	17	29	17	7	2	13	7	1	1	8	9	2	0	2	0	2	14	8	11	2	2	28	15	0	1	7	7	1	2	5	0	1	2	1	1	21	13	1	0	2	5	1	1	10	6	1	0	0	0	0
+2	COX1	YP_009776986.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	11	31	3	1	5	9	6	0	9	8	0	2	17	0	17	18	18	5	5	13	9	1	5	14	7	2	0	2	7	1	15	24	11	9	10	13	17	0	4	13	8	0	0	5	9	18	13	5	8	25	13	1	3	12	7	2	7	16	14	9	0	0	1	0
+3	COX2	YP_009776987.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	4	5	6	0	2	3	4	1	3	6	0	2	5	0	5	5	8	2	2	8	4	0	0	10	7	1	0	2	2	1	11	7	8	4	2	4	6	1	3	1	3	1	1	2	4	11	6	1	2	9	4	1	4	11	12	2	2	3	4	2	0	0	0	0
+4	ATP8	YP_009776988.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	1	3	1	0	1	1	1	0	0	0	0	0	4	1	1	1	3	0	2	6	1	1	0	1	2	0	0	0	0	0	1	3	1	1	0	2	1	0	1	4	2	0	0	2	0	2	0	0	0	1	0	1	0	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009776989.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	4	7	9	0	1	5	1	0	1	2	0	0	5	0	14	16	15	3	3	5	5	2	3	1	6	2	2	0	4	0	10	6	6	4	6	6	6	1	2	7	2	0	0	5	3	6	3	1	1	9	8	1	0	1	4	0	4	4	1	4	1	0	0	0
+6	COX3	YP_009776990.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	3	23	3	0	1	7	4	2	0	10	0	2	11	2	5	15	9	0	2	7	3	0	3	13	8	1	1	0	3	1	3	11	5	2	1	11	10	1	1	2	2	0	0	3	7	5	3	1	4	10	6	1	0	5	9	0	3	15	4	0	1	0	0	0
+7	ND3	YP_009776991.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	5	4	0	2	1	5	1	0	0	2	0	1	5	1	5	11	8	3	2	4	1	1	1	0	2	1	0	1	0	1	2	6	1	2	0	4	0	0	0	2	1	0	0	1	1	3	0	0	3	2	4	0	0	4	6	0	0	5	1	0	0	1	0	0
+8	ND4L	YP_009776992.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	4	2	2	0	0	3	2	3	0	1	1	2	1	0	2	6	10	3	2	0	0	0	1	3	2	1	0	1	2	0	1	1	2	3	0	6	2	0	0	2	0	0	0	1	0	0	1	0	2	7	4	2	0	1	2	0	1	5	1	0	1	0	0	0
+9	ND4	YP_009776993.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	6	10	12	3	4	9	11	1	5	7	2	3	18	1	23	29	23	10	4	16	7	3	2	10	11	0	2	3	4	2	14	19	14	10	2	20	11	1	3	8	8	2	1	5	2	7	4	1	4	24	12	2	1	4	9	2	4	19	5	1	0	0	0	0
+10	ND5	YP_009776994.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	13	27	15	2	4	16	9	2	0	7	3	5	12	2	24	22	25	7	3	19	8	2	4	14	17	2	2	2	5	0	27	23	23	7	10	21	21	7	5	22	17	3	4	9	6	12	11	2	4	30	17	3	3	9	9	3	2	14	14	0	0	1	0	0
+11	CYTB	YP_009776996.1	Benthosema pterotum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Myctophata, Myctophiformes, Myctophidae, Benthosema	8	24	2	2	5	10	6	1	4	10	0	3	13	0	15	21	12	5	3	13	5	1	4	9	7	0	1	2	4	1	15	17	6	4	1	14	10	0	3	15	6	3	0	2	7	10	4	3	6	16	7	0	3	8	5	0	2	15	9	0	0	0	0	0

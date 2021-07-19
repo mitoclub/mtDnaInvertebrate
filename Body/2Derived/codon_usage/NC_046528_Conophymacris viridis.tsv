@@ -1,65 +1,10 @@
-	YP_009740524.1|ND2	YP_009740525.1|COX1	YP_009740526.1|COX2	YP_009740527.1|ATP8	YP_009740528.1|ATP6	YP_009740529.1|COX3	YP_009740530.1|ND3	YP_009740534.1|ND6	YP_009740535.1|CYTB
-TTT	14	31	8	5	14	15	6	15	26
-TTC	9	7	4	3	3	11	3	3	5
-TTA	25	35	17	4	26	21	12	16	32
-TTG	4	2	0	0	2	0	1	0	1
-TCT	3	9	3	0	3	1	1	0	4
-TCC	4	2	1	0	3	0	1	1	1
-TCA	19	18	7	1	8	11	4	5	9
-TCG	2	1	0	0	0	0	0	0	0
-TAT	9	10	5	0	3	7	3	4	14
-TAC	2	6	2	0	1	4	0	0	4
-TGT	2	2	2	0	0	1	1	1	3
-TGC	0	0	0	0	0	0	0	0	1
-TGA	7	14	5	3	5	12	3	2	11
-TGG	3	1	1	0	0	2	0	0	1
-CTT	3	11	5	1	3	4	1	0	3
-CTC	3	2	3	0	0	0	0	0	1
-CTA	13	13	4	2	7	6	2	2	9
-CTG	3	0	0	0	0	1	0	0	0
-CCT	1	7	4	3	7	2	1	1	12
-CCC	2	1	0	0	1	0	1	0	0
-CCA	7	16	4	1	3	7	3	3	10
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	10	4	0	3	7	0	0	9
-CAC	2	5	2	0	3	5	0	1	2
-CAA	9	8	6	2	3	7	3	4	8
-CAG	1	1	0	0	0	0	0	1	0
-CGT	1	0	1	0	0	0	1	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	6	0	3	3	1	0	7
-CGG	0	1	0	0	0	0	0	0	1
-ATT	29	43	19	3	21	23	17	26	41
-ATC	11	9	8	1	2	1	6	0	6
-ATA	32	29	15	6	17	13	7	25	26
-ATG	6	5	1	0	1	1	0	1	2
-ACT	4	7	7	2	9	5	2	3	5
-ACC	3	0	1	0	1	1	1	0	2
-ACA	10	28	14	1	15	15	6	10	16
-ACG	2	0	0	0	0	0	0	0	0
-AAT	9	15	12	3	15	7	2	12	20
-AAC	10	5	1	1	2	2	0	2	4
-AAA	14	5	6	6	4	2	6	11	8
-AAG	0	2	0	1	0	0	0	0	1
-AGT	0	3	2	0	0	0	1	0	0
-AGC	0	0	0	1	0	1	0	0	0
-AGA	10	10	5	2	8	7	3	3	4
-AGG	1	0	0	0	0	0	0	0	0
-GTT	6	9	1	1	2	7	1	4	10
-GTC	0	1	1	0	0	0	0	0	0
-GTA	7	18	4	0	5	8	2	4	8
-GTG	2	1	0	0	0	0	0	1	1
-GCT	5	12	5	0	2	4	3	0	3
-GCC	1	5	0	0	0	1	1	1	1
-GCA	5	13	2	0	6	7	1	0	9
-GCG	0	1	0	0	0	0	0	0	1
-GAT	0	13	11	0	1	5	2	1	8
-GAC	0	2	1	0	0	0	1	1	0
-GAA	9	10	9	0	4	8	4	3	5
-GAG	1	0	0	0	0	0	0	0	0
-GGT	4	11	0	0	2	3	1	2	4
-GGC	0	0	0	0	0	0	0	0	0
-GGA	9	28	7	0	7	13	1	3	13
-GGG	1	6	1	0	0	2	1	0	6
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009740524.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	14	9	25	4	3	4	19	2	9	2	2	0	7	3	3	3	13	3	1	2	7	0	0	2	9	1	1	0	1	0	29	11	32	6	4	3	10	2	9	10	14	0	0	0	10	1	6	0	7	2	5	1	5	0	0	0	9	1	4	0	9	1	1	0
+1	COX1	YP_009740525.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	31	7	35	2	9	2	18	1	10	6	2	0	14	1	11	2	13	0	7	1	16	0	10	5	8	1	0	0	7	1	43	9	29	5	7	0	28	0	15	5	5	2	3	0	10	0	9	1	18	1	12	5	13	1	13	2	10	0	11	0	28	6	0	0
+2	COX2	YP_009740526.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	8	4	17	0	3	1	7	0	5	2	2	0	5	1	5	3	4	0	4	0	4	0	4	2	6	0	1	0	6	0	19	8	15	1	7	1	14	0	12	1	6	0	2	0	5	0	1	1	4	0	5	0	2	0	11	1	9	0	0	0	7	1	1	0
+3	ATP8	YP_009740527.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	5	3	4	0	0	0	1	0	0	0	0	0	3	0	1	0	2	0	3	0	1	0	0	0	2	0	0	0	0	0	3	1	6	0	2	0	1	0	3	1	6	1	0	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009740528.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	14	3	26	2	3	3	8	0	3	1	0	0	5	0	3	0	7	0	7	1	3	0	3	3	3	0	0	0	3	0	21	2	17	1	9	1	15	0	15	2	4	0	0	0	8	0	2	0	5	0	2	0	6	0	1	0	4	0	2	0	7	0	1	0
+5	COX3	YP_009740529.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	15	11	21	0	1	0	11	0	7	4	1	0	12	2	4	0	6	1	2	0	7	0	7	5	7	0	0	0	3	0	23	1	13	1	5	1	15	0	7	2	2	0	0	1	7	0	7	0	8	0	4	1	7	0	5	0	8	0	3	0	13	2	1	0
+6	ND3	YP_009740530.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	6	3	12	1	1	1	4	0	3	0	1	0	3	0	1	0	2	0	1	1	3	0	0	0	3	0	1	0	1	0	17	6	7	0	2	1	6	0	2	0	6	0	1	0	3	0	1	0	2	0	3	1	1	0	2	1	4	0	1	0	1	1	1	0
+7	ND6	YP_009740534.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	15	3	16	0	0	1	5	0	4	0	1	0	2	0	0	0	2	0	1	0	3	0	0	1	4	1	1	0	0	0	26	0	25	1	3	0	10	0	12	2	11	0	0	0	3	0	4	0	4	1	0	1	0	0	1	1	3	0	2	0	3	0	1	0
+8	CYTB	YP_009740535.1	Conophymacris viridis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Dericorythidae, Conophyminae, Conophymacris	26	5	32	1	4	1	9	0	14	4	3	1	11	1	3	1	9	0	12	0	10	0	9	2	8	0	0	0	7	1	41	6	26	2	5	2	16	0	20	4	8	1	0	0	4	0	10	0	8	1	3	1	9	1	8	0	5	0	4	0	13	6	1	0

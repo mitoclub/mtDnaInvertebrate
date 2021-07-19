@@ -1,65 +1,13 @@
-	YP_002332296.1|ND1	YP_002332297.1|ND2	YP_002332298.1|COX1	YP_002332299.1|COX2	YP_002332300.1|ATP8	YP_002332301.1|ATP6	YP_002332302.1|COX3	YP_002332303.1|ND3	YP_002332304.1|ND4L	YP_002332305.1|ND4	YP_002332306.1|ND5	YP_002332308.1|CYTB
-TTT	9	9	28	6	3	7	14	4	3	16	24	17
-TTC	8	2	9	2	0	2	10	3	2	7	12	8
-TTA	15	14	17	8	1	18	10	7	5	36	16	10
-TTG	0	0	6	0	0	1	1	0	0	1	4	0
-TCT	3	4	8	4	0	0	3	0	4	2	7	5
-TCC	5	10	7	3	1	1	3	5	1	8	9	10
-TCA	7	9	13	7	1	8	4	2	1	14	12	10
-TCG	1	0	1	0	0	0	1	0	0	1	0	0
-TAT	10	4	13	7	1	3	6	2	0	5	6	8
-TAC	2	4	7	1	1	1	4	0	0	7	3	7
-TGT	0	0	1	0	0	1	0	1	2	1	2	1
-TGC	1	1	1	3	0	0	1	0	1	2	4	1
-TGA	8	10	16	5	5	3	12	5	0	9	14	9
-TGG	1	1	1	0	0	0	0	0	0	0	0	3
-CTT	11	12	22	6	2	7	8	10	6	22	25	13
-CTC	10	3	3	2	1	6	4	0	3	16	26	19
-CTA	23	26	16	14	1	17	7	7	6	26	25	20
-CTG	0	3	1	0	0	0	3	1	2	2	1	2
-CCT	3	4	6	1	2	2	3	1	1	6	7	3
-CCC	7	4	10	3	4	2	5	1	0	8	9	6
-CCA	12	15	7	10	1	8	2	6	1	15	14	15
-CCG	1	0	3	0	0	1	1	0	0	0	0	0
-CAT	1	0	6	4	0	2	8	1	2	5	5	7
-CAC	4	8	12	8	2	1	8	0	2	7	11	7
-CAA	7	9	5	7	1	9	7	2	0	9	18	7
-CAG	1	0	3	0	1	0	2	0	0	0	0	0
-CGT	0	1	3	0	0	2	0	1	0	1	1	0
-CGC	2	0	0	1	0	3	1	0	0	3	2	4
-CGA	6	3	5	2	0	0	4	1	2	7	7	4
-CGG	0	0	0	1	0	0	0	0	0	1	0	0
-ATT	22	36	27	18	4	16	11	7	7	25	29	29
-ATC	8	10	11	6	1	7	5	4	0	15	19	14
-ATA	20	18	27	9	3	15	6	9	9	20	39	12
-ATG	2	1	3	2	1	2	2	1	1	5	3	3
-ACT	3	12	7	2	0	7	4	1	4	14	11	4
-ACC	8	17	12	2	4	11	5	4	5	20	26	11
-ACA	16	19	20	9	1	8	16	2	5	15	31	9
-ACG	0	0	1	1	0	0	0	0	1	0	0	0
-AAT	6	4	6	5	0	9	4	0	1	4	10	4
-AAC	4	6	10	3	5	3	2	2	1	15	23	15
-AAA	8	13	8	6	3	2	1	1	2	9	21	8
-AAG	0	0	0	0	0	0	1	0	0	1	2	1
-AGT	0	2	2	1	0	1	2	0	0	2	1	0
-AGC	2	3	2	3	0	2	1	1	2	5	5	0
-GTT	3	1	14	6	0	1	3	0	1	2	5	3
-GTC	3	0	7	2	0	3	1	0	0	3	7	5
-GTA	2	0	11	3	2	4	9	1	0	5	7	6
-GTG	0	0	4	2	0	1	1	1	0	0	0	0
-GCT	4	5	9	2	0	5	4	1	0	14	11	5
-GCC	12	12	17	4	1	6	12	4	6	12	26	8
-GCA	11	8	12	7	0	6	6	2	1	5	15	7
-GCG	0	0	1	1	0	0	0	0	0	0	0	0
-GAT	2	2	10	4	0	0	3	1	0	1	7	5
-GAC	2	1	5	5	0	0	2	3	1	2	4	3
-GAA	10	4	9	10	0	3	8	5	2	8	8	7
-GAG	1	0	1	3	0	1	0	0	0	2	2	0
-GGT	3	1	16	3	0	1	4	1	0	2	4	5
-GGC	3	5	15	3	0	1	8	3	3	10	14	13
-GGA	9	7	13	2	0	6	6	1	1	6	10	6
-GGG	0	1	4	0	0	0	2	0	1	1	3	1
-TAA	1	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002332296.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	9	8	15	0	3	5	7	1	10	2	0	1	8	1	11	10	23	0	3	7	12	1	1	4	7	1	0	2	6	0	22	8	20	2	3	8	16	0	6	4	8	0	0	2	3	3	2	0	4	12	11	0	2	2	10	1	3	3	9	0	1	0	0	0
+1	ND2	YP_002332297.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	9	2	14	0	4	10	9	0	4	4	0	1	10	1	12	3	26	3	4	4	15	0	0	8	9	0	1	0	3	0	36	10	18	1	12	17	19	0	4	6	13	0	2	3	1	0	0	0	5	12	8	0	2	1	4	0	1	5	7	1	0	0	0	0
+2	COX1	YP_002332298.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	28	9	17	6	8	7	13	1	13	7	1	1	16	1	22	3	16	1	6	10	7	3	6	12	5	3	3	0	5	0	27	11	27	3	7	12	20	1	6	10	8	0	2	2	14	7	11	4	9	17	12	1	10	5	9	1	16	15	13	4	0	0	0	1
+3	COX2	YP_002332299.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	6	2	8	0	4	3	7	0	7	1	0	3	5	0	6	2	14	0	1	3	10	0	4	8	7	0	0	1	2	1	18	6	9	2	2	2	9	1	5	3	6	0	1	3	6	2	3	2	2	4	7	1	4	5	10	3	3	3	2	0	0	0	0	0
+4	ATP8	YP_002332300.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	3	0	1	0	0	1	1	0	1	1	0	0	5	0	2	1	1	0	2	4	1	0	0	2	1	1	0	0	0	0	4	1	3	1	0	4	1	0	0	5	3	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002332301.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	7	2	18	1	0	1	8	0	3	1	1	0	3	0	7	6	17	0	2	2	8	1	2	1	9	0	2	3	0	0	16	7	15	2	7	11	8	0	9	3	2	0	1	2	1	3	4	1	5	6	6	0	0	0	3	1	1	1	6	0	1	0	0	0
+6	COX3	YP_002332302.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	14	10	10	1	3	3	4	1	6	4	0	1	12	0	8	4	7	3	3	5	2	1	8	8	7	2	0	1	4	0	11	5	6	2	4	5	16	0	4	2	1	1	2	1	3	1	9	1	4	12	6	0	3	2	8	0	4	8	6	2	0	0	0	0
+7	ND3	YP_002332303.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	4	3	7	0	0	5	2	0	2	0	1	0	5	0	10	0	7	1	1	1	6	0	1	0	2	0	1	0	1	0	7	4	9	1	1	4	2	0	0	2	1	0	0	1	0	0	1	1	1	4	2	0	1	3	5	0	1	3	1	0	0	0	0	0
+8	ND4L	YP_002332304.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	3	2	5	0	4	1	1	0	0	0	2	1	0	0	6	3	6	2	1	0	1	0	2	2	0	0	0	0	2	0	7	0	9	1	4	5	5	1	1	1	2	0	0	2	1	0	0	0	0	6	1	0	0	1	2	0	0	3	1	1	1	0	0	0
+9	ND4	YP_002332305.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	16	7	36	1	2	8	14	1	5	7	1	2	9	0	22	16	26	2	6	8	15	0	5	7	9	0	1	3	7	1	25	15	20	5	14	20	15	0	4	15	9	1	2	5	2	3	5	0	14	12	5	0	1	2	8	2	2	10	6	1	0	0	0	0
+10	ND5	YP_002332306.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	24	12	16	4	7	9	12	0	6	3	2	4	14	0	25	26	25	1	7	9	14	0	5	11	18	0	1	2	7	0	29	19	39	3	11	26	31	0	10	23	21	2	1	5	5	7	7	0	11	26	15	0	7	4	8	2	4	14	10	3	1	0	0	0
+11	CYTB	YP_002332308.1	Podarcis siculus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Podarcis	17	8	10	0	5	10	10	0	8	7	1	1	9	3	13	19	20	2	3	6	15	0	7	7	7	0	0	4	4	0	29	14	12	3	4	11	9	0	4	15	8	1	0	0	3	5	6	0	5	8	7	0	5	3	7	0	5	13	6	1	0	1	0	0

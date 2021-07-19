@@ -1,65 +1,13 @@
-	YP_004347875.1|ND1	YP_004347876.1|ND2	YP_004347877.1|COX1	YP_004347878.1|COX2	YP_004347879.1|ATP8	YP_004347880.1|ATP6	YP_004347881.1|COX3	YP_004347882.1|ND3	YP_004347883.1|ND4L	YP_004347884.1|ND4	YP_004347885.1|ND5	YP_004347887.1|CYTB
-TTT	12	5	26	8	2	11	11	6	6	8	17	13
-TTC	6	2	16	1	2	2	12	4	2	8	21	17
-TTA	4	12	6	5	0	11	4	6	4	20	13	12
-TTG	3	5	1	2	0	0	2	2	2	5	3	2
-TCT	5	2	7	3	1	1	2	1	2	6	6	6
-TCC	3	6	4	4	0	1	5	3	1	10	6	2
-TCA	11	4	14	4	1	1	4	2	3	6	13	11
-TCG	1	2	1	2	0	0	0	0	0	1	2	1
-TAT	10	4	10	6	0	1	6	1	0	8	5	7
-TAC	3	4	8	3	0	2	5	1	0	6	6	8
-TGT	0	1	1	1	0	0	1	1	1	3	1	1
-TGC	0	0	0	1	0	0	1	0	2	2	5	2
-TGA	7	10	17	5	5	4	10	5	1	16	8	11
-TGG	1	1	0	0	0	1	2	0	0	4	5	1
-CTT	12	15	20	7	0	10	9	4	5	20	27	11
-CTC	8	12	11	2	4	4	4	8	4	16	12	11
-CTA	29	20	19	12	2	15	14	5	7	23	41	26
-CTG	5	8	5	0	0	7	0	1	1	4	6	1
-CCT	5	10	1	1	0	4	2	4	0	3	7	4
-CCC	9	7	10	6	2	3	2	2	1	13	10	5
-CCA	7	2	12	4	4	9	7	1	1	9	8	11
-CCG	3	0	5	3	0	2	1	1	0	2	6	1
-CAT	1	0	3	2	0	1	3	0	2	6	9	3
-CAC	4	7	15	8	2	2	13	0	2	6	6	9
-CAA	6	10	8	8	1	7	6	3	3	12	16	6
-CAG	1	4	0	0	0	1	3	0	0	0	2	1
-CGT	1	0	2	1	0	1	1	0	0	2	2	1
-CGC	1	1	1	1	0	1	3	0	3	2	2	1
-CGA	4	3	3	3	0	4	1	2	0	3	5	5
-CGG	2	0	2	1	0	0	0	0	0	4	1	1
-ATT	16	18	33	14	2	17	13	6	1	27	25	19
-ATC	5	9	4	3	3	5	2	1	0	15	22	8
-ATA	11	11	16	8	1	10	7	2	3	22	24	7
-ATG	4	5	8	4	1	2	2	2	2	6	9	5
-ACT	2	5	5	3	1	5	3	2	1	4	10	3
-ACC	6	19	9	2	1	4	7	3	2	17	24	11
-ACA	9	20	18	5	1	11	10	2	5	16	19	9
-ACG	0	3	2	1	1	0	1	1	1	2	3	1
-AAT	6	4	10	4	1	8	0	0	2	3	14	4
-AAC	6	3	6	0	3	2	1	3	0	6	13	13
-AAA	5	7	8	4	2	1	2	1	0	8	22	7
-AAG	2	2	0	0	1	0	0	0	0	3	1	2
-AGT	1	2	0	1	1	1	1	0	0	4	3	1
-AGC	2	5	4	3	0	3	2	0	4	4	8	1
-GTT	1	5	12	6	2	1	5	1	1	2	9	2
-GTC	3	2	5	5	0	5	3	0	0	2	6	6
-GTA	12	1	20	8	1	10	7	2	2	12	12	15
-GTG	3	3	8	2	0	1	2	0	0	1	5	2
-GCT	2	4	7	3	0	3	3	1	2	5	3	2
-GCC	12	19	26	8	0	9	9	4	5	12	27	11
-GCA	14	17	15	4	1	8	8	5	3	15	23	16
-GCG	4	2	1	1	0	0	2	0	2	4	2	1
-GAT	2	2	2	7	0	0	3	1	0	2	7	4
-GAC	2	2	13	6	0	1	2	3	1	1	7	7
-GAA	6	3	8	15	4	4	8	3	1	7	8	5
-GAG	5	1	3	0	0	0	2	3	2	4	2	1
-GGT	2	1	8	4	1	4	1	1	0	6	1	7
-GGC	5	6	10	1	0	3	10	1	2	7	16	10
-GGA	7	7	17	3	0	2	7	3	2	9	12	7
-GGG	5	3	10	1	0	1	4	2	1	6	3	2
-TAA	1	0	1	0	0	0	0	0	1	0	0	0
-TAG	0	0	0	0	1	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004347875.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	12	6	4	3	5	3	11	1	10	3	0	0	7	1	12	8	29	5	5	9	7	3	1	4	6	1	1	1	4	2	16	5	11	4	2	6	9	0	6	6	5	2	1	2	1	3	12	3	2	12	14	4	2	2	6	5	2	5	7	5	1	0	0	0
+1	ND2	YP_004347876.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	5	2	12	5	2	6	4	2	4	4	1	0	10	1	15	12	20	8	10	7	2	0	0	7	10	4	0	1	3	0	18	9	11	5	5	19	20	3	4	3	7	2	2	5	5	2	1	3	4	19	17	2	2	2	3	1	1	6	7	3	0	0	0	0
+2	COX1	YP_004347877.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	26	16	6	1	7	4	14	1	10	8	1	0	17	0	20	11	19	5	1	10	12	5	3	15	8	0	2	1	3	2	33	4	16	8	5	9	18	2	10	6	8	0	0	4	12	5	20	8	7	26	15	1	2	13	8	3	8	10	17	10	1	0	0	0
+3	COX2	YP_004347878.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	8	1	5	2	3	4	4	2	6	3	1	1	5	0	7	2	12	0	1	6	4	3	2	8	8	0	1	1	3	1	14	3	8	4	3	2	5	1	4	0	4	0	1	3	6	5	8	2	3	8	4	1	7	6	15	0	4	1	3	1	0	0	0	0
+4	ATP8	YP_004347879.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	2	2	0	0	1	0	1	0	0	0	0	0	5	0	0	4	2	0	0	2	4	0	0	2	1	0	0	0	0	0	2	3	1	1	1	1	1	1	1	3	2	1	1	0	2	0	1	0	0	0	1	0	0	0	4	0	1	0	0	0	0	1	0	0
+5	ATP6	YP_004347880.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	11	2	11	0	1	1	1	0	1	2	0	0	4	1	10	4	15	7	4	3	9	2	1	2	7	1	1	1	4	0	17	5	10	2	5	4	11	0	8	2	1	0	1	3	1	5	10	1	3	9	8	0	0	1	4	0	4	3	2	1	0	0	0	0
+6	COX3	YP_004347881.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	11	12	4	2	2	5	4	0	6	5	1	1	10	2	9	4	14	0	2	2	7	1	3	13	6	3	1	3	1	0	13	2	7	2	3	7	10	1	0	1	2	0	1	2	5	3	7	2	3	9	8	2	3	2	8	2	1	10	7	4	0	0	0	0
+7	ND3	YP_004347882.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	6	4	6	2	1	3	2	0	1	1	1	0	5	0	4	8	5	1	4	2	1	1	0	0	3	0	0	0	2	0	6	1	2	2	2	3	2	1	0	3	1	0	0	0	1	0	2	0	1	4	5	0	1	3	3	3	1	1	3	2	0	0	0	0
+8	ND4L	YP_004347883.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	6	2	4	2	2	1	3	0	0	0	1	2	1	0	5	4	7	1	0	1	1	0	2	2	3	0	0	3	0	0	1	0	3	2	1	2	5	1	2	0	0	0	0	4	1	0	2	0	2	5	3	2	0	1	1	2	0	2	2	1	1	0	0	0
+9	ND4	YP_004347884.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	8	8	20	5	6	10	6	1	8	6	3	2	16	4	20	16	23	4	3	13	9	2	6	6	12	0	2	2	3	4	27	15	22	6	4	17	16	2	3	6	8	3	4	4	2	2	12	1	5	12	15	4	2	1	7	4	6	7	9	6	0	0	0	0
+10	ND5	YP_004347885.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	17	21	13	3	6	6	13	2	5	6	1	5	8	5	27	12	41	6	7	10	8	6	9	6	16	2	2	2	5	1	25	22	24	9	10	24	19	3	14	13	22	1	3	8	9	6	12	5	3	27	23	2	7	7	8	2	1	16	12	3	0	1	0	0
+11	CYTB	YP_004347887.1	Chrosomus eos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chrosomus	13	17	12	2	6	2	11	1	7	8	1	2	11	1	11	11	26	1	4	5	11	1	3	9	6	1	1	1	5	1	19	8	7	5	3	11	9	1	4	13	7	2	1	1	2	6	15	2	2	11	16	1	4	7	5	1	7	10	7	2	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_009250285.1|ND2	YP_009250286.1|COX1	YP_009250287.1|COX2	YP_009250288.1|ATP8	YP_009250289.1|ATP6	YP_009250290.1|COX3	YP_009250291.1|ND3	YP_009250295.1|ND6	YP_009250296.1|CYTB
-TTT	15	31	9	6	8	19	6	6	21
-TTC	9	11	5	1	9	8	5	8	13
-TTA	28	33	9	3	19	16	9	15	19
-TTG	7	3	0	0	2	1	1	0	2
-TCT	7	6	2	0	3	0	4	2	1
-TCC	8	7	2	2	3	4	0	2	2
-TCA	21	15	6	4	9	8	7	4	11
-TCG	0	1	0	0	0	0	1	0	1
-TAT	6	11	5	1	4	4	1	4	13
-TAC	8	4	3	1	0	5	0	0	5
-TGT	2	2	2	0	1	0	1	0	2
-TGC	0	0	0	0	0	1	0	0	2
-TGA	6	15	5	4	4	13	3	1	12
-TGG	4	0	1	0	1	0	0	0	0
-CTT	10	8	4	1	7	7	2	4	9
-CTC	2	3	0	0	1	5	1	0	3
-CTA	8	9	7	1	8	3	5	11	13
-CTG	1	0	2	1	3	0	1	3	1
-CCT	4	14	3	2	4	2	2	3	11
-CCC	4	7	2	4	1	2	0	1	6
-CCA	2	6	5	0	6	6	2	2	5
-CCG	1	1	0	0	0	0	0	0	1
-CAT	4	12	5	0	4	11	0	2	6
-CAC	0	5	0	0	2	4	1	0	6
-CAA	8	7	7	2	3	7	1	5	8
-CAG	0	1	0	0	1	0	0	0	0
-CGT	0	3	2	0	0	1	0	0	2
-CGC	0	0	4	0	1	0	0	0	1
-CGA	2	6	1	0	2	3	3	1	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	30	33	24	3	16	18	10	19	37
-ATC	13	13	6	2	7	4	8	4	10
-ATA	19	27	11	2	7	10	4	13	12
-ATG	7	3	2	1	4	4	1	1	3
-ACT	5	11	4	3	5	7	0	5	8
-ACC	5	5	4	1	7	3	0	5	8
-ACA	7	16	7	0	8	10	4	7	4
-ACG	0	0	0	0	1	0	0	0	0
-AAT	16	18	9	0	13	8	1	7	20
-AAC	3	3	6	2	2	0	1	2	4
-AAA	9	6	2	2	3	3	5	5	9
-AAG	3	1	1	0	1	0	0	0	1
-AGT	4	5	6	2	3	1	4	3	1
-AGC	2	1	1	0	1	1	0	1	0
-AGA	2	6	4	0	5	3	0	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	18	7	0	6	5	1	2	8
-GTC	4	4	2	0	0	1	0	0	3
-GTA	4	12	1	0	5	6	1	4	9
-GTG	2	2	0	0	0	1	1	0	0
-GCT	3	14	5	0	6	4	2	0	5
-GCC	3	4	2	0	2	6	5	2	3
-GCA	4	17	6	0	3	4	0	2	10
-GCG	0	3	0	0	0	0	0	1	0
-GAT	2	11	11	0	1	4	3	0	5
-GAC	0	3	0	0	0	1	1	0	4
-GAA	6	11	9	0	4	7	6	2	5
-GAG	1	0	0	0	0	1	0	0	0
-GGT	6	19	2	0	1	8	0	2	3
-GGC	0	1	1	0	3	2	0	0	3
-GGA	8	20	2	0	4	8	2	3	13
-GGG	0	4	2	0	2	2	1	0	5
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009250285.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	15	9	28	7	7	8	21	0	6	8	2	0	6	4	10	2	8	1	4	4	2	1	4	0	8	0	0	0	2	0	30	13	19	7	5	5	7	0	16	3	9	3	4	2	2	0	3	4	4	2	3	3	4	0	2	0	6	1	6	0	8	0	1	0
+1	COX1	YP_009250286.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	31	11	33	3	6	7	15	1	11	4	2	0	15	0	8	3	9	0	14	7	6	1	12	5	7	1	3	0	6	0	33	13	27	3	11	5	16	0	18	3	6	1	5	1	6	0	18	4	12	2	14	4	17	3	11	3	11	0	19	1	20	4	0	0
+2	COX2	YP_009250287.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	9	5	9	0	2	2	6	0	5	3	2	0	5	1	4	0	7	2	3	2	5	0	5	0	7	0	2	4	1	0	24	6	11	2	4	4	7	0	9	6	2	1	6	1	4	0	7	2	1	0	5	2	6	0	11	0	9	0	2	1	2	2	0	0
+3	ATP8	YP_009250288.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	6	1	3	0	0	2	4	0	1	1	0	0	4	0	1	0	1	1	2	4	0	0	0	0	2	0	0	0	0	0	3	2	2	1	3	1	0	0	0	2	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009250289.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	8	9	19	2	3	3	9	0	4	0	1	0	4	1	7	1	8	3	4	1	6	0	4	2	3	1	0	1	2	0	16	7	7	4	5	7	8	1	13	2	3	1	3	1	5	0	6	0	5	0	6	2	3	0	1	0	4	0	1	3	4	2	1	0
+5	COX3	YP_009250290.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	19	8	16	1	0	4	8	0	4	5	0	1	13	0	7	5	3	0	2	2	6	0	11	4	7	0	1	0	3	0	18	4	10	4	7	3	10	0	8	0	3	0	1	1	3	0	5	1	6	1	4	6	4	0	4	1	7	1	8	2	8	2	1	0
+6	ND3	YP_009250291.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	6	5	9	1	4	0	7	1	1	0	1	0	3	0	2	1	5	1	2	0	2	0	0	1	1	0	0	0	3	0	10	8	4	1	0	0	4	0	1	1	5	0	4	0	0	0	1	0	1	1	2	5	0	0	3	1	6	0	0	0	2	1	0	1
+7	ND6	YP_009250295.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	6	8	15	0	2	2	4	0	4	0	0	0	1	0	4	0	11	3	3	1	2	0	2	0	5	0	0	0	1	0	19	4	13	1	5	5	7	0	7	2	5	0	3	1	1	0	2	0	4	0	0	2	2	1	0	0	2	0	2	0	3	0	1	0
+8	CYTB	YP_009250296.1	Gromphadorhina portentosa	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blaberoidea, Blaberidae, Oxyhaloinae, Gromphadorhina	21	13	19	2	1	2	11	1	13	5	2	2	12	0	9	3	13	1	11	6	5	1	6	6	8	0	2	1	5	0	37	10	12	3	8	8	4	0	20	4	9	1	1	0	3	0	8	3	9	0	5	3	10	0	5	4	5	0	3	3	13	5	0	0

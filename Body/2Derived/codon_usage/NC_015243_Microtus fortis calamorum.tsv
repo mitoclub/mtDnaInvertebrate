@@ -1,65 +1,13 @@
-	YP_004300459.1|ND1	YP_004300460.1|ND2	YP_004300461.1|COX1	YP_004300462.1|COX2	YP_004300463.1|ATP8	YP_004300464.1|ATP6	YP_004300465.1|COX3	YP_004300466.1|ND3	YP_004300467.1|ND4L	YP_004300468.1|ND4	YP_004300469.1|ND5	YP_004300471.1|CYTB
-TTT	5	4	11	2	1	2	5	4	1	6	9	9
-TTC	17	15	32	4	2	10	17	5	8	9	31	18
-TTA	9	5	10	9	1	13	4	5	1	9	9	4
-TTG	0	2	1	0	0	0	1	0	2	0	1	1
-TCT	2	5	9	3	2	4	1	1	4	7	6	0
-TCC	7	5	4	7	1	4	7	0	1	15	15	5
-TCA	11	14	14	7	5	6	10	2	2	9	15	12
-TCG	1	0	1	0	0	0	0	0	1	1	0	2
-TAT	2	3	7	4	2	0	4	1	1	3	4	5
-TAC	10	6	12	5	0	2	8	2	0	11	12	11
-TGT	1	0	0	0	0	0	1	0	0	1	5	0
-TGC	0	0	1	3	0	0	1	1	3	2	5	3
-TGA	8	7	15	5	3	3	11	4	0	10	13	10
-TGG	1	1	2	0	0	0	1	0	0	3	0	1
-CTT	3	8	9	6	4	4	3	2	1	13	7	0
-CTC	7	11	14	5	0	9	6	3	3	16	14	18
-CTA	33	32	22	10	2	18	18	14	11	42	56	26
-CTG	4	2	3	2	1	0	1	0	0	2	4	3
-CCT	1	1	5	5	1	3	0	1	2	1	6	3
-CCC	7	4	5	6	3	4	4	2	0	10	10	4
-CCA	15	17	17	3	2	7	7	4	0	13	11	12
-CCG	0	1	1	0	0	0	0	0	1	0	1	3
-CAT	3	1	3	3	1	1	3	0	0	2	0	3
-CAC	1	4	16	3	0	7	13	1	3	8	13	9
-CAA	6	8	5	6	4	6	6	2	1	10	11	6
-CAG	0	1	1	0	1	0	1	0	1	1	1	0
-CGT	0	0	1	1	0	1	1	0	0	0	2	1
-CGC	1	1	2	1	0	3	1	0	0	1	2	1
-CGA	5	2	4	4	0	1	2	1	1	7	5	6
-CGG	2	0	1	0	0	0	1	0	0	1	0	0
-ATT	8	12	16	4	5	12	4	3	2	23	18	10
-ATC	18	23	21	15	2	16	11	7	6	28	36	37
-ATA	17	25	26	12	2	9	6	6	7	27	28	16
-ATG	2	1	5	2	1	3	3	1	1	2	9	1
-ACT	2	8	8	6	1	2	3	2	0	6	6	6
-ACC	9	9	6	2	1	8	9	4	4	12	26	6
-ACA	10	18	24	7	6	11	9	4	2	22	28	18
-ACG	0	0	0	0	1	0	0	0	0	0	0	0
-AAT	4	3	5	2	1	3	1	2	1	8	4	4
-AAC	11	22	11	7	1	4	5	4	3	14	26	13
-AAA	7	11	8	4	6	6	4	3	0	11	21	8
-AAG	0	1	2	1	0	0	0	0	0	3	3	0
-AGT	1	1	1	1	0	0	1	0	1	2	0	0
-AGC	2	4	2	3	0	4	5	1	0	10	13	0
-GTT	2	0	7	4	0	1	2	0	1	2	7	1
-GTC	3	4	9	3	1	3	4	0	1	8	8	5
-GTA	7	3	18	4	0	4	9	2	3	7	10	10
-GTG	2	0	5	4	0	0	0	0	0	2	0	0
-GCT	3	3	10	2	1	5	2	4	3	8	3	5
-GCC	11	10	13	5	0	7	7	4	6	15	20	15
-GCA	11	8	15	2	0	3	6	2	2	4	20	5
-GCG	0	0	2	0	0	2	0	0	0	1	0	0
-GAT	0	0	5	5	0	1	0	0	0	1	2	2
-GAC	4	1	11	6	1	0	4	2	1	3	10	11
-GAA	11	4	8	13	1	3	6	6	1	9	8	5
-GAG	0	1	2	1	0	0	1	0	1	1	2	1
-GGT	2	1	5	0	0	0	1	0	2	1	1	3
-GGC	2	3	15	2	0	6	7	2	1	5	8	9
-GGA	7	7	19	4	0	4	12	1	1	9	17	12
-GGG	0	1	7	2	0	1	1	0	0	2	1	1
-TAA	0	0	1	1	1	1	0	1	1	0	1	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004300459.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	5	17	9	0	2	7	11	1	2	10	1	0	8	1	3	7	33	4	1	7	15	0	3	1	6	0	0	1	5	2	8	18	17	2	2	9	10	0	4	11	7	0	1	2	2	3	7	2	3	11	11	0	0	4	11	0	2	2	7	0	0	0	0	0
+1	ND2	YP_004300460.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	4	15	5	2	5	5	14	0	3	6	0	0	7	1	8	11	32	2	1	4	17	1	1	4	8	1	0	1	2	0	12	23	25	1	8	9	18	0	3	22	11	1	1	4	0	4	3	0	3	10	8	0	0	1	4	1	1	3	7	1	0	1	0	0
+2	COX1	YP_004300461.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	11	32	10	1	9	4	14	1	7	12	0	1	15	2	9	14	22	3	5	5	17	1	3	16	5	1	1	2	4	1	16	21	26	5	8	6	24	0	5	11	8	2	1	2	7	9	18	5	10	13	15	2	5	11	8	2	5	15	19	7	1	0	0	0
+3	COX2	YP_004300462.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	2	4	9	0	3	7	7	0	4	5	0	3	5	0	6	5	10	2	5	6	3	0	3	3	6	0	1	1	4	0	4	15	12	2	6	2	7	0	2	7	4	1	1	3	4	3	4	4	2	5	2	0	5	6	13	1	0	2	4	2	1	0	0	0
+4	ATP8	YP_004300463.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	1	2	1	0	2	1	5	0	2	0	0	0	3	0	4	0	2	1	1	3	2	0	1	0	4	1	0	0	0	0	5	2	2	1	1	1	6	1	1	1	6	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004300464.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	2	10	13	0	4	4	6	0	0	2	0	0	3	0	4	9	18	0	3	4	7	0	1	7	6	0	1	3	1	0	12	16	9	3	2	8	11	0	3	4	6	0	0	4	1	3	4	0	5	7	3	2	1	0	3	0	0	6	4	1	1	0	0	0
+6	COX3	YP_004300465.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	5	17	4	1	1	7	10	0	4	8	1	1	11	1	3	6	18	1	0	4	7	0	3	13	6	1	1	1	2	1	4	11	6	3	3	9	9	0	1	5	4	0	1	5	2	4	9	0	2	7	6	0	0	4	6	1	1	7	12	1	0	0	0	0
+7	ND3	YP_004300466.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	4	5	5	0	1	0	2	0	1	2	0	1	4	0	2	3	14	0	1	2	4	0	0	1	2	0	0	0	1	0	3	7	6	1	2	4	4	0	2	4	3	0	0	1	0	0	2	0	4	4	2	0	0	2	6	0	0	2	1	0	1	0	0	0
+8	ND4L	YP_004300467.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	1	8	1	2	4	1	2	1	1	0	0	3	0	0	1	3	11	0	2	0	0	1	0	3	1	1	0	0	1	0	2	6	7	1	0	4	2	0	1	3	0	0	1	0	1	1	3	0	3	6	2	0	0	1	1	1	2	1	1	0	1	0	0	0
+9	ND4	YP_004300468.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	6	9	9	0	7	15	9	1	3	11	1	2	10	3	13	16	42	2	1	10	13	0	2	8	10	1	0	1	7	1	23	28	27	2	6	12	22	0	8	14	11	3	2	10	2	8	7	2	8	15	4	1	1	3	9	1	1	5	9	2	0	0	0	0
+10	ND5	YP_004300469.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	9	31	9	1	6	15	15	0	4	12	5	5	13	0	7	14	56	4	6	10	11	1	0	13	11	1	2	2	5	0	18	36	28	9	6	26	28	0	4	26	21	3	0	13	7	8	10	0	3	20	20	0	2	10	8	2	1	8	17	1	1	0	0	0
+11	CYTB	YP_004300471.1	Microtus fortis calamorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	9	18	4	1	0	5	12	2	5	11	0	3	10	1	0	18	26	3	3	4	12	3	3	9	6	0	1	1	6	0	10	37	16	1	6	6	18	0	4	13	8	0	0	0	1	5	10	0	5	15	5	0	2	11	5	1	3	9	12	1	1	0	0	0

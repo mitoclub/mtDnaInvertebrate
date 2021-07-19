@@ -1,65 +1,15 @@
-	YP_009412623.1|nad4L	YP_009412624.1|nad5	YP_009412625.1|nad2	YP_009412626.1|nad3	YP_009412627.1|cox1	YP_009412628.1|nad4	YP_009412629.1|rps3	YP_009412630.1|cob	YP_009412631.1|cox2	YP_009412632.1|nad1	YP_009412633.1|atp6	YP_009412634.1|atp8	YP_009412635.1|nad6	YP_009412636.1|cox3
-TTT	5	46	39	17	41	35	15	43	9	19	14	8	12	18
-TTC	0	10	11	4	14	6	0	10	2	8	4	0	2	6
-TTA	12	66	62	14	48	50	26	60	21	36	16	5	16	22
-TTG	1	5	8	2	6	11	5	8	3	6	1	0	6	2
-TCT	0	22	23	5	7	15	12	15	4	10	3	0	8	11
-TCC	2	8	10	0	2	7	3	4	2	4	1	0	2	2
-TCA	2	12	6	1	12	13	5	15	5	6	5	1	4	6
-TCG	0	0	0	0	0	2	0	5	2	0	0	0	1	1
-TAT	4	22	25	5	15	25	26	23	9	18	4	2	7	6
-TAC	0	8	8	0	8	5	2	9	3	2	1	1	2	5
-TGT	0	4	3	1	1	7	0	8	5	3	1	0	1	2
-TGC	0	3	0	0	0	1	0	1	0	1	0	0	0	0
-TGA	0	5	3	0	15	3	2	10	5	3	0	0	1	7
-TGG	0	2	1	0	2	0	2	3	1	1	0	0	1	1
-CTT	4	14	13	2	7	10	10	8	1	12	2	1	4	7
-CTC	0	2	4	0	2	1	1	1	0	2	0	0	2	1
-CTA	0	15	11	2	11	13	8	11	5	6	5	1	6	6
-CTG	0	0	1	2	0	2	0	0	0	4	2	0	3	3
-CCT	0	14	12	2	16	11	4	19	7	7	3	1	1	4
-CCC	0	3	0	1	1	1	2	2	0	3	0	0	1	3
-CCA	0	2	1	1	10	1	1	13	5	4	0	2	1	1
-CCG	0	0	1	0	0	0	0	1	1	0	2	0	0	1
-CAT	0	12	5	0	11	4	1	15	6	0	4	0	2	10
-CAC	0	0	2	1	5	3	1	3	1	1	0	0	0	3
-CAA	1	8	13	1	7	6	5	17	8	5	3	2	2	3
-CAG	0	3	4	2	4	2	1	1	1	1	0	0	0	3
-CGT	0	2	0	0	1	2	5	1	1	1	0	1	0	0
-CGC	0	0	0	0	1	1	0	0	0	0	0	1	0	0
-CGA	0	1	1	0	1	0	2	1	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-ATT	4	18	21	4	15	22	13	21	8	14	9	1	6	7
-ATC	2	9	6	2	6	6	0	12	5	3	2	1	2	1
-ATA	12	40	41	5	31	35	14	42	12	29	5	5	22	9
-ATG	3	24	6	4	17	8	4	25	6	9	3	2	5	7
-ACT	1	23	15	1	8	15	10	9	3	8	3	2	5	5
-ACC	0	2	4	0	1	4	2	0	0	2	0	0	0	1
-ACA	1	16	14	3	16	15	9	15	4	8	3	1	8	12
-ACG	0	2	1	0	1	2	1	2	1	1	0	0	0	1
-AAT	1	18	19	5	15	14	28	24	3	7	3	2	10	6
-AAC	2	6	14	1	8	6	9	15	5	1	1	0	5	2
-AAA	2	15	17	3	12	10	45	16	4	5	2	2	3	1
-AAG	0	7	2	0	2	2	12	2	1	3	0	0	1	0
-AGT	1	17	18	5	23	9	7	13	4	7	3	0	9	6
-AGC	2	5	5	1	3	3	3	8	3	4	1	0	3	1
-AGA	2	5	7	2	8	7	22	15	4	6	3	0	1	4
-AGG	1	3	1	0	2	1	8	1	1	1	0	1	2	1
-GTT	1	26	10	2	20	14	10	25	8	15	1	1	8	12
-GTC	0	1	1	0	2	1	1	4	1	0	0	0	1	0
-GTA	2	18	10	2	12	6	12	14	3	4	6	3	4	9
-GTG	1	6	4	0	7	8	3	11	7	3	2	0	4	0
-GCT	3	19	12	6	19	15	2	20	6	9	2	0	2	8
-GCC	2	5	6	3	9	4	2	13	3	6	3	1	3	5
-GCA	3	14	8	2	8	8	6	11	3	12	6	0	3	4
-GCG	0	0	1	0	4	1	1	0	0	0	1	0	1	0
-GAT	2	12	12	3	10	9	4	20	11	6	2	0	3	3
-GAC	0	3	2	0	4	2	4	5	3	2	0	0	2	2
-GAA	3	11	9	2	3	10	8	19	12	11	2	0	6	5
-GAG	0	3	2	2	4	2	5	13	6	4	0	0	1	2
-GGT	2	27	21	5	35	17	10	26	9	11	8	0	7	13
-GGC	1	3	3	1	1	3	0	1	0	0	0	0	0	1
-GGA	3	13	3	0	11	9	1	10	4	8	3	0	3	6
-GGG	1	4	6	0	6	2	1	4	1	0	1	0	0	1
-TAA	1	1	1	0	0	1	1	1	1	0	1	0	0	0
-TAG	0	0	0	1	1	0	0	0	0	1	0	1	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	nad4L	YP_009412623.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	5	0	12	1	0	2	2	0	4	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	4	2	12	3	1	0	1	0	1	2	2	0	1	2	2	1	1	0	2	1	3	2	3	0	2	0	3	0	2	1	3	1	1	0
+1	nad5	YP_009412624.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	46	10	66	5	22	8	12	0	22	8	4	3	5	2	14	2	15	0	14	3	2	0	12	0	8	3	2	0	1	0	18	9	40	24	23	2	16	2	18	6	15	7	17	5	5	3	26	1	18	6	19	5	14	0	12	3	11	3	27	3	13	4	1	0
+2	nad2	YP_009412625.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	39	11	62	8	23	10	6	0	25	8	3	0	3	1	13	4	11	1	12	0	1	1	5	2	13	4	0	0	1	0	21	6	41	6	15	4	14	1	19	14	17	2	18	5	7	1	10	1	10	4	12	6	8	1	12	2	9	2	21	3	3	6	1	0
+3	nad3	YP_009412626.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	17	4	14	2	5	0	1	0	5	0	1	0	0	0	2	0	2	2	2	1	1	0	0	1	1	2	0	0	0	0	4	2	5	4	1	0	3	0	5	1	3	0	5	1	2	0	2	0	2	0	6	3	2	0	3	0	2	2	5	1	0	0	0	1
+4	cox1	YP_009412627.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	41	14	48	6	7	2	12	0	15	8	1	0	15	2	7	2	11	0	16	1	10	0	11	5	7	4	1	1	1	0	15	6	31	17	8	1	16	1	15	8	12	2	23	3	8	2	20	2	12	7	19	9	8	4	10	4	3	4	35	1	11	6	0	1
+5	nad4	YP_009412628.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	35	6	50	11	15	7	13	2	25	5	7	1	3	0	10	1	13	2	11	1	1	0	4	3	6	2	2	1	0	0	22	6	35	8	15	4	15	2	14	6	10	2	9	3	7	1	14	1	6	8	15	4	8	1	9	2	10	2	17	3	9	2	1	0
+6	rps3	YP_009412629.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	15	0	26	5	12	3	5	0	26	2	0	0	2	2	10	1	8	0	4	2	1	0	1	1	5	1	5	0	2	1	13	0	14	4	10	2	9	1	28	9	45	12	7	3	22	8	10	1	12	3	2	2	6	1	4	4	8	5	10	0	1	1	1	0
+7	cob	YP_009412630.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	43	10	60	8	15	4	15	5	23	9	8	1	10	3	8	1	11	0	19	2	13	1	15	3	17	1	1	0	1	0	21	12	42	25	9	0	15	2	24	15	16	2	13	8	15	1	25	4	14	11	20	13	11	0	20	5	19	13	26	1	10	4	1	0
+8	cox2	YP_009412631.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	9	2	21	3	4	2	5	2	9	3	5	0	5	1	1	0	5	0	7	0	5	1	6	1	8	1	1	0	0	0	8	5	12	6	3	0	4	1	3	5	4	1	4	3	4	1	8	1	3	7	6	3	3	0	11	3	12	6	9	0	4	1	1	0
+9	nad1	YP_009412632.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	19	8	36	6	10	4	6	0	18	2	3	1	3	1	12	2	6	4	7	3	4	0	0	1	5	1	1	0	0	0	14	3	29	9	8	2	8	1	7	1	5	3	7	4	6	1	15	0	4	3	9	6	12	0	6	2	11	4	11	0	8	0	0	1
+10	atp6	YP_009412633.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	14	4	16	1	3	1	5	0	4	1	1	0	0	0	2	0	5	2	3	0	0	2	4	0	3	0	0	0	0	0	9	2	5	3	3	0	3	0	3	1	2	0	3	1	3	0	1	0	6	2	2	3	6	1	2	0	2	0	8	0	3	1	1	0
+11	atp8	YP_009412634.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	8	0	5	0	0	0	1	0	2	1	0	0	0	0	1	0	1	0	1	0	2	0	0	0	2	0	1	1	0	0	1	1	5	2	2	0	1	0	2	0	2	0	0	0	0	1	1	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+12	nad6	YP_009412635.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	12	2	16	6	8	2	4	1	7	2	1	0	1	1	4	2	6	3	1	1	1	0	2	0	2	0	0	0	0	0	6	2	22	5	5	0	8	0	10	5	3	1	9	3	1	2	8	1	4	4	2	3	3	1	3	2	6	1	7	0	3	0	0	1
+13	cox3	YP_009412636.1	Imshaugia aleurites	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Parmeliaceae, Imshaugia	18	6	22	2	11	2	6	1	6	5	2	0	7	1	7	1	6	3	4	3	1	1	10	3	3	3	0	0	0	0	7	1	9	7	5	1	12	1	6	2	1	0	6	1	4	1	12	0	9	0	8	5	4	0	3	2	5	2	13	1	6	1	0	1

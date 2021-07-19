@@ -1,65 +1,13 @@
-	YP_009442573.1|ND1	YP_009442574.1|ND2	YP_009442575.1|COX1	YP_009442576.1|COX2	YP_009442577.1|ATP8	YP_009442578.1|ATP6	YP_009442579.1|COX3	YP_009442580.1|ND3	YP_009442581.1|ND4L	YP_009442582.1|ND4	YP_009442583.1|ND5	YP_009442585.1|CYTB
-TTT	11	8	22	5	0	9	18	6	2	12	26	13
-TTC	9	3	20	2	3	4	7	4	1	7	19	11
-TTA	19	18	20	11	4	14	7	8	5	21	19	11
-TTG	0	1	1	2	1	1	2	1	0	1	1	0
-TCT	4	3	11	6	0	3	12	1	2	11	16	7
-TCC	2	6	5	2	0	1	1	2	3	4	7	6
-TCA	7	11	10	9	6	4	4	4	3	13	16	7
-TCG	2	0	1	0	0	0	0	1	0	0	1	0
-TAT	12	8	12	6	2	2	7	2	1	8	7	9
-TAC	1	2	7	5	2	0	5	1	2	10	9	8
-TGT	1	0	0	1	0	0	0	1	2	1	3	2
-TGC	0	0	1	1	0	0	1	0	1	3	1	2
-TGA	9	10	17	5	3	1	11	4	0	13	10	10
-TGG	0	0	0	0	0	2	1	0	0	0	2	2
-CTT	6	4	12	5	1	8	5	3	8	10	13	7
-CTC	3	7	4	0	0	1	1	5	2	8	7	8
-CTA	29	27	19	13	1	14	19	7	9	39	52	31
-CTG	0	3	4	2	1	2	1	0	1	8	3	3
-CCT	7	4	14	7	2	3	2	3	0	6	14	5
-CCC	7	3	8	4	3	4	3	0	1	11	6	7
-CCA	7	14	8	2	1	4	7	3	0	3	5	10
-CCG	0	0	0	0	0	1	0	0	0	1	1	1
-CAT	3	2	6	4	0	3	9	0	2	5	6	6
-CAC	1	4	12	2	3	4	7	0	1	5	6	7
-CAA	7	8	6	7	3	7	7	3	2	9	19	5
-CAG	0	0	0	0	0	1	0	0	0	1	1	1
-CGT	0	0	1	0	0	0	1	1	0	2	0	1
-CGC	0	0	2	2	0	3	1	0	0	1	3	2
-CGA	5	3	4	4	1	2	3	0	1	7	6	5
-CGG	2	0	1	0	0	0	0	0	0	0	0	0
-ATT	19	20	29	15	7	20	7	6	6	22	36	26
-ATC	10	14	10	5	1	5	6	2	1	20	23	14
-ATA	15	35	22	11	2	15	9	7	8	39	35	12
-ATG	4	1	9	3	1	3	3	1	2	3	6	2
-ACT	11	9	16	6	2	9	7	3	2	15	20	7
-ACC	2	10	5	2	1	3	3	2	2	10	9	7
-ACA	10	29	12	9	3	9	10	2	4	14	23	12
-ACG	0	1	3	0	1	3	1	0	0	0	1	0
-AAT	7	9	11	1	1	6	4	0	3	9	16	6
-AAC	6	10	6	4	0	3	4	3	1	9	15	11
-AAA	7	12	8	5	6	4	1	4	0	12	21	6
-AAG	0	0	1	0	0	1	0	0	0	0	1	2
-AGT	2	1	2	1	0	3	3	1	0	4	4	2
-AGC	1	1	2	5	0	2	1	1	1	8	9	2
-GTT	0	2	11	4	0	2	2	0	1	5	3	6
-GTC	4	2	5	2	0	4	3	0	1	3	2	1
-GTA	9	5	16	4	0	4	9	2	4	7	11	8
-GTG	2	0	6	1	0	0	1	1	0	0	1	2
-GCT	10	2	15	5	1	3	6	1	0	8	16	9
-GCC	6	4	13	2	0	3	5	3	2	10	9	3
-GCA	13	11	12	3	1	9	3	4	4	8	12	13
-GCG	0	0	1	0	0	2	0	0	0	2	1	0
-GAT	1	0	8	6	0	1	1	2	1	1	8	6
-GAC	2	1	6	4	1	0	2	1	0	2	2	5
-GAA	10	5	8	13	2	3	7	5	2	8	10	5
-GAG	1	0	2	1	0	0	1	1	0	1	1	1
-GGT	1	1	10	0	0	2	1	0	0	2	2	3
-GGC	6	2	8	4	0	5	8	1	0	7	13	3
-GGA	5	10	23	4	0	4	11	2	2	9	12	16
-GGG	0	1	6	0	0	0	0	0	2	1	1	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009442573.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	11	9	19	0	4	2	7	2	12	1	1	0	9	0	6	3	29	0	7	7	7	0	3	1	7	0	0	0	5	2	19	10	15	4	11	2	10	0	7	6	7	0	2	1	0	4	9	2	10	6	13	0	1	2	10	1	1	6	5	0	0	0	0	0
+1	ND2	YP_009442574.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	3	18	1	3	6	11	0	8	2	0	0	10	0	4	7	27	3	4	3	14	0	2	4	8	0	0	0	3	0	20	14	35	1	9	10	29	1	9	10	12	0	1	1	2	2	5	0	2	4	11	0	0	1	5	0	1	2	10	1	0	0	0	0
+2	COX1	YP_009442575.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	22	20	20	1	11	5	10	1	12	7	0	1	17	0	12	4	19	4	14	8	8	0	6	12	6	0	1	2	4	1	29	10	22	9	16	5	12	3	11	6	8	1	2	2	11	5	16	6	15	13	12	1	8	6	8	2	10	8	23	6	1	0	0	0
+3	COX2	YP_009442576.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	5	2	11	2	6	2	9	0	6	5	1	1	5	0	5	0	13	2	7	4	2	0	4	2	7	0	0	2	4	0	15	5	11	3	6	2	9	0	1	4	5	0	1	5	4	2	4	1	5	2	3	0	6	4	13	1	0	4	4	0	1	0	0	0
+4	ATP8	YP_009442577.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	0	3	4	1	0	0	6	0	2	2	0	0	3	0	1	0	1	1	2	3	1	0	0	3	3	0	0	0	1	0	7	1	2	1	2	1	3	1	1	0	6	0	0	0	0	0	0	0	1	0	1	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009442578.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	9	4	14	1	3	1	4	0	2	0	0	0	1	2	8	1	14	2	3	4	4	1	3	4	7	1	0	3	2	0	20	5	15	3	9	3	9	3	6	3	4	1	3	2	2	4	4	0	3	3	9	2	1	0	3	0	2	5	4	0	1	0	0	0
+6	COX3	YP_009442579.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	18	7	7	2	12	1	4	0	7	5	0	1	11	1	5	1	19	1	2	3	7	0	9	7	7	0	1	1	3	0	7	6	9	3	7	3	10	1	4	4	1	0	3	1	2	3	9	1	6	5	3	0	1	2	7	1	1	8	11	0	0	0	0	0
+7	ND3	YP_009442580.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	6	4	8	1	1	2	4	1	2	1	1	0	4	0	3	5	7	0	3	0	3	0	0	0	3	0	1	0	0	0	6	2	7	1	3	2	2	0	0	3	4	0	1	1	0	0	2	1	1	3	4	0	2	1	5	1	0	1	2	0	0	0	0	0
+8	ND4L	YP_009442581.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	2	1	5	0	2	3	3	0	1	2	2	1	0	0	8	2	9	1	0	1	0	0	2	1	2	0	0	0	1	0	6	1	8	2	2	2	4	0	3	1	0	0	0	1	1	1	4	0	0	2	4	0	1	0	2	0	0	0	2	2	1	0	0	0
+9	ND4	YP_009442582.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	12	7	21	1	11	4	13	0	8	10	1	3	13	0	10	8	39	8	6	11	3	1	5	5	9	1	2	1	7	0	22	20	39	3	15	10	14	0	9	9	12	0	4	8	5	3	7	0	8	10	8	2	1	2	8	1	2	7	9	1	0	0	0	0
+10	ND5	YP_009442583.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	26	19	19	1	16	7	16	1	7	9	3	1	10	2	13	7	52	3	14	6	5	1	6	6	19	1	0	3	6	0	36	23	35	6	20	9	23	1	16	15	21	1	4	9	3	2	11	1	16	9	12	1	8	2	10	1	2	13	12	1	1	0	0	0
+11	CYTB	YP_009442585.1	Myotis dominicensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	13	11	11	0	7	6	7	0	9	8	2	2	10	2	7	8	31	3	5	7	10	1	6	7	5	1	1	2	5	0	26	14	12	2	7	7	12	0	6	11	6	2	2	2	6	1	8	2	9	3	13	0	6	5	5	1	3	3	16	2	0	0	1	0

@@ -1,65 +1,13 @@
-	YP_009674065.1|ND1	YP_009674066.1|ND2	YP_009674067.1|COX1	YP_009674068.1|COX2	YP_009674069.1|ATP8	YP_009674070.1|ATP6	YP_009674071.1|COX3	YP_009674072.1|ND3	YP_009674073.1|ND4L	YP_009674074.1|ND4	YP_009674075.1|ND5	YP_009674077.1|CYTB
-TTT	7	7	20	9	2	7	7	6	7	15	24	13
-TTC	10	4	18	1	2	7	20	3	0	8	14	23
-TTA	8	3	8	5	1	3	3	2	3	11	14	12
-TTG	2	3	1	0	0	1	0	0	2	2	6	2
-TCT	3	3	5	2	2	1	3	1	0	6	6	5
-TCC	8	12	11	8	0	7	6	2	4	13	19	11
-TCA	5	5	6	1	1	2	2	3	4	6	11	6
-TCG	1	0	0	1	1	1	0	0	0	3	0	0
-TAT	8	3	8	3	0	0	6	1	1	6	4	5
-TAC	5	5	13	5	0	3	6	1	1	7	3	9
-TGT	0	0	0	0	0	0	0	0	1	0	3	1
-TGC	0	1	1	2	0	0	1	3	2	7	5	4
-TGA	6	8	15	5	5	5	10	4	1	11	11	11
-TGG	1	2	2	0	0	0	3	1	0	5	2	1
-CTT	18	27	10	6	2	9	8	6	3	16	21	15
-CTC	14	17	20	8	1	21	12	11	5	27	30	20
-CTA	12	19	19	8	0	17	6	5	8	23	27	13
-CTG	14	9	7	1	1	6	2	3	2	11	9	5
-CCT	6	3	3	5	0	4	1	0	0	4	10	2
-CCC	13	15	17	8	8	8	8	5	3	19	14	11
-CCA	4	4	7	1	1	5	3	4	0	6	7	7
-CCG	1	0	1	0	0	0	0	0	0	2	0	1
-CAT	1	0	4	6	1	2	2	1	1	2	1	4
-CAC	4	9	13	4	0	2	14	0	2	9	14	8
-CAA	7	9	4	8	2	5	6	2	1	7	19	5
-CAG	0	2	4	1	0	2	0	1	1	1	3	1
-CGT	0	1	0	1	0	0	0	0	1	2	0	1
-CGC	0	1	1	4	0	2	1	1	0	2	1	1
-CGA	6	2	7	1	0	3	5	1	1	7	8	2
-CGG	2	2	0	0	0	0	0	0	0	0	2	4
-ATT	11	8	22	11	1	7	5	2	0	22	30	10
-ATC	11	20	17	10	2	8	7	6	1	14	22	20
-ATA	6	12	16	7	0	6	6	2	1	12	19	6
-ATG	4	5	9	3	1	1	2	1	5	11	7	2
-ACT	2	4	5	2	2	0	1	0	3	6	5	1
-ACC	7	16	17	6	1	9	9	5	0	17	34	8
-ACA	8	15	16	1	0	6	11	3	3	10	15	11
-ACG	2	2	0	0	1	2	1	0	0	4	1	4
-AAT	2	2	5	2	0	1	0	0	0	3	12	7
-AAC	9	11	11	4	6	7	1	2	1	10	13	11
-AAA	5	8	10	4	3	2	3	1	2	8	16	8
-AAG	2	1	0	1	0	0	0	0	0	3	3	2
-AGT	1	0	1	1	0	0	1	0	0	0	1	1
-AGC	3	4	3	3	0	5	3	1	3	11	12	0
-GTT	1	2	8	1	0	2	2	1	0	5	9	9
-GTC	7	2	13	11	2	3	13	1	0	7	6	9
-GTA	7	3	14	5	2	5	6	2	2	3	7	2
-GTG	2	0	6	1	0	4	0	0	2	1	1	1
-GCT	3	5	13	4	1	2	2	2	1	2	9	1
-GCC	16	21	24	7	2	12	11	3	7	19	29	15
-GCA	10	8	11	6	0	5	5	3	3	13	18	7
-GCG	3	1	0	1	0	1	2	0	2	1	4	0
-GAT	0	0	2	1	0	0	0	1	0	1	5	7
-GAC	4	2	13	13	0	2	6	2	2	2	8	4
-GAA	6	3	7	9	1	3	6	6	1	7	9	2
-GAG	6	0	5	5	0	1	3	0	1	4	2	3
-GGT	5	2	9	2	0	2	3	1	0	3	3	3
-GGC	9	8	21	4	0	3	6	2	2	12	13	10
-GGA	1	5	11	1	0	4	7	2	1	6	10	11
-GGG	5	2	6	0	0	1	4	0	1	5	5	2
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009674065.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	7	10	8	2	3	8	5	1	8	5	0	0	6	1	18	14	12	14	6	13	4	1	1	4	7	0	0	0	6	2	11	11	6	4	2	7	8	2	2	9	5	2	1	3	1	7	7	2	3	16	10	3	0	4	6	6	5	9	1	5	0	0	1	0
+1	ND2	YP_009674066.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	7	4	3	3	3	12	5	0	3	5	0	1	8	2	27	17	19	9	3	15	4	0	0	9	9	2	1	1	2	2	8	20	12	5	4	16	15	2	2	11	8	1	0	4	2	2	3	0	5	21	8	1	0	2	3	0	2	8	5	2	0	0	0	0
+2	COX1	YP_009674067.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	20	18	8	1	5	11	6	0	8	13	0	1	15	2	10	20	19	7	3	17	7	1	4	13	4	4	0	1	7	0	22	17	16	9	5	17	16	0	5	11	10	0	1	3	8	13	14	6	13	24	11	0	2	13	7	5	9	21	11	6	0	0	0	1
+3	COX2	YP_009674068.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	9	1	5	0	2	8	1	1	3	5	0	2	5	0	6	8	8	1	5	8	1	0	6	4	8	1	1	4	1	0	11	10	7	3	2	6	1	0	2	4	4	1	1	3	1	11	5	1	4	7	6	1	1	13	9	5	2	4	1	0	0	0	0	0
+4	ATP8	YP_009674069.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	2	2	1	0	2	0	1	1	0	0	0	0	5	0	2	1	0	1	0	8	1	0	1	0	2	0	0	0	0	0	1	2	0	1	2	1	0	1	0	6	3	0	0	0	0	2	2	0	1	2	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009674070.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	7	7	3	1	1	7	2	1	0	3	0	0	5	0	9	21	17	6	4	8	5	0	2	2	5	2	0	2	3	0	7	8	6	1	0	9	6	2	1	7	2	0	0	5	2	3	5	4	2	12	5	1	0	2	3	1	2	3	4	1	1	0	0	0
+6	COX3	YP_009674071.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	7	20	3	0	3	6	2	0	6	6	0	1	10	3	8	12	6	2	1	8	3	0	2	14	6	0	0	1	5	0	5	7	6	2	1	9	11	1	0	1	3	0	1	3	2	13	6	0	2	11	5	2	0	6	6	3	3	6	7	4	0	0	0	0
+7	ND3	YP_009674072.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	6	3	2	0	1	2	3	0	1	1	0	3	4	1	6	11	5	3	0	5	4	0	1	0	2	1	0	1	1	0	2	6	2	1	0	5	3	0	0	2	1	0	0	1	1	1	2	0	2	3	3	0	1	2	6	0	1	2	2	0	0	0	0	0
+8	ND4L	YP_009674073.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	7	0	3	2	0	4	4	0	1	1	1	2	1	0	3	5	8	2	0	3	0	0	1	2	1	1	1	0	1	0	0	1	1	5	3	0	3	0	0	1	2	0	0	3	0	0	2	2	1	7	3	2	0	2	1	1	0	2	1	1	1	0	0	0
+9	ND4	YP_009674074.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	15	8	11	2	6	13	6	3	6	7	0	7	11	5	16	27	23	11	4	19	6	2	2	9	7	1	2	2	7	0	22	14	12	11	6	17	10	4	3	10	8	3	0	11	5	7	3	1	2	19	13	1	1	2	7	4	3	12	6	5	0	0	0	0
+10	ND5	YP_009674075.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	24	14	14	6	6	19	11	0	4	3	3	5	11	2	21	30	27	9	10	14	7	0	1	14	19	3	0	1	8	2	30	22	19	7	5	34	15	1	12	13	16	3	1	12	9	6	7	1	9	29	18	4	5	8	9	2	3	13	10	5	1	0	0	0
+11	CYTB	YP_009674077.1	Uranoscopus cognatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Uranoscopidae, Uranoscopus	13	23	12	2	5	11	6	0	5	9	1	4	11	1	15	20	13	5	2	11	7	1	4	8	5	1	1	1	2	4	10	20	6	2	1	8	11	4	7	11	8	2	1	0	9	9	2	1	1	15	7	0	7	4	2	3	3	10	11	2	0	0	0	0

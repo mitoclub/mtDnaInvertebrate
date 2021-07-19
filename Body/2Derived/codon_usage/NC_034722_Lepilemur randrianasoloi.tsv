@@ -1,65 +1,13 @@
-	YP_009368088.1|ND1	YP_009368089.1|ND2	YP_009368090.1|COX1	YP_009368091.1|COX2	YP_009368092.1|ATP8	YP_009368093.1|ATP6	YP_009368094.1|COX3	YP_009368095.1|ND3	YP_009368096.1|ND4L	YP_009368097.1|ND4	YP_009368098.1|ND5	YP_009368100.1|CYTB
-TTT	4	9	24	3	3	4	9	4	1	12	16	11
-TTC	13	4	18	3	2	4	16	3	6	10	22	18
-TTA	12	9	18	6	4	7	5	1	3	18	17	9
-TTG	1	2	5	2	1	2	0	0	1	2	1	1
-TCT	1	1	5	4	1	2	1	1	1	10	5	6
-TCC	8	8	8	6	2	6	7	2	3	5	17	10
-TCA	11	7	14	6	4	3	6	0	3	8	17	5
-TCG	0	2	2	0	0	1	2	0	0	5	0	1
-TAT	5	4	10	6	1	0	6	1	2	5	3	5
-TAC	9	5	10	5	1	3	5	3	0	10	11	9
-TGT	1	0	1	1	0	0	1	1	1	1	1	1
-TGC	1	1	0	2	0	0	2	0	2	4	3	3
-TGA	9	11	17	4	3	1	11	4	0	14	10	11
-TGG	0	0	0	1	0	2	1	0	0	0	2	0
-CTT	12	7	13	10	2	4	6	8	3	15	16	9
-CTC	7	13	5	5	1	11	7	7	3	17	21	13
-CTA	25	32	9	12	2	22	16	7	9	29	39	23
-CTG	3	4	8	1	0	1	0	2	2	4	8	3
-CCT	4	7	6	4	3	3	3	1	0	4	2	4
-CCC	7	3	12	3	2	7	5	2	1	10	11	11
-CCA	10	8	9	5	1	4	2	4	1	10	10	9
-CCG	1	1	0	0	0	0	1	0	0	0	1	0
-CAT	1	1	8	2	1	1	6	0	1	6	5	2
-CAC	1	4	11	5	0	5	10	0	1	5	9	8
-CAA	5	12	3	6	4	9	5	2	1	8	18	8
-CAG	1	0	3	0	0	0	2	1	1	2	3	0
-CGT	0	0	2	1	1	1	0	0	0	1	1	1
-CGC	2	0	1	3	0	1	1	1	1	1	2	2
-CGA	5	4	5	2	0	3	4	0	0	8	5	4
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	11	13	15	9	3	21	7	6	2	25	19	17
-ATC	14	21	22	9	3	9	7	2	4	15	32	19
-ATA	14	26	25	11	2	9	8	4	7	32	32	13
-ATG	4	7	8	2	1	1	1	2	4	6	6	4
-ACT	4	8	4	4	0	3	5	0	1	5	15	5
-ACC	9	17	7	6	3	12	8	3	4	15	17	11
-ACA	17	15	18	6	3	8	11	4	1	18	25	14
-ACG	0	1	6	1	0	2	0	0	1	3	2	0
-AAT	3	8	6	2	0	2	3	2	1	6	8	6
-AAC	9	13	9	3	4	9	5	4	4	18	28	15
-AAA	8	11	7	5	6	4	2	3	0	9	21	10
-AAG	0	0	2	0	0	0	0	1	0	1	3	0
-AGT	1	1	1	2	0	2	0	0	0	1	4	0
-AGC	0	3	4	2	0	1	4	0	1	11	10	2
-GTT	0	2	10	3	0	2	1	0	2	2	5	1
-GTC	4	3	7	3	1	2	6	1	0	2	5	4
-GTA	6	3	17	7	0	5	5	3	5	7	10	9
-GTG	0	0	5	2	0	0	2	0	0	0	2	1
-GCT	3	2	16	1	0	4	3	0	0	4	6	4
-GCC	14	8	10	6	0	5	8	5	5	10	19	8
-GCA	9	8	14	2	1	5	4	4	2	13	14	9
-GCG	1	0	1	0	0	0	0	3	0	1	0	0
-GAT	1	0	11	6	0	1	3	1	0	0	2	4
-GAC	3	0	5	5	1	0	0	1	1	3	6	5
-GAA	8	2	9	12	0	2	6	5	2	8	11	4
-GAG	3	2	1	2	1	0	2	2	0	3	0	2
-GGT	2	2	9	3	0	0	3	1	1	3	4	6
-GGC	6	3	13	3	0	5	9	0	1	5	9	8
-GGA	3	8	20	1	0	5	7	2	2	5	10	9
-GGG	1	1	5	1	0	0	1	1	0	4	2	2
-TAA	0	0	1	1	0	1	0	1	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009368088.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	13	12	1	1	8	11	0	5	9	1	1	9	0	12	7	25	3	4	7	10	1	1	1	5	1	0	2	5	1	11	14	14	4	4	9	17	0	3	9	8	0	1	0	0	4	6	0	3	14	9	1	1	3	8	3	2	6	3	1	0	0	0	0
+1	ND2	YP_009368089.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	4	9	2	1	8	7	2	4	5	0	1	11	0	7	13	32	4	7	3	8	1	1	4	12	0	0	0	4	0	13	21	26	7	8	17	15	1	8	13	11	0	1	3	2	3	3	0	2	8	8	0	0	0	2	2	2	3	8	1	0	0	0	0
+2	COX1	YP_009368090.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	24	18	18	5	5	8	14	2	10	10	1	0	17	0	13	5	9	8	6	12	9	0	8	11	3	3	2	1	5	0	15	22	25	8	4	7	18	6	6	9	7	2	1	4	10	7	17	5	16	10	14	1	11	5	9	1	9	13	20	5	1	0	0	0
+3	COX2	YP_009368091.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	3	6	2	4	6	6	0	6	5	1	2	4	1	10	5	12	1	4	3	5	0	2	5	6	0	1	3	2	0	9	9	11	2	4	6	6	1	2	3	5	0	2	2	3	3	7	2	1	6	2	0	6	5	12	2	3	3	1	1	1	0	0	0
+4	ATP8	YP_009368092.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	2	4	1	1	2	4	0	1	1	0	0	3	0	2	1	2	0	3	2	1	0	1	0	4	0	1	0	0	0	3	3	2	1	0	3	3	0	0	4	6	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	0
+5	ATP6	YP_009368093.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	4	7	2	2	6	3	1	0	3	0	0	1	2	4	11	22	1	3	7	4	0	1	5	9	0	1	1	3	0	21	9	9	1	3	12	8	2	2	9	4	0	2	1	2	2	5	0	4	5	5	0	1	0	2	0	0	5	5	0	1	0	0	0
+6	COX3	YP_009368094.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	16	5	0	1	7	6	2	6	5	1	2	11	1	6	7	16	0	3	5	2	1	6	10	5	2	0	1	4	0	7	7	8	1	5	8	11	0	3	5	2	0	0	4	1	6	5	2	3	8	4	0	3	0	6	2	3	9	7	1	0	0	0	0
+7	ND3	YP_009368095.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	3	1	0	1	2	0	0	1	3	1	0	4	0	8	7	7	2	1	2	4	0	0	0	2	1	0	1	0	0	6	2	4	2	0	3	4	0	2	4	3	1	0	0	0	1	3	0	0	5	4	3	1	1	5	2	1	0	2	1	1	0	0	0
+8	ND4L	YP_009368096.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	1	6	3	1	1	3	3	0	2	0	1	2	0	0	3	3	9	2	0	1	1	0	1	1	1	1	0	1	0	0	2	4	7	4	1	4	1	1	1	4	0	0	0	1	2	0	5	0	0	5	2	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_009368097.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	12	10	18	2	10	5	8	5	5	10	1	4	14	0	15	17	29	4	4	10	10	0	6	5	8	2	1	1	8	0	25	15	32	6	5	15	18	3	6	18	9	1	1	11	2	2	7	0	4	10	13	1	0	3	8	3	3	5	5	4	0	0	0	0
+10	ND5	YP_009368098.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	16	22	17	1	5	17	17	0	3	11	1	3	10	2	16	21	39	8	2	11	10	1	5	9	18	3	1	2	5	0	19	32	32	6	15	17	25	2	8	28	21	3	4	10	5	5	10	2	6	19	14	0	2	6	11	0	4	9	10	2	1	0	0	0
+11	CYTB	YP_009368100.1	Lepilemur randrianasoloi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	11	18	9	1	6	10	5	1	5	9	1	3	11	0	9	13	23	3	4	11	9	0	2	8	8	0	1	2	4	0	17	19	13	4	5	11	14	0	6	15	10	0	0	2	1	4	9	1	4	8	9	0	4	5	4	2	6	8	9	2	0	0	1	0

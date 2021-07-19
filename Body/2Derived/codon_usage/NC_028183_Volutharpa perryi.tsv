@@ -1,65 +1,14 @@
-	YP_009175959.1|COX1	YP_009175960.1|COX2	YP_009175961.1|ATP8	YP_009175962.1|ATP6	YP_009175963.1|ND1	YP_009175964.1|ND6	YP_009175965.1|CYTB	YP_009175966.1|ND4L	YP_009175967.1|ND4	YP_009175968.1|ND5	YP_009175969.1|COX3	YP_009175970.1|ND3	YP_009175971.1|ND2
-TTT	33	11	3	17	27	13	26	6	28	43	21	11	24
-TTC	7	2	1	4	6	1	7	1	8	11	6	2	3
-TTA	30	15	6	15	24	17	24	12	48	45	20	7	41
-TTG	9	3	0	5	6	3	4	2	4	7	2	3	4
-TCT	9	3	2	12	8	5	7	1	21	25	4	4	15
-TCC	0	0	0	3	0	3	0	1	5	4	0	1	1
-TCA	13	8	1	4	9	2	6	3	7	14	4	0	9
-TCG	1	2	0	1	3	1	1	0	0	2	1	2	0
-TAT	13	8	0	5	14	9	11	1	15	15	8	0	9
-TAC	5	1	0	2	3	1	6	2	3	0	2	0	3
-TGT	1	4	0	1	5	2	3	1	6	7	4	1	5
-TGC	0	0	0	0	0	0	1	1	0	1	0	0	0
-TGA	15	5	3	4	6	1	11	0	10	12	11	3	11
-TGG	2	1	3	0	1	0	2	0	6	0	3	0	0
-CTT	12	3	0	9	11	6	12	5	19	22	8	4	13
-CTC	3	1	0	2	3	0	4	1	7	5	0	0	3
-CTA	9	5	2	5	7	5	11	2	8	11	2	5	6
-CTG	4	0	0	1	2	1	0	0	1	1	0	1	1
-CCT	13	10	1	7	10	7	16	0	11	10	9	2	10
-CCC	4	1	1	3	2	0	3	0	1	3	0	1	0
-CCA	6	0	1	1	0	1	2	0	3	7	1	1	0
-CCG	0	0	0	0	0	0	0	0	1	1	0	0	0
-CAT	16	4	0	4	0	2	11	1	8	5	10	1	2
-CAC	3	2	0	0	0	0	2	1	2	4	2	0	2
-CAA	6	7	3	3	4	3	7	0	6	14	6	0	7
-CAG	0	0	0	1	1	0	2	1	1	0	0	1	1
-CGT	4	2	0	2	2	1	1	0	2	3	2	0	0
-CGC	0	0	0	0	0	0	1	0	0	0	0	0	0
-CGA	5	3	0	2	2	0	6	1	4	2	2	1	0
-CGG	3	1	0	0	3	0	0	0	0	0	1	3	1
-ATT	34	14	2	23	16	19	30	6	26	36	7	10	22
-ATC	4	3	1	2	6	2	3	1	7	12	3	2	5
-ATA	14	7	1	9	10	8	7	4	24	33	4	3	15
-ATG	11	3	1	3	1	4	4	1	8	6	4	1	6
-ACT	15	5	4	6	4	2	9	4	8	17	10	2	10
-ACC	0	1	0	1	1	2	3	0	4	4	2	0	1
-ACA	17	3	1	4	3	1	3	2	7	11	5	2	2
-ACG	1	0	0	2	0	0	1	0	2	0	1	0	0
-AAT	13	5	3	5	4	2	11	2	11	14	4	1	11
-AAC	3	2	1	3	3	2	5	1	2	9	0	0	2
-AAA	9	5	2	1	10	4	6	2	14	16	1	0	9
-AAG	0	0	1	0	1	0	2	0	1	2	0	2	2
-AGT	6	3	1	4	5	3	3	4	5	4	2	3	6
-AGC	1	0	0	0	2	1	1	2	2	4	2	0	3
-AGA	3	1	0	4	3	0	3	2	12	10	5	6	11
-AGG	1	0	0	3	1	2	0	0	2	1	0	0	5
-GTT	14	7	0	10	9	7	13	4	9	15	15	5	9
-GTC	4	3	0	3	2	1	1	1	0	7	1	2	2
-GTA	17	13	1	4	6	1	11	0	2	7	4	2	10
-GTG	6	0	1	2	0	2	4	0	4	0	0	1	1
-GCT	24	4	2	3	14	5	17	4	18	14	8	4	7
-GCC	5	3	0	1	3	2	7	2	7	13	3	0	2
-GCA	11	4	0	5	12	1	4	3	9	13	8	2	4
-GCG	1	0	0	0	1	0	0	0	0	1	2	0	0
-GAT	12	7	0	3	4	0	7	0	2	10	3	4	2
-GAC	4	5	0	2	0	1	2	1	3	3	1	0	0
-GAA	7	11	2	2	11	2	4	4	7	5	4	2	4
-GAG	2	3	0	1	2	0	2	0	1	1	5	3	2
-GGT	15	2	0	6	4	3	10	1	9	14	7	1	5
-GGC	1	1	0	0	2	1	2	1	1	0	2	2	3
-GGA	21	10	1	6	13	3	13	2	12	14	11	1	13
-GGG	9	1	0	0	1	1	4	1	3	3	6	2	6
-TAA	1	0	1	1	0	1	1	0	0	0	1	0	1
-TAG	0	0	0	0	0	0	0	1	1	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009175959.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	33	7	30	9	9	0	13	1	13	5	1	0	15	2	12	3	9	4	13	4	6	0	16	3	6	0	4	0	5	3	34	4	14	11	15	0	17	1	13	3	9	0	6	1	3	1	14	4	17	6	24	5	11	1	12	4	7	2	15	1	21	9	1	0
+1	COX2	YP_009175960.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	11	2	15	3	3	0	8	2	8	1	4	0	5	1	3	1	5	0	10	1	0	0	4	2	7	0	2	0	3	1	14	3	7	3	5	1	3	0	5	2	5	0	3	0	1	0	7	3	13	0	4	3	4	0	7	5	11	3	2	1	10	1	0	0
+2	ATP8	YP_009175961.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	3	1	6	0	2	0	1	0	0	0	0	0	3	3	0	0	2	0	1	1	1	0	0	0	3	0	0	0	0	0	2	1	1	1	4	0	1	0	3	1	2	1	1	0	0	0	0	0	1	1	2	0	0	0	0	0	2	0	0	0	1	0	1	0
+3	ATP6	YP_009175962.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	17	4	15	5	12	3	4	1	5	2	1	0	4	0	9	2	5	1	7	3	1	0	4	0	3	1	2	0	2	0	23	2	9	3	6	1	4	2	5	3	1	0	4	0	4	3	10	3	4	2	3	1	5	0	3	2	2	1	6	0	6	0	1	0
+4	ND1	YP_009175963.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	27	6	24	6	8	0	9	3	14	3	5	0	6	1	11	3	7	2	10	2	0	0	0	0	4	1	2	0	2	3	16	6	10	1	4	1	3	0	4	3	10	1	5	2	3	1	9	2	6	0	14	3	12	1	4	0	11	2	4	2	13	1	0	0
+5	ND6	YP_009175964.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	13	1	17	3	5	3	2	1	9	1	2	0	1	0	6	0	5	1	7	0	1	0	2	0	3	0	1	0	0	0	19	2	8	4	2	2	1	0	2	2	4	0	3	1	0	2	7	1	1	2	5	2	1	0	0	1	2	0	3	1	3	1	1	0
+6	CYTB	YP_009175965.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	26	7	24	4	7	0	6	1	11	6	3	1	11	2	12	4	11	0	16	3	2	0	11	2	7	2	1	1	6	0	30	3	7	4	9	3	3	1	11	5	6	2	3	1	3	0	13	1	11	4	17	7	4	0	7	2	4	2	10	2	13	4	1	0
+7	ND4L	YP_009175966.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	6	1	12	2	1	1	3	0	1	2	1	1	0	0	5	1	2	0	0	0	0	0	1	1	0	1	0	0	1	0	6	1	4	1	4	0	2	0	2	1	2	0	4	2	2	0	4	1	0	0	4	2	3	0	0	1	4	0	1	1	2	1	0	1
+8	ND4	YP_009175967.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	28	8	48	4	21	5	7	0	15	3	6	0	10	6	19	7	8	1	11	1	3	1	8	2	6	1	2	0	4	0	26	7	24	8	8	4	7	2	11	2	14	1	5	2	12	2	9	0	2	4	18	7	9	0	2	3	7	1	9	1	12	3	0	1
+9	ND5	YP_009175968.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	43	11	45	7	25	4	14	2	15	0	7	1	12	0	22	5	11	1	10	3	7	1	5	4	14	0	3	0	2	0	36	12	33	6	17	4	11	0	14	9	16	2	4	4	10	1	15	7	7	0	14	13	13	1	10	3	5	1	14	0	14	3	0	0
+10	COX3	YP_009175969.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	21	6	20	2	4	0	4	1	8	2	4	0	11	3	8	0	2	0	9	0	1	0	10	2	6	0	2	0	2	1	7	3	4	4	10	2	5	1	4	0	1	0	2	2	5	0	15	1	4	0	8	3	8	2	3	1	4	5	7	2	11	6	1	0
+11	ND3	YP_009175970.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	11	2	7	3	4	1	0	2	0	0	1	0	3	0	4	0	5	1	2	1	1	0	1	0	0	1	0	0	1	3	10	2	3	1	2	0	2	0	1	0	0	2	3	0	6	0	5	2	2	1	4	0	2	0	4	0	2	3	1	2	1	2	0	1
+12	ND2	YP_009175971.1	Volutharpa perryi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Volutharpa	24	3	41	4	15	1	9	0	9	3	5	0	11	0	13	3	6	1	10	0	0	0	2	2	7	1	0	0	0	1	22	5	15	6	10	1	2	0	11	2	9	2	6	3	11	5	9	2	10	1	7	2	4	0	2	0	4	2	5	3	13	6	1	0

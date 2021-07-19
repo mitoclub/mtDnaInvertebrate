@@ -1,65 +1,14 @@
-	YP_009421083.1|COX1	YP_009421084.1|COX2	YP_009421085.1|ATP8	YP_009421086.1|ATP6	YP_009421087.1|ND1	YP_009421088.1|ND6	YP_009421089.1|CYTB	YP_009421090.1|ND4L	YP_009421091.1|ND4	YP_009421092.1|ND5	YP_009421093.1|COX3	YP_009421094.1|ND3	YP_009421095.1|ND2
-TTT	39	16	6	29	40	16	38	5	49	51	29	11	37
-TTC	4	0	0	2	0	0	0	1	1	0	3	1	4
-TTA	48	10	6	19	21	14	30	13	36	54	20	13	41
-TTG	11	13	0	14	24	11	22	8	36	25	10	3	12
-TCT	15	7	0	6	10	3	16	6	14	18	9	5	10
-TCC	0	0	1	2	0	0	0	0	0	2	0	0	0
-TCA	10	2	0	5	2	0	1	1	11	8	3	0	4
-TCG	1	2	0	2	1	1	3	0	1	3	0	1	2
-TAT	18	10	1	10	12	7	16	1	19	19	12	3	14
-TAC	0	0	0	0	1	0	2	2	1	0	2	1	1
-TGT	3	6	2	1	7	4	4	3	10	10	3	3	7
-TGC	0	0	0	2	0	0	0	0	1	0	0	0	1
-TGA	12	5	4	3	4	2	8	0	7	5	8	2	8
-TGG	5	3	2	3	3	1	6	0	10	6	6	2	3
-CTT	8	3	1	5	5	1	3	2	5	9	4	1	3
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	2	1	0	3	1	0	0	0	1	1	0	1	2
-CTG	0	0	0	0	0	0	2	0	1	1	1	2	2
-CCT	16	4	0	3	8	3	11	0	6	5	7	2	5
-CCC	1	0	0	0	1	0	0	0	0	0	0	0	0
-CCA	3	3	2	1	3	0	4	0	6	4	1	1	0
-CCG	2	3	0	1	0	2	1	0	2	4	0	1	2
-CAT	18	5	0	3	0	1	11	1	5	6	11	1	3
-CAC	1	1	0	1	0	0	1	0	1	0	1	0	0
-CAA	6	5	0	1	3	0	2	0	2	8	2	0	4
-CAG	2	1	1	0	2	2	4	2	5	3	1	0	1
-CGT	6	4	0	1	2	0	3	1	3	4	2	1	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	4	1	0	0	2	0	2	1	0	0	1	1	0
-CGG	0	1	0	0	3	1	1	0	1	1	2	1	0
-ATT	39	18	2	11	15	20	31	7	29	47	12	13	33
-ATC	1	1	0	2	0	0	0	0	1	1	1	0	0
-ATA	19	6	2	9	5	5	6	2	10	29	4	4	20
-ATG	10	4	2	5	7	8	6	4	12	20	2	4	8
-ACT	27	1	0	5	6	1	7	2	8	10	10	0	7
-ACC	1	0	0	0	0	1	1	0	0	3	0	0	0
-ACA	2	3	1	3	0	0	2	0	0	4	5	0	0
-ACG	3	1	0	0	1	1	1	0	2	1	0	0	0
-AAT	13	8	4	8	10	6	14	3	16	19	4	2	16
-AAC	3	0	0	0	0	0	1	0	0	0	0	0	0
-AAA	4	3	2	3	8	3	2	1	5	9	2	2	7
-AAG	4	2	1	1	3	2	5	1	8	11	1	2	2
-AGT	5	4	0	7	4	5	6	2	11	12	4	5	9
-AGC	0	0	0	0	0	0	0	0	0	2	0	1	0
-AGA	1	4	2	3	5	3	3	3	3	16	4	0	5
-AGG	2	1	0	4	4	0	3	3	8	14	4	2	4
-GTT	16	10	5	9	26	11	30	6	26	24	17	6	18
-GTC	0	1	1	2	1	0	0	0	0	3	0	0	0
-GTA	13	8	0	7	6	7	4	2	9	13	2	1	7
-GTG	7	4	0	1	4	3	7	0	11	10	2	0	2
-GCT	25	4	1	6	16	4	9	4	17	21	9	1	4
-GCC	0	1	0	0	0	0	0	0	0	0	0	0	0
-GCA	7	0	0	0	1	0	2	0	2	3	1	1	1
-GCG	2	4	0	2	3	0	2	2	1	1	1	0	1
-GAT	15	12	2	6	5	3	9	1	4	10	3	3	4
-GAC	1	0	0	1	1	0	0	0	0	1	0	0	0
-GAA	7	4	0	3	3	2	5	0	2	3	8	3	5
-GAG	3	10	2	0	6	0	2	3	4	5	0	2	2
-GGT	20	8	1	5	8	9	17	2	15	15	12	2	15
-GGC	1	0	0	0	1	0	0	0	0	0	1	0	2
-GGA	20	2	0	2	2	1	3	2	8	7	7	3	10
-GGG	7	4	3	4	7	2	8	1	4	10	5	3	2
-TAA	1	0	1	1	1	1	0	0	1	0	1	0	1
-TAG	0	1	0	0	0	0	1	1	0	1	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009421083.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	39	4	48	11	15	0	10	1	18	0	3	0	12	5	8	0	2	0	16	1	3	2	18	1	6	2	6	0	4	0	39	1	19	10	27	1	2	3	13	3	4	4	5	0	1	2	16	0	13	7	25	0	7	2	15	1	7	3	20	1	20	7	1	0
+1	COX2	YP_009421084.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	16	0	10	13	7	0	2	2	10	0	6	0	5	3	3	0	1	0	4	0	3	3	5	1	5	1	4	0	1	1	18	1	6	4	1	0	3	1	8	0	3	2	4	0	4	1	10	1	8	4	4	1	0	4	12	0	4	10	8	0	2	4	0	1
+2	ATP8	YP_009421085.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	6	0	6	0	0	1	0	0	1	0	2	0	4	2	1	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	2	0	2	2	0	0	1	0	4	0	2	1	0	0	2	0	5	1	0	0	1	0	0	0	2	0	0	2	1	0	0	3	1	0
+3	ATP6	YP_009421086.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	29	2	19	14	6	2	5	2	10	0	1	2	3	3	5	0	3	0	3	0	1	1	3	1	1	0	1	0	0	0	11	2	9	5	5	0	3	0	8	0	3	1	7	0	3	4	9	2	7	1	6	0	0	2	6	1	3	0	5	0	2	4	1	0
+4	ND1	YP_009421087.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	40	0	21	24	10	0	2	1	12	1	7	0	4	3	5	0	1	0	8	1	3	0	0	0	3	2	2	0	2	3	15	0	5	7	6	0	0	1	10	0	8	3	4	0	5	4	26	1	6	4	16	0	1	3	5	1	3	6	8	1	2	7	1	0
+5	ND6	YP_009421088.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	16	0	14	11	3	0	0	1	7	0	4	0	2	1	1	0	0	0	3	0	0	2	1	0	0	2	0	0	0	1	20	0	5	8	1	1	0	1	6	0	3	2	5	0	3	0	11	0	7	3	4	0	0	0	3	0	2	0	9	0	1	2	1	0
+6	CYTB	YP_009421089.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	38	0	30	22	16	0	1	3	16	2	4	0	8	6	3	0	0	2	11	0	4	1	11	1	2	4	3	0	2	1	31	0	6	6	7	1	2	1	14	1	2	5	6	0	3	3	30	0	4	7	9	0	2	2	9	0	5	2	17	0	3	8	0	1
+7	ND4L	YP_009421090.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	5	1	13	8	6	0	1	0	1	2	3	0	0	0	2	0	0	0	0	0	0	0	1	0	0	2	1	0	1	0	7	0	2	4	2	0	0	0	3	0	1	1	2	0	3	3	6	0	2	0	4	0	0	2	1	0	0	3	2	0	2	1	0	1
+8	ND4	YP_009421091.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	49	1	36	36	14	0	11	1	19	1	10	1	7	10	5	0	1	1	6	0	6	2	5	1	2	5	3	0	0	1	29	1	10	12	8	0	0	2	16	0	5	8	11	0	3	8	26	0	9	11	17	0	2	1	4	0	2	4	15	0	8	4	1	0
+9	ND5	YP_009421092.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	51	0	54	25	18	2	8	3	19	0	10	0	5	6	9	0	1	1	5	0	4	4	6	0	8	3	4	0	0	1	47	1	29	20	10	3	4	1	19	0	9	11	12	2	16	14	24	3	13	10	21	0	3	1	10	1	3	5	15	0	7	10	0	1
+10	COX3	YP_009421093.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	29	3	20	10	9	0	3	0	12	2	3	0	8	6	4	0	0	1	7	0	1	0	11	1	2	1	2	0	1	2	12	1	4	2	10	0	5	0	4	0	2	1	4	0	4	4	17	0	2	2	9	0	1	1	3	0	8	0	12	1	7	5	1	0
+11	ND3	YP_009421094.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	11	1	13	3	5	0	0	1	3	1	3	0	2	2	1	0	1	2	2	0	1	1	1	0	0	0	1	0	1	1	13	0	4	4	0	0	0	0	2	0	2	2	5	1	0	2	6	0	1	0	1	0	1	0	3	0	3	2	2	0	3	3	0	1
+12	ND2	YP_009421095.1	Cipangopaludina chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Viviparidae, Cipangopaludina	37	4	41	12	10	0	4	2	14	1	7	1	8	3	3	0	2	2	5	0	0	2	3	0	4	1	1	0	0	0	33	0	20	8	7	0	0	0	16	0	7	2	9	0	5	4	18	0	7	2	4	0	1	1	4	0	5	2	15	2	10	2	1	0

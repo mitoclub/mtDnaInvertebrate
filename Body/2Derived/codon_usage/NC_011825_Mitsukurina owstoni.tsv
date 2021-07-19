@@ -1,65 +1,13 @@
-	YP_002456398.1|ND1	YP_002456399.1|ND2	YP_002456400.1|COX1	YP_002456401.1|COX2	YP_002456402.1|ATP8	YP_002456403.1|ATP6	YP_002456404.1|COX3	YP_002456405.1|ND3	YP_002456406.1|ND4L	YP_002456407.1|ND4	YP_002456408.1|ND5	YP_002456410.1|CYTB
-TTT	9	8	29	6	4	11	10	4	3	10	15	14
-TTC	9	5	12	2	1	5	11	6	1	8	24	20
-TTA	19	12	28	11	3	14	11	6	3	23	26	10
-TTG	0	1	0	0	0	0	2	0	1	2	2	0
-TCT	3	7	9	3	0	1	1	3	4	5	8	3
-TCC	4	9	7	2	1	1	3	3	3	4	10	12
-TCA	10	13	11	7	2	1	6	1	4	11	17	7
-TCG	0	0	0	0	0	0	0	0	0	0	0	0
-TAT	2	1	9	6	0	1	7	2	0	9	5	6
-TAC	9	5	8	4	0	3	6	0	0	5	8	8
-TGT	0	0	0	1	0	0	1	1	1	1	3	3
-TGC	0	1	1	1	0	0	1	0	3	3	2	1
-TGA	8	8	16	5	5	5	12	4	0	18	12	12
-TGG	0	2	1	0	0	0	0	1	1	2	1	0
-CTT	13	14	13	5	1	5	6	5	5	25	16	13
-CTC	12	15	6	4	0	8	5	6	5	14	24	15
-CTA	26	27	14	6	1	20	10	12	8	26	37	20
-CTG	0	1	1	0	0	2	1	0	1	1	2	1
-CCT	3	4	4	2	4	2	2	0	2	6	7	7
-CCC	9	7	5	5	2	5	1	3	0	7	4	5
-CCA	10	8	20	7	2	9	10	5	0	12	18	7
-CCG	0	1	0	0	0	0	0	0	0	1	0	1
-CAT	5	3	11	5	1	2	11	0	1	6	4	5
-CAC	2	3	10	4	1	1	5	0	2	5	13	9
-CAA	6	10	7	8	1	9	8	2	2	11	23	8
-CAG	0	0	1	1	0	0	0	0	0	1	0	0
-CGT	0	1	2	2	0	0	1	1	0	1	4	2
-CGC	3	1	0	2	0	1	0	1	2	0	2	0
-CGA	4	3	7	2	0	4	4	0	0	10	3	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	15	17	25	16	3	19	10	6	2	34	35	18
-ATC	12	16	17	10	1	7	8	3	6	19	28	22
-ATA	15	17	22	11	2	10	4	0	4	27	30	14
-ATG	1	2	2	3	1	2	2	1	1	2	4	1
-ACT	4	10	7	3	1	7	3	1	4	4	13	3
-ACC	13	15	7	3	0	8	7	0	4	13	20	11
-ACA	11	17	22	6	1	9	12	2	1	22	16	10
-ACG	0	0	0	0	0	1	1	1	0	0	1	0
-AAT	7	7	8	2	2	8	2	2	1	8	18	7
-AAC	6	8	7	2	3	3	1	2	5	10	20	16
-AAA	7	10	8	4	7	1	2	1	0	10	22	9
-AAG	0	0	0	0	0	0	0	0	0	1	0	0
-AGT	1	1	0	1	1	2	3	0	2	4	4	0
-AGC	2	3	3	3	1	2	0	1	0	6	6	1
-GTT	3	0	10	2	1	0	1	2	0	3	3	3
-GTC	2	4	6	2	0	3	4	1	0	2	5	7
-GTA	4	4	22	8	2	4	10	1	0	3	5	6
-GTG	0	0	3	0	0	1	0	0	1	0	1	1
-GCT	4	4	12	3	0	4	5	2	2	10	11	4
-GCC	8	13	12	8	0	3	9	2	2	12	20	12
-GCA	11	4	21	5	0	10	6	5	4	9	6	5
-GCG	0	0	0	0	0	0	0	2	0	0	0	0
-GAT	0	1	9	4	0	0	1	1	1	1	3	2
-GAC	3	1	5	7	0	1	4	2	0	3	8	4
-GAA	10	5	11	15	0	4	10	4	2	10	11	6
-GAG	1	0	0	2	0	0	0	2	0	0	0	0
-GGT	1	5	14	3	0	2	2	1	2	2	7	3
-GGC	6	6	10	2	0	1	7	2	2	7	7	7
-GGA	8	4	15	4	0	5	11	3	0	7	12	13
-GGG	3	3	7	0	0	0	1	0	0	4	3	2
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002456398.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	9	9	19	0	3	4	10	0	2	9	0	0	8	0	13	12	26	0	3	9	10	0	5	2	6	0	0	3	4	0	15	12	15	1	4	13	11	0	7	6	7	0	1	2	3	2	4	0	4	8	11	0	0	3	10	1	1	6	8	3	1	0	0	0
+1	ND2	YP_002456399.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	8	5	12	1	7	9	13	0	1	5	0	1	8	2	14	15	27	1	4	7	8	1	3	3	10	0	1	1	3	0	17	16	17	2	10	15	17	0	7	8	10	0	1	3	0	4	4	0	4	13	4	0	1	1	5	0	5	6	4	3	0	0	0	0
+2	COX1	YP_002456400.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	29	12	28	0	9	7	11	0	9	8	0	1	16	1	13	6	14	1	4	5	20	0	11	10	7	1	2	0	7	0	25	17	22	2	7	7	22	0	8	7	8	0	0	3	10	6	22	3	12	12	21	0	9	5	11	0	14	10	15	7	1	0	0	0
+3	COX2	YP_002456401.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	6	2	11	0	3	2	7	0	6	4	1	1	5	0	5	4	6	0	2	5	7	0	5	4	8	1	2	2	2	0	16	10	11	3	3	3	6	0	2	2	4	0	1	3	2	2	8	0	3	8	5	0	4	7	15	2	3	2	4	0	0	0	0	0
+4	ATP8	YP_002456402.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	4	1	3	0	0	1	2	0	0	0	0	0	5	0	1	0	1	0	4	2	2	0	1	1	1	0	0	0	0	0	3	1	2	1	1	0	1	0	2	3	7	0	1	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002456403.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	11	5	14	0	1	1	1	0	1	3	0	0	5	0	5	8	20	2	2	5	9	0	2	1	9	0	0	1	4	0	19	7	10	2	7	8	9	1	8	3	1	0	2	2	0	3	4	1	4	3	10	0	0	1	4	0	2	1	5	0	1	0	0	0
+6	COX3	YP_002456404.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	10	11	11	2	1	3	6	0	7	6	1	1	12	0	6	5	10	1	2	1	10	0	11	5	8	0	1	0	4	0	10	8	4	2	3	7	12	1	2	1	2	0	3	0	1	4	10	0	5	9	6	0	1	4	10	0	2	7	11	1	1	0	0	0
+7	ND3	YP_002456405.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	4	6	6	0	3	3	1	0	2	0	1	0	4	1	5	6	12	0	0	3	5	0	0	0	2	0	1	1	0	0	6	3	0	1	1	0	2	1	2	2	1	0	0	1	2	1	1	0	2	2	5	2	1	2	4	2	1	2	3	0	0	0	0	0
+8	ND4L	YP_002456406.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	3	1	3	1	4	3	4	0	0	0	1	3	0	1	5	5	8	1	2	0	0	0	1	2	2	0	0	2	0	0	2	6	4	1	4	4	1	0	1	5	0	0	2	0	0	0	0	1	2	2	4	0	1	0	2	0	2	2	0	0	1	0	0	0
+9	ND4	YP_002456407.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	10	8	23	2	5	4	11	0	9	5	1	3	18	2	25	14	26	1	6	7	12	1	6	5	11	1	1	0	10	0	34	19	27	2	4	13	22	0	8	10	10	1	4	6	3	2	3	0	10	12	9	0	1	3	10	0	2	7	7	4	0	0	0	0
+10	ND5	YP_002456408.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	15	24	26	2	8	10	17	0	5	8	3	2	12	1	16	24	37	2	7	4	18	0	4	13	23	0	4	2	3	0	35	28	30	4	13	20	16	1	18	20	22	0	4	6	3	5	5	1	11	20	6	0	3	8	11	0	7	7	12	3	1	0	0	0
+11	CYTB	YP_002456410.1	Mitsukurina owstoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Mitsukurinidae, Mitsukurina	14	20	10	0	3	12	7	0	6	8	3	1	12	0	13	15	20	1	7	5	7	1	5	9	8	0	2	0	5	0	18	22	14	1	3	11	10	0	7	16	9	0	0	1	3	7	6	1	4	12	5	0	2	4	6	0	3	7	13	2	0	0	0	0

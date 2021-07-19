@@ -1,65 +1,10 @@
-	YP_009538065.1|ND2	YP_009538066.1|COX1	YP_009538067.1|COX2	YP_009538068.1|ATP8	YP_009538069.1|ATP6	YP_009538070.1|COX3	YP_009538071.1|ND3	YP_009538075.1|ND6	YP_009538076.1|CYTB
-TTT	52	39	12	7	21	21	15	20	33
-TTC	4	2	2	2	1	5	3	2	5
-TTA	41	47	23	2	30	17	8	26	44
-TTG	0	0	0	0	0	0	1	0	0
-TCT	12	16	4	0	8	6	4	5	7
-TCC	6	5	0	0	1	2	0	1	1
-TCA	12	16	8	1	5	3	5	6	9
-TCG	0	0	0	0	0	0	0	0	0
-TAT	11	13	10	3	6	8	1	9	16
-TAC	1	6	0	0	0	3	0	1	2
-TGT	2	0	2	0	0	2	2	1	2
-TGC	1	0	0	0	0	0	0	0	1
-TGA	9	14	6	3	4	13	3	2	10
-TGG	1	0	0	0	1	0	0	0	2
-CTT	6	11	1	0	6	7	2	5	7
-CTC	0	2	2	0	0	0	0	0	1
-CTA	3	3	1	0	1	5	0	0	2
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	12	4	1	6	6	4	1	7
-CCC	5	4	1	0	1	1	0	0	4
-CCA	0	9	4	1	3	3	1	1	10
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	16	5	0	5	12	2	1	6
-CAC	1	0	0	0	1	3	0	1	2
-CAA	4	9	8	1	4	6	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	4	3	0	2	1	0	0	1
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	5	4	0	1	3	2	1	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	53	52	33	12	28	27	19	25	49
-ATC	5	4	2	0	5	4	1	3	9
-ATA	17	31	7	4	10	7	9	12	12
-ATG	0	0	1	0	1	1	1	0	1
-ACT	3	16	5	0	15	9	3	5	12
-ACC	2	2	0	0	0	1	0	0	3
-ACA	3	10	6	0	4	11	2	2	9
-ACG	0	1	0	0	0	0	0	0	0
-AAT	28	23	22	10	20	13	7	15	25
-AAC	3	1	1	0	0	1	0	3	1
-AAA	11	6	4	6	2	3	5	7	10
-AAG	1	0	0	0	0	0	0	0	1
-AGT	2	6	3	0	2	3	0	1	0
-AGC	1	1	0	0	0	0	0	0	0
-AGA	5	3	4	1	7	3	1	2	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	14	2	0	4	4	2	3	7
-GTC	1	1	0	0	0	1	0	0	0
-GTA	1	9	5	0	1	6	3	1	4
-GTG	0	0	0	0	0	2	0	0	1
-GCT	3	18	4	0	3	6	0	1	10
-GCC	0	3	1	0	0	0	1	0	1
-GCA	2	6	3	0	2	5	0	2	5
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	13	8	0	1	3	2	1	7
-GAC	0	2	1	0	0	1	1	0	2
-GAA	4	9	9	0	4	6	4	3	3
-GAG	0	0	0	0	0	1	0	0	0
-GGT	3	15	2	0	4	6	0	4	4
-GGC	1	0	0	0	1	2	0	0	0
-GGA	6	29	2	0	4	9	2	1	18
-GGG	1	2	1	0	0	0	0	0	1
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009538065.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	52	4	41	0	12	6	12	0	11	1	2	1	9	1	6	0	3	0	3	5	0	0	1	1	4	0	1	0	1	0	53	5	17	0	3	2	3	0	28	3	11	1	2	1	5	0	3	1	1	0	3	0	2	0	0	0	4	0	3	1	6	1	1	0
+1	COX1	YP_009538066.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	39	2	47	0	16	5	16	0	13	6	0	0	14	0	11	2	3	0	12	4	9	0	16	0	9	0	4	0	5	0	52	4	31	0	16	2	10	1	23	1	6	0	6	1	3	0	14	1	9	0	18	3	6	0	13	2	9	0	15	0	29	2	0	0
+2	COX2	YP_009538067.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	12	2	23	0	4	0	8	0	10	0	2	0	6	0	1	2	1	0	4	1	4	0	5	0	8	0	3	0	4	0	33	2	7	1	5	0	6	0	22	1	4	0	3	0	4	0	2	0	5	0	4	1	3	0	8	1	9	0	2	0	2	1	0	0
+3	ATP8	YP_009538068.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	7	2	2	0	0	0	1	0	3	0	0	0	3	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	12	0	4	0	0	0	0	0	10	0	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009538069.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	21	1	30	0	8	1	5	0	6	0	0	0	4	1	6	0	1	0	6	1	3	0	5	1	4	0	2	0	1	0	28	5	10	1	15	0	4	0	20	0	2	0	2	0	7	0	4	0	1	0	3	0	2	0	1	0	4	0	4	1	4	0	1	0
+5	COX3	YP_009538070.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	21	5	17	0	6	2	3	0	8	3	2	0	13	0	7	0	5	0	6	1	3	0	12	3	6	0	1	0	3	0	27	4	7	1	9	1	11	0	13	1	3	0	3	0	3	0	4	1	6	2	6	0	5	0	3	1	6	1	6	2	9	0	1	0
+6	ND3	YP_009538071.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	15	3	8	1	4	0	5	0	1	0	2	0	3	0	2	0	0	0	4	0	1	0	2	0	1	0	0	0	2	0	19	1	9	1	3	0	2	0	7	0	5	0	0	0	1	0	2	0	3	0	0	1	0	0	2	1	4	0	0	0	2	0	1	0
+7	ND6	YP_009538075.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	20	2	26	0	5	1	6	0	9	1	1	0	2	0	5	0	0	0	1	0	1	0	1	1	2	0	0	0	1	0	25	3	12	0	5	0	2	0	15	3	7	0	1	0	2	0	3	0	1	0	1	0	2	0	1	0	3	0	4	0	1	0	1	0
+8	CYTB	YP_009538076.1	Athyma fortuna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Athyma	33	5	44	0	7	1	9	0	16	2	2	1	10	2	7	1	2	0	7	4	10	0	6	2	8	0	1	0	6	0	49	9	12	1	12	3	9	0	25	1	10	1	0	0	2	0	7	0	4	1	10	1	5	0	7	2	3	0	4	0	18	1	1	0

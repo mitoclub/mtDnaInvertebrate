@@ -1,65 +1,13 @@
-	YP_009178008.1|ND1	YP_009178009.1|ND2	YP_009178010.1|COX1	YP_009178011.1|COX2	YP_009178012.1|ATP8	YP_009178013.1|ATP6	YP_009178014.1|COX3	YP_009178015.1|ND3	YP_009178016.1|ND4L	YP_009178017.1|ND4	YP_009178018.1|ND5	YP_009178020.1|CYTB
-TTT	11	9	24	8	3	14	12	4	3	18	27	18
-TTC	6	7	17	3	1	2	11	5	3	1	14	13
-TTA	14	18	18	8	2	16	5	8	2	20	25	17
-TTG	3	2	2	0	1	2	0	0	0	1	0	1
-TCT	6	5	6	2	0	2	5	1	4	4	10	6
-TCC	4	4	6	7	1	1	0	2	3	5	10	9
-TCA	7	12	12	4	1	4	6	4	2	9	12	6
-TCG	1	0	0	0	0	0	0	1	2	0	1	0
-TAT	7	5	7	7	1	2	5	1	0	7	4	4
-TAC	4	6	11	3	0	2	6	1	0	7	8	10
-TGT	0	1	2	1	0	0	0	1	1	3	3	2
-TGC	0	1	0	1	0	0	2	0	2	2	3	1
-TGA	5	10	16	5	4	4	12	5	1	16	13	11
-TGG	3	1	1	0	1	0	0	0	0	4	1	0
-CTT	15	17	19	9	0	13	13	11	6	21	32	18
-CTC	5	10	11	2	0	4	7	5	2	18	8	14
-CTA	22	14	11	7	2	13	8	7	11	23	29	10
-CTG	4	0	5	1	0	2	1	0	3	7	3	3
-CCT	3	6	6	3	2	6	3	2	0	5	7	3
-CCC	5	6	10	4	0	4	5	3	0	7	10	11
-CCA	16	4	12	6	3	7	4	3	1	9	9	7
-CCG	0	1	1	1	0	0	0	0	0	1	2	0
-CAT	2	2	7	4	1	0	9	0	1	3	4	3
-CAC	3	7	14	7	2	4	7	0	3	10	10	9
-CAA	6	14	7	9	1	9	9	3	3	12	16	7
-CAG	1	3	0	0	0	2	0	0	0	4	4	0
-CGT	0	3	1	3	1	1	2	0	0	1	2	0
-CGC	1	0	0	0	0	2	2	1	1	1	3	1
-CGA	6	1	6	2	0	3	0	0	2	8	4	6
-CGG	1	0	1	1	0	0	1	1	0	1	0	0
-ATT	14	24	25	15	4	17	12	5	1	34	36	15
-ATC	11	9	11	3	2	7	1	2	0	7	21	14
-ATA	8	16	18	8	0	7	7	1	4	17	22	9
-ATG	4	3	8	4	2	0	1	1	3	6	6	4
-ACT	3	7	7	4	2	5	7	1	1	6	14	4
-ACC	9	10	15	1	2	3	6	1	5	16	28	6
-ACA	7	10	10	4	2	6	10	3	1	20	19	9
-ACG	0	1	2	1	0	1	0	0	0	1	0	1
-AAT	5	3	8	3	2	5	0	2	0	3	13	4
-AAC	7	7	6	3	1	5	2	0	1	10	16	16
-AAA	7	12	8	4	3	1	2	1	0	9	21	9
-AAG	0	0	1	0	1	0	0	0	0	1	2	0
-AGT	0	0	0	1	0	2	0	0	2	3	1	0
-AGC	2	4	4	2	1	2	4	0	1	3	12	1
-GTT	6	9	15	7	0	7	9	0	1	4	10	5
-GTC	3	5	10	5	0	1	3	2	0	4	3	8
-GTA	7	5	13	4	1	4	4	1	0	5	10	11
-GTG	2	1	1	2	1	0	1	1	0	1	0	1
-GCT	7	2	17	5	0	4	6	3	2	7	7	7
-GCC	11	16	20	8	1	10	5	6	8	20	24	15
-GCA	16	17	12	4	0	5	10	1	3	11	15	7
-GCG	1	0	1	1	0	0	1	1	0	1	1	0
-GAT	2	0	6	4	0	1	2	0	0	2	5	4
-GAC	1	0	8	10	1	0	3	3	1	3	8	7
-GAA	9	6	8	7	2	4	6	5	2	6	9	6
-GAG	2	0	4	3	0	0	3	1	1	4	4	0
-GGT	3	4	16	2	0	2	3	2	0	2	6	6
-GGC	6	6	8	2	0	7	7	1	2	11	7	11
-GGA	6	3	16	4	0	1	8	2	2	7	16	4
-GGG	3	2	8	0	0	1	3	1	1	8	2	4
-TAA	1	1	0	0	0	0	0	1	1	0	1	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009178008.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	11	6	14	3	6	4	7	1	7	4	0	0	5	3	15	5	22	4	3	5	16	0	2	3	6	1	0	1	6	1	14	11	8	4	3	9	7	0	5	7	7	0	0	2	6	3	7	2	7	11	16	1	2	1	9	2	3	6	6	3	1	0	0	0
+1	ND2	YP_009178009.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	9	7	18	2	5	4	12	0	5	6	1	1	10	1	17	10	14	0	6	6	4	1	2	7	14	3	3	0	1	0	24	9	16	3	7	10	10	1	3	7	12	0	0	4	9	5	5	1	2	16	17	0	0	0	6	0	4	6	3	2	1	0	0	0
+2	COX1	YP_009178010.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	24	17	18	2	6	6	12	0	7	11	2	0	16	1	19	11	11	5	6	10	12	1	7	14	7	0	1	0	6	1	25	11	18	8	7	15	10	2	8	6	8	1	0	4	15	10	13	1	17	20	12	1	6	8	8	4	16	8	16	8	0	0	0	1
+3	COX2	YP_009178011.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	8	3	8	0	2	7	4	0	7	3	1	1	5	0	9	2	7	1	3	4	6	1	4	7	9	0	3	0	2	1	15	3	8	4	4	1	4	1	3	3	4	0	1	2	7	5	4	2	5	8	4	1	4	10	7	3	2	2	4	0	0	0	0	0
+4	ATP8	YP_009178012.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	3	1	2	1	0	1	1	0	1	0	0	0	4	1	0	0	2	0	2	0	3	0	1	2	1	0	1	0	0	0	4	2	0	2	2	2	2	0	2	1	3	1	0	1	0	0	1	1	0	1	0	0	0	1	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009178013.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	14	2	16	2	2	1	4	0	2	2	0	0	4	0	13	4	13	2	6	4	7	0	0	4	9	2	1	2	3	0	17	7	7	0	5	3	6	1	5	5	1	0	2	2	7	1	4	0	4	10	5	0	1	0	4	0	2	7	1	1	0	0	0	0
+6	COX3	YP_009178014.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	12	11	5	0	5	0	6	0	5	6	0	2	12	0	13	7	8	1	3	5	4	0	9	7	9	0	2	2	0	1	12	1	7	1	7	6	10	0	0	2	2	0	0	4	9	3	4	1	6	5	10	1	2	3	6	3	3	7	8	3	0	0	0	0
+7	ND3	YP_009178015.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	4	5	8	0	1	2	4	1	1	1	1	0	5	0	11	5	7	0	2	3	3	0	0	0	3	0	0	1	0	1	5	2	1	1	1	1	3	0	2	0	1	0	0	0	0	2	1	1	3	6	1	1	0	3	5	1	2	1	2	1	1	0	0	0
+8	ND4L	YP_009178016.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	3	3	2	0	4	3	2	2	0	0	1	2	1	0	6	2	11	3	0	0	1	0	1	3	3	0	0	1	2	0	1	0	4	3	1	5	1	0	0	1	0	0	2	1	1	0	0	0	2	8	3	0	0	1	2	1	0	2	2	1	1	0	0	0
+9	ND4	YP_009178017.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	18	1	20	1	4	5	9	0	7	7	3	2	16	4	21	18	23	7	5	7	9	1	3	10	12	4	1	1	8	1	34	7	17	6	6	16	20	1	3	10	9	1	3	3	4	4	5	1	7	20	11	1	2	3	6	4	2	11	7	8	0	0	0	0
+10	ND5	YP_009178018.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	27	14	25	0	10	10	12	1	4	8	3	3	13	1	32	8	29	3	7	10	9	2	4	10	16	4	2	3	4	0	36	21	22	6	14	28	19	0	13	16	21	2	1	12	10	3	10	0	7	24	15	1	5	8	9	4	6	7	16	2	1	0	0	0
+11	CYTB	YP_009178020.1	Paracheirodon innesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Characidae, Paracheirodon	18	13	17	1	6	9	6	0	4	10	2	1	11	0	18	14	10	3	3	11	7	0	3	9	7	0	0	1	6	0	15	14	9	4	4	6	9	1	4	16	9	0	0	1	5	8	11	1	7	15	7	0	4	7	6	0	6	11	4	4	1	0	0	0

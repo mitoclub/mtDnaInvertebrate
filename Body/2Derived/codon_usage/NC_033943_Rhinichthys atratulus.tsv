@@ -1,65 +1,13 @@
-	YP_009348904.1|ND1	YP_009348905.1|ND2	YP_009348906.1|COX1	YP_009348907.1|COX2	YP_009348908.1|ATP8	YP_009348909.1|ATP6	YP_009348910.1|COX3	YP_009348911.1|ND3	YP_009348912.1|ND4L	YP_009348913.1|ND4	YP_009348914.1|ND5	YP_009348916.1|CYTB
-TTT	11	6	22	6	1	9	14	3	6	8	10	9
-TTC	6	4	20	3	2	4	10	7	2	8	28	20
-TTA	9	11	8	9	1	8	5	5	6	11	12	9
-TTG	8	7	1	0	0	2	0	1	1	4	4	5
-TCT	2	4	6	2	0	2	3	2	1	8	3	3
-TCC	6	9	4	6	1	1	2	2	2	9	13	7
-TCA	7	2	14	5	1	1	6	2	2	5	10	10
-TCG	4	2	2	0	0	1	0	0	1	0	7	1
-TAT	8	5	11	4	0	2	7	1	0	8	8	7
-TAC	5	3	7	5	0	1	4	1	0	6	4	8
-TGT	0	1	0	0	0	0	1	0	1	2	2	2
-TGC	0	0	1	2	0	0	1	1	2	3	3	1
-TGA	5	5	12	5	5	4	10	4	1	12	7	8
-TGG	3	6	5	0	0	1	2	1	0	8	7	4
-CTT	16	19	16	5	0	11	6	5	4	16	25	9
-CTC	5	11	15	5	2	7	5	3	2	15	21	10
-CTA	15	14	19	8	1	8	11	6	8	26	24	21
-CTG	11	8	3	0	0	9	5	4	2	15	6	8
-CCT	7	7	7	2	1	4	5	1	1	1	8	1
-CCC	13	6	6	6	2	2	2	3	0	9	4	5
-CCA	2	3	11	5	4	11	4	2	1	14	11	12
-CCG	2	3	4	1	1	0	1	2	0	3	5	3
-CAT	0	0	7	3	1	1	3	0	1	5	4	4
-CAC	4	7	11	7	1	2	13	1	3	7	10	8
-CAA	5	9	6	8	1	6	6	1	3	9	12	5
-CAG	2	4	2	0	0	2	4	2	0	3	6	2
-CGT	2	0	2	1	0	1	2	0	0	0	2	2
-CGC	0	1	2	1	0	1	0	0	2	3	3	2
-CGA	5	1	3	4	0	2	1	2	0	5	5	3
-CGG	1	2	1	0	0	2	2	0	1	3	1	1
-ATT	10	15	28	13	1	15	8	5	1	27	32	12
-ATC	8	3	8	5	3	4	5	1	0	12	15	15
-ATA	6	12	17	10	1	9	5	2	3	15	18	6
-ATG	5	8	6	3	1	4	3	2	2	13	11	6
-ACT	4	4	7	2	2	4	2	1	0	8	9	4
-ACC	7	20	8	3	2	4	5	5	2	14	19	12
-ACA	7	10	19	6	0	9	11	4	6	12	18	8
-ACG	2	6	1	0	1	3	4	0	0	6	8	2
-AAT	4	3	7	2	2	1	1	1	1	1	9	5
-AAC	7	4	9	2	3	8	0	1	1	8	21	11
-AAA	4	2	7	3	3	1	2	0	0	7	14	7
-AAG	3	7	1	1	0	0	0	1	0	4	8	2
-AGT	0	2	0	0	1	1	1	0	0	1	2	0
-AGC	3	5	4	4	0	4	2	1	4	6	10	2
-GTT	5	4	11	8	1	8	6	1	1	6	12	3
-GTC	6	6	8	2	1	1	3	2	0	3	7	7
-GTA	12	3	23	8	1	9	9	2	1	7	6	8
-GTG	1	4	4	2	0	2	1	0	1	4	5	5
-GCT	1	4	11	3	0	1	3	0	1	6	8	3
-GCC	17	24	22	7	0	10	11	4	6	16	30	12
-GCA	9	10	13	4	2	9	7	3	4	12	19	13
-GCG	4	5	3	2	0	0	0	1	2	3	8	4
-GAT	1	3	2	1	0	1	2	2	0	0	8	5
-GAC	3	1	13	12	0	0	3	2	1	4	5	5
-GAA	5	3	7	15	2	2	8	5	3	8	6	2
-GAG	6	1	4	0	2	2	1	1	0	3	5	4
-GGT	3	0	14	2	0	2	3	0	0	4	4	6
-GGC	6	8	11	2	0	2	8	1	2	7	6	9
-GGA	6	6	13	4	0	4	11	4	3	9	14	5
-GGG	5	5	7	1	0	2	1	2	0	8	9	7
-TAA	0	0	1	0	0	0	0	0	1	0	1	0
-TAG	1	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009348904.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	11	6	9	8	2	6	7	4	8	5	0	0	5	3	16	5	15	11	7	13	2	2	0	4	5	2	2	0	5	1	10	8	6	5	4	7	7	2	4	7	4	3	0	3	5	6	12	1	1	17	9	4	1	3	5	6	3	6	6	5	0	1	0	0
+1	ND2	YP_009348905.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	6	4	11	7	4	9	2	2	5	3	1	0	5	6	19	11	14	8	7	6	3	3	0	7	9	4	0	1	1	2	15	3	12	8	4	20	10	6	3	4	2	7	2	5	4	6	3	4	4	24	10	5	3	1	3	1	0	8	6	5	0	0	0	0
+2	COX1	YP_009348906.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	22	20	8	1	6	4	14	2	11	7	0	1	12	5	16	15	19	3	7	6	11	4	7	11	6	2	2	2	3	1	28	8	17	6	7	8	19	1	7	9	7	1	0	4	11	8	23	4	11	22	13	3	2	13	7	4	14	11	13	7	1	0	0	0
+3	COX2	YP_009348907.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	6	3	9	0	2	6	5	0	4	5	0	2	5	0	5	5	8	0	2	6	5	1	3	7	8	0	1	1	4	0	13	5	10	3	2	3	6	0	2	2	3	1	0	4	8	2	8	2	3	7	4	2	1	12	15	0	2	2	4	1	0	0	0	0
+4	ATP8	YP_009348908.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	1	2	1	0	0	1	1	0	0	0	0	0	5	0	0	2	1	0	1	2	4	1	1	1	1	0	0	0	0	0	1	3	1	1	2	2	0	1	2	3	3	0	1	0	1	1	1	0	0	0	2	0	0	0	2	2	0	0	0	0	0	1	0	0
+5	ATP6	YP_009348909.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	9	4	8	2	2	1	1	1	2	1	0	0	4	1	11	7	8	9	4	2	11	0	1	2	6	2	1	1	2	2	15	4	9	4	4	4	9	3	1	8	1	0	1	4	8	1	9	2	1	10	9	0	1	0	2	2	2	2	4	2	0	0	0	0
+6	COX3	YP_009348910.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	14	10	5	0	3	2	6	0	7	4	1	1	10	2	6	5	11	5	5	2	4	1	3	13	6	4	2	0	1	2	8	5	5	3	2	5	11	4	1	0	2	0	1	2	6	3	9	1	3	11	7	0	2	3	8	1	3	8	11	1	0	0	0	0
+7	ND3	YP_009348911.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	3	7	5	1	2	2	2	0	1	1	0	1	4	1	5	3	6	4	1	3	2	2	0	1	1	2	0	0	2	0	5	1	2	2	1	5	4	0	1	1	0	1	0	1	1	2	2	0	0	4	3	1	2	2	5	1	0	1	4	2	0	0	0	0
+8	ND4L	YP_009348912.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	6	2	6	1	1	2	2	1	0	0	1	2	1	0	4	2	8	2	1	0	1	0	1	3	3	0	0	2	0	1	1	0	3	2	0	2	6	0	1	1	0	0	0	4	1	0	1	1	1	6	4	2	0	1	3	0	0	2	3	0	1	0	0	0
+9	ND4	YP_009348913.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	8	8	11	4	8	9	5	0	8	6	2	3	12	8	16	15	26	15	1	9	14	3	5	7	9	3	0	3	5	3	27	12	15	13	8	14	12	6	1	8	7	4	1	6	6	3	7	4	6	16	12	3	0	4	8	3	4	7	9	8	0	0	0	0
+10	ND5	YP_009348914.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	10	28	12	4	3	13	10	7	8	4	2	3	7	7	25	21	24	6	8	4	11	5	4	10	12	6	2	3	5	1	32	15	18	11	9	19	18	8	9	21	14	8	2	10	12	7	6	5	8	30	19	8	8	5	6	5	4	6	14	9	1	0	0	0
+11	CYTB	YP_009348916.1	Rhinichthys atratulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Rhinichthys	9	20	9	5	3	7	10	1	7	8	2	1	8	4	9	10	21	8	1	5	12	3	4	8	5	2	2	2	3	1	12	15	6	6	4	12	8	2	5	11	7	2	0	2	3	7	8	5	3	12	13	4	5	5	2	4	6	9	5	7	0	0	0	0

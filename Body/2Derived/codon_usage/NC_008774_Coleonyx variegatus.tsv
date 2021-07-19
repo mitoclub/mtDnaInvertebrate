@@ -1,65 +1,13 @@
-	YP_980178.1|ND1	YP_980179.1|ND2	YP_980180.1|COX1	YP_980181.1|COX2	YP_980182.1|ATP8	YP_980183.1|ATP6	YP_980184.1|COX3	YP_980185.1|ND3	YP_980186.1|ND4L	YP_980187.1|ND4	YP_980188.1|ND5	YP_980190.1|CYTB
-TTT	9	3	12	4	0	5	6	2	3	3	16	10
-TTC	7	5	26	5	0	6	15	5	3	14	20	19
-TTA	8	7	10	6	1	5	7	4	3	13	18	7
-TTG	2	0	1	0	0	1	0	2	0	1	0	0
-TCT	2	1	4	5	0	1	0	0	1	1	10	5
-TCC	2	6	9	6	1	2	1	2	0	8	15	14
-TCA	16	12	14	6	1	0	7	1	3	9	10	6
-TCG	0	0	0	0	0	0	0	0	1	1	0	1
-TAT	0	1	4	5	0	2	4	0	0	4	3	3
-TAC	11	5	15	3	1	3	7	3	0	10	12	12
-TGT	0	1	1	0	0	0	0	0	1	0	4	0
-TGC	5	2	1	2	0	0	2	1	2	3	4	4
-TGA	7	9	16	5	5	1	12	4	0	8	12	11
-TGG	2	1	1	0	0	0	0	1	0	2	1	1
-CTT	5	8	9	6	0	14	9	1	3	14	16	9
-CTC	7	17	9	4	3	7	4	10	2	16	22	13
-CTA	41	27	21	13	2	25	11	10	11	43	30	24
-CTG	4	3	12	1	0	4	0	1	1	4	6	4
-CCT	0	0	4	2	0	6	0	1	0	1	2	2
-CCC	9	1	8	3	2	6	4	1	0	11	10	8
-CCA	13	15	16	6	6	5	8	6	1	16	16	12
-CCG	0	1	0	1	0	0	0	1	0	1	0	1
-CAT	0	1	3	1	1	1	2	0	1	4	1	2
-CAC	4	8	18	9	0	3	15	0	3	11	12	10
-CAA	6	10	5	8	3	7	7	1	3	8	28	8
-CAG	1	0	2	1	0	1	0	1	0	1	1	0
-CGT	0	0	1	0	0	0	0	0	0	0	0	1
-CGC	1	0	1	3	0	1	1	1	1	4	2	2
-CGA	7	3	6	2	0	3	2	1	1	6	7	4
-CGG	0	1	0	0	0	1	1	0	0	1	0	1
-ATT	4	10	12	6	3	13	9	3	3	12	20	16
-ATC	15	18	22	12	0	12	10	7	1	31	32	22
-ATA	12	21	28	12	2	13	10	3	7	27	27	13
-ATG	5	2	2	3	1	1	1	0	2	5	5	1
-ACT	4	9	3	2	3	3	3	1	1	8	14	4
-ACC	11	23	18	8	2	13	11	3	5	26	28	9
-ACA	11	32	15	9	3	7	10	7	6	24	30	11
-ACG	3	2	3	0	0	0	1	0	1	0	3	1
-AAT	2	1	2	3	1	4	1	0	0	5	4	2
-AAC	11	8	14	5	1	5	7	1	4	10	23	20
-AAA	8	11	7	2	4	3	2	2	1	9	18	7
-AAG	0	0	1	0	1	0	0	0	0	1	2	1
-AGT	1	2	4	0	0	0	0	0	0	3	0	1
-AGC	1	9	0	3	0	3	3	3	2	6	11	1
-GTT	1	0	8	2	0	3	0	0	1	0	2	4
-GTC	5	2	12	2	0	3	5	0	1	4	4	2
-GTA	4	0	19	7	1	2	8	0	1	3	6	7
-GTG	1	1	1	1	0	2	0	1	0	0	1	1
-GCT	3	1	8	4	0	1	2	0	1	3	4	4
-GCC	9	12	20	5	1	8	12	4	7	13	27	10
-GCA	9	16	15	6	2	6	9	4	3	18	18	9
-GCG	2	0	1	0	0	0	0	1	1	0	0	1
-GAT	1	0	5	3	0	0	0	0	0	1	2	4
-GAC	3	2	10	6	0	1	4	3	1	2	8	4
-GAA	11	4	6	12	0	3	7	6	2	3	10	4
-GAG	0	0	5	1	0	1	1	1	1	3	1	2
-GGT	1	2	4	0	0	1	4	0	0	2	2	1
-GGC	4	3	20	1	1	2	4	3	0	10	15	8
-GGA	7	6	16	5	0	3	9	1	0	5	10	12
-GGG	3	2	7	2	1	3	3	1	2	1	1	3
-TAA	1	0	0	0	1	0	0	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_980178.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	9	7	8	2	2	2	16	0	0	11	0	5	7	2	5	7	41	4	0	9	13	0	0	4	6	1	0	1	7	0	4	15	12	5	4	11	11	3	2	11	8	0	1	1	1	5	4	1	3	9	9	2	1	3	11	0	1	4	7	3	1	0	0	0
+1	ND2	YP_980179.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	3	5	7	0	1	6	12	0	1	5	1	2	9	1	8	17	27	3	0	1	15	1	1	8	10	0	0	0	3	1	10	18	21	2	9	23	32	2	1	8	11	0	2	9	0	2	0	1	1	12	16	0	0	2	4	0	2	3	6	2	0	0	0	0
+2	COX1	YP_980180.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	12	26	10	1	4	9	14	0	4	15	1	1	16	1	9	9	21	12	4	8	16	0	3	18	5	2	1	1	6	0	12	22	28	2	3	18	15	3	2	14	7	1	4	0	8	12	19	1	8	20	15	1	5	10	6	5	4	20	16	7	0	0	0	1
+3	COX2	YP_980181.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	4	5	6	0	5	6	6	0	5	3	0	2	5	0	6	4	13	1	2	3	6	1	1	9	8	1	0	3	2	0	6	12	12	3	2	8	9	0	3	5	2	0	0	3	2	2	7	1	4	5	6	0	3	6	12	1	0	1	5	2	0	0	0	0
+4	ATP8	YP_980182.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	0	0	1	0	0	1	1	0	0	1	0	0	5	0	0	3	2	0	0	2	6	0	1	0	3	0	0	0	0	0	3	0	2	1	3	2	3	0	1	1	4	1	0	0	0	0	1	0	0	1	2	0	0	0	0	0	0	1	0	1	1	0	0	0
+5	ATP6	YP_980183.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	5	6	5	1	1	2	0	0	2	3	0	0	1	0	14	7	25	4	6	6	5	0	1	3	7	1	0	1	3	1	13	12	13	1	3	13	7	0	4	5	3	0	0	3	3	3	2	2	1	8	6	0	0	1	3	1	1	2	3	3	0	0	0	0
+6	COX3	YP_980184.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	6	15	7	0	0	1	7	0	4	7	0	2	12	0	9	4	11	0	0	4	8	0	2	15	7	0	0	1	2	1	9	10	10	1	3	11	10	1	1	7	2	0	0	3	0	5	8	0	2	12	9	0	0	4	7	1	4	4	9	3	0	0	0	0
+7	ND3	YP_980185.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	2	5	4	2	0	2	1	0	0	3	0	1	4	1	1	10	10	1	1	1	6	1	0	0	1	1	0	1	1	0	3	7	3	0	1	3	7	0	0	1	2	0	0	3	0	0	0	1	0	4	4	1	0	3	6	1	0	3	1	1	1	0	0	0
+8	ND4L	YP_980186.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	3	3	3	0	1	0	3	1	0	0	1	2	0	0	3	2	11	1	0	0	1	0	1	3	3	0	0	1	1	0	3	1	7	2	1	5	6	1	0	4	1	0	0	2	1	1	1	0	1	7	3	1	0	1	2	1	0	0	0	2	1	0	0	0
+9	ND4	YP_980187.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	3	14	13	1	1	8	9	1	4	10	0	3	8	2	14	16	43	4	1	11	16	1	4	11	8	1	0	4	6	1	12	31	27	5	8	26	24	0	5	10	9	1	3	6	0	4	3	0	3	13	18	0	1	2	3	3	2	10	5	1	1	0	0	0
+10	ND5	YP_980188.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	16	20	18	0	10	15	10	0	3	12	4	4	12	1	16	22	30	6	2	10	16	0	1	12	28	1	0	2	7	0	20	32	27	5	14	28	30	3	4	23	18	2	0	11	2	4	6	1	4	27	18	0	2	8	10	1	2	15	10	1	1	0	0	0
+11	CYTB	YP_980190.1	Coleonyx variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Gekkota, Eublepharidae, Eublepharinae, Coleonyx	10	19	7	0	5	14	6	1	3	12	0	4	11	1	9	13	24	4	2	8	12	1	2	10	8	0	1	2	4	1	16	22	13	1	4	9	11	1	2	20	7	1	1	1	4	2	7	1	4	10	9	1	4	4	4	2	1	8	12	3	0	0	0	0

@@ -1,65 +1,39 @@
-	YP_004927534.1|rps3	YP_004927535.1|rpl16	YP_004927536.1|rpl5	YP_004927537.1|rps14	YP_004927538.1|cob	YP_004927540.1|orf115c	YP_004927542.1|atp1	YP_004927543.1|orf109	YP_004927545.1|orf138a	YP_004927547.1|orf165	YP_004927548.1|orf128a	YP_004927549.1|ccmFN1	YP_004927551.1|orf108b	YP_004927556.1|orf146	YP_004927557.1|ccmFC	YP_004927558.1|orf117b	YP_004927559.1|atp8	YP_004927560.1|orf114	YP_004927561.1|nad7	YP_004927563.1|orf120	YP_004927564.1|rps4	YP_004927567.1|orf257	YP_004927568.1|cox1	YP_004927569.1|orf135	YP_004927571.1|orf448	YP_004927573.1|orf116	YP_004927576.1|orf124	YP_004927577.1|orf124	YP_004927579.1|orf113a	YP_004927582.1|orf101a	YP_004927583.1|orf170	YP_004927586.1|ccmFN2	YP_004927593.1|orf119	YP_004927594.1|orf108c	YP_004927595.1|orf161	YP_004927596.1|orf159	YP_004927597.1|matR	YP_004927598.1|orf104
-TTT	20	4	7	5	23	1	8	6	4	4	6	21	0	9	20	1	3	3	8	1	8	12	30	2	13	4	1	4	1	3	7	8	13	5	10	7	9	6
-TTC	20	3	8	1	9	0	6	1	4	1	2	17	4	6	13	7	9	2	7	4	5	11	19	6	11	4	4	1	3	3	7	3	3	4	3	4	15	6
-TTA	5	2	2	1	12	1	17	3	6	8	3	9	0	5	11	0	4	1	11	0	11	12	22	1	14	1	4	5	0	0	4	6	2	0	1	2	6	0
-TTG	9	1	4	5	9	2	9	4	3	8	4	7	0	2	14	2	4	3	4	2	7	5	5	8	16	0	3	2	3	3	4	4	2	1	1	2	8	5
-TCT	12	1	3	5	5	1	6	4	2	4	3	8	1	4	3	4	2	0	8	0	9	8	5	2	11	1	3	2	1	1	5	6	4	9	3	8	3	1
-TCC	7	1	3	3	4	0	4	1	2	1	3	4	3	7	11	1	3	0	5	1	7	2	5	1	7	2	3	2	1	3	1	1	1	1	4	2	12	4
-TCA	8	3	2	1	2	4	6	1	3	2	1	7	2	5	7	3	4	0	10	2	4	4	8	0	2	2	1	3	0	1	0	2	2	3	4	6	9	0
-TCG	6	3	6	1	1	0	4	1	3	1	2	8	0	5	4	2	1	1	4	1	3	2	3	2	3	5	0	1	0	0	0	4	1	3	2	1	14	1
-TAT	14	7	2	3	13	3	15	0	4	4	3	7	4	2	6	3	5	3	8	2	8	10	13	4	10	1	1	0	2	0	5	2	1	0	1	3	5	1
-TAC	7	0	1	0	4	1	1	1	2	0	2	6	0	0	3	0	0	5	4	0	2	1	6	4	8	2	2	3	1	3	2	1	3	3	3	1	10	2
-TGT	5	4	1	2	4	2	4	1	1	0	0	5	3	3	7	1	4	1	5	2	2	2	3	2	3	1	0	0	1	1	2	3	0	0	1	0	3	5
-TGC	1	1	1	0	1	0	1	1	0	1	2	4	3	1	3	2	2	0	2	3	3	2	1	0	3	1	1	2	1	0	0	1	3	0	1	1	6	5
-TGG	5	3	1	1	13	2	0	0	2	1	1	5	0	3	6	3	3	3	4	2	3	4	14	2	12	2	0	0	1	1	7	13	1	3	2	2	10	2
-CTT	9	1	0	2	12	1	11	2	3	3	3	16	1	5	9	5	3	3	7	3	10	5	11	4	11	1	2	3	2	3	4	7	1	5	4	2	14	4
-CTC	7	3	3	1	3	0	3	7	1	2	0	3	1	0	9	2	1	1	2	3	4	5	7	2	9	2	3	5	11	1	2	1	0	1	1	6	12	3
-CTA	5	2	1	0	7	3	8	3	1	0	2	3	0	0	10	1	3	2	2	2	9	6	8	1	4	1	1	4	0	1	0	4	1	3	1	3	17	1
-CTG	6	2	2	0	2	3	4	3	2	1	0	4	1	1	4	3	2	3	3	1	4	2	8	6	4	1	2	0	2	0	3	0	2	0	2	1	10	4
-CCT	4	3	1	2	14	0	8	1	2	4	2	14	1	2	11	1	2	1	9	1	8	2	8	5	10	3	3	3	5	3	3	2	3	0	3	3	9	4
-CCC	4	0	1	1	3	1	4	2	0	1	0	2	3	3	7	1	1	0	2	3	3	2	6	1	7	2	0	4	1	4	0	5	2	3	0	2	16	2
-CCA	7	2	4	1	4	1	10	2	2	2	4	6	1	3	6	0	0	1	8	1	4	2	10	1	8	1	1	4	2	2	3	3	2	2	3	3	4	0
-CCG	7	2	6	0	6	0	1	0	2	2	0	5	1	0	3	1	0	1	1	1	4	1	5	1	2	4	1	0	2	3	0	0	0	1	4	0	6	1
-CAT	7	3	4	1	14	0	1	0	0	5	2	9	1	3	15	2	2	1	12	0	9	4	16	0	9	3	1	3	2	0	4	5	0	4	1	5	10	0
-CAC	1	1	1	1	3	1	3	2	1	2	0	2	1	1	2	2	1	0	3	3	5	3	1	0	1	2	4	2	1	1	4	1	1	0	1	0	14	0
-CAA	12	3	6	1	6	2	23	3	0	3	7	6	0	1	6	1	5	3	16	1	11	4	5	1	9	1	5	1	3	3	5	1	2	0	7	1	15	0
-CAG	3	2	3	0	3	1	5	1	1	2	1	2	2	2	3	1	1	3	1	2	2	2	1	5	7	2	3	1	0	2	3	6	3	0	2	2	10	1
-CGT	11	6	1	5	5	1	6	0	2	3	1	5	1	0	6	0	0	1	11	1	5	1	5	2	10	1	1	1	0	2	1	5	1	0	1	2	7	1
-CGC	6	0	1	1	0	0	7	0	0	1	3	3	4	1	4	1	0	0	1	0	3	1	0	1	3	3	0	2	2	2	0	2	2	0	2	3	7	2
-CGA	10	3	3	5	3	0	8	1	5	3	3	7	3	3	7	1	1	1	11	3	6	3	4	1	2	1	2	3	0	1	3	3	2	2	2	3	11	0
-CGG	7	2	1	1	0	0	0	1	2	1	2	6	1	2	5	2	2	1	2	2	3	1	1	0	8	4	2	1	0	3	0	4	2	0	0	4	10	1
-ATT	10	4	4	2	17	2	20	2	8	7	5	8	2	3	11	1	2	0	7	0	8	12	17	1	13	1	1	3	2	3	4	6	1	4	6	4	13	3
-ATC	12	2	2	1	4	5	7	3	3	3	2	3	2	8	5	0	6	2	8	2	7	3	16	1	5	0	3	3	5	3	4	3	2	1	7	3	27	2
-ATA	15	3	5	1	12	3	6	1	4	3	1	4	2	2	9	0	6	3	6	3	15	8	11	2	4	0	1	1	0	1	5	2	1	2	3	3	18	2
-ATG	8	5	6	3	11	4	13	2	3	3	4	6	2	4	16	6	4	7	15	2	8	11	22	4	10	6	1	2	5	2	5	6	1	1	3	4	5	1
-ACT	6	1	5	0	5	1	8	0	1	8	2	5	0	2	7	1	6	3	11	1	10	4	14	1	6	2	4	4	0	2	4	4	2	5	4	2	7	0
-ACC	8	3	0	0	5	0	6	1	0	0	0	4	1	2	2	2	1	0	5	3	2	4	10	1	6	1	3	4	2	2	3	6	0	0	1	1	7	1
-ACA	6	3	4	0	5	9	6	2	2	4	0	3	1	1	4	2	0	3	2	1	8	4	10	2	0	3	2	0	1	3	1	5	3	1	2	2	8	0
-ACG	6	4	1	1	2	0	2	0	0	1	0	1	0	1	6	0	0	0	1	0	0	0	2	0	6	1	1	1	2	2	0	2	1	1	1	0	6	1
-AAT	17	3	8	2	11	5	11	1	5	7	6	12	3	1	11	2	5	5	7	2	8	12	13	0	4	1	4	1	2	3	4	4	2	5	6	5	8	2
-AAC	10	0	3	1	2	1	7	2	0	0	1	6	0	3	5	1	3	2	2	4	9	5	4	3	4	1	2	3	0	2	0	1	1	0	4	0	11	3
-AAA	35	14	8	6	4	3	19	3	5	5	2	11	1	3	10	2	6	5	12	2	19	5	7	4	4	1	5	3	1	1	4	3	2	0	4	6	14	1
-AAG	22	5	2	5	1	5	3	4	3	2	1	4	3	1	12	0	4	2	2	3	14	7	3	9	15	0	4	0	2	0	0	4	2	1	2	3	29	1
-AGT	5	4	1	3	10	1	6	0	3	3	2	5	2	1	6	2	3	3	4	1	5	4	11	0	9	2	3	3	1	3	3	3	3	2	1	2	8	2
-AGC	5	1	2	0	6	0	3	1	3	0	1	6	3	1	3	2	4	0	2	3	3	1	4	0	2	4	1	0	5	2	2	0	0	1	2	1	14	2
-AGA	18	7	3	5	2	2	9	0	3	1	1	4	2	5	9	2	3	2	7	4	19	5	2	3	5	3	1	3	2	1	1	1	0	2	5	5	13	1
-AGG	7	1	1	0	2	1	3	5	2	2	1	5	2	1	7	3	5	3	3	2	9	1	0	2	4	3	2	0	0	2	3	1	2	3	0	3	12	1
-GTT	4	3	2	1	11	1	7	2	2	5	3	6	4	0	6	0	1	0	4	0	6	5	14	0	6	3	2	2	4	1	1	4	3	2	6	1	12	1
-GTC	7	1	3	0	2	2	14	0	1	0	0	3	1	2	8	2	1	3	5	2	0	6	6	3	5	1	1	2	3	3	3	4	1	0	0	0	14	2
-GTA	9	2	5	2	11	2	7	2	3	3	1	1	3	1	1	0	4	3	8	0	3	6	10	0	4	1	1	1	0	0	2	4	1	2	0	3	13	1
-GTG	8	4	1	0	9	5	11	2	1	0	1	3	1	1	7	0	0	2	10	3	2	2	9	5	11	2	0	1	3	0	4	5	8	1	2	1	3	1
-GCT	9	7	1	1	13	1	21	7	1	3	6	9	4	5	10	3	1	1	11	2	2	3	17	0	13	3	3	2	0	0	6	6	1	4	3	4	4	0
-GCC	6	2	2	1	7	1	14	0	3	1	0	6	2	4	5	2	1	1	5	1	0	1	6	3	10	1	3	3	1	1	2	2	3	1	4	2	21	1
-GCA	8	2	2	2	5	2	10	0	0	1	3	9	0	0	6	2	0	1	10	4	2	2	11	6	12	0	2	2	1	1	7	2	4	2	1	2	6	0
-GCG	5	3	0	1	3	0	10	2	1	1	2	5	1	0	2	0	0	1	1	3	1	2	2	1	5	2	0	0	4	0	0	5	1	2	2	0	12	2
-GAT	9	3	6	4	9	6	18	2	2	6	3	8	3	0	8	4	4	5	19	3	5	1	9	3	11	3	1	0	3	5	3	4	2	1	5	6	7	3
-GAC	11	1	2	1	3	2	6	3	1	2	0	4	1	1	6	3	3	0	3	0	3	1	4	5	8	0	3	2	1	1	0	2	2	1	4	0	17	0
-GAA	20	4	10	1	5	5	23	1	5	5	8	11	7	2	13	3	4	3	16	4	14	5	6	3	7	1	6	4	2	3	5	4	1	1	3	6	21	1
-GAG	8	0	5	2	2	5	11	3	3	1	1	4	3	2	7	4	0	3	10	5	4	2	2	2	10	1	2	3	5	0	0	2	3	3	4	4	16	0
-GGT	8	7	2	2	10	3	11	0	2	2	0	7	2	2	11	1	2	0	9	3	3	5	17	0	18	0	1	2	2	1	2	2	1	2	3	2	11	2
-GGC	5	2	1	1	3	0	4	2	1	3	1	5	4	4	4	1	2	2	4	1	2	1	6	4	3	2	4	3	6	1	8	4	1	0	2	0	11	2
-GGA	10	8	5	1	13	6	17	3	5	8	6	10	3	2	11	8	7	3	12	5	8	9	21	1	8	3	1	1	0	2	5	6	0	2	1	2	14	2
-GGG	12	2	4	0	3	1	11	1	2	5	2	2	1	2	9	5	2	2	2	4	1	1	11	1	3	6	2	2	0	0	0	1	4	2	0	3	13	1
-TAA	0	1	1	0	0	0	0	1	0	1	0	0	1	1	1	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	1	0	0	1	0	0	0	0
-TAG	1	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	1	1	1	0	0	0	0	0	0	0	1	0
-TGA	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	rps3	YP_004927534.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	20	20	5	9	12	7	8	6	14	7	5	1	5	9	7	5	6	4	4	7	7	7	1	12	3	11	6	10	7	10	12	15	8	6	8	6	6	17	10	35	22	5	5	18	7	4	7	9	8	9	6	8	5	9	11	20	8	8	5	10	12	0	1	0
+1	rpl16	YP_004927535.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	3	2	1	1	1	3	3	7	0	4	1	3	1	3	2	2	3	0	2	2	3	1	3	2	6	0	3	2	4	2	3	5	1	3	3	4	3	0	14	5	4	1	7	1	3	1	2	4	7	2	2	3	3	1	4	0	7	2	8	2	1	0	0
+2	rpl5	YP_004927536.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	8	2	4	3	3	2	6	2	1	1	1	1	0	3	1	2	1	1	4	6	4	1	6	3	1	1	3	1	4	2	5	6	5	0	4	1	8	3	8	2	1	2	3	1	2	3	5	1	1	2	2	0	6	2	10	5	2	1	5	4	1	0	0
+3	rps14	YP_004927537.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	1	1	5	5	3	1	1	3	0	2	0	1	2	1	0	0	2	1	1	0	1	1	1	0	5	1	5	1	2	1	1	3	0	0	0	1	2	1	6	5	3	0	5	0	1	0	2	0	1	1	2	1	4	1	1	2	2	1	1	0	0	1	0
+4	cob	YP_004927538.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	23	9	12	9	5	4	2	1	13	4	4	1	13	12	3	7	2	14	3	4	6	14	3	6	3	5	0	3	0	17	4	12	11	5	5	5	2	11	2	4	1	10	6	2	2	11	2	11	9	13	7	5	3	9	3	5	2	10	3	13	3	0	0	1
+5	orf115c	YP_004927540.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	0	1	2	1	0	4	0	3	1	2	0	2	1	0	3	3	0	1	1	0	0	1	2	1	1	0	0	0	2	5	3	4	1	0	9	0	5	1	3	5	1	0	2	1	1	2	2	5	1	1	2	0	6	2	5	5	3	0	6	1	0	0	1
+6	atp1	YP_004927542.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	8	6	17	9	6	4	6	4	15	1	4	1	0	11	3	8	4	8	4	10	1	1	3	23	5	6	7	8	0	20	7	6	13	8	6	6	2	11	7	19	3	6	3	9	3	7	14	7	11	21	14	10	10	18	6	23	11	11	4	17	11	0	1	0
+7	orf109	YP_004927543.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	6	1	3	4	4	1	1	1	0	1	1	1	0	2	7	3	3	1	2	2	0	0	2	3	1	0	0	1	1	2	3	1	2	0	1	2	0	1	2	3	4	0	1	0	5	2	0	2	2	7	0	0	2	2	3	1	3	0	2	3	1	1	0	0
+8	orf138a	YP_004927545.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	4	6	3	2	2	3	3	4	2	1	0	2	3	1	1	2	2	0	2	2	0	1	0	1	2	0	5	2	8	3	4	3	1	0	2	0	5	0	5	3	3	3	3	2	2	1	3	1	1	3	0	1	2	1	5	3	2	1	5	2	0	1	0
+9	orf165	YP_004927547.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	1	8	8	4	1	2	1	4	0	0	1	1	3	2	0	1	4	1	2	2	5	2	3	2	3	1	3	1	7	3	3	3	8	0	4	1	7	0	5	2	3	0	1	2	5	0	3	0	3	1	1	1	6	2	5	1	2	3	8	5	1	0	0
+10	orf128a	YP_004927548.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	6	2	3	4	3	3	1	2	3	2	0	2	1	3	0	2	0	2	0	4	0	2	0	7	1	1	3	3	2	5	2	1	4	2	0	0	0	6	1	2	1	2	1	1	1	3	0	1	1	6	0	3	2	3	0	8	1	0	1	6	2	0	1	0
+11	ccmFN1	YP_004927549.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	21	17	9	7	8	4	7	8	7	6	5	4	5	16	3	3	4	14	2	6	5	9	2	6	2	5	3	7	6	8	3	4	6	5	4	3	1	12	6	11	4	5	6	4	5	6	3	1	3	9	6	9	5	8	4	11	4	7	5	10	2	0	0	1
+12	orf108b	YP_004927551.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	0	4	0	0	1	3	2	0	4	0	3	3	0	1	1	0	1	1	3	1	1	1	1	0	2	1	4	3	1	2	2	2	2	0	1	1	0	3	0	1	3	2	3	2	2	4	1	3	1	4	2	0	1	3	1	7	3	2	4	3	1	1	0	0
+13	orf146	YP_004927556.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	9	6	5	2	4	7	5	5	2	0	3	1	3	5	0	0	1	2	3	3	0	3	1	1	2	0	1	3	2	3	8	2	4	2	2	1	1	1	3	3	1	1	1	5	1	0	2	1	1	5	4	0	0	0	1	2	2	2	4	2	2	1	0	0
+14	ccmFC	YP_004927557.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	20	13	11	14	3	11	7	4	6	3	7	3	6	9	9	10	4	11	7	6	3	15	2	6	3	6	4	7	5	11	5	9	16	7	2	4	6	11	5	10	12	6	3	9	7	6	8	1	7	10	5	6	2	8	6	13	7	11	4	11	9	1	0	0
+15	orf117b	YP_004927558.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	7	0	2	4	1	3	2	3	0	1	2	3	5	2	1	3	1	1	0	1	2	2	1	1	0	1	1	2	1	0	0	6	1	2	2	0	2	1	2	0	2	2	2	3	0	2	0	0	3	2	2	0	4	3	3	4	1	1	8	5	1	0	0
+16	atp8	YP_004927559.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	3	9	4	4	2	3	4	1	5	0	4	2	3	3	1	3	2	2	1	0	0	2	1	5	1	0	0	1	2	2	6	6	4	6	1	0	0	5	3	6	4	3	4	3	5	1	1	4	0	1	1	0	0	4	3	4	0	2	2	7	2	0	0	1
+17	orf114	YP_004927560.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	3	2	1	3	0	0	0	1	3	5	1	0	3	3	1	2	3	1	0	1	1	1	0	3	3	1	0	1	1	0	2	3	7	3	0	3	0	5	2	5	2	3	0	2	3	0	3	3	2	1	1	1	1	5	0	3	3	0	2	3	2	0	0	1
+18	nad7	YP_004927561.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	8	7	11	4	8	5	10	4	8	4	5	2	4	7	2	2	3	9	2	8	1	12	3	16	1	11	1	11	2	7	8	6	15	11	5	2	1	7	2	12	2	4	2	7	3	4	5	8	10	11	5	10	1	19	3	16	10	9	4	12	2	0	1	0
+19	orf120	YP_004927563.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	4	0	2	0	1	2	1	2	0	2	3	2	3	3	2	1	1	3	1	1	0	3	1	2	1	0	3	2	0	2	3	2	1	3	1	0	2	4	2	3	1	3	4	2	0	2	0	3	2	1	4	3	3	0	4	5	3	1	5	4	0	1	0
+20	rps4	YP_004927564.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	8	5	11	7	9	7	4	3	8	2	2	3	3	10	4	9	4	8	3	4	4	9	5	11	2	5	3	6	3	8	7	15	8	10	2	8	0	8	9	19	14	5	3	19	9	6	0	3	2	2	0	2	1	5	3	14	4	3	2	8	1	1	0	0
+21	orf257	YP_004927567.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	12	11	12	5	8	2	4	2	10	1	2	2	4	5	5	6	2	2	2	2	1	4	3	4	2	1	1	3	1	12	3	8	11	4	4	4	0	12	5	5	7	4	1	5	1	5	6	6	2	3	1	2	2	1	1	5	2	5	1	9	1	0	1	0
+22	cox1	YP_004927568.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	30	19	22	5	5	5	8	3	13	6	3	1	14	11	7	8	8	8	6	10	5	16	1	5	1	5	0	4	1	17	16	11	22	14	10	10	2	13	4	7	3	11	4	2	0	14	6	10	9	17	6	11	2	9	4	6	2	17	6	21	11	1	0	0
+23	orf135	YP_004927569.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	2	6	1	8	2	1	0	2	4	4	2	0	2	4	2	1	6	5	1	1	1	0	0	1	5	2	1	1	0	1	1	2	4	1	1	2	0	0	3	4	9	0	0	3	2	0	3	0	5	0	3	6	1	3	5	3	2	0	4	1	1	1	0	0
+24	orf448	YP_004927571.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	13	11	14	16	11	7	2	3	10	8	3	3	12	11	9	4	4	10	7	8	2	9	1	9	7	10	3	2	8	13	5	4	10	6	6	0	6	4	4	4	15	9	2	5	4	6	5	4	11	13	10	12	5	11	8	7	10	18	3	8	3	0	1	0
+25	orf116	YP_004927573.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	4	1	0	1	2	2	5	1	2	1	1	2	1	2	1	1	3	2	1	4	3	2	1	2	1	3	1	4	1	0	0	6	2	1	3	1	1	1	1	0	2	4	3	3	3	1	1	2	3	1	0	2	3	0	1	1	0	2	3	6	1	0	0
+26	orf124	YP_004927576.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	4	4	3	3	3	1	0	1	2	0	1	0	2	3	1	2	3	0	1	1	1	4	5	3	1	0	2	2	1	3	1	1	4	3	2	1	4	2	5	4	3	1	1	2	2	1	1	0	3	3	2	0	1	3	6	2	1	4	1	2	0	1	0
+27	orf124	YP_004927577.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	1	5	2	2	2	3	1	0	3	0	2	0	3	5	4	0	3	4	4	0	3	2	1	1	1	2	3	1	3	3	1	2	4	4	0	1	1	3	3	0	3	0	3	0	2	2	1	1	2	3	2	0	0	2	4	3	2	3	1	2	0	1	0
+28	orf113a	YP_004927579.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	3	0	3	1	1	0	0	2	1	1	1	1	2	11	0	2	5	1	2	2	2	1	3	0	0	2	0	0	2	5	0	5	0	2	1	2	2	0	1	2	1	5	2	0	4	3	0	3	0	1	1	4	3	1	2	5	2	6	0	0	0	1	0
+29	orf101a	YP_004927582.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	3	3	0	3	1	3	1	0	0	3	1	0	1	3	1	1	0	3	4	2	3	0	1	3	2	2	2	1	3	3	3	1	2	2	2	3	2	3	2	1	0	3	2	1	2	1	3	0	0	0	1	1	0	5	1	3	0	1	1	2	0	0	0	1
+30	orf170	YP_004927583.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	7	4	4	5	1	0	0	5	2	2	0	7	4	2	0	3	3	0	3	0	4	4	5	3	1	0	3	0	4	4	5	5	4	3	1	0	4	0	4	0	3	2	1	3	1	3	2	4	6	2	7	0	3	0	5	0	2	8	5	0	1	0	0
+31	ccmFN2	YP_004927586.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	8	3	6	4	6	1	2	4	2	1	3	1	13	7	1	4	0	2	5	3	0	5	1	1	6	5	2	3	4	6	3	2	6	4	6	5	2	4	1	3	4	3	0	1	1	4	4	4	5	6	2	2	5	4	2	4	2	2	4	6	1	0	0	1
+32	orf119	YP_004927593.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	13	3	2	2	4	1	2	1	1	3	0	3	1	1	0	1	2	3	2	2	0	0	1	2	3	1	2	2	2	1	2	1	1	2	0	3	1	2	1	2	2	3	0	0	2	3	1	1	8	1	3	4	1	2	2	1	3	1	1	0	4	0	0	1
+33	orf108c	YP_004927594.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	4	0	1	9	1	3	3	0	3	0	0	3	5	1	3	0	0	3	2	1	4	0	0	0	0	0	2	0	4	1	2	1	5	0	1	1	5	0	0	1	2	1	2	3	2	0	2	1	4	1	2	2	1	1	1	3	2	0	2	2	1	0	0
+34	orf161	YP_004927595.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	10	3	1	1	3	4	4	2	1	3	1	1	2	4	1	1	2	3	0	3	4	1	1	7	2	1	2	2	0	6	7	3	3	4	1	2	1	6	4	4	2	1	2	5	0	6	0	0	2	3	4	1	2	5	4	3	4	3	2	1	0	0	0	1
+35	orf159	YP_004927596.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	4	2	2	8	2	6	1	3	1	0	1	2	2	6	3	1	3	2	3	0	5	0	1	2	2	3	3	4	4	3	3	4	2	1	2	0	5	0	6	3	2	1	5	3	1	0	3	1	4	2	2	0	6	0	6	4	2	0	2	3	0	0	1
+36	matR	YP_004927597.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	9	15	6	8	3	12	9	14	5	10	3	6	10	14	12	17	10	9	16	4	6	10	14	15	10	7	7	11	10	13	27	18	5	7	7	8	6	8	11	14	29	8	14	13	12	12	14	13	3	4	21	6	12	7	17	21	16	11	11	14	13	0	1	0
+37	orf104	YP_004927598.1	Brassica carinata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	6	6	0	5	1	4	0	1	1	2	5	5	2	4	3	1	4	4	2	0	1	0	0	0	1	1	2	0	1	3	2	2	1	0	1	0	1	2	3	1	1	2	2	1	1	1	2	1	1	0	1	0	2	3	0	1	0	2	2	2	1	0	0	1

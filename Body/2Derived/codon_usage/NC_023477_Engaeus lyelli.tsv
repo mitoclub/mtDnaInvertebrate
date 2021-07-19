@@ -1,65 +1,10 @@
-	YP_009002503.1|COX1	YP_009002504.1|COX2	YP_009002505.1|ATP8	YP_009002506.1|ATP6	YP_009002507.1|COX3	YP_009002508.1|ND3	YP_009002510.1|ND6	YP_009002511.1|ND2	YP_009002514.1|CYTB
-TTT	28	5	5	11	11	6	2	15	15
-TTC	19	7	0	11	14	2	8	16	22
-TTA	11	5	1	6	2	6	4	9	12
-TTG	4	0	0	1	2	0	1	2	2
-TCT	7	1	1	5	5	3	2	12	5
-TCC	12	10	1	5	4	4	6	20	8
-TCA	6	6	0	6	5	2	7	13	9
-TCG	0	0	0	0	0	0	0	0	0
-TAT	9	4	1	2	3	1	0	3	4
-TAC	6	5	0	3	8	1	5	5	8
-TGT	0	2	0	0	1	0	0	1	2
-TGC	0	0	0	0	1	1	2	2	1
-TGA	13	5	3	4	9	3	1	6	10
-TGG	3	1	0	2	4	0	0	2	1
-CTT	13	4	7	9	7	7	10	9	15
-CTC	10	10	1	12	13	10	20	26	22
-CTA	18	8	1	11	9	4	6	10	11
-CTG	1	3	0	2	0	1	4	4	1
-CCT	8	3	0	6	2	1	1	3	4
-CCC	13	4	4	5	5	4	8	8	13
-CCA	6	2	0	2	2	0	2	2	6
-CCG	1	0	0	1	1	0	1	0	1
-CAT	6	1	0	3	4	0	1	1	6
-CAC	11	5	0	3	12	0	2	6	9
-CAA	8	6	3	4	4	2	2	9	9
-CAG	1	1	0	0	2	0	0	1	0
-CGT	2	1	0	1	2	0	0	0	1
-CGC	3	4	0	0	0	1	0	1	1
-CGA	4	2	0	2	1	1	1	2	4
-CGG	1	1	0	0	1	1	0	0	1
-ATT	29	10	1	10	12	4	7	17	14
-ATC	14	14	1	13	6	6	9	17	19
-ATA	27	6	3	6	5	3	7	10	9
-ATG	3	2	3	2	3	1	1	5	3
-ACT	12	3	0	5	8	2	3	4	7
-ACC	19	3	0	8	7	3	7	8	12
-ACA	7	4	1	5	2	0	4	2	4
-ACG	2	0	0	0	1	1	1	0	1
-AAT	7	2	1	4	1	0	3	3	2
-AAC	8	9	2	5	7	2	2	7	11
-AAA	6	2	5	3	2	4	2	8	5
-AAG	0	0	0	0	0	2	0	2	2
-AGT	1	0	1	1	1	0	1	0	1
-AGC	2	1	0	3	2	1	1	2	2
-AGA	6	4	1	7	5	0	3	5	4
-AGG	0	1	0	0	1	0	2	2	1
-GTT	9	5	0	2	7	1	1	3	5
-GTC	11	2	0	1	4	2	2	2	10
-GTA	13	8	0	3	5	4	1	3	2
-GTG	3	2	0	0	1	0	1	0	2
-GCT	13	4	1	2	4	0	3	5	7
-GCC	15	4	1	4	12	2	3	14	10
-GCA	9	3	0	4	4	1	0	3	6
-GCG	0	0	0	1	0	1	1	0	1
-GAT	8	5	0	0	3	0	1	0	5
-GAC	9	8	0	1	2	4	0	0	4
-GAA	7	8	0	4	5	4	3	7	1
-GAG	1	1	1	1	3	1	0	1	1
-GGT	4	3	0	0	1	2	1	0	4
-GGC	2	2	1	2	4	2	1	4	3
-GGA	31	5	1	7	7	2	5	7	10
-GGG	9	2	0	3	3	1	1	4	7
-TAA	0	1	1	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009002503.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	28	19	11	4	7	12	6	0	9	6	0	0	13	3	13	10	18	1	8	13	6	1	6	11	8	1	2	3	4	1	29	14	27	3	12	19	7	2	7	8	6	0	1	2	6	0	9	11	13	3	13	15	9	0	8	9	7	1	4	2	31	9	0	0
+1	COX2	YP_009002504.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	5	7	5	0	1	10	6	0	4	5	2	0	5	1	4	10	8	3	3	4	2	0	1	5	6	1	1	4	2	1	10	14	6	2	3	3	4	0	2	9	2	0	0	1	4	1	5	2	8	2	4	4	3	0	5	8	8	1	3	2	5	2	1	0
+2	ATP8	YP_009002505.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	5	0	1	0	1	1	0	0	1	0	0	0	3	0	7	1	1	0	0	4	0	0	0	0	3	0	0	0	0	0	1	1	3	3	0	0	1	0	1	2	5	0	1	0	1	0	0	0	0	0	1	1	0	0	0	0	0	1	0	1	1	0	1	0
+3	ATP6	YP_009002506.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	11	11	6	1	5	5	6	0	2	3	0	0	4	2	9	12	11	2	6	5	2	1	3	3	4	0	1	0	2	0	10	13	6	2	5	8	5	0	4	5	3	0	1	3	7	0	2	1	3	0	2	4	4	1	0	1	4	1	0	2	7	3	1	0
+4	COX3	YP_009002507.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	11	14	2	2	5	4	5	0	3	8	1	1	9	4	7	13	9	0	2	5	2	1	4	12	4	2	2	0	1	1	12	6	5	3	8	7	2	1	1	7	2	0	1	2	5	1	7	4	5	1	4	12	4	0	3	2	5	3	1	4	7	3	1	0
+5	ND3	YP_009002508.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	6	2	6	0	3	4	2	0	1	1	0	1	3	0	7	10	4	1	1	4	0	0	0	0	2	0	0	1	1	1	4	6	3	1	2	3	0	1	0	2	4	2	0	1	0	0	1	2	4	0	0	2	1	1	0	4	4	1	2	2	2	1	0	0
+6	ND6	YP_009002510.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	2	8	4	1	2	6	7	0	0	5	0	2	1	0	10	20	6	4	1	8	2	1	1	2	2	0	0	0	1	0	7	9	7	1	3	7	4	1	3	2	2	0	1	1	3	2	1	2	1	1	3	3	0	1	1	0	3	0	1	1	5	1	1	0
+7	ND2	YP_009002511.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	15	16	9	2	12	20	13	0	3	5	1	2	6	2	9	26	10	4	3	8	2	0	1	6	9	1	0	1	2	0	17	17	10	5	4	8	2	0	3	7	8	2	0	2	5	2	3	2	3	0	5	14	3	0	0	0	7	1	0	4	7	4	1	0
+8	CYTB	YP_009002514.1	Engaeus lyelli	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Engaeus	15	22	12	2	5	8	9	0	4	8	2	1	10	1	15	22	11	1	4	13	6	1	6	9	9	0	1	1	4	1	14	19	9	3	7	12	4	1	2	11	5	2	1	2	4	1	5	10	2	2	7	10	6	1	5	4	1	1	4	3	10	7	0	0

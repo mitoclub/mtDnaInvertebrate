@@ -1,65 +1,14 @@
-	YP_009353869.1|COX1	YP_009353870.1|ND4L	YP_009353871.1|ATP8	YP_009353872.1|ND3	YP_009353873.1|ND6	YP_009353874.1|CYTB	YP_009353875.1|ND2	YP_009353876.1|ND4	YP_009353877.1|COX2	YP_009353878.1|ATP6	YP_009353879.1|ND1	YP_009353880.1|ND5	YP_009353881.1|COX3
-TTT	44	13	7	12	12	32	32	44	16	19	34	47	23
-TTC	2	1	0	0	2	3	5	4	1	2	3	4	3
-TTA	30	7	5	11	17	22	28	40	17	16	29	56	17
-TTG	6	7	4	0	6	10	6	27	8	12	14	17	7
-TCT	22	2	1	3	5	14	8	20	11	3	11	24	7
-TCC	0	0	0	1	0	2	4	1	0	2	0	5	2
-TCA	4	2	1	3	3	3	1	1	4	3	4	6	3
-TCG	2	1	0	1	0	0	3	1	0	0	0	0	1
-TAT	16	2	1	1	4	15	8	15	11	9	10	15	9
-TAC	5	0	0	1	0	4	4	0	2	1	0	6	3
-TGT	2	4	1	2	1	4	5	11	4	3	3	8	6
-TGC	0	0	0	0	1	2	3	1	1	0	0	2	0
-TGA	11	1	1	2	1	9	6	6	3	3	7	7	10
-TGG	6	0	3	1	3	6	3	6	4	3	2	9	5
-CTT	8	1	1	3	5	6	6	3	3	4	2	6	2
-CTC	0	0	0	0	1	0	0	1	1	0	0	1	0
-CTA	3	2	0	2	2	4	5	0	2	4	4	10	2
-CTG	1	0	0	0	3	1	3	1	2	0	0	1	0
-CCT	10	0	1	1	2	8	3	9	7	2	9	5	4
-CCC	3	0	0	0	0	1	1	2	1	0	0	3	0
-CCA	8	0	1	0	0	5	1	4	2	2	1	1	0
-CCG	1	0	0	1	2	4	2	0	3	2	0	1	2
-CAT	13	1	0	1	1	10	2	5	4	2	0	6	10
-CAC	5	0	0	0	0	1	1	2	1	0	0	3	1
-CAA	4	0	2	0	1	5	3	2	2	0	2	7	1
-CAG	4	1	0	0	0	3	4	2	3	2	1	5	0
-CGT	4	0	0	0	0	4	0	2	3	1	5	1	1
-CGC	1	0	0	0	1	0	0	0	0	0	0	0	0
-CGA	5	1	0	2	0	1	1	1	3	0	1	4	3
-CGG	1	0	0	0	0	2	0	1	2	2	2	0	2
-ATT	38	6	4	10	12	33	37	26	14	17	14	31	12
-ATC	2	2	0	2	1	1	4	2	0	0	2	2	1
-ATA	30	5	4	5	6	11	18	32	3	13	20	28	5
-ATG	13	1	2	4	4	10	6	9	11	2	5	12	6
-ACT	18	1	0	0	1	8	3	5	9	3	5	11	6
-ACC	0	0	0	0	0	0	0	1	0	0	1	2	0
-ACA	4	0	0	0	1	2	0	3	2	2	0	4	2
-ACG	7	0	0	0	0	1	0	1	1	1	2	0	3
-AAT	13	3	4	3	5	13	12	7	7	6	7	23	4
-AAC	3	0	1	2	1	2	1	2	1	0	1	3	0
-AAA	8	2	4	3	2	8	7	8	7	3	5	11	5
-AAG	4	1	1	0	2	3	4	3	4	0	7	4	1
-AGT	5	0	3	0	2	4	1	9	4	3	2	3	1
-AGC	0	0	0	0	3	1	2	1	1	1	0	1	0
-AGA	11	1	4	3	6	7	16	14	8	5	10	21	4
-AGG	7	2	2	3	4	4	5	9	4	9	4	7	3
-GTT	19	4	2	6	13	23	12	24	19	9	18	26	15
-GTC	1	1	0	1	0	1	0	1	1	1	2	2	1
-GTA	12	4	3	2	9	12	11	10	11	8	5	17	8
-GTG	9	1	4	7	3	6	2	12	10	7	7	10	4
-GCT	19	2	0	1	1	9	2	10	6	5	7	21	10
-GCC	2	0	0	2	0	3	1	2	0	0	3	1	0
-GCA	4	2	0	0	2	4	4	1	4	1	4	10	6
-GCG	2	1	0	1	0	1	1	1	0	1	2	1	2
-GAT	12	3	2	2	2	7	0	3	15	4	3	11	5
-GAC	2	0	1	0	0	1	0	1	3	1	1	2	0
-GAA	4	0	1	1	1	3	3	6	8	4	9	7	6
-GAG	4	1	0	4	3	1	5	4	7	0	4	7	5
-GGT	23	2	1	1	3	6	11	13	7	8	7	6	6
-GGC	2	0	0	1	0	1	2	2	1	1	0	0	1
-GGA	15	0	2	2	0	13	9	12	3	5	6	12	7
-GGG	20	2	1	4	4	11	13	9	8	7	7	15	10
-TAA	0	1	1	1	0	1	1	1	1	0	1	1	1
-TAG	1	0	0	0	1	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009353869.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	44	2	30	6	22	0	4	2	16	5	2	0	11	6	8	0	3	1	10	3	8	1	13	5	4	4	4	1	5	1	38	2	30	13	18	0	4	7	13	3	8	4	5	0	11	7	19	1	12	9	19	2	4	2	12	2	4	4	23	2	15	20	0	1
+1	ND4L	YP_009353870.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	13	1	7	7	2	0	2	1	2	0	4	0	1	0	1	0	2	0	0	0	0	0	1	0	0	1	0	0	1	0	6	2	5	1	1	0	0	0	3	0	2	1	0	0	1	2	4	1	4	1	2	0	2	1	3	0	0	1	2	0	0	2	1	0
+2	ATP8	YP_009353871.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	7	0	5	4	1	0	1	0	1	0	1	0	1	3	1	0	0	0	1	0	1	0	0	0	2	0	0	0	0	0	4	0	4	2	0	0	0	0	4	1	4	1	3	0	4	2	2	0	3	4	0	0	0	0	2	1	1	0	1	0	2	1	1	0
+3	ND3	YP_009353872.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	12	0	11	0	3	1	3	1	1	1	2	0	2	1	3	0	2	0	1	0	0	1	1	0	0	0	0	0	2	0	10	2	5	4	0	0	0	0	3	2	3	0	0	0	3	3	6	1	2	7	1	2	0	1	2	0	1	4	1	1	2	4	1	0
+4	ND6	YP_009353873.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	12	2	17	6	5	0	3	0	4	0	1	1	1	3	5	1	2	3	2	0	0	2	1	0	1	0	0	1	0	0	12	1	6	4	1	0	1	0	5	1	2	2	2	3	6	4	13	0	9	3	1	0	2	0	2	0	1	3	3	0	0	4	0	1
+5	CYTB	YP_009353874.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	32	3	22	10	14	2	3	0	15	4	4	2	9	6	6	0	4	1	8	1	5	4	10	1	5	3	4	0	1	2	33	1	11	10	8	0	2	1	13	2	8	3	4	1	7	4	23	1	12	6	9	3	4	1	7	1	3	1	6	1	13	11	1	0
+6	ND2	YP_009353875.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	32	5	28	6	8	4	1	3	8	4	5	3	6	3	6	0	5	3	3	1	1	2	2	1	3	4	0	0	1	0	37	4	18	6	3	0	0	0	12	1	7	4	1	2	16	5	12	0	11	2	2	1	4	1	0	0	3	5	11	2	9	13	1	0
+7	ND4	YP_009353876.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	44	4	40	27	20	1	1	1	15	0	11	1	6	6	3	1	0	1	9	2	4	0	5	2	2	2	2	0	1	1	26	2	32	9	5	1	3	1	7	2	8	3	9	1	14	9	24	1	10	12	10	2	1	1	3	1	6	4	13	2	12	9	1	0
+8	COX2	YP_009353877.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	16	1	17	8	11	0	4	0	11	2	4	1	3	4	3	1	2	2	7	1	2	3	4	1	2	3	3	0	3	2	14	0	3	11	9	0	2	1	7	1	7	4	4	1	8	4	19	1	11	10	6	0	4	0	15	3	8	7	7	1	3	8	1	0
+9	ATP6	YP_009353878.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	19	2	16	12	3	2	3	0	9	1	3	0	3	3	4	0	4	0	2	0	2	2	2	0	0	2	1	0	0	2	17	0	13	2	3	0	2	1	6	0	3	0	3	1	5	9	9	1	8	7	5	0	1	1	4	1	4	0	8	1	5	7	0	1
+10	ND1	YP_009353879.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	34	3	29	14	11	0	4	0	10	0	3	0	7	2	2	0	4	0	9	0	1	0	0	0	2	1	5	0	1	2	14	2	20	5	5	1	0	2	7	1	5	7	2	0	10	4	18	2	5	7	7	3	4	2	3	1	9	4	7	0	6	7	1	0
+11	ND5	YP_009353880.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	47	4	56	17	24	5	6	0	15	6	8	2	7	9	6	1	10	1	5	3	1	1	6	3	7	5	1	0	4	0	31	2	28	12	11	2	4	0	23	3	11	4	3	1	21	7	26	2	17	10	21	1	10	1	11	2	7	7	6	0	12	15	1	0
+12	COX3	YP_009353881.1	Tropidomya abbreviata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Anomalodesmata, Pholadomyoida, Poromyoidea, Poromyidae, Tropidomya	23	3	17	7	7	2	3	1	9	3	6	0	10	5	2	0	2	0	4	0	0	2	10	1	1	0	1	0	3	2	12	1	5	6	6	0	2	3	4	0	5	1	1	0	4	3	15	1	8	4	10	0	6	2	5	0	6	5	6	1	7	10	1	0

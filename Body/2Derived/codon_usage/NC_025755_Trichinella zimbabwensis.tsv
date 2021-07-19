@@ -1,65 +1,10 @@
-	YP_009110096.1|COX2	YP_009110097.1|ND1	YP_009110102.1|ND6	YP_009110103.1|CYTB	YP_009110104.1|ATP6	YP_009110105.1|COX3	YP_009110106.1|ATP8	YP_009110107.1|ND3	YP_009110108.1|COX1
-TTT	1	4	5	10	3	3	0	9	18
-TTC	8	13	2	16	8	13	0	5	22
-TTA	11	6	11	18	11	8	3	10	22
-TTG	0	1	1	1	0	0	0	1	1
-TCT	3	1	2	2	4	3	1	3	7
-TCC	6	3	1	6	4	5	0	1	10
-TCA	8	9	3	10	8	8	1	3	13
-TCG	0	0	1	1	0	1	0	1	0
-TAT	3	3	6	5	8	2	1	1	5
-TAC	6	7	2	12	8	10	0	3	12
-TGT	2	0	1	0	0	0	1	1	0
-TGC	1	1	1	0	1	3	0	0	3
-TGA	7	5	3	17	10	10	1	2	13
-TGG	2	1	0	1	0	0	0	0	1
-CTT	3	6	5	10	4	1	1	3	6
-CTC	5	8	1	7	7	6	2	1	7
-CTA	13	31	2	16	24	20	2	9	35
-CTG	0	3	2	4	0	2	0	0	0
-CCT	1	0	1	1	0	3	1	1	5
-CCC	0	2	1	1	1	2	2	1	4
-CCA	9	11	2	14	9	6	1	1	14
-CCG	0	1	1	0	0	0	0	0	0
-CAT	1	0	3	4	0	0	0	1	6
-CAC	4	2	1	8	2	5	0	0	11
-CAA	5	5	0	3	3	4	0	0	6
-CAG	0	0	0	1	0	0	1	0	0
-CGT	0	2	1	0	0	0	0	0	3
-CGC	2	0	0	1	0	0	0	0	0
-CGA	2	6	3	4	3	2	0	2	6
-CGG	0	0	2	0	0	0	0	0	0
-ATT	6	11	10	15	7	1	3	4	19
-ATC	7	14	9	18	14	13	2	7	21
-ATA	19	22	5	37	24	18	4	7	37
-ATG	2	1	3	1	3	2	0	1	2
-ACT	2	4	4	4	5	3	0	4	9
-ACC	6	11	6	7	11	9	2	0	8
-ACA	10	9	8	14	16	21	3	4	22
-ACG	0	0	2	0	1	0	0	0	1
-AAT	2	3	2	3	7	2	1	1	8
-AAC	6	9	9	11	18	16	0	4	12
-AAA	7	9	3	10	13	5	3	2	7
-AAG	0	1	2	2	1	0	0	0	1
-AGT	0	2	0	4	1	1	0	1	3
-AGC	3	5	2	2	3	1	1	1	2
-AGA	7	15	6	8	6	13	1	3	11
-AGG	0	0	1	1	1	1	0	1	0
-GTT	3	2	0	2	2	0	0	1	6
-GTC	1	3	5	2	2	1	0	1	3
-GTA	6	10	2	3	1	6	0	4	16
-GTG	0	0	0	0	1	1	0	1	2
-GCT	0	1	0	2	2	0	1	1	11
-GCC	2	5	2	4	3	0	0	2	9
-GCA	6	4	4	10	5	8	1	2	10
-GCG	0	0	1	0	0	0	0	0	0
-GAT	4	2	0	4	0	1	0	1	2
-GAC	7	2	2	4	2	2	1	1	8
-GAA	8	9	2	6	5	5	1	2	8
-GAG	0	1	1	0	1	0	0	2	0
-GGT	2	4	0	6	0	1	0	1	9
-GGC	2	1	2	3	2	3	0	1	4
-GGA	2	8	2	15	3	7	0	1	32
-GGG	2	0	1	0	0	0	0	0	2
-TAA	1	0	0	0	0	0	1	1	1
-TAG	0	0	1	1	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_009110096.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	1	8	11	0	3	6	8	0	3	6	2	1	7	2	3	5	13	0	1	0	9	0	1	4	5	0	0	2	2	0	6	7	19	2	2	6	10	0	2	6	7	0	0	3	7	0	3	1	6	0	0	2	6	0	4	7	8	0	2	2	2	2	1	0
+1	ND1	YP_009110097.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	4	13	6	1	1	3	9	0	3	7	0	1	5	1	6	8	31	3	0	2	11	1	0	2	5	0	2	0	6	0	11	14	22	1	4	11	9	0	3	9	9	1	2	5	15	0	2	3	10	0	1	5	4	0	2	2	9	1	4	1	8	0	0	0
+2	ND6	YP_009110102.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	5	2	11	1	2	1	3	1	6	2	1	1	3	0	5	1	2	2	1	1	2	1	3	1	0	0	1	0	3	2	10	9	5	3	4	6	8	2	2	9	3	2	0	2	6	1	0	5	2	0	0	2	4	1	0	2	2	1	0	2	2	1	0	1
+3	CYTB	YP_009110103.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	10	16	18	1	2	6	10	1	5	12	0	0	17	1	10	7	16	4	1	1	14	0	4	8	3	1	0	1	4	0	15	18	37	1	4	7	14	0	3	11	10	2	4	2	8	1	2	2	3	0	2	4	10	0	4	4	6	0	6	3	15	0	0	1
+4	ATP6	YP_009110104.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	3	8	11	0	4	4	8	0	8	8	0	1	10	0	4	7	24	0	0	1	9	0	0	2	3	0	0	0	3	0	7	14	24	3	5	11	16	1	7	18	13	1	1	3	6	1	2	2	1	1	2	3	5	0	0	2	5	1	0	2	3	0	0	0
+5	COX3	YP_009110105.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	3	13	8	0	3	5	8	1	2	10	0	3	10	0	1	6	20	2	3	2	6	0	0	5	4	0	0	0	2	0	1	13	18	2	3	9	21	0	2	16	5	0	1	1	13	1	0	1	6	1	0	0	8	0	1	2	5	0	1	3	7	0	0	1
+6	ATP8	YP_009110106.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	0	0	3	0	1	0	1	0	1	0	1	0	1	0	1	2	2	0	1	2	1	0	0	0	0	1	0	0	0	0	3	2	4	0	0	2	3	0	1	0	3	0	0	1	1	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	1	0
+7	ND3	YP_009110107.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	9	5	10	1	3	1	3	1	1	3	1	0	2	0	3	1	9	0	1	1	1	0	1	0	0	0	0	0	2	0	4	7	7	1	4	0	4	0	1	4	2	0	1	1	3	1	1	1	4	1	1	2	2	0	1	1	2	2	1	1	1	0	1	0
+8	COX1	YP_009110108.1	Trichinella zimbabwensis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	18	22	22	1	7	10	13	0	5	12	0	3	13	1	6	7	35	0	5	4	14	0	6	11	6	0	3	0	6	0	19	21	37	2	9	8	22	1	8	12	7	1	3	2	11	0	6	3	16	2	11	9	10	0	2	8	8	0	9	4	32	2	1	0

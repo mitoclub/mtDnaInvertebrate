@@ -1,65 +1,13 @@
-	YP_009679055.1|ND1	YP_009679056.1|ND2	YP_009679057.1|COX1	YP_009679058.1|COX2	YP_009679059.1|ATP8	YP_009679060.1|ATP6	YP_009679061.1|COX3	YP_009679062.1|ND3	YP_009679063.1|ND4L	YP_009679064.1|ND4	YP_009679065.1|ND5	YP_009679067.1|CYTB
-TTT	6	5	21	4	0	6	9	5	4	8	20	9
-TTC	11	4	19	5	2	6	14	3	4	8	23	20
-TTA	10	11	8	6	2	8	6	5	4	13	15	13
-TTG	1	3	0	1	0	0	1	1	0	1	6	1
-TCT	3	6	9	5	0	1	2	1	1	5	4	4
-TCC	5	3	3	3	0	2	2	3	2	5	9	4
-TCA	8	9	15	3	1	1	6	1	2	13	14	11
-TCG	2	0	0	2	1	0	1	0	0	2	0	2
-TAT	7	3	12	5	1	2	6	0	0	7	3	7
-TAC	5	5	7	4	2	2	6	2	0	7	8	7
-TGT	0	1	0	0	0	0	1	0	2	1	3	1
-TGC	0	0	1	2	0	0	1	1	1	4	2	2
-TGA	8	8	16	5	5	2	12	5	0	16	10	9
-TGG	0	3	1	0	0	3	0	0	1	4	3	4
-CTT	12	2	15	6	1	10	3	1	3	14	19	4
-CTC	6	10	9	1	0	6	6	6	1	13	12	8
-CTA	28	33	26	12	1	16	12	10	13	37	38	33
-CTG	6	8	6	3	0	8	3	4	2	8	3	5
-CCT	2	0	4	0	3	3	1	1	1	3	4	1
-CCC	11	7	7	3	0	6	6	3	1	10	6	4
-CCA	10	10	12	9	6	6	5	2	0	12	14	15
-CCG	1	0	5	2	0	1	1	2	0	2	3	1
-CAT	1	0	4	3	1	1	5	1	0	5	2	2
-CAC	5	6	15	7	0	2	11	0	4	7	11	10
-CAA	6	13	8	8	1	6	9	3	3	14	15	7
-CAG	1	1	0	0	0	2	0	0	0	0	4	0
-CGT	0	0	1	2	0	0	0	0	0	0	0	0
-CGC	1	0	1	2	0	0	1	1	1	3	1	1
-CGA	5	3	5	2	0	3	3	1	2	6	7	6
-CGG	2	1	1	0	0	3	1	0	0	2	2	1
-ATT	9	13	25	13	2	11	10	7	1	30	28	13
-ATC	7	19	14	6	1	10	5	0	1	9	25	16
-ATA	8	12	17	8	1	8	7	1	4	22	26	10
-ATG	3	5	7	5	1	5	2	2	1	8	5	4
-ACT	4	2	3	2	4	1	1	1	4	1	9	1
-ACC	8	25	9	4	1	8	10	3	1	17	19	9
-ACA	9	19	22	2	1	11	10	5	4	21	28	8
-ACG	2	2	2	2	0	1	1	0	0	0	2	3
-AAT	2	2	6	2	3	6	1	0	1	4	10	2
-AAC	8	8	9	3	1	4	0	3	1	9	21	15
-AAA	4	6	8	3	4	0	1	0	0	8	20	9
-AAG	3	3	0	1	0	1	1	1	0	1	3	0
-AGT	0	1	0	0	0	0	1	0	1	2	1	0
-AGC	4	5	5	3	1	4	2	0	2	3	10	1
-GTT	1	2	10	3	0	3	5	1	1	2	7	2
-GTC	5	0	5	5	2	2	3	3	0	3	7	11
-GTA	13	5	23	8	0	11	7	1	1	8	12	9
-GTG	3	2	3	1	2	1	1	1	0	2	1	2
-GCT	3	1	7	3	0	2	5	1	2	2	8	5
-GCC	18	14	20	6	1	7	11	3	4	18	25	10
-GCA	13	15	14	7	1	8	7	3	8	17	20	15
-GCG	0	5	4	1	0	1	0	1	0	1	1	1
-GAT	2	0	3	1	0	0	1	0	0	0	4	2
-GAC	2	4	11	12	0	1	4	4	1	3	9	8
-GAA	8	3	8	12	1	4	8	7	2	9	10	4
-GAG	3	2	3	3	0	1	2	0	1	2	1	2
-GGT	1	1	7	0	0	0	1	0	1	3	1	1
-GGC	4	2	11	2	0	1	5	2	1	5	8	11
-GGA	7	8	17	5	1	8	7	2	2	14	14	12
-GGG	7	7	10	2	0	1	8	2	1	6	8	2
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009679055.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	6	11	10	1	3	5	8	2	7	5	0	0	8	0	12	6	28	6	2	11	10	1	1	5	6	1	0	1	5	2	9	7	8	3	4	8	9	2	2	8	4	3	0	4	1	5	13	3	3	18	13	0	2	2	8	3	1	4	7	7	1	0	0	0
+1	ND2	YP_009679056.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	5	4	11	3	6	3	9	0	3	5	1	0	8	3	2	10	33	8	0	7	10	0	0	6	13	1	0	0	3	1	13	19	12	5	2	25	19	2	2	8	6	3	1	5	2	0	5	2	1	14	15	5	0	4	3	2	1	2	8	7	0	0	0	0
+2	COX1	YP_009679057.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	21	19	8	0	9	3	15	0	12	7	0	1	16	1	15	9	26	6	4	7	12	5	4	15	8	0	1	1	5	1	25	14	17	7	3	9	22	2	6	9	8	0	0	5	10	5	23	3	7	20	14	4	3	11	8	3	7	11	17	10	1	0	0	0
+3	COX2	YP_009679058.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	4	5	6	1	5	3	3	2	5	4	0	2	5	0	6	1	12	3	0	3	9	2	3	7	8	0	2	2	2	0	13	6	8	5	2	4	2	2	2	3	3	1	0	3	3	5	8	1	3	6	7	1	1	12	12	3	0	2	5	2	0	0	0	0
+4	ATP8	YP_009679059.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	0	2	2	0	0	0	1	1	1	2	0	0	5	0	1	0	1	0	3	0	6	0	1	0	1	0	0	0	0	0	2	1	1	1	4	1	1	0	3	1	4	0	0	1	0	2	0	2	0	1	1	0	0	0	1	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_009679060.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	6	6	8	0	1	2	1	0	2	2	0	0	2	3	10	6	16	8	3	6	6	1	1	2	6	2	0	0	3	3	11	10	8	5	1	8	11	1	6	4	0	1	0	4	3	2	11	1	2	7	8	1	0	1	4	1	0	1	8	1	1	0	0	0
+6	COX3	YP_009679061.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	9	14	6	1	2	2	6	1	6	6	1	1	12	0	3	6	12	3	1	6	5	1	5	11	9	0	0	1	3	1	10	5	7	2	1	10	10	1	1	0	1	1	1	2	5	3	7	1	5	11	7	0	1	4	8	2	1	5	7	8	0	0	0	0
+7	ND3	YP_009679062.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	5	3	5	1	1	3	1	0	0	2	0	1	5	0	1	6	10	4	1	3	2	2	1	0	3	0	0	1	1	0	7	0	1	2	1	3	5	0	0	3	0	1	0	0	1	3	1	1	1	3	3	1	0	4	7	0	0	2	2	2	0	0	0	0
+8	ND4L	YP_009679063.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	4	4	4	0	1	2	2	0	0	0	2	1	0	1	3	1	13	2	1	1	0	0	0	4	3	0	0	1	2	0	1	1	4	1	4	1	4	0	1	1	0	0	1	2	1	0	1	0	2	4	8	0	0	1	2	1	1	1	2	1	1	0	0	0
+9	ND4	YP_009679064.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	8	8	13	1	5	5	13	2	7	7	1	4	16	4	14	13	37	8	3	10	12	2	5	7	14	0	0	3	6	2	30	9	22	8	1	17	21	0	4	9	8	1	2	3	2	3	8	2	2	18	17	1	0	3	9	2	3	5	14	6	0	0	0	0
+10	ND5	YP_009679065.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	20	23	15	6	4	9	14	0	3	8	3	2	10	3	19	12	38	3	4	6	14	3	2	11	15	4	0	1	7	2	28	25	26	5	9	19	28	2	10	21	20	3	1	10	7	7	12	1	8	25	20	1	4	9	10	1	1	8	14	8	1	0	0	0
+11	CYTB	YP_009679067.1	Sinocyclocheilus huizeensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Sinocyclocheilus	9	20	13	1	4	4	11	2	7	7	1	2	9	4	4	8	33	5	1	4	15	1	2	10	7	0	0	1	6	1	13	16	10	4	1	9	8	3	2	15	9	0	0	1	2	11	9	2	5	10	15	1	2	8	4	2	1	11	12	2	0	0	0	0

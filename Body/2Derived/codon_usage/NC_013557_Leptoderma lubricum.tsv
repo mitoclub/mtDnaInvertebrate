@@ -1,65 +1,13 @@
-	YP_003331042.1|ND1	YP_003331043.1|ND2	YP_003331044.1|COX1	YP_003331045.1|COX2	YP_003331046.1|ATP8	YP_003331047.1|ATP6	YP_003331048.1|COX3	YP_003331049.1|ND3	YP_003331050.1|ND4L	YP_003331051.1|ND4	YP_003331052.1|ND5	YP_003331054.1|CYTB
-TTT	15	2	21	6	3	5	10	6	2	10	23	18
-TTC	5	7	20	3	1	5	13	2	4	5	21	11
-TTA	5	16	9	3	3	10	6	6	3	18	16	11
-TTG	3	2	1	2	0	0	0	1	0	3	0	1
-TCT	4	3	5	1	1	2	3	2	1	8	7	4
-TCC	9	13	14	6	0	1	4	1	1	13	9	9
-TCA	4	1	7	6	0	1	6	1	4	5	12	8
-TCG	1	0	2	1	0	0	0	1	0	0	0	0
-TAT	5	2	7	2	0	0	2	0	0	6	5	5
-TAC	8	5	11	7	0	5	9	2	1	9	6	12
-TGT	0	1	0	1	0	0	2	0	2	3	2	1
-TGC	0	0	1	1	0	0	1	1	1	2	5	1
-TGA	8	7	12	4	5	4	8	5	1	17	9	12
-TGG	0	4	5	1	0	1	4	0	0	3	5	2
-CTT	12	11	19	10	0	11	6	6	3	23	19	16
-CTC	21	10	17	7	0	11	8	4	5	23	23	9
-CTA	20	27	16	6	1	20	14	5	9	18	27	16
-CTG	2	9	4	0	0	4	1	6	3	4	5	4
-CCT	0	4	6	3	1	2	0	3	0	4	5	1
-CCC	14	9	10	6	5	9	7	3	1	14	11	11
-CCA	9	7	8	5	3	4	6	1	1	9	9	9
-CCG	1	1	4	0	0	2	0	1	0	1	3	1
-CAT	1	2	3	5	0	1	3	0	0	3	4	3
-CAC	3	7	16	5	2	2	13	0	4	7	9	9
-CAA	7	9	7	7	2	7	8	3	3	10	18	6
-CAG	0	3	1	1	0	2	0	0	0	2	3	1
-CGT	0	1	2	0	0	3	1	0	1	1	0	0
-CGC	3	1	1	3	0	0	1	0	2	4	2	0
-CGA	5	2	4	3	0	3	3	2	0	6	6	8
-CGG	0	0	1	0	0	0	0	0	0	0	2	0
-ATT	18	9	14	11	3	10	7	6	2	29	34	14
-ATC	11	10	20	9	1	7	5	4	1	12	23	13
-ATA	8	15	14	11	0	5	5	0	3	15	18	8
-ATG	2	5	11	2	1	8	2	2	2	12	13	3
-ACT	2	10	2	3	0	3	6	1	1	5	12	0
-ACC	9	18	14	3	4	14	8	5	2	16	36	19
-ACA	7	8	16	5	2	7	8	3	4	18	11	8
-ACG	1	2	3	1	0	0	0	0	0	1	4	0
-AAT	2	0	7	2	2	5	0	1	0	5	6	4
-AAC	9	7	8	4	1	4	2	1	1	7	28	14
-AAA	6	7	8	4	3	1	2	1	0	8	18	7
-AAG	1	2	0	0	0	0	0	0	0	2	2	1
-AGT	0	0	1	0	1	0	0	0	0	4	5	0
-AGC	3	7	4	3	1	4	3	0	4	3	5	3
-GTT	2	3	10	4	1	2	5	2	1	4	6	7
-GTC	3	2	12	5	0	4	6	1	0	3	4	7
-GTA	9	7	17	4	2	5	7	2	0	4	7	9
-GTG	0	2	5	3	1	0	0	0	0	2	6	2
-GCT	6	5	8	3	0	4	6	0	2	5	8	4
-GCC	18	23	24	6	2	8	6	7	7	18	29	14
-GCA	9	14	9	5	0	5	6	3	6	8	14	13
-GCG	0	0	4	1	0	0	1	0	0	4	1	1
-GAT	0	1	4	1	0	0	2	1	1	1	2	2
-GAC	4	1	10	12	0	1	3	2	0	4	9	7
-GAA	7	4	8	12	3	3	7	5	2	10	9	5
-GAG	4	2	3	3	0	1	3	1	1	1	3	2
-GGT	3	2	7	0	0	0	7	0	0	1	7	3
-GGC	6	7	14	3	0	4	5	4	2	9	7	9
-GGA	5	6	11	3	0	6	8	2	3	12	13	10
-GGG	4	3	14	2	0	1	2	0	1	6	6	2
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003331042.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	15	5	5	3	4	9	4	1	5	8	0	0	8	0	12	21	20	2	0	14	9	1	1	3	7	0	0	3	5	0	18	11	8	2	2	9	7	1	2	9	6	1	0	3	2	3	9	0	6	18	9	0	0	4	7	4	3	6	5	4	0	1	0	0
+1	ND2	YP_003331043.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	2	7	16	2	3	13	1	0	2	5	1	0	7	4	11	10	27	9	4	9	7	1	2	7	9	3	1	1	2	0	9	10	15	5	10	18	8	2	0	7	7	2	0	7	3	2	7	2	5	23	14	0	1	1	4	2	2	7	6	3	0	0	0	0
+2	COX1	YP_003331044.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	21	20	9	1	5	14	7	2	7	11	0	1	12	5	19	17	16	4	6	10	8	4	3	16	7	1	2	1	4	1	14	20	14	11	2	14	16	3	7	8	8	0	1	4	10	12	17	5	8	24	9	4	4	10	8	3	7	14	11	14	1	0	0	0
+3	COX2	YP_003331045.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	6	3	3	2	1	6	6	1	2	7	1	1	4	1	10	7	6	0	3	6	5	0	5	5	7	1	0	3	3	0	11	9	11	2	3	3	5	1	2	4	4	0	0	3	4	5	4	3	3	6	5	1	1	12	12	3	0	3	3	2	0	0	0	0
+4	ATP8	YP_003331046.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	3	1	3	0	1	0	0	0	0	0	0	0	5	0	0	0	1	0	1	5	3	0	0	2	2	0	0	0	0	0	3	1	0	1	0	4	2	0	2	1	3	0	1	1	1	0	2	1	0	2	0	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003331047.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	5	5	10	0	2	1	1	0	0	5	0	0	4	1	11	11	20	4	2	9	4	2	1	2	7	2	3	0	3	0	10	7	5	8	3	14	7	0	5	4	1	0	0	4	2	4	5	0	4	8	5	0	0	1	3	1	0	4	6	1	1	0	0	0
+6	COX3	YP_003331048.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	10	13	6	0	3	4	6	0	2	9	2	1	8	4	6	8	14	1	0	7	6	0	3	13	8	0	1	1	3	0	7	5	5	2	6	8	8	0	0	2	2	0	0	3	5	6	7	0	6	6	6	1	2	3	7	3	7	5	8	2	0	0	0	0
+7	ND3	YP_003331049.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	6	2	6	1	2	1	1	1	0	2	0	1	5	0	6	4	5	6	3	3	1	1	0	0	3	0	0	0	2	0	6	4	0	2	1	5	3	0	1	1	1	0	0	0	2	1	2	0	0	7	3	0	1	2	5	1	0	4	2	0	0	0	0	0
+8	ND4L	YP_003331050.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	2	4	3	0	1	1	4	0	0	1	2	1	1	0	3	5	9	3	0	1	1	0	0	4	3	0	1	2	0	0	2	1	3	2	1	2	4	0	0	1	0	0	0	4	1	0	0	0	2	7	6	0	1	0	2	1	0	2	3	1	1	0	0	0
+9	ND4	YP_003331051.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	10	5	18	3	8	13	5	0	6	9	3	2	17	3	23	23	18	4	4	14	9	1	3	7	10	2	1	4	6	0	29	12	15	12	5	16	18	1	5	7	8	2	4	3	4	3	4	2	5	18	8	4	1	4	10	1	1	9	12	6	0	0	0	0
+10	ND5	YP_003331052.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	23	21	16	0	7	9	12	0	5	6	2	5	9	5	19	23	27	5	5	11	9	3	4	9	18	3	0	2	6	2	34	23	18	13	12	36	11	4	6	28	18	2	5	5	6	4	7	6	8	29	14	1	2	9	9	3	7	7	13	6	1	0	0	0
+11	CYTB	YP_003331054.1	Leptoderma lubricum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Leptoderma	18	11	11	1	4	9	8	0	5	12	1	1	12	2	16	9	16	4	1	11	9	1	3	9	6	1	0	0	8	0	14	13	8	3	0	19	8	0	4	14	7	1	0	3	7	7	9	2	4	14	13	1	2	7	5	2	3	9	10	2	0	0	0	0

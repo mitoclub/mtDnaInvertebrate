@@ -1,65 +1,14 @@
-	YP_009019388.1|COX1	YP_009019389.1|COX2	YP_009019390.1|ATP8	YP_009019391.1|COX3	YP_009019392.1|ND6	YP_009019393.1|CYTB	YP_009019394.1|ATP6	YP_009019395.1|ND5	YP_009019396.1|ND4L	YP_009019397.1|ND4	YP_009019398.1|ND1	YP_009019399.1|ND3	YP_009019400.1|ND2
-TTT	36	5	2	30	19	35	21	25	3	36	25	15	32
-TTC	4	2	0	2	0	4	4	6	0	1	4	2	3
-TTA	41	15	7	22	20	33	15	50	15	47	38	15	33
-TTG	7	1	0	3	3	10	4	14	3	12	5	2	9
-TCT	14	7	3	5	2	11	9	9	5	12	8	2	12
-TCC	3	1	1	1	1	2	2	2	0	2	3	1	2
-TCA	23	8	0	5	5	6	6	11	5	10	6	0	10
-TCG	2	0	0	3	2	1	2	3	0	2	2	0	0
-TAT	18	15	4	11	12	15	3	21	1	16	10	2	8
-TAC	4	0	1	3	0	3	3	8	0	5	2	0	5
-TGT	0	2	0	2	2	3	7	8	2	8	2	1	5
-TGC	0	1	1	1	1	0	1	4	1	3	2	2	1
-TGA	11	6	5	6	2	6	2	13	0	14	7	2	5
-TGG	2	0	0	1	0	5	4	6	0	1	0	0	2
-CTT	7	0	2	3	5	6	3	5	1	4	4	2	3
-CTC	1	0	0	1	1	1	3	1	0	1	2	0	1
-CTA	14	4	0	3	3	6	4	10	0	9	3	2	3
-CTG	1	0	0	1	0	1	0	5	0	2	0	0	0
-CCT	11	3	1	4	3	7	1	8	1	8	4	1	1
-CCC	1	1	0	0	2	0	0	1	0	0	0	0	0
-CCA	13	8	1	5	1	9	2	5	1	5	6	2	6
-CCG	1	0	0	1	1	4	1	4	0	1	1	2	1
-CAT	10	3	0	8	0	10	4	8	1	7	0	1	1
-CAC	4	1	0	3	0	0	1	0	0	0	0	0	0
-CAA	6	8	2	2	1	4	5	8	0	2	2	1	1
-CAG	1	1	0	2	0	2	1	3	0	2	2	0	2
-CGT	2	2	0	3	0	2	4	0	0	2	4	1	1
-CGC	0	0	0	1	0	0	0	1	0	1	1	1	0
-CGA	7	3	0	2	2	4	1	1	1	2	2	1	0
-CGG	1	0	0	0	1	1	0	3	0	0	0	0	0
-ATT	38	20	2	12	14	32	11	28	10	40	15	13	29
-ATC	3	2	0	4	1	1	4	7	0	2	4	3	4
-ATA	28	17	3	11	13	14	10	31	13	39	20	4	31
-ATG	3	1	3	2	2	8	6	15	4	9	4	4	9
-ACT	17	2	0	11	0	7	8	17	2	3	6	1	3
-ACC	2	1	0	0	3	1	0	2	1	0	0	0	0
-ACA	7	6	0	7	2	7	7	6	1	5	4	1	3
-ACG	2	0	0	0	1	2	1	4	0	0	1	0	1
-AAT	14	3	8	3	9	16	10	25	3	13	11	5	11
-AAC	1	0	0	1	0	2	3	3	0	4	0	0	5
-AAA	7	6	2	6	7	7	9	8	1	11	10	3	9
-AAG	0	1	0	1	3	2	4	10	0	3	2	0	2
-AGT	2	3	1	3	6	3	3	8	3	7	5	1	5
-AGC	0	0	0	2	1	1	3	1	0	2	0	0	0
-AGA	8	5	0	4	3	1	4	8	2	13	9	2	5
-AGG	3	1	0	0	1	3	3	6	0	5	2	0	6
-GTT	11	6	1	12	7	15	6	16	3	9	10	3	9
-GTC	2	2	0	0	1	2	2	2	0	0	0	1	1
-GTA	19	13	3	10	2	14	1	18	3	15	9	0	13
-GTG	2	2	0	0	0	0	5	9	0	1	4	1	2
-GCT	14	4	0	6	1	5	4	8	2	7	7	0	6
-GCC	3	1	0	0	1	1	1	5	0	2	2	0	0
-GCA	11	2	0	2	1	9	1	9	0	4	4	1	3
-GCG	2	0	0	0	1	0	0	3	0	0	1	0	0
-GAT	10	9	1	5	4	9	5	18	1	6	4	5	5
-GAC	6	4	0	2	0	0	1	1	1	0	0	0	0
-GAA	5	8	0	5	0	2	3	8	1	4	4	4	4
-GAG	3	2	0	3	0	3	4	6	2	0	5	0	2
-GGT	13	4	0	10	0	7	2	11	1	9	6	2	5
-GGC	5	1	0	1	3	3	0	4	0	1	1	0	2
-GGA	14	4	0	6	0	7	2	8	0	6	5	0	2
-GGG	11	0	0	2	2	6	1	10	1	6	2	2	3
-TAA	0	0	0	0	1	1	0	0	1	0	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009019388.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	36	4	41	7	14	3	23	2	18	4	0	0	11	2	7	1	14	1	11	1	13	1	10	4	6	1	2	0	7	1	38	3	28	3	17	2	7	2	14	1	7	0	2	0	8	3	11	2	19	2	14	3	11	2	10	6	5	3	13	5	14	11	0	0
+1	COX2	YP_009019389.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	5	2	15	1	7	1	8	0	15	0	2	1	6	0	0	0	4	0	3	1	8	0	3	1	8	1	2	0	3	0	20	2	17	1	2	1	6	0	3	0	6	1	3	0	5	1	6	2	13	2	4	1	2	0	9	4	8	2	4	1	4	0	0	0
+2	ATP8	YP_009019390.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	2	0	7	0	3	1	0	0	4	1	0	1	5	0	2	0	0	0	1	0	1	0	0	0	2	0	0	0	0	0	2	0	3	3	0	0	0	0	8	0	2	0	1	0	0	0	1	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+3	COX3	YP_009019391.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	30	2	22	3	5	1	5	3	11	3	2	1	6	1	3	1	3	1	4	0	5	1	8	3	2	2	3	1	2	0	12	4	11	2	11	0	7	0	3	1	6	1	3	2	4	0	12	0	10	0	6	0	2	0	5	2	5	3	10	1	6	2	0	0
+4	ND6	YP_009019392.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	19	0	20	3	2	1	5	2	12	0	2	1	2	0	5	1	3	0	3	2	1	1	0	0	1	0	0	0	2	1	14	1	13	2	0	3	2	1	9	0	7	3	6	1	3	1	7	1	2	0	1	1	1	1	4	0	0	0	0	3	0	2	1	0
+5	CYTB	YP_009019393.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	35	4	33	10	11	2	6	1	15	3	3	0	6	5	6	1	6	1	7	0	9	4	10	0	4	2	2	0	4	1	32	1	14	8	7	1	7	2	16	2	7	2	3	1	1	3	15	2	14	0	5	1	9	0	9	0	2	3	7	3	7	6	1	0
+6	ATP6	YP_009019394.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	21	4	15	4	9	2	6	2	3	3	7	1	2	4	3	3	4	0	1	0	2	1	4	1	5	1	4	0	1	0	11	4	10	6	8	0	7	1	10	3	9	4	3	3	4	3	6	2	1	5	4	1	1	0	5	1	3	4	2	0	2	1	0	0
+7	ND5	YP_009019395.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	25	6	50	14	9	2	11	3	21	8	8	4	13	6	5	1	10	5	8	1	5	4	8	0	8	3	0	1	1	3	28	7	31	15	17	2	6	4	25	3	8	10	8	1	8	6	16	2	18	9	8	5	9	3	18	1	8	6	11	4	8	10	0	0
+8	ND4L	YP_009019396.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	3	0	15	3	5	0	5	0	1	0	2	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	10	0	13	4	2	1	1	0	3	0	1	0	3	0	2	0	3	0	3	0	2	0	0	0	1	1	1	2	1	0	0	1	1	0
+9	ND4	YP_009019397.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	36	1	47	12	12	2	10	2	16	5	8	3	14	1	4	1	9	2	8	0	5	1	7	0	2	2	2	1	2	0	40	2	39	9	3	0	5	0	13	4	11	3	7	2	13	5	9	0	15	1	7	2	4	0	6	0	4	0	9	1	6	6	0	0
+10	ND1	YP_009019398.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	25	4	38	5	8	3	6	2	10	2	2	2	7	0	4	2	3	0	4	0	6	1	0	0	2	2	4	1	2	0	15	4	20	4	6	0	4	1	11	0	10	2	5	0	9	2	10	0	9	4	7	2	4	1	4	0	4	5	6	1	5	2	0	0
+11	ND3	YP_009019399.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	15	2	15	2	2	1	0	0	2	0	1	2	2	0	2	0	2	0	1	0	2	2	1	0	1	0	1	1	1	0	13	3	4	4	1	0	1	0	5	0	3	0	1	0	2	0	3	1	0	1	0	0	1	0	5	0	4	0	2	0	0	2	1	0
+12	ND2	YP_009019400.1	Hirudo nipponia	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Hirudinea, Arhynchobdellida, Hirudiniformes, Hirudinidae, Hirudo	32	3	33	9	12	2	10	0	8	5	5	1	5	2	3	1	3	0	1	0	6	1	1	0	1	2	1	0	0	0	29	4	31	9	3	0	3	1	11	5	9	2	5	0	5	6	9	1	13	2	6	0	3	0	5	0	4	2	5	2	2	3	0	0

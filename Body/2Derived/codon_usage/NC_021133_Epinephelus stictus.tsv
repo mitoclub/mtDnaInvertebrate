@@ -1,65 +1,13 @@
-	YP_007890881.1|ND1	YP_007890882.1|ND2	YP_007890883.1|COX1	YP_007890884.1|COX2	YP_007890885.1|ATP8	YP_007890886.1|ATP6	YP_007890887.1|COX3	YP_007890888.1|ND3	YP_007890889.1|ND4L	YP_007890890.1|ND4	YP_007890891.1|ND5	YP_007890893.1|CYTB
-TTT	8	4	18	6	3	8	6	4	3	8	20	10
-TTC	11	5	24	3	3	4	18	4	4	9	26	20
-TTA	9	11	6	6	0	7	3	4	3	17	15	5
-TTG	0	1	1	0	0	3	1	1	0	1	1	1
-TCT	3	2	10	1	0	1	3	0	0	6	8	3
-TCC	6	9	5	5	2	3	3	6	4	9	14	10
-TCA	7	7	7	6	0	1	4	2	0	8	11	9
-TCG	0	0	1	0	0	0	1	0	1	1	0	0
-TAT	6	4	8	2	1	4	5	1	0	3	5	5
-TAC	6	3	11	7	0	1	7	1	0	10	7	9
-TGT	0	0	0	0	0	0	1	1	2	1	1	2
-TGC	0	0	1	2	0	0	1	0	2	3	5	1
-TGA	8	10	16	5	5	3	11	4	1	15	10	10
-TGG	0	1	1	0	0	0	1	1	0	4	3	2
-CTT	15	16	16	9	0	14	9	6	4	26	21	18
-CTC	16	21	12	3	4	7	5	5	6	24	20	15
-CTA	21	28	18	9	3	18	11	9	8	28	30	22
-CTG	3	8	8	1	0	8	2	5	2	1	6	3
-CCT	9	5	9	2	2	2	2	1	1	7	10	6
-CCC	9	9	8	7	4	8	8	4	0	12	17	7
-CCA	6	7	9	5	2	4	2	3	1	6	3	7
-CCG	0	0	2	0	0	0	0	0	0	2	2	1
-CAT	0	2	8	3	0	2	4	1	2	4	3	3
-CAC	4	5	12	7	1	3	12	0	3	8	11	9
-CAA	6	12	6	8	4	8	8	1	2	7	14	5
-CAG	1	3	2	1	0	1	1	1	1	3	2	1
-CGT	0	0	4	1	0	1	0	0	1	2	1	1
-CGC	1	1	1	2	0	0	0	0	0	3	6	3
-CGA	7	2	2	3	0	4	5	1	1	5	4	4
-CGG	0	1	1	0	0	1	0	1	0	1	1	1
-ATT	11	12	28	15	0	12	11	1	1	16	28	16
-ATC	12	9	12	4	0	7	4	7	1	15	22	16
-ATA	5	6	15	10	0	5	4	1	1	18	21	9
-ATG	4	7	10	1	1	3	3	1	3	8	8	1
-ACT	5	5	9	1	1	3	3	1	2	6	3	4
-ACC	10	26	10	3	2	5	5	2	4	15	25	8
-ACA	7	19	16	7	2	11	15	3	3	17	21	7
-ACG	1	1	2	0	0	0	1	0	1	0	2	1
-AAT	3	6	6	2	0	4	1	2	1	3	9	6
-AAC	8	3	8	3	1	9	0	0	1	10	19	12
-AAA	7	9	8	4	3	1	2	1	0	9	21	9
-AAG	0	0	0	0	2	0	0	0	0	1	1	0
-AGT	2	2	0	0	0	1	0	0	1	0	3	0
-AGC	1	3	5	3	0	3	3	0	2	8	12	1
-GTT	4	2	14	5	0	2	7	4	1	6	12	4
-GTC	6	0	4	9	1	3	3	1	0	4	4	7
-GTA	5	5	18	4	3	5	7	0	1	9	6	6
-GTG	0	0	6	3	0	3	1	0	1	1	3	1
-GCT	4	6	9	5	0	2	3	1	3	6	10	5
-GCC	19	15	19	5	2	10	8	8	7	13	29	21
-GCA	14	10	17	6	0	7	9	0	4	15	19	9
-GCG	1	0	2	0	1	0	0	0	0	2	1	2
-GAT	2	1	7	5	0	0	2	1	0	1	5	5
-GAC	2	2	7	9	0	1	3	4	1	3	7	6
-GAA	8	3	6	10	0	4	9	5	2	10	12	5
-GAG	3	1	5	3	1	0	1	0	0	2	1	1
-GGT	0	3	13	6	1	1	5	2	0	6	8	3
-GGC	9	6	13	0	0	2	12	2	2	8	8	8
-GGA	5	9	15	3	0	6	3	0	1	6	13	11
-GGG	4	0	5	0	0	1	2	2	2	8	2	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007890881.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	8	11	9	0	3	6	7	0	6	6	0	0	8	0	15	16	21	3	9	9	6	0	0	4	6	1	0	1	7	0	11	12	5	4	5	10	7	1	3	8	7	0	2	1	4	6	5	0	4	19	14	1	2	2	8	3	0	9	5	4	1	0	0	0
+1	ND2	YP_007890882.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	4	5	11	1	2	9	7	0	4	3	0	0	10	1	16	21	28	8	5	9	7	0	2	5	12	3	0	1	2	1	12	9	6	7	5	26	19	1	6	3	9	0	2	3	2	0	5	0	6	15	10	0	1	2	3	1	3	6	9	0	0	0	0	0
+2	COX1	YP_007890883.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	18	24	6	1	10	5	7	1	8	11	0	1	16	1	16	12	18	8	9	8	9	2	8	12	6	2	4	1	2	1	28	12	15	10	9	10	16	2	6	8	8	0	0	5	14	4	18	6	9	19	17	2	7	7	6	5	13	13	15	5	1	0	0	0
+3	COX2	YP_007890884.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	6	3	6	0	1	5	6	0	2	7	0	2	5	0	9	3	9	1	2	7	5	0	3	7	8	1	1	2	3	0	15	4	10	1	1	3	7	0	2	3	4	0	0	3	5	9	4	3	5	5	6	0	5	9	10	3	6	0	3	0	0	0	0	0
+4	ATP8	YP_007890885.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	3	3	0	0	0	2	0	0	1	0	0	0	5	0	0	4	3	0	2	4	2	0	0	1	4	0	0	0	0	0	0	0	0	1	1	2	2	0	0	1	3	2	0	0	0	1	3	0	0	2	0	1	0	0	0	1	1	0	0	0	1	0	0	0
+5	ATP6	YP_007890886.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	8	4	7	3	1	3	1	0	4	1	0	0	3	0	14	7	18	8	2	8	4	0	2	3	8	1	1	0	4	1	12	7	5	3	3	5	11	0	4	9	1	0	1	3	2	3	5	3	2	10	7	0	0	1	4	0	1	2	6	1	1	0	0	0
+6	COX3	YP_007890887.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	6	18	3	1	3	3	4	1	5	7	1	1	11	1	9	5	11	2	2	8	2	0	4	12	8	1	0	0	5	0	11	4	4	3	3	5	15	1	1	0	2	0	0	3	7	3	7	1	3	8	9	0	2	3	9	1	5	12	3	2	0	0	0	0
+7	ND3	YP_007890888.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	4	4	4	1	0	6	2	0	1	1	1	0	4	1	6	5	9	5	1	4	3	0	1	0	1	1	0	0	1	1	1	7	1	1	1	2	3	0	2	0	1	0	0	0	4	1	0	0	1	8	0	0	1	4	5	0	2	2	0	2	0	0	0	0
+8	ND4L	YP_007890889.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	3	4	3	0	0	4	0	1	0	0	2	2	1	0	4	6	8	2	1	0	1	0	2	3	2	1	1	0	1	0	1	1	1	3	2	4	3	1	1	1	0	0	1	2	1	0	1	1	3	7	4	0	0	1	2	0	0	2	1	2	1	0	0	0
+9	ND4	YP_007890890.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	8	9	17	1	6	9	8	1	3	10	1	3	15	4	26	24	28	1	7	12	6	2	4	8	7	3	2	3	5	1	16	15	18	8	6	15	17	0	3	10	9	1	0	8	6	4	9	1	6	13	15	2	1	3	10	2	6	8	6	8	0	0	0	0
+10	ND5	YP_007890891.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	20	26	15	1	8	14	11	0	5	7	1	5	10	3	21	20	30	6	10	17	3	2	3	11	14	2	1	6	4	1	28	22	21	8	3	25	21	2	9	19	21	1	3	12	12	4	6	3	10	29	19	1	5	7	12	1	8	8	13	2	1	0	0	0
+11	CYTB	YP_007890893.1	Epinephelus stictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelus	10	20	5	1	3	10	9	0	5	9	2	1	10	2	18	15	22	3	6	7	7	1	3	9	5	1	1	3	4	1	16	16	9	1	4	8	7	1	6	12	9	0	0	1	4	7	6	1	5	21	9	2	5	6	5	1	3	8	11	3	0	0	0	0

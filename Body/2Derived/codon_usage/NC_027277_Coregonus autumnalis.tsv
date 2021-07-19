@@ -1,65 +1,13 @@
-	YP_009145173.1|ND1	YP_009145174.1|ND2	YP_009145175.1|COX1	YP_009145176.1|COX2	YP_009145177.1|ATP8	YP_009145178.1|ATP6	YP_009145179.1|COX3	YP_009145180.1|ND3	YP_009145181.1|ND4L	YP_009145182.1|ND4	YP_009145183.1|ND5	YP_009145185.1|CYTB
-TTT	10	6	23	3	1	4	11	5	3	8	18	10
-TTC	8	4	19	5	3	8	13	2	3	7	21	20
-TTA	4	8	9	3	0	5	2	4	0	13	9	5
-TTG	4	1	2	0	1	1	1	1	1	2	6	4
-TCT	4	1	4	6	0	2	4	2	1	5	8	7
-TCC	4	8	13	4	0	1	3	4	1	9	11	6
-TCA	7	7	6	3	2	0	3	0	3	6	12	8
-TCG	1	1	1	0	0	0	1	0	1	1	2	0
-TAT	6	3	7	4	0	0	3	1	1	6	4	3
-TAC	6	5	11	5	0	4	9	1	0	7	5	11
-TGT	0	1	1	1	0	0	1	0	2	2	2	1
-TGC	0	0	0	1	0	0	1	1	1	3	4	3
-TGA	5	11	12	5	5	4	12	4	0	12	11	13
-TGG	3	1	5	0	0	1	0	1	1	8	3	0
-CTT	18	20	16	15	1	19	8	7	5	22	26	11
-CTC	14	15	12	4	1	8	6	2	7	22	21	16
-CTA	17	23	12	4	1	15	11	9	7	30	21	17
-CTG	5	10	11	2	1	6	3	3	3	9	15	4
-CCT	3	5	5	2	2	2	0	1	1	5	4	2
-CCC	14	5	13	10	6	5	10	4	0	14	18	12
-CCA	5	8	7	2	1	8	1	2	1	6	5	5
-CCG	2	1	3	0	0	2	1	1	0	1	2	2
-CAT	1	1	5	3	0	1	2	0	0	4	2	4
-CAC	3	5	14	7	2	2	14	0	4	8	14	8
-CAA	4	11	6	6	2	7	7	2	3	8	13	4
-CAG	3	1	2	2	0	2	2	1	0	4	7	2
-CGT	1	1	1	1	0	0	0	0	0	2	1	0
-CGC	1	0	0	1	0	2	1	1	2	2	0	0
-CGA	3	4	4	4	0	2	4	1	0	4	8	8
-CGG	3	0	3	0	0	2	0	0	1	3	1	0
-ATT	10	5	26	8	1	8	11	3	1	15	21	12
-ATC	10	15	16	12	1	12	4	6	0	21	20	17
-ATA	8	12	9	8	0	5	4	1	4	18	14	8
-ATG	2	5	15	4	1	4	4	1	2	8	15	2
-ACT	3	7	8	5	2	2	5	1	1	4	6	2
-ACC	7	20	11	2	2	10	7	6	3	18	34	10
-ACA	7	11	14	2	1	8	8	4	2	16	19	10
-ACG	4	0	3	0	0	2	2	0	1	3	4	1
-AAT	5	3	8	2	1	2	1	0	0	4	5	7
-AAC	4	7	6	2	2	7	1	1	1	6	26	10
-AAA	5	3	7	5	3	0	2	1	0	4	11	5
-AAG	2	5	1	0	0	1	0	0	0	6	9	4
-AGT	0	0	0	1	0	0	1	0	0	5	1	0
-AGC	5	5	5	2	1	4	2	0	3	5	12	1
-GTT	9	6	9	5	2	3	3	2	1	1	13	4
-GTC	6	4	17	7	1	6	8	1	0	7	8	11
-GTA	5	4	8	3	1	4	5	1	3	6	9	5
-GTG	4	1	5	5	0	1	1	0	0	0	3	6
-GCT	5	7	7	5	1	3	3	3	0	4	8	5
-GCC	20	22	27	5	2	8	10	6	8	19	31	19
-GCA	9	13	11	6	0	8	7	2	6	12	11	9
-GCG	1	1	4	1	0	0	1	0	0	1	1	2
-GAT	2	1	8	3	0	0	2	1	0	1	7	6
-GAC	2	2	6	10	0	1	3	4	1	4	7	5
-GAA	8	5	7	12	2	3	7	3	3	9	8	5
-GAG	3	0	4	3	1	1	3	3	0	3	3	1
-GGT	1	1	8	2	0	0	4	0	2	2	8	3
-GGC	6	6	14	1	1	7	14	2	1	12	8	9
-GGA	3	7	14	4	0	4	3	4	3	7	10	9
-GGG	9	4	11	2	0	0	1	0	0	6	6	6
-TAA	1	1	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009145173.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	10	8	4	4	4	4	7	1	6	6	0	0	5	3	18	14	17	5	3	14	5	2	1	3	4	3	1	1	3	3	10	10	8	2	3	7	7	4	5	4	5	2	0	5	9	6	5	4	5	20	9	1	2	2	8	3	1	6	3	9	1	0	0	0
+1	ND2	YP_009145174.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	6	4	8	1	1	8	7	1	3	5	1	0	11	1	20	15	23	10	5	5	8	1	1	5	11	1	1	0	4	0	5	15	12	5	7	20	11	0	3	7	3	5	0	5	6	4	4	1	7	22	13	1	1	2	5	0	1	6	7	4	1	0	0	0
+2	COX1	YP_009145175.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	23	19	9	2	4	13	6	1	7	11	1	0	12	5	16	12	12	11	5	13	7	3	5	14	6	2	1	0	4	3	26	16	9	15	8	11	14	3	8	6	7	1	0	5	9	17	8	5	7	27	11	4	8	6	7	4	8	14	14	11	1	0	0	0
+3	COX2	YP_009145176.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	3	5	3	0	6	4	3	0	4	5	1	1	5	0	15	4	4	2	2	10	2	0	3	7	6	2	1	1	4	0	8	12	8	4	5	2	2	0	2	2	5	0	1	2	5	7	3	5	5	5	6	1	3	10	12	3	2	1	4	2	0	0	0	0
+4	ATP8	YP_009145177.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	1	3	0	1	0	0	2	0	0	0	0	0	5	0	1	1	1	1	2	6	1	0	0	2	2	0	0	0	0	0	1	1	0	1	2	2	1	0	1	2	3	0	0	1	2	1	1	0	1	2	0	0	0	0	2	1	0	1	0	0	1	0	0	0
+5	ATP6	YP_009145178.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	4	8	5	1	2	1	0	0	0	4	0	0	4	1	19	8	15	6	2	5	8	2	1	2	7	2	0	2	2	2	8	12	5	4	2	10	8	2	2	7	0	1	0	4	3	6	4	1	3	8	8	0	0	1	3	1	0	7	4	0	1	0	0	0
+6	COX3	YP_009145179.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	11	13	2	1	4	3	3	1	3	9	1	1	12	0	8	6	11	3	0	10	1	1	2	14	7	2	0	1	4	0	11	4	4	4	5	7	8	2	1	1	2	0	1	2	3	8	5	1	3	10	7	1	2	3	7	3	4	14	3	1	0	0	0	0
+7	ND3	YP_009145180.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	5	2	4	1	2	4	0	0	1	1	0	1	4	1	7	2	9	3	1	4	2	1	0	0	2	1	0	1	1	0	3	6	1	1	1	6	4	0	0	1	1	0	0	0	2	1	1	0	3	6	2	0	1	4	3	3	0	2	4	0	0	0	0	0
+8	ND4L	YP_009145181.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	3	3	0	1	1	1	3	1	1	0	2	1	0	1	5	7	7	3	1	0	1	0	0	4	3	0	0	2	0	1	1	0	4	2	1	3	2	1	0	1	0	0	0	3	1	0	3	0	0	8	6	0	0	1	3	0	2	1	3	0	1	0	0	0
+9	ND4	YP_009145182.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	8	7	13	2	5	9	6	1	6	7	2	3	12	8	22	22	30	9	5	14	6	1	4	8	8	4	2	2	4	3	15	21	18	8	4	18	16	3	4	6	4	6	5	5	1	7	6	0	4	19	12	1	1	4	9	3	2	12	7	6	0	0	0	0
+10	ND5	YP_009145183.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	18	21	9	6	8	11	12	2	4	5	2	4	11	3	26	21	21	15	4	18	5	2	2	14	13	7	1	0	8	1	21	20	14	15	6	34	19	4	5	26	11	9	1	12	13	8	9	3	8	31	11	1	7	7	8	3	8	8	10	6	1	0	0	0
+11	CYTB	YP_009145185.1	Coregonus autumnalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Coregonus	10	20	5	4	7	6	8	0	3	11	1	3	13	0	11	16	17	4	2	12	5	2	4	8	4	2	0	0	8	0	12	17	8	2	2	10	10	1	7	10	5	4	0	1	4	11	5	6	5	19	9	2	6	5	5	1	3	9	9	6	0	0	0	0

@@ -1,65 +1,9 @@
-	YP_002836193.1|Var1	YP_002836194.1|cytb	YP_002836195.1|cox1	YP_002836196.1|atp8	YP_002836197.1|atp6	YP_002836198.1|atp9	YP_002836199.1|cox2	YP_002836200.1|cox3
-TTT	4	19	21	4	12	1	8	6
-TTC	1	20	22	2	10	4	5	10
-TTA	41	46	60	13	42	11	23	39
-TTG	0	0	2	0	0	0	0	0
-TCT	3	5	17	1	5	1	1	3
-TCC	0	0	0	0	0	0	0	0
-TCA	1	18	21	2	13	6	9	10
-TCG	0	0	0	0	0	0	0	0
-TAT	31	18	25	2	12	2	13	16
-TAC	0	2	1	1	2	0	0	0
-TGT	0	4	1	0	1	1	3	5
-TGC	0	0	0	0	0	0	0	0
-TGA	3	8	10	0	3	0	4	9
-TGG	0	0	0	0	0	0	0	0
-CTT	2	1	1	0	0	0	1	0
-CTC	0	0	0	0	0	0	0	0
-CTA	4	3	1	0	2	0	2	4
-CTG	0	0	0	0	0	0	1	0
-CCT	2	8	14	1	4	1	7	6
-CCC	0	0	0	0	0	0	0	0
-CCA	1	11	10	2	4	0	4	3
-CCG	0	0	1	0	0	0	0	0
-CAT	2	11	14	0	4	0	4	13
-CAC	0	1	0	0	0	0	0	0
-CAA	3	10	10	3	7	1	8	5
-CAG	0	0	0	0	0	0	0	0
-CGT	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	1	0
-ATT	35	34	45	2	35	10	25	24
-ATC	2	4	3	3	2	1	1	1
-ATA	21	0	1	0	0	0	2	0
-ATG	4	15	25	3	10	3	6	11
-ACT	7	6	13	0	8	1	3	14
-ACC	0	0	0	0	0	0	0	0
-ACA	4	6	16	2	6	3	8	8
-ACG	0	0	0	0	0	0	0	0
-AAT	105	16	22	1	14	2	11	7
-AAC	1	1	3	0	0	0	0	0
-AAA	30	7	10	1	5	2	7	2
-AAG	4	0	0	0	0	0	0	0
-AGT	7	3	3	0	5	0	1	4
-AGC	0	0	0	0	0	0	0	0
-AGA	5	11	9	2	4	1	4	8
-AGG	1	0	0	0	0	0	0	0
-GTT	1	7	8	0	3	2	6	5
-GTC	0	0	0	0	0	0	0	0
-GTA	1	29	33	2	11	2	10	13
-GTG	0	0	0	0	0	0	0	0
-GCT	0	9	24	0	9	2	6	9
-GCC	0	0	3	0	0	0	0	0
-GCA	0	12	18	0	3	6	4	5
-GCG	0	0	2	0	0	0	0	0
-GAT	4	8	13	0	3	1	13	5
-GAC	0	0	0	0	0	0	0	0
-GAA	3	5	9	0	5	1	13	6
-GAG	0	0	0	0	0	0	0	0
-GGT	7	21	25	0	11	8	9	16
-GGC	0	0	0	0	0	0	0	0
-GGA	1	6	18	1	2	2	3	2
-GGG	0	0	0	0	0	1	0	0
-TAA	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	Var1	YP_002836193.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	4	1	41	0	3	0	1	0	31	0	0	0	3	0	2	0	4	0	2	0	1	0	2	0	3	0	0	0	0	0	35	2	21	4	7	0	4	0	105	1	30	4	7	0	5	1	1	0	1	0	0	0	0	0	4	0	3	0	7	0	1	0	1	0
+1	cytb	YP_002836194.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	19	20	46	0	5	0	18	0	18	2	4	0	8	0	1	0	3	0	8	0	11	0	11	1	10	0	0	0	0	0	34	4	0	15	6	0	6	0	16	1	7	0	3	0	11	0	7	0	29	0	9	0	12	0	8	0	5	0	21	0	6	0	1	0
+2	cox1	YP_002836195.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	21	22	60	2	17	0	21	0	25	1	1	0	10	0	1	0	1	0	14	0	10	1	14	0	10	0	0	0	0	0	45	3	1	25	13	0	16	0	22	3	10	0	3	0	9	0	8	0	33	0	24	3	18	2	13	0	9	0	25	0	18	0	1	0
+3	atp8	YP_002836196.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	4	2	13	0	1	0	2	0	2	1	0	0	0	0	0	0	0	0	1	0	2	0	0	0	3	0	0	0	0	0	2	3	0	3	0	0	2	0	1	0	1	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+4	atp6	YP_002836197.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	12	10	42	0	5	0	13	0	12	2	1	0	3	0	0	0	2	0	4	0	4	0	4	0	7	0	0	0	0	0	35	2	0	10	8	0	6	0	14	0	5	0	5	0	4	0	3	0	11	0	9	0	3	0	3	0	5	0	11	0	2	0	1	0
+5	atp9	YP_002836198.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	1	4	11	0	1	0	6	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	10	1	0	3	1	0	3	0	2	0	2	0	0	0	1	0	2	0	2	0	2	0	6	0	1	0	1	0	8	0	2	1	1	0
+6	cox2	YP_002836199.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	8	5	23	0	1	0	9	0	13	0	3	0	4	0	1	0	2	1	7	0	4	0	4	0	8	0	0	0	0	1	25	1	2	6	3	0	8	0	11	0	7	0	1	0	4	0	6	0	10	0	6	0	4	0	13	0	13	0	9	0	3	0	1	0
+7	cox3	YP_002836200.1	Nakaseomyces delphensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces	6	10	39	0	3	0	10	0	16	0	5	0	9	0	0	0	4	0	6	0	3	0	13	0	5	0	0	0	0	0	24	1	0	11	14	0	8	0	7	0	2	0	4	0	8	0	5	0	13	0	9	0	5	0	5	0	6	0	16	0	2	0	1	0

@@ -1,65 +1,10 @@
-	YP_009050453.1|ND2	YP_009050454.1|COX1	YP_009050455.1|COX2	YP_009050456.1|ATP8	YP_009050457.1|ATP6	YP_009050458.1|COX3	YP_009050459.1|ND3	YP_009050463.1|ND6	YP_009050464.1|CYTB
-TTT	27	36	12	7	18	20	15	16	25
-TTC	8	3	1	0	1	6	1	2	4
-TTA	59	48	23	5	27	31	14	27	42
-TTG	2	1	0	0	1	0	0	0	0
-TCT	15	13	10	2	6	5	2	5	8
-TCC	2	1	0	1	0	0	0	0	2
-TCA	5	10	4	2	5	5	3	7	9
-TCG	2	1	0	0	0	0	0	0	0
-TAT	12	13	10	4	4	11	2	6	16
-TAC	2	2	1	0	0	3	0	2	3
-TGT	3	0	2	0	1	1	1	1	4
-TGC	0	0	0	0	0	1	0	0	1
-TGA	8	14	6	3	5	13	2	2	10
-TGG	0	0	0	0	0	0	0	0	0
-CTT	8	13	6	1	8	3	1	4	7
-CTC	0	1	2	0	0	0	0	0	0
-CTA	1	8	1	0	2	1	3	3	2
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	17	8	1	8	5	5	2	10
-CCC	5	1	1	0	0	1	0	0	2
-CCA	2	7	2	1	3	3	0	1	11
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	15	4	0	5	12	1	0	7
-CAC	1	3	1	0	0	2	0	1	2
-CAA	6	8	9	1	4	6	2	4	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	1	0	1	0	1	1	2
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	5	0	2	3	1	0	5
-CGG	1	1	0	0	0	1	0	0	0
-ATT	43	43	22	9	28	22	20	23	49
-ATC	3	0	0	0	2	1	2	1	2
-ATA	14	26	6	1	13	12	3	14	9
-ATG	1	2	0	0	1	1	0	0	1
-ACT	8	17	7	0	8	12	1	4	11
-ACC	3	1	0	0	1	0	0	0	1
-ACA	8	15	7	0	10	6	4	4	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	22	15	9	2	14	4	4	12	19
-AAC	1	2	0	3	2	2	1	1	2
-AAA	16	9	9	4	3	3	6	7	13
-AAG	0	0	0	0	0	0	0	0	0
-AGT	2	1	1	0	1	1	1	1	0
-AGC	0	0	0	0	0	0	0	0	0
-AGA	9	16	4	3	9	8	2	1	7
-AGG	1	0	0	0	0	0	0	0	0
-GTT	2	18	13	0	2	7	1	2	10
-GTC	1	0	0	0	0	0	0	0	1
-GTA	2	18	4	0	6	5	2	2	8
-GTG	0	1	0	0	0	0	0	0	0
-GCT	4	19	6	1	5	7	1	1	13
-GCC	1	1	1	0	0	1	1	0	1
-GCA	3	16	5	0	3	3	2	1	7
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	14	8	0	1	5	4	2	8
-GAC	0	1	1	0	0	0	0	0	1
-GAA	6	9	9	0	4	9	4	1	4
-GAG	1	0	0	0	0	0	0	0	0
-GGT	3	9	2	0	2	5	1	0	3
-GGC	1	1	0	0	0	0	0	0	0
-GGA	7	35	6	0	8	14	2	6	19
-GGG	0	0	0	0	0	1	1	0	1
-TAA	1	0	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009050453.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	27	8	59	2	15	2	5	2	12	2	3	0	8	0	8	0	1	0	2	5	2	0	1	1	6	0	0	0	1	1	43	3	14	1	8	3	8	0	22	1	16	0	2	0	9	1	2	1	2	0	4	1	3	0	1	0	6	1	3	1	7	0	1	0
+1	COX1	YP_009050454.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	36	3	48	1	13	1	10	1	13	2	0	0	14	0	13	1	8	0	17	1	7	1	15	3	8	0	1	0	7	1	43	0	26	2	17	1	15	0	15	2	9	0	1	0	16	0	18	0	18	1	19	1	16	0	14	1	9	0	9	1	35	0	0	0
+2	COX2	YP_009050455.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	12	1	23	0	10	0	4	0	10	1	2	0	6	0	6	2	1	0	8	1	2	0	4	1	9	0	1	0	5	0	22	0	6	0	7	0	7	0	9	0	9	0	1	0	4	0	13	0	4	0	6	1	5	0	8	1	9	0	2	0	6	0	0	0
+3	ATP8	YP_009050456.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	7	0	5	0	2	1	2	0	4	0	0	0	3	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	9	0	1	0	0	0	0	0	2	3	4	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009050457.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	18	1	27	1	6	0	5	0	4	0	1	0	5	0	8	0	2	0	8	0	3	0	5	0	4	0	1	0	2	0	28	2	13	1	8	1	10	0	14	2	3	0	1	0	9	0	2	0	6	0	5	0	3	0	1	0	4	0	2	0	8	0	1	0
+5	COX3	YP_009050458.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	20	6	31	0	5	0	5	0	11	3	1	1	13	0	3	0	1	0	5	1	3	0	12	2	6	0	0	0	3	1	22	1	12	1	12	0	6	0	4	2	3	0	1	0	8	0	7	0	5	0	7	1	3	0	5	0	9	0	5	0	14	1	0	0
+6	ND3	YP_009050459.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	15	1	14	0	2	0	3	0	2	0	1	0	2	0	1	0	3	0	5	0	0	0	1	0	2	0	1	0	1	0	20	2	3	0	1	0	4	0	4	1	6	0	1	0	2	0	1	0	2	0	1	1	2	0	4	0	4	0	1	0	2	1	0	1
+7	ND6	YP_009050463.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	16	2	27	0	5	0	7	0	6	2	1	0	2	0	4	0	3	0	2	0	1	0	0	1	4	0	1	0	0	0	23	1	14	0	4	0	4	0	12	1	7	0	1	0	1	0	2	0	2	0	1	0	1	0	2	0	1	0	0	0	6	0	1	0
+8	CYTB	YP_009050464.1	Monochamus alternatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Monochamini, Monochamus	25	4	42	0	8	2	9	0	16	3	4	1	10	0	7	0	2	0	10	2	11	0	7	2	8	0	2	0	5	0	49	2	9	1	11	1	9	0	19	2	13	0	0	0	7	0	10	1	8	0	13	1	7	0	8	1	4	0	3	0	19	1	0	1

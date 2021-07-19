@@ -1,65 +1,13 @@
-	YP_842425.1|ND1	YP_842426.1|ND2	YP_842427.1|COX1	YP_842428.1|COX2	YP_842429.1|ATP8	YP_842430.1|ATP6	YP_842431.1|COX3	YP_842432.1|ND3	YP_842433.1|ND4L	YP_842434.1|ND4	YP_842435.1|ND5	YP_842436.1|CYTB
-TTT	4	4	15	3	2	1	3	0	1	3	3	2
-TTC	15	10	27	5	2	8	21	8	3	12	27	26
-TTA	9	6	7	1	0	7	4	1	3	5	4	4
-TTG	1	1	0	0	0	0	0	0	0	1	1	0
-TCT	7	3	2	2	0	0	0	3	2	2	3	3
-TCC	12	10	11	6	2	2	8	4	3	10	18	10
-TCA	4	12	9	9	2	6	6	0	5	16	16	8
-TCG	1	0	0	0	0	0	0	0	0	0	0	0
-TAT	5	1	5	1	0	0	1	1	0	4	3	3
-TAC	9	6	13	7	0	3	8	1	2	7	12	10
-TGT	0	0	0	0	0	0	0	2	1	1	1	0
-TGC	1	1	1	3	0	1	1	0	2	2	4	4
-TGA	8	8	16	4	5	3	11	4	1	11	11	9
-TGG	1	2	1	1	0	1	1	1	0	1	1	2
-CTT	6	11	5	1	1	2	4	3	1	5	6	6
-CTC	16	10	12	10	1	18	9	10	3	27	41	24
-CTA	28	32	36	16	3	32	17	13	13	56	51	32
-CTG	4	6	1	3	1	4	0	1	0	5	6	1
-CCT	4	2	5	4	3	3	1	1	2	1	1	2
-CCC	14	8	7	4	4	8	6	3	1	13	11	14
-CCA	8	9	19	5	3	5	5	2	0	12	18	10
-CCG	0	0	0	0	0	0	0	1	0	2	0	0
-CAT	0	3	5	2	0	0	3	0	1	3	2	2
-CAC	2	7	14	7	0	4	14	0	5	14	10	10
-CAA	3	7	8	5	2	7	6	3	2	14	19	5
-CAG	2	2	1	2	0	1	2	1	0	0	1	3
-CGT	1	0	0	0	0	1	0	0	0	0	0	1
-CGC	3	1	1	1	0	2	0	1	1	3	4	2
-CGA	3	2	6	4	0	2	5	1	1	7	4	5
-CGG	1	0	1	0	0	0	0	0	0	1	0	0
-ATT	6	5	14	4	0	7	2	3	0	6	10	5
-ATC	18	25	25	16	3	10	15	7	4	34	38	25
-ATA	9	13	23	10	1	9	6	2	7	21	29	6
-ATG	3	6	4	1	1	2	1	0	1	2	2	2
-ACT	2	6	9	3	3	2	0	1	1	7	9	6
-ACC	13	19	16	4	5	9	5	7	4	26	35	14
-ACA	8	23	17	7	1	12	14	4	4	18	31	11
-ACG	0	0	1	0	0	1	0	0	0	2	0	0
-AAT	2	3	5	0	0	2	1	1	1	2	2	0
-AAC	10	11	10	4	3	8	4	2	2	14	27	21
-AAA	6	15	8	3	4	3	4	1	0	10	19	9
-AAG	1	0	1	1	0	0	0	0	0	0	1	1
-AGT	1	0	1	1	0	0	0	0	0	1	3	0
-AGC	4	4	2	2	0	4	6	0	4	8	9	1
-GTT	1	1	4	1	0	1	3	0	0	0	1	0
-GTC	4	1	12	8	0	3	3	0	0	3	6	5
-GTA	7	4	16	5	1	2	7	1	1	6	4	11
-GTG	0	0	3	0	0	0	0	0	0	0	1	0
-GCT	1	5	6	0	0	4	2	1	1	3	4	3
-GCC	17	12	24	8	2	8	7	3	5	17	32	17
-GCA	11	12	15	7	0	6	13	4	2	12	9	7
-GCG	1	0	1	0	0	0	1	0	0	0	0	0
-GAT	2	0	5	2	0	1	1	1	1	0	1	1
-GAC	2	1	9	11	0	0	3	2	0	2	7	5
-GAA	11	5	10	12	0	4	6	6	3	8	12	6
-GAG	0	0	0	3	0	0	2	0	0	1	0	1
-GGT	1	1	5	0	0	2	0	1	1	2	5	1
-GGC	7	2	18	3	0	3	8	3	2	9	12	10
-GGA	5	8	20	5	0	3	10	1	1	3	17	12
-GGG	0	0	4	0	0	0	1	0	0	4	0	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_842425.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	4	15	9	1	7	12	4	1	5	9	0	1	8	1	6	16	28	4	4	14	8	0	0	2	3	2	1	3	3	1	6	18	9	3	2	13	8	0	2	10	6	1	1	4	1	4	7	0	1	17	11	1	2	2	11	0	1	7	5	0	0	0	1	0
+1	ND2	YP_842426.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	4	10	6	1	3	10	12	0	1	6	0	1	8	2	11	10	32	6	2	8	9	0	3	7	7	2	0	1	2	0	5	25	13	6	6	19	23	0	3	11	15	0	0	4	1	1	4	0	5	12	12	0	0	1	5	0	1	2	8	0	0	1	0	0
+2	COX1	YP_842427.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	15	27	7	0	2	11	9	0	5	13	0	1	16	1	5	12	36	1	5	7	19	0	5	14	8	1	0	1	6	1	14	25	23	4	9	16	17	1	5	10	8	1	1	2	4	12	16	3	6	24	15	1	5	9	10	0	5	18	20	4	0	0	0	1
+3	COX2	YP_842428.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	3	5	1	0	2	6	9	0	1	7	0	3	4	1	1	10	16	3	4	4	5	0	2	7	5	2	0	1	4	0	4	16	10	1	3	4	7	0	0	4	3	1	1	2	1	8	5	0	0	8	7	0	2	11	12	3	0	3	5	0	1	0	0	0
+4	ATP8	YP_842429.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	2	2	0	0	0	2	2	0	0	0	0	0	5	0	1	1	3	1	3	4	3	0	0	0	2	0	0	0	0	0	0	3	1	1	3	5	1	0	0	3	4	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_842430.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	1	8	7	0	0	2	6	0	0	3	0	1	3	1	2	18	32	4	3	8	5	0	0	4	7	1	1	2	2	0	7	10	9	2	2	9	12	1	2	8	3	0	0	4	1	3	2	0	4	8	6	0	1	0	4	0	2	3	3	0	1	0	0	0
+6	COX3	YP_842431.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	3	21	4	0	0	8	6	0	1	8	0	1	11	1	4	9	17	0	1	6	5	0	3	14	6	2	0	0	5	0	2	15	6	1	0	5	14	0	1	4	4	0	0	6	3	3	7	0	2	7	13	1	1	3	6	2	0	8	10	1	0	0	0	0
+7	ND3	YP_842432.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	0	8	1	0	3	4	0	0	1	1	2	0	4	1	3	10	13	1	1	3	2	1	0	0	3	1	0	1	1	0	3	7	2	0	1	7	4	0	1	2	1	0	0	0	0	0	1	0	1	3	4	0	1	2	6	0	1	3	1	0	1	0	0	0
+8	ND4L	YP_842433.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	1	3	3	0	2	3	5	0	0	2	1	2	1	0	1	3	13	0	2	1	0	0	1	5	2	0	0	1	1	0	0	4	7	1	1	4	4	0	1	2	0	0	0	4	0	0	1	0	1	5	2	0	1	0	3	0	1	2	1	0	1	0	0	0
+9	ND4	YP_842434.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	3	12	5	1	2	10	16	0	4	7	1	2	11	1	5	27	56	5	1	13	12	2	3	14	14	0	0	3	7	1	6	34	21	2	7	26	18	2	2	14	10	0	1	8	0	3	6	0	3	17	12	0	0	2	8	1	2	9	3	4	0	0	0	0
+10	ND5	YP_842435.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	3	27	4	1	3	18	16	0	3	12	1	4	11	1	6	41	51	6	1	11	18	0	2	10	19	1	0	4	4	0	10	38	29	2	9	35	31	0	2	27	19	1	3	9	1	6	4	1	4	32	9	0	1	7	12	0	5	12	17	0	0	0	1	0
+11	CYTB	YP_842436.1	Ardea novaehollandiae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Ardea	2	26	4	0	3	10	8	0	3	10	0	4	9	2	6	24	32	1	2	14	10	0	2	10	5	3	1	2	5	0	5	25	6	2	6	14	11	0	0	21	9	1	0	1	0	5	11	0	3	17	7	0	1	5	6	1	1	10	12	2	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_008815612.1|ND1	YP_008815613.1|ND2	YP_008815614.1|COX1	YP_008815615.1|COX2	YP_008815616.1|ATP8	YP_008815617.1|ATP6	YP_008815618.1|COX3	YP_008815619.1|ND3	YP_008815620.1|ND4L	YP_008815621.1|ND4	YP_008815622.1|ND5	YP_008815624.1|CYTB
-TTT	5	4	25	6	2	5	4	4	4	10	17	7
-TTC	13	11	15	2	4	8	20	5	1	9	25	24
-TTA	18	18	17	8	3	15	10	3	9	15	19	9
-TTG	0	0	0	0	2	0	2	0	0	0	0	1
-TCT	0	3	7	3	0	0	2	0	4	4	5	4
-TCC	6	8	10	5	2	1	2	2	3	9	12	7
-TCA	12	11	9	6	0	3	7	0	7	9	24	9
-TCG	1	1	1	0	0	0	0	2	0	0	1	0
-TAT	5	3	8	2	0	2	6	0	0	2	3	1
-TAC	8	3	12	8	1	2	7	2	0	11	7	14
-TGT	0	1	0	1	0	0	1	1	3	0	1	1
-TGC	0	0	1	1	0	0	1	0	1	5	4	2
-TGA	8	9	15	5	5	5	12	3	1	15	14	13
-TGG	0	1	2	0	0	0	0	2	0	3	0	0
-CTT	7	8	16	2	0	11	9	9	1	23	17	9
-CTC	15	15	8	5	2	4	5	9	2	22	25	17
-CTA	27	31	19	11	0	19	8	7	9	33	43	23
-CTG	0	1	2	0	1	3	0	2	0	1	3	0
-CCT	2	1	5	3	1	1	3	1	1	3	3	5
-CCC	6	6	10	4	4	6	2	3	1	14	8	7
-CCA	14	11	15	6	3	8	7	4	0	9	15	9
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	1	3	15	5	0	1	7	0	2	3	8	5
-CAC	3	5	4	5	0	2	9	0	1	9	6	7
-CAA	7	12	7	10	2	9	7	2	2	10	22	8
-CAG	0	1	2	0	0	0	1	0	0	3	1	0
-CGT	3	0	3	0	0	0	0	0	0	4	1	1
-CGC	1	1	1	1	0	2	1	2	1	1	4	2
-CGA	3	3	5	5	0	3	3	0	1	5	4	5
-CGG	1	0	0	0	0	0	1	0	0	1	0	0
-ATT	11	14	22	10	1	16	10	2	1	23	30	26
-ATC	17	21	18	9	1	6	6	9	4	23	26	21
-ATA	12	12	23	7	2	9	6	1	3	21	26	8
-ATG	4	3	4	4	1	2	2	1	2	2	6	1
-ACT	4	9	3	4	1	2	4	1	1	5	11	6
-ACC	12	13	12	3	2	13	6	2	4	15	17	6
-ACA	13	24	19	5	1	12	10	3	3	19	26	16
-ACG	0	0	1	0	0	0	0	1	0	1	0	0
-AAT	5	8	9	4	0	4	0	1	1	7	15	2
-AAC	8	10	6	3	8	7	2	2	3	8	21	17
-AAA	6	9	8	4	4	1	1	1	1	13	23	11
-AAG	1	0	0	0	0	0	1	0	0	0	0	0
-AGT	1	1	3	0	0	2	1	0	0	1	6	1
-AGC	2	2	1	3	0	2	2	0	1	7	7	1
-GTT	3	1	12	5	0	3	3	0	0	2	5	3
-GTC	1	2	13	8	0	4	7	1	0	2	4	2
-GTA	5	2	16	8	1	4	5	1	1	4	6	6
-GTG	2	1	1	1	0	1	1	1	0	2	0	0
-GCT	5	2	5	1	0	2	2	1	0	13	12	6
-GCC	10	12	21	2	0	7	14	4	6	12	23	15
-GCA	5	8	15	9	0	6	5	4	5	9	6	5
-GCG	0	0	1	1	0	0	0	0	0	0	0	0
-GAT	2	0	6	5	0	1	2	1	0	1	4	5
-GAC	1	1	9	6	0	0	3	4	1	2	7	4
-GAA	9	5	10	16	1	3	9	5	2	11	12	5
-GAG	1	0	0	0	0	1	1	1	0	1	1	0
-GGT	3	2	8	2	0	3	7	0	0	6	4	5
-GGC	11	8	14	1	0	2	3	2	2	7	12	8
-GGA	3	7	21	4	0	3	10	2	2	10	9	8
-GGG	1	0	3	1	0	1	1	2	1	0	1	2
-TAA	1	0	1	0	1	1	1	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008815612.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	5	13	18	0	0	6	12	1	5	8	0	0	8	0	7	15	27	0	2	6	14	0	1	3	7	0	3	1	3	1	11	17	12	4	4	12	13	0	5	8	6	1	1	2	3	1	5	2	5	10	5	0	2	1	9	1	3	11	3	1	1	0	0	0
+1	ND2	YP_008815613.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	4	11	18	0	3	8	11	1	3	3	1	0	9	1	8	15	31	1	1	6	11	0	3	5	12	1	0	1	3	0	14	21	12	3	9	13	24	0	8	10	9	0	1	2	1	2	2	1	2	12	8	0	0	1	5	0	2	8	7	0	0	0	0	0
+2	COX1	YP_008815614.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	25	15	17	0	7	10	9	1	8	12	0	1	15	2	16	8	19	2	5	10	15	0	15	4	7	2	3	1	5	0	22	18	23	4	3	12	19	1	9	6	8	0	3	1	12	13	16	1	5	21	15	1	6	9	10	0	8	14	21	3	1	0	0	0
+3	COX2	YP_008815615.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	6	2	8	0	3	5	6	0	2	8	1	1	5	0	2	5	11	0	3	4	6	0	5	5	10	0	0	1	5	0	10	9	7	4	4	3	5	0	4	3	4	0	0	3	5	8	8	1	1	2	9	1	5	6	16	0	2	1	4	1	0	0	0	0
+4	ATP8	YP_008815616.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	2	4	3	2	0	2	0	0	0	1	0	0	5	0	0	2	0	1	1	4	3	0	0	0	2	0	0	0	0	0	1	1	2	1	1	2	1	0	0	8	4	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008815617.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	5	8	15	0	0	1	3	0	2	2	0	0	5	0	11	4	19	3	1	6	8	0	1	2	9	0	0	2	3	0	16	6	9	2	2	13	12	0	4	7	1	0	2	2	3	4	4	1	2	7	6	0	1	0	3	1	3	2	3	1	1	0	0	0
+6	COX3	YP_008815618.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	4	20	10	2	2	2	7	0	6	7	1	1	12	0	9	5	8	0	3	2	7	0	7	9	7	1	0	1	3	1	10	6	6	2	4	6	10	0	0	2	1	1	1	2	3	7	5	1	2	14	5	0	2	3	9	1	7	3	10	1	1	0	0	0
+7	ND3	YP_008815619.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	4	5	3	0	0	2	0	2	0	2	1	0	3	2	9	9	7	2	1	3	4	0	0	0	2	0	0	2	0	0	2	9	1	1	1	2	3	1	1	2	1	0	0	0	0	1	1	1	1	4	4	0	1	4	5	1	0	2	2	2	0	0	0	0
+8	ND4L	YP_008815620.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	4	1	9	0	4	3	7	0	0	0	3	1	1	0	1	2	9	0	1	1	0	0	2	1	2	0	0	1	1	0	1	4	3	2	1	4	3	0	1	3	1	0	0	1	0	0	1	0	0	6	5	0	0	1	2	0	0	2	2	1	1	0	0	0
+9	ND4	YP_008815621.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	10	9	15	0	4	9	9	0	2	11	0	5	15	3	23	22	33	1	3	14	9	0	3	9	10	3	4	1	5	1	23	23	21	2	5	15	19	1	7	8	13	0	1	7	2	2	4	2	13	12	9	0	1	2	11	1	6	7	10	0	0	0	0	0
+10	ND5	YP_008815622.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	17	25	19	0	5	12	24	1	3	7	1	4	14	0	17	25	43	3	3	8	15	0	8	6	22	1	1	4	4	0	30	26	26	6	11	17	26	0	15	21	23	0	6	7	5	4	6	0	12	23	6	0	4	7	12	1	4	12	9	1	1	0	0	0
+11	CYTB	YP_008815624.1	Rhinobatos hynnicephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Rhinobatos	7	24	9	1	4	7	9	0	1	14	1	2	13	0	9	17	23	0	5	7	9	0	5	7	8	0	1	2	5	0	26	21	8	1	6	6	16	0	2	17	11	0	1	1	3	2	6	0	6	15	5	0	5	4	5	0	5	8	8	2	1	0	0	0

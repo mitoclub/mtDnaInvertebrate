@@ -1,65 +1,13 @@
-	YP_009131573.1	YP_009131574.1	YP_009131575.1	YP_009131576.1	YP_009131577.1	YP_009131578.1	YP_009131579.1	YP_009131580.1	YP_009131581.1	YP_009131582.1	YP_009131583.1	YP_009131585.1
-TTT	14	12	26	4	2	6	17	5	3	18	19	17
-TTC	5	2	12	2	1	2	5	2	1	7	15	9
-TTA	17	24	30	11	2	21	13	7	8	36	25	13
-TTG	1	0	0	1	0	1	1	0	1	0	1	0
-TCT	3	4	10	2	0	1	2	2	1	4	7	7
-TCC	2	8	4	4	0	1	2	4	3	5	6	9
-TCA	14	7	13	7	1	5	5	1	6	18	16	9
-TCG	1	0	0	0	0	0	0	0	0	0	0	0
-TAT	8	7	9	8	2	3	6	1	0	11	6	9
-TAC	5	2	11	4	2	2	5	1	1	3	4	6
-TGT	2	0	0	2	1	1	1	1	1	1	3	0
-TGC	0	1	2	0	0	0	1	0	2	2	5	2
-TGA	8	10	16	4	5	3	11	3	0	8	11	10
-TGG	1	0	1	1	0	0	1	2	0	1	3	2
-CTT	10	6	19	9	1	13	6	6	5	21	26	16
-CTC	9	9	2	1	0	4	2	5	1	10	20	12
-CTA	16	17	11	9	1	11	10	4	7	32	26	18
-CTG	3	3	2	1	0	0	1	0	0	2	4	1
-CCT	5	2	12	3	3	1	3	2	0	4	10	4
-CCC	4	6	4	5	2	4	2	2	1	4	4	3
-CCA	12	13	10	4	2	8	5	4	1	16	13	16
-CCG	0	0	0	1	0	0	1	0	0	0	0	0
-CAT	0	4	5	4	0	2	2	0	3	4	4	6
-CAC	3	5	13	8	2	1	13	0	1	8	11	8
-CAA	7	9	10	7	2	9	9	3	0	10	15	8
-CAG	1	0	0	1	0	0	0	0	0	1	1	0
-CGT	2	0	1	1	0	0	1	0	0	2	2	2
-CGC	2	1	2	1	0	2	0	0	0	3	2	1
-CGA	3	3	5	2	0	3	4	1	2	6	6	4
-CGG	0	0	0	0	0	0	0	1	0	0	0	1
-ATT	19	24	31	18	5	16	13	9	4	33	42	35
-ATC	6	9	9	3	2	8	4	4	3	8	12	6
-ATA	27	23	26	11	1	12	9	6	9	19	35	18
-ATG	2	3	3	0	2	2	2	1	1	3	3	3
-ACT	8	16	4	4	1	11	4	2	1	16	18	5
-ACC	6	11	14	3	6	13	8	4	9	16	20	9
-ACA	10	26	19	7	1	8	12	6	4	17	33	8
-ACG	0	0	0	0	0	1	1	0	0	1	2	1
-AAT	6	4	7	2	2	8	5	1	1	11	13	10
-AAC	7	6	10	6	1	5	1	1	3	12	17	7
-AAA	7	11	8	5	3	2	3	1	2	9	23	9
-AAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGT	1	1	3	2	0	2	2	1	0	1	2	1
-AGC	2	4	2	2	0	1	3	1	1	6	7	1
-GTT	2	5	13	6	0	4	3	0	1	4	9	5
-GTC	2	1	3	3	0	2	0	0	0	1	3	0
-GTA	4	3	15	4	0	2	10	1	0	7	4	6
-GTG	2	0	4	2	0	0	0	0	0	0	1	1
-GCT	3	9	13	0	0	3	4	3	2	5	13	8
-GCC	9	7	11	3	0	4	9	2	2	15	23	5
-GCA	12	5	17	10	0	5	7	1	0	10	11	10
-GCG	0	0	0	1	0	1	0	0	0	0	0	0
-GAT	3	2	11	5	0	0	3	2	0	1	10	4
-GAC	1	0	3	4	0	0	2	2	1	1	0	4
-GAA	8	5	9	12	0	4	7	5	2	8	11	7
-GAG	3	0	1	0	0	0	1	0	0	0	0	0
-GGT	4	1	14	4	0	1	7	1	2	6	8	7
-GGC	1	3	17	3	0	5	4	3	0	3	7	7
-GGA	7	9	14	1	0	1	8	1	1	9	14	7
-GGG	2	0	4	0	0	1	0	0	1	1	2	3
-TAA	1	0	0	0	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009131573.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	14	5	17	1	3	2	14	1	8	5	2	0	8	1	10	9	16	3	5	4	12	0	0	3	7	1	2	2	3	0	19	6	27	2	8	6	10	0	6	7	7	0	1	2	2	2	4	2	3	9	12	0	3	1	8	3	4	1	7	2	1	0	0	0
+1	None	YP_009131574.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	12	2	24	0	4	8	7	0	7	2	0	1	10	0	6	9	17	3	2	6	13	0	4	5	9	0	0	1	3	0	24	9	23	3	16	11	26	0	4	6	11	1	1	4	5	1	3	0	9	7	5	0	2	0	5	0	1	3	9	0	0	0	0	0
+2	None	YP_009131575.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	26	12	30	0	10	4	13	0	9	11	0	2	16	1	19	2	11	2	12	4	10	0	5	13	10	0	1	2	5	0	31	9	26	3	4	14	19	0	7	10	8	0	3	2	13	3	15	4	13	11	17	0	11	3	9	1	14	17	14	4	0	0	0	1
+3	None	YP_009131576.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	4	2	11	1	2	4	7	0	8	4	2	0	4	1	9	1	9	1	3	5	4	1	4	8	7	1	1	1	2	0	18	3	11	0	4	3	7	0	2	6	5	0	2	2	6	3	4	2	0	3	10	1	5	4	12	0	4	3	1	0	0	0	0	0
+4	None	YP_009131577.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	2	1	2	0	0	0	1	0	2	2	1	0	5	0	1	0	1	0	3	2	2	0	0	2	2	0	0	0	0	0	5	2	1	2	1	6	1	0	2	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	None	YP_009131578.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	6	2	21	1	1	1	5	0	3	2	1	0	3	0	13	4	11	0	1	4	8	0	2	1	9	0	0	2	3	0	16	8	12	2	11	13	8	1	8	5	2	0	2	1	4	2	2	0	3	4	5	1	0	0	4	0	1	5	1	1	1	0	0	0
+6	None	YP_009131579.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	17	5	13	1	2	2	5	0	6	5	1	1	11	1	6	2	10	1	3	2	5	1	2	13	9	0	1	0	4	0	13	4	9	2	4	8	12	1	5	1	3	0	2	3	3	0	10	0	4	9	7	0	3	2	7	1	7	4	8	0	0	0	0	0
+7	None	YP_009131580.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	5	2	7	0	2	4	1	0	1	1	1	0	3	2	6	5	4	0	2	2	4	0	0	0	3	0	0	0	1	1	9	4	6	1	2	4	6	0	1	1	1	0	1	1	0	0	1	0	3	2	1	0	2	2	5	0	1	3	1	0	0	0	0	0
+8	None	YP_009131581.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	3	1	8	1	1	3	6	0	0	1	1	2	0	0	5	1	7	0	0	1	1	0	3	1	0	0	0	0	2	0	4	3	9	1	1	9	4	0	1	3	2	0	0	1	1	0	0	0	2	2	0	0	0	1	2	0	2	0	1	1	1	0	0	0
+9	None	YP_009131582.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	18	7	36	0	4	5	18	0	11	3	1	2	8	1	21	10	32	2	4	4	16	0	4	8	10	1	2	3	6	0	33	8	19	3	16	16	17	1	11	12	9	0	1	6	4	1	7	0	5	15	10	0	1	1	8	0	6	3	9	1	0	0	0	0
+10	None	YP_009131583.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	19	15	25	1	7	6	16	0	6	4	3	5	11	3	26	20	26	4	10	4	13	0	4	11	15	1	2	2	6	0	42	12	35	3	18	20	33	2	13	17	23	0	2	7	9	3	4	1	13	23	11	0	10	0	11	0	8	7	14	2	1	0	0	0
+11	None	YP_009131585.1	Zootoca vivipara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Laterata, Lacertibaenia, Lacertidae, Zootoca	17	9	13	0	7	9	9	0	9	6	0	2	10	2	16	12	18	1	4	3	16	0	6	8	8	0	2	1	4	1	35	6	18	3	5	9	8	1	10	7	9	0	1	1	5	0	6	1	8	5	10	0	4	4	7	0	7	7	7	3	1	0	0	0

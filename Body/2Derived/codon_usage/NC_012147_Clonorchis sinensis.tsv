@@ -1,65 +1,13 @@
-	YP_002640623.1|COX3	YP_002640624.1|CYTB	YP_002640625.1|ND4L	YP_002640626.1|ND4	YP_002640627.1|ATP6	YP_002640628.1|ND2	YP_002640629.1|ND1	YP_002640630.1|ND3	YP_002640631.1|COX1	YP_002640632.2|COX2	YP_002640633.1|ND6	YP_002640634.1|ND5
-TTT	24	36	6	43	21	31	33	22	41	9	20	47
-TTC	0	1	0	4	4	5	4	0	5	0	1	5
-TTA	9	17	4	16	5	14	13	2	11	7	7	23
-TTG	12	20	12	34	16	19	16	8	28	8	11	42
-TCT	6	15	2	13	6	9	7	2	10	5	5	13
-TCC	0	2	1	2	1	3	1	0	1	1	3	4
-TCA	2	7	1	4	1	3	1	1	4	1	0	6
-TCG	2	3	0	5	0	6	5	2	10	3	1	7
-TAT	14	18	1	14	7	11	12	6	19	12	12	19
-TAC	2	1	0	4	2	3	1	1	2	2	0	3
-TGT	3	5	2	18	5	6	13	2	9	4	5	12
-TGC	0	2	0	2	1	0	4	0	1	1	2	5
-TGA	4	0	1	6	1	5	3	1	9	7	0	6
-TGG	7	10	1	9	2	6	7	3	13	0	1	13
-CTT	9	10	3	14	3	12	13	4	18	5	2	17
-CTC	1	2	3	3	1	4	0	0	2	0	1	4
-CTA	2	0	0	4	2	2	0	0	5	2	2	6
-CTG	1	6	0	6	1	3	5	2	5	3	7	4
-CCT	1	8	0	4	4	1	5	1	16	4	0	2
-CCC	1	0	0	3	0	1	0	0	0	3	3	0
-CCA	0	2	0	1	2	3	0	1	2	0	0	3
-CCG	1	3	0	4	2	1	0	0	4	2	1	3
-CAT	5	8	1	7	1	1	2	1	15	1	2	8
-CAC	1	0	0	0	1	0	0	0	2	2	0	0
-CAA	1	0	0	0	0	0	0	2	0	2	0	0
-CAG	3	5	1	1	0	2	3	1	2	1	0	4
-CGT	2	5	1	8	4	0	7	2	6	2	1	5
-CGC	0	1	0	0	1	0	0	0	0	1	0	1
-CGA	0	1	0	0	1	1	1	0	3	0	1	0
-CGG	3	0	2	2	1	3	0	0	4	4	0	5
-ATT	3	16	4	9	5	13	16	3	17	8	2	14
-ATC	0	2	1	3	2	4	0	0	5	2	1	3
-ATA	3	3	3	6	2	1	6	3	13	6	2	5
-ATG	5	11	5	8	7	8	7	1	20	6	4	14
-ACT	5	9	1	3	1	2	3	0	14	6	3	7
-ACC	1	1	0	1	0	1	0	1	0	1	1	3
-ACA	1	0	0	1	1	1	2	0	3	0	0	2
-ACG	1	1	1	2	0	2	3	0	7	1	0	2
-AAT	1	7	2	3	0	1	2	4	10	7	1	8
-AAC	0	1	0	0	0	0	0	0	2	0	0	1
-AAA	0	0	1	0	1	1	2	1	4	0	0	3
-AAG	0	6	0	6	0	4	8	1	3	5	2	11
-AGT	4	5	0	4	4	5	4	2	6	3	4	12
-AGC	1	1	0	2	0	2	1	0	3	1	0	0
-AGA	1	2	1	4	1	3	2	1	2	1	2	2
-AGG	4	9	1	10	2	6	6	0	8	1	2	9
-GTT	14	31	7	38	12	23	15	7	33	11	6	36
-GTC	3	2	1	5	0	3	2	1	1	0	1	11
-GTA	2	5	4	6	2	2	0	1	3	4	1	3
-GTG	12	17	1	10	6	10	12	7	18	12	8	16
-GCT	4	8	1	11	2	2	6	2	19	2	2	16
-GCC	1	1	0	1	1	0	3	0	2	1	2	4
-GCA	0	0	1	2	1	1	1	1	1	1	0	3
-GCG	3	2	0	2	2	1	3	0	3	1	0	8
-GAT	3	7	2	5	3	7	6	1	15	11	1	7
-GAC	0	1	0	2	0	0	0	0	0	1	1	1
-GAA	1	0	0	1	1	1	1	0	2	1	1	1
-GAG	8	7	4	8	2	5	9	4	4	10	3	12
-GGT	7	10	3	17	8	16	12	3	23	9	3	29
-GGC	0	5	0	4	2	1	4	0	4	2	2	2
-GGA	1	2	0	5	2	3	2	3	3	0	2	5
-GGG	8	10	1	15	5	6	6	7	24	5	8	17
-TAA	0	0	0	0	0	0	0	0	1	0	1	1
-TAG	1	1	1	1	1	1	1	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_002640623.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	24	0	9	12	6	0	2	2	14	2	3	0	4	7	9	1	2	1	1	1	0	1	5	1	1	3	2	0	0	3	3	0	3	5	5	1	1	1	1	0	0	0	4	1	1	4	14	3	2	12	4	1	0	3	3	0	1	8	7	0	1	8	0	1
+1	CYTB	YP_002640624.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	36	1	17	20	15	2	7	3	18	1	5	2	0	10	10	2	0	6	8	0	2	3	8	0	0	5	5	1	1	0	16	2	3	11	9	1	0	1	7	1	0	6	5	1	2	9	31	2	5	17	8	1	0	2	7	1	0	7	10	5	2	10	0	1
+2	ND4L	YP_002640625.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	6	0	4	12	2	1	1	0	1	0	2	0	1	1	3	3	0	0	0	0	0	0	1	0	0	1	1	0	0	2	4	1	3	5	1	0	0	1	2	0	1	0	0	0	1	1	7	1	4	1	1	0	1	0	2	0	0	4	3	0	0	1	0	1
+3	ND4	YP_002640626.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	43	4	16	34	13	2	4	5	14	4	18	2	6	9	14	3	4	6	4	3	1	4	7	0	0	1	8	0	0	2	9	3	6	8	3	1	1	2	3	0	0	6	4	2	4	10	38	5	6	10	11	1	2	2	5	2	1	8	17	4	5	15	0	1
+4	ATP6	YP_002640627.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	21	4	5	16	6	1	1	0	7	2	5	1	1	2	3	1	2	1	4	0	2	2	1	1	0	0	4	1	1	1	5	2	2	7	1	0	1	0	0	0	1	0	4	0	1	2	12	0	2	6	2	1	1	2	3	0	1	2	8	2	2	5	0	1
+5	ND2	YP_002640628.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	31	5	14	19	9	3	3	6	11	3	6	0	5	6	12	4	2	3	1	1	3	1	1	0	0	2	0	0	1	3	13	4	1	8	2	1	1	2	1	0	1	4	5	2	3	6	23	3	2	10	2	0	1	1	7	0	1	5	16	1	3	6	0	1
+6	ND1	YP_002640629.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	33	4	13	16	7	1	1	5	12	1	13	4	3	7	13	0	0	5	5	0	0	0	2	0	0	3	7	0	1	0	16	0	6	7	3	0	2	3	2	0	2	8	4	1	2	6	15	2	0	12	6	3	1	3	6	0	1	9	12	4	2	6	0	1
+7	ND3	YP_002640630.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	22	0	2	8	2	0	1	2	6	1	2	0	1	3	4	0	0	2	1	0	1	0	1	0	2	1	2	0	0	0	3	0	3	1	0	1	0	0	4	0	1	1	2	0	1	0	7	1	1	7	2	0	1	0	1	0	0	4	3	0	3	7	0	1
+8	COX1	YP_002640631.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	41	5	11	28	10	1	4	10	19	2	9	1	9	13	18	2	5	5	16	0	2	4	15	2	0	2	6	0	3	4	17	5	13	20	14	0	3	7	10	2	4	3	6	3	2	8	33	1	3	18	19	2	1	3	15	0	2	4	23	4	3	24	1	0
+9	COX2	YP_002640632.2	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	9	0	7	8	5	1	1	3	12	2	4	1	7	0	5	0	2	3	4	3	0	2	1	2	2	1	2	1	0	4	8	2	6	6	6	1	0	1	7	0	0	5	3	1	1	1	11	0	4	12	2	1	1	1	11	1	1	10	9	2	0	5	0	1
+10	ND6	YP_002640633.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	20	1	7	11	5	3	0	1	12	0	5	2	0	1	2	1	2	7	0	3	0	1	2	0	0	0	1	0	1	0	2	1	2	4	3	1	0	0	1	0	0	2	4	0	2	2	6	1	1	8	2	2	0	0	1	1	1	3	3	2	2	8	1	0
+11	ND5	YP_002640634.1	Clonorchis sinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Opisthorchiida, Opisthorchiata, Opisthorchiidae, Clonorchis	47	5	23	42	13	4	6	7	19	3	12	5	6	13	17	4	6	4	2	0	3	3	8	0	0	4	5	1	0	5	14	3	5	14	7	3	2	2	8	1	3	11	12	0	2	9	36	11	3	16	16	4	3	8	7	1	1	12	29	2	5	17	1	0

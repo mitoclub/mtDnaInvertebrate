@@ -1,65 +1,13 @@
-	YP_009442599.1|ND1	YP_009442600.1|ND2	YP_009442601.1|COX1	YP_009442602.1|COX2	YP_009442603.1|ATP8	YP_009442604.1|ATP6	YP_009442605.1|COX3	YP_009442606.1|ND3	YP_009442607.1|ND4L	YP_009442608.1|ND4	YP_009442609.1|ND5	YP_009442611.1|CYTB
-TTT	12	5	24	4	2	8	11	8	3	8	22	11
-TTC	8	5	18	3	1	5	13	2	0	11	24	13
-TTA	15	16	16	11	4	13	9	9	3	22	29	10
-TTG	0	1	2	2	1	1	2	1	0	1	2	1
-TCT	5	8	12	5	0	3	9	1	3	8	13	8
-TCC	3	3	4	3	0	1	4	2	2	9	9	6
-TCA	6	9	13	8	6	4	4	5	1	11	15	6
-TCG	1	0	0	0	0	0	0	0	0	0	2	1
-TAT	9	6	14	5	2	2	8	3	3	11	11	11
-TAC	4	4	5	5	2	0	4	0	0	7	7	6
-TGT	0	0	1	3	0	0	0	1	1	3	2	0
-TGC	1	0	0	0	0	0	1	0	2	1	2	4
-TGA	9	10	17	5	3	3	11	4	0	13	11	12
-TGG	0	0	0	0	0	0	1	0	0	0	1	0
-CTT	7	5	12	4	1	4	5	5	6	6	10	9
-CTC	4	8	6	0	0	4	2	2	3	10	9	7
-CTA	29	29	18	16	2	17	15	7	10	44	39	28
-CTG	2	1	5	1	0	1	3	0	3	5	4	4
-CCT	9	3	18	6	2	7	2	2	1	5	7	6
-CCC	5	3	4	5	2	2	4	1	0	11	12	6
-CCA	7	14	7	2	2	3	6	3	0	3	6	10
-CCG	0	0	1	0	0	0	0	0	0	1	1	1
-CAT	1	3	7	2	2	4	7	0	1	3	4	5
-CAC	3	2	11	4	1	3	9	0	2	6	6	8
-CAA	6	8	5	7	3	6	7	3	2	9	20	6
-CAG	1	0	1	0	0	2	0	0	0	1	0	1
-CGT	0	0	0	0	0	1	1	1	0	1	3	1
-CGC	0	0	2	2	0	2	1	0	0	2	2	2
-CGA	6	3	6	4	1	2	3	0	1	6	4	5
-CGG	1	0	0	0	0	0	0	0	0	1	0	0
-ATT	20	18	25	13	6	21	7	6	5	33	36	26
-ATC	10	14	14	7	2	4	5	2	1	7	19	13
-ATA	17	33	24	10	2	15	8	8	9	34	40	15
-ATG	2	4	7	4	1	2	3	0	1	5	2	2
-ACT	5	8	11	8	1	8	7	2	1	13	17	4
-ACC	8	9	10	1	2	2	3	3	3	13	11	8
-ACA	9	30	13	8	4	12	11	2	3	13	20	10
-ACG	1	1	1	0	1	2	0	0	0	1	3	1
-AAT	8	8	14	3	0	6	4	2	3	12	20	10
-AAC	4	8	3	2	1	4	4	1	1	6	13	7
-AAA	7	13	7	5	6	4	1	4	0	12	21	8
-AAG	0	1	2	0	0	1	0	0	0	0	1	0
-AGT	2	1	1	3	0	2	2	2	1	4	3	2
-AGC	2	2	3	3	0	2	2	0	0	8	7	2
-GTT	1	2	11	3	0	4	1	0	3	4	4	8
-GTC	2	3	4	3	0	3	5	0	0	4	5	2
-GTA	11	5	23	5	0	4	9	3	4	5	11	10
-GTG	0	1	0	0	0	0	1	0	1	3	0	0
-GCT	9	3	17	6	1	5	8	1	2	10	14	3
-GCC	7	6	13	1	0	3	2	3	1	8	15	6
-GCA	13	10	9	3	0	8	5	4	5	12	11	13
-GCG	0	0	2	0	0	1	0	0	0	1	2	1
-GAT	1	0	8	5	1	1	2	2	0	1	4	7
-GAC	2	2	6	5	0	0	1	1	1	3	6	4
-GAA	10	5	7	12	2	2	7	6	2	8	8	5
-GAG	1	0	3	2	0	1	1	0	0	1	3	0
-GGT	3	1	9	2	0	0	3	0	0	4	6	1
-GGC	4	2	7	2	0	4	5	1	1	6	9	5
-GGA	4	7	28	4	0	7	12	2	3	8	14	18
-GGG	1	4	3	0	0	0	0	0	0	1	0	0
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009442599.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	12	8	15	0	5	3	6	1	9	4	0	1	9	0	7	4	29	2	9	5	7	0	1	3	6	1	0	0	6	1	20	10	17	2	5	8	9	1	8	4	7	0	2	2	1	2	11	0	9	7	13	0	1	2	10	1	3	4	4	1	0	0	0	0
+1	ND2	YP_009442600.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	5	5	16	1	8	3	9	0	6	4	0	0	10	0	5	8	29	1	3	3	14	0	3	2	8	0	0	0	3	0	18	14	33	4	8	9	30	1	8	8	13	1	1	2	2	3	5	1	3	6	10	0	0	2	5	0	1	2	7	4	0	0	0	0
+2	COX1	YP_009442601.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	24	18	16	2	12	4	13	0	14	5	1	0	17	0	12	6	18	5	18	4	7	1	7	11	5	1	0	2	6	0	25	14	24	7	11	10	13	1	14	3	7	2	1	3	11	4	23	0	17	13	9	2	8	6	7	3	9	7	28	3	1	0	0	0
+3	COX2	YP_009442602.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	4	3	11	2	5	3	8	0	5	5	3	0	5	0	4	0	16	1	6	5	2	0	2	4	7	0	0	2	4	0	13	7	10	4	8	1	8	0	3	2	5	0	3	3	3	3	5	0	6	1	3	0	5	5	12	2	2	2	4	0	1	0	0	0
+4	ATP8	YP_009442603.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	2	1	4	1	0	0	6	0	2	2	0	0	3	0	1	0	2	0	2	2	2	0	2	1	3	0	0	0	1	0	6	2	2	1	1	2	4	1	0	1	6	0	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009442604.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	5	13	1	3	1	4	0	2	0	0	0	3	0	4	4	17	1	7	2	3	0	4	3	6	2	1	2	2	0	21	4	15	2	8	2	12	2	6	4	4	1	2	2	4	3	4	0	5	3	8	1	1	0	2	1	0	4	7	0	1	0	0	0
+6	COX3	YP_009442605.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	11	13	9	2	9	4	4	0	8	4	0	1	11	1	5	2	15	3	2	4	6	0	7	9	7	0	1	1	3	0	7	5	8	3	7	3	11	0	4	4	1	0	2	2	1	5	9	1	8	2	5	0	2	1	7	1	3	5	12	0	0	0	0	0
+7	ND3	YP_009442606.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	2	9	1	1	2	5	0	3	0	1	0	4	0	5	2	7	0	2	1	3	0	0	0	3	0	1	0	0	0	6	2	8	0	2	3	2	0	2	1	4	0	2	0	0	0	3	0	1	3	4	0	2	1	6	0	0	1	2	0	0	0	0	0
+8	ND4L	YP_009442607.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	0	3	0	3	2	1	0	3	0	1	2	0	0	6	3	10	3	1	0	0	0	1	2	2	0	0	0	1	0	5	1	9	1	1	3	3	0	3	1	0	0	1	0	3	0	4	1	2	1	5	0	0	1	2	0	0	1	3	0	1	0	0	0
+9	ND4	YP_009442608.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	11	22	1	8	9	11	0	11	7	3	1	13	0	6	10	44	5	5	11	3	1	3	6	9	1	1	2	6	1	33	7	34	5	13	13	13	1	12	6	12	0	4	8	4	4	5	3	10	8	12	1	1	3	8	1	4	6	8	1	0	0	0	0
+10	ND5	YP_009442609.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	22	24	29	2	13	9	15	2	11	7	2	2	11	1	10	9	39	4	7	12	6	1	4	6	20	0	3	2	4	0	36	19	40	2	17	11	20	3	20	13	21	1	3	7	4	5	11	0	14	15	11	2	4	6	8	3	6	9	14	0	1	0	0	0
+11	CYTB	YP_009442611.1	Myotis keaysi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	11	13	10	1	8	6	6	1	11	6	0	4	12	0	9	7	28	4	6	6	10	1	5	8	6	1	1	2	5	0	26	13	15	2	4	8	10	1	10	7	8	0	2	2	8	2	10	0	3	6	13	1	7	4	5	0	1	5	18	0	0	0	1	0

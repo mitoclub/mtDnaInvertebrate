@@ -1,65 +1,13 @@
-	YP_009332421.1|ND1	YP_009332422.1|ND2	YP_009332423.1|COX1	YP_009332424.1|COX2	YP_009332425.1|ATP8	YP_009332426.1|ATP6	YP_009332427.1|COX3	YP_009332428.1|ND3	YP_009332429.1|ND4L	YP_009332430.1|ND4	YP_009332431.1|ND5	YP_009332433.1|CYTB
-TTT	8	3	24	6	2	9	10	4	4	8	20	13
-TTC	8	6	18	3	1	3	12	5	4	8	17	17
-TTA	13	8	14	4	2	11	6	11	3	17	18	10
-TTG	1	0	3	1	0	1	0	0	1	4	0	1
-TCT	3	3	5	3	0	1	2	3	0	4	7	3
-TCC	6	6	7	4	1	0	4	0	4	7	14	9
-TCA	9	9	12	6	2	4	6	2	2	10	11	10
-TCG	0	0	0	0	0	0	0	0	0	1	1	0
-TAT	8	2	10	2	0	4	3	1	0	7	4	4
-TAC	5	6	8	7	0	0	9	1	0	6	9	10
-TGT	0	0	0	1	0	0	0	0	0	0	1	1
-TGC	0	1	1	1	0	0	2	1	3	5	5	2
-TGA	6	11	14	4	4	4	11	3	1	18	12	13
-TGG	2	0	3	1	1	1	1	2	0	2	2	0
-CTT	7	8	12	13	2	5	6	4	3	13	16	3
-CTC	10	11	13	2	0	7	6	4	2	17	13	8
-CTA	31	36	15	6	1	20	13	7	12	34	35	30
-CTG	2	7	6	1	1	3	2	0	1	3	8	6
-CCT	3	0	5	1	2	2	1	0	1	2	6	2
-CCC	4	6	8	5	4	4	3	4	1	9	10	7
-CCA	16	13	13	8	1	11	8	3	0	15	14	11
-CCG	1	1	2	0	1	0	0	1	0	1	1	1
-CAT	2	1	7	2	0	0	6	1	0	4	3	1
-CAC	3	6	12	8	2	3	10	0	4	9	11	11
-CAA	5	11	7	7	2	8	8	2	3	11	15	6
-CAG	2	1	1	1	0	0	1	1	0	2	3	0
-CGT	0	0	2	1	0	1	1	0	0	0	0	0
-CGC	2	0	1	1	0	0	2	0	2	4	0	0
-CGA	6	4	4	4	0	5	2	2	1	7	9	8
-CGG	0	0	1	0	0	0	0	0	0	0	1	0
-ATT	17	16	25	15	2	14	12	7	0	23	34	14
-ATC	7	8	10	3	1	9	3	0	1	16	28	19
-ATA	10	14	15	10	1	7	5	1	4	22	20	7
-ATG	2	3	8	3	1	3	3	1	2	3	8	4
-ACT	3	4	6	1	2	2	3	0	2	2	8	2
-ACC	7	20	10	3	2	8	4	4	2	24	30	7
-ACA	10	30	18	6	1	8	15	5	4	18	27	11
-ACG	2	2	3	0	0	2	0	0	0	2	2	1
-AAT	4	2	9	2	1	6	0	0	0	1	5	6
-AAC	8	6	7	5	2	4	1	3	2	10	21	12
-AAA	7	9	8	3	3	1	2	1	0	9	21	8
-AAG	0	0	0	1	0	0	0	0	0	0	0	1
-AGT	1	0	0	0	0	0	0	0	0	2	2	0
-AGC	2	4	4	3	0	4	3	0	3	4	13	1
-GTT	2	2	12	3	0	5	5	1	0	4	3	3
-GTC	7	0	13	6	0	5	3	4	1	4	5	11
-GTA	6	3	12	8	2	6	7	2	2	11	13	9
-GTG	0	1	9	3	0	0	1	1	0	0	1	2
-GCT	6	3	7	5	0	3	3	1	0	6	8	4
-GCC	15	15	22	5	2	10	9	2	9	12	24	10
-GCA	11	17	18	4	1	7	10	4	5	14	15	16
-GCG	1	2	1	2	0	0	0	0	0	1	2	3
-GAT	2	0	3	2	0	1	3	0	0	0	4	2
-GAC	2	3	11	10	2	0	2	4	1	4	10	8
-GAA	10	5	8	13	2	2	7	5	2	7	8	6
-GAG	1	1	3	2	1	2	3	1	1	4	3	1
-GGT	1	2	7	1	0	1	1	0	0	4	5	1
-GGC	9	4	13	2	0	3	6	2	2	6	8	2
-GGA	7	10	24	4	0	6	13	4	3	16	16	20
-GGG	1	2	2	2	0	1	2	1	0	3	2	2
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009332421.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	8	8	13	1	3	6	9	0	8	5	0	0	6	2	7	10	31	2	3	4	16	1	2	3	5	2	0	2	6	0	17	7	10	2	3	7	10	2	4	8	7	0	1	2	2	7	6	0	6	15	11	1	2	2	10	1	1	9	7	1	0	1	0	0
+1	ND2	YP_009332422.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	3	6	8	0	3	6	9	0	2	6	0	1	11	0	8	11	36	7	0	6	13	1	1	6	11	1	0	0	4	0	16	8	14	3	4	20	30	2	2	6	9	0	0	4	2	0	3	1	3	15	17	2	0	3	5	1	2	4	10	2	0	0	0	0
+2	COX1	YP_009332423.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	24	18	14	3	5	7	12	0	10	8	0	1	14	3	12	13	15	6	5	8	13	2	7	12	7	1	2	1	4	1	25	10	15	8	6	10	18	3	9	7	8	0	0	4	12	13	12	9	7	22	18	1	3	11	8	3	7	13	24	2	1	0	0	0
+3	COX2	YP_009332424.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	6	3	4	1	3	4	6	0	2	7	1	1	4	1	13	2	6	1	1	5	8	0	2	8	7	1	1	1	4	0	15	3	10	3	1	3	6	0	2	5	3	1	0	3	3	6	8	3	5	5	4	2	2	10	13	2	1	2	4	2	0	0	0	0
+4	ATP8	YP_009332425.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	2	1	2	0	0	1	2	0	0	0	0	0	4	1	2	0	1	1	2	4	1	1	0	2	2	0	0	0	0	0	2	1	1	1	2	2	1	0	1	2	3	0	0	0	0	0	2	0	0	2	1	0	0	2	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009332426.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	9	3	11	1	1	0	4	0	4	0	0	0	4	1	5	7	20	3	2	4	11	0	0	3	8	0	1	0	5	0	14	9	7	3	2	8	8	2	6	4	1	0	0	4	5	5	6	0	3	10	7	0	1	0	2	2	1	3	6	1	1	0	0	0
+6	COX3	YP_009332427.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	10	12	6	0	2	4	6	0	3	9	0	2	11	1	6	6	13	2	1	3	8	0	6	10	8	1	1	2	2	0	12	3	5	3	3	4	15	0	0	1	2	0	0	3	5	3	7	1	3	9	10	0	3	2	7	3	1	6	13	2	0	0	0	0
+7	ND3	YP_009332428.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	4	5	11	0	3	0	2	0	1	1	0	1	3	2	4	4	7	0	0	4	3	1	1	0	2	1	0	0	2	0	7	0	1	1	0	4	5	0	0	3	1	0	0	0	1	4	2	1	1	2	4	0	0	4	5	1	0	2	4	1	0	0	0	0
+8	ND4L	YP_009332429.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	4	4	3	1	0	4	2	0	0	0	0	3	1	0	3	2	12	1	1	1	0	0	0	4	3	0	0	2	1	0	0	1	4	2	2	2	4	0	0	2	0	0	0	3	0	1	2	0	0	9	5	0	0	1	2	1	0	2	3	0	1	0	0	0
+9	ND4	YP_009332430.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	8	8	17	4	4	7	10	1	7	6	0	5	18	2	13	17	34	3	2	9	15	1	4	9	11	2	0	4	7	0	23	16	22	3	2	24	18	2	1	10	9	0	2	4	4	4	11	0	6	12	14	1	0	4	7	4	4	6	16	3	0	0	0	0
+10	ND5	YP_009332431.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	20	17	18	0	7	14	11	1	4	9	1	5	12	2	16	13	35	8	6	10	14	1	3	11	15	3	0	0	9	1	34	28	20	8	8	30	27	2	5	21	21	0	2	13	3	5	13	1	8	24	15	2	4	10	8	3	5	8	16	2	1	0	0	0
+11	CYTB	YP_009332433.1	Oreonectes furcocaudalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Oreonectes	13	17	10	1	3	9	10	0	4	10	1	2	13	0	3	8	30	6	2	7	11	1	1	11	6	0	0	0	8	0	14	19	7	4	2	7	11	1	6	12	8	1	0	1	3	11	9	2	4	10	16	3	2	8	6	1	1	2	20	2	0	0	0	0

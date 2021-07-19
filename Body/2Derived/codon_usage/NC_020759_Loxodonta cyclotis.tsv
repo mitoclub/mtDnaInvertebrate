@@ -1,65 +1,13 @@
-	YP_007626823.1|ND1	YP_007626824.1|ND2	YP_007626825.1|COX1	YP_007626826.1|COX2	YP_007626827.1|ATP8	YP_007626828.1|ATP6	YP_007626829.1|COX3	YP_007626830.1|ND3	YP_007626831.1|ND4L	YP_007626832.1|ND4	YP_007626833.1|ND5	YP_007626835.1|CYTB
-TTT	12	5	32	5	1	4	12	6	1	8	20	7
-TTC	8	4	10	4	2	5	11	2	3	10	18	16
-TTA	8	10	14	13	0	8	7	6	4	17	19	7
-TTG	1	2	2	1	1	2	0	1	1	1	1	1
-TCT	5	3	17	3	2	2	6	1	3	6	4	5
-TCC	2	8	5	3	1	2	5	0	2	15	10	6
-TCA	12	12	8	7	1	4	3	4	3	11	17	10
-TCG	0	1	1	0	1	0	0	0	0	0	1	3
-TAT	5	1	11	6	1	2	7	2	0	12	12	9
-TAC	7	10	9	3	1	2	6	2	5	3	6	10
-TGT	1	0	1	1	1	0	0	0	1	1	2	0
-TGC	3	0	0	1	0	0	1	1	2	2	2	3
-TGA	9	10	12	2	3	3	11	4	0	11	12	11
-TGG	0	0	5	3	0	1	1	0	0	1	0	0
-CTT	8	11	12	4	5	7	8	4	4	13	10	11
-CTC	4	3	6	7	0	5	8	4	4	16	16	9
-CTA	30	35	19	12	3	21	13	10	11	44	46	35
-CTG	0	3	4	0	1	3	1	0	0	3	5	1
-CCT	7	2	8	2	2	3	5	1	0	5	3	3
-CCC	4	7	5	3	0	3	1	2	1	6	8	7
-CCA	10	10	14	6	1	5	4	3	1	12	14	10
-CCG	0	0	1	1	2	0	1	0	0	0	2	2
-CAT	1	1	8	4	1	4	8	0	0	3	10	3
-CAC	0	4	10	4	0	2	8	0	1	9	6	9
-CAA	8	7	6	5	0	7	6	3	1	9	17	6
-CAG	0	1	0	1	0	0	1	0	1	1	3	0
-CGT	2	0	1	0	0	1	1	1	0	0	2	0
-CGC	0	0	3	0	1	1	1	0	1	1	3	0
-CGA	6	3	3	5	1	3	3	0	0	6	5	7
-CGG	0	0	1	0	0	0	0	0	0	2	0	1
-ATT	6	14	29	11	4	15	8	4	5	21	26	22
-ATC	18	13	11	7	4	11	3	4	2	21	31	19
-ATA	16	36	26	14	2	7	9	7	8	33	33	17
-ATG	4	6	6	2	2	0	2	0	1	2	6	1
-ACT	9	10	14	6	0	5	6	4	3	17	18	6
-ACC	10	14	4	3	1	9	9	1	1	13	20	10
-ACA	7	19	15	6	1	14	9	6	2	16	27	9
-ACG	0	1	1	0	2	2	1	1	0	1	2	0
-AAT	5	7	10	3	0	3	4	3	3	9	11	5
-AAC	7	12	9	4	1	4	2	1	4	8	23	9
-AAA	6	9	8	3	2	4	2	3	0	10	18	8
-AAG	2	2	1	2	7	0	0	1	0	3	3	2
-AGT	1	2	4	0	0	2	2	1	0	3	5	1
-AGC	2	2	0	5	0	2	3	0	0	8	8	4
-GTT	3	1	11	4	1	3	3	1	1	1	4	0
-GTC	6	2	8	5	1	3	4	0	0	2	0	2
-GTA	10	2	16	4	2	6	8	1	4	6	9	7
-GTG	0	0	1	0	0	1	3	0	0	3	0	0
-GCT	7	5	20	4	0	4	5	5	1	9	11	2
-GCC	11	8	8	3	0	6	3	1	2	8	13	9
-GCA	9	8	15	3	1	5	4	2	4	6	15	10
-GCG	0	0	0	0	0	1	0	0	0	0	0	0
-GAT	2	0	5	8	1	1	3	3	0	2	2	5
-GAC	2	0	9	3	0	0	1	0	1	5	6	7
-GAA	11	6	9	11	2	4	7	5	2	5	10	5
-GAG	0	0	1	2	0	1	2	0	0	2	1	1
-GGT	2	1	11	3	0	5	3	0	1	2	4	1
-GGC	4	3	9	0	0	1	7	4	1	2	11	9
-GGA	4	11	19	4	0	3	9	0	2	11	11	14
-GGG	1	0	7	1	0	0	0	0	0	2	1	1
-TAA	0	0	0	1	0	1	0	0	1	0	1	1
-TAG	1	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007626823.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	12	8	8	1	5	2	12	0	5	7	1	3	9	0	8	4	30	0	7	4	10	0	1	0	8	0	2	0	6	0	6	18	16	4	9	10	7	0	5	7	6	2	1	2	3	6	10	0	7	11	9	0	2	2	11	0	2	4	4	1	0	1	0	0
+1	ND2	YP_007626824.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	5	4	10	2	3	8	12	1	1	10	0	0	10	0	11	3	35	3	2	7	10	0	1	4	7	1	0	0	3	0	14	13	36	6	10	14	19	1	7	12	9	2	2	2	1	2	2	0	5	8	8	0	0	0	6	0	1	3	11	0	0	0	0	0
+2	COX1	YP_007626825.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	32	10	14	2	17	5	8	1	11	9	1	0	12	5	12	6	19	4	8	5	14	1	8	10	6	0	1	3	3	1	29	11	26	6	14	4	15	1	10	9	8	1	4	0	11	8	16	1	20	8	15	0	5	9	9	1	11	9	19	7	0	0	1	0
+3	COX2	YP_007626826.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	5	4	13	1	3	3	7	0	6	3	1	1	2	3	4	7	12	0	2	3	6	1	4	4	5	1	0	0	5	0	11	7	14	2	6	3	6	0	3	4	3	2	0	5	4	5	4	0	4	3	3	0	8	3	11	2	3	0	4	1	1	0	0	0
+4	ATP8	YP_007626827.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	1	2	0	1	2	1	1	1	1	1	1	0	3	0	5	0	3	1	2	0	1	2	1	0	0	0	0	1	1	0	4	4	2	2	0	1	1	2	0	1	2	7	0	0	1	1	2	0	0	0	1	0	1	0	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_007626828.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	4	5	8	2	2	2	4	0	2	2	0	0	3	1	7	5	21	3	3	3	5	0	4	2	7	0	1	1	3	0	15	11	7	0	5	9	14	2	3	4	4	0	2	2	3	3	6	1	4	6	5	1	1	0	4	1	5	1	3	0	1	0	0	0
+6	COX3	YP_007626829.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	12	11	7	0	6	5	3	0	7	6	0	1	11	1	8	8	13	1	5	1	4	1	8	8	6	1	1	1	3	0	8	3	9	2	6	9	9	1	4	2	2	0	2	3	3	4	8	3	5	3	4	0	3	1	7	2	3	7	9	0	0	0	0	0
+7	ND3	YP_007626830.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	6	2	6	1	1	0	4	0	2	2	0	1	4	0	4	4	10	0	1	2	3	0	0	0	3	0	1	0	0	0	4	4	7	0	4	1	6	1	3	1	3	1	1	0	1	0	1	0	5	1	2	0	3	0	5	0	0	4	0	0	0	0	0	0
+8	ND4L	YP_007626831.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	1	3	4	1	3	2	3	0	0	5	1	2	0	0	4	4	11	0	0	1	1	0	0	1	1	1	0	1	0	0	5	2	8	1	3	1	2	0	3	4	0	0	0	0	1	0	4	0	1	2	4	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_007626832.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	8	10	17	1	6	15	11	0	12	3	1	2	11	1	13	16	44	3	5	6	12	0	3	9	9	1	0	1	6	2	21	21	33	2	17	13	16	1	9	8	10	3	3	8	1	2	6	3	9	8	6	0	2	5	5	2	2	2	11	2	0	0	0	0
+10	ND5	YP_007626833.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	20	18	19	1	4	10	17	1	12	6	2	2	12	0	10	16	46	5	3	8	14	2	10	6	17	3	2	3	5	0	26	31	33	6	18	20	27	2	11	23	18	3	5	8	4	0	9	0	11	13	15	0	2	6	10	1	4	11	11	1	1	0	0	0
+11	CYTB	YP_007626835.1	Loxodonta cyclotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Loxodonta	7	16	7	1	5	6	10	3	9	10	0	3	11	0	11	9	35	1	3	7	10	2	3	9	6	0	0	0	7	1	22	19	17	1	6	10	9	0	5	9	8	2	1	4	0	2	7	0	2	9	10	0	5	7	5	1	1	9	14	1	1	0	0	0

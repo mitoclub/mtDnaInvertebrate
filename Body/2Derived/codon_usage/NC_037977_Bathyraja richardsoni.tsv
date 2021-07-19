@@ -1,65 +1,13 @@
-	YP_009494831.1|ND1	YP_009494832.1|ND2	YP_009494833.1|COX1	YP_009494834.1|COX2	YP_009494835.1|ATP8	YP_009494836.1|ATP6	YP_009494837.1|COX3	YP_009494838.1|ND3	YP_009494839.1|ND4L	YP_009494840.1|ND4	YP_009494841.1|ND5	YP_009494843.1|CYTB
-TTT	13	8	27	7	5	14	17	7	5	12	33	19
-TTC	4	7	12	1	1	1	7	3	0	5	15	12
-TTA	32	28	29	14	6	23	18	11	5	39	33	24
-TTG	2	3	0	0	0	1	1	0	0	1	0	3
-TCT	5	4	10	2	2	0	3	3	4	8	13	6
-TCC	3	6	2	2	1	3	0	1	2	7	8	3
-TCA	10	13	13	7	0	4	5	3	4	12	16	10
-TCG	1	1	0	0	0	0	0	0	0	0	1	1
-TAT	13	6	16	9	2	4	7	3	1	12	10	13
-TAC	1	1	3	1	0	0	3	0	0	3	3	2
-TGT	0	1	1	2	0	0	2	1	2	3	2	3
-TGC	0	0	0	0	0	0	0	0	1	2	3	0
-TGA	7	9	15	5	5	3	12	5	1	16	11	11
-TGG	1	1	2	0	0	1	0	0	0	2	3	2
-CTT	17	20	20	6	1	13	6	8	8	34	28	19
-CTC	5	4	3	1	0	5	4	3	1	8	11	7
-CTA	10	17	7	6	1	8	7	3	7	14	17	9
-CTG	0	2	4	0	0	0	0	0	0	0	4	0
-CCT	4	2	12	3	1	3	4	2	2	9	9	4
-CCC	1	4	2	2	1	0	1	1	0	3	4	4
-CCA	17	13	16	8	6	11	8	4	1	13	14	12
-CCG	0	0	0	0	0	0	0	1	0	0	0	0
-CAT	4	4	12	4	1	2	11	0	0	8	10	6
-CAC	2	2	7	6	0	1	5	0	3	3	4	5
-CAA	5	13	9	8	2	10	7	2	1	12	19	7
-CAG	1	0	1	0	0	0	0	0	0	0	2	0
-CGT	4	1	4	0	0	1	0	0	1	0	2	1
-CGC	2	1	1	2	0	1	2	1	0	1	2	1
-CGA	2	1	3	4	0	2	3	0	1	7	4	6
-CGG	0	1	0	0	0	1	0	1	0	2	1	0
-ATT	20	30	37	18	4	21	13	11	4	41	47	38
-ATC	6	6	6	7	0	3	4	5	3	6	11	9
-ATA	14	23	20	10	0	10	7	2	5	20	31	6
-ATG	3	1	5	2	2	2	1	1	1	2	5	3
-ACT	11	11	14	6	0	8	3	1	2	15	15	3
-ACC	5	9	3	0	1	3	7	2	1	5	12	9
-ACA	12	19	19	6	1	11	12	1	5	15	21	11
-ACG	0	0	0	0	0	0	0	0	0	0	1	0
-AAT	8	11	13	5	2	7	2	1	3	11	21	18
-AAC	4	2	3	2	2	4	0	2	2	3	14	3
-AAA	6	9	8	4	4	1	2	1	0	13	19	8
-AAG	1	0	0	0	0	0	0	0	0	2	4	1
-AGT	4	2	3	1	1	4	2	0	1	6	6	2
-AGC	0	0	1	2	0	0	1	0	1	3	4	0
-GTT	4	2	19	7	0	5	3	0	1	5	8	11
-GTC	1	1	4	1	0	2	2	1	0	0	3	3
-GTA	6	3	16	7	0	4	11	2	1	4	11	5
-GTG	1	0	2	0	0	0	0	0	0	1	0	0
-GCT	9	7	18	5	0	8	8	1	3	8	17	8
-GCC	6	6	9	1	0	3	7	2	5	13	20	7
-GCA	8	8	17	8	0	6	7	4	3	13	6	5
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	2	2	11	8	1	1	4	4	1	5	13	5
-GAC	1	0	3	3	0	0	1	0	0	0	2	3
-GAA	9	5	11	17	2	4	10	5	2	11	9	7
-GAG	1	0	0	1	0	0	0	1	0	0	1	0
-GGT	4	4	18	2	0	6	8	4	0	15	14	5
-GGC	0	4	4	1	0	0	3	0	0	2	3	2
-GGA	9	7	15	6	0	1	10	2	4	5	6	17
-GGG	3	3	8	0	0	1	0	0	0	0	5	1
-TAA	1	0	1	0	1	1	1	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009494831.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	13	4	32	2	5	3	10	1	13	1	0	0	7	1	17	5	10	0	4	1	17	0	4	2	5	1	4	2	2	0	20	6	14	3	11	5	12	0	8	4	6	1	4	0	4	1	6	1	9	6	8	0	2	1	9	1	4	0	9	3	1	0	0	0
+1	ND2	YP_009494832.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	8	7	28	3	4	6	13	1	6	1	1	0	9	1	20	4	17	2	2	4	13	0	4	2	13	0	1	1	1	1	30	6	23	1	11	9	19	0	11	2	9	0	2	0	2	1	3	0	7	6	8	0	2	0	5	0	4	4	7	3	0	0	0	0
+2	COX1	YP_009494833.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	27	12	29	0	10	2	13	0	16	3	1	0	15	2	20	3	7	4	12	2	16	0	12	7	9	1	4	1	3	0	37	6	20	5	14	3	19	0	13	3	8	0	3	1	19	4	16	2	18	9	17	0	11	3	11	0	18	4	15	8	1	0	0	0
+3	COX2	YP_009494834.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	7	1	14	0	2	2	7	0	9	1	2	0	5	0	6	1	6	0	3	2	8	0	4	6	8	0	0	2	4	0	18	7	10	2	6	0	6	0	5	2	4	0	1	2	7	1	7	0	5	1	8	0	8	3	17	1	2	1	6	0	0	0	0	0
+4	ATP8	YP_009494835.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	5	1	6	0	2	1	0	0	2	0	0	0	5	0	1	0	1	0	1	1	6	0	1	0	2	0	0	0	0	0	4	0	0	2	0	1	1	0	2	2	4	0	1	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009494836.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	14	1	23	1	0	3	4	0	4	0	0	0	3	1	13	5	8	0	3	0	11	0	2	1	10	0	1	1	2	1	21	3	10	2	8	3	11	0	7	4	1	0	4	0	5	2	4	0	8	3	6	0	1	0	4	0	6	0	1	1	1	0	0	0
+6	COX3	YP_009494837.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	17	7	18	1	3	0	5	0	7	3	2	0	12	0	6	4	7	0	4	1	8	0	11	5	7	0	0	2	3	0	13	4	7	1	3	7	12	0	2	0	2	0	2	1	3	2	11	0	8	7	7	0	4	1	10	0	8	3	10	0	1	0	0	0
+7	ND3	YP_009494838.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	7	3	11	0	3	1	3	0	3	0	1	0	5	0	8	3	3	0	2	1	4	1	0	0	2	0	0	1	0	1	11	5	2	1	1	2	1	0	1	2	1	0	0	0	0	1	2	0	1	2	4	0	4	0	5	1	4	0	2	0	0	0	0	0
+8	ND4L	YP_009494839.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	5	0	5	0	4	2	4	0	1	0	2	1	1	0	8	1	7	0	2	0	1	0	0	3	1	0	1	0	1	0	4	3	5	1	2	1	5	0	3	2	0	0	1	1	1	0	1	0	3	5	3	0	1	0	2	0	0	0	4	0	1	0	0	0
+9	ND4	YP_009494840.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	12	5	39	1	8	7	12	0	12	3	3	2	16	2	34	8	14	0	9	3	13	0	8	3	12	0	0	1	7	2	41	6	20	2	15	5	15	0	11	3	13	2	6	3	5	0	4	1	8	13	13	0	5	0	11	0	15	2	5	0	0	0	0	0
+10	ND5	YP_009494841.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	33	15	33	0	13	8	16	1	10	3	2	3	11	3	28	11	17	4	9	4	14	0	10	4	19	2	2	2	4	1	47	11	31	5	15	12	21	1	21	14	19	4	6	4	8	3	11	0	17	20	6	0	13	2	9	1	14	3	6	5	1	0	0	0
+11	CYTB	YP_009494843.1	Bathyraja richardsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Rajiformes, Bathyraja	19	12	24	3	6	3	10	1	13	2	3	0	11	2	19	7	9	0	4	4	12	0	6	5	7	0	1	1	6	0	38	9	6	3	3	9	11	0	18	3	8	1	2	0	11	3	5	0	8	7	5	0	5	3	7	0	5	2	17	1	1	0	0	0

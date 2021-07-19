@@ -1,65 +1,10 @@
-	YP_009678971.1|ND2	YP_009678972.1|COX1	YP_009678973.1|COX2	YP_009678974.1|ATP8	YP_009678975.1|ATP6	YP_009678976.1|COX3	YP_009678977.1|ND3	YP_009678981.1|ND6	YP_009678982.1|CYTB
-TTT	12	33	13	2	18	20	6	10	22
-TTC	9	5	5	4	2	6	4	2	11
-TTA	20	37	19	7	23	19	9	14	36
-TTG	2	1	0	0	1	1	0	0	0
-TCT	5	5	1	1	1	2	1	3	3
-TCC	2	0	2	1	0	0	0	0	0
-TCA	23	24	10	2	12	8	5	5	9
-TCG	2	1	0	0	1	0	0	0	0
-TAT	6	11	5	1	4	6	0	5	14
-TAC	5	5	2	0	1	3	1	1	2
-TGT	3	1	1	0	0	1	1	0	4
-TGC	0	0	1	0	0	0	0	0	1
-TGA	10	15	6	3	5	14	3	1	11
-TGG	0	0	0	0	0	0	0	0	1
-CTT	5	6	2	0	1	5	1	3	1
-CTC	2	1	0	0	0	0	0	0	1
-CTA	11	12	5	1	8	5	4	3	4
-CTG	3	0	0	0	0	1	0	0	1
-CCT	1	6	4	2	4	4	0	2	10
-CCC	1	3	3	0	0	0	0	0	1
-CCA	9	16	7	0	6	7	6	2	12
-CCG	0	1	0	0	0	0	0	0	0
-CAT	2	9	2	0	4	9	1	0	11
-CAC	1	5	2	0	2	5	0	1	1
-CAA	7	9	4	3	3	7	2	3	7
-CAG	0	1	0	0	0	1	0	0	1
-CGT	1	1	1	0	0	1	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	5	0	3	3	3	0	6
-CGG	0	0	0	0	0	0	0	0	2
-ATT	44	45	13	8	17	18	10	26	34
-ATC	5	5	6	1	8	1	7	2	9
-ATA	29	32	10	3	18	15	10	27	19
-ATG	8	3	1	0	2	1	0	2	3
-ACT	2	4	3	0	6	3	1	4	0
-ACC	4	6	3	0	3	2	0	1	4
-ACA	13	25	12	1	14	16	6	9	17
-ACG	0	1	0	0	0	0	0	0	0
-AAT	11	15	12	1	13	7	2	13	19
-AAC	9	4	3	3	4	1	1	1	5
-AAA	17	5	9	7	3	1	4	10	8
-AAG	1	2	1	0	0	0	1	0	1
-AGT	0	3	0	0	0	2	0	1	1
-AGC	0	0	0	0	0	0	0	0	0
-AGA	11	10	5	2	7	5	3	1	4
-AGG	0	0	0	0	0	0	0	0	0
-GTT	6	7	2	0	0	7	0	1	12
-GTC	0	2	0	0	2	0	0	0	1
-GTA	3	22	8	0	3	8	6	4	12
-GTG	1	0	1	0	0	0	0	0	0
-GCT	3	9	1	0	1	5	0	0	5
-GCC	1	3	1	0	0	1	1	0	0
-GCA	6	22	8	0	9	12	6	3	16
-GCG	0	1	1	0	0	0	0	0	0
-GAT	0	13	5	0	0	4	2	2	6
-GAC	1	3	3	0	1	0	1	0	2
-GAA	9	9	9	0	4	7	5	5	5
-GAG	0	0	0	0	0	0	0	0	0
-GGT	1	12	1	0	2	2	0	1	5
-GGC	1	0	0	0	1	0	1	0	0
-GGA	10	34	5	0	8	17	2	4	18
-GGG	1	1	4	0	0	0	1	0	0
-TAA	1	0	1	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009678971.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	12	9	20	2	5	2	23	2	6	5	3	0	10	0	5	2	11	3	1	1	9	0	2	1	7	0	1	0	1	0	44	5	29	8	2	4	13	0	11	9	17	1	0	0	11	0	6	0	3	1	3	1	6	0	0	1	9	0	1	1	10	1	1	0
+1	COX1	YP_009678972.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	33	5	37	1	5	0	24	1	11	5	1	0	15	0	6	1	12	0	6	3	16	1	9	5	9	1	1	0	7	0	45	5	32	3	4	6	25	1	15	4	5	2	3	0	10	0	7	2	22	0	9	3	22	1	13	3	9	0	12	0	34	1	0	0
+2	COX2	YP_009678973.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	13	5	19	0	1	2	10	0	5	2	1	1	6	0	2	0	5	0	4	3	7	0	2	2	4	0	1	0	5	0	13	6	10	1	3	3	12	0	12	3	9	1	0	0	5	0	2	0	8	1	1	1	8	1	5	3	9	0	1	0	5	4	1	0
+3	ATP8	YP_009678974.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	2	4	7	0	1	1	2	0	1	0	0	0	3	0	0	0	1	0	2	0	0	0	0	0	3	0	0	0	0	0	8	1	3	0	0	0	1	0	1	3	7	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009678975.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	18	2	23	1	1	0	12	1	4	1	0	0	5	0	1	0	8	0	4	0	6	0	4	2	3	0	0	0	3	0	17	8	18	2	6	3	14	0	13	4	3	0	0	0	7	0	0	2	3	0	1	0	9	0	0	1	4	0	2	1	8	0	1	0
+5	COX3	YP_009678976.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	20	6	19	1	2	0	8	0	6	3	1	0	14	0	5	0	5	1	4	0	7	0	9	5	7	1	1	0	3	0	18	1	15	1	3	2	16	0	7	1	1	0	2	0	5	0	7	0	8	0	5	1	12	0	4	0	7	0	2	0	17	0	1	0
+6	ND3	YP_009678977.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	6	4	9	0	1	0	5	0	0	1	1	0	3	0	1	0	4	0	0	0	6	0	1	0	2	0	0	0	3	0	10	7	10	0	1	0	6	0	2	1	4	1	0	0	3	0	0	0	6	0	0	1	6	0	2	1	5	0	0	1	2	1	0	1
+7	ND6	YP_009678981.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	10	2	14	0	3	0	5	0	5	1	0	0	1	0	3	0	3	0	2	0	2	0	0	1	3	0	1	0	0	0	26	2	27	2	4	1	9	0	13	1	10	0	1	0	1	0	1	0	4	0	0	0	3	0	2	0	5	0	1	0	4	0	1	0
+8	CYTB	YP_009678982.1	Ceracris fasciata fasciata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Gomphocerinae, Ceracris	22	11	36	0	3	0	9	0	14	2	4	1	11	1	1	1	4	1	10	1	12	0	11	1	7	1	0	0	6	2	34	9	19	3	0	4	17	0	19	5	8	1	1	0	4	0	12	1	12	0	5	0	16	0	6	2	5	0	5	0	18	0	1	0

@@ -1,65 +1,13 @@
-	YP_009776010.1|ND1	YP_009776011.1|ND2	YP_009776012.1|COX1	YP_009776013.1|COX2	YP_009776014.1|ATP8	YP_009776015.1|ATP6	YP_009776016.1|COX3	YP_009776017.1|ND3	YP_009776018.1|ND4L	YP_009776019.1|ND4	YP_009776020.1|ND5	YP_009776022.1|CYTB
-TTT	9	10	26	6	4	9	9	4	4	10	19	15
-TTC	9	5	17	3	0	7	14	3	2	7	19	10
-TTA	9	8	10	7	1	7	1	2	6	17	13	3
-TTG	0	4	6	3	0	1	1	2	2	1	2	1
-TCT	4	7	4	2	2	0	2	1	0	9	8	6
-TCC	6	13	6	7	1	2	5	3	4	12	15	9
-TCA	7	4	11	4	0	3	4	2	1	3	7	5
-TCG	2	1	2	0	0	0	0	1	0	2	1	0
-TAT	6	1	9	6	0	2	2	0	0	7	4	7
-TAC	6	4	8	3	0	2	10	2	1	10	6	11
-TGT	0	0	0	0	0	0	0	0	1	1	2	4
-TGC	0	0	1	2	0	0	2	1	2	4	5	5
-TGA	5	8	13	5	4	4	11	4	1	17	9	4
-TGG	3	3	4	0	1	1	1	1	0	1	5	5
-CTT	17	33	11	6	1	14	13	7	8	27	20	14
-CTC	17	16	20	4	2	12	4	8	4	30	34	9
-CTA	13	16	7	5	2	14	10	11	2	20	32	13
-CTG	5	5	6	3	0	1	2	1	3	8	6	9
-CCT	5	4	6	4	5	2	4	0	0	7	6	8
-CCC	13	14	14	6	1	11	6	6	1	13	13	12
-CCA	5	3	5	3	3	3	2	1	1	7	8	6
-CCG	1	0	3	1	0	2	0	1	0	1	4	2
-CAT	0	0	3	6	0	0	4	0	1	4	2	7
-CAC	2	7	17	4	2	3	13	0	4	6	15	8
-CAA	7	9	4	7	1	8	7	3	3	6	16	3
-CAG	0	3	4	1	1	1	2	0	0	4	1	1
-CGT	1	0	1	0	0	0	0	0	0	1	1	5
-CGC	2	2	1	4	0	2	3	2	0	1	2	2
-CGA	5	2	6	2	0	4	2	0	2	9	4	4
-CGG	0	0	0	0	0	0	0	0	0	0	2	2
-ATT	16	14	23	12	0	13	11	5	1	22	26	15
-ATC	10	9	18	10	1	6	4	2	2	12	27	13
-ATA	8	10	7	7	0	4	4	0	3	13	16	7
-ATG	2	4	16	4	1	7	4	2	1	6	8	3
-ACT	6	9	7	2	2	6	4	2	4	8	9	8
-ACC	13	23	13	5	1	9	9	7	4	17	24	9
-ACA	2	8	13	3	1	6	8	2	3	12	20	9
-ACG	1	0	3	1	0	0	4	0	0	2	5	2
-AAT	5	4	6	4	2	3	0	1	1	5	3	6
-AAC	6	9	8	1	2	6	1	0	1	9	28	15
-AAA	6	9	5	4	2	1	0	0	0	8	16	5
-AAG	1	0	4	0	1	0	0	1	0	3	2	3
-AGT	0	2	1	0	1	1	1	0	1	1	4	3
-AGC	5	4	4	3	0	2	3	1	1	5	9	1
-GTT	5	3	9	4	2	4	5	2	1	4	8	7
-GTC	8	4	11	5	0	6	6	0	0	6	9	8
-GTA	4	1	17	6	0	2	5	1	0	3	6	8
-GTG	1	1	5	2	2	1	2	0	0	0	2	1
-GCT	5	5	12	5	2	3	4	1	2	8	9	6
-GCC	16	15	20	6	1	10	10	5	10	17	29	16
-GCA	12	10	15	3	0	5	6	2	1	11	15	6
-GCG	0	1	3	2	0	0	0	0	0	0	1	2
-GAT	2	0	7	3	1	1	0	1	1	0	4	1
-GAC	2	1	7	10	0	0	6	3	0	3	8	9
-GAA	7	4	5	14	2	4	9	6	2	6	9	2
-GAG	4	1	5	1	0	0	0	0	1	7	4	3
-GGT	5	1	7	0	0	4	4	0	0	4	7	0
-GGC	5	8	17	4	0	5	9	1	5	15	12	13
-GGA	6	5	14	4	0	2	7	2	0	5	10	6
-GGG	2	1	9	1	0	1	1	3	0	3	1	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009776010.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	9	9	9	0	4	6	7	2	6	6	0	0	5	3	17	17	13	5	5	13	5	1	0	2	7	0	1	2	5	0	16	10	8	2	6	13	2	1	5	6	6	1	0	5	5	8	4	1	5	16	12	0	2	2	7	4	5	5	6	2	1	0	0	0
+1	ND2	YP_009776011.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	10	5	8	4	7	13	4	1	1	4	0	0	8	3	33	16	16	5	4	14	3	0	0	7	9	3	0	2	2	0	14	9	10	4	9	23	8	0	4	9	9	0	2	4	3	4	1	1	5	15	10	1	0	1	4	1	1	8	5	1	0	0	0	0
+2	COX1	YP_009776012.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	26	17	10	6	4	6	11	2	9	8	0	1	13	4	11	20	7	6	6	14	5	3	3	17	4	4	1	1	6	0	23	18	7	16	7	13	13	3	6	8	5	4	1	4	9	11	17	5	12	20	15	3	7	7	5	5	7	17	14	9	1	0	0	0
+3	COX2	YP_009776013.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	6	3	7	3	2	7	4	0	6	3	0	2	5	0	6	4	5	3	4	6	3	1	6	4	7	1	0	4	2	0	12	10	7	4	2	5	3	1	4	1	4	0	0	3	4	5	6	2	5	6	3	2	3	10	14	1	0	4	4	1	0	0	0	0
+4	ATP8	YP_009776014.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	4	0	1	0	2	1	0	0	0	0	0	0	4	1	1	2	2	0	5	1	3	0	0	2	1	1	0	0	0	0	0	1	0	1	2	1	1	0	2	2	2	1	1	0	2	0	0	2	2	1	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009776015.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	9	7	7	1	0	2	3	0	2	2	0	0	4	1	14	12	14	1	2	11	3	2	0	3	8	1	0	2	4	0	13	6	4	7	6	9	6	0	3	6	1	0	1	2	4	6	2	1	3	10	5	0	1	0	4	0	4	5	2	1	1	0	0	0
+6	COX3	YP_009776016.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	9	14	1	1	2	5	4	0	2	10	0	2	11	1	13	4	10	2	4	6	2	0	4	13	7	2	0	3	2	0	11	4	4	4	4	9	8	4	0	1	0	0	1	3	5	6	5	2	4	10	6	0	0	6	9	0	4	9	7	1	0	0	0	0
+7	ND3	YP_009776017.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	4	3	2	2	1	3	2	1	0	2	0	1	4	1	7	8	11	1	0	6	1	1	0	0	3	0	0	2	0	0	5	2	0	2	2	7	2	0	1	0	0	1	0	1	2	0	1	0	1	5	2	0	1	3	6	0	0	1	2	3	0	0	0	0
+8	ND4L	YP_009776018.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	4	2	6	2	0	4	1	0	0	1	1	2	1	0	8	4	2	3	0	1	1	0	1	4	3	0	0	0	2	0	1	2	3	1	4	4	3	0	1	1	0	0	1	1	1	0	0	0	2	10	1	0	1	0	2	1	0	5	0	0	1	0	0	0
+9	ND4	YP_009776019.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	10	7	17	1	9	12	3	2	7	10	1	4	17	1	27	30	20	8	7	13	7	1	4	6	6	4	1	1	9	0	22	12	13	6	8	17	12	2	5	9	8	3	1	5	4	6	3	0	8	17	11	0	0	3	6	7	4	15	5	3	0	0	0	0
+10	ND5	YP_009776020.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	19	19	13	2	8	15	7	1	4	6	2	5	9	5	20	34	32	6	6	13	8	4	2	15	16	1	1	2	4	2	26	27	16	8	9	24	20	5	3	28	16	2	4	9	8	9	6	2	9	29	15	1	4	8	9	4	7	12	10	1	1	0	0	0
+11	CYTB	YP_009776022.1	Harpadon nehereus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Harpadon	15	10	3	1	6	9	5	0	7	11	4	5	4	5	14	9	13	9	8	12	6	2	7	8	3	1	5	2	4	2	15	13	7	3	8	9	9	2	6	15	5	3	3	1	7	8	8	1	6	16	6	2	1	9	2	3	0	13	6	3	0	0	0	0

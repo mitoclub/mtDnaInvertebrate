@@ -1,65 +1,8 @@
-	YP_009489699.1|COX1	YP_009489700.1|COX2	YP_009489701.1|ATP8	YP_009489702.1|ATP6	YP_009489709.1|COX3	YP_009489710.1|ND3	YP_009489711.1|ND2
-TTT	26	9	1	11	12	12	24
-TTC	17	3	2	10	14	9	18
-TTA	12	2	0	6	7	5	15
-TTG	1	1	0	3	0	1	2
-TCT	12	2	2	7	3	2	8
-TCC	9	6	1	10	0	3	8
-TCA	4	4	0	1	5	1	7
-TCG	0	2	0	0	1	1	0
-TAT	6	6	1	1	2	1	5
-TAC	9	2	0	8	5	2	6
-TGT	0	2	0	3	3	1	2
-TGC	2	2	0	3	1	0	1
-TGA	11	6	3	5	10	2	5
-TGG	5	0	2	1	3	0	4
-CTT	16	7	3	9	11	2	10
-CTC	9	8	0	8	7	3	8
-CTA	27	12	4	12	12	6	17
-CTG	0	2	0	4	3	1	1
-CCT	10	2	0	2	1	0	5
-CCC	5	4	1	2	3	3	5
-CCA	10	3	1	2	4	1	2
-CCG	1	0	0	1	1	0	1
-CAT	7	4	0	1	4	0	1
-CAC	13	1	0	2	7	1	1
-CAA	5	6	1	6	4	1	6
-CAG	2	1	0	0	1	0	2
-CGT	4	1	0	0	0	1	1
-CGC	2	2	0	1	1	1	1
-CGA	5	4	0	1	3	1	0
-CGG	1	0	0	1	1	0	0
-ATT	23	7	1	12	4	9	12
-ATC	21	8	3	9	9	4	17
-ATA	32	6	3	9	7	4	20
-ATG	5	3	1	3	2	1	6
-ACT	5	3	1	3	6	0	5
-ACC	8	1	0	6	3	1	5
-ACA	14	5	3	2	9	4	3
-ACG	2	0	0	1	1	0	1
-AAT	9	8	1	3	3	1	5
-AAC	7	6	2	5	1	4	5
-AAA	9	5	7	5	1	5	13
-AAG	0	1	1	0	1	0	1
-AGT	1	1	0	1	0	0	2
-AGC	7	0	0	3	3	0	5
-AGA	6	3	2	6	7	1	7
-AGG	2	1	0	0	0	1	1
-GTT	7	4	0	3	5	4	2
-GTC	8	3	1	3	2	1	2
-GTA	12	13	2	4	11	2	6
-GTG	1	1	0	0	0	0	1
-GCT	4	4	0	1	8	1	3
-GCC	15	5	0	5	5	1	4
-GCA	11	1	0	2	6	0	1
-GCG	1	0	0	0	1	0	0
-GAT	6	4	0	1	4	1	3
-GAC	9	3	0	3	0	2	1
-GAA	7	15	1	2	6	4	2
-GAG	2	2	0	2	2	1	2
-GGT	4	1	0	2	2	1	0
-GGC	6	1	0	3	8	1	7
-GGA	24	4	0	8	6	1	5
-GGG	13	3	0	1	6	0	10
-TAA	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009489699.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	26	17	12	1	12	9	4	0	6	9	0	2	11	5	16	9	27	0	10	5	10	1	7	13	5	2	4	2	5	1	23	21	32	5	5	8	14	2	9	7	9	0	1	7	6	2	7	8	12	1	4	15	11	1	6	9	7	2	4	6	24	13	1	0
+1	COX2	YP_009489700.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	9	3	2	1	2	6	4	2	6	2	2	2	6	0	7	8	12	2	2	4	3	0	4	1	6	1	1	2	4	0	7	8	6	3	3	1	5	0	8	6	5	1	1	0	3	1	4	3	13	1	4	5	1	0	4	3	15	2	1	1	4	3	1	0
+2	ATP8	YP_009489701.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	1	2	0	0	2	1	0	0	1	0	0	0	3	2	3	0	4	0	0	1	1	0	0	0	1	0	0	0	0	0	1	3	3	1	1	0	3	0	1	2	7	1	0	0	2	0	0	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+3	ATP6	YP_009489702.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	11	10	6	3	7	10	1	0	1	8	3	3	5	1	9	8	12	4	2	2	2	1	1	2	6	0	0	1	1	1	12	9	9	3	3	6	2	1	3	5	5	0	1	3	6	0	3	3	4	0	1	5	2	0	1	3	2	2	2	3	8	1	1	0
+4	COX3	YP_009489709.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	12	14	7	0	3	0	5	1	2	5	3	1	10	3	11	7	12	3	1	3	4	1	4	7	4	1	0	1	3	1	4	9	7	2	6	3	9	1	3	1	1	1	0	3	7	0	5	2	11	0	8	5	6	1	4	0	6	2	2	8	6	6	1	0
+5	ND3	YP_009489710.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	12	9	5	1	2	3	1	1	1	2	1	0	2	0	2	3	6	1	0	3	1	0	0	1	1	0	1	1	1	0	9	4	4	1	0	1	4	0	1	4	5	0	0	0	1	1	4	1	2	0	1	1	0	0	1	2	4	1	1	1	1	0	1	0
+6	ND2	YP_009489711.1	Falcidens halanychi	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Aplacophora, Caudofoveata, Chaetodermatida, Chaetodermatidae, Falcidens	24	18	15	2	8	8	7	0	5	6	2	1	5	4	10	8	17	1	5	5	2	1	1	1	6	2	1	1	0	0	12	17	20	6	5	5	3	1	5	5	13	1	2	5	7	1	2	2	6	1	3	4	1	0	3	1	2	2	0	7	5	10	0	0

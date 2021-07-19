@@ -1,65 +1,13 @@
-	YP_009342021.1|ND1	YP_009342022.1|ND2	YP_009342023.1|COX1	YP_009342024.1|COX2	YP_009342025.1|ATP8	YP_009342026.1|ATP6	YP_009342027.1|COX3	YP_009342028.1|ND3	YP_009342029.1|ND4L	YP_009342030.1|ND4	YP_009342031.1|ND5	YP_009342032.1|CYTB
-TTT	6	5	10	1	1	2	6	5	1	6	6	6
-TTC	10	8	32	8	0	9	17	4	3	13	28	24
-TTA	3	3	9	3	0	5	5	0	4	9	15	13
-TTG	1	1	1	0	0	0	0	1	0	1	0	1
-TCT	6	2	4	4	1	1	1	1	1	5	5	2
-TCC	8	11	8	3	0	6	8	3	6	8	21	8
-TCA	8	12	12	10	6	6	5	4	3	12	15	12
-TCG	1	2	0	1	0	0	0	0	0	0	0	0
-TAT	1	3	3	3	0	2	0	0	0	3	3	2
-TAC	14	7	14	4	1	2	8	2	2	9	12	12
-TGT	0	0	0	2	0	0	0	1	1	0	1	2
-TGC	2	1	1	1	0	1	1	0	2	4	4	2
-TGA	7	9	14	4	5	3	12	4	1	12	11	10
-TGG	2	1	3	1	0	1	0	1	0	0	1	1
-CTT	4	9	8	6	3	9	4	6	1	14	14	8
-CTC	16	14	19	11	1	11	12	8	1	27	27	19
-CTA	30	31	25	10	2	27	14	11	15	44	46	22
-CTG	8	4	2	2	1	3	0	1	1	3	5	1
-CCT	5	2	5	0	1	2	2	0	0	6	2	3
-CCC	9	11	8	1	5	6	4	4	2	10	17	10
-CCA	11	8	18	11	6	8	6	3	0	15	11	11
-CCG	0	1	0	1	0	0	0	0	0	0	0	1
-CAT	0	1	5	1	0	1	1	0	1	5	2	5
-CAC	2	7	14	8	0	3	16	0	5	12	11	7
-CAA	7	10	7	7	2	7	9	4	2	13	16	7
-CAG	0	0	2	0	0	1	1	0	0	1	1	1
-CGT	1	0	2	1	0	1	1	0	0	0	0	0
-CGC	3	1	0	1	0	1	1	0	0	2	3	2
-CGA	4	2	6	3	0	2	2	2	2	9	5	6
-CGG	0	0	0	0	0	1	0	0	0	0	0	0
-ATT	7	10	13	6	1	6	8	3	1	13	13	4
-ATC	17	22	26	13	5	14	7	6	1	22	37	24
-ATA	14	16	19	8	1	8	8	4	6	21	24	8
-ATG	3	2	5	2	1	1	1	0	1	3	7	2
-ACT	3	9	8	2	3	6	2	1	0	8	12	6
-ACC	10	10	12	5	1	9	6	6	2	22	29	9
-ACA	6	23	19	7	2	8	12	2	5	19	32	16
-ACG	0	0	1	0	0	0	0	0	0	0	0	0
-AAT	1	3	5	0	2	3	2	0	1	4	3	5
-AAC	11	10	10	5	1	6	3	1	2	11	25	16
-AAA	7	11	9	4	2	3	3	1	0	9	23	10
-AAG	0	2	0	0	0	1	0	0	0	0	0	0
-AGT	0	0	0	0	0	0	0	0	0	1	2	0
-AGC	4	5	4	3	0	4	3	0	3	8	11	3
-GTT	1	1	4	2	0	0	2	0	0	1	1	0
-GTC	1	1	9	4	0	3	8	2	2	5	3	9
-GTA	9	3	22	9	0	4	4	1	0	3	7	8
-GTG	3	1	2	0	0	0	0	0	0	0	0	0
-GCT	4	6	9	2	0	2	8	1	1	6	6	4
-GCC	17	14	21	7	0	7	6	4	7	18	25	13
-GCA	10	13	14	5	0	7	8	3	4	8	11	6
-GCG	0	1	0	0	0	1	0	0	0	1	1	0
-GAT	1	0	2	3	0	0	0	0	0	0	2	1
-GAC	3	1	13	9	0	1	5	3	1	3	7	6
-GAA	7	5	10	14	1	4	7	6	3	10	10	5
-GAG	4	0	0	1	0	0	0	0	0	0	1	2
-GGT	2	1	6	0	0	2	2	0	0	3	1	0
-GGC	6	2	14	5	0	2	8	0	2	9	10	10
-GGA	3	6	24	3	0	4	10	5	2	3	17	12
-GGG	2	2	3	0	0	0	2	0	0	2	2	3
-TAA	0	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	1	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009342021.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	6	10	3	1	6	8	8	1	1	14	0	2	7	2	4	16	30	8	5	9	11	0	0	2	7	0	1	3	4	0	7	17	14	3	3	10	6	0	1	11	7	0	0	4	1	1	9	3	4	17	10	0	1	3	7	4	2	6	3	2	0	0	0	1
+1	ND2	YP_009342022.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	5	8	3	1	2	11	12	2	3	7	0	1	9	1	9	14	31	4	2	11	8	1	1	7	10	0	0	1	2	0	10	22	16	2	9	10	23	0	3	10	11	2	0	5	1	1	3	1	6	14	13	1	0	1	5	0	1	2	6	2	0	0	0	0
+2	COX1	YP_009342023.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	10	32	9	1	4	8	12	0	3	14	0	1	14	3	8	19	25	2	5	8	18	0	5	14	7	2	2	0	6	0	13	26	19	5	8	12	19	1	5	10	9	0	0	4	4	9	22	2	9	21	14	0	2	13	10	0	6	14	24	3	0	0	0	1
+3	COX2	YP_009342024.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	1	8	3	0	4	3	10	1	3	4	2	1	4	1	6	11	10	2	0	1	11	1	1	8	7	0	1	1	3	0	6	13	8	2	2	5	7	0	0	5	4	0	0	3	2	4	9	0	2	7	5	0	3	9	14	1	0	5	3	0	1	0	0	0
+4	ATP8	YP_009342025.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	1	0	0	0	1	0	6	0	0	1	0	0	5	0	3	1	2	1	1	5	6	0	0	0	2	0	0	0	0	0	1	5	1	1	3	1	2	0	2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009342026.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	2	9	5	0	1	6	6	0	2	2	0	1	3	1	9	11	27	3	2	6	8	0	1	3	7	1	1	1	2	1	6	14	8	1	6	9	8	0	3	6	3	1	0	4	0	3	4	0	2	7	7	1	0	1	4	0	2	2	4	0	1	0	0	0
+6	COX3	YP_009342027.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	6	17	5	0	1	8	5	0	0	8	0	1	12	0	4	12	14	0	2	4	6	0	1	16	9	1	1	1	2	0	8	7	8	1	2	6	12	0	2	3	3	0	0	3	2	8	4	0	8	6	8	0	0	5	7	0	2	8	10	2	0	0	0	0
+7	ND3	YP_009342028.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	5	4	0	1	1	3	4	0	0	2	1	0	4	1	6	8	11	1	0	4	3	0	0	0	4	0	0	0	2	0	3	6	4	0	1	6	2	0	0	1	1	0	0	0	0	2	1	0	1	4	3	0	0	3	6	0	0	0	5	0	0	1	0	0
+8	ND4L	YP_009342029.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	1	3	4	0	1	6	3	0	0	2	1	2	1	0	1	1	15	1	0	2	0	0	1	5	2	0	0	0	2	0	1	1	6	1	0	2	5	0	1	2	0	0	0	3	0	2	0	0	1	7	4	0	0	1	3	0	0	2	2	0	1	0	0	0
+9	ND4	YP_009342030.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	6	13	9	1	5	8	12	0	3	9	0	4	12	0	14	27	44	3	6	10	15	0	5	12	13	1	0	2	9	0	13	22	21	3	8	22	19	0	4	11	9	0	1	8	1	5	3	0	6	18	8	1	0	3	10	0	3	9	3	2	0	0	1	0
+10	ND5	YP_009342031.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	6	28	15	0	5	21	15	0	3	12	1	4	11	1	14	27	46	5	2	17	11	0	2	11	16	1	0	3	5	0	13	37	24	7	12	29	32	0	3	25	23	0	2	11	1	3	7	0	6	25	11	1	2	7	10	1	1	10	17	2	1	0	0	0
+11	CYTB	YP_009342032.1	Glaucis hirsutus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Trochiliformes, Trochilidae, Glaucis	6	24	13	1	2	8	12	0	2	12	2	2	10	1	8	19	22	1	3	10	11	1	5	7	7	1	0	2	6	0	4	24	8	2	6	9	16	0	5	16	10	0	0	3	0	9	8	0	4	13	6	0	1	6	5	2	0	10	12	3	1	0	0	0

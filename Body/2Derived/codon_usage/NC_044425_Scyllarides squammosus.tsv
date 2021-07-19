@@ -1,65 +1,10 @@
-	YP_009685491.1|COX1	YP_009685492.1|COX2	YP_009685493.1|ATP8	YP_009685494.1|ATP6	YP_009685495.1|COX3	YP_009685496.1|ND3	YP_009685500.1|ND6	YP_009685501.1|CYTB	YP_009685503.1|ND2
-TTT	27	12	4	16	19	10	16	26	25
-TTC	17	4	1	1	9	9	9	10	11
-TTA	16	7	4	15	11	4	15	20	21
-TTG	5	2	1	1	6	3	1	1	3
-TCT	14	3	0	8	7	6	5	10	15
-TCC	5	6	0	4	1	1	5	1	12
-TCA	11	2	2	6	4	6	7	7	8
-TCG	1	4	0	3	1	0	3	4	3
-TAT	8	4	2	1	3	1	3	10	5
-TAC	8	3	0	2	5	2	1	5	5
-TGT	0	1	1	1	3	1	0	1	0
-TGC	0	1	0	0	1	1	0	2	1
-TGA	12	6	3	5	9	0	3	9	4
-TGG	3	0	0	1	4	2	0	2	3
-CTT	17	10	3	10	14	8	10	17	20
-CTC	9	2	1	7	2	2	2	5	7
-CTA	4	5	0	7	1	0	4	14	11
-CTG	4	2	1	2	0	1	1	0	1
-CCT	18	5	1	6	1	3	5	14	2
-CCC	1	3	1	2	6	0	0	4	9
-CCA	6	2	0	2	2	1	1	4	2
-CCG	1	1	0	1	0	0	0	1	4
-CAT	7	3	0	3	10	0	0	8	3
-CAC	11	2	1	3	4	0	1	5	5
-CAA	5	7	3	4	4	0	3	7	7
-CAG	2	1	0	1	3	0	2	1	2
-CGT	3	2	0	0	2	1	0	1	1
-CGC	3	0	0	3	0	0	0	0	0
-CGA	3	3	0	0	2	1	0	6	2
-CGG	1	2	0	1	0	1	1	1	0
-ATT	31	16	2	18	14	9	13	27	21
-ATC	14	4	3	4	6	4	3	8	9
-ATA	23	7	2	8	3	1	2	8	13
-ATG	7	1	2	3	4	0	1	3	5
-ACT	14	4	1	4	7	3	7	11	4
-ACC	9	3	1	7	3	0	0	5	3
-ACA	10	6	0	5	7	2	6	6	7
-ACG	1	2	0	1	2	0	0	0	1
-AAT	10	3	2	5	5	0	3	9	4
-AAC	5	6	0	5	2	1	1	7	8
-AAA	5	2	2	2	1	3	2	4	6
-AAG	1	0	1	1	1	0	1	2	3
-AGT	4	2	1	1	2	1	0	1	1
-AGC	0	0	1	1	1	0	1	0	1
-AGA	3	4	0	5	5	0	0	3	1
-AGG	3	1	0	2	0	0	1	0	1
-GTT	18	6	0	4	10	7	7	9	5
-GTC	6	3	0	0	1	0	2	6	5
-GTA	12	5	1	4	5	1	4	8	1
-GTG	2	2	0	1	0	1	0	3	0
-GCT	13	10	1	7	8	3	2	13	10
-GCC	13	4	0	4	5	0	4	5	8
-GCA	11	4	1	4	6	1	3	6	4
-GCG	1	0	0	0	0	1	2	1	2
-GAT	10	9	0	0	2	1	1	6	0
-GAC	6	2	0	0	1	4	1	5	3
-GAA	8	8	1	4	6	5	1	1	5
-GAG	0	2	1	1	2	0	0	1	0
-GGT	13	2	0	1	5	0	1	3	3
-GGC	5	1	0	0	4	2	0	1	1
-GGA	19	4	0	4	8	2	1	14	7
-GGG	11	1	0	4	3	1	3	6	1
-TAA	0	0	0	1	1	0	1	0	0
-TAG	0	0	1	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009685491.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	27	17	16	5	14	5	11	1	8	8	0	0	12	3	17	9	4	4	18	1	6	1	7	11	5	2	3	3	3	1	31	14	23	7	14	9	10	1	10	5	5	1	4	0	3	3	18	6	12	2	13	13	11	1	10	6	8	0	13	5	19	11	0	0
+1	COX2	YP_009685492.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	12	4	7	2	3	6	2	4	4	3	1	1	6	0	10	2	5	2	5	3	2	1	3	2	7	1	2	0	3	2	16	4	7	1	4	3	6	2	3	6	2	0	2	0	4	1	6	3	5	2	10	4	4	0	9	2	8	2	2	1	4	1	0	0
+2	ATP8	YP_009685493.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	4	1	4	1	0	0	2	0	2	0	1	0	3	0	3	1	0	1	1	1	0	0	0	1	3	0	0	0	0	0	2	3	2	2	1	1	0	0	2	0	2	1	1	1	0	0	0	0	1	0	1	0	1	0	0	0	1	1	0	0	0	0	0	1
+3	ATP6	YP_009685494.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	16	1	15	1	8	4	6	3	1	2	1	0	5	1	10	7	7	2	6	2	2	1	3	3	4	1	0	3	0	1	18	4	8	3	4	7	5	1	5	5	2	1	1	1	5	2	4	0	4	1	7	4	4	0	0	0	4	1	1	0	4	4	1	0
+4	COX3	YP_009685495.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	19	9	11	6	7	1	4	1	3	5	3	1	9	4	14	2	1	0	1	6	2	0	10	4	4	3	2	0	2	0	14	6	3	4	7	3	7	2	5	2	1	1	2	1	5	0	10	1	5	0	8	5	6	0	2	1	6	2	5	4	8	3	1	0
+5	ND3	YP_009685496.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	10	9	4	3	6	1	6	0	1	2	1	1	0	2	8	2	0	1	3	0	1	0	0	0	0	0	1	0	1	1	9	4	1	0	3	0	2	0	0	1	3	0	1	0	0	0	7	0	1	1	3	0	1	1	1	4	5	0	0	2	2	1	0	0
+6	ND6	YP_009685500.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	16	9	15	1	5	5	7	3	3	1	0	0	3	0	10	2	4	1	5	0	1	0	0	1	3	2	0	0	0	1	13	3	2	1	7	0	6	0	3	1	2	1	0	1	0	1	7	2	4	0	2	4	3	2	1	1	1	0	1	0	1	3	1	0
+7	CYTB	YP_009685501.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	26	10	20	1	10	1	7	4	10	5	1	2	9	2	17	5	14	0	14	4	4	1	8	5	7	1	1	0	6	1	27	8	8	3	11	5	6	0	9	7	4	2	1	0	3	0	9	6	8	3	13	5	6	1	6	5	1	1	3	1	14	6	0	0
+8	ND2	YP_009685503.1	Scyllarides squammosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Scyllaridae, Scyllarides	25	11	21	3	15	12	8	3	5	5	0	1	4	3	20	7	11	1	2	9	2	4	3	5	7	2	1	0	2	0	21	9	13	5	4	3	7	1	4	8	6	3	1	1	1	1	5	5	1	0	10	8	4	2	0	3	5	0	3	1	7	1	0	0

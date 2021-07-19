@@ -1,65 +1,13 @@
-	YP_002333050.1|ND1	YP_002333051.1|ND2	YP_002333052.1|COX1	YP_002333053.1|COX2	YP_002333054.1|ATP8	YP_002333055.1|ATP6	YP_002333056.1|COX3	YP_002333057.1|ND3	YP_002333058.1|ND4L	YP_002333059.1|ND4	YP_002333060.1|ND5	YP_002333062.1|CYTB
-TTT	7	4	14	4	0	5	5	1	2	2	11	8
-TTC	11	5	28	5	5	9	20	6	6	13	23	20
-TTA	9	10	4	2	1	7	4	7	5	16	20	6
-TTG	3	1	2	0	0	0	0	0	0	0	0	0
-TCT	3	1	7	4	1	0	1	0	1	7	11	6
-TCC	11	11	9	5	3	1	3	3	2	7	19	9
-TCA	4	5	8	5	1	2	7	4	6	10	12	8
-TCG	0	0	2	0	0	0	0	0	0	0	0	1
-TAT	5	4	2	5	0	2	2	1	0	3	1	2
-TAC	6	3	16	4	0	1	8	2	1	10	10	13
-TGT	0	0	0	0	1	0	0	0	1	1	1	0
-TGC	0	0	1	2	1	0	2	1	2	3	7	3
-TGA	8	11	16	5	5	3	12	4	1	16	13	12
-TGG	0	0	1	0	0	1	0	1	0	2	0	0
-CTT	9	14	16	7	0	10	8	6	6	21	22	12
-CTC	9	13	14	5	3	14	4	11	5	22	17	14
-CTA	22	28	20	15	1	18	16	5	8	35	30	21
-CTG	6	5	4	0	0	4	3	2	1	5	6	5
-CCT	5	2	6	2	3	4	5	1	0	4	8	5
-CCC	12	8	12	8	4	6	6	6	0	17	9	7
-CCA	7	9	10	4	2	6	3	2	1	7	14	9
-CCG	0	1	0	0	0	0	0	0	0	0	1	0
-CAT	2	0	4	5	0	1	4	0	0	2	2	5
-CAC	3	6	15	5	2	2	11	0	3	10	14	7
-CAA	5	17	8	8	2	8	7	1	4	10	17	6
-CAG	2	0	1	0	0	1	1	2	0	0	1	0
-CGT	0	1	0	1	0	2	0	1	1	2	2	0
-CGC	0	1	1	1	0	0	0	0	0	3	1	3
-CGA	8	2	7	4	0	4	6	1	1	6	6	5
-CGG	0	0	1	0	0	0	0	0	0	0	0	0
-ATT	17	19	21	12	2	9	8	4	0	17	31	14
-ATC	14	10	18	9	2	7	7	3	1	19	33	16
-ATA	11	12	12	5	1	8	5	3	4	22	23	9
-ATG	5	5	15	6	2	1	1	1	1	4	3	3
-ACT	3	5	6	3	1	4	2	0	0	13	8	3
-ACC	6	22	14	1	0	8	10	4	4	10	34	8
-ACA	13	22	15	5	0	11	9	6	2	14	17	8
-ACG	3	0	1	0	0	0	0	0	0	0	1	1
-AAT	2	3	5	0	1	3	2	1	0	3	10	4
-AAC	9	8	9	5	2	9	1	0	2	9	19	15
-AAA	6	10	6	3	3	1	2	1	0	10	19	9
-AAG	1	0	2	1	0	0	0	0	0	0	2	0
-AGT	0	1	4	0	0	0	0	0	1	3	1	1
-AGC	3	2	1	4	0	5	3	0	2	7	8	3
-GTT	5	0	9	4	0	3	3	0	0	3	8	2
-GTC	4	4	9	7	1	5	9	2	3	3	8	6
-GTA	4	4	19	6	1	4	6	0	1	4	9	17
-GTG	0	0	5	1	0	2	0	0	0	2	1	0
-GCT	4	7	5	5	1	4	2	0	2	5	13	4
-GCC	16	16	23	9	0	12	9	7	4	20	22	19
-GCA	10	10	17	3	1	6	9	1	6	12	13	8
-GCG	0	0	1	0	0	0	0	0	0	1	0	1
-GAT	2	0	2	7	0	0	3	2	1	1	4	0
-GAC	2	2	12	7	0	1	1	2	0	3	7	10
-GAA	9	6	12	12	1	4	8	5	2	10	11	5
-GAG	2	0	0	1	1	0	2	0	0	3	1	0
-GGT	2	3	8	2	0	1	2	0	1	4	3	5
-GGC	5	6	14	4	0	2	13	3	1	9	12	9
-GGA	6	7	18	1	0	4	5	2	3	12	12	11
-GGG	3	2	7	1	0	2	1	1	0	3	1	0
-TAA	1	0	0	0	1	0	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002333050.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	7	11	9	3	3	11	4	0	5	6	0	0	8	0	9	9	22	6	5	12	7	0	2	3	5	2	0	0	8	0	17	14	11	5	3	6	13	3	2	9	6	1	0	3	5	4	4	0	4	16	10	0	2	2	9	2	2	5	6	3	1	0	0	0
+1	ND2	YP_002333051.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	4	5	10	1	1	11	5	0	4	3	0	0	11	0	14	13	28	5	2	8	9	1	0	6	17	0	1	1	2	0	19	10	12	5	5	22	22	0	3	8	10	0	1	2	0	4	4	0	7	16	10	0	0	2	6	0	3	6	7	2	0	0	0	0
+2	COX1	YP_002333052.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	14	28	4	2	7	9	8	2	2	16	0	1	16	1	16	14	20	4	6	12	10	0	4	15	8	1	0	1	7	1	21	18	12	15	6	14	15	1	5	9	6	2	4	1	9	9	19	5	5	23	17	1	2	12	12	0	8	14	18	7	0	0	0	1
+3	COX2	YP_002333053.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	4	5	2	0	4	5	5	0	5	4	0	2	5	0	7	5	15	0	2	8	4	0	5	5	8	0	1	1	4	0	12	9	5	6	3	1	5	0	0	5	3	1	0	4	4	7	6	1	5	9	3	0	7	7	12	1	2	4	1	1	0	0	0	0
+4	ATP8	YP_002333054.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	0	5	1	0	1	3	1	0	0	0	1	1	5	0	0	3	1	0	3	4	2	0	0	2	2	0	0	0	0	0	2	2	1	2	1	0	0	0	1	2	3	0	0	0	0	1	1	0	1	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_002333055.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	5	9	7	0	0	1	2	0	2	1	0	0	3	1	10	14	18	4	4	6	6	0	1	2	8	1	2	0	4	0	9	7	8	1	4	8	11	0	3	9	1	0	0	5	3	5	4	2	4	12	6	0	0	1	4	0	1	2	4	2	0	0	0	0
+6	COX3	YP_002333056.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	5	20	4	0	1	3	7	0	2	8	0	2	12	0	8	4	16	3	5	6	3	0	4	11	7	1	0	0	6	0	8	7	5	1	2	10	9	0	2	1	2	0	0	3	3	9	6	0	2	9	9	0	3	1	8	2	2	13	5	1	0	0	0	0
+7	ND3	YP_002333057.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	1	6	7	0	0	3	4	0	1	2	0	1	4	1	6	11	5	2	1	6	2	0	0	0	1	2	1	0	1	0	4	3	3	1	0	4	6	0	1	0	1	0	0	0	0	2	0	0	0	7	1	0	2	2	5	0	0	3	2	1	0	0	0	0
+8	ND4L	YP_002333058.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	2	6	5	0	1	2	6	0	0	1	1	2	1	0	6	5	8	1	0	0	1	0	0	3	4	0	1	0	1	0	0	1	4	1	0	4	2	0	0	2	0	0	1	2	0	3	1	0	2	4	6	0	1	0	2	0	1	1	3	0	1	0	0	0
+9	ND4	YP_002333059.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	2	13	16	0	7	7	10	0	3	10	1	3	16	2	21	22	35	5	4	17	7	0	2	10	10	0	2	3	6	0	17	19	22	4	13	10	14	0	3	9	10	0	3	7	3	3	4	2	5	20	12	1	1	3	10	3	4	9	12	3	0	0	0	0
+10	ND5	YP_002333060.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	11	23	20	0	11	19	12	0	1	10	1	7	13	0	22	17	30	6	8	9	14	1	2	14	17	1	2	1	6	0	31	33	23	3	8	34	17	1	10	19	19	2	1	8	8	8	9	1	13	22	13	0	4	7	11	1	3	12	12	1	1	0	0	0
+11	CYTB	YP_002333062.1	Takifugu poecilonotus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Takifugu	8	20	6	0	6	9	8	1	2	13	0	3	12	0	12	14	21	5	5	7	9	0	5	7	6	0	0	3	5	0	14	16	9	3	3	8	8	1	4	15	9	0	1	3	2	6	17	0	4	19	8	1	0	10	5	0	5	9	11	0	1	0	0	0

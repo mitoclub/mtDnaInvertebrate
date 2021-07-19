@@ -1,65 +1,13 @@
-	YP_009178164.1|ND1	YP_009178165.1|ND2	YP_009178166.1|COX1	YP_009178167.1|COX2	YP_009178168.1|ATP8	YP_009178169.1|ATP6	YP_009178170.1|COX3	YP_009178171.1|ND3	YP_009178172.1|ND4L	YP_009178173.1|ND4	YP_009178174.1|ND5	YP_009178176.1|CYTB
-TTT	8	7	18	5	1	10	12	3	5	9	16	11
-TTC	9	4	24	4	2	2	12	6	3	8	25	17
-TTA	7	11	10	5	2	5	4	2	3	14	16	7
-TTG	9	7	2	1	0	4	2	3	4	11	4	3
-TCT	3	3	7	3	0	3	4	0	0	7	6	8
-TCC	10	9	3	3	0	0	4	3	0	9	10	6
-TCA	3	3	9	8	0	1	4	2	4	5	7	4
-TCG	4	3	7	1	0	0	0	1	2	3	4	3
-TAT	7	3	7	4	1	0	4	1	0	3	11	4
-TAC	6	5	11	5	1	3	7	1	0	10	6	11
-TGT	0	0	0	1	0	0	1	0	1	1	4	1
-TGC	0	1	1	1	0	0	1	1	2	4	3	2
-TGA	4	4	11	3	5	1	12	2	1	10	5	7
-TGG	4	7	6	2	0	4	0	3	0	10	10	5
-CTT	15	13	20	4	3	17	5	3	3	24	18	14
-CTC	16	18	10	5	0	6	8	5	5	9	17	13
-CTA	6	10	15	12	2	9	10	10	5	14	23	15
-CTG	12	9	5	1	0	8	2	3	3	13	16	13
-CCT	10	6	5	3	3	1	4	2	0	6	12	1
-CCC	5	8	9	4	1	5	2	4	1	12	8	4
-CCA	2	5	10	4	1	6	3	0	1	7	7	8
-CCG	7	1	4	2	1	5	3	2	0	3	2	8
-CAT	0	4	5	3	1	1	8	1	3	8	2	2
-CAC	3	3	13	7	0	3	8	0	1	5	11	10
-CAA	3	3	4	6	1	4	5	1	3	5	11	3
-CAG	4	8	4	2	0	3	4	2	0	7	6	4
-CGT	1	0	0	1	0	0	0	0	0	1	2	1
-CGC	1	0	1	2	0	2	3	0	1	2	5	2
-CGA	2	1	4	3	0	2	0	1	2	5	0	2
-CGG	4	4	3	0	0	2	2	1	0	3	4	3
-ATT	15	15	25	8	2	16	11	4	1	28	24	11
-ATC	5	2	12	7	2	4	2	2	1	7	14	13
-ATA	3	4	16	7	0	8	6	1	1	15	12	7
-ATG	6	11	8	5	1	5	2	1	3	13	13	6
-ACT	4	8	7	2	2	5	2	2	0	11	10	4
-ACC	8	13	8	3	0	8	8	6	1	12	15	9
-ACA	2	5	17	1	1	5	10	1	5	12	16	3
-ACG	4	8	3	3	1	2	4	1	3	5	6	4
-AAT	3	1	7	2	2	5	0	1	1	2	10	3
-AAC	8	7	9	2	3	4	1	1	0	6	11	14
-AAA	2	3	6	2	3	0	1	1	0	3	10	5
-AAG	5	6	2	2	0	1	1	0	0	9	11	4
-AGT	2	1	1	0	0	1	0	0	1	1	4	2
-AGC	2	7	3	4	1	4	3	0	4	8	10	1
-GTT	6	6	11	7	1	7	5	2	0	8	18	7
-GTC	5	6	6	6	2	1	0	1	0	6	11	6
-GTA	7	3	17	7	2	7	13	4	2	6	11	9
-GTG	3	6	11	3	0	1	0	1	0	5	8	4
-GCT	6	11	11	3	0	7	6	1	1	6	9	3
-GCC	12	25	21	8	0	6	6	2	8	12	27	15
-GCA	8	11	13	4	1	4	7	5	3	11	15	13
-GCG	8	4	2	2	0	4	2	1	1	5	12	4
-GAT	2	0	5	4	0	1	2	2	0	0	5	4
-GAC	2	1	11	9	0	0	3	1	1	3	9	7
-GAA	1	1	6	10	2	3	4	1	1	6	7	3
-GAG	9	3	4	5	2	1	6	5	2	4	7	2
-GGT	3	3	5	4	0	0	4	1	1	3	3	1
-GGC	9	10	11	0	0	3	6	1	3	12	12	11
-GGA	0	5	18	3	1	4	8	1	1	7	10	7
-GGG	9	2	12	2	0	3	4	3	0	6	10	6
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	1	0	0	1	0	0	0	0	1	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009178164.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	8	9	7	9	3	10	3	4	7	6	0	0	4	4	15	16	6	12	10	5	2	7	0	3	3	4	1	1	2	4	15	5	3	6	4	8	2	4	3	8	2	5	2	2	6	5	7	3	6	12	8	8	2	2	1	9	3	9	0	9	1	0	0	0
+1	ND2	YP_009178165.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	7	4	11	7	3	9	3	3	3	5	0	1	4	7	13	18	10	9	6	8	5	1	4	3	3	8	0	0	1	4	15	2	4	11	8	13	5	8	1	7	3	6	1	7	6	6	3	6	11	25	11	4	0	1	1	3	3	10	5	2	0	1	0	0
+2	COX1	YP_009178166.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	18	24	10	2	7	3	9	7	7	11	0	1	11	6	20	10	15	5	5	9	10	4	5	13	4	4	0	1	4	3	25	12	16	8	7	8	17	3	7	9	6	2	1	3	11	6	17	11	11	21	13	2	5	11	6	4	5	11	18	12	1	0	0	0
+3	COX2	YP_009178167.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	5	4	5	1	3	3	8	1	4	5	1	1	3	2	4	5	12	1	3	4	4	2	3	7	6	2	1	2	3	0	8	7	7	5	2	3	1	3	2	2	2	2	0	4	7	6	7	3	3	8	4	2	4	9	10	5	4	0	3	2	0	0	0	0
+4	ATP8	YP_009178168.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	1	2	2	0	0	0	0	0	1	1	0	0	5	0	3	0	2	0	3	1	1	1	1	0	1	0	0	0	0	0	2	2	0	1	2	0	1	1	2	3	3	0	0	1	1	2	2	0	0	0	1	0	0	0	2	2	0	0	1	0	0	1	0	0
+5	ATP6	YP_009178169.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	10	2	5	4	3	0	1	0	0	3	0	0	1	4	17	6	9	8	1	5	6	5	1	3	4	3	0	2	2	2	16	4	8	5	5	8	5	2	5	4	0	1	1	4	7	1	7	1	7	6	4	4	1	0	3	1	0	3	4	3	1	0	0	0
+6	COX3	YP_009178170.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	12	12	4	2	4	4	4	0	4	7	1	1	12	0	5	8	10	2	4	2	3	3	8	8	5	4	0	3	0	2	11	2	6	2	2	8	10	4	0	1	1	1	0	3	5	0	13	0	6	6	7	2	2	3	4	6	4	6	8	4	0	0	0	0
+7	ND3	YP_009178171.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	3	6	2	3	0	3	2	1	1	1	0	1	2	3	3	5	10	3	2	4	0	2	1	0	1	2	0	0	1	1	4	2	1	1	2	6	1	1	1	1	1	0	0	0	2	1	4	1	1	2	5	1	2	1	1	5	1	1	1	3	0	0	0	0
+8	ND4L	YP_009178172.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	5	3	3	4	0	0	4	2	0	0	1	2	1	0	3	5	5	3	0	1	1	0	3	1	3	0	0	1	2	0	1	1	1	3	0	1	5	3	1	0	0	0	1	4	0	0	2	0	1	8	3	1	0	1	1	2	1	3	1	0	1	0	0	0
+9	ND4	YP_009178173.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	9	8	14	11	7	9	5	3	3	10	1	4	10	10	24	9	14	13	6	12	7	3	8	5	5	7	1	2	5	3	28	7	15	13	11	12	12	5	2	6	3	9	1	8	8	6	6	5	6	12	11	5	0	3	6	4	3	12	7	6	0	1	0	0
+10	ND5	YP_009178174.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	16	25	16	4	6	10	7	4	11	6	4	3	5	10	18	17	23	16	12	8	7	2	2	11	11	6	2	5	0	4	24	14	12	13	10	15	16	6	10	11	10	11	4	10	18	11	11	8	9	27	15	12	5	9	7	7	3	12	10	10	1	0	0	0
+11	CYTB	YP_009178176.1	Meda fulgida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Meda	11	17	7	3	8	6	4	3	4	11	1	2	7	5	14	13	15	13	1	4	8	8	2	10	3	4	1	2	2	3	11	13	7	6	4	9	3	4	3	14	5	4	2	1	7	6	9	4	3	15	13	4	4	7	3	2	1	11	7	6	0	0	0	0

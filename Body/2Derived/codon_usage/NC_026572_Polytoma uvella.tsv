@@ -1,65 +1,8 @@
-	YP_009123598.1|nad2	YP_009123599.1|nad5	YP_009123600.1|cob	YP_009123601.1|nad6	YP_009123602.1|nad4	YP_009123603.1|cox1	YP_009123604.1|nad1
-TTT	9	6	0	4	2	4	3
-TTC	31	31	27	8	39	37	25
-TTA	6	1	0	0	0	2	1
-TTG	16	10	3	10	7	9	3
-TCT	3	3	1	0	1	6	3
-TCC	13	25	11	4	19	18	12
-TCA	3	1	1	1	1	1	1
-TCG	5	3	0	3	0	0	0
-TAT	1	5	4	3	5	6	1
-TAC	20	19	21	6	11	9	10
-TGT	0	1	0	0	2	0	0
-TGC	5	12	2	1	10	3	3
-TGG	9	15	12	1	6	13	5
-CTT	0	2	8	0	6	12	6
-CTC	7	25	35	1	22	31	19
-CTA	3	5	6	2	3	2	5
-CTG	52	41	7	19	50	24	12
-CCT	2	1	4	0	0	3	1
-CCC	1	4	11	0	6	9	3
-CCA	0	2	3	0	2	2	2
-CCG	10	6	7	3	11	11	5
-CAT	4	1	0	0	1	3	0
-CAC	3	11	16	2	10	13	1
-CAA	7	7	9	0	4	6	7
-CAG	6	3	1	0	1	1	1
-CGT	3	2	0	2	1	2	5
-CGC	7	10	8	4	9	8	3
-CGA	0	1	0	0	0	0	0
-CGG	0	0	0	0	0	0	0
-ATT	8	4	6	1	4	8	7
-ATC	8	25	21	7	21	27	10
-ATA	0	0	0	0	0	0	0
-ATG	14	17	8	9	16	25	11
-ACT	1	7	3	1	4	6	1
-ACC	6	22	16	5	21	21	6
-ACA	3	1	0	0	0	1	2
-ACG	0	0	0	0	0	0	0
-AAT	1	2	4	2	2	2	2
-AAC	7	7	11	4	5	14	3
-AAA	0	3	1	0	1	0	3
-AAG	10	9	4	0	6	6	4
-AGT	15	7	0	4	5	2	4
-AGC	18	14	11	2	6	8	9
-AGA	1	0	1	0	0	0	0
-AGG	0	0	0	0	0	0	1
-GTT	6	7	5	1	6	11	4
-GTC	7	12	30	2	15	21	9
-GTA	3	2	0	2	3	2	0
-GTG	37	34	3	14	21	6	7
-GCT	2	6	3	2	5	21	8
-GCC	11	29	23	4	25	20	20
-GCA	3	4	1	1	3	2	2
-GCG	24	20	4	10	17	3	4
-GAT	5	4	1	0	1	3	2
-GAC	7	16	6	1	8	9	5
-GAA	0	0	1	0	0	0	0
-GAG	6	9	7	5	9	7	10
-GGT	4	6	6	2	9	13	5
-GGC	8	29	22	4	20	32	15
-GGA	4	2	1	0	0	5	2
-GGG	6	6	1	2	4	1	3
-TAA	1	1	1	1	1	0	1
-TAG	0	0	0	0	0	1	0
-TGA	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	nad2	YP_009123598.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	9	31	6	16	3	13	3	5	1	20	0	5	9	0	7	3	52	2	1	0	10	4	3	7	6	3	7	0	0	8	8	0	14	1	6	3	0	1	7	0	10	15	18	1	0	6	7	3	37	2	11	3	24	5	7	0	6	4	8	4	6	1	0	0
+1	nad5	YP_009123599.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	6	31	1	10	3	25	1	3	5	19	1	12	15	2	25	5	41	1	4	2	6	1	11	7	3	2	10	1	0	4	25	0	17	7	22	1	0	2	7	3	9	7	14	0	0	7	12	2	34	6	29	4	20	4	16	0	9	6	29	2	6	1	0	0
+2	cob	YP_009123600.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	0	27	0	3	1	11	1	0	4	21	0	2	12	8	35	6	7	4	11	3	7	0	16	9	1	0	8	0	0	6	21	0	8	3	16	0	0	4	11	1	4	0	11	1	0	5	30	0	3	3	23	1	4	1	6	1	7	6	22	1	1	1	0	0
+3	nad6	YP_009123601.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	4	8	0	10	0	4	1	3	3	6	0	1	1	0	1	2	19	0	0	0	3	0	2	0	0	2	4	0	0	1	7	0	9	1	5	0	0	2	4	0	0	4	2	0	0	1	2	2	14	2	4	1	10	0	1	0	5	2	4	0	2	1	0	0
+4	nad4	YP_009123602.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	2	39	0	7	1	19	1	0	5	11	2	10	6	6	22	3	50	0	6	2	11	1	10	4	1	1	9	0	0	4	21	0	16	4	21	0	0	2	5	1	6	5	6	0	0	6	15	3	21	5	25	3	17	1	8	0	9	9	20	0	4	1	0	0
+5	cox1	YP_009123603.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	4	37	2	9	6	18	1	0	6	9	0	3	13	12	31	2	24	3	9	2	11	3	13	6	1	2	8	0	0	8	27	0	25	6	21	1	0	2	14	0	6	2	8	0	0	11	21	2	6	21	20	2	3	3	9	0	7	13	32	5	1	0	1	0
+6	nad1	YP_009123604.1	Polytoma uvella	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Polytoma	3	25	1	3	3	12	1	0	1	10	0	3	5	6	19	5	12	1	3	2	5	0	1	7	1	5	3	0	0	7	10	0	11	1	6	2	0	2	3	3	4	4	9	0	1	4	9	0	7	8	20	2	4	2	5	0	10	5	15	2	3	1	0	0

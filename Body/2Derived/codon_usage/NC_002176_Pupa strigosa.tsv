@@ -1,65 +1,10 @@
-	NP_038226.1|COX1	NP_038227.1|ND6	NP_038228.1|ND5	NP_038229.1|ND1	NP_038230.1|ND4L	NP_038231.1|CYTB	NP_038232.1|COX2	NP_038236.1|ND4	NP_038238.1|ND2
-TTT	34	10	30	17	3	18	10	21	14
-TTC	15	3	8	5	3	9	2	5	5
-TTA	26	12	35	21	7	25	8	32	20
-TTG	10	7	17	6	4	7	4	13	9
-TCT	9	3	12	7	0	8	3	11	5
-TCC	1	0	4	1	1	0	1	3	0
-TCA	9	3	12	1	4	4	8	10	6
-TCG	8	1	6	3	0	3	1	3	4
-TAT	14	4	10	4	1	12	3	14	9
-TAC	3	2	7	7	0	9	5	6	5
-TGT	2	1	4	6	1	1	3	10	6
-TGC	1	1	2	0	2	1	0	3	3
-TGA	9	0	4	3	0	7	5	11	5
-TGG	6	1	7	5	1	7	0	2	5
-CTT	7	3	26	9	6	11	4	9	11
-CTC	7	1	4	1	2	2	3	6	0
-CTA	10	8	9	16	3	10	6	13	6
-CTG	3	2	7	2	3	3	7	8	4
-CCT	13	3	6	2	0	9	2	4	2
-CCC	6	1	6	1	0	3	2	6	4
-CCA	4	1	3	6	0	8	3	4	2
-CCG	3	0	5	1	0	3	3	0	1
-CAT	9	1	3	0	2	6	5	9	3
-CAC	8	0	2	0	0	8	1	4	1
-CAA	2	0	5	3	0	5	1	3	3
-CAG	3	2	4	1	0	3	6	3	2
-CGT	2	0	4	4	0	1	1	2	0
-CGC	0	1	0	0	0	1	3	0	1
-CGA	7	1	0	1	2	2	0	1	0
-CGG	2	0	2	2	0	2	2	0	1
-ATT	25	8	22	16	5	18	10	17	22
-ATC	4	2	8	3	3	8	2	5	1
-ATA	21	7	16	6	4	8	5	19	12
-ATG	17	3	10	4	1	2	4	8	5
-ACT	11	1	14	9	4	8	8	7	6
-ACC	2	1	8	0	0	3	2	2	3
-ACA	14	2	8	6	0	11	1	7	2
-ACG	3	0	4	1	0	2	0	2	0
-AAT	9	3	8	8	0	5	3	8	3
-AAC	6	0	9	2	1	8	7	4	3
-AAA	2	4	7	9	0	3	3	7	6
-AAG	3	0	8	2	0	2	0	5	0
-AGT	3	5	9	2	4	3	0	8	7
-AGC	3	1	4	3	3	1	2	6	1
-AGA	3	3	8	6	1	5	2	13	7
-AGG	3	6	11	3	3	2	4	7	2
-GTT	15	4	11	13	3	9	6	11	7
-GTC	3	5	4	0	0	2	4	8	2
-GTA	11	4	13	8	1	8	0	16	7
-GTG	8	3	10	6	1	9	7	7	7
-GCT	15	4	14	12	1	11	6	13	8
-GCC	7	1	7	6	1	5	1	2	4
-GCA	10	2	9	6	2	9	5	13	6
-GCG	4	1	4	5	3	0	7	2	3
-GAT	10	0	8	2	1	3	8	2	2
-GAC	6	3	3	1	1	4	4	1	0
-GAA	5	0	6	9	1	0	6	3	5
-GAG	3	1	5	1	1	6	7	4	1
-GGT	8	5	6	4	1	11	5	5	7
-GGC	6	2	7	3	1	4	2	3	6
-GGA	14	3	6	6	1	8	2	10	6
-GGG	22	5	15	5	2	9	3	13	8
-TAA	1	1	1	0	0	0	1	0	0
-TAG	0	0	0	0	0	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	NP_038226.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	34	15	26	10	9	1	9	8	14	3	2	1	9	6	7	7	10	3	13	6	4	3	9	8	2	3	2	0	7	2	25	4	21	17	11	2	14	3	9	6	2	3	3	3	3	3	15	3	11	8	15	7	10	4	10	6	5	3	8	6	14	22	1	0
+1	ND6	NP_038227.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	10	3	12	7	3	0	3	1	4	2	1	1	0	1	3	1	8	2	3	1	1	0	1	0	0	2	0	1	1	0	8	2	7	3	1	1	2	0	3	0	4	0	5	1	3	6	4	5	4	3	4	1	2	1	0	3	0	1	5	2	3	5	1	0
+2	ND5	NP_038228.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	30	8	35	17	12	4	12	6	10	7	4	2	4	7	26	4	9	7	6	6	3	5	3	2	5	4	4	0	0	2	22	8	16	10	14	8	8	4	8	9	7	8	9	4	8	11	11	4	13	10	14	7	9	4	8	3	6	5	6	7	6	15	1	0
+3	ND1	NP_038229.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	17	5	21	6	7	1	1	3	4	7	6	0	3	5	9	1	16	2	2	1	6	1	0	0	3	1	4	0	1	2	16	3	6	4	9	0	6	1	8	2	9	2	2	3	6	3	13	0	8	6	12	6	6	5	2	1	9	1	4	3	6	5	0	0
+4	ND4L	NP_038230.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	3	3	7	4	0	1	4	0	1	0	1	2	0	1	6	2	3	3	0	0	0	0	2	0	0	0	0	0	2	0	5	3	4	1	4	0	0	0	0	1	0	0	4	3	1	3	3	0	1	1	1	1	2	3	1	1	1	1	1	1	1	2	0	0
+5	CYTB	NP_038231.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	18	9	25	7	8	0	4	3	12	9	1	1	7	7	11	2	10	3	9	3	8	3	6	8	5	3	1	1	2	2	18	8	8	2	8	3	11	2	5	8	3	2	3	1	5	2	9	2	8	9	11	5	9	0	3	4	0	6	11	4	8	9	0	0
+6	COX2	NP_038232.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	10	2	8	4	3	1	8	1	3	5	3	0	5	0	4	3	6	7	2	2	3	3	5	1	1	6	1	3	0	2	10	2	5	4	8	2	1	0	3	7	3	0	0	2	2	4	6	4	0	7	6	1	5	7	8	4	6	7	5	2	2	3	1	0
+7	ND4	NP_038236.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	21	5	32	13	11	3	10	3	14	6	10	3	11	2	9	6	13	8	4	6	4	0	9	4	3	3	2	0	1	0	17	5	19	8	7	2	7	2	8	4	7	5	8	6	13	7	11	8	16	7	13	2	13	2	2	1	3	4	5	3	10	13	0	1
+8	ND2	NP_038238.1	Pupa strigosa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, lower Heterobranchia, Acteonoidea, Acteonidae, Pupa	14	5	20	9	5	0	6	4	9	5	6	3	5	5	11	0	6	4	2	4	2	1	3	1	3	2	0	1	0	1	22	1	12	5	6	3	2	0	3	3	6	0	7	1	7	2	7	2	7	7	8	4	6	3	2	0	5	1	7	6	6	8	0	1

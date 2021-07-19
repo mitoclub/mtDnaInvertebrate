@@ -1,65 +1,10 @@
-	YP_009500740.1|ND2	YP_009500741.1|COX1	YP_009500742.1|COX2	YP_009500743.1|ATP8	YP_009500744.1|ATP6	YP_009500745.1|COX3	YP_009500746.1|ND3	YP_009500750.1|ND6	YP_009500751.1|CYTB
-TTT	23	31	7	2	13	17	7	13	33
-TTC	5	14	7	1	5	8	2	2	11
-TTA	29	43	16	4	25	23	13	18	33
-TTG	1	3	0	0	2	0	0	0	0
-TCT	8	7	1	1	5	3	1	1	8
-TCC	0	7	4	1	3	7	0	4	2
-TCA	10	22	9	2	6	3	6	3	7
-TCG	0	1	0	0	1	0	0	1	1
-TAT	9	11	6	1	4	5	2	4	13
-TAC	5	5	4	2	1	4	0	3	4
-TGT	2	0	2	0	1	1	1	2	1
-TGC	0	1	1	0	0	0	0	1	2
-TGA	9	13	6	3	4	10	4	2	13
-TGG	1	1	0	0	1	2	0	0	0
-CTT	1	5	1	0	2	1	0	2	3
-CTC	4	0	1	0	0	0	1	0	1
-CTA	10	16	4	3	5	4	1	4	12
-CTG	1	0	0	0	0	1	0	0	0
-CCT	3	7	4	0	5	2	1	2	4
-CCC	7	5	2	0	2	1	1	0	6
-CCA	4	11	4	3	3	7	3	3	10
-CCG	0	0	1	0	1	0	0	0	0
-CAT	1	11	4	0	1	11	0	0	7
-CAC	0	4	1	0	3	6	0	1	3
-CAA	4	10	6	1	2	3	2	4	9
-CAG	0	0	1	0	1	0	0	0	0
-CGT	0	1	0	0	0	2	0	2	1
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	4	0	3	1	2	1	4
-CGG	0	0	0	0	0	0	0	0	0
-ATT	33	54	25	6	21	21	16	11	32
-ATC	7	9	4	1	4	4	6	4	14
-ATA	37	32	18	7	29	23	13	22	23
-ATG	4	1	0	0	1	2	0	0	4
-ACT	2	10	2	0	2	6	0	2	2
-ACC	3	1	1	0	1	4	1	3	3
-ACA	10	16	6	0	12	7	3	10	12
-ACG	0	1	0	0	0	0	1	0	1
-AAT	21	16	10	3	12	8	5	13	19
-AAC	6	5	6	0	3	2	0	1	5
-AAA	24	9	9	7	6	10	7	7	12
-AAG	1	0	0	0	0	1	0	1	0
-AGT	1	4	0	0	1	4	0	0	0
-AGC	0	1	0	0	0	0	0	0	1
-AGA	8	12	3	0	8	11	2	3	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	6	2	0	0	2	2	1	3
-GTC	1	3	2	0	2	1	0	0	1
-GTA	4	13	8	0	4	7	1	3	6
-GTG	0	0	0	0	0	1	0	0	1
-GCT	1	5	1	0	4	0	0	1	2
-GCC	2	4	0	0	1	0	0	0	1
-GCA	2	12	5	1	5	3	1	0	8
-GCG	0	0	0	0	0	0	0	0	1
-GAT	0	9	7	0	1	2	1	0	6
-GAC	0	3	3	0	0	2	2	0	2
-GAA	5	7	7	1	4	5	5	1	5
-GAG	0	1	1	0	0	1	0	1	1
-GGT	2	5	0	0	0	2	0	1	2
-GGC	0	2	0	0	0	0	1	1	1
-GGA	7	30	6	0	4	9	2	1	15
-GGG	2	2	0	0	0	0	0	0	4
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009500740.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	23	5	29	1	8	0	10	0	9	5	2	0	9	1	1	4	10	1	3	7	4	0	1	0	4	0	0	0	0	0	33	7	37	4	2	3	10	0	21	6	24	1	1	0	8	0	2	1	4	0	1	2	2	0	0	0	5	0	2	0	7	2	1	0
+1	COX1	YP_009500741.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	31	14	43	3	7	7	22	1	11	5	0	1	13	1	5	0	16	0	7	5	11	0	11	4	10	0	1	0	7	0	54	9	32	1	10	1	16	1	16	5	9	0	4	1	12	0	6	3	13	0	5	4	12	0	9	3	7	1	5	2	30	2	1	0
+2	COX2	YP_009500742.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	7	7	16	0	1	4	9	0	6	4	2	1	6	0	1	1	4	0	4	2	4	1	4	1	6	1	0	0	4	0	25	4	18	0	2	1	6	0	10	6	9	0	0	0	3	0	2	2	8	0	1	0	5	0	7	3	7	1	0	0	6	0	0	0
+3	ATP8	YP_009500743.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	2	1	4	0	1	1	2	0	1	2	0	0	3	0	0	0	3	0	0	0	3	0	0	0	1	0	0	0	0	0	6	1	7	0	0	0	0	0	3	0	7	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009500744.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	13	5	25	2	5	3	6	1	4	1	1	0	4	1	2	0	5	0	5	2	3	1	1	3	2	1	0	0	3	0	21	4	29	1	2	1	12	0	12	3	6	0	1	0	8	0	0	2	4	0	4	1	5	0	1	0	4	0	0	0	4	0	1	0
+5	COX3	YP_009500745.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	17	8	23	0	3	7	3	0	5	4	1	0	10	2	1	0	4	1	2	1	7	0	11	6	3	0	2	0	1	0	21	4	23	2	6	4	7	0	8	2	10	1	4	0	11	0	2	1	7	1	0	0	3	0	2	2	5	1	2	0	9	0	1	0
+6	ND3	YP_009500746.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	7	2	13	0	1	0	6	0	2	0	1	0	4	0	0	1	1	0	1	1	3	0	0	0	2	0	0	0	2	0	16	6	13	0	0	1	3	1	5	0	7	0	0	0	2	0	2	0	1	0	0	0	1	0	1	2	5	0	0	1	2	0	1	0
+7	ND6	YP_009500750.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	13	2	18	0	1	4	3	1	4	3	2	1	2	0	2	0	4	0	2	0	3	0	0	1	4	0	2	0	1	0	11	4	22	0	2	3	10	0	13	1	7	1	0	0	3	0	1	0	3	0	1	0	0	0	0	0	1	1	1	1	1	0	1	0
+8	CYTB	YP_009500751.1	Paracarsidara gigantea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Carsidaridae, Paracarsidara	33	11	33	0	8	2	7	1	13	4	1	2	13	0	3	1	12	0	4	6	10	0	7	3	9	0	1	0	4	0	32	14	23	4	2	3	12	1	19	5	12	0	0	1	5	0	3	1	6	1	2	1	8	1	6	2	5	1	2	1	15	4	0	1

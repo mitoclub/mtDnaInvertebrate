@@ -1,65 +1,13 @@
-	YP_009227889.1|COX1	YP_009227890.1|COX2	YP_009227891.1|ATP8	YP_009227892.1|ATP6	YP_009227893.1|COX3	YP_009227894.1|ND3	YP_009227895.1|ND4L	YP_009227896.1|ND4	YP_009227897.1|ND5	YP_009227898.1|ND6	YP_009227899.1|CYTB	YP_009227901.1|ND2
-TTT	29	12	3	20	18	7	7	42	34	13	23	23
-TTC	13	3	1	0	8	3	1	8	10	3	14	10
-TTA	37	15	3	22	16	12	10	50	58	12	28	33
-TTG	1	1	0	0	0	1	0	2	5	0	1	4
-TCT	10	7	2	6	8	2	2	4	17	4	5	12
-TCC	3	0	0	0	2	3	1	3	4	1	2	3
-TCA	14	9	1	7	10	6	3	20	22	7	14	12
-TCG	2	0	1	0	0	0	0	2	2	0	0	1
-TAT	9	5	1	4	9	2	4	18	14	2	13	9
-TAC	8	3	1	3	2	0	0	5	6	3	3	8
-TGT	0	2	0	0	1	1	2	6	3	0	2	2
-TGC	0	0	0	0	0	0	0	1	3	0	0	0
-TGA	14	6	3	4	13	3	1	10	16	1	11	7
-TGG	1	0	0	0	0	0	0	1	2	0	1	2
-CTT	12	4	2	4	3	4	4	7	13	1	11	7
-CTC	2	1	0	0	1	0	0	2	1	2	1	2
-CTA	7	9	0	6	4	2	1	17	16	6	11	11
-CTG	1	0	0	1	1	1	1	0	1	1	0	1
-CCT	17	6	1	8	4	2	0	5	7	7	8	5
-CCC	2	2	0	0	0	2	0	0	1	1	0	2
-CCA	8	1	3	0	4	2	1	5	3	1	14	5
-CCG	1	1	0	0	2	0	0	0	0	0	1	0
-CAT	11	3	0	2	8	0	0	6	2	1	7	1
-CAC	7	4	1	2	7	0	2	1	2	0	4	1
-CAA	8	4	0	3	7	0	0	8	9	4	6	4
-CAG	0	2	0	0	0	0	0	0	0	0	0	1
-CGT	3	2	0	0	1	1	0	3	1	0	2	1
-CGC	0	1	0	0	0	0	0	0	0	0	0	0
-CGA	6	3	0	1	3	2	2	4	6	1	4	1
-CGG	2	0	0	1	0	0	0	0	0	0	1	0
-ATT	41	17	7	25	19	16	5	25	47	15	31	36
-ATC	3	6	0	3	5	2	2	6	8	6	5	5
-ATA	21	9	6	14	8	3	9	36	41	17	13	18
-ATG	5	2	0	2	1	0	1	5	7	2	4	2
-ACT	16	7	2	7	8	3	2	1	9	3	8	5
-ACC	3	0	0	1	0	1	0	1	2	1	2	3
-ACA	16	4	2	10	9	2	2	9	8	7	9	7
-ACG	1	0	0	0	1	1	1	0	1	1	0	1
-AAT	10	8	2	10	4	2	4	8	17	6	8	17
-AAC	5	5	0	3	2	1	0	4	6	2	8	3
-AAA	8	4	3	5	1	6	3	9	18	9	10	10
-AAG	0	0	0	0	0	0	0	2	0	0	2	2
-AGT	5	2	0	2	1	1	2	2	4	0	1	4
-AGC	0	0	0	2	0	0	0	0	0	0	0	0
-AGA	8	3	1	3	3	0	3	15	19	1	8	12
-AGG	0	0	0	0	0	0	0	0	1	0	0	0
-GTT	15	5	1	5	7	1	2	7	10	3	7	3
-GTC	0	0	0	1	0	0	2	1	2	0	3	0
-GTA	18	9	1	5	10	6	2	12	19	5	10	4
-GTG	3	0	0	0	1	0	2	1	1	0	0	1
-GCT	20	6	0	7	8	2	1	10	10	3	9	6
-GCC	3	0	0	2	5	0	0	2	2	0	4	2
-GCA	16	2	2	7	9	0	1	6	14	3	10	4
-GCG	0	0	0	1	0	0	0	0	0	0	0	0
-GAT	10	11	0	1	3	3	1	5	10	1	7	0
-GAC	5	2	0	0	0	1	0	0	3	0	1	0
-GAA	9	12	1	5	7	5	2	9	9	3	6	6
-GAG	0	0	0	1	0	0	1	1	0	0	1	0
-GGT	13	3	1	2	4	1	1	11	12	0	10	3
-GGC	2	0	0	0	0	0	0	3	0	0	0	0
-GGA	28	4	0	3	14	3	5	20	23	3	11	8
-GGG	4	0	0	0	0	1	1	2	7	0	4	2
-TAA	1	1	1	1	0	0	1	0	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009227889.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	29	13	37	1	10	3	14	2	9	8	0	0	14	1	12	2	7	1	17	2	8	1	11	7	8	0	3	0	6	2	41	3	21	5	16	3	16	1	10	5	8	0	5	0	8	0	15	0	18	3	20	3	16	0	10	5	9	0	13	2	28	4	1	0
+1	COX2	YP_009227890.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	12	3	15	1	7	0	9	0	5	3	2	0	6	0	4	1	9	0	6	2	1	1	3	4	4	2	2	1	3	0	17	6	9	2	7	0	4	0	8	5	4	0	2	0	3	0	5	0	9	0	6	0	2	0	11	2	12	0	3	0	4	0	1	0
+2	ATP8	YP_009227891.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	3	1	3	0	2	0	1	1	1	1	0	0	3	0	2	0	0	0	1	0	3	0	0	1	0	0	0	0	0	0	7	0	6	0	2	0	2	0	2	0	3	0	0	0	1	0	1	0	1	0	0	0	2	0	0	0	1	0	1	0	0	0	1	0
+3	ATP6	YP_009227892.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	20	0	22	0	6	0	7	0	4	3	0	0	4	0	4	0	6	1	8	0	0	0	2	2	3	0	0	0	1	1	25	3	14	2	7	1	10	0	10	3	5	0	2	2	3	0	5	1	5	0	7	2	7	1	1	0	5	1	2	0	3	0	1	0
+4	COX3	YP_009227893.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	18	8	16	0	8	2	10	0	9	2	1	0	13	0	3	1	4	1	4	0	4	2	8	7	7	0	1	0	3	0	19	5	8	1	8	0	9	1	4	2	1	0	1	0	3	0	7	0	10	1	8	5	9	0	3	0	7	0	4	0	14	0	0	0
+5	ND3	YP_009227894.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	7	3	12	1	2	3	6	0	2	0	1	0	3	0	4	0	2	1	2	2	2	0	0	0	0	0	1	0	2	0	16	2	3	0	3	1	2	1	2	1	6	0	1	0	0	0	1	0	6	0	2	0	0	0	3	1	5	0	1	0	3	1	0	0
+6	ND4L	YP_009227895.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	7	1	10	0	2	1	3	0	4	0	2	0	1	0	4	0	1	1	0	0	1	0	0	2	0	0	0	0	2	0	5	2	9	1	2	0	2	1	4	0	3	0	2	0	3	0	2	2	2	2	1	0	1	0	1	0	2	1	1	0	5	1	1	0
+7	ND4	YP_009227896.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	42	8	50	2	4	3	20	2	18	5	6	1	10	1	7	2	17	0	5	0	5	0	6	1	8	0	3	0	4	0	25	6	36	5	1	1	9	0	8	4	9	2	2	0	15	0	7	1	12	1	10	2	6	0	5	0	9	1	11	3	20	2	0	0
+8	ND5	YP_009227897.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	34	10	58	5	17	4	22	2	14	6	3	3	16	2	13	1	16	1	7	1	3	0	2	2	9	0	1	0	6	0	47	8	41	7	9	2	8	1	17	6	18	0	4	0	19	1	10	2	19	1	10	2	14	0	10	3	9	0	12	0	23	7	1	0
+9	ND6	YP_009227898.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	13	3	12	0	4	1	7	0	2	3	0	0	1	0	1	2	6	1	7	1	1	0	1	0	4	0	0	0	1	0	15	6	17	2	3	1	7	1	6	2	9	0	0	0	1	0	3	0	5	0	3	0	3	0	1	0	3	0	0	0	3	0	1	0
+10	CYTB	YP_009227899.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	23	14	28	1	5	2	14	0	13	3	2	0	11	1	11	1	11	0	8	0	14	1	7	4	6	0	2	0	4	1	31	5	13	4	8	2	9	0	8	8	10	2	1	0	8	0	7	3	10	0	9	4	10	0	7	1	6	1	10	0	11	4	1	0
+11	ND2	YP_009227901.1	Acasta sulcata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Acasta	23	10	33	4	12	3	12	1	9	8	2	0	7	2	7	2	11	1	5	2	5	0	1	1	4	1	1	0	1	0	36	5	18	2	5	3	7	1	17	3	10	2	4	0	12	0	3	0	4	1	6	2	4	0	0	0	6	0	3	0	8	2	1	0

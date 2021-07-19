@@ -1,65 +1,13 @@
-	YP_009442638.1|ND1	YP_009442639.1|ND2	YP_009442640.1|COX1	YP_009442641.1|COX2	YP_009442642.1|ATP8	YP_009442643.1|ATP6	YP_009442644.1|COX3	YP_009442645.1|ND3	YP_009442646.1|ND4L	YP_009442647.1|ND4	YP_009442648.1|ND5	YP_009442650.1|CYTB
-TTT	12	8	27	5	3	8	14	8	1	13	21	13
-TTC	8	2	15	2	0	5	10	2	2	6	25	11
-TTA	12	15	19	11	1	11	7	10	4	25	31	13
-TTG	2	1	1	2	2	1	1	0	1	2	0	1
-TCT	4	6	12	5	0	4	8	2	3	10	13	8
-TCC	2	4	4	3	1	1	5	1	2	8	9	6
-TCA	9	8	12	7	5	3	4	5	0	11	17	6
-TCG	0	1	0	1	0	0	0	0	1	0	0	1
-TAT	9	8	9	8	2	2	10	3	3	14	11	12
-TAC	4	2	10	3	2	0	2	0	0	4	6	5
-TGT	1	0	0	1	0	0	0	0	2	2	3	2
-TGC	0	0	1	1	0	0	1	1	1	2	1	2
-TGA	9	9	17	5	3	3	12	4	0	11	11	12
-TGG	0	1	0	0	0	0	0	0	0	2	1	0
-CTT	4	7	14	4	2	8	6	6	7	9	10	6
-CTC	7	4	7	0	0	1	1	1	2	10	9	8
-CTA	30	28	16	16	3	16	18	5	9	37	41	29
-CTG	2	4	3	0	1	3	3	2	2	7	2	3
-CCT	7	4	18	6	2	6	3	1	1	5	7	5
-CCC	7	2	4	5	3	3	1	1	0	11	11	8
-CCA	6	15	8	2	1	2	7	3	0	4	8	10
-CCG	1	0	0	0	0	1	1	1	0	0	0	0
-CAT	3	4	7	5	0	5	4	0	2	4	5	7
-CAC	1	1	11	1	2	2	12	0	1	5	7	6
-CAA	7	9	4	7	4	7	5	2	2	8	18	7
-CAG	0	0	2	0	0	1	2	0	0	2	1	0
-CGT	0	0	0	0	0	1	1	0	0	1	1	0
-CGC	0	0	2	1	0	1	1	1	0	2	4	3
-CGA	7	3	6	5	1	3	2	0	1	7	4	5
-CGG	0	0	0	0	0	0	1	0	0	0	0	0
-ATT	21	26	27	12	7	16	10	7	6	27	40	26
-ATC	7	9	12	7	1	10	3	1	2	14	15	12
-ATA	17	35	28	13	2	11	8	6	8	35	40	16
-ATG	2	3	3	2	1	5	3	1	3	5	5	2
-ACT	4	7	10	9	2	6	6	3	1	15	17	3
-ACC	8	9	10	1	1	6	3	2	3	12	16	11
-ACA	9	28	15	7	4	9	12	2	3	13	17	9
-ACG	1	1	0	0	1	2	0	1	0	0	1	0
-AAT	7	10	13	0	0	5	4	3	4	11	19	9
-AAC	5	7	4	5	1	5	3	0	0	6	15	8
-AAA	7	12	9	5	6	5	1	5	0	12	20	7
-AAG	0	1	0	0	0	0	0	0	0	0	2	1
-AGT	3	0	0	2	0	0	1	2	1	5	3	1
-AGC	2	3	4	4	0	4	3	0	0	7	7	3
-GTT	2	1	9	4	0	4	2	0	1	4	2	7
-GTC	2	2	6	3	0	4	2	0	0	2	4	4
-GTA	12	5	20	4	0	3	11	3	4	7	11	7
-GTG	0	0	3	1	0	0	0	0	0	1	1	0
-GCT	10	3	15	7	0	4	4	2	3	8	17	3
-GCC	6	5	14	0	0	4	6	2	0	9	12	7
-GCA	13	12	12	3	0	9	5	4	5	10	12	12
-GCG	0	1	0	0	0	1	0	0	0	2	0	1
-GAT	1	2	10	4	1	1	1	2	1	2	3	9
-GAC	2	0	4	6	0	0	2	1	0	2	6	2
-GAA	8	5	5	9	2	3	7	5	2	9	10	5
-GAG	3	0	5	5	0	0	1	1	0	0	1	0
-GGT	2	1	9	2	0	2	3	0	0	2	6	3
-GGC	5	2	6	2	0	3	6	2	1	6	9	3
-GGA	5	9	23	4	0	6	11	1	1	8	10	16
-GGG	0	2	9	0	0	0	1	0	2	3	4	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009442638.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	12	8	12	2	4	2	9	0	9	4	1	0	9	0	4	7	30	2	7	7	6	1	3	1	7	0	0	0	7	0	21	7	17	2	4	8	9	1	7	5	7	0	3	2	2	2	12	0	10	6	13	0	1	2	8	3	2	5	5	0	0	0	0	0
+1	ND2	YP_009442639.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	2	15	1	6	4	8	1	8	2	0	0	9	1	7	4	28	4	4	2	15	0	4	1	9	0	0	0	3	0	26	9	35	3	7	9	28	1	10	7	12	1	0	3	1	2	5	0	3	5	12	1	2	0	5	0	1	2	9	2	0	0	0	0
+2	COX1	YP_009442640.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	27	15	19	1	12	4	12	0	9	10	0	1	17	0	14	7	16	3	18	4	8	0	7	11	4	2	0	2	6	0	27	12	28	3	10	10	15	0	13	4	9	0	0	4	9	6	20	3	15	14	12	0	10	4	5	5	9	6	23	9	1	0	0	0
+3	COX2	YP_009442641.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	5	2	11	2	5	3	7	1	8	3	1	1	5	0	4	0	16	0	6	5	2	0	5	1	7	0	0	1	5	0	12	7	13	2	9	1	7	0	0	5	5	0	2	4	4	3	4	1	7	0	3	0	4	6	9	5	2	2	4	0	1	0	0	0
+4	ATP8	YP_009442642.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	0	1	2	0	1	5	0	2	2	0	0	3	0	2	0	3	1	2	3	1	0	0	2	4	0	0	0	1	0	7	1	2	1	2	1	4	1	0	1	6	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009442643.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	5	11	1	4	1	3	0	2	0	0	0	3	0	8	1	16	3	6	3	2	1	5	2	7	1	1	1	3	0	16	10	11	5	6	6	9	2	5	5	5	0	0	4	4	4	3	0	4	4	9	1	1	0	3	0	2	3	6	0	1	0	0	0
+6	COX3	YP_009442644.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	14	10	7	1	8	5	4	0	10	2	0	1	12	0	6	1	18	3	3	1	7	1	4	12	5	2	1	1	2	1	10	3	8	3	6	3	12	0	4	3	1	0	1	3	2	2	11	0	4	6	5	0	1	2	7	1	3	6	11	1	0	0	0	0
+7	ND3	YP_009442645.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	2	10	0	2	1	5	0	3	0	0	1	4	0	6	1	5	2	1	1	3	1	0	0	2	0	0	1	0	0	7	1	6	1	3	2	2	1	3	0	5	0	2	0	0	0	3	0	2	2	4	0	2	1	5	1	0	2	1	0	0	0	0	0
+8	ND4L	YP_009442646.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	1	2	4	1	3	2	0	1	3	0	2	1	0	0	7	2	9	2	1	0	0	0	2	1	2	0	0	0	1	0	6	2	8	3	1	3	3	0	4	0	0	0	1	0	1	0	4	0	3	0	5	0	1	0	2	0	0	1	1	2	1	0	0	0
+9	ND4	YP_009442647.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	13	6	25	2	10	8	11	0	14	4	2	2	11	2	9	10	37	7	5	11	4	0	4	5	8	2	1	2	7	0	27	14	35	5	15	12	13	0	11	6	12	0	5	7	4	2	7	1	8	9	10	2	2	2	9	0	2	6	8	3	0	0	0	0
+10	ND5	YP_009442648.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	21	25	31	0	13	9	17	0	11	6	3	1	11	1	10	9	41	2	7	11	8	0	5	7	18	1	1	4	4	0	40	15	40	5	17	16	17	1	19	15	20	2	3	7	2	4	11	1	17	12	12	0	3	6	10	1	6	9	10	4	1	0	0	0
+11	CYTB	YP_009442650.1	Myotis riparius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	13	11	13	1	8	6	6	1	12	5	2	2	12	0	6	8	29	3	5	8	10	0	7	6	7	0	0	3	5	0	26	12	16	2	3	11	9	0	9	8	7	1	1	3	7	4	7	0	3	7	12	1	9	2	5	0	3	3	16	3	0	0	1	0

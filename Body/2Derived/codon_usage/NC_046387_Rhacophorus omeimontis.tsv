@@ -1,65 +1,13 @@
-	YP_009733718.1|ND5	YP_009733719.1|ND1	YP_009733720.1|ND2	YP_009733721.1|COX1	YP_009733722.1|COX2	YP_009733723.1|ATP8	YP_009733724.1|ATP6	YP_009733725.1|COX3	YP_009733726.1|ND3	YP_009733727.1|ND4L	YP_009733728.1|ND4	YP_009733730.1|CYTB
-TTT	25	21	8	36	5	2	9	15	7	3	20	12
-TTC	15	3	7	8	2	2	5	8	1	1	11	18
-TTA	15	24	19	17	13	5	16	11	8	6	29	16
-TTG	0	1	1	2	2	0	2	0	4	0	1	1
-TCT	5	8	5	15	3	2	5	4	0	4	7	1
-TCC	14	4	7	4	3	2	4	0	2	1	9	12
-TCA	22	12	14	9	6	2	8	3	2	3	13	9
-TCG	1	1	1	1	0	0	1	0	0	0	0	0
-TAT	11	8	1	12	5	0	3	6	2	0	8	6
-TAC	14	4	5	5	3	0	1	4	1	0	7	8
-TGT	2	2	0	0	2	0	0	0	1	1	3	3
-TGC	5	0	0	0	0	0	0	2	0	2	1	0
-TGA	12	7	10	14	4	5	3	12	3	0	13	10
-TGG	0	0	0	3	1	0	1	0	2	0	1	1
-CTT	27	6	12	20	6	1	13	4	6	7	12	11
-CTC	11	2	5	5	2	1	4	3	3	2	9	4
-CTA	33	18	15	16	5	0	15	8	1	8	17	22
-CTG	4	2	4	0	1	0	1	1	2	0	8	4
-CCT	2	1	2	6	1	2	3	2	2	0	7	3
-CCC	12	8	5	8	2	1	6	3	3	3	5	4
-CCA	12	12	10	11	6	3	9	4	4	1	10	16
-CCG	0	1	0	0	3	0	0	0	0	0	0	0
-CAT	8	2	5	12	1	0	6	4	0	1	6	2
-CAC	9	2	1	7	7	2	0	7	0	2	3	9
-CAA	14	7	9	6	6	1	7	7	1	1	13	8
-CAG	2	0	0	0	1	0	0	1	1	0	0	0
-CGT	1	1	0	1	2	0	0	1	0	0	3	1
-CGC	1	0	2	0	0	0	2	0	0	1	1	3
-CGA	7	7	1	7	3	0	2	3	2	1	7	4
-CGG	0	0	0	0	1	0	1	1	0	0	1	0
-ATT	36	20	25	29	22	5	21	12	8	5	37	20
-ATC	25	9	9	12	2	1	3	3	1	0	12	20
-ATA	48	12	29	23	10	0	12	7	4	7	22	7
-ATG	16	4	3	5	4	2	1	2	2	1	6	2
-ACT	17	5	12	12	5	1	9	6	3	2	12	3
-ACC	16	5	7	6	5	0	6	6	0	2	11	14
-ACA	18	13	17	17	4	1	6	9	5	5	11	9
-ACG	1	0	2	3	1	0	2	0	0	0	0	0
-AAT	11	6	8	11	6	5	4	3	0	1	10	8
-AAC	18	5	5	6	4	1	6	3	0	1	6	13
-AAA	21	8	14	8	3	3	2	1	1	0	9	9
-AAG	2	0	0	2	0	1	4	0	0	0	1	1
-AGT	3	1	1	1	0	0	2	1	1	1	2	1
-AGC	7	1	1	3	4	0	2	1	0	1	7	0
-GTT	3	2	5	13	5	0	3	7	3	2	4	3
-GTC	2	4	1	9	0	0	1	4	1	1	1	3
-GTA	15	5	4	15	7	0	3	3	3	1	6	8
-GTG	6	2	0	5	1	1	1	1	0	0	1	0
-GCT	8	7	5	16	2	0	5	5	2	3	8	8
-GCC	29	9	11	18	4	0	5	4	3	4	17	11
-GCA	22	8	13	9	10	0	5	7	5	0	13	11
-GCG	1	1	0	0	0	0	0	0	0	0	1	0
-GAT	6	2	1	7	9	0	0	3	1	0	2	3
-GAC	6	2	0	7	3	0	0	2	2	2	6	6
-GAA	7	7	4	7	10	1	4	6	5	1	6	4
-GAG	1	2	1	5	1	0	0	1	1	1	2	0
-GGT	0	3	3	11	1	0	2	2	1	2	3	1
-GGC	6	4	5	8	4	0	3	4	2	2	3	8
-GGA	16	7	9	19	4	0	3	8	0	1	4	12
-GGG	2	2	1	6	0	0	2	4	1	0	6	7
-TAA	1	0	1	0	0	1	0	0	0	1	0	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	1	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND5	YP_009733718.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	25	15	15	0	5	14	22	1	11	14	2	5	12	0	27	11	33	4	2	12	12	0	8	9	14	2	1	1	7	0	36	25	48	16	17	16	18	1	11	18	21	2	3	7	3	2	15	6	8	29	22	1	6	6	7	1	0	6	16	2	1	0	0	0
+1	ND1	YP_009733719.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	21	3	24	1	8	4	12	1	8	4	2	0	7	0	6	2	18	2	1	8	12	1	2	2	7	0	1	0	7	0	20	9	12	4	5	5	13	0	6	5	8	0	1	1	2	4	5	2	7	9	8	1	2	2	7	2	3	4	7	2	0	0	0	0
+2	ND2	YP_009733720.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	8	7	19	1	5	7	14	1	1	5	0	0	10	0	12	5	15	4	2	5	10	0	5	1	9	0	0	2	1	0	25	9	29	3	12	7	17	2	8	5	14	0	1	1	5	1	4	0	5	11	13	0	1	0	4	1	3	5	9	1	1	0	0	0
+3	COX1	YP_009733721.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	36	8	17	2	15	4	9	1	12	5	0	0	14	3	20	5	16	0	6	8	11	0	12	7	6	0	1	0	7	0	29	12	23	5	12	6	17	3	11	6	8	2	1	3	13	9	15	5	16	18	9	0	7	7	7	5	11	8	19	6	0	0	0	1
+4	COX2	YP_009733722.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	5	2	13	2	3	3	6	0	5	3	2	0	4	1	6	2	5	1	1	2	6	3	1	7	6	1	2	0	3	1	22	2	10	4	5	5	4	1	6	4	3	0	0	4	5	0	7	1	2	4	10	0	9	3	10	1	1	4	4	0	0	1	0	0
+5	ATP8	YP_009733723.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	2	2	5	0	2	2	2	0	0	0	0	0	5	0	1	1	0	0	2	1	3	0	0	2	1	0	0	0	0	0	5	1	0	2	1	0	1	0	5	1	3	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+6	ATP6	YP_009733724.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	9	5	16	2	5	4	8	1	3	1	0	0	3	1	13	4	15	1	3	6	9	0	6	0	7	0	0	2	2	1	21	3	12	1	9	6	6	2	4	6	2	4	2	2	3	1	3	1	5	5	5	0	0	0	4	0	2	3	3	2	0	0	0	1
+7	COX3	YP_009733725.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	15	8	11	0	4	0	3	0	6	4	0	2	12	0	4	3	8	1	2	3	4	0	4	7	7	1	1	0	3	1	12	3	7	2	6	6	9	0	3	3	1	0	1	1	7	4	3	1	5	4	7	0	3	2	6	1	2	4	8	4	0	0	0	0
+8	ND3	YP_009733726.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	7	1	8	4	0	2	2	0	2	1	1	0	3	2	6	3	1	2	2	3	4	0	0	0	1	1	0	0	2	0	8	1	4	2	3	0	5	0	0	0	1	0	1	0	3	1	3	0	2	3	5	0	1	2	5	1	1	2	0	1	0	0	0	0
+9	ND4L	YP_009733727.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	3	1	6	0	4	1	3	0	0	0	1	2	0	0	7	2	8	0	0	3	1	0	1	2	1	0	0	1	1	0	5	0	7	1	2	2	5	0	1	1	0	0	1	1	2	1	1	0	3	4	0	0	0	2	1	1	2	2	1	0	1	0	0	0
+10	ND4	YP_009733728.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	20	11	29	1	7	9	13	0	8	7	3	1	13	1	12	9	17	8	7	5	10	0	6	3	13	0	3	1	7	1	37	12	22	6	12	11	11	0	10	6	9	1	2	7	4	1	6	1	8	17	13	1	2	6	6	2	3	3	4	6	0	0	0	0
+11	CYTB	YP_009733730.1	Rhacophorus omeimontis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Rhacophoridae, Rhacophorinae, Rhacophorus	12	18	16	1	1	12	9	0	6	8	3	0	10	1	11	4	22	4	3	4	16	0	2	9	8	0	1	3	4	0	20	20	7	2	3	14	9	0	8	13	9	1	1	0	3	3	8	0	8	11	11	0	3	6	4	0	1	8	12	7	1	0	0	0

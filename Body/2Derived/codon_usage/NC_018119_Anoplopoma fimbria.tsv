@@ -1,65 +1,13 @@
-	YP_006503870.1|ND1	YP_006503871.1|ND2	YP_006503872.1|COX1	YP_006503873.1|COX2	YP_006503874.1|ATP8	YP_006503875.1|ATP6	YP_006503876.1|COX3	YP_006503877.1|ND3	YP_006503878.1|ND4L	YP_006503879.1|ND4	YP_006503880.1|ND5	YP_006503882.1|CYTB
-TTT	10	7	18	7	2	3	7	3	4	4	27	11
-TTC	9	6	24	2	1	9	18	5	3	10	13	18
-TTA	3	10	6	1	1	4	3	2	5	6	11	6
-TTG	4	4	2	2	0	1	2	2	1	1	1	1
-TCT	5	5	8	1	1	2	2	1	2	5	10	5
-TCC	6	10	9	5	0	3	5	3	3	9	11	7
-TCA	3	5	6	5	0	1	3	1	2	4	11	10
-TCG	3	2	0	1	1	0	0	1	1	2	2	2
-TAT	4	1	6	3	0	2	6	1	0	5	3	6
-TAC	7	6	12	6	0	2	6	1	0	8	9	9
-TGT	0	0	0	1	0	0	0	0	1	2	3	0
-TGC	0	0	1	1	0	0	2	1	2	3	4	3
-TGA	6	10	15	3	5	4	9	4	1	11	11	11
-TGG	2	1	2	2	0	1	3	1	0	8	3	1
-CTT	17	22	18	7	1	16	12	7	3	25	25	11
-CTC	15	19	16	9	1	8	4	6	7	36	25	28
-CTA	17	14	16	7	2	17	8	4	6	18	23	10
-CTG	10	7	5	3	1	6	2	7	2	11	13	9
-CCT	8	3	10	4	1	3	7	3	1	6	5	4
-CCC	12	10	12	7	6	11	5	4	1	16	17	12
-CCA	3	5	7	2	2	3	1	0	0	4	7	5
-CCG	1	2	0	1	0	0	0	1	0	1	2	0
-CAT	2	3	6	2	1	3	5	0	2	4	3	2
-CAC	2	7	13	7	1	1	11	1	2	7	13	10
-CAA	3	11	6	6	1	5	5	3	3	6	14	4
-CAG	4	3	2	2	1	3	3	0	0	4	4	2
-CGT	2	1	1	3	0	1	0	1	0	1	2	0
-CGC	1	1	2	3	0	3	1	0	1	4	3	1
-CGA	3	1	5	1	0	2	3	1	1	7	5	5
-CGG	2	1	0	0	0	0	2	0	1	0	1	2
-ATT	18	8	22	14	3	12	8	4	0	9	21	15
-ATC	6	8	18	7	0	9	4	3	1	19	20	13
-ATA	5	6	8	6	0	1	4	0	2	11	8	3
-ATG	4	5	14	4	1	7	3	2	3	12	17	5
-ACT	4	8	5	1	0	1	2	1	2	7	10	3
-ACC	8	18	12	1	2	10	9	5	4	22	25	11
-ACA	4	12	16	5	1	10	10	3	1	9	20	0
-ACG	2	3	2	1	0	2	2	0	0	3	6	5
-AAT	4	4	4	1	0	3	0	0	0	4	6	4
-AAC	7	7	11	4	2	6	1	1	1	7	19	16
-AAA	6	5	7	4	2	1	2	0	0	8	16	6
-AAG	1	2	1	0	1	0	0	1	0	2	3	3
-AGT	1	1	1	1	0	1	2	0	1	2	1	0
-AGC	3	3	4	3	1	3	2	0	2	8	13	2
-GTT	6	4	10	4	3	1	3	2	0	9	15	6
-GTC	6	4	7	8	0	3	7	1	1	5	11	8
-GTA	4	6	23	7	2	4	7	1	1	11	6	5
-GTG	2	1	1	0	0	2	1	1	0	3	3	4
-GCT	5	5	8	2	1	3	3	0	1	2	11	5
-GCC	20	18	20	8	2	11	9	10	9	20	27	10
-GCA	7	13	21	9	2	6	8	0	4	12	14	13
-GCG	4	3	1	0	0	0	1	1	1	2	2	5
-GAT	2	1	5	6	0	0	1	2	0	1	4	4
-GAC	2	2	9	7	1	1	4	2	1	5	8	6
-GAA	7	3	9	13	1	2	7	4	2	6	8	4
-GAG	4	1	2	1	1	2	3	2	0	5	4	2
-GGT	1	3	8	0	0	3	4	0	3	2	6	6
-GGC	8	8	16	4	0	2	7	4	0	13	15	11
-GGA	2	6	9	4	0	4	8	1	3	4	4	6
-GGG	7	3	14	1	0	3	4	1	0	9	8	4
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006503870.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	10	9	3	4	5	6	3	3	4	7	0	0	6	2	17	15	17	10	8	12	3	1	2	2	3	4	2	1	3	2	18	6	5	4	4	8	4	2	4	7	6	1	1	3	6	6	4	2	5	20	7	4	2	2	7	4	1	8	2	7	1	0	0	0
+1	ND2	YP_006503871.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	7	6	10	4	5	10	5	2	1	6	0	0	10	1	22	19	14	7	3	10	5	2	3	7	11	3	1	1	1	1	8	8	6	5	8	18	12	3	4	7	5	2	1	3	4	4	6	1	5	18	13	3	1	2	3	1	3	8	6	3	0	0	0	0
+2	COX1	YP_006503872.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	18	24	6	2	8	9	6	0	6	12	0	1	15	2	18	16	16	5	10	12	7	0	6	13	6	2	1	2	5	0	22	18	8	14	5	12	16	2	4	11	7	1	1	4	10	7	23	1	8	20	21	1	5	9	9	2	8	16	9	14	1	0	0	0
+3	COX2	YP_006503873.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	7	2	1	2	1	5	5	1	3	6	1	1	3	2	7	9	7	3	4	7	2	1	2	7	6	2	3	3	1	0	14	7	6	4	1	1	5	1	1	4	4	0	1	3	4	8	7	0	2	8	9	0	6	7	13	1	0	4	4	1	0	0	0	0
+4	ATP8	YP_006503874.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	2	1	1	0	1	0	0	1	0	0	0	0	5	0	1	1	2	1	1	6	2	0	1	1	1	1	0	0	0	0	3	0	0	1	0	2	1	0	0	2	2	1	0	1	3	0	2	0	1	2	2	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_006503875.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	3	9	4	1	2	3	1	0	2	2	0	0	4	1	16	8	17	6	3	11	3	0	3	1	5	3	1	3	2	0	12	9	1	7	1	10	10	2	3	6	1	0	1	3	1	3	4	2	3	11	6	0	0	1	2	2	3	2	4	3	1	0	0	0
+6	COX3	YP_006503876.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	7	18	3	2	2	5	3	0	6	6	0	2	9	3	12	4	8	2	7	5	1	0	5	11	5	3	0	1	3	2	8	4	4	3	2	9	10	2	0	1	2	0	2	2	3	7	7	1	3	9	8	1	1	4	7	3	4	7	8	4	0	0	0	0
+7	ND3	YP_006503877.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	3	5	2	2	1	3	1	1	1	1	0	1	4	1	7	6	4	7	3	4	0	1	0	1	3	0	1	0	1	0	4	3	0	2	1	5	3	0	0	1	0	1	0	0	2	1	1	1	0	10	0	1	2	2	4	2	0	4	1	1	0	0	0	0
+8	ND4L	YP_006503878.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	4	3	5	1	2	3	2	1	0	0	1	2	1	0	3	7	6	2	1	1	0	0	2	2	3	0	0	1	1	1	0	1	2	3	2	4	1	0	0	1	0	0	1	2	0	1	1	0	1	9	4	1	0	1	2	0	3	0	3	0	1	0	0	0
+9	ND4	YP_006503879.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	4	10	6	1	5	9	4	2	5	8	2	3	11	8	25	36	18	11	6	16	4	1	4	7	6	4	1	4	7	0	9	19	11	12	7	22	9	3	4	7	8	2	2	8	9	5	11	3	2	20	12	2	1	5	6	5	2	13	4	9	0	0	0	0
+10	ND5	YP_006503880.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	27	13	11	1	10	11	11	2	3	9	3	4	11	3	25	25	23	13	5	17	7	2	3	13	14	4	2	3	5	1	21	20	8	17	10	25	20	6	6	19	16	3	1	13	15	11	6	3	11	27	14	2	4	8	8	4	6	15	4	8	1	0	0	0
+11	CYTB	YP_006503882.1	Anoplopoma fimbria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Anoplopomatales, Anoplopomatidae, Anoplopoma	11	18	6	1	5	7	10	2	6	9	0	3	11	1	11	28	10	9	4	12	5	0	2	10	4	2	0	1	5	2	15	13	3	5	3	11	0	5	4	16	6	3	0	2	6	8	5	4	5	10	13	5	4	6	4	2	6	11	6	4	0	0	0	0

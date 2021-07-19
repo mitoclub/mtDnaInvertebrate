@@ -1,65 +1,13 @@
-	YP_009721474.1|ND1	YP_009721475.1|ND2	YP_009721476.1|COX1	YP_009721477.1|COX2	YP_009721478.1|ATP8	YP_009721479.1|ATP6	YP_009721480.1|COX3	YP_009721481.1|ND3	YP_009721482.1|ND4L	YP_009721483.1|ND4	YP_009721484.1|ND5	YP_009721485.1|CYTB
-TTT	4	2	3	1	2	3	4	2	2	1	6	2
-TTC	14	15	40	6	2	10	19	6	3	14	28	25
-TTA	6	6	6	4	0	3	1	3	1	9	9	3
-TTG	0	1	1	0	0	0	0	0	0	0	0	0
-TCT	7	4	4	1	0	0	3	1	1	3	3	5
-TCC	6	9	12	4	1	7	3	2	4	11	14	4
-TCA	3	11	8	10	1	5	5	2	2	10	19	11
-TCG	2	0	0	0	0	0	0	0	0	3	1	0
-TAT	4	3	2	2	0	2	2	1	0	1	2	2
-TAC	10	4	15	6	0	1	10	1	2	12	13	11
-TGT	0	0	0	0	0	0	0	1	1	0	0	1
-TGC	3	2	1	3	0	0	1	0	2	3	7	3
-TGA	7	7	17	5	5	3	12	4	1	10	12	11
-TGG	1	3	0	0	0	1	0	1	0	2	0	0
-CTT	10	8	5	4	1	4	7	1	2	10	9	9
-CTC	11	15	9	5	0	15	7	5	2	21	22	10
-CTA	38	26	40	15	4	34	16	16	18	50	58	40
-CTG	5	2	2	2	0	2	1	1	0	4	4	3
-CCT	4	5	6	3	2	4	2	1	0	5	4	6
-CCC	5	6	5	1	3	1	6	2	3	6	7	5
-CCA	15	8	19	9	4	10	5	4	1	17	20	14
-CCG	1	2	0	0	0	0	0	0	0	0	1	0
-CAT	1	2	2	1	0	1	4	0	1	1	1	0
-CAC	2	7	17	7	1	2	13	0	5	15	11	12
-CAA	5	10	9	8	2	8	7	4	3	13	17	7
-CAG	1	1	0	1	0	0	1	0	0	0	0	0
-CGT	0	1	0	1	0	0	0	0	0	1	0	2
-CGC	3	1	3	1	0	2	3	1	0	3	2	1
-CGA	3	2	5	4	0	3	3	1	2	8	6	5
-CGG	2	0	0	0	0	0	0	0	0	0	0	0
-ATT	7	4	14	2	0	3	4	3	0	9	16	11
-ATC	16	26	28	11	4	17	13	5	3	37	42	23
-ATA	8	15	16	6	1	7	7	4	4	25	27	7
-ATG	3	4	7	4	2	1	1	1	2	2	2	2
-ACT	6	7	5	5	3	3	5	2	1	6	9	4
-ACC	6	18	12	4	5	11	8	6	5	22	37	10
-ACA	7	22	19	9	3	9	9	3	4	15	23	13
-ACG	0	0	0	1	0	1	0	0	0	0	1	1
-AAT	4	0	0	1	0	0	0	0	0	3	3	4
-AAC	8	13	15	7	3	10	3	4	2	11	22	17
-AAA	7	12	8	4	3	4	4	1	0	10	20	10
-AAG	1	0	1	0	0	0	0	0	0	0	1	0
-AGT	0	1	0	1	0	2	0	1	0	2	2	0
-AGC	5	4	4	3	2	2	5	0	3	9	9	1
-GTT	0	2	4	2	0	2	0	1	0	3	2	1
-GTC	2	2	8	9	0	3	7	1	0	1	2	9
-GTA	11	5	22	9	1	4	7	1	1	4	12	9
-GTG	0	2	2	0	0	0	0	0	0	0	2	0
-GCT	7	5	4	4	0	1	1	2	3	4	6	6
-GCC	10	10	23	8	0	9	11	4	3	23	26	15
-GCA	15	13	21	3	0	4	9	3	2	10	13	5
-GCG	0	0	0	0	0	0	0	0	1	1	0	0
-GAT	1	0	1	2	0	0	3	1	0	0	1	1
-GAC	3	2	14	10	0	1	3	2	1	2	8	7
-GAA	11	4	10	9	0	4	5	6	1	8	10	6
-GAG	0	0	0	1	0	0	1	0	1	2	0	2
-GGT	3	0	5	1	0	0	0	0	0	1	4	1
-GGC	4	4	10	2	0	4	8	1	3	8	9	8
-GGA	5	8	32	5	0	4	10	4	1	8	18	13
-GGG	2	0	0	0	0	0	2	0	1	0	2	2
-TAA	1	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009721474.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	4	14	6	0	7	6	3	2	4	10	0	3	7	1	10	11	38	5	4	5	15	1	1	2	5	1	0	3	3	2	7	16	8	3	6	6	7	0	4	8	7	1	0	5	0	2	11	0	7	10	15	0	1	3	11	0	3	4	5	2	1	0	0	0
+1	ND2	YP_009721475.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	2	15	6	1	4	9	11	0	3	4	0	2	7	3	8	15	26	2	5	6	8	2	2	7	10	1	1	1	2	0	4	26	15	4	7	18	22	0	0	13	12	0	1	4	2	2	5	2	5	10	13	0	0	2	4	0	0	4	8	0	0	0	0	0
+2	COX1	YP_009721476.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	3	40	6	1	4	12	8	0	2	15	0	1	17	0	5	9	40	2	6	5	19	0	2	17	9	0	0	3	5	0	14	28	16	7	5	12	19	0	0	15	8	1	0	4	4	8	22	2	4	23	21	0	1	14	10	0	5	10	32	0	0	0	0	1
+3	COX2	YP_009721477.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	1	6	4	0	1	4	10	0	2	6	0	3	5	0	4	5	15	2	3	1	9	0	1	7	8	1	1	1	4	0	2	11	6	4	5	4	9	1	1	7	4	0	1	3	2	9	9	0	4	8	3	0	2	10	9	1	1	2	5	0	1	0	0	0
+4	ATP8	YP_009721478.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	2	2	0	0	0	1	1	0	0	0	0	0	5	0	1	0	4	0	2	3	4	0	0	1	2	0	0	0	0	0	0	4	1	2	3	5	3	0	0	3	3	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009721479.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	3	10	3	0	0	7	5	0	2	1	0	0	3	1	4	15	34	2	4	1	10	0	1	2	8	0	0	2	3	0	3	17	7	1	3	11	9	1	0	10	4	0	2	2	2	3	4	0	1	9	4	0	0	1	4	0	0	4	4	0	1	0	0	0
+6	COX3	YP_009721480.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	4	19	1	0	3	3	5	0	2	10	0	1	12	0	7	7	16	1	2	6	5	0	4	13	7	1	0	3	3	0	4	13	7	1	5	8	9	0	0	3	4	0	0	5	0	7	7	0	1	11	9	0	3	3	5	1	0	8	10	2	0	0	0	0
+7	ND3	YP_009721481.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	2	6	3	0	1	2	2	0	1	1	1	0	4	1	1	5	16	1	1	2	4	0	0	0	4	0	0	1	1	0	3	5	4	1	2	6	3	0	0	4	1	0	1	0	1	1	1	0	2	4	3	0	1	2	6	0	0	1	4	0	0	0	0	0
+8	ND4L	YP_009721482.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	2	3	1	0	1	4	2	0	0	2	1	2	1	0	2	2	18	0	0	3	1	0	1	5	3	0	0	0	2	0	0	3	4	2	1	5	4	0	0	2	0	0	0	3	0	0	1	0	3	3	2	1	0	1	1	1	0	3	1	1	1	0	0	0
+9	ND4	YP_009721483.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	1	14	9	0	3	11	10	3	1	12	0	3	10	2	10	21	50	4	5	6	17	0	1	15	13	0	1	3	8	0	9	37	25	2	6	22	15	0	3	11	10	0	2	9	3	1	4	0	4	23	10	1	0	2	8	2	1	8	8	0	0	0	0	0
+10	ND5	YP_009721484.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	6	28	9	0	3	14	19	1	2	13	0	7	12	0	9	22	58	4	4	7	20	1	1	11	17	0	0	2	6	0	16	42	27	2	9	37	23	1	3	22	20	1	2	9	2	2	12	2	6	26	13	0	1	8	10	0	4	9	18	2	0	0	1	0
+11	CYTB	YP_009721485.1	Siva cyanouroptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Leiothrichidae, Siva	2	25	3	0	5	4	11	0	2	11	1	3	11	0	9	10	40	3	6	5	14	0	0	12	7	0	2	1	5	0	11	23	7	2	4	10	13	1	4	17	10	0	0	1	1	9	9	0	6	15	5	0	1	7	6	2	1	8	13	2	1	0	0	0

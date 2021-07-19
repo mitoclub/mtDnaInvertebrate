@@ -1,65 +1,13 @@
-	YP_009368023.1|ND1	YP_009368024.1|ND2	YP_009368025.1|COX1	YP_009368026.1|COX2	YP_009368027.1|ATP8	YP_009368028.1|ATP6	YP_009368029.1|COX3	YP_009368030.1|ND3	YP_009368031.1|ND4L	YP_009368032.1|ND4	YP_009368033.1|ND5	YP_009368035.1|CYTB
-TTT	6	6	21	3	3	3	9	4	1	9	19	10
-TTC	12	6	20	3	1	5	16	4	4	14	22	19
-TTA	11	11	18	10	3	8	2	1	4	17	21	11
-TTG	0	1	2	0	3	4	0	1	0	0	1	2
-TCT	2	1	5	5	1	1	5	1	1	7	8	4
-TCC	8	6	6	5	3	5	4	2	5	11	14	9
-TCA	12	9	14	5	3	5	9	0	2	11	15	6
-TCG	0	1	2	0	0	0	0	0	0	2	1	1
-TAT	8	0	8	6	2	0	4	2	1	5	4	5
-TAC	7	8	12	4	0	2	7	2	1	8	9	9
-TGT	0	1	0	1	0	0	0	0	1	1	1	3
-TGC	1	0	1	3	0	0	1	1	2	3	4	1
-TGA	9	11	15	5	3	3	11	4	0	13	11	11
-TGG	0	0	2	0	0	0	1	0	0	1	1	0
-CTT	9	3	12	10	2	9	8	5	2	19	9	8
-CTC	7	16	7	4	2	5	7	7	4	13	22	14
-CTA	27	30	13	12	0	16	16	7	10	35	40	26
-CTG	5	5	7	1	1	6	2	2	2	4	6	0
-CCT	1	5	12	3	4	6	4	1	0	3	5	2
-CCC	7	6	8	4	2	4	4	2	1	10	10	14
-CCA	12	7	8	5	1	4	3	4	1	7	10	9
-CCG	1	0	0	0	0	0	0	0	0	2	1	0
-CAT	1	2	5	2	0	1	8	0	2	8	2	4
-CAC	1	4	14	5	0	6	7	0	1	5	9	6
-CAA	6	10	4	6	4	8	7	3	1	10	18	8
-CAG	0	3	2	0	0	0	0	0	1	0	2	0
-CGT	1	0	1	1	1	1	0	0	0	0	0	0
-CGC	0	0	2	3	0	2	2	1	1	2	3	3
-CGA	6	3	5	2	0	2	3	0	0	8	6	4
-CGG	1	0	0	0	0	0	1	0	0	0	0	0
-ATT	14	18	13	10	3	19	8	5	4	21	29	16
-ATC	11	21	25	8	3	9	8	5	5	20	32	21
-ATA	15	26	23	9	3	8	8	2	6	33	35	13
-ATG	3	2	11	3	1	1	1	2	3	5	7	3
-ACT	2	12	7	5	0	3	3	1	3	7	11	6
-ACC	12	10	4	7	1	13	7	3	1	13	19	8
-ACA	16	18	20	6	3	10	12	7	1	21	23	14
-ACG	0	3	3	0	1	1	0	0	1	1	3	1
-AAT	4	8	7	2	2	4	2	2	3	10	11	4
-AAC	9	13	9	2	2	5	5	3	2	14	27	15
-AAA	7	9	9	4	6	4	2	4	0	9	24	10
-AAG	1	2	0	1	0	0	0	0	0	2	0	1
-AGT	0	1	2	2	0	3	0	0	0	3	3	1
-AGC	1	3	2	2	1	1	4	0	1	9	10	1
-GTT	0	2	11	4	0	4	2	1	1	0	6	2
-GTC	2	1	6	5	1	1	6	0	0	1	3	1
-GTA	8	3	18	6	0	5	4	3	4	5	5	11
-GTG	0	0	3	1	0	1	1	0	1	1	2	0
-GCT	3	4	10	5	0	3	3	0	0	2	5	4
-GCC	13	9	16	2	0	5	8	4	5	12	14	8
-GCA	10	9	13	2	0	6	3	5	1	12	15	9
-GCG	0	0	3	0	0	0	1	1	0	0	1	0
-GAT	1	0	11	6	1	1	3	1	0	0	3	4
-GAC	2	0	5	5	0	0	0	1	1	3	5	7
-GAA	9	3	8	13	1	3	7	7	2	9	9	6
-GAG	2	1	2	1	0	0	1	0	0	1	2	0
-GGT	2	1	9	3	0	3	4	1	1	4	6	2
-GGC	6	4	11	2	0	2	9	0	2	3	8	10
-GGA	3	8	20	1	0	4	7	1	2	7	10	11
-GGG	1	1	7	2	0	1	1	2	0	3	1	1
-TAA	0	0	1	1	0	1	0	1	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009368023.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	6	12	11	0	2	8	12	0	8	7	0	1	9	0	9	7	27	5	1	7	12	1	1	1	6	0	1	0	6	1	14	11	15	3	2	12	16	0	4	9	7	1	0	1	0	2	8	0	3	13	10	0	1	2	9	2	2	6	3	1	0	0	0	0
+1	ND2	YP_009368024.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	6	6	11	1	1	6	9	1	0	8	1	0	11	0	3	16	30	5	5	6	7	0	2	4	10	3	0	0	3	0	18	21	26	2	12	10	18	3	8	13	9	2	1	3	2	1	3	0	4	9	9	0	0	0	3	1	1	4	8	1	0	0	0	0
+2	COX1	YP_009368025.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	21	20	18	2	5	6	14	2	8	12	0	1	15	2	12	7	13	7	12	8	8	0	5	14	4	2	1	2	5	0	13	25	23	11	7	4	20	3	7	9	9	0	2	2	11	6	18	3	10	16	13	3	11	5	8	2	9	11	20	7	1	0	0	0
+3	COX2	YP_009368026.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	3	10	0	5	5	5	0	6	4	1	3	5	0	10	4	12	1	3	4	5	0	2	5	6	0	1	3	2	0	10	8	9	3	5	7	6	0	2	2	4	1	2	2	4	5	6	1	5	2	2	0	6	5	13	1	3	2	1	2	1	0	0	0
+4	ATP8	YP_009368027.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	1	3	3	1	3	3	0	2	0	0	0	3	0	2	2	0	1	4	2	1	0	0	0	4	0	1	0	0	0	3	3	3	1	0	1	3	1	2	2	6	0	0	1	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009368028.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	5	8	4	1	5	5	0	0	2	0	0	3	0	9	5	16	6	6	4	4	0	1	6	8	0	1	2	2	0	19	9	8	1	3	13	10	1	4	5	4	0	3	1	4	1	5	1	3	5	6	0	1	0	3	0	3	2	4	1	1	0	0	0
+6	COX3	YP_009368029.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	16	2	0	5	4	9	0	4	7	0	1	11	1	8	7	16	2	4	4	3	0	8	7	7	0	0	2	3	1	8	8	8	1	3	7	12	0	2	5	2	0	0	4	2	6	4	1	3	8	3	1	3	0	7	1	4	9	7	1	0	0	0	0
+7	ND3	YP_009368030.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	4	1	1	1	2	0	0	2	2	0	1	4	0	5	7	7	2	1	2	4	0	0	0	3	0	0	1	0	0	5	5	2	2	1	3	7	0	2	3	4	0	0	0	1	0	3	0	0	4	5	1	1	1	7	0	1	0	1	2	1	0	0	0
+8	ND4L	YP_009368031.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	1	4	4	0	1	5	2	0	1	1	1	2	0	0	2	4	10	2	0	1	1	0	2	1	1	1	0	1	0	0	4	5	6	3	3	1	1	1	3	2	0	0	0	1	1	0	4	1	0	5	1	0	0	1	2	0	1	2	2	0	1	0	0	0
+9	ND4	YP_009368032.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	14	17	0	7	11	11	2	5	8	1	3	13	1	19	13	35	4	3	10	7	2	8	5	10	0	0	2	8	0	21	20	33	5	7	13	21	1	10	14	9	2	3	9	0	1	5	1	2	12	12	0	0	3	9	1	4	3	7	3	0	0	0	0
+10	ND5	YP_009368033.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	19	22	21	1	8	14	15	1	4	9	1	4	11	1	9	22	40	6	5	10	10	1	2	9	18	2	0	3	6	0	29	32	35	7	11	19	23	3	11	27	24	0	3	10	6	3	5	2	5	14	15	1	3	5	9	2	6	8	10	1	1	0	0	0
+11	CYTB	YP_009368035.1	Lepilemur ankaranensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	10	19	11	2	4	9	6	1	5	9	3	1	11	0	8	14	26	0	2	14	9	0	4	6	8	0	0	3	4	0	16	21	13	3	6	8	14	1	4	15	10	1	1	1	2	1	11	0	4	8	9	0	4	7	6	0	2	10	11	1	0	0	1	0

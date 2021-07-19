@@ -1,65 +1,13 @@
-	YP_009113691.1|ND1	YP_009113692.1|ND2	YP_009113693.1|COX1	YP_009113694.1|COX2	YP_009113695.1|ATP8	YP_009113696.1|ATP6	YP_009113697.1|COX3	YP_009113698.1|ND3	YP_009113699.1|ND4L	YP_009113700.1|ND4	YP_009113701.1|ND5	YP_009113702.1|CYTB
-TTT	6	1	8	1	0	2	3	1	1	1	4	7
-TTC	11	12	32	8	3	5	20	7	4	9	28	22
-TTA	6	6	5	7	1	13	3	4	2	10	14	9
-TTG	1	0	5	1	0	0	1	0	0	0	2	0
-TCT	6	5	5	2	0	1	3	0	3	4	2	6
-TCC	10	13	10	7	4	2	5	4	5	13	18	8
-TCA	9	13	9	8	2	5	5	3	5	9	14	10
-TCG	0	1	0	0	0	0	0	0	0	1	1	0
-TAT	3	2	4	3	0	2	4	0	1	5	5	6
-TAC	12	6	13	5	0	2	6	2	0	9	7	7
-TGT	0	0	0	0	0	0	1	1	1	1	2	1
-TGC	0	2	1	3	0	0	0	0	3	4	3	3
-TGA	7	10	15	5	5	3	11	4	1	8	10	8
-TGG	2	0	2	0	0	1	2	1	0	3	1	3
-CTT	8	10	5	3	1	6	6	5	2	15	7	11
-CTC	22	13	14	8	2	18	7	5	3	30	24	9
-CTA	29	29	33	11	2	21	16	8	12	44	54	35
-CTG	3	3	2	3	0	0	3	2	0	4	6	3
-CCT	4	2	6	4	2	4	1	0	0	1	2	5
-CCC	11	12	9	3	4	5	7	2	0	19	13	12
-CCA	10	7	15	7	2	9	4	5	1	10	17	7
-CCG	1	1	1	0	0	0	1	0	0	3	0	0
-CAT	0	0	6	4	0	0	4	0	2	7	5	3
-CAC	3	6	13	3	1	3	12	1	2	12	10	11
-CAA	5	6	10	7	2	8	9	2	2	13	17	7
-CAG	0	3	0	0	0	0	0	1	1	2	2	0
-CGT	0	0	2	0	0	0	0	0	0	3	0	0
-CGC	2	1	1	3	0	3	0	0	1	2	2	2
-CGA	5	1	5	2	0	2	4	2	1	5	5	5
-CGG	1	1	0	0	0	0	0	0	1	0	1	1
-ATT	3	11	11	5	0	5	4	2	1	13	11	6
-ATC	15	25	29	15	4	20	9	8	3	21	35	26
-ATA	12	17	20	9	2	9	6	6	5	23	24	8
-ATG	2	2	3	2	1	4	1	0	1	4	5	1
-ACT	0	6	3	2	0	4	4	1	0	6	7	4
-ACC	13	20	18	8	4	12	12	7	2	24	32	16
-ACA	10	24	17	5	5	10	11	2	5	23	34	10
-ACG	2	0	2	2	0	1	0	0	0	0	2	0
-AAT	1	1	2	1	2	1	0	0	0	1	4	4
-AAC	10	10	14	3	2	9	4	2	2	9	19	18
-AAA	6	11	6	4	2	3	3	2	0	10	22	10
-AAG	1	2	3	0	1	0	0	0	0	2	2	0
-AGT	0	0	0	0	0	0	2	0	1	1	1	1
-AGC	8	6	3	3	0	2	4	1	4	11	12	2
-GTT	4	0	3	5	0	1	3	0	0	0	1	3
-GTC	4	1	12	2	0	2	5	1	1	5	7	1
-GTA	5	3	17	5	0	4	5	2	2	5	4	7
-GTG	1	1	3	0	0	0	1	0	0	0	3	1
-GCT	5	6	12	0	0	2	4	3	0	4	10	4
-GCC	9	8	18	12	0	7	5	4	4	16	28	16
-GCA	9	7	16	0	1	3	10	0	4	10	12	5
-GCG	2	0	0	0	0	0	0	1	1	0	0	0
-GAT	2	0	1	4	0	0	1	0	0	1	1	2
-GAC	2	2	14	10	0	1	3	3	1	2	7	4
-GAA	11	4	8	10	0	3	6	4	3	8	10	5
-GAG	0	1	2	4	0	1	2	2	0	1	3	2
-GGT	0	1	11	1	0	1	1	0	0	2	5	5
-GGC	3	6	6	2	0	3	5	0	2	6	6	8
-GGA	6	4	21	4	0	4	10	4	2	5	15	6
-GGG	3	1	9	1	0	0	2	1	0	4	6	3
-TAA	0	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009113691.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	6	11	6	1	6	10	9	0	3	12	0	0	7	2	8	22	29	3	4	11	10	1	0	3	5	0	0	2	5	1	3	15	12	2	0	13	10	2	1	10	6	1	0	8	4	4	5	1	5	9	9	2	2	2	11	0	0	3	6	3	0	0	0	1
+1	ND2	YP_009113692.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	1	12	6	0	5	13	13	1	2	6	0	2	10	0	10	13	29	3	2	12	7	1	0	6	6	3	0	1	1	1	11	25	17	2	6	20	24	0	1	10	11	2	0	6	0	1	3	1	6	8	7	0	0	2	4	1	1	6	4	1	0	0	0	0
+2	COX1	YP_009113693.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	8	32	5	5	5	10	9	0	4	13	0	1	15	2	5	14	33	2	6	9	15	1	6	13	10	0	2	1	5	0	11	29	20	3	3	18	17	2	2	14	6	3	0	3	3	12	17	3	12	18	16	0	1	14	8	2	11	6	21	9	0	0	0	1
+3	COX2	YP_009113694.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	1	8	7	1	2	7	8	0	3	5	0	3	5	0	3	8	11	3	4	3	7	0	4	3	7	0	0	3	2	0	5	15	9	2	2	8	5	2	1	3	4	0	0	3	5	2	5	0	0	12	0	0	4	10	10	4	1	2	4	1	1	0	0	0
+4	ATP8	YP_009113695.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	0	3	1	0	0	4	2	0	0	0	0	0	5	0	1	2	2	0	2	4	2	0	0	1	2	0	0	0	0	0	0	4	2	1	0	4	5	0	2	2	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009113696.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	2	5	13	0	1	2	5	0	2	2	0	0	3	1	6	18	21	0	4	5	9	0	0	3	8	0	0	3	2	0	5	20	9	4	4	12	10	1	1	9	3	0	0	2	1	2	4	0	2	7	3	0	0	1	3	1	1	3	4	0	1	0	0	0
+6	COX3	YP_009113697.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	3	20	3	1	3	5	5	0	4	6	1	0	11	2	6	7	16	3	1	7	4	1	4	12	9	0	0	0	4	0	4	9	6	1	4	12	11	0	0	4	3	0	2	4	3	5	5	1	4	5	10	0	1	3	6	2	1	5	10	2	0	0	0	0
+7	ND3	YP_009113698.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	1	7	4	0	0	4	3	0	0	2	1	0	4	1	5	5	8	2	0	2	5	0	0	1	2	1	0	0	2	0	2	8	6	0	1	7	2	0	0	2	2	0	0	1	0	1	2	0	3	4	0	1	0	3	4	2	0	0	4	1	0	0	0	0
+8	ND4L	YP_009113699.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	1	4	2	0	3	5	5	0	1	0	1	3	1	0	2	3	12	0	0	0	1	0	2	2	2	1	0	1	1	1	1	3	5	1	0	2	5	0	0	2	0	0	1	4	0	1	2	0	0	4	4	1	0	1	3	0	0	2	2	0	1	0	0	0
+9	ND4	YP_009113700.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	1	9	10	0	4	13	9	1	5	9	1	4	8	3	15	30	44	4	1	19	10	3	7	12	13	2	3	2	5	0	13	21	23	4	6	24	23	0	1	9	10	2	1	11	0	5	5	0	4	16	10	0	1	2	8	1	2	6	5	4	0	0	0	0
+10	ND5	YP_009113701.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	4	28	14	2	2	18	14	1	5	7	2	3	10	1	7	24	54	6	2	13	17	0	5	10	17	2	0	2	5	1	11	35	24	5	7	32	34	2	4	19	22	2	1	12	1	7	4	3	10	28	12	0	1	7	10	3	5	6	15	6	0	1	0	0
+11	CYTB	YP_009113702.1	Aratinga solstitialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Aratinga	7	22	9	0	6	8	10	0	6	7	1	3	8	3	11	9	35	3	5	12	7	0	3	11	7	0	0	2	5	1	6	26	8	1	4	16	10	0	4	18	10	0	1	2	3	1	7	1	4	16	5	0	2	4	5	2	5	8	6	3	1	0	0	0

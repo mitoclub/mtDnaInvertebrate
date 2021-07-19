@@ -1,65 +1,13 @@
-	YP_009142176.1|ND1	YP_009142177.1|ND2	YP_009142178.1|COX1	YP_009142179.1|COX2	YP_009142180.1|ATP8	YP_009142181.1|ATP6	YP_009142182.1|COX3	YP_009142183.1|ND3	YP_009142184.1|ND4L	YP_009142185.1|ND4	YP_009142186.1|ND5	YP_009142188.1|CYTB
-TTT	6	2	18	1	1	7	8	3	4	10	13	8
-TTC	12	8	23	8	3	2	15	4	3	5	28	22
-TTA	6	13	10	5	2	11	7	2	3	13	10	9
-TTG	1	1	0	1	0	0	3	1	3	4	2	3
-TCT	0	2	3	1	0	0	2	0	1	4	7	2
-TCC	8	6	10	7	0	3	4	3	4	11	13	11
-TCA	6	5	8	6	1	1	6	2	1	4	8	9
-TCG	3	0	2	0	0	0	0	1	0	0	0	1
-TAT	7	3	7	4	0	2	5	2	1	8	3	7
-TAC	4	4	12	5	0	2	6	0	0	8	9	7
-TGT	0	2	1	1	0	0	0	0	1	1	4	1
-TGC	0	0	0	1	0	0	2	1	2	3	2	2
-TGA	6	10	15	4	4	3	10	3	1	13	12	10
-TGG	2	1	2	1	1	1	2	2	0	8	3	2
-CTT	4	5	10	7	2	3	5	5	2	7	13	5
-CTC	10	12	14	4	0	5	6	4	1	13	16	18
-CTA	36	26	20	8	3	25	8	10	11	38	42	27
-CTG	7	7	7	3	0	7	4	7	2	11	14	3
-CCT	2	0	3	1	0	1	2	0	0	4	2	0
-CCC	19	12	12	5	1	8	6	8	2	15	15	13
-CCA	2	8	11	6	3	6	3	1	0	9	9	6
-CCG	1	0	2	2	1	0	1	0	0	1	4	2
-CAT	1	0	7	1	1	1	4	0	1	1	3	2
-CAC	3	7	14	9	1	4	13	1	2	10	12	10
-CAA	7	14	5	8	1	5	6	3	3	11	12	5
-CAG	0	2	3	0	0	4	2	0	1	2	5	2
-CGT	0	0	0	0	0	0	0	0	0	1	0	0
-CGC	2	2	2	0	0	0	1	2	0	3	4	1
-CGA	4	2	6	5	0	3	3	0	2	6	7	6
-CGG	2	0	0	1	0	2	1	0	0	1	0	0
-ATT	13	16	21	11	0	13	9	5	0	18	28	15
-ATC	11	12	18	6	3	8	3	2	2	24	26	18
-ATA	12	18	22	9	0	7	6	4	3	18	22	8
-ATG	1	6	4	3	1	3	3	2	2	7	9	2
-ACT	3	2	4	1	0	5	3	1	0	3	8	4
-ACC	8	17	11	5	3	4	11	3	3	21	32	8
-ACA	6	23	20	4	4	18	7	3	5	16	17	10
-ACG	2	1	3	1	1	0	2	1	1	0	1	1
-AAT	7	6	7	0	1	4	0	1	0	5	7	5
-AAC	8	7	8	6	4	6	1	1	1	8	24	16
-AAA	7	6	8	4	4	3	2	1	0	9	19	8
-AAG	0	3	0	0	0	0	0	0	0	1	4	1
-AGT	0	0	1	1	0	0	0	0	1	1	1	0
-AGC	2	3	2	2	1	3	3	0	1	8	8	0
-GTT	5	1	7	5	1	5	3	0	1	0	3	4
-GTC	4	1	11	8	0	2	7	1	0	3	8	6
-GTA	4	4	15	6	3	6	8	1	1	11	8	12
-GTG	3	1	8	3	0	1	0	1	0	2	0	2
-GCT	4	2	12	3	0	2	3	2	0	4	5	0
-GCC	17	25	24	7	1	5	10	2	14	20	32	11
-GCA	13	17	9	4	1	9	9	4	2	15	17	14
-GCG	0	1	2	1	0	1	0	0	1	1	1	0
-GAT	1	0	4	3	0	0	3	2	0	1	2	3
-GAC	2	1	10	9	0	1	2	2	1	2	12	6
-GAA	8	4	8	12	2	3	8	4	1	6	7	5
-GAG	3	1	3	3	0	1	1	2	2	5	5	1
-GGT	1	1	6	1	0	0	1	1	0	3	5	0
-GGC	8	5	13	1	0	6	12	3	3	11	10	10
-GGA	6	7	17	5	0	3	5	1	2	8	11	10
-GGG	3	3	11	1	0	2	4	1	0	4	4	5
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009142176.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	6	12	6	1	0	8	6	3	7	4	0	0	6	2	4	10	36	7	2	19	2	1	1	3	7	0	0	2	4	2	13	11	12	1	3	8	6	2	7	8	7	0	0	2	5	4	4	3	4	17	13	0	1	2	8	3	1	8	6	3	0	1	0	0
+1	ND2	YP_009142177.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	2	8	13	1	2	6	5	0	3	4	2	0	10	1	5	12	26	7	0	12	8	0	0	7	14	2	0	2	2	0	16	12	18	6	2	17	23	1	6	7	6	3	0	3	1	1	4	1	2	25	17	1	0	1	4	1	1	5	7	3	0	0	0	0
+2	COX1	YP_009142178.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	18	23	10	0	3	10	8	2	7	12	1	0	15	2	10	14	20	7	3	12	11	2	7	14	5	3	0	2	6	0	21	18	22	4	4	11	20	3	7	8	8	0	1	2	7	11	15	8	12	24	9	2	4	10	8	3	6	13	17	11	1	0	0	0
+3	COX2	YP_009142179.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	1	8	5	1	1	7	6	0	4	5	1	1	4	1	7	4	8	3	1	5	6	2	1	9	8	0	0	0	5	1	11	6	9	3	1	5	4	1	0	6	4	0	1	2	5	8	6	3	3	7	4	1	3	9	12	3	1	1	5	1	0	0	0	0
+4	ATP8	YP_009142180.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	1	3	2	0	0	0	1	0	0	0	0	0	4	1	2	0	3	0	0	1	3	1	1	1	1	0	0	0	0	0	0	3	0	1	0	3	4	1	1	4	4	0	0	1	1	0	3	0	0	1	1	0	0	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009142181.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	7	2	11	0	0	3	1	0	2	2	0	0	3	1	3	5	25	7	1	8	6	0	1	4	5	4	0	0	3	2	13	8	7	3	5	4	18	0	4	6	3	0	0	3	5	2	6	1	2	5	9	1	0	1	3	1	0	6	3	2	1	0	0	0
+6	COX3	YP_009142182.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	8	15	7	3	2	4	6	0	5	6	0	2	10	2	5	6	8	4	2	6	3	1	4	13	6	2	0	1	3	1	9	3	6	3	3	11	7	2	0	1	2	0	0	3	3	7	8	0	3	10	9	0	3	2	8	1	1	12	5	4	0	0	0	0
+7	ND3	YP_009142183.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	3	4	2	1	0	3	2	1	2	0	0	1	3	2	5	4	10	7	0	8	1	0	0	1	3	0	0	2	0	0	5	2	4	2	1	3	3	1	1	1	1	0	0	0	0	1	1	1	2	2	4	0	2	2	4	2	1	3	1	1	0	0	0	0
+8	ND4L	YP_009142184.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	4	3	3	3	1	4	1	0	1	0	1	2	1	0	2	1	11	2	0	2	0	0	1	2	3	1	0	0	2	0	0	2	3	2	0	3	5	1	0	1	0	0	1	1	1	0	1	0	0	14	2	1	0	1	1	2	0	3	2	0	1	0	0	0
+9	ND4	YP_009142185.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	10	5	13	4	4	11	4	0	8	8	1	3	13	8	7	13	38	11	4	15	9	1	1	10	11	2	1	3	6	1	18	24	18	7	3	21	16	0	5	8	9	1	1	8	0	3	11	2	4	20	15	1	1	2	6	5	3	11	8	4	0	0	0	0
+10	ND5	YP_009142186.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	13	28	10	2	7	13	8	0	3	9	4	2	12	3	13	16	42	14	2	15	9	4	3	12	12	5	0	4	7	0	28	26	22	9	8	32	17	1	7	24	19	4	1	8	3	8	8	0	5	32	17	1	2	12	7	5	5	10	11	4	1	0	0	0
+11	CYTB	YP_009142188.1	Liobagrus mediadiposalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Amblycipitidae, Liobagrus	8	22	9	3	2	11	9	1	7	7	1	2	10	2	5	18	27	3	0	13	6	2	2	10	5	2	0	1	6	0	15	18	8	2	4	8	10	1	5	16	8	1	0	0	4	6	12	2	0	11	14	0	3	6	5	1	0	10	10	5	0	0	0	0

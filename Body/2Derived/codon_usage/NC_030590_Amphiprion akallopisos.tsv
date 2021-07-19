@@ -1,65 +1,13 @@
-	YP_009266324.1|ND1	YP_009266325.1|ND2	YP_009266326.1|COX1	YP_009266327.1|COX2	YP_009266328.1|ATP8	YP_009266329.1|ATP6	YP_009266330.1|COX3	YP_009266331.1|ND3	YP_009266332.1|ND4L	YP_009266333.1|ND4	YP_009266334.1|ND5	YP_009266336.1|CYTB
-TTT	5	6	14	5	1	5	4	4	2	5	11	11
-TTC	16	6	28	4	3	8	18	4	5	11	37	22
-TTA	13	8	7	5	2	7	4	3	4	7	11	2
-TTG	1	0	3	0	0	0	0	1	0	0	2	0
-TCT	1	3	8	4	0	1	2	2	0	2	9	3
-TCC	8	10	8	6	1	2	5	5	5	18	15	12
-TCA	9	6	7	2	0	1	3	1	4	2	9	7
-TCG	1	0	1	0	0	0	0	0	0	0	0	0
-TAT	3	0	9	3	0	2	4	2	0	4	1	6
-TAC	5	7	10	6	0	1	9	0	0	12	8	8
-TGT	0	0	0	0	0	0	0	0	0	1	1	1
-TGC	0	1	1	2	0	0	2	1	3	4	7	2
-TGA	8	11	18	4	4	4	12	5	1	16	14	12
-TGG	0	0	0	1	1	1	0	0	0	2	0	1
-CTT	11	17	22	11	1	11	6	4	5	23	18	8
-CTC	18	18	11	4	0	7	8	7	4	28	20	15
-CTA	22	32	16	7	2	20	14	9	8	31	46	32
-CTG	2	2	5	2	0	5	1	3	2	3	2	3
-CCT	9	8	7	5	1	4	3	0	1	3	7	7
-CCC	8	6	7	8	4	7	2	6	1	10	13	5
-CCA	7	8	13	5	4	5	7	2	0	13	12	9
-CCG	0	1	2	0	1	1	0	0	0	0	0	0
-CAT	0	1	5	6	1	2	6	0	1	4	2	4
-CAC	3	6	14	4	1	2	9	1	4	6	10	8
-CAA	6	14	7	7	2	9	9	2	2	9	13	5
-CAG	1	1	2	1	0	1	0	1	0	1	3	1
-CGT	0	0	2	2	0	1	1	0	0	0	1	1
-CGC	0	0	1	0	0	0	0	1	2	3	0	0
-CGA	7	3	5	4	0	4	4	1	1	8	8	8
-CGG	1	0	0	0	0	0	0	0	0	1	0	0
-ATT	12	11	22	11	2	15	6	5	1	18	21	19
-ATC	10	12	16	11	0	5	8	3	1	18	30	11
-ATA	11	14	12	8	0	8	7	2	2	20	16	6
-ATG	1	4	10	4	1	3	3	1	2	7	12	5
-ACT	2	4	9	3	2	3	5	1	4	5	7	2
-ACC	14	20	15	1	3	6	9	3	1	24	28	7
-ACA	6	20	12	4	1	12	9	3	4	12	20	10
-ACG	0	0	2	1	0	0	0	0	0	1	5	0
-AAT	3	4	6	2	1	4	1	0	1	5	9	3
-AAC	10	6	10	4	2	6	1	1	2	6	25	16
-AAA	7	8	9	8	2	1	2	1	0	6	23	8
-AAG	0	1	0	0	1	1	0	0	0	3	1	1
-AGT	1	1	0	1	0	0	1	0	1	0	0	1
-AGC	3	2	4	2	1	4	2	0	0	9	10	1
-GTT	2	0	18	3	1	4	1	3	1	7	7	7
-GTC	4	1	5	4	1	3	8	1	0	1	3	3
-GTA	9	5	19	3	2	4	7	2	0	6	10	14
-GTG	1	0	2	3	0	1	0	0	0	0	4	0
-GCT	3	4	11	2	0	8	2	2	1	6	7	5
-GCC	12	19	19	10	2	8	13	5	9	24	31	17
-GCA	13	13	13	2	0	5	7	2	4	12	16	10
-GCG	1	0	1	0	1	0	0	0	0	1	0	0
-GAT	1	1	6	1	0	0	0	1	0	1	2	1
-GAC	3	1	9	11	1	1	5	3	2	2	13	10
-GAA	10	4	11	11	2	3	9	6	2	11	11	4
-GAG	2	0	0	2	0	1	0	0	0	2	1	2
-GGT	1	2	6	1	0	2	5	0	1	2	3	2
-GGC	10	8	13	3	0	2	9	4	2	11	15	7
-GGA	7	8	21	4	0	5	6	1	2	11	10	14
-GGG	0	0	7	2	0	1	2	1	0	2	2	1
-TAA	1	0	1	0	1	0	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009266324.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	5	16	13	1	1	8	9	1	3	5	0	0	8	0	11	18	22	2	9	8	7	0	0	3	6	1	0	0	7	1	12	10	11	1	2	14	6	0	3	10	7	0	1	3	2	4	9	1	3	12	13	1	1	3	10	2	1	10	7	0	1	0	0	0
+1	ND2	YP_009266325.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	6	6	8	0	3	10	6	0	0	7	0	1	11	0	17	18	32	2	8	6	8	1	1	6	14	1	0	0	3	0	11	12	14	4	4	20	20	0	4	6	8	1	1	2	0	1	5	0	4	19	13	0	1	1	4	0	2	8	8	0	0	0	0	0
+2	COX1	YP_009266326.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	14	28	7	3	8	8	7	1	9	10	0	1	18	0	22	11	16	5	7	7	13	2	5	14	7	2	2	1	5	0	22	16	12	10	9	15	12	2	6	10	9	0	0	4	18	5	19	2	11	19	13	1	6	9	11	0	6	13	21	7	1	0	0	0
+3	COX2	YP_009266327.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	5	4	5	0	4	6	2	0	3	6	0	2	4	1	11	4	7	2	5	8	5	0	6	4	7	1	2	0	4	0	11	11	8	4	3	1	4	1	2	4	8	0	1	2	3	4	3	3	2	10	2	0	1	11	11	2	1	3	4	2	0	0	0	0
+4	ATP8	YP_009266328.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	1	3	2	0	0	1	0	0	0	0	0	0	4	1	1	0	2	0	1	4	4	1	1	1	2	0	0	0	0	0	2	0	0	1	2	3	1	0	1	2	2	1	0	1	1	1	2	0	0	2	0	1	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009266329.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	5	8	7	0	1	2	1	0	2	1	0	0	4	1	11	7	20	5	4	7	5	1	2	2	9	1	1	0	4	0	15	5	8	3	3	6	12	0	4	6	1	1	0	4	4	3	4	1	8	8	5	0	0	1	3	1	2	2	5	1	0	0	0	0
+6	COX3	YP_009266330.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	4	18	4	0	2	5	3	0	4	9	0	2	12	0	6	8	14	1	3	2	7	0	6	9	9	0	1	0	4	0	6	8	7	3	5	9	9	0	1	1	2	0	1	2	1	8	7	0	2	13	7	0	0	5	9	0	5	9	6	2	0	0	0	0
+7	ND3	YP_009266331.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	4	4	3	1	2	5	1	0	2	0	0	1	5	0	4	7	9	3	0	6	2	0	0	1	2	1	0	1	1	0	5	3	2	1	1	3	3	0	0	1	1	0	0	0	3	1	2	0	2	5	2	0	1	3	6	0	0	4	1	1	0	0	0	0
+8	ND4L	YP_009266332.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	2	5	4	0	0	5	4	0	0	0	0	3	1	0	5	4	8	2	1	1	0	0	1	4	2	0	0	2	1	0	1	1	2	2	4	1	4	0	1	2	0	0	1	0	1	0	0	0	1	9	4	0	0	2	2	0	1	2	2	0	1	0	0	0
+9	ND4	YP_009266333.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	5	11	7	0	2	18	2	0	4	12	1	4	16	2	23	28	31	3	3	10	13	0	4	6	9	1	0	3	8	1	18	18	20	7	5	24	12	1	5	6	6	3	0	9	7	1	6	0	6	24	12	1	1	2	11	2	2	11	11	2	0	0	0	0
+10	ND5	YP_009266334.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	11	37	11	2	9	15	9	0	1	8	1	7	14	0	18	20	46	2	7	13	12	0	2	10	13	3	1	0	8	0	21	30	16	12	7	28	20	5	9	25	23	1	0	10	7	3	10	4	7	31	16	0	2	13	11	1	3	15	10	2	0	0	1	0
+11	CYTB	YP_009266336.1	Amphiprion akallopisos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Amphiprion	11	22	2	0	3	12	7	0	6	8	1	2	12	1	8	15	32	3	7	5	9	0	4	8	5	1	1	0	8	0	19	11	6	5	2	7	10	0	3	16	8	1	1	1	7	3	14	0	5	17	10	0	1	10	4	2	2	7	14	1	0	0	0	0

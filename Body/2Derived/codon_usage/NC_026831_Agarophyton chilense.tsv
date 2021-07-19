@@ -1,65 +1,15 @@
-	YP_009130778.1|orf148	YP_009130754.1|atp6	YP_009130755.1|atp8	YP_009130756.1|nad5	YP_009130757.1|nad4	YP_009130758.1|sdhD	YP_009130759.1|nad2	YP_009130760.1|nad1	YP_009130761.1|nad3	YP_009130762.1|rps11	YP_009130763.1|atp9	YP_009130764.1|sdhC	YP_009130765.1|sdhB	YP_009130766.1|nad6
-TTT	14	24	10	57	50	8	52	20	15	6	6	15	8	21
-TTC	1	6	1	12	4	1	8	2	2	0	0	1	2	0
-TTA	15	31	17	75	60	10	57	44	13	9	12	15	27	21
-TTG	2	0	4	10	12	2	15	5	2	2	0	1	0	4
-TCT	3	5	0	17	14	0	14	7	1	3	0	6	7	3
-TCC	0	0	0	3	2	0	1	2	2	1	0	1	1	2
-TCA	2	3	4	15	8	1	14	6	3	4	2	1	8	5
-TCG	2	0	2	8	1	0	2	1	0	1	0	2	2	1
-TAT	5	7	3	27	20	1	25	13	4	5	2	8	12	2
-TAC	1	0	1	2	2	1	5	1	2	0	0	1	0	1
-TGT	1	2	1	8	6	0	6	3	2	2	0	2	8	1
-TGC	1	0	0	0	0	0	0	0	0	0	0	0	5	2
-TGA	0	2	1	10	11	1	5	10	3	0	0	1	3	0
-TGG	0	1	0	2	0	0	2	0	1	1	0	1	3	2
-CTT	5	7	2	7	8	1	7	6	2	0	0	2	1	4
-CTC	0	1	0	2	1	1	0	0	1	2	0	0	0	0
-CTA	1	6	2	11	7	0	5	2	2	2	0	0	0	4
-CTG	1	0	0	2	1	0	1	0	0	0	0	1	0	1
-CCT	0	5	2	10	8	0	6	11	2	2	0	2	8	1
-CCC	1	0	0	2	2	0	0	0	0	0	0	0	1	0
-CCA	1	4	1	4	6	0	5	4	1	0	1	0	2	1
-CCG	0	0	0	1	0	0	2	0	0	0	0	0	2	0
-CAT	3	5	2	11	5	2	3	0	0	2	0	5	2	2
-CAC	1	1	0	1	0	0	0	0	0	0	0	0	3	0
-CAA	6	6	7	14	12	0	10	6	1	3	3	4	8	6
-CAG	2	0	0	1	3	0	0	0	0	0	0	0	0	1
-CGT	2	0	2	5	3	0	2	0	0	0	1	1	3	1
-CGC	0	0	0	0	1	2	0	2	0	0	0	0	0	0
-CGA	1	1	0	1	2	0	0	5	0	1	0	1	1	1
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	2	1
-ATT	3	15	7	40	40	7	41	22	7	8	3	16	10	18
-ATC	2	1	1	4	3	1	3	2	3	2	1	0	3	2
-ATA	3	13	6	22	18	7	24	15	5	4	1	6	11	6
-ATG	3	8	2	20	12	4	9	13	2	0	5	2	7	7
-ACT	8	5	3	21	9	1	13	2	3	2	5	1	3	4
-ACC	1	0	1	1	2	0	0	1	0	2	0	0	3	1
-ACA	2	14	7	13	11	1	12	7	2	6	1	2	2	3
-ACG	0	1	0	2	2	0	2	0	0	1	0	0	1	0
-AAT	19	10	6	28	12	3	22	13	1	13	1	4	15	15
-AAC	0	2	0	2	1	0	0	0	0	1	1	2	3	1
-AAA	14	5	16	19	13	3	13	7	5	15	2	2	17	8
-AAG	1	0	3	1	0	0	2	1	0	1	0	1	4	2
-AGT	2	6	1	12	12	1	16	3	5	0	1	1	7	3
-AGC	0	0	0	1	2	0	2	2	0	0	0	0	1	1
-AGA	2	0	0	6	6	1	2	2	2	3	0	1	3	1
-AGG	0	1	0	2	0	0	0	0	0	0	0	0	3	0
-GTT	4	9	3	13	12	2	13	11	1	1	1	4	3	9
-GTC	0	0	0	4	1	0	1	0	1	0	0	0	0	3
-GTA	2	5	5	15	11	2	7	7	3	2	4	2	2	5
-GTG	0	2	0	7	3	1	1	0	0	1	1	0	1	1
-GCT	1	4	0	11	11	1	10	16	3	0	5	1	3	3
-GCC	0	1	0	1	1	0	1	3	0	0	1	0	2	1
-GCA	1	8	1	14	7	0	14	7	3	1	4	0	4	6
-GCG	0	1	0	7	2	0	1	1	0	0	1	2	0	0
-GAT	2	2	7	9	7	2	7	4	4	2	0	0	9	4
-GAC	1	0	0	4	1	1	0	0	1	0	0	1	1	0
-GAA	3	6	3	12	12	2	12	8	7	2	1	3	5	3
-GAG	1	1	0	1	2	1	0	3	0	0	0	0	1	0
-GGT	1	8	1	18	17	3	11	9	2	1	6	1	3	4
-GGC	0	3	0	4	2	0	1	2	1	0	0	1	1	0
-GGA	0	4	0	22	8	4	9	15	1	4	3	0	3	1
-GGG	0	1	0	4	2	0	2	0	0	0	1	1	0	2
-TAA	0	1	0	1	1	1	1	1	1	1	1	1	1	1
-TAG	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	orf148	YP_009130778.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	14	1	15	2	3	0	2	2	5	1	1	1	0	0	5	0	1	1	0	1	1	0	3	1	6	2	2	0	1	0	3	2	3	3	8	1	2	0	19	0	14	1	2	0	2	0	4	0	2	0	1	0	1	0	2	1	3	1	1	0	0	0	0	1
+1	atp6	YP_009130754.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	24	6	31	0	5	0	3	0	7	0	2	0	2	1	7	1	6	0	5	0	4	0	5	1	6	0	0	0	1	0	15	1	13	8	5	0	14	1	10	2	5	0	6	0	0	1	9	0	5	2	4	1	8	1	2	0	6	1	8	3	4	1	1	0
+2	atp8	YP_009130755.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	10	1	17	4	0	0	4	2	3	1	1	0	1	0	2	0	2	0	2	0	1	0	2	0	7	0	2	0	0	0	7	1	6	2	3	1	7	0	6	0	16	3	1	0	0	0	3	0	5	0	0	0	1	0	7	0	3	0	1	0	0	0	0	1
+3	nad5	YP_009130756.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	57	12	75	10	17	3	15	8	27	2	8	0	10	2	7	2	11	2	10	2	4	1	11	1	14	1	5	0	1	0	40	4	22	20	21	1	13	2	28	2	19	1	12	1	6	2	13	4	15	7	11	1	14	7	9	4	12	1	18	4	22	4	1	0
+4	nad4	YP_009130757.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	50	4	60	12	14	2	8	1	20	2	6	0	11	0	8	1	7	1	8	2	6	0	5	0	12	3	3	1	2	0	40	3	18	12	9	2	11	2	12	1	13	0	12	2	6	0	12	1	11	3	11	1	7	2	7	1	12	2	17	2	8	2	1	0
+5	sdhD	YP_009130758.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	8	1	10	2	0	0	1	0	1	1	0	0	1	0	1	1	0	0	0	0	0	0	2	0	0	0	0	2	0	0	7	1	7	4	1	0	1	0	3	0	3	0	1	0	1	0	2	0	2	1	1	0	0	0	2	1	2	1	3	0	4	0	1	0
+6	nad2	YP_009130759.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	52	8	57	15	14	1	14	2	25	5	6	0	5	2	7	0	5	1	6	0	5	2	3	0	10	0	2	0	0	0	41	3	24	9	13	0	12	2	22	0	13	2	16	2	2	0	13	1	7	1	10	1	14	1	7	0	12	0	11	1	9	2	1	0
+7	nad1	YP_009130760.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	20	2	44	5	7	2	6	1	13	1	3	0	10	0	6	0	2	0	11	0	4	0	0	0	6	0	0	2	5	0	22	2	15	13	2	1	7	0	13	0	7	1	3	2	2	0	11	0	7	0	16	3	7	1	4	0	8	3	9	2	15	0	1	0
+8	nad3	YP_009130761.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	15	2	13	2	1	2	3	0	4	2	2	0	3	1	2	1	2	0	2	0	1	0	0	0	1	0	0	0	0	0	7	3	5	2	3	0	2	0	1	0	5	0	5	0	2	0	1	1	3	0	3	0	3	0	4	1	7	0	2	1	1	0	1	0
+9	rps11	YP_009130762.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	6	0	9	2	3	1	4	1	5	0	2	0	0	1	0	2	2	0	2	0	0	0	2	0	3	0	0	0	1	0	8	2	4	0	2	2	6	1	13	1	15	1	0	0	3	0	1	0	2	1	0	0	1	0	2	0	2	0	1	0	4	0	1	0
+10	atp9	YP_009130763.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	6	0	12	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	0	1	0	0	0	3	1	1	5	5	0	1	0	1	1	2	0	1	0	0	0	1	0	4	1	5	1	4	1	0	0	1	0	6	0	3	1	1	0
+11	sdhC	YP_009130764.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	15	1	15	1	6	1	1	2	8	1	2	0	1	1	2	0	0	1	2	0	0	0	5	0	4	0	1	0	1	0	16	0	6	2	1	0	2	0	4	2	2	1	1	0	1	0	4	0	2	0	1	0	0	2	0	1	3	0	1	1	0	1	1	0
+12	sdhB	YP_009130765.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	8	2	27	0	7	1	8	2	12	0	8	5	3	3	1	0	0	0	8	1	2	2	2	3	8	0	3	0	1	2	10	3	11	7	3	3	2	1	15	3	17	4	7	1	3	3	3	0	2	1	3	2	4	0	9	1	5	1	3	1	3	0	1	0
+13	nad6	YP_009130766.1	Agarophyton chilense	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Agarophyton	21	0	21	4	3	2	5	1	2	1	1	2	0	2	4	0	4	1	1	0	1	0	2	0	6	1	1	0	1	1	18	2	6	7	4	1	3	0	15	1	8	2	3	1	1	0	9	3	5	1	3	1	6	0	4	0	3	0	4	0	1	2	1	0

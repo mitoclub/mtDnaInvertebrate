@@ -1,65 +1,9 @@
-	YP_009110438.2|COX1	YP_009110439.1|COX2	YP_009110440.1|ND2	YP_009110441.1|ATP8	YP_009110442.1|ATP6	YP_009110443.1|COX3	YP_009110447.1|ND6	YP_009110448.1|CYTB
-TTT	27	12	23	2	11	22	12	25
-TTC	12	3	10	1	6	4	0	11
-TTA	25	12	27	3	14	15	10	24
-TTG	5	1	7	1	8	3	3	4
-TCT	14	6	15	0	5	6	6	3
-TCC	4	2	6	0	2	2	1	0
-TCA	9	2	8	1	5	5	6	8
-TCG	2	0	0	0	1	0	0	3
-TAT	11	8	12	2	6	7	6	13
-TAC	8	1	2	0	0	2	2	2
-TGT	2	1	1	0	0	3	0	2
-TGC	0	1	0	0	0	0	0	1
-TGA	14	5	4	3	3	11	0	8
-TGG	1	1	3	0	5	2	1	5
-CTT	8	5	8	0	7	6	11	10
-CTC	8	2	5	0	4	2	2	4
-CTA	10	10	11	2	8	5	11	9
-CTG	1	0	1	1	0	2	2	1
-CCT	8	1	4	1	3	5	1	7
-CCC	6	3	3	1	2	3	3	6
-CCA	13	7	5	2	5	1	2	9
-CCG	0	0	0	0	1	0	0	0
-CAT	6	2	1	0	3	7	0	4
-CAC	12	3	4	0	5	9	2	9
-CAA	8	6	10	2	4	7	2	6
-CAG	0	2	1	0	0	0	0	1
-CGT	2	1	0	0	0	1	0	0
-CGC	0	0	0	0	0	0	0	2
-CGA	8	6	2	0	1	3	1	4
-CGG	0	0	0	0	2	0	0	2
-ATT	36	17	30	6	13	16	13	24
-ATC	8	2	13	2	4	4	6	11
-ATA	24	8	15	4	9	8	6	15
-ATG	8	1	0	1	3	1	3	5
-ACT	11	4	3	0	5	4	7	7
-ACC	4	2	4	0	2	2	3	7
-ACA	13	2	14	2	6	11	5	5
-ACG	1	1	0	0	0	1	1	2
-AAT	8	5	6	0	6	4	7	11
-AAC	8	7	6	2	3	1	6	4
-AAA	6	4	13	6	5	1	3	4
-AAG	1	0	0	0	0	1	3	2
-AGT	2	5	0	0	2	0	1	2
-AGC	1	1	0	0	2	2	0	1
-AGA	4	3	9	1	9	5	3	3
-AGG	6	2	1	0	0	2	0	0
-GTT	16	9	6	0	6	7	7	10
-GTC	4	2	1	0	0	1	2	4
-GTA	12	6	4	1	9	9	1	11
-GTG	6	1	1	1	1	3	0	1
-GCT	14	8	5	0	5	6	3	8
-GCC	9	1	3	0	5	3	1	10
-GCA	11	3	2	2	5	7	7	12
-GCG	2	0	0	0	0	2	0	0
-GAT	7	9	1	0	0	3	2	5
-GAC	9	1	1	0	0	2	2	4
-GAA	8	8	5	1	5	5	2	2
-GAG	0	3	0	1	0	2	0	1
-GGT	17	3	4	0	2	5	0	9
-GGC	3	1	1	0	0	2	0	1
-GGA	20	5	9	0	5	6	2	11
-GGG	8	2	3	0	1	4	3	3
-TAA	0	0	1	0	1	1	1	0
-TAG	0	1	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009110438.2	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	27	12	25	5	14	4	9	2	11	8	2	0	14	1	8	8	10	1	8	6	13	0	6	12	8	0	2	0	8	0	36	8	24	8	11	4	13	1	8	8	6	1	2	1	4	6	16	4	12	6	14	9	11	2	7	9	8	0	17	3	20	8	0	0
+1	COX2	YP_009110439.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	12	3	12	1	6	2	2	0	8	1	1	1	5	1	5	2	10	0	1	3	7	0	2	3	6	2	1	0	6	0	17	2	8	1	4	2	2	1	5	7	4	0	5	1	3	2	9	2	6	1	8	1	3	0	9	1	8	3	3	1	5	2	0	1
+2	ND2	YP_009110440.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	23	10	27	7	15	6	8	0	12	2	1	0	4	3	8	5	11	1	4	3	5	0	1	4	10	1	0	0	2	0	30	13	15	0	3	4	14	0	6	6	13	0	0	0	9	1	6	1	4	1	5	3	2	0	1	1	5	0	4	1	9	3	1	0
+3	ATP8	YP_009110441.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	2	1	3	1	0	0	1	0	2	0	0	0	3	0	0	0	2	1	1	1	2	0	0	0	2	0	0	0	0	0	6	2	4	1	0	0	2	0	0	2	6	0	0	0	1	0	0	0	1	1	0	0	2	0	0	0	1	1	0	0	0	0	0	1
+4	ATP6	YP_009110442.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	11	6	14	8	5	2	5	1	6	0	0	0	3	5	7	4	8	0	3	2	5	1	3	5	4	0	0	0	1	2	13	4	9	3	5	2	6	0	6	3	5	0	2	2	9	0	6	0	9	1	5	5	5	0	0	0	5	0	2	0	5	1	1	0
+5	COX3	YP_009110443.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	22	4	15	3	6	2	5	0	7	2	3	0	11	2	6	2	5	2	5	3	1	0	7	9	7	0	1	0	3	0	16	4	8	1	4	2	11	1	4	1	1	1	0	2	5	2	7	1	9	3	6	3	7	2	3	2	5	2	5	2	6	4	1	0
+6	ND6	YP_009110447.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	12	0	10	3	6	1	6	0	6	2	0	0	0	1	11	2	11	2	1	3	2	0	0	2	2	0	0	0	1	0	13	6	6	3	7	3	5	1	7	6	3	3	1	0	3	0	7	2	1	0	3	1	7	0	2	2	2	0	0	0	2	3	1	0
+7	CYTB	YP_009110448.1	Clibanarius infraspinatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Anomura, Paguroidea, Diogenidae, Clibanarius	25	11	24	4	3	0	8	3	13	2	2	1	8	5	10	4	9	1	7	6	9	0	4	9	6	1	0	2	4	2	24	11	15	5	7	7	5	2	11	4	4	2	2	1	3	0	10	4	11	1	8	10	12	0	5	4	2	1	9	1	11	3	0	0

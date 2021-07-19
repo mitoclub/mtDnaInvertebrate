@@ -1,65 +1,10 @@
-	YP_009262816.1|COX1	YP_009262817.1|COX2	YP_009262818.1|ATP8	YP_009262819.1|ATP6	YP_009262820.1|COX3	YP_009262821.1|ND3	YP_009262825.1|ND6	YP_009262826.1|CYTB	YP_009262828.1|ND2
-TTT	28	11	6	16	22	10	14	29	37
-TTC	15	5	1	8	7	4	2	8	9
-TTA	32	16	9	13	22	17	16	22	32
-TTG	1	0	0	1	0	0	0	1	0
-TCT	14	7	3	7	5	6	9	9	15
-TCC	9	2	0	5	4	2	7	4	2
-TCA	15	3	4	11	9	1	4	7	6
-TCG	0	0	0	0	1	1	0	0	0
-TAT	12	4	1	4	5	2	6	12	9
-TAC	6	5	0	4	6	2	4	9	9
-TGT	0	3	0	2	0	0	1	2	1
-TGC	1	0	0	0	3	2	1	1	0
-TGA	14	6	4	4	12	2	1	12	6
-TGG	0	0	0	0	1	0	0	0	0
-CTT	10	7	1	9	3	2	7	9	5
-CTC	5	2	0	2	3	1	2	5	3
-CTA	10	3	2	11	2	3	6	13	11
-CTG	1	0	0	2	0	0	0	0	0
-CCT	10	2	1	3	4	2	2	5	8
-CCC	8	2	0	4	3	2	2	8	3
-CCA	6	6	1	2	4	0	3	6	3
-CCG	1	0	0	0	0	0	0	0	1
-CAT	11	3	2	2	8	0	3	8	3
-CAC	8	3	0	1	5	1	0	4	0
-CAA	4	6	2	4	4	1	0	7	6
-CAG	1	0	0	0	1	0	0	0	0
-CGT	0	3	0	0	1	0	0	0	0
-CGC	3	1	0	0	1	0	0	0	0
-CGA	4	2	0	2	2	1	1	3	0
-CGG	0	0	0	1	0	0	0	0	0
-ATT	45	21	3	20	19	14	25	37	50
-ATC	26	6	2	8	5	5	10	18	9
-ATA	29	20	4	13	9	3	14	19	28
-ATG	3	0	0	2	1	1	1	3	2
-ACT	11	9	2	6	2	1	5	3	4
-ACC	2	2	1	4	3	1	2	9	4
-ACA	13	5	0	4	9	3	1	8	4
-ACG	0	1	0	0	0	0	0	0	0
-AAT	17	12	1	12	10	3	9	20	15
-AAC	11	6	0	2	4	2	3	8	7
-AAA	10	8	2	2	6	4	8	9	19
-AAG	0	0	0	0	0	0	0	0	0
-AGT	2	1	0	1	1	1	0	0	0
-AGC	0	1	1	3	0	0	1	1	2
-AGA	10	1	0	4	6	1	4	6	7
-AGG	0	0	1	0	0	0	0	0	0
-GTT	6	1	0	2	4	0	0	1	0
-GTC	2	1	0	2	3	1	0	0	1
-GTA	6	2	0	1	6	0	1	6	0
-GTG	0	0	0	0	0	0	0	0	0
-GCT	8	2	0	3	1	0	1	5	1
-GCC	3	0	0	2	4	0	0	6	0
-GCA	13	2	0	0	5	0	0	2	2
-GCG	0	0	0	1	0	0	0	0	0
-GAT	5	3	0	0	3	1	0	3	0
-GAC	9	5	0	2	1	3	1	2	1
-GAA	6	8	0	3	6	5	1	3	1
-GAG	1	0	0	1	1	0	0	0	1
-GGT	10	2	0	3	1	0	1	0	0
-GGC	1	2	0	2	2	1	0	1	0
-GGA	29	3	0	1	10	1	0	17	0
-GGG	2	0	0	0	0	0	0	1	0
-TAA	1	1	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009262816.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	28	15	32	1	14	9	15	0	12	6	0	1	14	0	10	5	10	1	10	8	6	1	11	8	4	1	0	3	4	0	45	26	29	3	11	2	13	0	17	11	10	0	2	0	10	0	6	2	6	0	8	3	13	0	5	9	6	1	10	1	29	2	1	0
+1	COX2	YP_009262817.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	11	5	16	0	7	2	3	0	4	5	3	0	6	0	7	2	3	0	2	2	6	0	3	3	6	0	3	1	2	0	21	6	20	0	9	2	5	1	12	6	8	0	1	1	1	0	1	1	2	0	2	0	2	0	3	5	8	0	2	2	3	0	1	0
+2	ATP8	YP_009262818.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	6	1	9	0	3	0	4	0	1	0	0	0	4	0	1	0	2	0	1	0	1	0	2	0	2	0	0	0	0	0	3	2	4	0	2	1	0	0	1	0	2	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_009262819.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	16	8	13	1	7	5	11	0	4	4	2	0	4	0	9	2	11	2	3	4	2	0	2	1	4	0	0	0	2	1	20	8	13	2	6	4	4	0	12	2	2	0	1	3	4	0	2	2	1	0	3	2	0	1	0	2	3	1	3	2	1	0	1	0
+4	COX3	YP_009262820.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	22	7	22	0	5	4	9	1	5	6	0	3	12	1	3	3	2	0	4	3	4	0	8	5	4	1	1	1	2	0	19	5	9	1	2	3	9	0	10	4	6	0	1	0	6	0	4	3	6	0	1	4	5	0	3	1	6	1	1	2	10	0	1	0
+5	ND3	YP_009262821.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	10	4	17	0	6	2	1	1	2	2	0	2	2	0	2	1	3	0	2	2	0	0	0	1	1	0	0	0	1	0	14	5	3	1	1	1	3	0	3	2	4	0	1	0	1	0	0	1	0	0	0	0	0	0	1	3	5	0	0	1	1	0	1	0
+6	ND6	YP_009262825.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	14	2	16	0	9	7	4	0	6	4	1	1	1	0	7	2	6	0	2	2	3	0	3	0	0	0	0	0	1	0	25	10	14	1	5	2	1	0	9	3	8	0	0	1	4	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0	0	1	0
+7	CYTB	YP_009262826.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	29	8	22	1	9	4	7	0	12	9	2	1	12	0	9	5	13	0	5	8	6	0	8	4	7	0	0	0	3	0	37	18	19	3	3	9	8	0	20	8	9	0	0	1	6	0	1	0	6	0	5	6	2	0	3	2	3	0	0	1	17	1	1	0
+8	ND2	YP_009262828.1	Wasmannia auropunctata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Formicidae, Myrmicinae, Wasmannia	37	9	32	0	15	2	6	0	9	9	1	0	6	0	5	3	11	0	8	3	3	1	3	0	6	0	0	0	0	0	50	9	28	2	4	4	4	0	15	7	19	0	0	2	7	0	0	1	0	0	1	0	2	0	0	1	1	1	0	0	0	0	0	0

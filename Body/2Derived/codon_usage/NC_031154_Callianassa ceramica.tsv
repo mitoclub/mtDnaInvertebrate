@@ -1,65 +1,11 @@
-	YP_009294930.1|COX1	YP_009294931.1|COX2	YP_009294932.1|ATP8	YP_009294933.1|ATP6	YP_009294934.1|ND3	YP_009294935.1|COX3	YP_009294939.1|ND6	YP_009294940.1|CYTB	YP_009294941.1|ND1	YP_009294942.1|ND2
-TTT	32	13	4	14	10	21	18	23	28	26
-TTC	11	3	1	6	2	6	5	12	7	5
-TTA	26	8	4	21	11	12	16	18	16	27
-TTG	4	1	0	2	0	2	2	4	6	8
-TCT	18	5	1	8	4	6	3	7	6	16
-TCC	4	1	0	5	1	2	4	1	4	6
-TCA	8	2	1	6	1	5	7	3	3	8
-TCG	0	0	0	0	1	1	1	0	2	0
-TAT	10	5	1	4	4	3	5	14	11	14
-TAC	6	4	0	3	2	6	2	3	4	1
-TGT	0	2	0	0	2	0	1	1	4	3
-TGC	0	0	0	0	0	3	1	2	0	1
-TGA	14	6	2	6	3	9	1	10	5	11
-TGG	1	0	1	0	0	5	0	1	2	1
-CTT	19	12	3	10	7	9	8	18	18	9
-CTC	1	0	0	1	0	0	0	3	4	2
-CTA	6	5	0	7	5	9	3	13	7	5
-CTG	2	1	0	1	0	2	2	0	3	2
-CCT	16	7	3	7	3	5	4	17	8	8
-CCC	4	0	0	0	0	0	0	1	1	0
-CCA	6	3	0	2	1	3	0	4	2	1
-CCG	0	0	0	0	0	0	0	0	0	0
-CAT	14	3	0	3	0	10	0	8	0	4
-CAC	5	3	0	1	0	6	1	5	0	1
-CAA	6	5	3	2	0	7	1	6	3	5
-CAG	1	3	0	1	0	1	1	1	2	0
-CGT	4	3	0	1	2	2	0	1	1	1
-CGC	0	0	0	0	0	0	1	1	1	0
-CGA	7	3	0	3	1	2	1	4	2	1
-CGG	0	1	0	0	0	0	0	2	3	0
-ATT	37	19	1	8	10	13	9	28	21	22
-ATC	4	0	1	2	0	1	1	3	3	4
-ATA	22	5	6	9	2	7	8	8	10	24
-ATG	11	3	2	2	2	3	2	3	2	2
-ACT	15	5	3	3	0	10	5	9	7	4
-ACC	3	0	1	3	1	4	1	3	3	3
-ACA	12	4	0	4	4	7	3	7	4	3
-ACG	0	0	0	0	0	1	0	1	1	0
-AAT	12	10	1	8	1	3	3	11	9	5
-AAC	5	3	0	2	1	2	1	6	4	1
-AAA	7	3	4	1	4	2	1	7	8	11
-AAG	0	1	0	0	1	0	0	0	3	1
-AGT	1	2	0	3	0	1	2	3	6	9
-AGC	1	0	0	0	0	0	1	0	0	0
-AGA	5	6	2	7	1	5	4	4	9	13
-AGG	3	1	0	0	0	1	0	0	1	2
-GTT	20	9	3	17	3	5	7	19	7	8
-GTC	3	3	0	3	0	3	1	6	3	1
-GTA	14	8	0	6	5	6	10	6	5	8
-GTG	2	3	0	2	3	2	1	4	2	3
-GCT	20	5	0	7	2	11	3	14	8	9
-GCC	3	0	0	3	1	1	0	4	3	2
-GCA	11	5	0	0	0	3	2	9	12	3
-GCG	0	1	1	1	0	0	0	1	1	0
-GAT	11	9	1	0	3	4	2	10	4	2
-GAC	5	1	0	1	2	1	0	2	1	0
-GAA	8	9	1	4	4	4	4	1	7	6
-GAG	0	3	1	0	1	3	1	1	3	0
-GGT	20	5	0	4	0	12	3	5	3	6
-GGC	1	1	0	1	0	1	2	4	1	2
-GGA	24	4	0	9	5	9	2	12	5	8
-GGG	6	1	0	0	1	0	0	4	4	3
-TAA	0	0	1	1	1	0	0	0	1	1
-TAG	0	1	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009294930.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	32	11	26	4	18	4	8	0	10	6	0	0	14	1	19	1	6	2	16	4	6	0	14	5	6	1	4	0	7	0	37	4	22	11	15	3	12	0	12	5	7	0	1	1	5	3	20	3	14	2	20	3	11	0	11	5	8	0	20	1	24	6	0	0
+1	COX2	YP_009294931.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	13	3	8	1	5	1	2	0	5	4	2	0	6	0	12	0	5	1	7	0	3	0	3	3	5	3	3	0	3	1	19	0	5	3	5	0	4	0	10	3	3	1	2	0	6	1	9	3	8	3	5	0	5	1	9	1	9	3	5	1	4	1	0	1
+2	ATP8	YP_009294932.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	4	1	4	0	1	0	1	0	1	0	0	0	2	1	3	0	0	0	3	0	0	0	0	0	3	0	0	0	0	0	1	1	6	2	3	1	0	0	1	0	4	0	0	0	2	0	3	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	1	0
+3	ATP6	YP_009294933.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	14	6	21	2	8	5	6	0	4	3	0	0	6	0	10	1	7	1	7	0	2	0	3	1	2	1	1	0	3	0	8	2	9	2	3	3	4	0	8	2	1	0	3	0	7	0	17	3	6	2	7	3	0	1	0	1	4	0	4	1	9	0	1	0
+4	ND3	YP_009294934.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	10	2	11	0	4	1	1	1	4	2	2	0	3	0	7	0	5	0	3	0	1	0	0	0	0	0	2	0	1	0	10	0	2	2	0	1	4	0	1	1	4	1	0	0	1	0	3	0	5	3	2	1	0	0	3	2	4	1	0	0	5	1	1	0
+5	COX3	YP_009294935.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	21	6	12	2	6	2	5	1	3	6	0	3	9	5	9	0	9	2	5	0	3	0	10	6	7	1	2	0	2	0	13	1	7	3	10	4	7	1	3	2	2	0	1	0	5	1	5	3	6	2	11	1	3	0	4	1	4	3	12	1	9	0	0	1
+6	ND6	YP_009294939.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	18	5	16	2	3	4	7	1	5	2	1	1	1	0	8	0	3	2	4	0	0	0	0	1	1	1	0	1	1	0	9	1	8	2	5	1	3	0	3	1	1	0	2	1	4	0	7	1	10	1	3	0	2	0	2	0	4	1	3	2	2	0	0	0
+7	CYTB	YP_009294940.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	23	12	18	4	7	1	3	0	14	3	1	2	10	1	18	3	13	0	17	1	4	0	8	5	6	1	1	1	4	2	28	3	8	3	9	3	7	1	11	6	7	0	3	0	4	0	19	6	6	4	14	4	9	1	10	2	1	1	5	4	12	4	0	0
+8	ND1	YP_009294941.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	28	7	16	6	6	4	3	2	11	4	4	0	5	2	18	4	7	3	8	1	2	0	0	0	3	2	1	1	2	3	21	3	10	2	7	3	4	1	9	4	8	3	6	0	9	1	7	3	5	2	8	3	12	1	4	1	7	3	3	1	5	4	1	0
+9	ND2	YP_009294942.1	Callianassa ceramica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Axiidea, Callianassidae, Callianassa	26	5	27	8	16	6	8	0	14	1	3	1	11	1	9	2	5	2	8	0	1	0	4	1	5	0	1	0	1	0	22	4	24	2	4	3	3	0	5	1	11	1	9	0	13	2	8	1	8	3	9	2	3	0	2	0	6	0	6	2	8	3	1	0

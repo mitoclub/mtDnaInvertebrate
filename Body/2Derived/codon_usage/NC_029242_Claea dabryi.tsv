@@ -1,65 +1,13 @@
-	YP_009229445.1|ND1	YP_009229446.1|ND2	YP_009229447.1|COX1	YP_009229448.1|COX2	YP_009229449.1|ATP8	YP_009229450.1|ATP6	YP_009229451.1|COX3	YP_009229452.1|ND3	YP_009229453.1|ND4L	YP_009229454.1|ND4	YP_009229455.1|ND5	YP_009229457.1|CYTB
-TTT	8	8	22	5	3	8	14	4	5	9	28	17
-TTC	8	2	20	4	0	4	8	4	3	8	15	15
-TTA	13	14	11	7	2	9	9	8	2	24	13	13
-TTG	6	8	3	1	0	3	1	3	2	10	16	3
-TCT	5	5	7	0	1	3	1	3	2	7	11	7
-TCC	5	4	9	8	1	2	6	0	1	4	11	7
-TCA	6	8	9	5	0	0	4	2	2	10	10	6
-TCG	2	3	1	0	1	0	1	0	1	0	3	1
-TAT	12	6	11	8	0	2	7	2	0	9	6	6
-TAC	0	2	7	1	0	3	5	0	0	5	6	8
-TGT	0	0	0	1	0	0	0	1	2	1	2	1
-TGC	0	1	1	1	0	0	2	0	1	4	4	2
-TGA	5	10	14	4	4	2	10	3	1	11	9	11
-TGG	3	1	3	1	1	3	2	2	0	9	5	2
-CTT	10	10	15	13	1	15	10	8	4	19	15	11
-CTC	10	11	10	2	0	8	2	3	2	18	13	5
-CTA	13	13	15	5	0	8	11	3	9	14	28	18
-CTG	11	7	8	0	1	4	2	2	3	6	8	8
-CCT	6	4	4	2	3	6	5	2	1	5	9	4
-CCC	9	7	7	5	2	5	4	2	1	9	6	5
-CCA	9	6	10	6	3	4	2	3	0	11	10	11
-CCG	0	1	7	1	0	0	1	1	0	2	2	1
-CAT	2	3	9	5	2	1	7	0	1	9	6	7
-CAC	2	5	10	5	1	2	9	1	3	4	10	6
-CAA	6	4	6	7	2	4	7	2	3	8	9	3
-CAG	2	9	2	1	0	5	2	1	0	4	9	3
-CGT	0	0	1	1	0	0	1	0	1	1	2	2
-CGC	2	0	1	0	0	2	1	1	2	4	2	1
-CGA	5	0	5	4	0	3	3	1	0	5	4	2
-CGG	1	4	1	1	0	0	0	0	0	1	2	3
-ATT	12	20	30	12	3	19	5	3	1	26	32	11
-ATC	5	5	7	5	1	2	9	4	1	8	17	15
-ATA	4	11	12	10	2	4	6	3	3	10	8	7
-ATG	10	7	11	2	1	7	3	1	4	14	16	6
-ACT	3	9	8	2	1	6	3	2	2	12	17	0
-ACC	6	16	10	3	2	5	8	3	3	13	20	12
-ACA	7	13	17	4	1	7	8	3	1	15	16	7
-ACG	1	1	2	0	0	2	2	0	1	2	6	3
-AAT	8	6	8	4	0	6	1	1	1	6	13	6
-AAC	3	0	7	3	2	3	0	1	1	4	13	11
-AAA	4	4	5	3	1	1	2	1	0	5	9	7
-AAG	3	4	3	1	1	0	0	0	0	3	12	2
-AGT	2	3	1	2	1	1	1	1	1	2	4	0
-AGC	2	3	4	1	0	4	2	0	1	6	8	1
-GTT	11	8	19	9	0	3	4	1	0	8	15	11
-GTC	6	2	6	2	0	4	1	2	0	2	9	6
-GTA	5	5	13	6	2	9	8	1	1	12	7	8
-GTG	2	3	6	4	1	2	2	0	1	2	4	3
-GCT	2	11	9	1	0	4	3	3	4	6	4	7
-GCC	18	26	20	8	1	9	9	3	7	13	30	10
-GCA	14	8	15	6	1	4	10	3	1	16	17	13
-GCG	2	3	3	2	0	3	0	1	3	2	3	3
-GAT	3	1	6	7	0	0	3	2	0	0	9	3
-GAC	1	1	8	5	2	1	3	4	1	3	5	7
-GAA	9	3	8	7	2	4	5	4	2	6	5	6
-GAG	2	2	3	8	2	0	4	1	1	5	6	1
-GGT	3	2	6	0	0	1	4	0	1	6	8	4
-GGC	7	2	15	1	0	4	8	3	3	7	15	9
-GGA	2	5	10	6	0	5	9	2	1	10	2	5
-GGG	6	8	15	2	0	1	1	1	0	5	8	7
-TAA	1	0	1	0	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009229445.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	8	8	13	6	5	5	6	2	12	0	0	0	5	3	10	10	13	11	6	9	9	0	2	2	6	2	0	2	5	1	12	5	4	10	3	6	7	1	8	3	4	3	2	2	11	6	5	2	2	18	14	2	3	1	9	2	3	7	2	6	1	0	0	0
+1	ND2	YP_009229446.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	8	2	14	8	5	4	8	3	6	2	0	1	10	1	10	11	13	7	4	7	6	1	3	5	4	9	0	0	0	4	20	5	11	7	9	16	13	1	6	0	4	4	3	3	8	2	5	3	11	26	8	3	1	1	3	2	2	2	5	8	0	0	0	0
+2	COX1	YP_009229447.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	22	20	11	3	7	9	9	1	11	7	0	1	14	3	15	10	15	8	4	7	10	7	9	10	6	2	1	1	5	1	30	7	12	11	8	10	17	2	8	7	5	3	1	4	19	6	13	6	9	20	15	3	6	8	8	3	6	15	10	15	1	0	0	0
+3	COX2	YP_009229448.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	5	4	7	1	0	8	5	0	8	1	1	1	4	1	13	2	5	0	2	5	6	1	5	5	7	1	1	0	4	1	12	5	10	2	2	3	4	0	4	3	3	1	2	1	9	2	6	4	1	8	6	2	7	5	7	8	0	1	6	2	0	0	0	0
+4	ATP8	YP_009229449.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	3	0	2	0	1	1	0	1	0	0	0	0	4	1	1	0	0	1	3	2	3	0	2	1	2	0	0	0	0	0	3	1	2	1	1	2	1	0	0	2	1	1	1	0	0	0	2	1	0	1	1	0	0	2	2	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_009229450.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	8	4	9	3	3	2	0	0	2	3	0	0	2	3	15	8	8	4	6	5	4	0	1	2	4	5	0	2	3	0	19	2	4	7	6	5	7	2	6	3	1	0	1	4	3	4	9	2	4	9	4	3	0	1	4	0	1	4	5	1	1	0	0	0
+6	COX3	YP_009229451.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	14	8	9	1	1	6	4	1	7	5	0	2	10	2	10	2	11	2	5	4	2	1	7	9	7	2	1	1	3	0	5	9	6	3	3	8	8	2	1	0	2	0	1	2	4	1	8	2	3	9	10	0	3	3	5	4	4	8	9	1	0	0	0	0
+7	ND3	YP_009229452.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	4	4	8	3	3	0	2	0	2	0	1	0	3	2	8	3	3	2	2	2	3	1	0	1	2	1	0	1	1	0	3	4	3	1	2	3	3	0	1	1	1	0	1	0	1	2	1	0	3	3	3	1	2	4	4	1	0	3	2	1	0	0	0	0
+8	ND4L	YP_009229453.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	5	3	2	2	2	1	2	1	0	0	2	1	1	0	4	2	9	3	1	1	0	0	1	3	3	0	1	2	0	0	1	1	3	4	2	3	1	1	1	1	0	0	1	1	0	0	1	1	4	7	1	3	0	1	2	1	1	3	1	0	1	0	0	0
+9	ND4	YP_009229454.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	9	8	24	10	7	4	10	0	9	5	1	4	11	9	19	18	14	6	5	9	11	2	9	4	8	4	1	4	5	1	26	8	10	14	12	13	15	2	6	4	5	3	2	6	8	2	12	2	6	13	16	2	0	3	6	5	6	7	10	5	0	0	0	0
+10	ND5	YP_009229455.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	28	15	13	16	11	11	10	3	6	6	2	4	9	5	15	13	28	8	9	6	10	2	6	10	9	9	2	2	4	2	32	17	8	16	17	20	16	6	13	13	9	12	4	8	15	9	7	4	4	30	17	3	9	5	5	6	8	15	2	8	0	1	0	0
+11	CYTB	YP_009229457.1	Claea dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Claea	17	15	13	3	7	7	6	1	6	8	1	2	11	2	11	5	18	8	4	5	11	1	7	6	3	3	2	1	2	3	11	15	7	6	0	12	7	3	6	11	7	2	0	1	11	6	8	3	7	10	13	3	3	7	6	1	4	9	5	7	0	0	0	0

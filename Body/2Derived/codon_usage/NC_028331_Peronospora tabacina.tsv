@@ -1,65 +1,31 @@
-	YP_009178769.1|rpl14	YP_009178770.1|rpl5	YP_009178771.1	YP_009178772.1	YP_009178773.1	YP_009178774.1	YP_009178775.1	YP_009178776.1	YP_009178778.1|cox2	YP_009178779.1|orf32	YP_009178780.1|cox1	YP_009178791.1|nad7	YP_009178792.1|ymf98	YP_009178793.1|nad4	YP_009178794.1|atp1	YP_009178795.1|nad5	YP_009178796.1|nad6	YP_009178800.1|secY	YP_009178804.1|rpl2	YP_009178805.1|rps19	YP_009178806.1|rps3	YP_009178807.1|rpl16	YP_009178808.1|ymf99	YP_009178809.1|atp8	YP_009178810.1|rps14	YP_009178811.1|rps8	YP_009178812.1|rpl6	YP_009178813.1|rps2	YP_009178814.1|rps4	YP_009178815.1|ymf100
-TTT	5	18	12	5	7	7	9	22	16	4	47	18	11	60	17	84	33	48	7	5	22	7	21	29	5	4	20	13	13	6
-TTC	0	0	2	1	0	1	1	1	1	0	3	0	0	2	1	0	1	2	0	2	0	0	1	2	1	0	0	0	0	0
-TTA	11	23	22	11	22	26	30	37	23	4	56	39	20	63	42	80	27	36	25	4	22	6	22	9	12	13	25	19	17	0
-TTG	0	1	3	4	9	4	1	0	0	1	1	1	0	3	3	2	0	0	0	0	1	0	1	0	0	0	1	1	1	0
-TCT	3	2	3	0	2	2	4	7	3	0	10	6	2	11	9	12	7	1	6	0	2	1	5	1	1	0	3	3	0	0
-TCC	0	0	1	1	0	2	2	0	0	0	3	1	0	0	2	1	0	0	2	0	1	0	1	0	0	0	0	0	0	0
-TCA	2	2	5	1	4	2	10	4	7	0	15	5	2	13	11	20	7	4	7	2	3	4	4	3	6	8	0	5	1	0
-TCG	0	0	1	1	0	0	2	0	0	0	1	1	0	2	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0
-TAT	2	2	8	4	8	6	8	16	7	0	20	17	12	29	14	36	10	24	8	4	16	5	15	4	3	7	4	9	3	0
-TAC	0	1	2	0	0	0	0	1	1	0	1	3	0	2	1	5	1	0	0	0	2	0	0	0	0	0	0	0	0	0
-TGT	1	2	3	0	1	0	1	2	5	0	0	7	0	7	3	10	0	1	1	0	1	0	1	3	1	1	0	0	2	0
-TGC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-TGG	0	0	0	1	1	3	0	1	7	0	13	3	0	4	1	8	0	2	1	1	3	2	0	1	3	0	0	1	1	0
-CTT	0	2	3	0	1	3	2	5	2	0	3	1	3	3	1	3	1	5	0	0	0	2	0	1	0	1	2	0	0	0
-CTC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	1	0	5	0	2	0	0	0	0	1	1	1	3	3	1	4	0	1	0	0	1	1	1	0	1	0	0	2	0	0
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	2	2	5	0	1	1	4	2	6	0	14	9	2	8	11	9	2	3	9	1	2	2	2	0	1	0	5	1	0	0
-CCC	0	0	1	0	0	0	0	0	1	0	2	1	0	0	1	3	0	0	2	0	0	0	0	0	0	0	0	1	1	0
-CCA	0	1	2	0	2	1	1	9	4	0	7	5	0	6	6	1	1	1	1	0	4	3	0	2	0	1	0	1	2	0
-CCG	0	1	1	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	1	0	0	0
-CAT	1	2	3	1	2	2	6	9	6	0	15	9	1	10	3	10	1	2	6	1	5	0	3	0	0	0	4	0	3	0
-CAC	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-CAA	7	5	14	2	4	6	17	14	8	2	6	14	9	7	26	11	5	2	12	0	8	4	6	7	6	3	4	6	6	0
-CAG	0	0	1	0	5	0	2	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	3	0
-CGT	1	0	2	0	0	1	3	0	2	0	2	11	0	4	7	5	0	0	8	1	2	3	2	0	4	2	0	3	2	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	1	2	0	0	0	4	0	1	0	2	1	0	2	2	0	1	0	2	1	1	2	2	0	2	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	13	17	14	1	7	3	9	20	20	4	39	22	11	54	40	54	21	26	19	4	19	10	16	12	10	12	20	17	8	12
-ATC	1	3	4	0	1	1	1	1	2	0	0	0	0	2	0	2	1	1	0	0	2	0	1	0	0	0	1	0	1	0
-ATA	10	9	10	3	8	8	12	21	9	5	8	14	9	15	8	24	14	19	8	4	15	4	13	4	1	8	13	16	9	19
-ATG	3	1	9	1	3	2	9	5	10	2	20	12	2	16	11	24	6	2	1	3	5	3	3	1	1	1	1	3	1	6
-ACT	2	2	3	0	1	2	5	4	11	0	14	6	2	9	13	12	8	6	5	1	6	3	9	1	1	3	1	4	2	0
-ACC	0	0	0	0	0	0	2	0	0	0	1	1	0	1	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0
-ACA	3	6	7	1	0	2	14	11	3	1	10	5	0	9	12	19	6	5	7	2	5	5	2	1	0	2	3	6	0	0
-ACG	0	0	2	0	1	0	2	0	0	0	1	1	0	1	1	2	2	0	1	0	0	1	0	0	0	0	1	4	0	0
-AAT	9	25	17	4	14	15	28	29	12	2	19	18	20	18	24	29	17	18	24	12	32	3	35	15	9	10	25	29	17	0
-AAC	0	2	6	0	1	0	0	0	1	0	0	3	1	1	0	3	0	1	1	0	2	0	1	0	0	1	1	2	1	0
-AAA	24	30	23	5	19	15	0	42	7	5	13	22	24	18	36	24	19	15	35	18	55	26	44	22	15	25	39	28	38	27
-AAG	1	0	1	0	2	4	0	1	0	0	0	2	1	1	0	0	0	2	1	0	3	2	4	0	2	0	2	1	2	3
-AGT	2	0	11	1	4	2	6	6	5	2	6	2	0	12	11	15	3	4	5	2	2	3	0	0	2	2	5	3	2	0
-AGC	0	0	0	0	0	0	0	1	0	0	2	1	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	2	1	1	0	3	1	12	10	3	1	6	8	1	3	15	6	1	2	7	1	4	2	3	1	3	1	0	1	10	3
-AGG	0	0	0	4	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	1	1	6	0	2	1	9	8	11	0	21	14	0	11	16	13	5	3	1	1	4	3	1	2	2	2	0	3	2	1
-GTC	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0
-GTA	0	1	7	1	3	5	4	7	9	0	13	9	0	7	17	10	8	0	5	2	0	4	1	0	0	1	1	2	3	0
-GTG	0	0	2	0	0	0	1	0	2	0	1	0	0	0	2	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0
-GCT	2	0	10	1	1	2	4	3	8	0	22	13	0	12	21	22	3	2	8	0	0	2	1	0	0	1	0	1	1	0
-GCC	0	0	0	0	1	0	0	0	0	0	2	1	0	1	3	3	1	0	2	0	0	0	0	0	0	0	0	0	0	0
-GCA	1	1	4	1	1	1	1	3	4	0	5	6	0	9	10	10	2	0	1	0	3	3	0	0	1	2	0	0	1	0
-GCG	0	0	0	0	0	1	0	0	0	0	3	1	0	1	3	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0
-GAT	4	2	13	3	9	13	9	19	14	2	11	20	2	8	24	16	4	2	1	0	4	1	2	2	1	3	4	2	2	0
-GAC	0	1	0	0	0	0	1	1	1	0	1	1	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
-GAA	1	7	32	6	20	13	19	29	12	0	4	24	1	15	32	15	7	5	3	2	5	4	8	4	1	3	5	7	5	2
-GAG	0	0	1	1	4	4	2	0	2	0	0	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
-GGT	4	2	0	1	2	4	4	13	8	0	34	19	0	17	32	30	4	1	18	4	3	9	3	0	1	5	6	2	0	0
-GGC	2	0	1	0	0	0	0	0	1	0	2	1	0	2	0	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0
-GGA	1	1	5	0	4	5	3	8	1	0	9	4	2	6	7	9	2	0	5	0	2	2	1	0	1	2	3	1	2	0
-GGG	1	0	0	0	0	1	4	0	0	0	4	2	0	1	2	1	1	0	0	0	0	0	0	0	1	0	1	1	0	0
-TAA	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	rpl14	YP_009178769.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	5	0	11	0	3	0	2	0	2	0	1	0	0	0	0	1	0	2	0	0	0	1	0	7	0	1	0	0	0	13	1	10	3	2	0	3	0	9	0	24	1	2	0	2	0	1	0	0	0	2	0	1	0	4	0	1	0	4	2	1	1	1	0	0
+1	rpl5	YP_009178770.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	18	0	23	1	2	0	2	0	2	1	2	0	0	2	0	0	0	2	0	1	1	2	0	5	0	0	0	1	0	17	3	9	1	2	0	6	0	25	2	30	0	0	0	1	0	1	0	1	0	0	0	1	0	2	1	7	0	2	0	1	0	1	0	0
+2	None	YP_009178771.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	12	2	22	3	3	1	5	1	8	2	3	0	0	3	0	5	0	5	1	2	1	3	0	14	1	2	0	2	0	14	4	10	9	3	0	7	2	17	6	23	1	11	0	1	0	6	0	7	2	10	0	4	0	13	0	32	1	0	1	5	0	1	0	0
+3	None	YP_009178772.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	5	1	11	4	0	1	1	1	4	0	0	0	1	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	3	1	0	0	1	0	4	0	5	0	1	0	0	4	0	0	1	0	1	0	1	0	3	0	6	1	1	0	0	0	1	0	0
+4	None	YP_009178773.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	7	0	22	9	2	0	4	0	8	0	1	0	1	1	0	2	0	1	0	2	0	2	0	4	5	0	0	0	0	7	1	8	3	1	0	0	1	14	1	19	2	4	0	3	0	2	0	3	0	1	1	1	0	9	0	20	4	2	0	4	0	1	0	0
+5	None	YP_009178774.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	7	1	26	4	2	2	2	0	6	0	0	0	3	3	0	0	0	1	0	1	0	2	0	6	0	1	0	0	0	3	1	8	2	2	0	2	0	15	0	15	4	2	0	1	0	1	0	5	0	2	0	1	1	13	0	13	4	4	0	5	1	1	0	0
+6	None	YP_009178775.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	9	1	30	1	4	2	10	2	8	0	1	1	0	2	0	0	0	4	0	1	0	6	0	17	2	3	0	4	0	9	1	12	9	5	2	14	2	28	0	0	0	6	0	12	0	9	0	4	1	4	0	1	0	9	1	19	2	4	0	3	4	1	0	0
+7	None	YP_009178776.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	22	1	37	0	7	0	4	0	16	1	2	0	1	5	1	0	0	2	0	9	0	9	0	14	0	0	0	0	0	20	1	21	5	4	0	11	0	29	0	42	1	6	1	10	1	8	0	7	0	3	0	3	0	19	1	29	0	13	0	8	0	0	0	1
+8	cox2	YP_009178778.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	16	1	23	0	3	0	7	0	7	1	5	0	7	2	0	0	0	6	1	4	1	6	0	8	1	2	0	1	0	20	2	9	10	11	0	3	0	12	1	7	0	5	0	3	0	11	0	9	2	8	0	4	0	14	1	12	2	8	1	1	0	1	0	0
+9	orf32	YP_009178779.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	4	0	4	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	4	0	5	2	0	0	1	0	2	0	5	0	2	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0
+10	cox1	YP_009178780.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	47	3	56	1	10	3	15	1	20	1	0	0	13	3	0	1	0	14	2	7	1	15	0	6	1	2	0	2	0	39	0	8	20	14	1	10	1	19	0	13	0	6	2	6	0	21	0	13	1	22	2	5	3	11	1	4	0	34	2	9	4	1	0	0
+11	nad7	YP_009178791.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	18	0	39	1	6	1	5	1	17	3	7	0	3	1	0	1	0	9	1	5	0	9	3	14	0	11	1	1	0	22	0	14	12	6	1	5	1	18	3	22	2	2	1	8	1	14	0	9	0	13	1	6	1	20	1	24	2	19	1	4	2	1	0	0
+12	ymf98	YP_009178792.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	11	0	20	0	2	0	2	0	12	0	0	0	0	3	0	3	0	2	0	0	0	1	0	9	0	0	0	0	0	11	0	9	2	2	0	0	0	20	1	24	1	0	0	1	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	2	0	1	0	0
+13	nad4	YP_009178793.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	60	2	63	3	11	0	13	2	29	2	7	0	4	3	0	3	0	8	0	6	0	10	0	7	0	4	0	2	0	54	2	15	16	9	1	9	1	18	1	18	1	12	0	3	0	11	1	7	0	12	1	9	1	8	1	15	0	17	2	6	1	1	0	0
+14	atp1	YP_009178794.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	17	1	42	3	9	2	11	1	14	1	3	0	1	1	0	1	0	11	1	6	0	3	0	26	1	7	1	2	0	40	0	8	11	13	1	12	1	24	0	36	0	11	0	15	1	16	1	17	2	21	3	10	3	24	1	32	0	32	0	7	2	1	0	0
+15	nad5	YP_009178795.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	84	0	80	2	12	1	20	1	36	5	10	1	8	3	0	4	0	9	3	1	1	10	1	11	1	5	0	0	0	54	2	24	24	12	1	19	2	29	3	24	0	15	2	6	0	13	0	10	1	22	3	10	5	16	0	15	0	30	3	9	1	0	1	0
+16	nad6	YP_009178796.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	33	1	27	0	7	0	7	0	10	1	0	0	0	1	0	0	0	2	0	1	0	1	0	5	0	0	0	1	0	21	1	14	6	8	0	6	2	17	0	19	0	3	1	1	0	5	0	8	1	3	1	2	1	4	1	7	0	4	0	2	1	1	0	0
+17	secY	YP_009178800.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	48	2	36	0	1	0	4	0	24	0	1	0	2	5	0	1	0	3	0	1	0	2	0	2	0	0	0	0	0	26	1	19	2	6	0	5	0	18	1	15	2	4	0	2	0	3	0	0	0	2	0	0	0	2	0	5	0	1	0	0	0	1	0	0
+18	rpl2	YP_009178804.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	7	0	25	0	6	2	7	0	8	0	1	0	1	0	0	0	0	9	2	1	1	6	1	12	0	8	1	2	0	19	0	8	1	5	0	7	1	24	1	35	1	5	0	7	0	1	1	5	1	8	2	1	0	1	1	3	3	18	2	5	0	1	0	0
+19	rps19	YP_009178805.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	5	2	4	0	0	0	2	0	4	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	0	1	0	4	0	4	3	1	0	2	0	12	0	18	0	2	0	1	0	1	0	2	0	0	0	0	0	0	0	2	0	4	0	0	0	1	0	0
+20	rps3	YP_009178806.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	22	0	22	1	2	1	3	0	16	2	1	0	3	0	0	1	0	2	0	4	0	5	0	8	0	2	0	1	0	19	2	15	5	6	0	5	0	32	2	55	3	2	1	4	0	4	0	0	0	0	0	3	0	4	0	5	0	3	0	2	0	1	0	0
+21	rpl16	YP_009178807.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	7	0	6	0	1	0	4	1	5	0	0	0	2	2	0	1	0	2	0	3	0	0	0	4	0	3	0	2	0	10	0	4	3	3	0	5	1	3	0	26	2	3	0	2	0	3	0	4	0	2	0	3	1	1	0	4	0	9	0	2	0	1	0	0
+22	ymf99	YP_009178808.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	21	1	22	1	5	1	4	0	15	0	1	0	0	0	0	1	0	2	0	0	0	3	0	6	0	2	0	2	0	16	1	13	3	9	0	2	0	35	1	44	4	0	0	3	0	1	0	1	0	1	0	0	0	2	0	8	0	3	0	1	0	0	0	1
+23	atp8	YP_009178809.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	29	2	9	0	1	0	3	0	4	0	3	0	1	1	0	0	0	0	0	2	1	0	0	7	0	0	0	0	0	12	0	4	1	1	1	1	0	15	0	22	0	0	0	1	0	2	0	0	0	0	0	0	0	2	0	4	0	0	0	0	0	1	0	0
+24	rps14	YP_009178810.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	5	1	12	0	1	0	6	0	3	0	1	0	3	0	0	1	0	1	0	0	0	0	0	6	0	4	0	2	0	10	0	1	1	1	1	0	0	9	0	15	2	2	0	3	0	2	0	0	0	0	0	1	0	1	0	1	0	1	0	1	1	1	0	0
+25	rps8	YP_009178811.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	4	0	13	0	0	0	8	0	7	0	1	0	0	1	0	0	0	0	0	1	0	0	0	3	1	2	0	0	0	12	0	8	1	3	0	2	0	10	1	25	0	2	0	1	0	2	1	1	0	1	0	2	0	3	0	3	0	5	0	2	0	1	0	0
+26	rpl6	YP_009178812.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	20	0	25	1	3	0	0	0	4	0	0	0	0	2	0	0	0	5	0	0	1	4	0	4	0	0	0	0	0	20	1	13	1	1	0	3	1	25	1	39	2	5	0	0	0	0	0	1	0	0	0	0	0	4	0	5	0	6	0	3	1	1	0	0
+27	rps2	YP_009178813.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	13	0	19	1	3	0	5	1	9	0	0	0	1	0	0	2	0	1	1	1	0	0	0	6	0	3	0	0	0	17	0	16	3	4	0	6	4	29	2	28	1	3	0	1	0	3	0	2	0	1	0	0	0	2	0	7	0	2	0	1	1	1	0	0
+28	rps4	YP_009178814.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	13	0	17	1	0	0	1	1	3	0	2	1	1	0	0	0	0	0	1	2	0	3	0	6	3	2	0	0	0	8	1	9	1	2	0	0	0	17	1	38	2	2	0	10	0	2	0	3	0	1	0	1	0	2	0	5	0	0	0	2	0	1	0	0
+29	ymf100	YP_009178815.1	Peronospora tabacina	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Peronospora	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	19	6	0	0	0	0	0	0	27	3	0	0	3	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0

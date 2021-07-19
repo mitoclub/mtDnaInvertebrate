@@ -1,65 +1,10 @@
-	YP_009351326.1|ND2	YP_009351327.1|COX1	YP_009351328.1|COX2	YP_009351329.1|ATP8	YP_009351330.1|ATP6	YP_009351331.1|COX3	YP_009351332.1|ND3	YP_009351336.1|ND6	YP_009351337.1|CYTB
-TTT	4	16	5	2	7	11	1	2	8
-TTC	11	27	5	2	5	12	7	4	19
-TTA	20	14	10	1	18	13	6	6	12
-TTG	2	4	0	0	0	0	0	0	0
-TCT	5	3	0	1	1	0	0	0	4
-TCC	8	5	2	0	1	0	1	1	1
-TCA	14	18	7	2	4	10	9	6	6
-TCG	4	1	1	0	1	1	1	0	0
-TAT	4	8	4	0	3	3	0	3	7
-TAC	7	8	4	2	0	6	1	2	10
-TGT	1	0	1	0	0	1	1	0	1
-TGC	1	2	1	0	0	0	0	1	3
-TGA	9	14	6	3	3	13	3	1	12
-TGG	1	1	0	0	1	0	0	0	0
-CTT	5	8	5	0	4	3	0	1	4
-CTC	5	3	2	0	1	0	0	1	0
-CTA	18	27	6	1	21	14	11	14	27
-CTG	2	1	1	1	0	1	0	1	1
-CCT	4	5	2	2	1	2	0	2	3
-CCC	2	3	1	0	1	0	1	1	6
-CCA	6	19	7	0	9	7	4	2	12
-CCG	2	0	0	0	0	0	0	0	2
-CAT	2	7	4	1	2	8	0	1	4
-CAC	1	9	2	0	3	7	1	1	7
-CAA	5	7	11	2	4	8	1	4	8
-CAG	0	0	1	0	0	0	0	0	0
-CGT	0	1	1	0	1	0	0	0	0
-CGC	0	0	0	0	0	0	1	1	0
-CGA	0	9	6	0	1	3	2	0	8
-CGG	1	0	0	0	1	1	0	0	0
-ATT	19	21	10	1	9	8	6	4	12
-ATC	13	20	11	3	12	10	9	8	16
-ATA	17	28	13	11	15	8	10	27	24
-ATG	8	3	1	0	1	0	0	3	2
-ACT	2	8	1	0	6	8	2	2	3
-ACC	8	8	2	0	4	4	0	5	5
-ACA	19	23	14	3	8	16	3	14	23
-ACG	0	0	1	0	1	0	0	0	1
-AAT	6	7	5	2	14	5	3	6	14
-AAC	14	10	6	4	4	2	2	4	10
-AAA	15	6	4	4	5	3	4	3	8
-AAG	1	3	1	2	0	0	1	2	2
-AGT	3	2	2	0	4	0	0	0	1
-AGC	0	3	1	0	1	0	0	0	1
-AGA	4	9	6	0	9	4	3	7	5
-AGG	1	0	0	0	0	0	0	0	1
-GTT	2	8	3	0	1	2	0	2	3
-GTC	3	2	1	0	1	0	0	0	0
-GTA	14	25	12	0	7	14	3	6	18
-GTG	3	1	2	0	0	0	0	1	1
-GCT	3	7	3	0	0	0	0	0	0
-GCC	5	8	0	0	2	3	0	0	4
-GCA	11	22	7	0	10	13	8	2	19
-GCG	0	0	0	0	0	1	0	0	1
-GAT	2	8	5	0	1	3	1	0	2
-GAC	1	6	5	0	0	2	2	0	8
-GAA	7	10	7	1	7	8	6	4	5
-GAG	1	0	3	0	0	0	0	1	0
-GGT	4	6	0	1	2	2	0	2	0
-GGC	0	2	1	0	1	1	0	0	1
-GGA	9	36	5	0	5	17	3	4	20
-GGG	3	1	1	0	2	2	0	0	2
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009351326.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	4	11	20	2	5	8	14	4	4	7	1	1	9	1	5	5	18	2	4	2	6	2	2	1	5	0	0	0	0	1	19	13	17	8	2	8	19	0	6	14	15	1	3	0	4	1	2	3	14	3	3	5	11	0	2	1	7	1	4	0	9	3	1	0
+1	COX1	YP_009351327.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	16	27	14	4	3	5	18	1	8	8	0	2	14	1	8	3	27	1	5	3	19	0	7	9	7	0	1	0	9	0	21	20	28	3	8	8	23	0	7	10	6	3	2	3	9	0	8	2	25	1	7	8	22	0	8	6	10	0	6	2	36	1	1	0
+2	COX2	YP_009351328.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	5	5	10	0	0	2	7	1	4	4	1	1	6	0	5	2	6	1	2	1	7	0	4	2	11	1	1	0	6	0	10	11	13	1	1	2	14	1	5	6	4	1	2	1	6	0	3	1	12	2	3	0	7	0	5	5	7	3	0	1	5	1	0	0
+3	ATP8	YP_009351329.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	2	2	1	0	1	0	2	0	0	2	0	0	3	0	0	0	1	1	2	0	0	0	1	0	2	0	0	0	0	0	1	3	11	0	0	0	3	0	2	4	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0
+4	ATP6	YP_009351330.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	7	5	18	0	1	1	4	1	3	0	0	0	3	1	4	1	21	0	1	1	9	0	2	3	4	0	1	0	1	1	9	12	15	1	6	4	8	1	14	4	5	0	4	1	9	0	1	1	7	0	0	2	10	0	1	0	7	0	2	1	5	2	1	0
+5	COX3	YP_009351331.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	11	12	13	0	0	0	10	1	3	6	1	0	13	0	3	0	14	1	2	0	7	0	8	7	8	0	0	0	3	1	8	10	8	0	8	4	16	0	5	2	3	0	0	0	4	0	2	0	14	0	0	3	13	1	3	2	8	0	2	1	17	2	1	0
+6	ND3	YP_009351332.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	1	7	6	0	0	1	9	1	0	1	1	0	3	0	0	0	11	0	0	1	4	0	0	1	1	0	0	1	2	0	6	9	10	0	2	0	3	0	3	2	4	1	0	0	3	0	0	0	3	0	0	0	8	0	1	2	6	0	0	0	3	0	1	0
+7	ND6	YP_009351336.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	2	4	6	0	0	1	6	0	3	2	0	1	1	0	1	1	14	1	2	1	2	0	1	1	4	0	0	1	0	0	4	8	27	3	2	5	14	0	6	4	3	2	0	0	7	0	2	0	6	1	0	0	2	0	0	0	4	1	2	0	4	0	1	0
+8	CYTB	YP_009351337.1	Crenetermes albotarsalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Crenetermes	8	19	12	0	4	1	6	0	7	10	1	3	12	0	4	0	27	1	3	6	12	2	4	7	8	0	0	0	8	0	12	16	24	2	3	5	23	1	14	10	8	2	1	1	5	1	3	0	18	1	0	4	19	1	2	8	5	0	0	1	20	2	1	0

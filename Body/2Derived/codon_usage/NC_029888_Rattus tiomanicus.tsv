@@ -1,65 +1,13 @@
-	YP_009245641.1|ND1	YP_009245642.1|ND2	YP_009245643.1|COX1	YP_009245644.1|COX2	YP_009245645.1|ATP8	YP_009245646.1|ATP6	YP_009245647.1|COX3	YP_009245648.1|ND3	YP_009245649.1|ND4L	YP_009245650.1|ND4	YP_009245651.1|ND5	YP_009245653.1|CYTB
-TTT	9	3	19	2	3	6	9	5	1	4	16	7
-TTC	10	7	23	5	1	7	12	4	5	13	26	23
-TTA	9	13	12	9	2	8	7	2	3	19	10	10
-TTG	1	1	4	0	1	0	1	0	0	2	3	0
-TCT	2	3	6	4	1	3	2	2	5	4	7	2
-TCC	7	9	11	2	3	0	4	1	4	9	14	7
-TCA	13	15	15	8	5	5	11	1	2	17	23	13
-TCG	0	0	0	0	0	0	1	0	0	0	1	0
-TAT	2	4	10	6	1	1	8	1	2	1	6	2
-TAC	15	8	10	3	0	1	4	2	0	12	12	13
-TGT	0	0	1	0	0	0	0	0	0	1	1	1
-TGC	1	1	0	3	0	0	2	1	3	2	6	3
-TGA	8	7	17	5	3	3	12	4	0	13	14	12
-TGG	1	1	0	0	0	0	0	0	0	0	0	0
-CTT	3	6	11	6	1	7	4	6	2	17	10	5
-CTC	10	12	11	2	0	5	5	3	1	11	19	9
-CTA	32	31	20	15	2	22	18	9	12	36	47	30
-CTG	2	1	1	0	0	0	0	1	1	2	1	2
-CCT	7	4	11	4	4	1	3	0	0	2	6	1
-CCC	5	4	4	1	2	4	3	3	1	7	5	5
-CCA	10	12	13	9	1	9	4	3	0	14	14	16
-CCG	0	0	0	0	0	1	0	0	0	0	0	0
-CAT	0	2	9	2	0	3	5	0	0	4	7	6
-CAC	3	3	9	5	0	6	12	0	1	6	4	7
-CAA	6	12	6	6	5	6	7	3	2	10	15	6
-CAG	0	0	0	0	0	0	0	0	0	2	0	0
-CGT	0	0	2	4	0	0	0	0	0	1	1	2
-CGC	3	0	0	0	0	2	1	1	1	0	2	2
-CGA	5	3	6	2	0	3	4	0	0	8	6	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	15	17	17	12	4	15	11	6	4	20	34	20
-ATC	13	21	18	7	3	13	7	6	3	30	32	22
-ATA	17	25	28	12	1	13	7	3	8	34	38	10
-ATG	2	2	2	3	1	2	2	0	2	3	2	1
-ACT	1	7	6	1	0	7	2	3	2	7	14	5
-ACC	8	9	9	4	1	4	7	2	4	7	20	7
-ACA	12	16	20	11	6	11	12	9	4	27	20	14
-ACG	0	2	0	0	1	0	0	0	0	0	1	0
-AAT	5	6	4	4	0	4	4	2	2	8	14	4
-AAC	7	17	12	5	2	4	4	3	4	15	25	13
-AAA	5	12	10	5	5	4	2	3	1	12	23	9
-AAG	1	0	0	0	0	1	1	0	0	1	1	1
-AGT	0	1	1	1	0	2	0	1	0	0	3	2
-AGC	3	2	2	3	0	4	3	1	0	11	7	0
-GTT	2	1	6	4	1	0	4	4	0	3	3	1
-GTC	3	2	10	2	0	1	2	0	1	2	5	5
-GTA	6	5	24	7	1	8	8	1	3	2	10	13
-GTG	1	0	2	1	0	0	0	0	0	1	0	0
-GCT	1	4	10	5	1	5	1	1	2	7	8	3
-GCC	16	7	18	3	1	5	4	3	2	8	16	10
-GCA	7	10	12	1	1	5	9	4	3	14	10	10
-GCG	1	0	1	0	0	0	0	0	0	0	2	0
-GAT	0	0	9	1	1	1	1	1	1	3	2	0
-GAC	3	0	7	10	0	0	3	1	0	1	8	11
-GAA	10	3	8	12	2	4	7	5	2	9	8	6
-GAG	2	1	1	2	0	0	0	1	0	0	2	0
-GGT	1	0	7	2	0	0	3	1	1	2	2	2
-GGC	6	1	9	4	0	4	6	1	1	7	6	7
-GGA	6	12	25	1	0	5	11	1	2	8	17	14
-GGG	0	0	5	1	0	1	1	0	0	0	0	2
-TAA	0	0	1	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009245641.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	9	10	9	1	2	7	13	0	2	15	0	1	8	1	3	10	32	2	7	5	10	0	0	3	6	0	0	3	5	0	15	13	17	2	1	8	12	0	5	7	5	1	0	3	2	3	6	1	1	16	7	1	0	3	10	2	1	6	6	0	0	0	0	0
+1	ND2	YP_009245642.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	3	7	13	1	3	9	15	0	4	8	0	1	7	1	6	12	31	1	4	4	12	0	2	3	12	0	0	0	3	0	17	21	25	2	7	9	16	2	6	17	12	0	1	2	1	2	5	0	4	7	10	0	0	0	3	1	0	1	12	0	0	0	0	0
+2	COX1	YP_009245643.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	19	23	12	4	6	11	15	0	10	10	1	0	17	0	11	11	20	1	11	4	13	0	9	9	6	0	2	0	6	0	17	18	28	2	6	9	20	0	4	12	10	0	1	2	6	10	24	2	10	18	12	1	9	7	8	1	7	9	25	5	1	0	0	0
+3	COX2	YP_009245644.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	2	5	9	0	4	2	8	0	6	3	0	3	5	0	6	2	15	0	4	1	9	0	2	5	6	0	4	0	2	0	12	7	12	3	1	4	11	0	4	5	5	0	1	3	4	2	7	1	5	3	1	0	1	10	12	2	2	4	1	1	1	0	0	0
+4	ATP8	YP_009245645.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	3	1	2	1	1	3	5	0	1	0	0	0	3	0	1	0	2	0	4	2	1	0	0	0	5	0	0	0	0	0	4	3	1	1	0	1	6	1	0	2	5	0	0	0	1	0	1	0	1	1	1	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009245646.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	6	7	8	0	3	0	5	0	1	1	0	0	3	0	7	5	22	0	1	4	9	1	3	6	6	0	0	2	3	0	15	13	13	2	7	4	11	0	4	4	4	1	2	4	0	1	8	0	5	5	5	0	1	0	4	0	0	4	5	1	1	0	0	0
+6	COX3	YP_009245647.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	9	12	7	1	2	4	11	1	8	4	0	2	12	0	4	5	18	0	3	3	4	0	5	12	7	0	0	1	4	0	11	7	7	2	2	7	12	0	4	4	2	1	0	3	4	2	8	0	1	4	9	0	1	3	7	0	3	6	11	1	0	0	0	0
+7	ND3	YP_009245648.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	5	4	2	0	2	1	1	0	1	2	0	1	4	0	6	3	9	1	0	3	3	0	0	0	3	0	0	1	0	0	6	6	3	0	3	2	9	0	2	3	3	0	1	1	4	0	1	0	1	3	4	0	1	1	5	1	1	1	1	0	1	0	0	0
+8	ND4L	YP_009245649.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	1	5	3	0	5	4	2	0	2	0	0	3	0	0	2	1	12	1	0	1	0	0	0	1	2	0	0	1	0	0	4	3	8	2	2	4	4	0	2	4	1	0	0	0	0	1	3	0	2	2	3	0	1	0	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_009245650.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	4	13	19	2	4	9	17	0	1	12	1	2	13	0	17	11	36	2	2	7	14	0	4	6	10	2	1	0	8	0	20	30	34	3	7	7	27	0	8	15	12	1	0	11	3	2	2	1	7	8	14	0	3	1	9	0	2	7	8	0	0	0	0	0
+10	ND5	YP_009245651.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	16	26	10	3	7	14	23	1	6	12	1	6	14	0	10	19	47	1	6	5	14	0	7	4	15	0	1	2	6	0	34	32	38	2	14	20	20	1	14	25	23	1	3	7	3	5	10	0	8	16	10	2	2	8	8	2	2	6	17	0	1	0	0	0
+11	CYTB	YP_009245653.1	Rattus tiomanicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Rattus	7	23	10	0	2	7	13	0	2	13	1	3	12	0	5	9	30	2	1	5	16	0	6	7	6	0	2	2	4	0	20	22	10	1	5	7	14	0	4	13	9	1	2	0	1	5	13	0	3	10	10	0	0	11	6	0	2	7	14	2	1	0	0	0

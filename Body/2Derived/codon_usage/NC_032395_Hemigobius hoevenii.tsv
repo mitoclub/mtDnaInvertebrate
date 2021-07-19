@@ -1,65 +1,13 @@
-	YP_009332564.1|ND1	YP_009332565.1|ND2	YP_009332566.1|COX1	YP_009332567.1|COX2	YP_009332568.1|ATP8	YP_009332569.1|ATP6	YP_009332570.1|COX3	YP_009332571.1|ND3	YP_009332572.1|ND4L	YP_009332573.1|ND4	YP_009332574.1|ND5	YP_009332576.1|CYTB
-TTT	13	6	23	4	2	8	10	9	4	8	22	11
-TTC	5	4	18	6	3	5	12	2	3	9	21	19
-TTA	8	7	5	3	1	6	5	4	0	12	9	2
-TTG	1	1	2	0	1	3	0	0	0	3	4	1
-TCT	5	3	6	2	0	2	1	1	2	9	9	6
-TCC	8	11	9	5	4	6	1	1	2	10	13	6
-TCA	6	8	10	7	0	0	6	2	4	6	9	8
-TCG	0	0	1	1	0	0	0	0	0	0	0	0
-TAT	7	2	7	3	0	2	3	2	0	5	4	7
-TAC	5	5	11	7	0	1	10	0	0	8	8	8
-TGT	0	0	0	2	0	0	2	1	1	1	2	0
-TGC	0	0	1	1	0	1	1	0	2	4	4	3
-TGA	4	8	15	3	4	2	9	3	1	12	6	11
-TGG	4	3	2	1	1	2	3	2	0	5	8	1
-CTT	26	17	22	9	1	13	12	4	8	22	23	20
-CTC	8	20	9	5	0	8	3	8	6	18	22	13
-CTA	16	24	17	4	2	15	10	8	6	27	29	15
-CTG	8	10	8	4	1	5	0	1	5	17	12	8
-CCT	4	5	11	5	2	8	5	2	1	9	8	6
-CCC	12	12	7	7	3	8	5	5	0	16	18	8
-CCA	8	7	9	3	2	1	3	2	1	3	6	8
-CCG	0	0	0	0	0	0	0	0	0	0	1	0
-CAT	1	2	9	2	0	1	4	0	1	3	3	2
-CAC	4	4	12	7	1	1	10	0	3	9	11	10
-CAA	4	15	6	8	3	5	7	3	2	8	12	7
-CAG	3	1	2	1	1	3	1	0	0	1	8	0
-CGT	2	1	0	1	0	3	0	0	0	1	2	0
-CGC	0	1	2	2	0	3	2	1	1	4	2	2
-CGA	6	2	5	2	0	3	4	1	2	3	3	4
-CGG	0	0	1	1	0	0	0	0	0	3	1	2
-ATT	14	13	25	15	0	12	7	5	0	19	30	15
-ATC	10	11	16	6	1	6	9	4	1	10	14	17
-ATA	4	8	6	6	0	6	6	0	0	18	17	8
-ATG	6	7	19	6	2	6	3	2	4	10	11	3
-ACT	1	6	9	2	2	5	3	1	0	7	9	2
-ACC	9	20	8	3	2	7	9	5	4	8	20	6
-ACA	9	12	18	2	2	6	10	4	5	17	23	13
-ACG	0	0	0	0	0	0	0	0	0	0	3	0
-AAT	2	4	5	2	1	2	0	1	0	5	9	5
-AAC	9	7	9	4	3	7	3	1	4	8	21	13
-AAA	7	8	7	3	2	1	2	1	0	5	16	7
-AAG	0	0	1	2	0	0	0	0	0	4	4	2
-AGT	0	2	1	0	0	0	0	0	1	1	0	0
-AGC	3	1	4	2	1	5	4	0	0	5	14	1
-GTT	6	4	7	6	0	4	5	2	0	2	10	8
-GTC	4	2	9	6	2	5	5	2	0	11	10	5
-GTA	4	2	16	6	0	3	6	1	0	1	7	8
-GTG	2	1	6	1	0	0	2	0	1	2	3	2
-GCT	8	6	12	3	1	6	3	2	2	12	11	5
-GCC	12	21	20	9	1	6	11	3	7	20	26	15
-GCA	12	10	17	8	1	5	7	4	5	16	19	15
-GCG	0	0	0	0	0	1	1	0	0	0	0	0
-GAT	1	0	5	4	0	0	1	0	0	1	3	3
-GAC	3	1	9	7	0	2	4	4	1	4	9	8
-GAA	3	5	9	9	1	2	6	4	2	8	7	3
-GAG	8	0	2	4	0	2	3	2	1	3	5	2
-GGT	1	0	7	6	0	0	3	0	0	0	5	2
-GGC	7	8	15	2	0	7	11	5	3	14	15	13
-GGA	4	4	13	0	0	4	3	0	2	5	4	8
-GGG	7	6	12	0	0	2	5	1	0	8	7	3
-TAA	1	1	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009332564.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	13	5	8	1	5	8	6	0	7	5	0	0	4	4	26	8	16	8	4	12	8	0	1	4	4	3	2	0	6	0	14	10	4	6	1	9	9	0	2	9	7	0	0	3	6	4	4	2	8	12	12	0	1	3	3	8	1	7	4	7	1	0	0	0
+1	ND2	YP_009332565.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	6	4	7	1	3	11	8	0	2	5	0	0	8	3	17	20	24	10	5	12	7	0	2	4	15	1	1	1	2	0	13	11	8	7	6	20	12	0	4	7	8	0	2	1	4	2	2	1	6	21	10	0	0	1	5	0	0	8	4	6	1	0	0	0
+2	COX1	YP_009332566.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	23	18	5	2	6	9	10	1	7	11	0	1	15	2	22	9	17	8	11	7	9	0	9	12	6	2	0	2	5	1	25	16	6	19	9	8	18	0	5	9	7	1	1	4	7	9	16	6	12	20	17	0	5	9	9	2	7	15	13	12	1	0	0	0
+3	COX2	YP_009332567.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	4	6	3	0	2	5	7	1	3	7	2	1	3	1	9	5	4	4	5	7	3	0	2	7	8	1	1	2	2	1	15	6	6	6	2	3	2	0	2	4	3	2	0	2	6	6	6	1	3	9	8	0	4	7	9	4	6	2	0	0	0	0	0	0
+4	ATP8	YP_009332568.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	2	3	1	1	0	4	0	0	0	0	0	0	4	1	1	0	2	1	2	3	2	0	0	1	3	1	0	0	0	0	0	1	0	2	2	2	2	0	1	3	2	0	0	1	0	2	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009332569.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	8	5	6	3	2	6	0	0	2	1	0	1	2	2	13	8	15	5	8	8	1	0	1	1	5	3	3	3	3	0	12	6	6	6	5	7	6	0	2	7	1	0	0	5	4	5	3	0	6	6	5	1	0	2	2	2	0	7	4	2	1	0	0	0
+6	COX3	YP_009332570.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	10	12	5	0	1	1	6	0	3	10	2	1	9	3	12	3	10	0	5	5	3	0	4	10	7	1	0	2	4	0	7	9	6	3	3	9	10	0	0	3	2	0	0	4	5	5	6	2	3	11	7	1	1	4	6	3	3	11	3	5	0	0	0	0
+7	ND3	YP_009332571.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	9	2	4	0	1	1	2	0	2	0	1	0	3	2	4	8	8	1	2	5	2	0	0	0	3	0	0	1	1	0	5	4	0	2	1	5	4	0	1	1	1	0	0	0	2	2	1	0	2	3	4	0	0	4	4	2	0	5	0	1	0	0	0	0
+8	ND4L	YP_009332572.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	4	3	0	0	2	2	4	0	0	0	1	2	1	0	8	6	6	5	1	0	1	0	1	3	2	0	0	1	2	0	0	1	0	4	0	4	5	0	0	4	0	0	1	0	0	0	0	1	2	7	5	0	0	1	2	1	0	3	2	0	1	0	0	0
+9	ND4	YP_009332573.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	8	9	12	3	9	10	6	0	5	8	1	4	12	5	22	18	27	17	9	16	3	0	3	9	8	1	1	4	3	3	19	10	18	10	7	8	17	0	5	8	5	4	1	5	2	11	1	2	12	20	16	0	1	4	8	3	0	14	5	8	0	0	0	0
+10	ND5	YP_009332574.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	22	21	9	4	9	13	9	0	4	8	2	4	6	8	23	22	29	12	8	18	6	1	3	11	12	8	2	2	3	1	30	14	17	11	9	20	23	3	9	21	16	4	0	14	10	10	7	3	11	26	19	0	3	9	7	5	5	15	4	7	1	0	0	0
+11	CYTB	YP_009332576.1	Hemigobius hoevenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Hemigobius	11	19	2	1	6	6	8	0	7	8	0	3	11	1	20	13	15	8	6	8	8	0	2	10	7	0	0	2	4	2	15	17	8	3	2	6	13	0	5	13	7	2	0	1	8	5	8	2	5	15	15	0	3	8	3	2	2	13	8	3	0	0	0	0

@@ -1,65 +1,15 @@
-	YP_009500443.1|orf142	YP_009500444.1|atp6	YP_009500445.1|atp8	YP_009500446.1|nad5	YP_009500447.1|nad4	YP_009500448.1|sdhD	YP_009500449.1|nad2	YP_009500450.1|nad1	YP_009500451.1|nad3	YP_009500452.1|rps11	YP_009500453.1|atp9	YP_009500454.1|sdhC	YP_009500455.1|sdhB	YP_009500456.1|nad6
-TTT	12	24	10	58	47	7	52	19	14	4	5	19	8	18
-TTC	1	5	0	13	7	1	11	2	2	1	1	1	1	2
-TTA	13	24	16	79	53	11	57	41	16	11	9	15	19	23
-TTG	4	7	3	10	17	4	8	4	0	3	2	1	2	3
-TCT	4	4	4	24	9	1	9	7	4	4	1	3	6	5
-TCC	4	0	1	5	3	0	2	0	0	2	0	0	2	1
-TCA	2	4	2	11	9	0	15	8	1	3	1	6	2	3
-TCG	0	0	0	5	5	0	2	1	0	1	0	1	2	2
-TAT	3	7	4	30	14	2	21	13	6	2	2	3	11	3
-TAC	0	0	0	3	5	0	6	1	0	0	0	2	3	1
-TGT	2	1	1	8	5	0	3	2	0	0	0	0	11	0
-TGC	0	1	0	1	0	0	0	1	1	1	0	0	2	1
-TGA	2	2	1	6	9	1	6	8	3	1	0	1	5	1
-TGG	1	1	0	6	1	0	1	2	1	0	0	1	1	1
-CTT	3	9	1	7	7	3	8	7	2	1	0	1	7	6
-CTC	2	1	0	2	1	0	2	0	0	0	0	0	0	2
-CTA	2	2	0	11	10	1	5	9	0	1	1	3	2	3
-CTG	0	1	0	2	0	0	3	0	0	0	0	0	0	2
-CCT	1	4	2	11	9	0	6	6	2	1	1	1	8	1
-CCC	0	4	0	0	1	0	2	4	1	0	0	1	2	0
-CCA	0	2	1	3	6	0	5	4	1	2	0	1	2	0
-CCG	0	1	0	2	0	0	3	1	0	1	0	0	2	0
-CAT	1	5	3	12	6	2	1	0	0	2	0	5	4	2
-CAC	0	1	1	1	1	0	1	0	0	0	0	1	4	1
-CAA	5	5	4	9	13	0	6	4	2	0	3	3	8	6
-CAG	0	1	2	3	1	0	2	2	0	1	0	0	0	1
-CGT	0	0	2	4	4	1	3	3	0	1	0	1	3	3
-CGC	0	0	0	2	1	1	0	1	0	0	0	0	3	0
-CGA	1	1	0	1	2	0	0	1	1	2	1	0	2	0
-CGG	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-ATT	3	14	11	33	35	8	35	19	5	9	2	10	12	12
-ATC	1	7	2	3	2	3	5	1	4	2	1	1	1	3
-ATA	9	11	9	23	24	7	20	16	9	6	2	8	7	9
-ATG	3	6	2	19	12	2	11	12	2	2	5	1	8	7
-ACT	1	6	2	11	14	0	8	2	0	4	4	1	5	4
-ACC	1	0	0	5	4	0	1	1	0	0	1	0	0	1
-ACA	3	10	3	13	10	2	10	4	1	6	0	5	7	3
-ACG	1	2	4	5	1	1	3	3	2	2	1	0	1	2
-AAT	13	10	5	24	8	2	18	12	1	7	1	2	16	9
-AAC	3	3	0	6	1	1	3	0	0	2	1	2	2	2
-AAA	12	6	9	18	10	2	13	7	3	14	1	3	17	10
-AAG	1	0	4	2	2	1	3	2	1	5	1	1	4	0
-AGT	7	5	2	13	13	2	15	3	4	0	1	2	4	2
-AGC	0	2	0	2	3	1	3	2	0	0	0	3	2	0
-AGA	1	1	2	5	2	1	2	2	1	1	0	1	3	0
-AGG	0	0	0	0	2	0	0	2	0	0	0	0	1	0
-GTT	1	10	2	19	6	0	16	8	2	3	0	5	1	5
-GTC	0	1	1	2	0	0	3	0	1	0	0	1	0	3
-GTA	1	3	5	16	16	1	5	10	3	1	6	1	3	7
-GTG	0	0	0	6	0	1	3	1	0	0	0	0	0	1
-GCT	0	5	2	15	10	0	10	13	5	0	8	0	3	6
-GCC	0	0	0	1	0	0	5	3	1	0	0	1	1	0
-GCA	2	7	1	14	7	0	9	10	0	1	3	0	3	2
-GCG	0	1	1	3	5	0	4	3	1	0	0	0	2	2
-GAT	4	2	4	13	7	2	8	3	6	3	0	1	9	4
-GAC	0	0	0	2	1	0	1	1	0	1	0	0	1	1
-GAA	4	7	5	12	9	3	8	9	7	1	1	0	6	4
-GAG	1	0	0	1	5	0	2	2	0	0	0	0	0	0
-GGT	4	8	1	19	14	3	13	12	0	2	6	2	4	3
-GGC	0	2	0	6	1	0	2	4	0	0	0	1	2	1
-GGA	2	7	0	18	10	1	9	4	3	3	3	1	1	3
-GGG	1	0	0	5	5	0	2	4	2	0	1	0	1	5
-TAA	0	1	1	1	0	1	1	1	1	1	1	1	1	1
-TAG	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	orf142	YP_009500443.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	12	1	13	4	4	4	2	0	3	0	2	0	2	1	3	2	2	0	1	0	0	0	1	0	5	0	0	0	1	0	3	1	9	3	1	1	3	1	13	3	12	1	7	0	1	0	1	0	1	0	0	0	2	0	4	0	4	1	4	0	2	1	0	1
+1	atp6	YP_009500444.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	24	5	24	7	4	0	4	0	7	0	1	1	2	1	9	1	2	1	4	4	2	1	5	1	5	1	0	0	1	0	14	7	11	6	6	0	10	2	10	3	6	0	5	2	1	0	10	1	3	0	5	0	7	1	2	0	7	0	8	2	7	0	1	0
+2	atp8	YP_009500445.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	10	0	16	3	4	1	2	0	4	0	1	0	1	0	1	0	0	0	2	0	1	0	3	1	4	2	2	0	0	0	11	2	9	2	2	0	3	4	5	0	9	4	2	0	2	0	2	1	5	0	2	0	1	1	4	0	5	0	1	0	0	0	1	0
+3	nad5	YP_009500446.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	58	13	79	10	24	5	11	5	30	3	8	1	6	6	7	2	11	2	11	0	3	2	12	1	9	3	4	2	1	0	33	3	23	19	11	5	13	5	24	6	18	2	13	2	5	0	19	2	16	6	15	1	14	3	13	2	12	1	19	6	18	5	1	0
+4	nad4	YP_009500447.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	47	7	53	17	9	3	9	5	14	5	5	0	9	1	7	1	10	0	9	1	6	0	6	1	13	1	4	1	2	1	35	2	24	12	14	4	10	1	8	1	10	2	13	3	2	2	6	0	16	0	10	0	7	5	7	1	9	5	14	1	10	5	0	1
+5	sdhD	YP_009500448.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	7	1	11	4	1	0	0	0	2	0	0	0	1	0	3	0	1	0	0	0	0	0	2	0	0	0	1	1	0	0	8	3	7	2	0	0	2	1	2	1	2	1	2	1	1	0	0	0	1	1	0	0	0	0	2	0	3	0	3	0	1	0	1	0
+6	nad2	YP_009500449.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	52	11	57	8	9	2	15	2	21	6	3	0	6	1	8	2	5	3	6	2	5	3	1	1	6	2	3	0	0	0	35	5	20	11	8	1	10	3	18	3	13	3	15	3	2	0	16	3	5	3	10	5	9	4	8	1	8	2	13	2	9	2	1	0
+7	nad1	YP_009500450.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	19	2	41	4	7	0	8	1	13	1	2	1	8	2	7	0	9	0	6	4	4	1	0	0	4	2	3	1	1	0	19	1	16	12	2	1	4	3	12	0	7	2	3	2	2	2	8	0	10	1	13	3	10	3	3	1	9	2	12	4	4	4	1	0
+8	nad3	YP_009500451.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	14	2	16	0	4	0	1	0	6	0	0	1	3	1	2	0	0	0	2	1	1	0	0	0	2	0	0	0	1	0	5	4	9	2	0	0	1	2	1	0	3	1	4	0	1	0	2	1	3	0	5	1	0	1	6	0	7	0	0	0	3	2	1	0
+9	rps11	YP_009500452.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	4	1	11	3	4	2	3	1	2	0	0	1	1	0	1	0	1	0	1	0	2	1	2	0	0	1	1	0	2	0	9	2	6	2	4	0	6	2	7	2	14	5	0	0	1	0	3	0	1	0	0	0	1	0	3	1	1	0	2	0	3	0	1	0
+10	atp9	YP_009500453.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	5	1	9	2	1	0	1	0	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	3	0	0	0	1	0	2	1	2	5	4	1	0	1	1	1	1	1	1	0	0	0	0	0	6	0	8	0	3	0	0	0	1	0	6	0	3	1	1	0
+11	sdhC	YP_009500454.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	19	1	15	1	3	0	6	1	3	2	0	0	1	1	1	0	3	0	1	1	1	0	5	1	3	0	1	0	0	0	10	1	8	1	1	0	5	0	2	2	3	1	2	3	1	0	5	1	1	0	0	1	0	0	1	0	0	0	2	1	1	0	1	0
+12	sdhB	YP_009500455.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	8	1	19	2	6	2	2	2	11	3	11	2	5	1	7	0	2	0	8	2	2	2	4	4	8	0	3	3	2	0	12	1	7	8	5	0	7	1	16	2	17	4	4	2	3	1	1	0	3	0	3	1	3	2	9	1	6	0	4	2	1	1	1	0
+13	nad6	YP_009500456.1	Gracilariopsis heteroclada	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	18	2	23	3	5	1	3	2	3	1	0	1	1	1	6	2	3	2	1	0	0	0	2	1	6	1	3	0	0	0	12	3	9	7	4	1	3	2	9	2	10	0	2	0	0	0	5	3	7	1	6	0	2	2	4	1	4	0	3	1	3	5	1	0

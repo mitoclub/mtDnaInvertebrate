@@ -1,65 +1,13 @@
-	YP_009447613.1|ND1	YP_009447614.1|ND2	YP_009447615.1|COX1	YP_009447616.1|COX2	YP_009447617.1|ATP8	YP_009447618.1|ATP6	YP_009447619.1|COX3	YP_009447620.1|ND3	YP_009447621.1|ND4L	YP_009447622.1|ND4	YP_009447623.1|ND5	YP_009447625.1|CYTB
-TTT	5	3	23	5	0	4	6	4	3	9	12	3
-TTC	18	7	18	4	1	5	15	4	1	12	23	17
-TTA	5	7	16	6	3	7	3	2	1	13	7	5
-TTG	0	2	0	2	0	0	3	1	1	3	0	2
-TCT	2	5	7	3	1	5	3	1	0	4	5	0
-TCC	3	12	10	3	1	2	5	1	3	13	14	14
-TCA	9	6	10	3	1	2	6	1	3	7	13	8
-TCG	2	0	0	1	1	1	0	1	1	0	2	2
-TAT	4	4	5	3	2	2	6	2	1	4	4	3
-TAC	7	7	13	6	1	1	7	1	3	11	12	12
-TGT	0	0	0	0	1	0	1	0	1	1	1	0
-TGC	1	1	2	2	0	0	1	1	2	4	5	3
-TGA	8	11	12	4	2	2	8	4	0	9	11	11
-TGG	2	0	4	0	1	0	4	0	0	2	2	1
-CTT	3	4	7	1	5	6	1	1	3	15	14	8
-CTC	19	17	12	7	0	6	10	2	4	26	32	21
-CTA	27	24	23	16	3	23	18	15	7	29	43	23
-CTG	7	6	7	2	0	7	2	3	3	5	5	6
-CCT	6	1	11	3	3	3	0	1	1	3	8	2
-CCC	10	12	11	4	2	5	8	3	2	16	10	9
-CCA	5	8	6	9	2	4	4	3	0	4	11	14
-CCG	0	1	2	0	0	0	0	0	0	1	2	0
-CAT	1	1	7	4	0	2	6	0	0	3	3	2
-CAC	2	6	13	2	2	4	11	0	3	11	8	8
-CAA	6	9	7	6	6	10	7	3	1	10	19	7
-CAG	0	1	0	1	2	0	0	0	0	0	1	0
-CGT	0	1	3	1	0	0	1	0	0	0	0	1
-CGC	0	3	2	2	0	1	1	1	1	3	6	3
-CGA	6	0	3	3	0	2	3	0	0	5	3	4
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	10	7	21	14	1	5	5	7	3	12	18	10
-ATC	8	27	23	7	2	8	11	7	6	25	30	28
-ATA	15	26	23	9	1	11	6	3	6	32	37	15
-ATG	2	4	4	1	3	3	2	0	3	6	5	5
-ACT	4	9	10	2	1	7	1	0	0	7	8	8
-ACC	15	14	10	8	2	13	13	5	3	19	32	12
-ACA	15	25	11	10	5	11	15	5	3	25	20	11
-ACG	3	1	2	2	2	0	0	0	0	2	3	2
-AAT	3	2	6	3	0	2	1	0	3	3	4	2
-AAC	11	17	12	5	5	10	5	5	3	20	26	17
-AAA	6	9	10	3	3	5	3	4	0	12	21	9
-AAG	1	1	0	1	1	0	0	0	0	0	1	0
-AGT	0	2	0	0	0	1	1	1	0	2	1	1
-AGC	3	2	5	3	0	3	4	1	0	9	14	3
-GTT	1	1	7	3	0	2	6	1	2	2	3	1
-GTC	5	3	8	4	0	4	3	0	0	3	3	5
-GTA	3	1	15	3	0	7	5	0	4	4	6	6
-GTG	1	0	4	2	0	0	0	0	0	0	1	1
-GCT	4	4	11	1	0	5	6	3	4	3	11	3
-GCC	14	6	15	8	0	10	3	6	5	13	23	7
-GCA	8	8	12	3	0	4	3	1	1	9	13	8
-GCG	1	0	1	1	0	0	0	1	0	1	1	1
-GAT	1	0	4	3	1	0	3	1	0	2	0	4
-GAC	2	0	9	7	0	0	1	2	1	0	12	6
-GAA	9	4	8	7	0	3	5	5	1	7	9	6
-GAG	2	1	1	4	0	0	1	0	1	1	0	0
-GGT	2	0	9	2	0	0	1	0	2	0	0	2
-GGC	6	8	17	2	0	4	9	0	0	11	15	10
-GGA	4	5	12	4	0	3	7	1	2	6	9	7
-GGG	0	1	9	2	0	1	1	1	0	0	1	1
-TAA	0	0	0	0	0	0	0	0	0	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009447613.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	5	18	5	0	2	3	9	2	4	7	0	1	8	2	3	19	27	7	6	10	5	0	1	2	6	0	0	0	6	1	10	8	15	2	4	15	15	3	3	11	6	1	0	3	1	5	3	1	4	14	8	1	1	2	9	2	2	6	4	0	0	0	0	0
+1	ND2	YP_009447614.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	3	7	7	2	5	12	6	0	4	7	0	1	11	0	4	17	24	6	1	12	8	1	1	6	9	1	1	3	0	0	7	27	26	4	9	14	25	1	2	17	9	1	2	2	1	3	1	0	4	6	8	0	0	0	4	1	0	8	5	1	0	0	0	0
+2	COX1	YP_009447615.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	23	18	16	0	7	10	10	0	5	13	0	2	12	4	7	12	23	7	11	11	6	2	7	13	7	0	3	2	3	0	21	23	23	4	10	10	11	2	6	12	10	0	0	5	7	8	15	4	11	15	12	1	4	9	8	1	9	17	12	9	0	0	0	0
+3	COX2	YP_009447616.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	5	4	6	2	3	3	3	1	3	6	0	2	4	0	1	7	16	2	3	4	9	0	4	2	6	1	1	2	3	0	14	7	9	1	2	8	10	2	3	5	3	1	0	3	3	4	3	2	1	8	3	1	3	7	7	4	2	2	4	2	0	0	0	0
+4	ATP8	YP_009447617.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	0	1	3	0	1	1	1	1	2	1	1	0	2	1	5	0	3	0	3	2	2	0	0	2	6	2	0	0	0	0	1	2	1	3	1	2	5	2	0	5	3	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+5	ATP6	YP_009447618.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	4	5	7	0	5	2	2	1	2	1	0	0	2	0	6	6	23	7	3	5	4	0	2	4	10	0	0	1	2	0	5	8	11	3	7	13	11	0	2	10	5	0	1	3	2	4	7	0	5	10	4	0	0	0	3	0	0	4	3	1	0	0	0	0
+6	COX3	YP_009447619.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	6	15	3	3	3	5	6	0	6	7	1	1	8	4	1	10	18	2	0	8	4	0	6	11	7	0	1	1	3	0	5	11	6	2	1	13	15	0	1	5	3	0	1	4	6	3	5	0	6	3	3	0	3	1	5	1	1	9	7	1	0	0	0	0
+7	ND3	YP_009447620.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	4	4	2	1	1	1	1	1	2	1	0	1	4	0	1	2	15	3	1	3	3	0	0	0	3	0	0	1	0	0	7	7	3	0	0	5	5	0	0	5	4	0	1	1	1	0	0	0	3	6	1	1	1	2	5	0	0	0	1	1	0	0	0	0
+8	ND4L	YP_009447621.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	3	1	1	1	0	3	3	1	1	3	1	2	0	0	3	4	7	3	1	2	0	0	0	3	1	0	0	1	0	0	3	6	6	3	0	3	3	0	3	3	0	0	0	0	2	0	4	0	4	5	1	0	0	1	1	1	2	0	2	0	0	0	0	0
+9	ND4	YP_009447622.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	9	12	13	3	4	13	7	0	4	11	1	4	9	2	15	26	29	5	3	16	4	1	3	11	10	0	0	3	5	0	12	25	32	6	7	19	25	2	3	20	12	0	2	9	2	3	4	0	3	13	9	1	2	0	7	1	0	11	6	0	0	0	0	0
+10	ND5	YP_009447623.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	12	23	7	0	5	14	13	2	4	12	1	5	11	2	14	32	43	5	8	10	11	2	3	8	19	1	0	6	3	0	18	30	37	5	8	32	20	3	4	26	21	1	1	14	3	3	6	1	11	23	13	1	0	12	9	0	0	15	9	1	0	0	0	0
+11	CYTB	YP_009447625.1	Macaca radiata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Macaca	3	17	5	2	0	14	8	2	3	12	0	3	11	1	8	21	23	6	2	9	14	0	2	8	7	0	1	3	4	0	10	28	15	5	8	12	11	2	2	17	9	0	1	3	1	5	6	1	3	7	8	1	4	6	6	0	2	10	7	1	0	0	0	0

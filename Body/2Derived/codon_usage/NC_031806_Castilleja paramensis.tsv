@@ -1,65 +1,15 @@
-	YP_009316376.1|nad2	YP_009316377.1|nad7	YP_009316379.1|atp6	YP_009316384.1|mttB	YP_009316385.1|matR	YP_009316386.1|rps3	YP_009316387.1|rpl16	YP_009316390.1|rpl10	YP_009316394.1|sdh3	YP_009316397.1|rps10	YP_009316398.1|cox1	YP_009316402.1|ccmC	YP_009316407.1|atp8	YP_009316408.1|cox3
-TTT	24	6	22	12	10	17	4	4	10	7	27	9	3	16
-TTC	22	9	12	13	15	16	2	10	6	1	17	7	9	6
-TTA	17	10	15	6	5	7	1	6	5	4	19	7	2	6
-TTG	11	7	12	9	8	11	1	4	4	6	4	6	5	6
-TCT	14	9	11	7	7	14	0	4	3	2	10	11	2	8
-TCC	7	5	3	6	12	6	1	4	1	2	6	2	5	3
-TCA	12	12	11	4	9	10	4	5	0	2	7	4	4	3
-TCG	5	1	3	6	15	9	2	0	2	1	3	2	1	3
-TAT	21	8	7	6	3	13	5	3	6	2	12	2	5	9
-TAC	3	4	1	4	11	7	0	2	3	1	6	2	1	2
-TGT	6	5	3	1	2	7	4	3	1	1	2	0	3	1
-TGC	2	2	1	4	6	2	1	0	1	1	1	0	2	0
-TGG	4	4	2	6	10	7	3	3	2	1	13	4	3	11
-CTT	10	6	13	7	13	7	2	6	9	4	11	8	2	6
-CTC	5	2	7	3	13	9	1	3	3	1	5	2	1	4
-CTA	13	2	6	3	14	5	3	2	2	0	9	5	6	3
-CTG	2	3	7	2	11	6	0	1	3	0	7	3	1	2
-CCT	10	11	12	5	7	4	3	2	3	3	10	8	2	6
-CCC	2	1	4	5	13	5	0	3	1	1	4	3	1	3
-CCA	5	7	6	4	6	6	1	4	3	1	11	4	0	4
-CCG	4	1	2	5	6	7	1	0	2	0	7	3	0	0
-CAT	5	12	9	4	7	8	3	5	3	3	14	5	1	12
-CAC	1	3	1	1	16	1	1	0	0	1	4	0	2	2
-CAA	10	17	13	6	15	13	5	3	3	3	5	4	5	5
-CAG	0	1	3	1	7	2	1	2	2	3	2	0	0	1
-CGT	4	11	5	10	5	9	6	0	0	2	5	4	0	1
-CGC	2	1	2	1	7	7	0	1	0	2	1	1	0	2
-CGA	1	11	0	2	12	9	3	3	1	3	4	1	1	2
-CGG	1	2	0	2	11	5	1	2	1	1	2	4	3	1
-ATT	28	8	14	11	11	13	4	2	3	3	13	10	3	10
-ATC	14	7	8	8	27	10	3	1	5	2	16	6	7	6
-ATA	9	6	12	7	15	18	3	2	2	4	15	5	3	5
-ATG	16	15	11	7	7	10	3	3	4	2	22	6	5	6
-ACT	10	11	13	4	7	3	0	2	3	1	14	4	5	5
-ACC	10	5	1	1	9	9	2	3	1	4	10	6	2	7
-ACA	6	2	5	7	8	8	3	2	0	2	9	5	1	2
-ACG	5	1	4	5	4	6	3	0	1	1	4	1	0	2
-AAT	8	7	15	5	8	17	3	2	2	0	12	2	4	1
-AAC	0	3	10	1	14	10	0	1	2	1	4	4	4	0
-AAA	10	9	5	4	13	28	10	6	4	7	8	1	4	3
-AAG	5	2	4	2	25	24	3	3	4	8	2	3	4	2
-AGT	9	5	13	5	8	7	4	7	0	1	10	2	3	3
-AGC	3	1	5	1	12	5	1	1	0	0	6	2	5	0
-AGA	3	7	1	0	14	18	7	4	2	2	2	1	3	0
-AGG	4	4	2	4	13	8	2	1	1	2	0	2	2	1
-GTT	9	4	10	10	5	4	2	0	0	0	19	5	2	7
-GTC	3	5	3	0	11	7	1	0	1	2	5	1	1	2
-GTA	5	8	9	6	11	8	2	2	2	1	9	4	3	10
-GTG	4	10	2	2	5	9	4	1	0	1	7	1	0	3
-GCT	15	9	10	4	4	10	5	2	5	1	16	8	0	10
-GCC	13	6	4	3	21	6	2	1	3	0	7	0	2	1
-GCA	15	10	4	4	6	4	2	4	0	0	11	2	0	8
-GCG	4	1	3	0	14	4	4	0	1	1	2	3	0	1
-GAT	11	18	10	1	6	10	2	5	0	3	9	4	4	4
-GAC	2	4	1	3	18	9	1	3	3	0	4	0	3	1
-GAA	7	16	10	10	20	22	4	8	3	7	7	6	4	7
-GAG	4	10	7	6	14	6	0	3	2	0	1	0	1	3
-GGT	13	9	11	6	13	9	7	3	2	0	16	4	3	11
-GGC	4	4	2	2	9	6	3	1	0	1	6	2	2	4
-GGA	13	12	12	2	13	11	9	4	2	3	21	5	7	8
-GGG	3	2	7	1	12	15	0	0	2	1	12	3	2	4
-TAA	1	0	1	0	0	0	1	1	1	0	1	1	1	0
-TAG	0	1	0	1	1	1	0	0	0	0	0	0	0	0
-TGA	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	nad2	YP_009316376.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	24	22	17	11	14	7	12	5	21	3	6	2	4	10	5	13	2	10	2	5	4	5	1	10	0	4	2	1	1	28	14	9	16	10	10	6	5	8	0	10	5	9	3	3	4	9	3	5	4	15	13	15	4	11	2	7	4	13	4	13	3	1	0	0
+1	nad7	YP_009316377.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	6	9	10	7	9	5	12	1	8	4	5	2	4	6	2	2	3	11	1	7	1	12	3	17	1	11	1	11	2	8	7	6	15	11	5	2	1	7	3	9	2	5	1	7	4	4	5	8	10	9	6	10	1	18	4	16	10	9	4	12	2	0	1	0
+2	atp6	YP_009316379.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	22	12	15	12	11	3	11	3	7	1	3	1	2	13	7	6	7	12	4	6	2	9	1	13	3	5	2	0	0	14	8	12	11	13	1	5	4	15	10	5	4	13	5	1	2	10	3	9	2	10	4	4	3	10	1	10	7	11	2	12	7	1	0	0
+3	mttB	YP_009316384.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	12	13	6	9	7	6	4	6	6	4	1	4	6	7	3	3	2	5	5	4	5	4	1	6	1	10	1	2	2	11	8	7	7	4	1	7	5	5	1	4	2	5	1	0	4	10	0	6	2	4	3	4	0	1	3	10	6	6	2	2	1	0	1	0
+4	matR	YP_009316385.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	10	15	5	8	7	12	9	15	3	11	2	6	10	13	13	14	11	7	13	6	6	7	16	15	7	5	7	12	11	11	27	15	7	7	9	8	4	8	14	13	25	8	12	14	13	5	11	11	5	4	21	6	14	6	18	20	14	13	9	13	12	0	1	0
+5	rps3	YP_009316386.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	17	16	7	11	14	6	10	9	13	7	7	2	7	7	9	5	6	4	5	6	7	8	1	13	2	9	7	9	5	13	10	18	10	3	9	8	6	17	10	28	24	7	5	18	8	4	7	8	9	10	6	4	4	10	9	22	6	9	6	11	15	0	1	0
+6	rpl16	YP_009316387.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	4	2	1	1	0	1	4	2	5	0	4	1	3	2	1	3	0	3	0	1	1	3	1	5	1	6	0	3	1	4	3	3	3	0	2	3	3	3	0	10	3	4	1	7	2	2	1	2	4	5	2	2	4	2	1	4	0	7	3	9	0	1	0	0
+7	rpl10	YP_009316390.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	4	10	6	4	4	4	5	0	3	2	3	0	3	6	3	2	1	2	3	4	0	5	0	3	2	0	1	3	2	2	1	2	3	2	3	2	0	2	1	6	3	7	1	4	1	0	0	2	1	2	1	4	0	5	3	8	3	3	1	4	0	1	0	0
+8	sdh3	YP_009316394.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	10	6	5	4	3	1	0	2	6	3	1	1	2	9	3	2	3	3	1	3	2	3	0	3	2	0	0	1	1	3	5	2	4	3	1	0	1	2	2	4	4	0	0	2	1	0	1	2	0	5	3	0	1	0	3	3	2	2	0	2	2	1	0	0
+9	rps10	YP_009316397.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	7	1	4	6	2	2	2	1	2	1	1	1	1	4	1	0	0	3	1	1	0	3	1	3	3	2	2	3	1	3	2	4	2	1	4	2	1	0	1	7	8	1	0	2	2	0	2	1	1	1	0	0	1	3	0	7	0	0	1	3	1	0	0	1
+10	cox1	YP_009316398.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	27	17	19	4	10	6	7	3	12	6	2	1	13	11	5	9	7	10	4	11	7	14	4	5	2	5	1	4	2	13	16	15	22	14	10	9	4	12	4	8	2	10	6	2	0	19	5	9	7	16	7	11	2	9	4	7	1	16	6	21	12	1	0	0
+11	ccmC	YP_009316402.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	9	7	7	6	11	2	4	2	2	2	0	0	4	8	2	5	3	8	3	4	3	5	0	4	0	4	1	1	4	10	6	5	6	4	6	5	1	2	4	1	3	2	2	1	2	5	1	4	1	8	0	2	3	4	0	6	0	4	2	5	3	1	0	0
+12	atp8	YP_009316407.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	3	9	2	5	2	5	4	1	5	1	3	2	3	2	1	6	1	2	1	0	0	1	2	5	0	0	0	1	3	3	7	3	5	5	2	1	0	4	4	4	4	3	5	3	2	2	1	3	0	0	2	0	0	4	3	4	1	3	2	7	2	1	0	0
+13	cox3	YP_009316408.1	Castilleja paramensis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Lamiales, Orobanchaceae, Pedicularideae, Castillejinae, Castilleja	16	6	6	6	8	3	3	3	9	2	1	0	11	6	4	3	2	6	3	4	0	12	2	5	1	1	2	2	1	10	6	5	6	5	7	2	2	1	0	3	2	3	0	0	1	7	2	10	3	10	1	8	1	4	1	7	3	11	4	8	4	0	0	1

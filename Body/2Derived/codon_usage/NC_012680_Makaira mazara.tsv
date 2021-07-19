@@ -1,65 +1,13 @@
-	YP_002887559.1|ND1	YP_002887560.1|ND2	YP_002887561.1|COX1	YP_002887562.1|COX2	YP_002887563.1|ATP8	YP_002887564.1|ATP6	YP_002887565.1|COX3	YP_002887566.1|ND3	YP_002887567.1|ND4L	YP_002887568.1|ND4	YP_002887569.1|ND5	YP_002887571.1|CYTB
-TTT	1	3	14	6	2	2	7	4	3	8	7	7
-TTC	17	11	28	4	2	10	15	5	4	9	33	23
-TTA	7	12	2	4	1	9	3	4	3	14	10	5
-TTG	0	2	0	0	1	1	0	0	2	2	1	0
-TCT	4	2	8	1	2	0	1	3	1	7	7	5
-TCC	10	9	8	5	1	2	5	4	4	13	13	8
-TCA	3	8	6	4	0	2	6	0	3	5	11	7
-TCG	0	1	2	1	0	0	0	0	0	0	1	0
-TAT	2	3	7	3	0	1	0	1	0	4	2	5
-TAC	9	4	11	5	1	4	9	1	1	10	9	9
-TGT	0	0	0	0	0	0	0	0	1	0	3	0
-TGC	0	0	1	2	0	0	2	1	2	4	3	3
-TGA	8	10	17	5	4	5	12	3	0	11	11	13
-TGG	0	1	0	0	1	0	0	2	1	8	3	0
-CTT	15	17	20	9	1	13	12	5	2	15	27	10
-CTC	20	24	11	8	0	13	6	12	8	37	31	25
-CTA	18	19	22	6	2	19	10	4	6	22	26	19
-CTG	4	5	7	1	0	2	1	2	3	6	8	4
-CCT	8	4	8	4	4	4	5	2	2	6	13	5
-CCC	12	14	5	7	5	7	4	5	0	15	13	13
-CCA	4	3	14	3	1	6	3	1	0	5	6	2
-CCG	0	1	0	0	0	0	1	0	0	1	1	1
-CAT	2	1	3	4	0	0	2	0	1	4	2	6
-CAC	2	7	16	6	2	4	16	1	3	7	14	6
-CAA	7	11	6	8	1	8	8	3	3	9	18	4
-CAG	0	2	1	0	0	1	0	0	0	1	0	2
-CGT	2	1	2	1	0	0	1	0	0	1	1	0
-CGC	1	0	1	1	0	2	1	0	2	3	3	0
-CGA	5	2	5	4	0	4	4	2	1	6	6	7
-CGG	0	1	1	0	0	0	0	0	0	1	0	1
-ATT	10	11	22	15	1	10	3	5	1	14	24	12
-ATC	14	9	19	9	2	7	10	6	0	21	21	13
-ATA	5	5	3	5	0	3	3	1	1	15	13	3
-ATG	3	6	21	6	1	5	3	1	4	12	16	6
-ACT	4	7	5	2	0	1	3	1	3	2	9	5
-ACC	11	17	11	5	3	11	7	3	4	27	23	12
-ACA	6	18	16	4	2	6	9	3	0	11	27	5
-ACG	0	2	3	0	0	3	2	0	1	0	0	3
-AAT	3	5	3	3	1	2	1	0	0	1	5	5
-AAC	9	5	12	2	2	8	0	1	1	10	23	14
-AAA	7	9	8	4	3	1	3	1	0	8	19	9
-AAG	0	0	0	0	0	0	0	0	0	2	1	0
-AGT	0	1	0	0	0	0	0	0	1	0	5	0
-AGC	2	3	5	3	1	4	5	0	2	9	10	0
-GTT	8	5	15	6	0	3	2	1	1	3	7	4
-GTC	8	2	9	4	1	6	14	2	0	7	12	14
-GTA	4	2	15	5	1	4	3	0	1	4	8	5
-GTG	1	0	4	1	0	0	1	0	0	0	0	4
-GCT	4	11	16	4	2	6	7	2	1	5	7	4
-GCC	17	17	24	6	0	8	10	6	8	18	26	18
-GCA	13	10	9	6	1	4	8	2	4	12	17	10
-GCG	0	0	0	0	0	0	0	0	0	1	1	0
-GAT	3	0	4	3	0	0	1	1	0	0	3	2
-GAC	1	3	10	11	0	1	4	3	2	5	8	9
-GAA	11	4	8	13	3	3	6	5	2	8	10	3
-GAG	0	0	2	2	0	1	2	1	0	4	3	2
-GGT	3	2	14	2	0	0	6	0	0	4	6	6
-GGC	8	8	11	0	0	7	7	1	4	14	16	14
-GGA	4	5	15	6	0	3	6	4	1	7	8	7
-GGG	4	3	6	1	0	1	1	1	0	2	1	1
-TAA	1	1	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002887559.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	1	17	7	0	4	10	3	0	2	9	0	0	8	0	15	20	18	4	8	12	4	0	2	2	7	0	2	1	5	0	10	14	5	3	4	11	6	0	3	9	7	0	0	2	8	8	4	1	4	17	13	0	3	1	11	0	3	8	4	4	1	0	0	0
+1	ND2	YP_002887560.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	3	11	12	2	2	9	8	1	3	4	0	0	10	1	17	24	19	5	4	14	3	1	1	7	11	2	1	0	2	1	11	9	5	6	7	17	18	2	5	5	9	0	1	3	5	2	2	0	11	17	10	0	0	3	4	0	2	8	5	3	1	0	0	0
+2	COX1	YP_002887561.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	14	28	2	0	8	8	6	2	7	11	0	1	17	0	20	11	22	7	8	5	14	0	3	16	6	1	2	1	5	1	22	19	3	21	5	11	16	3	3	12	8	0	0	5	15	9	15	4	16	24	9	0	4	10	8	2	14	11	15	6	1	0	0	0
+3	COX2	YP_002887562.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	6	4	4	0	1	5	4	1	3	5	0	2	5	0	9	8	6	1	4	7	3	0	4	6	8	0	1	1	4	0	15	9	5	6	2	5	4	0	3	2	4	0	0	3	6	4	5	1	4	6	6	0	3	11	13	2	2	0	6	1	0	0	0	0
+4	ATP8	YP_002887563.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	2	2	1	1	2	1	0	0	0	1	0	0	4	1	1	0	2	0	4	5	1	0	0	2	1	0	0	0	0	0	1	2	0	1	0	3	2	0	1	2	3	0	0	1	0	1	1	0	2	0	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002887564.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	2	10	9	1	0	2	2	0	1	4	0	0	5	0	13	13	19	2	4	7	6	0	0	4	8	1	0	2	4	0	10	7	3	5	1	11	6	3	2	8	1	0	0	4	3	6	4	0	6	8	4	0	0	1	3	1	0	7	3	1	1	0	0	0
+6	COX3	YP_002887565.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	7	15	3	0	1	5	6	0	0	9	0	2	12	0	12	6	10	1	5	4	3	1	2	16	8	0	1	1	4	0	3	10	3	3	3	7	9	2	1	0	3	0	0	5	2	14	3	1	7	10	8	0	1	4	6	2	6	7	6	1	1	0	0	0
+7	ND3	YP_002887566.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	4	5	4	0	3	4	0	0	1	1	0	1	3	2	5	12	4	2	2	5	1	0	0	1	3	0	0	0	2	0	5	6	1	1	1	3	3	0	0	1	1	0	0	0	1	2	0	0	2	6	2	0	1	3	5	1	0	1	4	1	0	0	0	0
+8	ND4L	YP_002887567.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	3	4	3	2	1	4	3	0	0	1	1	2	0	1	2	8	6	3	2	0	0	0	1	3	3	0	0	2	1	0	1	0	1	4	3	4	0	1	0	1	0	0	1	2	1	0	1	0	1	8	4	0	0	2	2	0	0	4	1	0	1	0	0	0
+9	ND4	YP_002887568.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	8	9	14	2	7	13	5	0	4	10	0	4	11	8	15	37	22	6	6	15	5	1	4	7	9	1	1	3	6	1	14	21	15	12	2	27	11	0	1	10	8	2	0	9	3	7	4	0	5	18	12	1	0	5	8	4	4	14	7	2	0	0	0	0
+10	ND5	YP_002887569.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	7	33	10	1	7	13	11	1	2	9	3	3	11	3	27	31	26	8	13	13	6	1	2	14	18	0	1	3	6	0	24	21	13	16	9	23	27	0	5	23	19	1	5	10	7	12	8	0	7	26	17	1	3	8	10	3	6	16	8	1	1	0	0	0
+11	CYTB	YP_002887571.1	Makaira mazara	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Makaira	7	23	5	0	5	8	7	0	5	9	0	3	13	0	10	25	19	4	5	13	2	1	6	6	4	2	0	0	7	1	12	13	3	6	5	12	5	3	5	14	9	0	0	0	4	14	5	4	4	18	10	0	2	9	3	2	6	14	7	1	0	0	0	0

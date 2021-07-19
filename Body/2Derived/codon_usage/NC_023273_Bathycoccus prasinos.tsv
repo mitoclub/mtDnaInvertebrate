@@ -1,65 +1,28 @@
-	YP_008994790.1|Rps12	YP_008994791.1|Rps7	YP_008994794.1|nad6	YP_008994795.1|cox2	YP_008994796.1|cox3	YP_008994800.1|Rps2	YP_008994807.1|nad10	YP_008994808.1|nad9	YP_008994811.1|Rps10	YP_008994812.1|Rps19	YP_008994813.1|Rps3	YP_008994814.1|Rpl16	YP_008994815.1|Rpl14	YP_008994816.1|Rpl5	YP_008994817.1|Rps14	YP_008994818.1|Rps8	YP_008994819.1|Rpl6	YP_008994820.1|Rps13	YP_008994821.1|Rps11	YP_008994822.1|Atp9	YP_008994823.1	YP_008994825.1|nad4L	YP_008994826.1|atp8	YP_008994827.1|atp4	YP_008994828.1	YP_008994829.1|cox1	YP_008994830.1|cob
-TTT	1	6	22	16	26	9	3	14	8	5	24	7	3	12	1	5	8	6	1	8	33	8	8	6	1	32	28
-TTC	0	2	7	1	4	3	0	5	2	2	3	2	1	5	1	0	0	1	1	0	4	0	3	4	2	20	7
-TTA	5	5	14	7	7	11	7	5	2	2	6	4	2	7	5	5	6	5	6	7	9	7	3	17	1	28	16
-TTG	0	8	5	1	8	7	2	4	2	2	5	0	2	6	2	2	0	2	2	1	12	2	2	5	0	5	12
-TCT	1	4	5	3	5	5	2	3	5	5	5	7	4	8	1	5	3	3	1	1	6	1	1	0	1	13	5
-TCC	0	0	1	2	1	1	3	3	1	0	4	2	0	1	1	3	2	0	2	0	2	1	0	1	1	1	4
-TCA	2	5	6	3	5	4	2	2	2	0	6	1	3	5	3	0	1	0	2	2	4	2	1	3	2	6	1
-TCG	1	3	3	1	0	3	1	2	0	1	2	3	0	1	1	2	1	3	0	0	1	2	3	2	1	1	2
-TAT	3	3	5	6	4	5	5	2	0	2	5	1	0	2	2	2	1	3	2	1	10	4	3	4	0	11	11
-TAC	2	1	3	2	5	2	5	7	2	0	5	1	1	1	0	0	3	0	0	0	3	0	4	0	1	9	9
-TGT	1	0	1	4	1	1	3	1	0	0	2	2	0	1	2	3	1	2	0	1	6	0	0	1	1	2	1
-TGC	0	0	1	1	1	0	2	0	0	0	2	0	1	2	0	1	1	1	2	0	1	1	1	0	2	0	2
-TGG	0	2	4	8	12	4	4	4	0	2	5	2	0	0	1	1	0	0	1	0	7	1	2	1	0	14	13
-CTT	6	6	10	13	6	4	1	3	5	3	6	2	9	10	3	5	8	5	1	2	10	4	4	4	1	11	10
-CTC	0	1	4	2	0	4	2	5	3	0	0	4	1	2	3	1	4	1	2	0	6	3	9	4	1	11	9
-CTA	0	1	3	2	2	2	0	0	3	0	2	0	1	1	0	1	1	0	0	0	4	2	1	1	0	4	5
-CTG	0	0	3	1	1	1	1	0	1	0	2	1	1	2	1	3	1	0	0	0	2	3	0	1	2	6	8
-CCT	2	4	5	5	5	3	2	3	0	2	5	3	2	4	0	1	3	0	0	1	5	0	4	0	1	14	6
-CCC	0	0	1	3	1	1	2	2	1	1	2	1	0	0	0	1	1	0	1	0	2	0	0	1	2	1	8
-CCA	4	0	2	3	5	6	4	3	1	1	2	3	0	2	1	0	3	1	0	0	4	0	1	1	1	8	3
-CCG	1	0	0	2	0	1	2	2	1	1	1	2	2	2	0	1	3	0	0	0	3	0	0	0	0	7	7
-CAT	2	1	3	3	7	1	2	2	3	2	8	0	0	3	0	1	3	2	1	0	2	0	2	0	4	12	7
-CAC	0	1	0	4	8	1	1	3	0	0	6	1	0	2	0	1	4	1	1	0	0	0	2	2	5	7	5
-CAA	7	11	12	7	7	12	3	6	5	3	25	9	6	5	3	12	7	12	4	0	6	3	19	15	3	3	4
-CAG	0	4	2	2	1	9	4	1	2	0	6	1	2	1	1	1	3	0	0	0	1	0	0	8	0	4	3
-CGT	4	3	1	2	1	0	3	3	1	1	2	4	2	1	3	2	1	3	5	1	1	2	1	2	1	9	3
-CGC	0	0	0	3	0	3	3	2	2	0	1	3	1	1	1	1	0	2	0	0	0	0	0	1	1	1	1
-CGA	5	1	1	1	0	0	2	3	1	2	4	4	2	2	3	2	3	1	1	0	2	0	3	2	2	1	2
-CGG	0	1	0	1	0	0	0	1	0	1	1	1	1	0	1	0	1	3	1	0	3	0	0	0	0	0	1
-ATT	1	6	11	17	17	6	8	7	5	6	12	6	4	6	2	7	5	5	3	7	11	12	3	10	2	34	19
-ATC	4	0	7	5	3	3	1	2	1	0	3	0	1	1	2	2	1	1	0	1	1	1	0	3	1	15	7
-ATA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	2	0	0
-ATG	1	2	9	7	7	5	8	6	2	2	4	4	3	6	2	1	3	1	1	3	6	5	5	1	2	18	8
-ACT	2	7	5	8	5	2	1	3	4	1	5	1	5	3	1	1	1	2	2	2	2	2	3	2	0	6	4
-ACC	0	1	4	1	4	4	1	5	1	0	4	2	0	0	0	0	4	0	1	0	6	0	4	3	0	6	6
-ACA	2	4	10	4	5	7	3	3	2	2	10	1	5	4	1	3	5	2	2	1	4	1	8	4	1	6	2
-ACG	1	1	1	1	3	1	2	2	1	1	5	0	2	3	1	0	4	2	1	1	4	1	4	3	0	13	4
-AAT	4	5	6	3	3	12	5	2	3	0	4	1	4	5	3	4	1	0	1	0	2	5	5	4	3	8	9
-AAC	2	4	3	4	2	4	2	6	1	0	4	2	3	1	3	2	2	3	3	1	2	1	2	1	1	9	5
-AAA	14	24	7	6	3	18	5	8	12	12	27	16	13	13	7	7	17	8	9	2	7	3	18	12	4	3	7
-AAG	4	3	2	0	1	4	1	1	2	3	3	2	4	4	3	5	5	3	1	0	1	0	4	4	0	3	1
-AGT	0	2	4	4	3	1	1	1	1	0	5	1	0	3	3	1	1	0	2	1	9	0	3	3	3	10	10
-AGC	0	0	0	1	1	0	1	3	3	1	3	2	1	1	2	1	2	0	0	0	1	0	2	3	1	4	3
-AGA	4	4	0	1	4	0	0	2	3	0	2	1	0	5	2	2	1	0	0	0	1	0	1	3	5	1	3
-AGG	1	0	1	0	0	0	1	1	0	0	2	0	0	1	1	0	1	1	1	0	0	0	1	0	1	0	0
-GTT	5	3	14	11	16	4	9	4	2	1	10	4	4	3	5	5	12	9	2	2	7	4	6	1	1	17	11
-GTC	0	2	1	6	2	3	2	6	1	1	3	6	2	1	2	2	1	2	1	0	1	0	0	2	1	7	5
-GTA	4	1	8	6	5	4	1	1	3	1	3	3	1	4	2	0	7	0	2	1	2	1	4	1	0	0	4
-GTG	0	1	5	4	2	4	0	2	3	1	0	1	1	0	0	1	4	1	0	0	3	1	0	2	0	9	10
-GCT	5	7	7	6	12	3	7	0	3	2	5	3	3	2	0	2	3	2	3	6	5	3	1	2	0	8	9
-GCC	2	2	1	2	4	2	1	0	0	1	3	1	2	1	1	1	1	0	3	2	3	0	0	3	1	6	6
-GCA	4	4	5	8	6	4	3	3	1	1	4	1	2	4	3	1	4	1	2	6	4	1	2	3	0	10	5
-GCG	0	2	4	1	3	1	1	2	1	2	6	2	2	1	1	0	3	1	2	1	3	2	5	3	0	19	11
-GAT	1	4	5	11	2	0	4	8	2	1	3	4	2	2	2	0	2	4	1	0	5	1	1	1	1	9	7
-GAC	1	1	0	7	2	1	3	4	1	1	1	0	1	2	0	0	1	1	0	0	2	1	1	1	0	3	3
-GAA	5	9	12	9	6	12	3	8	5	3	8	5	4	9	3	2	5	3	3	2	5	4	6	13	2	9	4
-GAG	1	2	3	4	1	1	1	2	1	2	5	1	0	1	1	2	4	0	0	0	2	0	5	3	0	2	3
-GGT	5	2	1	4	11	4	3	2	1	1	5	5	3	1	2	6	7	4	6	4	5	2	4	4	2	30	15
-GGC	2	3	1	1	3	1	0	2	1	2	2	1	4	1	1	1	1	0	2	1	0	1	0	0	0	5	2
-GGA	2	1	1	3	2	1	4	1	1	1	2	4	1	0	2	0	1	2	0	3	1	0	1	4	2	12	2
-GGG	1	0	4	5	5	2	5	0	0	0	4	2	1	4	1	3	6	1	2	2	2	2	4	3	2	6	8
-TAA	1	1	1	1	0	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	0
-TAG	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1
-TGA	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	Rps12	YP_008994790.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	1	0	5	0	1	0	2	1	3	2	1	0	0	6	0	0	0	2	0	4	1	2	0	7	0	4	0	5	0	1	4	0	1	2	0	2	1	4	2	14	4	0	0	4	1	5	0	4	0	5	2	4	0	1	1	5	1	5	2	2	1	1	0	0
+1	Rps7	YP_008994791.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	6	2	5	8	4	0	5	3	3	1	0	0	2	6	1	1	0	4	0	0	0	1	1	11	4	3	0	1	1	6	0	0	2	7	1	4	1	5	4	24	3	2	0	4	0	3	2	1	1	7	2	4	2	4	1	9	2	2	3	1	0	1	0	0
+2	nad6	YP_008994794.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	22	7	14	5	5	1	6	3	5	3	1	1	4	10	4	3	3	5	1	2	0	3	0	12	2	1	0	1	0	11	7	0	9	5	4	10	1	6	3	7	2	4	0	0	1	14	1	8	5	7	1	5	4	5	0	12	3	1	1	1	4	1	0	0
+3	cox2	YP_008994795.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	16	1	7	1	3	2	3	1	6	2	4	1	8	13	2	2	1	5	3	3	2	3	4	7	2	2	3	1	1	17	5	0	7	8	1	4	1	3	4	6	0	4	1	1	0	11	6	6	4	6	2	8	1	11	7	9	4	4	1	3	5	1	0	0
+4	cox3	YP_008994796.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	26	4	7	8	5	1	5	0	4	5	1	1	12	6	0	2	1	5	1	5	0	7	8	7	1	1	0	0	0	17	3	0	7	5	4	5	3	3	2	3	1	3	1	4	0	16	2	5	2	12	4	6	3	2	2	6	1	11	3	2	5	0	1	0
+5	Rps2	YP_008994800.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	9	3	11	7	5	1	4	3	5	2	1	0	4	4	4	2	1	3	1	6	1	1	1	12	9	0	3	0	0	6	3	0	5	2	4	7	1	12	4	18	4	1	0	0	0	4	3	4	4	3	2	4	1	0	1	12	1	4	1	1	2	1	0	0
+6	nad10	YP_008994807.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	3	0	7	2	2	3	2	1	5	5	3	2	4	1	2	0	1	2	2	4	2	2	1	3	4	3	3	2	0	8	1	0	8	1	1	3	2	5	2	5	1	1	1	0	1	9	2	1	0	7	1	3	1	4	3	3	1	3	0	4	5	0	1	0
+7	nad9	YP_008994808.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	14	5	5	4	3	3	2	2	2	7	1	0	4	3	5	0	0	3	2	3	2	2	3	6	1	3	2	3	1	7	2	0	6	3	5	3	2	2	6	8	1	1	3	2	1	4	6	1	2	0	0	3	2	8	4	8	2	2	2	1	0	1	0	0
+8	Rps10	YP_008994811.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	8	2	2	2	5	1	2	0	0	2	0	0	0	5	3	3	1	0	1	1	1	3	0	5	2	1	2	1	0	5	1	0	2	4	1	2	1	3	1	12	2	1	3	3	0	2	1	3	3	3	0	1	1	2	1	5	1	1	1	1	0	1	0	0
+9	Rps19	YP_008994812.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	5	2	2	2	5	0	0	1	2	0	0	0	2	3	0	0	0	2	1	1	1	2	0	3	0	1	0	2	1	6	0	0	2	1	0	2	1	0	0	12	3	0	1	0	0	1	1	1	1	2	1	1	2	1	1	3	2	1	2	1	0	1	0	0
+10	Rps3	YP_008994813.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	24	3	6	5	5	4	6	2	5	5	2	2	5	6	0	2	2	5	2	2	1	8	6	25	6	2	1	4	1	12	3	0	4	5	4	10	5	4	4	27	3	5	3	2	2	10	3	3	0	5	3	4	6	3	1	8	5	5	2	2	4	1	0	0
+11	Rpl16	YP_008994814.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	7	2	4	0	7	2	1	3	1	1	2	0	2	2	4	0	1	3	1	3	2	0	1	9	1	4	3	4	1	6	0	0	4	1	2	1	0	1	2	16	2	1	2	1	0	4	6	3	1	3	1	1	2	4	0	5	1	5	1	4	2	0	0	1
+12	Rpl14	YP_008994815.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	3	1	2	2	4	0	3	0	0	1	0	1	0	9	1	1	1	2	0	0	2	0	0	6	2	2	1	2	1	4	1	0	3	5	0	5	2	4	3	13	4	0	1	0	0	4	2	1	1	3	2	2	2	2	1	4	0	3	4	1	1	1	0	0
+13	Rpl5	YP_008994816.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	12	5	7	6	8	1	5	1	2	1	1	2	0	10	2	1	2	4	0	2	2	3	2	5	1	1	1	2	0	6	1	0	6	3	0	4	3	5	1	13	4	3	1	5	1	3	1	4	0	2	1	4	1	2	2	9	1	1	1	0	4	1	0	0
+14	Rps14	YP_008994817.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	1	1	5	2	1	1	3	1	2	0	2	0	1	3	3	0	1	0	0	1	0	0	0	3	1	3	1	3	1	2	2	0	2	1	0	1	1	3	3	7	3	3	2	2	1	5	2	2	0	0	1	3	1	2	0	3	1	2	1	2	1	1	0	0
+15	Rps8	YP_008994818.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	5	0	5	2	5	3	0	2	2	0	3	1	1	5	1	1	3	1	1	0	1	1	1	12	1	2	1	2	0	7	2	0	1	1	0	3	0	4	2	7	5	1	1	2	0	5	2	0	1	2	1	1	0	0	0	2	2	6	1	0	3	1	0	0
+16	Rpl6	YP_008994819.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	8	0	6	0	3	2	1	1	1	3	1	1	0	8	4	1	1	3	1	3	3	3	4	7	3	1	0	3	1	5	1	1	3	1	4	5	4	1	2	17	5	1	2	1	1	12	1	7	4	3	1	4	3	2	1	5	4	7	1	1	6	0	1	0
+17	Rps13	YP_008994820.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	6	1	5	2	3	0	0	3	3	0	2	1	0	5	1	0	0	0	0	1	0	2	1	12	0	3	2	1	3	5	1	0	1	2	0	2	2	0	3	8	3	0	0	0	1	9	2	0	1	2	0	1	1	4	1	3	0	4	0	2	1	1	0	0
+18	Rps11	YP_008994821.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	1	1	6	2	1	2	2	0	2	0	0	2	1	1	2	0	0	0	1	0	0	1	1	4	0	5	0	1	1	3	0	0	1	2	1	2	1	1	3	9	1	2	0	0	1	2	1	2	0	3	3	2	2	1	0	3	0	6	2	0	2	1	0	0
+19	Atp9	YP_008994822.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	8	0	7	1	1	0	2	0	1	0	1	0	0	2	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	7	1	0	3	2	0	1	1	0	1	2	0	1	0	0	0	2	0	1	0	6	2	6	1	0	0	2	0	4	1	3	2	1	0	0
+20	None	YP_008994823.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	33	4	9	12	6	2	4	1	10	3	6	1	7	10	6	4	2	5	2	4	3	2	0	6	1	1	0	2	3	11	1	2	6	2	6	4	4	2	2	7	1	9	1	1	0	7	1	2	3	5	3	4	3	5	2	5	2	5	0	1	2	0	1	0
+21	nad4L	YP_008994825.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	8	0	7	2	1	1	2	2	4	0	0	1	1	4	3	2	3	0	0	0	0	0	0	3	0	2	0	0	0	12	1	0	5	2	0	1	1	5	1	3	0	0	0	0	0	4	0	1	1	3	0	1	2	1	1	4	0	2	1	0	2	1	0	0
+22	atp8	YP_008994826.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	8	3	3	2	1	0	1	3	3	4	0	1	2	4	9	1	0	4	0	1	0	2	2	19	0	1	0	3	0	3	0	0	5	3	4	8	4	5	2	18	4	3	2	1	1	6	0	4	0	1	0	2	5	1	1	6	5	4	0	1	4	1	0	0
+23	atp4	YP_008994827.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	6	4	17	5	0	1	3	2	4	0	1	0	1	4	4	1	1	0	1	1	0	0	2	15	8	2	1	2	0	10	3	0	1	2	3	4	3	4	1	12	4	3	3	3	0	1	2	1	2	2	3	3	3	1	1	13	3	4	0	4	3	0	1	0
+24	None	YP_008994828.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	1	2	1	0	1	1	2	1	0	1	1	2	0	1	1	0	2	1	2	1	0	4	5	3	0	1	1	2	0	2	1	2	2	0	0	1	0	3	1	4	0	3	1	5	1	1	1	0	0	0	1	0	0	1	0	2	0	2	0	2	2	1	0	0
+25	cox1	YP_008994829.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	32	20	28	5	13	1	6	1	11	9	2	0	14	11	11	4	6	14	1	8	7	12	7	3	4	9	1	1	0	34	15	0	18	6	6	6	13	8	9	3	3	10	4	1	0	17	7	0	9	8	6	10	19	9	3	9	2	30	5	12	6	1	0	0
+26	cob	YP_008994830.1	Bathycoccus prasinos	Eukaryota, Viridiplantae, Chlorophyta, prasinophytes, Mamiellophyceae, Mamiellales, Bathycoccaceae, Bathycoccus	28	7	16	12	5	4	1	2	11	9	1	2	13	10	9	5	8	6	8	3	7	7	5	4	3	3	1	2	1	19	7	0	8	4	6	2	4	9	5	7	1	10	3	3	0	11	5	4	10	9	6	5	11	7	3	4	3	15	2	2	8	0	1	0

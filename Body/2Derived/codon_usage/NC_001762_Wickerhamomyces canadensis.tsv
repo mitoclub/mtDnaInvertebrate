@@ -1,65 +1,19 @@
-	NP_038208.1|COX1	NP_038209.1|COX1	NP_038210.1|ATP8	NP_038211.1|ATP6	NP_038212.1|ND6	NP_038213.1|ND1	NP_038214.1|COX3	NP_038215.1|ND4L	NP_038216.1|ND5	NP_038217.1|CYTB	NP_038218.1|ND2	NP_038219.1|ND3	NP_038220.1|ND4	NP_038221.1|ATP9	NP_038222.1|COX2	NP_038223.1|VAR1	NP_038224.1|URF	NP_038225.1
-TTT	25	16	5	18	13	26	14	1	41	25	25	11	27	2	6	6	0	12
-TTC	16	0	1	3	0	1	5	0	2	12	2	0	2	4	4	0	0	0
-TTA	61	30	15	37	39	51	34	17	116	45	89	16	81	14	28	40	7	22
-TTG	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
-TCT	9	8	1	0	3	4	2	0	17	5	12	2	12	0	8	4	0	3
-TCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-TCA	27	9	0	14	4	8	9	3	21	16	23	5	13	4	6	17	0	0
-TCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TAT	24	23	1	11	15	18	15	4	52	21	49	14	35	2	5	26	4	14
-TAC	4	1	2	1	0	0	0	0	1	2	1	0	0	0	5	0	0	1
-TGT	1	4	0	1	0	4	2	0	6	4	2	1	1	1	6	0	0	1
-TGC	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	11	5	0	2	1	6	9	0	10	6	4	0	6	0	6	2	0	5
-TGG	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	0	1	0	1	1	3	0	0	1	0	3	2	2	0	0	0	1	3
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	2	1	0	0	0	0	0	0	0	3	0	0	0	0	2	0	0	0
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-CCT	17	6	0	4	2	8	3	0	12	12	5	5	8	1	9	2	0	7
-CCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCA	8	0	3	4	1	5	6	2	3	8	1	1	6	1	5	1	0	1
-CCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-CAT	15	2	0	4	3	3	15	0	9	14	2	0	5	0	6	7	0	5
-CAC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
-CAA	11	6	3	4	1	6	3	0	8	9	8	1	9	1	8	3	1	6
-CAG	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-CGT	4	1	2	1	0	2	1	0	0	2	2	1	0	2	0	0	0	1
-CGC	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	29	24	0	12	7	19	10	1	40	13	44	15	35	6	20	10	7	6
-ATC	4	2	0	0	0	2	0	0	3	1	1	1	1	3	2	0	0	0
-ATA	23	24	5	24	40	42	17	25	74	26	94	15	88	0	7	55	10	17
-ATG	21	4	1	8	4	7	11	2	14	9	2	2	8	2	4	4	1	5
-ACT	11	9	1	3	1	6	7	1	13	4	9	6	9	1	4	6	0	5
-ACC	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ACA	13	1	0	13	4	6	14	5	9	10	7	2	8	3	6	12	1	4
-ACG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	22	32	1	11	35	25	8	6	58	16	95	14	42	2	9	88	8	21
-AAC	2	2	0	1	0	1	0	0	3	2	0	0	1	1	2	0	0	0
-AAA	9	36	1	2	5	6	1	3	20	8	21	9	19	1	7	41	6	34
-AAG	0	0	0	1	0	0	0	0	0	0	1	0	1	0	1	5	1	2
-AGT	12	3	2	4	8	13	5	2	14	8	22	2	14	0	1	7	0	3
-AGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	6	7	1	3	0	8	6	2	8	8	0	2	5	0	3	9	2	4
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	15	4	0	4	1	9	6	1	5	12	1	2	4	1	9	5	0	7
-GTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTA	23	3	2	17	3	10	14	2	7	22	1	3	7	2	11	5	2	3
-GTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GCT	32	8	0	11	4	7	9	0	15	13	1	2	13	3	7	0	0	2
-GCC	2	1	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0
-GCA	12	1	0	6	2	7	9	1	6	11	4	0	3	7	4	1	0	2
-GCG	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0
-GAT	13	12	0	6	4	8	4	2	16	9	8	4	10	0	14	13	1	11
-GAC	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GAA	7	7	0	3	3	11	8	1	10	3	4	4	6	1	12	1	0	14
-GAG	1	1	0	0	0	1	0	1	0	1	0	0	1	0	3	2	0	0
-GGT	17	10	1	16	2	8	11	5	27	6	17	5	26	3	5	10	0	4
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0
-GGA	24	6	0	6	1	8	11	6	3	18	7	1	3	6	4	4	0	5
-GGG	1	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	NP_038208.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	25	16	61	0	9	0	27	0	24	4	1	0	11	0	0	0	2	0	17	0	8	0	15	0	11	0	4	0	0	0	29	4	23	21	11	0	13	0	22	2	9	0	12	0	6	0	15	0	23	0	32	2	12	0	13	1	7	1	17	0	24	1	1	0
+1	COX1	NP_038209.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	16	0	30	0	8	0	9	0	23	1	4	1	5	2	1	0	1	0	6	0	0	0	2	0	6	2	1	1	0	0	24	2	24	4	9	2	1	0	32	2	36	0	3	0	7	0	4	0	3	0	8	1	1	0	12	1	7	1	10	0	6	0	1	0
+2	ATP8	NP_038210.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	5	1	15	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	0	2	0	0	0	0	0	5	1	1	0	0	0	1	0	1	0	2	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+3	ATP6	NP_038211.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	18	3	37	0	0	0	14	0	11	1	1	0	2	0	1	0	0	0	4	0	4	0	4	0	4	0	1	0	0	0	12	0	24	8	3	0	13	0	11	1	2	1	4	0	3	0	4	0	17	0	11	0	6	0	6	0	3	0	16	0	6	0	1	0
+4	ND6	NP_038212.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	13	0	39	0	3	0	4	0	15	0	0	0	1	0	1	0	0	0	2	0	1	0	3	0	1	0	0	0	0	0	7	0	40	4	1	0	4	0	35	0	5	0	8	0	0	0	1	0	3	0	4	0	2	0	4	0	3	0	2	0	1	0	1	0
+5	ND1	NP_038213.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	26	1	51	0	4	0	8	0	18	0	4	0	6	0	3	0	0	0	8	0	5	0	3	0	6	0	2	0	0	0	19	2	42	7	6	0	6	0	25	1	6	0	13	0	8	0	9	0	10	0	7	0	7	2	8	0	11	1	8	0	8	0	1	0
+6	COX3	NP_038214.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	14	5	34	0	2	0	9	0	15	0	2	0	9	0	0	0	0	0	3	0	6	0	15	0	3	0	1	0	0	0	10	0	17	11	7	0	14	0	8	0	1	0	5	0	6	0	6	0	14	0	9	0	9	0	4	0	8	0	11	0	11	0	1	0
+7	ND4L	NP_038215.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	1	0	17	0	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	25	2	1	0	5	0	6	0	3	0	2	0	2	0	1	0	2	0	0	0	1	0	2	0	1	1	5	0	6	0	1	0
+8	ND5	NP_038216.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	41	2	116	0	17	0	21	0	52	1	6	0	10	0	1	0	0	0	12	0	3	0	9	0	8	0	0	0	0	0	40	3	74	14	13	0	9	0	58	3	20	0	14	0	8	0	5	0	7	0	15	0	6	0	16	0	10	0	27	0	3	0	1	0
+9	CYTB	NP_038217.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	25	12	45	1	5	0	16	0	21	2	4	0	6	0	0	0	3	0	12	0	8	0	14	0	9	0	2	0	0	0	13	1	26	9	4	0	10	0	16	2	8	0	8	0	8	0	12	0	22	0	13	0	11	0	9	0	3	1	6	0	18	1	1	0
+10	ND2	NP_038218.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	25	2	89	0	12	0	23	0	49	1	2	0	4	0	3	0	0	0	5	0	1	0	2	0	8	0	2	0	0	0	44	1	94	2	9	0	7	0	95	0	21	1	22	0	0	0	1	0	1	0	1	0	4	0	8	0	4	0	17	0	7	0	1	0
+11	ND3	NP_038219.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	11	0	16	0	2	0	5	0	14	0	1	0	0	0	2	0	0	0	5	0	1	0	0	0	1	0	1	0	0	0	15	1	15	2	6	0	2	0	14	0	9	0	2	0	2	0	2	0	3	0	2	0	0	0	4	0	4	0	5	0	1	0	1	0
+12	ND4	NP_038220.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	27	2	81	0	12	0	13	0	35	0	1	0	6	0	2	0	0	0	8	0	6	0	5	0	9	0	0	0	0	0	35	1	88	8	9	0	8	0	42	1	19	1	14	0	5	0	4	0	7	0	13	0	3	0	10	0	6	1	26	0	3	0	1	0
+13	ATP9	NP_038221.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	2	4	14	0	0	0	4	0	2	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	2	0	0	0	6	3	0	2	1	0	3	0	2	1	1	0	0	0	0	0	1	0	2	0	3	2	7	0	0	0	1	0	3	0	6	0	1	0
+14	COX2	NP_038222.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	6	4	28	0	8	1	6	0	5	5	6	0	6	0	0	0	2	1	9	0	5	0	6	1	8	0	0	0	0	0	20	2	7	4	4	0	6	0	9	2	7	1	1	0	3	0	9	0	11	0	7	1	4	1	14	0	12	3	5	1	4	2	1	0
+15	VAR1	NP_038223.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	6	0	40	0	4	0	17	0	26	0	0	0	2	0	0	0	0	0	2	0	1	0	7	0	3	0	0	0	0	0	10	0	55	4	6	0	12	0	88	0	41	5	7	0	9	0	5	0	5	0	0	0	1	0	13	0	1	2	10	0	4	0	1	0
+16	URF	NP_038224.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	0	0	7	1	0	0	0	0	4	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	7	0	10	1	0	0	1	0	8	0	6	1	0	1	2	0	0	0	2	0	0	0	0	0	1	0	0	0	0	2	0	0	1	0
+17	None	NP_038225.1	Wickerhamomyces canadensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Phaffomycetaceae, Wickerhamomyces	12	0	22	0	3	0	0	0	14	1	1	0	5	0	3	0	0	0	7	0	1	0	5	1	6	0	1	0	0	0	6	0	17	5	5	0	4	0	21	0	34	2	3	0	4	0	7	0	3	0	2	0	2	0	11	0	14	0	4	0	5	0	1	0

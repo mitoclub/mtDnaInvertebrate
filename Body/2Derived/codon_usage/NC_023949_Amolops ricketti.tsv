@@ -1,65 +1,13 @@
-	YP_009024569.1|ND1	YP_009024570.1|ND2	YP_009024571.1|COX1	YP_009024572.1|COX2	YP_009024573.1|ATP8	YP_009024574.1|ATP6	YP_009024575.1|COX3	YP_009024576.1|ND3	YP_009024577.1|ND4L	YP_009024578.1|ND4	YP_009024579.1|ND5	YP_009024581.1|CYTB
-TTT	14	10	24	5	2	13	15	4	3	20	23	16
-TTC	6	6	23	3	2	3	15	6	0	13	20	18
-TTA	16	19	10	8	1	13	10	5	4	17	16	11
-TTG	4	0	3	1	1	0	1	1	3	2	2	3
-TCT	8	5	10	4	0	4	4	4	1	6	16	5
-TCC	6	7	9	3	3	5	2	1	6	8	7	8
-TCA	9	9	7	5	1	4	5	2	1	10	11	9
-TCG	1	1	0	0	0	0	0	0	0	1	1	0
-TAT	7	4	10	4	0	1	4	4	0	10	12	6
-TAC	4	1	7	5	1	2	6	0	0	4	4	6
-TGT	0	0	0	2	0	0	0	0	1	1	6	0
-TGC	2	0	0	0	0	0	2	1	2	3	3	3
-TGA	7	10	15	5	5	5	12	5	1	12	7	9
-TGG	0	0	2	0	0	0	0	0	0	1	2	2
-CTT	16	12	15	11	2	17	6	7	8	18	19	14
-CTC	12	12	9	1	3	8	5	5	4	17	18	17
-CTA	13	13	20	6	1	15	4	2	6	24	28	10
-CTG	3	6	5	1	0	0	1	1	0	2	6	3
-CCT	3	6	14	5	1	5	4	1	0	7	4	9
-CCC	8	7	4	1	3	4	4	3	1	8	9	3
-CCA	12	7	8	5	1	4	4	4	1	8	10	11
-CCG	0	0	1	0	0	2	1	0	0	0	3	0
-CAT	2	0	11	4	1	3	4	0	2	5	8	4
-CAC	2	4	9	5	0	2	10	0	1	8	11	7
-CAA	6	9	6	8	3	8	7	2	2	13	13	6
-CAG	1	1	1	0	0	0	2	0	0	1	1	1
-CGT	1	0	2	3	0	0	2	0	0	1	2	0
-CGC	3	2	2	0	0	3	1	1	1	5	3	3
-CGA	4	2	5	2	0	1	2	1	1	5	7	5
-CGG	0	0	0	0	0	0	0	0	0	1	0	0
-ATT	15	28	25	12	3	11	10	9	5	26	40	17
-ATC	10	9	15	9	2	7	5	4	0	11	20	20
-ATA	8	20	20	9	1	9	3	5	9	19	18	5
-ATG	6	4	7	1	1	2	3	0	1	3	7	5
-ACT	6	9	10	1	0	6	3	1	1	10	12	2
-ACC	10	12	10	6	1	8	10	3	3	13	16	11
-ACA	7	16	14	8	2	6	9	2	1	15	13	9
-ACG	0	2	3	0	0	0	0	0	0	0	2	1
-AAT	5	6	6	5	2	5	0	0	5	6	10	7
-AAC	4	7	9	6	4	3	4	1	0	7	7	12
-AAA	7	11	9	4	3	3	2	1	0	10	18	10
-AAG	0	0	0	0	1	0	0	0	0	0	4	1
-AGT	1	1	1	3	0	3	2	1	0	4	3	0
-AGC	1	2	3	2	0	2	1	0	1	4	5	1
-GTT	6	3	16	8	0	4	4	3	1	4	13	5
-GTC	6	7	7	2	0	1	4	1	1	5	3	7
-GTA	2	1	16	5	0	6	9	0	0	7	11	5
-GTG	0	2	1	3	0	0	0	1	1	2	0	0
-GCT	6	10	17	3	0	8	7	3	1	9	16	11
-GCC	13	14	13	11	0	4	14	3	4	22	33	17
-GCA	8	5	13	4	0	5	7	1	1	11	11	3
-GCG	1	0	0	0	0	0	0	0	0	0	2	0
-GAT	3	1	7	5	0	1	2	1	1	3	9	4
-GAC	1	0	7	6	1	0	3	2	0	2	12	6
-GAA	5	6	10	9	1	3	8	6	2	8	10	4
-GAG	4	0	1	1	0	1	0	0	0	2	1	0
-GGT	5	2	7	1	0	2	4	1	0	0	8	3
-GGC	6	5	12	4	0	2	4	2	3	7	6	11
-GGA	3	9	20	4	0	2	10	1	3	10	14	12
-GGG	0	0	4	0	0	1	0	1	0	2	1	2
-TAA	0	0	0	0	0	0	0	0	0	0	0	1
-TAG	0	0	0	0	1	0	0	0	1	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009024569.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	14	6	16	4	8	6	9	1	7	4	0	2	7	0	16	12	13	3	3	8	12	0	2	2	6	1	1	3	4	0	15	10	8	6	6	10	7	0	5	4	7	0	1	1	6	6	2	0	6	13	8	1	3	1	5	4	5	6	3	0	0	0	0	0
+1	ND2	YP_009024570.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	10	6	19	0	5	7	9	1	4	1	0	0	10	0	12	12	13	6	6	7	7	0	0	4	9	1	0	2	2	0	28	9	20	4	9	12	16	2	6	7	11	0	1	2	3	7	1	2	10	14	5	0	1	0	6	0	2	5	9	0	0	0	0	0
+2	COX1	YP_009024571.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	24	23	10	3	10	9	7	0	10	7	0	0	15	2	15	9	20	5	14	4	8	1	11	9	6	1	2	2	5	0	25	15	20	7	10	10	14	3	6	9	9	0	1	3	16	7	16	1	17	13	13	0	7	7	10	1	7	12	20	4	0	0	0	1
+3	COX2	YP_009024572.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	5	3	8	1	4	3	5	0	4	5	2	0	5	0	11	1	6	1	5	1	5	0	4	5	8	0	3	0	2	0	12	9	9	1	1	6	8	0	5	6	4	0	3	2	8	2	5	3	3	11	4	0	5	6	9	1	1	4	4	0	0	0	0	0
+4	ATP8	YP_009024573.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	2	2	1	1	0	3	1	0	0	1	0	0	5	0	2	3	1	0	1	3	1	0	1	0	3	0	0	0	0	0	3	2	1	1	0	1	2	0	2	4	3	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009024574.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	13	3	13	0	4	5	4	0	1	2	0	0	5	0	17	8	15	0	5	4	4	2	3	2	8	0	0	3	1	0	11	7	9	2	6	8	6	0	5	3	3	0	3	2	4	1	6	0	8	4	5	0	1	0	3	1	2	2	2	1	0	0	0	0
+6	COX3	YP_009024575.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	15	15	10	1	4	2	5	0	4	6	0	2	12	0	6	5	4	1	4	4	4	1	4	10	7	2	2	1	2	0	10	5	3	3	3	10	9	0	0	4	2	0	2	1	4	4	9	0	7	14	7	0	2	3	8	0	4	4	10	0	0	0	0	0
+7	ND3	YP_009024576.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	4	6	5	1	4	1	2	0	4	0	0	1	5	0	7	5	2	1	1	3	4	0	0	0	2	0	0	1	1	0	9	4	5	0	1	3	2	0	0	1	1	0	1	0	3	1	0	1	3	3	1	0	1	2	6	0	1	2	1	1	0	0	0	0
+8	ND4L	YP_009024577.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	3	0	4	3	1	6	1	0	0	0	1	2	1	0	8	4	6	0	0	1	1	0	2	1	2	0	0	1	1	0	5	0	9	1	1	3	1	0	5	0	0	0	0	1	1	1	0	1	1	4	1	0	1	0	2	0	0	3	3	0	0	1	0	0
+9	ND4	YP_009024578.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	20	13	17	2	6	8	10	1	10	4	1	3	12	1	18	17	24	2	7	8	8	0	5	8	13	1	1	5	5	1	26	11	19	3	10	13	15	0	6	7	10	0	4	4	4	5	7	2	9	22	11	0	3	2	8	2	0	7	10	2	0	0	0	0
+10	ND5	YP_009024579.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	23	20	16	2	16	7	11	1	12	4	6	3	7	2	19	18	28	6	4	9	10	3	8	11	13	1	2	3	7	0	40	20	18	7	12	16	13	2	10	7	18	4	3	5	13	3	11	0	16	33	11	2	9	12	10	1	8	6	14	1	0	0	0	0
+11	CYTB	YP_009024581.1	Amolops ricketti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Amolops	16	18	11	3	5	8	9	0	6	6	0	3	9	2	14	17	10	3	9	3	11	0	4	7	6	1	0	3	5	0	17	20	5	5	2	11	9	1	7	12	10	1	0	1	5	7	5	0	11	17	3	0	4	6	4	0	3	11	12	2	1	0	0	0

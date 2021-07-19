@@ -1,65 +1,13 @@
-	YP_009266835.1|ND1	YP_009266836.1|ND2	YP_009266837.1|COX1	YP_009266838.1|COX2	YP_009266839.1|ATP8	YP_009266840.1|ATP6	YP_009266841.1|COX3	YP_009266842.1|ND3	YP_009266843.1|ND4L	YP_009266844.1|ND4	YP_009266845.1|ND5	YP_009266847.1|CYTB
-TTT	12	7	17	8	0	9	6	2	3	8	20	6
-TTC	7	5	25	3	4	4	17	7	4	7	23	24
-TTA	5	6	7	3	1	9	3	2	2	10	11	8
-TTG	0	3	2	0	0	0	0	1	0	1	0	1
-TCT	5	0	9	2	0	0	0	4	1	4	9	5
-TCC	10	11	9	8	1	2	5	4	5	20	16	11
-TCA	4	9	9	2	0	0	4	0	3	5	10	4
-TCG	1	1	2	0	0	0	0	0	0	0	0	2
-TAT	2	4	7	5	0	1	6	1	0	7	7	5
-TAC	8	4	12	3	1	4	6	1	0	7	5	9
-TGT	0	0	0	0	0	0	0	1	2	1	0	2
-TGC	0	1	1	2	0	0	2	0	1	3	7	1
-TGA	5	11	16	5	5	4	11	4	1	16	12	13
-TGG	3	0	2	0	0	1	1	1	0	2	3	0
-CTT	15	25	16	9	1	11	9	8	9	19	24	12
-CTC	26	20	18	4	1	19	6	9	6	30	28	25
-CTA	19	18	10	9	3	10	16	5	5	29	25	11
-CTG	2	4	6	3	0	5	1	1	2	6	6	4
-CCT	4	7	15	3	1	5	4	3	2	7	7	7
-CCC	10	12	10	5	4	10	6	5	0	12	13	11
-CCA	7	3	6	6	5	2	3	0	0	4	7	1
-CCG	1	0	1	0	0	0	0	0	0	3	3	2
-CAT	0	3	4	5	0	2	6	1	2	5	5	2
-CAC	3	4	15	6	1	2	11	0	2	7	9	9
-CAA	6	14	6	7	2	9	6	3	3	11	13	6
-CAG	1	1	3	1	0	1	1	0	0	0	5	0
-CGT	2	0	1	0	0	1	0	1	0	2	1	1
-CGC	0	4	1	3	0	3	0	1	1	1	4	2
-CGA	4	0	5	1	0	2	4	0	2	7	2	4
-CGG	2	0	1	1	0	0	1	0	0	1	2	1
-ATT	13	15	25	15	2	14	6	6	1	22	30	18
-ATC	10	9	14	7	0	5	8	3	0	11	25	15
-ATA	8	9	15	9	0	5	5	4	3	17	26	6
-ATG	2	3	11	2	1	4	3	1	2	9	5	4
-ACT	4	9	10	3	0	0	4	2	2	9	13	1
-ACC	9	17	12	2	1	12	12	3	4	19	34	12
-ACA	9	17	14	5	4	7	5	4	2	12	12	6
-ACG	1	3	1	0	0	1	1	0	0	1	1	1
-AAT	4	3	7	1	0	0	2	0	1	3	8	1
-AAC	7	6	7	4	2	8	0	1	3	5	24	18
-AAA	6	6	9	3	3	2	2	1	0	7	19	9
-AAG	1	2	0	1	0	0	0	0	0	3	1	0
-AGT	3	2	1	2	1	2	1	0	0	2	6	0
-AGC	1	3	6	2	1	4	2	0	1	7	4	0
-GTT	6	0	15	1	2	2	3	3	2	1	7	6
-GTC	7	3	8	4	2	6	8	0	0	5	10	12
-GTA	4	1	13	8	0	3	7	0	0	7	5	3
-GTG	1	0	6	3	0	1	0	0	0	0	2	1
-GCT	5	8	13	3	1	0	0	4	3	7	11	3
-GCC	16	19	17	7	0	14	11	1	6	19	24	21
-GCA	9	10	13	7	2	6	9	2	4	15	13	10
-GCG	1	0	4	0	0	0	0	0	0	2	0	0
-GAT	1	1	4	2	0	0	1	3	0	1	5	5
-GAC	3	1	10	11	1	1	4	1	1	3	7	7
-GAA	8	5	12	13	1	3	10	5	1	12	10	5
-GAG	3	0	0	2	1	1	0	1	1	0	1	1
-GGT	1	3	7	2	0	4	5	1	2	4	12	3
-GGC	10	12	13	5	0	3	8	3	2	10	9	14
-GGA	5	2	16	0	0	2	6	1	1	8	8	6
-GGG	2	2	11	2	0	1	3	1	0	4	3	3
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009266835.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	12	7	5	0	5	10	4	1	2	8	0	0	5	3	15	26	19	2	4	10	7	1	0	3	6	1	2	0	4	2	13	10	8	2	4	9	9	1	4	7	6	1	3	1	6	7	4	1	5	16	9	1	1	3	8	3	1	10	5	2	0	1	0	0
+1	ND2	YP_009266836.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	7	5	6	3	0	11	9	1	4	4	0	1	11	0	25	20	18	4	7	12	3	0	3	4	14	1	0	4	0	0	15	9	9	3	9	17	17	3	3	6	6	2	2	3	0	3	1	0	8	19	10	0	1	1	5	0	3	12	2	2	0	0	0	0
+2	COX1	YP_009266837.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	17	25	7	2	9	9	9	2	7	12	0	1	16	2	16	18	10	6	15	10	6	1	4	15	6	3	1	1	5	1	25	14	15	11	10	12	14	1	7	7	9	0	1	6	15	8	13	6	13	17	13	4	4	10	12	0	7	13	16	11	1	0	0	0
+3	COX2	YP_009266838.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	8	3	3	0	2	8	2	0	5	3	0	2	5	0	9	4	9	3	3	5	6	0	5	6	7	1	0	3	1	1	15	7	9	2	3	2	5	0	1	4	3	1	2	2	1	4	8	3	3	7	7	0	2	11	13	2	2	5	0	2	0	0	0	0
+4	ATP8	YP_009266839.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	0	4	1	0	0	1	0	0	0	1	0	0	5	0	1	1	3	0	1	4	5	0	0	1	2	0	0	0	0	0	2	0	0	1	0	1	4	0	0	2	3	0	1	1	2	2	0	0	1	0	2	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009266840.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	9	4	9	0	0	2	0	0	1	4	0	0	4	1	11	19	10	5	5	10	2	0	2	2	9	1	1	3	2	0	14	5	5	4	0	12	7	1	0	8	2	0	2	4	2	6	3	1	0	14	6	0	0	1	3	1	4	3	2	1	1	0	0	0
+6	COX3	YP_009266841.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	6	17	3	0	0	5	4	0	6	6	0	2	11	1	9	6	16	1	4	6	3	0	6	11	6	1	0	0	4	1	6	8	5	3	4	12	5	1	2	0	2	0	1	2	3	8	7	0	0	11	9	0	1	4	10	0	5	8	6	3	0	0	0	0
+7	ND3	YP_009266842.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	2	7	2	1	4	4	0	0	1	1	1	0	4	1	8	9	5	1	3	5	0	0	1	0	3	0	1	1	0	0	6	3	4	1	2	3	4	0	0	1	1	0	0	0	3	0	0	0	4	1	2	0	3	1	5	1	1	3	1	1	0	0	0	0
+8	ND4L	YP_009266843.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	3	4	2	0	1	5	3	0	0	0	2	1	1	0	9	6	5	2	2	0	0	0	2	2	3	0	0	1	2	0	1	0	3	2	2	4	2	0	1	3	0	0	0	1	2	0	0	0	3	6	4	0	0	1	1	1	2	2	1	0	1	0	0	0
+9	ND4	YP_009266844.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	8	7	10	1	4	20	5	0	7	7	1	3	16	2	19	30	29	6	7	12	4	3	5	7	11	0	2	1	7	1	22	11	17	9	9	19	12	1	3	5	7	3	2	7	1	5	7	0	7	19	15	2	1	3	12	0	4	10	8	4	0	0	0	0
+10	ND5	YP_009266845.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	20	23	11	0	9	16	10	0	7	5	0	7	12	3	24	28	25	6	7	13	7	3	5	9	13	5	1	4	2	2	30	25	26	5	13	34	12	1	8	24	19	1	6	4	7	10	5	2	11	24	13	0	5	7	10	1	12	9	8	3	1	0	0	0
+11	CYTB	YP_009266847.1	Copadichromis quadrimaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Copadichromis	6	24	8	1	5	11	4	2	5	9	2	1	13	0	12	25	11	4	7	11	1	2	2	9	6	0	1	2	4	1	18	15	6	4	1	12	6	1	1	18	9	0	0	0	6	12	3	1	3	21	10	0	5	7	5	1	3	14	6	3	0	0	0	0

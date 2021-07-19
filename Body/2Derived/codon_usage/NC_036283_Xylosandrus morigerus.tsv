@@ -1,65 +1,10 @@
-	YP_009441864.1|ND2	YP_009441865.1|COX1	YP_009441866.1|COX2	YP_009441867.1|ATP8	YP_009441868.1|ATP6	YP_009441869.1|COX3	YP_009441870.1|ND3	YP_009441874.1|ND6	YP_009441875.1|CYTB
-TTT	17	24	7	6	13	14	5	12	28
-TTC	10	15	4	3	6	14	7	4	8
-TTA	20	28	5	3	19	12	8	11	20
-TTG	2	1	0	0	0	2	1	0	2
-TCT	3	6	5	1	5	5	1	2	4
-TCC	6	6	1	1	0	1	1	2	2
-TCA	24	14	9	0	11	9	4	5	11
-TCG	0	2	0	0	1	0	0	0	0
-TAT	6	10	5	0	2	7	1	5	12
-TAC	4	7	1	2	2	1	0	2	3
-TGT	1	0	1	0	0	1	1	0	5
-TGC	2	0	1	1	0	0	1	1	0
-TGA	9	11	4	3	6	11	2	2	9
-TGG	1	3	1	0	0	2	0	0	2
-CTT	10	14	8	0	10	6	6	2	11
-CTC	0	4	1	0	0	1	0	0	4
-CTA	14	17	15	1	11	12	6	7	13
-CTG	1	1	2	0	0	2	0	0	0
-CCT	2	8	1	2	0	1	3	4	6
-CCC	2	1	0	0	0	2	0	1	3
-CCA	6	16	7	2	12	7	1	1	12
-CCG	0	1	0	0	1	0	0	0	0
-CAT	2	10	4	0	4	5	2	0	9
-CAC	0	6	1	0	1	9	0	1	1
-CAA	6	8	6	1	2	8	2	3	8
-CAG	0	1	1	0	1	0	0	1	0
-CGT	0	0	1	0	0	0	0	0	2
-CGC	0	0	3	0	0	0	0	0	1
-CGA	2	7	3	0	2	3	1	1	3
-CGG	0	0	0	0	1	0	1	0	0
-ATT	36	40	23	7	17	10	11	12	17
-ATC	5	13	8	2	6	9	4	5	18
-ATA	25	27	11	2	12	9	4	21	17
-ATG	1	0	0	0	1	1	0	0	0
-ACT	6	12	3	1	5	3	1	2	4
-ACC	5	5	1	1	3	3	0	1	4
-ACA	10	14	6	1	8	12	3	2	13
-ACG	1	2	0	0	0	0	1	1	0
-AAT	15	12	10	2	7	3	4	4	21
-AAC	7	6	5	0	6	7	1	2	3
-AAA	12	10	4	4	3	8	7	11	13
-AAG	2	2	2	0	1	0	0	0	0
-AGT	0	0	0	0	1	2	0	0	1
-AGC	0	0	0	1	0	0	0	0	0
-AGA	12	18	5	1	10	5	3	8	4
-AGG	1	1	0	0	0	1	0	1	0
-GTT	1	8	3	0	3	2	1	1	14
-GTC	1	1	0	0	1	0	1	1	4
-GTA	8	16	4	0	3	11	4	4	6
-GTG	0	1	0	0	0	1	0	0	1
-GCT	0	16	0	1	4	2	3	2	10
-GCC	5	5	1	0	5	2	0	3	4
-GCA	5	13	3	1	4	6	1	3	8
-GCG	0	1	0	0	0	0	0	0	0
-GAT	1	8	6	0	0	4	2	1	7
-GAC	0	7	3	0	1	0	2	0	3
-GAA	4	10	8	1	4	9	3	5	3
-GAG	1	1	0	0	0	0	1	0	0
-GGT	1	6	1	0	1	3	0	1	1
-GGC	0	0	1	0	2	2	0	1	1
-GGA	6	33	5	0	4	8	3	2	17
-GGG	2	5	1	0	1	2	0	1	4
-TAA	1	0	1	0	1	1	1	1	1
-TAG	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009441864.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	17	10	20	2	3	6	24	0	6	4	1	2	9	1	10	0	14	1	2	2	6	0	2	0	6	0	0	0	2	0	36	5	25	1	6	5	10	1	15	7	12	2	0	0	12	1	1	1	8	0	0	5	5	0	1	0	4	1	1	0	6	2	1	0
+1	COX1	YP_009441865.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	24	15	28	1	6	6	14	2	10	7	0	0	11	3	14	4	17	1	8	1	16	1	10	6	8	1	0	0	7	0	40	13	27	0	12	5	14	2	12	6	10	2	0	0	18	1	8	1	16	1	16	5	13	1	8	7	10	1	6	0	33	5	0	0
+2	COX2	YP_009441866.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	7	4	5	0	5	1	9	0	5	1	1	1	4	1	8	1	15	2	1	0	7	0	4	1	6	1	1	3	3	0	23	8	11	0	3	1	6	0	10	5	4	2	0	0	5	0	3	0	4	0	0	1	3	0	6	3	8	0	1	1	5	1	1	0
+3	ATP8	YP_009441867.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	6	3	3	0	1	1	0	0	0	2	0	1	3	0	0	0	1	0	2	0	2	0	0	0	1	0	0	0	0	0	7	2	2	0	1	1	1	0	2	0	4	0	0	1	1	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1
+4	ATP6	YP_009441868.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	13	6	19	0	5	0	11	1	2	2	0	0	6	0	10	0	11	0	0	0	12	1	4	1	2	1	0	0	2	1	17	6	12	1	5	3	8	0	7	6	3	1	1	0	10	0	3	1	3	0	4	5	4	0	0	1	4	0	1	2	4	1	1	0
+5	COX3	YP_009441869.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	14	14	12	2	5	1	9	0	7	1	1	0	11	2	6	1	12	2	1	2	7	0	5	9	8	0	0	0	3	0	10	9	9	1	3	3	12	0	3	7	8	0	2	0	5	1	2	0	11	1	2	2	6	0	4	0	9	0	3	2	8	2	1	0
+6	ND3	YP_009441870.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	5	7	8	1	1	1	4	0	1	0	1	1	2	0	6	0	6	0	3	0	1	0	2	0	2	0	0	0	1	1	11	4	4	0	1	0	3	1	4	1	7	0	0	0	3	0	1	1	4	0	3	0	1	0	2	2	3	1	0	0	3	0	1	0
+7	ND6	YP_009441874.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	12	4	11	0	2	2	5	0	5	2	0	1	2	0	2	0	7	0	4	1	1	0	0	1	3	1	0	0	1	0	12	5	21	0	2	1	2	1	4	2	11	0	0	0	8	1	1	1	4	0	2	3	3	0	1	0	5	0	1	1	2	1	1	0
+8	CYTB	YP_009441875.1	Xylosandrus morigerus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Xylosandrus	28	8	20	2	4	2	11	0	12	3	5	0	9	2	11	4	13	0	6	3	12	0	9	1	8	0	2	1	3	0	17	18	17	0	4	4	13	0	21	3	13	0	1	0	4	0	14	4	6	1	10	4	8	0	7	3	3	0	1	1	17	4	1	0

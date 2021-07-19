@@ -1,65 +1,13 @@
-	YP_009444727.1|ND1	YP_009444728.1|ND2	YP_009444729.1|COX1	YP_009444730.1|COX2	YP_009444731.1|ATP8	YP_009444732.1|ATP6	YP_009444733.1|COX3	YP_009444734.1|ND3	YP_009444735.1|ND4L	YP_009444736.1|ND4	YP_009444737.1|ND5	YP_009444739.1|CYTB
-TTT	8	5	26	3	1	4	9	4	5	7	19	8
-TTC	10	6	16	5	3	8	15	4	1	8	20	22
-TTA	7	11	15	3	1	5	7	2	2	21	15	6
-TTG	3	1	1	0	0	2	1	3	0	2	4	1
-TCT	5	7	6	5	0	2	6	1	1	6	7	6
-TCC	7	6	10	6	0	2	1	6	1	10	11	8
-TCA	4	6	7	1	2	0	3	0	4	7	10	5
-TCG	0	0	1	1	0	0	1	0	0	1	2	1
-TAT	4	3	9	5	0	4	3	1	0	5	2	4
-TAC	8	5	9	4	0	0	9	1	1	9	6	10
-TGT	0	1	1	1	0	0	0	1	3	2	1	2
-TGC	0	0	0	1	0	0	2	0	0	3	5	2
-TGA	7	9	16	5	5	4	11	4	0	17	13	12
-TGG	1	2	1	0	0	1	1	1	1	3	1	1
-CTT	18	23	14	13	0	16	10	5	4	20	24	12
-CTC	12	15	15	8	1	7	3	6	6	19	25	18
-CTA	19	19	11	3	2	21	10	7	9	24	28	17
-CTG	5	9	5	1	1	3	1	3	2	10	2	4
-CCT	9	7	3	3	2	1	2	0	0	6	7	4
-CCC	7	7	10	5	6	12	6	4	1	12	10	7
-CCA	6	5	7	5	1	3	3	4	1	6	8	9
-CCG	2	1	8	1	0	1	1	0	0	2	4	1
-CAT	1	2	6	4	0	1	4	0	1	1	5	3
-CAC	3	5	13	6	2	2	12	0	3	10	12	9
-CAA	7	11	6	7	2	6	8	2	2	10	17	4
-CAG	0	1	2	1	0	3	1	1	1	1	3	2
-CGT	1	1	1	0	0	2	0	0	0	3	1	0
-CGC	0	2	0	1	0	1	0	2	2	4	1	1
-CGA	5	1	5	4	0	2	5	0	1	0	7	6
-CGG	2	0	2	1	0	1	0	0	0	4	0	1
-ATT	9	15	25	6	2	12	11	5	1	15	27	12
-ATC	11	11	17	12	0	9	5	4	1	23	22	16
-ATA	7	9	18	6	0	5	4	0	5	19	23	7
-ATG	2	5	7	5	1	3	3	1	1	7	4	3
-ACT	0	14	10	3	4	2	7	3	3	9	17	4
-ACC	11	10	10	4	1	10	7	5	2	16	30	15
-ACA	9	11	11	3	1	9	8	4	1	12	18	4
-ACG	1	1	5	0	0	1	0	0	1	3	2	1
-AAT	3	3	4	1	1	4	2	0	1	4	9	8
-AAC	7	5	11	3	2	5	0	1	0	6	22	9
-AAA	6	8	7	4	3	1	2	1	0	9	20	8
-AAG	1	0	1	1	0	0	0	0	0	2	0	1
-AGT	0	1	0	0	0	0	1	0	0	4	3	1
-AGC	5	4	5	3	1	4	2	0	3	5	11	0
-GTT	8	3	8	8	2	3	5	0	0	3	6	5
-GTC	5	1	12	7	1	5	6	0	0	3	7	6
-GTA	7	4	16	5	1	4	5	1	2	8	10	11
-GTG	3	3	3	3	0	2	0	1	1	0	3	4
-GCT	10	8	12	3	1	2	4	2	1	9	10	6
-GCC	13	16	24	5	1	9	10	8	7	11	28	22
-GCA	8	17	11	7	0	5	7	2	6	15	11	6
-GCG	4	3	1	1	0	2	0	0	0	0	3	1
-GAT	0	0	3	3	0	0	0	1	0	1	4	3
-GAC	4	2	11	10	0	1	5	3	1	4	8	8
-GAA	11	8	6	12	2	4	8	5	3	10	9	5
-GAG	0	0	5	3	1	0	2	1	0	2	3	1
-GGT	0	2	6	1	0	2	3	0	1	3	2	3
-GGC	6	3	12	3	1	6	11	2	3	8	10	8
-GGA	11	6	17	4	0	2	5	2	1	6	18	13
-GGG	1	5	12	1	0	1	3	2	1	10	2	3
-TAA	1	1	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009444727.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	8	10	7	3	5	7	4	0	4	8	0	0	7	1	18	12	19	5	9	7	6	2	1	3	7	0	1	0	5	2	9	11	7	2	0	11	9	1	3	7	6	1	0	5	8	5	7	3	10	13	8	4	0	4	11	0	0	6	11	1	1	0	0	0
+1	ND2	YP_009444728.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	5	6	11	1	7	6	6	0	3	5	1	0	9	2	23	15	19	9	7	7	5	1	2	5	11	1	1	2	1	0	15	11	9	5	14	10	11	1	3	5	8	0	1	4	3	1	4	3	8	16	17	3	0	2	8	0	2	3	6	5	1	0	0	0
+2	COX1	YP_009444729.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	26	16	15	1	6	10	7	1	9	9	1	0	16	1	14	15	11	5	3	10	7	8	6	13	6	2	1	0	5	2	25	17	18	7	10	10	11	5	4	11	7	1	0	5	8	12	16	3	12	24	11	1	3	11	6	5	6	12	17	12	1	0	0	0
+3	COX2	YP_009444730.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	3	5	3	0	5	6	1	1	5	4	1	1	5	0	13	8	3	1	3	5	5	1	4	6	7	1	0	1	4	1	6	12	6	5	3	4	3	0	1	3	4	1	0	3	8	7	5	3	3	5	7	1	3	10	12	3	1	3	4	1	0	0	0	0
+4	ATP8	YP_009444731.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	1	3	1	0	0	0	2	0	0	0	0	0	5	0	0	1	2	1	2	6	1	0	0	2	2	0	0	0	0	0	2	0	0	1	4	1	1	0	1	2	3	0	0	1	2	1	1	0	1	1	0	0	0	0	2	1	0	1	0	0	1	0	0	0
+5	ATP6	YP_009444732.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	4	8	5	2	2	2	0	0	4	0	0	0	4	1	16	7	21	3	1	12	3	1	1	2	6	3	2	1	2	1	12	9	5	3	2	10	9	1	4	5	1	0	0	4	3	5	4	2	2	9	5	2	0	1	4	0	2	6	2	1	1	0	0	0
+6	COX3	YP_009444733.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	9	15	7	1	6	1	3	1	3	9	0	2	11	1	10	3	10	1	2	6	3	1	4	12	8	1	0	0	5	0	11	5	4	3	7	7	8	0	2	0	2	0	1	2	5	6	5	0	4	10	7	0	0	5	8	2	3	11	5	3	0	0	0	0
+7	ND3	YP_009444734.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	4	4	2	3	1	6	0	0	1	1	1	0	4	1	5	6	7	3	0	4	4	0	0	0	2	1	0	2	0	0	5	4	0	1	3	5	4	0	0	1	1	0	0	0	0	0	1	1	2	8	2	0	1	3	5	1	0	2	2	2	0	0	0	0
+8	ND4L	YP_009444735.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	5	1	2	0	1	1	4	0	0	1	3	0	0	1	4	6	9	2	0	1	1	0	1	3	2	1	0	2	1	0	1	1	5	1	3	2	1	1	1	0	0	0	0	3	0	0	2	1	1	7	6	0	0	1	3	0	1	3	1	1	1	0	0	0
+9	ND4	YP_009444736.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	7	8	21	2	6	10	7	1	5	9	2	3	17	3	20	19	24	10	6	12	6	2	1	10	10	1	3	4	0	4	15	23	19	7	9	16	12	3	4	6	9	2	4	5	3	3	8	0	9	11	15	0	1	4	10	2	3	8	6	10	0	0	0	0
+10	ND5	YP_009444737.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	19	20	15	4	7	11	10	2	2	6	1	5	13	1	24	25	28	2	7	10	8	4	5	12	17	3	1	1	7	0	27	22	23	4	17	30	18	2	9	22	20	0	3	11	6	7	10	3	10	28	11	3	4	8	9	3	2	10	18	2	1	0	0	0
+11	CYTB	YP_009444739.1	Salvelinus namaycush	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Salmoninae, Salvelinus	8	22	6	1	6	8	5	1	4	10	2	2	12	1	12	18	17	4	4	7	9	1	3	9	4	2	0	1	6	1	12	16	7	3	4	15	4	1	8	9	8	1	1	0	5	6	11	4	6	22	6	1	3	8	5	1	3	8	13	3	0	0	0	0

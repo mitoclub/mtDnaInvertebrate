@@ -1,65 +1,27 @@
-	YP_009420723.1|rpl14	YP_009420724.1|rpl5	YP_009420725.1|cox2	YP_009420726.1|cox1	YP_009420727.1|nad9	YP_009420728.1|cob	YP_009420736.1|nad7	YP_009420737.1|orf142	YP_009420738.1|nad4	YP_009420739.1|atp1	YP_009420740.1|orf183	YP_009420741.1|nad5	YP_009420742.1|nad6	YP_009420746.1|ymf16	YP_009420749.1|rpl2	YP_009420750.1|rps19	YP_009420751.1|rps3	YP_009420752.1|rpl16	YP_009420753.1|orf217	YP_009420754.1|atp8	YP_009420755.1|rps14	YP_009420756.1|rps8	YP_009420757.1|rpl6	YP_009420758.1|rps2	YP_009420759.1|rps4	YP_009420760.1|orf100
-TTT	4	17	18	45	14	39	15	7	54	16	6	77	33	47	5	6	23	6	18	29	7	4	19	12	13	9
-TTC	1	0	0	4	1	1	1	0	4	2	0	3	1	1	0	0	0	0	0	1	0	0	0	0	0	0
-TTA	11	22	23	58	22	40	37	20	63	45	24	84	26	35	25	5	20	7	25	9	12	12	22	23	16	5
-TTG	0	0	0	0	0	0	3	1	4	2	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
-TCT	2	2	3	17	3	6	8	5	10	9	2	17	3	1	8	2	5	1	3	1	2	2	3	2	0	0
-TCC	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TCA	2	3	8	11	2	4	6	1	15	13	2	16	9	6	7	0	4	3	6	3	5	6	2	7	2	0
-TCG	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TAT	2	1	7	17	9	24	20	10	31	14	14	40	10	20	8	4	17	5	16	6	3	4	5	9	3	6
-TAC	0	1	1	2	1	0	0	2	2	0	1	3	1	0	0	0	0	0	0	0	0	3	0	0	0	0
-TGT	2	2	4	0	3	3	7	0	7	3	3	11	0	0	1	0	1	0	1	2	1	1	0	0	2	0
-TGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGG	0	0	7	13	3	10	3	0	4	1	0	8	0	2	1	1	3	2	1	1	3	0	0	1	1	0
-CTT	0	3	2	3	1	1	0	0	4	1	0	4	1	4	0	0	1	2	1	0	1	1	2	2	1	0
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	1	0	1	0	0	2	1	1	0	0	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0
-CTG	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	1	0	5	12	8	18	9	2	5	11	2	8	1	0	8	0	3	3	2	2	0	0	2	3	2	1
-CCC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	1	0	1	0	0	0
-CCA	1	4	6	11	0	4	6	1	7	7	3	6	0	4	3	1	2	2	0	1	0	1	2	1	1	2
-CCG	0	0	1	0	0	1	0	0	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	1	3	6	14	4	11	12	1	10	3	3	11	3	2	5	2	4	0	2	1	1	0	3	1	4	0
-CAC	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-CAA	7	5	8	8	6	3	14	9	7	27	9	11	5	3	11	1	11	3	10	7	6	5	6	6	7	5
-CAG	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGT	2	0	2	2	4	2	9	1	3	4	1	4	0	0	8	0	3	3	1	0	4	2	0	2	1	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	2	2	0	3	1	0	0	0	0	3	1	1	2	1	0	1	0	0	0	1	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	13	16	23	32	18	31	27	14	57	41	8	61	20	32	18	3	23	9	19	10	8	10	24	14	9	1
-ATC	1	2	1	0	0	3	0	0	3	3	0	1	1	1	1	0	2	0	0	1	0	0	1	0	0	1
-ATA	8	14	5	7	7	13	8	7	16	2	16	13	11	20	11	6	12	4	9	2	0	10	10	20	9	2
-ATG	1	1	10	20	2	12	11	1	15	11	3	25	5	2	1	3	5	3	3	1	1	1	1	4	1	1
-ACT	2	5	9	14	2	12	7	4	8	20	1	17	9	6	3	1	5	4	4	3	1	1	1	5	0	2
-ACC	0	0	0	1	0	0	1	0	1	0	0	1	1	1	2	0	0	0	0	1	0	0	0	0	0	0
-ACA	5	4	4	10	3	8	6	0	13	7	5	19	8	4	6	1	4	5	2	1	1	6	4	6	1	1
-ACG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
-AAT	9	25	12	18	15	20	21	18	17	25	19	29	18	24	23	8	36	5	38	17	7	7	23	26	16	12
-AAC	1	1	1	1	0	1	1	1	0	2	0	2	0	1	0	0	0	0	3	0	0	2	0	1	3	0
-AAA	24	29	8	10	18	9	23	22	17	34	27	24	15	15	34	17	51	24	35	20	18	23	36	26	37	19
-AAG	0	0	0	0	0	1	0	0	1	0	1	1	0	0	1	0	2	2	1	0	0	1	2	0	0	0
-AGT	2	0	5	10	5	5	3	1	12	9	1	16	3	2	5	3	4	1	1	1	2	2	8	3	2	0
-AGC	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	1	4	9	5	6	11	1	2	19	2	7	2	1	9	1	4	2	2	1	3	1	1	1	5	1
-AGG	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-GTT	2	1	8	17	4	15	15	2	8	18	0	15	9	1	2	1	3	7	1	3	3	2	1	2	4	0
-GTC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-GTA	2	0	14	22	1	11	10	1	9	18	3	12	9	0	6	1	2	2	2	0	0	1	1	3	1	0
-GTG	0	0	0	0	0	1	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
-GCT	2	0	5	21	2	9	11	0	11	24	2	23	5	1	7	0	1	2	1	0	0	1	1	0	0	0
-GCC	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
-GCA	1	2	7	13	1	9	6	0	11	10	1	16	3	1	2	0	1	4	0	0	1	2	0	0	1	0
-GCG	0	0	0	2	0	0	2	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
-GAT	4	3	16	12	7	8	23	3	8	23	4	15	6	3	3	1	5	1	3	2	1	5	4	4	2	0
-GAC	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-GAA	1	7	13	5	12	9	24	2	15	33	11	14	7	5	6	3	7	6	7	4	2	2	5	8	5	2
-GAG	0	0	1	0	0	1	1	0	1	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGT	4	2	8	38	3	21	15	1	19	31	0	32	4	1	16	3	3	7	4	0	1	5	6	1	1	1
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
-GGA	2	0	3	9	1	5	8	2	6	9	5	11	3	0	8	0	2	4	0	0	2	2	3	3	1	0
-GGG	2	0	0	1	0	1	3	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	rpl14	YP_009420723.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	4	1	11	0	2	0	2	0	2	0	2	0	0	0	0	0	0	1	0	1	0	1	0	7	0	2	0	0	0	13	1	8	1	2	0	5	0	9	1	24	0	2	0	1	0	2	0	2	0	2	0	1	0	4	0	1	0	4	0	2	2	1	0	0
+1	rpl5	YP_009420724.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	17	0	22	0	2	0	3	0	1	1	2	0	0	3	0	1	0	0	0	4	0	3	0	5	0	0	0	0	0	16	2	14	1	5	0	4	0	25	1	29	0	0	0	1	0	1	0	0	0	0	0	2	0	3	0	7	0	2	0	0	0	1	0	0
+2	cox2	YP_009420725.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	18	0	23	0	3	0	8	0	7	1	4	0	7	2	0	0	0	5	0	6	1	6	0	8	0	2	0	0	0	23	1	5	10	9	0	4	0	12	1	8	0	5	0	4	0	8	0	14	0	5	0	7	0	16	0	13	1	8	0	3	0	1	0	0
+3	cox1	YP_009420726.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	45	4	58	0	17	0	11	0	17	2	0	0	13	3	0	1	0	12	1	11	0	14	1	8	0	2	0	0	0	32	0	7	20	14	1	10	0	18	1	10	0	10	0	9	0	17	0	22	0	21	0	13	2	12	0	5	0	38	0	9	1	1	0	0
+4	nad9	YP_009420727.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	14	1	22	0	3	0	2	0	9	1	3	0	3	1	0	0	0	8	0	0	0	4	0	6	0	4	0	0	0	18	0	7	2	2	0	3	0	15	0	18	0	5	1	5	0	4	0	1	0	2	0	1	0	7	0	12	0	3	0	1	0	1	0	0
+5	cob	YP_009420728.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	39	1	40	0	6	0	4	1	24	0	3	0	10	1	0	0	0	18	0	4	1	11	0	3	0	2	0	2	0	31	3	13	12	12	0	8	0	20	1	9	1	5	0	6	0	15	0	11	1	9	1	9	0	8	0	9	1	21	0	5	1	1	0	0
+6	nad7	YP_009420736.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	15	1	37	3	8	1	6	0	20	0	7	0	3	0	0	2	0	9	0	6	0	12	0	14	0	9	0	2	0	27	0	8	11	7	1	6	0	21	1	23	0	3	0	11	0	15	0	10	0	11	0	6	2	23	0	24	1	15	0	8	3	1	0	0
+7	orf142	YP_009420737.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	7	0	20	1	5	0	1	0	10	2	0	0	0	0	0	1	0	2	0	1	0	1	0	9	1	1	0	0	0	14	0	7	1	4	0	0	0	18	1	22	0	1	0	1	0	2	0	1	0	0	0	0	0	3	0	2	0	1	0	2	0	1	0	0
+8	nad4	YP_009420738.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	54	4	63	4	10	0	15	0	31	2	7	0	4	4	0	1	0	5	0	7	2	10	0	7	0	3	0	3	0	57	3	16	15	8	1	13	0	17	0	17	1	12	1	2	1	8	1	9	0	11	0	11	0	8	1	15	1	19	0	6	1	1	0	0
+9	atp1	YP_009420739.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	16	2	45	2	9	0	13	1	14	0	3	0	1	1	0	0	0	11	0	7	0	3	1	27	0	4	0	1	0	41	3	2	11	20	0	7	0	25	2	34	0	9	1	19	2	18	0	18	2	24	0	10	1	23	0	33	2	31	0	9	1	1	0	0
+10	orf183	YP_009420740.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	6	0	24	0	2	1	2	0	14	1	3	0	0	0	0	0	1	2	0	3	0	3	0	9	1	1	0	0	0	8	0	16	3	1	0	5	0	19	0	27	1	1	0	2	0	0	0	3	0	2	0	1	0	4	0	11	0	0	0	5	1	1	0	0
+11	nad5	YP_009420741.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	77	3	84	1	17	0	16	0	40	3	11	0	8	4	0	1	0	8	0	6	1	11	0	11	1	4	0	0	0	61	1	13	25	17	1	19	0	29	2	24	1	16	0	7	0	15	0	12	0	23	1	16	0	15	1	14	1	32	0	11	0	1	0	0
+12	nad6	YP_009420742.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	33	1	26	0	3	0	9	0	10	1	0	0	0	1	0	0	0	1	0	0	1	3	0	5	0	0	0	0	0	20	1	11	5	9	1	8	0	18	0	15	0	3	1	2	0	9	0	9	0	5	1	3	0	6	0	7	1	4	0	3	0	1	0	0
+13	ymf16	YP_009420746.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	47	1	35	0	1	0	6	0	20	0	0	0	2	4	0	1	0	0	0	4	0	2	0	3	0	0	0	0	0	32	1	20	2	6	1	4	0	24	1	15	0	2	0	1	0	1	0	0	0	1	0	1	0	3	0	5	0	1	0	0	0	1	0	0
+14	rpl2	YP_009420749.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	5	0	25	0	8	0	7	0	8	0	1	0	1	0	0	0	0	8	2	3	0	5	1	11	0	8	0	3	0	18	1	11	1	3	2	6	1	23	0	34	1	5	0	9	0	2	0	6	1	7	0	2	3	3	1	6	0	16	0	8	1	1	0	0
+15	rps19	YP_009420750.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	6	0	5	0	2	0	0	0	4	0	0	0	1	0	0	0	0	0	1	1	0	2	0	1	0	0	0	1	0	3	0	6	3	1	0	1	0	8	0	17	0	3	0	1	0	1	1	1	0	0	0	0	0	1	0	3	0	3	1	0	0	1	0	0
+16	rps3	YP_009420751.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	23	0	20	0	5	0	4	0	17	0	1	0	3	1	0	1	0	3	0	2	0	4	0	11	0	3	0	1	0	23	2	12	5	5	0	4	0	36	0	51	2	4	0	4	0	3	0	2	0	1	0	1	0	5	0	7	0	3	0	2	0	1	0	0
+17	rpl16	YP_009420752.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	6	0	7	1	1	0	3	0	5	0	0	0	2	2	0	0	0	3	0	2	0	0	0	3	0	3	0	2	0	9	0	4	3	4	0	5	0	5	0	24	2	1	0	2	1	7	0	2	0	2	1	4	0	1	0	6	0	7	0	4	0	1	0	0
+18	orf217	YP_009420753.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	18	0	25	0	3	0	6	0	16	0	1	0	1	1	0	1	0	2	0	0	0	2	0	10	0	1	0	1	0	19	0	9	3	4	0	2	0	38	3	35	1	1	0	2	0	1	0	2	0	1	0	0	0	3	0	7	0	4	0	0	0	1	0	0
+19	atp8	YP_009420754.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	29	1	9	0	1	0	3	0	6	0	2	0	1	0	0	0	0	2	0	1	0	1	0	7	0	0	0	0	0	10	1	2	1	3	1	1	0	17	0	20	0	1	0	1	0	3	0	0	0	0	0	0	0	2	0	4	0	0	0	0	0	1	0	0
+20	rps14	YP_009420755.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	7	0	12	0	2	0	5	0	3	0	1	0	3	1	0	0	0	0	1	0	0	1	0	6	0	4	0	1	0	8	0	0	1	1	0	1	1	7	0	18	0	2	0	3	0	3	0	0	0	0	0	1	0	1	0	2	0	1	0	2	0	1	0	0
+21	rps8	YP_009420756.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	4	0	12	1	2	0	6	0	4	3	1	0	0	1	0	0	0	0	0	1	0	0	0	5	0	2	0	0	0	10	0	10	1	1	0	6	0	7	2	23	1	2	0	1	0	2	0	1	0	1	0	2	0	5	0	2	0	5	0	2	0	1	0	0
+22	rpl6	YP_009420757.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	19	0	22	0	3	0	2	0	5	0	0	0	0	2	0	1	0	2	1	2	0	3	0	6	0	0	0	0	0	24	1	10	1	1	0	4	0	23	0	36	2	8	0	1	0	1	0	1	0	1	0	0	0	4	0	5	0	6	1	3	0	1	0	0
+23	rps2	YP_009420758.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	12	0	23	0	2	0	7	0	9	0	0	0	1	2	0	0	0	3	0	1	0	1	0	6	0	2	0	0	0	14	0	20	4	5	0	6	0	26	1	26	0	3	0	1	0	2	0	3	1	0	0	0	0	4	0	8	0	1	0	3	0	1	0	0
+24	rps4	YP_009420759.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	13	0	16	0	0	0	2	0	3	0	2	0	1	1	0	0	0	2	0	1	0	4	0	7	0	1	0	1	1	9	0	9	1	0	0	1	0	16	3	37	0	2	0	5	0	4	0	1	0	0	0	1	0	2	0	5	0	1	0	1	0	1	0	0
+25	orf100	YP_009420760.1	Phytophthora nicotianae	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Phytophthora	9	0	5	0	0	0	0	0	6	0	0	0	0	0	0	0	0	1	0	2	0	0	0	5	0	0	0	0	0	1	1	2	1	2	0	1	0	12	0	19	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	0

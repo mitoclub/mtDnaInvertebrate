@@ -1,65 +1,13 @@
-	YP_009487345.1|ND1	YP_009487346.1|ND2	YP_009487347.1|COX1	YP_009487348.1|COX2	YP_009487349.1|ATP8	YP_009487350.1|ATP6	YP_009487351.1|COX3	YP_009487352.1|ND3	YP_009487353.1|ND4L	YP_009487354.1|ND4	YP_009487355.1|ND5	YP_009487357.1|CYTB
-TTT	8	7	28	6	2	9	11	7	1	12	18	17
-TTC	12	6	15	1	0	5	11	3	3	7	23	13
-TTA	20	22	24	15	5	24	7	8	6	28	36	18
-TTG	1	0	3	2	1	0	0	1	3	2	3	2
-TCT	5	5	11	1	2	7	7	1	4	8	11	5
-TCC	6	10	6	6	0	0	2	2	1	10	15	5
-TCA	12	11	10	6	2	2	9	3	5	11	17	10
-TCG	1	1	1	0	0	0	0	0	0	0	1	1
-TAT	9	5	11	7	1	2	7	3	1	10	11	8
-TAC	3	4	8	3	0	0	6	0	3	7	9	10
-TGT	0	1	0	1	0	0	0	0	1	1	1	1
-TGC	3	0	1	2	0	0	1	1	3	3	4	3
-TGA	7	10	16	5	3	3	10	5	0	11	11	12
-TGG	2	0	1	0	0	0	2	0	0	1	2	0
-CTT	7	5	10	8	2	4	8	2	2	12	18	7
-CTC	3	9	2	1	0	5	4	5	1	14	9	10
-CTA	22	21	17	5	2	10	14	3	6	26	30	14
-CTG	2	2	2	2	0	1	0	2	1	4	0	3
-CCT	6	7	12	8	2	4	2	5	1	6	11	4
-CCC	9	5	7	2	0	5	5	0	0	4	2	8
-CCA	6	4	9	4	2	4	3	1	0	10	11	11
-CCG	0	0	0	0	0	0	0	0	0	0	1	0
-CAT	1	4	8	4	1	3	8	0	1	7	5	3
-CAC	2	4	11	3	0	4	9	0	1	5	7	9
-CAA	5	8	4	5	4	7	6	3	2	9	19	5
-CAG	1	1	2	1	2	0	1	0	0	0	0	1
-CGT	0	0	0	0	0	1	1	0	0	1	0	1
-CGC	3	1	0	2	0	1	2	1	1	1	2	2
-CGA	4	2	7	4	0	2	1	0	0	8	6	4
-CGG	0	0	1	0	0	1	1	0	0	0	0	1
-ATT	14	34	36	11	3	21	6	9	4	43	33	24
-ATC	10	14	5	7	3	6	6	6	2	10	20	13
-ATA	21	27	27	16	4	16	9	7	12	31	39	19
-ATG	1	1	5	2	1	2	1	0	1	2	3	3
-ACT	5	6	13	2	2	6	5	4	3	7	16	5
-ACC	9	11	7	4	1	4	8	1	1	18	15	9
-ACA	11	28	16	12	4	10	12	5	3	21	25	11
-ACG	1	0	1	1	2	1	0	0	0	0	1	1
-AAT	7	9	13	7	1	5	4	3	3	15	19	8
-AAC	6	10	3	0	0	4	4	2	2	7	11	11
-AAA	7	9	9	4	7	5	3	3	0	13	23	9
-AAG	1	1	0	1	0	0	0	0	0	0	0	0
-AGT	0	1	1	1	0	2	4	0	0	1	4	1
-AGC	2	3	2	3	0	1	2	1	0	11	9	3
-GTT	4	1	12	5	1	1	3	1	1	2	4	2
-GTC	1	1	5	1	0	3	2	1	2	0	4	2
-GTA	7	3	16	6	0	4	9	0	2	5	8	11
-GTG	0	0	3	0	0	0	1	0	1	0	1	0
-GCT	11	4	16	5	1	5	4	0	1	7	12	7
-GCC	6	2	14	1	0	7	7	2	5	5	9	1
-GCA	10	6	11	1	0	4	4	2	0	13	16	11
-GCG	1	1	0	0	0	0	0	0	0	0	0	0
-GAT	2	0	9	7	1	1	2	1	0	2	6	2
-GAC	1	1	6	4	0	0	1	2	1	2	5	8
-GAA	10	3	6	11	1	3	8	6	2	9	9	6
-GAG	0	1	4	3	0	0	0	0	0	0	1	0
-GGT	1	2	12	3	0	0	5	1	1	0	6	7
-GGC	1	4	11	1	0	5	1	1	1	6	6	2
-GGA	6	6	16	4	0	5	7	1	1	7	11	11
-GGG	3	3	8	0	0	1	5	0	2	4	4	4
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009487345.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	8	12	20	1	5	6	12	1	9	3	0	3	7	2	7	3	22	2	6	9	6	0	1	2	5	1	0	3	4	0	14	10	21	1	5	9	11	1	7	6	7	1	0	2	4	1	7	0	11	6	10	1	2	1	10	0	1	1	6	3	0	0	0	0
+1	ND2	YP_009487346.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	7	6	22	0	5	10	11	1	5	4	1	0	10	0	5	9	21	2	7	5	4	0	4	4	8	1	0	1	2	0	34	14	27	1	6	11	28	0	9	10	9	1	1	3	1	1	3	0	4	2	6	1	0	1	3	1	2	4	6	3	0	1	0	0
+2	COX1	YP_009487347.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	28	15	24	3	11	6	10	1	11	8	0	1	16	1	10	2	17	2	12	7	9	0	8	11	4	2	0	0	7	1	36	5	27	5	13	7	16	1	13	3	9	0	1	2	12	5	16	3	16	14	11	0	9	6	6	4	12	11	16	8	1	0	0	0
+3	COX2	YP_009487348.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	6	1	15	2	1	6	6	0	7	3	1	2	5	0	8	1	5	2	8	2	4	0	4	3	5	1	0	2	4	0	11	7	16	2	2	4	12	1	7	0	4	1	1	3	5	1	6	0	5	1	1	0	7	4	11	3	3	1	4	0	1	0	0	0
+4	ATP8	YP_009487349.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	2	0	5	1	2	0	2	0	1	0	0	0	3	0	2	0	2	0	2	0	2	0	1	0	4	2	0	0	0	0	3	3	4	1	2	1	4	2	1	0	7	0	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009487350.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	9	5	24	0	7	0	2	0	2	0	0	0	3	0	4	5	10	1	4	5	4	0	3	4	7	0	1	1	2	1	21	6	16	2	6	4	10	1	5	4	5	0	2	1	1	3	4	0	5	7	4	0	1	0	3	0	0	5	5	1	1	0	0	0
+6	COX3	YP_009487351.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	11	11	7	0	7	2	9	0	7	6	0	1	10	2	8	4	14	0	2	5	3	0	8	9	6	1	1	2	1	1	6	6	9	1	5	8	12	0	4	4	3	0	4	2	3	2	9	1	4	7	4	0	2	1	8	0	5	1	7	5	0	0	0	0
+7	ND3	YP_009487352.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	7	3	8	1	1	2	3	0	3	0	0	1	5	0	2	5	3	2	5	0	1	0	0	0	3	0	0	1	0	0	9	6	7	0	4	1	5	0	3	2	3	0	0	1	1	1	0	0	0	2	2	0	1	2	6	0	1	1	1	0	0	0	0	0
+8	ND4L	YP_009487353.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	1	3	6	3	4	1	5	0	1	3	1	3	0	0	2	1	6	1	1	0	0	0	1	1	2	0	0	1	0	0	4	2	12	1	3	1	3	0	3	2	0	0	0	0	1	2	2	1	1	5	0	0	0	1	2	0	1	1	1	2	1	0	0	0
+9	ND4	YP_009487354.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	12	7	28	2	8	10	11	0	10	7	1	3	11	1	12	14	26	4	6	4	10	0	7	5	9	0	1	1	8	0	43	10	31	2	7	18	21	0	15	7	13	0	1	11	2	0	5	0	7	5	13	0	2	2	9	0	0	6	7	4	0	0	0	0
+10	ND5	YP_009487355.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	18	23	36	3	11	15	17	1	11	9	1	4	11	2	18	9	30	0	11	2	11	1	5	7	19	0	0	2	6	0	33	20	39	3	16	15	25	1	19	11	23	0	4	9	4	4	8	1	12	9	16	0	6	5	9	1	6	6	11	4	1	0	0	0
+11	CYTB	YP_009487357.1	Makalata macrura	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Makalata	17	13	18	2	5	5	10	1	8	10	1	3	12	0	7	10	14	3	4	8	11	0	3	9	5	1	1	2	4	1	24	13	19	3	5	9	11	1	8	11	9	0	1	3	2	2	11	0	7	1	11	0	2	8	6	0	7	2	11	4	0	0	1	0

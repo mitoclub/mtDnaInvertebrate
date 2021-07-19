@@ -1,65 +1,10 @@
-	YP_009502280.1|ND2	YP_009502281.1|COX1	YP_009502282.1|COX2	YP_009502283.1|ATP8	YP_009502284.1|ATP6	YP_009502285.1|COX3	YP_009502286.1|ND3	YP_009502290.1|ND6	YP_009502291.1|CYTB
-TTT	26	36	12	3	14	23	9	14	24
-TTC	4	7	2	2	4	2	2	3	9
-TTA	25	49	15	4	32	19	8	20	43
-TTG	3	1	1	0	0	0	0	1	2
-TCT	15	25	7	0	9	5	1	8	6
-TCC	4	2	3	0	1	1	0	2	5
-TCA	13	9	7	1	6	7	5	2	13
-TCG	1	0	0	0	0	0	0	1	0
-TAT	11	7	4	0	4	5	0	4	12
-TAC	4	10	4	0	2	5	0	2	5
-TGT	3	1	2	0	2	1	1	1	1
-TGC	1	0	1	0	0	0	0	0	0
-TGA	10	14	5	2	4	11	3	1	11
-TGG	1	0	1	0	0	0	0	0	1
-CTT	4	12	4	1	5	5	3	4	7
-CTC	1	5	2	0	0	1	0	0	2
-CTA	7	5	2	2	4	6	3	2	6
-CTG	1	0	0	0	0	0	0	0	0
-CCT	2	10	1	3	7	4	3	4	16
-CCC	6	3	2	0	1	2	0	1	1
-CCA	1	10	8	0	4	4	3	0	5
-CCG	2	0	1	0	1	0	0	0	1
-CAT	0	10	3	0	3	5	2	0	6
-CAC	1	4	2	0	0	9	0	0	2
-CAA	6	7	6	1	2	4	0	2	11
-CAG	0	1	0	0	0	1	0	0	0
-CGT	0	1	2	0	0	0	0	0	2
-CGC	0	0	0	0	0	0	0	1	0
-CGA	0	7	2	0	2	2	2	1	3
-CGG	0	0	0	0	0	0	0	0	0
-ATT	36	55	21	6	20	24	18	19	35
-ATC	8	9	8	2	3	6	4	2	14
-ATA	30	26	14	4	22	15	10	17	18
-ATG	3	4	0	1	1	1	1	1	2
-ACT	3	8	2	1	2	9	0	2	8
-ACC	2	2	2	2	4	4	3	2	3
-ACA	4	18	7	1	7	8	3	6	5
-ACG	0	0	0	0	0	0	0	0	0
-AAT	12	20	7	1	9	10	7	9	16
-AAC	4	4	8	3	3	3	0	3	8
-AAA	23	9	8	6	5	11	8	12	11
-AAG	0	1	0	0	0	0	0	0	0
-AGT	1	5	1	0	2	0	2	1	1
-AGC	3	3	2	0	1	2	0	0	1
-AGA	8	6	4	1	7	9	2	1	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	7	3	1	4	6	0	1	5
-GTC	0	1	0	0	2	1	0	0	1
-GTA	7	11	8	0	6	6	2	2	10
-GTG	0	4	0	0	0	0	0	0	0
-GCT	3	14	2	0	5	1	0	0	9
-GCC	2	2	1	1	2	0	0	1	1
-GCA	2	7	2	0	2	1	0	0	2
-GCG	1	0	0	0	0	0	0	0	1
-GAT	0	5	7	0	0	3	0	1	7
-GAC	0	7	2	0	1	1	3	0	1
-GAA	5	7	8	1	4	5	4	4	4
-GAG	0	1	0	0	0	1	1	0	0
-GGT	1	7	1	0	0	2	0	2	3
-GGC	0	1	1	0	1	0	1	0	0
-GGA	7	25	4	0	2	8	2	1	12
-GGG	2	6	0	0	2	0	0	1	7
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009502280.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	26	4	25	3	15	4	13	1	11	4	3	1	10	1	4	1	7	1	2	6	1	2	0	1	6	0	0	0	0	0	36	8	30	3	3	2	4	0	12	4	23	0	1	3	8	0	2	0	7	0	3	2	2	1	0	0	5	0	1	0	7	2	1	0
+1	COX1	YP_009502281.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	36	7	49	1	25	2	9	0	7	10	1	0	14	0	12	5	5	0	10	3	10	0	10	4	7	1	1	0	7	0	55	9	26	4	8	2	18	0	20	4	9	1	5	3	6	0	7	1	11	4	14	2	7	0	5	7	7	1	7	1	25	6	1	0
+2	COX2	YP_009502282.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	12	2	15	1	7	3	7	0	4	4	2	1	5	1	4	2	2	0	1	2	8	1	3	2	6	0	2	0	2	0	21	8	14	0	2	2	7	0	7	8	8	0	1	2	4	0	3	0	8	0	2	1	2	0	7	2	8	0	1	1	4	0	0	0
+3	ATP8	YP_009502283.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	3	2	4	0	0	0	1	0	0	0	0	0	2	0	1	0	2	0	3	0	0	0	0	0	1	0	0	0	0	0	6	2	4	1	1	2	1	0	1	3	6	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009502284.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	14	4	32	0	9	1	6	0	4	2	2	0	4	0	5	0	4	0	7	1	4	1	3	0	2	0	0	0	2	0	20	3	22	1	2	4	7	0	9	3	5	0	2	1	7	0	4	2	6	0	5	2	2	0	0	1	4	0	0	1	2	2	1	0
+5	COX3	YP_009502285.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	23	2	19	0	5	1	7	0	5	5	1	0	11	0	5	1	6	0	4	2	4	0	5	9	4	1	0	0	2	0	24	6	15	1	9	4	8	0	10	3	11	0	0	2	9	0	6	1	6	0	1	0	1	0	3	1	5	1	2	0	8	0	1	0
+6	ND3	YP_009502286.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	9	2	8	0	1	0	5	0	0	0	1	0	3	0	3	0	3	0	3	0	3	0	2	0	0	0	0	0	2	0	18	4	10	1	0	3	3	0	7	0	8	0	2	0	2	0	0	0	2	0	0	0	0	0	0	3	4	1	0	1	2	0	1	0
+7	ND6	YP_009502290.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	14	3	20	1	8	2	2	1	4	2	1	0	1	0	4	0	2	0	4	1	0	0	0	0	2	0	0	1	1	0	19	2	17	1	2	2	6	0	9	3	12	0	1	0	1	0	1	0	2	0	0	1	0	0	1	0	4	0	2	0	1	1	1	0
+8	CYTB	YP_009502291.1	Heteropsylla cubana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Ciriacreminae, Heteropsylla	24	9	43	2	6	5	13	0	12	5	1	0	11	1	7	2	6	0	16	1	5	1	6	2	11	0	2	0	3	0	35	14	18	2	8	3	5	0	16	8	11	0	1	1	1	0	5	1	10	0	9	1	2	1	7	1	4	0	3	0	12	7	1	0

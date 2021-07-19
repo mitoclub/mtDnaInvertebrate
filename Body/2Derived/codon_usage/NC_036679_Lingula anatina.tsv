@@ -1,65 +1,14 @@
-	YP_009450461.1|COX1	YP_009450462.1|COX2	YP_009450463.1|ND2	YP_009450464.1|ND4L	YP_009450465.1|CYTB	YP_009450466.1|ATP8	YP_009450467.1|ATP6	YP_009450468.1|ND6	YP_009450469.1|ND1	YP_009450470.1|ND3	YP_009450471.1|ND5	YP_009450472.1|ND4	YP_009450473.1|COX3
-TTT	42	8	30	8	20	2	22	11	24	16	48	29	15
-TTC	9	4	5	0	11	1	7	2	3	3	10	3	7
-TTA	32	16	21	11	16	1	15	17	14	7	36	28	14
-TTG	8	0	7	1	8	4	5	2	5	3	8	3	6
-TCT	12	3	10	2	7	2	7	4	8	4	13	12	4
-TCC	1	2	1	0	2	1	0	0	1	1	8	5	1
-TCA	11	3	8	4	4	1	5	7	4	5	14	10	4
-TCG	2	0	1	2	0	0	1	0	0	0	1	0	1
-TAT	15	13	9	1	19	4	7	3	10	3	15	12	13
-TAC	7	1	5	0	7	1	2	0	3	3	6	3	2
-TGT	5	7	8	0	4	2	6	2	3	4	8	7	5
-TGC	2	0	3	1	1	2	2	0	1	0	2	2	1
-TGA	14	4	6	2	8	1	2	2	2	1	11	5	6
-TGG	9	1	9	3	12	0	2	2	6	6	5	7	10
-CTT	12	4	6	5	15	2	6	6	14	7	19	15	8
-CTC	6	1	4	0	2	1	2	1	3	1	3	2	0
-CTA	6	3	5	2	8	0	5	2	5	2	8	9	3
-CTG	2	1	10	2	1	0	0	2	5	0	6	3	1
-CCT	13	8	9	2	14	0	6	7	7	6	6	7	4
-CCC	2	1	1	0	1	0	0	1	3	1	5	2	0
-CCA	10	2	1	0	4	2	2	3	3	4	9	6	6
-CCG	1	0	0	0	1	0	2	2	1	0	1	0	1
-CAT	17	7	3	3	9	0	3	0	3	0	10	7	6
-CAC	7	1	1	0	3	1	1	2	1	0	1	3	0
-CAA	4	3	2	0	4	0	4	2	4	2	5	0	3
-CAG	2	1	2	0	4	1	1	1	3	0	2	1	1
-CGT	6	1	1	3	4	1	0	2	4	4	1	3	1
-CGC	0	0	0	0	0	0	0	0	2	0	1	1	0
-CGA	4	3	0	0	5	0	2	0	1	1	4	3	1
-CGG	4	1	3	0	0	0	2	0	2	0	1	1	1
-ATT	33	14	12	11	33	4	14	11	17	10	30	21	20
-ATC	4	1	5	0	3	2	2	3	2	2	5	6	2
-ATA	21	9	19	2	9	4	6	8	11	2	17	20	13
-ATG	13	4	4	2	8	1	4	6	6	2	10	7	4
-ACT	11	10	9	2	14	0	3	6	6	4	10	4	5
-ACC	2	3	2	0	1	0	0	1	2	3	3	2	2
-ACA	11	3	6	2	6	1	2	1	2	3	5	1	5
-ACG	5	0	1	0	1	0	0	0	0	0	3	0	2
-AAT	8	7	6	1	12	0	4	3	7	4	10	10	8
-AAC	6	0	4	2	4	0	3	1	1	1	3	5	2
-AAA	11	4	2	1	8	0	5	6	4	4	18	8	4
-AAG	7	4	6	2	5	0	8	4	1	1	7	0	5
-AGT	2	3	5	0	5	1	4	2	4	1	10	5	1
-AGC	2	1	3	0	0	0	1	2	1	0	1	2	0
-AGA	9	5	3	1	6	1	9	2	8	4	11	3	8
-AGG	7	2	5	2	6	1	3	2	7	1	11	7	3
-GTT	16	8	15	5	17	1	9	12	6	7	22	14	14
-GTC	1	3	1	0	0	1	1	0	4	1	5	1	1
-GTA	13	6	8	5	6	2	9	8	6	4	19	8	7
-GTG	7	6	5	0	11	0	0	3	4	0	7	6	3
-GCT	18	10	3	6	13	1	9	5	17	4	23	14	12
-GCC	4	2	3	1	3	0	3	3	4	2	5	5	3
-GCA	10	1	6	1	5	0	3	6	6	2	11	4	2
-GCG	1	1	0	0	1	0	0	0	1	0	0	1	0
-GAT	10	11	1	1	4	1	3	5	5	2	14	3	5
-GAC	3	1	2	0	5	2	0	1	0	0	3	0	1
-GAA	8	4	3	2	2	0	1	3	4	3	5	3	6
-GAG	9	10	5	1	6	1	3	2	7	5	7	4	3
-GGT	23	4	10	6	12	2	7	5	5	4	14	15	13
-GGC	4	4	5	1	1	1	2	1	0	0	3	3	0
-GGA	16	7	7	0	11	0	4	4	5	3	9	9	7
-GGG	13	2	8	2	6	1	1	2	4	2	14	11	5
-TAA	0	1	1	0	0	1	1	0	1	0	0	0	1
-TAG	1	0	0	1	1	0	0	1	0	1	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009450461.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	42	9	32	8	12	1	11	2	15	7	5	2	14	9	12	6	6	2	13	2	10	1	17	7	4	2	6	0	4	4	33	4	21	13	11	2	11	5	8	6	11	7	2	2	9	7	16	1	13	7	18	4	10	1	10	3	8	9	23	4	16	13	0	1
+1	COX2	YP_009450462.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	8	4	16	0	3	2	3	0	13	1	7	0	4	1	4	1	3	1	8	1	2	0	7	1	3	1	1	0	3	1	14	1	9	4	10	3	3	0	7	0	4	4	3	1	5	2	8	3	6	6	10	2	1	1	11	1	4	10	4	4	7	2	1	0
+2	ND2	YP_009450463.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	30	5	21	7	10	1	8	1	9	5	8	3	6	9	6	4	5	10	9	1	1	0	3	1	2	2	1	0	0	3	12	5	19	4	9	2	6	1	6	4	2	6	5	3	3	5	15	1	8	5	3	3	6	0	1	2	3	5	10	5	7	8	1	0
+3	ND4L	YP_009450464.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	8	0	11	1	2	0	4	2	1	0	0	1	2	3	5	0	2	2	2	0	0	0	3	0	0	0	3	0	0	0	11	0	2	2	2	0	2	0	1	2	1	2	0	0	1	2	5	0	5	0	6	1	1	0	1	0	2	1	6	1	0	2	0	1
+4	CYTB	YP_009450465.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	20	11	16	8	7	2	4	0	19	7	4	1	8	12	15	2	8	1	14	1	4	1	9	3	4	4	4	0	5	0	33	3	9	8	14	1	6	1	12	4	8	5	5	0	6	6	17	0	6	11	13	3	5	1	4	5	2	6	12	1	11	6	0	1
+5	ATP8	YP_009450466.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	2	1	1	4	2	1	1	0	4	1	2	2	1	0	2	1	0	0	0	0	2	0	0	1	0	1	1	0	0	0	4	2	4	1	0	0	1	0	0	0	0	0	1	0	1	1	1	1	2	0	1	0	0	0	1	2	0	1	2	1	0	1	1	0
+6	ATP6	YP_009450467.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	22	7	15	5	7	0	5	1	7	2	6	2	2	2	6	2	5	0	6	0	2	2	3	1	4	1	0	0	2	2	14	2	6	4	3	0	2	0	4	3	5	8	4	1	9	3	9	1	9	0	9	3	3	0	3	0	1	3	7	2	4	1	1	0
+7	ND6	YP_009450468.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	11	2	17	2	4	0	7	0	3	0	2	0	2	2	6	1	2	2	7	1	3	2	0	2	2	1	2	0	0	0	11	3	8	6	6	1	1	0	3	1	6	4	2	2	2	2	12	0	8	3	5	3	6	0	5	1	3	2	5	1	4	2	0	1
+8	ND1	YP_009450469.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	24	3	14	5	8	1	4	0	10	3	3	1	2	6	14	3	5	5	7	3	3	1	3	1	4	3	4	2	1	2	17	2	11	6	6	2	2	0	7	1	4	1	4	1	8	7	6	4	6	4	17	4	6	1	5	0	4	7	5	0	5	4	1	0
+9	ND3	YP_009450470.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	16	3	7	3	4	1	5	0	3	3	4	0	1	6	7	1	2	0	6	1	4	0	0	0	2	0	4	0	1	0	10	2	2	2	4	3	3	0	4	1	4	1	1	0	4	1	7	1	4	0	4	2	2	0	2	0	3	5	4	0	3	2	0	1
+10	ND5	YP_009450471.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	48	10	36	8	13	8	14	1	15	6	8	2	11	5	19	3	8	6	6	5	9	1	10	1	5	2	1	1	4	1	30	5	17	10	10	3	5	3	10	3	18	7	10	1	11	11	22	5	19	7	23	5	11	0	14	3	5	7	14	3	9	14	0	1
+11	ND4	YP_009450472.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	29	3	28	3	12	5	10	0	12	3	7	2	5	7	15	2	9	3	7	2	6	0	7	3	0	1	3	1	3	1	21	6	20	7	4	2	1	0	10	5	8	0	5	2	3	7	14	1	8	6	14	5	4	1	3	0	3	4	15	3	9	11	0	1
+12	COX3	YP_009450473.1	Lingula anatina	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Linguliformea, Lingulata, Lingulida, Linguloidea, Lingulidae, Lingula	15	7	14	6	4	1	4	1	13	2	5	1	6	10	8	0	3	1	4	0	6	1	6	0	3	1	1	0	1	1	20	2	13	4	5	2	5	2	8	2	4	5	1	0	8	3	14	1	7	3	12	3	2	0	5	1	6	3	13	0	7	5	1	0

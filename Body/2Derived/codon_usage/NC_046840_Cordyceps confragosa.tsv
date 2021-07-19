@@ -1,65 +1,16 @@
-	YP_009750556.1|orf447	YP_009750557.1|nad2	YP_009750558.1|nad3	YP_009750559.1|atp9	YP_009750560.1|cox2	YP_009750561.1|nad4L	YP_009750562.1|nad5	YP_009750563.1|cob	YP_009750564.1|cox1	YP_009750565.1|nad1	YP_009750566.1|nad4	YP_009750567.1|atp8	YP_009750568.1|atp6	YP_009750569.1|cox3	YP_009750570.1|nad6
-TTT	18	32	17	2	9	3	35	18	18	21	33	3	12	16	10
-TTC	4	6	2	3	5	2	26	12	26	10	10	2	7	10	4
-TTA	48	76	14	14	31	9	74	55	69	59	77	5	46	31	29
-TTG	1	4	1	0	0	2	3	0	1	1	0	0	1	1	1
-TCT	10	17	1	2	5	3	14	4	11	5	9	1	0	4	5
-TCC	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TCA	7	10	1	4	9	1	21	7	11	10	18	2	12	8	8
-TCG	0	3	0	0	0	0	0	0	0	2	0	0	0	1	0
-TAT	29	29	8	2	11	4	32	17	18	15	22	2	7	8	10
-TAC	3	4	1	0	1	0	4	4	2	1	3	2	2	4	2
-TGT	0	2	2	0	4	0	5	1	1	3	4	0	2	1	0
-TGC	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0
-TGA	4	5	0	0	6	0	8	7	14	5	3	0	1	8	5
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	2	8	1	0	1	3	2	2	0	1	1	0	0	0	1
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	3	4	2	0	0	0	0	0	0	2	0	0	0	0	1
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	4	9	2	1	8	0	16	9	19	8	11	2	3	8	3
-CCC	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
-CCA	1	2	0	0	6	0	4	12	8	3	1	1	4	2	1
-CCG	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	10	7	2	0	7	0	12	9	10	2	3	0	4	14	2
-CAC	0	1	0	0	0	0	1	1	3	0	2	0	2	1	0
-CAA	13	9	4	2	6	1	13	9	11	8	7	1	7	4	3
-CAG	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0
-CGT	5	1	0	0	0	0	3	2	0	1	0	2	0	0	0
-CGC	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	18	39	3	2	9	6	23	10	22	18	20	3	4	5	10
-ATC	2	3	2	0	1	4	4	6	2	1	3	1	5	1	0
-ATA	28	38	11	3	15	11	65	25	30	30	44	5	25	17	21
-ATG	6	9	1	3	7	3	18	14	19	11	10	3	6	6	6
-ACT	14	31	2	2	2	1	16	6	12	6	6	0	1	6	2
-ACC	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-ACA	6	8	4	0	9	2	23	11	15	9	22	1	13	17	11
-ACG	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-AAT	53	31	8	0	12	3	22	13	15	13	19	2	14	4	21
-AAC	6	2	1	2	1	0	7	7	6	1	1	0	3	2	1
-AAA	58	20	6	2	5	2	17	10	11	7	12	2	5	3	2
-AAG	5	2	0	0	0	0	2	0	0	0	0	0	0	0	0
-AGT	11	24	5	0	3	3	28	11	21	13	20	0	7	8	8
-AGC	1	6	1	0	2	0	2	0	0	0	0	0	1	2	1
-AGA	20	6	2	1	5	3	6	8	11	8	9	1	4	4	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	3	15	2	3	5	1	12	6	15	3	7	1	1	6	2
-GTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTA	7	15	5	3	6	4	27	16	16	17	23	2	14	14	11
-GTG	1	0	1	0	3	0	1	1	1	3	0	1	2	1	0
-GCT	5	12	4	4	8	4	23	18	23	20	14	1	7	8	4
-GCC	2	2	0	0	0	1	1	0	4	4	2	0	2	0	0
-GCA	2	7	2	7	4	2	9	10	11	6	9	1	4	9	3
-GCG	0	0	0	0	0	0	3	0	1	0	1	0	0	0	0
-GAT	8	14	2	0	14	1	13	8	15	8	13	0	3	4	2
-GAC	0	0	0	0	1	1	4	0	0	0	0	0	1	1	1
-GAA	8	13	6	1	12	2	13	8	5	12	13	1	6	8	5
-GAG	1	0	0	0	0	1	0	1	1	1	0	0	1	0	0
-GGT	10	13	10	3	7	1	29	14	23	10	15	0	9	16	8
-GGC	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0
-GGA	2	12	1	7	8	4	15	11	26	7	11	0	10	6	4
-GGG	0	1	0	0	0	1	3	3	4	2	3	0	0	0	0
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	orf447	YP_009750556.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	18	4	48	1	10	1	7	0	29	3	0	1	4	0	2	0	3	0	4	0	1	2	10	0	13	0	5	1	0	0	18	2	28	6	14	0	6	2	53	6	58	5	11	1	20	0	3	0	7	1	5	2	2	0	8	0	8	1	10	1	2	0	1	0
+1	nad2	YP_009750557.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	32	6	76	4	17	0	10	3	29	4	2	1	5	0	8	0	4	0	9	0	2	0	7	1	9	2	1	0	0	0	39	3	38	9	31	1	8	0	31	2	20	2	24	6	6	0	15	0	15	0	12	2	7	0	14	0	13	0	13	0	12	1	1	0
+2	nad3	YP_009750558.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	17	2	14	1	1	0	1	0	8	1	2	0	0	0	1	0	2	0	2	1	0	0	2	0	4	1	0	0	0	0	3	2	11	1	2	0	4	0	8	1	6	0	5	1	2	0	2	0	5	1	4	0	2	0	2	0	6	0	10	0	1	0	1	0
+3	atp9	YP_009750559.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	2	3	14	0	2	0	4	0	2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	2	0	3	3	2	0	0	0	0	2	2	0	0	0	1	0	3	0	3	0	4	0	7	0	0	0	1	0	3	0	7	0	1	0
+4	cox2	YP_009750560.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	9	5	31	0	5	0	9	0	11	1	4	0	6	0	1	0	0	0	8	0	6	0	7	0	6	1	0	0	0	0	9	1	15	7	2	0	9	0	12	1	5	0	3	2	5	0	5	0	6	3	8	0	4	0	14	1	12	0	7	0	8	0	1	0
+5	nad4L	YP_009750561.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	3	2	9	2	3	0	1	0	4	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	6	4	11	3	1	0	2	0	3	0	2	0	3	0	3	0	1	0	4	0	4	1	2	0	1	1	2	1	1	0	4	1	1	0
+6	nad5	YP_009750562.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	35	26	74	3	14	0	21	0	32	4	5	0	8	0	2	0	0	0	16	0	4	0	12	1	13	0	3	0	0	0	23	4	65	18	16	0	23	0	22	7	17	2	28	2	6	0	12	0	27	1	23	1	9	3	13	4	13	0	29	1	15	3	1	0
+7	cob	YP_009750563.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	18	12	55	0	4	0	7	0	17	4	1	0	7	0	2	0	0	0	9	0	12	0	9	1	9	0	2	0	0	0	10	6	25	14	6	0	11	0	13	7	10	0	11	0	8	0	6	0	16	1	18	0	10	0	8	0	8	1	14	0	11	3	1	0
+8	cox1	YP_009750564.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	18	26	69	1	11	0	11	0	18	2	1	1	14	0	0	0	0	0	19	0	8	0	10	3	11	0	0	0	0	0	22	2	30	19	12	0	15	0	15	6	11	0	21	0	11	0	15	0	16	1	23	4	11	1	15	0	5	1	23	0	26	4	1	0
+9	nad1	YP_009750565.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	21	10	59	1	5	0	10	2	15	1	3	0	5	0	1	0	2	0	8	0	3	0	2	0	8	0	1	0	0	0	18	1	30	11	6	0	9	0	13	1	7	0	13	0	8	0	3	0	17	3	20	4	6	0	8	0	12	1	10	0	7	2	1	0
+10	nad4	YP_009750566.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	33	10	77	0	9	0	18	0	22	3	4	0	3	0	1	0	0	0	11	0	1	0	3	2	7	0	0	0	0	0	20	3	44	10	6	1	22	0	19	1	12	0	20	0	9	0	7	0	23	0	14	2	9	1	13	0	13	0	15	0	11	3	1	0
+11	atp8	YP_009750567.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	3	2	5	0	1	0	2	0	2	2	0	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	2	0	0	0	3	1	5	3	0	0	1	0	2	0	2	0	0	0	1	0	1	0	2	1	1	0	1	0	0	0	1	0	0	0	0	0	1	0
+12	atp6	YP_009750568.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	12	7	46	1	0	0	12	0	7	2	2	0	1	0	0	0	0	0	3	1	4	0	4	2	7	0	0	0	0	0	4	5	25	6	1	0	13	0	14	3	5	0	7	1	4	0	1	0	14	2	7	2	4	0	3	1	6	1	9	1	10	0	1	0
+13	cox3	YP_009750569.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	16	10	31	1	4	0	8	1	8	4	1	0	8	0	0	0	0	0	8	0	2	0	14	1	4	0	0	0	0	0	5	1	17	6	6	0	17	0	4	2	3	0	8	2	4	0	6	0	14	1	8	0	9	0	4	1	8	0	16	0	6	0	1	0
+14	nad6	YP_009750570.1	Cordyceps confragosa	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Cordyceps	10	4	29	1	5	0	8	0	10	2	0	0	5	0	1	0	1	0	3	0	1	0	2	0	3	0	0	0	0	0	10	0	21	6	2	0	11	1	21	1	2	0	8	1	1	0	2	0	11	0	4	0	3	0	2	1	5	0	8	0	4	0	1	0

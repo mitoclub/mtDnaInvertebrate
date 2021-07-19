@@ -1,65 +1,15 @@
-	YP_009490385.1|ATP6	YP_009490386.1|atp8	YP_009490387.1|nad5	YP_009490388.1|nad4	YP_009490389.1|sdhD	YP_009490390.1|nad2	YP_009490391.1|nad1	YP_009490392.1|nad3	YP_009490393.1|rps11	YP_009490394.1|ATP9	YP_009490395.1|sdhC	YP_009490396.1|sdhB	YP_009490397.1|nad6	YP_009490409.1|orf143
-TTT	25	11	61	47	5	55	17	18	5	6	16	10	16	12
-TTC	1	1	9	7	1	5	5	0	2	0	1	1	4	1
-TTA	29	16	75	67	8	60	42	13	12	8	12	19	22	8
-TTG	9	1	10	8	4	12	9	2	3	2	2	5	5	6
-TCT	3	0	19	6	1	10	6	5	5	0	3	8	6	5
-TCC	0	0	3	2	0	3	1	0	2	0	3	0	2	0
-TCA	5	3	16	7	0	11	5	2	3	1	2	4	3	3
-TCG	3	2	6	3	0	1	3	0	0	1	1	0	1	0
-TAT	6	4	27	21	2	30	9	5	1	2	8	12	2	6
-TAC	1	0	3	1	0	2	4	1	1	0	0	2	1	1
-TGT	2	1	8	6	0	5	1	2	3	0	1	11	2	3
-TGC	0	0	2	2	0	0	2	0	0	0	0	2	0	1
-TGA	0	1	8	10	1	4	5	4	1	0	2	4	2	3
-TGG	3	0	5	1	0	3	5	0	0	0	1	2	0	0
-CTT	6	2	8	6	3	14	2	2	1	0	5	2	5	4
-CTC	0	1	1	0	0	0	1	0	0	0	0	0	0	0
-CTA	3	2	8	6	0	5	3	2	0	2	1	3	0	2
-CTG	0	0	1	2	0	1	1	0	0	0	0	1	0	3
-CCT	5	1	8	9	0	6	6	2	0	0	1	8	1	2
-CCC	0	0	2	2	0	1	1	0	0	0	0	4	0	0
-CCA	4	1	8	5	0	5	8	1	0	1	1	2	0	0
-CCG	1	1	0	1	0	2	0	0	0	0	0	0	0	0
-CAT	6	1	9	3	2	2	1	0	3	0	3	4	2	3
-CAC	0	0	2	2	0	0	0	0	1	0	1	2	1	0
-CAA	5	4	11	12	0	9	6	1	1	3	3	10	9	7
-CAG	0	2	2	2	0	2	0	0	0	0	0	1	0	0
-CGT	0	2	5	4	1	2	4	0	1	1	1	3	0	1
-CGC	0	0	0	0	1	0	0	0	0	0	0	1	0	1
-CGA	0	0	2	3	0	1	1	1	1	0	0	3	3	2
-CGG	0	0	0	1	0	1	2	0	1	0	0	0	0	0
-ATT	11	12	34	33	10	35	14	11	7	3	15	9	17	10
-ATC	1	0	4	2	1	1	2	2	2	1	0	1	2	0
-ATA	20	5	27	15	7	19	12	3	4	1	5	10	5	8
-ATG	6	2	17	11	3	12	14	2	3	5	4	6	7	2
-ACT	7	4	11	7	1	13	6	2	1	6	1	8	5	1
-ACC	2	0	3	4	0	1	1	1	1	0	0	1	2	0
-ACA	9	2	11	15	0	4	6	2	4	0	1	3	3	0
-ACG	1	1	6	3	1	6	1	0	2	0	0	0	0	1
-AAT	13	7	25	14	2	16	9	2	12	2	6	18	10	7
-AAC	0	1	5	2	0	2	1	0	2	0	1	0	1	1
-AAA	3	16	15	7	2	9	9	3	16	2	4	15	8	11
-AAG	2	2	2	3	1	3	0	2	2	0	1	4	1	1
-AGT	4	1	15	9	3	18	5	1	0	1	4	5	2	4
-AGC	2	0	1	2	0	4	1	2	0	0	0	1	1	2
-AGA	1	0	6	2	1	4	2	1	0	0	1	7	1	1
-AGG	0	0	2	2	0	0	0	0	0	0	0	0	0	2
-GTT	5	3	24	16	1	18	14	1	2	0	2	2	13	2
-GTC	1	1	3	2	1	2	2	1	0	0	0	0	0	1
-GTA	6	5	16	15	4	5	9	1	3	4	1	1	9	2
-GTG	2	0	1	3	0	1	0	0	0	2	1	1	0	0
-GCT	5	2	12	11	0	13	12	4	0	1	1	5	3	0
-GCC	0	0	3	0	0	1	2	0	0	3	0	0	0	0
-GCA	6	0	16	11	0	11	10	1	0	5	0	5	7	1
-GCG	3	0	3	3	0	4	5	0	2	2	1	0	1	0
-GAT	2	6	12	7	2	7	3	5	1	0	1	10	3	3
-GAC	0	1	1	0	1	1	1	0	0	0	1	1	0	1
-GAA	6	4	12	13	2	10	9	8	2	1	1	4	3	4
-GAG	2	0	2	2	2	2	2	0	0	0	0	1	1	2
-GGT	7	2	19	14	1	14	14	0	2	7	2	3	3	1
-GGC	3	0	2	3	1	0	0	0	0	0	0	2	2	0
-GGA	3	0	20	11	2	8	6	2	3	3	1	3	5	0
-GGG	3	1	9	3	1	2	4	3	1	0	1	0	0	0
-TAA	1	1	0	1	1	1	1	0	1	1	1	1	1	1
-TAG	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ATP6	YP_009490385.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	25	1	29	9	3	0	5	3	6	1	2	0	0	3	6	0	3	0	5	0	4	1	6	0	5	0	0	0	0	0	11	1	20	6	7	2	9	1	13	0	3	2	4	2	1	0	5	1	6	2	5	0	6	3	2	0	6	2	7	3	3	3	1	0
+1	atp8	YP_009490386.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	11	1	16	1	0	0	3	2	4	0	1	0	1	0	2	1	2	0	1	0	1	1	1	0	4	2	2	0	0	0	12	0	5	2	4	0	2	1	7	1	16	2	1	0	0	0	3	1	5	0	2	0	0	0	6	1	4	0	2	0	0	1	1	0
+2	nad5	YP_009490387.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	61	9	75	10	19	3	16	6	27	3	8	2	8	5	8	1	8	1	8	2	8	0	9	2	11	2	5	0	2	0	34	4	27	17	11	3	11	6	25	5	15	2	15	1	6	2	24	3	16	1	12	3	16	3	12	1	12	2	19	2	20	9	0	1
+3	nad4	YP_009490388.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	47	7	67	8	6	2	7	3	21	1	6	2	10	1	6	0	6	2	9	2	5	1	3	2	12	2	4	0	3	1	33	2	15	11	7	4	15	3	14	2	7	3	9	2	2	2	16	2	15	3	11	0	11	3	7	0	13	2	14	3	11	3	1	0
+4	sdhD	YP_009490389.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	5	1	8	4	1	0	0	0	2	0	0	0	1	0	3	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	10	1	7	3	1	0	0	1	2	0	2	1	3	0	1	0	1	1	4	0	0	0	0	0	2	1	2	2	1	1	2	1	1	0
+5	nad2	YP_009490390.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	55	5	60	12	10	3	11	1	30	2	5	0	4	3	14	0	5	1	6	1	5	2	2	0	9	2	2	0	1	1	35	1	19	12	13	1	4	6	16	2	9	3	18	4	4	0	18	2	5	1	13	1	11	4	7	1	10	2	14	0	8	2	1	0
+6	nad1	YP_009490391.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	17	5	42	9	6	1	5	3	9	4	1	2	5	5	2	1	3	1	6	1	8	0	1	0	6	0	4	0	1	2	14	2	12	14	6	1	6	1	9	1	9	0	5	1	2	0	14	2	9	0	12	2	10	5	3	1	9	2	14	0	6	4	1	0
+7	nad3	YP_009490392.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	18	0	13	2	5	0	2	0	5	1	2	0	4	0	2	0	2	0	2	0	1	0	0	0	1	0	0	0	1	0	11	2	3	2	2	1	2	0	2	0	3	2	1	2	1	0	1	1	1	0	4	0	1	0	5	0	8	0	0	0	2	3	0	1
+8	rps11	YP_009490393.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	5	2	12	3	5	2	3	0	1	1	3	0	1	0	1	0	0	0	0	0	0	0	3	1	1	0	1	0	1	1	7	2	4	3	1	1	4	2	12	2	16	2	0	0	0	0	2	0	3	0	0	0	0	2	1	0	2	0	2	0	3	1	1	0
+9	ATP9	YP_009490394.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	6	0	8	2	0	0	1	1	2	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	3	0	1	0	0	0	3	1	1	5	6	0	0	0	2	0	2	0	1	0	0	0	0	0	4	2	1	3	5	2	0	0	1	0	7	0	3	0	1	0
+10	sdhC	YP_009490395.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	16	1	12	2	3	3	2	1	8	0	1	0	2	1	5	0	1	0	1	0	1	0	3	1	3	0	1	0	0	0	15	0	5	4	1	0	1	0	6	1	4	1	4	0	1	0	2	0	1	1	1	0	0	1	1	1	1	0	2	0	1	1	1	0
+11	sdhB	YP_009490396.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	10	1	19	5	8	0	4	0	12	2	11	2	4	2	2	0	3	1	8	4	2	0	4	2	10	1	3	1	3	0	9	1	10	6	8	1	3	0	18	0	15	4	5	1	7	0	2	0	1	1	5	0	5	0	10	1	4	1	3	2	3	0	1	0
+12	nad6	YP_009490397.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	16	4	22	5	6	2	3	1	2	1	2	0	2	0	5	0	0	0	1	0	0	0	2	1	9	0	0	0	3	0	17	2	5	7	5	2	3	0	10	1	8	1	2	1	1	0	13	0	9	0	3	0	7	1	3	0	3	1	3	2	5	0	1	0
+13	orf143	YP_009490409.1	Gracilaria spinulosa	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilaria	12	1	8	6	5	0	3	0	6	1	3	1	3	0	4	0	2	3	2	0	0	0	3	0	7	0	1	1	2	0	10	0	8	2	1	0	0	1	7	1	11	1	4	2	1	2	2	1	2	0	0	0	1	0	3	1	4	2	1	0	0	0	1	0

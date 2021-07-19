@@ -1,65 +1,13 @@
-	YP_009236600.1	YP_009236601.1	YP_009236602.1	YP_009236603.1	YP_009236604.1	YP_009236605.1	YP_009236606.1	YP_009236607.1	YP_009236608.1	YP_009236609.1	YP_009236610.1	YP_009236612.1
-TTT	5	4	22	3	1	6	6	2	2	6	10	14
-TTC	13	6	20	4	1	2	11	3	1	11	18	20
-TTA	6	4	11	2	2	11	2	2	2	12	9	7
-TTG	1	0	1	0	0	0	1	0	0	1	2	0
-TCT	4	1	8	2	0	2	1	2	2	5	4	6
-TCC	10	8	8	2	0	5	2	1	0	8	16	7
-TCA	13	11	10	9	1	4	10	0	3	10	17	13
-TCG	0	1	1	0	0	0	0	0	0	0	1	0
-TAT	2	2	7	3	1	2	5	1	1	4	7	6
-TAC	8	3	12	4	1	3	7	2	0	7	7	7
-TGT	0	2	0	1	0	0	0	1	1	1	1	1
-TGC	2	0	3	2	0	1	1	0	1	3	1	1
-TGA	8	9	17	5	3	2	11	3	0	8	7	8
-TGG	0	0	2	0	0	0	1	0	0	2	2	3
-CTT	4	10	11	6	2	8	7	3	4	11	16	8
-CTC	11	4	9	4	0	11	3	6	4	13	16	9
-CTA	30	28	24	15	4	23	18	10	11	44	47	21
-CTG	3	3	4	3	3	3	5	1	0	6	4	0
-CCT	4	2	3	1	0	2	1	0	0	4	2	3
-CCC	9	10	12	4	2	5	2	3	1	11	12	6
-CCA	8	7	16	8	4	4	8	4	1	9	11	11
-CCG	0	1	3	1	0	1	0	0	0	1	2	1
-CAT	0	1	3	5	0	0	0	0	1	6	3	4
-CAC	2	8	16	7	0	3	15	0	2	6	8	10
-CAA	5	5	6	10	1	4	6	3	1	14	20	6
-CAG	2	2	3	0	0	3	1	0	1	0	1	1
-CGT	0	0	2	0	0	0	0	1	0	1	0	0
-CGC	1	0	2	1	0	2	1	0	0	1	1	2
-CGA	5	4	4	4	0	2	3	0	1	6	6	4
-CGG	1	0	1	1	0	0	0	0	0	1	0	0
-ATT	8	11	21	5	5	7	5	10	1	16	29	14
-ATC	16	20	26	10	0	12	8	5	7	23	36	30
-ATA	24	34	26	6	1	14	12	5	11	32	35	14
-ATG	1	2	7	3	1	3	1	0	1	2	6	4
-ACT	1	8	8	5	3	3	5	0	4	5	10	3
-ACC	13	28	21	6	1	8	8	8	4	20	28	14
-ACA	14	29	15	10	6	11	12	8	2	30	31	18
-ACG	1	1	1	1	0	0	1	0	1	3	3	1
-AAT	4	3	5	0	0	5	1	1	0	3	14	8
-AAC	11	13	13	4	0	6	3	3	3	12	20	11
-AAA	7	11	11	3	5	6	5	1	3	10	22	9
-AAG	1	0	1	0	0	1	0	1	0	1	0	0
-AGT	0	0	1	0	0	0	1	0	1	2	2	0
-AGC	1	3	5	1	0	6	3	3	1	4	10	1
-GTT	0	0	4	1	0	1	2	1	3	2	3	0
-GTC	5	3	12	2	1	4	5	0	1	2	3	3
-GTA	5	3	8	10	1	2	10	1	1	4	7	3
-GTG	0	0	5	1	0	1	3	0	0	0	1	0
-GCT	3	2	0	2	1	2	0	1	1	4	9	5
-GCC	7	7	15	8	1	8	7	1	2	15	10	15
-GCA	10	12	20	8	1	5	8	3	3	14	18	5
-GCG	0	1	0	0	0	0	0	0	0	1	0	0
-GAT	0	0	6	3	0	0	3	2	0	2	5	1
-GAC	3	1	7	6	1	0	2	1	1	1	5	5
-GAA	11	5	8	13	0	5	6	4	2	8	12	7
-GAG	1	1	1	3	0	0	2	1	0	2	0	0
-GGT	3	1	5	4	0	0	2	1	0	1	3	3
-GGC	6	2	15	4	0	4	6	1	1	6	10	10
-GGA	4	5	19	1	0	3	9	3	1	5	10	6
-GGG	3	1	6	1	0	0	3	0	1	3	2	2
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009236600.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	5	13	6	1	4	10	13	0	2	8	0	2	8	0	4	11	30	3	4	9	8	0	0	2	5	2	0	1	5	1	8	16	24	1	1	13	14	1	4	11	7	1	0	1	0	5	5	0	3	7	10	0	0	3	11	1	3	6	4	3	0	0	0	0
+1	None	YP_009236601.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	4	6	4	0	1	8	11	1	2	3	2	0	9	0	10	4	28	3	2	10	7	1	1	8	5	2	0	0	4	0	11	20	34	2	8	28	29	1	3	13	11	0	0	3	0	3	3	0	2	7	12	1	0	1	5	1	1	2	5	1	0	0	0	0
+2	None	YP_009236602.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	22	20	11	1	8	8	10	1	7	12	0	3	17	2	11	9	24	4	3	12	16	3	3	16	6	3	2	2	4	1	21	26	26	7	8	21	15	1	5	13	11	1	1	5	4	12	8	5	0	15	20	0	6	7	8	1	5	15	19	6	0	0	1	0
+3	None	YP_009236603.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	3	4	2	0	2	2	9	0	3	4	1	2	5	0	6	4	15	3	1	4	8	1	5	7	10	0	0	1	4	1	5	10	6	3	5	6	10	1	0	4	3	0	0	1	1	2	10	1	2	8	8	0	3	6	13	3	4	4	1	1	0	0	0	0
+4	None	YP_009236604.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	1	1	2	0	0	0	1	0	1	1	0	0	3	0	2	0	4	3	0	2	4	0	0	0	1	0	0	0	0	0	5	0	1	1	3	1	6	0	0	0	5	0	0	0	0	1	1	0	1	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0
+5	None	YP_009236605.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	6	2	11	0	2	5	4	0	2	3	0	1	2	0	8	11	23	3	2	5	4	1	0	3	4	3	0	2	2	0	7	12	14	3	3	8	11	0	5	6	6	1	0	6	1	4	2	1	2	8	5	0	0	0	5	0	0	4	3	0	1	0	0	0
+6	None	YP_009236606.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	6	11	2	1	1	2	10	0	5	7	0	1	11	1	7	3	18	5	1	2	8	0	0	15	6	1	0	1	3	0	5	8	12	1	5	8	12	1	1	3	5	0	1	3	2	5	10	3	0	7	8	0	3	2	6	2	2	6	9	3	0	0	0	0
+7	None	YP_009236607.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	2	3	2	0	2	1	0	0	1	2	1	0	3	0	3	6	10	1	0	3	4	0	0	0	3	0	1	0	0	0	10	5	5	0	0	8	8	0	1	3	1	1	0	3	1	0	1	0	1	1	3	0	2	1	4	1	1	1	3	0	0	0	0	0
+8	None	YP_009236608.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	2	1	2	0	2	0	3	0	1	0	1	1	0	0	4	4	11	0	0	1	1	0	1	2	1	1	0	0	1	0	1	7	11	1	4	4	2	1	0	3	3	0	1	1	3	1	1	0	1	2	3	0	0	1	2	0	0	1	1	1	1	0	0	0
+9	None	YP_009236609.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	6	11	12	1	5	8	10	0	4	7	1	3	8	2	11	13	44	6	4	11	9	1	6	6	14	0	1	1	6	1	16	23	32	2	5	20	30	3	3	12	10	1	2	4	2	2	4	0	4	15	14	1	2	1	8	2	1	6	5	3	0	0	0	1
+10	None	YP_009236610.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	10	18	9	2	4	16	17	1	7	7	1	1	7	2	16	16	47	4	2	12	11	2	3	8	20	1	0	1	6	0	29	36	35	6	10	28	31	3	14	20	22	0	2	10	3	3	7	1	9	10	18	0	5	5	12	0	3	10	10	2	1	0	0	0
+11	None	YP_009236612.1	Trimeresurus sichuanensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Trimeresurus	14	20	7	0	6	7	13	0	6	7	1	1	8	3	8	9	21	0	3	6	11	1	4	10	6	1	0	2	4	0	14	30	14	4	3	14	18	1	8	11	9	0	0	1	0	3	3	0	5	15	5	0	1	5	7	0	3	10	6	2	0	0	0	0

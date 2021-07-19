@@ -1,65 +1,13 @@
-	YP_009311008.1|ND1	YP_009311009.1|ND2	YP_009311010.1|COX1	YP_009311011.1|COX2	YP_009311012.1|ATP8	YP_009311013.1|ATP6	YP_009311014.1|COX3	YP_009311015.1|ND3	YP_009311016.1|ND4L	YP_009311017.1|ND4	YP_009311018.1|ND5	YP_009311020.1|CYTB
-TTT	6	5	14	2	2	8	11	5	6	8	15	11
-TTC	11	5	26	7	1	3	11	4	2	8	26	17
-TTA	19	14	13	8	2	7	8	7	4	26	17	13
-TTG	1	3	0	0	0	0	0	0	0	0	1	0
-TCT	2	2	8	1	0	0	1	0	2	3	3	2
-TCC	2	5	3	6	2	1	3	3	2	7	6	5
-TCA	14	9	15	6	0	5	7	2	2	13	15	14
-TCG	0	0	1	0	0	0	0	0	0	0	2	0
-TAT	8	5	11	6	0	3	6	2	0	7	5	8
-TAC	4	3	8	3	0	2	6	0	0	8	6	7
-TGT	0	1	0	0	0	0	0	1	0	2	2	1
-TGC	0	0	2	2	0	0	2	0	3	3	3	2
-TGA	8	11	16	5	5	5	12	5	1	20	13	11
-TGG	0	0	1	0	0	0	0	0	0	0	0	1
-CTT	6	5	18	8	0	8	5	5	1	11	12	10
-CTC	6	3	6	0	0	3	6	2	3	11	10	10
-CTA	26	32	22	11	3	22	13	12	13	34	40	28
-CTG	3	5	4	1	0	5	1	1	2	6	9	2
-CCT	1	3	5	1	0	1	1	0	1	2	5	2
-CCC	3	5	5	2	1	1	3	1	1	3	1	2
-CCA	20	9	17	11	7	15	8	6	0	22	19	18
-CCG	0	2	1	0	0	0	1	1	0	0	1	0
-CAT	0	1	5	2	0	2	7	0	1	4	4	5
-CAC	4	5	15	8	2	1	9	1	3	9	9	7
-CAA	7	13	8	7	1	8	9	3	3	13	18	6
-CAG	0	1	0	1	0	0	0	0	0	0	2	1
-CGT	1	2	0	1	0	0	1	1	0	0	1	1
-CGC	1	0	2	1	0	1	1	0	1	1	1	2
-CGA	5	2	7	4	0	5	3	1	2	10	8	4
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	15	14	25	8	4	18	10	8	2	21	32	18
-ATC	9	11	11	9	1	6	5	3	0	15	29	15
-ATA	9	19	20	9	0	11	7	2	4	23	37	13
-ATG	3	3	3	3	1	1	2	1	1	4	4	1
-ACT	2	4	8	2	2	3	5	0	1	6	1	5
-ACC	6	20	7	2	2	3	4	3	3	12	22	8
-ACA	11	27	21	6	1	13	13	5	4	22	33	11
-ACG	1	2	0	0	0	1	0	0	0	1	1	0
-AAT	2	6	9	2	2	7	1	1	0	2	11	3
-AAC	12	5	5	4	1	3	0	2	2	10	18	14
-AAA	7	9	8	3	3	1	2	1	0	8	24	8
-AAG	0	0	0	1	0	0	0	0	0	1	1	1
-AGT	0	0	0	2	1	1	0	0	0	1	1	0
-AGC	3	5	4	1	0	3	3	0	3	5	10	1
-GTT	2	3	12	6	1	3	4	0	0	1	6	3
-GTC	0	0	5	2	0	1	1	1	0	5	2	5
-GTA	14	5	26	14	2	11	10	2	2	15	12	14
-GTG	3	0	2	0	0	0	0	0	0	0	0	1
-GCT	2	7	8	1	0	3	3	1	0	6	6	6
-GCC	15	15	19	6	1	7	12	3	5	12	29	6
-GCA	15	15	18	7	1	9	8	3	8	16	18	13
-GCG	1	0	1	2	0	0	0	0	0	0	0	1
-GAT	2	0	4	4	0	0	2	0	0	0	4	1
-GAC	2	4	10	8	1	1	3	4	1	3	11	9
-GAA	10	5	11	14	3	4	10	6	3	10	9	8
-GAG	1	0	0	1	0	0	0	0	0	1	1	0
-GGT	0	0	10	0	0	0	0	0	0	4	2	1
-GGC	1	2	4	1	1	2	5	3	1	7	10	3
-GGA	16	14	23	6	0	8	14	3	5	12	17	21
-GGG	1	2	9	2	0	1	2	1	0	6	2	0
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311008.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	6	11	19	1	2	2	14	0	8	4	0	0	8	0	6	6	26	3	1	3	20	0	0	4	7	0	1	1	5	1	15	9	9	3	2	6	11	1	2	12	7	0	0	3	2	0	14	3	2	15	15	1	2	2	10	1	0	1	16	1	1	0	0	0
+1	ND2	YP_009311009.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	5	5	14	3	2	5	9	0	5	3	1	0	11	0	5	3	32	5	3	5	9	2	1	5	13	1	2	0	2	0	14	11	19	3	4	20	27	2	6	5	9	0	0	5	3	0	5	0	7	15	15	0	0	4	5	0	0	2	14	2	0	0	0	0
+2	COX1	YP_009311010.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	14	26	13	0	8	3	15	1	11	8	0	2	16	1	18	6	22	4	5	5	17	1	5	15	8	0	0	2	7	0	25	11	20	3	8	7	21	0	9	5	8	0	0	4	12	5	26	2	8	19	18	1	4	10	11	0	10	4	23	9	1	0	0	0
+3	COX2	YP_009311011.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	2	7	8	0	1	6	6	0	6	3	0	2	5	0	8	0	11	1	1	2	11	0	2	8	7	1	1	1	4	0	8	9	9	3	2	2	6	0	2	4	3	1	2	1	6	2	14	0	1	6	7	2	4	8	14	1	0	1	6	2	0	0	0	0
+4	ATP8	YP_009311012.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	2	1	2	0	0	2	0	0	0	0	0	0	5	0	0	0	3	0	0	1	7	0	0	2	1	0	0	0	0	0	4	1	0	1	2	2	1	0	2	1	3	0	1	0	1	0	2	0	0	1	1	0	0	1	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009311013.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	8	3	7	0	0	1	5	0	3	2	0	0	5	0	8	3	22	5	1	1	15	0	2	1	8	0	0	1	5	0	18	6	11	1	3	3	13	1	7	3	1	0	1	3	3	1	11	0	3	7	9	0	0	1	4	0	0	2	8	1	0	0	0	0
+6	COX3	YP_009311014.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	11	11	8	0	1	3	7	0	6	6	0	2	12	0	5	6	13	1	1	3	8	1	7	9	9	0	1	1	3	0	10	5	7	2	5	4	13	0	1	0	2	0	0	3	4	1	10	0	3	12	8	0	2	3	10	0	0	5	14	2	0	0	0	0
+7	ND3	YP_009311015.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	5	4	7	0	0	3	2	0	2	0	1	0	5	0	5	2	12	1	0	1	6	1	0	1	3	0	1	0	1	0	8	3	2	1	0	3	5	0	1	2	1	0	0	0	0	1	2	0	1	3	3	0	0	4	6	0	0	3	3	1	0	0	0	0
+8	ND4L	YP_009311016.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	6	2	4	0	2	2	2	0	0	0	0	3	1	0	1	3	13	2	1	1	0	0	1	3	3	0	0	1	2	0	2	0	4	1	1	3	4	0	0	2	0	0	0	3	0	0	2	0	0	5	8	0	0	1	3	0	0	1	5	0	1	0	0	0
+9	ND4	YP_009311017.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	8	8	26	0	3	7	13	0	7	8	2	3	20	0	11	11	34	6	2	3	22	0	4	9	13	0	0	1	10	0	21	15	23	4	6	12	22	1	2	10	8	1	1	5	1	5	15	0	6	12	16	0	0	3	10	1	4	7	12	6	0	0	0	0
+10	ND5	YP_009311018.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	15	26	17	1	3	6	15	2	5	6	2	3	13	0	12	10	40	9	5	1	19	1	4	9	18	2	1	1	8	0	32	29	37	4	1	22	33	1	11	18	24	1	1	10	6	2	12	0	6	29	18	0	4	11	9	1	2	10	17	2	1	0	0	0
+11	CYTB	YP_009311020.1	Systomus orphoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Systomus	11	17	13	0	2	5	14	0	8	7	1	2	11	1	10	10	28	2	2	2	18	0	5	7	6	1	1	2	4	0	18	15	13	1	5	8	11	0	3	14	8	1	0	1	3	5	14	1	6	6	13	1	1	9	8	0	1	3	21	0	0	0	0	0

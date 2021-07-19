@@ -1,65 +1,13 @@
-	NP_861476.1|ND1	NP_861477.1|ND2	NP_861478.1|COX1	NP_861479.1|COX2	NP_861480.1|ATP8	NP_861481.1|ATP6	NP_861482.1|COX3	NP_861483.1|ND3	NP_861484.1|ND4L	NP_861485.1|ND4	NP_861486.1|ND5	NP_861488.1|CYTB
-TTT	4	2	10	1	1	7	7	2	0	5	9	5
-TTC	12	10	33	6	0	5	14	6	4	10	28	18
-TTA	7	7	11	6	2	8	4	1	3	8	13	6
-TTG	0	0	2	1	1	5	2	0	0	1	2	1
-TCT	1	1	6	5	1	1	1	2	2	2	8	1
-TCC	6	9	14	4	1	3	6	1	3	10	8	5
-TCA	10	17	8	8	0	6	9	4	2	14	18	11
-TCG	0	1	0	0	0	0	0	0	0	0	2	0
-TAT	7	1	3	3	1	1	1	0	1	3	7	3
-TAC	5	8	15	6	2	3	10	4	4	13	15	13
-TGT	0	0	0	0	0	0	1	0	1	0	0	1
-TGC	1	0	1	2	0	0	1	1	2	4	6	3
-TGA	9	9	16	5	3	3	12	4	0	12	12	10
-TGG	0	0	1	0	0	0	0	0	0	0	1	1
-CTT	5	3	5	4	0	1	2	3	4	8	12	6
-CTC	3	7	7	4	0	2	4	3	3	13	10	13
-CTA	37	34	29	13	3	27	18	17	10	49	54	37
-CTG	6	3	5	5	0	2	4	1	2	11	4	2
-CCT	1	2	6	2	3	2	1	1	0	0	2	1
-CCC	4	8	9	4	5	6	2	5	1	8	10	7
-CCA	16	10	12	7	3	3	8	1	0	16	12	14
-CCG	1	0	2	1	0	1	1	0	0	0	2	0
-CAT	0	0	4	1	0	1	4	0	0	3	5	3
-CAC	3	7	13	5	1	6	12	0	2	9	9	11
-CAA	5	7	5	5	3	8	7	2	3	10	16	5
-CAG	1	2	1	2	1	0	0	1	0	0	0	1
-CGT	0	0	2	1	0	0	0	0	0	1	0	1
-CGC	2	0	0	0	0	2	3	1	1	0	0	0
-CGA	6	4	5	6	0	3	2	0	0	7	9	6
-CGG	0	0	1	0	0	0	0	0	0	2	0	1
-ATT	6	16	14	13	5	5	5	2	3	18	17	13
-ATC	19	28	24	8	2	16	4	6	7	22	36	22
-ATA	19	35	24	12	4	6	8	4	7	27	40	14
-ATG	4	2	5	3	2	5	4	1	2	10	2	2
-ACT	5	5	4	3	1	5	2	2	2	8	10	2
-ACC	11	20	10	6	5	10	11	0	1	27	33	12
-ACA	12	16	21	10	2	9	11	4	1	23	21	16
-ACG	0	0	1	0	1	1	1	0	0	0	1	1
-AAT	1	2	5	1	2	3	2	0	0	7	7	3
-AAC	13	17	14	5	1	8	4	4	5	16	24	14
-AAA	8	10	8	4	6	4	4	3	0	10	25	9
-AAG	0	0	1	0	1	1	0	0	0	1	0	0
-AGT	0	2	0	0	0	1	1	0	0	0	3	0
-AGC	3	3	3	3	1	2	2	2	1	9	7	2
-GTT	0	0	8	1	0	0	1	0	1	1	1	2
-GTC	4	2	7	1	1	2	4	1	0	1	4	2
-GTA	8	2	23	8	1	8	9	2	4	6	14	10
-GTG	2	0	3	0	0	1	4	1	0	1	1	1
-GCT	3	1	9	0	0	2	1	0	1	4	5	2
-GCC	7	9	16	4	0	10	10	8	3	12	14	11
-GCA	15	4	14	3	1	7	3	2	5	7	19	12
-GCG	1	0	2	0	0	1	0	0	0	0	0	0
-GAT	1	0	5	5	0	0	3	0	1	1	1	3
-GAC	2	0	9	6	0	1	2	3	0	2	7	9
-GAA	9	6	8	15	0	3	5	6	2	9	12	6
-GAG	2	0	2	1	0	0	3	0	0	0	0	0
-GGT	1	2	6	0	0	0	1	0	1	3	1	3
-GGC	1	2	10	3	0	2	7	0	1	2	10	4
-GGA	7	11	26	4	0	5	11	3	1	13	16	17
-GGG	2	0	5	1	0	2	2	1	1	0	0	1
-TAA	0	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_861476.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	4	12	7	0	1	6	10	0	7	5	0	1	9	0	5	3	37	6	1	4	16	1	0	3	5	1	0	2	6	0	6	19	19	4	5	11	12	0	1	13	8	0	0	3	0	4	8	2	3	7	15	1	1	2	9	2	1	1	7	2	0	0	0	0
+1	ND2	NP_861477.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	2	10	7	0	1	9	17	1	1	8	0	0	9	0	3	7	34	3	2	8	10	0	0	7	7	2	0	0	4	0	16	28	35	2	5	20	16	0	2	17	10	0	2	3	0	2	2	0	1	9	4	0	0	0	6	0	2	2	11	0	0	1	0	0
+2	COX1	NP_861478.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	10	33	11	2	6	14	8	0	3	15	0	1	16	1	5	7	29	5	6	9	12	2	4	13	5	1	2	0	5	1	14	24	24	5	4	10	21	1	5	14	8	1	0	3	8	7	23	3	9	16	14	2	5	9	8	2	6	10	26	5	0	0	0	0
+3	COX2	NP_861479.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	1	6	6	1	5	4	8	0	3	6	0	2	5	0	4	4	13	5	2	4	7	1	1	5	5	2	1	0	6	0	13	8	12	3	3	6	10	0	1	5	4	0	0	3	1	1	8	0	0	4	3	0	5	6	15	1	0	3	4	1	1	0	0	0
+4	ATP8	NP_861480.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	1	0	2	1	1	1	0	0	1	2	0	0	3	0	0	0	3	0	3	5	3	0	0	1	3	1	0	0	0	0	5	2	4	2	1	5	2	1	2	1	6	1	0	1	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_861481.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	7	5	8	5	1	3	6	0	1	3	0	0	3	0	1	2	27	2	2	6	3	1	1	6	8	0	0	2	3	0	5	16	6	5	5	10	9	1	3	8	4	1	1	2	0	2	8	1	2	10	7	1	0	1	3	0	0	2	5	2	1	0	0	0
+6	COX3	NP_861482.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	7	14	4	2	1	6	9	0	1	10	1	1	12	0	2	4	18	4	1	2	8	1	4	12	7	0	0	3	2	0	5	4	8	4	2	11	11	1	2	4	4	0	1	2	1	4	9	4	1	10	3	0	3	2	5	3	1	7	11	2	0	0	0	0
+7	ND3	NP_861483.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	2	6	1	0	2	1	4	0	0	4	0	1	4	0	3	3	17	1	1	5	1	0	0	0	2	1	0	1	0	0	2	6	4	1	2	0	4	0	0	4	3	0	0	2	0	1	2	1	0	8	2	0	0	3	6	0	0	0	3	1	0	0	0	0
+8	ND4L	NP_861484.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	0	4	3	0	2	3	2	0	1	4	1	2	0	0	4	3	10	2	0	1	0	0	0	2	3	0	0	1	0	0	3	7	7	2	2	1	1	0	0	5	0	0	0	1	1	0	4	0	1	3	5	0	1	0	2	0	1	1	1	1	1	0	0	0
+9	ND4	NP_861485.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	5	10	8	1	2	10	14	0	3	13	0	4	12	0	8	13	49	11	0	8	16	0	3	9	10	0	1	0	7	2	18	22	27	10	8	27	23	0	7	16	10	1	0	9	1	1	6	1	4	12	7	0	1	2	9	0	3	2	13	0	0	0	0	0
+10	ND5	NP_861486.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	9	28	13	2	8	8	18	2	7	15	0	6	12	1	12	10	54	4	2	10	12	2	5	9	16	0	0	0	9	0	17	36	40	2	10	33	21	1	7	24	25	0	3	7	1	4	14	1	5	14	19	0	1	7	12	0	1	10	16	0	1	0	0	0
+11	CYTB	NP_861488.1	Procavia capensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Hyracoidea, Procaviidae, Procavia	5	18	6	1	1	5	11	0	3	13	1	3	10	1	6	13	37	2	1	7	14	0	3	11	5	1	1	0	6	1	13	22	14	2	2	12	16	1	3	14	9	0	0	2	2	2	10	1	2	11	12	0	3	9	6	0	3	4	17	1	1	0	0	0

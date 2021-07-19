@@ -1,65 +1,13 @@
-	YP_003434416.1|ND1	YP_003434417.1|ND2	YP_003434418.1|COX1	YP_003434419.1|COX2	YP_003434420.1|ATP8	YP_003434421.1|ATP6	YP_003434422.1|COX3	YP_003434423.1|ND3	YP_003434424.1|ND4L	YP_003434425.1|ND4	YP_003434426.1|ND5	YP_003434428.1|CYTB
-TTT	6	3	17	5	1	3	9	2	1	9	14	6
-TTC	12	9	25	5	4	7	15	6	4	6	23	21
-TTA	7	10	6	2	0	10	4	1	1	10	6	9
-TTG	0	1	0	0	0	0	0	0	0	1	0	0
-TCT	2	2	7	2	0	0	2	1	3	3	5	5
-TCC	6	5	6	4	1	2	6	5	1	10	11	10
-TCA	9	8	9	6	1	0	3	1	5	6	10	8
-TCG	0	0	1	0	0	0	0	0	0	0	1	0
-TAT	5	0	4	2	0	1	4	2	2	4	5	1
-TAC	6	7	14	6	0	4	8	2	0	9	4	13
-TGT	0	0	0	0	0	0	1	0	1	2	2	1
-TGC	0	0	1	2	0	0	1	1	2	2	4	3
-TGA	8	11	16	5	5	5	12	5	1	16	12	11
-TGG	0	0	1	0	0	0	0	0	0	3	2	1
-CTT	10	10	15	9	1	13	7	5	5	9	18	10
-CTC	15	18	14	5	2	18	8	14	6	29	31	14
-CTA	28	25	24	10	4	14	11	6	11	39	37	21
-CTG	3	9	5	2	0	2	3	2	1	7	8	5
-CCT	4	4	6	3	0	4	2	3	2	5	5	6
-CCC	14	15	11	7	6	7	8	3	0	17	17	10
-CCA	6	4	8	4	2	4	2	0	0	5	8	4
-CCG	0	1	3	0	0	1	0	2	0	0	2	1
-CAT	0	2	3	3	0	3	0	0	0	2	2	4
-CAC	4	6	16	7	1	1	17	0	4	9	14	7
-CAA	7	12	5	8	3	9	8	2	2	13	17	5
-CAG	0	3	2	1	0	0	0	1	1	0	2	0
-CGT	0	0	0	2	0	0	1	0	0	1	1	0
-CGC	0	2	2	1	0	0	0	0	1	2	5	0
-CGA	8	2	3	2	0	3	4	2	2	7	3	10
-CGG	0	0	3	1	0	3	0	0	0	1	0	0
-ATT	12	11	23	14	1	10	8	4	1	19	19	10
-ATC	13	13	15	7	2	8	8	4	1	14	29	20
-ATA	8	13	11	7	0	3	5	1	2	18	19	10
-ATG	2	4	13	5	1	6	2	2	2	10	11	2
-ACT	3	7	3	1	0	3	2	1	1	6	7	3
-ACC	10	23	13	2	1	8	6	4	4	26	36	16
-ACA	6	14	19	5	5	11	11	3	1	12	19	6
-ACG	1	0	1	0	0	0	3	0	0	1	2	0
-AAT	3	3	5	1	1	1	0	0	0	2	7	2
-AAC	9	10	9	3	3	7	1	1	1	9	26	18
-AAA	5	8	8	3	1	1	2	0	0	10	20	8
-AAG	2	0	0	1	0	0	0	1	0	0	0	1
-AGT	1	1	0	0	0	0	1	0	0	0	2	0
-AGC	2	3	4	3	2	6	2	0	2	7	12	1
-GTT	4	2	6	5	0	4	5	0	2	4	2	6
-GTC	10	1	13	5	1	4	4	6	0	8	11	7
-GTA	5	2	21	4	0	2	7	0	1	5	11	11
-GTG	1	0	3	4	0	1	0	0	0	0	2	0
-GCT	2	9	1	1	0	2	3	0	0	4	6	3
-GCC	21	24	28	8	4	15	12	5	9	19	34	17
-GCA	11	6	17	9	0	3	5	2	5	13	11	13
-GCG	0	1	4	1	0	0	1	0	0	0	2	0
-GAT	3	0	3	2	0	0	2	1	1	2	1	2
-GAC	1	2	13	12	0	1	3	3	1	4	11	8
-GAA	8	4	8	12	2	3	10	5	2	10	9	4
-GAG	3	0	3	2	0	1	0	1	0	1	4	1
-GGT	2	0	6	1	0	0	2	0	0	4	3	2
-GGC	5	6	10	5	0	5	9	2	3	16	11	8
-GGA	5	9	15	3	0	5	11	3	2	6	13	11
-GGG	6	3	14	0	0	3	0	1	1	3	3	4
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003434416.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	6	12	7	0	2	6	9	0	5	6	0	0	8	0	10	15	28	3	4	14	6	0	0	4	7	0	0	0	8	0	12	13	8	2	3	10	6	1	3	9	5	2	1	2	4	10	5	1	2	21	11	0	3	1	8	3	2	5	5	6	1	0	0	0
+1	ND2	YP_003434417.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	3	9	10	1	2	5	8	0	0	7	0	0	11	0	10	18	25	9	4	15	4	1	2	6	12	3	0	2	2	0	11	13	13	4	7	23	14	0	3	10	8	0	1	3	2	1	2	0	9	24	6	1	0	2	4	0	0	6	9	3	0	0	0	0
+2	COX1	YP_003434418.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	17	25	6	0	7	6	9	1	4	14	0	1	16	1	15	14	24	5	6	11	8	3	3	16	5	2	0	2	3	3	23	15	11	13	3	13	19	1	5	9	8	0	0	4	6	13	21	3	1	28	17	4	3	13	8	3	6	10	15	14	1	0	0	0
+3	COX2	YP_003434419.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	5	5	2	0	2	4	6	0	2	6	0	2	5	0	9	5	10	2	3	7	4	0	3	7	8	1	2	1	2	1	14	7	7	5	1	2	5	0	1	3	3	1	0	3	5	5	4	4	1	8	9	1	2	12	12	2	1	5	3	0	0	0	0	0
+4	ATP8	YP_003434420.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	1	4	0	0	0	1	1	0	0	0	0	0	5	0	1	2	4	0	0	6	2	0	0	1	3	0	0	0	0	0	1	2	0	1	0	1	5	0	1	3	1	0	0	2	0	1	0	0	0	4	0	0	0	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003434421.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	3	7	10	0	0	2	0	0	1	4	0	0	5	0	13	18	14	2	4	7	4	1	3	1	9	0	0	0	3	3	10	8	3	6	3	8	11	0	1	7	1	0	0	6	4	4	2	1	2	15	3	0	0	1	3	1	0	5	5	3	1	0	0	0
+6	COX3	YP_003434422.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	9	15	4	0	2	6	3	0	4	8	1	1	12	0	7	8	11	3	2	8	2	0	0	17	8	0	1	0	4	0	8	8	5	2	2	6	11	3	0	1	2	0	1	2	5	4	7	0	3	12	5	1	2	3	10	0	2	9	11	0	0	0	0	0
+7	ND3	YP_003434423.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	2	6	1	0	1	5	1	0	2	2	0	1	5	0	5	14	6	2	3	3	0	2	0	0	2	1	0	0	2	0	4	4	1	2	1	4	3	0	0	1	0	1	0	0	0	6	0	0	0	5	2	0	1	3	5	1	0	2	3	1	0	0	0	0
+8	ND4L	YP_003434424.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	1	4	1	0	3	1	5	0	2	0	1	2	1	0	5	6	11	1	2	0	0	0	0	4	2	1	0	1	2	0	1	1	2	2	1	4	1	0	0	1	0	0	0	2	2	0	1	0	0	9	5	0	1	1	2	0	0	3	2	1	1	0	0	0
+9	ND4	YP_003434425.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	9	6	10	1	3	10	6	0	4	9	2	2	16	3	9	29	39	7	5	17	5	0	2	9	13	0	1	2	7	1	19	14	18	10	6	26	12	1	2	9	10	0	0	7	4	8	5	0	4	19	13	0	2	4	10	1	4	16	6	3	0	0	0	0
+10	ND5	YP_003434426.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	14	23	6	0	5	11	10	1	5	4	2	4	12	2	18	31	37	8	5	17	8	2	2	14	17	2	1	5	3	0	19	29	19	11	7	36	19	2	7	26	20	0	2	12	2	11	11	2	6	34	11	2	1	11	9	4	3	11	13	3	1	0	0	0
+11	CYTB	YP_003434428.1	Beryx mollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	6	21	9	0	5	10	8	0	1	13	1	3	11	1	10	14	21	5	6	10	4	1	4	7	5	0	0	0	10	0	10	20	10	2	3	16	6	0	2	18	8	1	0	1	6	7	11	0	3	17	13	0	2	8	4	1	2	8	11	4	0	0	0	0

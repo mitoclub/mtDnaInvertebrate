@@ -1,65 +1,12 @@
-	NP_009241.1|ATP8	NP_009242.1|COX3	NP_009243.1|ND6	NP_009244.1|CYTB	NP_009245.1|ATP6	NP_009246.1|ND5	NP_009247.1|ND4L	NP_009248.1|ND4	NP_009249.1|ND1	NP_009250.1|ND3	NP_009251.1|ND2
-TTT	1	16	8	16	10	26	2	12	14	4	18
-TTC	2	9	3	12	8	7	0	2	6	7	4
-TTA	2	13	10	20	13	30	7	21	21	8	18
-TTG	0	1	1	1	1	10	1	3	3	2	6
-TCT	1	2	0	3	4	17	1	10	4	5	3
-TCC	1	2	5	2	3	4	1	5	3	1	9
-TCA	1	3	0	9	6	11	4	11	5	3	13
-TCG	0	0	0	1	1	4	0	4	2	0	1
-TAT	0	5	1	8	7	6	1	10	8	1	6
-TAC	0	3	2	10	1	7	0	6	4	0	3
-TGT	0	4	0	2	2	5	4	2	4	1	3
-TGC	0	0	2	1	1	3	0	2	0	1	1
-TGA	5	10	3	12	3	8	2	7	3	2	5
-TGG	0	3	2	2	2	2	0	2	3	0	2
-CTT	2	9	5	9	5	16	0	13	10	3	10
-CTC	1	3	0	3	2	4	0	6	3	0	0
-CTA	1	4	7	13	10	14	9	20	16	2	13
-CTG	1	1	2	1	1	2	0	3	0	2	3
-CCT	2	5	1	6	1	8	1	7	3	1	2
-CCC	0	2	2	7	6	8	0	7	2	1	5
-CCA	2	5	4	8	3	8	0	5	9	4	6
-CCG	2	0	0	1	1	0	0	1	1	1	0
-CAT	0	6	1	6	4	4	0	6	0	1	2
-CAC	1	8	0	6	2	11	1	3	0	1	3
-CAA	3	4	4	7	3	10	1	5	3	1	9
-CAG	0	0	0	1	1	2	1	1	1	0	0
-CGT	0	2	0	2	0	1	0	0	2	0	0
-CGC	0	2	2	0	0	0	1	2	2	0	0
-CGA	0	1	0	5	2	3	0	2	2	2	1
-CGG	0	1	0	0	0	1	2	1	1	0	0
-ATT	7	11	15	29	18	43	9	32	19	9	15
-ATC	0	7	2	5	12	10	3	9	6	5	9
-ATA	6	7	11	15	9	41	7	45	25	4	34
-ATG	1	1	1	6	3	8	3	15	4	2	6
-ACT	0	6	4	9	5	15	0	10	6	1	4
-ACC	3	5	4	4	4	14	4	9	11	1	6
-ACA	0	7	6	7	3	19	4	6	8	2	13
-ACG	0	2	2	2	0	4	0	2	5	1	2
-AAT	0	1	3	9	6	8	3	9	2	5	7
-AAC	2	2	5	8	6	7	0	9	8	1	9
-AAA	2	1	2	9	2	10	1	8	9	4	5
-AAG	1	0	0	0	0	4	0	4	1	0	2
-AGT	0	3	1	0	2	8	1	3	2	0	1
-AGC	1	2	0	1	2	1	0	6	1	0	8
-AGA	0	4	2	1	8	10	2	5	11	0	7
-AGG	0	1	1	1	2	3	1	5	1	0	1
-GTT	0	7	4	12	3	11	0	10	3	2	2
-GTC	0	1	2	1	1	4	0	0	0	0	0
-GTA	1	10	4	14	4	12	2	5	8	4	8
-GTG	0	2	0	3	1	3	2	3	1	0	2
-GCT	0	9	7	8	3	16	2	7	4	4	5
-GCC	0	4	1	5	3	13	2	17	7	0	6
-GCA	0	5	2	10	5	15	4	11	6	2	5
-GCG	1	1	0	3	4	3	0	5	2	1	4
-GAT	0	0	1	3	4	5	0	5	2	0	0
-GAC	0	3	1	5	1	7	1	0	1	2	0
-GAA	0	6	1	2	1	10	1	3	7	6	3
-GAG	0	3	1	3	1	3	1	2	3	0	1
-GGT	0	2	0	4	1	3	2	3	4	0	1
-GGC	0	7	1	11	4	4	0	2	2	2	4
-GGA	0	9	3	10	5	9	1	7	2	2	7
-GGG	0	6	0	4	5	5	0	6	2	0	5
-TAA	0	0	0	0	1	0	1	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ATP8	NP_009241.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	1	2	2	0	1	1	1	0	0	0	0	0	5	0	2	1	1	1	2	0	2	2	0	1	3	0	0	0	0	0	7	0	6	1	0	3	0	0	0	2	2	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1	COX3	NP_009242.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	16	9	13	1	2	2	3	0	5	3	4	0	10	3	9	3	4	1	5	2	5	0	6	8	4	0	2	2	1	1	11	7	7	1	6	5	7	2	1	2	1	0	3	2	4	1	7	1	10	2	9	4	5	1	0	3	6	3	2	7	9	6	0	0
+2	ND6	NP_009243.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	8	3	10	1	0	5	0	0	1	2	0	2	3	2	5	0	7	2	1	2	4	0	1	0	4	0	0	2	0	0	15	2	11	1	4	4	6	2	3	5	2	0	1	0	2	1	4	2	4	0	7	1	2	0	1	1	1	1	0	1	3	0	0	0
+3	CYTB	NP_009244.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	16	12	20	1	3	2	9	1	8	10	2	1	12	2	9	3	13	1	6	7	8	1	6	6	7	1	2	0	5	0	29	5	15	6	9	4	7	2	9	8	9	0	0	1	1	1	12	1	14	3	8	5	10	3	3	5	2	3	4	11	10	4	0	0
+4	ATP6	NP_009245.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	10	8	13	1	4	3	6	1	7	1	2	1	3	2	5	2	10	1	1	6	3	1	4	2	3	1	0	0	2	0	18	12	9	3	5	4	3	0	6	6	2	0	2	2	8	2	3	1	4	1	3	3	5	4	4	1	1	1	1	4	5	5	1	0
+5	ND5	NP_009246.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	26	7	30	10	17	4	11	4	6	7	5	3	8	2	16	4	14	2	8	8	8	0	4	11	10	2	1	0	3	1	43	10	41	8	15	14	19	4	8	7	10	4	8	1	10	3	11	4	12	3	16	13	15	3	5	7	10	3	3	4	9	5	0	0
+6	ND4L	NP_009247.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	2	0	7	1	1	1	4	0	1	0	4	0	2	0	0	0	9	0	1	0	0	0	0	1	1	1	0	1	0	2	9	3	7	3	0	4	4	0	3	0	1	0	1	0	2	1	0	0	2	2	2	2	4	0	0	1	1	1	2	0	1	0	1	0
+7	ND4	NP_009248.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	12	2	21	3	10	5	11	4	10	6	2	2	7	2	13	6	20	3	7	7	5	1	6	3	5	1	0	2	2	1	32	9	45	15	10	9	6	2	9	9	8	4	3	6	5	5	10	0	5	3	7	17	11	5	5	0	3	2	3	2	7	6	1	0
+8	ND1	NP_009249.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	14	6	21	3	4	3	5	2	8	4	4	0	3	3	10	3	16	0	3	2	9	1	0	0	3	1	2	2	2	1	19	6	25	4	6	11	8	5	2	8	9	1	2	1	11	1	3	0	8	1	4	7	6	2	2	1	7	3	4	2	2	2	0	0
+9	ND3	NP_009250.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	4	7	8	2	5	1	3	0	1	0	1	1	2	0	3	0	2	2	1	1	4	1	1	1	1	0	0	0	2	0	9	5	4	2	1	1	2	1	5	1	4	0	0	0	0	0	2	0	4	0	4	0	2	1	0	2	6	0	0	2	2	0	0	0
+10	ND2	NP_009251.1	Platynereis dumerilii	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Platynereis	18	4	18	6	3	9	13	1	6	3	3	1	5	2	10	0	13	3	2	5	6	0	2	3	9	0	0	0	1	0	15	9	34	6	4	6	13	2	7	9	5	2	1	8	7	1	2	0	8	2	5	6	5	4	0	0	3	1	1	4	7	5	0	0

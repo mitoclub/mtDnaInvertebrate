@@ -1,65 +1,8 @@
-	YP_009679855.1|COX3	YP_009679856.1|ND3	YP_009679857.1|ND2	YP_009679858.1|COX1	YP_009679859.1|COX2	YP_009679860.1|ATP8	YP_009679861.1|ATP6
-TTT	25	13	28	33	9	4	18
-TTC	5	2	3	9	2	1	7
-TTA	16	10	36	33	14	3	22
-TTG	0	0	1	0	0	0	1
-TCT	9	7	10	11	3	2	14
-TCC	3	2	4	5	3	0	4
-TCA	10	5	23	19	10	1	14
-TCG	0	0	1	1	0	0	0
-TAT	9	3	8	14	7	2	7
-TAC	0	1	3	5	2	0	3
-TGT	3	1	3	0	2	0	0
-TGC	0	0	0	0	0	0	0
-TGA	13	3	5	15	6	5	4
-TGG	0	0	1	1	0	0	0
-CTT	6	5	3	14	4	3	3
-CTC	4	1	3	4	2	0	0
-CTA	5	3	11	17	14	2	12
-CTG	0	0	0	0	0	0	0
-CCT	4	2	4	9	4	2	5
-CCC	1	1	1	3	4	0	1
-CCA	4	2	5	13	2	0	2
-CCG	0	0	0	0	0	0	1
-CAT	11	1	3	14	1	0	4
-CAC	2	0	0	4	6	0	2
-CAA	4	1	8	8	8	2	6
-CAG	0	0	0	0	0	0	0
-CGT	2	1	0	0	2	0	0
-CGC	0	0	0	0	0	0	0
-CGA	3	2	0	11	2	0	2
-CGG	0	0	0	0	0	0	0
-ATT	14	17	37	39	22	1	30
-ATC	6	2	7	4	6	1	7
-ATA	12	5	47	31	11	3	10
-ATG	1	1	2	2	2	2	1
-ACT	4	1	3	12	2	0	6
-ACC	2	0	1	7	2	0	2
-ACA	10	1	6	17	12	2	4
-ACG	0	0	0	0	0	0	0
-AAT	8	4	18	16	13	5	10
-AAC	4	2	8	3	4	3	5
-AAA	1	3	16	7	6	7	2
-AAG	1	0	0	0	0	0	0
-AGT	1	0	3	3	0	0	2
-AGC	0	1	1	0	0	0	0
-AGA	5	0	9	4	3	0	5
-AGG	0	0	0	1	0	0	0
-GTT	3	2	2	13	0	0	2
-GTC	1	0	0	3	0	0	0
-GTA	7	1	1	10	4	0	2
-GTG	1	0	0	0	0	0	0
-GCT	5	0	3	10	2	0	4
-GCC	2	0	0	2	0	0	1
-GCA	6	1	3	15	4	0	3
-GCG	0	0	1	0	0	0	0
-GAT	4	1	0	14	6	0	5
-GAC	0	1	0	2	2	0	0
-GAA	7	4	5	9	11	0	2
-GAG	0	0	0	0	0	0	0
-GGT	5	0	3	11	2	0	3
-GGC	0	0	0	1	0	0	1
-GGA	9	3	7	30	6	0	5
-GGG	1	0	0	1	1	0	0
-TAA	1	1	0	1	1	1	1
-TAG	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009679855.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	25	5	16	0	9	3	10	0	9	0	3	0	13	0	6	4	5	0	4	1	4	0	11	2	4	0	2	0	3	0	14	6	12	1	4	2	10	0	8	4	1	1	1	0	5	0	3	1	7	1	5	2	6	0	4	0	7	0	5	0	9	1	1	0
+1	ND3	YP_009679856.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	13	2	10	0	7	2	5	0	3	1	1	0	3	0	5	1	3	0	2	1	2	0	1	0	1	0	1	0	2	0	17	2	5	1	1	0	1	0	4	2	3	0	0	1	0	0	2	0	1	0	0	0	1	0	1	1	4	0	0	0	3	0	1	0
+2	ND2	YP_009679857.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	28	3	36	1	10	4	23	1	8	3	3	0	5	1	3	3	11	0	4	1	5	0	3	0	8	0	0	0	0	0	37	7	47	2	3	1	6	0	18	8	16	0	3	1	9	0	2	0	1	0	3	0	3	1	0	0	5	0	3	0	7	0	0	0
+3	COX1	YP_009679858.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	33	9	33	0	11	5	19	1	14	5	0	0	15	1	14	4	17	0	9	3	13	0	14	4	8	0	0	0	11	0	39	4	31	2	12	7	17	0	16	3	7	0	3	0	4	1	13	3	10	0	10	2	15	0	14	2	9	0	11	1	30	1	1	0
+4	COX2	YP_009679859.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	9	2	14	0	3	3	10	0	7	2	2	0	6	0	4	2	14	0	4	4	2	0	1	6	8	0	2	0	2	0	22	6	11	2	2	2	12	0	13	4	6	0	0	0	3	0	0	0	4	0	2	0	4	0	6	2	11	0	2	0	6	1	1	0
+5	ATP8	YP_009679860.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	4	1	3	0	2	0	1	0	2	0	0	0	5	0	3	0	2	0	2	0	0	0	0	0	2	0	0	0	0	0	1	1	3	2	0	0	2	0	5	3	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+6	ATP6	YP_009679861.1	Octopus mimus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Octopodiformes, Octopoda, Incirrata, Octopodidae, Octopus	18	7	22	1	14	4	14	0	7	3	0	0	4	0	3	0	12	0	5	1	2	1	4	2	6	0	0	0	2	0	30	7	10	1	6	2	4	0	10	5	2	0	2	0	5	0	2	0	2	0	4	1	3	0	5	0	2	0	3	1	5	0	1	0

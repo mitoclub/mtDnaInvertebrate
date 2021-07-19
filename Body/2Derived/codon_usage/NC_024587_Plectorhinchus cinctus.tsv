@@ -1,65 +1,13 @@
-	YP_009048978.1|ND1	YP_009048979.1|ND2	YP_009048980.1|COX1	YP_009048981.1|COX2	YP_009048982.1|ATP8	YP_009048983.1|ATP6	YP_009048984.1|COX3	YP_009048985.1|ND3	YP_009048986.1|ND4L	YP_009048987.1|ND4	YP_009048988.1|ND5	YP_009048990.1|CYTB
-TTT	7	3	15	1	2	2	9	3	4	3	13	9
-TTC	11	9	27	7	1	10	15	5	3	12	27	23
-TTA	7	4	6	1	0	6	4	2	2	12	10	5
-TTG	0	0	0	0	0	1	0	0	0	3	0	1
-TCT	3	2	4	3	2	1	4	2	0	5	5	5
-TCC	5	6	11	4	0	4	4	3	3	6	16	6
-TCA	9	9	8	5	1	0	3	2	3	11	9	10
-TCG	0	1	2	0	1	0	0	0	0	0	0	0
-TAT	3	3	9	3	0	0	2	2	0	2	0	2
-TAC	8	5	10	7	1	4	10	0	0	11	9	13
-TGT	0	0	1	0	0	0	0	1	2	0	0	0
-TGC	0	0	0	2	0	0	2	0	1	4	6	3
-TGA	7	10	17	5	4	5	11	4	0	17	13	11
-TGG	1	1	0	0	1	0	1	1	1	2	1	2
-CTT	15	15	10	7	1	11	9	10	3	10	15	15
-CTC	16	21	19	9	2	17	6	10	5	40	46	20
-CTA	22	30	19	9	3	19	10	4	10	28	21	14
-CTG	5	7	8	2	0	3	2	3	4	5	9	6
-CCT	2	1	8	5	3	6	2	0	0	2	6	1
-CCC	17	15	12	6	3	8	7	6	1	20	17	11
-CCA	5	4	8	2	2	4	3	0	1	5	10	10
-CCG	0	1	0	1	1	0	0	2	0	0	1	0
-CAT	1	1	5	2	0	0	2	0	2	3	3	4
-CAC	3	8	14	8	2	3	13	1	2	9	12	8
-CAA	6	14	5	7	2	6	8	3	3	10	18	5
-CAG	1	0	3	1	0	2	1	0	0	0	2	1
-CGT	1	0	0	0	0	0	2	0	0	1	0	0
-CGC	1	1	2	3	0	1	0	0	2	1	5	3
-CGA	4	3	5	3	0	5	3	2	1	7	5	6
-CGG	1	0	1	0	0	0	0	0	0	2	0	0
-ATT	6	10	23	12	1	9	7	4	0	9	22	13
-ATC	17	13	18	11	0	7	8	4	1	22	26	17
-ATA	5	13	5	6	1	5	6	1	3	15	22	3
-ATG	5	3	16	4	1	5	2	1	2	11	6	4
-ACT	3	7	5	0	0	0	3	1	2	3	10	1
-ACC	12	24	13	7	1	8	6	3	7	20	26	14
-ACA	4	14	15	4	1	12	14	1	0	17	24	8
-ACG	0	1	2	0	1	1	1	0	1	1	2	0
-AAT	2	1	4	1	0	3	0	0	0	3	5	2
-AAC	10	9	11	4	3	5	2	1	2	9	27	17
-AAA	7	9	8	4	2	1	2	0	0	9	15	8
-AAG	0	0	1	0	1	0	0	1	0	0	3	1
-AGT	1	0	0	0	0	0	0	0	2	2	0	0
-AGC	2	3	5	3	1	5	3	0	1	8	13	1
-GTT	4	1	11	6	3	2	2	1	1	4	7	10
-GTC	7	4	9	4	1	7	8	3	1	7	8	8
-GTA	7	0	20	4	0	3	4	1	1	5	7	7
-GTG	3	1	4	3	0	2	2	0	0	1	1	1
-GCT	1	5	8	2	0	4	3	4	4	6	12	6
-GCC	23	22	26	8	3	6	9	6	7	19	26	13
-GCA	11	8	11	6	0	9	8	2	2	16	17	10
-GCG	0	1	3	1	0	0	2	0	0	0	0	0
-GAT	2	1	2	2	0	0	0	0	0	0	4	3
-GAC	2	2	13	11	1	1	6	4	1	4	7	7
-GAA	6	3	7	14	1	2	7	5	0	6	10	5
-GAG	5	1	4	1	0	2	2	1	2	6	3	0
-GGT	1	0	9	0	0	3	1	1	1	4	2	0
-GGC	8	10	14	5	0	4	13	3	3	15	14	12
-GGA	5	6	13	3	1	2	5	2	1	6	11	13
-GGG	4	2	11	1	0	1	2	0	0	1	3	2
-TAA	1	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009048978.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	7	11	7	0	3	5	9	0	3	8	0	0	7	1	15	16	22	5	2	17	5	0	1	3	6	1	1	1	4	1	6	17	5	5	3	12	4	0	2	10	7	0	1	2	4	7	7	3	1	23	11	0	2	2	6	5	1	8	5	4	1	0	0	0
+1	ND2	YP_009048979.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	3	9	4	0	2	6	9	1	3	5	0	0	10	1	15	21	30	7	1	15	4	1	1	8	14	0	0	1	3	0	10	13	13	3	7	24	14	1	1	9	9	0	0	3	1	4	0	1	5	22	8	1	1	2	3	1	0	10	6	2	0	0	0	0
+2	COX1	YP_009048980.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	15	27	6	0	4	11	8	2	9	10	1	0	17	0	10	19	19	8	8	12	8	0	5	14	5	3	0	2	5	1	23	18	5	16	5	13	15	2	4	11	8	1	0	5	11	9	20	4	8	26	11	3	2	13	7	4	9	14	13	11	0	0	0	1
+3	COX2	YP_009048981.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	1	7	1	0	3	4	5	0	3	7	0	2	5	0	7	9	9	2	5	6	2	1	2	8	7	1	0	3	3	0	12	11	6	4	0	7	4	0	1	4	4	0	0	3	6	4	4	3	2	8	6	1	2	11	14	1	0	5	3	1	0	0	0	0
+4	ATP8	YP_009048982.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	2	1	0	0	2	0	1	1	0	1	0	0	4	1	1	2	3	0	3	3	2	1	0	2	2	0	0	0	0	0	1	0	1	1	0	1	1	1	0	3	2	1	0	1	3	1	0	0	0	3	0	0	0	1	1	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_009048983.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	2	10	6	1	1	4	0	0	0	4	0	0	5	0	11	17	19	3	6	8	4	0	0	3	6	2	0	1	5	0	9	7	5	5	0	8	12	1	3	5	1	0	0	5	2	7	3	2	4	6	9	0	0	1	2	2	3	4	2	1	1	0	0	0
+6	COX3	YP_009048984.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	9	15	4	0	4	4	3	0	2	10	0	2	11	1	9	6	10	2	2	7	3	0	2	13	8	1	2	0	3	0	7	8	6	2	3	6	14	1	0	2	2	0	0	3	2	8	4	2	3	9	8	2	0	6	7	2	1	13	5	2	0	0	0	0
+7	ND3	YP_009048985.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	3	5	2	0	2	3	2	0	2	0	1	0	4	1	10	10	4	3	0	6	0	2	0	1	3	0	0	0	2	0	4	4	1	1	1	3	1	0	0	1	0	1	0	0	1	3	1	0	4	6	2	0	0	4	5	1	1	3	2	0	0	0	0	0
+8	ND4L	YP_009048986.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	4	3	2	0	0	3	3	0	0	0	2	1	0	1	3	5	10	4	0	1	1	0	2	2	3	0	0	2	1	0	0	1	3	2	2	7	0	1	0	2	0	0	2	1	1	1	1	0	4	7	2	0	0	1	0	2	1	3	1	0	1	0	0	0
+9	ND4	YP_009048987.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	3	12	12	3	5	6	11	0	2	11	0	4	17	2	10	40	28	5	2	20	5	0	3	9	10	0	1	1	7	2	9	22	15	11	3	20	17	1	3	9	9	0	2	8	4	7	5	1	6	19	16	0	0	4	6	6	4	15	6	1	0	0	0	0
+10	ND5	YP_009048988.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	13	27	10	0	5	16	9	0	0	9	0	6	13	1	15	46	21	9	6	17	10	1	3	12	18	2	0	5	5	0	22	26	22	6	10	26	24	2	5	27	15	3	0	13	7	8	7	1	12	26	17	0	4	7	10	3	2	14	11	3	1	0	0	0
+11	CYTB	YP_009048990.1	Plectorhinchus cinctus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lutjaniformes, Haemulidae, Plectorhinchus	9	23	5	1	5	6	10	0	2	13	0	3	11	2	15	20	14	6	1	11	10	0	4	8	5	1	0	3	6	0	13	17	3	4	1	14	8	0	2	17	8	1	0	1	10	8	7	1	6	13	10	0	3	7	5	0	0	12	13	2	0	0	0	0

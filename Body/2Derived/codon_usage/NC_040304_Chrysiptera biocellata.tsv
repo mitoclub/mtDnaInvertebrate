@@ -1,65 +1,13 @@
-	YP_009551310.1	YP_009551311.1	YP_009551312.1	YP_009551313.1	YP_009551314.1	YP_009551315.1	YP_009551316.1	YP_009551317.1	YP_009551318.1	YP_009551319.1	YP_009551320.1	YP_009551322.1
-TTT	8	6	15	4	1	7	9	7	6	9	11	3
-TTC	13	7	26	5	2	4	14	2	1	8	35	27
-TTA	8	6	7	5	2	9	1	1	3	9	11	3
-TTG	1	1	1	0	1	2	1	1	0	2	3	1
-TCT	4	0	10	4	1	3	1	1	2	4	5	1
-TCC	10	10	6	7	2	0	6	3	4	12	12	12
-TCA	4	7	8	2	0	1	5	4	3	9	9	7
-TCG	2	0	3	0	0	0	1	0	0	0	1	2
-TAT	4	2	4	7	1	1	5	1	0	6	4	3
-TAC	6	4	10	2	0	4	7	1	0	8	12	12
-TGT	0	0	0	0	0	0	0	0	1	1	3	0
-TGC	0	2	2	2	0	0	2	1	2	4	5	3
-TGA	7	10	15	4	2	5	8	3	1	16	9	13
-TGG	1	1	3	1	3	0	4	2	0	2	3	0
-CTT	9	14	11	6	0	9	4	3	4	21	27	14
-CTC	24	26	20	8	2	14	13	13	7	27	39	18
-CTA	23	22	16	8	2	10	10	8	8	26	29	24
-CTG	2	7	9	2	0	6	3	2	2	7	7	0
-CCT	2	4	8	4	3	2	0	2	0	7	9	2
-CCC	12	10	6	5	4	9	5	4	0	8	17	5
-CCA	8	7	10	3	0	7	5	2	2	11	7	10
-CCG	0	1	4	1	1	1	0	0	0	0	1	4
-CAT	0	0	5	3	1	0	6	0	2	2	3	2
-CAC	3	7	17	7	0	4	10	1	3	8	9	10
-CAA	7	13	7	7	1	7	9	2	2	9	17	5
-CAG	1	2	3	1	1	3	0	1	0	3	4	2
-CGT	0	0	2	1	0	1	1	0	0	2	3	1
-CGC	2	1	0	2	0	0	0	0	2	4	5	1
-CGA	6	3	4	3	0	3	4	1	1	5	7	6
-CGG	0	0	3	0	0	1	0	1	0	1	1	0
-ATT	9	11	20	15	1	8	10	2	2	18	21	8
-ATC	12	7	17	6	4	9	4	5	0	16	30	24
-ATA	7	10	8	8	2	6	5	2	0	13	14	5
-ATG	4	6	13	3	1	5	4	2	4	9	7	6
-ACT	2	7	10	1	0	5	5	2	3	10	10	3
-ACC	8	14	16	3	0	5	8	2	3	19	23	8
-ACA	5	23	11	6	2	8	9	4	1	13	18	8
-ACG	2	1	2	0	0	1	1	0	1	0	0	1
-AAT	4	2	6	2	0	2	1	0	1	1	6	8
-AAC	8	6	10	2	2	6	1	1	1	12	11	11
-AAA	7	8	6	5	2	1	2	0	0	6	18	9
-AAG	0	1	2	0	0	0	0	1	0	2	2	0
-AGT	1	1	1	0	0	2	0	0	1	1	1	0
-AGC	2	4	3	4	1	3	3	0	1	7	12	2
-GTT	6	2	12	4	1	7	2	3	1	5	7	5
-GTC	4	4	10	7	1	5	10	0	0	2	9	7
-GTA	7	2	14	4	0	2	7	1	0	11	8	9
-GTG	4	2	6	2	1	0	0	0	0	1	3	2
-GCT	3	6	12	5	1	7	5	3	2	7	12	4
-GCC	17	19	17	8	2	6	7	4	9	23	32	18
-GCA	11	11	16	4	1	6	9	1	3	13	15	9
-GCG	1	3	3	0	0	2	0	0	0	0	3	0
-GAT	0	0	4	2	0	1	1	0	0	0	4	4
-GAC	4	3	11	12	0	2	3	4	2	3	15	7
-GAA	9	2	7	10	2	4	6	5	2	9	9	5
-GAG	3	2	2	4	1	0	3	1	0	3	1	1
-GGT	0	2	7	1	0	0	2	0	0	3	4	2
-GGC	9	11	11	3	0	5	10	3	4	9	16	11
-GGA	4	3	16	4	0	4	6	3	0	8	8	12
-GGG	4	2	10	1	0	1	3	0	1	5	1	0
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009551310.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	8	13	8	1	4	10	4	2	4	6	0	0	7	1	9	24	23	2	2	12	8	0	0	3	7	1	0	2	6	0	9	12	7	4	2	8	5	2	4	8	7	0	1	2	6	4	7	4	3	17	11	1	0	4	9	3	0	9	4	4	1	0	0	0
+1	None	YP_009551311.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	6	7	6	1	0	10	7	0	2	4	0	2	10	1	14	26	22	7	4	10	7	1	0	7	13	2	0	1	3	0	11	7	10	6	7	14	23	1	2	6	8	1	1	4	2	4	2	2	6	19	11	3	0	3	2	2	2	11	3	2	0	0	0	0
+2	None	YP_009551312.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	15	26	7	1	10	6	8	3	4	10	0	2	15	3	11	20	16	9	8	6	10	4	5	17	7	3	2	0	4	3	20	17	8	13	10	16	11	2	6	10	6	2	1	3	12	10	14	6	12	17	16	3	4	11	7	2	7	11	16	10	1	0	0	0
+3	None	YP_009551313.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	4	5	5	0	4	7	2	0	7	2	0	2	4	1	6	8	8	2	4	5	3	1	3	7	7	1	1	2	3	0	15	6	8	3	1	3	6	0	2	2	5	0	0	4	4	7	4	2	5	8	4	0	2	12	10	4	1	3	4	1	0	0	0	0
+4	None	YP_009551314.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	1	2	2	1	1	2	0	0	1	0	0	0	2	3	0	2	2	0	3	4	0	1	1	0	1	1	0	0	0	0	1	4	2	1	0	0	2	0	0	2	2	0	0	1	1	1	0	1	1	2	1	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	None	YP_009551315.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	7	4	9	2	3	0	1	0	1	4	0	0	5	0	9	14	10	6	2	9	7	1	0	4	7	3	1	0	3	1	8	9	6	5	5	5	8	1	2	6	1	0	2	3	7	5	2	0	7	6	6	2	1	2	4	0	0	5	4	1	1	0	0	0
+6	None	YP_009551316.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	9	14	1	1	1	6	5	1	5	7	0	2	8	4	4	13	10	3	0	5	5	0	6	10	9	0	1	0	4	0	10	4	5	4	5	8	9	1	1	1	2	0	0	3	2	10	7	0	5	7	9	0	1	3	6	3	2	10	6	3	0	0	0	0
+7	None	YP_009551317.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	7	2	1	1	1	3	4	0	1	1	0	1	3	2	3	13	8	2	2	4	2	0	0	1	2	1	0	0	1	1	2	5	2	2	2	2	4	0	0	1	0	1	0	0	3	0	1	0	3	4	1	0	0	4	5	1	0	3	3	0	0	0	0	0
+8	None	YP_009551318.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	6	1	3	0	2	4	3	0	0	0	1	2	1	0	4	7	8	2	0	0	2	0	2	3	2	0	0	2	1	0	2	0	0	4	3	3	1	1	1	1	0	0	1	1	1	0	0	0	2	9	3	0	0	2	2	0	0	4	0	1	1	0	0	0
+9	None	YP_009551319.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	9	8	9	2	4	12	9	0	6	8	1	4	16	2	21	27	26	7	7	8	11	0	2	8	9	3	2	4	5	1	18	16	13	9	10	19	13	0	1	12	6	2	1	7	5	2	11	1	7	23	13	0	0	3	9	3	3	9	8	5	0	0	0	0
+10	None	YP_009551320.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	11	35	11	3	5	12	9	1	4	12	3	5	9	3	27	39	29	7	9	17	7	1	3	9	17	4	3	5	7	1	21	30	14	7	10	23	18	0	6	11	18	2	1	12	7	9	8	3	12	32	15	3	4	15	9	1	4	16	8	1	1	0	0	0
+11	None	YP_009551322.1	Chrysiptera biocellata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Pomacentridae, Chrysiptera	3	27	3	1	1	12	7	2	3	12	0	3	13	0	14	18	24	0	2	5	10	4	2	10	5	2	1	1	6	0	8	24	5	6	3	8	8	1	8	11	9	0	0	2	5	7	9	2	4	18	9	0	4	7	5	1	2	11	12	0	0	0	0	0

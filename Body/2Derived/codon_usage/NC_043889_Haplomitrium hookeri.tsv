@@ -1,65 +1,40 @@
-	YP_009674896.1|nad5	YP_009674897.1|nad4	YP_009674898.1|nad2	YP_009674899.1|rps12	YP_009674900.1|rps7	YP_009674901.1|atp6	YP_009674902.1|nad6	YP_009674903.1|sdh3	YP_009674904.1|nad3	YP_009674905.1|nad7	YP_009674906.1|rps10	YP_009674907.1|rpl2	YP_009674908.1|rps19	YP_009674909.1|rps3	YP_009674910.1|rpl16	YP_009674911.1|rpl5	YP_009674912.1|rps14	YP_009674913.1|rps8	YP_009674914.1|rpl6	YP_009674915.1|rps13	YP_009674916.1|rps11	YP_009674917.1|rps1	YP_009674918.1|atp8	YP_009674919.1|sdh4	YP_009674920.1|nad4L	YP_009674921.1|tatC	YP_009674922.1|cox2	YP_009674923.1|cox3	YP_009674924.1|nad1	YP_009674925.1|cob	YP_009674926.1|rtl	YP_009674927.1|nad9	YP_009674928.1|atp1	YP_009674933.1|rps2	YP_009674934.1|ccmB	YP_009674935.1|ccmC	YP_009674936.1|ccmFN	YP_009674937.1|ccmFC	YP_009674938.1|rpl10
-TTT	29	21	22	0	4	17	8	6	7	8	0	9	2	13	5	7	2	0	4	2	3	10	3	4	6	13	11	10	14	17	13	6	6	6	8	17	23	27	5
-TTC	29	17	18	0	2	6	5	3	3	5	1	7	1	11	2	5	2	2	1	0	0	2	4	3	0	11	0	6	7	7	11	5	5	4	5	6	12	19	1
-TTA	23	22	20	2	5	12	8	8	3	9	4	10	1	7	1	5	2	2	1	4	0	5	3	4	5	10	5	5	9	11	10	6	10	5	2	6	11	7	4
-TTG	18	8	9	2	6	5	6	4	5	4	4	7	1	7	3	5	2	0	0	4	1	5	5	4	4	3	3	4	8	8	7	1	11	6	8	3	10	20	8
-TCT	14	12	15	2	3	5	3	1	8	7	1	7	4	15	2	2	3	2	3	0	3	3	3	0	2	7	5	12	9	7	12	6	9	7	6	9	14	9	1
-TCC	15	13	5	0	5	3	5	3	4	4	1	9	1	10	0	2	2	4	0	1	2	2	2	1	1	2	3	9	5	3	9	0	3	4	3	3	8	10	3
-TCA	17	4	13	1	6	6	8	3	4	9	0	2	1	12	2	2	1	3	2	3	5	4	4	0	3	9	6	6	8	6	4	4	9	2	7	5	17	9	3
-TCG	9	2	6	4	3	2	4	5	3	4	2	15	3	5	2	3	4	2	1	1	1	1	2	0	1	6	5	1	6	8	13	6	6	7	1	1	9	9	3
-TAT	18	13	21	2	5	5	8	7	3	9	1	5	2	17	3	4	4	1	1	3	4	4	8	1	2	7	6	6	9	15	7	6	15	9	3	3	9	7	2
-TAC	5	4	5	2	2	1	2	2	0	4	0	5	1	6	1	2	1	0	1	1	0	0	1	0	0	4	1	4	3	1	11	1	2	1	3	1	5	0	3
-TGT	4	2	7	0	2	1	0	0	1	5	0	2	1	5	2	2	2	3	1	2	0	3	3	0	0	3	2	2	1	4	6	2	0	3	2	2	7	4	2
-TGC	3	0	2	2	4	0	1	1	0	2	2	2	0	3	2	0	0	1	1	0	1	0	1	0	1	5	1	0	2	1	9	0	1	0	1	0	1	1	0
-TGG	7	5	4	0	4	0	1	1	4	4	1	8	3	6	3	1	1	1	0	0	1	3	2	2	1	3	4	6	7	7	8	5	0	2	4	6	8	5	4
-CTT	8	12	8	2	6	7	6	3	2	6	3	4	0	6	1	2	1	3	2	0	2	2	2	4	1	2	2	6	6	6	17	1	4	3	7	1	7	14	7
-CTC	7	6	1	0	2	4	3	1	1	2	1	8	0	4	0	1	1	3	0	0	0	2	1	1	3	1	0	4	3	6	4	0	3	0	2	1	7	7	2
-CTA	6	8	9	0	1	5	1	0	0	4	2	6	0	3	1	1	0	0	1	1	1	1	5	2	2	3	2	2	4	5	13	1	6	0	3	2	6	6	2
-CTG	1	7	2	1	2	3	1	1	0	2	2	6	0	3	0	0	0	0	0	0	0	2	1	1	0	0	0	1	5	0	13	1	4	2	0	2	6	4	1
-CCT	12	14	10	2	3	3	2	5	4	12	3	15	2	5	0	0	4	2	3	1	1	3	2	0	1	11	11	6	10	14	13	4	7	3	5	8	13	8	2
-CCC	9	10	9	2	0	5	1	4	2	2	1	10	2	7	1	3	0	1	2	3	1	3	1	1	2	5	0	4	8	11	19	1	5	1	5	2	9	11	2
-CCA	11	6	8	2	2	8	4	3	2	8	1	8	1	6	2	4	1	1	1	1	3	10	0	0	0	4	10	2	9	6	10	5	13	2	6	7	8	7	1
-CCG	6	4	5	2	1	6	1	1	0	4	0	5	1	9	2	6	0	0	0	0	1	1	2	0	1	4	0	4	5	5	13	3	3	6	1	3	7	9	3
-CAT	12	10	5	2	5	8	5	3	1	12	3	7	1	5	1	4	0	1	1	2	1	8	0	6	0	1	10	12	0	12	8	10	4	6	4	7	10	11	4
-CAC	5	1	0	1	4	2	1	2	1	3	2	6	0	5	0	1	3	1	0	1	2	2	0	1	0	2	1	2	0	5	11	0	3	2	1	2	3	4	0
-CAA	6	8	8	3	5	8	1	3	0	15	4	8	3	18	5	5	0	1	4	6	5	13	11	2	1	9	6	5	6	7	12	5	23	7	7	8	8	11	10
-CAG	5	3	1	3	1	2	1	2	0	3	1	5	0	3	0	5	0	1	1	1	0	3	1	0	0	1	3	0	1	0	11	1	10	1	2	1	5	5	3
-CGT	9	3	5	5	10	3	3	2	1	10	2	6	1	8	6	1	6	3	4	1	5	2	2	1	0	6	4	2	2	5	12	5	14	3	5	4	7	7	2
-CGC	6	4	3	2	2	2	3	0	0	1	2	7	2	5	0	0	2	1	2	4	2	0	1	0	1	1	1	2	2	1	18	2	4	0	0	4	5	5	1
-CGA	4	4	1	7	2	0	3	2	1	10	1	11	1	12	3	5	5	1	1	5	2	1	3	1	1	1	2	1	4	3	16	3	5	5	1	1	7	5	3
-CGG	5	4	0	0	1	3	1	1	0	2	0	12	1	5	0	0	1	2	2	0	0	3	2	1	0	5	5	5	3	7	11	2	1	1	1	3	12	5	1
-ATT	44	30	21	3	7	11	7	4	6	10	2	8	3	21	5	6	3	2	3	8	6	7	3	8	11	11	19	10	14	16	14	5	24	10	7	12	18	16	4
-ATC	6	11	15	1	2	4	4	4	2	5	5	5	4	5	1	1	1	2	2	4	1	4	3	4	1	4	2	4	5	8	7	1	6	3	4	9	5	6	2
-ATA	12	13	11	3	4	7	7	3	3	4	3	9	0	11	2	9	5	0	3	2	1	7	2	1	0	7	4	7	10	11	19	7	10	9	5	6	14	13	3
-ATG	21	14	15	3	7	6	8	3	2	14	1	6	2	8	3	4	1	0	1	1	1	3	3	1	6	4	7	7	9	9	9	4	10	6	4	4	6	8	3
-ACT	15	12	10	1	3	5	6	5	0	8	1	6	2	3	2	5	0	0	2	5	8	3	3	3	2	4	11	6	1	5	8	4	12	4	3	2	7	7	6
-ACC	9	9	10	1	1	4	3	2	1	7	1	3	2	5	1	0	0	0	1	1	3	5	4	2	0	4	2	5	0	3	12	2	7	3	3	5	6	9	1
-ACA	7	6	7	2	3	4	3	0	0	2	2	5	3	12	2	4	2	1	1	0	3	3	1	1	1	7	1	5	3	9	4	4	4	6	4	3	7	5	2
-ACG	11	6	6	2	1	2	7	4	2	4	3	8	0	7	0	4	1	2	1	0	2	2	1	0	3	5	2	1	5	1	11	2	4	2	0	5	6	7	1
-AAT	17	12	8	5	6	4	12	5	1	8	2	12	0	12	3	8	4	7	1	8	5	4	5	3	4	4	7	1	5	13	11	6	6	18	4	2	20	9	5
-AAC	5	2	5	0	2	6	0	0	1	2	1	4	1	5	0	3	1	1	1	0	2	5	3	0	1	0	1	0	3	3	15	3	7	3	0	1	4	4	3
-AAA	15	11	12	12	13	1	10	4	2	14	13	19	10	27	11	9	7	7	10	7	6	18	7	2	2	5	5	2	6	6	26	7	21	12	4	5	11	15	12
-AAG	4	2	3	3	6	1	1	0	1	1	2	13	4	11	3	3	3	4	3	4	5	12	6	0	1	3	0	1	3	0	19	3	6	2	0	1	5	14	2
-AGT	17	7	11	1	2	6	2	2	2	5	0	5	0	8	3	2	1	3	3	2	0	6	6	0	0	4	5	1	5	8	4	5	5	2	3	3	11	6	4
-AGC	6	8	3	0	4	2	1	1	0	1	0	8	0	3	1	1	0	1	1	1	0	4	1	0	0	1	0	2	2	8	5	0	8	1	4	5	3	2	2
-AGA	2	7	3	5	7	0	2	1	1	7	2	14	2	9	5	4	4	3	1	3	3	8	3	3	1	1	2	0	3	5	14	2	5	3	1	0	2	7	2
-AGG	3	1	0	0	3	0	1	0	0	1	2	7	2	6	1	0	1	2	0	1	0	1	1	1	0	2	1	0	0	0	16	0	1	2	0	0	6	9	2
-GTT	13	13	12	6	5	4	11	4	3	6	2	7	3	3	1	4	1	2	6	3	2	1	2	2	1	6	7	9	8	7	9	4	9	2	4	3	14	12	2
-GTC	10	2	3	0	2	3	5	2	2	5	1	4	0	5	0	3	0	1	2	2	0	1	1	1	3	5	1	6	7	3	3	1	4	1	1	3	5	4	1
-GTA	11	7	9	2	3	7	5	0	3	10	1	10	1	6	2	4	1	1	0	2	1	5	6	3	3	4	8	4	6	12	5	3	12	4	0	3	12	4	1
-GTG	7	12	4	2	2	3	5	0	0	9	0	5	1	6	4	2	2	0	0	0	2	9	5	2	1	1	3	1	6	7	12	3	17	4	1	4	7	5	0
-GCT	28	10	13	4	5	7	7	2	4	14	0	13	0	12	7	1	2	2	1	1	3	2	3	1	4	4	9	13	8	14	11	0	23	6	1	7	16	6	1
-GCC	10	7	14	0	5	2	3	1	1	4	2	9	1	5	1	2	1	0	3	2	2	2	1	1	2	1	3	2	4	7	21	2	8	0	0	1	2	10	5
-GCA	13	6	14	0	4	4	3	1	2	4	0	9	2	7	5	4	0	0	0	1	2	3	4	1	1	1	3	6	13	11	14	1	11	3	0	4	7	2	4
-GCG	8	4	3	0	1	3	1	1	0	5	0	4	0	8	2	0	0	2	1	0	1	2	2	1	1	0	1	0	7	5	8	0	12	3	1	3	6	5	1
-GAT	13	9	9	3	7	2	4	3	6	18	3	9	1	14	2	5	1	1	1	2	2	4	4	1	3	2	11	6	6	6	13	10	16	8	3	4	6	6	2
-GAC	6	1	2	0	1	0	1	0	0	3	0	8	0	7	1	2	0	0	0	1	0	3	2	0	0	2	6	0	0	3	14	3	7	1	0	0	6	4	1
-GAA	8	11	8	2	9	4	4	1	4	19	3	13	2	18	5	3	3	1	4	1	3	10	2	3	2	5	7	6	6	6	19	9	21	10	3	2	15	9	5
-GAG	6	5	6	3	4	1	2	0	2	7	2	8	2	9	1	6	0	0	1	2	0	5	3	1	1	4	4	2	5	1	15	4	7	1	2	1	2	4	2
-GGT	16	12	11	3	3	8	4	1	4	9	0	12	6	10	3	2	2	0	1	2	5	7	0	0	4	2	5	9	6	12	16	5	18	1	7	6	5	13	2
-GGC	7	2	4	4	5	0	2	2	1	5	0	12	0	3	4	1	1	0	1	4	1	3	2	0	0	0	1	4	6	4	20	1	1	2	1	0	11	10	4
-GGA	18	13	11	2	3	7	3	1	2	10	3	19	2	9	3	5	0	4	5	3	7	6	7	1	1	0	5	11	8	9	16	1	21	5	3	3	8	14	2
-GGG	5	3	4	2	2	3	2	4	0	2	1	12	0	10	1	1	1	2	1	1	1	1	0	0	1	2	1	5	3	5	18	1	4	2	0	3	2	5	0
-TAA	1	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	1	1	0	0	1	1	0	0	0	0	0	1	1	0	0	0	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0
-TGA	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	nad5	YP_009674896.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	29	29	23	18	14	15	17	9	18	5	4	3	7	8	7	6	1	12	9	11	6	12	5	6	5	9	6	4	5	44	6	12	21	15	9	7	11	17	5	15	4	17	6	2	3	13	10	11	7	28	10	13	8	13	6	8	6	16	7	18	5	1	0	0
+1	nad4	YP_009674897.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	21	17	22	8	12	13	4	2	13	4	2	0	5	12	6	8	7	14	10	6	4	10	1	8	3	3	4	4	4	30	11	13	14	12	9	6	6	12	2	11	2	7	8	7	1	13	2	7	12	10	7	6	4	9	1	11	5	12	2	13	3	1	0	0
+2	nad2	YP_009674898.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	22	18	20	9	15	5	13	6	21	5	7	2	4	8	1	9	2	10	9	8	5	5	0	8	1	5	3	1	0	21	15	11	15	10	10	7	6	8	5	12	3	11	3	3	0	12	3	9	4	13	14	14	3	9	2	8	6	11	4	11	4	0	0	1
+3	rps12	YP_009674899.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	0	0	2	2	2	0	1	4	2	2	0	2	0	2	0	0	1	2	2	2	2	2	1	3	3	5	2	7	0	3	1	3	3	1	1	2	2	5	0	12	3	1	0	5	0	6	0	2	2	4	0	0	0	3	0	2	3	3	4	2	2	0	0	1
+4	rps7	YP_009674900.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	4	2	5	6	3	5	6	3	5	2	2	4	4	6	2	1	2	3	0	2	1	5	4	5	1	10	2	2	1	7	2	4	7	3	1	3	1	6	2	13	6	2	4	7	3	5	2	3	2	5	5	4	1	7	1	9	4	3	5	3	2	0	0	1
+5	atp6	YP_009674901.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	17	6	12	5	5	3	6	2	5	1	1	0	0	7	4	5	3	3	5	8	6	8	2	8	2	3	2	0	3	11	4	7	6	5	4	4	2	4	6	1	1	6	2	0	0	4	3	7	3	7	2	4	3	2	0	4	1	8	0	7	3	0	0	0
+6	nad6	YP_009674902.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	8	5	8	6	3	5	8	4	8	2	0	1	1	6	3	1	1	2	1	4	1	5	1	1	1	3	3	3	1	7	4	7	8	6	3	3	7	12	0	10	1	2	1	2	1	11	5	5	5	7	3	3	1	4	1	4	2	4	2	3	2	0	0	0
+7	sdh3	YP_009674903.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	6	3	8	4	1	3	3	5	7	2	0	1	1	3	1	0	1	5	4	3	1	3	2	3	2	2	0	2	1	4	4	3	3	5	2	0	4	5	0	4	0	2	1	1	0	4	2	0	0	2	1	1	1	3	0	1	0	1	2	1	4	0	0	0
+8	nad3	YP_009674904.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	7	3	3	5	8	4	4	3	3	0	1	0	4	2	1	0	0	4	2	2	0	1	1	0	0	1	0	1	0	6	2	3	2	0	1	0	2	1	1	2	1	2	0	1	0	3	2	3	0	4	1	2	0	6	0	4	2	4	1	2	0	1	0	0
+9	nad7	YP_009674905.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	8	5	9	4	7	4	9	4	9	4	5	2	4	6	2	4	2	12	2	8	4	12	3	15	3	10	1	10	2	10	5	4	14	8	7	2	4	8	2	14	1	5	1	7	1	6	5	10	9	14	4	4	5	18	3	19	7	9	5	10	2	0	1	0
+10	rps10	YP_009674906.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	0	1	4	4	1	1	0	2	1	0	0	2	1	3	1	2	2	3	1	1	0	3	2	4	1	2	2	1	0	2	5	3	1	1	1	2	3	2	1	13	2	0	0	2	2	2	1	1	0	0	2	0	0	3	0	3	2	0	0	3	1	0	0	0
+11	rpl2	YP_009674907.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	9	7	10	7	7	9	2	15	5	5	2	2	8	4	8	6	6	15	10	8	5	7	6	8	5	6	7	11	12	8	5	9	6	6	3	5	8	12	4	19	13	5	8	14	7	7	4	10	5	13	9	9	4	9	8	13	8	12	12	19	12	1	0	0
+12	rps19	YP_009674908.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	2	1	1	1	4	1	1	3	2	1	1	0	3	0	0	0	0	2	2	1	1	1	0	3	0	1	2	1	1	3	4	0	2	2	2	3	0	0	1	10	4	0	0	2	2	3	0	1	1	0	1	2	0	1	0	2	2	6	0	2	0	0	1	0
+13	rps3	YP_009674909.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	13	11	7	7	15	10	12	5	17	6	5	3	6	6	4	3	3	5	7	6	9	5	5	18	3	8	5	12	5	21	5	11	8	3	5	12	7	12	5	27	11	8	3	9	6	3	5	6	6	12	5	7	8	14	7	18	9	10	3	9	10	1	0	0
+14	rpl16	YP_009674910.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	5	2	1	3	2	0	2	2	3	1	2	2	3	1	0	1	0	0	1	2	2	1	0	5	0	6	0	3	0	5	1	2	3	2	1	2	0	3	0	11	3	3	1	5	1	1	0	2	4	7	1	5	2	2	1	5	1	3	4	3	1	0	0	1
+15	rpl5	YP_009674911.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	7	5	5	5	2	2	2	3	4	2	2	0	1	2	1	1	0	0	3	4	6	4	1	5	5	1	0	5	0	6	1	9	4	5	0	4	4	8	3	9	3	2	1	4	0	4	3	4	2	1	2	4	0	5	2	3	6	2	1	5	1	0	1	0
+16	rps14	YP_009674912.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	2	2	2	2	3	2	1	4	4	1	2	0	1	1	1	0	0	4	0	1	0	0	3	0	0	6	2	5	1	3	1	5	1	0	0	2	1	4	1	7	3	1	0	4	1	1	0	1	2	2	1	0	0	1	0	3	0	2	1	0	1	0	1	0
+17	rps8	YP_009674913.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	0	2	2	0	2	4	3	2	1	0	3	1	1	3	3	0	0	2	1	1	0	1	1	1	1	3	1	1	2	2	2	0	0	0	0	1	2	7	1	7	4	3	1	3	2	2	1	1	0	2	0	0	2	1	0	1	0	0	0	4	2	1	0	0
+18	rpl6	YP_009674914.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	4	1	1	0	3	0	2	1	1	1	1	1	0	2	0	1	0	3	2	1	0	1	0	4	1	4	2	1	2	3	2	3	1	2	1	1	1	1	1	10	3	3	1	1	0	6	2	0	0	1	3	0	1	1	0	4	1	1	1	5	1	1	0	0
+19	rps13	YP_009674915.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	2	0	4	4	0	1	3	1	3	1	2	0	0	0	0	1	0	1	3	1	0	2	1	6	1	1	4	5	0	8	4	2	1	5	1	0	0	8	0	7	4	2	1	3	1	3	2	2	0	1	2	1	0	2	1	1	2	2	4	3	1	0	0	0
+20	rps11	YP_009674916.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	3	0	0	1	3	2	5	1	4	0	0	1	1	2	0	1	0	1	1	3	1	1	2	5	0	5	2	2	0	6	1	1	1	8	3	3	2	5	2	6	5	0	0	3	0	2	0	1	2	3	2	2	1	2	0	3	0	5	1	7	1	1	0	0
+21	rps1	YP_009674917.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	10	2	5	5	3	2	4	1	4	0	3	0	3	2	2	1	2	3	3	10	1	8	2	13	3	2	0	1	3	7	4	7	3	3	5	3	2	4	5	18	12	6	4	8	1	1	1	5	9	2	2	3	2	4	3	10	5	7	3	6	1	1	0	0
+22	atp8	YP_009674918.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	3	4	3	5	3	2	4	2	8	1	3	1	2	2	1	5	1	2	1	0	2	0	0	11	1	2	1	3	2	3	3	2	3	3	4	1	1	5	3	7	6	6	1	3	1	2	1	6	5	3	1	4	2	4	2	2	3	0	2	7	0	0	1	0
+23	sdh4	YP_009674919.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	4	3	4	4	0	1	0	0	1	0	0	0	2	4	1	2	1	0	1	0	0	6	1	2	0	1	0	1	1	8	4	1	1	3	2	1	0	3	0	2	0	0	0	3	1	2	1	3	2	1	1	1	1	1	0	3	1	0	0	1	0	0	0	0
+24	nad4L	YP_009674920.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	6	0	5	4	2	1	3	1	2	0	0	1	1	1	3	2	0	1	2	0	1	0	0	1	0	0	1	1	0	11	1	0	6	2	0	1	3	4	1	2	1	0	0	1	0	1	3	3	1	4	2	1	1	3	0	2	1	4	0	1	1	1	0	0
+25	tatC	YP_009674921.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	13	11	10	3	7	2	9	6	7	4	3	5	3	2	1	3	0	11	5	4	4	1	2	9	1	6	1	1	5	11	4	7	4	4	4	7	5	4	0	5	3	4	1	1	2	6	5	4	1	4	1	1	0	2	2	5	4	2	0	0	2	1	0	0
+26	cox2	YP_009674922.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	11	0	5	3	5	3	6	5	6	1	2	1	4	2	0	2	0	11	0	10	0	10	1	6	3	4	1	2	5	19	2	4	7	11	2	1	2	7	1	5	0	5	0	2	1	7	1	8	3	9	3	3	1	11	6	7	4	5	1	5	1	0	0	0
+27	cox3	YP_009674923.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	10	6	5	4	12	9	6	1	6	4	2	0	6	6	4	2	1	6	4	2	4	12	2	5	0	2	2	1	5	10	4	7	7	6	5	5	1	1	0	2	1	1	2	0	0	9	6	4	1	13	2	6	0	6	0	6	2	9	4	11	5	0	1	0
+28	nad1	YP_009674924.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	14	7	9	8	9	5	8	6	9	3	1	2	7	6	3	4	5	10	8	9	5	0	0	6	1	2	2	4	3	14	5	10	9	1	0	3	5	5	3	6	3	5	2	3	0	8	7	6	6	8	4	13	7	6	0	6	5	6	6	8	3	0	0	0
+29	cob	YP_009674925.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	17	7	11	8	7	3	6	8	15	1	4	1	7	6	6	5	0	14	11	6	5	12	5	7	0	5	1	3	7	16	8	11	9	5	3	9	1	13	3	6	0	8	8	5	0	7	3	12	7	14	7	11	5	6	3	6	1	12	4	9	5	0	0	0
+30	rtl	YP_009674926.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	13	11	10	7	12	9	4	13	7	11	6	9	8	17	4	13	13	13	19	10	13	8	11	12	11	12	18	16	11	14	7	19	9	8	12	4	11	11	15	26	19	4	5	14	16	9	3	5	12	11	21	14	8	13	14	19	15	16	20	16	18	0	1	0
+31	nad9	YP_009674927.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	6	5	6	1	6	0	4	6	6	1	2	0	5	1	0	1	1	4	1	5	3	10	0	5	1	5	2	3	2	5	1	7	4	4	2	4	2	6	3	7	3	5	0	2	0	4	1	3	3	0	2	1	0	10	3	9	4	5	1	1	1	1	0	0
+32	atp1	YP_009674928.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	6	5	10	11	9	3	9	6	15	2	0	1	0	4	3	6	4	7	5	13	3	4	3	23	10	14	4	5	1	24	6	10	10	12	7	4	4	6	7	21	6	5	8	5	1	9	4	12	17	23	8	11	12	16	7	21	7	18	1	21	4	1	0	0
+33	rps2	YP_009674933.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	6	4	5	6	7	4	2	7	9	1	3	0	2	3	0	0	2	3	1	2	6	6	2	7	1	3	0	5	1	10	3	9	6	4	3	6	2	18	3	12	2	2	1	3	2	2	1	4	4	6	0	3	3	8	1	10	1	1	2	5	2	0	0	1
+34	ccmB	YP_009674934.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	8	5	2	8	6	3	7	1	3	3	2	1	4	7	2	3	0	5	5	6	1	4	1	7	2	5	0	1	1	7	4	5	4	3	3	4	0	4	0	4	0	3	4	1	0	4	1	0	1	1	0	0	1	3	0	3	2	7	1	3	0	0	0	0
+35	ccmC	YP_009674935.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	17	6	6	3	9	3	5	1	3	1	2	0	6	1	1	2	2	8	2	7	3	7	2	8	1	4	4	1	3	12	9	6	4	2	5	3	5	2	1	5	1	3	5	0	0	3	3	3	4	7	1	4	3	4	0	2	1	6	0	3	3	0	0	1
+36	ccmFN	YP_009674936.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	23	12	11	10	14	8	17	9	9	5	7	1	8	7	7	6	6	13	9	8	7	10	3	8	5	7	5	7	12	18	5	14	6	7	6	7	6	20	4	11	5	11	3	2	6	14	5	12	7	16	2	7	6	6	6	15	2	5	11	8	2	0	1	0
+37	ccmFC	YP_009674937.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	27	19	7	20	9	10	9	9	7	0	4	1	5	14	7	6	4	8	11	7	9	11	4	11	5	7	5	5	5	16	6	13	8	7	9	5	7	9	4	15	14	6	2	7	9	12	4	4	5	6	10	2	5	6	4	9	4	13	10	14	5	0	0	1
+38	rpl10	YP_009674938.1	Haplomitrium hookeri	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Marchantiophyta, Haplomitriopsida, Haplomitriidae, Calobryales, Haplomitriaceae, Haplomitrium	5	1	4	8	1	3	3	3	2	3	2	0	4	7	2	2	1	2	2	1	3	4	0	10	3	2	1	3	1	4	2	3	3	6	1	2	1	5	3	12	2	4	2	2	2	2	1	1	0	1	5	4	1	2	1	5	2	2	4	2	0	1	0	0

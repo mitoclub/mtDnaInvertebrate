@@ -1,65 +1,13 @@
-	YP_001648832.1|ND1	YP_001648833.1|ND2	YP_001648834.1|COX1	YP_001648835.1|COX2	YP_001648836.1|ATP8	YP_001648837.1|ATP6	YP_001648838.1|COX3	YP_001648839.1|ND3	YP_001648840.1|ND4L	YP_001648841.1|ND4	YP_001648842.1|ND5	YP_001648843.1|CYTB
-TTT	2	1	2	1	5	0	3	3	0	3	9	3
-TTC	17	10	41	9	0	10	20	4	5	10	24	24
-TTA	5	5	0	1	1	7	3	0	3	7	7	3
-TTG	0	0	0	0	1	0	0	0	0	0	1	0
-TCT	3	2	2	1	0	1	6	4	0	4	1	3
-TCC	9	15	10	7	4	3	5	2	4	12	17	11
-TCA	5	8	10	9	1	6	3	1	3	9	16	10
-TCG	1	1	1	0	0	0	0	0	1	2	1	0
-TAT	4	1	2	2	0	0	1	1	0	4	1	0
-TAC	10	6	15	5	0	3	10	1	2	10	15	12
-TGT	0	0	0	0	0	0	0	0	1	0	0	0
-TGC	3	3	1	3	0	0	1	1	2	3	6	4
-TGA	5	9	17	5	5	4	12	3	1	12	10	11
-TGG	2	1	0	0	0	0	0	2	0	0	2	0
-CTT	6	9	7	3	0	4	2	2	1	6	10	9
-CTC	18	19	13	8	1	15	10	5	4	26	31	25
-CTA	32	30	41	17	3	35	15	21	12	47	48	28
-CTG	7	6	2	2	0	3	1	2	1	7	4	4
-CCT	4	1	6	4	1	3	0	0	1	3	6	6
-CCC	8	10	8	2	4	2	5	4	1	11	12	10
-CCA	11	11	16	6	4	10	8	3	1	16	14	10
-CCG	3	0	0	0	0	0	0	0	0	0	0	0
-CAT	1	1	1	2	0	0	4	0	0	2	1	3
-CAC	1	11	18	6	2	3	11	0	6	11	11	9
-CAA	5	7	8	5	1	8	7	3	2	14	17	7
-CAG	1	3	1	1	1	0	0	1	0	0	0	0
-CGT	1	0	0	1	0	1	1	0	1	0	1	2
-CGC	5	1	2	3	0	3	2	1	0	2	2	2
-CGA	3	2	6	3	0	1	3	1	1	9	5	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	6	13	0	0	4	5	3	0	9	14	7
-ATC	15	18	30	13	3	13	11	4	3	36	42	23
-ATA	9	11	12	4	0	3	7	5	4	24	27	6
-ATG	2	8	10	3	2	4	1	2	2	4	4	3
-ACT	3	8	5	4	3	2	1	1	1	7	10	2
-ACC	8	18	13	5	5	10	13	2	5	22	29	7
-ACA	7	19	19	8	0	15	8	2	3	17	28	11
-ACG	0	1	1	0	0	0	0	0	0	1	2	1
-AAT	4	3	3	1	0	1	0	0	0	3	2	5
-AAC	10	10	12	7	3	8	3	4	2	12	27	14
-AAA	6	14	9	4	3	4	4	1	1	9	19	9
-AAG	0	0	0	0	0	0	0	0	0	1	1	1
-AGT	0	0	0	0	0	1	0	0	0	0	1	0
-AGC	6	4	4	3	0	5	4	1	4	8	5	0
-GTT	1	0	3	1	0	0	1	0	1	0	2	2
-GTC	4	2	7	9	0	4	6	0	1	3	4	6
-GTA	5	4	22	10	0	3	8	0	0	5	8	11
-GTG	1	0	6	1	1	0	1	2	0	0	3	1
-GCT	5	4	6	4	0	2	3	2	0	3	7	6
-GCC	11	12	21	10	1	7	11	5	6	21	23	15
-GCA	16	12	18	4	0	5	7	4	5	14	20	9
-GCG	1	0	0	0	0	1	1	0	0	0	0	0
-GAT	2	0	4	0	0	0	1	0	0	1	2	0
-GAC	2	2	11	11	0	1	4	3	1	1	7	9
-GAA	11	4	10	11	0	4	7	6	1	7	8	6
-GAG	1	0	0	0	0	0	1	0	1	3	2	1
-GGT	1	0	7	1	0	2	1	1	1	3	3	1
-GGC	9	4	13	2	0	3	10	1	1	9	10	12
-GGA	4	6	24	5	0	1	9	2	1	5	18	11
-GGG	0	3	3	0	0	2	0	0	1	1	4	1
-TAA	0	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001648832.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	2	17	5	0	3	9	5	1	4	10	0	3	5	2	6	18	32	7	4	8	11	3	1	1	5	1	1	5	3	0	9	15	9	2	3	8	7	0	4	10	6	0	0	6	1	4	5	1	5	11	16	1	2	2	11	1	1	9	4	0	0	0	0	1
+1	ND2	YP_001648833.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	1	10	5	0	2	15	8	1	1	6	0	3	9	1	9	19	30	6	1	10	11	0	1	11	7	3	0	1	2	0	6	18	11	8	8	18	19	1	3	10	14	0	0	4	0	2	4	0	4	12	12	0	0	2	4	0	0	4	6	3	0	0	0	0
+2	COX1	YP_001648834.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	2	41	0	0	2	10	10	1	2	15	0	1	17	0	7	13	41	2	6	8	16	0	1	18	8	1	0	2	6	0	13	30	12	10	5	13	19	1	3	12	9	0	0	4	3	7	22	6	6	21	18	0	4	11	10	0	7	13	24	3	0	0	0	1
+3	COX2	YP_001648835.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	1	9	1	0	1	7	9	0	2	5	0	3	5	0	3	8	17	2	4	2	6	0	2	6	5	1	1	3	3	0	0	13	4	3	4	5	8	0	1	7	4	0	0	3	1	9	10	1	4	10	4	0	0	11	11	0	1	2	5	0	1	0	0	0
+4	ATP8	YP_001648836.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	5	0	1	1	0	4	1	0	0	0	0	0	5	0	0	1	3	0	1	4	4	0	0	2	1	1	0	0	0	0	0	3	0	2	3	5	0	0	0	3	3	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_001648837.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	0	10	7	0	1	3	6	0	0	3	0	0	4	0	4	15	35	3	3	2	10	0	0	3	8	0	1	3	1	0	4	13	3	4	2	10	15	0	1	8	4	0	1	5	0	4	3	0	2	7	5	1	0	1	4	0	2	3	1	2	1	0	0	0
+6	COX3	YP_001648838.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	3	20	3	0	6	5	3	0	1	10	0	1	12	0	2	10	15	1	0	5	8	0	4	11	7	0	1	2	3	0	5	11	7	1	1	13	8	0	0	3	4	0	0	4	1	6	8	1	3	11	7	1	1	4	7	1	1	10	9	0	0	0	0	0
+7	ND3	YP_001648839.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	3	4	0	0	4	2	1	0	1	1	0	1	3	2	2	5	21	2	0	4	3	0	0	0	3	1	0	1	1	0	3	4	5	2	1	2	2	0	0	4	1	0	0	1	0	0	0	2	2	5	4	0	0	3	6	0	1	1	2	0	0	0	0	0
+8	ND4L	YP_001648840.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	0	5	3	0	0	4	3	1	0	2	1	2	1	0	1	4	12	1	1	1	1	0	0	6	2	0	1	0	1	0	0	3	4	2	1	5	3	0	0	2	1	0	0	4	1	1	0	0	0	6	5	0	0	1	1	1	1	1	1	1	1	0	0	0
+9	ND4	YP_001648841.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	3	10	7	0	4	12	9	2	4	10	0	3	12	0	6	26	47	7	3	11	16	0	2	11	14	0	0	2	9	0	9	36	24	4	7	22	17	1	3	12	9	1	0	8	0	3	5	0	3	21	14	0	1	1	7	3	3	9	5	1	0	0	0	0
+10	ND5	YP_001648842.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	9	24	7	1	1	17	16	1	1	15	0	6	10	2	10	31	48	4	6	12	14	0	1	11	17	0	1	2	5	0	14	42	27	4	10	29	28	2	2	27	19	1	1	5	2	4	8	3	7	23	20	0	2	7	8	2	3	10	18	4	0	0	0	0
+11	CYTB	YP_001648843.1	Sylvia crassirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylviidae, Sylviinae, Sylvia	3	24	3	0	3	11	10	0	0	12	0	4	11	0	9	25	28	4	6	10	10	0	3	9	7	0	2	2	4	0	7	23	6	3	2	7	11	1	5	14	9	1	0	0	2	6	11	1	6	15	9	0	0	9	6	1	1	12	11	1	1	0	0	0

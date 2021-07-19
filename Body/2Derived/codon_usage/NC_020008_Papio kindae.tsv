@@ -1,65 +1,13 @@
-	YP_007316909.1|ND1	YP_007316910.1|ND2	YP_007316911.1|COX1	YP_007316912.1|COX2	YP_007316913.1|ATP8	YP_007316914.1|ATP6	YP_007316915.1|COX3	YP_007316916.1|ND3	YP_007316917.1|ND4L	YP_007316918.1|ND4	YP_007316919.2|ND5	YP_007316921.1|CYTB
-TTT	10	4	20	7	0	4	10	2	2	6	11	3
-TTC	10	6	21	3	1	3	14	6	1	12	22	18
-TTA	2	7	10	7	2	3	6	3	3	9	13	6
-TTG	0	0	2	1	0	1	1	0	0	3	0	0
-TCT	4	6	6	1	1	4	2	0	0	7	5	3
-TCC	6	9	12	5	2	4	5	3	3	13	14	10
-TCA	11	8	10	4	0	4	4	3	4	7	13	9
-TCG	0	0	1	0	0	0	2	0	1	1	1	1
-TAT	3	4	6	3	2	0	6	0	1	1	7	3
-TAC	8	6	12	6	2	2	6	3	1	15	9	11
-TGT	0	0	1	0	1	0	1	0	1	0	1	1
-TGC	1	1	1	2	0	0	1	1	2	4	5	2
-TGA	9	10	11	4	3	1	11	3	0	10	7	12
-TGG	0	0	5	0	0	1	1	1	0	2	6	0
-CTT	5	4	5	3	2	3	6	1	1	11	12	12
-CTC	19	18	11	3	1	10	6	4	5	28	32	14
-CTA	33	29	30	15	3	25	13	13	6	35	39	28
-CTG	2	5	5	2	1	4	4	3	3	7	5	4
-CCT	4	4	10	4	2	1	2	1	1	0	5	5
-CCC	11	9	14	4	5	7	6	3	2	15	11	5
-CCA	5	8	6	8	1	6	5	2	0	7	15	14
-CCG	1	0	1	0	0	0	0	0	0	1	1	1
-CAT	0	1	5	2	1	2	2	0	0	3	3	2
-CAC	3	7	16	3	1	5	14	0	4	10	10	8
-CAA	6	8	6	8	5	8	8	3	1	8	19	8
-CAG	0	1	0	0	2	1	0	0	0	2	1	2
-CGT	0	0	2	1	0	0	1	0	0	1	0	0
-CGC	2	3	3	2	0	1	2	1	1	2	6	4
-CGA	5	0	3	2	0	1	3	0	0	5	3	4
-CGG	0	0	1	1	1	1	0	0	0	0	0	0
-ATT	8	10	24	6	1	6	14	5	6	11	20	6
-ATC	15	24	20	16	2	17	6	7	7	24	29	26
-ATA	15	21	17	8	3	12	5	5	8	27	34	17
-ATG	4	1	12	3	1	2	2	1	3	6	1	1
-ACT	4	11	8	4	1	7	1	4	1	11	8	4
-ACC	11	19	11	6	2	13	10	2	2	20	35	18
-ACA	18	23	15	11	5	9	13	5	2	23	28	12
-ACG	1	4	3	1	2	2	0	0	0	3	1	0
-AAT	1	5	6	0	0	1	2	0	1	4	6	7
-AAC	12	15	12	9	4	13	2	6	6	17	26	11
-AAA	5	8	11	4	4	6	3	3	0	8	20	9
-AAG	2	2	0	0	0	0	0	1	0	5	1	1
-AGT	3	1	4	0	0	1	2	0	0	0	5	1
-AGC	3	3	3	2	1	1	6	1	0	9	9	4
-GTT	1	3	8	2	0	1	3	0	0	2	5	2
-GTC	3	2	10	6	0	3	4	1	0	1	3	4
-GTA	2	2	10	3	0	3	3	0	1	6	5	10
-GTG	0	0	3	1	0	1	0	0	1	0	6	0
-GCT	3	2	5	1	0	3	3	3	1	3	10	2
-GCC	12	7	21	8	1	8	9	3	4	12	23	10
-GCA	9	7	7	4	1	3	5	2	4	9	8	10
-GCG	0	0	4	0	0	1	0	0	1	2	0	1
-GAT	3	0	4	2	0	0	1	0	1	0	1	1
-GAC	0	0	9	7	1	0	2	3	0	4	10	9
-GAA	11	4	8	10	0	3	6	3	1	7	9	2
-GAG	0	1	2	1	0	0	0	2	1	2	0	1
-GGT	2	2	10	1	0	2	3	0	0	2	2	2
-GGC	4	6	16	5	0	2	6	0	2	9	13	12
-GGA	5	6	16	4	0	3	7	1	2	6	8	7
-GGG	1	0	7	1	0	1	1	1	0	1	1	0
-TAA	0	0	1	1	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007316909.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	10	10	2	0	4	6	11	0	3	8	0	1	9	0	5	19	33	2	4	11	5	1	0	3	6	0	0	2	5	0	8	15	15	4	4	11	18	1	1	12	5	2	3	3	1	3	2	0	3	12	9	0	3	0	11	0	2	4	5	1	0	0	0	0
+1	ND2	YP_007316910.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	4	6	7	0	6	9	8	0	4	6	0	1	10	0	4	18	29	5	4	9	8	0	1	7	8	1	0	3	0	0	10	24	21	1	11	19	23	4	5	15	8	2	1	3	3	2	2	0	2	7	7	0	0	0	4	1	2	6	6	0	0	0	0	0
+2	COX1	YP_007316911.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	20	21	10	2	6	12	10	1	6	12	1	1	11	5	5	11	30	5	10	14	6	1	5	16	6	0	2	3	3	1	24	20	17	12	8	11	15	3	6	12	11	0	4	3	8	10	10	3	5	21	7	4	4	9	8	2	10	16	16	7	1	0	0	0
+3	COX2	YP_007316912.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	7	3	7	1	1	5	4	0	3	6	0	2	4	0	3	3	15	2	4	4	8	0	2	3	8	0	1	2	2	1	6	16	8	3	4	6	11	1	0	9	4	0	0	2	2	6	3	1	1	8	4	0	2	7	10	1	1	5	4	1	1	0	0	0
+4	ATP8	YP_007316913.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	0	1	2	0	1	2	0	0	2	2	1	0	3	0	2	1	3	1	2	5	1	0	1	1	5	2	0	0	0	1	1	2	3	1	1	2	5	2	0	4	4	0	0	1	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_007316914.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	4	3	3	1	4	4	4	0	0	2	0	0	1	1	3	10	25	4	1	7	6	0	2	5	8	1	0	1	1	1	6	17	12	2	7	13	9	2	1	13	6	0	1	1	1	3	3	1	3	8	3	1	0	0	3	0	2	2	3	1	1	0	0	0
+6	COX3	YP_007316915.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	10	14	6	1	2	5	4	2	6	6	1	1	11	1	6	6	13	4	2	6	5	0	2	14	8	0	1	2	3	0	14	6	5	2	1	10	13	0	2	2	3	0	2	6	3	4	3	0	3	9	5	0	1	2	6	0	3	6	7	1	0	0	0	0
+7	ND3	YP_007316916.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	2	6	3	0	0	3	3	0	0	3	0	1	3	1	1	4	13	3	1	3	2	0	0	0	3	0	0	1	0	0	5	7	5	1	4	2	5	0	0	6	3	1	0	1	0	1	0	0	3	3	2	0	0	3	3	2	0	0	1	1	0	0	0	0
+8	ND4L	YP_007316917.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	2	1	3	0	0	3	4	1	1	1	1	2	0	0	1	5	6	3	1	2	0	0	0	4	1	0	0	1	0	0	6	7	8	3	1	2	2	0	1	6	0	0	0	0	0	0	1	1	1	4	4	1	1	0	1	1	0	2	2	0	1	0	0	0
+9	ND4	YP_007316918.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	6	12	9	3	7	13	7	1	1	15	0	4	10	2	11	28	35	7	0	15	7	1	3	10	8	2	1	2	5	0	11	24	27	6	11	20	23	3	4	17	8	5	0	9	2	1	6	0	3	12	9	2	0	4	7	2	2	9	6	1	0	0	0	0
+10	ND5	YP_007316919.2	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	11	22	13	0	5	14	13	1	7	9	1	5	7	6	12	32	39	5	5	11	15	1	3	10	19	1	0	6	3	0	20	29	34	1	8	35	28	1	6	26	20	1	5	9	5	3	5	6	10	23	8	0	1	10	9	0	2	13	8	1	1	0	0	0
+11	CYTB	YP_007316921.1	Papio kindae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Papio	3	18	6	0	3	10	9	1	3	11	1	2	12	0	12	14	28	4	5	5	14	1	2	8	8	2	0	4	4	0	6	26	17	1	4	18	12	0	7	11	9	1	1	4	2	4	10	0	2	10	10	1	1	9	2	1	2	12	7	0	0	0	0	0

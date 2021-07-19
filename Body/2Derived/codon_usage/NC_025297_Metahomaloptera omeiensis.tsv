@@ -1,65 +1,13 @@
-	YP_009092534.1|ND1	YP_009092535.1|ND2	YP_009092536.1|COX1	YP_009092537.1|COX2	YP_009092538.1|ATP8	YP_009092539.1|ATP6	YP_009092540.1|COX3	YP_009092541.1|ND3	YP_009092542.1|ND4L	YP_009092543.1|ND4	YP_009092544.1|ND5	YP_009092546.1|CYTB
-TTT	9	6	22	6	2	7	8	6	3	7	17	12
-TTC	7	4	20	3	1	5	14	3	5	9	23	19
-TTA	10	12	3	5	2	6	6	1	5	18	7	9
-TTG	1	3	2	0	0	0	0	0	1	2	2	0
-TCT	2	0	9	4	0	2	3	3	1	6	7	4
-TCC	4	10	5	5	0	2	5	2	3	9	12	9
-TCA	10	7	9	3	1	2	4	1	2	6	10	9
-TCG	1	0	1	0	0	0	0	0	0	0	1	0
-TAT	5	1	10	3	0	3	5	2	0	9	3	6
-TAC	7	7	8	6	0	1	7	1	0	6	10	8
-TGT	0	1	0	0	0	0	0	0	1	1	2	0
-TGC	0	0	1	2	0	0	2	1	2	4	4	3
-TGA	6	10	15	4	4	5	10	4	1	16	12	13
-TGG	2	1	2	1	1	0	2	1	0	3	2	0
-CTT	5	10	11	8	1	13	6	4	3	8	23	5
-CTC	16	10	10	6	0	7	11	6	5	19	17	11
-CTA	29	27	26	6	0	17	7	12	6	29	34	29
-CTG	2	7	11	3	0	4	4	1	3	10	6	6
-CCT	1	1	5	0	2	2	5	1	1	7	3	6
-CCC	7	9	9	10	3	6	3	6	1	12	13	6
-CCA	16	9	13	4	3	6	5	0	0	11	15	7
-CCG	0	0	1	0	1	3	0	1	0	0	0	2
-CAT	2	3	5	3	0	1	2	0	0	5	4	2
-CAC	3	4	14	8	2	2	14	0	4	7	10	10
-CAA	5	12	7	7	2	7	8	2	3	10	19	6
-CAG	2	0	1	1	0	1	1	1	0	2	2	1
-CGT	0	1	0	2	0	2	1	0	0	2	0	0
-CGC	1	1	1	1	0	2	0	0	2	4	2	0
-CGA	6	2	7	3	0	1	4	2	0	5	7	8
-CGG	1	0	0	0	0	1	0	0	1	1	1	0
-ATT	13	16	20	13	3	14	9	5	2	21	28	15
-ATC	11	7	17	6	1	8	6	3	0	21	25	16
-ATA	8	14	13	8	2	5	4	1	2	17	20	9
-ATG	3	3	10	4	2	5	4	1	3	5	9	1
-ACT	4	10	3	2	3	5	1	2	1	8	7	1
-ACC	8	25	9	6	2	7	8	2	3	16	29	6
-ACA	10	13	20	4	0	6	9	4	4	18	20	12
-ACG	0	1	5	0	0	0	3	0	0	3	2	2
-AAT	3	3	4	4	2	4	0	0	0	3	10	5
-AAC	9	9	12	1	0	6	1	2	2	8	18	12
-AAA	7	9	8	4	2	1	2	0	0	8	15	8
-AAG	0	0	0	0	1	0	0	1	0	2	5	0
-AGT	0	0	2	0	1	1	0	1	0	3	3	0
-AGC	2	4	2	3	1	3	3	0	2	5	10	1
-GTT	3	1	16	3	0	5	5	1	2	7	6	6
-GTC	3	2	5	6	0	4	5	6	0	3	10	9
-GTA	10	2	16	10	3	7	5	1	0	4	7	10
-GTG	2	0	7	1	0	2	0	0	0	2	5	2
-GCT	5	2	4	4	1	3	6	0	0	3	17	5
-GCC	19	22	23	5	1	11	8	2	7	18	28	12
-GCA	11	21	20	6	1	5	8	5	6	12	13	12
-GCG	0	0	1	2	0	1	1	1	1	2	0	2
-GAT	0	1	1	1	0	1	1	1	0	0	3	2
-GAC	4	2	13	11	1	0	4	3	1	3	10	9
-GAA	10	5	6	10	3	2	8	7	2	5	10	6
-GAG	1	0	5	3	0	2	1	0	1	6	2	1
-GGT	1	0	6	0	0	0	0	1	0	0	0	0
-GGC	3	2	11	1	0	1	8	3	2	9	7	6
-GGA	6	10	17	7	0	6	8	2	1	17	14	14
-GGG	8	6	12	1	0	4	6	0	3	3	11	5
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009092534.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	9	7	10	1	2	4	10	1	5	7	0	0	6	2	5	16	29	2	1	7	16	0	2	3	5	2	0	1	6	1	13	11	8	3	4	8	10	0	3	9	7	0	0	2	3	3	10	2	5	19	11	0	0	4	10	1	1	3	6	8	1	0	0	0
+1	ND2	YP_009092535.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	6	4	12	3	0	10	7	0	1	7	1	0	10	1	10	10	27	7	1	9	9	0	3	4	12	0	1	1	2	0	16	7	14	3	10	25	13	1	3	9	9	0	0	4	1	2	2	0	2	22	21	0	1	2	5	0	0	2	10	6	0	0	0	0
+2	COX1	YP_009092536.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	22	20	3	2	9	5	9	1	10	8	0	1	15	2	11	10	26	11	5	9	13	1	5	14	7	1	0	1	7	0	20	17	13	10	3	9	20	5	4	12	8	0	2	2	16	5	16	7	4	23	20	1	1	13	6	5	6	11	17	12	1	0	0	0
+3	COX2	YP_009092537.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	6	3	5	0	4	5	3	0	3	6	0	2	4	1	8	6	6	3	0	10	4	0	3	8	7	1	2	1	3	0	13	6	8	4	2	6	4	0	4	1	4	0	0	3	3	6	10	1	4	5	6	2	1	11	10	3	0	1	7	1	0	0	0	0
+4	ATP8	YP_009092538.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	2	1	2	0	0	0	1	0	0	0	0	0	4	1	1	0	0	0	2	3	3	1	0	2	2	0	0	0	0	0	3	1	2	2	3	2	0	0	2	0	2	1	1	1	0	0	3	0	1	1	1	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009092539.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	7	5	6	0	2	2	2	0	3	1	0	0	5	0	13	7	17	4	2	6	6	3	1	2	7	1	2	2	1	1	14	8	5	5	5	7	6	0	4	6	1	0	1	3	5	4	7	2	3	11	5	1	1	0	2	2	0	1	6	4	1	0	0	0
+6	COX3	YP_009092540.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	8	14	6	0	3	5	4	0	5	7	0	2	10	2	6	11	7	4	5	3	5	0	2	14	8	1	1	0	4	0	9	6	4	4	1	8	9	3	0	1	2	0	0	3	5	5	5	0	6	8	8	1	1	4	8	1	0	8	8	6	0	0	0	0
+7	ND3	YP_009092541.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	6	3	1	0	3	2	1	0	2	1	0	1	4	1	4	6	12	1	1	6	0	1	0	0	2	1	0	0	2	0	5	3	1	1	2	2	4	0	0	2	0	1	1	0	1	6	1	0	0	2	5	1	1	3	7	0	1	3	2	0	0	0	0	0
+8	ND4L	YP_009092542.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	3	5	5	1	1	3	2	0	0	0	1	2	1	0	3	5	6	3	1	1	0	0	0	4	3	0	0	2	0	1	2	0	2	3	1	3	4	0	0	2	0	0	0	2	2	0	0	0	0	7	6	1	0	1	2	1	0	2	1	3	1	0	0	0
+9	ND4	YP_009092543.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	7	9	18	2	6	9	6	0	9	6	1	4	16	3	8	19	29	10	7	12	11	0	5	7	10	2	2	4	5	1	21	21	17	5	8	16	18	3	3	8	8	2	3	5	7	3	4	2	3	18	12	2	0	3	5	6	0	9	17	3	0	0	0	0
+10	ND5	YP_009092544.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	17	23	7	2	7	12	10	1	3	10	2	4	12	2	23	17	34	6	3	13	15	0	4	10	19	2	0	2	7	1	28	25	20	9	7	29	20	2	10	18	15	5	3	10	6	10	7	5	17	28	13	0	3	10	10	2	0	7	14	11	1	0	0	0
+11	CYTB	YP_009092546.1	Metahomaloptera omeiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Metahomaloptera	12	19	9	0	4	9	9	0	6	8	0	3	13	0	5	11	29	6	6	6	7	2	2	10	6	1	0	0	8	0	15	16	9	1	1	6	12	2	5	12	8	0	0	1	6	9	10	2	5	12	12	2	2	9	6	1	0	6	14	5	0	0	0	0

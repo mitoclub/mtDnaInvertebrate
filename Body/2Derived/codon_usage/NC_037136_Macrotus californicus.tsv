@@ -1,65 +1,13 @@
-	YP_009466926.1|ND1	YP_009466927.1|ND2	YP_009466928.1|COX1	YP_009466929.1|COX2	YP_009466930.1|ATP8	YP_009466931.1|ATP6	YP_009466932.1|COX3	YP_009466933.1|ND3	YP_009466934.1|ND4L	YP_009466935.1|ND4	YP_009466936.1|ND5	YP_009466938.1|CYTB
-TTT	10	5	21	5	2	7	9	6	1	5	16	9
-TTC	7	4	21	2	1	6	14	2	5	10	28	15
-TTA	11	10	14	7	2	14	9	7	8	22	24	10
-TTG	0	0	3	3	1	1	1	0	0	4	3	0
-TCT	4	5	7	3	1	6	3	0	0	6	8	6
-TCC	7	8	11	6	1	0	6	4	5	11	17	9
-TCA	7	9	5	5	4	2	9	1	1	8	13	6
-TCG	0	0	1	2	0	0	1	0	1	0	0	0
-TAT	7	6	9	5	0	2	10	0	2	7	6	5
-TAC	7	3	10	6	3	0	3	3	1	10	7	12
-TGT	1	0	1	1	0	0	1	1	2	2	3	1
-TGC	0	0	0	1	0	0	0	0	1	1	1	3
-TGA	6	7	16	5	2	3	10	4	0	12	10	11
-TGG	2	3	1	0	1	0	2	0	0	1	2	1
-CTT	5	8	6	8	1	4	8	4	1	15	9	12
-CTC	4	12	8	1	1	3	3	4	6	16	14	6
-CTA	37	28	28	11	4	17	13	9	5	30	51	32
-CTG	2	5	2	1	0	4	2	1	2	5	2	3
-CCT	7	4	15	4	3	2	2	1	1	5	10	2
-CCC	8	9	7	5	2	7	5	4	0	9	13	8
-CCA	7	7	6	4	2	2	5	2	0	11	6	14
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	1	1	12	5	1	4	8	0	1	6	5	4
-CAC	1	7	6	3	0	4	8	0	0	5	10	9
-CAA	6	6	5	5	3	7	6	3	2	8	14	7
-CAG	0	1	2	1	0	1	1	0	0	2	2	0
-CGT	1	1	2	1	0	0	1	1	0	1	0	3
-CGC	3	2	1	1	0	1	1	0	0	1	5	0
-CGA	4	0	5	3	1	4	3	0	1	8	4	5
-CGG	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	12	20	25	13	5	17	10	8	1	27	28	11
-ATC	16	13	10	7	3	10	6	1	4	21	22	20
-ATA	18	27	23	12	1	11	6	4	9	31	39	14
-ATG	2	1	8	2	2	1	2	0	2	4	3	3
-ACT	5	13	9	1	2	7	8	4	3	11	16	7
-ACC	11	15	12	5	0	8	4	2	1	16	19	8
-ACA	9	26	17	11	6	7	12	2	6	19	25	10
-ACG	1	1	2	1	1	2	0	1	1	0	0	0
-AAT	6	8	9	3	1	7	2	1	3	6	14	3
-AAC	8	11	8	3	0	4	5	4	3	15	17	12
-AAA	7	9	9	2	5	4	3	4	0	10	19	8
-AAG	0	2	0	2	1	0	0	0	0	2	2	0
-AGT	0	1	2	3	0	0	0	0	0	2	2	0
-AGC	1	2	1	1	1	3	3	2	0	8	8	5
-GTT	2	1	8	2	0	1	1	0	0	1	5	9
-GTC	2	1	9	1	0	1	4	0	0	5	7	7
-GTA	9	9	20	8	0	7	7	2	4	2	7	8
-GTG	0	0	3	3	0	1	0	0	2	1	0	0
-GCT	8	1	13	3	0	8	2	4	0	6	9	2
-GCC	11	7	17	3	0	7	7	3	1	12	14	8
-GCA	8	8	11	3	0	4	3	5	5	7	15	10
-GCG	0	0	1	0	0	0	0	0	0	2	4	1
-GAT	1	0	8	3	0	1	2	0	1	1	6	6
-GAC	2	1	6	8	1	0	2	2	0	2	4	4
-GAA	9	5	10	12	2	3	6	5	1	8	9	5
-GAG	1	0	0	2	0	0	1	1	1	1	2	1
-GGT	1	2	16	2	0	2	0	0	1	3	5	0
-GGC	8	4	12	4	0	2	6	1	2	6	9	8
-GGA	4	6	13	1	0	6	11	1	0	9	11	13
-GGG	1	2	6	1	0	1	4	1	1	0	2	3
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009466926.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	10	7	11	0	4	7	7	0	7	7	1	0	6	2	5	4	37	2	7	8	7	0	1	1	6	0	1	3	4	0	12	16	18	2	5	11	9	1	6	8	7	0	0	1	2	2	9	0	8	11	8	0	1	2	9	1	1	8	4	1	0	0	0	0
+1	ND2	YP_009466927.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	5	4	10	0	5	8	9	0	6	3	0	0	7	3	8	12	28	5	4	9	7	0	1	7	6	1	1	2	0	0	20	13	27	1	13	15	26	1	8	11	9	2	1	2	1	1	9	0	1	7	8	0	0	1	5	0	2	4	6	2	0	0	0	0
+2	COX1	YP_009466928.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	21	21	14	3	7	11	5	1	9	10	1	0	16	1	6	8	28	2	15	7	6	1	12	6	5	2	2	1	5	0	25	10	23	8	9	12	17	2	9	8	9	0	2	1	8	9	20	3	13	17	11	1	8	6	10	0	16	12	13	6	1	0	0	0
+3	COX2	YP_009466929.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	5	2	7	3	3	6	5	2	5	6	1	1	5	0	8	1	11	1	4	5	4	0	5	3	5	1	1	1	3	1	13	7	12	2	1	5	11	1	3	3	2	2	3	1	2	1	8	3	3	3	3	0	3	8	12	2	2	4	1	1	1	0	0	0
+4	ATP8	YP_009466930.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	2	1	2	1	1	1	4	0	0	3	0	0	2	1	1	1	4	0	3	2	2	0	1	0	3	0	0	0	1	0	5	3	1	2	2	0	6	1	1	0	5	1	0	1	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009466931.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	7	6	14	1	6	0	2	0	2	0	0	0	3	0	4	3	17	4	2	7	2	0	4	4	7	1	0	1	4	0	17	10	11	1	7	8	7	2	7	4	4	0	0	3	1	1	7	1	8	7	4	0	1	0	3	0	2	2	6	1	1	0	0	0
+6	COX3	YP_009466932.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	9	14	9	1	3	6	9	1	10	3	1	0	10	2	8	3	13	2	2	5	5	0	8	8	6	1	1	1	3	0	10	6	6	2	8	4	12	0	2	5	3	0	0	3	1	4	7	0	2	7	3	0	2	2	6	1	0	6	11	4	0	0	0	0
+7	ND3	YP_009466933.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	6	2	7	0	0	4	1	0	0	3	1	0	4	0	4	4	9	1	1	4	2	0	0	0	3	0	1	0	0	0	8	1	4	0	4	2	2	1	1	4	4	0	0	2	0	0	2	0	4	3	5	0	0	2	5	1	0	1	1	1	1	0	0	0
+8	ND4L	YP_009466934.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	1	5	8	0	0	5	1	1	2	1	2	1	0	0	1	6	5	2	1	0	0	0	1	0	2	0	0	0	1	0	1	4	9	2	3	1	6	1	3	3	0	0	0	0	0	0	4	2	0	1	5	0	1	0	1	1	1	2	0	1	1	0	0	0
+9	ND4	YP_009466935.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	5	10	22	4	6	11	8	0	7	10	2	1	12	1	15	16	30	5	5	9	11	0	6	5	8	2	1	1	8	0	27	21	31	4	11	16	19	0	6	15	10	2	2	8	1	5	2	1	6	12	7	2	1	2	8	1	3	6	9	0	0	0	0	0
+10	ND5	YP_009466936.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	16	28	24	3	8	17	13	0	6	7	3	1	10	2	9	14	51	2	10	13	6	0	5	10	14	2	0	5	4	0	28	22	39	3	16	19	25	0	14	17	19	2	2	8	5	7	7	0	9	14	15	4	6	4	9	2	5	9	11	2	1	0	0	0
+11	CYTB	YP_009466938.1	Macrotus californicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Macrotus	9	15	10	0	6	9	6	0	5	12	1	3	11	1	12	6	32	3	2	8	14	0	4	9	7	0	3	0	5	0	11	20	14	3	7	8	10	0	3	12	8	0	0	5	9	7	8	0	2	8	10	1	6	4	5	1	0	8	13	3	0	0	1	0

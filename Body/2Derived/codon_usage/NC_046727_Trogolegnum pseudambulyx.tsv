@@ -1,65 +1,10 @@
-	YP_009743966.1|ND2	YP_009743967.1|COX1	YP_009743968.1|COX2	YP_009743969.1|ATP8	YP_009743970.1|ATP6	YP_009743971.1|COX3	YP_009743972.1|ND3	YP_009743976.1|ND6	YP_009743977.1|CYTB
-TTT	45	32	14	5	16	21	13	13	29
-TTC	4	7	3	1	6	6	3	3	6
-TTA	34	47	23	2	27	21	7	26	42
-TTG	1	5	0	0	1	0	0	0	1
-TCT	7	9	3	1	3	4	1	3	3
-TCC	2	6	0	0	2	1	2	1	2
-TCA	18	17	9	1	7	4	4	8	6
-TCG	2	1	0	0	0	0	1	0	0
-TAT	10	14	8	5	5	6	0	6	15
-TAC	4	7	0	1	2	5	1	1	6
-TGT	1	1	1	1	0	0	1	0	2
-TGC	0	1	1	0	0	2	1	1	1
-TGA	8	14	6	3	5	13	3	2	12
-TGG	1	0	0	0	0	0	0	0	0
-CTT	2	3	1	3	1	2	3	0	3
-CTC	1	1	0	1	1	1	0	1	0
-CTA	3	7	5	0	6	4	6	5	11
-CTG	1	0	0	0	0	0	0	0	0
-CCT	1	9	3	0	2	0	0	0	7
-CCC	3	8	2	0	2	3	1	0	5
-CCA	3	9	6	2	4	6	3	3	10
-CCG	0	0	0	0	1	0	0	0	0
-CAT	1	9	1	0	5	10	1	1	3
-CAC	0	7	4	0	1	4	1	2	5
-CAA	4	9	7	2	4	7	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	0	0	1	1	0	0	0
-CGC	0	0	1	0	0	0	0	0	0
-CGA	2	8	6	0	2	3	1	1	7
-CGG	0	0	0	0	0	0	1	0	0
-ATT	37	51	27	6	18	26	19	17	42
-ATC	13	10	5	1	5	5	4	3	7
-ATA	35	28	8	4	18	7	6	14	17
-ATG	1	1	1	0	3	2	1	2	1
-ACT	3	5	6	0	11	6	0	5	5
-ACC	4	4	1	0	1	2	1	2	6
-ACA	2	21	3	0	7	10	4	6	14
-ACG	1	0	0	0	0	0	0	0	0
-AAT	28	15	18	5	16	11	7	16	24
-AAC	6	8	6	4	4	7	1	5	6
-AAA	15	6	4	5	4	4	6	9	13
-AAG	0	0	0	0	0	0	0	0	0
-AGT	2	2	1	1	1	2	0	0	0
-AGC	0	0	0	0	1	0	0	0	1
-AGA	6	9	2	0	7	4	1	1	4
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	8	1	0	1	3	0	2	4
-GTC	0	1	2	0	1	0	0	1	0
-GTA	4	8	5	0	4	7	1	2	8
-GTG	0	4	0	0	0	1	0	0	0
-GCT	2	10	3	0	3	6	0	1	5
-GCC	1	6	1	0	1	0	0	2	0
-GCA	2	14	3	0	2	6	2	1	11
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	12	8	0	1	4	1	0	8
-GAC	0	3	0	0	0	0	2	0	0
-GAA	5	9	9	0	4	7	4	3	3
-GAG	0	0	0	0	0	0	0	0	0
-GGT	4	8	3	0	2	2	1	1	3
-GGC	0	1	0	0	0	0	0	0	0
-GGA	6	31	4	0	4	16	1	2	15
-GGG	2	3	2	0	2	1	0	2	5
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009743966.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	45	4	34	1	7	2	18	2	10	4	1	0	8	1	2	1	3	1	1	3	3	0	1	0	4	0	0	0	2	0	37	13	35	1	3	4	2	1	28	6	15	0	2	0	6	0	0	0	4	0	2	1	2	0	0	0	5	0	4	0	6	2	1	0
+1	COX1	YP_009743967.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	32	7	47	5	9	6	17	1	14	7	1	1	14	0	3	1	7	0	9	8	9	0	9	7	9	0	1	0	8	0	51	10	28	1	5	4	21	0	15	8	6	0	2	0	9	0	8	1	8	4	10	6	14	0	12	3	9	0	8	1	31	3	0	0
+2	COX2	YP_009743968.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	14	3	23	0	3	0	9	0	8	0	1	1	6	0	1	0	5	0	3	2	6	0	1	4	7	0	0	1	6	0	27	5	8	1	6	1	3	0	18	6	4	0	1	0	2	0	1	2	5	0	3	1	3	0	8	0	9	0	3	0	4	2	0	0
+3	ATP8	YP_009743969.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	5	1	2	0	1	0	1	0	5	1	1	0	3	0	3	1	0	0	0	0	2	0	0	0	2	0	0	0	0	0	6	1	4	0	0	0	0	0	5	4	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009743970.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	16	6	27	1	3	2	7	0	5	2	0	0	5	0	1	1	6	0	2	2	4	1	5	1	4	0	1	0	2	0	18	5	18	3	11	1	7	0	16	4	4	0	1	1	7	0	1	1	4	0	3	1	2	0	1	0	4	0	2	0	4	2	1	0
+5	COX3	YP_009743971.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	21	6	21	0	4	1	4	0	6	5	0	2	13	0	2	1	4	0	0	3	6	0	10	4	7	0	1	0	3	0	26	5	7	2	6	2	10	0	11	7	4	0	2	0	4	0	3	0	7	1	6	0	6	0	4	0	7	0	2	0	16	1	1	0
+6	ND3	YP_009743972.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	13	3	7	0	1	2	4	1	0	1	1	1	3	0	3	0	6	0	0	1	3	0	1	1	1	0	0	0	1	1	19	4	6	1	0	1	4	0	7	1	6	0	0	0	1	0	0	0	1	0	0	0	2	0	1	2	4	0	1	0	1	0	1	0
+7	ND6	YP_009743976.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	13	3	26	0	3	1	8	0	6	1	0	1	2	0	0	1	5	0	0	0	3	0	1	2	3	0	0	0	1	0	17	3	14	2	5	2	6	0	16	5	9	0	0	0	1	0	2	1	2	0	1	2	1	0	0	0	3	0	1	0	2	2	1	0
+8	CYTB	YP_009743977.1	Trogolegnum pseudambulyx	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Smerinthinae, Ambulycini, Trogolegnum	29	6	42	1	3	2	6	0	15	6	2	1	12	0	3	0	11	0	7	5	10	0	3	5	8	0	0	0	7	0	42	7	17	1	5	6	14	0	24	6	13	0	0	1	4	0	4	0	8	0	5	0	11	0	8	0	3	0	3	0	15	5	1	0

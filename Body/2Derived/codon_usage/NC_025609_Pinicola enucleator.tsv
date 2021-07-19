@@ -1,65 +1,11 @@
-	YP_009107810.1|ND1	YP_009107811.1|ND2	YP_009107812.1|COX1	YP_009107813.1|COX2	YP_009107814.1|ATP8	YP_009107815.1|ATP6	YP_009107817.1|ND3	YP_009107818.1|ND4L	YP_009107819.1|ND4	YP_009107821.1|CYTB
-TTT	5	2	4	1	3	1	1	1	1	2
-TTC	12	9	39	7	1	10	7	4	12	25
-TTA	9	8	9	2	0	7	2	1	4	1
-TTG	3	2	0	0	0	0	0	0	2	0
-TCT	5	4	8	2	0	0	1	0	6	2
-TCC	6	13	7	11	2	6	3	6	13	9
-TCA	9	10	9	3	3	6	2	2	10	11
-TCG	0	1	1	0	0	0	0	0	1	0
-TAT	5	1	3	1	0	1	0	0	1	0
-TAC	9	7	15	6	0	2	2	3	12	12
-TGT	1	0	0	0	0	0	1	0	0	0
-TGC	2	1	1	3	0	0	0	3	3	4
-TGA	6	8	15	4	5	4	4	1	11	11
-TGG	2	2	2	1	0	0	1	0	0	0
-CTT	10	11	7	6	0	5	2	1	9	4
-CTC	10	17	11	8	2	8	4	4	21	15
-CTA	30	24	33	12	2	35	22	12	58	39
-CTG	4	5	3	3	0	6	1	1	4	3
-CCT	5	3	6	2	4	1	0	0	1	3
-CCC	8	8	7	3	1	3	1	1	11	5
-CCA	11	10	16	6	6	11	7	2	15	16
-CCG	0	0	1	1	0	0	0	0	0	0
-CAT	2	0	4	3	0	1	0	0	4	4
-CAC	1	9	14	7	0	2	0	6	10	8
-CAA	6	8	8	6	2	8	3	3	14	8
-CAG	0	2	1	0	0	0	0	0	0	0
-CGT	2	0	1	0	0	1	0	0	0	3
-CGC	1	2	2	1	0	1	0	0	1	1
-CGA	3	2	5	5	0	3	2	2	10	4
-CGG	2	0	0	0	0	0	0	0	0	0
-ATT	9	10	8	4	2	3	3	1	14	8
-ATC	14	24	31	9	4	15	4	4	27	26
-ATA	10	14	20	9	1	7	4	6	21	9
-ATG	3	4	2	3	2	1	0	1	5	1
-ACT	5	9	2	5	2	2	2	1	9	2
-ACC	6	19	16	4	3	6	5	5	14	9
-ACA	7	11	19	7	0	14	1	2	17	13
-ACG	1	1	0	0	0	0	0	0	1	0
-AAT	2	2	4	2	0	1	0	0	4	7
-AAC	13	11	11	5	3	8	3	2	12	14
-AAA	6	12	9	4	2	4	1	0	10	9
-AAG	1	2	0	0	0	0	0	0	0	1
-AGT	1	0	0	0	0	0	0	1	1	0
-AGC	4	5	4	4	1	4	1	3	8	1
-GTT	2	0	5	2	1	2	0	0	3	3
-GTC	1	3	13	3	0	1	0	0	5	6
-GTA	11	4	20	12	1	6	1	1	4	11
-GTG	2	1	3	1	0	0	0	1	1	2
-GCT	3	2	9	2	1	2	1	0	5	7
-GCC	15	12	19	8	0	10	6	8	22	13
-GCA	9	12	16	6	1	5	2	2	12	7
-GCG	3	1	1	0	0	0	1	0	0	2
-GAT	1	0	6	3	0	1	0	0	0	0
-GAC	3	1	9	9	0	2	3	1	2	9
-GAA	8	5	9	13	0	4	5	2	9	6
-GAG	3	0	1	0	0	0	2	0	1	0
-GGT	4	2	7	1	0	3	0	0	2	2
-GGC	4	5	7	2	0	0	1	3	8	5
-GGA	4	5	31	5	0	4	4	1	6	14
-GGG	1	0	2	0	0	0	0	0	2	3
-TAA	0	0	0	1	1	1	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009107810.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	5	12	9	3	5	6	9	0	5	9	1	2	6	2	10	10	30	4	5	8	11	0	2	1	6	0	2	1	3	2	9	14	10	3	5	6	7	1	2	13	6	1	1	4	2	1	11	2	3	15	9	3	1	3	8	3	4	4	4	1	0	0	1	0
+1	ND2	YP_009107811.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	2	9	8	2	4	13	10	1	1	7	0	1	8	2	11	17	24	5	3	8	10	0	0	9	8	2	0	2	2	0	10	24	14	4	9	19	11	1	2	11	12	2	0	5	0	3	4	1	2	12	12	1	0	1	5	0	2	5	5	0	0	0	0	0
+2	COX1	YP_009107812.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	4	39	9	0	8	7	9	1	3	15	0	1	15	2	7	11	33	3	6	7	16	1	4	14	8	1	1	2	5	0	8	31	20	2	2	16	19	0	4	11	9	0	0	4	5	13	20	3	9	19	16	1	6	9	9	1	7	7	31	2	0	0	0	1
+3	COX2	YP_009107813.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	1	7	2	0	2	11	3	0	1	6	0	3	4	1	6	8	12	3	2	3	6	1	3	7	6	0	0	1	5	0	4	9	9	3	5	4	7	0	2	5	4	0	0	4	2	3	12	1	2	8	6	0	3	9	13	0	1	2	5	0	1	0	0	0
+4	ATP8	YP_009107814.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	3	1	0	0	0	2	3	0	0	0	0	0	5	0	0	2	2	0	4	1	6	0	0	0	2	0	0	0	0	0	2	4	1	2	2	3	0	0	0	3	2	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009107815.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	1	10	7	0	0	6	6	0	1	2	0	0	4	0	5	8	35	6	1	3	11	0	1	2	8	0	1	1	3	0	3	15	7	1	2	6	14	0	1	8	4	0	0	4	2	1	6	0	2	10	5	0	1	2	4	0	3	0	4	0	1	0	0	0
+6	ND3	YP_009107817.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	1	7	2	0	1	3	2	0	0	2	1	0	4	1	2	4	22	1	0	1	7	0	0	0	3	0	0	0	2	0	3	4	4	0	2	5	1	0	0	3	1	0	0	1	0	0	1	0	1	6	2	1	0	3	5	2	0	1	4	0	1	0	0	0
+7	ND4L	YP_009107818.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	1	4	1	0	0	6	2	0	0	3	0	3	1	0	1	4	12	1	0	1	2	0	0	6	3	0	0	0	2	0	1	4	6	1	1	5	2	0	0	2	0	0	1	3	0	0	1	1	0	8	2	0	0	1	2	0	0	3	1	0	1	0	0	0
+8	ND4	YP_009107819.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	1	12	4	2	6	13	10	1	1	12	0	3	11	0	9	21	58	4	1	11	15	0	4	10	14	0	0	1	10	0	14	27	21	5	9	14	17	1	4	12	10	0	1	8	3	5	4	1	5	22	12	0	0	2	9	1	2	8	6	2	0	0	0	0
+9	CYTB	YP_009107821.1	Pinicola enucleator	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Pinicola	2	25	1	0	2	9	11	0	0	12	0	4	11	0	4	15	39	3	3	5	16	0	4	8	8	0	3	1	4	0	8	26	9	1	2	9	13	0	7	14	9	1	0	1	3	6	11	2	7	13	7	2	0	9	6	0	2	5	14	3	1	0	0	0

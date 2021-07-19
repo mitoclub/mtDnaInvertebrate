@@ -1,65 +1,10 @@
-	YP_009653356.1|ND2	YP_009653357.1|COX1	YP_009653358.1|COX2	YP_009653359.1|ATP8	YP_009653360.1|ATP6	YP_009653361.1|COX3	YP_009653362.1|ND3	YP_009653366.1|ND6	YP_009653367.1|CYTB
-TTT	23	23	8	1	10	7	5	4	10
-TTC	20	20	7	4	9	19	8	11	22
-TTA	27	20	11	1	13	13	2	13	15
-TTG	2	0	0	0	0	1	0	0	0
-TCT	11	8	5	0	4	2	0	1	3
-TCC	6	7	2	2	2	5	3	7	4
-TCA	13	12	8	3	9	7	8	7	7
-TCG	1	3	0	1	1	0	0	0	0
-TAT	8	6	5	0	3	5	0	4	7
-TAC	6	9	5	2	1	6	1	3	8
-TGT	2	1	1	0	0	1	1	1	2
-TGC	0	0	1	0	1	0	0	0	1
-TGA	8	14	5	3	4	11	3	2	12
-TGG	1	1	1	0	1	2	0	0	1
-CTT	9	13	3	1	10	4	3	1	6
-CTC	5	6	3	0	4	1	1	2	3
-CTA	11	21	10	0	13	9	11	21	27
-CTG	3	3	0	0	0	2	1	2	3
-CCT	0	8	3	3	1	3	1	3	4
-CCC	2	3	2	1	6	3	0	1	4
-CCA	5	14	7	1	3	5	3	1	15
-CCG	1	1	0	0	2	0	0	0	0
-CAT	3	7	1	0	5	6	0	0	3
-CAC	1	10	6	1	2	10	1	2	8
-CAA	6	11	6	2	4	7	1	2	6
-CAG	0	0	1	0	0	0	0	0	2
-CGT	0	0	0	0	0	0	0	0	0
-CGC	0	1	0	0	0	0	0	0	1
-CGA	2	9	6	0	3	4	3	1	7
-CGG	0	0	1	0	0	0	0	0	0
-ATT	23	30	16	5	9	9	15	11	21
-ATC	7	19	9	2	5	8	6	5	19
-ATA	27	24	8	7	12	6	7	11	12
-ATG	3	1	1	0	1	3	0	0	1
-ACT	3	12	5	0	8	5	0	4	2
-ACC	10	7	1	1	8	5	4	5	7
-ACA	7	16	6	1	5	11	2	7	16
-ACG	0	2	0	0	0	1	0	0	0
-AAT	10	8	8	0	9	6	3	10	7
-AAC	10	9	7	2	4	2	1	4	15
-AAA	7	2	4	3	2	2	4	5	7
-AAG	5	4	0	1	0	0	0	1	1
-AGT	2	3	0	0	5	0	0	0	0
-AGC	0	3	2	0	1	2	1	0	1
-AGA	6	4	3	2	3	3	0	0	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	9	5	0	8	11	2	0	7
-GTC	0	4	1	0	1	3	0	4	5
-GTA	3	17	7	1	8	8	3	3	13
-GTG	0	1	0	0	0	0	0	2	0
-GCT	8	13	1	1	2	4	1	2	2
-GCC	5	13	3	0	3	3	0	1	7
-GCA	3	9	4	0	3	5	0	2	13
-GCG	0	1	0	0	1	1	1	0	0
-GAT	1	8	6	0	0	2	1	0	6
-GAC	0	7	5	0	1	3	2	0	6
-GAA	5	9	8	0	4	7	3	3	3
-GAG	0	0	0	0	0	0	1	0	0
-GGT	3	9	4	1	3	6	1	1	8
-GGC	1	0	1	0	2	3	1	0	1
-GGA	8	28	4	0	6	10	2	0	13
-GGG	1	8	2	0	0	0	0	5	2
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009653356.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	23	20	27	2	11	6	13	1	8	6	2	0	8	1	9	5	11	3	0	2	5	1	3	1	6	0	0	0	2	0	23	7	27	3	3	10	7	0	10	10	7	5	2	0	6	0	3	0	3	0	8	5	3	0	1	0	5	0	3	1	8	1	1	0
+1	COX1	YP_009653357.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	23	20	20	0	8	7	12	3	6	9	1	0	14	1	13	6	21	3	8	3	14	1	7	10	11	0	0	1	9	0	30	19	24	1	12	7	16	2	8	9	2	4	3	3	4	0	9	4	17	1	13	13	9	1	8	7	9	0	9	0	28	8	0	0
+2	COX2	YP_009653358.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	8	7	11	0	5	2	8	0	5	5	1	1	5	1	3	3	10	0	3	2	7	0	1	6	6	1	0	0	6	1	16	9	8	1	5	1	6	0	8	7	4	0	0	2	3	0	5	1	7	0	1	3	4	0	6	5	8	0	4	1	4	2	0	0
+3	ATP8	YP_009653359.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	1	4	1	0	0	2	3	1	0	2	0	0	3	0	1	0	0	0	3	1	1	0	0	1	2	0	0	0	0	0	5	2	7	0	0	1	1	0	0	2	3	1	0	0	2	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_009653360.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	10	9	13	0	4	2	9	1	3	1	0	1	4	1	10	4	13	0	1	6	3	2	5	2	4	0	0	0	3	0	9	5	12	1	8	8	5	0	9	4	2	0	5	1	3	0	8	1	8	0	2	3	3	1	0	1	4	0	3	2	6	0	1	0
+5	COX3	YP_009653361.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	7	19	13	1	2	5	7	0	5	6	1	0	11	2	4	1	9	2	3	3	5	0	6	10	7	0	0	0	4	0	9	8	6	3	5	5	11	1	6	2	2	0	0	2	3	0	11	3	8	0	4	3	5	1	2	3	7	0	6	3	10	0	1	0
+6	ND3	YP_009653362.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	5	8	2	0	0	3	8	0	0	1	1	0	3	0	3	1	11	1	1	0	3	0	0	1	1	0	0	0	3	0	15	6	7	0	0	4	2	0	3	1	4	0	0	1	0	0	2	0	3	0	1	0	0	1	1	2	3	1	1	1	2	0	0	1
+7	ND6	YP_009653366.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	4	11	13	0	1	7	7	0	4	3	1	0	2	0	1	2	21	2	3	1	1	0	0	2	2	0	0	0	1	0	11	5	11	0	4	5	7	0	10	4	5	1	0	0	0	0	0	4	3	2	2	1	2	0	0	0	3	0	1	0	0	5	1	0
+8	CYTB	YP_009653367.1	Gasterophilus haemorrhoidalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Oestridae, Gasterophilinae, Gasterophilus	10	22	15	0	3	4	7	0	7	8	2	1	12	1	6	3	27	3	4	4	15	0	3	8	6	2	0	1	7	0	21	19	12	1	2	7	16	0	7	15	7	1	0	1	2	0	7	5	13	0	2	7	13	0	6	6	3	0	8	1	13	2	1	0

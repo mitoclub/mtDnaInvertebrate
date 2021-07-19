@@ -1,65 +1,10 @@
-	YP_009169958.1|ND2	YP_009169959.1|COX1	YP_009169960.1|COX2	YP_009169961.1|ATP8	YP_009169962.1|ATP6	YP_009169963.1|COX3	YP_009169964.1|ND3	YP_009169968.1|ND6	YP_009169969.1|CYTB
-TTT	39	32	12	6	20	24	10	20	26
-TTC	6	8	3	0	4	4	3	5	11
-TTA	45	45	20	8	34	29	14	23	35
-TTG	0	1	0	0	1	0	0	1	2
-TCT	13	16	2	4	5	6	3	5	7
-TCC	6	4	2	0	1	1	2	1	1
-TCA	15	11	8	0	6	5	6	2	8
-TCG	0	2	0	0	1	1	0	0	1
-TAT	16	14	9	3	5	5	3	4	15
-TAC	1	3	0	2	0	3	0	2	3
-TGT	2	0	2	1	0	1	1	0	3
-TGC	0	0	0	0	0	0	0	0	1
-TGA	8	14	6	3	4	13	3	1	13
-TGG	1	1	0	0	1	0	0	0	0
-CTT	9	8	5	0	2	2	4	3	7
-CTC	0	3	1	0	2	1	0	0	0
-CTA	4	7	3	0	3	2	0	7	7
-CTG	0	0	0	0	0	0	0	0	0
-CCT	6	14	5	0	8	3	2	4	9
-CCC	1	4	1	0	0	5	0	0	7
-CCA	1	7	5	1	2	2	2	0	7
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	16	5	0	3	11	1	1	7
-CAC	1	2	1	0	3	5	0	2	3
-CAA	5	10	7	0	3	6	1	3	7
-CAG	0	1	0	0	0	1	0	0	2
-CGT	0	1	1	0	0	0	1	1	0
-CGC	0	0	0	0	0	0	0	0	2
-CGA	1	8	5	0	3	3	1	0	5
-CGG	1	0	1	0	0	1	1	0	0
-ATT	51	42	26	4	22	19	20	20	30
-ATC	3	10	2	1	0	7	2	4	11
-ATA	17	27	5	5	14	7	5	16	12
-ATG	2	0	2	0	2	1	0	1	2
-ACT	4	13	3	1	10	8	2	3	7
-ACC	2	5	0	1	1	3	2	0	2
-ACA	4	17	12	0	9	10	3	6	12
-ACG	1	1	0	0	0	1	0	0	0
-AAT	27	18	17	6	14	8	6	14	21
-AAC	7	3	6	0	0	1	1	2	7
-AAA	12	5	5	7	4	4	5	10	9
-AAG	0	0	0	0	0	0	0	0	0
-AGT	1	3	3	0	2	1	0	0	1
-AGC	0	0	0	0	0	3	0	2	0
-AGA	4	6	1	0	7	1	0	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	12	1	0	5	3	1	2	4
-GTC	0	4	4	0	0	1	0	0	1
-GTA	2	13	4	0	2	5	1	1	12
-GTG	0	0	0	0	0	0	0	0	1
-GCT	1	14	2	0	1	2	2	0	8
-GCC	1	4	2	0	2	3	0	0	5
-GCA	3	12	2	0	4	9	1	1	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	12	8	0	0	3	2	0	8
-GAC	0	3	1	0	1	1	0	0	1
-GAA	5	9	8	0	4	7	4	4	2
-GAG	0	1	0	0	0	0	0	0	0
-GGT	5	9	3	0	1	7	1	0	4
-GGC	0	2	1	0	1	3	0	1	4
-GGA	5	31	4	0	7	9	1	3	13
-GGG	1	3	1	0	1	1	1	1	3
-TAA	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009169958.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	39	6	45	0	13	6	15	0	16	1	2	0	8	1	9	0	4	0	6	1	1	0	1	1	5	0	0	0	1	1	51	3	17	2	4	2	4	1	27	7	12	0	1	0	4	0	1	0	2	0	1	1	3	0	0	0	5	0	5	0	5	1	1	0
+1	COX1	YP_009169959.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	32	8	45	1	16	4	11	2	14	3	0	0	14	1	8	3	7	0	14	4	7	0	16	2	10	1	1	0	8	0	42	10	27	0	13	5	17	1	18	3	5	0	3	0	6	0	12	4	13	0	14	4	12	0	12	3	9	1	9	2	31	3	1	0
+2	COX2	YP_009169960.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	12	3	20	0	2	2	8	0	9	0	2	0	6	0	5	1	3	0	5	1	5	0	5	1	7	0	1	0	5	1	26	2	5	2	3	0	12	0	17	6	5	0	3	0	1	0	1	4	4	0	2	2	2	0	8	1	8	0	3	1	4	1	1	0
+3	ATP8	YP_009169961.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	6	0	8	0	4	0	0	0	3	2	1	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	1	5	0	1	1	0	0	6	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009169962.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	20	4	34	1	5	1	6	1	5	0	0	0	4	1	2	2	3	0	8	0	2	0	3	3	3	0	0	0	3	0	22	0	14	2	10	1	9	0	14	0	4	0	2	0	7	0	5	0	2	0	1	2	4	0	0	1	4	0	1	1	7	1	1	0
+5	COX3	YP_009169963.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	24	4	29	0	6	1	5	1	5	3	1	0	13	0	2	1	2	0	3	5	2	0	11	5	6	1	0	0	3	1	19	7	7	1	8	3	10	1	8	1	4	0	1	3	1	0	3	1	5	0	2	3	9	0	3	1	7	0	7	3	9	1	1	0
+6	ND3	YP_009169964.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	10	3	14	0	3	2	6	0	3	0	1	0	3	0	4	0	0	0	2	0	2	0	1	0	1	0	1	0	1	1	20	2	5	0	2	2	3	0	6	1	5	0	0	0	0	0	1	0	1	0	2	0	1	0	2	0	4	0	1	0	1	1	1	0
+7	ND6	YP_009169968.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	20	5	23	1	5	1	2	0	4	2	0	0	1	0	3	0	7	0	4	0	0	0	1	2	3	0	1	0	0	0	20	4	16	1	3	0	6	0	14	2	10	0	0	2	1	0	2	0	1	0	0	0	1	0	0	0	4	0	0	1	3	1	1	0
+8	CYTB	YP_009169969.1	Polypedilum vanderplanki	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Chironomoidea, Chironomidae, Chironominae, Polypedilum	26	11	35	2	7	1	8	1	15	3	3	1	13	0	7	0	7	0	9	7	7	0	7	3	7	2	0	2	5	0	30	11	12	2	7	2	12	0	21	7	9	0	1	0	3	0	4	1	12	1	8	5	6	0	8	1	2	0	4	4	13	3	1	0

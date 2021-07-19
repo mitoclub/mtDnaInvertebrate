@@ -1,65 +1,20 @@
-	YP_009529219.1|cox1	YP_009529220.1	YP_009529221.1	YP_009529222.1	YP_009529223.1|nad1	YP_009529224.1|nad4	YP_009529225.1|rps3	YP_009529226.1|cob	YP_009529227.1|cox2	YP_009529228.1|atp9	YP_009529229.1|atp6	YP_009529230.1|atp8	YP_009529231.1|nad6	YP_009529232.1|cox3	YP_009529233.1|nad2	YP_009529234.1|nad3	YP_009529235.1|nad4L	YP_009529236.1|nad5	YP_009529237.1|dpo
-TTT	34	11	16	12	23	35	16	30	11	6	20	5	19	27	47	18	5	54	20
-TTC	13	0	1	3	3	7	0	7	1	0	4	3	0	3	3	1	0	6	3
-TTA	41	19	13	13	35	46	22	38	21	7	26	5	19	20	66	16	11	66	26
-TTG	8	2	3	1	5	18	6	4	3	4	5	1	8	3	7	5	0	9	4
-TCT	9	5	7	12	10	20	18	10	6	0	4	0	10	11	24	3	0	18	13
-TCC	2	3	1	0	3	3	0	1	1	0	1	0	0	2	2	0	1	7	6
-TCA	11	7	4	4	7	8	8	7	6	0	5	1	2	7	12	1	3	12	11
-TCG	1	0	0	1	1	2	0	1	2	0	2	0	2	0	1	0	0	0	1
-TAT	13	13	17	14	14	19	14	13	10	2	8	3	7	9	27	5	2	27	27
-TAC	7	4	6	5	3	9	15	3	1	0	2	0	6	3	9	0	1	4	4
-TGT	1	1	2	3	3	5	1	1	3	0	1	0	1	2	4	1	0	7	8
-TGC	1	0	3	1	1	1	1	0	1	0	0	0	0	0	3	0	0	0	0
-TGA	10	2	2	2	3	2	0	6	5	0	1	0	2	7	2	0	0	6	0
-TGG	2	0	1	0	1	1	3	1	1	0	0	0	0	1	1	0	0	1	1
-CTT	7	4	4	1	11	8	9	4	2	1	3	1	4	5	17	1	3	15	15
-CTC	3	0	1	0	1	1	1	0	0	0	2	0	0	1	0	0	0	0	1
-CTA	8	5	4	2	6	7	6	2	3	0	2	1	1	4	10	1	1	11	6
-CTG	1	0	3	0	4	3	6	4	1	0	2	0	2	0	1	2	2	2	0
-CCT	10	2	2	7	8	7	2	12	8	1	6	1	3	5	14	1	0	16	11
-CCC	2	0	1	3	6	4	0	2	0	0	1	0	0	1	1	0	0	3	1
-CCA	8	1	2	0	1	4	3	5	3	0	2	1	0	2	3	2	0	0	6
-CCG	0	0	0	0	0	0	1	0	2	0	0	1	0	1	0	1	0	0	0
-CAT	9	6	5	4	2	5	2	6	7	0	4	0	1	10	7	1	1	9	5
-CAC	6	4	2	0	0	1	3	3	0	0	2	0	0	4	1	0	0	3	1
-CAA	7	11	7	8	6	7	7	7	6	1	5	1	4	5	10	3	1	12	7
-CAG	3	0	3	1	0	0	3	0	1	1	2	1	0	1	2	2	0	0	3
-CGT	0	2	0	2	1	1	8	1	1	0	0	2	0	0	0	0	0	1	6
-CGC	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	1	0
-CGA	0	0	0	0	0	0	1	1	2	0	0	0	0	0	1	0	0	1	1
-CGG	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	13	11	11	13	16	12	17	11	13	2	11	3	10	4	21	3	2	24	16
-ATC	2	0	5	2	2	2	3	4	3	1	1	0	4	1	7	1	1	5	4
-ATA	36	17	9	13	28	38	18	23	14	3	22	4	20	17	41	3	15	43	22
-ATG	19	2	2	6	8	9	6	14	5	4	4	3	8	5	9	2	3	25	7
-ACT	8	7	10	4	5	9	12	2	7	0	6	0	5	11	16	4	0	22	9
-ACC	1	2	3	0	0	6	1	3	0	0	1	0	2	1	2	0	0	4	4
-ACA	14	5	3	3	6	16	5	9	4	4	6	3	5	8	14	2	2	12	14
-ACG	1	1	4	0	4	3	3	0	1	0	0	0	0	0	3	0	0	1	2
-AAT	14	26	16	20	7	12	27	16	2	0	10	1	12	3	19	4	2	15	23
-AAC	7	7	5	4	3	7	9	3	3	1	6	0	5	3	12	3	1	10	8
-AAA	8	25	31	24	5	11	46	9	4	1	5	3	6	2	18	3	2	15	40
-AAG	6	7	3	1	1	2	9	1	1	0	2	0	3	0	7	1	0	7	16
-AGT	13	5	9	3	7	9	7	8	6	0	5	0	9	5	21	6	1	18	16
-AGC	6	1	1	2	3	2	3	1	0	0	3	0	4	0	6	2	2	9	0
-AGA	9	11	5	11	7	8	9	6	6	2	4	0	1	6	6	2	3	7	7
-AGG	2	2	0	0	0	1	6	1	2	0	0	0	0	0	2	0	0	1	0
-GTT	12	7	4	8	14	14	4	16	5	3	5	0	11	7	14	2	1	26	20
-GTC	2	1	1	2	0	2	0	0	0	1	0	0	0	1	2	0	0	2	2
-GTA	13	7	9	2	7	15	10	13	6	1	9	1	4	10	18	3	3	16	12
-GTG	5	2	2	1	3	3	3	1	1	0	2	0	0	2	0	2	0	5	1
-GCT	21	4	5	2	14	13	7	13	10	7	10	1	5	8	13	5	3	22	7
-GCC	6	0	0	1	2	3	1	6	0	2	1	2	1	1	5	1	1	4	1
-GCA	11	6	8	0	10	5	4	7	6	5	7	0	3	5	14	2	4	12	0
-GCG	2	0	2	1	0	3	2	0	1	1	1	0	0	1	1	0	0	1	0
-GAT	12	14	8	6	6	9	8	7	13	0	3	0	6	5	15	2	2	12	35
-GAC	4	0	3	3	1	0	5	1	1	0	2	0	1	0	2	2	0	5	1
-GAA	2	9	6	4	10	8	7	7	13	1	5	0	3	6	8	4	3	12	13
-GAG	3	1	3	4	3	1	2	3	4	0	0	0	2	1	3	0	0	4	12
-GGT	25	12	14	8	6	18	5	13	5	7	8	0	6	11	17	2	3	26	14
-GGC	1	1	3	1	2	2	1	1	0	1	1	0	1	1	6	2	1	5	0
-GGA	17	6	4	0	7	7	4	7	6	4	5	0	1	7	4	1	3	10	2
-GGG	5	0	2	0	4	2	0	1	1	0	3	0	1	3	2	1	0	5	3
-TAA	0	1	1	0	0	1	1	0	1	1	0	1	0	1	1	1	1	1	0
-TAG	1	0	0	1	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009529219.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	34	13	41	8	9	2	11	1	13	7	1	1	10	2	7	3	8	1	10	2	8	0	9	6	7	3	0	0	0	0	13	2	36	19	8	1	14	1	14	7	8	6	13	6	9	2	12	2	13	5	21	6	11	2	12	4	2	3	25	1	17	5	0	1
+1	None	YP_009529220.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	11	0	19	2	5	3	7	0	13	4	1	0	2	0	4	0	5	0	2	0	1	0	6	4	11	0	2	1	0	0	11	0	17	2	7	2	5	1	26	7	25	7	5	1	11	2	7	1	7	2	4	0	6	0	14	0	9	1	12	1	6	0	1	0
+2	None	YP_009529221.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	16	1	13	3	7	1	4	0	17	6	2	3	2	1	4	1	4	3	2	1	2	0	5	2	7	3	0	0	0	0	11	5	9	2	10	3	3	4	16	5	31	3	9	1	5	0	4	1	9	2	5	0	8	2	8	3	6	3	14	3	4	2	1	0
+3	None	YP_009529222.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	12	3	13	1	12	0	4	1	14	5	3	1	2	0	1	0	2	0	7	3	0	0	4	0	8	1	2	0	0	0	13	2	13	6	4	0	3	0	20	4	24	1	3	2	11	0	8	2	2	1	2	1	0	1	6	3	4	4	8	1	0	0	0	1
+4	nad1	YP_009529223.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	23	3	35	5	10	3	7	1	14	3	3	1	3	1	11	1	6	4	8	6	1	0	2	0	6	0	1	0	0	0	16	2	28	8	5	0	6	4	7	3	5	1	7	3	7	0	14	0	7	3	14	2	10	0	6	1	10	3	6	2	7	4	0	1
+5	nad4	YP_009529224.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	35	7	46	18	20	3	8	2	19	9	5	1	2	1	8	1	7	3	7	4	4	0	5	1	7	0	1	1	0	0	12	2	38	9	9	6	16	3	12	7	11	2	9	2	8	1	14	2	15	3	13	3	5	3	9	0	8	1	18	2	7	2	1	0
+6	rps3	YP_009529225.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	16	0	22	6	18	0	8	0	14	15	1	1	0	3	9	1	6	6	2	0	3	1	2	3	7	3	8	2	1	0	17	3	18	6	12	1	5	3	27	9	46	9	7	3	9	6	4	0	10	3	7	1	4	2	8	5	7	2	5	1	4	0	1	0
+7	cob	YP_009529226.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	30	7	38	4	10	1	7	1	13	3	1	0	6	1	4	0	2	4	12	2	5	0	6	3	7	0	1	0	1	0	11	4	23	14	2	3	9	0	16	3	9	1	8	1	6	1	16	0	13	1	13	6	7	0	7	1	7	3	13	1	7	1	0	0
+8	cox2	YP_009529227.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	11	1	21	3	6	1	6	2	10	1	3	1	5	1	2	0	3	1	8	0	3	2	7	0	6	1	1	0	2	0	13	3	14	5	7	0	4	1	2	3	4	1	6	0	6	2	5	0	6	1	10	0	6	1	13	1	13	4	5	0	6	1	1	0
+9	atp9	YP_009529228.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	6	0	7	4	0	0	0	0	2	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	2	1	3	4	0	0	4	0	0	1	1	0	0	0	2	0	3	1	1	0	7	2	5	1	0	0	1	0	7	1	4	0	1	0
+10	atp6	YP_009529229.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	20	4	26	5	4	1	5	2	8	2	1	0	1	0	3	2	2	2	6	1	2	0	4	2	5	2	0	0	0	1	11	1	22	4	6	1	6	0	10	6	5	2	5	3	4	0	5	0	9	2	10	1	7	1	3	2	5	0	8	1	5	3	0	1
+11	atp8	YP_009529230.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	5	3	5	1	0	0	1	0	3	0	0	0	0	0	1	0	1	0	1	0	1	1	0	0	1	1	2	0	0	0	3	0	4	3	0	0	3	0	1	0	3	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	1	0
+12	nad6	YP_009529231.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	19	0	19	8	10	0	2	2	7	6	1	0	2	0	4	0	1	2	3	0	0	0	1	0	4	0	0	0	0	0	10	4	20	8	5	2	5	0	12	5	6	3	9	4	1	0	11	0	4	0	5	1	3	0	6	1	3	2	6	1	1	1	0	1
+13	cox3	YP_009529232.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	27	3	20	3	11	2	7	0	9	3	2	0	7	1	5	1	4	0	5	1	2	1	10	4	5	1	0	0	0	0	4	1	17	5	11	1	8	0	3	3	2	0	5	0	6	0	7	1	10	2	8	1	5	1	5	0	6	1	11	1	7	3	1	0
+14	nad2	YP_009529233.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	47	3	66	7	24	2	12	1	27	9	4	3	2	1	17	0	10	1	14	1	3	0	7	1	10	2	0	0	1	0	21	7	41	9	16	2	14	3	19	12	18	7	21	6	6	2	14	2	18	0	13	5	14	1	15	2	8	3	17	6	4	2	1	0
+15	nad3	YP_009529234.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	18	1	16	5	3	0	1	0	5	0	1	0	0	0	1	0	1	2	1	0	2	1	1	0	3	2	0	0	0	0	3	1	3	2	4	0	2	0	4	3	3	1	6	2	2	0	2	0	3	2	5	1	2	0	2	2	4	0	2	2	1	1	1	0
+16	nad4L	YP_009529235.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	5	0	11	0	0	1	3	0	2	1	0	0	0	0	3	0	1	2	0	0	0	0	1	0	1	0	0	0	0	0	2	1	15	3	0	0	2	0	2	1	2	0	1	2	3	0	1	0	3	0	3	1	4	0	2	0	3	0	3	1	3	0	1	0
+17	nad5	YP_009529236.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	54	6	66	9	18	7	12	0	27	4	7	0	6	1	15	0	11	2	16	3	0	0	9	3	12	0	1	1	1	0	24	5	43	25	22	4	12	1	15	10	15	7	18	9	7	1	26	2	16	5	22	4	12	1	12	5	12	4	26	5	10	5	1	0
+18	dpo	YP_009529237.1	Cladonia subtenuis	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Lecanoromycetidae, Lecanorales, Lecanorineae, Cladoniaceae, Cladonia	20	3	26	4	13	6	11	1	27	4	8	0	0	1	15	1	6	0	11	1	6	0	5	1	7	3	6	0	1	0	16	4	22	7	9	4	14	2	23	8	40	16	16	0	7	0	20	2	12	1	7	1	0	0	35	1	13	12	14	0	2	3	0	1

@@ -1,65 +1,13 @@
-	YP_006702511.1|ND1	YP_006702512.1|ND2	YP_006702513.1|COX1	YP_006702514.1|COX2	YP_006702515.1|ATP8	YP_006702516.1|ATP6	YP_006702517.1|COX3	YP_006702518.1|ND3	YP_006702519.1|ND4L	YP_006702520.1|ND4	YP_006702521.1|ND5	YP_006702523.1|CYTB
-TTT	7	3	12	3	0	7	11	3	3	9	16	6
-TTC	9	8	30	4	4	5	14	4	3	8	26	24
-TTA	6	7	3	4	0	3	4	1	0	11	9	3
-TTG	4	3	3	1	0	1	0	1	1	5	6	3
-TCT	3	6	6	1	0	1	3	2	2	2	7	6
-TCC	11	4	7	7	1	1	5	3	1	7	11	8
-TCA	3	3	12	5	0	0	3	2	2	8	7	4
-TCG	2	2	2	1	0	1	0	0	0	1	5	4
-TAT	5	4	5	3	0	1	0	0	0	2	5	3
-TAC	7	5	13	6	1	3	11	2	0	12	6	11
-TGT	0	1	0	1	0	0	0	0	0	0	1	0
-TGC	1	1	1	1	0	0	2	1	3	5	5	3
-TGA	5	8	16	5	5	4	9	3	1	16	13	12
-TGG	3	3	1	0	0	1	3	2	0	4	1	1
-CTT	10	17	17	6	2	11	5	7	9	16	14	8
-CTC	15	12	12	6	0	16	8	8	8	18	15	9
-CTA	15	22	19	10	1	15	9	7	5	24	25	22
-CTG	12	8	9	2	2	4	6	4	1	14	17	14
-CCT	5	4	7	4	4	3	2	1	0	6	12	6
-CCC	8	8	8	3	3	7	4	5	0	10	10	9
-CCA	10	5	13	6	2	7	5	1	2	9	6	4
-CCG	1	3	0	1	0	0	1	1	0	2	2	2
-CAT	1	3	6	2	1	0	3	0	2	2	5	8
-CAC	4	5	13	8	0	4	13	0	2	9	9	4
-CAA	4	7	6	6	1	8	5	1	3	6	14	5
-CAG	2	5	2	2	0	2	3	2	0	4	5	1
-CGT	1	0	1	0	0	0	0	0	0	1	0	3
-CGC	2	0	0	1	0	1	0	0	1	3	2	0
-CGA	3	2	6	5	0	3	4	2	2	6	6	4
-CGG	2	3	1	0	0	2	1	0	0	2	2	1
-ATT	13	12	19	10	1	9	9	2	1	18	27	12
-ATC	8	14	19	9	1	7	5	7	0	20	23	15
-ATA	3	5	4	6	0	3	3	4	3	8	13	1
-ATG	7	8	20	7	1	8	3	1	3	16	14	8
-ACT	3	6	7	1	1	5	6	0	1	6	16	4
-ACC	7	24	11	5	1	5	13	3	2	18	21	11
-ACA	7	14	14	2	1	10	6	3	5	11	20	4
-ACG	2	6	3	1	0	2	0	0	0	6	7	2
-AAT	2	3	7	1	0	2	0	0	1	5	9	5
-AAC	6	3	7	3	5	7	2	3	1	6	18	13
-AAA	3	4	8	3	3	1	2	0	0	4	11	7
-AAG	4	5	1	1	0	0	0	1	0	6	9	2
-AGT	1	1	1	0	0	0	1	0	1	2	0	0
-AGC	3	4	4	3	0	4	2	1	2	6	11	1
-GTT	5	0	5	4	0	3	4	1	0	5	11	4
-GTC	4	0	9	7	1	5	7	1	0	7	8	10
-GTA	4	5	18	5	1	6	7	2	2	6	7	11
-GTG	9	4	11	4	3	3	0	1	0	2	3	4
-GCT	4	7	8	4	2	5	6	4	3	9	13	4
-GCC	22	17	15	9	2	6	9	3	6	15	33	13
-GCA	9	14	20	2	1	7	6	2	3	15	12	13
-GCG	1	4	3	1	0	2	0	0	3	3	6	3
-GAT	2	2	4	6	0	0	2	0	1	1	8	4
-GAC	2	1	10	8	0	1	3	3	0	3	7	7
-GAA	5	6	8	12	2	4	7	4	1	8	7	3
-GAG	6	0	3	3	1	0	2	2	2	3	3	4
-GGT	2	4	7	2	0	2	3	0	1	2	1	1
-GGC	5	3	10	2	0	2	5	1	4	9	8	9
-GGA	5	6	18	4	1	3	7	1	1	9	12	10
-GGG	9	4	11	1	0	4	7	3	0	9	11	7
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006702511.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	7	9	6	4	3	11	3	2	5	7	0	1	5	3	10	15	15	12	5	8	10	1	1	4	4	2	1	2	3	2	13	8	3	7	3	7	7	2	2	6	3	4	1	3	5	4	4	9	4	22	9	1	2	2	5	6	2	5	5	9	1	0	0	0
+1	ND2	YP_006702512.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	3	8	7	3	6	4	3	2	4	5	1	1	8	3	17	12	22	8	4	8	5	3	3	5	7	5	0	0	2	3	12	14	5	8	6	24	14	6	3	3	4	5	1	4	0	0	5	4	7	17	14	4	2	1	6	0	4	3	6	4	0	0	0	0
+2	COX1	YP_006702513.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	12	30	3	3	6	7	12	2	5	13	0	1	16	1	17	12	19	9	7	8	13	0	6	13	6	2	1	0	6	1	19	19	4	20	7	11	14	3	7	7	8	1	1	4	5	9	18	11	8	15	20	3	4	10	8	3	7	10	18	11	1	0	0	0
+3	COX2	YP_006702514.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	3	4	4	1	1	7	5	1	3	6	1	1	5	0	6	6	10	2	4	3	6	1	2	8	6	2	0	1	5	0	10	9	6	7	1	5	2	1	1	3	3	1	0	3	4	7	5	4	4	9	2	1	6	8	12	3	2	2	4	1	0	0	0	0
+4	ATP8	YP_006702515.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	0	4	0	0	0	1	0	0	0	1	0	0	5	0	2	0	1	2	4	3	2	0	1	0	1	0	0	0	0	0	1	1	0	1	1	1	1	0	0	5	3	0	0	0	0	1	1	3	2	2	1	0	0	0	2	1	0	0	1	0	1	0	0	0
+5	ATP6	YP_006702516.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	7	5	3	1	1	1	0	1	1	3	0	0	4	1	11	16	15	4	3	7	7	0	0	4	8	2	0	1	3	2	9	7	3	8	5	5	10	2	2	7	1	0	0	4	3	5	6	3	5	6	7	2	0	1	4	0	2	2	3	4	0	0	0	0
+6	COX3	YP_006702517.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	11	14	4	0	3	5	3	0	0	11	0	2	9	3	5	8	9	6	2	4	5	1	3	13	5	3	0	0	4	1	9	5	3	3	6	13	6	0	0	2	2	0	1	2	4	7	7	0	6	9	6	0	2	3	7	2	3	5	7	7	0	0	0	0
+7	ND3	YP_006702518.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	3	4	1	1	2	3	2	0	0	2	0	1	3	2	7	8	7	4	1	5	1	1	0	0	1	2	0	0	2	0	2	7	4	1	0	3	3	0	0	3	0	1	0	1	1	1	2	1	4	3	2	0	0	3	4	2	0	1	1	3	0	0	0	0
+8	ND4L	YP_006702519.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	3	3	0	1	2	1	2	0	0	0	0	3	1	0	9	8	5	1	0	0	2	0	2	2	3	0	0	1	2	0	1	0	3	3	1	2	5	0	1	1	0	0	1	2	0	0	2	0	3	6	3	3	1	0	1	2	1	4	1	0	1	0	0	0
+9	ND4	YP_006702520.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	9	8	11	5	2	7	8	1	2	12	0	5	16	4	16	18	24	14	6	10	9	2	2	9	6	4	1	3	6	2	18	20	8	16	6	18	11	6	5	6	4	6	2	6	5	7	6	2	9	15	15	3	1	3	8	3	2	9	9	9	0	0	0	0
+10	ND5	YP_006702521.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	16	26	9	6	7	11	7	5	5	6	1	5	13	1	14	15	25	17	12	10	6	2	5	9	14	5	0	2	6	2	27	23	13	14	16	21	20	7	9	18	11	9	0	11	11	8	7	3	13	33	12	6	8	7	7	3	1	8	12	11	1	0	0	0
+11	CYTB	YP_006702523.1	Clupanodon thrissa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Clupanodon	6	24	3	3	6	8	4	4	3	11	0	3	12	1	8	9	22	14	6	9	4	2	8	4	5	1	3	0	4	1	12	15	1	8	4	11	4	2	5	13	7	2	0	1	4	10	11	4	4	13	13	3	4	7	3	4	1	9	10	7	0	0	0	0

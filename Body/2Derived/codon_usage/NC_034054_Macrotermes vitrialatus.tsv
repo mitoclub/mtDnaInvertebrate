@@ -1,65 +1,10 @@
-	YP_009350559.1|ND2	YP_009350560.1|COX1	YP_009350561.1|COX2	YP_009350562.1|ATP8	YP_009350563.1|ATP6	YP_009350564.1|COX3	YP_009350565.1|ND3	YP_009350569.1|ND6	YP_009350570.1|CYTB
-TTT	4	13	1	1	3	1	4	0	3
-TTC	9	31	9	3	10	22	4	6	25
-TTA	13	9	6	0	7	5	1	6	5
-TTG	1	3	1	0	0	2	0	0	0
-TCT	5	2	0	0	2	0	0	0	0
-TCC	5	6	1	0	1	0	2	0	1
-TCA	16	19	9	0	4	11	7	7	11
-TCG	1	0	0	0	0	0	0	1	0
-TAT	4	10	4	0	2	4	0	1	5
-TAC	8	5	3	2	1	5	1	6	10
-TGT	1	0	1	0	0	0	0	0	1
-TGC	3	2	1	0	0	1	1	1	3
-TGA	7	13	6	3	4	12	3	1	12
-TGG	2	2	0	0	0	1	0	0	0
-CTT	2	10	0	0	5	1	0	2	0
-CTC	3	4	0	1	2	1	1	0	4
-CTA	24	29	14	2	23	19	10	12	33
-CTG	9	0	0	0	2	1	0	1	2
-CCT	1	2	1	1	1	0	1	0	2
-CCC	5	2	0	1	2	3	0	1	4
-CCA	6	22	10	3	8	6	4	3	16
-CCG	0	1	0	0	0	1	0	1	0
-CAT	0	3	1	0	1	1	0	1	3
-CAC	2	13	5	1	5	13	1	1	8
-CAA	5	8	11	3	4	6	1	3	6
-CAG	0	0	0	0	0	3	0	0	2
-CGT	0	0	0	0	0	0	0	0	0
-CGC	0	1	1	0	1	0	0	0	1
-CGA	1	9	6	0	2	3	3	1	7
-CGG	0	0	0	0	0	1	0	0	0
-ATT	13	13	8	0	5	8	5	3	8
-ATC	14	26	13	1	17	11	7	6	24
-ATA	30	27	13	10	17	8	13	29	24
-ATG	4	6	2	1	2	2	0	2	1
-ACT	3	6	2	0	2	0	2	0	2
-ACC	13	8	1	0	3	10	1	6	4
-ACA	16	23	17	2	18	16	9	15	23
-ACG	0	2	0	0	1	1	0	1	2
-AAT	6	6	3	1	5	4	3	2	2
-AAC	13	12	7	5	10	4	3	8	20
-AAA	14	8	4	4	6	4	5	6	11
-AAG	2	1	2	0	0	0	0	0	1
-AGT	1	3	1	0	1	0	0	0	0
-AGC	0	0	2	0	3	1	0	0	2
-AGA	7	11	6	3	12	6	3	6	3
-AGG	1	0	0	0	0	0	0	1	0
-GTT	3	3	2	0	1	2	1	1	1
-GTC	2	3	4	0	1	2	1	0	2
-GTA	12	28	7	0	5	10	2	7	17
-GTG	2	2	2	0	0	1	0	0	0
-GCT	2	4	0	0	0	1	0	0	0
-GCC	6	12	0	1	0	5	2	2	4
-GCA	12	21	11	1	10	12	3	1	18
-GCG	1	1	0	0	0	0	0	0	2
-GAT	1	6	5	0	0	0	0	0	3
-GAC	1	8	6	0	1	4	3	0	8
-GAA	7	9	9	2	6	7	6	5	4
-GAG	3	1	0	0	0	1	0	0	0
-GGT	1	5	1	0	0	2	0	0	0
-GGC	1	2	0	0	0	1	0	0	0
-GGA	10	34	7	0	10	14	3	6	18
-GGG	5	4	0	0	0	2	0	0	5
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009350559.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	4	9	13	1	5	5	16	1	4	8	1	3	7	2	2	3	24	9	1	5	6	0	0	2	5	0	0	0	1	0	13	14	30	4	3	13	16	0	6	13	14	2	1	0	7	1	3	2	12	2	2	6	12	1	1	1	7	3	1	1	10	5	1	0
+1	COX1	YP_009350560.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	13	31	9	3	2	6	19	0	10	5	0	2	13	2	10	4	29	0	2	2	22	1	3	13	8	0	0	1	9	0	13	26	27	6	6	8	23	2	6	12	8	1	3	0	11	0	3	3	28	2	4	12	21	1	6	8	9	1	5	2	34	4	1	0
+2	COX2	YP_009350561.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	1	9	6	1	0	1	9	0	4	3	1	1	6	0	0	0	14	0	1	0	10	0	1	5	11	0	0	1	6	0	8	13	13	2	2	1	17	0	3	7	4	2	1	2	6	0	2	4	7	2	0	0	11	0	5	6	9	0	1	0	7	0	0	0
+3	ATP8	YP_009350562.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	1	3	0	0	0	0	0	0	0	2	0	0	3	0	0	1	2	0	1	1	3	0	0	1	3	0	0	0	0	0	0	1	10	1	0	0	2	0	1	5	4	0	0	0	3	0	0	0	0	0	0	1	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009350563.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	3	10	7	0	2	1	4	0	2	1	0	0	4	0	5	2	23	2	1	2	8	0	1	5	4	0	0	1	2	0	5	17	17	2	2	3	18	1	5	10	6	0	1	3	12	0	1	1	5	0	0	0	10	0	0	1	6	0	0	0	10	0	1	0
+5	COX3	YP_009350564.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	1	22	5	2	0	0	11	0	4	5	0	1	12	1	1	1	19	1	0	3	6	1	1	13	6	3	0	0	3	1	8	11	8	2	0	10	16	1	4	4	4	0	0	1	6	0	2	2	10	1	1	5	12	0	0	4	7	1	2	1	14	2	1	0
+6	ND3	YP_009350565.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	4	4	1	0	0	2	7	0	0	1	0	1	3	0	0	1	10	0	1	0	4	0	0	1	1	0	0	0	3	0	5	7	13	0	2	1	9	0	3	3	5	0	0	0	3	0	1	1	2	0	0	2	3	0	0	3	6	0	0	0	3	0	1	0
+7	ND6	YP_009350569.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	0	6	6	0	0	0	7	1	1	6	0	1	1	0	2	0	12	1	0	1	3	1	1	1	3	0	0	0	1	0	3	6	29	2	0	6	15	1	2	8	6	0	0	0	6	1	1	0	7	0	0	2	1	0	0	0	5	0	0	0	6	0	1	0
+8	CYTB	YP_009350570.1	Macrotermes vitrialatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Macrotermes	3	25	5	0	0	1	11	0	5	10	1	3	12	0	0	4	33	2	2	4	16	0	3	8	6	2	0	1	7	0	8	24	24	1	2	4	23	2	2	20	11	1	0	2	3	0	1	2	17	0	0	4	18	2	3	8	4	0	0	0	18	5	1	0

@@ -1,65 +1,13 @@
-	YP_007625874.1|ND1	YP_007625875.1|ND2	YP_007625876.1|COX1	YP_007625877.1|COX2	YP_007625878.1|ATP8	YP_007625879.1|ATP6	YP_007625880.1|COX3	YP_007625881.1|ND3	YP_007625882.1|ND4L	YP_007625883.1|ND4	YP_007625884.1|ND5	YP_007625886.1|CYTB
-TTT	8	7	12	4	2	3	9	5	0	7	12	10
-TTC	13	7	30	2	2	9	15	4	5	14	36	15
-TTA	6	7	15	8	1	7	6	2	4	11	7	6
-TTG	1	0	2	0	1	0	0	0	2	3	1	1
-TCT	2	2	15	3	0	1	4	0	2	5	7	2
-TCC	7	9	1	5	0	2	2	1	5	16	16	6
-TCA	8	15	11	8	5	6	9	3	2	7	11	10
-TCG	2	0	0	0	0	0	0	0	0	0	1	1
-TAT	6	5	7	3	1	1	2	1	2	7	9	5
-TAC	6	3	12	8	1	1	9	2	1	9	10	11
-TGT	1	0	0	1	0	0	0	0	1	1	0	0
-TGC	0	0	1	1	0	0	2	1	2	2	4	4
-TGA	8	10	14	5	3	3	12	4	0	12	11	11
-TGG	1	0	3	0	0	0	0	0	0	1	1	1
-CTT	7	5	9	2	3	5	7	1	1	9	13	8
-CTC	7	7	7	3	1	7	7	8	2	17	15	12
-CTA	30	32	22	19	7	22	11	13	10	52	49	24
-CTG	4	3	5	2	0	5	1	3	3	2	4	6
-CCT	1	2	10	2	2	2	2	1	0	2	5	2
-CCC	12	8	8	3	1	3	4	4	1	10	11	5
-CCA	7	9	10	8	1	7	5	1	0	9	9	14
-CCG	2	0	0	0	1	1	1	0	0	0	2	1
-CAT	1	0	5	3	1	1	2	0	1	3	2	2
-CAC	2	5	12	4	0	5	15	0	1	7	11	10
-CAA	6	10	6	6	3	9	7	3	2	11	16	6
-CAG	1	0	0	0	0	0	0	0	0	0	2	0
-CGT	0	0	0	1	0	1	0	0	0	0	1	0
-CGC	1	0	2	0	0	1	3	1	0	3	2	0
-CGA	7	3	5	2	0	2	2	0	1	7	5	8
-CGG	0	0	1	3	0	0	0	0	0	0	0	0
-ATT	15	15	24	11	3	11	8	2	2	19	31	11
-ATC	14	21	14	8	2	11	7	3	2	21	33	28
-ATA	14	37	29	12	3	9	7	5	11	30	41	13
-ATG	4	5	4	4	1	3	2	1	2	5	2	4
-ACT	0	4	7	2	0	1	5	1	1	2	6	6
-ACC	6	15	13	3	1	7	8	5	2	10	20	5
-ACA	11	18	18	13	4	12	11	5	1	23	27	14
-ACG	4	0	1	0	2	3	0	0	0	2	3	1
-AAT	2	4	8	2	0	7	3	1	1	6	9	3
-AAC	9	12	11	3	3	5	5	4	4	19	27	15
-AAA	7	12	9	5	6	4	2	3	0	10	22	6
-AAG	0	1	0	1	0	0	0	0	0	1	0	3
-AGT	1	0	1	1	0	0	1	0	0	2	3	1
-AGC	4	1	2	4	0	5	3	2	1	8	11	2
-GTT	2	5	5	1	0	3	3	1	1	1	1	1
-GTC	6	5	7	2	1	3	6	0	0	9	6	8
-GTA	8	4	25	7	1	5	6	1	6	6	4	9
-GTG	0	1	1	1	0	1	0	1	0	1	1	0
-GCT	1	1	14	1	0	5	2	2	2	3	3	4
-GCC	10	8	9	1	0	6	10	6	1	11	12	7
-GCA	17	8	15	6	0	5	4	3	6	12	21	16
-GCG	0	0	1	0	0	1	0	0	0	1	2	0
-GAT	1	1	2	4	0	0	1	0	0	0	2	1
-GAC	2	1	13	6	1	1	2	2	1	4	8	10
-GAA	11	5	8	15	2	2	8	5	1	8	9	6
-GAG	0	0	1	0	0	1	0	1	1	0	2	0
-GGT	2	1	9	2	0	1	4	0	1	5	1	1
-GGC	5	4	10	1	0	3	8	0	1	4	10	8
-GGA	3	8	22	5	0	6	7	2	2	8	16	12
-GGG	2	1	6	0	0	1	1	1	0	1	0	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007625874.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	8	13	6	1	2	7	8	2	6	6	1	0	8	1	7	7	30	4	1	12	7	2	1	2	6	1	0	1	7	0	15	14	14	4	0	6	11	4	2	9	7	0	1	4	2	6	8	0	1	10	17	0	1	2	11	0	2	5	3	2	0	0	0	0
+1	ND2	YP_007625875.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	7	7	7	0	2	9	15	0	5	3	0	0	10	0	5	7	32	3	2	8	9	0	0	5	10	0	0	0	3	0	15	21	37	5	4	15	18	0	4	12	12	1	0	1	5	5	4	1	1	8	8	0	1	1	5	0	1	4	8	1	0	0	0	0
+2	COX1	YP_007625876.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	12	30	15	2	15	1	11	0	7	12	0	1	14	3	9	7	22	5	10	8	10	0	5	12	6	0	0	2	5	1	24	14	29	4	7	13	18	1	8	11	9	0	1	2	5	7	25	1	14	9	15	1	2	13	8	1	9	10	22	6	1	0	0	0
+3	COX2	YP_007625877.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	4	2	8	0	3	5	8	0	3	8	1	1	5	0	2	3	19	2	2	3	8	0	3	4	6	0	1	0	2	3	11	8	12	4	2	3	13	0	2	3	5	1	1	4	1	2	7	1	1	1	6	0	4	6	15	0	2	1	5	0	1	0	0	0
+4	ATP8	YP_007625878.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	2	2	1	1	0	0	5	0	1	1	0	0	3	0	3	1	7	0	2	1	1	1	1	0	3	0	0	0	0	0	3	2	3	1	0	1	4	2	0	3	6	0	0	0	0	1	1	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007625879.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	3	9	7	0	1	2	6	0	1	1	0	0	3	0	5	7	22	5	2	3	7	1	1	5	9	0	1	1	2	0	11	11	9	3	1	7	12	3	7	5	4	0	0	5	3	3	5	1	5	6	5	1	0	1	2	1	1	3	6	1	1	0	0	0
+6	COX3	YP_007625880.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	9	15	6	0	4	2	9	0	2	9	0	2	12	0	7	7	11	1	2	4	5	1	2	15	7	0	0	3	2	0	8	7	7	2	5	8	11	0	3	5	2	0	1	3	3	6	6	0	2	10	4	0	1	2	8	0	4	8	7	1	0	0	0	0
+7	ND3	YP_007625881.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	5	4	2	0	0	1	3	0	1	2	0	1	4	0	1	8	13	3	1	4	1	0	0	0	3	0	0	1	0	0	2	3	5	1	1	5	5	0	1	4	3	0	0	2	1	0	1	1	2	6	3	0	0	2	5	1	0	0	2	1	0	0	0	0
+8	ND4L	YP_007625882.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	0	5	4	2	2	5	2	0	2	1	1	2	0	0	1	2	10	3	0	1	0	0	1	1	2	0	0	0	1	0	2	2	11	2	1	2	1	0	1	4	0	0	0	1	1	0	6	0	2	1	6	0	0	1	1	1	1	1	2	0	1	0	0	0
+9	ND4	YP_007625883.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	7	14	11	3	5	16	7	0	7	9	1	2	12	1	9	17	52	2	2	10	9	0	3	7	11	0	0	3	7	0	19	21	30	5	2	10	23	2	6	19	10	1	2	8	1	9	6	1	3	11	12	1	0	4	8	0	5	4	8	1	0	0	0	0
+10	ND5	YP_007625884.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	12	36	7	1	7	16	11	1	9	10	0	4	11	1	13	15	49	4	5	11	9	2	2	11	16	2	1	2	5	0	31	33	41	2	6	20	27	3	9	27	22	0	3	11	1	6	4	1	3	12	21	2	2	8	9	2	1	10	16	0	1	0	0	0
+11	CYTB	YP_007625886.1	Cephalophus callipygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Cephalophinae, Cephalophus	10	15	6	1	2	6	10	1	5	11	0	4	11	1	8	12	24	6	2	5	14	1	2	10	6	0	0	0	8	0	11	28	13	4	6	5	14	1	3	15	6	3	1	2	1	8	9	0	4	7	16	0	1	10	6	0	1	8	12	3	0	0	1	0

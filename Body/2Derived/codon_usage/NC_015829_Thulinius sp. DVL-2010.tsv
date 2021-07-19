@@ -1,65 +1,9 @@
-	YP_004734068.1|COX2	YP_004734069.1|ATP8	YP_004734070.1|ATP6	YP_004734071.1|COX3	YP_004734072.1|ND3	YP_004734076.1|ND6	YP_004734077.1|CYTB	YP_004734079.1|ND2
-TTT	11	1	16	19	6	14	29	27
-TTC	8	2	7	10	8	8	11	14
-TTA	13	2	13	11	8	13	22	25
-TTG	0	0	1	1	0	1	2	2
-TCT	4	5	4	10	3	4	11	7
-TCC	3	0	5	2	2	2	0	5
-TCA	5	1	3	8	3	3	8	6
-TCG	0	0	0	0	0	0	1	2
-TAT	3	0	4	3	1	4	7	3
-TAC	2	2	2	4	0	1	4	4
-TGT	3	1	1	0	1	1	2	1
-TGC	0	0	0	0	2	1	0	1
-TGA	6	3	1	11	2	1	11	7
-TGG	0	0	0	3	0	0	1	1
-CTT	4	0	4	7	5	3	13	12
-CTC	0	2	10	4	2	1	6	8
-CTA	7	4	14	6	6	6	8	11
-CTG	1	0	2	2	0	1	0	4
-CCT	5	0	4	2	1	1	10	2
-CCC	2	0	2	0	2	1	1	4
-CCA	3	2	3	4	1	2	8	3
-CCG	0	1	0	2	1	0	2	2
-CAT	5	0	2	5	0	1	6	1
-CAC	4	1	3	8	1	0	6	1
-CAA	7	0	5	7	2	3	8	7
-CAG	0	0	0	0	0	1	1	0
-CGT	2	0	2	0	0	0	0	0
-CGC	0	0	0	1	0	0	2	0
-CGA	2	0	1	1	3	0	4	1
-CGG	0	0	0	0	0	0	0	0
-ATT	16	4	15	24	10	13	22	27
-ATC	9	1	4	3	7	2	12	11
-ATA	8	3	9	14	1	13	16	15
-ATG	1	1	4	1	0	0	2	2
-ACT	10	1	5	5	1	10	8	9
-ACC	2	1	2	4	1	2	2	1
-ACA	6	1	8	6	2	5	11	3
-ACG	0	0	0	0	1	1	1	0
-AAT	10	3	7	8	2	3	8	14
-AAC	10	0	7	2	2	0	11	7
-AAA	9	5	4	6	8	8	11	14
-AAG	0	0	0	0	0	0	1	2
-AGT	1	0	2	2	0	0	3	1
-AGC	0	0	1	2	1	1	1	1
-AGA	4	1	16	5	2	2	4	16
-AGG	0	0	0	1	1	0	0	0
-GTT	3	0	4	3	0	2	6	3
-GTC	1	0	0	2	0	2	1	0
-GTA	5	1	2	8	1	2	8	2
-GTG	1	0	0	0	1	3	1	1
-GCT	2	0	6	2	0	5	11	5
-GCC	0	1	4	4	2	0	5	0
-GCA	2	0	1	2	0	2	3	3
-GCG	0	0	0	0	0	0	0	0
-GAT	6	0	0	3	0	0	4	1
-GAC	4	0	1	1	2	0	3	1
-GAA	9	1	5	6	3	2	5	5
-GAG	1	0	0	0	1	0	1	1
-GGT	1	0	1	3	1	0	5	0
-GGC	3	0	0	2	1	1	0	2
-GGA	1	0	1	9	2	1	12	3
-GGG	2	0	1	1	0	0	2	0
-TAA	0	1	1	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_004734068.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	11	8	13	0	4	3	5	0	3	2	3	0	6	0	4	0	7	1	5	2	3	0	5	4	7	0	2	0	2	0	16	9	8	1	10	2	6	0	10	10	9	0	1	0	4	0	3	1	5	1	2	0	2	0	6	4	9	1	1	3	1	2	0	0
+1	ATP8	YP_004734069.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	1	2	2	0	5	0	1	0	0	2	1	0	3	0	0	2	4	0	0	0	2	1	0	1	0	0	0	0	0	0	4	1	3	1	1	1	1	0	3	0	5	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+2	ATP6	YP_004734070.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	16	7	13	1	4	5	3	0	4	2	1	0	1	0	4	10	14	2	4	2	3	0	2	3	5	0	2	0	1	0	15	4	9	4	5	2	8	0	7	7	4	0	2	1	16	0	4	0	2	0	6	4	1	0	0	1	5	0	1	0	1	1	1	0
+3	COX3	YP_004734071.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	19	10	11	1	10	2	8	0	3	4	0	0	11	3	7	4	6	2	2	0	4	2	5	8	7	0	0	1	1	0	24	3	14	1	5	4	6	0	8	2	6	0	2	2	5	1	3	2	8	0	2	4	2	0	3	1	6	0	3	2	9	1	0	0
+4	ND3	YP_004734072.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	6	8	8	0	3	2	3	0	1	0	1	2	2	0	5	2	6	0	1	2	1	1	0	1	2	0	0	0	3	0	10	7	1	0	1	1	2	1	2	2	8	0	0	1	2	1	0	0	1	1	0	2	0	0	0	2	3	1	1	1	2	0	1	0
+5	ND6	YP_004734076.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	14	8	13	1	4	2	3	0	4	1	1	1	1	0	3	1	6	1	1	1	2	0	1	0	3	1	0	0	0	0	13	2	13	0	10	2	5	1	3	0	8	0	0	1	2	0	2	2	2	3	5	0	2	0	0	0	2	0	0	1	1	0	0	0
+6	CYTB	YP_004734077.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	29	11	22	2	11	0	8	1	7	4	2	0	11	1	13	6	8	0	10	1	8	2	6	6	8	1	0	2	4	0	22	12	16	2	8	2	11	1	8	11	11	1	3	1	4	0	6	1	8	1	11	5	3	0	4	3	5	1	5	0	12	2	1	0
+7	ND2	YP_004734079.1	Thulinius sp. DVL-2010	Eukaryota, Metazoa, Ecdysozoa, Tardigrada, Eutardigrada, Parachela, Hypsibiidae, Thulinius	27	14	25	2	7	5	6	2	3	4	1	1	7	1	12	8	11	4	2	4	3	2	1	1	7	0	0	0	1	0	27	11	15	2	9	1	3	0	14	7	14	2	1	1	16	0	3	0	2	1	5	0	3	0	1	1	5	1	0	2	3	0	1	0

@@ -1,65 +1,11 @@
-	YP_007624618.1|ND1	YP_007624619.1|ND2	YP_007624620.1|COX1	YP_007624621.1|COX2	YP_007624622.1|ATP8	YP_007624623.1|ATP6	YP_007624624.1|COX3	YP_007624625.1|ND3	YP_007624626.1|ND4L	YP_007624629.1|CYTB
-TTT	3	2	13	2	0	1	4	2	1	8
-TTC	13	9	28	7	3	6	20	7	4	19
-TTA	7	2	9	4	0	8	3	3	4	8
-TTG	1	0	0	0	0	0	2	0	0	0
-TCT	5	2	2	2	0	0	2	2	3	2
-TCC	9	12	10	6	1	3	4	1	5	12
-TCA	9	15	11	10	2	5	8	0	2	11
-TCG	0	1	0	0	0	0	0	0	0	0
-TAT	4	0	6	3	0	1	2	0	0	6
-TAC	11	6	11	5	0	3	7	3	3	7
-TGT	0	0	0	1	0	0	1	1	1	2
-TGC	0	2	1	2	0	0	0	0	3	2
-TGA	8	8	16	5	5	3	10	4	1	10
-TGG	1	2	1	0	0	1	2	1	0	1
-CTT	7	7	6	1	0	12	2	1	3	6
-CTC	20	23	13	11	2	18	9	7	3	13
-CTA	31	36	30	14	3	20	17	16	10	38
-CTG	1	2	6	3	0	2	1	0	0	0
-CCT	6	1	6	3	2	2	5	2	0	4
-CCC	9	10	10	1	4	7	2	2	2	9
-CCA	12	11	15	9	4	8	5	3	2	11
-CCG	0	0	0	0	0	0	0	0	0	1
-CAT	0	0	7	5	0	2	3	0	2	4
-CAC	2	6	12	2	0	2	13	0	2	9
-CAA	4	8	9	7	1	7	9	2	3	5
-CAG	1	1	1	1	1	1	1	1	0	3
-CGT	0	0	1	0	0	1	0	0	0	0
-CGC	2	1	2	3	0	2	0	0	0	3
-CGA	6	2	4	2	0	2	4	2	1	4
-CGG	0	0	1	0	0	0	0	0	1	0
-ATT	7	7	18	8	2	4	1	1	4	11
-ATC	15	21	25	14	3	16	17	7	0	20
-ATA	15	16	19	5	2	11	5	6	6	8
-ATG	3	2	4	4	1	1	1	0	1	1
-ACT	2	10	4	2	1	6	3	2	0	6
-ACC	8	25	19	4	4	12	10	6	2	13
-ACA	14	19	15	10	4	13	9	2	4	11
-ACG	0	0	2	0	0	0	1	1	0	0
-AAT	0	3	3	0	2	5	0	1	1	3
-AAC	12	9	12	5	4	3	4	2	2	19
-AAA	6	13	8	4	2	3	3	2	0	7
-AAG	1	2	1	0	1	0	0	0	0	3
-AGT	3	0	0	0	0	1	0	0	0	0
-AGC	4	5	3	3	0	2	6	1	3	2
-GTT	1	0	1	6	0	0	2	0	0	3
-GTC	5	4	10	2	0	3	5	1	0	2
-GTA	2	3	19	3	1	4	6	2	2	9
-GTG	1	0	3	0	0	0	0	0	0	1
-GCT	3	4	9	2	0	2	4	3	2	7
-GCC	11	6	19	7	0	8	6	3	6	13
-GCA	13	10	18	4	0	3	9	2	2	6
-GCG	1	0	0	0	0	0	1	0	0	0
-GAT	1	0	0	5	0	0	3	0	1	0
-GAC	3	1	14	7	0	1	1	3	0	6
-GAA	8	5	11	13	0	4	7	5	3	5
-GAG	3	0	0	2	0	0	1	1	0	2
-GGT	1	2	7	1	0	1	1	0	0	1
-GGC	6	4	12	1	0	3	5	1	1	5
-GGA	3	3	25	6	0	4	13	3	2	15
-GGG	2	3	3	0	0	0	1	1	0	2
-TAA	0	0	0	1	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	1	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007624618.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	3	13	7	1	5	9	9	0	4	11	0	0	8	1	7	20	31	1	6	9	12	0	0	2	4	1	0	2	6	0	7	15	15	3	2	8	14	0	0	12	6	1	3	4	1	5	2	1	3	11	13	1	1	3	8	3	1	6	3	2	0	0	0	1
+1	ND2	YP_007624619.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	2	9	2	0	2	12	15	1	0	6	0	2	8	2	7	23	36	2	1	10	11	0	0	6	8	1	0	1	2	0	7	21	16	2	10	25	19	0	3	9	13	2	0	5	0	4	3	0	4	6	10	0	0	1	5	0	2	4	3	3	0	0	0	0
+2	COX1	YP_007624620.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	13	28	9	0	2	10	11	0	6	11	0	1	16	1	6	13	30	6	6	10	15	0	7	12	9	1	1	2	4	1	18	25	19	4	4	19	15	2	3	12	8	1	0	3	1	10	19	3	9	19	18	0	0	14	11	0	7	12	25	3	0	0	0	1
+3	COX2	YP_007624621.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	2	7	4	0	2	6	10	0	3	5	1	2	5	0	1	11	14	3	3	1	9	0	5	2	7	1	0	3	2	0	8	14	5	4	2	4	10	0	0	5	4	0	0	3	6	2	3	0	2	7	4	0	5	7	13	2	1	1	6	0	1	0	0	0
+4	ATP8	YP_007624622.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	0	3	0	0	0	1	2	0	0	0	0	0	5	0	0	2	3	0	2	4	4	0	0	0	1	1	0	0	0	0	2	3	2	1	1	4	4	0	2	4	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007624623.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	1	6	8	0	0	3	5	0	1	3	0	0	3	1	12	18	20	2	2	7	8	0	2	2	7	1	1	2	2	0	4	16	11	1	6	12	13	0	5	3	3	0	1	2	0	3	4	0	2	8	3	0	0	1	4	0	1	3	4	0	1	0	0	0
+6	COX3	YP_007624624.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	4	20	3	2	2	4	8	0	2	7	1	0	10	2	2	9	17	1	5	2	5	0	3	13	9	1	0	0	4	0	1	17	5	1	3	10	9	1	0	4	3	0	0	6	2	5	6	0	4	6	9	1	3	1	7	1	1	5	13	1	0	0	0	0
+7	ND3	YP_007624625.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	2	7	3	0	2	1	0	0	0	3	1	0	4	1	1	7	16	0	2	2	3	0	0	0	2	1	0	0	2	0	1	7	6	0	2	6	2	1	1	2	2	0	0	1	0	1	2	0	3	3	2	0	0	3	5	1	0	1	3	1	0	0	0	0
+8	ND4L	YP_007624626.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	1	4	4	0	3	5	2	0	0	3	1	3	1	0	3	3	10	0	0	2	2	0	2	2	3	0	0	0	1	1	4	0	6	1	0	2	4	0	1	2	0	0	0	3	0	0	2	0	2	6	2	0	1	0	3	0	0	1	2	0	1	0	0	0
+9	CYTB	YP_007624629.1	Calyptorhynchus latirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Cacatuidae, Calyptorhynchus	8	19	8	0	2	12	11	0	6	7	2	2	10	1	6	13	38	0	4	9	11	1	4	9	5	3	0	3	4	0	11	20	8	1	6	13	11	0	3	19	7	3	0	2	3	2	9	1	7	13	6	0	0	6	5	2	1	5	15	2	0	0	0	0

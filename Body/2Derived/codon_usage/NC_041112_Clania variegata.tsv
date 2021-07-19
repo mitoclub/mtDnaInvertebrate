@@ -1,65 +1,10 @@
-	YP_009561906.1|ND2	YP_009561907.1|COX1	YP_009561908.1|COX2	YP_009561909.1|ATP8	YP_009561910.1|ATP6	YP_009561911.1|COX3	YP_009561912.1|ND3	YP_009561916.1|ND6	YP_009561917.1|CYTB
-TTT	41	30	14	6	17	21	11	14	32
-TTC	3	7	2	0	4	3	1	3	4
-TTA	48	50	25	1	33	19	16	23	44
-TTG	1	1	0	0	0	1	0	1	0
-TCT	10	12	4	2	3	7	1	6	6
-TCC	0	1	0	0	0	0	2	0	1
-TCA	13	19	8	2	8	6	7	5	9
-TCG	0	0	0	0	0	0	0	0	0
-TAT	15	15	6	3	6	11	2	9	12
-TAC	4	2	1	1	0	3	0	1	4
-TGT	6	1	2	0	0	1	2	2	3
-TGC	0	0	0	0	1	1	0	0	0
-TGA	8	14	6	4	5	13	2	1	11
-TGG	1	0	0	0	0	0	1	0	1
-CTT	2	10	1	0	3	4	1	4	3
-CTC	0	0	0	0	0	0	0	0	0
-CTA	2	5	2	0	1	6	1	2	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	13	5	2	7	4	1	2	13
-CCC	1	1	0	0	0	1	0	0	1
-CCA	2	10	2	1	3	5	3	0	8
-CCG	0	0	2	0	0	0	0	0	0
-CAT	1	16	6	1	3	12	2	1	7
-CAC	1	1	0	0	2	3	0	0	3
-CAA	5	8	11	1	5	7	2	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	1	0	2	0	0	0	1
-CGC	0	0	1	0	0	0	0	0	0
-CGA	2	8	3	0	1	4	2	1	4
-CGG	0	0	0	0	0	0	0	0	0
-ATT	47	51	31	9	22	29	15	23	41
-ATC	2	2	2	1	5	2	0	2	9
-ATA	29	34	8	7	19	5	14	16	22
-ATG	0	0	1	0	1	1	0	0	2
-ACT	7	16	6	1	10	11	2	5	8
-ACC	2	2	1	0	1	1	0	0	2
-ACA	2	15	4	0	7	9	4	5	14
-ACG	0	0	0	0	0	0	0	0	0
-AAT	33	23	20	7	14	12	6	19	27
-AAC	3	1	3	2	4	3	3	1	2
-AAA	13	7	7	5	5	5	5	6	15
-AAG	0	0	0	0	0	0	0	0	0
-AGT	3	4	2	0	3	1	0	0	1
-AGC	1	1	1	0	0	0	0	1	0
-AGA	6	6	3	0	5	3	1	2	2
-AGG	0	0	0	0	0	1	0	0	0
-GTT	0	8	0	0	2	4	0	1	5
-GTC	0	1	1	0	1	0	0	0	1
-GTA	2	14	5	0	2	6	1	3	7
-GTG	0	1	0	0	0	0	0	0	1
-GCT	1	19	4	0	3	3	0	1	9
-GCC	0	3	0	0	1	0	0	0	0
-GCA	5	10	1	0	1	7	1	3	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	12	8	1	2	5	2	0	6
-GAC	0	2	1	0	0	0	0	0	0
-GAA	5	8	9	0	4	6	4	5	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	2	5	2	0	1	2	0	2	4
-GGC	0	1	1	0	0	0	0	0	1
-GGA	6	35	4	0	8	15	2	3	16
-GGG	0	4	0	0	0	0	0	0	1
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009561906.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	41	3	48	1	10	0	13	0	15	4	6	0	8	1	2	0	2	0	3	1	2	0	1	1	5	0	0	0	2	0	47	2	29	0	7	2	2	0	33	3	13	0	3	1	6	0	0	0	2	0	1	0	5	0	0	0	5	0	2	0	6	0	1	0
+1	COX1	YP_009561907.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	30	7	50	1	12	1	19	0	15	2	1	0	14	0	10	0	5	0	13	1	10	0	16	1	8	0	1	0	8	0	51	2	34	0	16	2	15	0	23	1	7	0	4	1	6	0	8	1	14	1	19	3	10	0	12	2	8	0	5	1	35	4	1	0
+2	COX2	YP_009561908.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	14	2	25	0	4	0	8	0	6	1	2	0	6	0	1	0	2	0	5	0	2	2	6	0	11	0	1	1	3	0	31	2	8	1	6	1	4	0	20	3	7	0	2	1	3	0	0	1	5	0	4	0	1	0	8	1	9	0	2	1	4	0	0	0
+3	ATP8	YP_009561909.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	6	0	1	0	2	0	2	0	3	1	0	0	4	0	0	0	0	0	2	0	1	0	1	0	1	0	0	0	0	0	9	1	7	0	1	0	0	0	7	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009561910.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	17	4	33	0	3	0	8	0	6	0	0	1	5	0	3	0	1	0	7	0	3	0	3	2	5	0	2	0	1	0	22	5	19	1	10	1	7	0	14	4	5	0	3	0	5	0	2	1	2	0	3	1	1	0	2	0	4	0	1	0	8	0	1	0
+5	COX3	YP_009561911.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	21	3	19	1	7	0	6	0	11	3	1	1	13	0	4	0	6	0	4	1	5	0	12	3	7	0	0	0	4	0	29	2	5	1	11	1	9	0	12	3	5	0	1	0	3	1	4	0	6	0	3	0	7	0	5	0	6	0	2	0	15	0	1	0
+6	ND3	YP_009561912.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	11	1	16	0	1	2	7	0	2	0	2	0	2	1	1	0	1	0	1	0	3	0	2	0	2	0	0	0	2	0	15	0	14	0	2	0	4	0	6	3	5	0	0	0	1	0	0	0	1	0	0	0	1	0	2	0	4	0	0	0	2	0	1	0
+7	ND6	YP_009561916.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	14	3	23	1	6	0	5	0	9	1	2	0	1	0	4	0	2	0	2	0	0	0	1	0	3	0	0	0	1	0	23	2	16	0	5	0	5	0	19	1	6	0	0	1	2	0	1	0	3	0	1	0	3	0	0	0	5	0	2	0	3	0	1	0
+8	CYTB	YP_009561917.1	Clania variegata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tineoidea, Psychidae, Oiketicinae, Clania	32	4	44	0	6	1	9	0	12	4	3	0	11	1	3	0	3	0	13	1	8	0	7	3	8	0	1	0	4	0	41	9	22	2	8	2	14	0	27	2	15	0	1	0	2	0	5	1	7	1	9	0	6	0	6	0	4	0	4	1	16	1	1	0

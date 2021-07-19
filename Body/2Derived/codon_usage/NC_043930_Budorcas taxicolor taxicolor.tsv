@@ -1,65 +1,13 @@
-	YP_009677129.1|ND1	YP_009677130.1|ND2	YP_009677131.1|COX1	YP_009677132.1|COX2	YP_009677133.1|ATP8	YP_009677134.1|ATP6	YP_009677135.1|COX3	YP_009677136.1|ND3	YP_009677137.1|ND4L	YP_009677138.1|ND4	YP_009677139.1|ND5	YP_009677141.1|CYTB
-TTT	8	6	23	4	2	5	6	3	0	7	16	8
-TTC	11	7	19	3	1	7	17	6	4	14	28	16
-TTA	11	9	16	6	5	17	5	1	3	7	15	10
-TTG	0	1	0	2	0	1	0	1	2	1	0	1
-TCT	2	1	5	3	0	2	4	1	3	5	6	2
-TCC	6	9	10	4	0	2	4	1	4	15	17	7
-TCA	11	15	12	9	4	5	7	2	2	10	12	10
-TCG	1	1	0	0	0	0	0	0	0	0	1	1
-TAT	4	3	8	7	2	1	5	1	1	3	5	9
-TAC	8	5	12	4	1	1	6	2	3	13	14	6
-TGT	0	0	0	0	0	0	0	1	0	0	1	1
-TGC	1	0	1	2	0	0	2	0	3	3	3	3
-TGA	9	10	15	5	3	3	12	3	0	12	11	12
-TGG	0	0	2	0	0	0	0	1	0	1	1	0
-CTT	6	8	8	2	1	7	6	6	1	16	16	3
-CTC	11	7	7	3	3	7	9	6	3	14	13	19
-CTA	28	27	24	17	2	12	12	12	11	49	46	19
-CTG	1	1	5	3	1	2	1	0	2	6	3	4
-CCT	3	3	13	2	2	4	2	1	0	1	2	1
-CCC	11	5	7	3	1	3	6	2	1	9	12	6
-CCA	8	11	8	8	3	5	4	3	0	11	12	12
-CCG	0	0	0	0	0	0	0	0	0	0	1	3
-CAT	2	0	7	2	0	1	3	0	0	5	2	1
-CAC	1	5	10	5	1	5	13	0	2	6	11	11
-CAA	7	10	5	5	3	9	6	3	2	10	17	5
-CAG	0	0	1	1	0	0	1	0	0	1	1	1
-CGT	0	0	1	1	0	0	1	0	0	3	1	0
-CGC	1	0	1	1	0	2	3	1	0	1	4	0
-CGA	7	4	4	4	0	2	2	0	1	5	3	8
-CGG	0	0	2	0	0	0	0	0	0	1	0	0
-ATT	13	24	23	10	2	9	6	3	3	21	42	8
-ATC	20	17	15	8	2	10	7	2	1	23	27	34
-ATA	15	40	29	14	2	6	5	6	11	28	33	17
-ATG	4	3	5	2	1	5	3	1	3	8	2	3
-ACT	3	8	10	2	0	5	4	4	1	3	8	4
-ACC	3	14	11	6	1	9	7	3	2	12	26	9
-ACA	13	18	15	10	5	15	14	6	1	19	29	18
-ACG	1	0	3	0	4	0	0	0	1	3	2	0
-AAT	6	5	10	1	0	7	3	1	3	7	9	5
-AAC	7	12	9	3	1	6	5	4	2	16	26	13
-AAA	7	13	9	3	7	4	2	3	0	11	20	7
-AAG	0	0	0	2	0	0	0	0	0	0	3	2
-AGT	1	0	2	1	0	0	2	0	1	1	5	0
-AGC	1	2	1	4	0	4	3	2	0	10	7	3
-GTT	2	1	6	5	1	3	2	0	2	3	0	2
-GTC	1	1	5	1	1	1	8	0	0	2	5	4
-GTA	8	5	21	6	0	7	7	2	5	6	6	9
-GTG	0	0	3	0	0	0	0	1	0	0	0	0
-GCT	4	1	8	2	0	4	5	3	1	3	3	3
-GCC	11	10	14	1	0	6	8	4	2	10	12	5
-GCA	14	6	18	6	0	7	3	2	4	13	18	12
-GCG	0	0	0	0	0	0	0	0	0	1	0	1
-GAT	3	0	6	2	1	0	1	1	0	1	4	2
-GAC	0	0	9	8	2	1	2	1	1	3	5	9
-GAA	11	5	8	15	1	3	8	6	2	8	9	6
-GAG	0	0	1	1	0	0	0	0	0	0	3	0
-GGT	0	0	6	0	0	0	1	0	1	3	1	0
-GGC	5	5	9	4	0	4	11	0	2	5	10	7
-GGA	7	9	28	4	0	6	7	3	1	10	17	16
-GGG	0	0	4	0	0	1	0	0	0	0	0	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009677129.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	8	11	11	0	2	6	11	1	4	8	0	1	9	0	6	11	28	1	3	11	8	0	2	1	7	0	0	1	7	0	13	20	15	4	3	3	13	1	6	7	7	0	1	1	2	1	8	0	4	11	14	0	3	0	11	0	0	5	7	0	0	0	0	0
+1	ND2	YP_009677130.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	6	7	9	1	1	9	15	1	3	5	0	0	10	0	8	7	27	1	3	5	11	0	0	5	10	0	0	0	4	0	24	17	40	3	8	14	18	0	5	12	13	0	0	2	1	1	5	0	1	10	6	0	0	0	5	0	0	5	9	0	0	0	0	0
+2	COX1	YP_009677131.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	23	19	16	0	5	10	12	0	8	12	0	1	15	2	8	7	24	5	13	7	8	0	7	10	5	1	1	1	4	2	23	15	29	5	10	11	15	3	10	9	9	0	2	1	6	5	21	3	8	14	18	0	6	9	8	1	6	9	28	4	1	0	0	0
+3	COX2	YP_009677132.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	4	3	6	2	3	4	9	0	7	4	0	2	5	0	2	3	17	3	2	3	8	0	2	5	5	1	1	1	4	0	10	8	14	2	2	6	10	0	1	3	3	2	1	4	5	1	6	0	2	1	6	0	2	8	15	1	0	4	4	0	1	0	0	0
+4	ATP8	YP_009677133.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	2	1	5	0	0	0	4	0	2	1	0	0	3	0	1	3	2	1	2	1	3	0	0	1	3	0	0	0	0	0	2	2	2	1	0	1	5	4	0	1	7	0	0	0	1	1	0	0	0	0	0	0	1	2	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009677134.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	5	7	17	1	2	2	5	0	1	1	0	0	3	0	7	7	12	2	4	3	5	0	1	5	9	0	0	2	2	0	9	10	6	5	5	9	15	0	7	6	4	0	0	4	3	1	7	0	4	6	7	0	0	1	3	0	0	4	6	1	1	0	0	0
+6	COX3	YP_009677135.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	6	17	5	0	4	4	7	0	5	6	0	2	12	0	6	9	12	1	2	6	4	0	3	13	6	1	1	3	2	0	6	7	5	3	4	7	14	0	3	5	2	0	2	3	2	8	7	0	5	8	3	0	1	2	8	0	1	11	7	0	0	0	0	0
+7	ND3	YP_009677136.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	3	6	1	1	1	1	2	0	1	2	1	0	3	1	6	6	12	0	1	2	3	0	0	0	3	0	0	1	0	0	3	2	6	1	4	3	6	0	1	4	3	0	0	2	0	0	2	1	3	4	2	0	1	1	6	0	0	0	3	0	0	0	0	0
+8	ND4L	YP_009677137.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	0	4	3	2	3	4	2	0	1	3	0	3	0	0	1	3	11	2	0	1	0	0	0	2	2	0	0	0	1	0	3	1	11	3	1	2	1	1	3	2	0	0	1	0	2	0	5	0	1	2	4	0	0	1	2	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009677138.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	7	14	7	1	5	15	10	0	3	13	0	3	12	1	16	14	49	6	1	9	11	0	5	6	10	1	3	1	5	1	21	23	28	8	3	12	19	3	7	16	11	0	1	10	3	2	6	0	3	10	13	1	1	3	8	0	3	5	10	0	0	0	0	0
+10	ND5	YP_009677139.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	16	28	15	0	6	17	12	1	5	14	1	3	11	1	16	13	46	3	2	12	12	1	2	11	17	1	1	4	3	0	42	27	33	2	8	26	29	2	9	26	20	3	5	7	0	5	6	0	3	12	18	0	4	5	9	3	1	10	17	0	1	0	0	0
+11	CYTB	YP_009677141.1	Budorcas taxicolor taxicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Caprinae, Budorcas	8	16	10	1	2	7	10	1	9	6	1	3	12	0	3	19	19	4	1	6	12	3	1	11	5	1	0	0	8	0	8	34	17	3	4	9	18	0	5	13	7	2	0	3	2	4	9	0	3	5	12	1	2	9	6	0	0	7	16	1	0	0	1	0

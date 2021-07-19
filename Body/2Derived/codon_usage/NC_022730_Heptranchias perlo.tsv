@@ -1,65 +1,13 @@
-	YP_008758433.1|ND1	YP_008758434.1|ND2	YP_008758435.1|COX1	YP_008758436.2|COX2	YP_008758437.1|ATP8	YP_008758438.1|ATP6	YP_008758439.1|COX3	YP_008758440.1|ND3	YP_008758441.1|ND4L	YP_008758442.2|ND4	YP_008758443.1|ND5	YP_008758445.2|CYTB
-TTT	11	7	23	5	1	15	10	6	3	10	22	12
-TTC	5	6	19	4	3	1	13	5	2	9	21	19
-TTA	22	22	27	6	1	24	11	7	8	24	40	14
-TTG	0	0	1	2	0	1	0	0	0	1	1	1
-TCT	2	6	9	5	0	0	0	1	2	3	7	5
-TCC	4	8	7	3	1	1	4	4	4	8	12	4
-TCA	11	9	13	6	2	3	8	2	3	9	17	11
-TCG	0	1	0	0	0	0	0	0	1	0	0	0
-TAT	11	6	12	4	0	3	7	0	3	12	6	4
-TAC	2	2	6	5	0	0	5	1	0	3	8	9
-TGT	0	0	0	1	0	0	1	1	2	2	3	3
-TGC	0	1	1	1	0	0	1	0	1	3	2	0
-TGA	8	10	17	5	5	5	12	5	1	20	12	11
-TGG	0	0	0	0	0	0	0	0	0	0	1	1
-CTT	9	16	15	8	2	12	8	7	5	24	23	14
-CTC	14	15	8	2	0	4	6	5	5	10	12	16
-CTA	20	22	12	10	2	12	10	8	5	28	28	16
-CTG	1	0	0	0	0	0	0	1	0	2	1	0
-CCT	4	2	5	1	2	4	3	2	0	5	7	7
-CCC	5	8	5	1	2	4	2	0	0	4	9	5
-CCA	14	10	19	11	4	8	6	6	1	12	11	9
-CCG	0	0	0	0	0	0	0	0	0	1	1	0
-CAT	4	2	12	4	1	2	7	0	3	5	9	5
-CAC	0	5	7	6	2	1	9	0	2	6	7	8
-CAA	6	11	7	9	1	9	9	2	2	11	21	11
-CAG	0	0	2	0	0	0	0	0	0	2	0	0
-CGT	1	1	3	1	0	0	1	1	0	0	1	2
-CGC	3	0	0	2	0	1	1	1	2	1	4	1
-CGA	4	3	5	3	0	4	3	0	0	10	4	3
-CGG	0	0	1	0	0	0	0	0	0	0	0	0
-ATT	21	21	34	18	4	18	13	8	3	43	46	26
-ATC	10	11	7	6	1	6	3	4	4	7	21	22
-ATA	15	17	24	12	3	7	7	1	6	28	29	17
-ATG	1	1	1	2	1	2	1	1	1	1	1	4
-ACT	3	8	12	3	2	10	9	0	2	12	10	3
-ACC	11	18	11	3	0	7	3	1	0	15	22	6
-ACA	11	22	13	5	1	6	10	5	4	16	17	12
-ACG	0	0	1	0	0	0	0	0	0	0	0	1
-AAT	8	10	14	3	5	7	2	4	3	10	25	13
-AAC	5	7	1	2	0	6	1	1	0	6	13	8
-AAA	8	9	8	5	6	1	2	1	1	11	23	9
-AAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGT	0	0	3	1	0	0	2	1	1	1	5	1
-AGC	3	3	2	2	0	3	2	0	0	7	6	2
-GTT	2	1	18	5	1	4	5	1	0	2	6	6
-GTC	4	1	5	2	0	2	4	1	0	1	2	1
-GTA	5	2	16	7	0	2	6	1	1	6	2	4
-GTG	0	0	2	1	0	0	1	0	0	0	0	1
-GCT	6	5	12	2	0	7	8	3	2	5	11	4
-GCC	10	10	12	5	0	5	8	2	3	14	16	14
-GCA	9	6	17	6	0	6	3	1	3	11	11	1
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	3	0	11	9	1	1	4	1	0	3	6	2
-GAC	0	0	3	3	0	0	1	3	1	3	6	8
-GAA	10	6	10	15	1	4	9	6	2	10	10	5
-GAG	0	0	1	0	0	0	0	0	0	0	1	0
-GGT	5	3	16	2	0	1	8	1	2	8	3	4
-GGC	5	7	10	2	0	3	4	1	2	5	9	6
-GGA	8	7	15	4	0	5	8	2	1	8	15	10
-GGG	0	0	3	0	0	0	0	1	1	1	1	1
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008758433.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	11	5	22	0	2	4	11	0	11	2	0	0	8	0	9	14	20	1	4	5	14	0	4	0	6	0	1	3	4	0	21	10	15	1	3	11	11	0	8	5	8	0	0	3	2	4	5	0	6	10	9	0	3	0	10	0	5	5	8	0	1	0	0	0
+1	ND2	YP_008758434.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	7	6	22	0	6	8	9	1	6	2	0	1	10	0	16	15	22	0	2	8	10	0	2	5	11	0	1	0	3	0	21	11	17	1	8	18	22	0	10	7	9	0	0	3	1	1	2	0	5	10	6	0	0	0	6	0	3	7	7	0	0	0	0	0
+2	COX1	YP_008758435.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	23	19	27	1	9	7	13	0	12	6	0	1	17	0	15	8	12	0	5	5	19	0	12	7	7	2	3	0	5	1	34	7	24	1	12	11	13	1	14	1	8	0	3	2	18	5	16	2	12	12	17	0	11	3	10	1	16	10	15	3	1	0	0	0
+3	COX2	YP_008758436.2	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	5	4	6	2	5	3	6	0	4	5	1	1	5	0	8	2	10	0	1	1	11	0	4	6	9	0	1	2	3	0	18	6	12	2	3	3	5	0	3	2	5	0	1	2	5	2	7	1	2	5	6	0	9	3	15	0	2	2	4	0	0	0	0	0
+4	ATP8	YP_008758437.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	1	3	1	0	0	1	2	0	0	0	0	0	5	0	2	0	2	0	2	2	4	0	1	2	1	0	0	0	0	0	4	1	3	1	2	0	1	0	5	0	6	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008758438.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	15	1	24	1	0	1	3	0	3	0	0	0	5	0	12	4	12	0	4	4	8	0	2	1	9	0	0	1	4	0	18	6	7	2	10	7	6	0	7	6	1	0	0	3	4	2	2	0	7	5	6	0	1	0	4	0	1	3	5	0	1	0	0	0
+6	COX3	YP_008758439.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	10	13	11	0	0	4	8	0	7	5	1	1	12	0	8	6	10	0	3	2	6	0	7	9	9	0	1	1	3	0	13	3	7	1	9	3	10	0	2	1	2	0	2	2	5	4	6	1	8	8	3	0	4	1	9	0	8	4	8	0	1	0	0	0
+7	ND3	YP_008758440.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	6	5	7	0	1	4	2	0	0	1	1	0	5	0	7	5	8	1	2	0	6	0	0	0	2	0	1	1	0	0	8	4	1	1	0	1	5	0	4	1	1	0	1	0	1	1	1	0	3	2	1	0	1	3	6	0	1	1	2	1	0	0	0	0
+8	ND4L	YP_008758441.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	3	2	8	0	2	4	3	1	3	0	2	1	1	0	5	5	5	0	0	0	1	0	3	2	2	0	0	2	0	0	3	4	6	1	2	0	4	0	3	0	1	0	1	0	0	0	1	0	2	3	3	0	0	1	2	0	2	2	1	1	1	0	0	0
+9	ND4	YP_008758442.2	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	10	9	24	1	3	8	9	0	12	3	2	3	20	0	24	10	28	2	5	4	12	1	5	6	11	2	0	1	10	0	43	7	28	1	12	15	16	0	10	6	11	0	1	7	2	1	6	0	5	14	11	0	3	3	10	0	8	5	8	1	0	0	0	0
+10	ND5	YP_008758443.1	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	22	21	40	1	7	12	17	0	6	8	3	2	12	1	23	12	28	1	7	9	11	1	9	7	21	0	1	4	4	0	46	21	29	1	10	22	17	0	25	13	23	0	5	6	6	2	2	0	11	16	11	0	6	6	10	1	3	9	15	1	1	0	0	0
+11	CYTB	YP_008758445.2	Heptranchias perlo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Heptranchias	12	19	14	1	5	4	11	0	4	9	3	0	11	1	14	16	16	0	7	5	9	0	5	8	11	0	2	1	3	0	26	22	17	4	3	6	12	1	13	8	9	0	1	2	6	1	4	1	4	14	1	0	2	8	5	0	4	6	10	1	0	0	0	0

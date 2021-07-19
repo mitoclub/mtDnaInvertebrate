@@ -1,65 +1,13 @@
-	YP_009243533.1|ND1	YP_009243534.1|ND2	YP_009243535.1|COX1	YP_009243536.1|COX2	YP_009243537.1|ATP8	YP_009243538.1|ATP6	YP_009243539.1|COX3	YP_009243540.1|ND3	YP_009243541.1|ND4L	YP_009243542.1|ND4	YP_009243543.1|ND5	YP_009243545.1|CYTB
-TTT	11	4	24	3	1	9	14	6	3	11	20	17
-TTC	8	6	18	4	2	4	9	4	0	7	26	7
-TTA	16	13	16	11	4	12	14	6	4	22	31	15
-TTG	1	1	3	1	1	0	0	2	0	1	2	0
-TCT	1	5	15	6	0	4	9	2	2	7	15	8
-TCC	5	5	2	2	1	0	3	1	3	6	9	6
-TCA	9	11	11	8	5	4	5	5	3	13	15	7
-TCG	0	0	0	0	0	0	0	0	0	2	1	0
-TAT	8	7	11	7	3	2	7	1	1	9	10	10
-TAC	5	4	8	4	2	0	5	2	2	9	6	7
-TGT	0	0	1	1	0	0	0	1	1	1	1	1
-TGC	1	0	0	1	0	0	1	0	2	3	3	3
-TGA	7	9	14	5	3	2	11	3	0	11	11	11
-TGG	2	0	3	0	0	1	1	1	0	2	1	1
-CTT	5	6	13	4	1	5	4	3	6	11	11	9
-CTC	6	8	4	1	0	4	3	4	4	4	8	9
-CTA	28	31	18	12	2	14	14	8	9	35	37	24
-CTG	4	2	5	4	0	5	2	2	2	14	4	1
-CCT	5	4	16	8	1	3	3	3	0	4	6	6
-CCC	8	3	5	4	4	4	2	0	1	14	13	6
-CCA	7	13	9	1	1	4	6	3	0	4	5	11
-CCG	1	0	0	0	0	1	1	0	0	0	2	0
-CAT	1	2	8	1	1	4	5	0	2	4	4	7
-CAC	3	4	10	5	1	3	11	0	1	7	8	6
-CAA	7	8	5	5	3	7	7	3	1	9	16	6
-CAG	0	0	1	2	0	1	0	0	1	1	4	0
-CGT	1	0	0	1	0	1	1	1	0	2	0	1
-CGC	0	0	2	1	0	2	1	0	0	1	4	2
-CGA	6	3	6	4	1	2	3	0	1	7	5	3
-CGG	0	0	0	0	0	0	0	0	0	0	0	2
-ATT	21	19	27	16	6	18	9	6	5	37	34	23
-ATC	10	16	12	4	2	7	3	2	1	9	21	14
-ATA	17	32	26	12	3	10	10	5	7	34	39	15
-ATG	2	5	6	2	1	6	1	2	2	7	7	3
-ACT	4	4	14	7	3	6	3	4	4	14	12	4
-ACC	10	11	6	3	1	7	5	1	3	12	16	8
-ACA	9	28	15	6	3	10	13	1	2	10	20	12
-ACG	0	2	0	1	1	1	0	1	0	2	1	1
-AAT	5	11	11	2	0	6	6	2	2	4	17	7
-AAC	8	6	6	3	1	4	2	1	2	12	16	10
-AAA	6	13	7	4	6	3	1	4	0	10	20	8
-AAG	1	0	2	1	0	2	1	0	0	2	2	0
-AGT	1	0	2	2	0	0	1	1	0	5	3	1
-AGC	2	4	2	4	0	4	3	1	1	8	9	3
-GTT	0	1	8	3	0	5	4	0	3	3	5	4
-GTC	3	2	6	3	0	2	2	0	1	1	3	6
-GTA	8	3	20	6	0	5	10	3	3	7	7	8
-GTG	0	1	4	0	0	0	0	0	0	1	3	0
-GCT	8	2	16	5	0	5	4	0	2	8	7	6
-GCC	7	6	13	1	0	3	6	4	0	10	21	6
-GCA	14	12	10	4	0	8	3	3	3	10	12	12
-GCG	0	0	2	0	0	1	1	1	1	0	0	1
-GAT	1	0	9	5	1	1	1	1	0	1	4	3
-GAC	2	1	5	5	0	0	2	2	1	4	5	8
-GAA	9	3	5	12	1	3	8	5	1	5	7	5
-GAG	2	2	5	2	1	0	0	1	1	3	4	1
-GGT	1	2	11	1	0	2	2	0	0	3	4	1
-GGC	7	1	7	3	0	4	7	0	1	4	8	5
-GGA	4	10	22	4	0	4	8	2	3	8	13	15
-GGG	0	1	7	0	0	1	3	1	0	4	4	3
-TAA	0	0	0	1	1	1	0	0	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009243533.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	11	8	16	1	1	5	9	0	8	5	0	1	7	2	5	6	28	4	5	8	7	1	1	3	7	0	1	0	6	0	21	10	17	2	4	10	9	0	5	8	6	1	1	2	0	3	8	0	8	7	14	0	1	2	9	2	1	7	4	0	0	0	0	0
+1	ND2	YP_009243534.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	4	6	13	1	5	5	11	0	7	4	0	0	9	0	6	8	31	2	4	3	13	0	2	4	8	0	0	0	3	0	19	16	32	5	4	11	28	2	11	6	13	0	0	4	1	2	3	1	2	6	12	0	0	1	3	2	2	1	10	1	0	0	0	0
+2	COX1	YP_009243535.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	24	18	16	3	15	2	11	0	11	8	1	0	14	3	13	4	18	5	16	5	9	0	8	10	5	1	0	2	6	0	27	12	26	6	14	6	15	0	11	6	7	2	2	2	8	6	20	4	16	13	10	2	9	5	5	5	11	7	22	7	0	1	0	0
+3	COX2	YP_009243536.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	4	11	1	6	2	8	0	7	4	1	1	5	0	4	1	12	4	8	4	1	0	1	5	5	2	1	1	4	0	16	4	12	2	7	3	6	1	2	3	4	1	2	4	3	3	6	0	5	1	4	0	5	5	12	2	1	3	4	0	1	0	0	0
+4	ATP8	YP_009243537.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	1	2	4	1	0	1	5	0	3	2	0	0	3	0	1	0	2	0	1	4	1	0	1	1	3	0	0	0	1	0	6	2	3	1	3	1	3	1	0	1	6	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009243538.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	9	4	12	0	4	0	4	0	2	0	0	0	2	1	5	4	14	5	3	4	4	1	4	3	7	1	1	2	2	0	18	7	10	6	6	7	10	1	6	4	3	2	0	4	5	2	5	0	5	3	8	1	1	0	3	0	2	4	4	1	1	0	0	0
+6	COX3	YP_009243539.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	14	9	14	0	9	3	5	0	7	5	0	1	11	1	4	3	14	2	3	2	6	1	5	11	7	0	1	1	3	0	9	3	10	1	3	5	13	0	6	2	1	1	1	3	4	2	10	0	4	6	3	1	1	2	8	0	2	7	8	3	0	0	0	0
+7	ND3	YP_009243540.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	6	4	6	2	2	1	5	0	1	2	1	0	3	1	3	4	8	2	3	0	3	0	0	0	3	0	1	0	0	0	6	2	5	2	4	1	1	1	2	1	4	0	1	1	0	0	3	0	0	4	3	1	1	2	5	1	0	0	2	1	0	0	0	0
+8	ND4L	YP_009243541.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	0	4	0	2	3	3	0	1	2	1	2	0	0	6	4	9	2	0	1	0	0	2	1	1	1	0	0	1	0	5	1	7	2	4	3	2	0	2	2	0	0	0	1	3	1	3	0	2	0	3	1	0	1	1	1	0	1	3	0	1	0	0	0
+9	ND4	YP_009243542.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	11	7	22	1	7	6	13	2	9	9	1	3	11	2	11	4	35	14	4	14	4	0	4	7	9	1	2	1	7	0	37	9	34	7	14	12	10	2	4	12	10	2	5	8	3	1	7	1	8	10	10	0	1	4	5	3	3	4	8	4	0	0	0	0
+10	ND5	YP_009243543.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	20	26	31	2	15	9	15	1	10	6	1	3	11	1	11	8	37	4	6	13	5	2	4	8	16	4	0	4	5	0	34	21	39	7	12	16	20	1	17	16	20	2	3	9	5	3	7	3	7	21	12	0	4	5	7	4	4	8	13	4	1	0	0	0
+11	CYTB	YP_009243545.1	Myotis lucifugus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	17	7	15	0	8	6	7	0	10	7	1	3	11	1	9	9	24	1	6	6	11	0	7	6	6	0	1	2	3	2	23	14	15	3	4	8	12	1	7	10	8	0	1	3	4	6	8	0	6	6	12	1	3	8	5	1	1	5	15	3	0	0	1	0

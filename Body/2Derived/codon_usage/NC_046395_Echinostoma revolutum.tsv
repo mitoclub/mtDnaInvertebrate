@@ -1,65 +1,13 @@
-	YP_009734327.1|cox3	YP_009734328.1|cytb	YP_009734329.1|nad4L	YP_009734330.1|nad4	YP_009734331.1|atp6	YP_009734332.1|nad2	YP_009734333.1|nad1	YP_009734334.1|nad3	YP_009734335.1|cox1	YP_009734336.1|cox2	YP_009734337.1|nad6	YP_009734338.1|nad5
-TTT	21	34	8	38	22	37	31	16	38	11	17	63
-TTC	2	1	0	5	4	3	3	1	3	2	2	1
-TTA	7	16	6	22	7	5	12	5	27	4	3	24
-TTG	17	31	13	32	10	22	27	13	33	8	12	55
-TCT	6	15	1	18	3	13	8	4	19	4	3	38
-TCC	0	0	1	1	1	2	3	0	1	1	3	2
-TCA	0	1	0	5	1	4	1	0	2	0	3	2
-TCG	0	5	1	6	1	3	3	0	3	3	1	0
-TAT	10	19	1	22	6	14	14	7	17	15	9	26
-TAC	1	1	1	0	0	0	1	1	2	0	0	0
-TGT	7	6	3	14	5	12	11	2	10	9	7	28
-TGC	3	2	1	3	1	2	1	0	0	0	0	1
-TGA	0	0	0	0	0	0	0	0	0	0	0	0
-TGG	10	11	2	11	3	13	11	3	18	3	1	10
-CTT	2	8	1	16	4	12	4	3	13	4	4	6
-CTC	0	0	0	2	0	1	1	0	0	3	1	3
-CTA	0	2	2	4	3	1	0	1	3	0	1	1
-CTG	2	2	0	1	3	3	3	1	2	0	2	5
-CCT	3	7	0	6	3	2	1	1	13	3	5	4
-CCC	0	1	0	1	2	1	0	0	3	0	0	0
-CCA	0	4	0	1	1	2	0	0	3	3	0	4
-CCG	1	3	0	3	3	1	4	0	5	3	1	2
-CAT	8	9	0	6	1	1	1	1	12	3	2	5
-CAC	0	0	0	0	1	0	0	0	2	1	0	0
-CAA	0	0	0	0	0	0	0	0	0	0	0	2
-CAG	2	4	1	1	0	1	2	2	3	2	0	2
-CGT	0	5	1	6	4	1	5	4	6	2	1	6
-CGC	0	0	0	0	0	0	1	0	1	0	0	0
-CGA	0	0	1	1	0	0	0	0	1	2	0	0
-CGG	1	1	2	1	2	0	2	0	2	1	0	3
-ATT	11	14	2	16	6	11	10	2	30	7	6	11
-ATC	1	2	0	2	1	1	0	0	2	2	0	2
-ATA	3	7	5	3	4	3	6	1	7	7	2	7
-ATG	8	10	2	14	3	10	10	2	21	6	1	18
-ACT	6	8	1	4	2	3	4	1	16	1	1	5
-ACC	0	0	0	0	1	2	1	0	0	1	0	1
-ACA	2	1	0	1	0	0	0	0	4	3	1	1
-ACG	4	1	2	0	2	1	2	0	4	4	0	3
-AAT	3	9	3	0	1	3	4	3	11	7	2	5
-AAC	0	1	0	3	0	1	0	0	1	1	1	0
-AAA	2	1	0	2	1	4	4	1	6	2	0	2
-AAG	3	9	0	6	1	6	6	1	3	6	1	5
-AGT	2	9	1	8	4	5	7	1	11	0	2	8
-AGC	0	0	0	2	0	1	1	0	0	0	0	3
-AGA	1	2	1	2	1	2	2	1	2	1	3	5
-AGG	3	7	0	15	1	4	5	2	4	3	5	10
-GTT	13	32	8	28	10	23	24	11	33	8	14	36
-GTC	0	1	0	0	1	0	0	1	0	1	1	2
-GTA	3	5	4	9	1	5	3	1	4	1	2	5
-GTG	8	9	1	11	8	10	9	6	13	9	8	17
-GCT	8	9	0	9	4	4	14	0	14	4	1	16
-GCC	0	2	1	2	1	0	0	0	1	1	1	2
-GCA	1	0	0	4	1	2	2	0	2	3	1	1
-GCG	1	2	0	3	4	0	2	1	7	1	2	2
-GAT	4	7	2	8	3	1	4	2	15	11	1	9
-GAC	0	0	0	0	0	0	1	0	0	2	0	0
-GAA	4	3	2	1	2	1	3	0	3	5	0	1
-GAG	5	4	3	7	1	6	6	5	4	7	1	5
-GGT	9	10	4	18	5	9	12	5	22	4	5	21
-GGC	0	1	0	1	2	4	3	1	1	3	1	4
-GGA	0	3	0	6	7	5	2	1	7	1	1	5
-GGG	6	14	2	16	3	5	8	4	22	3	8	17
-TAA	0	0	1	1	0	0	0	0	0	1	0	1
-TAG	1	1	0	0	1	1	1	1	1	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox3	YP_009734327.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	21	2	7	17	6	0	0	0	10	1	7	3	0	10	2	0	0	2	3	0	0	1	8	0	0	2	0	0	0	1	11	1	3	8	6	0	2	4	3	0	2	3	2	0	1	3	13	0	3	8	8	0	1	1	4	0	4	5	9	0	0	6	0	1
+1	cytb	YP_009734328.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	34	1	16	31	15	0	1	5	19	1	6	2	0	11	8	0	2	2	7	1	4	3	9	0	0	4	5	0	0	1	14	2	7	10	8	0	1	1	9	1	1	9	9	0	2	7	32	1	5	9	9	2	0	2	7	0	3	4	10	1	3	14	0	1
+2	nad4L	YP_009734329.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	8	0	6	13	1	1	0	1	1	1	3	1	0	2	1	0	2	0	0	0	0	0	0	0	0	1	1	0	1	2	2	0	5	2	1	0	0	2	3	0	0	0	1	0	1	0	8	0	4	1	0	1	0	0	2	0	2	3	4	0	0	2	1	0
+3	nad4	YP_009734330.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	38	5	22	32	18	1	5	6	22	0	14	3	0	11	16	2	4	1	6	1	1	3	6	0	0	1	6	0	1	1	16	2	3	14	4	0	1	0	0	3	2	6	8	2	2	15	28	0	9	11	9	2	4	3	8	0	1	7	18	1	6	16	1	0
+4	atp6	YP_009734331.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	22	4	7	10	3	1	1	1	6	0	5	1	0	3	4	0	3	3	3	2	1	3	1	1	0	0	4	0	0	2	6	1	4	3	2	1	0	2	1	0	1	1	4	0	1	1	10	1	1	8	4	1	1	4	3	0	2	1	5	2	7	3	0	1
+5	nad2	YP_009734332.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	37	3	5	22	13	2	4	3	14	0	12	2	0	13	12	1	1	3	2	1	2	1	1	0	0	1	1	0	0	0	11	1	3	10	3	2	0	1	3	1	4	6	5	1	2	4	23	0	5	10	4	0	2	0	1	0	1	6	9	4	5	5	0	1
+6	nad1	YP_009734333.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	31	3	12	27	8	3	1	3	14	1	11	1	0	11	4	1	0	3	1	0	0	4	1	0	0	2	5	1	0	2	10	0	6	10	4	1	0	2	4	0	4	6	7	1	2	5	24	0	3	9	14	0	2	2	4	1	3	6	12	3	2	8	0	1
+7	nad3	YP_009734334.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	16	1	5	13	4	0	0	0	7	1	2	0	0	3	3	0	1	1	1	0	0	0	1	0	0	2	4	0	0	0	2	0	1	2	1	0	0	0	3	0	1	1	1	0	1	2	11	1	1	6	0	0	0	1	2	0	0	5	5	1	1	4	0	1
+8	cox1	YP_009734335.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	38	3	27	33	19	1	2	3	17	2	10	0	0	18	13	0	3	2	13	3	3	5	12	2	0	3	6	1	1	2	30	2	7	21	16	0	4	4	11	1	6	3	11	0	2	4	33	0	4	13	14	1	2	7	15	0	3	4	22	1	7	22	0	1
+9	cox2	YP_009734336.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	11	2	4	8	4	1	0	3	15	0	9	0	0	3	4	3	0	0	3	0	3	3	3	1	0	2	2	0	2	1	7	2	7	6	1	1	3	4	7	1	2	6	0	0	1	3	8	1	1	9	4	1	3	1	11	2	5	7	4	3	1	3	1	0
+10	nad6	YP_009734337.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	17	2	3	12	3	3	3	1	9	0	7	0	0	1	4	1	1	2	5	0	0	1	2	0	0	0	1	0	0	0	6	0	2	1	1	0	1	0	2	1	0	1	2	0	3	5	14	1	2	8	1	1	1	2	1	0	0	1	5	1	1	8	0	1
+11	nad5	YP_009734338.1	Echinostoma revolutum	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Echinostomatidae, Echinostoma	63	1	24	55	38	2	2	0	26	0	28	1	0	10	6	3	1	5	4	0	4	2	5	0	2	2	6	0	0	3	11	2	7	18	5	1	1	3	5	0	2	5	8	3	5	10	36	2	5	17	16	2	1	2	9	0	1	5	21	4	5	17	1	0

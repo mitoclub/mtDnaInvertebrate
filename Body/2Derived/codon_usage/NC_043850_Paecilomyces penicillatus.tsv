@@ -1,65 +1,18 @@
-	YP_009672785.1|cox1	YP_009672786.1|orf151	YP_009672787.1|nad1	YP_009672788.1|nad4	YP_009672789.1|atp8	YP_009672790.1|atp6	YP_009672791.1|cox3	YP_009672792.1|nad6	YP_009672793.1|rps3	YP_009672794.1|orf137	YP_009672795.1|nad2	YP_009672796.1|nad3	YP_009672797.1|atp9	YP_009672798.1|cox2	YP_009672799.1|nad4L	YP_009672800.1|nad5	YP_009672801.1|cob
-TTT	11	5	16	23	5	15	11	8	14	3	24	11	0	10	3	44	19
-TTC	33	3	19	18	1	8	15	6	3	2	19	7	5	5	2	25	12
-TTA	68	9	60	63	5	37	30	33	41	8	75	12	14	24	9	86	45
-TTG	1	1	2	3	0	0	1	2	4	1	3	1	0	0	1	5	2
-TCT	8	4	6	22	1	8	5	5	18	7	21	2	1	5	3	32	7
-TCC	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	3	0
-TCA	11	1	11	5	1	5	8	7	6	1	10	1	5	10	1	24	4
-TCG	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	3	0
-TAT	12	1	9	23	2	7	9	13	21	19	23	5	2	8	3	31	12
-TAC	8	1	6	5	1	2	4	3	6	0	6	3	0	5	1	10	6
-TGT	3	0	3	4	0	1	1	0	0	4	3	1	0	4	0	9	1
-TGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-TGA	14	0	6	3	0	1	9	2	4	2	4	0	0	6	0	11	7
-TGG	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0
-CTT	1	2	2	3	0	3	2	2	5	3	4	4	1	3	3	12	4
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	2	1	4	2	2	2	2	3	2	6	2	0	0	3	8	1
-CTG	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-CCT	19	4	6	10	2	5	7	4	5	2	8	1	1	9	0	39	14
-CCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
-CCA	9	2	6	2	1	2	1	1	0	0	4	1	0	3	0	7	6
-CCG	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	1	0
-CAT	6	2	1	3	0	1	10	2	5	3	6	1	0	6	0	15	6
-CAC	7	1	1	1	0	6	4	1	1	0	1	2	0	2	0	4	5
-CAA	10	5	7	7	1	7	4	4	7	2	10	4	2	6	1	34	10
-CAG	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	2	0
-CGT	0	2	1	0	2	0	0	2	6	0	1	0	0	0	0	5	2
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	1	10	11	1	4	2	7	17	5	11	6	0	3	5	34	8
-ATC	8	1	5	13	0	7	4	4	6	1	8	0	2	2	1	5	2
-ATA	30	14	26	42	8	25	15	22	28	12	56	11	2	20	12	68	30
-ATG	19	3	11	12	3	4	6	8	8	1	12	1	3	7	3	25	14
-ACT	5	2	6	16	0	2	3	3	10	1	20	2	0	3	2	20	6
-ACC	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0
-ACA	22	6	8	17	2	9	16	13	11	1	12	2	2	6	1	26	8
-ACG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
-AAT	17	11	11	15	1	12	8	21	47	15	27	6	0	8	3	50	21
-AAC	5	1	1	3	0	5	2	3	8	2	8	1	2	4	0	8	4
-AAA	10	16	6	13	2	4	2	7	68	12	21	8	2	7	2	42	10
-AAG	0	1	1	2	0	0	0	0	4	1	0	0	0	0	0	2	0
-AGT	20	9	12	15	1	6	4	12	11	3	23	6	0	3	3	34	11
-AGC	2	1	1	4	0	3	2	0	0	0	2	1	0	0	0	3	1
-AGA	11	0	8	8	1	5	4	2	19	6	6	2	1	5	3	23	8
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-GTT	11	4	9	8	1	5	6	5	3	1	7	4	3	5	1	29	10
-GTC	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
-GTA	24	5	15	23	1	10	12	12	9	2	27	5	4	13	5	36	16
-GTG	2	2	1	2	0	1	2	0	0	1	1	1	0	2	0	6	3
-GCT	25	2	15	17	1	8	15	8	3	0	11	3	7	7	4	37	20
-GCC	2	1	0	1	0	1	1	2	0	0	6	0	1	0	0	2	1
-GCA	12	0	16	6	1	10	4	2	5	0	5	1	3	5	2	24	9
-GCG	0	0	1	0	0	0	0	0	2	0	0	0	0	0	1	1	0
-GAT	13	5	7	12	0	3	5	3	13	3	11	3	0	11	2	33	6
-GAC	1	3	1	1	0	1	1	2	1	0	1	0	0	4	0	6	4
-GAA	5	9	14	13	1	6	6	4	8	7	15	6	1	15	3	57	7
-GAG	1	2	0	0	0	0	1	1	0	1	0	0	0	0	0	7	0
-GGT	22	2	11	16	0	7	14	4	7	2	19	6	1	6	2	37	14
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGA	25	2	8	12	0	11	9	7	9	0	10	3	9	7	4	31	12
-GGG	5	0	1	1	0	1	0	0	0	0	1	0	0	0	0	3	2
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009672785.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	11	33	68	1	8	0	11	0	12	8	3	0	14	0	1	0	0	1	19	0	9	0	6	7	10	0	0	0	0	0	9	8	30	19	5	0	22	0	17	5	10	0	20	2	11	0	11	0	24	2	25	2	12	0	13	1	5	1	22	0	25	5	1	0
+1	orf151	YP_009672786.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	5	3	9	1	4	0	1	0	1	1	0	0	0	0	2	0	2	2	4	0	2	0	2	1	5	1	2	0	0	0	1	1	14	3	2	0	6	0	11	1	16	1	9	1	0	0	4	0	5	2	2	1	0	0	5	3	9	2	2	0	2	0	1	0
+2	nad1	YP_009672787.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	16	19	60	2	6	0	11	0	9	6	3	0	6	0	2	0	1	0	6	0	6	0	1	1	7	1	1	0	0	0	10	5	26	11	6	0	8	0	11	1	6	1	12	1	8	0	9	0	15	1	15	0	16	1	7	1	14	0	11	0	8	1	1	0
+3	nad4	YP_009672788.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	23	18	63	3	22	0	5	1	23	5	4	0	3	0	3	0	4	0	10	0	2	0	3	1	7	0	0	0	0	0	11	13	42	12	16	2	17	0	15	3	13	2	15	4	8	0	8	0	23	2	17	1	6	0	12	1	13	0	16	0	12	1	1	0
+4	atp8	YP_009672789.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	5	1	5	0	1	0	1	0	2	1	0	0	0	0	0	0	2	0	2	0	1	0	0	0	1	0	2	0	0	0	1	0	8	3	0	0	2	0	1	0	2	0	1	0	1	0	1	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	1	0
+5	atp6	YP_009672790.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	15	8	37	0	8	0	5	0	7	2	1	0	1	0	3	0	2	0	5	0	2	0	1	6	7	0	0	0	0	0	4	7	25	4	2	0	9	0	12	5	4	0	6	3	5	0	5	0	10	1	8	1	10	0	3	1	6	0	7	0	11	1	1	0
+6	cox3	YP_009672791.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	11	15	30	1	5	0	8	0	9	4	1	0	9	0	2	0	2	0	7	0	1	2	10	4	4	0	0	0	0	0	2	4	15	6	3	0	16	0	8	2	2	0	4	2	4	0	6	0	12	2	15	1	4	0	5	1	6	1	14	0	9	0	1	0
+7	nad6	YP_009672792.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	8	6	33	2	5	1	7	0	13	3	0	0	2	0	2	0	2	0	4	0	1	0	2	1	4	0	2	0	0	0	7	4	22	8	3	0	13	0	21	3	7	0	12	0	2	0	5	0	12	0	8	2	2	0	3	2	4	1	4	0	7	0	1	0
+8	rps3	YP_009672793.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	14	3	41	4	18	0	6	0	21	6	0	0	4	1	5	0	3	0	5	0	0	0	5	1	7	0	6	0	0	0	17	6	28	8	10	0	11	0	47	8	68	4	11	0	19	0	3	0	9	0	3	0	5	2	13	1	8	0	7	0	9	0	1	0
+9	orf137	YP_009672794.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	3	2	8	1	7	0	1	0	19	0	4	0	2	0	3	0	2	0	2	0	0	0	3	0	2	0	0	0	1	0	5	1	12	1	1	0	1	0	15	2	12	1	3	0	6	0	1	0	2	1	0	0	0	0	3	0	7	1	2	0	0	0	1	0
+10	nad2	YP_009672795.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	24	19	75	3	21	2	10	1	23	6	3	0	4	1	4	0	6	0	8	0	4	0	6	1	10	1	1	0	0	0	11	8	56	12	20	1	12	0	27	8	21	0	23	2	6	0	7	1	27	1	11	6	5	0	11	1	15	0	19	0	10	1	1	0
+11	nad3	YP_009672796.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	11	7	12	1	2	0	1	0	5	3	1	0	0	0	4	0	2	0	1	0	1	1	1	2	4	0	0	0	0	0	6	0	11	1	2	0	2	0	6	1	8	0	6	1	2	0	4	0	5	1	3	0	1	0	3	0	6	0	6	0	3	0	1	0
+12	atp9	YP_009672797.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	0	5	14	0	1	0	5	0	2	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	2	2	3	0	0	2	0	0	2	2	0	0	0	1	0	3	0	4	0	7	1	3	0	0	0	1	0	1	0	9	0	1	0
+13	cox2	YP_009672798.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	10	5	24	0	5	0	10	0	8	5	4	0	6	0	3	0	0	0	9	0	3	0	6	2	6	0	0	0	0	0	3	2	20	7	3	0	6	0	8	4	7	0	3	0	5	0	5	0	13	2	7	0	5	0	11	4	15	0	6	0	7	0	1	0
+14	nad4L	YP_009672799.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	3	2	9	1	3	0	1	0	3	1	0	0	0	0	3	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	5	1	12	3	2	0	1	0	3	0	2	0	3	0	3	0	1	0	5	0	4	0	2	1	2	0	3	0	2	0	4	0	1	0
+15	nad5	YP_009672800.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	44	25	86	5	32	3	24	3	31	10	9	1	11	1	12	0	8	1	39	1	7	1	15	4	34	2	5	0	0	0	34	5	68	25	20	0	26	3	50	8	42	2	34	3	23	1	29	1	36	6	37	2	24	1	33	6	57	7	37	0	31	3	1	0
+16	cob	YP_009672801.1	Paecilomyces penicillatus	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Paecilomyces	19	12	45	2	7	0	4	0	12	6	1	0	7	0	4	0	1	0	14	1	6	0	6	5	10	0	2	0	0	0	8	2	30	14	6	0	8	0	21	4	10	0	11	1	8	0	10	0	16	3	20	1	9	0	6	4	7	0	14	0	12	2	1	0

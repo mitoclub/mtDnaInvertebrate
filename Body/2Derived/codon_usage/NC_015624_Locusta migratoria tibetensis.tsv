@@ -1,65 +1,10 @@
-	YP_004564562.1|ND2	YP_004564563.1|COX1	YP_004564564.1|COX2	YP_004564565.1|ATP8	YP_004564566.1|ATP6	YP_004564567.1|COX3	YP_004564568.1|ND3	YP_004564572.1|ND6	YP_004564573.1|CYTB
-TTT	7	20	6	4	16	16	5	5	7
-TTC	12	19	5	3	3	10	4	3	20
-TTA	20	38	21	1	23	20	10	10	24
-TTG	1	1	1	0	0	0	0	0	1
-TCT	5	6	2	1	0	1	0	0	2
-TCC	2	2	0	0	0	0	0	1	0
-TCA	23	18	12	3	14	9	6	8	10
-TCG	1	1	0	0	0	1	1	0	0
-TAT	8	13	6	1	3	6	2	2	12
-TAC	6	4	2	0	1	2	0	5	7
-TGT	2	1	1	0	0	1	1	0	1
-TGC	1	0	1	0	0	1	0	0	4
-TGA	11	15	6	3	5	13	3	1	12
-TGG	0	0	0	0	0	1	0	0	0
-CTT	5	5	5	0	6	1	2	0	3
-CTC	0	1	1	0	0	0	0	0	0
-CTA	16	12	3	2	11	9	4	7	9
-CTG	2	0	0	0	0	0	0	0	0
-CCT	1	4	4	1	1	3	2	1	7
-CCC	1	1	0	0	0	0	0	0	1
-CCA	8	19	5	2	8	7	3	2	13
-CCG	0	2	0	0	0	0	0	0	1
-CAT	1	8	4	0	5	8	0	1	7
-CAC	2	6	2	0	0	5	0	0	4
-CAA	7	11	5	2	4	9	2	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	1	0	1	0	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	8	7	0	2	3	2	0	8
-CGG	0	0	0	0	0	0	0	0	0
-ATT	31	46	16	3	19	17	16	26	38
-ATC	12	4	4	1	1	2	2	4	11
-ATA	39	31	13	9	16	18	8	30	31
-ATG	5	3	1	0	3	1	0	1	2
-ACT	0	5	3	0	4	3	2	1	2
-ACC	2	3	1	0	1	4	0	2	1
-ACA	17	27	15	1	15	11	6	11	20
-ACG	1	1	0	0	1	0	0	0	0
-AAT	12	18	7	3	19	9	4	7	13
-AAC	7	4	5	4	0	3	0	8	11
-AAA	15	7	5	6	4	5	6	9	10
-AAG	0	2	0	0	0	1	0	1	1
-AGT	0	1	1	1	1	1	1	0	0
-AGC	0	0	0	0	0	0	0	0	0
-AGA	10	13	4	1	6	3	3	6	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	8	4	0	3	4	1	2	8
-GTC	0	1	0	0	0	1	0	1	2
-GTA	8	21	5	0	4	8	5	3	12
-GTG	0	0	0	0	0	0	0	0	0
-GCT	3	13	4	0	3	0	1	0	2
-GCC	0	2	0	0	1	2	0	0	1
-GCA	8	19	7	0	5	15	5	2	13
-GCG	0	0	0	0	0	0	0	0	0
-GAT	2	11	11	0	0	3	3	1	7
-GAC	1	5	0	0	1	1	0	0	3
-GAA	6	8	11	0	4	6	4	5	4
-GAG	1	0	0	0	0	0	0	0	0
-GGT	2	9	4	0	0	2	0	2	1
-GGC	0	0	1	0	0	2	0	0	0
-GGA	12	34	5	0	10	13	3	2	22
-GGG	0	1	0	0	1	2	0	0	0
-TAA	1	1	1	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_004564562.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	7	12	20	1	5	2	23	1	8	6	2	1	11	0	5	0	16	2	1	1	8	0	1	2	7	0	0	0	2	0	31	12	39	5	0	2	17	1	12	7	15	0	0	0	10	0	2	0	8	0	3	0	8	0	2	1	6	1	2	0	12	0	1	0
+1	COX1	YP_004564563.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	20	19	38	1	6	2	18	1	13	4	1	0	15	0	5	1	12	0	4	1	19	2	8	6	11	0	0	0	8	0	46	4	31	3	5	3	27	1	18	4	7	2	1	0	13	0	8	1	21	0	13	2	19	0	11	5	8	0	9	0	34	1	1	0
+2	COX2	YP_004564564.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	6	5	21	1	2	0	12	0	6	2	1	1	6	0	5	1	3	0	4	0	5	0	4	2	5	0	1	0	7	0	16	4	13	1	3	1	15	0	7	5	5	0	1	0	4	0	4	0	5	0	4	0	7	0	11	0	11	0	4	1	5	0	1	0
+3	ATP8	YP_004564565.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	4	3	1	0	1	0	3	0	1	0	0	0	3	0	0	0	2	0	1	0	2	0	0	0	2	0	0	0	0	0	3	1	9	0	0	0	1	0	3	4	6	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_004564566.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	16	3	23	0	0	0	14	0	3	1	0	0	5	0	6	0	11	0	1	0	8	0	5	0	4	0	1	0	2	0	19	1	16	3	4	1	15	1	19	0	4	0	1	0	6	0	3	0	4	0	3	1	5	0	0	1	4	0	0	0	10	1	1	0
+5	COX3	YP_004564567.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	16	10	20	0	1	0	9	1	6	2	1	1	13	1	1	0	9	0	3	0	7	0	8	5	9	0	0	0	3	0	17	2	18	1	3	4	11	0	9	3	5	1	1	0	3	0	4	1	8	0	0	2	15	0	3	1	6	0	2	2	13	2	1	0
+6	ND3	YP_004564568.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	5	4	10	0	0	0	6	1	2	0	1	0	3	0	2	0	4	0	2	0	3	0	0	0	2	0	0	0	2	0	16	2	8	0	2	0	6	0	4	0	6	0	1	0	3	0	1	0	5	0	1	0	5	0	3	0	4	0	0	0	3	0	0	1
+7	ND6	YP_004564572.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	5	3	10	0	0	1	8	0	2	5	0	0	1	0	0	0	7	0	1	0	2	0	1	0	2	0	1	0	0	0	26	4	30	1	1	2	11	0	7	8	9	1	0	0	6	0	2	1	3	0	0	0	2	0	1	0	5	0	2	0	2	0	1	0
+8	CYTB	YP_004564573.1	Locusta migratoria tibetensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oedipodinae, Locusta	7	20	24	1	2	0	10	0	12	7	1	4	12	0	3	0	9	0	7	1	13	1	7	4	8	0	0	0	8	0	38	11	31	2	2	1	20	0	13	11	10	1	0	0	3	0	8	2	12	0	2	1	13	0	7	3	4	0	1	0	22	0	1	0

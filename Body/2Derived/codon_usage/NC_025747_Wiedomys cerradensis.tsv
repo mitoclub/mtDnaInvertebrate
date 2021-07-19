@@ -1,65 +1,13 @@
-	YP_009109992.1|ND1	YP_009109993.1|ND2	YP_009109994.1|COX1	YP_009109995.1|COX2	YP_009109996.1|ATP8	YP_009109997.1|ATP6	YP_009109998.1|COX3	YP_009109999.1|ND3	YP_009110000.1|ND4L	YP_009110001.1|ND4	YP_009110002.1|ND5	YP_009110004.1|CYTB
-TTT	16	13	26	6	2	9	15	7	4	12	27	13
-TTC	7	2	15	1	0	2	7	4	2	6	20	12
-TTA	13	15	11	6	5	14	3	5	6	22	20	14
-TTG	1	2	2	0	1	0	2	1	2	2	2	0
-TCT	6	6	11	6	1	3	5	3	2	11	16	6
-TCC	7	7	5	3	2	7	3	2	1	10	13	7
-TCA	10	13	10	7	3	2	11	3	5	11	11	12
-TCG	0	0	1	0	0	0	0	0	0	0	1	0
-TAT	10	7	10	5	1	2	7	1	2	9	12	13
-TAC	2	6	8	4	0	0	4	3	1	5	9	7
-TGT	1	0	1	0	1	0	1	0	0	1	2	0
-TGC	0	2	0	2	0	0	0	1	3	3	8	3
-TGA	8	7	17	5	2	1	12	4	0	11	9	10
-TGG	1	1	0	0	1	2	0	0	0	2	2	1
-CTT	7	9	15	10	1	8	5	3	6	13	11	8
-CTC	9	10	8	5	0	5	11	7	2	18	16	13
-CTA	26	22	22	9	1	13	10	4	4	33	35	15
-CTG	0	2	3	0	0	3	3	1	0	2	4	4
-CCT	5	3	5	3	1	4	2	0	1	7	1	3
-CCC	10	3	9	3	2	2	1	5	1	9	14	5
-CCA	8	11	13	7	2	4	7	1	0	5	11	12
-CCG	0	1	2	0	0	0	0	0	0	1	0	1
-CAT	4	1	9	2	0	2	5	1	0	6	3	1
-CAC	0	4	10	4	0	5	12	0	1	3	11	11
-CAA	7	11	5	4	5	5	6	1	2	10	11	4
-CAG	0	1	1	2	1	1	1	0	0	1	1	3
-CGT	0	0	3	1	0	1	0	0	0	0	1	0
-CGC	1	1	0	3	0	1	2	1	1	2	4	1
-CGA	7	2	4	2	0	2	3	0	0	6	3	5
-CGG	0	0	1	0	0	1	0	0	0	1	1	1
-ATT	25	29	32	14	7	18	13	8	6	35	56	27
-ATC	4	11	5	7	2	9	4	3	4	13	10	19
-ATA	21	33	28	10	1	14	10	5	9	30	33	14
-ATG	0	5	3	4	1	3	1	1	1	4	3	1
-ACT	4	9	7	10	1	5	4	2	3	12	17	5
-ACC	5	7	9	1	1	7	3	0	0	10	17	7
-ACA	9	9	19	5	3	12	9	1	4	15	21	12
-ACG	1	1	1	0	2	1	1	2	0	0	1	2
-AAT	7	16	12	6	2	4	2	3	2	14	26	7
-AAC	7	9	5	4	1	3	5	1	2	11	11	12
-AAA	7	8	9	5	4	6	4	2	1	13	21	8
-AAG	0	1	1	0	0	0	1	1	0	0	2	1
-AGT	1	3	0	2	1	2	2	1	0	2	4	0
-AGC	2	1	3	2	1	2	1	2	0	7	9	0
-GTT	4	1	14	2	0	4	2	1	0	5	4	6
-GTC	0	0	5	1	0	0	4	2	0	5	2	5
-GTA	4	4	17	10	0	6	9	2	3	1	7	7
-GTG	1	0	4	3	1	0	1	1	0	1	1	1
-GCT	6	5	15	2	3	4	1	4	3	5	7	1
-GCC	9	5	10	3	0	12	5	0	3	6	18	10
-GCA	10	7	17	3	2	1	8	2	3	16	14	10
-GCG	0	0	0	0	0	1	0	0	1	0	0	0
-GAT	1	0	11	6	0	1	2	2	1	1	7	7
-GAC	2	1	5	5	1	0	3	1	0	3	4	3
-GAA	7	5	7	10	1	3	6	5	2	9	8	5
-GAG	4	0	2	4	0	0	0	1	0	0	2	1
-GGT	2	1	9	1	0	1	2	1	0	4	6	4
-GGC	5	6	15	3	0	4	10	1	1	5	7	10
-GGA	2	5	17	4	0	4	9	2	2	7	8	8
-GGG	2	0	5	0	0	0	1	0	1	2	2	3
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	1	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009109992.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	16	7	13	1	6	7	10	0	10	2	1	0	8	1	7	9	26	0	5	10	8	0	4	0	7	0	0	1	7	0	25	4	21	0	4	5	9	1	7	7	7	0	1	2	4	0	4	1	6	9	10	0	1	2	7	4	2	5	2	2	0	0	0	0
+1	ND2	YP_009109993.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	13	2	15	2	6	7	13	0	7	6	0	2	7	1	9	10	22	2	3	3	11	1	1	4	11	1	0	1	2	0	29	11	33	5	9	7	9	1	16	9	8	1	3	1	1	0	4	0	5	5	7	0	0	1	5	0	1	6	5	0	0	0	0	0
+2	COX1	YP_009109994.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	26	15	11	2	11	5	10	1	10	8	1	0	17	0	15	8	22	3	5	9	13	2	9	10	5	1	3	0	4	1	32	5	28	3	7	9	19	1	12	5	9	1	0	3	14	5	17	4	15	10	17	0	11	5	7	2	9	15	17	5	1	0	0	0
+3	COX2	YP_009109995.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	6	1	6	0	6	3	7	0	5	4	0	2	5	0	10	5	9	0	3	3	7	0	2	4	4	2	1	3	2	0	14	7	10	4	10	1	5	0	6	4	5	0	2	2	2	1	10	3	2	3	3	0	6	5	10	4	1	3	4	0	0	1	0	0
+4	ATP8	YP_009109996.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	2	0	5	1	1	2	3	0	1	0	1	0	2	1	1	0	1	0	1	2	2	0	0	0	5	1	0	0	0	0	7	2	1	1	1	1	3	2	2	1	4	0	1	1	0	0	0	1	3	0	2	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009109997.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	9	2	14	0	3	7	2	0	2	0	0	0	1	2	8	5	13	3	4	2	4	0	2	5	5	1	1	1	2	1	18	9	14	3	5	7	12	1	4	3	6	0	2	2	4	0	6	0	4	12	1	1	1	0	3	0	1	4	4	0	1	0	0	0
+6	COX3	YP_009109998.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	15	7	3	2	5	3	11	0	7	4	1	0	12	0	5	11	10	3	2	1	7	0	5	12	6	1	0	2	3	0	13	4	10	1	4	3	9	1	2	5	4	1	2	1	2	4	9	1	1	5	8	0	2	3	6	0	2	10	9	1	0	0	0	0
+7	ND3	YP_009109999.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	7	4	5	1	3	2	3	0	1	3	0	1	4	0	3	7	4	1	0	5	1	0	1	0	1	0	0	1	0	0	8	3	5	1	2	0	1	2	3	1	2	1	1	2	1	2	2	1	4	0	2	0	2	1	5	1	1	1	2	0	0	1	0	0
+8	ND4L	YP_009110000.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	4	2	6	2	2	1	5	0	2	1	0	3	0	0	6	2	4	0	1	1	0	0	0	1	2	0	0	1	0	0	6	4	9	1	3	0	4	0	2	2	1	0	0	0	0	0	3	0	3	3	3	1	1	0	2	0	0	1	2	1	1	0	0	0
+9	ND4	YP_009110001.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	12	6	22	2	11	10	11	0	9	5	1	3	11	2	13	18	33	2	7	9	5	1	6	3	10	1	0	2	6	1	35	13	30	4	12	10	15	0	14	11	13	0	2	7	5	5	1	1	5	6	16	0	1	3	9	0	4	5	7	2	0	0	0	0
+10	ND5	YP_009110002.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	27	20	20	2	16	13	11	1	12	9	2	8	9	2	11	16	35	4	1	14	11	0	3	11	11	1	1	4	3	1	56	10	33	3	17	17	21	1	26	11	21	2	4	9	4	2	7	1	7	18	14	0	7	4	8	2	6	7	8	2	1	0	0	0
+11	CYTB	YP_009110004.1	Wiedomys cerradensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Sigmodontinae, Wiedomys	13	12	14	0	6	7	12	0	13	7	0	3	10	1	8	13	15	4	3	5	12	1	1	11	4	3	0	1	5	1	27	19	14	1	5	7	12	2	7	12	8	1	0	0	6	5	7	1	1	10	10	0	7	3	5	1	4	10	8	3	0	0	0	0

@@ -1,65 +1,12 @@
-	YP_009107745.1|ND1	YP_009107746.1|ND2	YP_009107748.1|COX2	YP_009107749.1|ATP8	YP_009107750.1|ATP6	YP_009107751.1|COX3	YP_009107752.1|ND3	YP_009107753.1|ND4L	YP_009107754.1|ND4	YP_009107755.1|ND5	YP_009107756.1|CYTB
-TTT	7	3	0	3	1	1	2	1	0	3	3
-TTC	11	9	8	1	11	22	7	4	12	36	24
-TTA	9	3	3	0	4	2	4	3	3	3	2
-TTG	0	0	0	0	0	0	0	0	0	1	0
-TCT	2	6	1	0	3	3	0	0	4	4	2
-TCC	10	9	9	2	4	5	4	8	9	21	7
-TCA	7	13	8	2	5	5	3	2	14	16	11
-TCG	0	0	0	0	0	0	0	0	2	0	0
-TAT	2	1	0	0	2	1	1	0	3	2	0
-TAC	14	6	7	0	1	10	1	3	10	9	12
-TGT	1	0	1	0	0	0	0	1	0	2	0
-TGC	2	1	2	0	0	1	1	2	3	4	4
-TGA	5	7	4	5	4	12	3	1	11	11	11
-TGG	3	3	1	0	0	0	2	0	1	1	0
-CTT	5	11	5	1	5	2	3	1	5	7	8
-CTC	13	12	6	2	15	7	4	3	29	22	11
-CTA	33	36	15	2	31	19	15	11	59	61	33
-CTG	6	6	2	0	5	3	4	1	4	5	8
-CCT	5	5	1	4	0	1	1	0	3	3	1
-CCC	10	6	4	4	6	6	1	1	14	14	9
-CCA	10	8	7	3	9	6	5	2	10	11	11
-CCG	0	1	0	0	0	0	0	0	1	0	2
-CAT	0	1	2	0	1	1	0	2	1	2	3
-CAC	2	8	7	0	2	14	0	4	13	13	9
-CAA	6	10	6	2	8	7	3	3	13	16	8
-CAG	0	0	0	0	0	1	0	0	0	1	0
-CGT	0	0	0	0	0	1	0	0	1	0	4
-CGC	3	2	2	0	2	0	0	0	0	2	0
-CGA	5	2	4	0	1	4	2	1	10	6	4
-CGG	0	0	0	0	2	0	0	1	0	0	0
-ATT	11	9	5	2	3	1	0	1	12	10	7
-ATC	12	24	9	3	14	14	10	4	29	44	27
-ATA	7	12	10	1	6	7	4	6	18	30	8
-ATG	3	3	2	2	3	2	0	1	5	2	2
-ACT	4	9	3	2	1	3	3	0	4	4	3
-ACC	6	20	4	4	8	9	4	5	20	37	8
-ACA	7	13	7	1	12	8	1	2	17	23	14
-ACG	0	0	1	0	1	0	0	0	1	1	1
-AAT	2	2	3	1	1	0	0	0	0	3	3
-AAC	10	10	4	2	8	4	3	2	16	24	17
-AAA	7	14	4	2	4	5	1	0	10	19	10
-AAG	0	0	0	0	0	0	0	0	0	1	0
-AGT	2	1	0	0	1	0	0	2	1	1	0
-AGC	6	4	6	1	3	4	1	2	8	10	1
-GTT	2	0	2	0	2	1	0	0	3	2	2
-GTC	4	4	6	0	2	5	1	0	5	3	11
-GTA	8	3	8	1	5	8	1	2	5	12	10
-GTG	3	1	1	0	0	0	0	0	0	1	0
-GCT	5	2	3	0	3	1	2	0	7	7	2
-GCC	12	12	8	1	9	15	3	8	18	26	18
-GCA	14	13	4	1	4	8	1	1	13	16	9
-GCG	1	1	0	0	0	0	0	0	2	0	0
-GAT	1	0	1	0	0	0	1	0	0	1	1
-GAC	3	1	11	0	3	4	2	1	2	7	8
-GAA	9	4	12	0	4	8	6	1	9	11	7
-GAG	2	1	0	0	0	0	1	1	1	1	0
-GGT	2	0	1	0	1	1	1	0	0	4	3
-GGC	6	7	2	0	2	8	0	4	9	9	8
-GGA	4	6	4	0	5	11	4	0	8	18	12
-GGG	1	1	1	0	0	0	0	0	1	2	1
-TAA	0	0	1	1	1	0	1	1	0	0	1
-TAG	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009107745.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	7	11	9	0	2	10	7	0	2	14	1	2	5	3	5	13	33	6	5	10	10	0	0	2	6	0	0	3	5	0	11	12	7	3	4	6	7	0	2	10	7	0	2	6	2	4	8	3	5	12	14	1	1	3	9	2	2	6	4	1	0	1	0	0
+1	ND2	YP_009107746.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	3	9	3	0	6	9	13	0	1	6	0	1	7	3	11	12	36	6	5	6	8	1	1	8	10	0	0	2	2	0	9	24	12	3	9	20	13	0	2	10	14	0	1	4	0	4	3	1	2	12	13	1	0	1	4	1	0	7	6	1	0	0	0	0
+2	COX2	YP_009107748.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	0	8	3	0	1	9	8	0	0	7	1	2	4	1	5	6	15	2	1	4	7	0	2	7	6	0	0	2	4	0	5	9	10	2	3	4	7	1	3	4	4	0	0	6	2	6	8	1	3	8	4	0	1	11	12	0	1	2	4	1	1	0	0	0
+3	ATP8	YP_009107749.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	3	1	0	0	0	2	2	0	0	0	0	0	5	0	1	2	2	0	4	4	3	0	0	0	2	0	0	0	0	0	2	3	1	2	2	4	1	0	1	2	2	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+4	ATP6	YP_009107750.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	1	11	4	0	3	4	5	0	2	1	0	0	4	0	5	15	31	5	0	6	9	0	1	2	8	0	0	2	1	2	3	14	6	3	1	8	12	1	1	8	4	0	1	3	2	2	5	0	3	9	4	0	0	3	4	0	1	2	5	0	1	0	0	0
+5	COX3	YP_009107751.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	1	22	2	0	3	5	5	0	1	10	0	1	12	0	2	7	19	3	1	6	6	0	1	14	7	1	1	0	4	0	1	14	7	2	3	9	8	0	0	4	5	0	0	4	1	5	8	0	1	15	8	0	0	4	8	0	1	8	11	0	0	0	0	0
+6	ND3	YP_009107752.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	2	7	4	0	0	4	3	0	1	1	0	1	3	2	3	4	15	4	1	1	5	0	0	0	3	0	0	0	2	0	0	10	4	0	3	4	1	0	0	3	1	0	0	1	0	1	1	0	2	3	1	0	1	2	6	1	1	0	4	0	1	0	0	0
+7	ND4L	YP_009107753.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	1	4	3	0	0	8	2	0	0	3	1	2	1	0	1	3	11	1	0	1	2	0	2	4	3	0	0	0	1	1	1	4	6	1	0	5	2	0	0	2	0	0	2	2	0	0	2	0	0	8	1	0	0	1	1	1	0	4	0	0	1	0	0	0
+8	ND4	YP_009107754.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	0	12	3	0	4	9	14	2	3	10	0	3	11	1	5	29	59	4	3	14	10	1	1	13	13	0	1	0	10	0	12	29	18	5	4	20	17	1	0	16	10	0	1	8	3	5	5	0	7	18	13	2	0	2	9	1	0	9	8	1	0	0	0	0
+9	ND5	YP_009107755.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	3	36	3	1	4	21	16	0	2	9	2	4	11	1	7	22	61	5	3	14	11	0	2	13	16	1	0	2	6	0	10	44	30	2	4	37	23	1	3	24	19	1	1	10	2	3	12	1	7	26	16	0	1	7	11	1	4	9	18	2	0	0	1	0
+10	CYTB	YP_009107756.1	Leucosticte brandti	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Leucosticte	3	24	2	0	2	7	11	0	0	12	0	4	11	0	8	11	33	8	1	9	11	2	3	9	8	0	4	0	4	0	7	27	8	2	3	8	14	1	3	17	10	0	0	1	2	11	10	0	2	18	9	0	1	8	7	0	3	8	12	1	1	0	0	0

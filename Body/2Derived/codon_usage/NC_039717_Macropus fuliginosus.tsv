@@ -1,65 +1,13 @@
-	YP_009529056.1|ND1	YP_009529057.1|ND2	YP_009529058.1|COX1	YP_009529059.1|COX2	YP_009529060.1|ATP8	YP_009529061.1|ATP6	YP_009529062.1|COX3	YP_009529063.1|ND3	YP_009529064.1|ND4L	YP_009529065.1|ND4	YP_009529066.1|ND5	YP_009529068.1|CYTB
-TTT	8	5	11	2	1	5	13	1	2	4	11	12
-TTC	14	9	32	5	0	6	12	6	3	14	31	15
-TTA	13	5	12	8	0	10	4	4	5	15	13	8
-TTG	0	1	4	3	1	1	0	0	0	1	0	1
-TCT	4	2	7	5	1	2	3	0	2	3	6	3
-TCC	7	9	11	2	1	7	5	3	3	13	9	6
-TCA	12	12	10	6	4	3	9	2	3	13	21	14
-TCG	1	0	0	0	1	0	0	0	0	2	2	0
-TAT	3	5	6	6	2	0	7	0	0	7	5	3
-TAC	9	4	13	8	0	3	4	5	3	12	13	11
-TGT	1	0	0	1	0	1	0	2	0	0	2	0
-TGC	1	0	1	1	1	0	3	0	3	5	3	3
-TGA	8	11	14	5	3	4	12	4	0	11	12	12
-TGG	1	0	3	0	0	0	0	0	0	0	0	0
-CTT	2	13	9	3	1	4	5	3	4	10	8	3
-CTC	10	10	9	3	1	7	8	5	6	12	11	18
-CTA	32	35	24	13	7	23	16	13	10	41	52	31
-CTG	0	1	3	1	0	0	0	1	0	4	0	0
-CCT	3	4	10	5	3	5	2	2	0	8	8	2
-CCC	7	8	3	2	2	2	4	3	0	4	6	7
-CCA	8	9	14	7	2	7	5	3	1	11	13	14
-CCG	0	0	1	0	0	1	0	0	0	1	0	1
-CAT	1	2	4	1	1	2	6	0	0	8	5	6
-CAC	2	5	13	5	1	3	10	0	3	9	13	6
-CAA	6	10	6	9	5	7	8	3	2	8	14	7
-CAG	0	0	1	0	0	1	0	0	0	0	2	0
-CGT	1	1	2	1	0	0	0	0	0	0	1	1
-CGC	1	0	0	2	0	2	0	0	1	2	2	2
-CGA	6	2	6	3	0	4	5	1	0	8	5	5
-CGG	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	13	10	29	9	4	16	7	5	1	19	32	14
-ATC	18	26	13	10	3	9	9	11	5	29	39	26
-ATA	14	22	17	9	3	10	7	1	7	31	33	12
-ATG	2	4	9	6	1	3	1	0	1	3	3	1
-ACT	3	5	9	3	1	6	5	5	0	9	5	5
-ACC	4	13	10	6	3	5	5	1	1	9	25	7
-ACA	12	19	17	8	5	12	11	2	1	16	24	13
-ACG	0	0	2	3	1	0	0	0	0	0	0	0
-AAT	5	7	8	3	0	5	0	0	2	6	12	1
-AAC	9	12	8	1	1	4	6	3	5	8	25	16
-AAA	8	11	9	4	6	4	2	3	1	12	17	10
-AAG	0	0	0	1	0	1	0	0	0	3	0	0
-AGT	0	0	1	2	0	1	0	1	0	1	3	0
-AGC	1	2	2	2	0	2	3	0	0	12	6	2
-GTT	2	2	11	1	0	3	5	0	2	1	2	3
-GTC	6	3	7	4	0	2	4	1	0	6	6	4
-GTA	5	3	21	7	0	5	8	0	2	7	5	8
-GTG	0	0	0	2	0	1	2	0	1	1	2	0
-GCT	4	6	13	4	0	3	2	0	2	8	13	5
-GCC	15	14	12	4	0	8	6	6	4	13	15	13
-GCA	8	8	14	1	0	4	4	3	4	7	13	8
-GCG	1	0	1	1	0	0	1	0	0	1	1	0
-GAT	1	0	7	8	1	0	1	0	0	0	2	0
-GAC	3	1	8	3	0	1	2	2	1	3	10	10
-GAA	9	4	9	12	0	2	7	6	2	8	9	6
-GAG	1	0	0	1	2	1	1	0	0	1	1	1
-GGT	0	1	10	1	0	2	6	0	0	3	1	5
-GGC	6	6	14	4	0	3	9	3	1	6	11	9
-GGA	6	5	19	1	0	3	6	1	4	9	17	9
-GGG	1	1	4	2	0	0	0	0	0	1	1	2
-TAA	1	1	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	1	0	0	0	0
-AGA	0	0	0	1	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009529056.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	8	14	13	0	4	7	12	1	3	9	1	1	8	1	2	10	32	0	3	7	8	0	1	2	6	0	1	1	6	0	13	18	14	2	3	4	12	0	5	9	8	0	0	1	2	6	5	0	4	15	8	1	1	3	9	1	0	6	6	1	1	0	0	0
+1	ND2	YP_009529057.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	5	9	5	1	2	9	12	0	5	4	0	0	11	0	13	10	35	1	4	8	9	0	2	5	10	0	1	0	2	0	10	26	22	4	5	13	19	0	7	12	11	0	0	2	2	3	3	0	6	14	8	0	0	1	4	0	1	6	5	1	1	0	0	0
+2	COX1	YP_009529058.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	11	32	12	4	7	11	10	0	6	13	0	1	14	3	9	9	24	3	10	3	14	1	4	13	6	1	2	0	6	0	29	13	17	9	9	10	17	2	8	8	9	0	1	2	11	7	21	0	13	12	14	1	7	8	9	0	10	14	19	4	1	0	0	0
+3	COX2	YP_009529059.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	2	5	8	3	5	2	6	0	6	8	1	1	5	0	3	3	13	1	5	2	7	0	1	5	9	0	1	2	3	0	9	10	9	6	3	6	8	3	3	1	4	1	2	2	1	4	7	2	4	4	1	1	8	3	12	1	1	4	1	2	0	0	1	0
+4	ATP8	YP_009529060.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	1	0	0	1	1	1	4	1	2	0	0	1	3	0	1	1	7	0	3	2	2	0	1	1	5	0	0	0	0	0	4	3	3	1	1	3	5	1	0	1	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	1	0	0
+5	ATP6	YP_009529061.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	5	6	10	1	2	7	3	0	0	3	1	0	4	0	4	7	23	0	5	2	7	1	2	3	7	1	0	2	4	0	16	9	10	3	6	5	12	0	5	4	4	1	1	2	3	2	5	1	3	8	4	0	0	1	2	1	2	3	3	0	1	0	0	0
+6	COX3	YP_009529062.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	13	12	4	0	3	5	9	0	7	4	0	3	12	0	5	8	16	0	2	4	5	0	6	10	8	0	0	0	5	0	7	9	7	1	5	5	11	0	0	6	2	0	0	3	5	4	8	2	2	6	4	1	1	2	7	1	6	9	6	0	0	0	0	0
+7	ND3	YP_009529063.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	1	6	4	0	0	3	2	0	0	5	2	0	4	0	3	5	13	1	2	3	3	0	0	0	3	0	0	0	1	0	5	11	1	0	5	1	2	0	0	3	3	0	1	0	0	1	0	0	0	6	3	0	0	2	6	0	0	3	1	0	0	1	0	0
+8	ND4L	YP_009529064.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	2	3	5	0	2	3	3	0	0	3	0	3	0	0	4	6	10	0	0	0	1	0	0	3	2	0	0	1	0	0	1	5	7	1	0	1	1	0	2	5	1	0	0	0	2	0	2	1	2	4	4	0	0	1	2	0	0	1	4	0	1	0	0	0
+9	ND4	YP_009529065.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	4	14	15	1	3	13	13	2	7	12	0	5	11	0	10	12	41	4	8	4	11	1	8	9	8	0	0	2	8	0	19	29	31	3	9	9	16	0	6	8	12	3	1	12	1	6	7	1	8	13	7	1	0	3	8	1	3	6	9	1	0	0	0	0
+10	ND5	YP_009529066.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	11	31	13	0	6	9	21	2	5	13	2	3	12	0	8	11	52	0	8	6	13	0	5	13	14	2	1	2	5	1	32	39	33	3	5	25	24	0	12	25	17	0	3	6	2	6	5	2	13	15	13	1	2	10	9	1	1	11	17	1	1	0	0	0
+11	CYTB	YP_009529068.1	Macropus fuliginosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Macropodidae, Macropus	12	15	8	1	3	6	14	0	3	11	0	3	12	0	3	18	31	0	2	7	14	1	6	6	7	0	1	2	5	0	14	26	12	1	5	7	13	0	1	16	10	0	0	2	3	4	8	0	5	13	8	0	0	10	6	1	5	9	9	2	0	0	1	0

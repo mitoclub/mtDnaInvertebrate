@@ -1,65 +1,32 @@
-	YP_009047574.1|rps2	YP_009047575.1|ccmB	YP_009047576.1|ccmC	YP_009047577.1|ccmFN	YP_009047578.1|ccmFC	YP_009047579.1|rps4	YP_009047584.1|rpl10	YP_009047585.1|nad5	YP_009047586.1|nad4	YP_009047587.1|nad2	YP_009047588.1|rps12	YP_009047589.1|rps7	YP_009047591.1|nad6	YP_009047592.1|cox2	YP_009047593.1|cox3	YP_009047594.1|nad1	YP_009047595.1|cob	YP_009047596.1|nad9	YP_009047597.1|atp1	YP_009047598.1|nad3	YP_009047599.1|nad7	YP_009047600.1|rpL2	YP_009047601.1|rps19	YP_009047602.1|rps3	YP_009047603.1|rpL16	YP_009047604.1|rpL5	YP_009047605.1|rps14	YP_009047606.1|rpL6	YP_009047607.1|rps13	YP_009047608.1|rps11	YP_009047609.1|atp9
-TTT	10	13	24	46	47	7	10	68	37	41	1	10	14	12	19	24	27	14	9	14	18	20	4	28	6	8	3	5	2	2	7
-TTC	3	3	2	11	9	2	1	10	15	10	0	2	4	1	5	3	4	1	4	0	1	10	1	7	1	6	1	1	1	0	0
-TTA	11	13	12	29	16	7	9	36	34	39	2	13	15	13	12	22	25	9	23	6	22	10	1	19	2	9	5	3	6	3	7
-TTG	8	8	8	21	21	4	5	15	8	8	5	3	8	5	5	7	9	1	13	8	4	7	2	12	2	7	2	1	4	1	2
-TCT	6	5	12	19	9	3	3	19	14	12	2	6	2	6	9	13	8	2	9	6	8	13	6	18	1	2	5	2	0	3	2
-TCC	5	2	3	6	6	4	0	3	7	4	0	1	2	2	3	2	1	2	1	2	2	6	1	2	0	1	2	0	0	0	0
-TCA	1	3	2	10	7	2	2	10	5	3	2	5	0	3	2	2	6	5	11	1	3	7	1	12	3	3	2	1	3	3	0
-TCG	2	0	1	3	1	1	0	4	0	2	1	2	2	0	0	2	2	3	1	0	1	5	2	2	0	3	1	0	1	3	2
-TAT	6	5	6	12	11	8	4	25	18	21	1	4	7	10	9	12	16	8	17	4	12	7	1	23	4	3	4	3	4	2	1
-TAC	2	1	2	8	1	0	3	3	2	6	2	1	1	1	2	0	5	2	2	1	3	3	1	3	0	4	0	1	0	0	0
-TGT	5	5	2	8	9	2	5	8	4	8	3	2	0	3	1	4	3	1	4	2	8	2	1	6	3	2	3	3	3	1	0
-TGC	0	2	0	5	2	0	1	5	3	2	1	6	0	1	0	0	2	1	0	0	0	4	2	4	1	0	0	2	0	0	0
-TGG	3	5	8	21	8	2	2	10	8	4	0	6	1	9	11	8	12	6	0	4	4	13	3	11	2	1	1	0	0	1	0
-CTT	3	12	2	13	12	7	3	10	14	10	0	8	7	1	5	8	15	0	5	4	7	12	0	7	1	2	2	0	2	1	0
-CTC	1	0	1	6	3	1	2	4	4	3	0	1	0	0	1	1	1	0	2	0	1	3	0	5	0	1	0	1	0	0	0
-CTA	2	3	3	9	7	5	3	10	8	11	0	2	1	5	5	6	1	2	4	2	5	2	0	6	2	1	0	2	0	2	2
-CTG	2	1	2	5	6	0	0	3	4	2	1	1	0	0	2	3	0	2	4	0	0	1	0	1	0	1	0	0	0	1	0
-CCT	5	3	5	13	4	4	1	10	13	6	4	2	0	6	7	8	7	4	11	2	10	12	2	8	1	1	2	3	0	1	0
-CCC	0	2	1	4	9	2	1	4	2	5	1	0	1	0	1	4	7	2	1	1	1	6	2	3	1	1	0	1	1	2	0
-CCA	4	1	5	2	5	1	5	6	3	3	2	4	3	7	2	4	8	4	7	1	4	4	0	4	1	3	1	1	0	2	1
-CCG	0	0	0	2	1	0	2	0	0	2	1	0	0	0	0	1	2	0	0	0	2	2	1	1	0	1	0	0	0	0	0
-CAT	5	3	4	14	15	2	2	12	7	4	4	11	2	8	12	0	10	5	3	0	12	12	1	6	1	4	1	3	1	2	1
-CAC	2	0	0	5	2	0	0	1	1	0	0	0	1	1	2	0	3	1	2	0	1	3	0	5	0	0	1	0	1	1	0
-CAA	12	8	7	12	10	16	14	10	11	9	6	6	2	5	6	6	7	8	26	0	18	16	2	29	6	8	3	6	9	3	1
-CAG	2	1	3	5	4	3	2	2	3	0	2	1	3	3	0	1	1	1	8	0	2	4	1	4	0	1	1	0	1	0	0
-CGT	2	1	4	5	2	1	0	5	1	3	4	7	1	3	2	4	4	7	14	1	10	4	1	12	6	2	3	0	2	3	0
-CGC	1	1	2	5	2	1	0	1	1	4	2	0	1	1	2	0	1	2	2	0	0	4	0	4	0	0	4	1	2	2	0
-CGA	1	0	2	7	2	2	2	6	5	0	4	2	1	2	0	3	3	4	6	1	10	9	3	3	1	5	5	2	3	5	1
-CGG	1	0	1	3	0	0	1	1	1	0	1	0	0	0	1	1	0	0	0	0	0	4	0	3	0	1	0	0	0	0	0
-ATT	14	8	18	27	25	10	6	42	33	26	5	8	14	23	14	18	20	4	29	7	12	10	4	23	6	7	3	5	8	8	6
-ATC	3	3	7	4	4	0	2	6	7	13	0	1	4	2	1	7	3	1	7	1	6	4	1	3	1	1	0	0	5	0	0
-ATA	8	6	7	11	20	8	5	16	16	13	5	6	9	6	6	12	13	8	7	5	7	14	0	14	2	8	5	3	2	1	1
-ATG	6	4	7	11	6	4	2	26	17	16	2	5	7	9	8	13	8	3	9	2	17	4	2	9	3	6	2	1	2	1	3
-ACT	4	5	6	9	7	7	4	23	12	11	2	4	5	8	5	1	5	4	12	0	9	6	1	9	2	6	0	3	6	5	0
-ACC	1	3	3	6	5	0	0	4	6	9	1	1	3	1	4	1	2	1	6	1	6	4	1	3	1	1	0	0	0	3	1
-ACA	5	3	5	8	4	2	4	9	7	7	5	3	5	3	3	2	7	2	6	0	3	4	2	8	3	5	2	0	0	2	1
-ACG	1	0	1	3	2	1	0	3	1	1	0	1	0	0	4	1	1	0	2	1	1	4	0	6	0	1	1	1	0	1	0
-AAT	19	5	8	29	14	8	6	16	10	9	5	12	8	6	3	8	14	5	9	0	9	19	0	13	3	11	3	1	10	5	1
-AAC	3	0	2	8	8	4	0	6	2	4	0	1	0	1	0	0	3	3	7	1	1	5	1	6	0	3	3	2	0	0	1
-AAA	14	4	8	28	22	24	11	16	11	15	11	17	7	6	2	5	8	10	21	2	12	34	9	29	13	7	4	12	7	9	1
-AAG	2	1	1	11	10	4	2	6	3	3	2	5	1	0	2	3	2	1	8	2	3	13	7	15	1	5	3	2	2	2	1
-AGT	4	2	3	11	6	3	3	15	8	12	0	2	6	5	3	7	11	6	6	2	6	6	0	9	3	2	1	3	3	1	1
-AGC	1	4	8	8	2	0	1	7	7	4	0	7	0	0	1	1	4	2	7	1	0	9	0	13	1	2	0	1	0	1	0
-AGA	4	0	1	11	16	4	4	2	9	2	5	8	2	2	0	4	3	1	3	1	8	13	2	8	6	5	4	0	3	2	0
-AGG	1	0	0	7	7	1	0	2	0	0	0	2	0	1	0	0	1	0	1	0	1	4	0	8	0	1	0	0	0	0	0
-GTT	1	2	3	13	11	4	2	16	11	12	3	4	10	6	5	7	13	5	13	3	8	8	3	6	2	5	2	4	4	4	2
-GTC	1	1	0	3	1	1	1	6	3	4	1	3	3	1	5	4	3	1	3	3	3	0	0	8	1	2	0	2	0	0	0
-GTA	6	3	3	11	3	2	2	14	7	8	1	2	5	10	7	15	13	4	14	1	11	7	4	6	2	3	2	1	2	2	2
-GTG	2	0	4	5	3	1	0	5	10	3	3	1	4	1	4	1	8	4	12	0	3	6	0	4	3	0	1	0	1	0	0
-GCT	5	1	6	17	10	0	2	26	12	18	3	4	5	8	14	14	17	2	25	4	15	19	3	11	4	1	1	1	2	3	8
-GCC	1	0	1	6	3	2	2	12	6	9	1	4	4	2	3	2	3	1	7	1	3	4	0	4	1	2	1	3	0	3	2
-GCA	4	0	4	12	7	2	3	15	8	15	0	6	1	4	4	9	8	0	14	2	9	9	1	11	6	3	1	0	2	2	4
-GCG	2	0	3	5	1	0	0	3	1	1	0	2	0	1	1	3	1	0	7	0	0	5	0	3	2	0	0	0	0	0	2
-GAT	8	3	2	10	8	5	2	16	8	9	3	7	5	9	4	5	7	9	18	5	18	12	1	12	2	4	1	1	4	2	0
-GAC	1	1	1	3	5	3	1	4	1	2	0	2	1	8	1	2	4	4	6	1	1	6	0	5	1	0	0	0	1	0	0
-GAA	6	5	3	14	18	4	2	11	11	7	1	8	5	9	7	9	4	8	22	4	21	18	3	17	4	5	3	5	3	3	2
-GAG	0	0	1	7	4	1	3	5	3	6	3	2	0	3	1	1	2	4	6	2	5	1	1	7	1	5	1	0	1	1	0
-GGT	1	5	6	8	8	2	4	19	16	13	6	4	4	4	10	13	12	3	15	3	8	14	4	8	7	1	2	2	3	5	4
-GGC	3	2	0	10	6	0	1	5	0	2	2	3	1	0	2	3	4	0	2	1	5	5	1	5	2	1	1	1	2	0	0
-GGA	3	3	2	7	10	1	2	15	13	12	4	2	2	6	14	6	9	2	23	2	12	13	2	7	4	1	0	5	3	7	4
-GGG	2	0	4	2	1	0	0	4	3	1	0	1	1	0	1	2	3	0	3	0	1	6	1	5	0	1	0	0	0	1	0
-TAA	0	1	1	0	1	1	1	1	1	1	0	1	1	1	0	1	0	1	0	1	0	0	0	1	0	0	0	1	0	1	1
-TAG	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	1	1	1	0	0	0	0
-TGA	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	rps2	YP_009047574.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	10	3	11	8	6	5	1	2	6	2	5	0	3	3	1	2	2	5	0	4	0	5	2	12	2	2	1	1	1	14	3	8	6	4	1	5	1	19	3	14	2	4	1	4	1	1	1	6	2	5	1	4	2	8	1	6	0	1	3	3	2	0	1	0
+1	ccmB	YP_009047575.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	13	3	13	8	5	2	3	0	5	1	5	2	5	12	0	3	1	3	2	1	0	3	0	8	1	1	1	0	0	8	3	6	4	5	3	3	0	5	0	4	1	2	4	0	0	2	1	3	0	1	0	0	0	3	1	5	0	5	2	3	0	1	0	0
+2	ccmC	YP_009047576.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	24	2	12	8	12	3	2	1	6	2	2	0	8	2	1	3	2	5	1	5	0	4	0	7	3	4	2	2	1	18	7	7	7	6	3	5	1	8	2	8	1	3	8	1	0	3	0	3	4	6	1	4	3	2	1	3	1	6	0	2	4	1	0	0
+3	ccmFN	YP_009047577.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	46	11	29	21	19	6	10	3	12	8	8	5	21	13	6	9	5	13	4	2	2	14	5	12	5	5	5	7	3	27	4	11	11	9	6	8	3	29	8	28	11	11	8	11	7	13	3	11	5	17	6	12	5	10	3	14	7	8	10	7	2	0	1	0
+4	ccmFC	YP_009047578.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	47	9	16	21	9	6	7	1	11	1	9	2	8	12	3	7	6	4	9	5	1	15	2	10	4	2	2	2	0	25	4	20	6	7	5	4	2	14	8	22	10	6	2	16	7	11	1	3	3	10	3	7	1	8	5	18	4	8	6	10	1	1	0	0
+5	rps4	YP_009047579.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	7	2	7	4	3	4	2	1	8	0	2	0	2	7	1	5	0	4	2	1	0	2	0	16	3	1	1	2	0	10	0	8	4	7	0	2	1	8	4	24	4	3	0	4	1	4	1	2	1	0	2	2	0	5	3	4	1	2	0	1	0	1	0	0
+6	rpl10	YP_009047584.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	10	1	9	5	3	0	2	0	4	3	5	1	2	3	2	3	0	1	1	5	2	2	0	14	2	0	0	2	1	6	2	5	2	4	0	4	0	6	0	11	2	3	1	4	0	2	1	2	0	2	2	3	0	2	1	2	3	4	1	2	0	1	0	0
+7	nad5	YP_009047585.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	68	10	36	15	19	3	10	4	25	3	8	5	10	10	4	10	3	10	4	6	0	12	1	10	2	5	1	6	1	42	6	16	26	23	4	9	3	16	6	16	6	15	7	2	2	16	6	14	5	26	12	15	3	16	4	11	5	19	5	15	4	1	0	0
+8	nad4	YP_009047586.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	37	15	34	8	14	7	5	0	18	2	4	3	8	14	4	8	4	13	2	3	0	7	1	11	3	1	1	5	1	33	7	16	17	12	6	7	1	10	2	11	3	8	7	9	0	11	3	7	10	12	6	8	1	8	1	11	3	16	0	13	3	1	0	0
+9	nad2	YP_009047587.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	41	10	39	8	12	4	3	2	21	6	8	2	4	10	3	11	2	6	5	3	2	4	0	9	0	3	4	0	0	26	13	13	16	11	9	7	1	9	4	15	3	12	4	2	0	12	4	8	3	18	9	15	1	9	2	7	6	13	2	12	1	1	0	0
+10	rps12	YP_009047588.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	1	0	2	5	2	0	2	1	1	2	3	1	0	0	0	0	1	4	1	2	1	4	0	6	2	4	2	4	1	5	0	5	2	2	1	5	0	5	0	11	2	0	0	5	0	3	1	1	3	3	1	0	0	3	0	1	3	6	2	4	0	0	0	1
+11	rps7	YP_009047589.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	10	2	13	3	6	1	5	2	4	1	2	6	6	8	1	2	1	2	0	4	0	11	0	6	1	7	0	2	0	8	1	6	5	4	1	3	1	12	1	17	5	2	7	8	2	4	3	2	1	4	4	6	2	7	2	8	2	4	3	2	1	1	0	0
+12	nad6	YP_009047591.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	14	4	15	8	2	2	0	2	7	1	0	0	1	7	0	1	0	0	1	3	0	2	1	2	3	1	1	1	0	14	4	9	7	5	3	5	0	8	0	7	1	6	0	2	0	10	3	5	4	5	4	1	0	5	1	5	0	4	1	2	1	1	0	0
+13	cox2	YP_009047592.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	12	1	13	5	6	2	3	0	10	1	3	1	9	1	0	5	0	6	0	7	0	8	1	5	3	3	1	2	0	23	2	6	9	8	1	3	0	6	1	6	0	5	0	2	1	6	1	10	1	8	2	4	1	9	8	9	3	4	0	6	0	1	0	0
+14	cox3	YP_009047593.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	19	5	12	5	9	3	2	0	9	2	1	0	11	5	1	5	2	7	1	2	0	12	2	6	0	2	2	0	1	14	1	6	8	5	4	3	4	3	0	2	2	3	1	0	0	5	5	7	4	14	3	4	1	4	1	7	1	10	2	14	1	0	1	0
+15	nad1	YP_009047594.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	24	3	22	7	13	2	2	2	12	0	4	0	8	8	1	6	3	8	4	4	1	0	0	6	1	4	0	3	1	18	7	12	13	1	1	2	1	8	0	5	3	7	1	4	0	7	4	15	1	14	2	9	3	5	2	9	1	13	3	6	2	1	0	0
+16	cob	YP_009047595.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	27	4	25	9	8	1	6	2	16	5	3	2	12	15	1	1	0	7	7	8	2	10	3	7	1	4	1	3	0	20	3	13	8	5	2	7	1	14	3	8	2	11	4	3	1	13	3	13	8	17	3	8	1	7	4	4	2	12	4	9	3	0	0	1
+17	nad9	YP_009047596.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	14	1	9	1	2	2	5	3	8	2	1	1	6	0	0	2	2	4	2	4	0	5	1	8	1	7	2	4	0	4	1	8	3	4	1	2	0	5	3	10	1	6	2	1	0	5	1	4	4	2	1	0	0	9	4	8	4	3	0	2	0	1	0	0
+18	atp1	YP_009047597.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	9	4	23	13	9	1	11	1	17	2	4	0	0	5	2	4	4	11	1	7	0	3	2	26	8	14	2	6	0	29	7	7	9	12	6	6	2	9	7	21	8	6	7	3	1	13	3	14	12	25	7	14	7	18	6	22	6	15	2	23	3	0	0	0
+19	nad3	YP_009047598.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	14	0	6	8	6	2	1	0	4	1	2	0	4	4	0	2	0	2	1	1	0	0	0	0	0	1	0	1	0	7	1	5	2	0	1	0	1	0	1	2	2	2	1	1	0	3	3	1	0	4	1	2	0	5	1	4	2	3	1	2	0	1	0	0
+20	nad7	YP_009047599.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	18	1	22	4	8	2	3	1	12	3	8	0	4	7	1	5	0	10	1	4	2	12	1	18	2	10	0	10	0	12	6	7	17	9	6	3	1	9	1	12	3	6	0	8	1	8	3	11	3	15	3	9	0	18	1	21	5	8	5	12	1	0	1	0
+21	rpL2	YP_009047600.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	20	10	10	7	13	6	7	5	7	3	2	4	13	12	3	2	1	12	6	4	2	12	3	16	4	4	4	9	4	10	4	14	4	6	4	4	4	19	5	34	13	6	9	13	4	8	0	7	6	19	4	9	5	12	6	18	1	14	5	13	6	0	1	0
+22	rps19	YP_009047601.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	4	1	1	2	6	1	1	2	1	1	1	2	3	0	0	0	0	2	2	0	1	1	0	2	1	1	0	3	0	4	1	0	2	1	1	2	0	0	1	9	7	0	0	2	0	3	0	4	0	3	0	1	0	1	0	3	1	4	1	2	1	0	1	0
+23	rps3	YP_009047602.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	28	7	19	12	18	2	12	2	23	3	6	4	11	7	5	6	1	8	3	4	1	6	5	29	4	12	4	3	3	23	3	14	9	9	3	8	6	13	6	29	15	9	13	8	8	6	8	6	4	11	4	11	3	12	5	17	7	8	5	7	5	1	0	0
+24	rpL16	YP_009047603.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	6	1	2	2	1	0	3	0	4	0	3	1	2	1	0	2	0	1	1	1	0	1	0	6	0	6	0	1	0	6	1	2	3	2	1	3	0	3	0	13	1	3	1	6	0	2	1	2	3	4	1	6	2	2	1	4	1	7	2	4	0	0	1	0
+25	rpL5	YP_009047604.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	8	6	9	7	2	1	3	3	3	4	2	0	1	2	1	1	1	1	1	3	1	4	0	8	1	2	0	5	1	7	1	8	6	6	1	5	1	11	3	7	5	2	2	5	1	5	2	3	0	1	2	3	0	4	0	5	5	1	1	1	1	0	1	0
+26	rps14	YP_009047605.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	3	1	5	2	5	2	2	1	4	0	3	0	1	2	0	0	0	2	0	1	0	1	1	3	1	3	4	5	0	3	0	5	2	0	0	2	1	3	3	4	3	1	0	4	0	2	0	2	1	1	1	1	0	1	0	3	1	2	1	0	0	0	1	0
+27	rpL6	YP_009047606.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	5	1	3	1	2	0	1	0	3	1	3	2	0	0	1	2	0	3	1	1	0	3	0	6	0	0	1	2	0	5	0	3	1	3	0	0	1	1	2	12	2	3	1	0	0	4	2	1	0	1	3	0	0	1	0	5	0	2	1	5	0	1	0	0
+28	rps13	YP_009047607.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	2	1	6	4	0	0	3	1	4	0	3	0	0	2	0	0	0	0	1	0	0	1	1	9	1	2	2	3	0	8	5	2	2	6	0	0	0	10	0	7	2	3	0	3	0	4	0	2	1	2	0	2	0	4	1	3	1	3	2	3	0	0	0	1
+29	rps11	YP_009047608.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	2	0	3	1	3	0	3	3	2	0	1	0	1	1	0	2	1	1	2	2	0	2	1	3	0	3	2	5	0	8	0	1	1	5	3	2	1	5	0	9	2	1	1	2	0	4	0	2	0	3	3	2	0	2	0	3	1	5	0	7	1	1	0	0
+30	atp9	YP_009047609.1	Sphagnum palustre	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Sphagnophytina, Sphagnopsida, Sphagnales, Sphagnaceae, Sphagnum	7	0	7	2	2	0	0	2	1	0	0	0	0	0	0	2	0	0	0	1	0	1	0	1	0	0	0	1	0	6	0	1	3	0	1	1	0	1	1	1	1	1	0	0	0	2	0	2	0	8	2	4	2	0	0	2	0	4	0	4	0	1	0	0

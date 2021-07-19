@@ -1,65 +1,10 @@
-	YP_009176689.1|ND2	YP_009176690.1|COX1	YP_009176691.1|COX2	YP_009176692.1|ATP8	YP_009176693.1|ATP6	YP_009176694.1|COX3	YP_009176695.1|ND3	YP_009176699.1|ND6	YP_009176700.1|CYTB
-TTT	28	36	14	7	15	25	11	16	30
-TTC	3	4	1	0	2	3	0	2	7
-TTA	51	52	27	5	42	24	17	26	49
-TTG	3	0	0	0	0	0	0	0	0
-TCT	16	16	3	2	6	7	3	4	1
-TCC	1	0	1	0	0	0	1	0	0
-TCA	12	10	7	1	6	3	3	7	12
-TCG	0	0	0	0	0	0	0	0	0
-TAT	13	12	7	2	6	11	1	6	14
-TAC	0	5	0	0	0	1	0	0	2
-TGT	1	0	2	1	0	0	2	2	4
-TGC	0	0	0	0	1	1	0	0	0
-TGA	9	14	6	2	5	12	3	1	14
-TGG	0	0	0	1	0	1	0	0	0
-CTT	5	3	2	2	1	2	2	2	4
-CTC	0	0	0	0	0	0	0	0	0
-CTA	6	5	1	1	1	0	1	2	2
-CTG	0	1	0	0	0	0	0	0	0
-CCT	3	16	7	0	5	3	1	1	17
-CCC	2	1	0	1	1	2	0	0	1
-CCA	3	10	4	2	6	4	3	3	3
-CCG	0	1	0	0	0	1	0	0	0
-CAT	2	12	5	0	7	14	0	1	8
-CAC	0	5	1	0	0	2	1	0	4
-CAA	8	8	7	2	5	7	1	3	8
-CAG	0	0	0	0	0	1	0	0	0
-CGT	1	0	1	0	0	1	0	0	2
-CGC	1	0	0	0	1	0	0	1	0
-CGA	0	9	6	0	2	2	3	0	6
-CGG	0	0	0	0	0	1	0	0	0
-ATT	35	47	22	5	16	20	18	22	35
-ATC	4	1	1	0	0	3	0	2	3
-ATA	27	25	10	1	9	8	10	21	9
-ATG	1	3	2	0	2	1	0	1	2
-ACT	9	11	9	1	4	13	3	4	8
-ACC	1	3	0	0	1	0	1	1	1
-ACA	3	22	7	2	15	12	4	6	10
-ACG	0	1	1	0	1	0	0	1	0
-AAT	33	16	13	4	13	7	5	11	22
-AAC	1	0	4	2	2	0	0	0	2
-AAA	14	2	3	3	1	1	4	10	7
-AAG	0	2	1	1	1	0	0	0	2
-AGT	3	5	2	0	3	0	0	0	1
-AGC	0	1	0	0	0	0	0	1	0
-AGA	2	4	3	0	5	5	1	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	8	4	2	3	6	0	2	7
-GTC	0	1	0	0	1	0	0	0	0
-GTA	4	20	7	2	9	10	2	3	15
-GTG	0	2	1	0	1	0	0	0	0
-GCT	3	21	2	0	7	8	3	0	11
-GCC	1	3	0	1	1	1	1	0	2
-GCA	4	12	5	0	3	9	0	0	11
-GCG	2	2	0	0	0	0	0	0	1
-GAT	1	10	7	0	0	3	2	1	6
-GAC	0	4	2	0	1	1	1	0	4
-GAA	6	9	9	0	4	7	5	5	5
-GAG	0	0	0	0	0	0	1	0	0
-GGT	4	8	2	0	4	3	0	1	4
-GGC	0	0	0	0	0	0	0	0	1
-GGA	10	29	8	0	7	15	2	4	15
-GGG	1	8	1	0	0	1	1	0	3
-TAA	0	0	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009176689.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	28	3	51	3	16	1	12	0	13	0	1	0	9	0	5	0	6	0	3	2	3	0	2	0	8	0	1	1	0	0	35	4	27	1	9	1	3	0	33	1	14	0	3	0	2	0	4	0	4	0	3	1	4	2	1	0	6	0	4	0	10	1	0	0
+1	COX1	YP_009176690.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	36	4	52	0	16	0	10	0	12	5	0	0	14	0	3	0	5	1	16	1	10	1	12	5	8	0	0	0	9	0	47	1	25	3	11	3	22	1	16	0	2	2	5	1	4	0	8	1	20	2	21	3	12	2	10	4	9	0	8	0	29	8	0	0
+2	COX2	YP_009176691.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	14	1	27	0	3	1	7	0	7	0	2	0	6	0	2	0	1	0	7	0	4	0	5	1	7	0	1	0	6	0	22	1	10	2	9	0	7	1	13	4	3	1	2	0	3	0	4	0	7	1	2	0	5	0	7	2	9	0	2	0	8	1	0	0
+3	ATP8	YP_009176692.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	7	0	5	0	2	0	1	0	2	0	1	0	2	1	2	0	1	0	0	1	2	0	0	0	2	0	0	0	0	0	5	0	1	0	1	0	2	0	4	2	3	1	0	0	0	0	2	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009176693.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	15	2	42	0	6	0	6	0	6	0	0	1	5	0	1	0	1	0	5	1	6	0	7	0	5	0	0	1	2	0	16	0	9	2	4	1	15	1	13	2	1	1	3	0	5	0	3	1	9	1	7	1	3	0	0	1	4	0	4	0	7	0	1	0
+5	COX3	YP_009176694.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	25	3	24	0	7	0	3	0	11	1	0	1	12	1	2	0	0	0	3	2	4	1	14	2	7	1	1	0	2	1	20	3	8	1	13	0	12	0	7	0	1	0	0	0	5	0	6	0	10	0	8	1	9	0	3	1	7	0	3	0	15	1	0	0
+6	ND3	YP_009176695.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	11	0	17	0	3	1	3	0	1	0	2	0	3	0	2	0	1	0	1	0	3	0	0	1	1	0	0	0	3	0	18	0	10	0	3	1	4	0	5	0	4	0	0	0	1	0	0	0	2	0	3	1	0	0	2	1	5	1	0	0	2	1	0	0
+7	ND6	YP_009176699.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	16	2	26	0	4	0	7	0	6	0	2	0	1	0	2	0	2	0	1	0	3	0	1	0	3	0	0	1	0	0	22	2	21	1	4	1	6	1	11	0	10	0	0	1	1	0	2	0	3	0	0	0	0	0	1	0	5	0	1	0	4	0	1	0
+8	CYTB	YP_009176700.1	Anopheles epiroticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	30	7	49	0	1	0	12	0	14	2	4	0	14	0	4	0	2	0	17	1	3	0	8	4	8	0	2	0	6	0	35	3	9	2	8	1	10	0	22	2	7	2	1	0	3	0	7	0	15	0	11	2	11	1	6	4	5	0	4	1	15	3	0	0

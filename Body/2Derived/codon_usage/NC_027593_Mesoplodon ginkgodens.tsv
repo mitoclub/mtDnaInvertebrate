@@ -1,65 +1,13 @@
-	YP_009159335.1|ND1	YP_009159336.1|ND2	YP_009159337.1|COX1	YP_009159338.1|COX2	YP_009159339.1|ATP8	YP_009159340.1|ATP6	YP_009159341.1|COX3	YP_009159342.1|ND3	YP_009159343.1|ND4L	YP_009159344.1|ND4	YP_009159345.1|ND5	YP_009159347.1|CYTB
-TTT	8	8	21	2	2	6	14	4	2	9	16	11
-TTC	12	6	22	5	1	7	9	5	2	7	28	17
-TTA	9	8	18	5	2	7	8	6	3	18	11	10
-TTG	0	0	0	0	2	1	0	0	0	1	0	1
-TCT	5	6	5	5	0	3	6	0	3	7	11	6
-TCC	7	8	7	3	1	3	3	3	2	9	6	5
-TCA	5	9	18	7	5	4	8	0	2	8	14	5
-TCG	0	0	0	0	0	0	0	0	0	0	1	0
-TAT	4	4	9	7	1	0	8	2	1	10	6	7
-TAC	7	5	9	2	2	2	2	1	2	8	13	9
-TGT	2	0	0	2	0	0	0	1	1	2	4	1
-TGC	0	0	1	0	0	0	2	0	2	1	1	2
-TGA	8	10	17	4	3	3	12	3	0	11	12	11
-TGG	1	0	1	1	0	0	0	1	0	2	0	1
-CTT	7	10	8	4	3	6	9	4	3	20	19	6
-CTC	9	11	2	4	3	8	6	2	3	17	22	10
-CTA	32	28	29	20	2	18	11	13	13	42	52	34
-CTG	1	1	2	1	0	1	1	1	0	2	0	2
-CCT	8	4	13	5	3	7	5	1	0	10	10	2
-CCC	6	8	12	5	1	2	4	3	0	6	10	10
-CCA	8	11	4	3	1	4	3	2	1	7	9	11
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	2	1	8	4	1	3	8	0	3	7	5	5
-CAC	2	3	9	3	0	3	9	0	0	6	8	7
-CAA	7	12	6	6	5	8	7	3	2	11	21	7
-CAG	0	0	0	0	2	0	0	0	0	0	0	0
-CGT	0	0	1	0	0	0	1	0	0	1	2	1
-CGC	1	1	2	1	0	2	1	1	0	2	4	1
-CGA	7	2	4	5	0	2	3	0	1	6	2	6
-CGG	0	0	1	0	0	0	0	0	0	1	0	0
-ATT	5	15	21	10	0	19	9	1	5	23	29	16
-ATC	19	22	15	8	3	7	10	4	3	15	28	24
-ATA	21	36	29	15	2	9	8	7	8	35	32	13
-ATG	1	1	3	1	1	3	1	0	1	1	1	1
-ACT	4	7	11	5	1	7	3	2	2	11	15	3
-ACC	5	14	6	3	2	4	5	2	2	8	16	6
-ACA	17	26	19	11	5	16	12	7	3	21	28	17
-ACG	0	0	2	1	1	0	1	0	0	1	1	1
-AAT	7	3	6	4	0	4	4	4	1	12	17	5
-AAC	5	16	13	2	2	7	1	2	4	9	20	10
-AAA	6	11	9	5	4	6	3	3	0	11	21	10
-AAG	1	0	0	0	1	0	0	0	0	0	1	0
-AGT	0	2	0	2	0	1	2	1	1	7	3	1
-AGC	1	1	3	3	0	3	3	1	0	4	8	3
-GTT	0	1	12	1	0	2	3	1	1	4	2	6
-GTC	2	0	8	3	1	2	5	0	1	1	2	4
-GTA	10	3	16	7	0	10	7	2	3	7	7	5
-GTG	0	1	3	1	0	0	0	0	1	0	1	0
-GCT	8	3	12	2	0	5	3	2	1	7	12	8
-GCC	6	7	11	3	1	6	8	6	4	9	12	3
-GCA	14	6	16	2	0	2	2	3	4	13	14	14
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	0	4	7	1	0	3	0	0	1	7	4
-GAC	3	0	11	5	0	1	0	2	1	2	4	7
-GAA	9	4	8	13	0	3	8	4	2	9	8	6
-GAG	2	0	1	1	0	0	0	2	0	0	2	0
-GGT	2	0	11	0	0	2	3	0	1	1	3	0
-GGC	5	4	11	3	0	3	8	1	2	7	10	13
-GGA	6	7	25	4	0	4	8	2	1	9	12	11
-GGG	0	1	1	1	0	0	1	0	0	0	3	0
-TAA	1	0	0	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009159335.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	8	12	9	0	5	7	5	0	4	7	2	0	8	1	7	9	32	1	8	6	8	0	2	2	7	0	0	1	7	0	5	19	21	1	4	5	17	0	7	5	6	1	0	1	0	2	10	0	8	6	14	0	1	3	9	2	2	5	6	0	1	0	0	0
+1	ND2	YP_009159336.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	8	6	8	0	6	8	9	0	4	5	0	0	10	0	10	11	28	1	4	8	11	0	1	3	12	0	0	1	2	0	15	22	36	1	7	14	26	0	3	16	11	0	2	1	1	0	3	1	3	7	6	0	0	0	4	0	0	4	7	1	0	0	0	0
+2	COX1	YP_009159337.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	21	22	18	0	5	7	18	0	9	9	0	1	17	1	8	2	29	2	13	12	4	0	8	9	6	0	1	2	4	1	21	15	29	3	11	6	19	2	6	13	9	0	0	3	12	8	16	3	12	11	16	0	4	11	8	1	11	11	25	1	0	0	1	0
+3	COX2	YP_009159338.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	2	5	5	0	5	3	7	0	7	2	2	0	4	1	4	4	20	1	5	5	3	0	4	3	6	0	0	1	5	0	10	8	15	1	5	3	11	1	4	2	5	0	2	3	1	3	7	1	2	3	2	0	7	5	13	1	0	3	4	1	1	0	0	0
+4	ATP8	YP_009159339.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	2	1	2	2	0	1	5	0	1	2	0	0	3	0	3	3	2	0	3	1	1	0	1	0	5	2	0	0	0	0	0	3	2	1	1	2	5	1	0	2	4	1	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009159340.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	6	7	7	1	3	3	4	0	0	2	0	0	3	0	6	8	18	1	7	2	4	0	3	3	8	0	0	2	2	0	19	7	9	3	7	4	16	0	4	7	6	0	1	3	2	2	10	0	5	6	2	0	0	1	3	0	2	3	4	0	1	0	0	0
+6	COX3	YP_009159341.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	14	9	8	0	6	3	8	0	8	2	0	2	12	0	9	6	11	1	5	4	3	0	8	9	7	0	1	1	3	0	9	10	8	1	3	5	12	1	4	1	3	0	2	3	3	5	7	0	3	8	2	0	3	0	8	0	3	8	8	1	0	0	0	0
+7	ND3	YP_009159342.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	4	5	6	0	0	3	0	0	2	1	1	0	3	1	4	2	13	1	1	3	2	0	0	0	3	0	0	1	0	0	1	4	7	0	2	2	7	0	4	2	3	0	1	1	1	0	2	0	2	6	3	0	0	2	4	2	0	1	2	0	0	0	0	0
+8	ND4L	YP_009159343.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	2	2	3	0	3	2	2	0	1	2	1	2	0	0	3	3	13	0	0	0	1	0	3	0	2	0	0	0	1	0	5	3	8	1	2	2	3	0	1	4	0	0	1	0	1	1	3	1	1	4	4	0	0	1	2	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009159344.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	9	7	18	1	7	9	8	0	10	8	2	1	11	2	20	17	42	2	10	6	7	0	7	6	11	0	1	2	6	1	23	15	35	1	11	8	21	1	12	9	11	0	7	4	4	1	7	0	7	9	13	0	1	2	9	0	1	7	9	0	0	0	0	0
+10	ND5	YP_009159345.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	16	28	11	0	11	6	14	1	6	13	4	1	12	0	19	22	52	0	10	10	9	0	5	8	21	0	2	4	2	0	29	28	32	1	15	16	28	1	17	20	21	1	3	8	2	2	7	1	12	12	14	0	7	4	8	2	3	10	12	3	1	0	0	0
+11	CYTB	YP_009159347.1	Mesoplodon ginkgodens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Ziphiidae, Mesoplodon	11	17	10	1	6	5	5	0	7	9	1	2	11	1	6	10	34	2	2	10	11	0	5	7	7	0	1	1	6	0	16	24	13	1	3	6	17	1	5	10	10	0	1	3	6	4	5	0	8	3	14	0	4	7	6	0	0	13	11	0	0	0	1	0

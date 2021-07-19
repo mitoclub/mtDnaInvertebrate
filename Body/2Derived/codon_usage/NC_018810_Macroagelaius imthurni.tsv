@@ -1,65 +1,13 @@
-	YP_006883941.1|ND1	YP_006883942.1|ND2	YP_006883943.1|COX1	YP_006883944.1|COX2	YP_006883945.1|ATP8	YP_006883946.1|ATP6	YP_006883947.1|COX3	YP_006883948.1|ND3	YP_006883949.1|ND4L	YP_006883950.1|ND4	YP_006883951.1|ND5	YP_006883952.1|CYTB
-TTT	4	2	5	0	2	1	5	1	3	0	2	4
-TTC	15	10	38	9	1	12	17	8	2	12	35	25
-TTA	9	7	3	4	0	4	3	2	2	9	14	4
-TTG	2	0	0	0	0	0	0	0	0	0	0	0
-TCT	4	7	4	1	2	2	3	1	0	6	4	1
-TCC	10	12	9	6	0	4	5	2	4	9	20	8
-TCA	5	4	14	7	2	5	7	3	5	16	12	12
-TCG	0	0	0	0	0	1	0	0	0	0	0	0
-TAT	2	0	1	1	0	0	3	0	0	1	1	3
-TAC	13	7	16	7	0	3	7	2	3	13	10	11
-TGT	1	1	0	0	0	0	0	0	1	0	1	0
-TGC	2	1	1	3	0	0	1	1	2	4	5	4
-TGA	7	10	17	5	5	3	13	4	1	12	12	11
-TGG	1	0	0	0	0	1	0	1	0	0	0	0
-CTT	11	8	7	3	0	2	2	2	0	12	2	7
-CTC	12	21	8	5	2	20	9	6	4	23	29	12
-CTA	25	24	39	15	4	27	17	17	14	44	54	36
-CTG	6	7	5	3	0	7	3	2	0	6	3	3
-CCT	4	4	3	2	2	0	3	1	1	3	6	2
-CCC	6	8	9	3	5	3	4	1	1	10	11	5
-CCA	12	7	15	6	4	12	6	5	0	14	12	15
-CCG	3	2	2	0	0	0	0	0	0	0	1	3
-CAT	0	3	6	1	0	1	3	0	0	1	3	3
-CAC	2	6	13	8	0	2	12	0	6	12	9	9
-CAA	3	9	9	7	2	8	8	4	3	14	15	8
-CAG	3	1	0	0	0	0	0	0	0	0	2	0
-CGT	2	0	1	2	0	0	0	0	0	1	0	2
-CGC	1	1	1	1	0	2	1	1	1	2	3	1
-CGA	5	3	6	3	0	3	5	1	1	8	5	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	7	10	10	3	1	1	5	0	0	9	13	5
-ATC	17	25	28	13	3	16	11	8	5	38	44	30
-ATA	8	12	14	8	1	7	6	4	5	21	23	7
-ATG	3	4	8	2	2	1	1	1	1	3	5	2
-ACT	2	10	6	2	4	1	3	1	0	5	9	4
-ACC	9	21	12	7	3	8	5	10	5	15	34	11
-ACA	9	14	20	8	1	15	10	0	2	18	26	9
-ACG	0	0	1	0	0	1	0	0	0	1	3	0
-AAT	3	2	2	1	0	2	0	0	0	1	1	4
-AAC	10	10	12	9	3	7	5	2	2	15	23	15
-AAA	6	14	9	4	1	4	4	1	0	10	21	9
-AAG	1	0	0	0	1	0	0	0	0	0	0	1
-AGT	1	0	0	1	0	0	0	0	0	1	2	0
-AGC	5	5	4	3	1	3	4	1	4	11	10	1
-GTT	0	0	3	2	0	1	5	0	0	1	1	0
-GTC	7	3	13	9	0	2	3	0	1	3	6	11
-GTA	7	4	22	3	1	3	7	1	2	6	6	9
-GTG	1	1	1	1	0	2	0	1	0	0	2	0
-GCT	10	2	8	3	2	2	4	2	0	5	6	6
-GCC	7	12	21	10	0	10	14	4	8	24	25	18
-GCA	11	13	15	5	0	4	5	1	2	12	19	3
-GCG	2	1	2	0	0	0	1	0	0	0	0	1
-GAT	0	0	1	2	0	0	1	1	0	0	2	2
-GAC	4	1	15	10	0	3	3	2	1	2	8	7
-GAA	8	5	9	11	0	4	8	6	0	9	12	5
-GAG	3	0	1	0	0	0	0	0	2	1	0	2
-GGT	3	2	3	1	0	0	0	0	0	2	3	2
-GGC	5	4	14	0	0	3	7	2	3	4	12	8
-GGA	5	5	23	7	0	4	12	2	0	9	14	12
-GGG	1	1	7	0	0	0	0	1	1	1	4	2
-TAA	0	0	0	1	0	1	0	1	1	0	0	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006883941.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	4	15	9	2	4	10	5	0	2	13	1	2	7	1	11	12	25	6	4	6	12	3	0	2	3	3	2	1	5	0	7	17	8	3	2	9	9	0	3	10	6	1	1	5	0	7	7	1	10	7	11	2	0	4	8	3	3	5	5	1	0	0	0	1
+1	ND2	YP_006883942.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	2	10	7	0	7	12	4	0	0	7	1	1	10	0	8	21	24	7	4	8	7	2	3	6	9	1	0	1	3	0	10	25	12	4	10	21	14	0	2	10	14	0	0	5	0	3	4	1	2	12	13	1	0	1	5	0	2	4	5	1	0	0	0	0
+2	COX1	YP_006883943.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	5	38	3	0	4	9	14	0	1	16	0	1	17	0	7	8	39	5	3	9	15	2	6	13	9	0	1	1	6	0	10	28	14	8	6	12	20	1	2	12	9	0	0	4	3	13	22	1	8	21	15	2	1	15	9	1	3	14	23	7	0	0	0	1
+3	COX2	YP_006883944.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	0	9	4	0	1	6	7	0	1	7	0	3	5	0	3	5	15	3	2	3	6	0	1	8	7	0	2	1	3	0	3	13	8	2	2	7	8	0	1	9	4	0	1	3	2	9	3	1	3	10	5	0	2	10	11	0	1	0	7	0	1	0	0	0
+4	ATP8	YP_006883945.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	2	1	0	0	2	0	2	0	0	0	0	0	5	0	0	2	4	0	2	5	4	0	0	0	2	0	0	0	0	0	1	3	1	2	4	3	1	0	0	3	1	1	0	1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_006883946.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	1	12	4	0	2	4	5	1	0	3	0	0	3	1	2	20	27	7	0	3	12	0	1	2	8	0	0	2	3	0	1	16	7	1	1	8	15	1	2	7	4	0	0	3	1	2	3	2	2	10	4	0	0	3	4	0	0	3	4	0	1	0	0	0
+6	COX3	YP_006883947.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	5	17	3	0	3	5	7	0	3	7	0	1	13	0	2	9	17	3	3	4	6	0	3	12	8	0	0	1	5	0	5	11	6	1	3	5	10	0	0	5	4	0	0	4	5	3	7	0	4	14	5	1	1	3	8	0	0	7	12	0	0	0	0	0
+7	ND3	YP_006883948.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	1	8	2	0	1	2	3	0	0	2	0	1	4	1	2	6	17	2	1	1	5	0	0	0	4	0	0	1	1	0	0	8	4	1	1	10	0	0	0	2	1	0	0	1	0	0	1	1	2	4	1	0	1	2	6	0	0	2	2	1	1	0	0	0
+8	ND4L	YP_006883949.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	3	2	2	0	0	4	5	0	0	3	1	2	1	0	0	4	14	0	1	1	0	0	0	6	3	0	0	1	1	0	0	5	5	1	0	5	2	0	0	2	0	0	0	4	0	1	2	0	0	8	2	0	0	1	0	2	0	3	0	1	1	0	0	0
+9	ND4	YP_006883950.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	0	12	9	0	6	9	16	0	1	13	0	4	12	0	12	23	44	6	3	10	14	0	1	12	14	0	1	2	8	0	9	38	21	3	5	15	18	1	1	15	10	0	1	11	1	3	6	0	5	24	12	0	0	2	9	1	2	4	9	1	0	0	0	0
+10	ND5	YP_006883951.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	2	35	14	0	4	20	12	0	1	10	1	5	12	0	2	29	54	3	6	11	12	1	3	9	15	2	0	3	5	0	13	44	23	5	9	34	26	3	1	23	21	0	2	10	1	6	6	2	6	25	19	0	2	8	12	0	3	12	14	4	0	0	1	0
+11	CYTB	YP_006883952.1	Macroagelaius imthurni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Macroagelaius	4	25	4	0	1	8	12	0	3	11	0	4	11	0	7	12	36	3	2	5	15	3	3	9	8	0	2	1	5	0	5	30	7	2	4	11	9	0	4	15	9	1	0	1	0	11	9	0	6	18	3	1	2	7	5	2	2	8	12	2	1	0	0	0

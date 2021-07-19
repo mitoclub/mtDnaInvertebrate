@@ -1,65 +1,12 @@
-	YP_005296387.1|COX1	YP_005296388.1|COX2	YP_005296389.1|ATP8	YP_005296390.1|ATP6	YP_005296391.1|COX3	YP_005296392.1|ND3	YP_005296393.1|ND1	YP_005296396.1|ND4L	YP_005296397.1|ND4	YP_005296398.1|ND5	YP_005296399.1|ND2
-TTT	43	18	3	17	23	8	31	9	29	42	32
-TTC	1	1	0	0	4	2	1	0	0	1	0
-TTA	45	20	6	29	25	16	34	15	71	71	42
-TTG	4	5	2	5	4	5	12	2	12	13	7
-TCT	22	9	0	10	10	2	11	6	12	26	16
-TCC	1	0	1	0	0	0	0	0	1	0	0
-TCA	6	3	0	5	6	1	4	0	3	5	6
-TCG	1	0	0	0	1	0	0	0	2	2	1
-TAT	14	8	3	5	10	4	14	4	19	28	16
-TAC	2	0	0	0	2	0	1	0	1	0	1
-TGT	0	3	1	0	2	1	6	4	8	6	4
-TGC	0	0	0	0	0	0	0	0	0	0	0
-TGA	13	6	3	6	7	2	4	1	8	8	9
-TGG	2	0	0	1	6	1	5	1	5	3	0
-CTT	4	3	1	7	2	3	2	1	2	3	3
-CTC	0	0	0	0	0	0	0	0	2	0	1
-CTA	2	1	0	2	0	0	0	0	2	1	0
-CTG	0	0	0	0	0	1	1	0	1	2	0
-CCT	18	6	2	10	7	3	9	0	11	9	13
-CCC	1	1	0	0	0	0	0	0	0	0	0
-CCA	4	2	0	1	0	1	2	0	0	3	0
-CCG	1	0	0	0	1	0	0	0	0	0	0
-CAT	16	5	0	2	15	0	0	2	7	7	4
-CAC	1	0	0	2	1	0	0	0	0	0	0
-CAA	6	4	1	4	5	0	2	0	4	4	4
-CAG	4	3	1	0	1	0	2	0	3	4	4
-CGT	2	4	0	1	4	1	2	0	2	3	2
-CGC	0	0	0	0	0	0	1	0	0	0	0
-CGA	6	1	0	2	0	1	4	1	2	1	1
-CGG	2	2	2	0	0	1	0	0	1	1	0
-ATT	41	21	5	16	14	8	24	6	32	47	30
-ATC	1	0	0	0	0	1	0	0	0	1	0
-ATA	25	8	2	12	8	5	19	5	24	31	21
-ATG	4	1	3	3	1	0	1	1	9	13	6
-ACT	20	4	0	6	12	3	8	3	6	17	6
-ACC	2	0	0	0	0	0	0	0	0	0	0
-ACA	9	2	0	4	3	2	0	0	3	4	2
-ACG	4	1	0	0	1	0	0	0	2	0	0
-AAT	16	10	1	10	4	2	11	5	14	21	10
-AAC	0	1	0	0	0	0	0	1	1	0	1
-AAA	5	3	4	2	1	3	6	1	9	14	4
-AAG	2	0	0	1	2	2	5	0	5	4	6
-AGT	3	4	1	3	0	2	9	0	12	16	8
-AGC	0	0	0	0	1	0	1	0	0	1	0
-AGA	5	3	0	6	7	1	5	3	8	13	3
-AGG	3	4	0	2	3	3	5	1	9	16	6
-GTT	15	9	1	9	5	4	11	4	11	19	11
-GTC	0	0	0	0	0	1	0	0	3	0	0
-GTA	22	7	4	7	10	7	9	6	14	18	9
-GTG	9	3	0	4	6	0	4	1	8	7	6
-GCT	24	6	0	8	9	4	11	1	11	19	9
-GCC	0	0	0	0	2	1	0	0	1	0	0
-GCA	6	3	0	3	4	0	0	1	4	6	3
-GCG	2	1	0	0	0	1	2	0	2	3	0
-GAT	15	12	2	1	5	3	5	1	4	13	3
-GAC	1	0	0	0	0	0	0	0	0	1	0
-GAA	3	7	0	4	4	1	4	2	6	8	3
-GAG	5	3	2	1	3	5	8	1	4	3	3
-GGT	19	5	0	7	10	2	7	3	18	9	2
-GGC	1	1	0	1	0	0	2	0	1	2	2
-GGA	16	2	1	4	3	1	3	2	9	15	3
-GGG	12	3	0	1	8	2	5	3	9	13	7
-TAA	1	0	1	1	1	0	0	1	1	1	1
-TAG	0	0	0	0	0	1	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_005296387.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	43	1	45	4	22	1	6	1	14	2	0	0	13	2	4	0	2	0	18	1	4	1	16	1	6	4	2	0	6	2	41	1	25	4	20	2	9	4	16	0	5	2	3	0	5	3	15	0	22	9	24	0	6	2	15	1	3	5	19	1	16	12	1	0
+1	COX2	YP_005296388.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	18	1	20	5	9	0	3	0	8	0	3	0	6	0	3	0	1	0	6	1	2	0	5	0	4	3	4	0	1	2	21	0	8	1	4	0	2	1	10	1	3	0	4	0	3	4	9	0	7	3	6	0	3	1	12	0	7	3	5	1	2	3	0	0
+2	ATP8	YP_005296389.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	3	0	6	2	0	1	0	0	3	0	1	0	3	0	1	0	0	0	2	0	0	0	0	0	1	1	0	0	0	2	5	0	2	3	0	0	0	0	1	0	4	0	1	0	0	0	1	0	4	0	0	0	0	0	2	0	0	2	0	0	1	0	1	0
+3	ATP6	YP_005296390.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	17	0	29	5	10	0	5	0	5	0	0	0	6	1	7	0	2	0	10	0	1	0	2	2	4	0	1	0	2	0	16	0	12	3	6	0	4	0	10	0	2	1	3	0	6	2	9	0	7	4	8	0	3	0	1	0	4	1	7	1	4	1	1	0
+4	COX3	YP_005296391.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	23	4	25	4	10	0	6	1	10	2	2	0	7	6	2	0	0	0	7	0	0	1	15	1	5	1	4	0	0	0	14	0	8	1	12	0	3	1	4	0	1	2	0	1	7	3	5	0	10	6	9	2	4	0	5	0	4	3	10	0	3	8	1	0
+5	ND3	YP_005296392.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	8	2	16	5	2	0	1	0	4	0	1	0	2	1	3	0	0	1	3	0	1	0	0	0	0	0	1	0	1	1	8	1	5	0	3	0	2	0	2	0	3	2	2	0	1	3	4	1	7	0	4	1	0	1	3	0	1	5	2	0	1	2	0	1
+6	ND1	YP_005296393.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	31	1	34	12	11	0	4	0	14	1	6	0	4	5	2	0	0	1	9	0	2	0	0	0	2	2	2	1	4	0	24	0	19	1	8	0	0	0	11	0	6	5	9	1	5	5	11	0	9	4	11	0	0	2	5	0	4	8	7	2	3	5	0	1
+7	ND4L	YP_005296396.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	9	0	15	2	6	0	0	0	4	0	4	0	1	1	1	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	6	0	5	1	3	0	0	0	5	1	1	0	0	0	3	1	4	0	6	1	1	0	1	0	1	0	2	1	3	0	2	3	1	0
+8	ND4	YP_005296397.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	29	0	71	12	12	1	3	2	19	1	8	0	8	5	2	2	2	1	11	0	0	0	7	0	4	3	2	0	2	1	32	0	24	9	6	0	3	2	14	1	9	5	12	0	8	9	11	3	14	8	11	1	4	2	4	0	6	4	18	1	9	9	1	0
+9	ND5	YP_005296398.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	42	1	71	13	26	0	5	2	28	0	6	0	8	3	3	0	1	2	9	0	3	0	7	0	4	4	3	0	1	1	47	1	31	13	17	0	4	0	21	0	14	4	16	1	13	16	19	0	18	7	19	0	6	3	13	1	8	3	9	2	15	13	1	0
+10	ND2	YP_005296399.1	Procambarus clarkii	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Astacoidea, Cambaridae, Procambarus	32	0	42	7	16	0	6	1	16	1	4	0	9	0	3	1	0	0	13	0	0	0	4	0	4	4	2	0	1	0	30	0	21	6	6	0	2	0	10	1	4	6	8	0	3	6	11	0	9	6	9	0	3	0	3	0	3	3	2	2	3	7	1	0

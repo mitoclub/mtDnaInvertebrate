@@ -1,65 +1,13 @@
-	YP_002520022.1|ND1	YP_002520023.1|ND2	YP_002520024.1|COX1	YP_002520025.1|COX2	YP_002520026.1|ATP8	YP_002520027.1|ATP6	YP_002520028.1|COX3	YP_002520029.1|ND3	YP_002520030.1|ND4L	YP_002520031.1|ND4	YP_002520032.1|ND5	YP_002520034.1|CYTB
-TTT	6	7	10	3	2	7	10	4	3	7	16	3
-TTC	11	8	31	5	2	6	13	5	4	6	23	25
-TTA	6	10	7	6	3	4	4	4	2	14	10	7
-TTG	2	3	1	0	0	2	1	0	1	4	3	1
-TCT	1	4	6	1	2	0	0	0	3	6	9	8
-TCC	8	4	6	7	1	0	4	5	5	12	14	7
-TCA	7	6	9	5	1	1	5	3	2	3	6	6
-TCG	2	1	4	0	1	2	1	1	1	3	1	0
-TAT	6	1	3	4	0	2	4	2	0	6	2	4
-TAC	5	6	15	5	0	2	8	0	0	8	9	11
-TGT	0	0	0	0	0	0	0	0	1	3	1	2
-TGC	1	1	1	2	0	0	2	1	2	2	6	2
-TGA	7	9	14	5	4	4	10	4	0	11	10	12
-TGG	1	2	3	0	1	1	2	1	1	8	3	0
-CTT	14	18	19	8	0	16	8	5	3	13	22	10
-CTC	22	22	15	5	2	13	8	9	7	29	26	16
-CTA	11	12	14	10	1	13	9	6	6	25	19	12
-CTG	10	5	6	0	0	8	3	2	4	14	17	10
-CCT	10	6	11	4	3	4	2	1	1	3	8	6
-CCC	5	7	12	6	3	7	6	4	1	17	18	12
-CCA	6	7	4	4	3	6	2	2	0	4	5	3
-CCG	3	0	1	0	0	0	0	1	0	1	1	1
-CAT	2	0	2	4	0	0	4	0	2	1	3	2
-CAC	2	7	17	7	2	3	12	1	2	10	11	10
-CAA	4	7	7	7	2	5	7	1	2	5	10	5
-CAG	3	7	1	0	0	3	2	1	0	5	6	1
-CGT	0	0	2	1	0	0	0	0	0	2	1	0
-CGC	1	1	0	2	0	3	3	2	2	2	3	4
-CGA	4	1	6	3	0	2	1	0	0	6	6	2
-CGG	3	2	0	0	0	1	1	0	1	2	1	2
-ATT	16	8	22	16	2	9	10	4	1	12	16	13
-ATC	8	13	18	4	0	8	4	3	1	16	29	21
-ATA	5	7	3	6	1	2	3	1	1	16	15	3
-ATG	5	13	21	5	1	8	5	1	3	9	11	9
-ACT	3	10	7	2	1	4	2	2	1	6	7	1
-ACC	10	17	11	3	3	10	3	2	1	14	27	9
-ACA	7	10	15	5	2	7	16	2	4	15	19	7
-ACG	0	2	2	0	0	1	1	1	1	6	1	2
-AAT	5	2	4	2	3	2	0	1	0	4	6	4
-AAC	7	7	11	2	1	5	1	0	1	6	26	14
-AAA	4	6	8	2	3	0	2	1	0	7	17	8
-AAG	3	2	0	2	0	1	0	0	0	4	2	1
-AGT	0	2	0	0	0	0	1	0	1	0	4	1
-AGC	2	6	4	3	1	6	3	0	2	6	11	1
-GTT	3	4	10	6	2	5	3	2	1	3	8	4
-GTC	9	0	8	6	1	5	7	2	2	10	11	10
-GTA	5	3	17	3	1	4	5	2	0	6	5	8
-GTG	4	1	6	4	0	0	1	0	1	2	7	2
-GCT	3	11	16	2	2	6	4	1	0	8	10	6
-GCC	15	22	19	9	1	9	14	8	9	15	34	21
-GCA	12	12	12	7	1	4	6	2	3	12	19	7
-GCG	3	1	2	0	0	0	1	0	1	4	2	0
-GAT	1	0	4	3	0	0	1	1	0	2	2	0
-GAC	3	2	11	10	0	1	5	3	1	2	8	12
-GAA	5	3	8	12	2	3	7	5	1	10	11	4
-GAG	6	2	4	3	1	1	2	1	1	5	5	1
-GGT	4	2	9	0	0	0	2	0	1	3	2	1
-GGC	5	6	13	0	0	8	10	1	2	13	10	12
-GGA	3	6	16	6	0	3	8	2	0	5	5	9
-GGG	5	4	8	3	0	0	2	3	2	7	12	5
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002520022.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	6	11	6	2	1	8	7	2	6	5	0	1	7	1	14	22	11	10	10	5	6	3	2	2	4	3	0	1	4	3	16	8	5	5	3	10	7	0	5	7	4	3	0	2	3	9	5	4	3	15	12	3	1	3	5	6	4	5	3	5	1	0	0	0
+1	ND2	YP_002520023.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	7	8	10	3	4	4	6	1	1	6	0	1	9	2	18	22	12	5	6	7	7	0	0	7	7	7	0	1	1	2	8	13	7	13	10	17	10	2	2	7	6	2	2	6	4	0	3	1	11	22	12	1	0	2	3	2	2	6	6	4	0	0	0	0
+2	COX1	YP_002520024.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	10	31	7	1	6	6	9	4	3	15	0	1	14	3	19	15	14	6	11	12	4	1	2	17	7	1	2	0	6	0	22	18	3	21	7	11	15	2	4	11	8	0	0	4	10	8	17	6	16	19	12	2	4	11	8	4	9	13	16	8	1	0	0	0
+3	COX2	YP_002520025.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	3	5	6	0	1	7	5	0	4	5	0	2	5	0	8	5	10	0	4	6	4	0	4	7	7	0	1	2	3	0	16	4	6	5	2	3	5	0	2	2	2	2	0	3	6	6	3	4	2	9	7	0	3	10	12	3	0	0	6	3	0	0	0	0
+4	ATP8	YP_002520026.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	2	2	3	0	2	1	1	1	0	0	0	0	4	1	0	2	1	0	3	3	3	0	0	2	2	0	0	0	0	0	2	0	1	1	1	3	2	0	3	1	3	0	0	1	2	1	1	0	2	1	1	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_002520027.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	7	6	4	2	0	0	1	2	2	2	0	0	4	1	16	13	13	8	4	7	6	0	0	3	5	3	0	3	2	1	9	8	2	8	4	10	7	1	2	5	0	1	0	6	5	5	4	0	6	9	4	0	0	1	3	1	0	8	3	0	0	0	0	0
+6	COX3	YP_002520028.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	10	13	4	1	0	4	5	1	4	8	0	2	10	2	8	8	9	3	2	6	2	0	4	12	7	2	0	3	1	1	10	4	3	5	2	3	16	1	0	1	2	0	1	3	3	7	5	1	4	14	6	1	1	5	7	2	2	10	8	2	0	0	0	0
+7	ND3	YP_002520029.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	4	5	4	0	0	5	3	1	2	0	0	1	4	1	5	9	6	2	1	4	2	1	0	1	1	1	0	2	0	0	4	3	1	1	2	2	2	1	1	0	1	0	0	0	2	2	2	0	1	8	2	0	1	3	5	1	0	1	2	3	0	0	0	0
+8	ND4L	YP_002520030.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	3	4	2	1	3	5	2	1	0	0	1	2	0	1	3	7	6	4	1	1	0	0	2	2	2	0	0	2	0	1	1	1	1	3	1	1	4	1	0	1	0	0	1	2	1	2	0	1	0	9	3	1	0	1	1	1	1	2	0	2	1	0	0	0
+9	ND4	YP_002520031.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	7	6	14	4	6	12	3	3	6	8	3	2	11	8	13	29	25	14	3	17	4	1	1	10	5	5	2	2	6	2	12	16	16	9	6	14	15	6	4	6	7	4	0	6	3	10	6	2	8	15	12	4	2	2	10	5	3	13	5	7	0	0	0	0
+10	ND5	YP_002520032.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	16	23	10	3	9	14	6	1	2	9	1	6	10	3	22	26	19	17	8	18	5	1	3	11	10	6	1	3	6	1	16	29	15	11	7	27	19	1	6	26	17	2	4	11	8	11	5	7	10	34	19	2	2	8	11	5	2	10	5	12	1	0	0	0
+11	CYTB	YP_002520034.1	Meuschenia hippocrepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Meuschenia	3	25	7	1	8	7	6	0	4	11	2	2	12	0	10	16	12	10	6	12	3	1	2	10	5	1	0	4	2	2	13	21	3	9	1	9	7	2	4	14	8	1	1	1	4	10	8	2	6	21	7	0	0	12	4	1	1	12	9	5	0	0	0	0

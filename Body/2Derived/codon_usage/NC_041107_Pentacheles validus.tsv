@@ -1,65 +1,10 @@
-	YP_009561707.1|COX1	YP_009561708.1|COX2	YP_009561709.1|ATP8	YP_009561710.1|ATP6	YP_009561711.1|COX3	YP_009561712.1|ND3	YP_009561715.1|ND6	YP_009561718.1|CYTB	YP_009561719.1|ND2
-TTT	21	11	3	11	19	8	14	17	20
-TTC	22	6	5	8	13	6	6	22	20
-TTA	16	7	3	7	4	4	12	13	10
-TTG	2	0	1	1	1	1	6	4	2
-TCT	9	3	0	5	3	1	5	9	9
-TCC	14	7	1	10	2	6	10	4	14
-TCA	8	3	1	6	4	2	3	6	10
-TCG	1	0	0	0	3	3	0	0	3
-TAT	8	3	1	4	2	2	3	7	4
-TAC	9	5	1	2	6	1	3	10	7
-TGT	0	1	0	0	0	1	2	0	0
-TGC	0	1	0	0	0	0	0	4	2
-TGA	10	5	3	1	6	0	0	10	7
-TGG	5	1	0	5	9	3	1	1	0
-CTT	10	6	2	13	13	7	5	13	15
-CTC	17	9	0	11	10	6	11	11	21
-CTA	16	10	4	12	6	5	8	15	20
-CTG	3	0	0	1	1	0	2	2	3
-CCT	6	5	1	4	2	0	1	8	4
-CCC	13	5	5	6	8	3	4	10	10
-CCA	12	1	0	2	1	1	0	5	0
-CCG	1	0	0	0	0	0	0	0	0
-CAT	9	1	0	2	5	0	1	3	2
-CAC	9	3	0	5	12	0	1	10	4
-CAA	8	8	2	4	5	1	3	10	8
-CAG	0	2	0	0	0	0	0	0	0
-CGT	4	1	0	1	0	0	0	0	1
-CGC	0	1	0	0	0	0	0	2	0
-CGA	5	3	0	1	4	0	0	5	1
-CGG	1	0	0	1	0	2	1	0	0
-ATT	28	13	0	13	8	10	7	23	17
-ATC	19	7	0	8	7	2	7	11	10
-ATA	27	7	2	7	7	4	5	15	16
-ATG	5	2	1	2	2	0	0	3	1
-ACT	13	3	1	3	4	1	2	8	6
-ACC	8	7	3	8	5	1	7	7	8
-ACA	8	5	0	7	11	5	2	5	6
-ACG	3	0	0	0	0	0	0	1	1
-AAT	3	2	0	3	4	0	3	5	2
-AAC	13	10	3	5	5	1	4	12	10
-AAA	5	4	3	4	3	4	6	7	12
-AAG	0	1	0	1	1	1	2	1	2
-AGT	0	0	0	1	0	0	0	0	2
-AGC	2	4	0	3	2	1	0	2	0
-AGA	5	1	1	4	4	1	0	3	0
-AGG	2	2	0	1	1	0	1	2	0
-GTT	5	4	0	4	3	1	2	4	0
-GTC	13	4	1	3	5	0	1	5	2
-GTA	9	4	0	1	5	1	4	11	2
-GTG	2	2	0	0	0	0	3	1	0
-GCT	8	3	1	0	6	2	1	3	3
-GCC	11	6	1	4	9	3	2	7	12
-GCA	10	1	0	6	3	2	1	8	1
-GCG	3	0	0	0	0	0	0	0	0
-GAT	4	5	0	0	3	2	0	5	0
-GAC	12	4	0	0	1	4	1	3	0
-GAA	6	7	2	5	4	4	2	2	3
-GAG	2	3	0	0	2	0	0	0	1
-GGT	11	3	0	0	3	1	0	5	1
-GGC	11	2	0	3	5	0	1	1	4
-GGA	14	1	0	3	6	1	4	9	2
-GGG	10	3	0	2	5	2	5	8	4
-TAA	1	0	1	1	0	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009561707.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	21	22	16	2	9	14	8	1	8	9	0	0	10	5	10	17	16	3	6	13	12	1	9	9	8	0	4	0	5	1	28	19	27	5	13	8	8	3	3	13	5	0	0	2	5	2	5	13	9	2	8	11	10	3	4	12	6	2	11	11	14	10	1	0
+1	COX2	YP_009561708.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	11	6	7	0	3	7	3	0	3	5	1	1	5	1	6	9	10	0	5	5	1	0	1	3	8	2	1	1	3	0	13	7	7	2	3	7	5	0	2	10	4	1	0	4	1	2	4	4	4	2	3	6	1	0	5	4	7	3	3	2	1	3	0	0
+2	ATP8	YP_009561709.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	3	5	3	1	0	1	1	0	1	1	0	0	3	0	2	0	4	0	1	5	0	0	0	0	2	0	0	0	0	0	0	0	2	1	1	3	0	0	0	3	3	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	2	0	0	0	0	0	1	0
+3	ATP6	YP_009561710.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	11	8	7	1	5	10	6	0	4	2	0	0	1	5	13	11	12	1	4	6	2	0	2	5	4	0	1	0	1	1	13	8	7	2	3	8	7	0	3	5	4	1	1	3	4	1	4	3	1	0	0	4	6	0	0	0	5	0	0	3	3	2	1	0
+4	COX3	YP_009561711.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	19	13	4	1	3	2	4	3	2	6	0	0	6	9	13	10	6	1	2	8	1	0	5	12	5	0	0	0	4	0	8	7	7	2	4	5	11	0	4	5	3	1	0	2	4	1	3	5	5	0	6	9	3	0	3	1	4	2	3	5	6	5	0	0
+5	ND3	YP_009561712.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	8	6	4	1	1	6	2	3	2	1	1	0	0	3	7	6	5	0	0	3	1	0	0	0	1	0	0	0	0	2	10	2	4	0	1	1	5	0	0	1	4	1	0	1	1	0	1	0	1	0	2	3	2	0	2	4	4	0	1	0	1	2	1	0
+6	ND6	YP_009561715.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	14	6	12	6	5	10	3	0	3	3	2	0	0	1	5	11	8	2	1	4	0	0	1	1	3	0	0	0	0	1	7	7	5	0	2	7	2	0	3	4	6	2	0	0	0	1	2	1	4	3	1	2	1	0	0	1	2	0	0	1	4	5	1	0
+7	CYTB	YP_009561718.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	17	22	13	4	9	4	6	0	7	10	0	4	10	1	13	11	15	2	8	10	5	0	3	10	10	0	0	2	5	0	23	11	15	3	8	7	5	1	5	12	7	1	0	2	3	2	4	5	11	1	3	7	8	0	5	3	2	0	5	1	9	8	1	0
+8	ND2	YP_009561719.1	Pentacheles validus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Polychelida, Eryonoidea, Polychelidae, Pentacheles	20	20	10	2	9	14	10	3	4	7	0	2	7	0	15	21	20	3	4	10	0	0	2	4	8	0	1	0	1	0	17	10	16	1	6	8	6	1	2	10	12	2	2	0	0	0	0	2	2	0	3	12	1	0	0	0	3	1	1	4	2	4	1	0

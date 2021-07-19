@@ -1,65 +1,13 @@
-	YP_009186363.1|ND1	YP_009186364.1|COX2	YP_009186365.1|COX1	YP_009186366.1|CYTB	YP_009186367.1|ND4L	YP_009186368.1|ND6	YP_009186369.1|ND4	YP_009186370.1|COX3	YP_009186371.1|ATP6	YP_009186372.1|ND2	YP_009186373.1|ND5	YP_009186374.1|ND3
-TTT	62	29	56	75	24	50	106	52	41	86	142	34
-TTC	0	0	1	0	0	0	1	0	0	0	0	1
-TTA	10	5	29	16	0	3	13	5	5	17	12	3
-TTG	21	19	28	28	5	11	38	18	15	27	55	11
-TCT	24	15	29	13	5	13	27	14	12	20	31	6
-TCC	0	0	0	0	0	0	0	0	0	0	0	0
-TCA	1	0	1	2	0	0	2	0	0	0	1	0
-TCG	0	0	1	0	0	0	0	0	0	0	0	0
-TAT	13	13	22	23	6	11	20	15	13	9	24	4
-TAC	0	0	1	0	0	0	0	0	0	0	0	0
-TGT	3	10	3	5	3	4	14	6	6	4	16	0
-TGC	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	2	3	8	7	1	0	1	2	0	1	3	1
-TGG	0	2	4	3	0	2	4	6	1	6	4	1
-CTT	7	6	8	8	1	0	5	10	4	4	9	0
-CTC	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	1	0	0	0	0	0	0	0	0	0	1	0
-CTG	1	0	0	1	0	0	0	0	0	0	0	0
-CCT	8	6	17	13	1	2	9	4	2	5	8	0
-CCC	0	1	0	0	0	0	0	0	0	0	0	0
-CCA	0	0	1	1	0	0	0	0	0	0	1	0
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	2	4	14	8	0	0	5	11	2	2	4	1
-CAC	0	0	2	0	0	0	0	0	0	0	0	0
-CAA	2	2	2	2	0	0	0	0	2	3	2	0
-CAG	3	3	2	2	0	0	2	1	1	1	5	1
-CGT	6	3	6	3	1	1	0	1	3	0	3	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	1	0	2	0	0	0	2	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	23	10	36	21	10	9	14	14	12	19	21	5
-ATC	0	0	2	0	0	0	0	0	0	0	0	0
-ATA	2	0	8	6	0	2	7	3	3	2	2	1
-ATG	8	10	16	6	1	2	13	4	5	3	11	4
-ACT	5	5	22	7	0	1	9	10	6	6	12	0
-ACC	0	0	0	0	0	0	0	0	0	0	0	0
-ACA	0	0	2	0	0	0	0	0	0	1	0	0
-ACG	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	3	12	15	8	0	3	12	7	5	12	22	5
-AAC	0	0	1	0	0	0	0	0	0	0	0	0
-AAA	0	3	3	2	0	0	5	0	2	4	4	1
-AAG	6	3	5	5	2	1	5	4	4	2	11	2
-AGT	7	7	15	11	4	5	10	7	7	8	26	3
-AGC	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	4	3	9	6	2	0	2	6	3	1	6	0
-AGG	2	2	1	1	0	1	2	0	2	0	2	1
-GTT	24	17	47	32	6	13	35	17	19	17	40	12
-GTC	0	0	1	0	1	0	0	0	0	0	0	0
-GTA	0	1	4	5	0	1	3	4	1	1	0	1
-GTG	1	1	0	0	0	1	2	0	0	1	2	0
-GCT	5	4	21	10	0	1	6	2	4	0	8	0
-GCC	0	0	0	0	0	0	0	0	0	0	0	0
-GCA	0	0	1	1	0	0	0	1	0	0	1	0
-GCG	1	0	1	0	0	0	0	0	0	1	0	0
-GAT	4	9	15	10	1	2	3	7	3	1	11	2
-GAC	0	0	1	1	0	0	0	0	0	0	0	0
-GAA	1	4	4	2	0	0	3	3	1	3	2	1
-GAG	8	5	3	3	1	0	4	2	5	1	1	3
-GGT	12	8	21	13	3	2	19	13	1	8	14	3
-GGC	1	0	1	0	0	1	0	0	0	0	0	0
-GGA	0	3	14	3	0	1	3	5	4	4	6	4
-GGG	5	2	8	4	0	2	2	1	1	0	1	0
-TAA	0	0	1	0	0	0	0	0	1	1	0	1
-TAG	0	1	0	1	0	0	0	1	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND1	YP_009186363.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	62	0	10	21	24	0	1	0	13	0	3	0	2	0	7	0	1	1	8	0	0	0	2	0	2	3	6	0	1	0	23	0	2	8	5	0	0	0	3	0	0	6	7	0	4	2	24	0	0	1	5	0	0	1	4	0	1	8	12	1	0	5	0	0
+1	COX2	YP_009186364.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	29	0	5	19	15	0	0	0	13	0	10	0	3	2	6	0	0	0	6	1	0	0	4	0	2	3	3	0	0	0	10	0	0	10	5	0	0	0	12	0	3	3	7	0	3	2	17	0	1	1	4	0	0	0	9	0	4	5	8	0	3	2	0	1
+2	COX1	YP_009186365.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	56	1	29	28	29	0	1	1	22	1	3	0	8	4	8	0	0	0	17	0	1	1	14	2	2	2	6	0	2	0	36	2	8	16	22	0	2	0	15	1	3	5	15	0	9	1	47	1	4	0	21	0	1	1	15	1	4	3	21	1	14	8	1	0
+3	CYTB	YP_009186366.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	75	0	16	28	13	0	2	0	23	0	5	0	7	3	8	0	0	1	13	0	1	0	8	0	2	2	3	0	0	0	21	0	6	6	7	0	0	0	8	0	2	5	11	0	6	1	32	0	5	0	10	0	1	0	10	1	2	3	13	0	3	4	0	1
+4	ND4L	YP_009186367.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	24	0	0	5	5	0	0	0	6	0	3	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	10	0	0	1	0	0	0	0	0	0	0	2	4	0	2	0	6	1	0	0	0	0	0	0	1	0	0	1	3	0	0	0	0	0
+5	ND6	YP_009186368.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	50	0	3	11	13	0	0	0	11	0	4	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	9	0	2	2	1	0	0	0	3	0	0	1	5	0	0	1	13	0	1	1	1	0	0	0	2	0	0	0	2	1	1	2	0	0
+6	ND4	YP_009186369.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	106	1	13	38	27	0	2	0	20	0	14	0	1	4	5	0	0	0	9	0	0	0	5	0	0	2	0	0	2	0	14	0	7	13	9	0	0	0	12	0	5	5	10	0	2	2	35	0	3	2	6	0	0	0	3	0	3	4	19	0	3	2	0	0
+7	COX3	YP_009186370.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	52	0	5	18	14	0	0	0	15	0	6	0	2	6	10	0	0	0	4	0	0	0	11	0	0	1	1	0	0	0	14	0	3	4	10	0	0	0	7	0	0	4	7	0	6	0	17	0	4	0	2	0	1	0	7	0	3	2	13	0	5	1	0	1
+8	ATP6	YP_009186371.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	41	0	5	15	12	0	0	0	13	0	6	0	0	1	4	0	0	0	2	0	0	0	2	0	2	1	3	0	0	0	12	0	3	5	6	0	0	0	5	0	2	4	7	0	3	2	19	0	1	0	4	0	0	0	3	0	1	5	1	0	4	1	1	0
+9	ND2	YP_009186372.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	86	0	17	27	20	0	0	0	9	0	4	0	1	6	4	0	0	0	5	0	0	0	2	0	3	1	0	0	0	0	19	0	2	3	6	0	1	0	12	0	4	2	8	0	1	0	17	0	1	1	0	0	0	1	1	0	3	1	8	0	4	0	1	0
+10	ND5	YP_009186373.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	142	0	12	55	31	0	1	0	24	0	16	0	3	4	9	0	1	0	8	0	1	0	4	0	2	5	3	0	0	0	21	0	2	11	12	0	0	0	22	0	4	11	26	1	6	2	40	0	0	2	8	0	1	0	11	0	2	1	14	0	6	1	0	1
+11	ND3	YP_009186374.1	Strongyloides ratti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Rhabditida, Panagrolaimoidea, Strongyloididae, Strongyloides	34	1	3	11	6	0	0	0	4	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	5	0	1	4	0	0	0	0	5	0	1	2	3	0	0	1	12	0	1	0	0	0	0	0	2	0	1	3	3	0	4	0	1	0

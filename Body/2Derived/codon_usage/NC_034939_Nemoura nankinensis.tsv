@@ -1,65 +1,10 @@
-	YP_009379706.1|ND2	YP_009379707.1|COX1	YP_009379708.1|COX2	YP_009379709.1|ATP8	YP_009379710.1|ATP6	YP_009379711.1|COX3	YP_009379712.1|ND3	YP_009379716.1|ND6	YP_009379717.1|CYTB
-TTT	22	27	17	5	14	16	8	12	18
-TTC	6	13	4	0	2	9	2	3	12
-TTA	43	40	12	5	28	25	10	22	34
-TTG	4	2	2	0	1	0	1	1	1
-TCT	14	15	2	4	10	3	4	6	3
-TCC	3	3	5	1	1	3	3	1	2
-TCA	10	14	5	0	6	6	1	4	6
-TCG	4	1	4	0	0	1	0	0	0
-TAT	4	7	7	2	4	8	1	2	15
-TAC	6	10	7	0	2	3	1	4	3
-TGT	1	1	4	0	1	1	1	1	2
-TGC	1	0	5	0	0	0	0	0	1
-TGA	9	13	11	2	5	11	3	1	10
-TGG	0	2	4	1	0	2	0	0	2
-CTT	11	13	5	0	6	8	3	4	7
-CTC	2	2	4	0	1	0	1	1	4
-CTA	4	9	1	1	6	2	3	6	11
-CTG	0	1	1	0	0	0	0	1	1
-CCT	5	6	2	4	6	5	0	2	9
-CCC	3	10	1	0	2	0	1	2	8
-CCA	2	8	2	0	3	6	4	1	5
-CCG	1	3	1	0	0	0	0	0	0
-CAT	1	13	3	0	4	11	1	1	7
-CAC	2	3	1	0	3	5	0	1	5
-CAA	5	10	5	2	4	8	1	5	8
-CAG	0	1	1	0	0	0	0	0	0
-CGT	1	2	2	0	0	1	0	1	1
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	8	2	0	3	3	3	0	7
-CGG	0	0	2	0	0	0	0	0	0
-ATT	27	39	13	6	10	11	17	15	27
-ATC	5	5	1	1	8	5	5	3	7
-ATA	16	22	5	2	8	3	5	6	12
-ATG	3	5	4	0	2	2	0	4	1
-ACT	18	9	2	3	5	12	3	3	9
-ACC	2	7	6	1	5	3	0	4	4
-ACA	8	11	5	0	7	9	0	10	10
-ACG	1	3	1	0	0	0	0	0	1
-AAT	18	13	12	3	10	5	3	6	15
-AAC	4	4	5	0	2	1	0	3	5
-AAA	8	4	9	3	1	0	4	3	7
-AAG	1	1	6	0	1	0	0	1	1
-AGT	1	7	5	0	1	3	1	0	1
-AGC	1	2	3	1	3	0	0	1	0
-AGA	6	1	6	1	5	4	3	11	4
-AGG	0	0	2	0	0	0	0	0	0
-GTT	2	17	1	0	3	7	2	1	11
-GTC	1	0	0	0	4	1	2	0	0
-GTA	9	14	1	1	7	8	2	6	16
-GTG	3	3	1	0	0	2	0	0	2
-GCT	10	18	3	1	4	8	4	2	14
-GCC	3	5	1	1	3	3	0	1	7
-GCA	5	15	3	0	7	6	3	1	2
-GCG	0	0	0	0	1	0	0	0	0
-GAT	0	10	2	0	0	3	2	0	8
-GAC	0	5	1	0	1	1	2	1	5
-GAA	4	7	3	1	4	7	4	4	2
-GAG	0	2	0	0	0	0	0	0	0
-GGT	4	9	3	0	3	3	1	1	2
-GGC	4	1	2	0	3	1	0	0	0
-GGA	4	22	0	0	3	9	0	2	16
-GGG	11	15	1	0	2	8	2	3	7
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009379706.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	22	6	43	4	14	3	10	4	4	6	1	1	9	0	11	2	4	0	5	3	2	1	1	2	5	0	1	0	1	0	27	5	16	3	18	2	8	1	18	4	8	1	1	1	6	0	2	1	9	3	10	3	5	0	0	0	4	0	4	4	4	11	1	0
+1	COX1	YP_009379707.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	27	13	40	2	15	3	14	1	7	10	1	0	13	2	13	2	9	1	6	10	8	3	13	3	10	1	2	0	8	0	39	5	22	5	9	7	11	3	13	4	4	1	7	2	1	0	17	0	14	3	18	5	15	0	10	5	7	2	9	1	22	15	0	0
+2	COX2	YP_009379708.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	17	4	12	2	2	5	5	4	7	7	4	5	11	4	5	4	1	1	2	1	2	1	3	1	5	1	2	0	2	2	13	1	5	4	2	6	5	1	12	5	9	6	5	3	6	2	1	0	1	1	3	1	3	0	2	1	3	0	3	2	0	1	0	0
+3	ATP8	YP_009379709.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	5	0	5	0	4	1	0	0	2	0	0	0	2	1	0	0	1	0	4	0	0	0	0	0	2	0	0	0	0	0	6	1	2	0	3	1	0	0	3	0	3	0	0	1	1	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009379710.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	14	2	28	1	10	1	6	0	4	2	1	0	5	0	6	1	6	0	6	2	3	0	4	3	4	0	0	0	3	0	10	8	8	2	5	5	7	0	10	2	1	1	1	3	5	0	3	4	7	0	4	3	7	1	0	1	4	0	3	3	3	2	1	0
+5	COX3	YP_009379711.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	16	9	25	0	3	3	6	1	8	3	1	0	11	2	8	0	2	0	5	0	6	0	11	5	8	0	1	0	3	0	11	5	3	2	12	3	9	0	5	1	0	0	3	0	4	0	7	1	8	2	8	3	6	0	3	1	7	0	3	1	9	8	1	0
+6	ND3	YP_009379712.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	8	2	10	1	4	3	1	0	1	1	1	0	3	0	3	1	3	0	0	1	4	0	1	0	1	0	0	0	3	0	17	5	5	0	3	0	0	0	3	0	4	0	1	0	3	0	2	2	2	0	4	0	3	0	2	2	4	0	1	0	0	2	0	1
+7	ND6	YP_009379716.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	12	3	22	1	6	1	4	0	2	4	1	0	1	0	4	1	6	1	2	2	1	0	1	1	5	0	1	0	0	0	15	3	6	4	3	4	10	0	6	3	3	1	0	1	11	0	1	0	6	0	2	1	1	0	0	1	4	0	1	0	2	3	1	0
+8	CYTB	YP_009379717.1	Nemoura nankinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Nemouroidea, Nemouridae, Nemourinae, Nemoura	18	12	34	1	3	2	6	0	15	3	2	1	10	2	7	4	11	1	9	8	5	0	7	5	8	0	1	0	7	0	27	7	12	1	9	4	10	1	15	5	7	1	1	0	4	0	11	0	16	2	14	7	2	0	8	5	2	0	2	0	16	7	0	1

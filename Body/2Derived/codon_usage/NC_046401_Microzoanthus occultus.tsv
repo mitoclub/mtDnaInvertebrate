@@ -1,65 +1,13 @@
-	YP_009734550.1|COX1	YP_009734551.1|ND4L	YP_009734553.1|ATP6	YP_009734554.1|ND2	YP_009734555.1|ND5	YP_009734556.1|ND1	YP_009734557.1|ND3	YP_009734558.1|COX2	YP_009734559.1|ND4	YP_009734560.1|ND6	YP_009734561.1|CYTB	YP_009734562.1|COX3
-TTT	30	4	16	15	38	21	11	11	32	10	16	16
-TTC	16	1	4	4	10	5	3	2	6	7	8	8
-TTA	20	4	10	18	18	15	6	12	29	7	18	3
-TTG	13	4	10	11	18	18	3	5	17	4	10	4
-TCT	4	1	2	10	17	4	4	4	6	4	6	4
-TCC	5	1	5	3	7	4	3	3	5	3	6	1
-TCA	8	5	2	6	11	9	0	4	4	1	2	3
-TCG	1	0	3	6	5	4	0	3	6	2	3	0
-TAT	14	3	5	11	15	12	4	7	14	4	15	10
-TAC	9	0	2	2	11	1	1	4	5	3	8	2
-TGT	1	1	1	3	5	3	2	2	5	3	3	3
-TGC	0	0	0	3	3	0	0	0	1	0	2	0
-TGA	0	0	0	0	3	2	0	0	2	1	0	0
-TGG	15	1	2	6	10	6	4	6	9	4	9	12
-CTT	13	3	7	5	25	7	2	3	15	5	7	7
-CTC	4	0	4	4	5	1	1	1	3	3	6	3
-CTA	9	8	7	12	16	13	0	6	15	2	6	3
-CTG	5	2	3	14	17	4	2	3	11	4	5	5
-CCT	7	0	2	6	7	7	2	1	5	2	3	4
-CCC	6	0	2	4	2	5	2	6	9	3	6	4
-CCA	7	0	3	3	2	1	1	3	6	0	8	3
-CCG	7	0	1	1	6	3	0	2	1	3	3	1
-CAT	6	0	5	3	6	2	0	5	5	2	7	6
-CAC	9	1	0	0	8	1	0	2	2	1	4	8
-CAA	7	1	1	4	7	2	1	8	8	4	5	5
-CAG	1	0	4	6	9	3	0	2	3	0	3	3
-CGT	2	0	1	2	1	3	0	0	3	0	5	2
-CGC	0	0	0	2	0	0	1	0	3	0	1	1
-CGA	0	0	1	1	2	0	0	1	2	1	1	1
-CGG	2	1	1	0	2	2	1	0	0	0	1	0
-ATT	21	7	12	18	21	11	9	14	25	7	20	9
-ATC	12	0	3	9	11	5	2	3	9	5	5	3
-ATA	14	9	7	12	15	9	2	8	13	15	12	5
-ATG	21	1	11	8	18	10	4	10	16	7	11	8
-ACT	12	4	2	3	11	2	0	4	5	2	3	6
-ACC	10	1	4	6	18	1	3	5	10	1	5	4
-ACA	7	0	4	3	7	4	1	5	5	3	3	3
-ACG	2	0	1	1	6	0	0	0	3	1	1	3
-AAT	9	1	6	5	6	6	1	6	5	5	15	2
-AAC	6	2	2	3	8	1	0	4	6	4	4	0
-AAA	5	1	2	6	9	6	3	6	4	2	2	3
-AAG	2	1	0	4	6	4	0	1	6	1	3	0
-AGT	7	0	1	9	10	4	0	1	4	6	6	6
-AGC	5	0	3	6	4	2	1	0	4	0	1	3
-AGA	5	0	1	1	2	1	0	4	1	0	2	3
-AGG	3	2	0	5	6	1	0	2	7	2	2	1
-GTT	16	2	7	10	10	6	4	3	10	4	12	13
-GTC	3	0	4	4	4	1	1	0	7	5	3	1
-GTA	12	5	5	8	10	5	3	3	10	3	7	6
-GTG	9	3	8	16	15	16	4	15	12	4	14	6
-GCT	9	0	4	12	21	11	1	4	12	11	10	7
-GCC	14	3	8	9	23	9	2	5	11	2	8	6
-GCA	15	2	5	6	4	9	2	6	13	7	6	4
-GCG	2	3	3	10	10	3	0	1	5	2	4	4
-GAT	11	1	2	2	8	4	2	8	6	2	6	2
-GAC	7	0	2	3	8	1	1	6	3	4	3	2
-GAA	6	1	2	1	9	2	6	8	8	3	4	3
-GAG	1	1	1	9	5	8	1	4	9	3	4	5
-GGT	12	2	1	5	11	7	3	5	8	1	5	6
-GGC	6	1	4	15	14	7	3	2	12	7	12	7
-GGA	24	1	3	6	5	3	2	5	7	2	6	4
-GGG	12	4	9	9	16	8	3	1	11	6	5	5
-TAA	1	1	1	0	1	0	1	0	1	1	1	1
-TAG	0	0	0	1	0	1	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009734550.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	30	16	20	13	4	5	8	1	14	9	1	0	0	15	13	4	9	5	7	6	7	7	6	9	7	1	2	0	0	2	21	12	14	21	12	10	7	2	9	6	5	2	7	5	5	3	16	3	12	9	9	14	15	2	11	7	6	1	12	6	24	12	1	0
+1	ND4L	YP_009734551.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	4	1	4	4	1	1	5	0	3	0	1	0	0	1	3	0	8	2	0	0	0	0	0	1	1	0	0	0	0	1	7	0	9	1	4	1	0	0	1	2	1	1	0	0	0	2	2	0	5	3	0	3	2	3	1	0	1	1	2	1	1	4	1	0
+2	ATP6	YP_009734553.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	16	4	10	10	2	5	2	3	5	2	1	0	0	2	7	4	7	3	2	2	3	1	5	0	1	4	1	0	1	1	12	3	7	11	2	4	4	1	6	2	2	0	1	3	1	0	7	4	5	8	4	8	5	3	2	2	2	1	1	4	3	9	1	0
+3	ND2	YP_009734554.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	15	4	18	11	10	3	6	6	11	2	3	3	0	6	5	4	12	14	6	4	3	1	3	0	4	6	2	2	1	0	18	9	12	8	3	6	3	1	5	3	6	4	9	6	1	5	10	4	8	16	12	9	6	10	2	3	1	9	5	15	6	9	0	1
+4	ND5	YP_009734555.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	38	10	18	18	17	7	11	5	15	11	5	3	3	10	25	5	16	17	7	2	2	6	6	8	7	9	1	0	2	2	21	11	15	18	11	18	7	6	6	8	9	6	10	4	2	6	10	4	10	15	21	23	4	10	8	8	9	5	11	14	5	16	1	0
+5	ND1	YP_009734556.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	21	5	15	18	4	4	9	4	12	1	3	0	2	6	7	1	13	4	7	5	1	3	2	1	2	3	3	0	0	2	11	5	9	10	2	1	4	0	6	1	6	4	4	2	1	1	6	1	5	16	11	9	9	3	4	1	2	8	7	7	3	8	0	1
+6	ND3	YP_009734557.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	11	3	6	3	4	3	0	0	4	1	2	0	0	4	2	1	0	2	2	2	1	0	0	0	1	0	0	1	0	1	9	2	2	4	0	3	1	0	1	0	3	0	0	1	0	0	4	1	3	4	1	2	2	0	2	1	6	1	3	3	2	3	1	0
+7	COX2	YP_009734558.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	11	2	12	5	4	3	4	3	7	4	2	0	0	6	3	1	6	3	1	6	3	2	5	2	8	2	0	0	1	0	14	3	8	10	4	5	5	0	6	4	6	1	1	0	4	2	3	0	3	15	4	5	6	1	8	6	8	4	5	2	5	1	0	1
+8	ND4	YP_009734559.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	32	6	29	17	6	5	4	6	14	5	5	1	2	9	15	3	15	11	5	9	6	1	5	2	8	3	3	3	2	0	25	9	13	16	5	10	5	3	5	6	4	6	4	4	1	7	10	7	10	12	12	11	13	5	6	3	8	9	8	12	7	11	1	0
+9	ND6	YP_009734560.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	10	7	7	4	4	3	1	2	4	3	3	0	1	4	5	3	2	4	2	3	0	3	2	1	4	0	0	0	1	0	7	5	15	7	2	1	3	1	5	4	2	1	6	0	0	2	4	5	3	4	11	2	7	2	2	4	3	3	1	7	2	6	1	0
+10	CYTB	YP_009734561.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	16	8	18	10	6	6	2	3	15	8	3	2	0	9	7	6	6	5	3	6	8	3	7	4	5	3	5	1	1	1	20	5	12	11	3	5	3	1	15	4	2	3	6	1	2	2	12	3	7	14	10	8	6	4	6	3	4	4	5	12	6	5	1	0
+11	COX3	YP_009734562.1	Microzoanthus occultus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Microzoanthidae, Microzoanthus	16	8	3	4	4	1	3	0	10	2	3	0	0	12	7	3	3	5	4	4	3	1	6	8	5	3	2	1	1	0	9	3	5	8	6	4	3	3	2	0	3	0	6	3	3	1	13	1	6	6	7	6	4	4	2	2	3	5	6	7	4	5	1	0

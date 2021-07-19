@@ -1,65 +1,8 @@
-	YP_009690011.1|cox1	YP_009690012.1|nad2	YP_009690013.1|nad4	YP_009690014.1|nad1	YP_009690015.1|nad6	YP_009690016.1|nad5	YP_009690017.1|cob
-TTT	34	33	28	23	11	32	20
-TTC	7	7	8	4	3	6	5
-TTA	57	52	69	40	26	60	40
-TTG	3	2	2	3	2	4	3
-TCT	7	11	4	2	2	4	2
-TCC	3	3	1	3	1	3	2
-TCA	4	5	10	6	1	5	4
-TCG	0	0	0	0	0	1	0
-TAT	13	30	30	16	9	29	19
-TAC	7	7	4	5	4	4	9
-TGT	2	6	7	3	0	13	2
-TGC	1	0	0	1	0	1	1
-TGG	14	6	5	4	0	11	5
-CTT	2	6	1	1	3	1	3
-CTC	1	2	0	0	0	0	0
-CTA	14	13	12	9	3	8	5
-CTG	1	0	0	0	0	2	0
-CCT	3	11	9	5	0	3	6
-CCC	4	1	4	1	2	1	5
-CCA	14	3	8	10	0	5	11
-CCG	1	0	1	0	0	0	0
-CAT	12	7	8	0	2	9	9
-CAC	4	3	2	0	0	0	4
-CAA	5	8	3	3	1	8	4
-CAG	1	1	0	1	0	0	1
-CGT	4	5	6	0	1	5	2
-CGC	0	3	0	0	0	0	0
-CGA	1	0	0	1	1	0	0
-CGG	0	0	0	0	0	0	0
-ATT	21	16	14	9	3	16	9
-ATC	4	8	2	5	4	7	5
-ATA	14	42	48	21	7	38	22
-ATG	24	15	13	10	4	20	12
-ACT	15	14	7	4	3	15	1
-ACC	7	5	5	2	2	6	2
-ACA	13	20	23	10	5	20	16
-ACG	0	3	1	3	0	4	2
-AAT	15	25	11	10	10	19	8
-AAC	3	13	5	4	0	3	6
-AAA	5	13	9	5	2	13	5
-AAG	0	2	0	1	0	2	1
-AGT	16	29	25	19	12	39	20
-AGC	4	4	5	1	0	2	2
-AGA	6	1	2	7	1	6	6
-AGG	1	1	1	2	0	0	1
-GTT	7	15	5	4	8	9	11
-GTC	3	1	1	1	0	3	1
-GTA	20	10	26	11	2	26	21
-GTG	4	3	2	2	3	1	1
-GCT	15	15	7	3	11	10	3
-GCC	2	3	0	4	1	5	1
-GCA	23	7	15	16	2	23	19
-GCG	1	2	1	4	0	3	3
-GAT	11	5	7	6	1	12	3
-GAC	1	3	1	2	0	7	2
-GAA	6	7	9	10	3	10	9
-GAG	0	1	0	0	1	0	0
-GGT	35	14	14	19	8	27	17
-GGC	3	5	3	1	0	5	3
-GGA	8	4	2	4	0	4	7
-GGG	4	6	12	3	1	10	1
-TAA	0	1	0	1	1	1	1
-TAG	1	0	1	0	0	0	0
-TGA	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox1	YP_009690011.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	34	7	57	3	7	3	4	0	13	7	2	1	14	2	1	14	1	3	4	14	1	12	4	5	1	4	0	1	0	21	4	14	24	15	7	13	0	15	3	5	0	16	4	6	1	7	3	20	4	15	2	23	1	11	1	6	0	35	3	8	4	0	1	0
+1	nad2	YP_009690012.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	33	7	52	2	11	3	5	0	30	7	6	0	6	6	2	13	0	11	1	3	0	7	3	8	1	5	3	0	0	16	8	42	15	14	5	20	3	25	13	13	2	29	4	1	1	15	1	10	3	15	3	7	2	5	3	7	1	14	5	4	6	1	0	0
+2	nad4	YP_009690013.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	28	8	69	2	4	1	10	0	30	4	7	0	5	1	0	12	0	9	4	8	1	8	2	3	0	6	0	0	0	14	2	48	13	7	5	23	1	11	5	9	0	25	5	2	1	5	1	26	2	7	0	15	1	7	1	9	0	14	3	2	12	0	1	0
+3	nad1	YP_009690014.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	23	4	40	3	2	3	6	0	16	5	3	1	4	1	0	9	0	5	1	10	0	0	0	3	1	0	0	1	0	9	5	21	10	4	2	10	3	10	4	5	1	19	1	7	2	4	1	11	2	3	4	16	4	6	2	10	0	19	1	4	3	1	0	0
+4	nad6	YP_009690015.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	11	3	26	2	2	1	1	0	9	4	0	0	0	3	0	3	0	0	2	0	0	2	0	1	0	1	0	1	0	3	4	7	4	3	2	5	0	10	0	2	0	12	0	1	0	8	0	2	3	11	1	2	0	1	0	3	1	8	0	0	1	1	0	0
+5	nad5	YP_009690016.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	32	6	60	4	4	3	5	1	29	4	13	1	11	1	0	8	2	3	1	5	0	9	0	8	0	5	0	0	0	16	7	38	20	15	6	20	4	19	3	13	2	39	2	6	0	9	3	26	1	10	5	23	3	12	7	10	0	27	5	4	10	1	0	0
+6	cob	YP_009690017.1	Haematococcus lacustris	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Haematococcaceae, Haematococcus	20	5	40	3	2	2	4	0	19	9	2	1	5	3	0	5	0	6	5	11	0	9	4	4	1	2	0	0	0	9	5	22	12	1	2	16	2	8	6	5	1	20	2	6	1	11	1	21	1	3	1	19	3	3	2	9	0	17	3	7	1	1	0	0

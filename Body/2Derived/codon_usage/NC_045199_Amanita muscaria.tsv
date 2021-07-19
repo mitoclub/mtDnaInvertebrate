@@ -1,65 +1,28 @@
-	YP_009710662.1|cox1	YP_009710663.1|orf346	YP_009710664.1|orf300	YP_009710665.1|orf327	YP_009710666.1|orf235	YP_009710667.1|orf338	YP_009710668.1|orf315	YP_009710669.1|orf245	YP_009710670.1|rps3	YP_009710671.1|cox2	YP_009710672.1|nad4	YP_009710673.1|nad6	YP_009710674.1|nad2	YP_009710675.1|nad3	YP_009710676.1|orf230	YP_009710679.1|orf254	YP_009710680.1|orf244	YP_009710681.1|orf256	YP_009710682.1|orf140	YP_009710684.1|nad1	YP_009710685.1|cob	YP_009710686.1|orf287	YP_009710690.1|atp8	YP_009710691.1|nad4L	YP_009710692.1|nad5	YP_009710693.1|orf163	YP_009710694.1|atp6
-TTT	23	15	24	13	12	15	22	22	27	10	27	12	21	8	10	10	16	13	4	20	16	20	5	4	28	7	14
-TTC	29	4	1	4	3	5	0	6	7	6	13	3	10	7	2	1	5	1	1	11	18	1	1	0	20	2	8
-TTA	53	33	25	26	14	31	21	35	58	21	69	29	79	15	21	30	17	28	11	39	39	17	5	9	91	8	45
-TTG	1	4	1	2	1	3	5	3	2	1	3	1	1	0	1	2	2	3	1	3	2	2	0	0	0	2	0
-TCT	21	11	6	5	5	12	13	4	23	10	18	9	29	3	6	7	6	3	3	16	10	9	2	1	25	4	11
-TCC	0	0	0	2	1	2	1	1	2	0	1	1	1	0	0	0	1	2	2	0	0	1	0	0	1	1	0
-TCA	9	6	4	3	2	6	5	3	6	9	8	3	22	4	1	5	8	5	2	9	8	5	0	4	21	9	7
-TCG	0	1	0	1	0	0	0	2	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0
-TAT	17	14	12	16	12	15	20	9	23	9	21	8	32	3	7	13	15	10	7	12	13	14	3	3	35	9	9
-TAC	3	1	2	2	0	2	0	0	1	4	2	1	1	1	3	0	2	2	1	0	6	2	1	1	1	0	2
-TGT	1	3	5	2	4	2	3	1	1	3	5	0	5	2	1	3	3	2	0	5	1	1	0	0	4	0	2
-TGC	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
-TGA	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0
-TGG	12	5	2	2	5	4	4	3	2	7	4	0	3	0	3	1	1	1	1	5	9	2	0	0	4	0	1
-CTT	5	5	5	1	8	2	3	1	6	1	4	1	5	3	3	4	4	2	0	7	5	8	0	3	3	2	1
-CTC	0	2	0	1	0	0	1	0	0	0	0	0	1	0	2	0	0	0	0	0	0	1	0	0	0	0	0
-CTA	8	2	1	4	2	1	1	4	10	3	10	0	10	3	1	2	4	2	1	2	4	7	0	3	9	2	3
-CTG	1	0	0	1	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	2	2	1	0	0	1	0	0
-CCT	22	10	4	1	4	6	6	6	9	11	12	4	13	3	4	1	2	1	3	11	14	5	1	0	15	1	6
-CCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	1	2	1
-CCA	6	2	3	1	1	3	7	3	6	2	6	1	1	1	3	1	3	1	1	2	5	4	2	0	5	2	2
-CCG	0	2	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	2	1	0	0	0	1	0
-CAT	9	4	4	7	3	2	6	4	2	6	6	1	4	2	3	0	2	4	1	2	10	7	0	0	12	2	4
-CAC	8	0	1	1	0	0	0	0	0	2	0	0	2	1	1	1	0	1	0	0	2	0	0	0	1	0	2
-CAA	9	8	5	9	6	6	5	3	18	9	17	4	14	4	10	7	1	6	7	11	6	10	5	1	11	6	5
-CAG	1	0	1	1	2	1	1	0	0	0	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0	1	0
-CGT	0	1	0	0	1	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	0	0	0	0	0
-CGC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	3	0	0	2	0	6	0	0	0	0	0	0	0	0	1	0	0	0	4	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-ATT	27	19	23	23	18	26	15	19	49	18	34	19	20	10	7	21	23	16	11	22	14	31	4	7	35	12	10
-ATC	5	4	2	2	2	7	5	3	3	2	3	3	11	1	2	0	1	2	0	1	3	1	1	2	3	2	7
-ATA	10	11	23	17	8	19	15	13	33	2	24	13	50	4	8	15	19	20	7	18	18	3	6	10	37	11	7
-ATG	15	4	9	0	3	8	3	3	7	4	5	4	7	2	5	6	4	3	7	6	12	1	1	3	17	3	2
-ACT	19	11	13	12	4	6	10	6	14	7	20	8	15	3	4	2	6	6	2	13	5	2	1	2	21	2	7
-ACC	2	3	1	0	1	4	0	1	3	2	1	0	4	1	1	1	0	1	1	1	2	1	0	0	3	2	0
-ACA	11	4	6	4	2	4	4	7	8	6	9	8	21	1	2	2	5	6	9	2	8	9	1	2	17	1	5
-ACG	3	1	0	1	0	1	1	0	0	0	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0
-AAT	20	23	24	32	24	28	31	26	90	5	23	13	29	4	14	30	18	32	11	9	21	16	2	4	21	10	10
-AAC	5	9	3	2	2	4	1	3	13	1	1	0	3	1	4	3	4	3	4	1	1	1	0	0	2	1	0
-AAA	7	27	9	34	25	23	35	18	79	5	9	7	16	2	25	23	22	25	5	6	5	25	4	1	17	17	6
-AAG	0	4	1	3	1	2	1	1	2	0	1	0	2	0	4	3	1	3	1	0	0	0	0	0	0	0	0
-AGT	8	5	7	14	3	8	5	5	15	3	12	5	21	2	10	8	5	6	0	5	4	7	1	3	24	4	6
-AGC	3	0	0	0	0	1	2	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1
-AGA	9	10	13	4	12	6	8	0	21	5	10	0	4	2	4	2	1	1	2	8	12	5	1	4	12	4	3
-AGG	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-GTT	13	6	8	6	5	10	9	2	5	6	11	8	6	5	4	5	3	5	2	8	9	4	1	2	11	2	11
-GTC	0	0	2	0	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	0	0	0	0	0	0
-GTA	23	4	9	6	2	13	3	3	9	16	10	10	18	3	5	6	1	3	2	12	23	9	3	3	22	5	14
-GTG	1	2	1	0	0	1	1	0	2	1	2	1	2	1	1	1	0	0	1	4	0	0	0	0	0	1	1
-GCT	32	9	6	10	2	11	2	1	10	9	23	11	15	6	2	1	5	3	1	18	21	3	0	4	23	0	10
-GCC	0	1	0	0	0	0	0	1	0	0	1	0	2	0	1	0	0	0	0	2	0	0	0	0	4	0	0
-GCA	5	2	3	2	3	7	1	0	4	4	6	1	6	2	3	2	0	1	1	3	9	3	1	1	20	1	7
-GCG	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0
-GAT	14	18	12	13	7	7	10	5	14	14	13	5	11	2	10	9	13	9	12	9	11	7	0	2	15	9	3
-GAC	1	2	1	0	4	1	0	2	1	1	0	0	0	0	2	0	1	1	0	0	1	1	0	0	0	2	0
-GAA	5	14	8	11	8	10	3	9	24	9	6	3	16	6	12	14	9	14	4	10	7	12	0	2	14	10	6
-GAG	1	3	0	1	2	0	2	0	0	0	2	0	2	0	1	6	2	2	0	0	1	2	0	0	1	2	0
-GGT	24	9	5	10	3	5	12	4	7	6	21	5	14	4	6	3	4	2	1	10	9	11	0	4	22	1	7
-GGC	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGA	21	6	5	7	6	4	6	1	8	11	5	5	16	3	5	2	4	1	2	9	13	5	0	2	30	0	6
-GGG	4	1	0	1	0	2	1	1	1	0	1	0	1	0	1	0	0	0	1	0	0	0	0	1	1	0	3
-TAA	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
-TAG	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009710662.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	23	29	53	1	21	0	9	0	17	3	1	0	0	12	5	0	8	1	22	0	6	0	9	8	9	1	0	0	0	0	27	5	10	15	19	2	11	3	20	5	7	0	8	3	9	0	13	0	23	1	32	0	5	1	14	1	5	1	24	0	21	4	0	1
+1	orf346	YP_009710663.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	15	4	33	4	11	0	6	1	14	1	3	1	0	5	5	2	2	0	10	0	2	2	4	0	8	0	1	0	0	0	19	4	11	4	11	3	4	1	23	9	27	4	5	0	10	0	6	0	4	2	9	1	2	0	18	2	14	3	9	0	6	1	1	0
+2	orf300	YP_009710664.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	24	1	25	1	6	0	4	0	12	2	5	0	0	2	5	0	1	0	4	0	3	0	4	1	5	1	0	0	0	0	23	2	23	9	13	1	6	0	24	3	9	1	7	0	13	0	8	2	9	1	6	0	3	0	12	1	8	0	5	0	5	0	1	0
+3	orf327	YP_009710665.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	13	4	26	2	5	2	3	1	16	2	2	0	1	2	1	1	4	1	1	0	1	0	7	1	9	1	0	1	3	0	23	2	17	0	12	0	4	1	32	2	34	3	14	0	4	0	6	0	6	0	10	0	2	0	13	0	11	1	10	2	7	1	1	0
+4	orf235	YP_009710666.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	12	3	14	1	5	1	2	0	12	0	4	0	0	5	8	0	2	0	4	0	1	0	3	0	6	2	1	0	0	0	18	2	8	3	4	1	2	0	24	2	25	1	3	0	12	1	5	1	2	0	2	0	3	0	7	4	8	2	3	0	6	0	1	0
+5	orf338	YP_009710667.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	15	5	31	3	12	2	6	0	15	2	2	1	0	4	2	0	1	0	6	0	3	0	2	0	6	1	0	0	0	0	26	7	19	8	6	4	4	1	28	4	23	2	8	1	6	0	10	0	13	1	11	0	7	1	7	1	10	0	5	0	4	2	0	1
+6	orf315	YP_009710668.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	22	0	21	5	13	1	5	0	20	0	3	0	0	4	3	1	1	0	6	0	7	0	6	0	5	1	2	0	2	0	15	5	15	3	10	0	4	1	31	1	35	1	5	2	8	1	9	0	3	1	2	0	1	0	10	0	3	2	12	0	6	1	1	0
+7	orf245	YP_009710669.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	22	6	35	3	4	1	3	2	9	0	1	0	0	3	1	0	4	0	6	0	3	0	4	0	3	0	0	0	0	0	19	3	13	3	6	1	7	0	26	3	18	1	5	0	0	0	2	0	3	0	1	1	0	0	5	2	9	0	4	1	1	1	1	0
+8	rps3	YP_009710670.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	27	7	58	2	23	2	6	0	23	1	1	0	0	2	6	0	10	0	9	0	6	2	2	0	18	0	1	0	6	0	49	3	33	7	14	3	8	0	90	13	79	2	15	0	21	0	5	0	9	2	10	0	4	0	14	1	24	0	7	0	8	1	1	0
+9	cox2	YP_009710671.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	10	6	21	1	10	0	9	0	9	4	3	1	0	7	1	0	3	1	11	0	2	0	6	2	9	0	0	0	0	0	18	2	2	4	7	2	6	0	5	1	5	0	3	0	5	0	6	0	16	1	9	0	4	0	14	1	9	0	6	0	11	0	1	0
+10	nad4	YP_009710672.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	27	13	69	3	18	1	8	0	21	2	5	0	0	4	4	0	10	2	12	0	6	0	6	0	17	1	0	0	0	0	34	3	24	5	20	1	9	1	23	1	9	1	12	0	10	0	11	0	10	2	23	1	6	0	13	0	6	2	21	0	5	1	1	0
+11	nad6	YP_009710673.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	12	3	29	1	9	1	3	1	8	1	0	0	0	0	1	0	0	0	4	0	1	0	1	0	4	0	0	0	0	0	19	3	13	4	8	0	8	0	13	0	7	0	5	0	0	0	8	0	10	1	11	0	1	0	5	0	3	0	5	0	5	0	1	0
+12	nad2	YP_009710674.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	21	10	79	1	29	1	22	0	32	1	5	0	0	3	5	1	10	0	13	0	1	0	4	2	14	2	0	0	0	0	20	11	50	7	15	4	21	0	29	3	16	2	21	1	4	0	6	0	18	2	15	2	6	0	11	0	16	2	14	0	16	1	1	0
+13	nad3	YP_009710675.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	8	7	15	0	3	0	4	0	3	1	2	0	0	0	3	0	3	0	3	0	1	1	2	1	4	0	0	0	0	0	10	1	4	2	3	1	1	0	4	1	2	0	2	0	2	0	5	0	3	1	6	0	2	0	2	0	6	0	4	0	3	0	1	0
+14	orf230	YP_009710676.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	10	2	21	1	6	0	1	0	7	3	1	0	1	3	3	2	1	0	4	0	3	0	3	1	10	0	1	0	0	0	7	2	8	5	4	1	2	0	14	4	25	4	10	1	4	0	4	1	5	1	2	1	3	1	10	2	12	1	6	0	5	1	1	0
+15	orf254	YP_009710679.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	10	1	30	2	7	0	5	0	13	0	3	0	0	1	4	0	2	0	1	0	1	0	0	1	7	1	0	0	0	0	21	0	15	6	2	1	2	0	30	3	23	3	8	0	2	0	5	0	6	1	1	0	2	0	9	0	14	6	3	0	2	0	1	0
+16	orf244	YP_009710680.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	16	5	17	2	6	1	8	0	15	2	3	0	0	1	4	0	4	0	2	0	3	0	2	0	1	0	0	0	0	0	23	1	19	4	6	0	5	0	18	4	22	1	5	0	1	0	3	1	1	0	5	0	0	0	13	1	9	2	4	0	4	0	1	0
+17	orf256	YP_009710681.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	13	1	28	3	3	2	5	0	10	2	2	0	0	1	2	0	2	1	1	1	1	0	4	1	6	0	0	0	1	0	16	2	20	3	6	1	6	0	32	3	25	3	6	0	1	0	5	1	3	0	3	0	1	0	9	1	14	2	2	0	1	0	1	0
+18	orf140	YP_009710682.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	4	1	11	1	3	2	2	1	7	1	0	0	2	1	0	0	1	0	3	0	1	0	1	0	7	0	0	0	0	0	11	0	7	7	2	1	9	2	11	4	5	1	0	0	2	1	2	1	2	1	1	0	1	0	12	0	4	0	1	0	2	1	1	0
+19	nad1	YP_009710684.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	20	11	39	3	16	0	9	0	12	0	5	0	0	5	7	0	2	2	11	2	2	0	2	0	11	0	0	0	0	0	22	1	18	6	13	1	2	1	9	1	6	0	5	0	8	0	8	0	12	4	18	2	3	1	9	0	10	0	10	0	9	0	1	0
+20	cob	YP_009710685.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	16	18	39	2	10	0	8	1	13	6	1	0	0	9	5	0	4	2	14	0	5	2	10	2	6	0	0	0	0	0	14	3	18	12	5	2	8	0	21	1	5	0	4	0	12	0	9	1	23	0	21	0	9	1	11	1	7	1	9	0	13	0	1	0
+21	orf287	YP_009710686.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	20	1	17	2	9	1	5	1	14	2	1	1	0	2	8	1	7	1	5	0	4	1	7	0	10	0	3	0	4	1	31	1	3	1	2	1	9	0	16	1	25	0	7	0	5	0	4	0	9	0	3	0	3	0	7	1	12	2	11	0	5	0	1	0
+22	atp8	YP_009710690.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	5	1	5	0	2	0	0	0	3	1	0	0	0	0	0	0	0	0	1	0	2	0	0	0	5	0	0	0	0	0	4	1	6	1	1	0	1	0	2	0	4	0	1	0	1	0	1	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+23	nad4L	YP_009710691.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	4	0	9	0	1	0	4	0	3	1	0	0	0	0	3	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	7	2	10	3	2	0	2	0	4	0	1	0	3	0	4	0	2	0	3	0	4	0	1	0	2	0	2	0	4	0	2	1	1	0
+24	nad5	YP_009710692.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	28	20	91	0	25	1	21	0	35	1	4	1	0	4	3	0	9	1	15	1	5	0	12	1	11	0	0	0	0	0	35	3	37	17	21	3	17	0	21	2	17	0	24	0	12	0	11	0	22	0	23	4	20	0	15	0	14	1	22	0	30	1	1	0
+25	orf163	YP_009710693.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	7	2	8	2	4	1	9	0	9	0	0	0	0	0	2	0	2	0	1	2	2	1	2	0	6	1	0	0	0	0	12	2	11	3	2	2	1	0	10	1	17	0	4	0	4	0	2	0	5	1	0	0	1	0	9	2	10	2	1	0	0	0	1	0
+26	atp6	YP_009710694.1	Amanita muscaria	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Amanitaceae, Amanita	14	8	45	0	11	0	7	0	9	2	2	0	0	1	1	0	3	0	6	1	2	0	4	2	5	0	0	0	0	0	10	7	7	2	7	0	5	0	10	0	6	0	6	1	3	0	11	0	14	1	10	0	7	0	3	0	6	0	7	0	6	3	0	1

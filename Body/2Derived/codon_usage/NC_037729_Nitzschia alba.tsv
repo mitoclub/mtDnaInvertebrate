@@ -1,65 +1,21 @@
-	YP_009485516.1|cox1	YP_009485517.1|atp6	YP_009485518.1|rps8	YP_009485519.1|rpl6	YP_009485520.1|rps2	YP_009485521.1|rps4	YP_009485522.1|rps12	YP_009485523.1|rps7	YP_009485524.1|rpl14	YP_009485525.1|rpl5	YP_009485526.1|nad1	YP_009485528.1|orf157	YP_009485529.1|orf66	YP_009485531.1|rpl2	YP_009485532.1|rps19	YP_009485533.1|rps3	YP_009485534.1|rpl16	YP_009485535.1|atp9	YP_009485536.1|nad4L	YP_009485537.1|nad11a
-TTT	31	20	6	11	17	19	1	7	4	13	25	11	7	10	3	25	5	1	6	8
-TTC	17	8	1	1	2	0	0	1	1	1	3	3	1	1	0	0	1	6	1	1
-TTA	42	32	5	15	13	20	10	5	12	23	33	19	1	17	5	32	7	7	17	18
-TTG	0	0	2	3	3	4	1	3	1	2	0	1	1	1	2	1	1	0	1	0
-TCT	11	8	4	4	7	5	4	5	1	3	6	5	0	11	1	9	4	2	6	7
-TCC	0	0	1	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0
-TCA	11	3	6	3	7	10	2	5	4	3	11	5	0	10	1	6	2	2	0	3
-TCG	0	0	0	0	1	1	0	0	0	1	1	1	1	1	0	1	0	0	1	0
-TAT	14	5	4	9	5	14	6	2	1	7	13	7	0	6	1	9	1	0	3	5
-TAC	6	0	1	0	1	0	0	0	1	0	2	1	1	0	0	2	0	0	0	2
-TGT	2	0	2	3	0	0	3	0	1	2	3	0	2	2	1	2	2	0	0	12
-TGC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGG	13	2	3	0	1	2	0	1	0	0	7	1	0	2	1	2	2	0	0	0
-CTT	10	7	2	2	7	1	2	2	2	5	11	2	2	3	2	6	1	2	3	3
-CTC	0	0	1	0	0	1	0	0	0	0	1	0	2	0	0	0	0	0	0	0
-CTA	5	3	0	3	2	2	0	1	0	1	6	0	0	1	0	1	0	3	1	0
-CTG	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
-CCT	11	5	2	3	4	3	5	0	2	2	6	1	0	6	2	6	2	1	0	6
-CCC	0	0	0	1	0	0	0	0	0	1	0	0	0	2	0	1	0	0	0	0
-CCA	12	5	3	3	3	3	1	2	1	4	11	0	0	5	2	1	2	0	1	0
-CCG	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	0	0	0
-CAT	14	3	0	4	6	5	2	0	0	2	1	2	1	6	2	8	2	0	2	6
-CAC	4	1	0	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0
-CAA	3	6	3	6	7	12	4	5	3	4	6	3	0	7	1	9	2	1	2	2
-CAG	2	1	1	3	3	2	0	1	2	0	0	1	0	0	0	2	0	0	0	1
-CGT	1	0	0	0	0	3	0	1	1	2	2	0	0	1	0	2	1	0	1	0
-CGC	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
-CGA	4	0	2	1	2	3	4	1	2	0	1	0	0	7	1	2	2	0	0	4
-CGG	0	1	0	0	0	2	3	1	0	0	1	0	0	0	1	1	0	0	0	0
-ATT	40	23	7	6	5	13	5	9	6	11	24	8	1	12	2	19	12	5	11	9
-ATC	4	1	4	3	2	2	0	0	0	0	3	0	1	3	0	1	0	0	1	1
-ATA	4	2	8	6	3	3	1	4	4	1	8	2	1	6	3	13	3	1	5	4
-ATG	17	10	3	2	2	2	3	1	2	4	14	1	1	3	2	2	4	7	3	4
-ACT	20	5	4	10	3	6	3	4	3	6	5	4	0	5	2	12	3	1	2	7
-ACC	2	4	0	1	1	0	0	0	0	0	0	2	0	1	1	0	0	0	0	0
-ACA	10	6	1	5	6	2	2	1	1	3	5	5	1	7	1	9	6	1	3	6
-ACG	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
-AAT	15	10	13	8	16	11	5	7	5	10	10	12	1	13	3	25	1	0	5	14
-AAC	2	1	0	2	1	5	1	3	0	1	2	4	0	2	0	4	0	1	1	3
-AAA	6	7	17	21	23	23	18	19	18	21	8	21	5	25	16	32	17	2	4	10
-AAG	1	1	1	10	12	9	7	4	2	3	2	9	0	9	2	16	4	0	0	2
-AGT	7	8	2	3	5	6	2	6	4	4	8	3	0	8	1	9	1	0	0	7
-AGC	3	2	0	1	2	1	0	2	0	1	1	1	1	1	1	0	0	0	1	0
-AGA	6	0	1	1	0	11	4	4	4	2	5	0	2	6	2	1	7	2	1	5
-AGG	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0	0
-GTT	17	10	3	7	10	6	3	6	10	8	14	2	0	10	1	8	0	2	1	11
-GTC	0	0	0	1	2	0	1	0	0	0	0	0	0	0	0	0	2	0	3	0
-GTA	19	11	0	4	2	7	6	1	3	5	11	2	0	3	3	6	2	4	2	6
-GTG	1	1	0	1	0	1	0	0	0	1	0	2	0	0	1	2	0	0	0	1
-GCT	25	9	2	3	3	1	2	5	4	2	10	3	0	5	0	0	5	5	4	5
-GCC	0	0	0	0	0	1	2	0	1	0	2	0	0	0	0	0	0	0	0	0
-GCA	15	6	0	3	3	2	2	1	1	0	11	1	0	4	0	3	3	6	1	3
-GCG	3	1	0	0	1	0	0	0	0	0	2	1	0	1	0	3	2	1	0	0
-GAT	13	4	1	5	7	8	3	4	2	3	4	3	0	7	2	12	1	0	4	4
-GAC	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1
-GAA	8	5	3	2	5	1	1	4	3	5	7	2	0	9	3	15	5	2	1	6
-GAG	1	3	2	2	3	3	0	1	0	3	3	1	0	2	2	1	2	0	3	4
-GGT	27	9	5	4	2	3	3	2	4	3	10	1	0	10	3	6	6	3	1	7
-GGC	0	0	2	0	0	0	0	0	2	0	0	1	0	1	0	1	0	0	1	0
-GGA	16	3	0	1	3	3	5	1	4	2	9	0	0	13	1	4	5	5	4	9
-GGG	3	0	1	5	4	0	1	0	1	1	1	1	0	2	1	2	1	1	0	0
-TAA	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-TGA	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox1	YP_009485516.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	31	17	42	0	11	0	11	0	14	6	2	0	13	10	0	5	1	11	0	12	0	14	4	3	2	1	0	4	0	40	4	4	17	20	2	10	0	15	2	6	1	7	3	6	0	17	0	19	1	25	0	15	3	13	0	8	1	27	0	16	3	1	0	0
+1	atp6	YP_009485517.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	20	8	32	0	8	0	3	0	5	0	0	0	2	7	0	3	0	5	0	5	0	3	1	6	1	0	0	0	1	23	1	2	10	5	4	6	0	10	1	7	1	8	2	0	0	10	0	11	1	9	0	6	1	4	0	5	3	9	0	3	0	1	0	0
+2	rps8	YP_009485518.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	6	1	5	2	4	1	6	0	4	1	2	0	3	2	1	0	0	2	0	3	0	0	0	3	1	0	0	2	0	7	4	8	3	4	0	1	0	13	0	17	1	2	0	1	0	3	0	0	0	2	0	0	0	1	0	3	2	5	2	0	1	1	0	0
+3	rpl6	YP_009485519.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	11	1	15	3	4	0	3	0	9	0	3	1	0	2	0	3	0	3	1	3	0	4	1	6	3	0	0	1	0	6	3	6	2	10	1	5	0	8	2	21	10	3	1	1	0	7	1	4	1	3	0	3	0	5	0	2	2	4	0	1	5	1	0	0
+4	rps2	YP_009485520.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	17	2	13	3	7	1	7	1	5	1	0	0	1	7	0	2	1	4	0	3	0	6	0	7	3	0	1	2	0	5	2	3	2	3	1	6	1	16	1	23	12	5	2	0	0	10	2	2	0	3	0	3	1	7	0	5	3	2	0	3	4	1	0	0
+5	rps4	YP_009485521.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	19	0	20	4	5	0	10	1	14	0	0	0	2	1	1	2	0	3	0	3	0	5	1	12	2	3	0	3	2	13	2	3	2	6	0	2	0	11	5	23	9	6	1	11	0	6	0	7	1	1	1	2	0	8	0	1	3	3	0	3	0	1	0	0
+6	rps12	YP_009485522.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	1	0	10	1	4	0	2	0	6	0	3	0	0	2	0	0	0	5	0	1	0	2	0	4	0	0	0	4	3	5	0	1	3	3	0	2	0	5	1	18	7	2	0	4	0	3	1	6	0	2	2	2	0	3	0	1	0	3	0	5	1	0	0	1
+7	rps7	YP_009485523.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	7	1	5	3	5	0	5	0	2	0	0	0	1	2	0	1	1	0	0	2	0	0	0	5	1	1	0	1	1	9	0	4	1	4	0	1	0	7	3	19	4	6	2	4	0	6	0	1	0	5	0	1	0	4	0	4	1	2	0	1	0	1	0	0
+8	rpl14	YP_009485524.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	4	1	12	1	1	1	4	0	1	1	1	0	0	2	0	0	0	2	0	1	0	0	0	3	2	1	0	2	0	6	0	4	2	3	0	1	0	5	0	18	2	4	0	4	1	10	0	3	0	4	1	1	0	2	1	3	0	4	2	4	1	1	0	0
+9	rpl5	YP_009485525.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	13	1	23	2	3	1	3	1	7	0	2	0	0	5	0	1	0	2	1	4	0	2	0	4	0	2	0	0	0	11	0	1	4	6	0	3	0	10	1	21	3	4	1	2	0	8	0	5	1	2	0	0	0	3	1	5	3	3	0	2	1	1	0	0
+10	nad1	YP_009485526.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	25	3	33	0	6	0	11	1	13	2	3	0	7	11	1	6	0	6	0	11	0	1	0	6	0	2	0	1	1	24	3	8	14	5	0	5	0	10	2	8	2	8	1	5	0	14	0	11	0	10	2	11	2	4	0	7	3	10	0	9	1	1	0	0
+11	orf157	YP_009485528.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	11	3	19	1	5	0	5	1	7	1	0	0	1	2	0	0	0	1	0	0	0	2	1	3	1	0	0	0	0	8	0	2	1	4	2	5	0	12	4	21	9	3	1	0	0	2	0	2	2	3	0	1	1	3	1	2	1	1	1	0	1	1	0	0
+12	orf66	YP_009485529.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	7	1	1	1	0	1	0	1	0	1	2	0	0	2	2	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	5	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+13	rpl2	YP_009485531.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	10	1	17	1	11	0	10	1	6	0	2	0	2	3	0	1	0	6	2	5	1	6	1	7	0	1	0	7	0	12	3	6	3	5	1	7	0	13	2	25	9	8	1	6	1	10	0	3	0	5	0	4	1	7	0	9	2	10	1	13	2	0	1	0
+14	rps19	YP_009485532.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	3	0	5	2	1	0	1	0	1	0	1	0	1	2	0	0	0	2	0	2	0	2	0	1	0	0	0	1	1	2	0	3	2	2	1	1	0	3	0	16	2	1	1	2	1	1	0	3	1	0	0	0	0	2	0	3	2	3	0	1	1	1	0	0
+15	rps3	YP_009485533.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	25	0	32	1	9	0	6	1	9	2	2	0	2	6	0	1	1	6	1	1	0	8	0	9	2	2	0	2	1	19	1	13	2	12	0	9	1	25	4	32	16	9	0	1	0	8	0	6	2	0	0	3	3	12	0	15	1	6	1	4	2	1	0	0
+16	rpl16	YP_009485534.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	5	1	7	1	4	0	2	0	1	0	2	0	2	1	0	0	0	2	0	2	2	2	0	2	0	1	1	2	0	12	0	3	4	3	0	6	0	1	0	17	4	1	0	7	1	0	2	2	0	5	0	3	2	1	1	5	2	6	0	5	1	1	0	0
+17	atp9	YP_009485535.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	1	6	7	0	2	0	2	0	0	0	0	0	0	2	0	3	0	1	0	0	0	0	0	1	0	0	0	0	0	5	0	1	7	1	0	1	0	0	1	2	0	0	0	2	0	2	0	4	0	5	0	6	1	0	1	2	0	3	0	5	1	1	0	0
+18	nad4L	YP_009485536.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	6	1	17	1	6	0	0	1	3	0	0	0	0	3	0	1	0	0	0	1	0	2	0	2	0	1	0	0	0	11	1	5	3	2	0	3	0	5	1	4	0	0	1	1	0	1	3	2	0	4	0	1	0	4	1	1	3	1	1	4	0	1	0	0
+19	nad11a	YP_009485537.1	Nitzschia alba	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Bacillariales, Bacillariaceae, Nitzschia	8	1	18	0	7	0	3	0	5	2	12	0	0	3	0	0	0	6	0	0	0	6	0	2	1	0	0	4	0	9	1	4	4	7	0	6	0	14	3	10	2	7	0	5	0	11	0	6	1	5	0	3	0	4	1	6	4	7	0	9	0	1	0	0

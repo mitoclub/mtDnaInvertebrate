@@ -1,65 +1,13 @@
-	YP_009355455.1|ND1	YP_009355456.1|ND2	YP_009355457.1|COX1	YP_009355458.1|COX2	YP_009355459.1|ATP8	YP_009355460.1|ATP6	YP_009355461.1|COX3	YP_009355462.1|ND3	YP_009355463.1|ND4L	YP_009355464.1|ND4	YP_009355465.1|ND5	YP_009355467.1|CYTB
-TTT	11	7	20	7	4	10	15	6	4	8	22	14
-TTC	9	5	23	3	1	4	9	2	2	6	20	16
-TTA	16	13	12	3	1	9	5	3	2	14	14	13
-TTG	0	2	4	1	0	2	0	0	1	2	1	0
-TCT	5	2	7	8	0	0	1	2	1	5	10	4
-TCC	7	8	8	2	3	3	7	3	4	10	12	11
-TCA	6	11	7	2	0	0	2	2	3	5	12	7
-TCG	0	1	2	0	0	0	1	0	0	1	0	1
-TAT	3	5	8	4	0	0	4	1	1	7	7	6
-TAC	7	3	10	4	0	3	7	2	0	8	5	9
-TGT	0	0	0	1	0	0	0	0	2	3	1	1
-TGC	0	1	1	1	0	0	2	1	1	2	5	2
-TGA	7	10	12	5	5	4	12	4	1	16	12	13
-TGG	1	0	5	0	0	1	0	1	0	2	2	0
-CTT	17	19	16	7	2	18	12	8	6	31	20	13
-CTC	17	17	12	8	0	13	9	10	3	23	31	13
-CTA	14	21	13	8	2	11	4	6	11	22	28	18
-CTG	3	5	4	1	0	2	2	1	0	4	5	1
-CCT	7	10	12	3	4	6	4	1	1	8	8	3
-CCC	9	7	11	4	3	6	8	5	1	11	16	12
-CCA	6	4	4	4	3	4	0	3	0	8	8	6
-CCG	0	0	1	3	0	0	0	0	0	1	1	0
-CAT	1	2	14	2	1	2	6	0	2	5	7	5
-CAC	2	4	5	9	1	2	11	0	2	6	5	7
-CAA	7	11	9	8	2	7	7	2	3	11	17	7
-CAG	1	3	0	0	0	3	2	1	0	1	1	0
-CGT	1	0	1	1	0	0	2	0	0	1	2	1
-CGC	2	1	0	1	0	1	0	0	1	4	2	2
-CGA	4	2	6	3	0	3	3	2	1	6	6	5
-CGG	1	1	1	0	0	1	0	0	0	1	0	0
-ATT	13	16	22	16	3	15	9	8	2	27	24	17
-ATC	12	13	18	6	2	5	5	1	2	13	29	19
-ATA	10	11	15	8	0	7	8	2	3	19	19	6
-ATG	2	3	8	3	1	2	1	2	1	5	10	3
-ACT	8	10	10	2	0	7	5	2	0	13	15	7
-ACC	7	17	10	1	1	8	7	3	3	15	17	7
-ACA	9	13	13	6	2	8	11	2	5	17	22	5
-ACG	0	1	2	1	0	1	0	0	0	1	1	1
-AAT	3	5	9	4	2	3	1	0	1	4	17	6
-AAC	5	6	5	1	1	6	0	1	1	7	12	13
-AAA	7	7	8	4	3	1	2	1	0	9	18	7
-AAG	0	1	0	0	0	1	0	0	0	0	2	2
-AGT	3	0	2	1	0	0	0	0	1	3	4	0
-AGC	2	3	3	3	1	6	3	0	2	5	8	1
-GTT	2	1	13	5	0	5	8	2	2	4	10	3
-GTC	8	1	10	3	2	2	5	1	0	8	6	13
-GTA	4	5	14	6	0	3	4	1	0	0	7	7
-GTG	0	0	6	3	0	0	1	0	0	0	2	1
-GCT	3	12	6	6	1	3	4	2	2	6	10	5
-GCC	17	22	24	4	1	6	10	3	7	18	30	16
-GCA	11	1	18	7	0	8	7	3	4	12	16	9
-GCG	1	0	0	0	0	0	0	0	0	1	0	0
-GAT	2	0	8	4	0	0	1	1	0	0	6	6
-GAC	2	2	7	9	0	1	4	3	2	4	6	5
-GAA	10	5	9	15	2	4	9	6	2	9	11	4
-GAG	1	0	2	0	1	0	0	0	0	3	0	2
-GGT	0	1	8	3	0	2	5	0	0	1	4	2
-GGC	4	10	14	1	0	2	9	3	2	9	13	9
-GGA	9	3	17	3	0	4	6	2	2	11	11	11
-GGG	5	4	7	2	0	2	1	1	1	4	2	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009355455.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	11	9	16	0	5	7	6	0	3	7	0	0	7	1	17	17	14	3	7	9	6	0	1	2	7	1	1	2	4	1	13	12	10	2	8	7	9	0	3	5	7	0	3	2	2	8	4	0	3	17	11	1	2	2	10	1	0	4	9	5	1	0	0	0
+1	ND2	YP_009355456.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	7	5	13	2	2	8	11	1	5	3	0	1	10	0	19	17	21	5	10	7	4	0	2	4	11	3	0	1	2	1	16	13	11	3	10	17	13	1	5	6	7	1	0	3	1	1	5	0	12	22	1	0	0	2	5	0	1	10	3	4	0	0	0	0
+2	COX1	YP_009355457.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	20	23	12	4	7	8	7	2	8	10	0	1	12	5	16	12	13	4	12	11	4	1	14	5	9	0	1	0	6	1	22	18	15	8	10	10	13	2	9	5	8	0	2	3	13	10	14	6	6	24	18	0	8	7	9	2	8	14	17	7	1	0	0	0
+3	COX2	YP_009355458.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	7	3	3	1	8	2	2	0	4	4	1	1	5	0	7	8	8	1	3	4	4	3	2	9	8	0	1	1	3	0	16	6	8	3	2	1	6	1	4	1	4	0	1	3	5	3	6	3	6	4	7	0	4	9	15	0	3	1	3	2	0	0	0	0
+4	ATP8	YP_009355459.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	4	1	1	0	0	3	0	0	0	0	0	0	5	0	2	0	2	0	4	3	3	0	1	1	2	0	0	0	0	0	3	2	0	1	0	1	2	0	2	1	3	0	0	1	0	2	0	0	1	1	0	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009355460.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	10	4	9	2	0	3	0	0	0	3	0	0	4	1	18	13	11	2	6	6	4	0	2	2	7	3	0	1	3	1	15	5	7	2	7	8	8	1	3	6	1	1	0	6	5	2	3	0	3	6	8	0	0	1	4	0	2	2	4	2	1	0	0	0
+6	COX3	YP_009355461.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	15	9	5	0	1	7	2	1	4	7	0	2	12	0	12	9	4	2	4	8	0	0	6	11	7	2	2	0	3	0	9	5	8	1	5	7	11	0	1	0	2	0	0	3	8	5	4	1	4	10	7	0	1	4	9	0	5	9	6	1	0	0	0	0
+7	ND3	YP_009355462.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	6	2	3	0	2	3	2	0	1	2	0	1	4	1	8	10	6	1	1	5	3	0	0	0	2	1	0	0	2	0	8	1	2	2	2	3	2	0	0	1	1	0	0	0	2	1	1	0	2	3	3	0	1	3	6	0	0	3	2	1	0	0	0	0
+8	ND4L	YP_009355463.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	4	2	2	1	1	4	3	0	1	0	2	1	1	0	6	3	11	0	1	1	0	0	2	2	3	0	0	1	1	0	2	2	3	1	0	3	5	0	1	1	0	0	1	2	2	0	0	0	2	7	4	0	0	2	2	0	0	2	2	1	1	0	0	0
+9	ND4	YP_009355464.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	8	6	14	2	5	10	5	1	7	8	3	2	16	2	31	23	22	4	8	11	8	1	5	6	11	1	1	4	6	1	27	13	19	5	13	15	17	1	4	7	9	0	3	5	4	8	0	0	6	18	12	1	0	4	9	3	1	9	11	4	0	0	0	0
+10	ND5	YP_009355465.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	22	20	14	1	10	12	12	0	7	5	1	5	12	2	20	31	28	5	8	16	8	1	7	5	17	1	2	2	6	0	24	29	19	10	15	17	22	1	17	12	18	2	4	8	10	6	7	2	10	30	16	0	6	6	11	0	4	13	11	2	1	0	0	0
+11	CYTB	YP_009355467.1	Bedotia geayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Bedotiidae, Bedotia	14	16	13	0	4	11	7	1	6	9	1	2	13	0	13	13	18	1	3	12	6	0	5	7	7	0	1	2	5	0	17	19	6	3	7	7	5	1	6	13	7	2	0	1	3	13	7	1	5	16	9	0	6	5	4	2	2	9	11	3	0	0	0	0

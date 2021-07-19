@@ -1,65 +1,10 @@
-	YP_009349909.1|ND2	YP_009349910.1|COX1	YP_009349911.1|COX2	YP_009349912.1|ATP8	YP_009349913.1|ATP6	YP_009349914.1|COX3	YP_009349915.1|ND3	YP_009349919.1|ND6	YP_009349920.1|CYTB
-TTT	22	21	7	4	13	16	5	11	19
-TTC	10	15	6	0	2	8	5	4	12
-TTA	32	25	10	6	12	12	8	12	22
-TTG	3	2	1	0	0	1	0	2	1
-TCT	12	9	2	0	3	5	3	4	4
-TCC	5	7	2	0	4	4	2	4	3
-TCA	14	7	4	1	6	5	4	5	6
-TCG	3	3	1	0	0	0	0	0	0
-TAT	7	13	6	3	4	7	1	4	15
-TAC	3	5	2	1	1	3	0	5	4
-TGT	3	0	2	0	2	0	1	1	3
-TGC	0	0	0	2	0	1	0	0	0
-TGA	9	14	6	4	5	13	4	2	10
-TGG	1	1	0	0	0	0	1	0	2
-CTT	16	26	9	5	13	10	5	7	14
-CTC	7	5	3	1	5	5	2	8	9
-CTA	13	11	7	0	10	6	2	9	10
-CTG	1	0	1	0	1	0	1	0	0
-CCT	10	20	7	4	7	6	2	5	10
-CCC	2	3	2	1	4	3	1	1	5
-CCA	2	4	3	1	2	3	0	1	6
-CCG	0	1	0	0	0	0	1	0	1
-CAT	2	11	5	1	4	7	1	3	10
-CAC	2	4	1	0	1	8	0	0	3
-CAA	5	9	8	1	4	8	1	3	7
-CAG	1	1	0	0	0	0	0	0	1
-CGT	0	3	3	0	2	1	1	0	2
-CGC	0	0	2	0	0	1	2	1	2
-CGA	3	5	2	0	0	2	0	0	5
-CGG	0	0	0	0	1	0	0	0	0
-ATT	21	35	16	2	16	19	10	11	27
-ATC	8	11	3	3	7	6	10	8	9
-ATA	19	26	10	2	11	5	5	11	15
-ATG	1	1	2	0	3	1	0	0	3
-ACT	9	19	7	0	12	10	1	8	6
-ACC	7	5	6	0	6	3	2	3	8
-ACA	8	10	8	1	5	9	1	9	9
-ACG	1	0	0	0	0	0	0	0	0
-AAT	15	14	14	2	6	8	5	7	18
-AAC	5	6	2	0	1	0	1	1	4
-AAA	10	5	4	1	4	1	5	3	7
-AAG	1	1	0	0	0	0	0	0	0
-AGT	1	4	2	1	3	1	2	0	0
-AGC	0	1	0	0	2	4	0	1	2
-AGA	4	6	6	0	3	2	0	3	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	14	8	0	4	5	1	1	10
-GTC	0	5	1	0	2	1	1	3	3
-GTA	4	14	5	0	5	3	2	0	8
-GTG	0	1	0	1	0	0	0	0	0
-GCT	4	18	2	1	9	10	1	3	10
-GCC	3	8	3	0	1	4	1	1	5
-GCA	6	10	3	1	1	7	5	0	9
-GCG	1	1	1	0	0	0	0	0	0
-GAT	1	13	9	1	1	3	2	2	4
-GAC	1	2	1	0	2	0	1	0	5
-GAA	4	9	7	2	3	6	5	2	3
-GAG	1	1	1	0	1	1	0	0	1
-GGT	7	23	3	0	3	7	1	1	4
-GGC	1	0	0	0	1	4	0	1	2
-GGA	4	18	2	0	4	6	2	1	12
-GGG	2	5	2	0	2	1	0	0	6
-TAA	1	0	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009349909.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	22	10	32	3	12	5	14	3	7	3	3	0	9	1	16	7	13	1	10	2	2	0	2	2	5	1	0	0	3	0	21	8	19	1	9	7	8	1	15	5	10	1	1	0	4	0	3	0	4	0	4	3	6	1	1	1	4	1	7	1	4	2	1	0
+1	COX1	YP_009349910.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	21	15	25	2	9	7	7	3	13	5	0	0	14	1	26	5	11	0	20	3	4	1	11	4	9	1	3	0	5	0	35	11	26	1	19	5	10	0	14	6	5	1	4	1	6	0	14	5	14	1	18	8	10	1	13	2	9	1	23	0	18	5	0	0
+2	COX2	YP_009349911.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	7	6	10	1	2	2	4	1	6	2	2	0	6	0	9	3	7	1	7	2	3	0	5	1	8	0	3	2	2	0	16	3	10	2	7	6	8	0	14	2	4	0	2	0	6	0	8	1	5	0	2	3	3	1	9	1	7	1	3	0	2	2	0	0
+3	ATP8	YP_009349912.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	4	0	6	0	0	0	1	0	3	1	0	2	4	0	5	1	0	0	4	1	1	0	1	0	1	0	0	0	0	0	2	3	2	0	0	0	1	0	2	0	1	0	1	0	0	0	0	0	0	1	1	0	1	0	1	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009349913.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	13	2	12	0	3	4	6	0	4	1	2	0	5	0	13	5	10	1	7	4	2	0	4	1	4	0	2	0	0	1	16	7	11	3	12	6	5	0	6	1	4	0	3	2	3	0	4	2	5	0	9	1	1	0	1	2	3	1	3	1	4	2	1	0
+5	COX3	YP_009349914.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	16	8	12	1	5	4	5	0	7	3	0	1	13	0	10	5	6	0	6	3	3	0	7	8	8	0	1	1	2	0	19	6	5	1	10	3	9	0	8	0	1	0	1	4	2	0	5	1	3	0	10	4	7	0	3	0	6	1	7	4	6	1	1	0
+6	ND3	YP_009349915.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	5	5	8	0	3	2	4	0	1	0	1	0	4	1	5	2	2	1	2	1	0	1	1	0	1	0	1	2	0	0	10	10	5	0	1	2	1	0	5	1	5	0	2	0	0	0	1	1	2	0	1	1	5	0	2	1	5	0	1	0	2	0	1	0
+7	ND6	YP_009349919.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	11	4	12	2	4	4	5	0	4	5	1	0	2	0	7	8	9	0	5	1	1	0	3	0	3	0	0	1	0	0	11	8	11	0	8	3	9	0	7	1	3	0	0	1	3	0	1	3	0	0	3	1	0	0	2	0	2	0	1	1	1	0	1	0
+8	CYTB	YP_009349920.1	Holochlora fruhstorferi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Phaneropterinae, Holochlorini, Holochlora	19	12	22	1	4	3	6	0	15	4	3	0	10	2	14	9	10	0	10	5	6	1	10	3	7	1	2	2	5	0	27	9	15	3	6	8	9	0	18	4	7	0	0	2	2	0	10	3	8	0	10	5	9	0	4	5	3	1	4	2	12	6	0	1

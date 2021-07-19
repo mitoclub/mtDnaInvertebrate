@@ -1,65 +1,10 @@
-	YP_009122988.1|COX1	YP_009122989.1|COX2	YP_009122990.1|COX3	YP_009122991.1|ND6	YP_009122992.1|ND2	YP_009122996.1|ATP8	YP_009122997.1|ATP6	YP_009122998.1|CYTB	YP_009122999.1|ND3
-TTT	18	3	15	6	8	0	7	26	5
-TTC	19	6	7	2	8	1	3	7	4
-TTA	20	7	11	8	19	3	15	15	7
-TTG	2	2	2	2	2	0	0	1	1
-TCT	6	3	8	1	6	1	5	5	2
-TCC	7	2	3	2	5	2	2	5	0
-TCA	17	10	12	3	10	1	2	8	4
-TCG	2	0	0	1	1	0	0	2	2
-TAT	8	3	0	2	1	0	0	8	2
-TAC	7	5	9	1	6	0	4	4	0
-TGT	0	1	0	0	0	0	0	1	1
-TGC	0	2	0	0	0	0	1	2	0
-TGA	15	5	11	1	5	4	3	10	1
-TGG	0	1	1	1	1	0	1	0	1
-CTT	5	2	3	2	2	0	5	12	2
-CTC	5	3	1	0	4	1	0	4	1
-CTA	29	13	11	8	16	3	18	17	13
-CTG	1	0	3	2	0	0	2	2	1
-CCT	4	1	1	2	0	2	3	4	1
-CCC	9	3	5	4	10	1	6	7	3
-CCA	12	8	6	0	6	2	6	13	3
-CCG	2	0	1	0	0	0	0	1	0
-CAT	6	2	8	1	1	1	1	3	0
-CAC	14	3	8	2	2	1	3	8	1
-CAA	7	8	7	5	9	2	6	9	0
-CAG	1	1	1	2	1	0	0	0	0
-CGT	0	0	0	0	0	0	0	0	0
-CGC	1	0	1	0	0	0	0	0	0
-CGA	9	6	2	0	2	0	1	8	3
-CGG	0	1	1	0	0	0	1	0	0
-ATT	27	12	12	14	17	1	13	22	8
-ATC	17	8	8	7	11	2	9	16	6
-ATA	34	13	10	12	39	7	12	16	5
-ATG	2	3	1	4	6	0	3	1	0
-ACT	4	3	3	1	2	1	3	2	2
-ACC	10	7	2	5	11	1	3	10	2
-ACA	21	12	20	14	24	4	13	15	4
-ACG	1	0	1	1	3	0	0	0	0
-AAT	7	2	4	2	5	0	3	8	1
-AAC	11	6	5	5	7	1	8	11	0
-AAA	7	4	5	5	16	4	7	8	6
-AAG	2	1	0	2	0	0	1	0	0
-AGT	0	0	2	1	0	0	2	2	0
-AGC	3	0	0	1	2	0	1	1	0
-AGA	7	4	6	1	7	1	7	4	1
-AGG	0	0	0	0	1	0	0	0	0
-GTT	6	1	5	2	3	1	3	4	0
-GTC	2	1	1	0	1	0	1	2	1
-GTA	24	5	10	1	6	1	6	8	2
-GTG	3	6	1	0	0	0	2	5	0
-GCT	6	2	2	3	3	0	1	2	0
-GCC	9	2	4	2	8	2	6	10	2
-GCA	22	7	11	8	3	0	8	11	5
-GCG	1	0	1	0	1	0	0	0	1
-GAT	4	4	1	0	0	0	1	1	1
-GAC	11	5	3	2	1	0	0	6	2
-GAA	4	9	7	0	6	1	4	5	5
-GAG	4	2	2	0	0	1	1	0	1
-GGT	3	1	1	0	1	0	0	0	0
-GGC	5	3	4	1	0	0	3	7	1
-GGA	23	2	8	1	7	0	2	8	1
-GGG	12	1	2	1	4	0	3	10	1
-TAA	1	0	1	0	1	1	1	1	1
-TAG	0	1	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009122988.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	18	19	20	2	6	7	17	2	8	7	0	0	15	0	5	5	29	1	4	9	12	2	6	14	7	1	0	1	9	0	27	17	34	2	4	10	21	1	7	11	7	2	0	3	7	0	6	2	24	3	6	9	22	1	4	11	4	4	3	5	23	12	1	0
+1	COX2	YP_009122989.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	3	6	7	2	3	2	10	0	3	5	1	2	5	1	2	3	13	0	1	3	8	0	2	3	8	1	0	0	6	1	12	8	13	3	3	7	12	0	2	6	4	1	0	0	4	0	1	1	5	6	2	2	7	0	4	5	9	2	1	3	2	1	0	1
+2	COX3	YP_009122990.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	15	7	11	2	8	3	12	0	0	9	0	0	11	1	3	1	11	3	1	5	6	1	8	8	7	1	0	1	2	1	12	8	10	1	3	2	20	1	4	5	5	0	2	0	6	0	5	1	10	1	2	4	11	1	1	3	7	2	1	4	8	2	1	0
+3	ND6	YP_009122991.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	6	2	8	2	1	2	3	1	2	1	0	0	1	1	2	0	8	2	2	4	0	0	1	2	5	2	0	0	0	0	14	7	12	4	1	5	14	1	2	5	5	2	1	1	1	0	2	0	1	0	3	2	8	0	0	2	0	0	0	1	1	1	0	1
+4	ND2	YP_009122992.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	8	8	19	2	6	5	10	1	1	6	0	0	5	1	2	4	16	0	0	10	6	0	1	2	9	1	0	0	2	0	17	11	39	6	2	11	24	3	5	7	16	0	0	2	7	1	3	1	6	0	3	8	3	1	0	1	6	0	1	0	7	4	1	0
+5	ATP8	YP_009122996.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	0	1	3	0	1	2	1	0	0	0	0	0	4	0	0	1	3	0	2	1	2	0	1	1	2	0	0	0	0	0	1	2	7	0	1	1	4	0	0	1	4	0	0	0	1	0	1	0	1	0	0	2	0	0	0	0	1	1	0	0	0	0	1	0
+6	ATP6	YP_009122997.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	7	3	15	0	5	2	2	0	0	4	0	1	3	1	5	0	18	2	3	6	6	0	1	3	6	0	0	0	1	1	13	9	12	3	3	3	13	0	3	8	7	1	2	1	7	0	3	1	6	2	1	6	8	0	1	0	4	1	0	3	2	3	1	0
+7	CYTB	YP_009122998.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	26	7	15	1	5	5	8	2	8	4	1	2	10	0	12	4	17	2	4	7	13	1	3	8	9	0	0	0	8	0	22	16	16	1	2	10	15	0	8	11	8	0	2	1	4	0	4	2	8	5	2	10	11	0	1	6	5	0	0	7	8	10	1	0
+8	ND3	YP_009122999.1	Strigamia maritima	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Chilopoda, Pleurostigmophora, Geophilomorpha, Linotaeniidae, Strigamia	5	4	7	1	2	0	4	2	2	0	1	0	1	1	2	1	13	1	1	3	3	0	0	1	0	0	0	0	3	0	8	6	5	0	2	2	4	0	1	0	6	0	0	0	1	0	0	1	2	0	0	2	5	1	1	2	5	1	0	1	1	1	1	0

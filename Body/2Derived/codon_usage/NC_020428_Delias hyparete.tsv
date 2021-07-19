@@ -1,65 +1,10 @@
-	YP_007507012.1|ND2	YP_007507013.1|COX1	YP_007507014.1|COX2	YP_007507015.1|ATP8	YP_007507016.1|ATP6	YP_007507017.1|COX3	YP_007507018.1|ND3	YP_007507022.1|ND6	YP_007507023.1|CYTB
-TTT	42	28	14	11	23	25	13	24	26
-TTC	6	9	2	0	1	6	2	2	8
-TTA	50	39	19	7	30	22	11	22	36
-TTG	0	0	0	0	0	0	0	2	1
-TCT	17	16	5	0	7	6	5	8	10
-TCC	4	3	1	0	1	2	1	0	2
-TCA	9	14	5	1	7	7	4	3	3
-TCG	1	1	0	0	0	0	0	0	0
-TAT	8	16	7	1	4	10	1	10	20
-TAC	2	6	0	0	0	1	1	2	2
-TGT	3	0	2	1	0	2	2	2	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	8	14	6	3	5	13	3	1	11
-TGG	1	0	0	0	0	0	0	0	1
-CTT	4	17	7	0	3	2	3	2	8
-CTC	0	2	2	0	2	0	0	0	0
-CTA	3	3	2	1	1	4	3	1	4
-CTG	0	1	0	0	0	0	0	0	0
-CCT	4	16	7	1	4	6	3	2	15
-CCC	2	3	0	0	0	1	0	0	1
-CCA	3	8	3	1	4	3	3	0	6
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	13	5	0	5	12	2	2	7
-CAC	1	2	0	0	1	2	0	0	1
-CAA	4	9	7	1	3	5	1	2	8
-CAG	0	0	0	0	0	1	0	0	0
-CGT	0	1	3	0	2	2	1	0	0
-CGC	0	0	0	0	0	1	0	0	0
-CGA	2	8	4	0	1	1	1	1	6
-CGG	0	0	0	0	0	0	0	0	1
-ATT	45	53	28	7	28	18	17	23	48
-ATC	5	3	2	0	5	7	1	2	8
-ATA	23	33	11	3	10	10	6	12	13
-ATG	0	1	1	0	2	1	0	0	1
-ACT	4	15	8	0	9	10	2	4	11
-ACC	0	2	0	0	0	0	0	0	3
-ACA	5	14	2	0	8	11	2	3	10
-ACG	0	0	0	0	0	0	0	0	0
-AAT	27	18	22	8	19	13	4	12	21
-AAC	8	6	4	1	2	2	1	3	5
-AAA	14	6	4	6	5	3	7	10	10
-AAG	0	0	0	0	0	0	0	0	0
-AGT	1	3	4	0	2	3	0	0	1
-AGC	0	1	0	0	1	0	1	0	0
-AGA	6	7	0	0	7	4	1	0	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	13	4	0	2	3	0	1	8
-GTC	0	0	0	0	1	1	0	0	0
-GTA	0	8	3	0	1	7	5	4	9
-GTG	0	2	0	0	0	0	0	0	1
-GCT	3	15	4	0	5	5	1	1	7
-GCC	1	5	0	0	0	2	0	2	1
-GCA	2	7	3	0	0	2	0	0	9
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	8	7	0	2	3	2	2	4
-GAC	0	7	1	0	0	1	1	0	3
-GAA	5	9	9	0	4	6	3	4	4
-GAG	0	0	1	0	0	0	1	0	0
-GGT	3	6	4	0	1	5	1	2	2
-GGC	1	0	0	0	0	0	0	0	0
-GGA	7	32	3	0	7	10	1	2	18
-GGG	0	7	0	0	0	2	0	1	2
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007507012.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	42	6	50	0	17	4	9	1	8	2	3	0	8	1	4	0	3	0	4	2	3	0	0	1	4	0	0	0	2	0	45	5	23	0	4	0	5	0	27	8	14	0	1	0	6	0	3	0	0	0	3	1	2	0	0	0	5	0	3	1	7	0	1	0
+1	COX1	YP_007507013.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	28	9	39	0	16	3	14	1	16	6	0	0	14	0	17	2	3	1	16	3	8	0	13	2	9	0	1	0	8	0	53	3	33	1	15	2	14	0	18	6	6	0	3	1	7	0	13	0	8	2	15	5	7	0	8	7	9	0	6	0	32	7	0	0
+2	COX2	YP_007507014.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	14	2	19	0	5	1	5	0	7	0	2	0	6	0	7	2	2	0	7	0	3	0	5	0	7	0	3	0	4	0	28	2	11	1	8	0	2	0	22	4	4	0	4	0	0	0	4	0	3	0	4	0	3	0	7	1	9	1	4	0	3	0	0	0
+3	ATP8	YP_007507015.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	11	0	7	0	0	0	1	0	1	0	1	0	3	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	7	0	3	0	0	0	0	0	8	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_007507016.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	23	1	30	0	7	1	7	0	4	0	0	0	5	0	3	2	1	0	4	0	4	0	5	1	3	0	2	0	1	0	28	5	10	2	9	0	8	0	19	2	5	0	2	1	7	0	2	1	1	0	5	0	0	0	2	0	4	0	1	0	7	0	1	0
+5	COX3	YP_007507017.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	25	6	22	0	6	2	7	0	10	1	2	0	13	0	2	0	4	0	6	1	3	0	12	2	5	1	2	1	1	0	18	7	10	1	10	0	11	0	13	2	3	0	3	0	4	0	3	1	7	0	5	2	2	0	3	1	6	0	5	0	10	2	1	0
+6	ND3	YP_007507018.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	13	2	11	0	5	1	4	0	1	1	2	0	3	0	3	0	3	0	3	0	3	0	2	0	1	0	1	0	1	0	17	1	6	0	2	0	2	0	4	1	7	0	0	1	1	0	0	0	5	0	1	0	0	0	2	1	3	1	1	0	1	0	0	1
+7	ND6	YP_007507022.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	24	2	22	2	8	0	3	0	10	2	2	0	1	0	2	0	1	0	2	0	0	0	2	0	2	0	0	0	1	0	23	2	12	0	4	0	3	0	12	3	10	0	0	0	0	0	1	0	4	0	1	2	0	0	2	0	4	0	2	0	2	1	1	0
+8	CYTB	YP_007507023.1	Delias hyparete	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Delias	26	8	36	1	10	2	3	0	20	2	3	0	11	1	8	0	4	0	15	1	6	0	7	1	8	0	0	0	6	1	48	8	13	1	11	3	10	0	21	5	10	0	1	0	3	0	8	0	9	1	7	1	9	0	4	3	4	0	2	0	18	2	1	0

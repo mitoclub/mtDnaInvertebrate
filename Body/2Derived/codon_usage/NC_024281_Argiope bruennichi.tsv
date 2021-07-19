@@ -1,65 +1,10 @@
-	YP_009040714.1|COX3	YP_009040715.1|ND3	YP_009040719.1|ND6	YP_009040720.1|CYTB	YP_009040722.1|ND2	YP_009040723.1|COX1	YP_009040724.1|COX2	YP_009040725.1|ATP8	YP_009040726.1|ATP6
-TTT	35	14	6	42	24	45	14	3	21
-TTC	2	2	2	2	1	2	1	0	2
-TTA	23	16	11	35	35	47	18	1	24
-TTG	4	3	4	7	7	7	4	2	5
-TCT	9	6	2	11	7	19	8	0	8
-TCC	1	0	0	0	2	0	0	0	1
-TCA	4	2	0	7	3	9	6	1	5
-TCG	0	1	0	0	0	1	1	0	0
-TAT	7	8	8	18	15	18	10	0	9
-TAC	0	0	1	2	1	1	1	1	0
-TGT	1	1	0	3	5	2	3	1	1
-TGC	0	0	0	0	0	0	0	0	0
-TGA	12	1	2	11	10	11	6	3	2
-TGG	2	0	2	1	4	3	0	0	1
-CTT	0	1	3	3	5	5	2	0	3
-CTC	0	0	0	0	0	0	0	0	0
-CTA	1	0	3	2	0	0	1	0	0
-CTG	0	0	0	0	1	1	0	0	0
-CCT	3	0	1	15	3	17	8	2	5
-CCC	2	1	0	0	0	3	0	0	1
-CCA	2	1	1	1	3	4	1	0	2
-CCG	1	0	0	0	0	0	0	0	0
-CAT	11	0	0	9	2	14	4	0	5
-CAC	0	0	0	0	0	1	1	0	0
-CAA	4	0	1	5	2	5	5	1	2
-CAG	1	0	1	2	3	2	3	0	2
-CGT	2	0	0	2	1	0	2	1	1
-CGC	0	0	0	1	0	0	0	0	0
-CGA	0	2	1	3	0	7	1	0	2
-CGG	1	0	0	2	2	2	3	0	0
-ATT	12	10	13	30	27	38	18	7	23
-ATC	0	0	2	1	0	1	0	0	0
-ATA	16	5	16	19	29	27	14	3	10
-ATG	1	1	2	5	5	8	1	1	3
-ACT	4	2	3	10	2	14	3	0	7
-ACC	0	0	0	1	0	1	0	0	0
-ACA	6	1	0	4	3	9	3	1	0
-ACG	0	0	0	0	0	1	0	0	0
-AAT	6	2	3	14	9	17	10	2	4
-AAC	0	0	0	2	2	2	1	0	2
-AAA	2	2	1	2	7	1	1	2	1
-AAG	4	0	1	6	4	9	2	2	4
-AGT	1	0	1	2	1	1	1	1	1
-AGC	1	0	0	0	0	0	0	0	0
-AGA	9	2	14	8	23	7	8	3	14
-AGG	1	1	3	0	2	1	1	2	0
-GTT	9	3	6	11	9	16	6	2	5
-GTC	0	0	0	1	0	1	0	0	2
-GTA	14	9	11	16	10	23	13	3	9
-GTG	3	1	2	4	4	4	1	1	1
-GCT	5	2	2	8	4	20	4	0	10
-GCC	0	0	0	1	0	0	0	0	0
-GCA	5	0	0	4	2	10	1	1	1
-GCG	2	0	1	1	1	0	0	0	0
-GAT	4	3	1	8	6	14	7	2	2
-GAC	0	0	0	1	0	1	0	0	0
-GAA	6	3	3	6	5	6	8	2	3
-GAG	2	1	1	1	1	3	3	0	2
-GGT	2	0	0	4	4	10	3	0	4
-GGC	2	0	0	0	0	1	0	0	0
-GGA	12	1	3	16	16	23	7	0	8
-GGG	4	2	4	7	4	16	2	1	2
-TAA	1	0	1	0	0	1	1	1	1
-TAG	0	0	0	1	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009040714.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	35	2	23	4	9	1	4	0	7	0	1	0	12	2	0	0	1	0	3	2	2	1	11	0	4	1	2	0	0	1	12	0	16	1	4	0	6	0	6	0	2	4	1	1	9	1	9	0	14	3	5	0	5	2	4	0	6	2	2	2	12	4	1	0
+1	ND3	YP_009040715.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	14	2	16	3	6	0	2	1	8	0	1	0	1	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	2	0	10	0	5	1	2	0	1	0	2	0	2	0	0	0	2	1	3	0	9	1	2	0	0	0	3	0	3	1	0	0	1	2	0	0
+2	ND6	YP_009040719.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	6	2	11	4	2	0	0	0	8	1	0	0	2	2	3	0	3	0	1	0	1	0	0	0	1	1	0	0	1	0	13	2	16	2	3	0	0	0	3	0	1	1	1	0	14	3	6	0	11	2	2	0	0	1	1	0	3	1	0	0	3	4	1	0
+3	CYTB	YP_009040720.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	42	2	35	7	11	0	7	0	18	2	3	0	11	1	3	0	2	0	15	0	1	0	9	0	5	2	2	1	3	2	30	1	19	5	10	1	4	0	14	2	2	6	2	0	8	0	11	1	16	4	8	1	4	1	8	1	6	1	4	0	16	7	0	1
+4	ND2	YP_009040722.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	24	1	35	7	7	2	3	0	15	1	5	0	10	4	5	0	0	1	3	0	3	0	2	0	2	3	1	0	0	2	27	0	29	5	2	0	3	0	9	2	7	4	1	0	23	2	9	0	10	4	4	0	2	1	6	0	5	1	4	0	16	4	0	1
+5	COX1	YP_009040723.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	45	2	47	7	19	0	9	1	18	1	2	0	11	3	5	0	0	1	17	3	4	0	14	1	5	2	0	0	7	2	38	1	27	8	14	1	9	1	17	2	1	9	1	0	7	1	16	1	23	4	20	0	10	0	14	1	6	3	10	1	23	16	1	0
+6	COX2	YP_009040724.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	14	1	18	4	8	0	6	1	10	1	3	0	6	0	2	0	1	0	8	0	1	0	4	1	5	3	2	0	1	3	18	0	14	1	3	0	3	0	10	1	1	2	1	0	8	1	6	0	13	1	4	0	1	0	7	0	8	3	3	0	7	2	1	0
+7	ATP8	YP_009040725.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	3	0	1	2	0	0	1	0	0	1	1	0	3	0	0	0	0	0	2	0	0	0	0	0	1	0	1	0	0	0	7	0	3	1	0	0	1	0	2	0	2	2	1	0	3	2	2	0	3	1	0	0	1	0	2	0	2	0	0	0	0	1	1	0
+8	ATP6	YP_009040726.1	Argiope bruennichi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Argiope	21	2	24	5	8	1	5	0	9	0	1	0	2	1	3	0	0	0	5	1	2	0	5	0	2	2	1	0	2	0	23	0	10	3	7	0	0	0	4	2	1	4	1	0	14	0	5	2	9	1	10	0	1	0	2	0	3	2	4	0	8	2	1	0

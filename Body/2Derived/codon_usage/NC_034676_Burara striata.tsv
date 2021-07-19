@@ -1,65 +1,10 @@
-	YP_009364901.1|ND2	YP_009364902.1|COX1	YP_009364903.1|COX2	YP_009364904.1|ATP8	YP_009364905.1|ATP6	YP_009364906.1|COX3	YP_009364907.1|ND3	YP_009364911.1|ND6	YP_009364912.1|CYTB
-TTT	42	32	12	6	19	22	14	23	30
-TTC	10	6	4	0	2	4	1	1	6
-TTA	38	51	16	3	29	19	10	23	42
-TTG	1	0	1	0	0	0	0	1	0
-TCT	13	16	6	0	10	4	3	4	8
-TCC	5	7	1	0	0	2	2	1	2
-TCA	10	13	5	1	7	5	5	5	5
-TCG	0	0	0	0	0	0	0	0	0
-TAT	12	17	5	3	8	11	1	9	15
-TAC	1	2	3	0	0	1	0	1	4
-TGT	3	0	2	0	0	2	2	1	3
-TGC	0	1	0	0	0	0	0	0	0
-TGA	8	14	6	3	4	13	3	2	11
-TGG	0	0	0	0	1	0	0	0	1
-CTT	6	8	6	0	6	4	3	4	3
-CTC	0	0	3	0	0	1	0	0	2
-CTA	7	5	3	0	4	0	1	4	7
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	10	3	2	4	5	1	1	13
-CCC	4	8	3	1	4	3	0	1	1
-CCA	0	7	3	0	3	2	3	0	7
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	13	2	1	3	12	2	2	3
-CAC	0	3	3	1	3	3	0	0	5
-CAA	4	10	8	1	4	6	1	2	9
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	2	3	0	1	2	0	0	0
-CGC	0	0	0	0	1	2	0	0	0
-CGA	1	7	4	0	1	0	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	58	48	27	10	28	30	17	20	55
-ATC	3	9	3	1	3	2	2	2	1
-ATA	19	30	8	6	9	8	7	17	16
-ATG	1	1	1	0	1	2	0	1	1
-ACT	8	20	4	0	10	6	5	2	10
-ACC	1	1	2	1	0	2	0	1	7
-ACA	2	8	5	0	4	12	2	4	6
-ACG	0	0	0	0	0	0	0	0	0
-AAT	24	21	20	8	18	9	8	20	21
-AAC	5	3	3	1	2	5	0	1	5
-AAA	16	6	6	5	1	4	6	4	11
-AAG	0	0	0	0	1	1	0	0	0
-AGT	2	7	5	0	5	2	0	1	1
-AGC	0	0	0	0	0	0	0	0	0
-AGA	4	3	0	0	4	4	1	2	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	11	4	0	3	5	1	2	9
-GTC	0	2	1	0	0	0	0	0	0
-GTA	1	8	3	0	3	7	2	3	3
-GTG	0	1	0	0	0	0	0	0	0
-GCT	1	15	3	0	4	4	0	1	13
-GCC	2	3	0	0	0	2	2	1	0
-GCA	2	11	4	0	1	5	1	0	3
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	13	9	0	1	4	2	0	7
-GAC	0	2	1	0	0	0	1	0	0
-GAA	5	9	8	0	4	7	4	3	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	1	4	1	0	3	5	0	2	5
-GGC	0	2	1	0	0	1	0	0	1
-GGA	10	37	5	0	6	11	2	3	15
-GGG	1	2	1	0	0	0	0	0	1
-TAA	0	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009364901.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	42	10	38	1	13	5	10	0	12	1	3	0	8	0	6	0	7	0	3	4	0	0	1	0	4	0	1	0	1	0	58	3	19	1	8	1	2	0	24	5	16	0	2	0	4	0	0	0	1	0	1	2	2	0	1	0	5	0	1	0	10	1	0	0
+1	COX1	YP_009364902.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	32	6	51	0	16	7	13	0	17	2	0	1	14	0	8	0	5	0	10	8	7	1	13	3	10	0	2	0	7	0	48	9	30	1	20	1	8	0	21	3	6	0	7	0	3	0	11	2	8	1	15	3	11	0	13	2	9	0	4	2	37	2	0	0
+2	COX2	YP_009364903.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	12	4	16	1	6	1	5	0	5	3	2	0	6	0	6	3	3	0	3	3	3	0	2	3	8	0	3	0	4	0	27	3	8	1	4	2	5	0	20	3	6	0	5	0	0	0	4	1	3	0	3	0	4	0	9	1	8	0	1	1	5	1	0	0
+3	ATP8	YP_009364904.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	6	0	3	0	0	0	1	0	3	0	0	0	3	0	0	0	0	0	2	1	0	0	1	1	1	0	0	0	0	0	10	1	6	0	0	1	0	0	8	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009364905.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	19	2	29	0	10	0	7	0	8	0	0	0	4	1	6	0	4	0	4	4	3	0	3	3	4	0	1	1	1	0	28	3	9	1	10	0	4	0	18	2	1	1	5	0	4	0	3	0	3	0	4	0	1	0	1	0	4	0	3	0	6	0	1	0
+5	COX3	YP_009364906.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	22	4	19	0	4	2	5	0	11	1	2	0	13	0	4	1	0	0	5	3	2	0	12	3	6	0	2	2	0	0	30	2	8	2	6	2	12	0	9	5	4	1	2	0	4	0	5	0	7	0	4	2	5	0	4	0	7	0	5	1	11	0	1	0
+6	ND3	YP_009364907.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	14	1	10	0	3	2	5	0	1	0	2	0	3	0	3	0	1	0	1	0	3	0	2	0	1	0	0	0	2	0	17	2	7	0	5	0	2	0	8	0	6	0	0	0	1	0	1	0	2	0	0	2	1	0	2	1	4	0	0	0	2	0	1	0
+7	ND6	YP_009364911.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	23	1	23	1	4	1	5	0	9	1	1	0	2	0	4	0	4	0	1	1	0	0	2	0	2	0	0	0	1	0	20	2	17	1	2	1	4	0	20	1	4	0	1	0	2	0	2	0	3	0	1	1	0	0	0	0	3	0	2	0	3	0	1	0
+8	CYTB	YP_009364912.1	Burara striata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Hesperioidea, Hesperiidae, Coeliadinae, Burara	30	6	42	0	8	2	5	0	15	4	3	0	11	1	3	2	7	0	13	1	7	0	3	5	9	0	0	0	7	0	55	1	16	1	10	7	6	0	21	5	11	0	1	0	2	0	9	0	3	0	13	0	3	0	7	0	4	0	5	1	15	1	1	0

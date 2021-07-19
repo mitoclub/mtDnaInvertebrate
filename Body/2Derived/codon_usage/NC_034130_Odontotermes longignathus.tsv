@@ -1,65 +1,10 @@
-	YP_009351547.1|ND2	YP_009351548.1|COX1	YP_009351549.1|COX2	YP_009351550.1|ATP8	YP_009351551.1|ATP6	YP_009351552.1|COX3	YP_009351553.1|ND3	YP_009351557.1|ND6	YP_009351558.1|CYTB
-TTT	2	7	3	0	2	5	1	2	4
-TTC	13	35	7	4	10	18	7	4	22
-TTA	10	4	2	1	5	3	1	1	3
-TTG	5	0	1	0	0	0	0	0	0
-TCT	3	1	0	0	1	0	0	0	0
-TCC	9	6	1	1	1	2	1	1	1
-TCA	14	20	7	1	5	9	8	7	9
-TCG	1	0	1	0	1	0	0	0	1
-TAT	2	6	0	0	0	4	0	1	5
-TAC	10	9	7	2	3	5	1	6	12
-TGT	2	0	1	0	0	0	0	0	0
-TGC	1	2	1	0	0	1	1	1	4
-TGA	8	14	6	3	4	13	3	1	12
-TGG	1	1	0	0	0	0	0	0	0
-CTT	2	6	1	0	2	0	1	0	1
-CTC	3	6	4	0	1	3	0	1	2
-CTA	24	35	13	2	28	20	12	12	38
-CTG	7	5	2	0	2	1	0	1	1
-CCT	2	3	1	1	2	1	1	0	0
-CCC	2	4	0	1	2	2	3	0	2
-CCA	6	18	8	2	7	6	1	4	19
-CCG	3	2	1	0	0	1	0	1	1
-CAT	0	3	3	0	0	1	0	1	2
-CAC	2	14	3	0	6	13	1	2	10
-CAA	5	7	10	2	2	7	1	3	8
-CAG	0	1	1	0	2	2	0	0	0
-CGT	0	0	0	0	0	1	0	0	0
-CGC	0	0	0	0	0	0	0	0	1
-CGA	1	9	5	0	2	2	3	1	7
-CGG	0	1	2	0	1	1	0	0	0
-ATT	10	9	10	1	5	7	2	5	6
-ATC	22	30	12	2	20	13	10	7	23
-ATA	20	26	15	7	14	11	13	31	24
-ATG	5	7	1	0	4	1	2	0	2
-ACT	2	5	0	1	0	1	0	0	0
-ACC	10	9	9	3	5	9	1	4	7
-ACA	17	26	12	3	18	17	6	13	23
-ACG	5	0	0	0	2	1	1	1	1
-AAT	5	5	3	0	8	2	1	2	3
-AAC	14	12	7	5	10	6	3	6	19
-AAA	12	7	5	3	5	4	5	5	8
-AAG	3	3	1	2	0	0	0	1	4
-AGT	1	1	1	0	0	0	0	0	0
-AGC	1	4	3	0	2	1	0	0	1
-AGA	8	8	7	0	12	5	4	6	4
-AGG	1	0	0	0	0	0	0	0	0
-GTT	1	4	2	0	1	1	1	0	1
-GTC	1	3	2	0	1	3	1	1	2
-GTA	16	28	7	1	5	9	2	7	20
-GTG	1	1	0	0	0	0	0	0	0
-GCT	1	0	0	0	0	0	0	0	1
-GCC	9	15	2	0	2	2	3	2	5
-GCA	13	22	10	2	7	16	3	6	17
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	0	4	0	0	1	0	0	1
-GAC	1	14	5	1	1	3	3	0	8
-GAA	9	9	9	1	5	8	6	4	5
-GAG	1	1	1	0	1	0	1	1	0
-GGT	1	5	0	0	0	2	0	0	0
-GGC	1	1	1	0	1	1	1	0	1
-GGA	14	38	5	0	7	17	2	6	21
-GGG	0	2	1	0	1	0	0	0	1
-TAA	1	1	0	1	1	0	1	1	1
-TAG	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009351547.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	2	13	10	5	3	9	14	1	2	10	2	1	8	1	2	3	24	7	2	2	6	3	0	2	5	0	0	0	1	0	10	22	20	5	2	10	17	5	5	14	12	3	1	1	8	1	1	1	16	1	1	9	13	0	0	1	9	1	1	1	14	0	1	0
+1	COX1	YP_009351548.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	7	35	4	0	1	6	20	0	6	9	0	2	14	1	6	6	35	5	3	4	18	2	3	14	7	1	0	0	9	1	9	30	26	7	5	9	26	0	5	12	7	3	1	4	8	0	4	3	28	1	0	15	22	1	0	14	9	1	5	1	38	2	1	0
+2	COX2	YP_009351549.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	3	7	2	1	0	1	7	1	0	7	1	1	6	0	1	4	13	2	1	0	8	1	3	3	10	1	0	0	5	2	10	12	15	1	0	9	12	0	3	7	5	1	1	3	7	0	2	2	7	0	0	2	10	0	4	5	9	1	0	1	5	1	0	0
+3	ATP8	YP_009351550.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	0	4	1	0	0	1	1	0	0	2	0	0	3	0	0	0	2	0	1	1	2	0	0	0	2	0	0	0	0	0	1	2	7	0	1	3	3	0	0	5	3	2	0	0	0	0	0	0	1	0	0	0	2	0	0	1	1	0	0	0	0	0	1	0
+4	ATP6	YP_009351551.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	2	10	5	0	1	1	5	1	0	3	0	0	4	0	2	1	28	2	2	2	7	0	0	6	2	2	0	0	2	1	5	20	14	4	0	5	18	2	8	10	5	0	0	2	12	0	1	1	5	0	0	2	7	0	0	1	5	1	0	1	7	1	1	0
+5	COX3	YP_009351552.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	5	18	3	0	0	2	9	0	4	5	0	1	13	0	0	3	20	1	1	2	6	1	1	13	7	2	1	0	2	1	7	13	11	1	1	9	17	1	2	6	4	0	0	1	5	0	1	3	9	0	0	2	16	0	1	3	8	0	2	1	17	0	0	1
+6	ND3	YP_009351553.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	1	7	1	0	0	1	8	0	0	1	0	1	3	0	1	0	12	0	1	3	1	0	0	1	1	0	0	0	3	0	2	10	13	2	0	1	6	1	1	3	5	0	0	0	4	0	1	1	2	0	0	3	3	0	0	3	6	1	0	1	2	0	1	0
+7	ND6	YP_009351557.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	2	4	1	0	0	1	7	0	1	6	0	1	1	0	0	1	12	1	0	0	4	1	1	2	3	0	0	0	1	0	5	7	31	0	0	4	13	1	2	6	5	1	0	0	6	0	0	1	7	0	0	2	6	0	0	0	4	1	0	0	6	0	1	0
+8	CYTB	YP_009351558.1	Odontotermes longignathus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Macrotermitinae, Odontotermes	4	22	3	0	0	1	9	1	5	12	0	4	12	0	1	2	38	1	0	2	19	1	2	10	8	0	0	1	7	0	6	23	24	2	0	7	23	1	3	19	8	4	0	1	4	0	1	2	20	0	1	5	17	0	1	8	5	0	0	1	21	1	1	0

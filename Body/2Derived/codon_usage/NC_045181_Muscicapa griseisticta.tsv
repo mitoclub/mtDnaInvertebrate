@@ -1,65 +1,13 @@
-	YP_009710078.1|COX1	YP_009710079.1|COX2	YP_009710080.1|ATP8	YP_009710081.1|ATP6	YP_009710082.1|COX3	YP_009710083.1|ND3	YP_009710084.1|ND4L	YP_009710085.1|ND4	YP_009710086.1|ND5	YP_009710087.1|CYTB	YP_009710089.1|ND1	YP_009710090.1|ND2
-TTT	9	2	2	1	3	0	0	0	5	4	7	5
-TTC	34	9	2	10	21	8	5	12	32	25	10	10
-TTA	3	4	0	7	1	1	2	10	9	8	9	7
-TTG	0	0	0	0	0	0	0	0	0	0	1	0
-TCT	2	2	0	1	6	1	2	5	3	1	2	4
-TCC	11	6	2	6	2	4	3	12	22	11	9	9
-TCA	11	9	0	3	5	1	1	14	14	9	7	6
-TCG	0	1	0	1	0	0	1	0	1	0	0	1
-TAT	2	1	0	0	2	0	0	2	1	2	3	1
-TAC	15	6	0	3	9	2	2	11	12	10	13	6
-TGT	0	1	0	0	0	0	0	0	2	0	0	0
-TGC	1	2	0	0	1	1	4	4	5	4	3	3
-TGA	17	4	5	4	12	5	1	12	12	10	6	8
-TGG	0	1	0	0	0	0	0	0	0	1	2	2
-CTT	7	8	0	7	2	3	1	6	1	3	11	12
-CTC	12	4	3	10	7	7	5	32	32	16	14	11
-CTA	33	11	1	28	16	15	10	42	48	35	23	25
-CTG	7	3	1	9	4	1	2	6	8	4	7	9
-CCT	5	4	1	1	3	1	0	4	7	2	4	1
-CCC	8	5	4	8	6	4	1	14	13	9	8	9
-CCA	15	5	5	7	3	2	2	10	9	12	12	7
-CCG	2	0	0	0	1	0	0	0	2	1	1	3
-CAT	4	0	0	0	1	0	0	1	2	1	0	1
-CAC	15	8	0	4	14	0	7	14	10	11	3	6
-CAA	9	7	2	5	8	4	3	12	14	8	3	9
-CAG	0	0	0	3	0	0	0	1	4	0	3	2
-CGT	1	1	0	1	0	0	0	0	0	1	2	0
-CGC	1	3	0	1	2	0	0	3	3	2	3	0
-CGA	6	2	0	3	3	2	2	8	5	5	3	3
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	15	2	1	3	5	1	3	13	15	2	8	10
-ATC	26	12	4	13	11	6	2	28	46	29	15	20
-ATA	20	7	1	6	6	3	4	24	25	5	5	12
-ATG	3	3	2	2	1	3	2	3	4	1	5	5
-ACT	2	2	1	2	1	0	1	3	3	3	3	9
-ACC	17	5	6	8	11	6	5	24	36	13	9	21
-ACA	15	3	2	13	9	3	2	15	27	10	6	14
-ACG	3	1	1	0	0	0	0	0	2	1	1	2
-AAT	1	1	1	1	0	0	0	1	3	2	2	1
-AAC	14	6	2	8	5	2	2	14	22	18	11	8
-AAA	9	4	3	3	2	0	0	10	19	10	7	11
-AAG	0	1	0	1	2	1	0	0	1	0	0	3
-AGT	0	0	0	0	0	1	1	1	0	0	1	1
-AGC	4	4	1	4	4	0	2	9	9	1	5	7
-GTT	4	3	0	2	4	1	0	1	2	1	1	4
-GTC	11	9	0	5	6	0	1	4	3	10	7	2
-GTA	16	4	0	3	7	2	1	4	10	10	5	3
-GTG	6	2	0	0	0	0	0	0	1	0	3	0
-GCT	10	5	0	4	2	2	1	10	7	8	4	6
-GCC	21	9	1	9	11	6	5	20	25	13	13	13
-GCA	16	2	1	3	8	3	4	11	14	8	14	15
-GCG	1	1	0	0	1	0	1	0	2	0	2	0
-GAT	1	7	0	0	0	0	0	0	2	0	0	0
-GAC	14	6	0	1	6	3	1	2	7	9	4	1
-GAA	7	9	0	4	6	6	1	8	9	6	7	5
-GAG	3	2	0	0	1	0	1	2	2	1	4	1
-GGT	6	1	0	3	0	0	0	1	1	0	5	0
-GGC	14	2	0	5	11	1	2	9	13	10	4	5
-GGA	17	4	0	1	8	4	2	6	16	10	5	4
-GGG	10	1	0	0	1	0	0	1	3	4	0	3
-TAA	0	1	1	1	0	1	1	0	0	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	1	0	1	0
-AGG	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	COX1	YP_009710078.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	9	34	3	0	2	11	11	0	2	15	0	1	17	0	7	12	33	7	5	8	15	2	4	15	9	0	1	1	6	0	15	26	20	3	2	17	15	3	1	14	9	0	0	4	4	11	16	6	10	21	16	1	1	14	7	3	6	14	17	10	0	0	0	1
+1	COX2	YP_009710079.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	2	9	4	0	2	6	9	1	1	6	1	2	4	1	8	4	11	3	4	5	5	0	0	8	7	0	1	3	2	0	2	12	7	3	2	5	3	1	1	6	4	1	0	4	3	9	4	2	5	9	2	1	7	6	9	2	1	2	4	1	1	0	0	0
+2	ATP8	YP_009710080.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	2	2	0	0	0	2	0	0	0	0	0	0	5	0	0	3	1	1	1	4	5	0	0	0	2	0	0	0	0	0	1	4	1	2	1	6	2	1	1	2	3	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+3	ATP6	YP_009710081.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	1	10	7	0	1	6	3	1	0	3	0	0	4	0	7	10	28	9	1	8	7	0	0	4	5	3	1	1	3	0	3	13	6	2	2	8	13	0	1	8	3	1	0	4	2	5	3	0	4	9	3	0	0	1	4	0	3	5	1	0	1	0	0	0
+4	COX3	YP_009710082.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	3	21	1	0	6	2	5	0	2	9	0	1	12	0	2	7	16	4	3	6	3	1	1	14	8	0	0	2	3	0	5	11	6	1	1	11	9	0	0	5	2	2	0	4	4	6	7	0	2	11	8	1	0	6	6	1	0	11	8	1	0	0	0	0
+5	ND3	YP_009710083.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	0	8	1	0	1	4	1	0	0	2	0	1	5	0	3	7	15	1	1	4	2	0	0	0	4	0	0	0	2	0	1	6	3	3	0	6	3	0	0	2	0	1	1	0	1	0	2	0	2	6	3	0	0	3	6	0	0	1	4	0	1	0	0	0
+6	ND4L	YP_009710084.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	0	5	2	0	2	3	1	1	0	2	0	4	1	0	1	5	10	2	0	1	2	0	0	7	3	0	0	0	2	0	3	2	4	2	1	5	2	0	0	2	0	0	1	2	0	1	1	0	1	5	4	1	0	1	1	1	0	2	2	0	1	0	0	0
+7	ND4	YP_009710085.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	0	12	10	0	5	12	14	0	2	11	0	4	12	0	6	32	42	6	4	14	10	0	1	14	12	1	0	3	8	0	13	28	24	3	3	24	15	0	1	14	10	0	1	9	1	4	4	0	10	20	11	0	0	2	8	2	1	9	6	1	0	0	0	0
+8	ND5	YP_009710086.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	5	32	9	0	3	22	14	1	1	12	2	5	12	0	1	32	48	8	7	13	9	2	2	10	14	4	0	3	5	0	15	46	25	4	3	36	27	2	3	22	19	1	0	9	2	3	10	1	7	25	14	2	2	7	9	2	1	13	16	3	0	0	1	0
+9	CYTB	YP_009710087.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	4	25	8	0	1	11	9	0	2	10	0	4	10	1	3	16	35	4	2	9	12	1	1	11	8	0	1	2	5	0	2	29	5	1	3	13	10	1	2	18	10	0	0	1	1	10	10	0	8	13	8	0	0	9	6	1	0	10	10	4	1	0	0	0
+10	ND1	YP_009710089.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	7	10	9	1	2	9	7	0	3	13	0	3	6	2	11	14	23	7	4	8	12	1	0	3	3	3	2	3	3	0	8	15	5	5	3	9	6	1	2	11	7	0	1	5	1	7	5	3	4	13	14	2	0	4	7	4	5	4	5	0	0	0	1	0
+11	ND2	YP_009710090.1	Muscicapa griseisticta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Muscicapa	5	10	7	0	4	9	6	1	1	6	0	3	8	2	12	11	25	9	1	9	7	3	1	6	9	2	0	0	3	0	10	20	12	5	9	21	14	2	1	8	11	3	1	7	4	2	3	0	6	13	15	0	0	1	5	1	0	5	4	3	0	0	0	0

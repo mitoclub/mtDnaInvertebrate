@@ -1,65 +1,14 @@
-	YP_009252180.1|nad3	YP_009252181.1|rps12	YP_009252184.1|atp1	YP_009252187.1|orf725	YP_009252188.1|atp6	YP_009252189.1|atp9	YP_009252190.1|atp8	YP_009252191.1|mttB	YP_009252192.1|ccmFN1	YP_009252196.1|ccmC	YP_009252198.1|nad4L	YP_009252199.1|atp4	YP_009252200.1|ccmB
-TTT	9	1	7	37	21	4	4	9	17	11	6	5	9
-TTC	1	1	7	26	6	3	5	11	13	9	1	4	7
-TTA	3	1	17	25	10	1	1	6	4	6	4	6	7
-TTG	4	3	9	13	9	5	4	9	6	7	2	4	6
-TCT	5	1	7	9	2	1	4	7	8	9	4	3	5
-TCC	4	2	5	10	5	1	1	6	5	8	2	5	6
-TCA	1	1	5	8	9	5	6	2	11	3	5	6	7
-TCG	4	3	5	9	1	0	1	5	8	3	1	2	5
-TAT	4	1	15	12	2	1	4	4	5	3	1	1	5
-TAC	0	0	2	9	2	1	0	5	5	2	0	0	1
-TGT	1	2	4	1	3	0	4	0	4	2	1	3	4
-TGC	0	1	0	5	0	0	0	6	2	0	0	2	0
-TGG	3	0	0	19	2	0	2	6	4	5	0	0	2
-CTT	1	0	8	19	7	1	6	7	18	9	1	3	7
-CTC	2	0	4	12	6	0	6	3	2	4	1	1	2
-CTA	1	1	5	11	5	3	4	5	2	0	0	5	6
-CTG	1	2	4	8	5	1	1	1	5	3	0	0	2
-CCT	6	3	8	11	4	1	2	6	10	7	2	3	6
-CCC	2	1	8	9	3	1	1	5	4	3	0	3	4
-CCA	3	2	10	20	7	0	1	4	7	8	2	2	5
-CCG	3	4	0	7	2	0	1	5	5	3	0	2	4
-CAT	0	5	2	18	9	1	1	5	10	5	0	0	5
-CAC	1	1	3	4	2	0	2	2	0	0	0	1	1
-CAA	0	3	20	6	8	3	4	5	5	6	2	4	5
-CAG	0	2	5	4	1	1	2	1	1	1	0	4	1
-CGT	1	4	6	5	2	0	0	8	6	6	0	3	3
-CGC	0	1	8	5	1	0	1	1	4	1	0	1	0
-CGA	1	4	8	6	0	0	1	3	6	4	3	4	3
-CGG	1	2	0	5	0	0	1	2	3	5	1	1	3
-ATT	6	4	21	22	9	5	4	7	8	10	9	8	10
-ATC	3	1	6	19	5	2	7	9	3	6	4	6	4
-ATA	1	3	7	12	7	0	4	5	7	9	2	3	1
-ATG	4	1	12	28	8	4	3	4	5	7	6	4	4
-ACT	0	2	10	19	5	0	3	4	6	3	2	4	4
-ACC	2	1	4	14	1	1	1	2	3	4	1	2	3
-ACA	0	2	7	11	4	1	3	6	1	8	1	3	5
-ACG	1	1	2	4	3	0	1	5	1	2	1	2	1
-AAT	1	4	9	15	10	1	3	3	11	3	4	7	2
-AAC	1	0	5	5	2	2	3	0	7	4	1	3	2
-AAA	2	10	19	12	3	3	6	2	8	3	1	1	3
-AAG	1	3	6	2	5	0	5	3	3	4	0	9	2
-AGT	3	0	9	10	5	1	5	3	4	3	0	5	5
-AGC	0	0	6	9	5	1	5	2	6	3	0	1	3
-AGA	0	6	9	3	1	2	1	0	5	2	1	4	1
-AGG	2	0	1	3	1	0	1	2	3	1	0	1	0
-GTT	2	1	9	16	4	0	1	8	4	6	3	0	3
-GTC	1	3	11	8	3	2	1	2	4	3	4	4	3
-GTA	1	2	8	13	5	0	0	4	1	4	0	6	3
-GTG	1	2	12	17	4	3	1	6	3	3	1	2	0
-GCT	2	3	17	21	9	9	1	4	11	11	5	5	2
-GCC	3	1	13	8	0	4	0	2	5	2	1	1	0
-GCA	1	0	14	12	4	2	0	6	9	3	1	2	1
-GCG	0	1	8	5	0	2	1	0	5	3	1	0	0
-GAT	6	5	18	10	4	0	3	1	6	4	3	3	4
-GAC	0	1	6	7	0	0	2	2	3	0	0	2	1
-GAA	5	5	27	12	3	2	6	9	7	9	3	12	6
-GAG	1	0	9	9	5	0	3	2	3	2	0	1	1
-GGT	4	5	10	19	8	4	2	5	5	8	4	2	8
-GGC	0	2	6	10	1	1	1	0	8	0	0	3	0
-GGA	2	4	11	22	6	3	6	2	8	5	2	0	2
-GGG	0	0	13	15	4	0	1	0	5	3	0	3	1
-TAA	1	0	0	0	0	0	1	0	1	0	1	1	0
-TAG	0	0	0	1	0	0	0	0	0	1	0	0	0
-TGA	0	1	1	0	1	1	0	1	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	nad3	YP_009252180.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	9	1	3	4	5	4	1	4	4	0	1	0	3	1	2	1	1	6	2	3	3	0	1	0	0	1	0	1	1	6	3	1	4	0	2	0	1	1	1	2	1	3	0	0	2	2	1	1	1	2	3	1	0	6	0	5	1	4	0	2	0	1	0	0
+1	rps12	YP_009252181.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	1	1	1	3	1	2	1	3	1	0	2	1	0	0	0	1	2	3	1	2	4	5	1	3	2	4	1	4	2	4	1	3	1	2	1	2	1	4	0	10	3	0	0	6	0	1	3	2	2	3	1	0	1	5	1	5	0	5	2	4	0	0	0	1
+2	atp1	YP_009252184.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	7	7	17	9	7	5	5	5	15	2	4	0	0	8	4	5	4	8	8	10	0	2	3	20	5	6	8	8	0	21	6	7	12	10	4	7	2	9	5	19	6	9	6	9	1	9	11	8	12	17	13	14	8	18	6	27	9	10	6	11	13	0	0	1
+3	orf725	YP_009252187.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	37	26	25	13	9	10	8	9	12	9	1	5	19	19	12	11	8	11	9	20	7	18	4	6	4	5	5	6	5	22	19	12	28	19	14	11	4	15	5	12	2	10	9	3	3	16	8	13	17	21	8	12	5	10	7	12	9	19	10	22	15	0	1	0
+4	atp6	YP_009252188.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	21	6	10	9	2	5	9	1	2	2	3	0	2	7	6	5	5	4	3	7	2	9	2	8	1	2	1	0	0	9	5	7	8	5	1	4	3	10	2	3	5	5	5	1	1	4	3	5	4	9	0	4	0	4	0	3	5	8	1	6	4	0	0	1
+5	atp9	YP_009252189.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	4	3	1	5	1	1	5	0	1	1	0	0	0	1	0	3	1	1	1	0	0	1	0	3	1	0	0	0	0	5	2	0	4	0	1	1	0	1	2	3	0	1	1	2	0	0	2	0	3	9	4	2	2	0	0	2	0	4	1	3	0	0	0	1
+6	atp8	YP_009252190.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	4	5	1	4	4	1	6	1	4	0	4	0	2	6	6	4	1	2	1	1	1	1	2	4	2	0	1	1	1	4	7	4	3	3	1	3	1	3	3	6	5	5	5	1	1	1	1	0	1	1	0	0	1	3	2	6	3	2	1	6	1	1	0	0
+7	mttB	YP_009252191.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	9	11	6	9	7	6	2	5	4	5	0	6	6	7	3	5	1	6	5	4	5	5	2	5	1	8	1	3	2	7	9	5	4	4	2	6	5	3	0	2	3	3	2	0	2	8	2	4	6	4	2	6	0	1	2	9	2	5	0	2	0	0	0	1
+8	ccmFN1	YP_009252192.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	17	13	4	6	8	5	11	8	5	5	4	2	4	18	2	2	5	10	4	7	5	10	0	5	1	6	4	6	3	8	3	7	5	6	3	1	1	11	7	8	3	4	6	5	3	4	4	1	3	11	5	9	5	6	3	7	3	5	8	8	5	1	0	0
+9	ccmC	YP_009252196.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	11	9	6	7	9	8	3	3	3	2	2	0	5	9	4	0	3	7	3	8	3	5	0	6	1	6	1	4	5	10	6	9	7	3	4	8	2	3	4	3	4	3	3	2	1	6	3	4	3	11	2	3	3	4	0	9	2	8	0	5	3	0	1	0
+10	nad4L	YP_009252198.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	6	1	4	2	4	2	5	1	1	0	1	0	0	1	1	0	0	2	0	2	0	0	0	2	0	0	0	3	1	9	4	2	6	2	1	1	1	4	1	1	0	0	0	1	0	3	4	0	1	5	1	1	1	3	0	3	0	4	0	2	0	1	0	0
+11	atp4	YP_009252199.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	5	4	6	4	3	5	6	2	1	0	3	2	0	3	1	5	0	3	3	2	2	0	1	4	4	3	1	4	1	8	6	3	4	4	2	3	2	7	3	1	9	5	1	4	1	0	4	6	2	5	1	2	0	3	2	12	1	2	3	0	3	1	0	0
+12	ccmB	YP_009252200.1	Allium cepa	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Asparagales, Amaryllidaceae, Allioideae, Allieae, Allium	9	7	7	6	5	6	7	5	5	1	4	0	2	7	2	6	2	6	4	5	4	5	1	5	1	3	0	3	3	10	4	1	4	4	3	5	1	2	2	3	2	5	3	1	0	3	3	3	0	2	0	1	0	4	1	6	1	8	0	2	1	0	0	1

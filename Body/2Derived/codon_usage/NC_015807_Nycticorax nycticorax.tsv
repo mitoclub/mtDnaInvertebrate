@@ -1,65 +1,13 @@
-	YP_004733420.1|ND1	YP_004733421.1|ND2	YP_004733422.1|COX1	YP_004733423.1|COX2	YP_004733424.1|ATP8	YP_004733425.1|ATP6	YP_004733426.1|COX3	YP_004733427.1|ND3	YP_004733428.1|ND4L	YP_004733429.1|ND4	YP_004733430.1|ND5	YP_004733431.1|CYTB
-TTT	5	4	18	2	0	3	2	1	2	5	4	4
-TTC	13	8	24	7	3	4	22	7	2	9	27	26
-TTA	10	12	8	1	0	8	5	0	2	9	8	1
-TTG	0	0	1	0	0	0	0	0	0	0	1	0
-TCT	7	3	8	0	0	2	2	1	0	5	2	3
-TCC	12	11	5	9	1	2	6	4	5	8	16	8
-TCA	6	11	10	8	2	3	6	1	5	11	14	9
-TCG	0	1	0	0	0	0	0	0	0	1	2	0
-TAT	5	2	6	1	0	1	0	2	0	3	3	3
-TAC	8	6	12	7	0	2	9	0	2	11	13	12
-TGT	1	0	0	0	0	0	0	1	0	2	2	0
-TGC	1	1	1	3	0	1	1	1	3	1	3	4
-TGA	7	8	16	4	5	2	11	4	1	11	10	9
-TGG	2	2	1	1	0	1	1	1	0	0	2	2
-CTT	7	7	6	7	2	9	3	3	0	17	8	2
-CTC	14	14	8	4	1	12	10	9	3	23	28	17
-CTA	34	30	32	14	4	27	14	15	15	49	56	41
-CTG	1	6	6	3	0	3	2	0	0	2	6	3
-CCT	6	4	5	4	2	5	2	2	1	3	6	3
-CCC	9	8	5	4	4	6	4	5	2	12	7	9
-CCA	10	9	19	7	3	8	6	1	0	12	14	14
-CCG	0	0	1	0	1	0	0	0	0	0	0	0
-CAT	0	4	5	4	0	1	6	0	0	4	4	2
-CAC	3	5	14	5	0	4	11	0	6	11	10	11
-CAA	4	9	7	6	2	8	7	4	2	13	18	7
-CAG	1	0	2	1	0	0	1	0	0	1	2	1
-CGT	2	1	1	0	0	0	0	0	0	0	2	0
-CGC	2	0	0	1	0	4	0	2	1	2	1	2
-CGA	4	2	6	4	0	2	5	0	1	8	5	5
-CGG	0	0	1	0	0	0	0	0	0	1	0	0
-ATT	5	13	13	9	0	2	4	4	0	12	14	7
-ATC	17	18	25	12	4	17	13	7	5	30	36	23
-ATA	6	14	24	8	2	8	7	4	5	24	29	8
-ATG	4	3	3	1	1	2	1	0	3	3	5	1
-ACT	4	10	7	3	2	3	1	1	1	6	11	5
-ACC	11	17	18	5	4	8	5	5	3	26	36	13
-ACA	7	20	15	6	3	15	13	3	3	18	28	11
-ACG	1	1	2	1	0	0	0	0	0	3	2	1
-AAT	3	3	7	1	0	1	1	0	0	2	5	2
-AAC	9	10	8	3	3	8	4	3	3	14	25	19
-AAA	7	13	9	6	3	3	4	1	0	7	19	8
-AAG	0	2	0	0	0	0	0	0	0	2	2	2
-AGT	1	1	0	0	0	0	0	0	0	0	1	0
-AGC	4	4	3	3	0	5	5	0	4	9	11	1
-GTT	1	2	7	5	0	2	3	0	0	0	1	2
-GTC	3	1	10	3	0	4	4	1	0	3	2	4
-GTA	9	4	17	5	0	3	5	1	1	6	2	8
-GTG	1	0	3	0	0	0	1	0	0	0	3	2
-GCT	5	4	8	3	0	3	4	1	0	7	7	7
-GCC	12	12	24	4	1	6	5	3	5	11	28	14
-GCA	11	9	15	6	1	6	13	3	4	12	9	6
-GCG	2	0	0	1	0	0	0	1	0	0	1	0
-GAT	1	0	3	5	0	1	2	0	1	0	3	1
-GAC	3	1	12	8	0	0	2	3	0	2	5	5
-GAA	8	5	10	13	1	4	7	5	3	6	12	5
-GAG	3	0	0	1	0	0	1	1	0	3	0	2
-GGT	2	1	11	2	0	0	4	0	0	4	4	1
-GGC	5	4	12	1	0	5	4	2	4	8	11	8
-GGA	5	4	17	4	0	3	10	3	0	3	14	14
-GGG	1	2	5	1	0	0	2	0	0	4	4	2
-TAA	0	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004733420.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	5	13	10	0	7	12	6	0	5	8	1	1	7	2	7	14	34	1	6	9	10	0	0	3	4	1	2	2	4	0	5	17	6	4	4	11	7	1	3	9	7	0	1	4	1	3	9	1	5	12	11	2	1	3	8	3	2	5	5	1	0	0	1	0
+1	ND2	YP_004733421.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	4	8	12	0	3	11	11	1	2	6	0	1	8	2	7	14	30	6	4	8	9	0	4	5	9	0	1	0	2	0	13	18	14	3	10	17	20	1	3	10	13	2	1	4	2	1	4	0	4	12	9	0	0	1	5	0	1	4	4	2	0	0	0	0
+2	COX1	YP_004733422.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	18	24	8	1	8	5	10	0	6	12	0	1	16	1	6	8	32	6	5	5	19	1	5	14	7	2	1	0	6	1	13	25	24	3	7	18	15	2	7	8	9	0	0	3	7	10	17	3	8	24	15	0	3	12	10	0	11	12	17	5	0	0	0	1
+3	COX2	YP_004733423.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	2	7	1	0	0	9	8	0	1	7	0	3	4	1	7	4	14	3	4	4	7	0	4	5	6	1	0	1	4	0	9	12	8	1	3	5	6	1	1	3	6	0	0	3	5	3	5	0	3	4	6	1	5	8	13	1	2	1	4	1	1	0	0	0
+4	ATP8	YP_004733424.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	0	3	0	0	0	1	2	0	0	0	0	0	5	0	2	1	4	0	2	4	3	1	0	0	2	0	0	0	0	0	0	4	2	1	2	4	3	0	0	3	3	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004733425.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	3	4	8	0	2	2	3	0	1	2	0	1	2	1	9	12	27	3	5	6	8	0	1	4	8	0	0	4	2	0	2	17	8	2	3	8	15	0	1	8	3	0	0	5	2	4	3	0	3	6	6	0	1	0	4	0	0	5	3	0	1	0	0	0
+6	COX3	YP_004733426.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	2	22	5	0	2	6	6	0	0	9	0	1	11	1	3	10	14	2	2	4	6	0	6	11	7	1	0	0	5	0	4	13	7	1	1	5	13	0	1	4	4	0	0	5	3	4	5	1	4	5	13	0	2	2	7	1	4	4	10	2	0	0	0	0
+7	ND3	YP_004733427.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	1	7	0	0	1	4	1	0	2	0	1	1	4	1	3	9	15	0	2	5	1	0	0	0	4	0	0	2	0	0	4	7	4	0	1	5	3	0	0	3	1	0	0	0	0	1	1	0	1	3	3	1	0	3	5	1	0	2	3	0	0	1	0	0
+8	ND4L	YP_004733428.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	2	2	2	0	0	5	5	0	0	2	0	3	1	0	0	3	15	0	1	2	0	0	0	6	2	0	0	1	1	0	0	5	5	3	1	3	3	0	0	3	0	0	0	4	0	0	1	0	0	5	4	0	1	0	3	0	0	4	0	0	1	0	0	0
+9	ND4	YP_004733429.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	5	9	9	0	5	8	11	1	3	11	2	1	11	0	17	23	49	2	3	12	12	0	4	11	13	1	0	2	8	1	12	30	24	3	6	26	18	3	2	14	7	2	0	9	0	3	6	0	7	11	12	0	0	2	6	3	4	8	3	4	0	0	0	0
+10	ND5	YP_004733430.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	4	27	8	1	2	16	14	2	3	13	2	3	10	2	8	28	56	6	6	7	14	0	4	10	18	2	2	1	5	0	14	36	29	5	11	36	28	2	5	25	19	2	1	11	1	2	2	3	7	28	9	1	3	5	12	0	4	11	14	4	0	0	1	0
+11	CYTB	YP_004733431.1	Nycticorax nycticorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Nycticorax	4	26	1	0	3	8	9	0	3	12	0	4	9	2	2	17	41	3	3	9	14	0	2	11	7	1	0	2	5	0	7	23	8	1	5	13	11	1	2	19	8	2	0	1	2	4	8	2	7	14	6	0	1	5	5	2	1	8	14	2	1	0	0	0

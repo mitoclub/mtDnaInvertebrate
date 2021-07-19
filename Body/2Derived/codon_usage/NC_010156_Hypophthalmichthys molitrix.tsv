@@ -1,65 +1,13 @@
-	YP_001604424.1|ND1	YP_001604425.1|ND2	YP_001604426.1|COX1	YP_001604427.1|COX2	YP_001604428.1|ATP8	YP_001604429.1|ATP6	YP_001604430.1|COX3	YP_001604431.1|ND3	YP_001604432.1|ND4L	YP_001604433.1|ND4	YP_001604434.1|ND5	YP_001604436.1|CYTB
-TTT	5	1	18	2	2	4	7	3	3	5	15	7
-TTC	11	8	24	7	1	10	16	6	5	11	23	21
-TTA	6	8	8	5	2	8	3	1	6	16	11	9
-TTG	0	1	0	2	0	2	1	0	0	3	1	1
-TCT	2	1	9	2	0	0	4	2	1	5	5	5
-TCC	4	9	5	6	0	2	5	2	3	8	10	8
-TCA	11	7	11	4	1	2	2	2	2	10	15	9
-TCG	1	0	0	1	0	0	0	0	0	0	1	0
-TAT	5	1	9	3	0	1	6	2	0	8	2	7
-TAC	8	7	9	6	0	2	6	0	0	6	10	8
-TGT	0	1	0	0	0	0	1	0	1	3	2	1
-TGC	0	0	1	2	0	0	1	1	2	2	3	2
-TGA	8	11	16	5	5	5	11	5	0	19	12	12
-TGG	0	0	1	0	0	0	1	0	1	1	2	1
-CTT	5	7	20	6	1	9	5	1	3	10	17	10
-CTC	6	7	9	2	0	8	7	5	4	16	17	5
-CTA	40	39	22	12	1	15	14	12	9	31	46	33
-CTG	5	2	3	1	0	3	1	6	1	10	4	3
-CCT	5	1	4	2	1	1	1	0	1	3	8	2
-CCC	5	3	7	3	2	5	2	4	0	4	7	2
-CCA	12	14	16	8	6	11	9	4	1	20	12	17
-CCG	1	1	1	1	0	1	0	0	0	1	2	0
-CAT	0	1	4	4	0	2	5	0	1	4	2	1
-CAC	6	5	14	6	2	1	11	1	3	8	13	11
-CAA	7	12	8	7	1	8	7	3	3	10	16	6
-CAG	0	2	0	1	0	0	2	0	0	2	1	0
-CGT	1	1	2	1	0	0	2	0	0	1	0	1
-CGC	1	1	1	1	0	0	1	0	2	2	1	2
-CGA	6	2	5	3	0	6	2	2	1	8	8	5
-CGG	0	0	0	1	0	0	0	0	0	0	1	0
-ATT	12	18	26	9	2	11	8	3	2	26	29	14
-ATC	9	11	11	8	4	13	8	6	0	16	26	16
-ATA	8	16	19	8	1	7	7	2	4	22	26	10
-ATG	4	4	5	4	1	4	2	1	1	6	8	3
-ACT	3	5	5	3	3	4	2	2	0	8	10	2
-ACC	6	23	5	3	1	6	3	4	3	13	22	13
-ACA	11	21	25	4	2	9	15	3	3	20	29	10
-ACG	0	1	1	1	0	1	2	0	1	1	2	0
-AAT	6	5	9	0	2	3	1	0	1	2	7	9
-AAC	5	7	7	4	2	7	0	3	1	8	24	8
-AAA	7	8	8	4	3	1	2	1	0	11	19	9
-AAG	0	1	0	0	0	0	0	0	0	0	2	1
-AGT	1	1	0	0	1	1	0	0	1	2	3	0
-AGC	4	4	4	4	0	3	3	0	3	6	10	1
-GTT	1	2	11	8	0	4	5	0	0	1	7	3
-GTC	3	0	5	3	0	2	3	1	0	2	5	9
-GTA	16	4	21	9	1	10	8	2	2	11	9	10
-GTG	0	1	5	1	0	1	0	1	0	2	2	1
-GCT	2	6	6	2	0	5	5	0	2	6	4	4
-GCC	18	16	25	7	0	6	8	4	5	12	24	8
-GCA	13	14	17	6	1	8	8	4	7	14	19	18
-GCG	1	1	1	1	0	0	0	0	0	2	1	0
-GAT	1	1	4	1	0	0	2	1	0	1	6	5
-GAC	3	2	11	12	1	1	3	3	1	2	7	6
-GAA	9	5	9	11	4	4	9	6	3	8	10	6
-GAG	2	0	2	4	0	0	1	0	0	3	2	0
-GGT	0	1	11	0	0	2	3	1	0	0	2	4
-GGC	3	2	6	4	0	1	6	0	1	10	5	2
-GGA	13	14	23	4	0	6	14	5	4	15	22	14
-GGG	2	1	7	1	0	1	0	1	0	3	2	5
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	1	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001604424.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	5	11	6	0	2	4	11	1	5	8	0	0	8	0	5	6	40	5	5	5	12	1	0	6	7	0	1	1	6	0	12	9	8	4	3	6	11	0	6	5	7	0	1	4	1	3	16	0	2	18	13	1	1	3	9	2	0	3	13	2	1	0	0	0
+1	ND2	YP_001604425.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	1	8	8	1	1	9	7	0	1	7	1	0	11	0	7	7	39	2	1	3	14	1	1	5	12	2	1	1	2	0	18	11	16	4	5	23	21	1	5	7	8	1	1	4	2	0	4	1	6	16	14	1	1	2	5	0	1	2	14	1	0	1	0	0
+2	COX1	YP_001604426.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	18	24	8	0	9	5	11	0	9	9	0	1	16	1	20	9	22	3	4	7	16	1	4	14	8	0	2	1	5	0	26	11	19	5	5	5	25	1	9	7	8	0	0	4	11	5	21	5	6	25	17	1	4	11	9	2	11	6	23	7	1	0	0	0
+3	COX2	YP_001604427.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	2	7	5	2	2	6	4	1	3	6	0	2	5	0	6	2	12	1	2	3	8	1	4	6	7	1	1	1	3	1	9	8	8	4	3	3	4	1	0	4	4	0	0	4	8	3	9	1	2	7	6	1	1	12	11	4	0	4	4	1	0	0	0	0
+4	ATP8	YP_001604428.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	2	1	2	0	0	0	1	0	0	0	0	0	5	0	1	0	1	0	1	2	6	0	0	2	1	0	0	0	0	0	2	4	1	1	3	1	2	0	2	2	3	0	1	0	0	0	1	0	0	0	1	0	0	1	4	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_001604429.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	4	10	8	2	0	2	2	0	1	2	0	0	5	0	9	8	15	3	1	5	11	1	2	1	8	0	0	0	6	0	11	13	7	4	4	6	9	1	3	7	1	0	1	3	4	2	10	1	5	6	8	0	0	1	4	0	2	1	6	1	1	0	0	0
+6	COX3	YP_001604430.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	7	16	3	1	4	5	2	0	6	6	1	1	11	1	5	7	14	1	1	2	9	0	5	11	7	2	2	1	2	0	8	8	7	2	2	3	15	2	1	0	2	0	0	3	5	3	8	0	5	8	8	0	2	3	9	1	3	6	14	0	0	0	0	0
+7	ND3	YP_001604431.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	3	6	1	0	2	2	2	0	2	0	0	1	5	0	1	5	12	6	0	4	4	0	0	1	3	0	0	0	2	0	3	6	2	1	2	4	3	0	0	3	1	0	0	0	0	1	2	1	0	4	4	0	1	3	6	0	1	0	5	1	0	0	0	0
+8	ND4L	YP_001604432.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	3	5	6	0	1	3	2	0	0	0	1	2	0	1	3	4	9	1	1	0	1	0	1	3	3	0	0	2	1	0	2	0	4	1	0	3	3	1	1	1	0	0	1	3	0	0	2	0	2	5	7	0	0	1	3	0	0	1	4	0	1	0	0	0
+9	ND4	YP_001604433.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	5	11	16	3	5	8	10	0	8	6	3	2	19	1	10	16	31	10	3	4	20	1	4	8	10	2	1	2	8	0	26	16	22	6	8	13	20	1	2	8	11	0	2	6	1	2	11	2	6	12	14	2	1	2	8	3	0	10	15	3	0	0	0	0
+10	ND5	YP_001604434.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	15	23	11	1	5	10	15	1	2	10	2	3	12	2	17	17	46	4	8	7	12	2	2	13	16	1	0	1	8	1	29	26	26	8	10	22	29	2	7	24	19	2	3	10	7	5	9	2	4	24	19	1	6	7	10	2	2	5	22	2	1	0	0	0
+11	CYTB	YP_001604436.1	Hypophthalmichthys molitrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Hypophthalmichthys	7	21	9	1	5	8	9	0	7	8	1	2	12	1	10	5	33	3	2	2	17	0	1	11	6	0	1	2	5	0	14	16	10	3	2	13	10	0	9	8	9	1	0	1	3	9	10	1	4	8	18	0	5	6	6	0	4	2	14	5	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_009033397.1|ND1	YP_009033398.1|ND2	YP_009033399.1|COX1	YP_009033400.1|COX2	YP_009033401.1|ATP8	YP_009033402.1|ATP6	YP_009033403.1|COX3	YP_009033404.1|ND3	YP_009033405.1|ND4L	YP_009033406.1|ND4	YP_009033407.1|ND5	YP_009033409.1|CYTB
-TTT	11	3	13	4	2	9	9	6	0	7	17	10
-TTC	6	5	29	5	1	6	15	3	8	9	23	18
-TTA	11	17	8	7	2	3	6	4	4	18	10	11
-TTG	0	0	0	0	0	1	1	0	0	3	3	0
-TCT	5	2	6	2	0	1	3	0	1	5	4	5
-TCC	1	7	6	6	0	1	3	4	4	9	10	3
-TCA	13	8	14	4	1	1	5	2	1	8	18	12
-TCG	0	1	0	1	0	0	0	0	0	1	1	2
-TAT	3	4	9	4	0	2	3	0	0	7	5	3
-TAC	10	4	9	5	0	1	7	2	0	7	6	12
-TGT	0	1	0	1	0	0	0	0	0	2	1	1
-TGC	0	0	1	1	0	0	2	1	3	3	4	2
-TGA	6	10	17	5	4	3	11	4	1	18	10	10
-TGG	2	1	0	0	1	2	1	1	0	2	4	2
-CTT	4	5	18	6	1	13	10	7	4	14	21	9
-CTC	9	12	11	2	0	6	3	5	2	6	9	8
-CTA	32	27	22	10	1	23	12	8	11	38	41	29
-CTG	5	5	3	3	0	2	1	1	2	8	9	6
-CCT	4	2	3	1	2	3	3	1	1	4	8	2
-CCC	13	4	6	3	4	5	2	3	0	12	7	8
-CCA	6	11	15	9	3	8	6	4	1	11	9	9
-CCG	1	2	4	1	0	2	1	0	0	0	2	2
-CAT	1	2	6	2	0	1	5	0	2	3	2	1
-CAC	3	4	12	8	2	2	11	1	2	9	12	11
-CAA	7	10	6	8	1	8	6	2	3	11	13	5
-CAG	0	3	1	0	0	0	3	1	0	1	4	1
-CGT	0	0	1	1	0	2	2	0	0	0	1	2
-CGC	0	0	1	1	0	0	1	0	2	1	2	1
-CGA	6	4	5	3	0	4	2	2	1	7	8	5
-CGG	2	0	2	1	0	0	0	0	0	3	0	0
-ATT	12	22	24	12	4	13	8	7	2	27	35	16
-ATC	8	4	13	6	2	7	7	2	0	17	20	11
-ATA	10	14	15	8	1	5	5	1	3	23	31	11
-ATG	3	5	9	4	1	5	3	1	2	4	6	2
-ACT	3	6	5	4	2	3	1	0	2	6	4	1
-ACC	2	17	8	3	1	7	8	5	2	13	19	6
-ACA	10	21	20	4	2	10	13	4	5	18	24	15
-ACG	1	1	2	0	0	0	1	0	0	2	7	1
-AAT	8	6	9	1	1	4	1	1	1	6	8	3
-AAC	5	7	7	3	3	6	0	2	1	6	24	14
-AAA	6	9	8	4	3	1	2	1	0	11	19	9
-AAG	1	0	0	0	0	0	0	0	0	0	4	1
-AGT	1	1	1	0	0	0	0	0	1	1	2	1
-AGC	3	5	3	4	1	4	3	0	3	5	11	0
-GTT	3	0	12	7	0	4	3	2	0	3	9	2
-GTC	4	2	5	1	0	1	4	1	0	3	8	8
-GTA	13	5	19	12	1	8	9	1	2	9	8	13
-GTG	2	2	8	0	0	4	0	1	0	1	4	3
-GCT	3	5	11	3	1	5	3	0	0	4	9	3
-GCC	16	17	23	8	1	9	9	4	6	12	18	15
-GCA	16	18	13	4	0	6	9	4	5	17	18	12
-GCG	0	1	1	1	0	1	0	0	1	1	2	1
-GAT	0	1	6	2	0	0	2	2	0	1	5	3
-GAC	4	2	10	11	1	1	3	2	1	2	9	9
-GAA	10	4	8	15	3	4	7	6	1	10	9	3
-GAG	1	1	2	0	1	0	3	0	2	1	3	2
-GGT	3	2	12	0	0	2	2	1	1	5	0	2
-GGC	4	3	8	3	0	4	6	1	1	6	9	6
-GGA	8	10	18	4	0	2	12	5	3	11	18	11
-GGG	3	3	8	2	0	2	3	0	0	8	4	6
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009033397.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	11	6	11	0	5	1	13	0	3	10	0	0	6	2	4	9	32	5	4	13	6	1	1	3	7	0	0	0	6	2	12	8	10	3	3	2	10	1	8	5	6	1	1	3	3	4	13	2	3	16	16	0	0	4	10	1	3	4	8	3	0	1	0	0
+1	ND2	YP_009033398.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	3	5	17	0	2	7	8	1	4	4	1	0	10	1	5	12	27	5	2	4	11	2	2	4	10	3	0	0	4	0	22	4	14	5	6	17	21	1	6	7	9	0	1	5	0	2	5	2	5	17	18	1	1	2	4	1	2	3	10	3	0	0	0	0
+2	COX1	YP_009033399.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	13	29	8	0	6	6	14	0	9	9	0	1	17	0	18	11	22	3	3	6	15	4	6	12	6	1	1	1	5	2	24	13	15	9	5	8	20	2	9	7	8	0	1	3	12	5	19	8	11	23	13	1	6	10	8	2	12	8	18	8	1	0	0	0
+3	COX2	YP_009033400.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	4	5	7	0	2	6	4	1	4	5	1	1	5	0	6	2	10	3	1	3	9	1	2	8	8	0	1	1	3	1	12	6	8	4	4	3	4	0	1	3	4	0	0	4	7	1	12	0	3	8	4	1	2	11	15	0	0	3	4	2	0	0	0	0
+4	ATP8	YP_009033401.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	2	1	2	0	0	0	1	0	0	0	0	0	4	1	1	0	1	0	2	4	3	0	0	2	1	0	0	0	0	0	4	2	1	1	2	1	2	0	1	3	3	0	0	1	0	0	1	0	1	1	0	0	0	1	3	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009033402.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	9	6	3	1	1	1	1	0	2	1	0	0	3	2	13	6	23	2	3	5	8	2	1	2	8	0	2	0	4	0	13	7	5	5	3	7	10	0	4	6	1	0	0	4	4	1	8	4	5	9	6	1	0	1	4	0	2	4	2	2	1	0	0	0
+6	COX3	YP_009033403.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	9	15	6	1	3	3	5	0	3	7	0	2	11	1	10	3	12	1	3	2	6	1	5	11	6	3	2	1	2	0	8	7	5	3	1	8	13	1	1	0	2	0	0	3	3	4	9	0	3	9	9	0	2	3	7	3	2	6	12	3	0	0	0	0
+7	ND3	YP_009033404.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	6	3	4	0	0	4	2	0	0	2	0	1	4	1	7	5	8	1	1	3	4	0	0	1	2	1	0	0	2	0	7	2	1	1	0	5	4	0	1	2	1	0	0	0	2	1	1	1	0	4	4	0	2	2	6	0	1	1	5	0	0	0	0	0
+8	ND4L	YP_009033405.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	0	8	4	0	1	4	1	0	0	0	0	3	1	0	4	2	11	2	1	0	1	0	2	2	3	0	0	2	1	0	2	0	3	2	2	2	5	0	1	1	0	0	1	3	0	0	2	0	0	6	5	1	0	1	1	2	1	1	3	0	1	0	0	0
+9	ND4	YP_009033406.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	7	9	18	3	5	9	8	1	7	7	2	3	18	2	14	6	38	8	4	12	11	0	3	9	11	1	0	1	7	3	27	17	23	4	6	13	18	2	6	6	11	0	1	5	3	3	9	1	4	12	17	1	1	2	10	1	5	6	11	8	0	0	0	0
+10	ND5	YP_009033407.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	17	23	10	3	4	10	18	1	5	6	1	4	10	4	21	9	41	9	8	7	9	2	2	12	13	4	1	2	8	0	35	20	31	6	4	19	24	7	8	24	19	4	2	11	9	8	8	4	9	18	18	2	5	9	9	3	0	9	18	4	1	0	0	0
+11	CYTB	YP_009033409.1	Platysmacheilus exiguus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Platysmacheilus	10	18	11	0	5	3	12	2	3	12	1	2	10	2	9	8	29	6	2	8	9	2	1	11	5	1	2	1	5	0	16	11	11	2	1	6	15	1	3	14	9	1	1	0	2	8	13	3	3	15	12	1	3	9	3	2	2	6	11	6	0	0	0	0

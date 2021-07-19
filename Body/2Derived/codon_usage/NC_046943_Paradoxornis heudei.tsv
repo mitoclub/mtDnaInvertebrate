@@ -1,65 +1,12 @@
-	YP_009755481.1|ND1	YP_009755482.1|ND2	YP_009755483.1|COX1	YP_009755484.1|COX2	YP_009755485.1|ATP8	YP_009755486.1|ATP6	YP_009755487.1|COX3	YP_009755488.1|ND3	YP_009755489.1|ND4L	YP_009755491.1|ND5	YP_009755492.1|CYTB
-TTT	3	1	6	0	3	1	8	2	0	2	1
-TTC	16	12	37	9	1	9	16	7	5	32	28
-TTA	9	6	13	5	0	4	2	4	3	12	7
-TTG	1	0	1	1	0	1	0	0	0	0	1
-TCT	2	1	3	2	0	2	5	1	2	6	1
-TCC	7	16	11	8	3	5	3	3	1	9	8
-TCA	7	10	9	6	4	6	2	1	2	20	11
-TCG	1	0	1	0	0	0	1	0	2	0	1
-TAT	3	0	1	2	0	0	1	1	0	2	1
-TAC	12	8	15	5	0	3	10	1	2	12	11
-TGT	0	0	0	0	0	0	0	1	1	3	1
-TGC	3	2	1	3	0	0	1	0	2	5	3
-TGA	7	9	16	5	5	4	12	5	1	12	11
-TGG	1	1	1	0	0	0	0	0	0	0	0
-CTT	8	3	11	3	1	3	4	6	1	8	5
-CTC	9	16	6	9	1	18	8	4	1	28	13
-CTA	33	35	29	12	3	36	15	10	13	54	35
-CTG	6	3	2	0	0	0	3	2	2	1	3
-CCT	2	3	4	3	2	2	2	0	1	4	2
-CCC	6	8	12	3	2	4	4	3	0	8	13
-CCA	18	9	12	6	6	8	8	4	2	18	11
-CCG	1	0	2	0	0	0	0	0	0	1	0
-CAT	0	0	2	1	0	0	4	0	0	2	1
-CAC	2	11	18	7	1	3	11	0	6	12	11
-CAA	5	8	7	7	2	8	8	4	2	15	7
-CAG	1	1	2	0	0	0	0	0	0	2	0
-CGT	2	1	0	1	0	0	1	0	0	2	0
-CGC	3	1	2	1	0	3	2	1	0	0	4
-CGA	3	1	5	4	0	2	3	1	2	5	4
-CGG	0	0	1	0	0	0	0	0	0	1	0
-ATT	7	9	12	3	1	1	3	2	1	22	7
-ATC	16	24	31	11	2	17	13	6	3	33	26
-ATA	9	13	17	5	0	6	4	3	4	26	6
-ATG	2	4	7	5	2	3	3	1	2	2	2
-ACT	4	11	10	2	1	3	1	2	0	14	2
-ACC	11	20	13	7	5	9	13	3	6	24	8
-ACA	6	18	14	7	1	12	7	4	4	28	16
-ACG	0	0	0	0	0	1	0	0	0	0	0
-AAT	0	0	2	2	1	0	1	0	0	5	0
-AAC	13	12	13	5	3	10	1	4	2	23	19
-AAA	6	13	9	3	2	3	5	1	1	20	10
-AAG	1	0	0	1	0	1	0	0	0	1	0
-AGT	0	0	0	0	0	1	0	1	1	0	0
-AGC	4	5	4	5	0	2	4	0	3	10	1
-GTT	3	0	6	3	0	1	4	0	1	2	1
-GTC	2	5	5	4	0	1	4	0	1	6	9
-GTA	9	1	21	12	2	5	7	2	0	12	8
-GTG	0	0	1	0	0	1	1	0	0	1	1
-GCT	9	4	5	6	0	4	5	1	2	7	7
-GCC	10	7	29	7	0	7	11	8	5	24	17
-GCA	13	14	14	4	1	3	8	3	3	16	4
-GCG	1	1	1	0	0	0	0	0	1	2	2
-GAT	0	0	0	2	0	0	1	0	0	4	1
-GAC	4	2	15	11	0	2	4	3	1	4	9
-GAA	9	4	10	11	0	4	7	4	1	9	6
-GAG	2	1	0	0	0	0	1	2	1	1	0
-GGT	0	1	6	1	0	0	1	0	0	2	3
-GGC	8	6	14	3	0	2	9	3	3	10	7
-GGA	5	4	24	4	0	5	8	1	1	20	12
-GGG	0	1	3	0	0	1	1	1	0	1	2
-TAA	0	0	0	1	1	0	0	1	1	0	1
-TAG	0	0	0	0	0	1	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009755481.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	3	16	9	1	2	7	7	1	3	12	0	3	7	1	8	9	33	6	2	6	18	1	0	2	5	1	2	3	3	0	7	16	9	2	4	11	6	0	0	13	6	1	0	4	3	2	9	0	9	10	13	1	0	4	9	2	0	8	5	0	0	0	1	0
+1	ND2	YP_009755482.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	1	12	6	0	1	16	10	0	0	8	0	2	9	1	3	16	35	3	3	8	9	0	0	11	8	1	1	1	1	0	9	24	13	4	11	20	18	0	0	12	13	0	0	5	0	5	1	0	4	7	14	1	0	2	4	1	1	6	4	1	0	0	0	0
+2	COX1	YP_009755483.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	6	37	13	1	3	11	9	1	1	15	0	1	16	1	11	6	29	2	4	12	12	2	2	18	7	2	0	2	5	1	12	31	17	7	10	13	14	0	2	13	9	0	0	4	6	5	21	1	5	29	14	1	0	15	10	0	6	14	24	3	0	0	0	1
+3	COX2	YP_009755484.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	0	9	5	1	2	8	6	0	2	5	0	3	5	0	3	9	12	0	3	3	6	0	1	7	7	0	1	1	4	0	3	11	5	5	2	7	7	0	2	5	3	1	0	5	3	4	12	0	6	7	4	0	2	11	11	0	1	3	4	0	1	0	0	0
+4	ATP8	YP_009755485.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	3	1	0	0	0	3	4	0	0	0	0	0	5	0	1	1	3	0	2	2	6	0	0	1	2	0	0	0	0	0	1	2	0	2	1	5	1	0	1	3	2	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009755486.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	1	9	4	1	2	5	6	0	0	3	0	0	4	0	3	18	36	0	2	4	8	0	0	3	8	0	0	3	2	0	1	17	6	3	3	9	12	1	0	10	3	1	1	2	1	1	5	1	4	7	3	0	0	2	4	0	0	2	5	1	0	1	0	0
+6	COX3	YP_009755487.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	8	16	2	0	5	3	2	1	1	10	0	1	12	0	4	8	15	3	2	4	8	0	4	11	8	0	1	2	3	0	3	13	4	3	1	13	7	0	1	1	5	0	0	4	4	4	7	1	5	11	8	0	1	4	7	1	1	9	8	1	0	0	0	0
+7	ND3	YP_009755488.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	2	7	4	0	1	3	1	0	1	1	1	0	5	0	6	4	10	2	0	3	4	0	0	0	4	0	0	1	1	0	2	6	3	1	2	3	4	0	0	4	1	0	1	0	0	0	2	0	1	8	3	0	0	3	4	2	0	3	1	1	1	0	0	0
+8	ND4L	YP_009755489.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	0	5	3	0	2	1	2	2	0	2	1	2	1	0	1	1	13	2	1	0	2	0	0	6	2	0	0	0	2	0	1	3	4	2	0	6	4	0	0	2	1	0	1	3	1	1	0	0	2	5	3	1	0	1	1	1	0	3	1	0	1	0	0	0
+9	ND5	YP_009755491.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	2	32	12	0	6	9	20	0	2	12	3	5	12	0	8	28	54	1	4	8	18	1	2	12	15	2	2	0	5	1	22	33	26	2	14	24	28	0	5	23	20	1	0	10	2	6	12	1	7	24	16	2	4	4	9	1	2	10	20	1	0	0	1	0
+10	CYTB	YP_009755492.1	Paradoxornis heudei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Muscicapidae, Paradoxornis	1	28	7	1	1	8	11	1	1	11	1	3	11	0	5	13	35	3	2	13	11	0	1	11	7	0	0	4	4	0	7	26	6	2	2	8	16	0	0	19	10	0	0	1	1	9	8	1	7	17	4	2	1	9	6	0	3	7	12	2	1	0	0	0

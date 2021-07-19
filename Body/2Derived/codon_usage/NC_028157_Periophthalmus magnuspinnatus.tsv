@@ -1,65 +1,13 @@
-	YP_009175486.1|ND1	YP_009175487.1|ND2	YP_009175488.1|COX1	YP_009175489.1|COX2	YP_009175490.1|ATP8	YP_009175491.1|ATP6	YP_009175492.1|COX3	YP_009175493.1|ND3	YP_009175494.1|ND4L	YP_009175495.1|ND4	YP_009175496.1|ND5	YP_009175498.1|CYTB
-TTT	14	8	25	6	4	8	8	7	6	5	20	13
-TTC	6	1	16	4	0	5	14	4	1	11	22	19
-TTA	6	8	9	4	1	11	6	1	5	16	10	5
-TTG	4	2	1	2	0	1	0	0	1	1	4	0
-TCT	3	2	12	2	0	0	2	4	3	7	9	9
-TCC	8	8	5	3	3	4	4	1	1	8	9	5
-TCA	5	5	7	4	2	1	4	1	3	9	9	7
-TCG	0	0	1	0	1	0	0	0	0	0	0	0
-TAT	8	5	8	3	0	2	6	2	0	7	7	4
-TAC	3	2	10	6	0	2	7	0	0	5	3	11
-TGT	0	0	0	2	0	0	1	1	1	0	1	1
-TGC	0	1	1	0	0	0	2	0	2	4	5	2
-TGA	6	10	14	5	5	5	12	5	0	13	12	11
-TGG	2	1	3	0	0	0	0	0	1	4	2	0
-CTT	20	25	23	9	1	8	8	7	6	25	24	21
-CTC	14	18	14	4	0	7	9	5	8	18	30	16
-CTA	24	23	11	7	1	18	7	9	5	26	28	17
-CTG	0	8	8	1	1	7	0	3	1	7	5	3
-CCT	9	4	8	5	2	8	3	1	1	8	11	6
-CCC	11	9	12	4	3	7	9	6	0	12	13	12
-CCA	4	8	8	4	3	3	1	2	1	7	9	3
-CCG	0	0	1	1	0	0	0	0	0	0	1	1
-CAT	1	4	9	4	1	0	4	0	1	5	5	3
-CAC	5	3	10	5	0	3	11	0	4	9	12	8
-CAA	7	12	7	9	2	6	7	2	2	9	18	4
-CAG	0	2	1	1	1	2	1	1	0	2	2	3
-CGT	2	0	1	0	0	3	0	0	0	1	1	1
-CGC	2	2	3	2	0	1	1	1	0	1	1	2
-CGA	4	2	5	3	0	2	4	0	2	9	5	5
-CGG	0	0	0	1	0	0	0	1	0	0	1	0
-ATT	13	20	32	16	2	14	9	7	0	20	31	16
-ATC	8	4	8	4	3	5	5	2	0	14	16	13
-ATA	6	11	17	6	0	6	5	1	2	18	15	6
-ATG	2	3	7	5	1	5	4	2	2	10	11	3
-ACT	2	8	6	5	2	2	4	2	0	10	11	5
-ACC	7	17	8	2	0	6	4	3	3	11	27	4
-ACA	10	18	21	5	2	13	14	1	6	18	17	12
-ACG	1	2	0	0	1	0	0	0	0	0	0	0
-AAT	7	6	8	0	2	5	1	1	2	7	10	5
-AAC	4	7	7	5	1	4	2	1	1	5	20	13
-AAA	7	7	8	3	2	1	1	1	0	9	19	8
-AAG	0	1	0	0	0	0	0	0	0	0	2	1
-AGT	2	3	0	1	0	1	0	0	1	0	0	0
-AGC	3	3	4	2	2	3	3	0	1	5	12	2
-GTT	5	2	11	5	1	7	4	2	0	4	11	12
-GTC	1	2	4	1	2	2	7	2	1	7	5	5
-GTA	7	1	17	11	0	3	8	2	0	7	12	10
-GTG	4	0	6	4	0	1	0	0	0	0	3	0
-GCT	4	3	14	5	0	5	5	4	3	10	9	4
-GCC	16	15	18	6	1	12	10	3	5	20	27	15
-GCA	15	19	15	10	0	2	8	2	7	13	21	11
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	2	1	6	5	0	0	1	2	0	2	4	5
-GAC	2	0	8	7	0	1	4	2	1	3	8	7
-GAA	8	3	9	11	1	3	6	5	3	7	10	3
-GAG	3	2	1	2	0	1	3	1	0	4	2	2
-GGT	4	3	6	2	0	2	2	1	1	5	4	3
-GGC	4	7	13	1	0	3	10	2	2	11	13	11
-GGA	7	4	13	3	0	4	8	2	2	6	6	9
-GGG	2	3	16	2	0	2	2	1	0	5	7	3
-TAA	0	1	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009175486.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	14	6	6	4	3	8	5	0	8	3	0	0	6	2	20	14	24	0	9	11	4	0	1	5	7	0	2	2	4	0	13	8	6	2	2	7	10	1	7	4	7	0	2	3	5	1	7	4	4	16	15	0	2	2	8	3	4	4	7	2	0	1	0	0
+1	ND2	YP_009175487.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	8	1	8	2	2	8	5	0	5	2	0	1	10	1	25	18	23	8	4	9	8	0	4	3	12	2	0	2	2	0	20	4	11	3	8	17	18	2	6	7	7	1	3	3	2	2	1	0	3	15	19	0	1	0	3	2	3	7	4	3	1	0	0	0
+2	COX1	YP_009175488.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	25	16	9	1	12	5	7	1	8	10	0	1	14	3	23	14	11	8	8	12	8	1	9	10	7	1	1	3	5	0	32	8	17	7	6	8	21	0	8	7	8	0	0	4	11	4	17	6	14	18	15	1	6	8	9	1	6	13	13	16	1	0	0	0
+3	COX2	YP_009175489.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	6	4	4	2	2	3	4	0	3	6	2	0	5	0	9	4	7	1	5	4	4	1	4	5	9	1	0	2	3	1	16	4	6	5	5	2	5	0	0	5	3	0	1	2	5	1	11	4	5	6	10	0	5	7	11	2	2	1	3	2	0	0	0	0
+4	ATP8	YP_009175490.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	4	0	1	0	0	3	2	1	0	0	0	0	5	0	1	0	1	1	2	3	3	0	1	0	2	1	0	0	0	0	2	3	0	1	2	0	2	1	2	1	2	0	0	2	1	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009175491.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	8	5	11	1	0	4	1	0	2	2	0	0	5	0	8	7	18	7	8	7	3	0	0	3	6	2	3	1	2	0	14	5	6	5	2	6	13	0	5	4	1	0	1	3	7	2	3	1	5	12	2	0	0	1	3	1	2	3	4	2	0	0	0	0
+6	COX3	YP_009175492.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	8	14	6	0	2	4	4	0	6	7	1	2	12	0	8	9	7	0	3	9	1	0	4	11	7	1	0	1	4	0	9	5	5	4	4	4	14	0	1	2	1	0	0	3	4	7	8	0	5	10	8	0	1	4	6	3	2	10	8	2	0	0	0	0
+7	ND3	YP_009175493.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	7	4	1	0	4	1	1	0	2	0	1	0	5	0	7	5	9	3	1	6	2	0	0	0	2	1	0	1	0	1	7	2	1	2	2	3	1	0	1	1	1	0	0	0	2	2	2	0	4	3	2	0	2	2	5	1	1	2	2	1	0	0	0	0
+8	ND4L	YP_009175494.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	6	1	5	1	3	1	3	0	0	0	1	2	0	1	6	8	5	1	1	0	1	0	1	4	2	0	0	0	2	0	0	0	2	2	0	3	6	0	2	1	0	0	1	1	0	1	0	0	3	5	7	0	0	1	3	0	1	2	2	0	1	0	0	0
+9	ND4	YP_009175495.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	5	11	16	1	7	8	9	0	7	5	0	4	13	4	25	18	26	7	8	12	7	0	5	9	9	2	1	1	9	0	20	14	18	10	10	11	18	0	7	5	9	0	0	5	4	7	7	0	10	20	13	0	2	3	7	4	5	11	6	5	0	0	0	0
+10	ND5	YP_009175496.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	20	22	10	4	9	9	9	0	7	3	1	5	12	2	24	30	28	5	11	13	9	1	5	12	18	2	1	1	5	1	31	16	15	11	11	27	17	0	10	20	19	2	0	12	11	5	12	3	9	27	21	0	4	8	10	2	4	13	6	7	1	0	0	0
+11	CYTB	YP_009175498.1	Periophthalmus magnuspinnatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmus	13	19	5	0	9	5	7	0	4	11	1	2	11	0	21	16	17	3	6	12	3	1	3	8	4	3	1	2	5	0	16	13	6	3	5	4	12	0	5	13	8	1	0	2	12	5	10	0	4	15	11	0	5	7	3	2	3	11	9	3	0	0	0	0

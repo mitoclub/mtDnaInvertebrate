@@ -1,65 +1,16 @@
-	YP_004222805.1|cox1	YP_004222806.1|rps3	YP_004222807.1|rpl16	YP_004222808.1|mttB	YP_004222809.1|ccmFc	YP_004222811.1|nad4	YP_004222817.1|ccmB	YP_004222818.1|nad6	YP_004222822.1|ccmC	YP_004222823.1|ccmFn	YP_004222828.1|atp9-2	YP_004222829.1|nad7	YP_004222831.1|nad4L	YP_004222832.1|atp4	YP_004222833.1|rps10
-TTT	25	19	5	10	17	19	11	4	11	21	3	5	6	4	8
-TTC	17	18	2	8	15	18	6	9	6	19	4	8	2	4	1
-TTA	18	6	1	6	9	15	6	8	11	12	4	12	4	8	3
-TTG	5	9	1	7	13	10	5	9	5	9	3	4	2	4	5
-TCT	10	14	1	8	5	12	7	3	11	13	0	8	3	4	2
-TCC	7	7	2	4	10	10	5	2	2	9	1	6	2	2	2
-TCA	8	10	4	3	8	9	6	2	6	10	4	10	5	3	2
-TCG	4	8	2	6	6	1	4	1	2	12	0	4	2	3	1
-TAT	13	13	5	5	6	14	6	5	3	7	1	8	1	1	2
-TAC	5	7	0	5	2	3	1	1	1	7	0	4	0	0	1
-TGT	1	7	4	3	6	6	4	0	0	6	0	5	0	5	0
-TGC	1	1	1	4	3	1	1	0	0	5	0	2	0	2	1
-TGG	13	5	3	5	5	6	1	4	5	16	0	5	0	0	0
-CTT	11	7	3	6	10	14	7	7	9	23	0	5	1	4	4
-CTC	5	9	1	5	7	3	3	2	2	6	1	2	1	2	1
-CTA	7	3	3	4	6	12	4	3	3	7	1	1	0	3	1
-CTG	8	6	1	2	6	7	2	1	5	6	1	3	0	0	1
-CCT	6	3	3	3	14	17	5	2	10	15	0	12	2	4	3
-CCC	9	6	0	5	7	7	5	1	5	7	0	1	0	2	0
-CCA	10	7	2	4	8	4	7	6	3	9	1	8	1	3	1
-CCG	7	8	1	4	2	5	3	1	2	4	0	1	0	1	0
-CAT	15	9	3	2	13	9	4	4	5	14	1	12	0	0	3
-CAC	3	1	1	0	3	2	1	1	0	3	0	3	0	1	1
-CAA	6	9	4	6	7	8	6	2	5	6	0	15	2	4	2
-CAG	1	3	2	1	3	3	0	1	0	10	1	1	0	5	3
-CGT	5	9	6	6	9	2	2	1	6	13	0	11	0	3	1
-CGC	1	7	0	2	6	3	0	2	1	5	0	1	0	2	3
-CGA	4	9	3	3	5	5	3	3	2	10	0	11	3	4	5
-CGG	2	7	2	2	5	3	3	0	4	11	0	2	1	2	2
-ATT	15	14	3	8	9	26	7	8	10	15	5	8	10	5	3
-ATC	17	10	2	9	6	11	6	4	6	7	1	7	4	7	3
-ATA	14	17	4	6	8	13	2	9	7	6	0	7	1	4	5
-ATG	21	10	4	3	15	16	4	9	7	14	4	14	6	6	1
-ACT	14	2	1	3	9	10	3	6	2	8	0	11	2	3	1
-ACC	11	7	2	2	2	7	3	4	6	8	1	5	0	1	4
-ACA	11	8	3	7	5	7	4	2	6	8	1	2	1	3	2
-ACG	3	4	4	5	6	2	2	4	2	3	0	2	2	1	1
-AAT	13	14	3	4	12	11	3	6	2	13	1	7	4	8	0
-AAC	5	10	0	1	5	3	2	0	5	7	1	3	1	2	1
-AAA	5	32	13	2	10	8	3	2	2	14	2	11	1	4	6
-AAG	3	23	5	2	10	5	2	2	3	8	0	2	0	9	10
-AGT	9	7	4	3	4	7	5	3	3	7	1	5	0	5	1
-AGC	5	4	1	0	4	9	2	1	4	6	0	1	1	1	0
-AGA	1	20	5	0	10	9	1	1	2	6	1	8	1	5	2
-AGG	1	9	1	3	4	0	0	5	1	4	0	2	0	3	0
-GTT	15	6	3	9	5	14	4	10	5	11	1	4	3	5	0
-GTC	6	8	2	2	8	3	4	3	2	8	0	5	1	1	1
-GTA	9	8	2	6	1	6	2	7	3	5	2	8	2	4	0
-GTG	10	7	4	4	6	12	0	1	1	9	1	9	2	3	2
-GCT	15	8	6	4	9	7	2	6	10	17	7	11	5	5	1
-GCC	6	5	2	2	5	11	0	3	0	8	3	6	1	1	0
-GCA	13	6	2	4	5	8	0	1	3	10	5	9	1	4	0
-GCG	2	6	3	0	1	4	2	1	3	9	1	1	1	1	1
-GAT	9	11	2	2	7	7	3	3	4	11	0	18	3	1	3
-GAC	4	11	2	1	6	3	1	4	0	6	0	4	0	3	0
-GAA	6	19	4	7	14	11	6	5	7	14	1	16	3	13	8
-GAG	2	10	0	4	7	3	1	1	0	5	1	10	0	1	0
-GGT	16	11	5	5	10	12	9	4	5	9	3	9	3	2	0
-GGC	7	7	2	0	4	2	1	1	1	6	1	4	0	4	0
-GGA	21	12	9	2	10	12	2	3	6	15	4	12	1	0	3
-GGG	11	10	3	1	10	8	2	1	3	6	0	3	2	2	2
-TAA	1	0	1	0	0	0	0	1	0	0	1	0	1	0	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0
-TGA	0	0	0	1	0	1	1	0	1	1	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox1	YP_004222805.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	25	17	18	5	10	7	8	4	13	5	1	1	13	11	5	7	8	6	9	10	7	15	3	6	1	5	1	4	2	15	17	14	21	14	11	11	3	13	5	5	3	9	5	1	1	15	6	9	10	15	6	13	2	9	4	6	2	16	7	21	11	1	0	0
+1	rps3	YP_004222806.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	19	18	6	9	14	7	10	8	13	7	7	1	5	7	9	3	6	3	6	7	8	9	1	9	3	9	7	9	7	14	10	17	10	2	7	8	4	14	10	32	23	7	4	20	9	6	8	8	7	8	5	6	6	11	11	19	10	11	7	12	10	0	1	0
+2	rpl16	YP_004222807.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	5	2	1	1	1	2	4	2	5	0	4	1	3	3	1	3	1	3	0	2	1	3	1	4	2	6	0	3	2	3	2	4	4	1	2	3	4	3	0	13	5	4	1	5	1	3	2	2	4	6	2	2	3	2	2	4	0	5	2	9	3	1	0	0
+3	mttB	YP_004222808.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	10	8	6	7	8	4	3	6	5	5	3	4	5	6	5	4	2	3	5	4	4	2	0	6	1	6	2	3	2	8	9	6	3	3	2	7	5	4	1	2	2	3	0	0	3	9	2	6	4	4	2	4	0	2	1	7	4	5	0	2	1	0	0	1
+4	ccmFc	YP_004222809.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	17	15	9	13	5	10	8	6	6	2	6	3	5	10	7	6	6	14	7	8	2	13	3	7	3	9	6	5	5	9	6	8	15	9	2	5	6	12	5	10	10	4	4	10	4	5	8	1	6	9	5	5	1	7	6	14	7	10	4	10	10	0	0	0
+5	nad4	YP_004222811.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	19	18	15	10	12	10	9	1	14	3	6	1	6	14	3	12	7	17	7	4	5	9	2	8	3	2	3	5	3	26	11	13	16	10	7	7	2	11	3	8	5	7	9	9	0	14	3	6	12	7	11	8	4	7	3	11	3	12	2	12	8	0	0	1
+6	ccmB	YP_004222817.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	11	6	6	5	7	5	6	4	6	1	4	1	1	7	3	4	2	5	5	7	3	4	1	6	0	2	0	3	3	7	6	2	4	3	3	4	2	3	2	3	2	5	2	1	0	4	4	2	0	2	0	0	2	3	1	6	1	9	1	2	2	0	0	1
+7	nad6	YP_004222818.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	4	9	8	9	3	2	2	1	5	1	0	0	4	7	2	3	1	2	1	6	1	4	1	2	1	1	2	3	0	8	4	9	9	6	4	2	4	6	0	2	2	3	1	1	5	10	3	7	1	6	3	1	1	3	4	5	1	4	1	3	1	1	0	0
+8	ccmC	YP_004222822.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	11	6	11	5	11	2	6	2	3	1	0	0	5	9	2	3	5	10	5	3	2	5	0	5	0	6	1	2	4	10	6	7	7	2	6	6	2	2	5	2	3	3	4	2	1	5	2	3	1	10	0	3	3	4	0	7	0	5	1	6	3	0	0	1
+9	ccmFn	YP_004222823.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	21	19	12	9	13	9	10	12	7	7	6	5	16	23	6	7	6	15	7	9	4	14	3	6	10	13	5	10	11	15	7	6	14	8	8	8	3	13	7	14	8	7	6	6	4	11	8	5	9	17	8	10	9	11	6	14	5	9	6	15	6	0	0	1
+10	atp9-2	YP_004222828.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	3	4	4	3	0	1	4	0	1	0	0	0	0	0	1	1	1	0	0	1	0	1	0	0	1	0	0	0	0	5	1	0	4	0	1	1	0	1	1	2	0	1	0	1	0	1	0	2	1	7	3	5	1	0	0	1	1	3	1	4	0	1	0	0
+11	nad7	YP_004222829.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	5	8	12	4	8	6	10	4	8	4	5	2	5	5	2	1	3	12	1	8	1	12	3	15	1	11	1	11	2	8	7	7	14	11	5	2	2	7	3	11	2	5	1	8	2	4	5	8	9	11	6	9	1	18	4	16	10	9	4	12	3	0	1	0
+12	nad4L	YP_004222831.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	6	2	4	2	3	2	5	2	1	0	0	0	0	1	1	0	0	2	0	1	0	0	0	2	0	0	0	3	1	10	4	1	6	2	0	1	2	4	1	1	0	0	1	1	0	3	1	2	2	5	1	1	1	3	0	3	0	3	0	1	2	1	0	0
+13	atp4	YP_004222832.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	4	4	8	4	4	2	3	3	1	0	5	2	0	4	2	3	0	4	2	3	1	0	1	4	5	3	2	4	2	5	7	4	6	3	1	3	1	8	2	4	9	5	1	5	3	5	1	4	3	5	1	4	1	1	3	13	1	2	4	0	2	0	1	0
+14	rps10	YP_004222833.1	Vigna radiata	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fabales, Fabaceae, Papilionoideae, Phaseoleae, Vigna	8	1	3	5	2	2	2	1	2	1	0	1	0	4	1	1	1	3	0	1	0	3	1	2	3	1	3	5	2	3	3	5	1	1	4	2	1	0	1	6	10	1	0	2	0	0	1	0	2	1	0	0	1	3	0	8	0	0	0	3	2	0	0	1

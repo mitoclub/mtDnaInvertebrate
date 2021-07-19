@@ -1,65 +1,13 @@
-	YP_009731479.1|ND1	YP_009731480.1|ND2	YP_009731481.1|COX1	YP_009731482.1|COX2	YP_009731483.1|ATP8	YP_009731484.1|ATP6	YP_009731485.1|COX3	YP_009731486.1|ND3	YP_009731487.1|ND4L	YP_009731488.1|ND4	YP_009731489.1|ND5	YP_009731490.1|CYTB
-TTT	5	6	16	5	2	6	11	4	1	9	19	11
-TTC	12	4	25	7	2	7	11	4	4	8	19	20
-TTA	8	6	12	4	0	8	6	2	2	11	12	7
-TTG	4	2	1	0	0	4	4	1	2	6	2	1
-TCT	8	4	8	6	0	3	4	3	3	2	7	4
-TCC	5	7	14	5	3	2	2	4	3	9	16	6
-TCA	5	2	2	1	0	0	2	2	3	8	3	7
-TCG	1	0	2	0	0	1	1	0	0	0	0	1
-TAT	4	2	6	1	0	1	4	1	1	6	3	4
-TAC	6	6	12	7	1	3	6	2	0	10	7	11
-TGT	0	0	0	1	1	0	1	1	2	1	3	2
-TGC	0	1	1	1	0	0	1	1	1	3	7	1
-TGA	7	10	12	4	5	3	9	2	1	10	7	12
-TGG	1	1	5	1	0	1	3	2	0	8	9	0
-CTT	15	17	13	9	0	12	5	6	7	23	20	13
-CTC	14	24	21	5	2	13	10	11	5	22	36	19
-CTA	21	22	9	8	2	14	4	4	4	25	16	15
-CTG	6	7	5	2	1	4	4	3	3	7	3	5
-CCT	5	4	10	2	3	6	2	1	1	6	9	3
-CCC	15	18	14	8	3	7	7	6	1	17	19	13
-CCA	4	2	3	2	0	4	2	1	0	1	7	5
-CCG	0	0	1	2	0	0	1	0	0	2	0	1
-CAT	2	1	10	3	2	1	5	0	1	3	3	3
-CAC	2	4	11	5	1	3	13	0	2	8	11	8
-CAA	6	10	5	8	2	8	7	2	3	8	11	3
-CAG	2	6	3	3	0	1	1	1	0	3	5	3
-CGT	1	1	2	1	0	0	0	1	0	3	0	2
-CGC	3	1	1	2	0	1	2	0	1	3	6	2
-CGA	3	4	4	3	0	3	3	1	2	3	3	2
-CGG	1	0	1	0	0	1	0	0	0	2	5	2
-ATT	9	11	26	13	2	12	7	6	3	17	27	10
-ATC	11	6	17	8	0	8	6	4	1	14	21	17
-ATA	4	6	14	8	3	3	9	2	1	17	14	5
-ATG	4	5	10	3	1	2	1	1	2	10	14	4
-ACT	3	6	7	4	0	3	2	1	0	7	10	4
-ACC	6	16	13	4	1	9	10	1	3	19	24	15
-ACA	6	11	15	3	1	4	10	0	6	12	18	3
-ACG	3	1	1	0	1	0	0	1	0	2	3	2
-AAT	3	5	5	2	1	4	1	0	0	3	5	2
-AAC	8	4	9	2	2	6	1	1	1	9	12	16
-AAA	3	8	6	2	3	4	3	0	0	5	12	6
-AAG	4	1	1	1	1	0	0	1	0	5	7	3
-AGT	2	1	0	0	2	1	1	0	0	2	2	1
-AGC	2	3	5	5	1	0	3	1	5	12	14	2
-GTT	9	3	9	3	1	2	6	1	0	5	9	4
-GTC	8	2	10	10	0	2	8	1	1	4	13	11
-GTA	3	7	12	2	0	5	1	1	2	8	11	7
-GTG	4	3	10	1	0	6	3	1	0	4	5	6
-GCT	2	9	12	3	0	1	1	3	4	8	17	5
-GCC	21	28	26	10	2	12	13	3	3	17	31	17
-GCA	8	9	9	5	1	9	8	4	4	12	14	11
-GCG	1	5	0	0	0	3	1	1	0	1	1	0
-GAT	0	0	5	4	0	1	1	1	0	1	4	3
-GAC	4	1	9	9	0	1	5	4	1	4	10	8
-GAA	5	4	6	7	0	4	4	4	2	5	10	2
-GAG	6	1	5	7	0	0	4	2	0	6	4	2
-GGT	0	1	6	2	1	2	1	0	1	4	8	1
-GGC	13	9	16	3	0	6	12	3	4	12	14	14
-GGA	3	4	9	1	1	0	4	1	1	3	5	8
-GGG	3	6	14	2	0	4	4	1	0	5	5	5
-TAA	0	0	1	0	0	1	0	0	1	0	0	0
-TAG	1	0	0	0	1	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009731479.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	5	12	8	4	8	5	5	1	4	6	0	0	7	1	15	14	21	6	5	15	4	0	2	2	6	2	1	3	3	1	9	11	4	4	3	6	6	3	3	8	3	4	2	2	9	8	3	4	2	21	8	1	0	4	5	6	0	13	3	3	0	1	0	0
+1	ND2	YP_009731480.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	6	4	6	2	4	7	2	0	2	6	0	1	10	1	17	24	22	7	4	18	2	0	1	4	10	6	1	1	4	0	11	6	6	5	6	16	11	1	5	4	8	1	1	3	3	2	7	3	9	28	9	5	0	1	4	1	1	9	4	6	0	0	0	0
+2	COX1	YP_009731481.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	16	25	12	1	8	14	2	2	6	12	0	1	12	5	13	21	9	5	10	14	3	1	10	11	5	3	2	1	4	1	26	17	14	10	7	13	15	1	5	9	6	1	0	5	9	10	12	10	12	26	9	0	5	9	6	5	6	16	9	14	1	0	0	0
+3	COX2	YP_009731482.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	5	7	4	0	6	5	1	0	1	7	1	1	4	1	9	5	8	2	2	8	2	2	3	5	8	3	1	2	3	0	13	8	8	3	4	4	3	0	2	2	2	1	0	5	3	10	2	1	3	10	5	0	4	9	7	7	2	3	1	2	0	0	0	0
+4	ATP8	YP_009731483.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	2	2	0	0	0	3	0	0	0	1	1	0	5	0	0	2	2	1	3	3	0	0	2	1	2	0	0	0	0	0	2	0	3	1	0	1	1	1	1	2	3	1	2	1	1	0	0	0	0	2	1	0	0	0	0	0	1	0	1	0	0	1	0	0
+5	ATP6	YP_009731484.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	6	7	8	4	3	2	0	1	1	3	0	0	3	1	12	13	14	4	6	7	4	0	1	3	8	1	0	1	3	1	12	8	3	2	3	9	4	0	4	6	4	0	1	0	2	2	5	6	1	12	9	3	1	1	4	0	2	6	0	4	1	0	0	0
+6	COX3	YP_009731485.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	11	11	6	4	4	2	2	1	4	6	1	1	9	3	5	10	4	4	2	7	2	1	5	13	7	1	0	2	3	0	7	6	9	1	2	10	10	0	1	1	3	0	1	3	6	8	1	3	1	13	8	1	1	5	4	4	1	12	4	4	0	0	0	0
+7	ND3	YP_009731486.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	4	4	2	1	3	4	2	0	1	2	1	1	2	2	6	11	4	3	1	6	1	0	0	0	2	1	1	0	1	0	6	4	2	1	1	1	0	1	0	1	0	1	0	1	1	1	1	1	3	3	4	1	1	4	4	2	0	3	1	1	0	0	0	0
+8	ND4L	YP_009731487.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	1	4	2	2	3	3	3	0	1	0	2	1	1	0	7	5	4	3	1	1	0	0	1	2	3	0	0	1	2	0	3	1	1	2	0	3	6	0	0	1	0	0	0	5	0	1	2	0	4	3	4	0	0	1	2	0	1	4	1	0	1	0	0	0
+9	ND4	YP_009731488.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	9	8	11	6	2	9	8	0	6	10	1	3	10	8	23	22	25	7	6	17	1	2	3	8	8	3	3	3	3	2	17	14	17	10	7	19	12	2	3	9	5	5	2	12	5	4	8	4	8	17	12	1	1	4	5	6	4	12	3	5	0	0	0	0
+10	ND5	YP_009731489.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	19	19	12	2	7	16	3	0	3	7	3	7	7	9	20	36	16	3	9	19	7	0	3	11	11	5	0	6	3	5	27	21	14	14	10	24	18	3	5	12	12	7	2	14	9	13	11	5	17	31	14	1	4	10	10	4	8	14	5	5	0	1	0	0
+11	CYTB	YP_009731490.1	Pogonophryne albipinna	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Notothenioidei, Pogonophryne	11	20	7	1	4	6	7	1	4	11	2	1	12	0	13	19	15	5	3	13	5	1	3	8	3	3	2	2	2	2	10	17	5	4	4	15	3	2	2	16	6	3	1	2	4	11	7	6	5	17	11	0	3	8	2	2	1	14	8	5	0	0	0	0

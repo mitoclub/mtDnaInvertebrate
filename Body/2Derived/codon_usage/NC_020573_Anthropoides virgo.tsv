@@ -1,65 +1,13 @@
-	YP_007624332.1|ND1	YP_007624333.1|ND2	YP_007624334.1|COX1	YP_007624335.1|COX2	YP_007624336.1|ATP8	YP_007624337.1|ATP6	YP_007624338.1|COX3	YP_007624339.1|ND3	YP_007624340.1|ND4L	YP_007624341.1|ND4	YP_007624342.1|ND5	YP_007624343.1|CYTB
-TTT	3	6	10	1	2	4	6	2	0	8	6	5
-TTC	14	9	33	8	2	5	18	6	5	7	25	22
-TTA	5	12	10	3	0	9	4	2	5	12	16	6
-TTG	2	0	1	0	0	0	0	0	1	0	1	0
-TCT	1	2	3	0	1	0	0	0	0	2	3	2
-TCC	13	8	11	9	1	5	8	4	5	11	19	9
-TCA	7	17	9	7	3	6	6	3	6	11	15	11
-TCG	0	0	0	0	0	0	1	0	0	0	0	0
-TAT	3	3	7	2	0	0	2	1	0	3	5	4
-TAC	12	4	10	6	0	3	6	1	2	8	8	10
-TGT	1	0	0	2	0	1	0	1	2	1	1	0
-TGC	0	1	1	1	0	0	1	0	1	2	2	4
-TGA	7	8	15	5	5	4	11	5	1	11	12	10
-TGG	1	2	2	0	0	0	1	0	0	1	1	1
-CTT	9	6	5	3	2	7	1	1	1	4	8	9
-CTC	13	16	13	9	1	13	7	9	0	28	31	18
-CTA	27	26	29	14	5	28	18	14	12	51	42	36
-CTG	5	4	4	2	1	2	2	1	0	5	4	0
-CCT	5	2	4	3	1	3	5	2	0	4	2	1
-CCC	8	7	6	5	3	3	4	1	2	6	7	11
-CCA	12	9	20	5	5	10	4	4	1	17	16	14
-CCG	0	1	1	0	0	1	0	0	0	0	1	0
-CAT	2	5	2	1	0	1	6	0	0	3	4	4
-CAC	1	4	17	8	0	3	13	0	6	15	11	8
-CAA	5	8	9	7	2	7	7	3	2	13	17	8
-CAG	0	2	0	0	0	1	1	1	0	2	3	0
-CGT	2	0	0	0	0	2	0	0	0	1	1	2
-CGC	1	1	2	2	0	2	0	1	0	3	3	2
-CGA	4	2	6	2	0	1	5	1	2	7	3	4
-CGG	2	0	0	1	0	0	0	0	0	0	1	0
-ATT	9	12	16	3	1	5	5	4	1	7	15	5
-ATC	19	24	25	16	3	13	14	8	3	33	37	20
-ATA	13	14	21	7	1	8	7	3	6	21	31	8
-ATG	2	3	3	3	1	3	1	0	2	3	3	4
-ACT	0	9	4	2	2	7	2	1	1	9	10	3
-ACC	11	13	21	8	6	7	6	7	2	24	34	15
-ACA	9	20	15	7	3	12	10	4	2	21	35	10
-ACG	1	3	1	0	0	0	0	0	0	1	0	1
-AAT	4	5	6	1	0	2	2	0	1	1	6	3
-AAC	7	7	9	4	3	7	3	3	2	12	22	18
-AAA	7	14	9	4	2	4	3	1	0	9	22	10
-AAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGT	1	1	0	1	0	0	1	0	0	2	0	0
-AGC	5	3	4	1	1	4	4	1	4	8	10	1
-GTT	3	0	1	4	0	2	0	1	0	1	2	4
-GTC	1	1	15	6	0	2	7	0	0	3	6	5
-GTA	7	4	17	4	0	3	6	1	2	4	4	7
-GTG	0	1	2	0	0	0	0	0	0	0	0	1
-GCT	3	3	11	6	0	3	3	0	0	3	9	7
-GCC	13	10	22	2	0	6	11	2	5	12	25	13
-GCA	13	14	12	6	0	4	7	3	5	14	11	6
-GCG	0	0	0	0	0	0	0	0	0	0	1	0
-GAT	1	1	3	7	0	0	0	0	0	1	2	4
-GAC	3	1	12	6	0	2	4	3	1	1	5	2
-GAA	9	5	10	13	0	4	8	6	3	9	13	7
-GAG	2	0	0	2	0	0	0	0	0	1	0	0
-GGT	3	0	5	0	0	0	2	0	2	1	2	2
-GGC	7	7	17	2	0	2	5	3	1	12	12	12
-GGA	0	3	20	3	0	6	12	2	1	2	17	8
-GGG	3	3	5	3	0	0	1	0	0	4	2	3
-TAA	0	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	1	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007624332.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	3	14	5	2	1	13	7	0	3	12	1	0	7	1	9	13	27	5	5	8	12	0	2	1	5	0	2	1	4	2	9	19	13	2	0	11	9	1	4	7	7	0	1	5	3	1	7	0	3	13	13	0	1	3	9	2	3	7	0	3	0	0	0	1
+1	ND2	YP_007624333.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	6	9	12	0	2	8	17	0	3	4	0	1	8	2	6	16	26	4	2	7	9	1	5	4	8	2	0	1	2	0	12	24	14	3	9	13	20	3	5	7	14	0	1	3	0	1	4	1	3	10	14	0	1	1	5	0	0	7	3	3	0	0	0	0
+2	COX1	YP_007624334.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	10	33	10	1	3	11	9	0	7	10	0	1	15	2	5	13	29	4	4	6	20	1	2	17	9	0	0	2	6	0	16	25	21	3	4	21	15	1	6	9	9	0	0	4	1	15	17	2	11	22	12	0	3	12	10	0	5	17	20	5	0	0	0	1
+3	COX2	YP_007624335.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	1	8	3	0	0	9	7	0	2	6	2	1	5	0	3	9	14	2	3	5	5	0	1	8	7	0	0	2	2	1	3	16	7	3	2	8	7	0	1	4	4	0	1	1	4	6	4	0	6	2	6	0	7	6	13	2	0	2	3	3	1	0	0	0
+4	ATP8	YP_007624336.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	2	2	0	0	1	1	3	0	0	0	0	0	5	0	2	1	5	1	1	3	5	0	0	0	2	0	0	0	0	0	1	3	1	1	2	6	3	0	0	3	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007624337.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	4	5	9	0	0	5	6	0	0	3	1	0	4	0	7	13	28	2	3	3	10	1	1	3	7	1	2	2	1	0	5	13	8	3	7	7	12	0	2	7	4	0	0	4	2	2	3	0	3	6	4	0	0	2	4	0	0	2	6	0	1	0	0	0
+6	COX3	YP_007624338.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	6	18	4	0	0	8	6	1	2	6	0	1	11	1	1	7	18	2	5	4	4	0	6	13	7	1	0	0	5	0	5	14	7	1	2	6	10	0	2	3	3	0	1	4	0	7	6	0	3	11	7	0	0	4	8	0	2	5	12	1	0	0	0	0
+7	ND3	YP_007624339.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	2	6	2	0	0	4	3	0	1	1	1	0	5	0	1	9	14	1	2	1	4	0	0	0	3	1	0	1	1	0	4	8	3	0	1	7	4	0	0	3	1	0	0	1	1	0	1	0	0	2	3	0	0	3	6	0	0	3	2	0	0	1	0	0
+8	ND4L	YP_007624340.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	0	5	5	1	0	5	6	0	0	2	2	1	1	0	1	0	12	0	0	2	1	0	0	6	2	0	0	0	2	0	1	3	6	2	1	2	2	0	1	2	0	0	0	4	0	0	2	0	0	5	5	0	0	1	3	0	2	1	1	0	1	0	0	0
+9	ND4	YP_007624341.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	8	7	12	0	2	11	11	0	3	8	1	2	11	1	4	28	51	5	4	6	17	0	3	15	13	2	1	3	7	0	7	33	21	3	9	24	21	1	1	12	9	0	2	8	1	3	4	0	3	12	14	0	1	1	9	1	1	12	2	4	0	0	1	0
+10	ND5	YP_007624342.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	6	25	16	1	3	19	15	0	5	8	1	2	12	1	8	31	42	4	2	7	16	1	4	11	17	3	1	3	3	1	15	37	31	3	10	34	35	0	6	22	22	0	0	10	2	6	4	0	9	25	11	1	2	5	13	0	2	12	17	2	1	0	0	0
+11	CYTB	YP_007624343.1	Anthropoides virgo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Gruidae, Anthropoides	5	22	6	0	2	9	11	0	4	10	0	4	10	1	9	18	36	0	1	11	14	0	4	8	8	0	2	2	4	0	5	20	8	4	3	15	10	1	3	18	10	0	0	1	4	5	7	1	7	13	6	0	4	2	7	0	2	12	8	3	1	0	0	0

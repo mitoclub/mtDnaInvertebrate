@@ -1,65 +1,12 @@
-	YP_007025034.1|ND1	YP_007025035.1|ND2	YP_007025036.1|COX1	YP_007025038.1|ATP8	YP_007025039.1|ATP6	YP_007025040.1|COX3	YP_007025041.1|ND3	YP_007025042.1|ND4L	YP_007025043.1|ND4	YP_007025044.1|ND5	YP_007025046.1|CYTB
-TTT	9	8	17	1	5	8	6	2	11	19	13
-TTC	13	7	25	2	9	16	3	2	8	27	14
-TTA	7	8	15	1	10	6	8	8	21	15	7
-TTG	0	1	6	0	2	1	0	0	0	0	0
-TCT	5	2	7	1	3	3	2	1	7	10	5
-TCC	7	11	5	1	2	3	1	4	8	10	6
-TCA	6	8	15	3	3	11	0	2	11	11	7
-TCG	1	0	1	0	0	0	0	0	0	1	0
-TAT	4	1	16	1	0	8	3	1	6	10	6
-TAC	5	8	4	0	2	3	0	2	10	10	9
-TGT	1	0	1	0	0	0	1	2	2	1	1
-TGC	1	0	0	0	0	1	0	1	2	3	2
-TGA	9	10	14	2	3	12	4	0	13	9	12
-TGG	0	0	3	1	0	0	0	0	0	3	0
-CTT	6	8	8	4	7	6	4	2	11	11	4
-CTC	8	13	5	2	6	11	4	4	23	25	12
-CTA	33	31	23	5	18	8	13	8	37	44	40
-CTG	2	3	5	0	3	2	0	1	4	4	1
-CCT	4	3	11	3	6	3	2	0	9	10	7
-CCC	11	9	7	1	2	2	3	0	9	14	5
-CCA	7	8	10	2	5	7	1	1	4	7	10
-CCG	0	0	1	0	0	0	0	0	0	1	1
-CAT	1	3	8	0	1	7	0	0	4	5	3
-CAC	4	3	8	3	4	10	0	3	9	9	9
-CAA	5	12	5	5	8	7	3	2	10	18	8
-CAG	1	0	2	0	0	0	0	0	1	0	0
-CGT	0	0	2	0	2	1	0	0	3	1	2
-CGC	1	1	1	0	0	1	1	0	1	5	1
-CGA	7	2	5	0	2	3	0	1	6	2	5
-CGG	0	0	0	0	0	0	0	0	0	0	0
-ATT	8	20	22	2	13	4	3	6	24	21	10
-ATC	15	16	17	2	12	12	4	3	18	35	27
-ATA	18	28	25	1	12	10	7	7	32	34	12
-ATG	1	3	7	1	1	2	0	2	1	6	1
-ACT	6	11	6	1	9	5	1	2	8	12	8
-ACC	5	13	10	3	7	4	2	0	14	20	7
-ACA	17	22	21	4	13	11	5	5	20	30	16
-ACG	0	1	0	1	0	0	0	0	1	1	0
-AAT	3	3	9	0	6	5	4	1	5	16	6
-AAC	10	11	10	1	6	2	1	5	16	16	9
-AAA	8	12	9	5	4	0	4	0	11	23	8
-AAG	0	0	0	1	1	2	0	0	0	1	1
-AGT	1	1	1	0	1	2	0	0	5	3	0
-AGC	1	3	2	0	3	3	2	0	5	8	4
-GTT	0	1	9	0	0	1	0	0	1	1	3
-GTC	1	2	8	0	1	5	0	2	2	2	5
-GTA	10	3	15	1	6	8	1	1	9	5	8
-GTG	0	0	3	0	0	0	0	1	0	0	1
-GCT	10	0	12	0	5	2	6	2	6	10	1
-GCC	7	12	10	0	5	11	1	4	10	17	5
-GCA	12	7	17	0	3	2	4	2	12	11	15
-GCG	0	0	1	0	1	0	0	1	0	0	1
-GAT	2	0	5	1	0	0	2	0	2	2	1
-GAC	2	2	10	0	1	3	1	1	1	9	10
-GAA	10	4	8	0	3	8	4	2	8	9	6
-GAG	1	0	1	0	0	0	1	0	1	3	0
-GGT	2	2	15	0	4	5	0	1	0	1	3
-GGC	4	2	7	1	2	8	2	2	7	7	11
-GGA	6	8	22	0	3	6	1	1	9	18	9
-GGG	0	0	4	0	0	0	0	0	1	0	1
-TAA	1	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007025034.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	9	13	7	0	5	7	6	1	4	5	1	1	9	0	6	8	33	2	4	11	7	0	1	4	5	1	0	1	7	0	8	15	18	1	6	5	17	0	3	10	8	0	1	1	0	1	10	0	10	7	12	0	2	2	10	1	2	4	6	0	1	0	0	0
+1	ND2	YP_007025035.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	8	7	8	1	2	11	8	0	1	8	0	0	10	0	8	13	31	3	3	9	8	0	3	3	12	0	0	1	2	0	20	16	28	3	11	13	22	1	3	11	12	0	1	3	1	2	3	0	0	12	7	0	0	2	4	0	2	2	8	0	0	0	0	0
+2	COX1	YP_007025036.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	17	25	15	6	7	5	15	1	16	4	1	0	14	3	8	5	23	5	11	7	10	1	8	8	5	2	2	1	5	0	22	17	25	7	6	10	21	0	9	10	9	0	1	2	9	8	15	3	12	10	17	1	5	10	8	1	15	7	22	4	0	0	1	0
+3	ATP8	YP_007025038.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	1	2	1	0	1	1	3	0	1	0	0	0	2	1	4	2	5	0	3	1	2	0	0	3	5	0	0	0	0	0	2	2	1	1	1	3	4	1	0	1	5	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0
+4	ATP6	YP_007025039.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	5	9	10	2	3	2	3	0	0	2	0	0	3	0	7	6	18	3	6	2	5	0	1	4	8	0	2	0	2	0	13	12	12	1	9	7	13	0	6	6	4	1	1	3	0	1	6	0	5	5	3	1	0	1	3	0	4	2	3	0	1	0	0	0
+5	COX3	YP_007025040.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	8	16	6	1	3	3	11	0	8	3	0	1	12	0	6	11	8	2	3	2	7	0	7	10	7	0	1	1	3	0	4	12	10	2	5	4	11	0	5	2	0	2	2	3	1	5	8	0	2	11	2	0	0	3	8	0	5	8	6	0	0	0	0	0
+6	ND3	YP_007025041.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	6	3	8	0	2	1	0	0	3	0	1	0	4	0	4	4	13	0	2	3	1	0	0	0	3	0	0	1	0	0	3	4	7	0	1	2	5	0	4	1	4	0	0	2	0	0	1	0	6	1	4	0	2	1	4	1	0	2	1	0	0	0	0	0
+7	ND4L	YP_007025042.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	2	2	8	0	1	4	2	0	1	2	2	1	0	0	2	4	8	1	0	0	1	0	0	3	2	0	0	0	1	0	6	3	7	2	2	0	5	0	1	5	0	0	0	0	0	2	1	1	2	4	2	1	0	1	2	0	1	2	1	0	1	0	0	0
+8	ND4	YP_007025043.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	11	8	21	0	7	8	11	0	6	10	2	2	13	0	11	23	37	4	9	9	4	0	4	9	10	1	3	1	6	0	24	18	32	1	8	14	20	1	5	16	11	0	5	5	1	2	9	0	6	10	12	0	2	1	8	1	0	7	9	1	0	0	0	0
+9	ND5	YP_007025044.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	19	27	15	0	10	10	11	1	10	10	1	3	9	3	11	25	44	4	10	14	7	1	5	9	18	0	1	5	2	0	21	35	34	6	12	20	30	1	16	16	23	1	3	8	1	2	5	0	10	17	11	0	2	9	9	3	1	7	18	0	1	0	0	0
+10	CYTB	YP_007025046.1	Orcaella brevirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Orcaella	13	14	7	0	5	6	7	0	6	9	1	2	12	0	4	12	40	1	7	5	10	1	3	9	8	0	2	1	5	0	10	27	12	1	8	7	16	0	6	9	8	1	0	4	3	5	8	1	1	5	15	1	1	10	6	0	3	11	9	1	0	0	1	0

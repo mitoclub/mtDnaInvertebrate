@@ -1,65 +1,13 @@
-	YP_001994354.1|COX2	YP_001994355.1|ATP8	YP_001994356.1|COX3	YP_001994357.1|ND6	YP_001994358.1|CYTB	YP_001994359.1|ATP6	YP_001994360.1|ND5	YP_001994361.1|ND4L	YP_001994362.1|ND4	YP_001994363.1|ND1	YP_001994364.1|ND3	YP_001994365.1|ND2
-TTT	14	3	23	15	34	14	45	3	38	35	15	24
-TTC	1	0	6	6	3	8	6	4	5	2	0	4
-TTA	5	2	12	8	23	11	30	11	37	21	10	26
-TTG	0	0	1	1	1	1	3	1	2	2	0	3
-TCT	13	3	6	6	7	11	24	4	15	9	7	22
-TCC	1	1	1	1	3	3	6	2	3	3	1	5
-TCA	6	2	7	6	7	10	21	2	21	9	2	11
-TCG	0	0	0	0	0	1	0	0	0	1	0	0
-TAT	6	0	6	4	8	7	7	2	10	10	1	10
-TAC	4	0	2	2	7	2	5	1	6	1	0	2
-TGT	1	1	3	0	4	1	7	2	4	4	1	2
-TGC	1	0	0	0	0	2	1	2	2	0	1	1
-TGA	6	4	12	1	13	3	9	0	6	4	3	6
-TGG	0	1	1	1	2	0	5	0	3	2	0	1
-CTT	17	3	9	12	13	9	34	7	27	18	9	17
-CTC	4	1	3	2	4	8	3	1	8	6	3	5
-CTA	2	1	6	10	12	11	17	3	16	5	2	11
-CTG	0	0	0	0	0	1	0	0	0	1	0	1
-CCT	3	7	6	6	10	7	11	1	10	9	3	9
-CCC	1	0	3	1	4	3	2	0	6	4	2	2
-CCA	7	1	5	2	7	3	11	0	10	2	2	4
-CCG	0	0	0	0	0	0	0	0	1	0	0	0
-CAT	3	1	9	1	9	5	11	1	7	0	1	2
-CAC	4	0	4	0	4	1	4	0	0	0	1	1
-CAA	9	1	4	2	6	5	11	2	6	3	0	10
-CAG	0	0	0	0	1	0	1	0	0	2	0	0
-CGT	1	0	3	0	4	1	1	0	0	1	1	0
-CGC	0	0	0	1	0	0	0	0	1	0	0	0
-CGA	5	0	4	1	6	1	4	2	4	6	2	0
-CGG	0	0	0	0	0	1	0	0	0	0	1	1
-ATT	14	3	14	13	27	19	47	5	34	16	11	31
-ATC	5	3	1	5	13	4	11	0	10	8	3	8
-ATA	6	3	7	5	15	6	34	7	18	13	1	14
-ATG	1	1	2	2	1	1	2	1	1	1	2	1
-ACT	6	2	2	3	6	7	17	2	12	9	2	8
-ACC	2	0	7	4	7	2	9	1	9	5	1	5
-ACA	6	2	13	4	9	3	17	6	6	10	2	6
-ACG	0	1	0	0	0	0	0	0	0	1	0	1
-AAT	2	1	2	5	16	7	21	2	11	11	1	9
-AAC	4	2	0	2	6	0	14	2	5	1	1	9
-AAA	5	1	1	3	10	3	12	2	10	10	2	9
-AAG	0	0	0	0	0	0	0	0	1	0	0	1
-AGT	0	0	1	1	0	2	4	0	2	2	1	3
-AGC	0	0	1	1	0	2	2	0	3	1	0	0
-AGA	1	0	3	0	2	9	5	1	7	8	2	4
-AGG	0	0	0	0	1	0	1	0	0	0	0	0
-GTT	8	0	7	2	9	0	12	1	2	4	1	4
-GTC	1	0	0	0	2	1	0	1	1	1	1	3
-GTA	3	0	7	3	4	3	2	1	7	1	0	1
-GTG	2	0	0	0	1	0	2	1	0	0	1	0
-GCT	6	1	10	2	9	6	20	1	17	10	2	6
-GCC	6	0	2	2	5	1	7	1	7	8	0	5
-GCA	7	1	9	5	11	10	19	2	13	8	1	3
-GCG	0	0	0	1	0	0	0	1	1	1	0	0
-GAT	8	0	5	0	6	3	6	1	2	4	3	0
-GAC	4	0	0	1	2	3	3	0	1	0	2	0
-GAA	10	1	7	2	5	1	6	2	6	7	5	3
-GAG	0	0	0	0	0	1	2	0	0	1	0	0
-GGT	0	0	5	1	4	1	4	2	3	2	0	3
-GGC	1	0	8	1	3	0	0	1	3	1	0	1
-GGA	5	0	9	3	15	6	14	0	5	6	2	10
-GGG	2	0	0	1	2	1	3	1	3	1	2	1
-TAA	1	0	1	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_001994354.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	14	1	5	0	13	1	6	0	6	4	1	1	6	0	17	4	2	0	3	1	7	0	3	4	9	0	1	0	5	0	14	5	6	1	6	2	6	0	2	4	5	0	0	0	1	0	8	1	3	2	6	6	7	0	8	4	10	0	0	1	5	2	1	0
+1	ATP8	YP_001994355.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	3	0	2	0	3	1	2	0	0	0	1	0	4	1	3	1	1	0	7	0	1	0	1	0	1	0	0	0	0	0	3	3	3	1	2	0	2	1	1	2	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+2	COX3	YP_001994356.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	23	6	12	1	6	1	7	0	6	2	3	0	12	1	9	3	6	0	6	3	5	0	9	4	4	0	3	0	4	0	14	1	7	2	2	7	13	0	2	0	1	0	1	1	3	0	7	0	7	0	10	2	9	0	5	0	7	0	5	8	9	0	1	0
+3	ND6	YP_001994357.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	15	6	8	1	6	1	6	0	4	2	0	0	1	1	12	2	10	0	6	1	2	0	1	0	2	0	0	1	1	0	13	5	5	2	3	4	4	0	5	2	3	0	1	1	0	0	2	0	3	0	2	2	5	1	0	1	2	0	1	1	3	1	1	0
+4	CYTB	YP_001994358.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	34	3	23	1	7	3	7	0	8	7	4	0	13	2	13	4	12	0	10	4	7	0	9	4	6	1	4	0	6	0	27	13	15	1	6	7	9	0	16	6	10	0	0	0	2	1	9	2	4	1	9	5	11	0	6	2	5	0	4	3	15	2	1	0
+5	ATP6	YP_001994359.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	14	8	11	1	11	3	10	1	7	2	1	2	3	0	9	8	11	1	7	3	3	0	5	1	5	0	1	0	1	1	19	4	6	1	7	2	3	0	7	0	3	0	2	2	9	0	0	1	3	0	6	1	10	0	3	3	1	1	1	0	6	1	1	0
+6	ND5	YP_001994360.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	45	6	30	3	24	6	21	0	7	5	7	1	9	5	34	3	17	0	11	2	11	0	11	4	11	1	1	0	4	0	47	11	34	2	17	9	17	0	21	14	12	0	4	2	5	1	12	0	2	2	20	7	19	0	6	3	6	2	4	0	14	3	0	0
+7	ND4L	YP_001994361.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	3	4	11	1	4	2	2	0	2	1	2	2	0	0	7	1	3	0	1	0	0	0	1	0	2	0	0	0	2	0	5	0	7	1	2	1	6	0	2	2	2	0	0	0	1	0	1	1	1	1	1	1	2	1	1	0	2	0	2	1	0	1	1	0
+8	ND4	YP_001994362.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	38	5	37	2	15	3	21	0	10	6	4	2	6	3	27	8	16	0	10	6	10	1	7	0	6	0	0	1	4	0	34	10	18	1	12	9	6	0	11	5	10	1	2	3	7	0	2	1	7	0	17	7	13	1	2	1	6	0	3	3	5	3	1	0
+9	ND1	YP_001994363.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	35	2	21	2	9	3	9	1	10	1	4	0	4	2	18	6	5	1	9	4	2	0	0	0	3	2	1	0	6	0	16	8	13	1	9	5	10	1	11	1	10	0	2	1	8	0	4	1	1	0	10	8	8	1	4	0	7	1	2	1	6	1	0	0
+10	ND3	YP_001994364.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	15	0	10	0	7	1	2	0	1	0	1	1	3	0	9	3	2	0	3	2	2	0	1	1	0	0	1	0	2	1	11	3	1	2	2	1	2	0	1	1	2	0	1	0	2	0	1	1	0	1	2	0	1	0	3	2	5	0	0	0	2	2	1	0
+11	ND2	YP_001994365.1	Pista cristata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Scolecida, Terebellida, Terebellidae, Pista	24	4	26	3	22	5	11	0	10	2	2	1	6	1	17	5	11	1	9	2	4	0	2	1	10	0	0	0	0	1	31	8	14	1	8	5	6	1	9	9	9	1	3	0	4	0	4	3	1	0	6	5	3	0	0	0	3	0	3	1	10	1	1	0

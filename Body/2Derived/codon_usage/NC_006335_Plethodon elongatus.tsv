@@ -1,65 +1,12 @@
-	YP_097129.1|ND2	YP_097130.1|COX1	YP_097131.1|COX2	YP_097132.1|ATP8	YP_097133.1|ATP6	YP_097134.1|COX3	YP_097135.1|ND3	YP_097136.1|ND4L	YP_097137.1|ND4	YP_097138.1|ND5	YP_097140.1|CYTB
-TTT	7	32	9	3	5	16	7	4	16	31	24
-TTC	2	8	1	0	7	9	0	3	4	8	6
-TTA	19	14	5	0	17	15	4	8	28	27	19
-TTG	0	1	1	0	1	0	1	1	6	0	0
-TCT	7	8	5	0	4	7	1	4	11	11	4
-TCC	5	3	1	0	1	2	1	2	6	11	3
-TCA	11	17	9	3	5	3	3	2	7	20	15
-TCG	0	1	0	0	0	0	0	0	1	1	1
-TAT	6	12	6	1	2	6	2	1	11	9	9
-TAC	2	6	2	0	1	4	0	1	1	1	6
-TGT	0	1	1	0	1	0	1	3	1	1	1
-TGC	1	0	1	0	0	1	0	0	4	4	2
-TGA	11	17	5	5	2	11	5	1	12	12	11
-TGG	0	0	0	0	2	1	0	0	2	0	1
-CTT	12	23	7	0	15	8	7	8	18	24	13
-CTC	9	2	5	1	7	3	2	1	10	12	6
-CTA	21	21	6	2	20	5	8	6	23	21	16
-CTG	2	0	0	0	0	0	2	2	2	3	2
-CCT	3	4	0	2	1	4	0	0	5	3	3
-CCC	10	5	5	1	4	2	1	0	6	7	1
-CCA	11	17	7	4	11	5	8	1	15	17	16
-CCG	0	2	2	1	0	0	0	0	0	0	3
-CAT	0	8	4	1	2	5	0	1	6	7	4
-CAC	5	11	4	0	2	9	0	3	4	3	9
-CAA	10	7	8	3	10	7	3	2	11	18	8
-CAG	0	0	1	1	0	0	0	0	1	2	0
-CGT	0	1	0	0	0	0	0	0	1	1	1
-CGC	2	0	0	0	1	3	1	1	2	1	1
-CGA	2	7	6	0	3	2	1	1	7	7	5
-CGG	0	0	0	0	0	0	0	0	0	0	0
-ATT	31	28	13	7	13	16	11	0	34	46	27
-ATC	2	8	6	0	4	2	7	0	6	17	10
-ATA	33	31	15	3	10	8	3	6	36	45	16
-ATG	2	2	3	1	0	2	1	2	3	5	1
-ACT	4	10	3	0	5	7	2	2	9	8	5
-ACC	9	7	4	2	3	4	5	6	16	16	14
-ACA	17	19	7	2	12	9	2	5	19	28	7
-ACG	0	1	0	0	0	0	0	1	1	1	0
-AAT	12	9	5	3	5	5	2	1	13	20	7
-AAC	8	7	5	2	6	0	0	0	4	17	11
-AAA	11	9	3	5	2	2	1	2	13	23	11
-AAG	0	0	0	0	0	0	0	0	0	2	0
-AGT	1	1	1	0	3	2	0	2	2	3	0
-AGC	3	3	3	0	4	2	1	0	5	7	2
-GTT	2	8	8	0	2	6	1	1	2	3	5
-GTC	0	3	0	0	1	5	0	0	3	4	2
-GTA	5	25	6	0	6	8	1	0	6	7	11
-GTG	0	3	0	0	1	0	0	1	0	0	0
-GCT	4	8	5	0	1	7	1	1	3	9	4
-GCC	12	18	4	0	5	2	1	1	19	14	8
-GCA	11	14	5	0	4	10	4	2	7	17	9
-GCG	0	1	1	0	1	1	0	1	0	0	0
-GAT	1	9	6	1	0	3	2	1	1	6	4
-GAC	1	6	4	0	1	3	1	0	1	4	4
-GAA	5	8	10	0	3	7	5	1	8	11	6
-GAG	0	1	1	0	1	2	0	2	2	1	1
-GGT	1	11	1	0	3	3	1	1	3	4	5
-GGC	5	13	2	1	0	3	1	1	5	6	6
-GGA	8	19	4	0	7	12	4	2	14	16	14
-GGG	0	3	1	0	0	2	0	0	2	2	0
-TAA	1	0	0	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND2	YP_097129.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	7	2	19	0	7	5	11	0	6	2	0	1	11	0	12	9	21	2	3	10	11	0	0	5	10	0	0	2	2	0	31	2	33	2	4	9	17	0	12	8	11	0	1	3	2	0	5	0	4	12	11	0	1	1	5	0	1	5	8	0	1	0	0	0
+1	COX1	YP_097130.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	32	8	14	1	8	3	17	1	12	6	1	0	17	0	23	2	21	0	4	5	17	2	8	11	7	0	1	0	7	0	28	8	31	2	10	7	19	1	9	7	9	0	1	3	8	3	25	3	8	18	14	1	9	6	8	1	11	13	19	3	0	0	0	0
+2	COX2	YP_097131.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	9	1	5	1	5	1	9	0	6	2	1	1	5	0	7	5	6	0	0	5	7	2	4	4	8	1	0	0	6	0	13	6	15	3	3	4	7	0	5	5	3	0	1	3	8	0	6	0	5	4	5	1	6	4	10	1	1	2	4	1	0	0	0	0
+3	ATP8	YP_097132.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	3	0	0	0	0	0	3	0	1	0	0	0	5	0	0	1	2	0	2	1	4	1	1	0	3	1	0	0	0	0	7	0	3	1	0	2	2	0	3	2	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0
+4	ATP6	YP_097133.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	5	7	17	1	4	1	5	0	2	1	1	0	2	2	15	7	20	0	1	4	11	0	2	2	10	0	0	1	3	0	13	4	10	0	5	3	12	0	5	6	2	0	3	4	2	1	6	1	1	5	4	1	0	1	3	1	3	0	7	0	1	0	0	0
+5	COX3	YP_097134.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	16	9	15	0	7	2	3	0	6	4	0	1	11	1	8	3	5	0	4	2	5	0	5	9	7	0	0	3	2	0	16	2	8	2	7	4	9	0	5	0	2	0	2	2	6	5	8	0	7	2	10	1	3	3	7	2	3	3	12	2	0	0	0	0
+6	ND3	YP_097135.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	7	0	4	1	1	1	3	0	2	0	1	0	5	0	7	2	8	2	0	1	8	0	0	0	3	0	0	1	1	0	11	7	3	1	2	5	2	0	2	0	1	0	0	1	1	0	1	0	1	1	4	0	2	1	5	0	1	1	4	0	1	0	0	0
+7	ND4L	YP_097136.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	4	3	8	1	4	2	2	0	1	1	3	0	1	0	8	1	6	2	0	0	1	0	1	3	2	0	0	1	1	0	0	0	6	2	2	6	5	1	1	0	2	0	2	0	1	0	0	1	1	1	2	1	1	0	1	2	1	1	2	0	1	0	0	0
+8	ND4	YP_097137.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	16	4	28	6	11	6	7	1	11	1	1	4	12	2	18	10	23	2	5	6	15	0	6	4	11	1	1	2	7	0	34	6	36	3	9	16	19	1	13	4	13	0	2	5	2	3	6	0	3	19	7	0	1	1	8	2	3	5	14	2	0	0	0	0
+9	ND5	YP_097138.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	31	8	27	0	11	11	20	1	9	1	1	4	12	0	24	12	21	3	3	7	17	0	7	3	18	2	1	1	7	0	46	17	45	5	8	16	28	1	20	17	23	2	3	7	3	4	7	0	9	14	17	0	6	4	11	1	4	6	16	2	0	0	0	0
+10	CYTB	YP_097140.1	Plethodon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Plethodontidae, Plethodontinae, Plethodon	24	6	19	0	4	3	15	1	9	6	1	2	11	1	13	6	16	2	3	1	16	3	4	9	8	0	1	1	5	0	27	10	16	1	5	14	7	0	7	11	11	0	0	2	5	2	11	0	4	8	9	0	4	4	6	1	5	6	14	0	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_009423969.1|ND1	YP_009423970.1|ND2	YP_009423971.1|COX1	YP_009423972.1|COX2	YP_009423973.1|ATP8	YP_009423974.1|ATP6	YP_009423975.1|COX3	YP_009423976.1|ND3	YP_009423977.1|ND4L	YP_009423978.1|ND4	YP_009423979.1|ND5	YP_009423981.1|CYTB
-TTT	17	8	18	5	1	7	12	2	4	14	19	11
-TTC	10	6	27	3	0	6	15	5	1	12	27	23
-TTA	8	12	3	7	2	10	4	7	3	11	17	8
-TTG	5	1	5	1	1	3	0	1	1	2	5	3
-TCT	8	6	6	5	2	6	5	6	0	7	8	6
-TCC	9	11	11	4	1	4	3	2	5	6	11	11
-TCA	8	9	11	1	0	3	4	0	1	9	12	12
-TCG	0	0	0	1	0	0	0	0	0	0	4	1
-TAT	6	3	7	3	1	4	8	3	0	6	7	5
-TAC	4	3	10	5	1	0	2	1	0	9	12	8
-TGT	0	0	0	2	1	0	0	0	1	0	2	0
-TGC	1	0	0	0	0	0	2	1	2	4	8	3
-TGA	4	10	14	4	5	4	10	4	0	9	5	7
-TGG	3	0	3	1	0	1	2	1	1	4	4	4
-CTT	10	17	12	5	1	10	7	7	2	19	21	9
-CTC	16	13	16	7	4	12	11	6	6	29	23	25
-CTA	14	18	21	5	2	13	6	2	8	23	21	12
-CTG	5	7	6	1	0	9	1	0	3	7	5	2
-CCT	3	3	4	3	1	5	2	0	0	6	10	4
-CCC	13	13	11	4	3	4	8	3	1	14	14	15
-CCA	7	3	9	5	2	5	2	5	2	6	4	2
-CCG	0	0	2	1	0	1	1	1	0	0	1	1
-CAT	1	1	7	3	1	1	7	0	0	5	6	1
-CAC	4	3	12	6	0	4	7	1	4	6	12	10
-CAA	5	9	6	7	1	7	9	3	1	11	11	6
-CAG	1	2	1	0	0	0	0	0	0	1	2	0
-CGT	1	0	0	1	0	0	2	0	0	1	5	1
-CGC	2	0	4	1	0	1	1	1	1	4	3	5
-CGA	4	3	4	3	0	2	2	0	0	8	4	2
-CGG	1	1	0	0	0	1	0	1	1	0	1	0
-ATT	15	21	22	15	2	5	7	8	4	22	26	12
-ATC	11	12	16	7	1	12	8	4	1	17	19	22
-ATA	8	11	20	7	0	5	3	1	7	19	17	7
-ATG	0	9	6	5	1	3	4	1	2	8	8	2
-ACT	5	10	10	4	1	8	3	0	3	9	14	4
-ACC	12	18	8	6	2	9	8	3	3	11	18	7
-ACA	5	8	15	5	1	7	9	1	2	13	19	10
-ACG	0	0	6	1	0	1	0	0	0	1	0	0
-AAT	3	3	11	2	3	5	3	0	2	9	11	5
-AAC	7	10	5	5	3	6	1	0	2	7	9	14
-AAA	7	7	9	4	3	3	1	1	1	8	13	11
-AAG	1	4	0	0	0	0	1	0	0	1	2	0
-AGT	1	2	0	2	0	0	0	1	1	1	5	0
-AGC	1	3	4	6	2	3	3	0	1	7	7	1
-GTT	4	4	11	5	0	5	6	3	0	3	4	3
-GTC	5	4	13	3	0	3	5	1	1	8	8	8
-GTA	5	1	13	7	0	0	6	0	0	3	15	8
-GTG	2	1	4	0	1	2	0	1	1	1	1	0
-GCT	4	12	12	4	0	6	7	5	2	9	16	8
-GCC	14	12	19	9	1	10	15	4	3	17	31	16
-GCA	9	6	13	6	0	2	5	3	2	12	15	3
-GCG	0	1	0	1	1	0	0	0	0	0	1	0
-GAT	3	1	4	3	0	0	2	1	1	1	6	2
-GAC	2	1	12	9	0	1	4	2	0	2	7	8
-GAA	9	4	8	10	1	4	7	5	2	8	9	3
-GAG	1	1	1	0	0	0	0	0	0	2	4	1
-GGT	3	4	3	3	0	0	3	0	0	2	2	1
-GGC	6	5	13	3	0	3	9	2	5	11	12	16
-GGA	5	6	18	1	0	4	5	2	0	2	7	8
-GGG	1	1	11	2	0	1	3	1	0	6	5	3
-TAA	0	0	0	0	1	0	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009423969.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	17	10	8	5	8	9	8	0	6	4	0	1	4	3	10	16	14	5	3	13	7	0	1	4	5	1	1	2	4	1	15	11	8	0	5	12	5	0	3	7	7	1	1	1	4	5	5	2	4	14	9	0	3	2	9	1	3	6	5	1	0	0	0	0
+1	ND2	YP_009423970.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	8	6	12	1	6	11	9	0	3	3	0	0	10	0	17	13	18	7	3	13	3	0	1	3	9	2	0	0	3	1	21	12	11	9	10	18	8	0	3	10	7	4	2	3	4	4	1	1	12	12	6	1	1	1	4	1	4	5	6	1	0	0	0	0
+2	COX1	YP_009423971.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	18	27	3	5	6	11	11	0	7	10	0	0	14	3	12	16	21	6	4	11	9	2	7	12	6	1	0	4	4	0	22	16	20	6	10	8	15	6	11	5	9	0	0	4	11	13	13	4	12	19	13	0	4	12	8	1	3	13	18	11	0	0	0	1
+3	COX2	YP_009423972.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	5	3	7	1	5	4	1	1	3	5	2	0	4	1	5	7	5	1	3	4	5	1	3	6	7	0	1	1	3	0	15	7	7	5	4	6	5	1	2	5	4	0	2	6	5	3	7	0	4	9	6	1	3	9	10	0	3	3	1	2	0	0	0	0
+4	ATP8	YP_009423973.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	1	0	2	1	2	1	0	0	1	1	1	0	5	0	1	4	2	0	1	3	2	0	1	0	1	0	0	0	0	0	2	1	0	1	1	2	1	0	3	3	3	0	0	2	0	0	0	1	0	1	0	1	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009423974.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	7	6	10	3	6	4	3	0	4	0	0	0	4	1	10	12	13	9	5	4	5	1	1	4	7	0	0	1	2	1	5	12	5	3	8	9	7	1	5	6	3	0	0	3	5	3	0	2	6	10	2	0	0	1	4	0	0	3	4	1	0	0	0	0
+6	COX3	YP_009423975.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	12	15	4	0	5	3	4	0	8	2	0	2	10	2	7	11	6	1	2	8	2	1	7	7	9	0	2	1	2	0	7	8	3	4	3	8	9	0	3	1	1	1	0	3	6	5	6	0	7	15	5	0	2	4	7	0	3	9	5	3	0	0	0	0
+7	ND3	YP_009423976.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	2	5	7	1	6	2	0	0	3	1	0	1	4	1	7	6	2	0	0	3	5	1	0	1	3	0	0	1	0	1	8	4	1	1	0	3	1	0	0	0	1	0	1	0	3	1	0	1	5	4	3	0	1	2	5	0	0	2	2	1	0	0	0	0
+8	ND4L	YP_009423977.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	4	1	3	1	0	5	1	0	0	0	1	2	0	1	2	6	8	3	0	1	2	0	0	4	1	0	0	1	0	1	4	1	7	2	3	3	2	0	2	2	1	0	1	1	0	1	0	1	2	3	2	0	1	0	2	0	0	5	0	0	1	0	0	0
+9	ND4	YP_009423978.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	14	12	11	2	7	6	9	0	6	9	0	4	9	4	19	29	23	7	6	14	6	0	5	6	11	1	1	4	8	0	22	17	19	8	9	11	13	1	9	7	8	1	1	7	3	8	3	1	9	17	12	0	1	2	8	2	2	11	2	6	0	0	0	0
+10	ND5	YP_009423979.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	19	27	17	5	8	11	12	4	7	12	2	8	5	4	21	23	21	5	10	14	4	1	6	12	11	2	5	3	4	1	26	19	17	8	14	18	19	0	11	9	13	2	5	7	4	8	15	1	16	31	15	1	6	7	9	4	2	12	7	5	0	0	1	0
+11	CYTB	YP_009423981.1	Rana chaochiaoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Rana, Rana	11	23	8	3	6	11	12	1	5	8	0	3	7	4	9	25	12	2	4	15	2	1	1	10	6	0	1	5	2	0	12	22	7	2	4	7	10	0	5	14	11	0	0	1	3	8	8	0	8	16	3	0	2	8	3	1	1	16	8	3	1	0	0	0

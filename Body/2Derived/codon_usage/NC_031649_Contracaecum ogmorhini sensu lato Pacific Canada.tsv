@@ -1,65 +1,13 @@
-	YP_009312588.1|ND1	YP_009312589.1|ATP6	YP_009312590.1|ND2	YP_009312591.1|CYTB	YP_009312592.1|COX3	YP_009312593.1|ND4	YP_009312594.1|COX1	YP_009312595.1|COX2	YP_009312596.1|ND3	YP_009312597.1|ND5	YP_009312598.1|ND6	YP_009312599.1|ND4L
-TTT	45	25	53	50	38	64	49	21	19	85	27	13
-TTC	0	1	2	1	3	4	4	3	0	5	0	0
-TTA	7	11	16	19	9	19	27	5	5	33	9	5
-TTG	26	14	23	20	17	20	31	20	11	41	7	4
-TCT	12	4	13	12	9	19	21	10	5	25	6	4
-TCC	0	0	0	0	2	0	0	0	0	0	1	0
-TCA	1	0	1	1	2	4	0	1	0	2	2	1
-TCG	0	1	0	1	1	3	2	2	0	0	0	0
-TAT	13	12	11	12	6	19	19	11	4	19	7	2
-TAC	3	1	0	5	5	3	3	1	0	3	2	0
-TGT	1	4	2	5	2	3	4	7	2	7	3	0
-TGC	1	1	1	0	0	2	0	1	0	1	0	2
-TGA	2	0	3	2	1	3	5	2	2	2	1	1
-TGG	0	2	6	11	8	4	8	3	1	5	2	0
-CTT	5	1	10	13	10	13	13	6	1	9	5	1
-CTC	1	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	0	0	1	1	3	1	0	0	4	2	0
-CTG	3	0	1	1	1	3	2	1	2	1	0	0
-CCT	6	3	5	8	5	7	18	4	0	7	3	0
-CCC	1	0	0	1	0	2	0	2	0	0	0	0
-CCA	0	0	1	0	0	1	0	1	0	1	1	0
-CCG	1	0	1	2	0	1	2	1	0	1	0	0
-CAT	3	1	2	7	12	6	14	4	1	4	1	1
-CAC	0	0	0	0	0	0	3	0	0	0	0	0
-CAA	3	1	2	0	0	2	2	3	0	3	0	0
-CAG	5	1	3	5	1	0	4	3	1	4	0	1
-CGT	6	4	0	3	1	2	7	4	0	3	1	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	22	14	16	16	13	21	30	7	9	25	11	11
-ATC	2	0	1	3	2	3	0	5	1	2	1	0
-ATA	5	3	7	6	2	15	5	3	2	14	3	3
-ATG	8	7	7	8	4	21	22	7	4	13	4	4
-ACT	4	11	7	11	2	7	24	6	1	12	2	0
-ACC	1	1	0	1	3	1	3	0	0	2	0	0
-ACA	1	0	0	1	1	1	5	0	1	0	0	0
-ACG	0	0	1	0	1	3	0	1	0	1	0	0
-AAT	3	3	7	8	5	7	11	6	3	22	3	2
-AAC	1	0	4	2	3	6	3	3	0	3	2	0
-AAA	2	2	5	9	0	5	4	1	3	5	1	0
-AAG	3	4	7	4	4	5	8	6	2	12	2	2
-AGT	11	7	9	9	8	13	25	14	4	25	4	4
-AGC	0	0	0	1	1	0	2	0	0	0	1	0
-AGA	2	4	4	6	2	2	1	1	1	6	1	1
-AGG	3	2	1	2	5	6	4	2	2	9	4	1
-GTT	22	16	22	28	10	16	36	10	8	29	10	6
-GTC	1	2	0	3	1	1	1	0	0	0	1	0
-GTA	4	5	3	2	4	6	1	1	3	8	3	1
-GTG	4	3	9	12	7	6	8	3	0	10	2	0
-GCT	11	1	0	15	7	13	20	4	0	12	3	0
-GCC	2	1	1	2	0	4	0	0	0	0	0	0
-GCA	1	2	0	2	3	2	3	0	0	1	0	0
-GCG	0	1	0	0	1	5	0	0	0	2	0	0
-GAT	4	4	2	6	6	2	13	11	3	12	1	1
-GAC	1	0	0	1	0	0	2	1	0	0	0	0
-GAA	5	3	2	3	2	4	1	3	1	2	0	1
-GAG	6	6	3	5	3	5	7	6	2	6	0	1
-GGT	9	5	6	15	15	8	30	9	5	21	2	2
-GGC	2	0	0	0	1	1	3	0	1	1	1	1
-GGA	2	0	0	0	2	1	6	2	0	4	0	0
-GGG	3	5	1	7	3	12	8	3	1	3	2	0
-TAA	1	1	0	0	0	1	0	1	1	0	1	0
-TAG	0	0	1	1	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND1	YP_009312588.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	45	0	7	26	12	0	1	0	13	3	1	1	2	0	5	1	0	3	6	1	0	1	3	0	3	5	6	0	0	0	22	2	5	8	4	1	1	0	3	1	2	3	11	0	2	3	22	1	4	4	11	2	1	0	4	1	5	6	9	2	2	3	1	0
+1	ATP6	YP_009312589.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	25	1	11	14	4	0	0	1	12	1	4	1	0	2	1	0	0	0	3	0	0	0	1	0	1	1	4	0	0	0	14	0	3	7	11	1	0	0	3	0	2	4	7	0	4	2	16	2	5	3	1	1	2	1	4	0	3	6	5	0	0	5	1	0
+2	ND2	YP_009312590.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	53	2	16	23	13	0	1	0	11	0	2	1	3	6	10	0	0	1	5	0	1	1	2	0	2	3	0	0	0	0	16	1	7	7	7	0	0	1	7	4	5	7	9	0	4	1	22	0	3	9	0	1	0	0	2	0	2	3	6	0	0	1	0	1
+3	CYTB	YP_009312591.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	50	1	19	20	12	0	1	1	12	5	5	0	2	11	13	0	1	1	8	1	0	2	7	0	0	5	3	0	0	0	16	3	6	8	11	1	1	0	8	2	9	4	9	1	6	2	28	3	2	12	15	2	2	0	6	1	3	5	15	0	0	7	0	1
+4	COX3	YP_009312592.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	38	3	9	17	9	2	2	1	6	5	2	0	1	8	10	0	1	1	5	0	0	0	12	0	0	1	1	0	0	0	13	2	2	4	2	3	1	1	5	3	0	4	8	1	2	5	10	1	4	7	7	0	3	1	6	0	2	3	15	1	2	3	0	0
+5	ND4	YP_009312593.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	64	4	19	20	19	0	4	3	19	3	3	2	3	4	13	0	3	3	7	2	1	1	6	0	2	0	2	0	0	0	21	3	15	21	7	1	1	3	7	6	5	5	13	0	2	6	16	1	6	6	13	4	2	5	2	0	4	5	8	1	1	12	1	0
+6	COX1	YP_009312594.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	49	4	27	31	21	0	0	2	19	3	4	0	5	8	13	0	1	2	18	0	0	2	14	3	2	4	7	0	0	0	30	0	5	22	24	3	5	0	11	3	4	8	25	2	1	4	36	1	1	8	20	0	3	0	13	2	1	7	30	3	6	8	0	0
+7	COX2	YP_009312595.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	21	3	5	20	10	0	1	2	11	1	7	1	2	3	6	0	0	1	4	2	1	1	4	0	3	3	4	0	0	0	7	5	3	7	6	0	0	1	6	3	1	6	14	0	1	2	10	0	1	3	4	0	0	0	11	1	3	6	9	0	2	3	1	0
+8	ND3	YP_009312596.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	19	0	5	11	5	0	0	0	4	0	2	0	2	1	1	0	0	2	0	0	0	0	1	0	0	1	0	0	0	0	9	1	2	4	1	0	1	0	3	0	3	2	4	0	1	2	8	0	3	0	0	0	0	0	3	0	1	2	5	1	0	1	1	0
+9	ND5	YP_009312597.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	85	5	33	41	25	0	2	0	19	3	7	1	2	5	9	0	4	1	7	0	1	1	4	0	3	4	3	0	0	0	25	2	14	13	12	2	0	1	22	3	5	12	25	0	6	9	29	0	8	10	12	0	1	2	12	0	2	6	21	1	4	3	0	0
+10	ND6	YP_009312598.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	27	0	9	7	6	1	2	0	7	2	3	0	1	2	5	0	2	0	3	0	1	0	1	0	0	0	1	0	0	0	11	1	3	4	2	0	0	0	3	2	1	2	4	1	1	4	10	1	3	2	3	0	0	0	1	0	0	0	2	1	0	2	1	0
+11	ND4L	YP_009312599.1	Contracaecum ogmorhini sensu lato Pacific Canada	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Anisakidae, Contracaecum	13	0	5	4	4	0	1	0	2	0	0	2	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	11	0	3	4	0	0	0	0	2	0	0	2	4	0	1	1	6	0	1	0	0	0	0	0	1	0	1	1	2	1	0	0	0	1

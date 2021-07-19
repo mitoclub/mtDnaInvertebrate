@@ -1,65 +1,10 @@
-	YP_002519420.1|ND2	YP_002519421.1|COX1	YP_002519422.1|COX2	YP_002519423.1|ATP8	YP_002519424.1|ATP6	YP_002519425.1|COX3	YP_002519426.1|ND3	YP_002519430.1|ND6	YP_002519431.1|CYTB
-TTT	40	36	15	3	19	29	16	14	35
-TTC	7	12	2	0	2	5	2	2	5
-TTA	43	44	18	9	40	28	18	24	35
-TTG	0	0	1	0	1	0	0	0	0
-TCT	9	12	9	1	3	5	0	2	3
-TCC	3	4	1	0	0	2	0	0	1
-TCA	18	25	11	0	12	14	6	3	17
-TCG	0	0	0	0	0	0	0	0	0
-TAT	12	16	10	0	10	9	7	12	21
-TAC	3	3	2	1	1	2	1	0	3
-TGT	1	2	4	1	0	1	1	1	0
-TGC	1	0	0	1	0	0	1	0	1
-TGA	4	14	7	4	4	8	2	1	11
-TGG	0	0	0	0	0	0	0	0	1
-CTT	4	7	3	0	0	4	2	5	1
-CTC	0	0	0	0	0	0	0	0	0
-CTA	3	8	1	0	2	2	1	0	8
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	10	5	1	4	5	0	1	8
-CCC	0	2	0	0	0	0	0	0	2
-CCA	3	12	4	0	6	3	5	1	8
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	15	5	0	3	10	0	3	9
-CAC	0	2	0	0	0	1	0	0	1
-CAA	2	8	5	0	3	2	0	4	6
-CAG	1	0	0	0	0	0	0	0	0
-CGT	0	0	1	0	1	0	0	0	2
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	4	0	2	3	0	1	2
-CGG	0	0	0	0	0	0	0	0	0
-ATT	48	60	31	10	32	34	18	34	53
-ATC	5	5	0	0	4	4	3	4	6
-ATA	37	43	19	6	19	22	12	17	30
-ATG	0	0	1	0	4	1	0	1	1
-ACT	7	8	7	0	4	6	1	1	7
-ACC	1	1	0	0	1	0	1	0	0
-ACA	5	14	4	0	4	6	2	2	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	34	30	19	4	15	16	8	21	31
-AAC	0	0	0	0	2	4	0	2	3
-AAA	20	16	9	8	7	7	6	21	15
-AAG	0	0	0	0	0	0	0	0	0
-AGT	0	2	1	0	0	1	0	0	0
-AGC	0	0	0	0	0	0	0	0	0
-AGA	8	9	2	0	7	6	0	3	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	8	2	0	1	3	0	0	2
-GTC	0	1	0	0	0	0	0	0	0
-GTA	0	10	2	0	2	1	0	0	5
-GTG	0	0	0	0	0	0	0	0	0
-GCT	1	8	0	0	2	0	0	0	1
-GCC	0	1	0	0	0	0	0	0	2
-GCA	0	6	1	0	1	0	0	0	7
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	13	8	0	0	3	1	0	6
-GAC	0	1	0	0	1	0	0	0	0
-GAA	2	7	10	0	5	6	4	0	3
-GAG	0	0	0	0	0	0	0	0	0
-GGT	1	8	2	0	0	1	0	0	6
-GGC	0	0	0	0	0	0	0	0	0
-GGA	2	29	4	0	1	6	1	1	11
-GGG	0	0	0	0	0	0	0	0	0
-TAA	1	1	0	0	1	1	1	0	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_002519420.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	40	7	43	0	9	3	18	0	12	3	1	1	4	0	4	0	3	0	2	0	3	0	0	0	2	1	0	0	0	0	48	5	37	0	7	1	5	0	34	0	20	0	0	0	8	0	0	0	0	0	1	0	0	0	1	0	2	0	1	0	2	0	1	0
+1	COX1	YP_002519421.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	36	12	44	0	12	4	25	0	16	3	2	0	14	0	7	0	8	0	10	2	12	0	15	2	8	0	0	0	7	0	60	5	43	0	8	1	14	0	30	0	16	0	2	0	9	0	8	1	10	0	8	1	6	0	13	1	7	0	8	0	29	0	1	0
+2	COX2	YP_002519422.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	15	2	18	1	9	1	11	0	10	2	4	0	7	0	3	0	1	0	5	0	4	0	5	0	5	0	1	0	4	0	31	0	19	1	7	0	4	0	19	0	9	0	1	0	2	0	2	0	2	0	0	0	1	0	8	0	10	0	2	0	4	0	0	0
+3	ATP8	YP_002519423.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	3	0	9	0	1	0	0	0	0	1	1	1	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	10	0	6	0	0	0	0	0	4	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	ATP6	YP_002519424.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	19	2	40	1	3	0	12	0	10	1	0	0	4	0	0	0	2	0	4	0	6	0	3	0	3	0	1	0	2	0	32	4	19	4	4	1	4	0	15	2	7	0	0	0	7	0	1	0	2	0	2	0	1	0	0	1	5	0	0	0	1	0	1	0
+5	COX3	YP_002519425.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	29	5	28	0	5	2	14	0	9	2	1	0	8	0	4	0	2	0	5	0	3	0	10	1	2	0	0	0	3	0	34	4	22	1	6	0	6	0	16	4	7	0	1	0	6	0	3	0	1	0	0	0	0	0	3	0	6	0	1	0	6	0	1	0
+6	ND3	YP_002519426.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	16	2	18	0	0	0	6	0	7	1	1	1	2	0	2	0	1	0	0	0	5	0	0	0	0	0	0	0	0	0	18	3	12	0	1	1	2	0	8	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	0	0	0	1	0	1	0
+7	ND6	YP_002519430.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	14	2	24	0	2	0	3	0	12	0	1	0	1	0	5	0	0	0	1	0	1	0	3	0	4	0	0	0	1	0	34	4	17	1	1	0	2	0	21	2	21	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+8	CYTB	YP_002519431.1	Bombus hypocrita sapporensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	35	5	35	0	3	1	17	0	21	3	0	1	11	1	1	0	8	0	8	2	8	0	9	1	6	0	2	0	2	0	53	6	30	1	7	0	9	0	31	3	15	0	0	0	2	0	2	0	5	0	1	2	7	0	6	0	3	0	6	0	11	0	0	0

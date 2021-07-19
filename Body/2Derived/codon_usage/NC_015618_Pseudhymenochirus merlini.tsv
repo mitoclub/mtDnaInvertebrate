@@ -1,65 +1,13 @@
-	YP_004564285.1|ND1	YP_004564286.1|ND2	YP_004564287.1|COX1	YP_004564288.1|COX2	YP_004564289.1|ATP8	YP_004564290.1|ATP6	YP_004564291.1|COX3	YP_004564292.1|ND3	YP_004564293.1|ND4L	YP_004564294.1|ND4	YP_004564295.1|ND5	YP_004564297.1|CYTB
-TTT	8	3	23	7	2	6	11	3	2	9	20	7
-TTC	8	6	17	2	1	4	11	4	3	8	18	26
-TTA	12	9	13	6	3	14	7	12	5	21	18	5
-TTG	1	5	3	2	0	1	2	1	1	7	3	1
-TCT	3	12	10	2	3	4	4	3	1	7	13	3
-TCC	6	3	5	2	0	2	3	0	0	5	5	5
-TCA	12	17	10	7	0	5	6	4	8	17	19	14
-TCG	1	2	3	1	0	0	0	0	2	1	2	0
-TAT	3	2	7	4	0	1	1	0	0	4	7	3
-TAC	8	4	11	5	1	2	9	2	1	7	5	8
-TGT	0	0	0	0	0	0	2	0	1	2	0	0
-TGC	1	1	1	2	0	0	1	1	3	3	6	3
-TGA	7	9	10	5	4	4	10	3	1	15	8	9
-TGG	0	1	7	0	1	1	2	2	0	2	4	1
-CTT	7	13	15	3	1	14	6	2	6	18	20	11
-CTC	4	3	6	3	0	5	1	2	3	8	9	8
-CTA	29	23	19	11	1	13	13	6	7	26	26	26
-CTG	4	5	5	0	1	8	2	4	1	10	10	8
-CCT	4	1	7	3	1	3	2	1	0	7	4	1
-CCC	5	1	4	3	1	3	1	1	1	6	6	7
-CCA	12	14	11	7	6	8	8	5	2	13	16	14
-CCG	0	0	6	1	0	1	1	1	0	1	1	1
-CAT	2	1	7	3	0	0	7	0	3	3	3	2
-CAC	2	5	12	4	0	3	8	0	2	7	12	10
-CAA	7	9	5	6	5	7	8	3	1	10	20	6
-CAG	0	3	3	2	0	2	0	0	0	3	2	1
-CGT	0	0	1	2	0	0	0	0	0	2	1	0
-CGC	0	2	1	0	0	0	0	1	0	1	1	0
-CGA	7	1	5	4	0	5	4	1	2	9	7	7
-CGG	1	0	1	0	0	0	1	0	0	0	0	1
-ATT	12	20	26	8	1	13	8	6	2	22	35	12
-ATC	13	15	15	9	1	5	6	7	1	13	26	17
-ATA	17	23	18	12	0	7	6	1	2	22	27	8
-ATG	4	5	10	3	1	5	4	1	2	8	9	2
-ACT	3	8	9	6	2	4	3	3	1	4	7	2
-ACC	8	8	8	4	0	6	7	2	4	19	20	11
-ACA	15	24	22	10	3	15	10	4	4	19	25	12
-ACG	2	0	1	0	0	0	1	0	1	0	1	3
-AAT	4	7	6	2	1	1	0	0	3	5	4	5
-AAC	8	12	9	5	4	8	5	0	2	11	28	15
-AAA	7	8	6	3	2	1	3	0	0	7	18	7
-AAG	1	0	2	0	0	1	0	1	0	1	3	2
-AGT	1	1	0	1	0	0	1	0	0	4	2	1
-AGC	2	5	4	3	2	4	1	1	1	6	8	0
-GTT	2	2	9	7	2	3	5	1	0	4	10	6
-GTC	2	1	8	0	0	5	3	0	0	5	5	6
-GTA	6	7	11	8	1	4	11	0	3	5	11	7
-GTG	2	0	9	2	0	1	0	2	0	2	1	3
-GCT	3	9	10	4	0	4	5	2	0	5	9	4
-GCC	6	9	8	6	0	4	7	6	2	16	15	17
-GCA	14	8	17	5	1	5	11	1	5	10	19	6
-GCG	1	0	6	0	0	0	0	0	0	3	1	2
-GAT	1	0	2	2	0	1	1	0	0	1	5	2
-GAC	3	0	13	9	0	0	3	3	1	4	6	7
-GAA	11	4	6	9	2	4	8	4	1	8	9	6
-GAG	0	1	5	5	0	0	1	2	1	3	3	1
-GGT	0	0	12	2	0	1	7	1	2	1	2	0
-GGC	4	4	12	1	1	5	7	1	1	4	11	8
-GGA	12	9	14	5	0	2	4	1	1	10	15	13
-GGG	3	1	9	0	0	2	2	2	2	4	2	6
-TAA	0	0	1	0	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004564285.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	8	8	12	1	3	6	12	1	3	8	0	1	7	0	7	4	29	4	4	5	12	0	2	2	7	0	0	0	7	1	12	13	17	4	3	8	15	2	4	8	7	1	1	2	2	2	6	2	3	6	14	1	1	3	11	0	0	4	12	3	0	0	0	0
+1	ND2	YP_004564286.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	3	6	9	5	12	3	17	2	2	4	0	1	9	1	13	3	23	5	1	1	14	0	1	5	9	3	0	2	1	0	20	15	23	5	8	8	24	0	7	12	8	0	1	5	2	1	7	0	9	9	8	0	0	0	4	1	0	4	9	1	0	0	0	0
+2	COX1	YP_004564287.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	23	17	13	3	10	5	10	3	7	11	0	1	10	7	15	6	19	5	7	4	11	6	7	12	5	3	1	1	5	1	26	15	18	10	9	8	22	1	6	9	6	2	0	4	9	8	11	9	10	8	17	6	2	13	6	5	12	12	14	9	1	0	0	0
+3	COX2	YP_004564288.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	7	2	6	2	2	2	7	1	4	5	0	2	5	0	3	3	11	0	3	3	7	1	3	4	6	2	2	0	4	0	8	9	12	3	6	4	10	0	2	5	3	0	1	3	7	0	8	2	4	6	5	0	2	9	9	5	2	1	5	0	0	0	0	0
+4	ATP8	YP_004564289.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	2	1	3	0	3	0	0	0	0	1	0	0	4	1	1	0	1	1	1	1	6	0	0	0	5	0	0	0	0	0	1	1	0	1	2	0	3	0	1	4	2	0	0	2	2	0	1	0	0	0	1	0	0	0	2	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_004564290.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	6	4	14	1	4	2	5	0	1	2	0	0	4	1	14	5	13	8	3	3	8	1	0	3	7	2	0	0	5	0	13	5	7	5	4	6	15	0	1	8	1	1	0	4	3	5	4	1	4	4	5	0	1	0	4	0	1	5	2	2	1	0	0	0
+6	COX3	YP_004564291.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	11	11	7	2	4	3	6	0	1	9	2	1	10	2	6	1	13	2	2	1	8	1	7	8	8	0	0	0	4	1	8	6	6	4	3	7	10	1	0	5	3	0	1	1	5	3	11	0	5	7	11	0	1	3	8	1	7	7	4	2	0	0	0	0
+7	ND3	YP_004564292.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	3	4	12	1	3	0	4	0	0	2	0	1	3	2	2	2	6	4	1	1	5	1	0	0	3	0	0	1	1	0	6	7	1	1	3	2	4	0	0	0	0	1	0	1	1	0	0	2	2	6	1	0	0	3	4	2	1	1	1	2	0	0	0	0
+8	ND4L	YP_004564293.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	2	3	5	1	1	0	8	2	0	1	1	3	1	0	6	3	7	1	0	1	2	0	3	2	1	0	0	0	2	0	2	1	2	2	1	4	4	1	3	2	0	0	0	1	0	0	3	0	0	2	5	0	0	1	1	1	2	1	1	2	1	0	0	0
+9	ND4	YP_004564294.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	9	8	21	7	7	5	17	1	4	7	2	3	15	2	18	8	26	10	7	6	13	1	3	7	10	3	2	1	9	0	22	13	22	8	4	19	19	0	5	11	7	1	4	6	4	5	5	2	5	16	10	3	1	4	8	3	1	4	10	4	0	0	0	0
+10	ND5	YP_004564295.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	20	18	18	3	13	5	19	2	7	5	0	6	8	4	20	9	26	10	4	6	16	1	3	12	20	2	1	1	7	0	35	26	27	9	7	20	25	1	4	28	18	3	2	8	10	5	11	1	9	15	19	1	5	6	9	3	2	11	15	2	1	0	0	0
+11	CYTB	YP_004564297.1	Pseudhymenochirus merlini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Pipinae, Pseudhymenochirus	7	26	5	1	3	5	14	0	3	8	0	3	9	1	11	8	26	8	1	7	14	1	2	10	6	1	0	0	7	1	12	17	8	2	2	11	12	3	5	15	7	2	1	0	6	6	7	3	4	17	6	2	2	7	6	1	0	8	13	6	1	0	0	0

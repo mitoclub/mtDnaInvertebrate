@@ -1,65 +1,13 @@
-	YP_007890829.1|ND1	YP_007890830.1|ND2	YP_007890831.1|COX1	YP_007890832.1|COX2	YP_007890833.1|ATP8	YP_007890834.1|ATP6	YP_007890835.1|COX3	YP_007890836.1|ND3	YP_007890837.1|ND4L	YP_007890838.1|ND4	YP_007890839.1|ND5	YP_007890841.1|CYTB
-TTT	11	5	23	4	4	7	13	2	3	11	23	12
-TTC	10	11	18	3	3	3	13	4	4	7	28	17
-TTA	16	13	17	12	2	12	4	3	8	22	19	18
-TTG	0	0	0	0	0	0	0	0	0	0	0	1
-TCT	3	10	11	3	1	2	4	0	3	5	10	3
-TCC	9	4	4	4	1	2	0	2	3	11	12	5
-TCA	15	14	12	7	3	8	10	4	4	20	20	14
-TCG	0	0	0	1	0	0	0	0	0	0	1	0
-TAT	5	7	9	5	2	1	5	2	2	10	5	6
-TAC	5	7	10	5	2	2	4	1	0	4	6	9
-TGT	0	0	1	1	0	0	0	1	1	0	4	1
-TGC	1	1	0	1	0	0	2	0	2	3	2	3
-TGA	9	9	17	5	3	3	12	4	0	12	12	11
-TGG	0	0	0	0	0	0	0	0	0	0	1	0
-CTT	10	8	17	5	1	9	11	9	3	13	14	9
-CTC	11	11	6	3	4	0	3	3	7	13	13	4
-CTA	27	27	17	14	3	20	16	11	6	27	50	25
-CTG	1	1	2	0	0	0	1	0	1	1	2	0
-CCT	1	2	7	4	2	4	3	1	0	5	8	2
-CCC	3	6	2	1	2	6	3	0	0	6	5	3
-CCA	18	8	19	9	1	4	6	5	3	11	16	16
-CCG	0	0	0	0	0	0	0	0	0	0	0	1
-CAT	0	3	6	4	1	6	6	0	1	7	5	4
-CAC	2	3	12	4	0	2	10	0	0	7	10	9
-CAA	5	7	6	5	2	9	6	2	3	10	15	6
-CAG	0	0	0	1	0	0	1	0	0	0	0	0
-CGT	2	0	3	1	0	1	1	1	1	0	0	0
-CGC	1	0	0	1	0	2	1	0	0	1	2	3
-CGA	5	3	5	3	0	2	3	0	0	7	6	5
-CGG	0	0	0	1	0	0	0	0	0	1	1	0
-ATT	18	23	35	13	6	18	7	9	5	36	38	24
-ATC	11	22	6	6	0	14	8	4	1	20	21	19
-ATA	14	25	27	12	3	9	8	5	6	29	37	15
-ATG	0	0	2	2	1	2	1	0	1	3	1	1
-ACT	2	5	9	9	1	4	7	2	1	8	6	6
-ACC	5	9	10	0	0	6	7	1	0	9	15	6
-ACA	12	13	20	7	6	9	9	4	2	22	25	11
-ACG	0	0	0	0	1	1	0	0	0	1	2	0
-AAT	4	9	11	3	1	7	4	4	4	10	8	5
-AAC	8	16	6	3	2	4	4	2	1	12	33	12
-AAA	6	10	9	4	7	4	3	3	0	14	25	10
-AAG	0	0	1	0	0	0	0	0	0	0	1	0
-AGT	1	3	2	1	0	2	1	0	0	3	3	1
-AGC	3	0	1	4	0	0	2	0	1	7	8	1
-GTT	3	3	9	3	0	6	2	1	1	5	5	4
-GTC	2	0	8	4	0	0	3	0	1	0	5	6
-GTA	4	6	22	6	0	4	10	3	4	7	7	8
-GTG	1	0	0	1	0	1	0	0	0	0	0	1
-GCT	4	5	18	3	0	3	4	4	1	6	4	4
-GCC	12	10	11	3	0	7	7	1	3	13	21	9
-GCA	13	6	12	2	0	5	4	4	4	9	10	8
-GCG	0	2	0	0	0	0	0	0	0	0	1	0
-GAT	0	0	9	5	1	1	2	1	0	2	0	2
-GAC	3	0	6	6	0	0	1	1	1	2	10	9
-GAA	11	6	9	14	1	3	8	6	2	8	10	4
-GAG	0	0	1	1	0	0	0	0	0	0	1	2
-GGT	2	2	11	2	0	3	5	0	1	4	2	4
-GGC	3	3	5	0	0	1	7	0	1	4	9	6
-GGA	4	7	28	5	0	7	9	4	2	10	13	14
-GGG	2	2	2	1	0	0	0	1	0	1	1	2
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007890829.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	11	10	16	0	3	9	15	0	5	5	0	1	9	0	10	11	27	1	1	3	18	0	0	2	5	0	2	1	5	0	18	11	14	0	2	5	12	0	4	8	6	0	1	3	3	2	4	1	4	12	13	0	0	3	11	0	2	3	4	2	0	0	0	0
+1	ND2	YP_007890830.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	5	11	13	0	10	4	14	0	7	7	0	1	9	0	8	11	27	1	2	6	8	0	3	3	7	0	0	0	3	0	23	22	25	0	5	9	13	0	9	16	10	0	3	0	3	0	6	0	5	10	6	2	0	0	6	0	2	3	7	2	0	0	0	0
+2	COX1	YP_007890831.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	23	18	17	0	11	4	12	0	9	10	1	0	17	0	17	6	17	2	7	2	19	0	6	12	6	0	3	0	5	0	35	6	27	2	9	10	20	0	11	6	9	1	2	1	9	8	22	0	18	11	12	0	9	6	9	1	11	5	28	2	1	0	0	0
+3	COX2	YP_007890832.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	4	3	12	0	3	4	7	1	5	5	1	1	5	0	5	3	14	0	4	1	9	0	4	4	5	1	1	1	3	1	13	6	12	2	9	0	7	0	3	3	4	0	1	4	3	4	6	1	3	3	2	0	5	6	14	1	2	0	5	1	1	0	0	0
+4	ATP8	YP_007890833.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	4	3	2	0	1	1	3	0	2	2	0	0	3	0	1	4	3	0	2	2	1	0	1	0	2	0	0	0	0	0	6	0	3	1	1	0	6	1	1	2	7	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007890834.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	7	3	12	0	2	2	8	0	1	2	0	0	3	0	9	0	20	0	4	6	4	0	6	2	9	0	1	2	2	0	18	14	9	2	4	6	9	1	7	4	4	0	2	0	6	0	4	1	3	7	5	0	1	0	3	0	3	1	7	0	1	0	0	0
+6	COX3	YP_007890835.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	13	13	4	0	4	0	10	0	5	4	0	2	12	0	11	3	16	1	3	3	6	0	6	10	6	1	1	1	3	0	7	8	8	1	7	7	9	0	4	4	3	0	1	2	2	3	10	0	4	7	4	0	2	1	8	0	5	7	9	0	0	0	0	0
+7	ND3	YP_007890836.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	2	4	3	0	0	2	4	0	2	1	1	0	4	0	9	3	11	0	1	0	5	0	0	0	2	0	1	0	0	0	9	4	5	0	2	1	4	0	4	2	3	0	0	0	1	0	3	0	4	1	4	0	1	1	6	0	0	0	4	1	1	0	0	0
+8	ND4L	YP_007890837.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	3	4	8	0	3	3	4	0	2	0	1	2	0	0	3	7	6	1	0	0	3	0	1	0	3	0	1	0	0	0	5	1	6	1	1	0	2	0	4	1	0	0	0	1	1	1	4	0	1	3	4	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_007890838.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	11	7	22	0	5	11	20	0	10	4	0	3	12	0	13	13	27	1	5	6	11	0	7	7	10	0	0	1	7	1	36	20	29	3	8	9	22	1	10	12	14	0	3	7	5	0	7	0	6	13	9	0	2	2	8	0	4	4	10	1	0	0	0	0
+10	ND5	YP_007890839.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	23	28	19	0	10	12	20	1	5	6	4	2	12	1	14	13	50	2	8	5	16	0	5	10	15	0	0	2	6	1	38	21	37	1	6	15	25	2	8	33	25	1	3	8	5	5	7	0	4	21	10	1	0	10	10	1	2	9	13	1	1	0	0	0
+11	CYTB	YP_007890841.1	Eospalax fontanierii cansus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Spalacidae, Myospalacinae, Eospalax	12	17	18	1	3	5	14	0	6	9	1	3	11	0	9	4	25	0	2	3	16	1	4	9	6	0	0	3	5	0	24	19	15	1	6	6	11	0	5	12	10	0	1	1	4	6	8	1	4	9	8	0	2	9	4	2	4	6	14	2	0	0	0	0

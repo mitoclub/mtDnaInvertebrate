@@ -1,65 +1,10 @@
-	YP_009528952.1|ND2	YP_009528953.1|COX1	YP_009528954.1|COX2	YP_009528955.1|ATP8	YP_009528956.1|ATP6	YP_009528957.1|COX3	YP_009528958.1|ND3	YP_009528962.1|ND6	YP_009528963.1|CYTB
-TTT	43	44	17	8	22	36	15	16	39
-TTC	1	0	0	0	0	0	0	2	3
-TTA	42	68	20	6	38	23	19	31	32
-TTG	3	5	1	0	3	1	0	1	3
-TCT	6	16	5	1	8	7	3	5	8
-TCC	0	0	0	0	0	0	0	1	0
-TCA	9	28	12	1	8	10	4	8	15
-TCG	0	0	0	0	0	0	1	0	0
-TAT	28	20	11	2	11	13	8	8	25
-TAC	0	0	0	0	0	0	0	1	1
-TGT	1	1	3	0	0	1	2	1	1
-TGC	0	0	0	0	0	0	0	1	0
-TGA	6	14	6	4	4	8	2	0	13
-TGG	1	1	0	0	0	0	0	0	0
-CTT	0	4	1	0	3	4	0	1	7
-CTC	0	0	0	0	0	0	0	1	0
-CTA	1	1	0	0	0	0	0	3	2
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	14	5	1	4	4	2	3	6
-CCC	0	0	0	0	1	0	0	0	0
-CCA	3	12	5	2	3	4	3	1	9
-CCG	0	0	0	0	0	0	0	0	0
-CAT	2	16	5	0	3	9	0	1	9
-CAC	0	0	0	0	0	0	0	0	0
-CAA	4	7	5	1	5	2	0	1	4
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	4	1	0	1	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	4	4	0	2	4	0	1	4
-CGG	0	0	0	0	0	0	0	0	0
-ATT	55	55	31	7	35	29	18	18	49
-ATC	0	0	1	0	0	0	0	5	2
-ATA	25	33	14	5	14	15	12	14	19
-ATG	1	1	1	0	2	2	0	5	4
-ACT	3	11	4	1	4	5	2	4	6
-ACC	0	0	0	0	0	0	0	0	0
-ACA	5	11	6	0	4	8	2	1	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	32	24	17	4	17	20	6	11	34
-AAC	0	0	1	0	0	0	0	2	0
-AAA	17	14	9	7	5	7	4	17	17
-AAG	3	2	0	0	1	0	1	6	0
-AGT	3	3	0	0	3	4	1	0	1
-AGC	0	0	0	0	0	0	0	0	0
-AGA	9	8	3	0	6	6	2	2	3
-AGG	2	0	0	0	1	0	0	0	0
-GTT	8	9	7	1	3	8	2	4	6
-GTC	0	0	0	0	0	0	0	0	0
-GTA	3	11	4	1	5	8	1	1	5
-GTG	1	2	1	0	0	0	0	0	0
-GCT	2	11	1	0	0	0	0	1	5
-GCC	0	0	0	0	0	0	0	0	0
-GCA	2	7	1	0	1	3	0	0	7
-GCG	0	0	0	0	0	0	0	0	0
-GAT	2	14	8	0	1	5	2	4	8
-GAC	0	1	0	0	0	0	0	0	0
-GAA	2	7	7	0	5	5	4	2	3
-GAG	0	1	2	0	0	1	0	0	0
-GGT	0	8	2	0	1	4	0	0	5
-GGC	0	0	0	0	0	0	0	0	0
-GGA	1	29	4	0	1	3	1	1	15
-GGG	1	1	0	0	0	0	0	1	1
-TAA	1	1	1	1	0	1	1	1	1
-TAG	0	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009528952.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	43	1	42	3	6	0	9	0	28	0	1	0	6	1	0	0	1	0	3	0	3	0	2	0	4	0	0	0	0	0	55	0	25	1	3	0	5	0	32	0	17	3	3	0	9	2	8	0	3	1	2	0	2	0	2	0	2	0	0	0	1	1	1	0
+1	COX1	YP_009528953.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	44	0	68	5	16	0	28	0	20	0	1	0	14	1	4	0	1	0	14	0	12	0	16	0	7	0	4	0	4	0	55	0	33	1	11	0	11	0	24	0	14	2	3	0	8	0	9	0	11	2	11	0	7	0	14	1	7	1	8	0	29	1	1	0
+2	COX2	YP_009528954.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	17	0	20	1	5	0	12	0	11	0	3	0	6	0	1	0	0	0	5	0	5	0	5	0	5	0	1	0	4	0	31	1	14	1	4	0	6	0	17	1	9	0	0	0	3	0	7	0	4	1	1	0	1	0	8	0	7	2	2	0	4	0	1	0
+3	ATP8	YP_009528955.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	8	0	6	0	1	0	1	0	2	0	0	0	4	0	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0	0	7	0	5	0	1	0	0	0	4	0	7	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009528956.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	22	0	38	3	8	0	8	0	11	0	0	0	4	0	3	0	0	0	4	1	3	0	3	0	5	0	1	0	2	0	35	0	14	2	4	0	4	0	17	0	5	1	3	0	6	1	3	0	5	0	0	0	1	0	1	0	5	0	1	0	1	0	0	1
+5	COX3	YP_009528957.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	36	0	23	1	7	0	10	0	13	0	1	0	8	0	4	0	0	0	4	0	4	0	9	0	2	0	0	0	4	0	29	0	15	2	5	0	8	0	20	0	7	0	4	0	6	0	8	0	8	0	0	0	3	0	5	0	5	1	4	0	3	0	1	0
+6	ND3	YP_009528958.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	15	0	19	0	3	0	4	1	8	0	2	0	2	0	0	0	0	0	2	0	3	0	0	0	0	0	0	0	0	0	18	0	12	0	2	0	2	0	6	0	4	1	1	0	2	0	2	0	1	0	0	0	0	0	2	0	4	0	0	0	1	0	1	0
+7	ND6	YP_009528962.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	16	2	31	1	5	1	8	0	8	1	1	1	0	0	1	1	3	0	3	0	1	0	1	0	1	0	0	0	1	0	18	5	14	5	4	0	1	0	11	2	17	6	0	0	2	0	4	0	1	0	1	0	0	0	4	0	2	0	0	0	1	1	1	0
+8	CYTB	YP_009528963.1	Apis andreniformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Apis	39	3	32	3	8	0	15	0	25	1	1	0	13	0	7	0	2	0	6	0	9	0	9	0	4	0	0	0	4	0	49	2	19	4	6	0	9	0	34	0	17	0	1	0	3	0	6	0	5	0	5	0	7	0	8	0	3	0	5	0	15	1	1	0

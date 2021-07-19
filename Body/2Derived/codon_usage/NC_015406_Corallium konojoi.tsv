@@ -1,65 +1,8 @@
-	YP_004376728.1|COX1	YP_004376729.1|ND1	YP_004376730.1|CYTB	YP_004376731.1|msh1	YP_004376732.1|ND2	YP_004376733.1|ND5	YP_004376734.1|ND4
-TTT	31	11	24	25	13	26	24
-TTC	14	8	6	6	2	7	12
-TTA	36	24	31	58	44	51	41
-TTG	8	5	6	22	9	17	9
-TCT	14	6	8	27	10	15	10
-TCC	4	3	5	8	2	4	3
-TCA	5	4	3	16	8	7	7
-TCG	2	3	0	5	2	3	3
-TAT	16	14	12	37	12	27	15
-TAC	7	1	9	9	4	6	4
-TGT	0	4	4	11	5	9	7
-TGC	1	1	1	5	1	1	0
-TGA	0	0	0	0	0	0	0
-TGG	15	6	10	12	4	11	8
-CTT	4	8	6	23	9	9	11
-CTC	1	1	2	8	1	0	2
-CTA	14	9	10	19	7	18	11
-CTG	3	3	4	8	6	1	2
-CCT	9	8	6	26	5	9	6
-CCC	6	3	8	11	3	7	7
-CCA	8	1	2	9	5	4	6
-CCG	4	2	4	5	0	2	1
-CAT	15	1	8	16	5	8	8
-CAC	4	1	3	6	0	2	1
-CAA	3	5	6	27	7	9	5
-CAG	5	1	1	17	3	3	6
-CGT	2	0	0	8	3	5	2
-CGC	0	0	1	3	0	2	1
-CGA	0	2	1	7	1	2	1
-CGG	2	1	1	2	0	0	1
-ATT	25	16	19	39	20	23	22
-ATC	7	6	3	11	8	9	10
-ATA	19	13	16	35	22	34	34
-ATG	25	11	13	14	10	15	15
-ACT	14	6	6	23	6	14	10
-ACC	6	4	6	10	0	7	3
-ACA	12	1	5	13	9	15	10
-ACG	0	1	0	1	0	1	2
-AAT	10	8	14	40	7	11	6
-AAC	5	0	5	12	1	5	3
-AAA	4	3	5	43	8	5	4
-AAG	3	5	3	16	2	8	3
-AGT	10	6	7	21	5	11	13
-AGC	5	3	1	6	3	10	1
-AGA	7	4	5	14	4	6	11
-AGG	0	0	0	11	0	5	2
-GTT	7	9	9	20	5	13	13
-GTC	5	3	4	5	0	3	1
-GTA	12	10	10	19	13	16	17
-GTG	5	4	5	7	5	10	5
-GCT	15	19	10	24	16	18	22
-GCC	12	7	7	11	5	10	2
-GCA	9	7	3	10	10	14	7
-GCG	4	1	1	4	1	2	3
-GAT	13	3	5	23	3	12	3
-GAC	4	2	3	19	1	2	2
-GAA	5	8	6	31	6	5	7
-GAG	4	2	2	23	3	7	9
-GGT	17	8	4	19	11	14	4
-GGC	4	2	3	8	4	8	7
-GGA	18	11	11	11	9	16	11
-GGG	13	4	13	17	11	11	6
-TAA	0	0	1	1	0	0	1
-TAG	0	1	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_004376728.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	31	14	36	8	14	4	5	2	16	7	0	1	0	15	4	1	14	3	9	6	8	4	15	4	3	5	2	0	0	2	25	7	19	25	14	6	12	0	10	5	4	3	10	5	7	0	7	5	12	5	15	12	9	4	13	4	5	4	17	4	18	13	0	0
+1	ND1	YP_004376729.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	11	8	24	5	6	3	4	3	14	1	4	1	0	6	8	1	9	3	8	3	1	2	1	1	5	1	0	0	2	1	16	6	13	11	6	4	1	1	8	0	3	5	6	3	4	0	9	3	10	4	19	7	7	1	3	2	8	2	8	2	11	4	0	1
+2	CYTB	YP_004376730.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	24	6	31	6	8	5	3	0	12	9	4	1	0	10	6	2	10	4	6	8	2	4	8	3	6	1	0	1	1	1	19	3	16	13	6	6	5	0	14	5	5	3	7	1	5	0	9	4	10	5	10	7	3	1	5	3	6	2	4	3	11	13	1	0
+3	msh1	YP_004376731.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	25	6	58	22	27	8	16	5	37	9	11	5	0	12	23	8	19	8	26	11	9	5	16	6	27	17	8	3	7	2	39	11	35	14	23	10	13	1	40	12	43	16	21	6	14	11	20	5	19	7	24	11	10	4	23	19	31	23	19	8	11	17	1	0
+4	ND2	YP_004376732.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	13	2	44	9	10	2	8	2	12	4	5	1	0	4	9	1	7	6	5	3	5	0	5	0	7	3	3	0	1	0	20	8	22	10	6	0	9	0	7	1	8	2	5	3	4	0	5	0	13	5	16	5	10	1	3	1	6	3	11	4	9	11	0	1
+5	ND5	YP_004376733.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	26	7	51	17	15	4	7	3	27	6	9	1	0	11	9	0	18	1	9	7	4	2	8	2	9	3	5	2	2	0	23	9	34	15	14	7	15	1	11	5	5	8	11	10	6	5	13	3	16	10	18	10	14	2	12	2	5	7	14	8	16	11	0	1
+6	ND4	YP_004376734.1	Corallium konojoi	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Scleraxonia, Coralliidae, Corallium	24	12	41	9	10	3	7	3	15	4	7	0	0	8	11	2	11	2	6	7	6	1	8	1	5	6	2	1	1	1	22	10	34	15	10	3	10	2	6	3	4	3	13	1	11	2	13	1	17	5	22	2	7	3	3	2	7	9	4	7	11	6	1	0

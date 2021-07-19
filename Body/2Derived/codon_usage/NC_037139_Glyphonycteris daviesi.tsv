@@ -1,65 +1,13 @@
-	YP_009466965.1|ND1	YP_009466966.1|ND2	YP_009466967.1|COX1	YP_009466968.1|COX2	YP_009466969.1|ATP8	YP_009466970.1|ATP6	YP_009466971.1|COX3	YP_009466972.1|ND3	YP_009466973.1|ND4L	YP_009466974.1|ND4	YP_009466975.1|ND5	YP_009466977.1|CYTB
-TTT	9	6	24	5	2	7	9	3	2	7	16	10
-TTC	8	6	18	2	1	5	15	4	2	11	25	14
-TTA	10	13	12	7	1	9	6	4	3	22	14	8
-TTG	1	1	3	0	0	2	0	1	0	2	2	0
-TCT	2	4	11	5	3	3	8	4	6	9	9	4
-TCC	12	9	12	5	2	1	3	0	2	12	14	5
-TCA	4	9	2	6	2	4	6	4	0	5	16	14
-TCG	0	0	2	0	1	1	0	0	0	0	0	0
-TAT	9	5	12	7	2	1	7	3	3	3	10	7
-TAC	6	5	7	4	1	1	4	0	1	11	7	10
-TGT	0	0	1	2	0	0	1	1	0	1	0	1
-TGC	1	0	0	1	0	0	2	0	3	2	4	3
-TGA	8	10	14	4	3	2	12	4	0	12	11	11
-TGG	1	0	3	1	0	1	0	0	0	2	1	1
-CTT	6	9	13	5	1	8	4	3	4	10	13	14
-CTC	6	14	9	6	3	5	5	9	4	20	29	18
-CTA	32	27	21	15	1	17	16	6	11	34	43	21
-CTG	1	1	2	0	1	1	3	1	1	7	5	2
-CCT	4	3	12	4	3	5	4	4	1	10	10	3
-CCC	7	7	13	5	2	4	4	2	0	8	12	8
-CCA	10	10	5	2	1	3	3	1	0	6	6	12
-CCG	0	0	0	1	0	0	1	0	0	0	0	0
-CAT	0	1	9	4	1	4	6	0	0	5	3	2
-CAC	2	5	8	2	2	4	10	0	2	6	9	9
-CAA	5	8	3	6	2	7	5	3	2	10	18	6
-CAG	1	0	3	1	1	1	2	1	0	2	0	1
-CGT	1	1	2	1	0	0	1	1	0	2	1	0
-CGC	0	2	1	3	0	0	1	0	1	1	3	3
-CGA	6	1	5	3	1	4	3	0	0	7	5	4
-CGG	1	0	0	0	0	0	0	0	0	0	0	1
-ATT	10	20	21	8	4	19	8	6	2	28	32	22
-ATC	15	20	12	9	2	6	5	4	2	16	29	13
-ATA	15	27	30	12	1	10	7	4	11	34	38	13
-ATG	3	2	2	5	1	2	2	0	2	1	0	2
-ACT	8	11	11	7	4	5	7	1	1	8	17	4
-ACC	8	13	9	3	0	7	7	1	4	10	21	4
-ACA	13	23	18	6	4	14	8	5	3	23	15	17
-ACG	0	0	1	3	1	1	0	0	0	1	4	0
-AAT	5	7	7	3	0	6	4	3	2	9	21	9
-AAC	8	9	10	4	1	4	3	2	2	12	10	7
-AAA	7	11	8	3	4	4	3	2	0	9	17	7
-AAG	0	0	1	2	1	0	0	0	0	1	6	1
-AGT	1	1	3	0	1	0	1	2	1	4	2	2
-AGC	2	3	1	3	1	3	2	0	0	7	9	3
-GTT	6	2	18	3	0	4	3	0	1	5	1	8
-GTC	4	3	8	4	0	2	5	0	0	1	5	4
-GTA	4	4	13	3	1	5	9	3	5	6	7	7
-GTG	1	0	3	1	0	2	1	0	0	2	1	1
-GCT	8	3	15	5	0	7	3	2	1	6	9	5
-GCC	8	4	12	4	0	5	7	6	2	10	16	10
-GCA	11	8	11	2	0	5	3	3	3	10	11	8
-GCG	1	0	2	0	0	0	0	0	1	1	1	0
-GAT	1	1	7	4	0	1	2	0	0	1	4	2
-GAC	2	0	7	7	1	1	2	2	1	2	5	9
-GAA	10	3	6	11	2	1	6	7	1	7	11	5
-GAG	1	1	4	0	1	2	1	0	1	1	0	0
-GGT	4	1	12	0	0	1	4	0	1	4	5	3
-GGC	6	5	12	6	0	2	7	2	2	4	9	9
-GGA	3	8	16	2	0	7	7	1	1	7	13	12
-GGG	0	0	7	0	0	0	3	0	0	2	1	0
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009466965.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	9	8	10	1	2	12	4	0	9	6	0	1	8	1	6	6	32	1	4	7	10	0	0	2	5	1	1	0	6	1	10	15	15	3	8	8	13	0	5	8	7	0	1	2	6	4	4	1	8	8	11	1	1	2	10	1	4	6	3	0	0	0	0	0
+1	ND2	YP_009466966.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	6	6	13	1	4	9	9	0	5	5	0	0	10	0	9	14	27	1	3	7	10	0	1	5	8	0	1	2	1	0	20	20	27	2	11	13	23	0	7	9	11	0	1	3	2	3	4	0	3	4	8	0	1	0	3	1	1	5	8	0	0	0	0	0
+2	COX1	YP_009466967.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	24	18	12	3	11	12	2	2	12	7	1	0	14	3	13	9	21	2	12	13	5	0	9	8	3	3	2	1	5	0	21	12	30	2	11	9	18	1	7	10	8	1	3	1	18	8	13	3	15	12	11	2	7	7	6	4	12	12	16	7	1	0	0	0
+3	COX2	YP_009466968.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	5	2	7	0	5	5	6	0	7	4	2	1	4	1	5	6	15	0	4	5	2	1	4	2	6	1	1	3	3	0	8	9	12	5	7	3	6	3	3	4	3	2	0	3	3	4	3	1	5	4	2	0	4	7	11	0	0	6	2	0	1	0	0	0
+4	ATP8	YP_009466969.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	2	1	1	0	3	2	2	1	2	1	0	0	3	0	1	3	1	1	3	2	1	0	1	2	2	1	0	0	1	0	4	2	1	1	4	0	4	1	0	1	4	1	1	1	0	0	1	0	0	0	0	0	0	1	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009466970.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	7	5	9	2	3	1	4	1	1	1	0	0	2	1	8	5	17	1	5	4	3	0	4	4	7	1	0	0	4	0	19	6	10	2	5	7	14	1	6	4	4	0	0	3	4	2	5	2	7	5	5	0	1	1	1	2	1	2	7	0	1	0	0	0
+6	COX3	YP_009466971.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	9	15	6	0	8	3	6	0	7	4	1	2	12	0	4	5	16	3	4	4	3	1	6	10	5	2	1	1	3	0	8	5	7	2	7	7	8	0	4	3	3	0	1	2	3	5	9	1	3	7	3	0	2	2	6	1	4	7	7	3	0	0	0	0
+7	ND3	YP_009466972.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	3	4	4	1	4	0	4	0	3	0	1	0	4	0	3	9	6	1	4	2	1	0	0	0	3	1	1	0	0	0	6	4	4	0	1	1	5	0	3	2	2	0	2	0	0	0	3	0	2	6	3	0	0	2	7	0	0	2	1	0	1	0	0	0
+8	ND4L	YP_009466973.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	2	2	3	0	6	2	0	0	3	1	0	3	0	0	4	4	11	1	1	0	0	0	0	2	2	0	0	1	0	0	2	2	11	2	1	4	3	0	2	2	0	0	1	0	1	0	5	0	1	2	3	1	0	1	1	1	1	2	1	0	1	0	0	0
+9	ND4	YP_009466974.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	7	11	22	2	9	12	5	0	3	11	1	2	12	2	10	20	34	7	10	8	6	0	5	6	10	2	2	1	7	0	28	16	34	1	8	10	23	1	9	12	9	1	4	7	5	1	6	2	6	10	10	1	1	2	7	1	4	4	7	2	0	0	0	0
+10	ND5	YP_009466975.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	16	25	14	2	9	14	16	0	10	7	0	4	11	1	13	29	43	5	10	12	6	0	3	9	18	0	1	3	5	0	32	29	38	0	17	21	15	4	21	10	17	6	2	9	1	5	7	1	9	16	11	1	4	5	11	0	5	9	13	1	1	0	0	0
+11	CYTB	YP_009466977.1	Glyphonycteris daviesi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Phyllostominae, Glyphonycteris	10	14	8	0	4	5	14	0	7	10	1	3	11	1	14	18	21	2	3	8	12	0	2	9	6	1	0	3	4	1	22	13	13	2	4	4	17	0	9	7	7	1	2	3	8	4	7	1	5	10	8	0	2	9	5	0	3	9	12	0	0	0	1	0

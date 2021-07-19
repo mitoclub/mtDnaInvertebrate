@@ -1,65 +1,8 @@
-	YP_009318337.1|COX1	YP_009318338.1|COX2	YP_009318339.1|ATP8	YP_009318340.1|ATP6	YP_009318347.1|COX3	YP_009318348.1|ND3	YP_009318349.1|ND2
-TTT	38	11	5	15	22	13	39
-TTC	4	0	0	3	3	3	2
-TTA	23	13	4	18	9	5	21
-TTG	26	12	2	11	13	10	24
-TCT	18	8	1	12	10	7	16
-TCC	1	0	0	1	0	0	1
-TCA	5	3	0	1	2	1	7
-TCG	2	0	1	1	1	0	3
-TAT	16	7	1	6	12	0	10
-TAC	1	2	0	2	1	0	4
-TGT	1	2	1	2	2	2	4
-TGC	0	0	0	1	1	0	2
-TGA	8	5	5	1	6	3	4
-TGG	9	1	2	3	7	0	9
-CTT	10	2	0	2	3	4	9
-CTC	1	0	0	0	0	0	0
-CTA	5	1	0	3	2	3	2
-CTG	4	1	1	3	3	0	3
-CCT	15	6	1	2	4	1	6
-CCC	0	0	0	1	1	0	0
-CCA	5	1	0	5	2	0	1
-CCG	4	2	1	2	3	4	0
-CAT	17	6	0	0	11	1	2
-CAC	1	0	0	4	1	0	1
-CAA	0	4	0	1	1	0	1
-CAG	6	6	2	0	4	0	7
-CGT	5	4	0	2	2	1	1
-CGC	0	0	0	0	0	0	0
-CGA	3	1	0	1	1	1	0
-CGG	4	1	1	1	3	2	1
-ATT	34	12	6	19	9	11	26
-ATC	1	1	0	0	0	0	2
-ATA	10	4	0	3	1	0	6
-ATG	13	6	3	8	4	2	14
-ACT	23	6	0	3	12	2	5
-ACC	1	0	0	1	0	0	0
-ACA	3	2	1	3	3	0	0
-ACG	2	0	0	0	1	0	1
-AAT	15	4	3	7	2	1	5
-AAC	1	2	0	1	1	0	1
-AAA	3	2	4	1	0	2	4
-AAG	5	2	2	1	1	0	5
-AGT	6	2	1	4	3	0	12
-AGC	0	1	1	2	1	0	0
-AGA	2	3	0	0	1	1	5
-AGG	2	1	3	3	1	3	10
-GTT	23	13	2	12	17	6	21
-GTC	1	1	0	1	0	0	4
-GTA	7	5	0	5	6	2	6
-GTG	11	10	0	9	8	2	14
-GCT	32	8	3	10	13	5	8
-GCC	2	3	0	1	0	0	0
-GCA	5	4	0	3	2	0	1
-GCG	3	0	0	1	3	1	2
-GAT	15	13	1	2	4	4	2
-GAC	1	2	1	3	0	1	0
-GAA	3	3	0	2	1	1	3
-GAG	7	8	2	2	7	4	7
-GGT	16	6	2	8	13	0	18
-GGC	0	0	1	2	3	1	4
-GGA	12	1	1	1	3	4	9
-GGG	20	6	1	8	9	3	15
-TAA	1	0	0	1	1	0	0
-TAG	0	1	1	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009318337.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	38	4	23	26	18	1	5	2	16	1	1	0	8	9	10	1	5	4	15	0	5	4	17	1	0	6	5	0	3	4	34	1	10	13	23	1	3	2	15	1	3	5	6	0	2	2	23	1	7	11	32	2	5	3	15	1	3	7	16	0	12	20	1	0
+1	COX2	YP_009318338.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	11	0	13	12	8	0	3	0	7	2	2	0	5	1	2	0	1	1	6	0	1	2	6	0	4	6	4	0	1	1	12	1	4	6	6	0	2	0	4	2	2	2	2	1	3	1	13	1	5	10	8	3	4	0	13	2	3	8	6	0	1	6	0	1
+2	ATP8	YP_009318339.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	5	0	4	2	1	0	0	1	1	0	1	0	5	2	0	0	0	1	1	0	0	1	0	0	0	2	0	0	0	1	6	0	0	3	0	0	1	0	3	0	4	2	1	1	0	3	2	0	0	0	3	0	0	0	1	1	0	2	2	1	1	1	0	1
+3	ATP6	YP_009318340.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	15	3	18	11	12	1	1	1	6	2	2	1	1	3	2	0	3	3	2	1	5	2	0	4	1	0	2	0	1	1	19	0	3	8	3	1	3	0	7	1	1	1	4	2	0	3	12	1	5	9	10	1	3	1	2	3	2	2	8	2	1	8	1	0
+4	COX3	YP_009318347.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	22	3	9	13	10	0	2	1	12	1	2	1	6	7	3	0	2	3	4	1	2	3	11	1	1	4	2	0	1	3	9	0	1	4	12	0	3	1	2	1	0	1	3	1	1	1	17	0	6	8	13	0	2	3	4	0	1	7	13	3	3	9	1	0
+5	ND3	YP_009318348.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	13	3	5	10	7	0	1	0	0	0	2	0	3	0	4	0	3	0	1	0	0	4	1	0	0	0	1	0	1	2	11	0	0	2	2	0	0	0	1	0	2	0	0	0	1	3	6	0	2	2	5	0	0	1	4	1	1	4	0	1	4	3	0	1
+6	ND2	YP_009318349.1	Angaria delphinus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Vetigastropoda, Trochoidea, Turbinidae, Angaria	39	2	21	24	16	1	7	3	10	4	4	2	4	9	9	0	2	3	6	0	1	0	2	1	1	7	1	0	0	1	26	2	6	14	5	0	0	1	5	1	4	5	12	0	5	10	21	4	6	14	8	0	1	2	2	0	3	7	18	4	9	15	0	1

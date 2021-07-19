@@ -1,65 +1,10 @@
-	YP_009142648.1|ND2	YP_009142649.1|COX1	YP_009142650.1|COX2	YP_009142651.1|ATP8	YP_009142652.1|ATP6	YP_009142653.1|COX3	YP_009142654.1|ND3	YP_009142658.1|ND6	YP_009142659.1|CYTB
-TTT	18	31	8	6	17	22	7	15	27
-TTC	7	7	4	1	4	7	3	1	4
-TTA	30	35	18	6	27	20	10	17	38
-TTG	1	1	0	0	0	0	0	1	0
-TCT	7	7	2	1	1	2	1	0	4
-TCC	3	1	1	0	0	1	0	0	1
-TCA	27	25	10	3	13	10	5	7	11
-TCG	3	0	1	0	1	0	0	0	0
-TAT	8	14	7	0	3	7	1	5	12
-TAC	3	2	0	0	1	3	0	0	5
-TGT	1	1	2	0	0	1	1	0	3
-TGC	1	0	0	0	0	0	0	0	1
-TGA	10	15	5	3	5	13	3	2	11
-TGG	0	0	1	0	0	1	0	0	1
-CTT	5	8	4	0	3	4	2	3	3
-CTC	2	1	1	0	1	0	0	0	0
-CTA	13	12	4	1	3	2	1	1	5
-CTG	1	0	0	0	0	0	0	0	0
-CCT	2	7	2	2	4	3	1	1	11
-CCC	2	2	0	0	0	1	0	0	1
-CCA	5	17	6	0	5	7	4	3	10
-CCG	0	1	0	0	0	0	0	0	0
-CAT	2	12	5	0	3	10	1	1	9
-CAC	0	2	1	0	2	3	0	0	2
-CAA	7	8	5	2	3	9	3	3	7
-CAG	1	1	0	0	0	0	0	0	1
-CGT	0	1	2	0	1	1	1	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	7	5	0	2	3	0	0	6
-CGG	1	0	0	0	0	0	1	0	2
-ATT	24	52	24	4	20	20	15	25	48
-ATC	9	5	3	1	1	3	5	1	5
-ATA	35	29	13	6	21	18	11	27	19
-ATG	4	2	1	0	1	1	0	1	1
-ACT	3	6	3	0	8	6	2	3	4
-ACC	2	5	2	1	2	1	0	1	4
-ACA	15	25	15	0	12	11	5	5	10
-ACG	1	2	0	0	1	0	0	0	0
-AAT	14	16	7	3	18	4	3	12	21
-AAC	6	4	4	2	0	4	1	1	2
-AAA	10	5	5	6	3	2	5	9	8
-AAG	0	2	0	0	0	0	0	1	1
-AGT	0	5	2	1	0	0	0	3	0
-AGC	0	0	0	1	0	0	0	0	0
-AGA	9	8	5	1	7	6	4	3	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	6	11	0	0	1	1	1	0	9
-GTC	1	1	0	0	0	0	0	0	0
-GTA	6	14	9	0	5	10	2	6	9
-GTG	0	0	0	0	1	0	1	0	1
-GCT	2	9	3	0	2	5	1	0	3
-GCC	2	1	0	0	0	0	1	0	0
-GCA	3	20	6	0	7	11	4	3	14
-GCG	1	1	0	0	0	0	0	0	1
-GAT	0	14	7	0	0	4	2	0	9
-GAC	0	2	4	0	1	0	1	1	1
-GAA	10	9	10	2	4	7	4	5	5
-GAG	1	0	0	0	0	0	0	0	0
-GGT	1	7	0	0	3	3	1	2	6
-GGC	1	0	0	0	0	0	0	0	0
-GGA	11	36	9	0	8	15	3	3	14
-GGG	1	4	1	0	0	1	0	0	4
-TAA	0	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009142648.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	18	7	30	1	7	3	27	3	8	3	1	1	10	0	5	2	13	1	2	2	5	0	2	0	7	1	0	0	2	1	24	9	35	4	3	2	15	1	14	6	10	0	0	0	9	0	6	1	6	0	2	2	3	1	0	0	10	1	1	1	11	1	0	0
+1	COX1	YP_009142649.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	31	7	35	1	7	1	25	0	14	2	1	0	15	0	8	1	12	0	7	2	17	1	12	2	8	1	1	0	7	0	52	5	29	2	6	5	25	2	16	4	5	2	5	0	8	0	11	1	14	0	9	1	20	1	14	2	9	0	7	0	36	4	0	0
+2	COX2	YP_009142650.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	8	4	18	0	2	1	10	1	7	0	2	0	5	1	4	1	4	0	2	0	6	0	5	1	5	0	2	0	5	0	24	3	13	1	3	2	15	0	7	4	5	0	2	0	5	0	0	0	9	0	3	0	6	0	7	4	10	0	0	0	9	1	0	0
+3	ATP8	YP_009142651.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	6	1	6	0	1	0	3	0	0	0	0	0	3	0	0	0	1	0	2	0	0	0	0	0	2	0	0	0	0	0	4	1	6	0	0	1	0	0	3	2	6	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009142652.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	17	4	27	0	1	0	13	1	3	1	0	0	5	0	3	1	3	0	4	0	5	0	3	2	3	0	1	0	2	0	20	1	21	1	8	2	12	1	18	0	3	0	0	0	7	0	1	0	5	1	2	0	7	0	0	1	4	0	3	0	8	0	1	0
+5	COX3	YP_009142653.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	22	7	20	0	2	1	10	0	7	3	1	0	13	1	4	0	2	0	3	1	7	0	10	3	9	0	1	0	3	0	20	3	18	1	6	1	11	0	4	4	2	0	0	0	6	0	1	0	10	0	5	0	11	0	4	0	7	0	3	0	15	1	1	0
+6	ND3	YP_009142654.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	7	3	10	0	1	0	5	0	1	0	1	0	3	0	2	0	1	0	1	0	4	0	1	0	3	0	1	0	0	1	15	5	11	0	2	0	5	0	3	1	5	0	0	0	4	0	1	0	2	1	1	1	4	0	2	1	4	0	1	0	3	0	0	0
+7	ND6	YP_009142658.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	15	1	17	1	0	0	7	0	5	0	0	0	2	0	3	0	1	0	1	0	3	0	1	0	3	0	1	0	0	0	25	1	27	1	3	1	5	0	12	1	9	1	3	0	3	0	0	0	6	0	0	0	3	0	0	1	5	0	2	0	3	0	1	0
+8	CYTB	YP_009142659.1	Qinlingacris taibaiensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Qinlingacris	27	4	38	0	4	1	11	0	12	5	3	1	11	1	3	0	5	0	11	1	10	0	9	2	7	1	0	0	6	2	48	5	19	1	4	4	10	0	21	2	8	1	0	0	5	0	9	0	9	1	3	0	14	1	9	1	5	0	6	0	14	4	1	0

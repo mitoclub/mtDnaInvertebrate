@@ -1,65 +1,33 @@
-	NP_696964.1|nad4	NP_696965.1|rps14	NP_696966.1|rps8	NP_696967.1|atp6	NP_696968.1|atp8	NP_696969.1|nad1	NP_696970.1|rps12	NP_696971.1|rpl16	NP_696972.1|nad5	NP_696973.1|orf300	NP_696974.1|rps4	NP_696975.1|atp9	NP_696976.1|nad4L	NP_696977.1|rps13	NP_696978.1|mttB	NP_696979.1|rps19	NP_696980.1|orf269	NP_696981.1|rpl14	NP_696982.1|rpl5	NP_696983.1|cox2	NP_696984.1|cox1	NP_696985.1|orf294	NP_696986.1|orf318	NP_696987.1|orf243	NP_696988.1|nad3	NP_696989.1|cob	NP_696990.1|orf255	NP_696991.1|cox3	NP_696992.1|rps3	NP_696993.1|rpl2	NP_696994.1|nad6	NP_696995.1|nad2
-TTT	37	4	5	21	5	29	2	8	48	17	11	5	5	5	17	2	10	3	19	16	36	10	19	10	9	29	5	20	6	4	18	32
-TTC	5	0	0	1	2	2	0	0	8	1	0	2	1	0	1	0	1	0	2	1	12	0	0	1	4	8	1	5	0	1	2	2
-TTA	85	15	20	27	6	48	12	15	85	24	22	9	15	15	31	0	37	13	27	24	60	28	33	22	20	40	29	29	19	30	33	81
-TTG	1	1	1	0	0	1	0	0	2	0	2	0	2	2	2	0	0	0	1	0	2	0	1	1	0	3	1	0	1	1	1	1
-TCT	14	5	4	6	2	6	4	2	11	5	7	4	2	5	8	2	7	4	16	4	14	11	10	4	4	1	4	4	8	8	7	11
-TCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0	0
-TCA	12	3	6	7	5	9	2	5	22	9	5	1	3	2	4	3	6	5	4	5	11	3	5	7	3	10	7	8	5	10	7	14
-TCG	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	2	0	0	1
-TAT	25	4	5	8	2	13	2	5	39	9	7	2	4	6	23	0	15	7	15	10	19	10	22	15	6	18	12	11	5	14	11	31
-TAC	1	1	0	1	0	0	0	0	2	1	2	0	0	2	1	1	1	0	1	2	6	2	1	0	0	2	1	3	1	1	0	1
-TGT	5	1	1	0	1	1	2	1	5	5	1	0	0	1	1	0	2	3	0	3	1	2	3	3	2	3	0	1	0	1	1	4
-TGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	7	0	0	3	2	7	0	1	10	7	5	0	0	0	3	2	2	0	3	5	15	7	3	7	4	9	4	10	2	3	0	3
-TGG	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-CTT	0	1	0	0	0	1	0	0	1	1	1	0	0	0	5	0	1	0	3	0	0	2	2	0	0	1	0	0	0	2	0	3
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	0	0	0	0	0	0	0	0	0	0	0	1	3	1	0	1	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	7	3	1	5	2	7	6	3	6	3	0	1	0	2	4	2	4	5	4	6	15	6	1	2	4	9	5	4	2	6	1	11
-CCC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	1	0	1	2	0	0	1	0	0
-CCA	10	2	1	4	1	7	0	3	12	2	1	0	0	0	0	0	0	1	4	6	11	0	2	2	0	8	1	5	0	5	2	3
-CCG	1	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	3	0	0	0	0	1	0
-CAT	9	3	1	6	1	2	2	3	12	6	4	0	0	1	2	2	4	0	4	7	14	5	7	3	1	10	2	13	0	5	2	3
-CAC	1	0	0	1	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	6	0	0	2	0	3	0	2	0	0	0	0
-CAA	6	1	5	4	4	5	5	4	9	11	12	1	2	5	7	0	8	5	6	7	2	6	11	4	3	6	6	4	5	8	7	8
-CAG	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0
-CGT	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	2	0	0	1	0	0	0	0	4	1	1	0	0	4	1	1	0	1	2	0	0	1	1	0	0	0	0	0	1	2	0	1
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	17	3	3	18	8	17	4	11	35	11	7	4	3	9	29	4	19	10	12	13	20	18	15	11	7	21	20	9	4	18	6	36
-ATC	1	0	1	2	0	0	0	2	5	1	0	2	0	1	0	1	1	2	1	1	4	1	0	0	0	1	0	1	0	0	0	1
-ATA	48	7	14	18	6	26	8	7	43	18	14	1	12	11	27	4	15	11	15	12	17	27	18	11	2	24	15	12	6	15	26	58
-ATG	7	3	4	13	2	10	1	4	26	8	3	3	4	2	3	2	1	1	5	6	24	5	4	4	2	12	5	8	2	3	9	13
-ACT	13	2	5	7	4	5	5	5	23	7	6	0	1	3	6	3	2	10	5	6	18	4	11	5	1	5	2	7	4	11	6	20
-ACC	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0
-ACA	18	5	4	8	2	11	4	0	25	8	3	3	1	5	5	2	1	6	5	4	13	4	7	6	2	9	5	11	4	5	3	14
-ACG	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0
-AAT	17	10	21	7	11	13	5	19	34	42	44	0	5	26	15	9	57	17	37	13	11	32	31	16	2	14	41	5	20	48	21	44
-AAC	0	2	3	0	2	0	1	1	1	4	0	1	0	1	0	0	3	2	0	0	5	1	1	2	1	4	1	0	2	1	0	1
-AAA	13	14	22	4	8	11	22	24	24	33	34	2	2	20	12	14	31	28	32	8	9	42	35	29	3	8	31	4	23	45	3	21
-AAG	2	2	0	0	0	0	1	1	0	2	0	0	0	1	0	0	0	0	3	0	0	4	3	1	0	1	1	0	1	1	0	1
-AGT	12	1	1	10	3	8	0	4	21	3	5	1	2	3	6	2	2	5	2	7	14	6	4	5	2	9	4	5	4	9	5	22
-AGC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	9	5	3	2	2	7	11	10	8	3	6	1	3	6	1	3	8	6	7	7	12	5	9	8	1	10	2	6	2	15	4	5
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0	1	0	0	1	0	0	0	0	0	0	0
-GTT	12	2	1	3	2	7	6	8	10	3	4	2	2	1	1	2	4	6	2	6	15	3	5	7	3	8	3	8	1	4	3	7
-GTC	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-GTA	20	1	6	15	5	16	2	0	24	9	1	2	9	1	0	4	1	3	5	21	25	3	3	6	7	16	3	14	2	4	11	17
-GTG	0	0	0	1	1	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	2	0	1	1	0	4	1
-GCT	14	1	0	13	2	15	3	6	29	2	2	11	6	3	0	1	1	1	3	10	23	4	8	2	2	19	1	10	2	9	4	13
-GCC	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	1	0	0	1	0	2	1	1	0	0	0	2
-GCA	10	1	1	7	1	17	2	2	10	2	1	1	1	1	3	1	2	1	0	1	9	1	0	3	2	9	1	8	0	3	4	11
-GCG	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
-GAT	10	2	2	4	2	4	3	4	22	6	3	0	1	3	3	1	6	6	13	15	14	8	11	10	4	7	10	3	4	5	4	11
-GAC	2	0	0	0	0	2	0	1	1	1	0	0	0	2	0	0	0	0	0	1	2	1	0	1	0	2	1	1	0	1	0	0
-GAA	11	5	7	9	5	11	2	7	9	14	13	2	3	8	6	3	8	3	9	16	12	12	8	10	7	6	15	8	4	12	8	11
-GAG	0	0	1	0	0	2	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	2	1	1
-GGT	17	3	2	3	0	7	6	7	24	8	1	3	4	4	0	1	3	6	2	6	17	6	8	6	1	12	7	8	1	15	5	12
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0
-GGA	14	2	6	13	0	9	8	2	25	5	1	9	3	2	2	3	0	5	2	6	35	6	7	6	7	13	4	14	4	8	5	13
-GGG	1	1	1	0	0	1	0	0	1	2	0	0	1	0	0	0	0	0	0	0	2	1	0	2	0	0	0	0	0	1	1	1
-TAA	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1
-TAG	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	nad4	NP_696964.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	37	5	85	1	14	0	12	0	25	1	5	0	7	0	0	0	0	0	7	0	10	1	9	1	6	1	0	0	2	0	17	1	48	7	13	0	18	0	17	0	13	2	12	0	9	0	12	0	20	0	14	0	10	1	10	2	11	0	17	0	14	1	0	1
+1	rps14	NP_696965.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	4	0	15	1	5	0	3	0	4	1	1	0	0	0	1	0	0	0	3	0	2	0	3	0	1	0	0	0	0	0	3	0	7	3	2	0	5	0	10	2	14	2	1	0	5	0	2	0	1	0	1	0	1	0	2	0	5	0	3	0	2	1	1	0
+2	rps8	NP_696966.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	5	0	20	1	4	0	6	1	5	0	1	0	0	0	0	0	0	0	1	0	1	0	1	0	5	0	0	0	0	0	3	1	14	4	5	0	4	0	21	3	22	0	1	0	3	0	1	0	6	0	0	0	1	0	2	0	7	1	2	0	6	1	1	0
+3	atp6	NP_696967.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	21	1	27	0	6	0	7	0	8	1	0	0	3	0	0	0	0	0	5	0	4	0	6	1	4	0	0	0	1	0	18	2	18	13	7	0	8	0	7	0	4	0	10	0	2	0	3	0	15	1	13	0	7	0	4	0	9	0	3	0	13	0	1	0
+4	atp8	NP_696968.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	5	2	6	0	2	0	5	0	2	0	1	0	2	0	0	0	0	0	2	0	1	0	1	0	4	0	0	0	0	0	8	0	6	2	4	0	2	0	11	2	8	0	3	0	2	0	2	0	5	1	2	0	1	0	2	0	5	0	0	0	0	0	1	0
+5	nad1	NP_696969.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	29	2	48	1	6	0	9	0	13	0	1	0	7	0	1	0	0	0	7	0	7	0	2	0	5	0	0	0	0	0	17	0	26	10	5	0	11	0	13	0	11	0	8	0	7	0	7	1	16	4	15	0	17	1	4	2	11	2	7	0	9	1	1	0
+6	rps12	NP_696970.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	2	0	12	0	4	0	2	0	2	0	2	0	0	0	0	0	0	0	6	0	0	0	2	0	5	0	0	0	0	0	4	0	8	1	5	0	4	0	5	1	22	1	0	0	11	0	6	0	2	0	3	0	2	0	3	0	2	0	6	0	8	0	0	1
+7	rpl16	NP_696971.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	8	0	15	0	2	0	5	0	5	0	1	0	1	0	0	0	0	0	3	1	3	0	3	0	4	0	0	0	0	0	11	2	7	4	5	0	0	1	19	1	24	1	4	0	10	0	8	0	0	0	6	0	2	0	4	1	7	0	7	0	2	0	1	0
+8	nad5	NP_696972.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	48	8	85	2	11	0	22	1	39	2	5	0	10	1	1	0	0	0	6	0	12	2	12	2	9	0	0	0	4	0	35	5	43	26	23	0	25	0	34	1	24	0	21	1	8	0	10	0	24	1	29	2	10	1	22	1	9	1	24	0	25	1	1	0
+9	orf300	NP_696973.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	17	1	24	0	5	0	9	0	9	1	5	0	7	1	1	0	0	0	3	0	2	0	6	0	11	0	1	0	1	0	11	1	18	8	7	1	8	0	42	4	33	2	3	0	3	0	3	2	9	0	2	0	2	0	6	1	14	1	8	0	5	2	1	0
+10	rps4	NP_696974.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	11	0	22	2	7	0	5	0	7	2	1	0	5	0	1	0	0	0	0	0	1	0	4	1	12	0	0	0	1	0	7	0	14	3	6	0	3	0	44	0	34	0	5	0	6	0	4	0	1	0	2	1	1	1	3	0	13	1	1	0	1	0	1	0
+11	atp9	NP_696975.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	5	2	9	0	4	0	1	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	4	2	1	3	0	0	3	0	0	1	2	0	1	0	1	0	2	0	2	0	11	0	1	0	0	0	2	0	3	0	9	0	1	0
+12	nad4L	NP_696976.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	5	1	15	2	2	0	3	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	3	0	12	4	1	0	1	0	5	0	2	0	2	0	3	1	2	0	9	0	6	0	1	0	1	0	3	0	4	0	3	1	1	0
+13	rps13	NP_696977.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	5	0	15	2	5	0	2	0	6	2	1	0	0	0	0	0	3	0	2	0	0	0	1	0	5	0	0	0	4	0	9	1	11	2	3	0	5	0	26	1	20	1	3	0	6	0	1	0	1	0	3	0	1	0	3	2	8	0	4	0	2	0	1	0
+14	mttB	NP_696978.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	17	1	31	2	8	2	4	0	23	1	1	0	3	0	5	0	1	0	4	0	0	2	2	0	7	0	0	0	1	0	29	0	27	3	6	0	5	0	15	0	12	0	6	0	1	0	1	0	0	0	0	0	3	0	3	0	6	0	0	0	2	0	1	0
+15	rps19	NP_696979.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	2	0	0	0	2	0	3	0	0	1	0	0	2	0	0	0	0	0	2	0	0	0	2	0	0	0	0	0	1	0	4	1	4	2	3	1	2	0	9	0	14	0	2	0	3	0	2	0	4	0	1	0	1	1	1	0	3	0	1	0	3	0	1	0
+16	orf269	NP_696980.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	10	1	37	0	7	0	6	2	15	1	2	0	2	0	1	0	1	0	4	0	0	0	4	0	8	0	0	0	0	0	19	1	15	1	2	1	1	0	57	3	31	0	2	0	8	1	4	0	1	0	1	1	2	0	6	0	8	0	3	0	0	0	1	0
+17	rpl14	NP_696981.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	3	0	13	0	4	0	5	1	7	0	3	0	0	0	0	0	0	0	5	0	1	0	0	0	5	0	0	0	1	0	10	2	11	1	10	0	6	0	17	2	28	0	5	0	6	0	6	1	3	0	1	0	1	0	6	0	3	0	6	0	5	0	1	0
+18	rpl5	NP_696982.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	19	2	27	1	16	2	4	0	15	1	0	0	3	0	3	0	0	0	4	0	4	1	4	0	6	1	0	0	2	0	12	1	15	5	5	0	5	1	37	0	32	3	2	0	7	1	2	0	5	0	3	0	0	0	13	0	9	1	2	0	2	0	1	0
+19	cox2	NP_696983.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	16	1	24	0	4	0	5	0	10	2	3	0	5	0	0	0	0	0	6	0	6	0	7	0	7	0	0	0	0	0	13	1	12	6	6	0	4	0	13	0	8	0	7	0	7	1	6	0	21	0	10	0	1	0	15	1	16	0	6	0	6	0	1	0
+20	cox1	NP_696984.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	36	12	60	2	14	0	11	0	19	6	1	0	15	0	0	0	0	0	15	2	11	0	14	6	2	0	0	0	0	0	20	4	17	24	18	0	13	1	11	5	9	0	14	1	12	0	15	0	25	3	23	1	9	1	14	2	12	0	17	0	35	2	0	1
+21	orf294	NP_696985.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	10	0	28	0	11	0	3	1	10	2	2	0	7	1	2	0	1	0	6	0	0	0	5	0	6	0	0	0	1	0	18	1	27	5	4	0	4	2	32	1	42	4	6	0	5	1	3	0	3	1	4	0	1	0	8	1	12	0	6	0	6	1	1	0
+22	orf318	NP_696986.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	19	0	33	1	10	3	5	0	22	1	3	0	3	0	2	0	0	0	1	2	2	0	7	0	11	1	1	0	1	0	15	0	18	4	11	1	7	0	31	1	35	3	4	0	9	0	5	0	3	0	8	0	0	0	11	0	8	1	8	0	7	0	1	0
+23	orf243	NP_696987.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	10	1	22	1	4	0	7	0	15	0	3	0	7	0	0	0	1	0	2	1	2	1	3	2	4	0	0	0	0	1	11	0	11	4	5	1	6	0	16	2	29	1	5	0	8	0	7	0	6	0	2	1	3	0	10	1	10	1	6	2	6	2	1	0
+24	nad3	NP_696988.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	9	4	20	0	4	0	3	0	6	0	2	0	4	0	0	0	0	0	4	0	0	0	1	0	3	0	0	0	0	0	7	0	2	2	1	0	2	0	2	1	3	0	2	0	1	1	3	0	7	0	2	0	2	0	4	0	7	1	1	0	7	0	1	0
+25	cob	NP_696989.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	29	8	40	3	1	0	10	0	18	2	3	0	9	0	1	0	0	0	9	1	8	3	10	3	6	0	0	0	0	0	21	1	24	12	5	0	9	0	14	4	8	1	9	0	10	0	8	1	16	2	19	2	9	1	7	2	6	0	12	0	13	0	1	0
+26	orf255	NP_696990.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	5	1	29	1	4	0	7	0	12	1	0	0	4	0	0	0	0	0	5	2	1	0	2	0	6	1	0	0	0	0	20	0	15	5	2	1	5	0	41	1	31	1	4	0	2	0	3	0	3	0	1	1	1	0	10	1	15	0	7	0	4	0	1	0
+27	cox3	NP_696991.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	20	5	29	0	4	0	8	0	11	3	1	0	10	0	0	0	0	0	4	0	5	0	13	2	4	0	0	0	0	0	9	1	12	8	7	0	11	0	5	0	4	0	5	0	6	0	8	0	14	1	10	1	8	0	3	1	8	0	8	0	14	0	1	0
+28	rps3	NP_696992.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	6	0	19	1	8	0	5	2	5	1	0	0	2	0	0	0	1	0	2	0	0	0	0	0	5	0	0	0	1	0	4	0	6	2	4	0	4	0	20	2	23	1	4	0	2	0	1	0	2	1	2	0	0	0	4	0	4	0	1	0	4	0	1	0
+29	rpl2	NP_696993.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	4	1	30	1	8	0	10	0	14	1	1	0	3	0	2	0	0	0	6	1	5	0	5	0	8	0	0	0	2	0	18	0	15	3	11	0	5	0	48	1	45	1	9	0	15	0	4	0	4	0	9	0	3	0	5	1	12	2	15	0	8	1	1	0
+30	nad6	NP_696994.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	18	2	33	1	7	0	7	0	11	0	1	0	0	0	0	0	0	0	1	0	2	1	2	0	7	0	0	0	0	0	6	0	26	9	6	1	3	0	21	0	3	0	5	0	4	0	3	0	11	4	4	0	4	0	4	0	8	1	5	1	5	1	0	1
+31	nad2	NP_696995.1	Monosiga brevicollis ATCC 50154	Eukaryota, Choanoflagellida, Craspedida, Salpingoecidae, Monosiga	32	2	81	1	11	0	14	1	31	1	4	0	3	0	3	0	0	0	11	0	3	0	3	0	8	0	0	0	1	0	36	1	58	13	20	0	14	0	44	1	21	1	22	0	5	0	7	0	17	1	13	2	11	0	11	0	11	1	12	0	13	1	1	0

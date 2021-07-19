@@ -1,65 +1,35 @@
-	YP_009072528.1|atp9	YP_009072529.1|rps8	YP_009072530.1|rpl6	YP_009072531.1|rps2	YP_009072532.1|rps4	YP_009072533.1|nad1	YP_009072535.1|orf40	YP_009072536.1|rps12	YP_009072537.1|rps7	YP_009072538.1|nad4L	YP_009072539.1|rpl14	YP_009072540.1|rpl5	YP_009072546.1|rps13	YP_009072547.1|rps11	YP_009072548.1|cox3	YP_009072549.1|orf252a	YP_009072550.1|atp6	YP_009072551.1|nad2	YP_009072552.1|cox1	YP_009072553.1|orf252b	YP_009072554.1|orf71	YP_009072555.1|nad9	YP_009072556.1|cob	YP_009072557.1|cox2	YP_009072558.1|nad4	YP_009072559.1|nad5	YP_009072560.1|nad6	YP_009072561.1|nad11	YP_009072562.1|nad3	YP_009072563.1|rps14	YP_009072564.1|atp8	YP_009072565.1|rps10	YP_009072566.1|rpl31	YP_009072567.1|nad7
-TTT	3	4	8	10	15	22	9	3	7	8	2	12	3	6	28	27	19	54	44	25	6	12	33	54	46	57	20	10	14	2	7	3	4	15
-TTC	3	0	1	2	1	5	0	0	0	2	0	1	0	1	4	4	6	8	8	4	1	2	5	9	8	9	1	2	1	0	0	0	0	5
-TTA	7	8	6	12	15	31	2	7	11	10	5	15	8	13	13	16	23	51	38	7	4	8	22	88	49	65	28	15	9	9	4	13	5	22
-TTG	3	1	1	4	6	5	0	1	0	1	2	2	3	0	3	5	0	7	5	3	3	3	4	14	10	4	3	1	2	0	0	1	0	2
-TCT	1	4	5	7	8	7	0	1	5	5	3	4	2	3	4	10	4	11	19	11	4	6	7	37	15	15	11	6	4	7	4	2	2	12
-TCC	0	3	1	0	1	1	0	4	3	0	0	1	3	0	0	0	0	2	3	2	0	1	1	9	1	6	3	1	1	0	1	1	0	0
-TCA	0	3	4	1	7	5	0	3	3	2	1	4	2	1	4	8	4	8	7	2	1	5	7	26	14	8	7	3	3	2	0	5	2	0
-TCG	0	0	0	1	1	1	0	0	0	1	1	0	1	1	0	1	0	7	2	3	0	0	0	5	2	4	1	0	0	0	0	2	1	0
-TAT	0	4	10	8	14	11	1	3	2	1	2	5	2	6	6	14	7	17	12	13	2	7	18	26	17	22	9	3	6	3	2	4	0	14
-TAC	0	2	2	1	2	0	0	0	2	0	0	1	2	0	2	2	1	6	6	3	1	1	6	13	3	8	4	0	2	1	1	2	0	3
-TGT	0	2	1	2	6	6	0	3	0	2	1	4	0	3	2	3	4	9	1	4	1	0	2	8	2	9	2	10	1	2	0	2	0	5
-TGC	0	0	1	1	1	0	0	1	0	0	0	1	1	0	0	1	1	1	0	0	0	1	0	4	0	3	1	2	0	0	0	0	0	0
-TGG	0	1	0	2	6	8	0	1	1	0	1	0	0	0	12	1	3	8	13	4	1	4	12	14	11	13	3	3	4	3	1	2	1	4
-CTT	3	4	6	6	9	11	3	2	1	4	4	6	2	3	8	5	11	14	16	6	1	8	7	33	14	25	10	6	4	3	2	0	3	11
-CTC	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	1	0	3	0	0	1	0	2	5	1	2	2	0	1	0	1	0	0	1
-CTA	2	2	1	1	0	6	0	2	1	0	4	2	2	1	2	1	8	10	7	2	2	3	6	12	7	7	7	0	1	0	0	5	1	0
-CTG	1	0	0	0	0	1	0	1	2	0	0	1	0	0	0	2	1	1	2	5	1	0	0	1	1	0	0	0	0	0	0	0	0	2
-CCT	1	0	5	5	6	9	0	4	5	0	1	5	3	4	6	1	5	8	12	9	2	8	12	21	10	12	5	6	4	1	2	2	2	7
-CCC	0	0	2	0	2	1	0	2	0	0	1	1	0	0	1	0	0	0	2	0	1	0	2	5	0	1	0	2	0	0	0	1	0	1
-CCA	0	3	1	3	3	3	0	1	1	0	2	0	2	0	2	3	3	5	10	1	1	2	4	9	1	4	2	1	0	0	0	0	0	4
-CCG	0	0	0	1	0	2	0	1	1	0	0	0	1	0	1	0	2	0	4	1	0	0	0	2	3	2	0	0	0	0	0	0	0	3
-CAT	0	0	0	2	5	1	0	1	2	1	0	3	4	2	13	3	6	4	8	1	0	4	9	14	6	9	0	2	0	2	0	0	0	10
-CAC	0	2	0	2	5	0	1	1	0	0	2	1	0	0	0	0	0	0	7	0	0	4	1	5	1	3	0	3	0	0	0	0	1	3
-CAA	1	0	4	2	7	5	2	6	8	2	5	12	2	1	6	5	5	1	2	6	2	6	3	36	5	12	4	8	2	5	1	2	2	13
-CAG	0	0	0	0	2	2	0	0	1	0	0	0	1	0	0	1	1	2	4	0	0	0	1	3	2	0	1	2	0	1	1	1	1	4
-CGT	1	1	1	5	12	4	0	4	6	1	0	2	5	6	3	2	2	1	4	3	2	5	5	10	5	5	1	2	2	3	1	2	1	11
-CGC	0	2	1	0	5	0	0	3	1	0	2	0	1	0	0	0	0	1	0	0	0	0	0	0	0	3	0	1	0	1	1	0	0	2
-CGA	0	2	1	2	3	1	1	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	2	3	1	5	4	4	0	4	0	1	0	4
-CGG	0	0	0	0	3	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	0	0	0	0
-ATT	5	3	7	7	7	21	1	1	8	10	5	2	4	6	14	10	14	25	28	10	2	8	16	58	21	22	12	7	5	0	2	1	2	16
-ATC	0	3	2	1	3	1	0	0	1	2	0	1	1	2	1	1	2	7	4	5	0	2	3	10	6	8	1	2	0	0	0	0	2	1
-ATA	1	7	4	6	8	11	0	2	5	5	5	4	2	7	3	6	11	12	9	9	2	2	10	30	12	17	15	5	2	2	1	3	1	6
-ATG	3	4	2	4	3	11	1	1	3	3	3	2	1	2	12	1	10	9	23	7	4	2	12	18	15	23	4	3	3	2	3	1	2	14
-ACT	2	1	3	2	2	5	0	2	0	1	3	5	4	5	9	4	3	11	15	6	2	2	7	32	13	8	5	1	1	1	1	4	1	10
-ACC	2	0	1	0	1	1	0	0	0	0	0	1	1	0	0	0	3	2	2	0	0	0	2	6	3	2	0	2	0	0	0	0	1	0
-ACA	0	0	4	3	1	4	0	2	1	2	4	3	1	4	5	2	7	4	11	3	0	7	4	22	6	16	9	5	0	1	2	3	4	5
-ACG	0	1	2	1	1	0	0	0	0	0	0	0	0	0	1	0	1	2	2	2	0	0	1	4	5	2	1	3	0	0	0	0	0	2
-AAT	1	4	4	12	10	10	1	3	4	1	4	8	6	14	2	22	7	13	13	7	3	11	14	66	11	21	16	6	0	3	1	2	3	9
-AAC	0	1	2	1	3	2	0	2	4	2	0	2	0	0	3	7	1	1	4	1	0	0	3	18	1	5	4	1	1	1	1	1	0	4
-AAA	2	9	11	22	18	7	5	17	20	1	12	15	11	19	5	31	4	11	7	12	4	4	9	87	9	16	17	12	2	7	0	13	7	17
-AAG	0	3	2	2	3	0	1	5	3	0	4	3	1	6	0	4	0	3	1	8	1	0	1	12	2	0	2	0	0	2	4	7	1	4
-AGT	0	1	5	8	5	7	1	2	6	1	2	6	1	3	5	9	11	18	8	9	2	6	9	21	10	20	9	3	3	5	0	2	1	5
-AGC	0	2	3	0	1	2	0	0	2	1	0	0	0	1	1	1	0	1	1	1	2	0	1	8	0	3	0	2	1	0	2	0	0	3
-AGA	0	3	4	0	5	2	0	2	5	3	5	3	2	5	2	5	0	4	9	2	0	7	3	25	4	6	1	4	0	3	0	0	1	6
-AGG	1	0	1	1	1	2	0	2	0	0	2	0	2	0	1	0	0	0	1	2	1	2	0	7	1	0	0	0	0	0	0	1	0	1
-GTT	2	1	11	4	5	14	1	5	11	6	5	7	4	3	13	3	5	14	20	6	1	6	18	36	21	22	9	7	7	2	2	4	0	18
-GTC	0	1	2	1	0	0	1	1	0	1	2	3	0	1	3	1	1	2	2	1	0	0	2	10	4	2	2	0	1	2	1	0	0	4
-GTA	1	4	3	3	4	7	1	5	1	1	6	2	2	3	5	4	8	19	10	2	3	6	14	20	14	15	11	7	2	1	2	0	1	8
-GTG	1	1	1	2	0	2	0	1	1	1	0	2	1	0	4	1	3	1	3	0	1	2	2	5	1	2	2	1	0	1	1	0	0	2
-GCT	11	3	2	0	8	8	2	1	6	5	3	3	3	0	16	0	10	16	24	2	1	0	16	42	14	29	10	6	5	3	2	3	0	18
-GCC	1	0	0	1	0	6	2	1	1	1	1	2	2	0	0	1	2	7	5	2	0	1	2	5	5	3	0	0	0	0	0	0	0	1
-GCA	2	2	0	3	5	10	0	0	2	1	4	1	1	1	8	1	3	15	13	3	0	1	8	44	10	14	5	1	4	2	0	1	0	5
-GCG	1	0	0	2	0	1	0	0	0	0	2	0	0	0	0	0	2	4	1	1	0	0	4	6	2	4	0	2	1	0	0	0	0	1
-GAT	1	5	5	3	8	5	0	2	5	1	1	4	3	1	5	3	2	7	10	10	1	6	7	63	9	15	10	6	7	1	1	3	2	19
-GAC	0	1	0	1	1	3	1	1	1	2	1	0	1	2	0	4	1	2	5	1	0	3	4	14	3	5	3	1	1	1	0	0	0	2
-GAA	1	4	4	8	7	7	1	0	5	1	1	8	3	5	4	8	3	10	5	7	1	10	6	92	9	8	14	9	7	2	0	2	1	20
-GAG	1	1	1	3	0	3	0	2	0	1	0	3	0	2	4	3	1	2	0	1	1	4	1	28	1	5	2	1	0	1	0	0	1	8
-GGT	8	3	6	9	6	16	1	6	3	2	5	5	7	3	13	3	11	11	34	8	1	4	21	29	21	27	8	9	4	2	0	2	4	21
-GGC	0	0	2	0	1	2	0	2	0	1	2	1	2	1	2	0	4	7	5	2	0	1	7	5	3	6	2	0	0	0	0	0	0	2
-GGA	2	3	4	3	2	4	0	3	1	1	5	1	0	5	5	0	2	10	14	2	0	1	3	12	9	16	3	5	1	0	0	1	1	6
-GGG	0	3	3	2	1	4	0	1	2	3	0	1	2	2	6	1	1	4	2	5	1	1	2	5	2	6	2	4	1	1	0	0	1	2
-TAA	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	0	1	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	0	1	0	0
-TGA	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	atp9	YP_009072528.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	3	3	7	3	1	0	0	0	0	0	0	0	0	3	0	2	1	1	0	0	0	0	0	1	0	1	0	0	0	5	0	1	3	2	2	0	0	1	0	2	0	0	0	0	1	2	0	1	1	11	1	2	1	1	0	1	1	8	0	2	0	1	0	0
+1	rps8	YP_009072529.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	4	0	8	1	4	3	3	0	4	2	2	0	1	4	1	2	0	0	0	3	0	0	2	0	0	1	2	2	0	3	3	7	4	1	0	0	1	4	1	9	3	1	2	3	0	1	1	4	1	3	0	2	0	5	1	4	1	3	0	3	3	0	0	1
+2	rpl6	YP_009072530.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	8	1	6	1	5	1	4	0	10	2	1	1	0	6	0	1	0	5	2	1	0	0	0	4	0	1	1	1	0	7	2	4	2	3	1	4	2	4	2	11	2	5	3	4	1	11	2	3	1	2	0	0	0	5	0	4	1	6	2	4	3	1	0	0
+3	rps2	YP_009072531.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	10	2	12	4	7	0	1	1	8	1	2	1	2	6	0	1	0	5	0	3	1	2	2	2	0	5	0	2	0	7	1	6	4	2	0	3	1	12	1	22	2	8	0	0	1	4	1	3	2	0	1	3	2	3	1	8	3	9	0	3	2	1	0	0
+4	rps4	YP_009072532.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	15	1	15	6	8	1	7	1	14	2	6	1	6	9	0	0	0	6	2	3	0	5	5	7	2	12	5	3	3	7	3	8	3	2	1	1	1	10	3	18	3	5	1	5	1	5	0	4	0	8	0	5	0	8	1	7	0	6	1	2	1	1	0	0
+5	nad1	YP_009072533.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	22	5	31	5	7	1	5	1	11	0	6	0	8	11	0	6	1	9	1	3	2	1	0	5	2	4	0	1	0	21	1	11	11	5	1	4	0	10	2	7	0	7	2	2	2	14	0	7	2	8	6	10	1	5	3	7	3	16	2	4	4	1	0	0
+6	orf40	YP_009072535.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	9	0	2	0	0	0	0	0	1	0	0	0	0	3	1	0	0	0	0	0	0	0	1	2	0	0	0	1	0	1	0	0	1	0	0	0	0	1	0	5	1	1	0	0	0	1	1	1	0	2	2	0	0	0	1	1	0	1	0	0	0	1	0	0
+7	rps12	YP_009072536.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	3	0	7	1	1	4	3	0	3	0	3	1	1	2	0	2	1	4	2	1	1	1	1	6	0	4	3	0	1	1	0	2	1	2	0	2	0	3	2	17	5	2	0	2	2	5	1	5	1	1	1	0	0	2	1	0	2	6	2	3	1	1	0	0
+8	rps7	YP_009072537.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	7	0	11	0	5	3	3	0	2	2	0	0	1	1	1	1	2	5	0	1	1	2	0	8	1	6	1	1	0	8	1	5	3	0	0	1	0	4	4	20	3	6	2	5	0	11	0	1	1	6	1	2	0	5	1	5	0	3	0	1	2	1	0	0
+9	nad4L	YP_009072538.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	8	2	10	1	5	0	2	1	1	0	2	0	0	4	0	0	0	0	0	0	0	1	0	2	0	1	0	0	0	10	2	5	3	1	0	2	0	1	2	1	0	1	1	3	0	6	1	1	1	5	1	1	0	1	2	1	1	2	1	1	3	1	0	0
+10	rpl14	YP_009072539.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	2	0	5	2	3	0	1	1	2	0	1	0	1	4	0	4	0	1	1	2	0	0	2	5	0	0	2	0	2	5	0	5	3	3	0	4	0	4	0	12	4	2	0	5	2	5	2	6	0	3	1	4	2	1	1	1	0	5	2	5	0	1	0	0
+11	rpl5	YP_009072540.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	12	1	15	2	4	1	4	0	5	1	4	1	0	6	1	2	1	5	1	0	0	3	1	12	0	2	0	0	0	2	1	4	2	5	1	3	0	8	2	15	3	6	0	3	0	7	3	2	2	3	2	1	0	4	0	8	3	5	1	1	1	1	0	0
+12	rps13	YP_009072546.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	3	0	8	3	2	3	2	1	2	2	0	1	0	2	0	2	0	3	0	2	1	4	0	2	1	5	1	1	0	4	1	2	1	4	1	1	0	6	0	11	1	1	0	2	2	4	0	2	1	3	2	1	0	3	1	3	0	7	2	0	2	0	1	0
+13	rps11	YP_009072547.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	6	1	13	0	3	0	1	1	6	0	3	0	0	3	0	1	0	4	0	0	0	2	0	1	0	6	0	1	0	6	2	7	2	5	0	4	0	14	0	19	6	3	1	5	0	3	1	3	0	0	0	1	0	1	2	5	2	3	1	5	2	1	0	0
+14	cox3	YP_009072548.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	28	4	13	3	4	0	4	0	6	2	2	0	12	8	0	2	0	6	1	2	1	13	0	6	0	3	0	0	0	14	1	3	12	9	0	5	1	2	3	5	0	5	1	2	1	13	3	5	4	16	0	8	0	5	0	4	4	13	2	5	6	1	0	0
+15	orf252a	YP_009072549.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	27	4	16	5	10	0	8	1	14	2	3	1	1	5	1	1	2	1	0	3	0	3	0	5	1	2	0	0	0	10	1	6	1	4	0	2	0	22	7	31	4	9	1	5	0	3	1	4	1	0	1	1	0	3	4	8	3	3	0	0	1	1	0	0
+16	atp6	YP_009072550.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	19	6	23	0	4	0	4	0	7	1	4	1	3	11	0	8	1	5	0	3	2	6	0	5	1	2	0	0	0	14	2	11	10	3	3	7	1	7	1	4	0	11	0	0	0	5	1	8	3	10	2	3	2	2	1	3	1	11	4	2	1	0	1	0
+17	nad2	YP_009072551.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	54	8	51	7	11	2	8	7	17	6	9	1	8	14	3	10	1	8	0	5	0	4	0	1	2	1	1	1	0	25	7	12	9	11	2	4	2	13	1	11	3	18	1	4	0	14	2	19	1	16	7	15	4	7	2	10	2	11	7	10	4	1	0	0
+18	cox1	YP_009072552.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	44	8	38	5	19	3	7	2	12	6	1	0	13	16	0	7	2	12	2	10	4	8	7	2	4	4	0	0	0	28	4	9	23	15	2	11	2	13	4	7	1	8	1	9	1	20	2	10	3	24	5	13	1	10	5	5	0	34	5	14	2	1	0	0
+19	orf252b	YP_009072553.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	25	4	7	3	11	2	2	3	13	3	4	0	4	6	0	2	5	9	0	1	1	1	0	6	0	3	0	0	0	10	5	9	7	6	0	3	2	7	1	12	8	9	1	2	2	6	1	2	0	2	2	3	1	10	1	7	1	8	2	2	5	1	0	0
+20	orf71	YP_009072554.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	6	1	4	3	4	0	1	0	2	1	1	0	1	1	1	2	1	2	1	1	0	0	0	2	0	2	0	0	0	2	0	2	4	2	0	0	0	3	0	4	1	2	2	0	1	1	0	3	1	1	0	0	0	1	0	1	1	1	0	0	1	0	0	1
+21	nad9	YP_009072555.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	12	2	8	3	6	1	5	0	7	1	0	1	4	8	0	3	0	8	0	2	0	4	4	6	0	5	0	0	1	8	2	2	2	2	0	7	0	11	0	4	0	6	0	7	2	6	0	6	2	0	1	1	0	6	3	10	4	4	1	1	1	1	0	0
+22	cob	YP_009072556.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	33	5	22	4	7	1	7	0	18	6	2	0	12	7	2	6	0	12	2	4	0	9	1	3	1	5	0	2	1	16	3	10	12	7	2	4	1	14	3	9	1	9	1	3	0	18	2	14	2	16	2	8	4	7	4	6	1	21	7	3	2	0	1	0
+23	cox2	YP_009072557.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	54	9	88	14	37	9	26	5	26	13	8	4	14	33	5	12	1	21	5	9	2	14	5	36	3	10	0	3	1	58	10	30	18	32	6	22	4	66	18	87	12	21	8	25	7	36	10	20	5	42	5	44	6	63	14	92	28	29	5	12	5	1	0	0
+24	nad4	YP_009072558.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	46	8	49	10	15	1	14	2	17	3	2	0	11	14	1	7	1	10	0	1	3	6	1	5	2	5	0	1	0	21	6	12	15	13	3	6	5	11	1	9	2	10	0	4	1	21	4	14	1	14	5	10	2	9	3	9	1	21	3	9	2	0	1	0
+25	nad5	YP_009072559.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	57	9	65	4	15	6	8	4	22	8	9	3	13	25	2	7	0	12	1	4	2	9	3	12	0	5	3	5	0	22	8	17	23	8	2	16	2	21	5	16	0	20	3	6	0	22	2	15	2	29	3	14	4	15	5	8	5	27	6	16	6	1	0	0
+26	nad6	YP_009072560.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	20	1	28	3	11	3	7	1	9	4	2	1	3	10	2	7	0	5	0	2	0	0	0	4	1	1	0	4	0	12	1	15	4	5	0	9	1	16	4	17	2	9	0	1	0	9	2	11	2	10	0	5	0	10	3	14	2	8	2	3	2	1	0	0
+27	nad11	YP_009072561.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	10	2	15	1	6	1	3	0	3	0	10	2	3	6	0	0	0	6	2	1	0	2	3	8	2	2	1	4	0	7	2	5	3	1	2	5	3	6	1	12	0	3	2	4	0	7	0	7	1	6	0	1	2	6	1	9	1	9	0	5	4	1	0	0
+28	nad3	YP_009072562.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	14	1	9	2	4	1	3	0	6	2	1	0	4	4	1	1	0	4	0	0	0	0	0	2	0	2	0	0	0	5	0	2	3	1	0	0	0	0	1	2	0	3	1	0	0	7	1	2	0	5	0	4	1	7	1	7	0	4	0	1	1	0	0	1
+29	rps14	YP_009072563.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	2	0	9	0	7	0	2	0	3	1	2	0	3	3	0	0	0	1	0	0	0	2	0	5	1	3	1	4	1	0	0	2	2	1	0	1	0	3	1	7	2	5	0	3	0	2	2	1	1	3	0	2	0	1	1	2	1	2	0	0	1	0	1	0
+30	atp8	YP_009072564.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	7	0	4	0	4	1	0	0	2	1	0	0	1	2	1	0	0	2	0	0	0	0	0	1	1	1	1	0	0	2	0	1	3	1	0	2	0	1	1	0	4	0	2	0	0	2	1	2	1	2	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+31	rps10	YP_009072565.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	3	0	13	1	2	1	5	2	4	2	2	0	2	0	0	5	0	2	1	0	0	0	0	2	1	2	0	1	0	1	0	3	1	4	0	3	0	2	1	13	7	2	0	0	1	4	0	0	0	3	0	1	0	3	0	2	0	2	0	1	0	0	1	0
+32	rpl31	YP_009072566.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	4	0	5	0	2	0	2	1	0	0	0	0	1	3	0	1	0	2	0	0	0	0	1	2	1	1	0	0	0	2	2	1	2	1	1	4	0	3	0	7	1	1	0	1	0	0	0	1	0	0	0	0	0	2	0	1	1	4	0	1	1	1	0	0
+33	nad7	YP_009072567.1	Petalonia fascia	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Ectocarpales, Scytosiphonaceae, Petalonia	15	5	22	2	12	0	0	0	14	3	5	0	4	11	1	0	2	7	1	4	3	10	3	13	4	11	2	4	0	16	1	6	14	10	0	5	2	9	4	17	4	5	3	6	1	18	4	8	2	18	1	5	1	19	2	20	8	21	2	6	2	1	0	0

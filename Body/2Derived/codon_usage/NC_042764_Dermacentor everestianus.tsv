@@ -1,65 +1,10 @@
-	YP_009652695.1|ND2	YP_009652696.1|COX1	YP_009652697.1|COX2	YP_009652698.1|ATP8	YP_009652699.1|ATP6	YP_009652700.1|COX3	YP_009652701.1	YP_009652706.1|ND6	YP_009652707.1|CYTB
-TTT	42	41	15	4	26	39	15	15	40
-TTC	1	4	1	0	2	1	0	1	0
-TTA	35	44	16	5	26	20	19	16	33
-TTG	2	0	0	1	5	1	2	1	4
-TCT	11	9	9	1	9	12	5	4	12
-TCC	3	7	1	1	2	1	0	0	3
-TCA	15	18	11	1	5	9	0	6	10
-TCG	0	2	3	0	0	0	0	0	1
-TAT	8	9	6	3	6	4	4	3	13
-TAC	0	6	0	0	0	2	1	1	4
-TGT	1	1	3	1	0	0	1	1	2
-TGC	1	0	0	0	0	0	0	2	0
-TGA	6	13	5	2	5	11	1	0	8
-TGG	1	1	0	0	0	1	0	0	1
-CTT	3	11	2	2	4	2	0	4	3
-CTC	0	0	0	0	0	1	0	0	0
-CTA	0	4	0	1	0	2	1	1	0
-CTG	1	0	0	0	0	0	0	0	0
-CCT	5	16	2	1	5	6	4	3	11
-CCC	0	3	1	1	2	1	1	1	1
-CCA	1	7	5	0	2	1	0	1	6
-CCG	0	1	1	0	0	1	0	0	0
-CAT	3	13	5	0	3	11	0	0	9
-CAC	0	3	1	0	1	0	0	0	0
-CAA	4	7	6	2	1	4	0	1	4
-CAG	0	0	1	0	1	1	0	0	0
-CGT	0	4	1	0	2	1	1	0	2
-CGC	0	0	1	0	0	0	0	0	0
-CGA	0	4	1	0	0	2	0	0	2
-CGG	0	1	1	0	0	0	0	0	1
-ATT	60	60	31	5	27	28	15	29	50
-ATC	1	1	1	1	0	0	1	0	2
-ATA	24	34	19	5	14	7	8	20	25
-ATG	0	1	1	1	2	3	0	1	3
-ACT	6	12	6	1	8	6	1	0	4
-ACC	0	3	1	0	1	0	0	2	2
-ACA	4	9	3	0	1	5	0	0	8
-ACG	0	3	0	0	0	0	0	0	0
-AAT	22	25	16	7	14	11	5	11	15
-AAC	2	1	1	1	0	0	0	3	7
-AAA	27	7	6	4	7	5	6	7	9
-AAG	0	2	1	0	0	2	1	0	2
-AGT	4	2	0	1	0	3	1	0	0
-AGC	1	0	0	0	1	1	0	1	0
-AGA	4	6	2	0	9	5	1	1	6
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	7	2	0	7	7	5	1	4
-GTC	0	2	0	0	1	1	0	1	0
-GTA	2	12	3	0	3	5	1	1	8
-GTG	0	1	0	0	1	1	0	1	0
-GCT	2	8	1	0	2	9	0	0	11
-GCC	2	4	0	0	2	1	0	0	0
-GCA	2	16	5	0	4	2	0	1	4
-GCG	0	2	0	0	0	0	0	0	0
-GAT	1	10	5	1	0	2	1	0	4
-GAC	0	3	3	0	1	1	2	0	3
-GAA	5	8	10	0	4	7	4	1	4
-GAG	0	0	2	0	1	1	1	0	0
-GGT	1	12	2	0	3	0	0	1	3
-GGC	0	6	2	0	0	3	0	0	0
-GGA	3	21	1	0	1	5	1	1	14
-GGG	0	5	2	0	0	4	2	0	2
-TAA	1	1	0	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009652695.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	42	1	35	2	11	3	15	0	8	0	1	1	6	1	3	0	0	1	5	0	1	0	3	0	4	0	0	0	0	0	60	1	24	0	6	0	4	0	22	2	27	0	4	1	4	0	4	0	2	0	2	2	2	0	1	0	5	0	1	0	3	0	1	0
+1	COX1	YP_009652696.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	41	4	44	0	9	7	18	2	9	6	1	0	13	1	11	0	4	0	16	3	7	1	13	3	7	0	4	0	4	1	60	1	34	1	12	3	9	3	25	1	7	2	2	0	6	0	7	2	12	1	8	4	16	2	10	3	8	0	12	6	21	5	1	0
+2	COX2	YP_009652697.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	15	1	16	0	9	1	11	3	6	0	3	0	5	0	2	0	0	0	2	1	5	1	5	1	6	1	1	1	1	1	31	1	19	1	6	1	3	0	16	1	6	1	0	0	2	0	2	0	3	0	1	0	5	0	5	3	10	2	2	2	1	2	0	0
+3	ATP8	YP_009652698.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	4	0	5	1	1	1	1	0	3	0	1	0	2	0	2	0	1	0	1	1	0	0	0	0	2	0	0	0	0	0	5	1	5	1	1	0	0	0	7	1	4	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009652699.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	26	2	26	5	9	2	5	0	6	0	0	0	5	0	4	0	0	0	5	2	2	0	3	1	1	1	2	0	0	0	27	0	14	2	8	1	1	0	14	0	7	0	0	1	9	0	7	1	3	1	2	2	4	0	0	1	4	1	3	0	1	0	1	0
+5	COX3	YP_009652700.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	39	1	20	1	12	1	9	0	4	2	0	0	11	1	2	1	2	0	6	1	1	1	11	0	4	1	1	0	2	0	28	0	7	3	6	0	5	0	11	0	5	2	3	1	5	0	7	1	5	1	9	1	2	0	2	1	7	1	0	3	5	4	0	0
+6	None	YP_009652701.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	15	0	19	2	5	0	0	0	4	1	1	0	1	0	0	0	1	0	4	1	0	0	0	0	0	0	1	0	0	0	15	1	8	0	1	0	0	0	5	0	6	1	1	0	1	0	5	0	1	0	0	0	0	0	1	2	4	1	0	0	1	2	1	0
+7	ND6	YP_009652706.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	15	1	16	1	4	0	6	0	3	1	1	2	0	0	4	0	1	0	3	1	1	0	0	0	1	0	0	0	0	0	29	0	20	1	0	2	0	0	11	3	7	0	0	1	1	0	1	1	1	1	0	0	1	0	0	0	1	0	1	0	1	0	1	0
+8	CYTB	YP_009652707.1	Dermacentor everestianus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Rhipicephalinae, Dermacentor	40	0	33	4	12	3	10	1	13	4	2	0	8	1	3	0	0	0	11	1	6	0	9	0	4	0	2	0	2	1	50	2	25	3	4	2	8	0	15	7	9	2	0	0	6	0	4	0	8	0	11	0	4	0	4	3	4	0	3	0	14	2	0	1

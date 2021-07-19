@@ -1,65 +1,10 @@
-	YP_009228282.1|ND2	YP_009228283.1|COX1	YP_009228284.1|COX2	YP_009228285.1|ATP8	YP_009228286.1|ATP6	YP_009228287.1|COX3	YP_009228288.1|ND3	YP_009228292.1|ND6	YP_009228293.1|CYTB
-TTT	13	22	5	1	9	10	4	9	12
-TTC	10	18	7	3	6	14	7	4	20
-TTA	17	24	11	2	15	7	5	10	17
-TTG	6	6	4	1	4	0	0	0	1
-TCT	7	13	4	2	7	5	3	5	5
-TCC	3	8	2	1	1	3	0	1	2
-TCA	16	9	6	2	10	8	3	3	6
-TCG	1	0	0	0	2	0	0	1	0
-TAT	1	7	5	2	2	7	3	3	10
-TAC	6	8	4	1	2	6	0	4	8
-TGT	2	1	1	0	2	1	2	0	2
-TGC	0	0	1	0	0	0	0	1	1
-TGA	6	13	3	3	6	9	2	2	11
-TGG	2	1	4	0	0	4	0	0	1
-CTT	10	15	7	1	9	8	6	4	14
-CTC	3	4	1	0	3	1	1	1	2
-CTA	14	15	7	3	7	10	7	8	13
-CTG	4	3	2	0	0	5	0	2	2
-CCT	5	13	8	2	7	5	2	2	11
-CCC	1	5	0	0	2	2	1	0	2
-CCA	3	8	2	1	3	2	1	2	10
-CCG	1	0	1	0	0	0	0	1	0
-CAT	1	8	4	0	2	8	2	1	7
-CAC	5	7	2	0	3	7	0	0	4
-CAA	4	6	6	1	3	7	1	1	6
-CAG	0	2	2	0	0	1	0	0	2
-CGT	0	2	4	0	0	0	1	0	1
-CGC	0	1	0	0	1	0	0	0	1
-CGA	2	6	2	0	2	3	1	1	3
-CGG	0	0	1	0	0	1	0	0	2
-ATT	36	31	15	4	18	20	15	19	31
-ATC	13	15	9	0	9	7	3	10	15
-ATA	28	28	8	3	11	7	7	13	11
-ATG	7	4	2	0	2	4	0	2	3
-ACT	6	15	2	0	7	7	1	4	11
-ACC	8	5	10	0	2	3	2	5	7
-ACA	5	10	4	2	6	6	1	4	6
-ACG	0	1	0	0	1	0	0	0	0
-AAT	18	7	7	2	6	7	1	10	16
-AAC	7	12	4	2	8	2	1	4	10
-AAA	12	5	7	3	2	3	3	8	7
-AAG	3	3	2	1	1	1	3	0	2
-AGT	2	3	0	1	0	1	0	0	3
-AGC	1	2	2	0	0	1	1	1	0
-AGA	5	7	1	1	6	1	4	2	3
-AGG	1	2	1	0	1	2	0	0	0
-GTT	4	11	4	0	6	5	2	3	7
-GTC	2	2	1	0	0	0	1	0	4
-GTA	3	17	6	2	3	8	4	2	10
-GTG	0	3	1	0	1	0	0	0	0
-GCT	7	18	5	1	7	2	1	0	8
-GCC	6	9	0	0	3	3	1	2	7
-GCA	5	7	3	1	1	4	2	0	7
-GCG	1	0	1	0	0	0	0	0	0
-GAT	0	7	6	0	0	3	1	2	3
-GAC	0	8	4	0	1	1	2	0	7
-GAA	6	7	8	1	4	7	4	1	3
-GAG	0	3	1	0	0	0	1	0	0
-GGT	1	16	3	0	0	6	0	1	6
-GGC	1	2	1	0	0	2	1	0	2
-GGA	5	23	3	0	4	8	3	3	8
-GGG	1	6	2	0	5	5	1	1	6
-TAA	1	0	0	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009228282.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	13	10	17	6	7	3	16	1	1	6	2	0	6	2	10	3	14	4	5	1	3	1	1	5	4	0	0	0	2	0	36	13	28	7	6	8	5	0	18	7	12	3	2	1	5	1	4	2	3	0	7	6	5	1	0	0	6	0	1	1	5	1	1	0
+1	COX1	YP_009228283.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	22	18	24	6	13	8	9	0	7	8	1	0	13	1	15	4	15	3	13	5	8	0	8	7	6	2	2	1	6	0	31	15	28	4	15	5	10	1	7	12	5	3	3	2	7	2	11	2	17	3	18	9	7	0	7	8	7	3	16	2	23	6	0	0
+2	COX2	YP_009228284.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	5	7	11	4	4	2	6	0	5	4	1	1	3	4	7	1	7	2	8	0	2	1	4	2	6	2	4	0	2	1	15	9	8	2	2	10	4	0	7	4	7	2	0	2	1	1	4	1	6	1	5	0	3	1	6	4	8	1	3	1	3	2	0	0
+3	ATP8	YP_009228285.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	1	3	2	1	2	1	2	0	2	1	0	0	3	0	1	0	3	0	2	0	1	0	0	0	1	0	0	0	0	0	4	0	3	0	0	0	2	0	2	2	3	1	1	0	1	0	0	0	2	0	1	0	1	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009228286.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	9	6	15	4	7	1	10	2	2	2	2	0	6	0	9	3	7	0	7	2	3	0	2	3	3	0	0	1	2	0	18	9	11	2	7	2	6	1	6	8	2	1	0	0	6	1	6	0	3	1	7	3	1	0	0	1	4	0	0	0	4	5	1	0
+5	COX3	YP_009228287.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	10	14	7	0	5	3	8	0	7	6	1	0	9	4	8	1	10	5	5	2	2	0	8	7	7	1	0	0	3	1	20	7	7	4	7	3	6	0	7	2	3	1	1	1	1	2	5	0	8	0	2	3	4	0	3	1	7	0	6	2	8	5	0	0
+6	ND3	YP_009228288.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	4	7	5	0	3	0	3	0	3	0	2	0	2	0	6	1	7	0	2	1	1	0	2	0	1	0	1	0	1	0	15	3	7	0	1	2	1	0	1	1	3	3	0	1	4	0	2	1	4	0	1	1	2	0	1	2	4	1	0	1	3	1	0	0
+7	ND6	YP_009228292.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	9	4	10	0	5	1	3	1	3	4	0	1	2	0	4	1	8	2	2	0	2	1	1	0	1	0	0	0	1	0	19	10	13	2	4	5	4	0	10	4	8	0	0	1	2	0	3	0	2	0	0	2	0	0	2	0	1	0	1	0	3	1	1	0
+8	CYTB	YP_009228293.1	Epicauta chinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Meloidae, Epicauta	12	20	17	1	5	2	6	0	10	8	2	1	11	1	14	2	13	2	11	2	10	0	7	4	6	2	1	1	3	2	31	15	11	3	11	7	6	0	16	10	7	2	3	0	3	0	7	4	10	0	8	7	7	0	3	7	3	0	6	2	8	6	1	0

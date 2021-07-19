@@ -1,65 +1,13 @@
-	YP_009754659.1|ND1	YP_009754660.1|ND2	YP_009754661.1|COX1	YP_009754662.1|COX2	YP_009754663.1|ATP8	YP_009754664.1|ATP6	YP_009754665.1|COX3	YP_009754666.1|ND3	YP_009754667.1|ND4L	YP_009754668.1|ND4	YP_009754669.1|ND5	YP_009754671.1|CYTB
-TTT	10	7	15	3	1	4	6	3	2	6	18	8
-TTC	8	5	27	4	0	8	17	4	1	11	25	18
-TTA	10	11	5	3	1	6	4	4	4	15	7	9
-TTG	1	1	1	1	0	2	0	0	1	1	1	0
-TCT	1	1	5	2	1	4	5	1	2	1	9	0
-TCC	6	11	9	7	1	3	4	5	2	8	12	10
-TCA	12	14	15	4	3	3	6	3	5	18	14	10
-TCG	0	1	1	1	2	1	0	0	0	2	3	1
-TAT	6	4	7	5	4	0	6	1	1	6	7	4
-TAC	6	5	12	6	0	2	5	2	2	12	11	10
-TGT	0	0	0	1	0	0	1	0	2	3	1	0
-TGC	1	0	1	1	0	0	1	1	1	1	3	4
-TGA	7	10	16	5	3	3	11	4	0	9	9	11
-TGG	2	0	1	0	0	0	1	0	0	3	3	1
-CTT	3	7	8	6	3	7	3	6	2	5	15	7
-CTC	11	6	12	4	1	10	8	5	5	17	25	19
-CTA	26	34	30	18	3	17	21	10	11	44	41	28
-CTG	5	2	7	2	1	1	2	1	1	7	5	1
-CCT	3	0	6	1	3	2	2	2	1	2	4	1
-CCC	7	11	10	2	1	4	5	0	0	7	9	10
-CCA	13	8	12	10	2	5	5	3	0	11	11	12
-CCG	0	1	1	0	0	1	0	1	0	0	2	0
-CAT	0	0	3	1	1	1	4	0	1	3	3	2
-CAC	4	5	15	6	1	8	12	1	2	7	8	11
-CAA	5	9	6	3	3	7	7	2	2	10	19	6
-CAG	1	0	0	4	0	1	0	0	0	1	2	1
-CGT	1	0	2	1	0	0	0	0	1	1	0	1
-CGC	1	1	0	1	0	0	1	1	0	1	4	1
-CGA	6	2	6	4	1	4	2	0	0	5	5	5
-CGG	0	0	0	0	0	0	2	0	0	3	0	1
-ATT	17	12	20	10	5	18	4	5	4	25	29	15
-ATC	10	21	16	7	1	11	9	1	1	22	24	22
-ATA	15	27	22	12	2	12	6	7	6	29	36	14
-ATG	5	5	7	4	2	3	3	1	4	5	3	3
-ACT	3	6	7	4	2	4	1	0	2	10	9	3
-ACC	9	16	11	5	2	9	10	1	1	12	22	8
-ACA	8	24	14	8	4	8	9	4	2	17	25	10
-ACG	0	1	4	2	1	1	1	0	0	2	4	1
-AAT	8	4	5	1	0	4	3	2	0	8	12	7
-AAC	4	14	13	5	1	7	3	4	5	14	22	8
-AAA	7	14	8	5	5	4	3	3	0	10	18	7
-AAG	0	0	1	0	0	0	1	0	0	1	6	1
-AGT	0	0	2	0	0	0	1	0	1	1	2	1
-AGC	3	1	1	4	0	4	2	2	0	10	10	3
-GTT	3	1	7	3	2	2	2	0	2	2	3	6
-GTC	4	2	10	2	0	1	3	1	0	4	5	6
-GTA	7	4	16	8	0	3	9	2	5	7	12	4
-GTG	2	1	5	0	0	1	1	0	2	0	2	2
-GCT	1	1	9	1	0	2	4	5	1	6	3	2
-GCC	19	11	15	0	0	5	10	3	4	12	18	11
-GCA	11	6	15	6	1	7	1	3	2	8	14	10
-GCG	0	0	2	1	0	1	0	0	0	3	1	0
-GAT	0	0	5	2	0	1	0	0	1	1	3	1
-GAC	3	1	9	9	1	0	4	2	0	2	6	11
-GAA	8	5	9	8	1	2	7	3	2	7	11	6
-GAG	3	0	1	6	1	1	1	3	0	2	1	0
-GGT	1	1	2	0	0	3	6	0	0	4	6	1
-GGC	4	5	14	6	0	0	7	2	3	7	9	9
-GGA	7	6	21	1	0	5	7	1	1	7	12	12
-GGG	0	2	10	1	0	3	2	0	0	1	1	3
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009754659.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	10	8	10	1	1	6	12	0	6	6	0	1	7	2	3	11	26	5	3	7	13	0	0	4	5	1	1	1	6	0	17	10	15	5	3	9	8	0	8	4	7	0	0	3	3	4	7	2	1	19	11	0	0	3	8	3	1	4	7	0	0	0	0	0
+1	ND2	YP_009754660.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	7	5	11	1	1	11	14	1	4	5	0	0	10	0	7	6	34	2	0	11	8	1	0	5	9	0	0	1	2	0	12	21	27	5	6	16	24	1	4	14	14	0	0	1	1	2	4	1	1	11	6	0	0	1	5	0	1	5	6	2	0	0	0	0
+2	COX1	YP_009754661.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	15	27	5	1	5	9	15	1	7	12	0	1	16	1	8	12	30	7	6	10	12	1	3	15	6	0	2	0	6	0	20	16	22	7	7	11	14	4	5	13	8	1	2	1	7	10	16	5	9	15	15	2	5	9	9	1	2	14	21	10	1	0	0	0
+3	COX2	YP_009754662.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	3	4	3	1	2	7	4	1	5	6	1	1	5	0	6	4	18	2	1	2	10	0	1	6	3	4	1	1	4	0	10	7	12	4	4	5	8	2	1	5	5	0	0	4	3	2	8	0	1	0	6	1	2	9	8	6	0	6	1	1	1	0	0	0
+4	ATP8	YP_009754663.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	1	0	1	0	1	1	3	2	4	0	0	0	3	0	3	1	3	1	3	1	2	0	1	1	3	0	0	0	1	0	5	1	2	2	2	2	4	1	0	1	5	0	0	0	2	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009754664.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	4	8	6	2	4	3	3	1	0	2	0	0	3	0	7	10	17	1	2	4	5	1	1	8	7	1	0	0	4	0	18	11	12	3	4	9	8	1	4	7	4	0	0	4	2	1	3	1	2	5	7	1	1	0	2	1	3	0	5	3	1	0	0	0
+6	COX3	YP_009754665.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	6	17	4	0	5	4	6	0	6	5	1	1	11	1	3	8	21	2	2	5	5	0	4	12	7	0	0	1	2	2	4	9	6	3	1	10	9	1	3	3	3	1	1	2	2	3	9	1	4	10	1	0	0	4	7	1	6	7	7	2	0	0	0	0
+7	ND3	YP_009754666.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	3	4	4	0	1	5	3	0	1	2	0	1	4	0	6	5	10	1	2	0	3	1	0	1	2	0	0	1	0	0	5	1	7	1	0	1	4	0	2	4	3	0	0	2	0	1	2	0	5	3	3	0	0	2	3	3	0	2	1	0	1	0	0	0
+8	ND4L	YP_009754667.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	2	1	4	1	2	2	5	0	1	2	2	1	0	0	2	5	11	1	1	0	0	0	1	2	2	0	1	0	0	0	4	1	6	4	2	1	2	0	0	5	0	0	1	0	2	0	5	2	1	4	2	0	1	0	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009754668.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	6	11	15	1	1	8	18	2	6	12	3	1	9	3	5	17	44	7	2	7	11	0	3	7	10	1	1	1	5	3	25	22	29	5	10	12	17	2	8	14	10	1	1	10	2	4	7	0	6	12	8	3	1	2	7	2	4	7	7	1	0	0	0	0
+10	ND5	YP_009754669.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	18	25	7	1	9	12	14	3	7	11	1	3	9	3	15	25	41	5	4	9	11	2	3	8	19	2	0	4	5	0	29	24	36	3	9	22	25	4	12	22	18	6	2	10	3	5	12	2	3	18	14	1	3	6	11	1	6	9	12	1	1	0	0	0
+11	CYTB	YP_009754671.1	Epomophorus minimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Pteropodinae, Epomophorini-Myonycterini lineage, Epomophorini, Epomophorus	8	18	9	0	0	10	10	1	4	10	0	4	11	1	7	19	28	1	1	10	12	0	2	11	6	1	1	1	5	1	15	22	14	3	3	8	10	1	7	8	7	1	1	3	6	6	4	2	2	11	10	0	1	11	6	0	1	9	12	3	0	0	0	1

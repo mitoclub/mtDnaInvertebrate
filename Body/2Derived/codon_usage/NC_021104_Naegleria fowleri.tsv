@@ -1,65 +1,45 @@
-	YP_007890019.1|ND1	YP_007890020.1|rps7	YP_007890021.1|ATP1	YP_007890022.1|orf312	YP_007890023.1|ND4L	YP_007890024.1|orf164	YP_007890025.1|rps12	YP_007890026.1|COX1	YP_007890027.1|COX11	YP_007890028.1|sdh2	YP_007890029.1|ND11	YP_007890030.1|COX3	YP_007890031.1|ND8	YP_007890032.1|ND5	YP_007890033.1|CYTB	YP_007890034.1|ATP3	YP_007890035.1|orf145	YP_007890036.1|ND6	YP_007890037.1|rps2	YP_007890038.1|ATP8	YP_007890039.1|rps10	YP_007890040.1|rpl11	YP_007890041.1|rpl2	YP_007890042.1|rps19	YP_007890043.1|rps3	YP_007890044.1|rpl16	YP_007890045.1|rpl14	YP_007890046.1|rpl5	YP_007890047.1|rps14	YP_007890048.1|rps8	YP_007890049.1|rpl6	YP_007890050.1|rps11	YP_007890051.1|rps13	YP_007890052.1|ND4	YP_007890053.1|yejU	YP_007890054.1|ND2	YP_007890055.1|ATP6	YP_007890056.1|ND3	YP_007890057.1|COX2	YP_007890058.1|orf504	YP_007890059.1|ND7	YP_007890062.1|rps4	YP_007890063.1|ATP9	YP_007890064.1|ND9
-TTT	37	29	18	33	7	16	4	51	35	20	66	21	9	99	57	20	27	28	37	18	6	12	14	9	59	5	5	22	10	16	20	56	16	62	35	62	35	16	21	36	17	53	4	12
-TTC	8	6	11	5	1	1	0	14	0	2	7	4	0	6	9	2	0	2	3	2	2	2	1	0	3	1	0	2	0	0	0	6	2	5	2	2	2	3	3	4	1	11	2	4
-TTA	35	29	36	21	15	15	8	41	13	19	40	24	8	60	49	22	14	21	15	16	11	11	17	2	49	9	7	24	9	12	17	52	9	41	26	48	27	8	28	35	27	42	10	16
-TTG	3	6	2	6	3	4	1	2	4	8	13	2	0	16	5	3	2	7	5	2	1	2	5	0	8	4	3	3	2	3	2	12	1	11	7	13	8	2	3	9	7	7	0	6
-TCT	7	7	15	6	5	4	1	17	6	7	23	4	3	28	13	16	6	5	5	2	2	3	15	1	16	5	2	4	7	6	3	8	3	13	3	14	6	2	5	7	12	4	0	1
-TCC	1	1	5	0	0	0	1	3	1	1	2	2	0	2	2	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	3	0	0	1	1	1	0	1	1	0	1	0	2
-TCA	4	3	11	4	2	0	3	8	2	2	11	6	2	16	2	4	2	3	4	1	4	1	4	1	4	2	1	1	2	3	1	2	3	9	4	8	2	1	2	7	5	9	3	4
-TCG	2	1	2	1	0	3	0	4	3	5	5	0	2	8	4	1	0	1	2	1	1	1	1	0	1	2	1	1	0	1	1	3	0	6	3	4	1	0	3	2	1	2	0	2
-TAT	11	20	23	9	5	16	1	32	18	10	40	28	10	46	36	15	12	11	23	4	3	11	16	2	50	6	3	23	11	7	19	46	3	35	21	38	16	12	13	45	22	37	1	15
-TAC	2	7	5	4	1	1	1	9	4	1	5	2	0	5	3	0	1	2	3	2	1	1	1	0	1	0	1	1	0	1	2	3	0	2	3	5	1	1	2	7	1	7	0	4
-TGT	3	3	6	7	0	3	4	2	7	11	18	4	6	8	2	6	0	0	3	0	2	5	5	3	5	6	2	1	1	1	5	4	2	5	1	8	3	3	5	8	5	1	0	1
-TGC	0	0	2	0	0	0	0	0	2	3	1	1	2	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	1	0	0	0	0	0	0	2	1	0	1
-TGG	7	2	3	0	0	1	0	18	0	4	3	13	0	7	9	0	3	0	3	1	0	0	2	1	3	0	0	0	1	0	1	3	0	4	3	2	2	3	5	19	3	0	0	3
-CTT	4	5	3	5	0	3	0	7	3	1	8	4	1	8	4	6	3	6	7	1	0	1	2	1	1	2	0	2	1	0	1	4	2	6	2	4	2	3	2	8	2	5	1	2
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	2	1	0	0
-CTA	1	5	9	4	1	1	1	4	2	4	5	7	6	8	6	3	3	3	2	1	0	1	1	2	8	2	0	5	0	1	2	4	0	12	2	11	4	0	2	4	5	4	0	4
-CTG	1	2	2	1	1	0	2	1	0	2	3	2	2	3	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	2	0	1	2	0	0	0
-CCT	6	1	10	2	1	2	1	12	1	2	7	0	3	5	7	2	0	0	3	2	0	2	5	1	4	1	1	1	0	0	1	5	1	8	0	5	4	1	5	7	9	4	1	0
-CCC	0	0	0	0	0	0	1	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
-CCA	7	2	6	1	0	1	3	13	4	5	9	6	1	4	9	2	0	2	4	0	0	5	4	0	5	3	1	0	0	1	1	4	2	6	0	5	3	2	4	5	5	1	0	3
-CCG	2	0	0	0	0	0	2	1	0	4	2	0	0	2	3	0	1	0	1	0	1	0	0	0	2	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	3	1	0	0
-CAT	1	9	6	1	1	2	3	14	2	3	6	5	2	8	10	2	2	3	5	2	2	0	5	2	6	3	2	1	3	1	6	3	3	7	4	5	2	1	6	12	11	3	0	4
-CAC	0	0	0	0	0	0	0	4	0	0	1	4	0	0	3	0	0	0	0	0	0	0	1	1	0	0	1	0	0	1	0	1	0	1	0	0	1	0	1	1	4	2	0	2
-CAA	4	5	19	2	1	2	6	7	1	7	6	4	2	12	4	6	0	3	3	3	1	3	0	1	12	1	1	3	2	0	1	5	3	3	2	5	5	0	5	8	9	3	1	2
-CAG	1	0	4	0	0	1	1	0	3	0	3	0	2	2	0	0	1	1	0	0	0	1	0	1	3	0	0	0	0	0	0	0	2	0	2	0	1	0	1	3	2	3	0	2
-CGT	2	7	2	2	0	0	2	2	2	1	8	1	1	2	1	2	1	1	3	1	1	2	3	2	8	2	2	2	0	3	3	13	2	2	2	1	0	0	0	6	5	3	0	1
-CGC	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0
-CGA	0	2	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	1	0	1	0	4	0	0	1	1	0	1	3	1	0	0	0	1	0	0	1	1	1	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
-ATT	18	13	25	10	4	1	3	29	11	13	31	13	7	36	31	15	4	11	15	7	3	12	10	3	15	10	9	4	5	10	7	19	8	35	17	42	10	7	15	29	16	21	8	5
-ATC	1	2	3	3	2	0	1	6	1	2	5	0	0	5	4	1	4	2	1	1	1	1	3	0	2	3	1	0	0	0	0	3	1	2	0	7	2	1	1	2	2	2	2	1
-ATA	17	16	15	8	8	8	2	24	10	11	26	10	7	25	14	6	7	13	10	4	3	3	8	2	18	5	5	5	2	6	7	18	5	24	15	30	19	6	13	22	15	15	0	9
-ATG	10	8	6	8	2	6	1	25	7	6	15	4	2	20	11	6	3	9	8	3	1	4	4	2	10	3	3	2	4	2	3	6	1	15	3	13	2	3	7	14	13	4	3	4
-ACT	5	8	5	2	0	4	1	18	3	3	14	5	2	8	11	5	2	4	3	0	0	1	3	2	4	1	0	5	0	2	4	5	2	7	1	6	4	1	2	7	6	9	2	0
-ACC	0	1	2	1	0	0	0	0	0	0	0	1	1	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	1	2	2	0	0	1
-ACA	4	3	14	6	0	1	0	22	3	4	7	5	3	9	9	11	2	0	4	1	1	2	7	1	4	3	3	3	3	4	1	9	2	8	4	5	7	3	7	13	7	4	2	5
-ACG	0	3	0	1	0	2	3	2	0	0	3	1	1	5	0	1	0	0	3	1	0	1	0	0	2	0	0	0	1	2	0	1	0	3	1	2	1	0	1	2	1	1	0	0
-AAT	8	17	26	8	1	9	2	22	17	23	55	10	7	19	22	20	15	6	20	9	9	10	16	6	41	9	8	22	6	11	8	52	17	17	13	30	6	3	18	25	18	37	3	8
-AAC	2	5	6	4	1	1	1	4	2	3	8	0	1	3	2	1	0	4	2	0	0	1	0	0	2	2	0	2	1	1	0	2	1	2	1	2	0	0	1	4	0	2	0	3
-AAA	8	59	33	9	3	12	18	21	6	14	35	4	9	19	16	22	9	3	13	12	9	12	27	13	53	11	16	12	8	9	14	61	17	9	6	12	7	4	10	30	15	61	1	8
-AAG	2	16	1	3	0	3	6	1	0	3	5	2	3	3	3	5	1	2	4	1	1	1	7	5	8	5	2	8	2	2	3	18	5	4	0	5	0	2	2	8	3	8	0	5
-AGT	7	6	10	5	2	3	1	12	6	8	22	9	2	15	13	7	7	4	8	3	1	2	8	2	14	2	2	6	1	9	3	13	6	18	6	11	11	3	9	5	4	14	1	5
-AGC	1	0	0	1	0	0	1	2	1	4	5	0	0	4	2	1	1	0	1	0	0	1	1	0	3	1	0	0	0	0	1	1	0	2	1	5	2	0	1	0	0	1	0	2
-AGA	6	12	25	2	0	3	6	13	1	6	15	6	5	4	9	7	2	2	5	0	2	1	7	2	12	4	5	3	4	2	4	23	8	5	4	6	2	1	3	10	11	6	2	4
-AGG	1	4	2	1	1	0	3	0	0	2	8	1	3	2	0	1	1	0	2	0	0	0	2	0	5	1	1	1	1	1	1	2	2	0	0	2	0	0	2	7	7	2	0	4
-GTT	10	8	11	4	1	3	4	11	9	4	8	6	3	16	18	4	4	7	2	4	1	4	4	2	8	4	5	1	3	2	1	9	3	6	4	9	7	1	7	8	11	6	1	1
-GTC	1	2	0	0	0	0	0	1	0	0	5	1	0	1	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	2	2	2	2	0	1	2	0	0	0	2
-GTA	13	11	37	12	5	7	6	31	5	3	19	15	3	20	13	8	2	4	2	1	2	4	5	4	8	3	7	5	2	4	2	10	2	10	2	8	10	4	16	13	14	9	4	6
-GTG	6	2	3	3	0	1	1	4	1	5	2	2	0	2	5	0	0	0	0	0	0	2	3	0	0	1	0	1	1	0	1	2	0	2	0	1	1	0	0	1	1	1	0	0
-GCT	8	1	7	3	2	1	2	16	2	3	7	6	2	9	7	9	1	1	0	0	0	1	2	1	4	0	3	1	0	2	1	1	2	7	1	7	6	1	7	3	5	2	4	1
-GCC	0	1	2	0	0	0	1	1	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0
-GCA	11	4	20	3	2	1	1	16	2	5	6	13	7	13	7	10	0	7	2	0	1	2	6	0	3	1	2	1	0	0	0	4	1	1	1	2	4	3	5	9	5	2	5	1
-GCG	3	1	1	0	0	0	1	1	1	0	0	3	1	2	1	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	0	2	2	0	0	3	2	1	0	0
-GAT	5	7	18	5	1	3	4	16	8	10	24	11	7	15	11	12	2	5	6	2	2	5	2	4	11	3	5	5	0	2	3	14	6	6	2	7	4	3	12	16	18	11	1	7
-GAC	0	0	5	3	1	2	0	2	0	2	10	0	0	1	1	1	0	1	0	0	0	0	3	0	1	1	0	0	0	0	1	1	0	2	2	2	0	0	2	2	1	0	0	0
-GAA	9	6	28	12	0	6	1	11	6	9	28	4	11	13	5	11	6	3	5	0	3	4	7	3	10	3	4	1	0	3	2	18	1	9	2	9	3	7	11	29	17	10	1	5
-GAG	3	4	6	4	2	3	0	0	4	2	5	1	3	2	2	3	1	1	2	0	1	0	0	0	4	1	0	1	1	1	0	5	0	2	0	0	1	2	1	7	6	2	1	1
-GGT	8	6	8	5	2	2	2	31	2	5	17	9	5	23	13	2	0	3	4	2	0	2	10	3	4	4	3	4	2	1	4	3	4	8	2	12	5	3	5	10	18	3	2	1
-GGC	0	0	0	1	0	0	0	1	1	0	1	0	1	0	1	1	0	1	1	0	0	0	2	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	1	0	2	1	1	0
-GGA	7	5	22	2	2	2	3	19	1	3	10	7	1	11	11	2	0	3	3	0	0	3	9	1	7	2	3	0	1	1	1	6	1	7	0	8	1	1	4	5	9	1	5	3
-GGG	2	1	9	1	0	0	6	2	0	0	1	2	0	2	1	2	0	0	1	0	0	1	3	0	0	2	1	0	0	2	1	1	3	4	0	0	1	1	2	2	2	0	0	1
-TAA	0	1	1	0	0	1	1	1	0	0	0	0	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	0	1	0	0
-TAG	1	0	0	1	0	0	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	1	0	1	0	1	1
-TGA	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	ND1	YP_007890019.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	37	8	35	3	7	1	4	2	11	2	3	0	7	4	0	1	1	6	0	7	2	1	0	4	1	2	0	0	0	18	1	17	10	5	0	4	0	8	2	8	2	7	1	6	1	10	1	13	6	8	0	11	3	5	0	9	3	8	0	7	2	0	1	0
+1	rps7	YP_007890020.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	29	6	29	6	7	1	3	1	20	7	3	0	2	5	0	5	2	1	0	2	0	9	0	5	0	7	0	2	0	13	2	16	8	8	1	3	3	17	5	59	16	6	0	12	4	8	2	11	2	1	1	4	1	7	0	6	4	6	0	5	1	1	0	0
+2	ATP1	YP_007890021.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	18	11	36	2	15	5	11	2	23	5	6	2	3	3	0	9	2	10	0	6	0	6	0	19	4	2	0	0	0	25	3	15	6	5	2	14	0	26	6	33	1	10	0	25	2	11	0	37	3	7	2	20	1	18	5	28	6	8	0	22	9	1	0	0
+3	orf312	YP_007890022.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	33	5	21	6	6	0	4	1	9	4	7	0	0	5	0	4	1	2	0	1	0	1	0	2	0	2	0	0	0	10	3	8	8	2	1	6	1	8	4	9	3	5	1	2	1	4	0	12	3	3	0	3	0	5	3	12	4	5	1	2	1	0	1	0
+4	ND4L	YP_007890023.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	7	1	15	3	5	0	2	0	5	1	0	0	0	0	0	1	1	1	0	0	0	1	0	1	0	0	0	0	0	4	2	8	2	0	0	0	0	1	1	3	0	2	0	0	1	1	0	5	0	2	0	2	0	1	1	0	2	2	0	2	0	0	0	1
+5	orf164	YP_007890024.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	16	1	15	4	4	0	0	3	16	1	3	0	1	3	0	1	0	2	0	1	0	2	0	2	1	0	1	0	0	1	0	8	6	4	0	1	2	9	1	12	3	3	0	3	0	3	0	7	1	1	0	1	0	3	2	6	3	2	0	2	0	1	0	0
+6	rps12	YP_007890025.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	4	0	8	1	1	1	3	0	1	1	4	0	0	0	0	1	2	1	1	3	2	3	0	6	1	2	1	0	0	3	1	2	1	1	0	0	3	2	1	18	6	1	1	6	3	4	0	6	1	2	1	1	1	4	0	1	0	2	0	3	6	1	0	0
+7	COX1	YP_007890026.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	51	14	41	2	17	3	8	4	32	9	2	0	18	7	0	4	1	12	3	13	1	14	4	7	0	2	0	0	0	29	6	24	25	18	0	22	2	22	4	21	1	12	2	13	0	11	1	31	4	16	1	16	1	16	2	11	0	31	1	19	2	1	0	0
+8	COX11	YP_007890027.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	35	0	13	4	6	1	2	3	18	4	7	2	0	3	0	2	0	1	1	4	0	2	0	1	3	2	0	0	0	11	1	10	7	3	0	3	0	17	2	6	0	6	1	1	0	9	0	5	1	2	0	2	1	8	0	6	4	2	1	1	0	0	0	1
+9	sdh2	YP_007890028.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	20	2	19	8	7	1	2	5	10	1	11	3	4	1	0	4	2	2	1	5	4	3	0	7	0	1	0	0	0	13	2	11	6	3	0	4	0	23	3	14	3	8	4	6	2	4	0	3	5	3	0	5	0	10	2	9	2	5	0	3	0	0	1	0
+10	ND11	YP_007890029.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	66	7	40	13	23	2	11	5	40	5	18	1	3	8	0	5	3	7	0	9	2	6	1	6	3	8	0	1	0	31	5	26	15	14	0	7	3	55	8	35	5	22	5	15	8	8	5	19	2	7	0	6	0	24	10	28	5	17	1	10	1	0	1	0
+11	COX3	YP_007890030.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	21	4	24	2	4	2	6	0	28	2	4	1	13	4	0	7	2	0	0	6	0	5	4	4	0	1	0	1	0	13	0	10	4	5	1	5	1	10	0	4	2	9	0	6	1	6	1	15	2	6	1	13	3	11	0	4	1	9	0	7	2	0	1	0
+12	ND8	YP_007890031.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	9	0	8	0	3	0	2	2	10	0	6	2	0	1	0	6	2	3	0	1	0	2	0	2	2	1	0	0	0	7	0	7	2	2	1	3	1	7	1	9	3	2	0	5	3	3	0	3	0	2	0	7	1	7	0	11	3	5	1	1	0	1	0	0
+13	ND5	YP_007890032.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	99	6	60	16	28	2	16	8	46	5	8	1	7	8	2	8	3	5	0	4	2	8	0	12	2	2	0	1	1	36	5	25	20	8	0	9	5	19	3	19	3	15	4	4	2	16	1	20	2	9	0	13	2	15	1	13	2	23	0	11	2	1	0	0
+14	CYTB	YP_007890033.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	57	9	49	5	13	2	2	4	36	3	2	0	9	4	0	6	0	7	0	9	3	10	3	4	0	1	0	0	0	31	4	14	11	11	0	9	0	22	2	16	3	13	2	9	0	18	1	13	5	7	1	7	1	11	1	5	2	13	1	11	1	0	1	0
+15	ATP3	YP_007890034.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	20	2	22	3	16	0	4	1	15	0	6	0	0	6	0	3	0	2	0	2	0	2	0	6	0	2	0	0	0	15	1	6	6	5	1	11	1	20	1	22	5	7	1	7	1	4	0	8	0	9	0	10	0	12	1	11	3	2	1	2	2	0	1	0
+16	orf145	YP_007890035.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	27	0	14	2	6	0	2	0	12	1	0	0	3	3	0	3	0	0	0	0	1	2	0	0	1	1	0	0	0	4	4	7	3	2	0	2	0	15	0	9	1	7	1	2	1	4	0	2	0	1	0	0	0	2	0	6	1	0	0	0	0	1	0	0
+17	ND6	YP_007890036.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	28	2	21	7	5	1	3	1	11	2	0	0	0	6	1	3	0	0	0	2	0	3	0	3	1	1	0	0	2	11	2	13	9	4	0	0	0	6	4	3	2	4	0	2	0	7	0	4	0	1	1	7	1	5	1	3	1	3	1	3	0	1	0	0
+18	rps2	YP_007890037.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	37	3	15	5	5	0	4	2	23	3	3	0	3	7	0	2	0	3	0	4	1	5	0	3	0	3	0	0	1	15	1	10	8	3	1	4	3	20	2	13	4	8	1	5	2	2	1	2	0	0	0	2	1	6	0	5	2	4	1	3	1	1	0	0
+19	ATP8	YP_007890038.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	18	2	16	2	2	0	1	1	4	2	0	0	1	1	0	1	0	2	0	0	0	2	0	3	0	1	0	0	0	7	1	4	3	0	0	1	1	9	0	12	1	3	0	0	0	4	0	1	0	0	0	0	0	2	0	0	0	2	0	0	0	1	0	0
+20	rps10	YP_007890039.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	6	2	11	1	2	0	4	1	3	1	2	0	0	0	0	0	0	0	0	0	1	2	0	1	0	1	0	1	0	3	1	3	1	0	0	1	0	9	0	9	1	1	0	2	0	1	0	2	0	0	0	1	0	2	0	3	1	0	0	0	0	0	0	1
+21	rpl11	YP_007890040.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	12	2	11	2	3	1	1	1	11	1	5	0	0	1	0	1	0	2	0	5	0	0	0	3	1	2	0	0	0	12	1	3	4	1	0	2	1	10	1	12	1	2	1	1	0	4	0	4	2	1	0	2	0	5	0	4	0	2	0	3	1	0	1	0
+22	rpl2	YP_007890041.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	14	1	17	5	15	0	4	1	16	1	5	0	2	2	1	1	0	5	1	4	0	5	1	0	0	3	1	1	0	10	3	8	4	3	0	7	0	16	0	27	7	8	1	7	2	4	1	5	3	2	0	6	0	2	3	7	0	10	2	9	3	1	0	0
+23	rps19	YP_007890042.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	9	0	2	0	1	1	1	0	2	0	3	0	1	1	0	2	0	1	0	0	0	2	1	1	1	2	0	0	0	3	0	2	2	2	0	1	0	6	0	13	5	2	0	2	0	2	0	4	0	1	0	0	0	4	0	3	0	3	0	1	0	1	0	0
+24	rps3	YP_007890043.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	59	3	49	8	16	0	4	1	50	1	5	2	3	1	2	8	1	4	0	5	2	6	0	12	3	8	0	4	1	15	2	18	10	4	1	4	2	41	2	53	8	14	3	12	5	8	1	8	0	4	1	3	1	11	1	10	4	4	0	7	0	1	0	0
+25	rpl16	YP_007890044.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	5	1	9	4	5	0	2	2	6	0	6	0	0	2	0	2	0	1	0	3	0	3	0	1	0	2	0	0	1	10	3	5	3	1	0	3	0	9	2	11	5	2	1	4	1	4	0	3	1	0	1	1	0	3	1	3	1	4	0	2	2	1	0	0
+26	rpl14	YP_007890045.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	5	0	7	3	2	0	1	1	3	1	2	0	0	0	0	0	0	1	1	1	0	2	1	1	0	2	0	0	0	9	1	5	3	0	0	3	0	8	0	16	2	2	0	5	1	5	0	7	0	3	0	2	0	5	0	4	0	3	1	3	1	1	0	0
+27	rpl5	YP_007890046.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	22	2	24	3	4	0	1	1	23	1	1	0	0	2	0	5	1	1	0	0	0	1	0	3	0	2	0	1	0	4	0	5	2	5	0	3	0	22	2	12	8	6	0	3	1	1	0	5	1	1	0	1	0	5	0	1	1	4	0	0	0	1	0	0
+28	rps14	YP_007890047.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	10	0	9	2	7	0	2	0	11	0	1	0	1	1	0	0	0	0	0	0	0	3	0	2	0	0	0	1	0	5	0	2	4	0	0	3	1	6	1	8	2	1	0	4	1	3	0	2	1	0	0	0	0	0	0	0	1	2	0	1	0	1	0	0
+29	rps8	YP_007890048.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	16	0	12	3	6	0	3	1	7	1	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	3	0	0	0	10	0	6	2	2	0	4	2	11	1	9	2	9	0	2	1	2	0	4	0	2	0	0	0	2	0	3	1	1	0	1	2	1	0	0
+30	rpl6	YP_007890049.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	20	0	17	2	3	1	1	1	19	2	5	0	1	1	0	2	0	1	0	1	0	6	0	1	0	3	0	1	0	7	0	7	3	4	0	1	0	8	0	14	3	3	1	4	1	1	0	2	1	1	0	0	0	3	1	2	0	4	0	1	1	1	0	0
+31	rps11	YP_007890050.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	56	6	52	12	8	3	2	3	46	3	4	3	3	4	0	4	0	5	1	4	1	3	1	5	0	13	2	3	0	19	3	18	6	5	1	9	1	52	2	61	18	13	1	23	2	9	0	10	2	1	0	4	1	14	1	18	5	3	0	6	1	0	1	0
+32	rps13	YP_007890051.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	16	2	9	1	3	0	3	0	3	0	2	0	0	2	0	0	0	1	0	2	0	3	0	3	2	2	0	1	0	8	1	5	1	2	0	2	0	17	1	17	5	6	0	8	2	3	1	2	0	2	0	1	0	6	0	1	0	4	0	1	3	1	0	0
+33	ND4	YP_007890052.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	62	5	41	11	13	0	9	6	35	2	5	1	4	6	1	12	0	8	0	6	0	7	1	3	0	2	1	0	0	35	2	24	15	7	0	8	3	17	2	9	4	18	2	5	0	6	2	10	2	7	0	1	2	6	2	9	2	8	2	7	4	1	0	0
+34	yejU	YP_007890053.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	35	2	26	7	3	1	4	3	21	3	1	0	3	2	0	2	0	0	0	0	1	4	0	2	2	2	0	0	0	17	0	15	3	1	1	4	1	13	1	6	0	6	1	4	0	4	2	2	0	1	0	1	0	2	2	2	0	2	0	0	0	1	0	0
+35	ND2	YP_007890054.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	62	2	48	13	14	1	8	4	38	5	8	0	2	4	1	11	1	5	0	5	0	5	0	5	0	1	0	0	1	42	7	30	13	6	0	5	2	30	2	12	5	11	5	6	2	9	2	8	1	7	1	2	2	7	2	9	0	12	0	8	0	0	1	0
+36	ATP6	YP_007890055.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	35	2	27	8	6	1	2	1	16	1	3	0	2	2	0	4	0	4	0	3	0	2	1	5	1	0	0	1	0	10	2	19	2	4	0	7	1	6	0	7	0	11	2	2	0	7	2	10	1	6	0	4	2	4	0	3	1	5	0	1	1	0	1	0
+37	ND3	YP_007890056.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	16	3	8	2	2	0	1	0	12	1	3	0	3	3	0	0	2	1	0	2	0	1	0	0	0	0	0	0	0	7	1	6	3	1	0	3	0	3	0	4	2	3	0	1	0	1	0	4	0	1	0	3	0	3	0	7	2	3	0	1	1	0	1	0
+38	COX2	YP_007890057.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	21	3	28	3	5	1	2	3	13	2	5	0	5	2	0	2	0	5	0	4	0	6	1	5	1	0	0	0	0	15	1	13	7	2	1	7	1	18	1	10	2	9	1	3	2	7	1	16	0	7	1	5	0	12	2	11	1	5	1	4	2	0	1	0
+39	orf504	YP_007890058.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	36	4	35	9	7	1	7	2	45	7	8	0	19	8	0	4	1	7	0	5	1	12	1	8	3	6	0	1	0	29	2	22	14	7	2	13	2	25	4	30	8	5	0	10	7	8	2	13	1	3	0	9	3	16	2	29	7	10	0	5	2	1	0	0
+40	ND7	YP_007890059.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	17	1	27	7	12	0	5	1	22	1	5	2	3	2	2	5	2	9	0	5	3	11	4	9	2	5	0	1	0	16	2	15	13	6	2	7	1	18	0	15	3	4	0	11	7	11	0	14	1	5	1	5	2	18	1	17	6	18	2	9	2	0	1	0
+41	rps4	YP_007890062.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	53	11	42	7	4	1	9	2	37	7	1	1	0	5	1	4	0	4	0	1	1	3	2	3	3	3	0	1	1	21	2	15	4	9	0	4	1	37	2	61	8	14	1	6	2	6	0	9	1	2	0	2	1	11	0	10	2	3	1	1	0	1	0	0
+42	ATP9	YP_007890063.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	4	2	10	0	0	0	3	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	8	2	0	3	2	0	2	0	3	0	1	0	1	0	2	0	1	0	4	0	4	0	5	0	1	0	1	1	2	1	5	0	0	1	0
+43	ND9	YP_007890064.1	Naegleria fowleri	Eukaryota, Heterolobosea, Schizopyrenida, Vahlkampfiidae, Naegleria	12	4	16	6	1	2	4	2	15	4	1	1	3	2	0	4	0	0	1	3	0	4	2	2	2	1	0	0	0	5	1	9	4	0	1	5	0	8	3	8	5	5	2	4	4	1	2	6	0	1	0	1	0	7	0	5	1	1	0	3	1	0	1	0

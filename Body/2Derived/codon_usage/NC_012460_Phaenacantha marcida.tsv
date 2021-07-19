@@ -1,65 +1,10 @@
-	YP_002735057.1|ND2	YP_002735058.1|COX1	YP_002735059.1|COX2	YP_002735060.1|ATP8	YP_002735061.1|ATP6	YP_002735062.1|COX3	YP_002735063.1|ND3	YP_002735067.1|ND6	YP_002735068.1|CYTB
-TTT	13	26	6	2	5	8	3	9	13
-TTC	7	14	3	1	6	12	6	3	13
-TTA	30	29	9	2	17	10	3	10	29
-TTG	3	1	0	0	1	0	0	1	1
-TCT	5	4	0	0	1	1	0	3	4
-TCC	6	9	1	1	1	0	1	2	1
-TCA	11	18	7	0	9	12	6	6	12
-TCG	1	0	0	0	0	0	0	0	0
-TAT	8	7	6	2	1	4	2	4	8
-TAC	4	8	1	0	2	5	0	1	6
-TGT	1	0	1	0	1	1	1	0	2
-TGC	0	1	1	1	0	4	1	0	1
-TGA	9	14	6	4	5	12	4	0	12
-TGG	4	2	0	0	0	0	0	1	0
-CTT	3	4	3	0	1	2	0	2	2
-CTC	0	2	1	0	1	2	0	0	0
-CTA	4	16	10	1	8	8	4	3	17
-CTG	2	1	0	0	0	1	0	0	1
-CCT	2	10	1	0	2	2	0	1	5
-CCC	6	7	3	0	4	1	4	2	4
-CCA	3	12	6	3	6	5	0	1	13
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	11	5	0	1	6	0	1	6
-CAC	1	4	1	1	4	8	0	0	4
-CAA	7	7	6	2	2	5	1	1	6
-CAG	1	1	2	0	0	0	0	0	0
-CGT	0	1	0	0	0	0	0	0	0
-CGC	0	1	0	0	1	0	0	0	0
-CGA	1	7	5	0	2	3	2	1	7
-CGG	0	0	0	0	0	0	0	0	1
-ATT	30	39	19	5	11	16	12	16	24
-ATC	11	15	8	1	7	10	6	7	18
-ATA	45	37	18	9	37	19	18	25	23
-ATG	3	3	4	0	1	1	0	0	2
-ACT	5	10	4	1	4	4	2	5	5
-ACC	5	2	1	0	2	3	2	2	5
-ACA	7	19	8	0	11	14	6	5	12
-ACG	1	2	0	0	1	1	0	0	0
-AAT	16	10	8	0	7	5	0	8	21
-AAC	1	6	6	3	6	3	2	1	5
-AAA	17	11	6	7	4	11	7	9	10
-AAG	2	0	2	1	0	1	1	1	1
-AGT	0	1	0	1	0	0	0	0	1
-AGC	2	0	0	1	1	0	1	0	0
-AGA	14	14	8	0	15	8	1	4	6
-AGG	0	0	0	0	1	0	0	0	1
-GTT	1	3	1	0	0	1	0	2	5
-GTC	1	0	1	0	0	1	1	1	1
-GTA	7	24	8	0	8	14	5	3	11
-GTG	0	1	0	0	0	0	0	0	1
-GCT	1	6	1	0	1	1	0	0	1
-GCC	4	5	3	0	0	1	2	1	3
-GCA	7	14	6	0	8	3	2	3	13
-GCG	0	0	1	0	0	0	0	0	1
-GAT	0	10	6	0	0	2	1	0	6
-GAC	0	4	2	0	1	2	2	0	1
-GAA	3	12	9	2	6	8	5	3	5
-GAG	0	0	2	0	0	0	0	0	3
-GGT	1	5	1	0	1	1	0	0	3
-GGC	2	1	2	0	1	0	0	0	1
-GGA	9	31	4	0	5	16	1	2	16
-GGG	2	8	1	0	1	3	1	1	4
-TAA	0	0	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_002735057.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	13	7	30	3	5	6	11	1	8	4	1	0	9	4	3	0	4	2	2	6	3	0	1	1	7	1	0	0	1	0	30	11	45	3	5	5	7	1	16	1	17	2	0	2	14	0	1	1	7	0	1	4	7	0	0	0	3	0	1	2	9	2	0	0
+1	COX1	YP_002735058.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	26	14	29	1	4	9	18	0	7	8	0	1	14	2	4	2	16	1	10	7	12	1	11	4	7	1	1	1	7	0	39	15	37	3	10	2	19	2	10	6	11	0	1	0	14	0	3	0	24	1	6	5	14	0	10	4	12	0	5	1	31	8	0	0
+2	COX2	YP_002735059.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	6	3	9	0	0	1	7	0	6	1	1	1	6	0	3	1	10	0	1	3	6	0	5	1	6	2	0	0	5	0	19	8	18	4	4	1	8	0	8	6	6	2	0	0	8	0	1	1	8	0	1	3	6	1	6	2	9	2	1	2	4	1	0	0
+3	ATP8	YP_002735060.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	2	1	2	0	0	1	0	0	2	0	0	1	4	0	0	0	1	0	0	0	3	0	0	1	2	0	0	0	0	0	5	1	9	0	1	0	0	0	0	3	7	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_002735061.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	5	6	17	1	1	1	9	0	1	2	1	0	5	0	1	1	8	0	2	4	6	0	1	4	2	0	0	1	2	0	11	7	37	1	4	2	11	1	7	6	4	0	0	1	15	1	0	0	8	0	1	0	8	0	0	1	6	0	1	1	5	1	1	0
+5	COX3	YP_002735062.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	8	12	10	0	1	0	12	0	4	5	1	4	12	0	2	2	8	1	2	1	5	0	6	8	5	0	0	0	3	0	16	10	19	1	4	3	14	1	5	3	11	1	0	0	8	0	1	1	14	0	1	1	3	0	2	2	8	0	1	0	16	3	0	0
+6	ND3	YP_002735063.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	3	6	3	0	0	1	6	0	2	0	1	1	4	0	0	0	4	0	0	4	0	0	0	0	1	0	0	0	2	0	12	6	18	0	2	2	6	0	0	2	7	1	0	1	1	0	0	1	5	0	0	2	2	0	1	2	5	0	0	0	1	1	0	0
+7	ND6	YP_002735067.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	9	3	10	1	3	2	6	0	4	1	0	0	0	1	2	0	3	0	1	2	1	0	1	0	1	0	0	0	1	0	16	7	25	0	5	2	5	0	8	1	9	1	0	0	4	0	2	1	3	0	0	1	3	0	0	0	3	0	0	0	2	1	1	0
+8	CYTB	YP_002735068.1	Phaenacantha marcida	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Lygaeoidea, Colobathristidae, Phaenacantha	13	13	29	1	4	1	12	0	8	6	2	1	12	0	2	0	17	1	5	4	13	0	6	4	6	0	0	0	7	1	24	18	23	2	5	5	12	0	21	5	10	1	1	0	6	1	5	1	11	1	1	3	13	1	6	1	5	3	3	1	16	4	0	0

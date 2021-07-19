@@ -1,65 +1,13 @@
-	YP_009573008.1|ND1	YP_009573009.1|ND2	YP_009573010.1|COX1	YP_009573011.1|COX2	YP_009573012.1|ATP8	YP_009573013.1|ATP6	YP_009573014.1|COX3	YP_009573015.1|ND3	YP_009573016.1|ND4L	YP_009573017.1|ND4	YP_009573018.1|ND5	YP_009573019.1|CYTB
-TTT	2	0	8	2	1	2	6	0	0	2	8	3
-TTC	15	12	32	5	1	6	16	7	4	13	21	23
-TTA	6	5	9	1	1	7	2	1	1	12	6	3
-TTG	0	0	0	1	0	0	1	1	0	1	1	0
-TCT	3	0	3	1	0	0	1	3	0	4	3	6
-TCC	9	12	16	13	1	4	5	3	3	9	21	5
-TCA	5	19	6	5	1	4	7	1	6	11	20	10
-TCG	3	1	0	0	0	0	1	0	1	0	0	0
-TAT	7	0	3	0	0	1	1	1	1	3	0	2
-TAC	6	7	16	8	0	2	8	1	1	8	11	12
-TGT	0	0	0	0	0	0	1	1	2	1	1	1
-TGC	3	2	1	3	0	1	0	0	1	2	4	3
-TGA	7	9	15	5	5	4	11	5	1	12	10	9
-TGG	1	1	2	0	0	0	1	0	0	0	2	3
-CTT	3	3	5	1	1	2	5	2	4	15	8	6
-CTC	16	23	12	9	2	14	9	6	5	29	32	24
-CTA	37	33	28	18	5	34	18	13	11	39	60	31
-CTG	4	2	6	3	0	3	1	3	1	3	5	2
-CCT	3	4	5	3	0	3	0	0	0	4	8	0
-CCC	12	5	11	4	3	6	2	2	1	13	8	16
-CCA	8	10	15	6	4	6	9	4	2	12	18	9
-CCG	1	2	1	0	0	2	1	0	0	1	0	1
-CAT	0	1	4	1	0	0	5	1	0	1	2	3
-CAC	4	8	15	8	1	3	14	0	6	16	13	9
-CAA	8	9	9	7	3	7	9	5	1	14	19	8
-CAG	0	0	1	0	0	1	0	0	0	0	0	0
-CGT	1	0	1	0	0	1	0	0	0	0	1	1
-CGC	1	1	1	3	0	2	0	0	0	4	4	2
-CGA	5	2	6	2	0	2	4	2	3	7	4	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	3	8	11	2	2	3	5	3	0	8	17	7
-ATC	24	19	32	16	2	14	12	8	1	28	39	21
-ATA	12	18	17	9	1	9	5	3	7	22	27	7
-ATG	2	2	8	2	2	3	1	0	1	5	1	2
-ACT	2	6	4	1	2	3	0	1	2	6	7	3
-ACC	9	24	22	8	7	14	11	5	4	26	34	18
-ACA	11	23	14	5	2	7	11	5	5	18	23	11
-ACG	0	0	1	0	0	0	0	0	0	2	1	0
-AAT	0	1	2	1	0	2	0	0	1	2	3	2
-AAC	10	11	13	3	3	9	4	2	1	10	23	18
-AAA	6	11	9	4	3	3	3	1	0	9	21	10
-AAG	1	0	0	0	0	1	0	0	0	1	0	0
-AGT	0	0	0	0	0	1	0	0	1	2	2	0
-AGC	5	5	4	4	0	3	3	1	1	8	7	2
-GTT	0	1	6	3	0	0	1	0	0	2	1	2
-GTC	2	3	9	4	0	4	4	1	0	1	5	4
-GTA	9	3	13	6	0	5	8	2	2	5	5	12
-GTG	0	0	3	1	0	0	0	0	0	0	1	0
-GCT	7	4	11	4	2	0	2	0	0	4	8	3
-GCC	14	12	29	6	0	10	15	7	8	18	31	15
-GCA	9	5	6	5	0	6	6	1	2	15	12	8
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	1	0	2	3	0	0	1	1	0	0	1	0
-GAC	3	1	13	8	0	1	3	2	1	5	6	7
-GAA	10	6	8	10	0	3	7	5	2	8	11	5
-GAG	0	0	1	5	0	1	1	1	0	0	0	2
-GGT	3	0	3	0	0	0	1	0	0	1	3	3
-GGC	4	4	15	2	0	3	10	3	2	8	7	7
-GGA	4	8	19	5	0	4	7	1	2	7	19	13
-GGG	2	0	9	1	0	1	2	1	0	2	3	1
-TAA	0	0	0	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009573008.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	2	15	6	0	3	9	5	3	7	6	0	3	7	1	3	16	37	4	3	12	8	1	0	4	8	0	1	1	5	0	3	24	12	2	2	9	11	0	0	10	6	1	0	5	0	2	9	0	7	14	9	0	1	3	10	0	3	4	4	2	0	0	1	0
+1	ND2	YP_009573009.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	0	12	5	0	0	12	19	1	0	7	0	2	9	1	3	23	33	2	4	5	10	2	1	8	9	0	0	1	2	0	8	19	18	2	6	24	23	0	1	11	11	0	0	5	1	3	3	0	4	12	5	0	0	1	6	0	0	4	8	0	0	0	0	0
+2	COX1	YP_009573010.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	8	32	9	0	3	16	6	0	3	16	0	1	15	2	5	12	28	6	5	11	15	1	4	15	9	1	1	1	6	0	11	32	17	8	4	22	14	1	2	13	9	0	0	4	6	9	13	3	11	29	6	1	2	13	8	1	3	15	19	9	0	0	0	1
+3	COX2	YP_009573011.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	2	5	1	1	1	13	5	0	0	8	0	3	5	0	1	9	18	3	3	4	6	0	1	8	7	0	0	3	2	0	2	16	9	2	1	8	5	0	1	3	4	0	0	4	3	4	6	1	4	6	5	0	3	8	10	5	0	2	5	1	1	0	0	0
+4	ATP8	YP_009573012.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	1	1	1	0	0	1	1	0	0	0	0	0	5	0	1	2	5	0	0	3	4	0	0	1	3	0	0	0	0	0	2	2	1	2	2	7	2	0	0	3	3	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009573013.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	2	6	7	0	0	4	4	0	1	2	0	1	4	0	2	14	34	3	3	6	6	2	0	3	7	1	1	2	2	0	3	14	9	3	3	14	7	0	2	9	3	1	1	3	0	4	5	0	0	10	6	0	0	1	3	1	0	3	4	1	1	0	0	0
+6	COX3	YP_009573014.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	6	16	2	1	1	5	7	1	1	8	1	0	11	1	5	9	18	1	0	2	9	1	5	14	9	0	0	0	4	0	5	12	5	1	0	11	11	0	0	4	3	0	0	3	1	4	8	0	2	15	6	0	1	3	7	1	1	10	7	2	0	0	0	0
+7	ND3	YP_009573015.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	0	7	1	1	3	3	1	0	1	1	1	0	5	0	2	6	13	3	0	2	4	0	1	0	5	0	0	0	2	0	3	8	3	0	1	5	5	0	0	2	1	0	0	1	0	1	2	0	0	7	1	0	1	2	5	1	0	3	1	1	1	0	0	0
+8	ND4L	YP_009573016.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	0	4	1	0	0	3	6	1	1	1	2	1	1	0	4	5	11	1	0	1	2	0	0	6	1	0	0	0	3	0	0	1	7	1	2	4	5	0	1	1	0	0	1	1	0	0	2	0	0	8	2	0	0	1	2	0	0	2	2	0	1	0	0	0
+9	ND4	YP_009573017.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	2	13	12	1	4	9	11	0	3	8	1	2	12	0	15	29	39	3	4	13	12	1	1	16	14	0	0	4	7	0	8	28	22	5	6	26	18	2	2	10	9	1	2	8	2	1	5	0	4	18	15	0	0	5	8	0	1	8	7	2	0	0	0	0
+10	ND5	YP_009573018.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	8	21	6	1	3	21	20	0	0	11	1	4	10	2	8	32	60	5	8	8	18	0	2	13	19	0	1	4	4	0	17	39	27	1	7	34	23	1	3	23	21	0	2	7	1	5	5	1	8	31	12	0	1	6	11	0	3	7	19	3	1	0	0	0
+11	CYTB	YP_009573019.1	Otus sunia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Strigiformes, Strigidae, Otus	3	23	3	0	6	5	10	0	2	12	1	3	9	3	6	24	31	2	0	16	9	1	3	9	8	0	1	2	5	0	7	21	7	2	3	18	11	0	2	18	10	0	0	2	2	4	12	0	3	15	8	0	0	7	5	2	3	7	13	1	0	0	0	0

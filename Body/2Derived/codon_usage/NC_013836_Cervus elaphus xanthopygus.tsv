@@ -1,65 +1,13 @@
-	YP_003434195.1|ND1	YP_003434196.1|ND2	YP_003434197.1|COX1	YP_003434198.1|COX2	YP_003434199.1|ATP8	YP_003434200.1|ATP6	YP_003434201.1|COX3	YP_003434202.1|ND3	YP_003434203.1|ND4L	YP_003434204.1|ND4	YP_003434205.1|ND5	YP_003434207.1|CYTB
-TTT	14	6	24	3	4	11	13	4	2	12	23	13
-TTC	8	9	18	3	1	1	11	5	2	12	26	16
-TTA	14	11	16	11	4	7	9	6	8	17	15	10
-TTG	0	0	3	2	1	2	0	1	0	4	0	1
-TCT	5	5	7	6	0	2	3	0	4	10	9	3
-TCC	5	5	6	3	1	2	4	2	2	8	12	6
-TCA	8	15	15	7	2	4	8	3	3	11	14	9
-TCG	1	0	0	0	1	1	0	0	0	1	1	1
-TAT	9	4	11	8	1	0	5	3	4	8	13	7
-TAC	2	4	8	3	0	2	6	0	0	9	6	8
-TGT	0	0	0	1	0	0	0	1	0	0	1	2
-TGC	1	0	1	1	0	0	2	0	3	6	3	2
-TGA	10	10	16	5	3	2	11	3	0	12	12	11
-TGG	0	0	1	0	0	1	1	1	0	2	0	1
-CTT	3	7	7	3	2	13	5	7	3	11	9	6
-CTC	9	7	7	2	1	4	4	2	2	17	15	13
-CTA	28	24	20	14	1	16	13	11	7	40	39	25
-CTG	2	4	6	2	0	2	1	0	2	4	3	1
-CCT	4	2	12	2	2	1	2	1	0	8	6	4
-CCC	8	7	6	2	1	3	4	2	1	3	11	4
-CCA	8	11	9	7	2	8	4	3	0	10	8	15
-CCG	0	0	1	2	1	0	2	0	0	0	0	0
-CAT	1	4	6	5	0	1	7	0	0	4	2	3
-CAC	2	1	11	2	2	5	10	0	2	6	9	8
-CAA	7	10	6	6	5	8	7	3	2	11	17	5
-CAG	0	0	0	0	0	1	0	0	0	3	3	1
-CGT	0	0	1	0	0	3	0	0	0	0	2	0
-CGC	1	0	2	1	0	0	3	1	0	1	3	1
-CGA	4	3	5	4	0	1	2	0	1	4	3	7
-CGG	2	0	0	1	0	0	0	0	0	0	0	0
-ATT	18	16	27	10	5	15	9	4	4	24	30	22
-ATC	14	17	11	7	0	8	6	1	0	8	33	18
-ATA	16	38	29	11	4	11	8	6	8	32	38	14
-ATG	3	5	4	5	1	2	2	0	3	3	3	3
-ACT	1	8	9	4	0	8	8	2	1	8	14	1
-ACC	3	10	7	0	2	3	6	2	1	9	12	9
-ACA	14	19	22	12	3	12	9	5	2	20	29	13
-ACG	0	2	0	2	2	0	1	0	1	1	2	2
-AAT	6	5	11	2	3	7	1	1	4	7	16	7
-AAC	7	11	8	4	0	4	6	4	1	15	21	11
-AAA	7	12	9	5	6	4	1	3	1	10	22	9
-AAG	0	1	0	0	0	0	1	0	0	0	0	0
-AGT	1	0	1	0	0	2	2	2	0	4	5	0
-AGC	2	2	2	5	0	3	3	0	1	8	7	3
-GTT	4	6	10	4	0	2	4	1	1	3	3	2
-GTC	2	5	8	3	0	2	6	0	2	5	4	9
-GTA	8	4	19	6	1	7	5	2	3	10	8	9
-GTG	1	0	1	0	0	0	0	0	1	0	0	0
-GCT	1	1	10	4	1	5	3	1	0	8	7	2
-GCC	11	7	13	1	0	8	9	7	3	7	15	3
-GCA	16	9	15	3	0	6	3	3	4	10	20	18
-GCG	1	0	1	0	0	0	0	0	2	0	1	0
-GAT	2	1	6	6	0	0	1	0	0	0	3	4
-GAC	1	0	9	3	1	1	2	2	1	5	9	7
-GAA	11	4	8	12	2	2	8	6	2	8	10	4
-GAG	0	1	2	4	0	1	0	0	0	1	1	2
-GGT	3	0	10	2	0	0	1	0	0	3	6	1
-GGC	3	5	11	1	0	4	9	1	1	7	9	6
-GGA	3	8	18	5	0	8	8	3	2	8	12	14
-GGG	3	1	8	0	0	0	2	0	1	1	1	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003434195.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	14	8	14	0	5	5	8	1	9	2	0	1	10	0	3	9	28	2	4	8	8	0	1	2	7	0	0	1	4	2	18	14	16	3	1	3	14	0	6	7	7	0	1	2	4	2	8	1	1	11	16	1	2	1	11	0	3	3	3	3	0	0	0	0
+1	ND2	YP_003434196.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	6	9	11	0	5	5	15	0	4	4	0	0	10	0	7	7	24	4	2	7	11	0	4	1	10	0	0	0	3	0	16	17	38	5	8	10	19	2	5	11	12	1	0	2	6	5	4	0	1	7	9	0	1	0	4	1	0	5	8	1	0	0	0	0
+2	COX1	YP_003434197.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	24	18	16	3	7	6	15	0	11	8	0	1	16	1	7	7	20	6	12	6	9	1	6	11	6	0	1	2	5	0	27	11	29	4	9	7	22	0	11	8	9	0	1	2	10	8	19	1	10	13	15	1	6	9	8	2	10	11	18	8	1	0	0	0
+3	COX2	YP_003434198.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	3	3	11	2	6	3	7	0	8	3	1	1	5	0	3	2	14	2	2	2	7	2	5	2	6	0	0	1	4	1	10	7	11	5	4	0	12	2	2	4	5	0	0	5	4	3	6	0	4	1	3	0	6	3	12	4	2	1	5	0	1	0	0	0
+4	ATP8	YP_003434199.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	4	1	4	1	0	1	2	1	1	0	0	0	3	0	2	1	1	0	2	1	2	1	0	2	5	0	0	0	0	0	5	0	4	1	0	2	3	2	3	0	6	0	0	0	0	0	1	0	1	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003434200.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	11	1	7	2	2	2	4	1	0	2	0	0	2	1	13	4	16	2	1	3	8	0	1	5	8	1	3	0	1	0	15	8	11	2	8	3	12	0	7	4	4	0	2	3	2	2	7	0	5	8	6	0	0	1	2	1	0	4	8	0	1	0	0	0
+6	COX3	YP_003434201.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	13	11	9	0	3	4	8	0	5	6	0	2	11	1	5	4	13	1	2	4	4	2	7	10	7	0	0	3	2	0	9	6	8	2	8	6	9	1	1	6	1	1	2	3	4	6	5	0	3	9	3	0	1	2	8	0	1	9	8	2	0	0	0	0
+7	ND3	YP_003434202.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	4	5	6	1	0	2	3	0	3	0	1	0	3	1	7	2	11	0	1	2	3	0	0	0	3	0	0	1	0	0	4	1	6	0	2	2	5	0	1	4	3	0	2	0	1	0	2	0	1	7	3	0	0	2	6	0	0	1	3	0	0	0	0	0
+8	ND4L	YP_003434203.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	2	2	8	0	4	2	3	0	4	0	0	3	0	0	3	2	7	2	0	1	0	0	0	2	2	0	0	0	1	0	4	0	8	3	1	1	2	1	4	1	1	0	0	1	1	2	3	1	0	3	4	2	0	1	2	0	0	1	2	1	1	0	0	0
+9	ND4	YP_003434204.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	12	12	17	4	10	8	11	1	8	9	0	6	12	2	11	17	40	4	8	3	10	0	4	6	11	3	0	1	4	0	24	8	32	3	8	9	20	1	7	15	10	0	4	8	3	5	10	0	8	7	10	0	0	5	8	1	3	7	8	1	0	0	0	0
+10	ND5	YP_003434205.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	23	26	15	0	9	12	14	1	13	6	1	3	12	0	9	15	39	3	6	11	8	0	2	9	17	3	2	3	3	0	30	33	38	3	14	12	29	2	16	21	22	0	5	7	3	4	8	0	7	15	20	1	3	9	10	1	6	9	12	1	1	0	0	0
+11	CYTB	YP_003434207.1	Cervus elaphus xanthopygus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Cervidae, Cervinae, Cervus	13	16	10	1	3	6	9	1	7	8	2	2	11	1	6	13	25	1	4	4	15	0	3	8	5	1	0	1	7	0	22	18	14	3	1	9	13	2	7	11	9	0	0	3	2	9	9	0	2	3	18	0	4	7	4	2	1	6	14	3	0	0	1	0

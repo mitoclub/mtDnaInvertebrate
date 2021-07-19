@@ -1,65 +1,13 @@
-	YP_003331185.1|COX1	YP_003331186.1|ND6	YP_003331187.1|ATP6	YP_003331188.1|ND1	YP_003331189.1|CYTB	YP_003331190.1|ND4L	YP_003331191.1|ND4	YP_003331192.1|ND5	YP_003331193.1|COX2	YP_003331194.1|COX3	YP_003331195.1|ND3	YP_003331196.1|ND2
-TTT	45	19	22	24	35	11	36	48	10	27	11	31
-TTC	7	2	1	6	4	2	6	8	1	4	2	7
-TTA	44	12	21	27	40	12	57	64	18	23	9	40
-TTG	10	2	8	7	8	2	9	12	6	3	2	10
-TCT	23	9	2	6	10	2	13	14	8	5	5	8
-TCC	0	0	0	1	1	0	3	0	0	1	1	0
-TCA	4	0	1	3	3	0	2	1	1	4	0	1
-TCG	1	0	0	1	0	0	0	2	1	1	0	0
-TAT	19	10	12	16	18	4	22	18	9	12	1	16
-TAC	2	0	0	3	3	1	1	5	2	2	0	1
-TGT	3	2	2	3	3	2	3	4	4	3	2	1
-TGC	0	0	0	0	0	0	0	1	0	1	0	0
-TGA	10	3	1	4	9	1	9	6	3	9	4	3
-TGG	5	0	1	4	4	0	1	3	2	2	0	2
-CTT	6	3	0	3	11	1	9	9	2	4	5	5
-CTC	0	0	0	0	0	0	0	0	0	1	1	1
-CTA	5	0	4	3	1	5	5	11	2	2	1	3
-CTG	0	2	0	3	0	0	1	0	0	0	0	0
-CCT	15	0	2	5	7	0	4	4	3	4	2	3
-CCC	0	0	1	0	2	0	1	0	0	1	0	0
-CCA	1	0	0	1	2	0	2	1	1	0	0	0
-CCG	1	0	0	0	0	0	0	0	2	0	1	0
-CAT	14	1	2	0	8	0	5	5	6	7	0	1
-CAC	0	0	0	0	0	0	0	1	0	0	0	0
-CAA	2	0	3	1	1	1	1	5	5	1	0	2
-CAG	3	0	0	2	1	0	0	2	1	2	0	1
-CGT	7	0	2	5	4	0	1	2	4	1	1	0
-CGC	0	0	0	0	0	0	1	0	0	0	0	0
-CGA	1	1	1	3	0	0	0	0	0	1	0	0
-CGG	0	0	0	0	0	0	1	0	0	0	0	0
-ATT	45	11	22	27	23	9	28	34	15	18	10	25
-ATC	1	1	1	3	3	0	3	4	2	1	1	3
-ATA	19	7	10	17	16	4	31	35	11	8	6	16
-ATG	9	4	5	6	8	3	9	7	4	8	4	7
-ACT	14	0	2	4	6	0	1	12	2	9	2	3
-ACC	0	0	0	0	0	0	0	0	0	0	0	0
-ACA	7	0	0	0	3	0	2	5	3	0	2	0
-ACG	2	0	0	0	0	0	0	0	1	1	1	1
-AAT	14	2	9	10	12	0	11	15	4	6	2	7
-AAC	1	0	1	0	1	1	2	5	0	1	0	1
-AAA	5	3	2	4	5	4	7	16	3	3	0	4
-AAG	4	2	3	4	5	0	7	6	1	1	1	5
-AGT	4	1	3	3	2	3	5	9	1	1	2	2
-AGC	1	1	0	0	0	1	1	3	0	1	0	0
-AGA	10	2	6	10	11	2	7	14	5	12	7	4
-AGG	6	4	4	4	5	2	5	8	5	5	1	6
-GTT	14	7	11	16	12	6	16	23	10	13	5	14
-GTC	6	1	1	2	2	0	2	1	0	0	1	3
-GTA	18	3	7	8	16	0	11	25	11	11	3	13
-GTG	6	2	3	2	6	1	2	6	4	1	3	2
-GCT	16	1	7	5	5	0	7	6	5	4	0	5
-GCC	3	1	0	0	1	0	0	0	0	1	0	0
-GCA	2	0	1	1	1	0	5	3	5	1	0	1
-GCG	5	0	1	0	1	0	1	2	1	0	0	0
-GAT	14	2	1	4	6	1	6	10	10	8	1	5
-GAC	1	0	0	0	1	1	0	1	4	0	1	0
-GAA	4	0	2	6	9	2	6	5	4	3	2	1
-GAG	4	2	2	5	2	2	1	6	3	3	3	3
-GGT	17	2	2	4	8	0	3	4	6	4	2	2
-GGC	3	0	0	1	1	0	3	2	0	1	2	2
-GGA	18	1	1	7	8	2	8	6	2	4	0	2
-GGG	12	3	5	6	7	2	7	14	3	5	0	2
-TAA	1	0	0	1	1	1	1	1	0	1	1	0
-TAG	0	1	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_003331185.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	45	7	44	10	23	0	4	1	19	2	3	0	10	5	6	0	5	0	15	0	1	1	14	0	2	3	7	0	1	0	45	1	19	9	14	0	7	2	14	1	5	4	4	1	10	6	14	6	18	6	16	3	2	5	14	1	4	4	17	3	18	12	1	0
+1	ND6	YP_003331186.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	19	2	12	2	9	0	0	0	10	0	2	0	3	0	3	0	0	2	0	0	0	0	1	0	0	0	0	0	1	0	11	1	7	4	0	0	0	0	2	0	3	2	1	1	2	4	7	1	3	2	1	1	0	0	2	0	0	2	2	0	1	3	0	1
+2	ATP6	YP_003331187.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	22	1	21	8	2	0	1	0	12	0	2	0	1	1	0	0	4	0	2	1	0	0	2	0	3	0	2	0	1	0	22	1	10	5	2	0	0	0	9	1	2	3	3	0	6	4	11	1	7	3	7	0	1	1	1	0	2	2	2	0	1	5	0	1
+3	ND1	YP_003331188.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	24	6	27	7	6	1	3	1	16	3	3	0	4	4	3	0	3	3	5	0	1	0	0	0	1	2	5	0	3	0	27	3	17	6	4	0	0	0	10	0	4	4	3	0	10	4	16	2	8	2	5	0	1	0	4	0	6	5	4	1	7	6	1	0
+4	CYTB	YP_003331189.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	35	4	40	8	10	1	3	0	18	3	3	0	9	4	11	0	1	0	7	2	2	0	8	0	1	1	4	0	0	0	23	3	16	8	6	0	3	0	12	1	5	5	2	0	11	5	12	2	16	6	5	1	1	1	6	1	9	2	8	1	8	7	1	0
+5	ND4L	YP_003331190.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	11	2	12	2	2	0	0	0	4	1	2	0	1	0	1	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0	9	0	4	3	0	0	0	0	0	1	4	0	3	1	2	2	6	0	0	1	0	0	0	0	1	1	2	2	0	0	2	2	1	0
+6	ND4	YP_003331191.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	36	6	57	9	13	3	2	0	22	1	3	0	9	1	9	0	5	1	4	1	2	0	5	0	1	0	1	1	0	1	28	3	31	9	1	0	2	0	11	2	7	7	5	1	7	5	16	2	11	2	7	0	5	1	6	0	6	1	3	3	8	7	1	0
+7	ND5	YP_003331192.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	48	8	64	12	14	0	1	2	18	5	4	1	6	3	9	0	11	0	4	0	1	0	5	1	5	2	2	0	0	0	34	4	35	7	12	0	5	0	15	5	16	6	9	3	14	8	23	1	25	6	6	0	3	2	10	1	5	6	4	2	6	14	1	0
+8	COX2	YP_003331193.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	10	1	18	6	8	0	1	1	9	2	4	0	3	2	2	0	2	0	3	0	1	2	6	0	5	1	4	0	0	0	15	2	11	4	2	0	3	1	4	0	3	1	1	0	5	5	10	0	11	4	5	0	5	1	10	4	4	3	6	0	2	3	0	0
+9	COX3	YP_003331194.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	27	4	23	3	5	1	4	1	12	2	3	1	9	2	4	1	2	0	4	1	0	0	7	0	1	2	1	0	1	0	18	1	8	8	9	0	0	1	6	1	3	1	1	1	12	5	13	0	11	1	4	1	1	0	8	0	3	3	4	1	4	5	1	0
+10	ND3	YP_003331195.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	11	2	9	2	5	1	0	0	1	0	2	0	4	0	5	1	1	0	2	0	0	1	0	0	0	0	1	0	0	0	10	1	6	4	2	0	2	1	2	0	0	1	2	0	7	1	5	1	3	3	0	0	0	0	1	1	2	3	2	2	0	0	1	0
+11	ND2	YP_003331196.1	Rotaria rotatoria	Eukaryota, Metazoa, Lophotrochozoa, Rotifera, Bdelloidea, Rotaria	31	7	40	10	8	0	1	0	16	1	1	0	3	2	5	1	3	0	3	0	0	0	1	0	2	1	0	0	0	0	25	3	16	7	3	0	0	1	7	1	4	5	2	0	4	6	14	3	13	2	5	0	1	0	5	0	1	3	2	2	2	2	0	0

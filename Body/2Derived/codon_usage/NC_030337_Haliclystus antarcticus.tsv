@@ -1,65 +1,13 @@
-	YP_009257425.1|CYTB	YP_009257427.1|COX2	YP_009257428.1|ATP8	YP_009257429.1|ATP6	YP_009257430.1|COX3	YP_009257431.1|ND2	YP_009257432.1|ND5	YP_009257433.1|ND6	YP_009257434.1|ND3	YP_009257435.1|ND4L	YP_009257436.1|ND1	YP_009257437.1|ND4
-TTT	24	7	4	19	20	32	28	12	10	6	13	17
-TTC	9	5	1	6	7	8	9	3	2	1	5	17
-TTA	21	18	9	22	13	45	55	9	8	12	24	43
-TTG	3	3	0	3	0	9	3	1	1	1	5	4
-TCT	9	6	1	4	4	9	17	6	3	2	7	10
-TCC	4	2	2	1	3	5	1	3	1	1	4	5
-TCA	3	4	0	2	3	2	5	0	2	0	4	2
-TCG	1	0	0	0	0	3	2	0	0	0	0	0
-TAT	10	10	1	5	8	11	18	2	1	1	9	7
-TAC	8	6	0	3	3	8	11	4	1	1	7	6
-TGT	3	2	0	1	3	4	10	0	3	0	2	3
-TGC	0	0	1	0	0	0	0	0	0	0	0	3
-TGA	7	3	0	4	5	13	12	2	1	0	6	10
-TGG	3	2	1	5	6	9	14	2	4	0	4	3
-CTT	14	7	2	8	8	18	24	9	5	4	14	23
-CTC	10	2	1	2	2	4	6	2	0	1	5	6
-CTA	9	3	2	5	6	10	13	6	4	4	8	15
-CTG	1	0	0	5	1	2	3	1	1	0	1	4
-CCT	12	7	1	4	6	12	17	5	2	0	9	12
-CCC	4	1	0	3	4	5	5	3	1	0	6	9
-CCA	2	3	1	1	0	2	1	1	2	0	1	2
-CCG	0	1	0	0	0	0	0	0	0	0	0	2
-CAT	5	6	0	4	13	7	6	0	0	0	2	7
-CAC	6	2	0	1	3	2	4	1	0	1	1	4
-CAA	7	8	7	7	4	11	14	5	4	4	8	13
-CAG	1	2	0	0	2	4	4	1	0	0	0	1
-CGT	1	2	1	2	2	0	2	1	0	0	1	2
-CGC	2	1	0	0	0	1	2	0	0	0	1	2
-CGA	3	3	0	2	0	3	3	0	0	0	2	2
-CGG	1	2	1	1	1	2	0	0	1	1	0	2
-ATT	14	15	3	15	13	16	16	8	3	6	17	25
-ATC	7	4	1	5	2	3	2	1	2	2	6	10
-ATA	7	2	1	2	1	8	7	4	2	3	1	4
-ATG	11	6	1	9	4	9	16	5	0	3	8	10
-ACT	6	4	3	5	11	17	11	6	2	3	7	5
-ACC	6	2	1	2	0	4	9	6	2	3	3	10
-ACA	5	2	1	3	6	8	8	2	0	4	4	8
-ACG	0	0	0	0	1	1	2	1	0	0	2	1
-AAT	7	2	0	3	1	5	10	4	1	0	1	4
-AAC	6	2	0	1	2	3	2	3	1	2	3	5
-AAA	7	4	2	1	2	8	12	1	2	1	6	8
-AAG	0	1	0	0	1	1	2	0	1	0	1	2
-AGT	7	4	1	4	5	11	12	4	0	1	8	8
-AGC	2	3	1	4	3	5	3	1	2	1	3	7
-AGA	5	0	1	0	2	1	2	0	2	2	3	4
-AGG	0	0	0	0	0	2	4	0	0	0	2	2
-GTT	9	7	3	8	16	17	17	11	3	2	12	10
-GTC	7	3	0	1	5	3	6	1	2	0	0	6
-GTA	9	10	0	4	4	9	11	3	3	2	8	10
-GTG	3	2	0	1	0	1	4	0	0	0	4	2
-GCT	15	10	2	15	13	18	33	6	4	6	15	19
-GCC	10	2	0	5	8	4	6	4	1	1	10	11
-GCA	1	6	0	3	2	7	9	3	0	2	2	6
-GCG	1	0	0	1	1	0	2	0	0	0	1	3
-GAT	5	9	1	2	4	1	6	0	1	0	2	7
-GAC	4	4	1	1	1	0	3	1	2	0	4	1
-GAA	8	12	1	3	3	7	9	2	5	2	9	9
-GAG	0	3	1	1	3	4	1	0	1	1	0	0
-GGT	6	2	0	0	2	4	8	2	0	2	4	3
-GGC	5	0	2	1	2	6	5	0	0	1	3	4
-GGA	16	4	1	5	12	4	8	2	3	1	10	10
-GGG	8	5	3	10	4	20	27	6	3	4	9	13
-TAA	1	0	1	1	1	1	0	0	1	1	0	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	CYTB	YP_009257425.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	24	9	21	3	9	4	3	1	10	8	3	0	7	3	14	10	9	1	12	4	2	0	5	6	7	1	1	2	3	1	14	7	7	11	6	6	5	0	7	6	7	0	7	2	5	0	9	7	9	3	15	10	1	1	5	4	8	0	6	5	16	8	1	0
+1	COX2	YP_009257427.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	7	5	18	3	6	2	4	0	10	6	2	0	3	2	7	2	3	0	7	1	3	1	6	2	8	2	2	1	3	2	15	4	2	6	4	2	2	0	2	2	4	1	4	3	0	0	7	3	10	2	10	2	6	0	9	4	12	3	2	0	4	5	0	1
+2	ATP8	YP_009257428.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	4	1	9	0	1	2	0	0	1	0	0	1	0	1	2	1	2	0	1	0	1	0	0	0	7	0	1	0	0	1	3	1	1	1	3	1	1	0	0	0	2	0	1	1	1	0	3	0	0	0	2	0	0	0	1	1	1	1	0	2	1	3	1	0
+3	ATP6	YP_009257429.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	19	6	22	3	4	1	2	0	5	3	1	0	4	5	8	2	5	5	4	3	1	0	4	1	7	0	2	0	2	1	15	5	2	9	5	2	3	0	3	1	1	0	4	4	0	0	8	1	4	1	15	5	3	1	2	1	3	1	0	1	5	10	1	0
+4	COX3	YP_009257430.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	20	7	13	0	4	3	3	0	8	3	3	0	5	6	8	2	6	1	6	4	0	0	13	3	4	2	2	0	0	1	13	2	1	4	11	0	6	1	1	2	2	1	5	3	2	0	16	5	4	0	13	8	2	1	4	1	3	3	2	2	12	4	1	0
+5	ND2	YP_009257431.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	32	8	45	9	9	5	2	3	11	8	4	0	13	9	18	4	10	2	12	5	2	0	7	2	11	4	0	1	3	2	16	3	8	9	17	4	8	1	5	3	8	1	11	5	1	2	17	3	9	1	18	4	7	0	1	0	7	4	4	6	4	20	1	0
+6	ND5	YP_009257432.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	28	9	55	3	17	1	5	2	18	11	10	0	12	14	24	6	13	3	17	5	1	0	6	4	14	4	2	2	3	0	16	2	7	16	11	9	8	2	10	2	12	2	12	3	2	4	17	6	11	4	33	6	9	2	6	3	9	1	8	5	8	27	0	0
+7	ND6	YP_009257433.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	12	3	9	1	6	3	0	0	2	4	0	0	2	2	9	2	6	1	5	3	1	0	0	1	5	1	1	0	0	0	8	1	4	5	6	6	2	1	4	3	1	0	4	1	0	0	11	1	3	0	6	4	3	0	0	1	2	0	2	0	2	6	0	0
+8	ND3	YP_009257434.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	10	2	8	1	3	1	2	0	1	1	3	0	1	4	5	0	4	1	2	1	2	0	0	0	4	0	0	0	0	1	3	2	2	0	2	2	0	0	1	1	2	1	0	2	2	0	3	2	3	0	4	1	0	0	1	2	5	1	0	0	3	3	1	0
+9	ND4L	YP_009257435.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	6	1	12	1	2	1	0	0	1	1	0	0	0	0	4	1	4	0	0	0	0	0	0	1	4	0	0	0	0	1	6	2	3	3	3	3	4	0	0	2	1	0	1	1	2	0	2	0	2	0	6	1	2	0	0	0	2	1	2	1	1	4	1	0
+10	ND1	YP_009257436.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	13	5	24	5	7	4	4	0	9	7	2	0	6	4	14	5	8	1	9	6	1	0	2	1	8	0	1	1	2	0	17	6	1	8	7	3	4	2	1	3	6	1	8	3	3	2	12	0	8	4	15	10	2	1	2	4	9	0	4	3	10	9	0	0
+11	ND4	YP_009257437.1	Haliclystus antarcticus	Eukaryota, Metazoa, Cnidaria, Staurozoa, Stauromedusae, Myostaurida, Haliclystidae, Haliclystus	17	17	43	4	10	5	2	0	7	6	3	3	10	3	23	6	15	4	12	9	2	2	7	4	13	1	2	2	2	2	25	10	4	10	5	10	8	1	4	5	8	2	8	7	4	2	10	6	10	2	19	11	6	3	7	1	9	0	3	4	10	13	0	0

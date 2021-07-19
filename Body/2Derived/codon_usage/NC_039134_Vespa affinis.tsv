@@ -1,65 +1,10 @@
-	YP_009510275.1|ND2	YP_009510276.1|COX1	YP_009510277.1|COX2	YP_009510278.1|ATP8	YP_009510279.1|ATP6	YP_009510280.2|COX3	YP_009510281.1|ND3	YP_009510285.1|ND6	YP_009510286.1|CYTB
-TTT	33	40	12	4	19	22	9	14	26
-TTC	10	8	4	0	5	7	3	5	6
-TTA	25	32	13	5	19	10	13	21	28
-TTG	1	2	0	0	0	0	0	1	1
-TCT	7	13	5	0	8	8	3	7	9
-TCC	7	6	0	1	6	3	3	1	4
-TCA	18	20	8	0	4	9	4	6	10
-TCG	0	2	0	0	1	0	0	0	1
-TAT	13	11	6	0	4	5	4	6	14
-TAC	1	8	3	1	2	5	2	3	4
-TGT	0	0	1	0	1	0	2	0	1
-TGC	0	0	1	0	0	3	0	3	1
-TGA	4	13	6	2	5	13	3	1	13
-TGG	0	2	0	0	0	0	0	0	0
-CTT	7	4	5	0	9	9	1	9	11
-CTC	3	5	1	0	3	0	1	3	5
-CTA	12	15	4	1	9	6	6	9	10
-CTG	0	0	2	0	0	0	0	0	2
-CCT	6	14	2	1	3	3	4	3	8
-CCC	4	6	3	0	2	1	3	0	6
-CCA	2	6	6	2	5	5	1	2	4
-CCG	1	0	0	0	1	0	0	0	0
-CAT	2	13	3	1	4	5	0	1	5
-CAC	5	6	2	0	1	7	1	1	3
-CAA	7	7	7	1	2	3	2	2	9
-CAG	0	0	2	0	0	0	1	0	0
-CGT	0	1	1	0	1	1	0	1	0
-CGC	0	0	1	0	0	0	0	0	0
-CGA	0	5	4	0	1	2	1	0	4
-CGG	0	1	0	0	0	0	0	0	0
-ATT	38	48	23	7	18	29	14	21	41
-ATC	13	19	8	1	9	9	6	5	16
-ATA	41	29	15	7	15	13	4	13	18
-ATG	1	3	0	0	1	1	0	2	2
-ACT	7	15	6	3	3	5	2	3	3
-ACC	7	4	3	0	2	3	2	0	6
-ACA	7	11	10	0	8	13	0	3	7
-ACG	0	0	0	0	0	1	0	0	0
-AAT	22	20	13	4	14	10	3	10	15
-AAC	10	3	4	2	5	4	1	0	12
-AAA	18	10	9	9	7	7	3	10	14
-AAG	1	0	0	0	0	0	0	0	1
-AGT	0	0	0	0	1	1	0	1	1
-AGC	3	1	1	1	0	1	0	0	0
-AGA	6	7	0	0	2	4	1	4	2
-AGG	0	0	1	0	1	1	0	0	1
-GTT	1	7	2	0	2	2	0	0	3
-GTC	0	1	0	0	1	0	0	0	3
-GTA	5	6	2	0	3	5	1	0	1
-GTG	0	1	0	0	0	1	0	0	1
-GCT	3	8	2	0	1	4	1	0	5
-GCC	1	6	2	0	1	1	0	1	2
-GCA	4	10	1	0	2	2	1	0	4
-GCG	0	0	0	0	0	0	0	0	1
-GAT	3	8	5	0	0	3	2	1	3
-GAC	0	5	3	0	2	1	0	1	2
-GAA	2	6	8	0	4	5	5	0	8
-GAG	0	0	0	0	0	0	0	0	0
-GGT	0	8	2	0	1	2	1	0	3
-GGC	1	5	0	0	2	1	0	0	2
-GGA	1	27	3	0	1	5	1	2	13
-GGG	0	3	1	0	0	0	0	0	4
-TAA	1	1	1	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009510275.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	33	10	25	1	7	7	18	0	13	1	0	0	4	0	7	3	12	0	6	4	2	1	2	5	7	0	0	0	0	0	38	13	41	1	7	7	7	0	22	10	18	1	0	3	6	0	1	0	5	0	3	1	4	0	3	0	2	0	0	1	1	0	1	0
+1	COX1	YP_009510276.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	40	8	32	2	13	6	20	2	11	8	0	0	13	2	4	5	15	0	14	6	6	0	13	6	7	0	1	0	5	1	48	19	29	3	15	4	11	0	20	3	10	0	0	1	7	0	7	1	6	1	8	6	10	0	8	5	6	0	8	5	27	3	1	0
+2	COX2	YP_009510277.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	12	4	13	0	5	0	8	0	6	3	1	1	6	0	5	1	4	2	2	3	6	0	3	2	7	2	1	1	4	0	23	8	15	0	6	3	10	0	13	4	9	0	0	1	0	1	2	0	2	0	2	2	1	0	5	3	8	0	2	0	3	1	1	0
+3	ATP8	YP_009510278.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	4	0	5	0	0	1	0	0	0	1	0	0	2	0	0	0	1	0	1	0	2	0	1	0	1	0	0	0	0	0	7	1	7	0	3	0	0	0	4	2	9	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009510279.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	19	5	19	0	8	6	4	1	4	2	1	0	5	0	9	3	9	0	3	2	5	1	4	1	2	0	1	0	1	0	18	9	15	1	3	2	8	0	14	5	7	0	1	0	2	1	2	1	3	0	1	1	2	0	0	2	4	0	1	2	1	0	1	0
+5	COX3	YP_009510280.2	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	22	7	10	0	8	3	9	0	5	5	0	3	13	0	9	0	6	0	3	1	5	0	5	7	3	0	1	0	2	0	29	9	13	1	5	3	13	1	10	4	7	0	1	1	4	1	2	0	5	1	4	1	2	0	3	1	5	0	2	1	5	0	0	0
+6	ND3	YP_009510281.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	9	3	13	0	3	3	4	0	4	2	2	0	3	0	1	1	6	0	4	3	1	0	0	1	2	1	0	0	1	0	14	6	4	0	2	2	0	0	3	1	3	0	0	0	1	0	0	0	1	0	1	0	1	0	2	0	5	0	1	0	1	0	1	0
+7	ND6	YP_009510285.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	14	5	21	1	7	1	6	0	6	3	0	3	1	0	9	3	9	0	3	0	2	0	1	1	2	0	1	0	0	0	21	5	13	2	3	0	3	0	10	0	10	0	1	0	4	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	2	0	1	0
+8	CYTB	YP_009510286.1	Vespa affinis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	26	6	28	1	9	4	10	1	14	4	1	1	13	0	11	5	10	2	8	6	4	0	5	3	9	0	0	0	4	0	41	16	18	2	3	6	7	0	15	12	14	1	1	0	2	1	3	3	1	1	5	2	4	1	3	2	8	0	3	2	13	4	0	1

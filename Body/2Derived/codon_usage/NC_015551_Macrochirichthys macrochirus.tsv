@@ -1,65 +1,13 @@
-	YP_004465345.1|ND1	YP_004465346.1|ND2	YP_004465347.1|COX1	YP_004465348.1|COX2	YP_004465349.1|ATP8	YP_004465350.1|ATP6	YP_004465351.1|COX3	YP_004465352.1|ND3	YP_004465353.1|ND4L	YP_004465354.1|ND4	YP_004465355.1|ND5	YP_004465357.1|CYTB
-TTT	10	3	23	5	1	5	11	4	6	10	16	8
-TTC	8	5	19	4	2	9	12	6	2	8	20	20
-TTA	12	11	13	6	1	16	4	7	10	19	22	16
-TTG	0	0	2	1	0	0	1	0	1	1	0	0
-TCT	3	0	4	4	0	0	1	1	1	8	4	4
-TCC	1	10	3	5	1	3	4	2	2	4	10	8
-TCA	14	4	17	5	1	1	6	3	3	9	13	6
-TCG	0	2	1	0	0	0	0	0	0	1	1	0
-TAT	9	4	8	5	0	3	3	1	0	7	4	7
-TAC	4	4	10	4	0	0	8	1	0	6	10	9
-TGT	0	0	1	0	0	0	0	0	0	4	1	1
-TGC	0	1	0	2	0	0	2	1	3	1	4	2
-TGA	7	10	14	5	4	4	11	5	0	17	10	12
-TGG	1	1	3	0	1	1	1	0	1	3	4	1
-CTT	5	9	14	8	1	8	7	1	2	13	8	7
-CTC	8	8	12	2	0	6	7	4	2	10	24	10
-CTA	34	35	18	8	2	13	12	11	8	36	36	26
-CTG	3	4	3	3	0	2	1	1	0	3	6	1
-CCT	5	3	8	1	2	3	0	1	1	2	6	2
-CCC	4	6	5	0	2	4	4	4	0	6	6	5
-CCA	14	10	15	11	4	11	8	3	1	20	16	15
-CCG	1	1	0	1	0	0	0	0	0	1	1	0
-CAT	0	1	5	3	2	2	5	0	3	4	4	2
-CAC	3	5	13	7	0	1	11	1	1	9	11	8
-CAA	7	11	7	9	1	6	8	3	3	11	15	6
-CAG	0	0	1	0	0	2	1	0	0	0	2	1
-CGT	0	0	0	1	0	0	2	0	0	0	0	1
-CGC	1	2	2	1	0	0	0	0	3	2	2	1
-CGA	7	2	5	4	0	5	3	2	0	8	8	5
-CGG	0	0	1	0	0	1	0	0	0	1	0	0
-ATT	10	18	26	11	4	16	5	3	2	24	34	13
-ATC	10	13	12	8	2	11	10	5	0	17	26	22
-ATA	8	16	20	9	1	10	8	1	5	27	28	12
-ATG	4	4	4	5	1	1	1	1	1	3	3	2
-ACT	3	8	6	2	0	3	3	1	0	3	9	8
-ACC	11	19	9	6	2	7	5	6	3	13	17	9
-ACA	9	23	18	4	2	12	12	3	5	27	32	12
-ACG	0	2	2	0	0	0	2	1	0	1	3	1
-AAT	4	6	6	3	1	4	0	1	0	3	11	6
-AAC	8	7	11	2	3	6	1	2	2	9	18	12
-AAA	6	10	8	3	3	1	2	1	0	10	21	10
-AAG	1	0	0	1	0	0	0	0	0	2	2	0
-AGT	1	1	2	0	1	0	1	0	0	2	4	2
-AGC	4	3	1	4	0	3	2	0	4	5	10	0
-GTT	2	1	11	3	0	5	5	0	0	2	10	8
-GTC	4	1	8	4	1	2	2	0	0	4	1	4
-GTA	13	4	22	7	2	8	7	4	1	9	14	9
-GTG	0	0	2	4	0	0	3	0	0	1	0	1
-GCT	2	2	12	2	0	2	4	2	2	7	7	3
-GCC	13	22	17	6	1	9	8	3	6	10	21	9
-GCA	16	11	20	5	0	6	10	3	5	16	20	16
-GCG	1	0	0	0	0	0	0	0	0	0	0	0
-GAT	0	0	3	4	0	0	2	0	0	0	4	3
-GAC	4	2	12	9	2	1	3	4	1	4	9	4
-GAA	10	5	11	12	2	4	10	6	2	11	11	5
-GAG	1	0	0	2	0	0	0	0	1	0	1	1
-GGT	2	0	12	4	0	1	3	0	1	2	1	3
-GGC	1	2	5	0	0	2	5	1	1	9	7	4
-GGA	12	13	23	5	1	6	12	6	2	13	22	16
-GGG	3	3	6	0	0	1	2	0	1	2	1	1
-TAA	1	0	1	0	0	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004465345.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	10	8	12	0	3	1	14	0	9	4	0	0	7	1	5	8	34	3	5	4	14	1	0	3	7	0	0	1	7	0	10	10	8	4	3	11	9	0	4	8	6	1	1	4	2	4	13	0	2	13	16	1	0	4	10	1	2	1	12	3	1	0	0	0
+1	ND2	YP_004465346.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	3	5	11	0	0	10	4	2	4	4	0	1	10	1	9	8	35	4	3	6	10	1	1	5	11	0	0	2	2	0	18	13	16	4	8	19	23	2	6	7	10	0	1	3	1	1	4	0	2	22	11	0	0	2	5	0	0	2	13	3	0	0	0	0
+2	COX1	YP_004465347.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	23	19	13	2	4	3	17	1	8	10	1	0	14	3	14	12	18	3	8	5	15	0	5	13	7	1	0	2	5	1	26	12	20	4	6	9	18	2	6	11	8	0	2	1	11	8	22	2	12	17	20	0	3	12	11	0	12	5	23	6	1	0	0	0
+3	COX2	YP_004465348.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	5	4	6	1	4	5	5	0	5	4	0	2	5	0	8	2	8	3	1	0	11	1	3	7	9	0	1	1	4	0	11	8	9	5	2	6	4	0	3	2	3	1	0	4	3	4	7	4	2	6	5	0	4	9	12	2	4	0	5	0	0	0	0	0
+4	ATP8	YP_004465349.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	1	2	1	0	0	1	1	0	0	0	0	0	4	1	1	0	2	0	2	2	4	0	2	0	1	0	0	0	0	0	4	2	1	1	0	2	2	0	1	3	3	0	1	0	0	1	2	0	0	1	0	0	0	2	2	0	0	0	1	0	0	1	0	0
+5	ATP6	YP_004465350.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	5	9	16	0	0	3	1	0	3	0	0	0	4	1	8	6	13	2	3	4	11	0	2	1	6	2	0	0	5	1	16	11	10	1	3	7	12	0	4	6	1	0	0	3	5	2	8	0	2	9	6	0	0	1	4	0	1	2	6	1	0	0	0	0
+6	COX3	YP_004465351.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	11	12	4	1	1	4	6	0	3	8	0	2	11	1	7	7	12	1	0	4	8	0	5	11	8	1	2	0	3	0	5	10	8	1	3	5	12	2	0	1	2	0	1	2	5	2	7	3	4	8	10	0	2	3	10	0	3	5	12	2	0	0	0	0
+7	ND3	YP_004465352.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	4	6	7	0	1	2	3	0	1	1	0	1	5	0	1	4	11	1	1	4	3	0	0	1	3	0	0	0	2	0	3	5	1	1	1	6	3	1	1	2	1	0	0	0	0	0	4	0	2	3	3	0	0	4	6	0	0	1	6	0	0	0	0	0
+8	ND4L	YP_004465353.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	6	2	10	1	1	2	3	0	0	0	0	3	0	1	2	2	8	0	1	0	1	0	3	1	3	0	0	3	0	0	2	0	5	1	0	3	5	0	0	2	0	0	0	4	0	0	1	0	2	6	5	0	0	1	2	1	1	1	2	1	1	0	0	0
+9	ND4	YP_004465354.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	10	8	19	1	8	4	9	1	7	6	4	1	17	3	13	10	36	3	2	6	20	1	4	9	11	0	0	2	8	1	24	17	27	3	3	13	27	1	3	9	10	2	2	5	2	4	9	1	7	10	16	0	0	4	11	0	2	9	13	2	0	0	0	0
+10	ND5	YP_004465355.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	16	20	22	0	4	10	13	1	4	10	1	4	10	4	8	24	36	6	6	6	16	1	4	11	15	2	0	2	8	0	34	26	28	3	9	17	32	3	11	18	21	2	4	10	10	1	14	0	7	21	20	0	4	9	11	1	1	7	22	1	1	0	0	0
+11	CYTB	YP_004465357.1	Macrochirichthys macrochirus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Macrochirichthys	8	20	16	0	4	8	6	0	7	9	1	2	12	1	7	10	26	1	2	5	15	0	2	8	6	1	1	1	5	0	13	22	12	2	8	9	12	1	6	12	10	0	2	0	8	4	9	1	3	9	16	0	3	4	5	1	3	4	16	1	0	0	0	0

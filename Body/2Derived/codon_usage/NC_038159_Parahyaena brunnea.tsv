@@ -1,65 +1,13 @@
-	YP_009502678.1|ND1	YP_009502679.1|ND2	YP_009502680.1|COX1	YP_009502681.1|COX2	YP_009502682.1|ATP8	YP_009502683.1|ATP6	YP_009502684.1|COX3	YP_009502685.1|ND3	YP_009502686.1|ND4L	YP_009502687.1|ND4	YP_009502688.1|ND5	YP_009502690.1|CYTB
-TTT	0	3	20	1	2	4	7	4	0	10	17	6
-TTC	18	7	22	6	0	8	16	3	5	8	26	20
-TTA	6	6	4	3	0	3	1	3	5	6	7	10
-TTG	2	1	3	1	0	0	1	2	1	2	2	2
-TCT	1	1	8	3	3	2	5	1	4	5	7	2
-TCC	4	8	10	4	0	4	5	2	2	8	12	6
-TCA	13	14	10	6	4	4	6	3	1	12	16	15
-TCG	0	1	1	0	0	0	1	1	1	3	1	0
-TAT	3	3	7	6	1	1	7	2	1	4	7	6
-TAC	10	5	12	5	1	1	5	1	3	14	13	9
-TGT	1	0	1	1	0	0	0	1	0	0	0	1
-TGC	0	0	0	1	0	0	2	0	3	3	4	3
-TGA	8	9	13	2	4	2	8	3	0	10	11	12
-TGG	1	1	4	3	0	1	4	1	0	3	1	0
-CTT	3	2	8	3	1	3	6	0	2	8	8	4
-CTC	11	11	7	5	1	7	3	7	2	16	24	7
-CTA	33	31	27	17	5	22	16	11	8	50	43	26
-CTG	3	4	12	5	0	8	6	3	4	12	8	9
-CCT	4	2	8	7	3	3	2	0	0	5	3	1
-CCC	8	15	11	3	1	6	6	3	0	8	10	7
-CCA	9	9	6	4	2	4	3	3	1	5	10	15
-CCG	1	1	3	0	2	0	0	0	0	2	2	0
-CAT	0	0	4	1	1	1	2	0	0	2	2	2
-CAC	3	6	14	6	0	6	13	0	2	6	12	10
-CAA	6	9	4	5	5	7	5	3	2	11	17	6
-CAG	0	1	2	2	0	2	3	0	0	1	2	0
-CGT	0	0	1	0	0	1	0	0	0	0	1	0
-CGC	3	1	1	0	0	1	2	1	0	3	4	0
-CGA	4	2	5	4	0	1	3	0	1	6	3	8
-CGG	1	0	1	2	0	2	0	0	0	1	1	0
-ATT	7	10	18	7	2	10	6	2	3	16	19	10
-ATC	18	28	17	10	5	14	9	3	5	24	38	31
-ATA	18	33	16	10	4	10	7	5	5	26	29	10
-ATG	1	1	16	5	1	3	3	3	4	3	6	5
-ACT	2	1	5	3	1	4	2	1	2	8	7	0
-ACC	7	13	16	8	0	7	10	3	3	12	20	10
-ACA	14	26	15	8	3	11	10	3	1	19	29	17
-ACG	0	0	2	1	1	0	0	0	0	0	2	0
-AAT	2	1	8	0	0	4	1	1	3	7	8	3
-AAC	11	16	7	6	2	5	5	4	4	14	28	12
-AAA	7	13	7	4	7	4	3	3	0	11	20	9
-AAG	0	2	2	1	0	1	0	0	0	3	4	0
-AGT	0	0	1	1	0	1	2	0	0	2	1	0
-AGC	3	1	2	3	0	4	3	2	0	8	10	2
-GTT	1	0	7	3	0	4	1	0	0	1	1	1
-GTC	4	2	7	4	0	2	2	1	1	3	3	6
-GTA	8	4	21	4	0	5	8	2	5	12	13	7
-GTG	2	1	4	2	0	2	3	0	1	1	3	2
-GCT	3	2	8	2	0	4	2	0	2	4	6	0
-GCC	17	7	15	3	1	10	12	5	3	16	21	15
-GCA	11	12	15	2	0	3	3	8	1	16	14	8
-GCG	0	0	3	0	1	0	0	0	0	0	0	0
-GAT	0	0	5	5	0	0	2	1	0	0	2	2
-GAC	3	1	11	5	1	1	1	1	1	3	7	9
-GAA	9	5	9	12	2	3	6	3	2	8	11	6
-GAG	2	0	1	3	0	0	2	3	0	0	3	1
-GGT	1	1	16	3	0	1	1	0	1	1	1	5
-GGC	5	4	8	3	0	2	3	1	2	5	9	7
-GGA	4	7	14	1	0	6	12	2	1	11	12	12
-GGG	2	3	9	2	0	1	4	0	0	1	5	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009502678.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	0	18	6	2	1	4	13	0	3	10	1	0	8	1	3	11	33	3	4	8	9	1	0	3	6	0	0	3	4	1	7	18	18	1	2	7	14	0	2	11	7	0	0	3	1	4	8	2	3	17	11	0	0	3	9	2	1	5	4	2	0	0	0	0
+1	ND2	YP_009502679.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	3	7	6	1	1	8	14	1	3	5	0	0	9	1	2	11	31	4	2	15	9	1	0	6	9	1	0	1	2	0	10	28	33	1	1	13	26	0	1	16	13	2	0	1	0	2	4	1	2	7	12	0	0	1	5	0	1	4	7	3	0	0	0	0
+2	COX1	YP_009502680.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	20	22	4	3	8	10	10	1	7	12	1	0	13	4	8	7	27	12	8	11	6	3	4	14	4	2	1	1	5	1	18	17	16	16	5	16	15	2	8	7	7	2	1	2	7	7	21	4	8	15	15	3	5	11	9	1	16	8	14	9	1	0	0	0
+3	COX2	YP_009502681.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	1	6	3	1	3	4	6	0	6	5	1	1	2	3	3	5	17	5	7	3	4	0	1	6	5	2	0	0	4	2	7	10	10	5	3	8	8	1	0	6	4	1	1	3	3	4	4	2	2	3	2	0	5	5	12	3	3	3	1	2	1	0	0	0
+4	ATP8	YP_009502682.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	2	0	0	0	3	0	4	0	1	1	0	0	4	0	1	1	5	0	3	1	2	2	1	0	5	0	0	0	0	0	2	5	4	1	1	0	3	1	0	2	7	0	0	0	0	0	0	0	0	1	0	1	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009502683.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	4	8	3	0	2	4	4	0	1	1	0	0	2	1	3	7	22	8	3	6	4	0	1	6	7	2	1	1	1	2	10	14	10	3	4	7	11	0	4	5	4	1	1	4	4	2	5	2	4	10	3	0	0	1	3	0	1	2	6	1	1	0	0	0
+6	COX3	YP_009502684.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	7	16	1	1	5	5	6	1	7	5	0	2	8	4	6	3	16	6	2	6	3	0	2	13	5	3	0	2	3	0	6	9	7	3	2	10	10	0	1	5	3	0	2	3	1	2	8	3	2	12	3	0	2	1	6	2	1	3	12	4	0	0	0	0
+7	ND3	YP_009502685.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	4	3	3	2	1	2	3	1	2	1	1	0	3	1	0	7	11	3	0	3	3	0	0	0	3	0	0	1	0	0	2	3	5	3	1	3	3	0	1	4	3	0	0	2	0	1	2	0	0	5	8	0	1	1	3	3	0	1	2	0	0	0	0	0
+8	ND4L	YP_009502686.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	0	5	5	1	4	2	1	1	1	3	0	3	0	0	2	2	8	4	0	0	1	0	0	2	2	0	0	0	1	0	3	5	5	4	2	3	1	0	3	4	0	0	0	0	0	1	5	1	2	3	1	0	0	1	2	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009502687.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	10	8	6	2	5	8	12	3	4	14	0	3	10	3	8	16	50	12	5	8	5	2	2	6	11	1	0	3	6	1	16	24	26	3	8	12	19	0	7	14	11	3	2	8	1	3	12	1	4	16	16	0	0	3	8	0	1	5	11	1	0	0	0	0
+10	ND5	YP_009502688.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	17	26	7	2	7	12	16	1	7	13	0	4	11	1	8	24	43	8	3	10	10	2	2	12	17	2	1	4	3	1	19	38	29	6	7	20	29	2	8	28	20	4	1	10	1	3	13	3	6	21	14	0	2	7	11	3	1	9	12	5	1	0	0	0
+11	CYTB	YP_009502690.1	Parahyaena brunnea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Parahyaena	6	20	10	2	2	6	15	0	6	9	1	3	12	0	4	7	26	9	1	7	15	0	2	10	6	0	0	0	8	0	10	31	10	5	0	10	17	0	3	12	9	0	0	2	1	6	7	2	0	15	8	0	2	9	6	1	5	7	12	2	0	0	1	0

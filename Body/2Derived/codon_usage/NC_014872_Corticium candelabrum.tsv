@@ -1,65 +1,12 @@
-	YP_004123416.1|ND6	YP_004123418.1|ND1	YP_004123419.1|ATP9	YP_004123420.1|ND4L	YP_004123421.1|ND2	YP_004123423.1|COX1	YP_004123424.1|CYTB	YP_004123425.1|COX2	YP_004123426.1|ATP8	YP_004123427.1|ATP6	YP_004123428.1|COX3
-TTT	16	20	7	6	35	42	33	11	4	24	20
-TTC	2	5	1	0	3	6	5	2	3	4	1
-TTA	13	22	6	10	48	36	24	15	7	26	16
-TTG	4	6	1	5	11	14	15	4	2	5	6
-TCT	4	9	1	2	14	14	9	8	0	2	3
-TCC	0	2	0	1	4	2	0	2	0	0	1
-TCA	3	5	2	2	10	9	8	3	1	5	4
-TCG	2	3	0	0	5	2	1	1	0	1	3
-TAT	8	12	1	4	19	24	19	9	1	8	12
-TAC	0	2	1	1	0	2	1	3	0	0	1
-TGT	0	1	1	0	3	1	2	2	1	3	4
-TGC	0	0	0	0	1	0	1	0	0	0	0
-TGA	1	6	0	0	4	14	3	5	1	2	6
-TGG	1	1	0	1	2	2	6	3	0	1	6
-CTT	7	6	2	3	12	8	6	3	1	2	3
-CTC	1	1	0	0	0	0	1	0	0	0	0
-CTA	3	7	1	1	4	2	9	7	2	4	3
-CTG	2	0	0	0	0	1	0	0	0	1	0
-CCT	1	4	0	0	6	6	7	5	1	5	6
-CCC	1	5	0	0	1	5	2	1	0	1	2
-CCA	0	2	1	0	2	8	5	5	2	2	2
-CCG	0	3	0	0	1	6	5	0	1	1	0
-CAT	1	2	0	0	2	13	6	3	0	2	12
-CAC	1	0	0	1	4	3	4	2	0	1	2
-CAA	2	4	2	0	9	7	6	9	2	4	5
-CAG	0	1	0	0	2	1	1	0	1	1	3
-CGT	1	1	0	0	0	1	2	2	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	1	0
-CGA	2	1	0	0	2	1	2	2	0	1	1
-CGG	0	3	0	1	0	1	1	0	0	0	1
-ATT	15	19	3	7	32	18	20	12	3	12	10
-ATC	2	3	1	5	2	3	6	1	0	2	0
-ATA	13	19	2	8	34	26	14	15	7	16	12
-ATG	7	13	4	6	13	24	13	7	2	12	4
-ACT	2	3	2	0	5	14	4	6	1	4	6
-ACC	2	2	1	0	0	3	1	1	0	4	2
-ACA	1	4	0	4	11	9	7	4	2	8	7
-ACG	0	0	0	0	1	2	1	0	0	2	1
-AAT	8	8	1	5	10	13	24	9	0	6	5
-AAC	0	2	0	2	1	1	1	1	0	2	0
-AAA	2	7	2	3	14	9	9	7	4	4	3
-AAG	1	3	0	0	5	1	1	1	2	2	1
-AGT	1	7	3	1	7	11	6	4	1	4	5
-AGC	3	1	0	0	3	0	2	0	0	1	2
-AGA	2	3	1	1	4	5	5	1	2	1	3
-AGG	0	1	0	1	2	1	3	1	1	0	1
-GTT	10	10	1	0	9	13	8	3	1	4	15
-GTC	0	4	0	2	4	3	5	2	1	1	2
-GTA	4	7	1	2	16	17	8	10	1	9	7
-GTG	3	10	0	2	7	6	5	4	0	3	1
-GCT	7	11	7	3	11	12	10	5	1	5	4
-GCC	2	4	2	2	8	8	5	0	1	5	4
-GCA	5	8	3	4	10	11	7	7	0	5	5
-GCG	1	2	0	0	6	4	3	3	2	3	5
-GAT	9	3	0	1	3	15	4	11	1	4	4
-GAC	1	2	0	0	1	4	2	4	0	0	1
-GAA	6	9	2	2	5	4	6	11	1	4	5
-GAG	3	1	0	3	8	1	4	3	0	0	2
-GGT	4	3	4	2	13	15	6	5	1	5	4
-GGC	1	4	1	1	2	3	4	1	0	3	1
-GGA	2	6	3	0	12	17	7	2	1	1	5
-GGG	4	14	4	6	11	16	10	4	0	8	11
-TAA	0	0	1	1	1	1	0	0	1	1	1
-TAG	1	1	0	0	0	0	1	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND6	YP_004123416.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	16	2	13	4	4	0	3	2	8	0	0	0	1	1	7	1	3	2	1	1	0	0	1	1	2	0	1	0	2	0	15	2	13	7	2	2	1	0	8	0	2	1	1	3	2	0	10	0	4	3	7	2	5	1	9	1	6	3	4	1	2	4	0	1
+1	ND1	YP_004123418.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	20	5	22	6	9	2	5	3	12	2	1	0	6	1	6	1	7	0	4	5	2	3	2	0	4	1	1	0	1	3	19	3	19	13	3	2	4	0	8	2	7	3	7	1	3	1	10	4	7	10	11	4	8	2	3	2	9	1	3	4	6	14	0	1
+2	ATP9	YP_004123419.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	7	1	6	1	1	0	2	0	1	1	1	0	0	0	2	0	1	0	0	0	1	0	0	0	2	0	0	0	0	0	3	1	2	4	2	1	0	0	1	0	2	0	3	0	1	0	1	0	1	0	7	2	3	0	0	0	2	0	4	1	3	4	1	0
+3	ND4L	YP_004123420.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	6	0	10	5	2	1	2	0	4	1	0	0	0	1	3	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	7	5	8	6	0	0	4	0	5	2	3	0	1	0	1	1	0	2	2	2	3	2	4	0	1	0	2	3	2	1	0	6	1	0
+4	ND2	YP_004123421.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	35	3	48	11	14	4	10	5	19	0	3	1	4	2	12	0	4	0	6	1	2	1	2	4	9	2	0	0	2	0	32	2	34	13	5	0	11	1	10	1	14	5	7	3	4	2	9	4	16	7	11	8	10	6	3	1	5	8	13	2	12	11	1	0
+5	COX1	YP_004123423.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	42	6	36	14	14	2	9	2	24	2	1	0	14	2	8	0	2	1	6	5	8	6	13	3	7	1	1	0	1	1	18	3	26	24	14	3	9	2	13	1	9	1	11	0	5	1	13	3	17	6	12	8	11	4	15	4	4	1	15	3	17	16	1	0
+6	CYTB	YP_004123424.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	33	5	24	15	9	0	8	1	19	1	2	1	3	6	6	1	9	0	7	2	5	5	6	4	6	1	2	0	2	1	20	6	14	13	4	1	7	1	24	1	9	1	6	2	5	3	8	5	8	5	10	5	7	3	4	2	6	4	6	4	7	10	0	1
+7	COX2	YP_004123425.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	11	2	15	4	8	2	3	1	9	3	2	0	5	3	3	0	7	0	5	1	5	0	3	2	9	0	2	0	2	0	12	1	15	7	6	1	4	0	9	1	7	1	4	0	1	1	3	2	10	4	5	0	7	3	11	4	11	3	5	1	2	4	0	1
+8	ATP8	YP_004123426.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	4	3	7	2	0	0	1	0	1	0	1	0	1	0	1	0	2	0	1	0	2	1	0	0	2	1	0	0	0	0	3	0	7	2	1	0	2	0	0	0	4	2	1	0	2	1	1	1	1	0	1	1	0	2	1	0	1	0	1	0	1	0	1	0
+9	ATP6	YP_004123427.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	24	4	26	5	2	0	5	1	8	0	3	0	2	1	2	0	4	1	5	1	2	1	2	1	4	1	0	1	1	0	12	2	16	12	4	4	8	2	6	2	4	2	4	1	1	0	4	1	9	3	5	5	5	3	4	0	4	0	5	3	1	8	1	0
+10	COX3	YP_004123428.1	Corticium candelabrum	Eukaryota, Metazoa, Porifera, Homoscleromorpha, Homosclerophorida, Plakinidae, Corticium	20	1	16	6	3	1	4	3	12	1	4	0	6	6	3	0	3	0	6	2	2	0	12	2	5	3	0	0	1	1	10	0	12	4	6	2	7	1	5	0	3	1	5	2	3	1	15	2	7	1	4	4	5	5	4	1	5	2	4	1	5	11	1	0

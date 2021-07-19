@@ -1,65 +1,13 @@
-	YP_008081178.1|ND1	YP_008081179.1|ND2	YP_008081180.1|COX1	YP_008081181.1|COX2	YP_008081182.1|ATP8	YP_008081183.1|ATP6	YP_008081184.1|COX3	YP_008081185.1|ND3	YP_008081186.1|ND4L	YP_008081187.1|ND4	YP_008081188.1|ND5	YP_008081190.1|CYTB
-TTT	4	4	15	2	2	4	6	0	3	2	7	7
-TTC	12	5	27	7	1	10	17	9	5	14	32	21
-TTA	10	12	9	7	2	7	2	6	5	18	9	8
-TTG	1	0	0	1	0	1	0	0	0	2	0	2
-TCT	5	2	5	3	0	1	2	1	0	5	5	2
-TCC	1	8	7	5	0	1	3	3	4	9	8	9
-TCA	11	8	11	5	1	2	6	2	2	9	14	10
-TCG	1	0	1	0	0	0	1	0	0	0	1	1
-TAT	8	2	5	4	0	2	6	1	0	5	2	5
-TAC	5	6	13	5	0	1	5	1	0	10	9	10
-TGT	0	1	0	0	0	0	1	0	0	2	1	2
-TGC	0	0	1	2	0	0	1	1	3	3	4	1
-TGA	8	11	17	4	5	3	11	5	0	20	12	13
-TGG	0	0	0	1	0	2	1	0	1	0	2	0
-CTT	5	7	17	6	0	5	6	0	3	11	19	11
-CTC	8	9	10	2	1	13	8	6	3	17	15	8
-CTA	33	27	20	10	1	18	15	12	11	34	45	29
-CTG	5	8	6	2	0	3	1	1	1	4	7	1
-CCT	3	2	4	0	0	1	2	0	1	3	6	2
-CCC	9	6	6	6	4	5	3	5	0	5	12	2
-CCA	10	10	15	8	4	11	7	3	1	16	12	16
-CCG	1	1	3	0	1	1	0	0	0	4	1	1
-CAT	0	1	3	4	1	1	6	0	2	3	6	1
-CAC	6	5	15	6	1	2	10	1	2	8	8	11
-CAA	7	13	7	6	1	8	8	3	3	12	16	6
-CAG	0	1	1	2	0	0	1	0	0	0	2	0
-CGT	2	1	1	0	0	0	2	0	0	1	0	1
-CGC	0	1	1	2	0	0	1	0	2	1	1	1
-CGA	5	1	6	4	0	6	1	2	1	9	8	6
-CGG	1	1	0	0	0	0	1	0	0	0	1	0
-ATT	9	13	27	10	2	14	8	3	2	22	22	11
-ATC	14	13	10	8	3	8	8	6	0	20	31	19
-ATA	8	16	18	10	1	9	7	2	4	25	26	11
-ATG	2	4	6	2	1	2	2	1	1	2	10	1
-ACT	5	6	7	3	2	3	2	3	0	5	9	3
-ACC	5	19	6	3	2	5	2	3	3	19	23	11
-ACA	9	20	22	5	2	11	17	3	3	18	29	10
-ACG	0	1	1	0	0	1	0	0	1	2	1	0
-AAT	3	2	9	1	2	2	0	0	1	1	5	10
-AAC	8	9	7	3	2	8	1	3	1	10	25	7
-AAA	6	9	8	4	3	1	2	1	0	8	20	9
-AAG	1	0	0	0	0	0	0	0	0	3	2	1
-AGT	1	0	2	0	1	0	0	0	1	1	3	0
-AGC	4	6	2	4	0	4	3	0	3	6	11	1
-GTT	1	1	10	9	0	3	3	0	0	2	8	3
-GTC	4	5	6	1	1	3	4	1	0	4	8	10
-GTA	16	5	24	8	1	8	6	3	2	9	9	13
-GTG	0	0	4	2	0	3	3	0	0	1	0	1
-GCT	2	3	9	2	0	4	5	0	1	3	3	3
-GCC	17	23	23	7	0	8	9	4	6	15	26	10
-GCA	14	14	16	6	1	7	6	4	7	13	18	16
-GCG	1	0	1	1	0	0	2	0	0	2	1	1
-GAT	0	0	4	0	0	0	2	2	0	0	5	3
-GAC	4	3	11	13	1	1	3	2	1	3	8	8
-GAA	10	5	9	13	4	4	10	5	2	10	9	5
-GAG	1	0	2	2	0	0	0	1	1	1	3	1
-GGT	1	1	10	3	0	0	2	1	0	1	3	3
-GGC	2	3	7	2	0	3	5	1	1	7	6	6
-GGA	13	12	24	4	0	7	14	2	3	15	20	11
-GGG	2	2	5	0	0	0	1	3	1	5	2	5
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008081178.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	4	12	10	1	5	1	11	1	8	5	0	0	8	0	5	8	33	5	3	9	10	1	0	6	7	0	2	0	5	1	9	14	8	2	5	5	9	0	3	8	6	1	1	4	1	4	16	0	2	17	14	1	0	4	10	1	1	2	13	2	1	0	0	0
+1	ND2	YP_008081179.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	4	5	12	0	2	8	8	0	2	6	1	0	11	0	7	9	27	8	2	6	10	1	1	5	13	1	1	1	1	1	13	13	16	4	6	19	20	1	2	9	9	0	0	6	1	5	5	0	3	23	14	0	0	3	5	0	1	3	12	2	0	0	0	0
+2	COX1	YP_008081180.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	15	27	9	0	5	7	11	1	5	13	0	1	17	0	17	10	20	6	4	6	15	3	3	15	7	1	1	1	6	0	27	10	18	6	7	6	22	1	9	7	8	0	2	2	10	6	24	4	9	23	16	1	4	11	9	2	10	7	24	5	1	0	0	0
+3	COX2	YP_008081181.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	2	7	7	1	3	5	5	0	4	5	0	2	4	1	6	2	10	2	0	6	8	0	4	6	6	2	0	2	4	0	10	8	10	2	3	3	5	0	1	3	4	0	0	4	9	1	8	2	2	7	6	1	0	13	13	2	3	2	4	0	0	0	0	0
+4	ATP8	YP_008081182.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	2	1	2	0	0	0	1	0	0	0	0	0	5	0	0	1	1	0	0	4	4	1	1	1	1	0	0	0	0	0	2	3	1	1	2	2	2	0	2	2	3	0	1	0	0	1	1	0	0	0	1	0	0	1	4	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_008081183.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	4	10	7	1	1	1	2	0	2	1	0	0	3	2	5	13	18	3	1	5	11	1	1	2	8	0	0	0	6	0	14	8	9	2	3	5	11	1	2	8	1	0	0	4	3	3	8	3	4	8	7	0	0	1	4	0	0	3	7	0	1	0	0	0
+6	COX3	YP_008081184.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	6	17	2	0	2	3	6	1	6	5	1	1	11	1	6	8	15	1	2	3	7	0	6	10	8	1	2	1	1	1	8	8	7	2	2	2	17	0	0	1	2	0	0	3	3	4	6	3	5	9	6	2	2	3	10	0	2	5	14	1	0	0	0	0
+7	ND3	YP_008081185.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	0	9	6	0	1	3	2	0	1	1	0	1	5	0	0	6	12	1	0	5	3	0	0	1	3	0	0	0	2	0	3	6	2	1	3	3	3	0	0	3	1	0	0	0	0	1	3	0	0	4	4	0	2	2	5	1	1	1	2	3	0	0	0	0
+8	ND4L	YP_008081186.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	3	5	5	0	0	4	2	0	0	0	0	3	0	1	3	3	11	1	1	0	1	0	2	2	3	0	0	2	1	0	2	0	4	1	0	3	3	1	1	1	0	0	1	3	0	0	2	0	1	6	7	0	0	1	2	1	0	1	3	1	1	0	0	0
+9	ND4	YP_008081187.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	2	14	18	2	5	9	9	0	5	10	2	3	20	0	11	17	34	4	3	5	16	4	3	8	12	0	1	1	9	0	22	20	25	2	5	19	18	2	1	10	8	3	1	6	2	4	9	1	3	15	13	2	0	3	10	1	1	7	15	5	0	0	0	0
+10	ND5	YP_008081188.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	7	32	9	0	5	8	14	1	2	9	1	4	12	2	19	15	45	7	6	12	12	1	6	8	16	2	0	1	8	1	22	31	26	10	9	23	29	1	5	25	20	2	3	11	8	8	9	0	3	26	18	1	5	8	9	3	3	6	20	2	1	0	0	0
+11	CYTB	YP_008081190.1	Chanodichthys dabryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Chanodichthys	7	21	8	2	2	9	10	1	5	10	2	1	13	0	11	8	29	1	2	2	16	1	1	11	6	0	1	1	6	0	11	19	11	1	3	11	10	0	10	7	9	1	0	1	3	10	13	1	3	10	16	1	3	8	5	1	3	6	11	5	0	0	0	0

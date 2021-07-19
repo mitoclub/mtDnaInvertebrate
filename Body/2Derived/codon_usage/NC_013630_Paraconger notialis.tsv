@@ -1,65 +1,13 @@
-	YP_003345372.1|ND1	YP_003345373.1|ND2	YP_003345374.1|COX1	YP_003345375.1|COX2	YP_003345376.1|ATP8	YP_003345377.1|ATP6	YP_003345378.1|COX3	YP_003345379.1|ND3	YP_003345380.1|ND4L	YP_003345381.1|ND4	YP_003345382.1|ND5	YP_003345383.1|CYTB
-TTT	6	4	17	3	2	6	6	5	2	5	12	6
-TTC	10	6	27	5	2	5	18	4	6	8	28	26
-TTA	6	3	6	5	2	6	2	0	5	11	11	4
-TTG	0	0	1	1	0	0	0	0	0	3	1	2
-TCT	2	2	2	3	0	0	5	1	1	1	4	3
-TCC	5	8	11	3	1	1	0	1	4	9	8	7
-TCA	9	4	11	5	1	3	7	4	3	11	17	13
-TCG	1	0	2	0	0	0	0	2	0	2	0	0
-TAT	2	0	7	6	0	4	2	0	1	3	2	2
-TAC	10	8	13	4	1	1	10	2	0	11	9	12
-TGT	0	0	0	0	0	0	1	0	1	0	4	1
-TGC	0	1	1	2	0	0	1	2	2	5	3	2
-TGA	7	10	18	4	4	4	9	3	1	19	10	13
-TGG	1	1	1	1	1	1	3	2	0	1	4	0
-CTT	5	5	12	6	0	9	4	2	1	6	15	6
-CTC	14	15	5	6	0	12	3	9	2	25	15	7
-CTA	35	30	26	9	3	25	18	12	8	39	38	38
-CTG	1	5	14	0	0	2	1	0	4	5	5	2
-CCT	1	0	3	2	1	1	0	0	1	1	6	2
-CCC	9	4	5	4	3	4	4	4	0	7	9	3
-CCA	12	14	20	6	3	10	8	5	0	16	16	14
-CCG	2	1	2	2	1	2	0	0	1	1	1	2
-CAT	1	0	4	2	1	1	6	1	1	2	3	3
-CAC	2	9	16	8	0	2	9	0	4	8	8	10
-CAA	5	11	5	8	2	9	9	3	2	12	23	4
-CAG	1	0	1	1	0	0	0	0	0	0	2	1
-CGT	0	1	2	0	0	1	0	0	0	0	0	0
-CGC	1	0	0	1	0	1	1	0	0	0	1	0
-CGA	6	3	7	5	0	4	5	2	2	11	7	7
-CGG	0	0	0	0	0	0	0	0	0	0	0	1
-ATT	11	7	14	9	1	8	6	2	0	14	27	13
-ATC	14	17	23	10	2	12	7	7	3	23	35	16
-ATA	10	28	15	8	1	6	7	3	3	24	28	9
-ATG	3	6	7	5	1	4	3	2	2	5	8	3
-ACT	3	4	7	1	1	3	1	2	1	4	5	3
-ACC	11	16	7	3	1	9	6	2	3	22	20	8
-ACA	5	34	21	6	2	10	15	2	2	18	34	9
-ACG	1	2	3	0	0	1	1	0	1	1	3	0
-AAT	2	4	4	0	1	2	0	0	0	1	4	2
-AAC	9	9	12	5	4	8	2	2	3	12	31	20
-AAA	7	8	11	2	4	1	2	1	2	10	20	8
-AAG	1	3	1	0	0	0	0	0	0	1	1	1
-AGT	1	0	1	1	0	0	0	0	0	2	0	0
-AGC	4	5	3	3	0	4	3	0	2	5	14	2
-GTT	2	0	13	5	0	1	3	0	0	1	4	3
-GTC	3	3	18	6	0	4	6	3	0	8	5	6
-GTA	13	4	9	9	3	5	7	1	3	7	7	11
-GTG	0	0	4	0	0	3	3	0	0	1	1	1
-GCT	1	3	4	1	0	3	1	0	1	1	3	0
-GCC	21	20	19	7	2	9	14	7	10	21	30	21
-GCA	12	5	17	11	2	5	6	0	3	9	16	10
-GCG	1	0	4	0	0	1	0	0	0	0	2	0
-GAT	0	0	1	1	0	1	2	1	0	0	2	1
-GAC	4	2	15	12	1	0	4	3	0	7	11	11
-GAA	9	5	9	13	0	4	7	6	1	11	11	5
-GAG	3	0	2	0	1	0	2	0	1	1	0	0
-GGT	1	0	2	0	0	0	1	0	0	0	1	2
-GGC	6	6	14	5	0	3	7	2	1	8	7	3
-GGA	8	11	26	5	0	6	10	5	2	18	20	14
-GGG	2	1	6	0	0	0	3	1	2	3	3	6
-TAA	1	0	0	0	1	0	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003345372.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	6	10	6	0	2	5	9	1	2	10	0	0	7	1	5	14	35	1	1	9	12	2	1	2	5	1	0	1	6	0	11	14	10	3	3	11	5	1	2	9	7	1	1	4	2	3	13	0	1	21	12	1	0	4	9	3	1	6	8	2	1	0	0	0
+1	ND2	YP_003345373.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	4	6	3	0	2	8	4	0	0	8	0	1	10	1	5	15	30	5	0	4	14	1	0	9	11	0	1	0	3	0	7	17	28	6	4	16	34	2	4	9	8	3	0	5	0	3	4	0	3	20	5	0	0	2	5	0	0	6	11	1	0	0	0	0
+2	COX1	YP_003345374.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	17	27	6	1	2	11	11	2	7	13	0	1	18	1	12	5	26	14	3	5	20	2	4	16	5	1	2	0	7	0	14	23	15	7	7	7	21	3	4	12	11	1	1	3	13	18	9	4	4	19	17	4	1	15	9	2	2	14	26	6	0	0	0	1
+3	COX2	YP_003345375.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	3	5	5	1	3	3	5	0	6	4	0	2	4	1	6	6	9	0	2	4	6	2	2	8	8	1	0	1	5	0	9	10	8	5	1	3	6	0	0	5	2	0	1	3	5	6	9	0	1	7	11	0	1	12	13	0	0	5	5	0	0	0	0	0
+4	ATP8	YP_003345376.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	2	2	2	0	0	1	1	0	0	1	0	0	4	1	0	0	3	0	1	3	3	1	1	0	2	0	0	0	0	0	1	2	1	1	1	1	2	0	1	4	4	0	0	0	0	0	3	0	0	2	2	0	0	1	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_003345377.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	6	5	6	0	0	1	3	0	4	1	0	0	4	1	9	12	25	2	1	4	10	2	1	2	9	0	1	1	4	0	8	12	6	4	3	9	10	1	2	8	1	0	0	4	1	4	5	3	3	9	5	1	1	0	4	0	0	3	6	0	0	0	0	0
+6	COX3	YP_003345378.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	6	18	2	0	5	0	7	0	2	10	1	1	9	3	4	3	18	1	0	4	8	0	6	9	9	0	0	1	5	0	6	7	7	3	1	6	15	1	0	2	2	0	0	3	3	6	7	3	1	14	6	0	2	4	7	2	1	7	10	3	0	0	0	0
+7	ND3	YP_003345379.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	5	4	0	0	1	1	4	2	0	2	0	2	3	2	2	9	12	0	0	4	5	0	1	0	3	0	0	0	2	0	2	7	3	2	2	2	2	0	0	2	1	0	0	0	0	3	1	0	0	7	0	0	1	3	6	0	0	2	5	1	0	0	0	0
+8	ND4L	YP_003345380.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	2	6	5	0	1	4	3	0	1	0	1	2	1	0	1	2	8	4	1	0	0	1	1	4	2	0	0	0	2	0	0	3	3	2	1	3	2	1	0	3	2	0	0	2	0	0	3	0	1	10	3	0	0	0	1	1	0	1	2	2	1	0	0	0
+9	ND4	YP_003345381.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	5	8	11	3	1	9	11	2	3	11	0	5	19	1	6	25	39	5	1	7	16	1	2	8	12	0	0	0	11	0	14	23	24	5	4	22	18	1	1	12	10	1	2	5	1	8	7	1	1	21	9	0	0	7	11	1	0	8	18	3	0	0	0	0
+10	ND5	YP_003345382.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	12	28	11	1	4	8	17	0	2	9	4	3	10	4	15	15	38	5	6	9	16	1	3	8	23	2	0	1	7	0	27	35	28	8	5	20	34	3	4	31	20	1	0	14	4	5	7	1	3	30	16	2	2	11	11	0	1	7	20	3	1	0	0	0
+11	CYTB	YP_003345383.1	Paraconger notialis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Congridae, Paraconger	6	26	4	2	3	7	13	0	2	12	1	2	13	0	6	7	38	2	2	3	14	2	3	10	4	1	0	0	7	1	13	16	9	3	3	8	9	0	2	20	8	1	0	2	3	6	11	1	0	21	10	0	1	11	5	0	2	3	14	6	1	0	0	0

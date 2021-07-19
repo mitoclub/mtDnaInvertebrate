@@ -1,65 +1,13 @@
-	YP_161195.1|ND1	YP_161196.1|ND2	YP_161197.1|COX1	YP_161198.1|COX2	YP_161199.1|ATP8	YP_161200.1|ATP6	YP_161201.1|COX3	YP_161202.1|ND3	YP_161203.1|ND4L	YP_161204.1|ND4	YP_161205.1|ND5	YP_161207.1|CYTB
-TTT	9	2	18	6	1	5	9	3	3	9	15	11
-TTC	13	11	25	2	1	5	14	4	2	12	24	15
-TTA	19	12	21	6	2	10	5	7	5	25	20	12
-TTG	1	0	4	0	1	0	0	0	0	3	2	0
-TCT	8	6	8	2	2	5	3	2	1	6	13	5
-TCC	2	11	5	3	1	1	4	3	3	17	8	7
-TCA	12	8	13	5	3	6	7	3	7	15	25	8
-TCG	0	1	0	2	0	0	1	0	0	0	0	0
-TAT	7	3	11	11	1	1	2	2	2	12	6	4
-TAC	5	4	8	3	1	2	10	3	1	7	12	11
-TGT	1	0	1	1	0	0	2	0	2	0	3	1
-TGC	1	0	0	1	2	1	1	2	1	6	3	2
-TGA	9	10	16	5	3	4	12	3	0	11	11	11
-TGG	0	0	1	0	0	0	0	1	0	0	2	0
-CTT	4	18	12	7	2	4	2	7	4	15	15	12
-CTC	10	9	8	4	0	9	5	2	5	12	12	13
-CTA	21	22	16	10	3	15	18	10	11	29	36	21
-CTG	1	1	0	1	0	3	0	1	0	3	3	2
-CCT	4	5	10	8	3	6	8	4	0	4	8	7
-CCC	6	4	6	2	2	1	2	2	1	4	8	5
-CCA	7	12	13	4	2	8	2	1	1	12	14	11
-CCG	1	0	0	0	0	0	0	0	0	1	0	1
-CAT	1	1	8	4	1	4	10	0	0	12	4	7
-CAC	1	6	8	2	1	1	6	0	3	4	12	5
-CAA	7	11	5	9	4	8	8	3	2	6	13	6
-CAG	0	0	2	0	0	0	0	0	0	2	1	1
-CGT	2	0	4	1	0	1	0	0	0	0	2	1
-CGC	2	1	0	2	0	2	2	1	0	1	3	3
-CGA	4	2	4	3	1	3	2	0	1	8	5	4
-CGG	0	0	0	0	0	0	1	0	0	1	0	0
-ATT	14	25	31	10	3	15	14	8	2	23	32	23
-ATC	16	20	12	8	3	13	9	2	3	23	37	21
-ATA	13	24	22	16	3	13	8	2	7	28	37	12
-ATG	2	1	6	3	2	4	1	2	1	3	6	3
-ACT	3	12	17	7	3	4	7	0	1	14	15	3
-ACC	6	13	3	4	2	8	6	4	2	12	12	13
-ACA	13	12	16	7	4	10	8	4	0	9	19	8
-ACG	0	1	0	1	1	1	0	0	0	0	0	0
-AAT	6	8	8	4	2	4	2	0	3	5	16	8
-AAC	6	10	9	0	1	5	3	2	3	13	21	12
-AAA	7	10	9	4	4	4	2	3	1	13	17	9
-AAG	1	0	0	1	0	0	0	0	0	0	0	0
-AGT	1	1	1	1	1	1	0	0	0	1	1	1
-AGC	1	3	2	3	1	3	3	1	0	10	7	1
-GTT	3	1	9	3	1	3	5	0	0	5	3	5
-GTC	2	1	9	3	0	1	2	0	2	3	3	1
-GTA	10	3	19	6	0	4	7	3	1	5	6	9
-GTG	0	0	0	0	0	0	0	0	2	0	0	1
-GCT	8	5	14	5	0	5	4	6	1	5	8	4
-GCC	14	9	15	3	0	5	7	2	4	9	17	13
-GCA	7	11	13	2	0	4	4	1	2	11	14	6
-GCG	0	0	0	0	0	0	0	0	0	0	0	1
-GAT	2	0	9	4	1	1	3	0	1	1	6	5
-GAC	2	0	6	7	0	0	0	2	0	2	4	5
-GAA	10	4	9	12	2	3	7	6	2	8	10	4
-GAG	0	0	0	1	0	0	1	0	0	0	0	2
-GGT	3	4	14	1	0	5	7	1	2	2	3	4
-GGC	4	6	12	6	0	1	5	3	1	8	13	8
-GGA	6	3	15	1	0	4	8	0	1	7	12	11
-GGG	0	0	6	0	0	0	2	0	1	2	3	1
-TAA	1	0	1	0	0	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	1	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_161195.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	9	13	19	1	8	2	12	0	7	5	1	1	9	0	4	10	21	1	4	6	7	1	1	1	7	0	2	2	4	0	14	16	13	2	3	6	13	0	6	6	7	1	1	1	3	2	10	0	8	14	7	0	2	2	10	0	3	4	6	0	1	0	0	0
+1	ND2	YP_161196.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	2	11	12	0	6	11	8	1	3	4	0	0	10	0	18	9	22	1	5	4	12	0	1	6	11	0	0	1	2	0	25	20	24	1	12	13	12	1	8	10	10	0	1	3	1	1	3	0	5	9	11	0	0	0	4	0	4	6	3	0	0	0	0	0
+2	COX1	YP_161197.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	18	25	21	4	8	5	13	0	11	8	1	0	16	1	12	8	16	0	10	6	13	0	8	8	5	2	4	0	4	0	31	12	22	6	17	3	16	0	8	9	9	0	1	2	9	9	19	0	14	15	13	0	9	6	9	0	14	12	15	6	1	0	0	0
+3	COX2	YP_161198.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	6	2	6	0	2	3	5	2	11	3	1	1	5	0	7	4	10	1	8	2	4	0	4	2	9	0	1	2	3	0	10	8	16	3	7	4	7	1	4	0	4	1	1	3	3	3	6	0	5	3	2	0	4	7	12	1	1	6	1	0	0	0	0	0
+4	ATP8	YP_161199.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	1	1	2	1	2	1	3	0	1	1	0	2	3	0	2	0	3	0	3	2	2	0	1	1	4	0	0	0	1	0	3	3	3	2	3	2	4	1	2	1	4	0	1	1	1	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_161200.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	5	5	10	0	5	1	6	0	1	2	0	1	4	0	4	9	15	3	6	1	8	0	4	1	8	0	1	2	3	0	15	13	13	4	4	8	10	1	4	5	4	0	1	3	3	1	4	0	5	5	4	0	1	0	3	0	5	1	4	0	0	0	0	0
+6	COX3	YP_161201.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	9	14	5	0	3	4	7	1	2	10	2	1	12	0	2	5	18	0	8	2	2	0	10	6	8	0	0	2	2	1	14	9	8	1	7	6	8	0	2	3	2	0	0	3	5	2	7	0	4	7	4	0	3	0	7	1	7	5	8	2	0	0	0	0
+7	ND3	YP_161202.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	3	4	7	0	2	3	3	0	2	3	0	2	3	1	7	2	10	1	4	2	1	0	0	0	3	0	0	1	0	0	8	2	2	2	0	4	4	0	0	2	3	0	0	1	0	0	3	0	6	2	1	0	0	2	6	0	1	3	0	0	0	1	0	0
+8	ND4L	YP_161203.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	3	2	5	0	1	3	7	0	2	1	2	1	0	0	4	5	11	0	0	1	1	0	0	3	2	0	0	0	1	0	2	3	7	1	1	2	0	0	3	3	1	0	0	0	0	2	1	2	1	4	2	0	1	0	2	0	2	1	1	1	1	0	0	0
+9	ND4	YP_161204.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	9	12	25	3	6	17	15	0	12	7	0	6	11	0	15	12	29	3	4	4	12	1	12	4	6	2	0	1	8	1	23	23	28	3	14	12	9	0	5	13	13	0	1	10	5	3	5	0	5	9	11	0	1	2	8	0	2	8	7	2	0	0	0	0
+10	ND5	YP_161205.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	15	24	20	2	13	8	25	0	6	12	3	3	11	2	15	12	36	3	8	8	14	0	4	12	13	1	2	3	5	0	32	37	37	6	15	12	19	0	16	21	17	0	1	7	3	3	6	0	8	17	14	0	6	4	10	0	3	13	12	3	1	0	0	0
+11	CYTB	YP_161207.1	Tarsipes rostratus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Tarsipedidae, Tarsipes	11	15	12	0	5	7	8	0	4	11	1	2	11	0	12	13	21	2	7	5	11	1	7	5	6	1	1	3	4	0	23	21	12	3	3	13	8	0	8	12	9	0	1	1	5	1	9	1	4	13	6	1	5	5	4	2	4	8	11	1	0	1	0	0

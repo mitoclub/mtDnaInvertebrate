@@ -1,65 +1,15 @@
-	YP_001648491.1|ND4L	YP_001648492.1|ND1	YP_001648493.1|ND2	YP_001648494.1|ND5	YP_001648495.1|ND4	YP_001648496.1|ND6	YP_001648497.1|ND3	YP_001648498.1|COX1	YP_001648499.1|COX2	YP_001648500.1|ATP8	YP_001648501.1|ATP6	YP_001648502.1|COX3	YP_001648503.1|CYTB	YP_001648504.1|ATP9
-TTT	3	23	22	45	40	18	15	38	14	6	18	23	24	5
-TTC	0	3	2	4	3	0	2	8	2	0	3	1	2	1
-TTA	17	32	57	60	60	16	10	38	23	11	26	22	48	8
-TTG	1	5	4	9	10	2	1	5	3	1	7	0	4	0
-TCT	1	11	14	16	13	2	6	11	5	1	3	1	8	3
-TCC	1	1	2	3	2	2	0	0	2	0	0	1	2	0
-TCA	3	8	11	12	7	1	1	13	5	0	3	5	6	1
-TCG	0	1	3	3	1	0	1	1	1	0	3	1	0	0
-TAT	5	12	13	27	19	8	4	19	9	1	6	13	24	2
-TAC	0	2	5	2	1	1	0	5	2	0	0	0	0	1
-TGT	0	3	5	8	6	0	1	1	2	0	0	2	3	1
-TGC	0	0	1	0	0	0	1	0	0	0	0	1	0	1
-TGA	0	7	4	9	5	2	2	13	5	1	2	8	5	0
-TGG	0	1	3	1	3	2	2	2	1	0	1	4	5	0
-CTT	1	5	6	4	6	4	2	7	0	0	5	3	7	1
-CTC	0	0	2	1	2	0	1	0	1	0	0	0	0	0
-CTA	1	3	8	11	1	4	1	6	1	1	3	2	3	1
-CTG	0	0	3	1	2	0	0	2	0	0	1	0	1	0
-CCT	0	2	5	7	5	1	0	5	4	0	3	2	5	1
-CCC	0	3	1	3	4	2	1	3	2	0	2	2	2	0
-CCA	0	6	4	6	7	1	3	11	3	2	2	5	5	0
-CCG	0	3	3	3	4	0	0	6	3	0	1	2	7	0
-CAT	0	1	2	10	5	3	0	14	5	0	3	13	8	0
-CAC	0	1	1	1	3	0	0	4	2	0	1	2	2	0
-CAA	1	5	10	11	9	3	2	8	9	5	5	6	2	2
-CAG	0	1	1	1	0	1	1	1	1	1	0	1	1	0
-CGT	0	1	1	1	3	1	0	2	0	0	0	0	2	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	1	0	3	2	2	0	1	1	0	1	1	0	0
-CGG	0	1	0	0	0	1	0	1	1	0	0	0	0	1
-ATT	4	19	26	31	20	16	9	17	17	4	14	10	17	6
-ATC	0	4	5	4	6	1	3	5	0	0	0	1	1	0
-ATA	15	27	41	38	38	8	4	23	13	6	21	9	21	2
-ATG	6	8	8	22	9	7	2	25	6	1	10	7	9	4
-ACT	2	5	7	21	7	2	1	13	7	3	8	9	4	2
-ACC	1	0	5	7	1	1	1	2	1	0	0	1	1	0
-ACA	2	3	7	11	10	3	1	12	5	5	6	5	6	2
-ACG	0	3	4	3	1	1	0	4	0	0	2	4	2	0
-AAT	5	9	11	24	6	9	1	13	5	0	7	2	15	2
-AAC	0	1	3	4	3	0	0	1	1	1	3	1	4	0
-AAA	0	7	12	24	13	1	3	7	7	7	5	4	12	1
-AAG	0	1	2	5	3	1	1	1	0	0	0	0	1	1
-AGT	1	4	15	14	9	5	3	6	3	1	3	7	5	1
-AGC	0	2	3	2	3	0	0	4	0	0	1	2	2	0
-AGA	4	4	3	3	8	1	1	6	3	1	4	4	3	0
-AGG	1	0	3	5	0	0	0	0	2	0	1	1	5	0
-GTT	3	12	10	18	13	6	3	16	7	1	7	8	7	1
-GTC	0	1	1	0	5	2	0	5	2	0	2	0	2	1
-GTA	3	7	13	8	8	4	3	14	3	1	7	10	8	0
-GTG	1	4	7	4	3	5	2	7	5	0	3	4	6	0
-GCT	3	6	11	21	12	5	2	6	8	0	4	5	10	2
-GCC	0	3	7	5	9	3	0	9	1	0	4	6	6	4
-GCA	3	13	8	16	12	3	1	14	4	1	8	5	9	5
-GCG	1	3	6	4	2	4	0	6	4	0	2	3	3	1
-GAT	1	4	8	10	8	4	1	13	11	2	3	5	11	0
-GAC	0	1	1	2	1	1	2	5	3	1	1	0	0	0
-GAA	3	8	7	8	9	7	4	7	9	2	4	3	5	1
-GAG	0	2	5	6	6	0	3	0	4	0	0	4	3	1
-GGT	2	6	7	4	9	1	2	11	2	0	4	6	4	3
-GGC	2	1	4	7	7	1	1	2	0	0	0	3	3	0
-GGA	2	7	13	15	6	5	3	24	3	0	3	6	9	7
-GGG	1	10	9	17	11	4	4	17	5	0	8	6	11	2
-TAA	1	1	1	0	0	1	1	1	0	1	1	1	1	1
-TAG	0	0	0	1	1	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND4L	YP_001648491.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	3	0	17	1	1	1	3	0	5	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	4	0	15	6	2	1	2	0	5	0	0	0	1	0	4	1	3	0	3	1	3	0	3	1	1	0	3	0	2	2	2	1	1	0
+1	ND1	YP_001648492.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	23	3	32	5	11	1	8	1	12	2	3	0	7	1	5	0	3	0	2	3	6	3	1	1	5	1	1	0	1	1	19	4	27	8	5	0	3	3	9	1	7	1	4	2	4	0	12	1	7	4	6	3	13	3	4	1	8	2	6	1	7	10	1	0
+2	ND2	YP_001648493.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	22	2	57	4	14	2	11	3	13	5	5	1	4	3	6	2	8	3	5	1	4	3	2	1	10	1	1	0	0	0	26	5	41	8	7	5	7	4	11	3	12	2	15	3	3	3	10	1	13	7	11	7	8	6	8	1	7	5	7	4	13	9	1	0
+3	ND5	YP_001648494.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	45	4	60	9	16	3	12	3	27	2	8	0	9	1	4	1	11	1	7	3	6	3	10	1	11	1	1	0	3	0	31	4	38	22	21	7	11	3	24	4	24	5	14	2	3	5	18	0	8	4	21	5	16	4	10	2	8	6	4	7	15	17	0	1
+4	ND4	YP_001648495.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	40	3	60	10	13	2	7	1	19	1	6	0	5	3	6	2	1	2	5	4	7	4	5	3	9	0	3	0	2	0	20	6	38	9	7	1	10	1	6	3	13	3	9	3	8	0	13	5	8	3	12	9	12	2	8	1	9	6	9	7	6	11	0	1
+5	ND6	YP_001648496.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	18	0	16	2	2	2	1	0	8	1	0	0	2	2	4	0	4	0	1	2	1	0	3	0	3	1	1	0	2	1	16	1	8	7	2	1	3	1	9	0	1	1	5	0	1	0	6	2	4	5	5	3	3	4	4	1	7	0	1	1	5	4	1	0
+6	ND3	YP_001648497.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	15	2	10	1	6	0	1	1	4	0	1	1	2	2	2	1	1	0	0	1	3	0	0	0	2	1	0	0	0	0	9	3	4	2	1	1	1	0	1	0	3	1	3	0	1	0	3	0	3	2	2	0	1	0	1	2	4	3	2	1	3	4	1	0
+7	COX1	YP_001648498.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	38	8	38	5	11	0	13	1	19	5	1	0	13	2	7	0	6	2	5	3	11	6	14	4	8	1	2	0	1	1	17	5	23	25	13	2	12	4	13	1	7	1	6	4	6	0	16	5	14	7	6	9	14	6	13	5	7	0	11	2	24	17	1	0
+8	COX2	YP_001648499.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	14	2	23	3	5	2	5	1	9	2	2	0	5	1	0	1	1	0	4	2	3	3	5	2	9	1	0	0	1	1	17	0	13	6	7	1	5	0	5	1	7	0	3	0	3	2	7	2	3	5	8	1	4	4	11	3	9	4	2	0	3	5	0	1
+9	ATP8	YP_001648500.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	6	0	11	1	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	2	0	0	0	5	1	0	0	0	0	4	0	6	1	3	0	5	0	0	1	7	0	1	0	1	0	1	0	1	0	0	0	1	0	2	1	2	0	0	0	0	0	1	0
+10	ATP6	YP_001648501.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	18	3	26	7	3	0	3	3	6	0	0	0	2	1	5	0	3	1	3	2	2	1	3	1	5	0	0	0	1	0	14	0	21	10	8	0	6	2	7	3	5	0	3	1	4	1	7	2	7	3	4	4	8	2	3	1	4	0	4	0	3	8	1	0
+11	COX3	YP_001648502.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	23	1	22	0	1	1	5	1	13	0	2	1	8	4	3	0	2	0	2	2	5	2	13	2	6	1	0	0	1	0	10	1	9	7	9	1	5	4	2	1	4	0	7	2	4	1	8	0	10	4	5	6	5	3	5	0	3	4	6	3	6	6	1	0
+12	CYTB	YP_001648503.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	24	2	48	4	8	2	6	0	24	0	3	0	5	5	7	0	3	1	5	2	5	7	8	2	2	1	2	0	0	0	17	1	21	9	4	1	6	2	15	4	12	1	5	2	3	5	7	2	8	6	10	6	9	3	11	0	5	3	4	3	9	11	1	0
+13	ATP9	YP_001648504.1	Topsentia ophiraphidites	Eukaryota, Metazoa, Porifera, Demospongiae, Heteroscleromorpha, Suberitida, Suberitida incertae sedis, Topsentia	5	1	8	0	3	0	1	0	2	1	1	1	0	0	1	0	1	0	1	0	0	0	0	0	2	0	0	0	0	1	6	0	2	4	2	0	2	0	2	0	1	1	1	0	0	0	1	1	0	0	2	4	5	1	0	0	1	1	3	0	7	2	1	0

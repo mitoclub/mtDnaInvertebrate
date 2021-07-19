@@ -1,65 +1,10 @@
-	YP_009567858.1|ND2	YP_009567859.1|COX1	YP_009567860.1|COX2	YP_009567861.1|ATP8	YP_009567862.1|ATP6	YP_009567863.1|COX3	YP_009567864.1|ND3	YP_009567868.1|ND6	YP_009567869.1|CYTB
-TTT	11	22	6	1	9	10	6	4	18
-TTC	8	14	5	2	10	15	5	3	11
-TTA	19	40	20	4	23	18	8	13	35
-TTG	3	0	1	0	1	0	1	0	1
-TCT	3	8	3	1	4	0	3	2	4
-TCC	4	7	2	0	4	3	2	3	1
-TCA	24	17	7	2	6	6	4	7	8
-TCG	1	2	0	0	0	1	0	0	0
-TAT	9	13	3	1	3	6	2	6	11
-TAC	3	4	5	1	2	5	1	1	7
-TGT	0	0	0	0	1	1	1	0	0
-TGC	1	0	3	0	0	0	0	1	2
-TGA	9	15	6	3	5	12	3	1	11
-TGG	0	0	0	0	0	0	0	0	1
-CTT	5	7	4	0	7	5	1	1	1
-CTC	4	2	1	0	5	1	0	1	3
-CTA	15	18	8	2	7	8	7	11	18
-CTG	1	0	0	0	0	1	0	0	0
-CCT	3	9	1	0	6	4	3	1	4
-CCC	4	7	3	1	2	2	0	1	5
-CCA	7	10	6	3	3	4	2	3	13
-CCG	0	0	0	0	0	0	0	0	0
-CAT	4	11	1	1	2	9	1	2	3
-CAC	1	6	4	0	3	6	0	1	8
-CAA	12	12	8	1	5	7	1	5	8
-CAG	0	0	0	1	0	0	0	0	0
-CGT	0	3	2	0	0	0	0	0	2
-CGC	0	1	0	0	0	0	0	0	0
-CGA	1	5	5	0	3	4	3	1	4
-CGG	0	0	0	0	0	0	0	0	2
-ATT	39	34	21	4	11	18	9	18	25
-ATC	14	13	7	1	4	7	7	14	9
-ATA	27	32	10	9	21	7	13	16	20
-ATG	3	0	1	0	2	2	0	1	3
-ACT	6	7	8	0	6	4	0	9	6
-ACC	5	2	1	1	4	6	3	5	3
-ACA	19	24	9	3	15	17	5	11	15
-ACG	1	1	0	0	0	0	0	0	0
-AAT	9	15	13	3	9	10	2	11	21
-AAC	8	5	3	5	6	2	0	1	5
-AAA	9	6	5	1	3	1	5	3	9
-AAG	1	0	0	0	0	0	0	0	0
-AGT	1	0	2	1	2	0	0	0	0
-AGC	0	0	0	0	1	2	0	0	2
-AGA	2	8	1	0	4	3	1	4	7
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	5	2	0	1	4	0	2	4
-GTC	0	4	1	0	1	1	1	0	2
-GTA	4	17	5	0	6	4	1	0	10
-GTG	2	0	0	0	0	0	0	0	2
-GCT	1	7	2	0	2	3	1	0	4
-GCC	4	8	1	0	3	6	2	1	4
-GCA	11	19	4	1	2	10	2	1	11
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	8	7	0	1	2	2	1	8
-GAC	0	7	1	0	0	1	2	0	2
-GAA	4	8	10	0	4	6	4	3	3
-GAG	0	1	0	0	0	0	0	0	0
-GGT	7	12	4	0	0	4	0	0	4
-GGC	0	3	0	0	1	1	0	0	2
-GGA	7	30	3	0	6	12	3	4	14
-GGG	0	2	0	0	1	1	0	0	2
-TAA	0	0	0	1	1	0	1	1	1
-TAG	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009567858.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	11	8	19	3	3	4	24	1	9	3	0	1	9	0	5	4	15	1	3	4	7	0	4	1	12	0	0	0	1	0	39	14	27	3	6	5	19	1	9	8	9	1	1	0	2	0	1	0	4	2	1	4	11	0	0	0	4	0	7	0	7	0	0	1
+1	COX1	YP_009567859.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	22	14	40	0	8	7	17	2	13	4	0	0	15	0	7	2	18	0	9	7	10	0	11	6	12	0	3	1	5	0	34	13	32	0	7	2	24	1	15	5	6	0	0	0	8	0	5	4	17	0	7	8	19	1	8	7	8	1	12	3	30	2	0	0
+2	COX2	YP_009567860.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	6	5	20	1	3	2	7	0	3	5	0	3	6	0	4	1	8	0	1	3	6	0	1	4	8	0	2	0	5	0	21	7	10	1	8	1	9	0	13	3	5	0	2	0	1	0	2	1	5	0	2	1	4	0	7	1	10	0	4	0	3	0	0	0
+3	ATP8	YP_009567861.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	1	2	4	0	1	0	2	0	1	1	0	0	3	0	0	0	2	0	0	1	3	0	1	0	1	1	0	0	0	0	4	1	9	0	0	1	3	0	3	5	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009567862.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	9	10	23	1	4	4	6	0	3	2	1	0	5	0	7	5	7	0	6	2	3	0	2	3	5	0	0	0	3	0	11	4	21	2	6	4	15	0	9	6	3	0	2	1	4	0	1	1	6	0	2	3	2	0	1	0	4	0	0	1	6	1	1	0
+5	COX3	YP_009567863.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	10	15	18	0	0	3	6	1	6	5	1	0	12	0	5	1	8	1	4	2	4	0	9	6	7	0	0	0	4	0	18	7	7	2	4	6	17	0	10	2	1	0	0	2	3	0	4	1	4	0	3	6	10	0	2	1	6	0	4	1	12	1	0	0
+6	ND3	YP_009567864.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	6	5	8	1	3	2	4	0	2	1	1	0	3	0	1	0	7	0	3	0	2	0	1	0	1	0	0	0	3	0	9	7	13	0	0	3	5	0	2	0	5	0	0	0	1	0	0	1	1	0	1	2	2	0	2	2	4	0	0	0	3	0	1	0
+7	ND6	YP_009567868.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	4	3	13	0	2	3	7	0	6	1	0	1	1	0	1	1	11	0	1	1	3	0	2	1	5	0	0	0	1	0	18	14	16	1	9	5	11	0	11	1	3	0	0	0	4	0	2	0	0	0	0	1	1	0	1	0	3	0	0	0	4	0	1	0
+8	CYTB	YP_009567869.1	Xenogryllus marmoratus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Gryllidea, Grylloidea, Gryllidae, Eneopterinae, Xenogryllus	18	11	35	1	4	1	8	0	11	7	0	2	11	1	1	3	18	0	4	5	13	0	3	8	8	0	2	0	4	2	25	9	20	3	6	3	15	0	21	5	9	0	0	2	7	0	4	2	10	2	4	4	11	0	8	2	3	0	4	2	14	2	1	0

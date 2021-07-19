@@ -1,65 +1,10 @@
-	YP_009239935.1|ND2	YP_009239936.1|COX1	YP_009239937.1|COX2	YP_009239938.1|ATP8	YP_009239939.1|ATP6	YP_009239940.1|COX3	YP_009239941.1|ND3	YP_009239945.1|ND6	YP_009239946.1|CYTB
-TTT	31	37	17	9	15	23	15	16	37
-TTC	7	6	2	0	8	6	2	0	8
-TTA	39	54	13	5	29	30	11	17	41
-TTG	0	1	0	0	0	0	0	0	0
-TCT	4	8	3	1	4	2	1	0	4
-TCC	0	0	0	0	0	0	0	0	0
-TCA	17	25	10	1	10	12	5	5	12
-TCG	0	0	0	0	0	0	0	0	1
-TAT	13	11	8	4	3	8	4	6	12
-TAC	2	4	0	0	3	2	0	1	2
-TGT	1	3	3	0	2	0	1	0	1
-TGC	0	0	0	0	0	0	0	0	0
-TGA	9	12	6	1	4	10	2	2	12
-TGG	0	2	0	0	0	0	0	0	0
-CTT	3	5	1	0	4	1	0	4	2
-CTC	0	0	0	0	0	0	1	0	0
-CTA	11	1	3	0	4	5	1	2	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	11	5	0	5	2	0	1	7
-CCC	1	2	0	0	1	0	0	1	1
-CCA	3	12	5	1	4	5	4	1	9
-CCG	0	0	0	0	0	1	0	0	0
-CAT	0	13	4	0	3	8	0	0	8
-CAC	1	3	2	0	0	1	0	0	0
-CAA	5	7	7	0	2	4	0	2	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	2	1	0	0	0	0	0	0
-CGC	0	0	1	0	0	0	0	0	0
-CGA	1	4	2	0	3	3	1	1	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	36	77	35	6	26	35	20	29	45
-ATC	4	5	6	0	3	1	0	3	4
-ATA	44	26	16	6	20	22	17	22	29
-ATG	0	1	0	0	1	1	0	0	1
-ACT	2	9	4	0	4	3	0	3	5
-ACC	0	0	0	1	0	0	1	0	3
-ACA	8	22	5	0	8	11	2	4	14
-ACG	0	0	0	0	0	0	0	0	0
-AAT	34	35	17	6	16	22	9	17	23
-AAC	6	4	1	1	2	2	1	2	7
-AAA	18	10	11	6	7	9	7	11	13
-AAG	0	0	0	0	0	0	0	0	0
-AGT	1	3	1	0	1	2	0	0	1
-AGC	0	0	0	0	0	1	0	0	1
-AGA	3	9	4	0	5	4	1	2	6
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	7	0	0	1	2	1	1	4
-GTC	0	0	0	0	0	1	0	0	0
-GTA	0	6	2	0	2	3	0	0	7
-GTG	0	1	0	0	0	0	0	0	0
-GCT	3	9	0	0	2	2	0	1	6
-GCC	1	1	0	0	2	0	0	0	0
-GCA	3	8	4	1	5	4	3	2	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	9	8	0	0	3	1	1	5
-GAC	0	2	0	0	1	0	1	0	0
-GAA	4	7	11	0	5	5	3	4	2
-GAG	0	0	0	0	0	0	0	0	0
-GGT	2	12	2	0	1	1	0	0	3
-GGC	0	0	0	0	0	0	0	0	0
-GGA	2	22	3	0	0	4	2	3	14
-GGG	1	2	0	0	0	1	0	0	1
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009239935.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	31	7	39	0	4	0	17	0	13	2	1	0	9	0	3	0	11	0	3	1	3	0	0	1	5	0	0	0	1	0	36	4	44	0	2	0	8	0	34	6	18	0	1	0	3	0	1	0	0	0	3	1	3	0	1	0	4	0	2	0	2	1	1	0
+1	COX1	YP_009239936.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	37	6	54	1	8	0	25	0	11	4	3	0	12	2	5	0	1	0	11	2	12	0	13	3	7	0	2	0	4	0	77	5	26	1	9	0	22	0	35	4	10	0	3	0	9	0	7	0	6	1	9	1	8	0	9	2	7	0	12	0	22	2	0	0
+2	COX2	YP_009239937.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	17	2	13	0	3	0	10	0	8	0	3	0	6	0	1	0	3	0	5	0	5	0	4	2	7	0	1	1	2	0	35	6	16	0	4	0	5	0	17	1	11	0	1	0	4	0	0	0	2	0	0	0	4	0	8	0	11	0	2	0	3	0	1	0
+3	ATP8	YP_009239938.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	9	0	5	0	1	0	1	0	4	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	6	0	6	0	0	1	0	0	6	1	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009239939.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	15	8	29	0	4	0	10	0	3	3	2	0	4	0	4	0	4	0	5	1	4	0	3	0	2	0	0	0	3	0	26	3	20	1	4	0	8	0	16	2	7	0	1	0	5	0	1	0	2	0	2	2	5	0	0	1	5	0	1	0	0	0	1	0
+5	COX3	YP_009239940.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	23	6	30	0	2	0	12	0	8	2	0	0	10	0	1	0	5	0	2	0	5	1	8	1	4	0	0	0	3	0	35	1	22	1	3	0	11	0	22	2	9	0	2	1	4	0	2	1	3	0	2	0	4	0	3	0	5	0	1	0	4	1	1	0
+6	ND3	YP_009239941.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	15	2	11	0	1	0	5	0	4	0	1	0	2	0	0	1	1	0	0	0	4	0	0	0	0	0	0	0	1	0	20	0	17	0	0	1	2	0	9	1	7	0	0	0	1	0	1	0	0	0	0	0	3	0	1	1	3	0	0	0	2	0	1	0
+7	ND6	YP_009239945.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	16	0	17	0	0	0	5	0	6	1	0	0	2	0	4	0	2	0	1	1	1	0	0	0	2	0	0	0	1	0	29	3	22	0	3	0	4	0	17	2	11	0	0	0	2	0	1	0	0	0	1	0	2	0	1	0	4	0	0	0	3	0	1	0
+8	CYTB	YP_009239946.1	Myzus persicae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Aphidomorpha, Aphidoidea, Aphididae, Macrosiphini, Myzus	37	8	41	0	4	0	12	1	12	2	1	0	12	0	2	0	3	0	7	1	9	0	8	0	7	0	0	0	5	0	45	4	29	1	5	3	14	0	23	7	13	0	1	1	6	0	4	0	7	0	6	0	6	0	5	0	2	0	3	0	14	1	1	0

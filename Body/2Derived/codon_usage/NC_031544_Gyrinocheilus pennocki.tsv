@@ -1,65 +1,13 @@
-	YP_009311229.1|ND1	YP_009311230.1|ND2	YP_009311231.1|COX1	YP_009311232.1|COX2	YP_009311233.1|ATP8	YP_009311234.1|ATP6	YP_009311235.1|COX3	YP_009311236.1|ND3	YP_009311237.1|ND4L	YP_009311238.1|ND4	YP_009311239.1|ND5	YP_009311241.1|CYTB
-TTT	4	6	16	3	1	5	7	3	4	5	10	3
-TTC	13	3	26	6	2	6	16	6	4	11	33	26
-TTA	19	9	4	4	2	6	4	5	1	17	13	8
-TTG	1	0	0	0	0	2	1	0	1	0	1	1
-TCT	1	2	6	4	0	2	3	3	1	3	2	1
-TCC	6	7	6	6	0	2	1	1	2	11	10	10
-TCA	11	7	12	3	2	1	7	2	3	6	18	11
-TCG	0	0	2	0	0	0	0	0	0	0	0	0
-TAT	3	1	6	4	0	3	4	1	0	4	3	4
-TAC	10	8	12	5	0	2	8	1	0	10	8	11
-TGT	0	0	1	0	0	0	0	0	1	0	3	3
-TGC	0	2	0	2	0	0	2	1	2	5	3	0
-TGA	8	10	17	5	4	5	10	4	1	19	13	12
-TGG	0	1	0	0	1	0	2	1	0	1	1	0
-CTT	8	5	17	10	1	9	6	4	2	14	14	6
-CTC	9	14	12	5	0	4	10	6	6	17	19	9
-CTA	22	40	23	8	2	24	13	11	13	30	38	31
-CTG	3	3	7	1	0	2	0	1	0	9	2	6
-CCT	5	1	6	3	1	1	1	1	1	2	5	2
-CCC	7	10	11	6	4	4	4	1	1	10	11	6
-CCA	12	9	9	5	3	11	8	6	0	16	13	12
-CCG	0	0	2	0	1	1	0	0	0	1	0	1
-CAT	1	2	10	6	0	1	5	0	0	1	1	1
-CAC	3	5	9	4	2	2	11	0	4	11	15	11
-CAA	6	11	7	8	2	8	9	3	3	8	17	5
-CAG	1	2	1	0	0	0	0	0	0	3	2	1
-CGT	0	0	1	1	0	0	3	0	0	2	0	0
-CGC	1	0	1	1	0	2	0	0	1	1	0	2
-CGA	7	4	6	4	0	4	2	2	2	8	10	7
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	6	21	11	2	12	9	7	1	14	19	15
-ATC	17	20	15	6	3	11	6	2	0	25	39	17
-ATA	8	11	12	5	0	7	3	1	4	20	29	10
-ATG	3	3	12	7	1	3	3	1	2	4	3	1
-ACT	5	3	6	2	2	2	3	2	1	4	8	2
-ACC	7	25	7	3	1	7	8	2	2	20	24	6
-ACA	8	19	23	5	0	9	9	4	4	21	30	12
-ACG	2	0	0	0	0	1	2	1	0	1	1	1
-AAT	4	3	5	1	0	4	0	1	0	3	3	4
-AAC	8	6	10	4	3	6	1	3	2	9	25	13
-AAA	7	9	8	4	3	1	2	0	0	10	20	9
-AAG	0	0	0	1	0	0	0	1	0	0	1	0
-AGT	0	1	1	1	0	0	1	0	1	0	3	0
-AGC	3	6	4	2	1	4	2	0	2	5	9	1
-GTT	4	1	11	9	0	5	5	0	0	1	6	3
-GTC	2	2	6	2	1	3	3	1	1	6	8	5
-GTA	9	6	24	9	2	9	6	2	1	12	10	15
-GTG	2	1	3	1	0	0	2	1	0	1	1	0
-GCT	5	5	7	2	1	3	3	1	2	6	8	2
-GCC	15	15	23	8	1	10	9	4	6	15	29	14
-GCA	11	15	15	6	2	7	10	3	6	14	14	17
-GCG	1	2	2	1	0	0	0	0	0	1	0	0
-GAT	0	1	2	2	0	0	1	0	0	0	4	1
-GAC	4	3	12	11	1	1	4	3	1	3	10	10
-GAA	9	5	9	13	2	3	9	6	3	9	12	6
-GAG	2	0	2	2	1	1	1	0	0	2	0	1
-GGT	2	0	8	1	0	0	1	0	0	1	1	1
-GGC	4	4	6	2	0	3	7	2	2	8	11	7
-GGA	12	12	24	5	0	7	13	5	4	18	16	16
-GGG	0	2	8	0	0	1	1	0	0	2	3	1
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311229.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	4	13	19	1	1	6	11	0	3	10	0	0	8	0	8	9	22	3	5	7	12	0	1	3	6	1	0	1	7	0	9	17	8	3	5	7	8	2	4	8	7	0	0	3	4	2	9	2	5	15	11	1	0	4	9	2	2	4	12	0	1	0	0	0
+1	ND2	YP_009311230.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	6	3	9	0	2	7	7	0	1	8	0	2	10	1	5	14	40	3	1	10	9	0	2	5	11	2	0	0	4	0	6	20	11	3	3	25	19	0	3	6	9	0	1	6	1	2	6	1	5	15	15	2	1	3	5	0	0	4	12	2	0	0	0	0
+2	COX1	YP_009311231.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	16	26	4	0	6	6	12	2	6	12	1	0	17	0	17	12	23	7	6	11	9	2	10	9	7	1	1	1	6	0	21	15	12	12	6	7	23	0	5	10	8	0	1	4	11	6	24	3	7	23	15	2	2	12	9	2	8	6	24	8	1	0	0	0
+3	COX2	YP_009311232.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	3	6	4	0	4	6	3	0	4	5	0	2	5	0	10	5	8	1	3	6	5	0	6	4	8	0	1	1	4	0	11	6	5	7	2	3	5	0	1	4	4	1	1	2	9	2	9	1	2	8	6	1	2	11	13	2	1	2	5	0	0	0	0	0
+4	ATP8	YP_009311233.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	1	2	2	0	0	0	2	0	0	0	0	0	4	1	1	0	2	0	1	4	3	1	0	2	2	0	0	0	0	0	2	3	0	1	2	1	0	0	0	3	3	0	0	1	0	1	2	0	1	1	2	0	0	1	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009311234.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	5	6	6	2	2	2	1	0	3	2	0	0	5	0	9	4	24	2	1	4	11	1	1	2	8	0	0	2	4	0	12	11	7	3	2	7	9	1	4	6	1	0	0	4	5	3	9	0	3	10	7	0	0	1	3	1	0	3	7	1	0	0	0	0
+6	COX3	YP_009311235.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	7	16	4	1	3	1	7	0	4	8	0	2	10	2	6	10	13	0	1	4	8	0	5	11	9	0	3	0	2	0	9	6	3	3	3	8	9	2	0	1	2	0	1	2	5	3	6	2	3	9	10	0	1	4	9	1	1	7	13	1	0	0	0	0
+7	ND3	YP_009311236.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	3	6	5	0	3	1	2	0	1	1	0	1	4	1	4	6	11	1	1	1	6	0	0	0	3	0	0	0	2	0	7	2	1	1	2	2	4	1	1	3	0	1	0	0	0	1	2	1	1	4	3	0	0	3	6	0	0	2	5	0	0	0	0	0
+8	ND4L	YP_009311237.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	4	4	1	1	1	2	3	0	0	0	1	2	1	0	2	6	13	0	1	1	0	0	0	4	3	0	0	1	2	0	1	0	4	2	1	2	4	0	0	2	0	0	1	2	0	1	1	0	2	6	6	0	0	1	3	0	0	2	4	0	1	0	0	0
+9	ND4	YP_009311238.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	5	11	17	0	3	11	6	0	4	10	0	5	19	1	14	17	30	9	2	10	16	1	1	11	8	3	2	1	8	0	14	25	20	4	4	20	21	1	3	9	10	0	0	5	1	6	12	1	6	15	14	1	0	3	9	2	1	8	18	2	0	0	0	0
+10	ND5	YP_009311239.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	10	33	13	1	2	10	18	0	3	8	3	3	13	1	14	19	38	2	5	11	13	0	1	15	17	2	0	0	10	0	19	39	29	3	8	24	30	1	3	25	20	1	3	9	6	8	10	1	8	29	14	0	4	10	12	0	1	11	16	3	1	0	0	0
+11	CYTB	YP_009311241.1	Gyrinocheilus pennocki	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Gyrinocheilidae, Gyrinocheilus	3	26	8	1	1	10	11	0	4	11	3	0	12	0	6	9	31	6	2	6	12	1	1	11	5	1	0	2	7	0	15	17	10	1	2	6	12	1	4	13	9	0	0	1	3	5	15	0	2	14	17	0	1	10	6	1	1	7	16	1	0	0	0	0

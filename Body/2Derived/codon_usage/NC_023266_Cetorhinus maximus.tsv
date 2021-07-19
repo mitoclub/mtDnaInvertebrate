@@ -1,65 +1,13 @@
-	YP_008994694.1|ND1	YP_008994695.1|ND2	YP_008994696.1|COX1	YP_008994697.1|COX2	YP_008994698.1|ATP8	YP_008994699.1|ATP6	YP_008994700.1|COX3	YP_008994701.1|ND3	YP_008994702.1|ND4L	YP_008994703.1|ND4	YP_008994704.1|ND5	YP_008994706.1|CYTB
-TTT	9	6	18	5	0	7	12	3	3	9	21	5
-TTC	9	6	21	3	4	9	11	5	1	10	20	27
-TTA	15	14	17	10	1	17	11	8	9	18	18	12
-TTG	4	1	1	0	1	2	1	0	0	2	1	1
-TCT	3	8	7	1	1	1	1	3	6	2	9	4
-TCC	6	7	7	5	0	1	4	3	1	10	12	10
-TCA	10	14	13	6	2	1	5	2	5	10	15	6
-TCG	1	0	0	2	0	0	0	0	0	1	1	0
-TAT	8	3	9	5	0	3	8	2	1	5	5	2
-TAC	7	5	10	5	0	1	4	0	0	7	6	12
-TGT	0	0	0	2	0	0	1	1	2	0	1	2
-TGC	1	1	1	0	0	0	1	0	1	4	4	1
-TGA	8	9	17	5	5	4	12	4	1	17	13	10
-TGG	0	1	0	0	0	1	0	1	0	3	0	3
-CTT	10	6	14	3	2	8	11	8	6	23	20	9
-CTC	11	21	12	4	1	6	3	5	5	19	26	18
-CTA	23	26	17	7	1	17	8	9	3	25	36	21
-CTG	4	3	4	1	0	0	0	1	0	2	6	2
-CCT	7	1	4	3	4	2	2	1	0	3	9	3
-CCC	9	7	10	4	1	6	4	2	1	8	6	9
-CCA	6	12	15	5	3	8	7	4	0	15	14	7
-CCG	0	0	0	1	0	0	0	1	0	0	0	1
-CAT	1	2	10	4	0	0	6	0	0	5	5	4
-CAC	2	5	9	6	2	3	10	0	3	8	11	7
-CAA	4	9	7	6	1	8	8	2	2	10	20	9
-CAG	1	1	2	3	0	0	0	0	0	2	3	0
-CGT	1	1	2	2	0	0	0	1	1	1	1	2
-CGC	2	2	0	0	0	0	2	1	1	1	4	2
-CGA	4	2	6	4	0	6	3	0	0	8	4	3
-CGG	0	0	1	0	0	0	0	0	0	0	0	1
-ATT	17	16	23	18	3	15	8	4	5	28	33	15
-ATC	9	16	18	3	1	8	8	5	3	21	24	28
-ATA	12	14	22	8	2	7	6	0	3	26	22	9
-ATG	2	2	3	5	1	3	1	1	2	6	5	2
-ACT	3	9	4	2	1	7	2	0	2	5	12	3
-ACC	13	14	9	3	0	9	6	2	2	13	20	11
-ACA	9	16	18	5	2	7	14	2	2	13	22	11
-ACG	2	1	3	1	0	1	1	2	0	3	0	0
-AAT	4	7	9	1	3	7	1	1	1	5	13	6
-AAC	7	7	6	3	2	3	2	0	5	14	22	14
-AAA	7	10	7	4	4	0	2	1	0	9	21	8
-AAG	0	0	1	0	1	1	0	0	0	1	1	1
-AGT	1	3	0	3	0	0	0	1	1	2	2	1
-AGC	2	3	3	0	1	5	3	2	2	7	11	1
-GTT	2	1	13	8	1	1	2	0	0	2	4	3
-GTC	4	5	7	4	0	4	3	1	0	5	7	10
-GTA	4	3	17	5	1	4	7	2	1	3	7	3
-GTG	1	0	3	1	0	2	2	0	0	0	1	1
-GCT	3	6	10	3	0	4	7	3	1	9	9	4
-GCC	11	15	16	8	0	5	10	1	6	14	21	13
-GCA	11	3	18	6	0	10	5	4	3	6	9	4
-GCG	0	0	2	0	0	0	0	1	0	4	0	0
-GAT	1	0	10	4	0	0	1	2	0	3	5	3
-GAC	2	1	5	8	1	1	4	2	1	2	8	7
-GAA	8	5	10	14	1	4	10	6	1	9	10	6
-GAG	4	1	0	2	1	0	0	0	1	1	1	0
-GGT	1	3	10	2	0	3	3	0	1	2	2	2
-GGC	8	5	12	3	0	1	8	3	2	9	9	9
-GGA	8	7	16	4	0	4	6	3	0	8	13	11
-GGG	2	1	8	0	0	0	4	0	1	2	4	2
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008994694.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	9	9	15	4	3	6	10	1	8	7	0	1	8	0	10	11	23	4	7	9	6	0	1	2	4	1	1	2	4	0	17	9	12	2	3	13	9	2	4	7	7	0	1	2	2	4	4	1	3	11	11	0	1	2	8	4	1	8	8	2	1	0	0	0
+1	ND2	YP_008994695.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	6	6	14	1	8	7	14	0	3	5	0	1	9	1	6	21	26	3	1	7	12	0	2	5	9	1	1	2	2	0	16	16	14	2	9	14	16	1	7	7	10	0	3	3	1	5	3	0	6	15	3	0	0	1	5	1	3	5	7	1	0	0	0	0
+2	COX1	YP_008994696.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	18	21	17	1	7	7	13	0	9	10	0	1	17	0	14	12	17	4	4	10	15	0	10	9	7	2	2	0	6	1	23	18	22	3	4	9	18	3	9	6	7	1	0	3	13	7	17	3	10	16	18	2	10	5	10	0	10	12	16	8	1	0	0	0
+3	COX2	YP_008994697.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	5	3	10	0	1	5	6	2	5	5	2	0	5	0	3	4	7	1	3	4	5	1	4	6	6	3	2	0	4	0	18	3	8	5	2	3	5	1	1	3	4	0	3	0	8	4	5	1	3	8	6	0	4	8	14	2	2	3	4	0	0	0	0	0
+4	ATP8	YP_008994698.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	0	4	1	1	1	0	2	0	0	0	0	0	5	0	2	1	1	0	4	1	3	0	0	2	1	0	0	0	0	0	3	1	2	1	1	0	2	0	3	2	4	1	0	1	1	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_008994699.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	7	9	17	2	1	1	1	0	3	1	0	0	4	1	8	6	17	0	2	6	8	0	0	3	8	0	0	0	6	0	15	8	7	3	7	9	7	1	7	3	0	1	0	5	1	4	4	2	4	5	10	0	0	1	4	0	3	1	4	0	1	0	0	0
+6	COX3	YP_008994700.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	12	11	11	1	1	4	5	0	8	4	1	1	12	0	11	3	8	0	2	4	7	0	6	10	8	0	0	2	3	0	8	8	6	1	2	6	14	1	1	2	2	0	0	3	2	3	7	2	7	10	5	0	1	4	10	0	3	8	6	4	1	0	0	0
+7	ND3	YP_008994701.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	3	5	8	0	3	3	2	0	2	0	1	0	4	1	8	5	9	1	1	2	4	1	0	0	2	0	1	1	0	0	4	5	0	1	0	2	2	2	1	0	1	0	1	2	0	1	2	0	3	1	4	1	2	2	6	0	0	3	3	0	0	0	0	0
+8	ND4L	YP_008994702.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	3	1	9	0	6	1	5	0	1	0	2	1	1	0	6	5	3	0	0	1	0	0	0	3	2	0	1	1	0	0	5	3	3	2	2	2	2	0	1	5	0	0	1	2	0	0	1	0	1	6	3	0	0	1	1	1	1	2	0	1	1	0	0	0
+9	ND4	YP_008994703.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	9	10	18	2	2	10	10	1	5	7	0	4	17	3	23	19	25	2	3	8	15	0	5	8	10	2	1	1	8	0	28	21	26	6	5	13	13	3	5	14	9	1	2	7	2	5	3	0	9	14	6	4	3	2	9	1	2	9	8	2	0	0	0	0
+10	ND5	YP_008994704.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	21	20	18	1	9	12	15	1	5	6	1	4	13	0	20	26	36	6	9	6	14	0	5	11	20	3	1	4	4	0	33	24	22	5	12	20	22	0	13	22	21	1	2	11	4	7	7	1	9	21	9	0	5	8	10	1	2	9	13	4	1	0	0	0
+11	CYTB	YP_008994706.1	Cetorhinus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Lamniformes, Alopiidae, Cetorhinus	5	27	12	1	4	10	6	0	2	12	2	1	10	3	9	18	21	2	3	9	7	1	4	7	9	0	2	2	3	1	15	28	9	2	3	11	11	0	6	14	8	1	1	1	3	10	3	1	4	13	4	0	3	7	6	0	2	9	11	2	0	1	0	0

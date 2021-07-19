@@ -1,65 +1,13 @@
-	YP_003434103.1|ND1	YP_003434104.1|ND2	YP_003434105.1|COX1	YP_003434106.1|COX2	YP_003434107.1|ATP8	YP_003434108.1|ATP6	YP_003434109.1|COX3	YP_003434110.1|ND3	YP_003434111.1|ND4L	YP_003434112.1|ND4	YP_003434113.1|ND5	YP_003434115.1|CYTB
-TTT	8	4	17	4	2	5	6	3	4	8	17	10
-TTC	11	6	25	4	4	6	18	5	2	8	27	18
-TTA	9	14	8	3	1	10	6	7	5	13	11	7
-TTG	0	1	0	1	0	3	1	0	1	2	3	2
-TCT	3	3	9	2	0	1	4	0	1	7	7	3
-TCC	7	8	5	4	2	2	2	4	4	5	15	10
-TCA	7	5	7	5	0	1	5	3	2	8	10	7
-TCG	0	1	2	0	0	1	0	1	0	1	0	2
-TAT	4	2	6	2	1	2	2	1	0	5	4	5
-TAC	8	5	12	7	0	3	10	1	0	7	7	9
-TGT	0	0	0	1	0	0	0	0	4	1	2	2
-TGC	0	0	1	1	0	0	2	1	0	3	4	1
-TGA	8	11	17	5	5	2	10	5	1	17	13	10
-TGG	0	0	0	0	0	1	2	0	0	2	1	4
-CTT	15	12	16	10	1	10	8	3	1	32	18	14
-CTC	14	22	10	3	4	5	3	10	10	16	24	18
-CTA	26	32	19	10	1	22	10	7	5	33	40	16
-CTG	3	3	8	2	0	6	3	2	3	5	1	7
-CCT	8	2	7	1	3	4	3	0	1	3	7	3
-CCC	6	11	9	7	2	5	9	5	1	15	20	9
-CCA	9	7	9	7	4	5	0	2	0	8	4	8
-CCG	1	3	4	0	0	0	0	1	0	1	2	1
-CAT	1	1	6	5	0	3	6	1	1	1	5	3
-CAC	3	5	13	5	1	2	10	0	4	12	10	9
-CAA	7	12	4	8	0	7	8	2	2	7	14	5
-CAG	0	3	4	1	1	1	1	0	1	2	1	2
-CGT	0	0	4	1	0	0	0	0	0	3	2	1
-CGC	1	1	0	1	0	1	0	0	1	3	1	3
-CGA	7	3	3	4	1	2	5	2	1	4	10	4
-CGG	0	0	1	0	0	3	0	0	0	1	0	0
-ATT	11	8	30	13	0	12	12	4	2	22	29	16
-ATC	13	9	11	6	1	9	4	3	0	11	17	13
-ATA	5	11	12	10	1	5	5	0	3	18	17	4
-ATG	3	3	11	1	2	2	1	2	1	8	9	5
-ACT	3	9	10	1	0	4	1	2	3	8	11	2
-ACC	11	17	9	3	0	6	7	2	2	16	21	11
-ACA	7	23	15	6	1	14	16	4	3	18	23	7
-ACG	1	0	2	1	0	0	1	0	0	1	1	1
-AAT	5	6	6	3	1	4	0	1	0	4	8	4
-AAC	7	3	9	2	0	6	1	1	2	7	20	15
-AAA	6	9	7	3	3	0	2	0	0	7	20	9
-AAG	1	0	1	1	2	0	0	1	0	3	1	0
-AGT	1	1	1	0	0	3	1	0	1	1	1	0
-AGC	1	4	4	3	0	4	2	0	1	10	14	1
-GTT	7	4	11	9	2	1	6	1	0	7	12	5
-GTC	2	2	6	4	0	3	4	4	0	3	5	8
-GTA	5	3	20	6	1	7	8	0	2	8	10	7
-GTG	0	0	5	1	2	1	0	0	0	0	3	2
-GCT	4	8	17	1	0	5	4	3	4	4	9	2
-GCC	18	14	16	10	2	8	9	6	5	11	26	22
-GCA	13	12	16	6	0	6	7	0	5	16	19	7
-GCG	1	1	0	0	0	0	0	0	0	0	1	4
-GAT	2	1	4	3	0	1	2	3	1	0	2	4
-GAC	2	1	10	11	0	0	3	2	0	5	10	7
-GAA	11	4	7	12	0	2	8	3	1	9	13	5
-GAG	0	0	4	1	2	2	2	2	1	2	0	1
-GGT	4	6	8	4	1	2	3	1	0	5	5	3
-GGC	7	3	11	3	1	1	11	1	3	9	12	9
-GGA	5	5	18	2	0	5	6	3	3	9	8	8
-GGG	2	4	9	0	0	1	1	1	0	5	5	5
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003434103.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	8	11	9	0	3	7	7	0	4	8	0	0	8	0	15	14	26	3	8	6	9	1	1	3	7	0	0	1	7	0	11	13	5	3	3	11	7	1	5	7	6	1	1	1	7	2	5	0	4	18	13	1	2	2	11	0	4	7	5	2	1	0	0	0
+1	ND2	YP_003434104.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	4	6	14	1	3	8	5	1	2	5	0	0	11	0	12	22	32	3	2	11	7	3	1	5	12	3	0	1	3	0	8	9	11	3	9	17	23	0	6	3	9	0	1	4	4	2	3	0	8	14	12	1	1	1	4	0	6	3	5	4	0	0	0	0
+2	COX1	YP_003434105.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	17	25	8	0	9	5	7	2	6	12	0	1	17	0	16	10	19	8	7	9	9	4	6	13	4	4	4	0	3	1	30	11	12	11	10	9	15	2	6	9	7	1	1	4	11	6	20	5	17	16	16	0	4	10	7	4	8	11	18	9	1	0	0	0
+3	COX2	YP_003434106.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	4	4	3	1	2	4	5	0	2	7	1	1	5	0	10	3	10	2	1	7	7	0	5	5	8	1	1	1	4	0	13	6	10	1	1	3	6	1	3	2	3	1	0	3	9	4	6	1	1	10	6	0	3	11	12	1	4	3	2	0	0	0	0	0
+4	ATP8	YP_003434107.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	2	4	1	0	0	2	0	0	1	0	0	0	5	0	1	4	1	0	3	2	4	0	0	1	0	1	0	0	1	0	0	1	1	2	0	0	1	0	1	0	3	2	0	0	2	0	1	2	0	2	0	0	0	0	0	2	1	1	0	0	1	0	0	0
+5	ATP6	YP_003434108.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	5	6	10	3	1	2	1	1	2	3	0	0	2	1	10	5	22	6	4	5	5	0	3	2	7	1	0	1	2	3	12	9	5	2	4	6	14	0	4	6	0	0	3	4	1	3	7	1	5	8	6	0	1	0	2	2	2	1	5	1	1	0	0	0
+6	COX3	YP_003434109.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	6	18	6	1	4	2	5	0	2	10	0	2	10	2	8	3	10	3	3	9	0	0	6	10	8	1	0	0	5	0	12	4	5	1	1	7	16	1	0	1	2	0	1	2	6	4	8	0	4	9	7	0	2	3	8	2	3	11	6	1	0	0	0	0
+7	ND3	YP_003434110.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	3	5	7	0	0	4	3	1	1	1	0	1	5	0	3	10	7	2	0	5	2	1	1	0	2	0	0	0	2	0	4	3	0	2	2	2	4	0	1	1	0	1	0	0	1	4	0	0	3	6	0	0	3	2	3	2	1	1	3	1	0	0	0	0
+8	ND4L	YP_003434111.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	4	2	5	1	1	4	2	0	0	0	4	0	1	0	1	10	5	3	1	1	0	0	1	4	2	1	0	1	1	0	2	0	3	1	3	2	3	0	0	2	0	0	1	1	0	0	2	0	4	5	5	0	1	0	1	1	0	3	3	0	1	0	0	0
+9	ND4	YP_003434112.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	8	8	13	2	7	5	8	1	5	7	1	3	17	2	32	16	33	5	3	15	8	1	1	12	7	2	3	3	4	1	22	11	18	8	8	16	18	1	4	7	7	3	1	10	7	3	8	0	4	11	16	0	0	5	9	2	5	9	9	5	0	0	0	0
+10	ND5	YP_003434113.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	17	27	11	3	7	15	10	0	4	7	2	4	13	1	18	24	40	1	7	20	4	2	5	10	14	1	2	1	10	0	29	17	17	9	11	21	23	1	8	20	20	1	1	14	12	5	10	3	9	26	19	1	2	10	13	0	5	12	8	5	1	0	0	0
+11	CYTB	YP_003434115.1	Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Hyporthodus	10	18	7	2	3	10	7	2	5	9	2	1	10	4	14	18	16	7	3	9	8	1	3	9	5	2	1	3	4	0	16	13	4	5	2	11	7	1	4	15	9	0	0	1	5	8	7	2	2	22	7	4	4	7	5	1	3	9	8	5	0	0	0	0

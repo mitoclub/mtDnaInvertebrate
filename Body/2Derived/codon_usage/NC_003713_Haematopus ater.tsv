@@ -1,65 +1,13 @@
-	NP_620327.1|ND1	NP_620328.1|ND2	NP_620329.1|COX1	NP_620330.1|COX2	NP_620331.1|ATP8	NP_620332.2|ATP6	NP_620333.1|COX3	NP_620334.1|ND3	NP_620335.1|ND4L	NP_620336.1|ND4	NP_620337.1|ND5	NP_620338.1|CYTB
-TTT	5	4	11	1	2	0	5	1	1	2	7	5
-TTC	13	9	29	8	3	9	18	7	4	12	25	23
-TTA	10	4	6	2	1	7	4	2	5	11	10	3
-TTG	1	1	0	2	1	1	0	0	0	1	0	0
-TCT	4	5	3	0	1	2	3	1	0	2	3	2
-TCC	9	8	10	9	1	1	7	3	5	11	16	10
-TCA	5	15	9	9	3	5	5	4	3	13	18	11
-TCG	4	0	1	0	0	0	0	0	0	1	2	0
-TAT	9	2	5	2	0	0	1	0	0	0	2	2
-TAC	6	6	13	6	0	3	10	3	2	13	12	10
-TGT	0	0	0	1	0	0	0	0	0	0	0	2
-TGC	2	1	1	2	0	1	1	1	3	3	5	3
-TGA	7	7	16	4	5	4	11	5	1	11	11	11
-TGG	1	3	1	1	0	0	1	0	0	1	1	0
-CTT	4	7	4	4	0	4	2	1	1	2	13	5
-CTC	14	15	12	8	0	18	6	7	1	23	30	18
-CTA	31	28	39	12	3	29	18	15	12	62	44	38
-CTG	4	4	3	2	0	3	2	1	0	4	4	4
-CCT	3	3	4	1	1	3	1	0	1	4	2	1
-CCC	10	8	11	6	2	6	7	2	1	11	9	12
-CCA	10	10	15	6	4	8	4	5	1	10	14	12
-CCG	1	0	1	0	0	0	0	0	0	0	1	1
-CAT	2	4	6	2	1	3	3	0	1	3	3	5
-CAC	1	7	13	7	0	1	13	0	5	14	8	8
-CAA	5	9	8	7	2	8	7	4	1	15	18	7
-CAG	1	1	1	0	0	0	0	0	1	1	2	1
-CGT	0	0	0	0	0	0	0	0	0	1	2	0
-CGC	4	1	1	1	0	2	1	0	0	2	5	4
-CGA	4	2	7	4	0	3	4	2	2	8	2	3
-CGG	0	0	0	0	0	0	0	0	0	0	0	1
-ATT	8	6	10	8	3	5	5	4	0	9	13	6
-ATC	16	23	30	12	0	13	12	7	4	33	43	25
-ATA	10	20	23	10	1	11	8	3	6	24	29	10
-ATG	3	2	3	1	1	1	1	1	2	1	3	1
-ACT	3	10	5	4	4	4	1	1	2	7	10	3
-ACC	10	14	15	5	7	9	8	6	5	23	33	11
-ACA	11	18	19	7	2	11	13	3	2	19	33	11
-ACG	0	1	1	0	0	0	0	0	1	0	3	0
-AAT	2	4	5	1	0	2	0	1	1	2	4	2
-AAC	10	9	10	3	4	7	5	2	2	16	26	19
-AAA	7	10	9	4	3	3	5	1	0	7	21	8
-AAG	0	3	0	0	0	0	0	0	0	1	1	2
-AGT	1	0	0	0	0	0	1	0	0	1	1	1
-AGC	5	3	3	3	0	4	4	1	3	10	10	1
-GTT	0	0	3	0	0	0	0	0	1	0	2	0
-GTC	1	8	11	7	0	4	7	0	0	3	3	6
-GTA	9	4	20	6	0	1	7	1	1	3	3	8
-GTG	3	0	0	0	0	0	0	0	0	0	2	0
-GCT	5	4	13	1	0	3	1	1	0	6	8	6
-GCC	11	11	19	8	0	9	7	4	5	11	22	12
-GCA	11	14	15	4	0	4	10	1	3	14	14	8
-GCG	1	0	0	0	0	0	0	1	1	0	1	0
-GAT	1	0	5	4	0	0	1	0	0	1	0	2
-GAC	4	1	10	8	0	2	3	3	1	1	6	4
-GAA	8	5	10	12	0	4	6	5	2	8	13	7
-GAG	3	0	0	3	0	0	2	1	1	1	0	0
-GGT	2	1	10	0	0	0	1	0	0	2	4	5
-GGC	5	6	18	1	0	5	7	1	3	8	11	9
-GGA	3	5	18	8	0	4	10	2	0	6	15	10
-GGG	2	0	1	0	0	0	2	2	1	1	1	1
-TAA	0	0	0	1	1	1	0	1	1	0	1	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_620327.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	5	13	10	1	4	9	5	4	9	6	0	2	7	1	4	14	31	4	3	10	10	1	2	1	5	1	0	4	4	0	8	16	10	3	3	10	11	0	2	10	7	0	1	5	0	1	9	3	5	11	11	1	1	4	8	3	2	5	3	2	0	0	0	1
+1	ND2	NP_620328.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	4	9	4	1	5	8	15	0	2	6	0	1	7	3	7	15	28	4	3	8	10	0	4	7	9	1	0	1	2	0	6	23	20	2	10	14	18	1	4	9	10	3	0	3	0	8	4	0	4	11	14	0	0	1	5	0	1	6	5	0	0	1	0	0
+2	COX1	NP_620329.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	11	29	6	0	3	10	9	1	5	13	0	1	16	1	4	12	39	3	4	11	15	1	6	13	8	1	0	1	7	0	10	30	23	3	5	15	19	1	5	10	9	0	0	3	3	11	20	0	13	19	15	0	5	10	10	0	10	18	18	1	0	0	0	1
+3	COX2	NP_620330.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	1	8	2	2	0	9	9	0	2	6	1	2	4	1	4	8	12	2	1	6	6	0	2	7	7	0	0	1	4	0	8	12	10	1	4	5	7	0	1	3	4	0	0	3	0	7	6	0	1	8	4	0	4	8	12	3	0	1	8	0	1	0	0	0
+4	ATP8	NP_620331.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	2	3	1	1	1	1	3	0	0	0	0	0	5	0	0	0	3	0	1	2	4	0	1	0	2	0	0	0	0	0	3	0	1	1	4	7	2	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_620332.2	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	0	9	7	1	2	1	5	0	0	3	0	1	4	0	4	18	29	3	3	6	8	0	3	1	8	0	0	2	3	0	5	13	11	1	4	9	11	0	2	7	3	0	0	4	0	4	1	0	3	9	4	0	0	2	4	0	0	5	4	0	1	0	0	0
+6	COX3	NP_620333.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	5	18	4	0	3	7	5	0	1	10	0	1	11	1	2	6	18	2	1	7	4	0	3	13	7	0	0	1	4	0	5	12	8	1	1	8	13	0	0	5	5	0	1	4	0	7	7	0	1	7	10	0	1	3	6	2	1	7	10	2	0	0	0	0
+7	ND3	NP_620334.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	1	7	2	0	1	3	4	0	0	3	0	1	5	0	1	7	15	1	0	2	5	0	0	0	4	0	0	0	2	0	4	7	3	1	1	6	3	0	1	2	1	0	0	1	0	0	1	0	1	4	1	1	0	3	5	1	0	1	2	2	1	0	0	0
+8	ND4L	NP_620335.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	1	4	5	0	0	5	3	0	0	2	0	3	1	0	1	1	12	0	1	1	1	0	1	5	1	1	0	0	2	0	0	4	6	2	2	5	2	1	1	2	0	0	0	3	1	0	1	0	0	5	3	1	0	1	2	1	0	3	0	1	1	0	0	0
+9	ND4	NP_620336.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	2	12	11	1	2	11	13	1	0	13	0	3	11	1	2	23	62	4	4	11	10	0	3	14	15	1	1	2	8	0	9	33	24	1	7	23	19	0	2	16	7	1	1	10	0	3	3	0	6	11	14	0	1	1	8	1	2	8	6	1	0	0	0	0
+10	ND5	NP_620337.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	7	25	10	0	3	16	18	2	2	12	0	5	11	1	13	30	44	4	2	9	14	1	3	8	18	2	2	5	2	0	13	43	29	3	10	33	33	3	4	26	21	1	1	10	2	3	3	2	8	22	14	1	0	6	13	0	4	11	15	1	1	0	0	0
+11	CYTB	NP_620338.1	Haematopus ater	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Haematopodidae, Haematopus	5	23	3	0	2	10	11	0	2	10	2	3	11	0	5	18	38	4	1	12	12	1	5	8	7	1	0	4	3	1	6	25	10	1	3	11	11	0	2	19	8	2	1	1	0	6	8	0	6	12	8	0	2	4	7	0	5	9	10	1	1	0	0	0

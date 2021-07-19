@@ -1,65 +1,13 @@
-	YP_009473683.1|ND1	YP_009473684.1|ND2	YP_009473685.1|COX1	YP_009473686.1|COX2	YP_009473687.1|ATP8	YP_009473688.1|ATP6	YP_009473689.1|COX3	YP_009473690.1|ND3	YP_009473691.1|ND4L	YP_009473692.1|ND4	YP_009473693.1|ND5	YP_009473695.1|CYTB
-TTT	11	3	13	4	2	9	9	6	0	7	17	6
-TTC	7	5	29	5	1	6	15	3	8	9	23	22
-TTA	11	17	8	7	2	3	6	4	4	18	10	12
-TTG	0	0	0	1	0	1	1	0	0	3	2	0
-TCT	5	2	6	2	0	1	3	0	1	5	4	3
-TCC	1	7	7	6	0	1	3	4	4	9	10	6
-TCA	13	8	13	5	1	1	5	2	1	8	18	12
-TCG	0	1	0	1	0	0	0	0	0	1	1	1
-TAT	3	4	9	3	0	2	3	0	0	6	5	4
-TAC	10	4	9	6	0	1	7	2	0	8	6	11
-TGT	0	1	0	1	0	0	0	0	0	2	1	3
-TGC	0	0	1	1	0	0	2	1	3	3	4	0
-TGA	6	10	17	5	4	3	11	4	1	18	10	13
-TGG	2	1	0	0	1	2	1	1	0	2	4	0
-CTT	4	5	18	6	1	13	9	7	4	14	21	9
-CTC	8	12	11	2	0	6	4	5	2	5	9	7
-CTA	32	27	22	11	1	23	12	8	11	38	40	28
-CTG	5	5	3	2	0	2	1	1	2	8	11	5
-CCT	4	2	4	0	2	3	3	1	1	5	8	0
-CCC	13	4	5	4	4	5	2	3	0	11	7	5
-CCA	6	11	15	9	3	8	6	4	1	11	9	15
-CCG	1	2	4	1	0	2	1	0	0	0	2	1
-CAT	1	2	6	2	0	1	5	0	2	3	2	2
-CAC	3	4	12	8	2	2	11	1	2	9	12	10
-CAA	7	10	6	8	1	8	7	2	3	12	13	6
-CAG	0	3	1	0	0	0	2	1	0	1	4	0
-CGT	0	0	1	1	0	2	2	0	0	0	1	2
-CGC	0	0	1	1	0	0	1	0	2	1	2	1
-CGA	6	4	5	3	0	4	2	2	1	7	7	3
-CGG	2	0	2	1	0	0	0	0	0	3	1	2
-ATT	13	21	24	12	4	13	8	7	2	28	34	15
-ATC	7	4	13	6	2	7	7	2	0	16	19	13
-ATA	10	13	15	8	1	5	5	1	3	23	33	8
-ATG	3	6	9	4	1	5	3	1	2	4	5	5
-ACT	3	5	5	4	2	3	1	0	2	6	4	3
-ACC	3	19	8	3	1	7	8	5	2	13	19	5
-ACA	10	22	21	4	2	10	13	4	5	17	25	13
-ACG	1	1	1	0	0	0	1	0	0	3	6	2
-AAT	8	6	9	1	1	4	1	1	1	6	7	5
-AAC	5	7	7	3	3	6	0	2	1	6	25	12
-AAA	6	9	8	4	3	1	2	1	0	11	18	8
-AAG	1	0	0	0	0	0	0	0	0	0	5	2
-AGT	1	1	1	0	0	0	0	0	1	1	2	0
-AGC	3	5	3	5	1	4	3	0	3	5	11	1
-GTT	3	1	12	7	0	4	3	2	0	3	10	3
-GTC	4	2	5	1	0	1	4	1	0	3	8	9
-GTA	13	5	19	12	1	8	9	1	2	9	8	14
-GTG	2	2	8	0	0	4	0	1	0	1	4	0
-GCT	3	5	11	3	1	5	4	0	0	3	9	5
-GCC	15	16	23	8	1	9	8	4	6	13	18	10
-GCA	16	17	13	4	0	6	9	4	5	17	18	13
-GCG	0	1	1	1	0	1	0	0	1	1	2	3
-GAT	0	1	6	2	0	0	2	2	0	1	5	4
-GAC	4	2	10	11	1	1	3	2	1	2	9	8
-GAA	10	4	8	16	3	4	7	6	2	10	9	4
-GAG	1	1	2	0	1	0	3	0	1	1	3	1
-GGT	3	2	12	0	0	2	2	1	1	5	0	3
-GGC	4	3	8	3	0	4	6	1	1	7	9	5
-GGA	7	10	18	4	0	2	12	5	3	10	18	13
-GGG	4	3	8	2	0	2	3	0	0	8	4	4
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009473683.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	11	7	11	0	5	1	13	0	3	10	0	0	6	2	4	8	32	5	4	13	6	1	1	3	7	0	0	0	6	2	13	7	10	3	3	3	10	1	8	5	6	1	1	3	3	4	13	2	3	15	16	0	0	4	10	1	3	4	7	4	0	1	0	0
+1	ND2	YP_009473684.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	3	5	17	0	2	7	8	1	4	4	1	0	10	1	5	12	27	5	2	4	11	2	2	4	10	3	0	0	4	0	21	4	13	6	5	19	22	1	6	7	9	0	1	5	1	2	5	2	5	16	17	1	1	2	4	1	2	3	10	3	0	0	0	0
+2	COX1	YP_009473685.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	13	29	8	0	6	7	13	0	9	9	0	1	17	0	18	11	22	3	4	5	15	4	6	12	6	1	1	1	5	2	24	13	15	9	5	8	21	1	9	7	8	0	1	3	12	5	19	8	11	23	13	1	6	10	8	2	12	8	18	8	1	0	0	0
+3	COX2	YP_009473686.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	4	5	7	1	2	6	5	1	3	6	1	1	5	0	6	2	11	2	0	4	9	1	2	8	8	0	1	1	3	1	12	6	8	4	4	3	4	0	1	3	4	0	0	5	7	1	12	0	3	8	4	1	2	11	16	0	0	3	4	2	1	0	0	0
+4	ATP8	YP_009473687.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	2	1	2	0	0	0	1	0	0	0	0	0	4	1	1	0	1	0	2	4	3	0	0	2	1	0	0	0	0	0	4	2	1	1	2	1	2	0	1	3	3	0	0	1	0	0	1	0	1	1	0	0	0	1	3	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009473688.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	9	6	3	1	1	1	1	0	2	1	0	0	3	2	13	6	23	2	3	5	8	2	1	2	8	0	2	0	4	0	13	7	5	5	3	7	10	0	4	6	1	0	0	4	4	1	8	4	5	9	6	1	0	1	4	0	2	4	2	2	1	0	0	0
+6	COX3	YP_009473689.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	9	15	6	1	3	3	5	0	3	7	0	2	11	1	9	4	12	1	3	2	6	1	5	11	7	2	2	1	2	0	8	7	5	3	1	8	13	1	1	0	2	0	0	3	3	4	9	0	4	8	9	0	2	3	7	3	2	6	12	3	0	0	0	0
+7	ND3	YP_009473690.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	6	3	4	0	0	4	2	0	0	2	0	1	4	1	7	5	8	1	1	3	4	0	0	1	2	1	0	0	2	0	7	2	1	1	0	5	4	0	1	2	1	0	0	0	2	1	1	1	0	4	4	0	2	2	6	0	1	1	5	0	0	0	0	0
+8	ND4L	YP_009473691.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	0	8	4	0	1	4	1	0	0	0	0	3	1	0	4	2	11	2	1	0	1	0	2	2	3	0	0	2	1	0	2	0	3	2	2	2	5	0	1	1	0	0	1	3	0	0	2	0	0	6	5	1	0	1	2	1	1	1	3	0	1	0	0	0
+9	ND4	YP_009473692.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	7	9	18	3	5	9	8	1	6	8	2	3	18	2	14	5	38	8	5	11	11	0	3	9	12	1	0	1	7	3	28	16	23	4	6	13	17	3	6	6	11	0	1	5	3	3	9	1	3	13	17	1	1	2	10	1	5	7	10	8	0	0	0	0
+10	ND5	YP_009473693.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	17	23	10	2	4	10	18	1	5	6	1	4	10	4	21	9	40	11	8	7	9	2	2	12	13	4	1	2	7	1	34	19	33	5	4	19	25	6	7	25	18	5	2	11	10	8	8	4	9	18	18	2	5	9	9	3	0	9	18	4	1	0	0	0
+11	CYTB	YP_009473695.1	Microphysogobio kiatingensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	6	22	12	0	3	6	12	1	4	11	3	0	13	0	9	7	28	5	0	5	15	1	2	10	6	0	2	1	3	2	15	13	8	5	3	5	13	2	5	12	8	2	0	1	3	9	14	0	5	10	13	3	4	8	4	1	3	5	13	4	0	0	0	0

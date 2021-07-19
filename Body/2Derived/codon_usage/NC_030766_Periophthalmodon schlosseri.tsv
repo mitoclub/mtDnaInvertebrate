@@ -1,65 +1,13 @@
-	YP_009271154.1|ND1	YP_009271155.1|ND2	YP_009271156.1|COX1	YP_009271157.1|COX2	YP_009271158.1|ATP8	YP_009271159.1|ATP6	YP_009271160.1|COX3	YP_009271161.1|ND3	YP_009271162.1|ND4L	YP_009271163.1|ND4	YP_009271164.1|ND5	YP_009271166.1|CYTB
-TTT	11	7	23	5	2	11	11	6	3	9	26	17
-TTC	8	2	18	5	2	2	12	3	4	7	19	16
-TTA	14	11	12	5	1	17	5	6	1	21	21	9
-TTG	1	1	2	0	0	0	0	0	1	1	2	0
-TCT	7	3	12	1	1	1	2	4	3	4	10	6
-TCC	5	8	5	4	2	4	3	0	3	11	10	9
-TCA	4	5	9	4	1	0	4	3	1	9	8	6
-TCG	0	0	1	0	0	0	0	0	0	0	0	0
-TAT	8	3	12	7	0	1	6	2	0	10	7	7
-TAC	4	4	6	2	0	3	7	0	0	2	5	8
-TGT	1	1	0	1	0	0	2	1	2	3	2	1
-TGC	0	0	1	1	0	0	1	0	1	2	4	2
-TGA	6	8	16	5	5	5	12	4	1	15	10	11
-TGG	2	3	1	0	0	0	0	1	0	2	4	1
-CTT	23	29	19	11	1	12	10	10	11	21	33	20
-CTC	10	16	15	4	0	8	4	6	5	17	17	15
-CTA	17	20	16	5	1	15	8	4	8	29	24	10
-CTG	3	5	2	2	1	2	2	1	1	4	3	7
-CCT	7	5	8	6	3	9	5	1	1	6	14	9
-CCC	12	11	9	3	3	7	6	6	0	14	14	8
-CCA	5	5	11	5	3	2	2	2	0	6	6	4
-CCG	0	0	0	0	0	0	0	0	0	0	0	1
-CAT	2	1	7	6	1	2	4	0	3	3	5	4
-CAC	3	6	13	3	0	1	11	0	2	9	11	8
-CAA	6	13	7	10	2	6	8	2	2	10	18	6
-CAG	1	1	1	0	1	2	0	1	0	2	1	1
-CGT	1	1	1	1	0	0	1	1	0	1	0	1
-CGC	1	1	2	1	0	1	0	1	0	3	1	3
-CGA	5	2	5	3	0	5	3	0	2	6	6	4
-CGG	1	0	0	1	0	0	1	0	0	1	1	0
-ATT	15	14	27	20	4	11	11	8	0	26	35	21
-ATC	7	9	11	0	0	7	5	2	0	7	17	9
-ATA	6	13	13	7	0	7	6	0	2	21	20	5
-ATG	2	3	11	4	1	3	2	2	2	8	5	4
-ACT	1	11	6	5	3	1	2	1	1	11	14	9
-ACC	6	18	9	2	0	7	6	4	2	17	25	6
-ACA	12	18	20	5	3	13	15	1	7	18	20	7
-ACG	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	7	6	2	2	1	4	1	0	1	6	15	9
-AAC	4	6	14	3	3	5	2	2	2	7	16	9
-AAA	7	8	8	3	2	1	1	1	0	8	17	8
-AAG	0	0	0	0	0	0	0	0	0	1	3	1
-AGT	1	1	0	1	0	1	0	0	1	2	1	0
-AGC	3	6	4	2	1	3	3	0	1	3	10	1
-GTT	2	3	9	8	0	7	8	3	1	3	12	6
-GTC	2	0	5	4	2	2	2	2	0	4	6	3
-GTA	11	4	22	7	2	4	8	0	1	9	7	12
-GTG	2	0	4	2	0	0	0	1	0	1	2	3
-GCT	6	1	17	3	0	10	2	3	2	7	12	6
-GCC	13	12	15	6	1	6	11	4	5	16	25	10
-GCA	17	20	15	12	0	3	9	1	6	15	16	14
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	2	1	8	7	0	1	2	2	0	2	4	7
-GAC	2	0	6	5	0	0	3	2	1	2	6	4
-GAA	9	5	7	11	0	4	8	4	2	7	10	3
-GAG	2	0	3	2	1	0	1	2	1	4	2	2
-GGT	3	1	8	0	0	0	3	0	2	2	5	3
-GGC	6	6	13	3	0	4	7	3	2	17	9	9
-GGA	5	9	19	4	0	7	11	1	1	4	14	10
-GGG	3	1	7	1	0	0	2	2	0	4	2	5
-TAA	1	1	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009271154.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	11	8	14	1	7	5	4	0	8	4	1	0	6	2	23	10	17	3	7	12	5	0	2	3	6	1	1	1	5	1	15	7	6	2	1	6	12	0	7	4	7	0	1	3	2	2	11	2	6	13	17	0	2	2	9	2	3	6	5	3	1	0	0	0
+1	ND2	YP_009271155.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	7	2	11	1	3	8	5	0	3	4	1	0	8	3	29	16	20	5	5	11	5	0	1	6	13	1	1	1	2	0	14	9	13	3	11	18	18	0	6	6	8	0	1	6	3	0	4	0	1	12	20	0	1	0	5	0	1	6	9	1	1	0	0	0
+2	COX1	YP_009271156.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	23	18	12	2	12	5	9	1	12	6	0	1	16	1	19	15	16	2	8	9	11	0	7	13	7	1	1	2	5	0	27	11	13	11	6	9	20	0	2	14	8	0	0	4	9	5	22	4	17	15	15	0	8	6	7	3	8	13	19	7	1	0	0	0
+3	COX2	YP_009271157.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	5	5	5	0	1	4	4	0	7	2	1	1	5	0	11	4	5	2	6	3	5	0	6	3	10	0	1	1	3	1	20	0	7	4	5	2	5	0	2	3	3	0	1	2	8	4	7	2	3	6	12	0	7	5	11	2	0	3	4	1	0	0	0	0
+4	ATP8	YP_009271158.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	2	2	1	0	1	2	1	0	0	0	0	0	5	0	1	0	1	1	3	3	3	0	1	0	2	1	0	0	0	0	4	0	0	1	3	0	3	0	1	3	2	0	0	1	0	2	2	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009271159.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	11	2	17	0	1	4	0	0	1	3	0	0	5	0	12	8	15	2	9	7	2	0	2	1	6	2	0	1	5	0	11	7	7	3	1	7	13	0	4	5	1	0	1	3	7	2	4	0	10	6	3	0	1	0	4	0	0	4	7	0	0	0	0	0
+6	COX3	YP_009271160.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	11	12	5	0	2	3	4	0	6	7	2	1	12	0	10	4	8	2	5	6	2	0	4	11	8	0	1	0	3	1	11	5	6	2	2	6	15	0	1	2	1	0	0	3	8	2	8	0	2	11	9	0	2	3	8	1	3	7	11	2	0	0	0	0
+7	ND3	YP_009271161.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	6	3	6	0	4	0	3	0	2	0	1	0	4	1	10	6	4	1	1	6	2	0	0	0	2	1	1	1	0	0	8	2	0	2	1	4	1	0	0	2	1	0	0	0	3	2	0	1	3	4	1	0	2	2	4	2	0	3	1	2	0	0	0	0
+8	ND4L	YP_009271162.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	3	4	1	1	3	3	1	0	0	0	2	1	1	0	11	5	8	1	1	0	0	0	3	2	2	0	0	0	2	0	0	0	2	2	1	2	7	0	1	2	0	0	1	1	1	0	1	0	2	5	6	0	0	1	2	1	2	2	1	0	1	0	0	0
+9	ND4	YP_009271163.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	9	7	21	1	4	11	9	0	10	2	3	2	15	2	21	17	29	4	6	14	6	0	3	9	10	2	1	3	6	1	26	7	21	8	11	17	18	0	6	7	8	1	2	3	3	4	9	1	7	16	15	0	2	2	7	4	2	17	4	4	0	0	0	0
+10	ND5	YP_009271164.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	26	19	21	2	10	10	8	0	7	5	2	4	10	4	33	17	24	3	14	14	6	0	5	11	18	1	0	1	6	1	35	17	20	5	14	25	20	0	15	16	17	3	1	10	12	6	7	2	12	25	16	0	4	6	10	2	5	9	14	2	1	0	0	0
+11	CYTB	YP_009271166.1	Periophthalmodon schlosseri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Periophthalmodon	17	16	9	0	6	9	6	0	7	8	1	2	11	1	20	15	10	7	9	8	4	1	4	8	6	1	1	3	4	0	21	9	5	4	9	6	7	0	9	9	8	1	0	1	6	3	12	3	6	10	14	0	7	4	3	2	3	9	10	5	0	0	0	0

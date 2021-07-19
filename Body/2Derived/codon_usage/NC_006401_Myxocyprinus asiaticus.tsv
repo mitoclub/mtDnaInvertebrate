@@ -1,65 +1,13 @@
-	YP_138240.1|ND1	YP_138241.1|ND2	YP_138242.1|COX1	YP_138243.1|COX2	YP_138244.1|ATP8	YP_138245.1|ATP6	YP_138246.1|COX3	YP_138247.1|ND3	YP_138248.1|ND4L	YP_138249.1|ND4	YP_138250.1|ND5	YP_138252.1|CYTB
-TTT	6	7	23	7	2	6	4	8	4	7	15	13
-TTC	11	3	19	2	2	4	19	1	4	9	24	17
-TTA	3	6	7	5	1	6	4	4	4	14	10	5
-TTG	2	4	2	2	0	5	0	0	1	2	4	1
-TCT	2	1	6	2	0	0	3	1	1	5	4	4
-TCC	6	5	8	6	1	1	3	2	2	9	16	10
-TCA	6	8	9	4	1	3	3	3	3	8	11	7
-TCG	4	0	2	1	0	0	1	0	0	1	2	1
-TAT	3	2	7	3	0	3	4	1	0	3	1	5
-TAC	10	6	11	6	0	1	8	1	0	9	9	9
-TGT	0	0	0	1	0	0	1	1	1	1	3	0
-TGC	0	2	1	1	0	0	1	0	2	4	4	3
-TGA	5	7	13	5	5	2	9	4	0	15	11	9
-TGG	3	4	4	0	0	3	3	1	1	5	4	4
-CTT	3	8	20	4	1	4	6	4	3	11	12	9
-CTC	8	12	6	5	0	7	7	6	4	13	17	7
-CTA	31	22	14	10	1	21	12	8	9	31	41	23
-CTG	11	17	12	2	0	5	5	4	2	15	7	10
-CCT	3	7	5	2	0	2	2	0	0	2	2	4
-CCC	7	7	11	4	2	8	3	6	0	3	16	4
-CCA	7	7	10	6	5	6	7	1	2	18	8	13
-CCG	7	2	2	2	0	1	0	0	0	4	1	0
-CAT	1	0	4	6	1	2	3	0	1	5	4	4
-CAC	3	7	15	4	1	2	12	1	3	8	11	8
-CAA	7	10	6	8	1	8	6	2	2	10	18	6
-CAG	0	4	2	0	0	0	3	1	1	3	8	0
-CGT	0	1	1	0	0	0	2	0	0	2	0	0
-CGC	1	0	1	3	0	1	3	0	1	1	2	2
-CGA	4	3	5	2	0	5	1	2	2	6	6	6
-CGG	3	1	1	1	0	0	0	1	0	2	3	0
-ATT	9	14	21	11	2	12	8	6	1	24	26	15
-ATC	14	6	16	7	1	10	8	2	0	12	22	16
-ATA	10	9	14	8	2	7	5	2	3	20	18	6
-ATG	4	9	10	4	1	4	2	1	2	9	9	6
-ACT	2	7	6	2	0	4	3	1	2	2	9	2
-ACC	9	13	7	4	3	9	7	3	2	17	19	11
-ACA	5	9	18	2	1	4	12	4	1	19	22	8
-ACG	2	7	4	1	0	5	2	0	1	3	7	1
-AAT	2	1	3	3	2	1	0	1	1	3	10	4
-AAC	9	8	12	3	2	8	1	1	1	7	17	13
-AAA	3	9	8	4	1	0	2	1	0	7	17	5
-AAG	4	0	0	0	1	1	0	0	0	3	5	4
-AGT	0	3	0	0	1	0	0	0	2	1	5	1
-AGC	4	6	5	3	0	5	2	1	1	6	9	1
-GTT	3	3	10	4	1	4	3	1	1	2	9	6
-GTC	6	6	6	5	0	2	3	1	0	7	9	6
-GTA	6	5	22	8	2	10	6	2	2	6	9	11
-GTG	6	2	7	3	1	4	3	0	0	5	2	3
-GCT	5	9	5	2	1	1	3	2	3	6	10	2
-GCC	17	13	28	9	2	8	10	2	5	18	29	13
-GCA	12	17	13	5	1	5	7	4	6	13	11	14
-GCG	2	3	3	1	0	1	3	1	1	1	4	4
-GAT	1	0	5	2	0	1	3	0	0	1	6	1
-GAC	3	3	9	11	1	0	2	4	1	2	10	9
-GAA	8	3	10	13	2	4	8	2	1	8	8	7
-GAG	3	2	1	2	1	0	2	4	2	3	4	1
-GGT	0	1	7	2	0	0	1	1	1	2	0	3
-GGC	4	4	8	1	0	5	6	1	0	9	11	5
-GGA	9	11	21	5	1	6	12	4	4	11	13	10
-GGG	5	2	10	1	0	0	2	1	1	7	6	8
-TAA	0	0	1	0	1	1	1	0	1	0	0	0
-TAG	1	1	0	0	0	0	0	1	0	1	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_138240.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	6	11	3	2	2	6	6	4	3	10	0	0	5	3	3	8	31	11	3	7	7	7	1	3	7	0	0	1	4	3	9	14	10	4	2	9	5	2	2	9	3	4	0	4	3	6	6	6	5	17	12	2	1	3	8	3	0	4	9	5	0	1	0	0
+1	ND2	YP_138241.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	7	3	6	4	1	5	8	0	2	6	0	2	7	4	8	12	22	17	7	7	7	2	0	7	10	4	1	0	3	1	14	6	9	9	7	13	9	7	1	8	9	0	3	6	3	6	5	2	9	13	17	3	0	3	3	2	1	4	11	2	0	1	0	0
+2	COX1	YP_138242.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	23	19	7	2	6	8	9	2	7	11	0	1	13	4	20	6	14	12	5	11	10	2	4	15	6	2	1	1	5	1	21	16	14	10	6	7	18	4	3	12	8	0	0	5	10	6	22	7	5	28	13	3	5	9	10	1	7	8	21	10	1	0	0	0
+3	COX2	YP_138243.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	7	2	5	2	2	6	4	1	3	6	1	1	5	0	4	5	10	2	2	4	6	2	6	4	8	0	0	3	2	1	11	7	8	4	2	4	2	1	3	3	4	0	0	3	4	5	8	3	2	9	5	1	2	11	13	2	2	1	5	1	0	0	0	0
+4	ATP8	YP_138244.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	2	2	1	0	0	1	1	0	0	0	0	0	5	0	1	0	1	0	0	2	5	0	1	1	1	0	0	0	0	0	2	1	2	1	0	3	1	0	2	2	1	1	1	0	1	0	2	1	1	2	1	0	0	1	2	1	0	0	1	0	1	0	0	0
+5	ATP6	YP_138245.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	6	4	6	5	0	1	3	0	3	1	0	0	2	3	4	7	21	5	2	8	6	1	2	2	8	0	0	1	5	0	12	10	7	4	4	9	4	5	1	8	0	1	0	5	4	2	10	4	1	8	5	1	1	0	4	0	0	5	6	0	1	0	0	0
+6	COX3	YP_138246.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	4	19	4	0	3	3	3	1	4	8	1	1	9	3	6	7	12	5	2	3	7	0	3	12	6	3	2	3	1	0	8	8	5	2	3	7	12	2	0	1	2	0	0	2	3	3	6	3	3	10	7	3	3	2	8	2	1	6	12	2	1	0	0	0
+7	ND3	YP_138247.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	8	1	4	0	1	2	3	0	1	1	1	0	4	1	4	6	8	4	0	6	1	0	0	1	2	1	0	0	2	1	6	2	2	1	1	3	4	0	1	1	1	0	0	1	1	1	2	0	2	2	4	1	0	4	2	4	1	1	4	1	0	1	0	0
+8	ND4L	YP_138248.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	4	4	4	1	1	2	3	0	0	0	1	2	0	1	3	4	9	2	0	0	2	0	1	3	2	1	0	1	2	0	1	0	3	2	2	2	1	1	1	1	0	0	2	1	1	0	2	0	3	5	6	1	0	1	1	2	1	0	4	1	1	0	0	0
+9	ND4	YP_138249.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	7	9	14	2	5	9	8	1	3	9	1	4	15	5	11	13	31	15	2	3	18	4	5	8	10	3	2	1	6	2	24	12	20	9	2	17	19	3	3	7	7	3	1	6	2	7	6	5	6	18	13	1	1	2	8	3	2	9	11	7	0	1	0	0
+10	ND5	YP_138250.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	15	24	10	4	4	16	11	2	1	9	3	4	11	4	12	17	41	7	2	16	8	1	4	11	18	8	0	2	6	3	26	22	18	9	9	19	22	7	10	17	17	5	5	9	9	9	9	2	10	29	11	4	6	10	8	4	0	11	13	6	0	0	0	0
+11	CYTB	YP_138252.1	Myxocyprinus asiaticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Catostomidae, Myxocyprinus	13	17	5	1	4	10	7	1	5	9	0	3	9	4	9	7	23	10	4	4	13	0	4	8	6	0	0	2	6	0	15	16	6	6	2	11	8	1	4	13	5	4	1	1	6	6	11	3	2	13	14	4	1	9	7	1	3	5	10	8	0	0	0	0

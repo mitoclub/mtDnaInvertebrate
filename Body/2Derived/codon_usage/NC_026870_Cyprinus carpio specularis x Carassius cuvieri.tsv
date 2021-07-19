@@ -1,65 +1,13 @@
-	YP_009131615.1|ND1	YP_009131616.1|ND2	YP_009131617.1|COX1	YP_009131618.1|COX2	YP_009131619.1|ATP8	YP_009131620.1|ATP6	YP_009131621.1|COX3	YP_009131622.1|ND3	YP_009131623.1|ND4L	YP_009131624.1|ND4	YP_009131625.1|ND5	YP_009131627.1|CYTB
-TTT	4	3	15	5	1	8	6	4	3	7	11	5
-TTC	13	7	25	3	2	4	16	5	5	10	28	25
-TTA	9	9	8	5	4	6	6	2	5	13	10	6
-TTG	0	0	1	0	0	0	0	0	0	0	1	0
-TCT	1	4	5	3	1	0	2	1	1	1	2	3
-TCC	4	4	8	6	1	0	3	3	3	11	10	6
-TCA	11	7	12	4	1	3	6	1	2	10	17	11
-TCG	2	1	2	0	0	0	0	0	0	2	0	1
-TAT	7	3	11	5	0	4	5	1	0	5	3	1
-TAC	5	5	8	4	0	1	7	1	0	9	9	13
-TGT	0	0	0	1	0	0	0	0	1	0	1	0
-TGC	0	1	1	1	0	0	2	1	2	5	4	3
-TGA	8	11	16	5	5	5	12	4	1	18	13	12
-TGG	0	0	1	0	0	0	0	1	0	2	0	1
-CTT	7	3	16	7	0	4	5	0	2	11	10	7
-CTC	11	10	11	2	0	8	7	5	2	17	19	8
-CTA	33	37	26	10	1	24	13	17	12	41	46	36
-CTG	1	7	2	5	0	4	2	2	2	5	6	3
-CCT	6	2	6	2	1	1	2	1	0	4	3	3
-CCC	6	5	5	3	1	4	3	1	2	7	9	4
-CCA	12	12	15	9	6	12	7	6	0	13	12	13
-CCG	0	0	2	0	0	1	1	0	0	3	2	1
-CAT	1	1	2	1	1	1	7	0	1	3	3	1
-CAC	4	5	17	9	1	2	9	1	3	9	10	11
-CAA	7	14	8	8	1	8	9	3	3	14	18	6
-CAG	0	0	0	0	0	0	0	0	0	0	2	0
-CGT	0	1	0	1	0	0	1	0	0	1	0	1
-CGC	1	1	1	2	0	1	1	1	1	3	1	1
-CGA	6	2	5	3	0	4	3	1	2	5	9	6
-CGG	1	0	2	0	0	1	0	0	0	2	0	0
-ATT	10	13	21	12	5	11	8	7	2	18	30	16
-ATC	13	15	17	4	1	13	8	1	0	21	29	17
-ATA	10	15	12	9	0	7	6	2	3	23	30	8
-ATG	2	4	11	3	1	3	2	1	2	4	6	5
-ACT	3	3	7	4	3	2	1	2	1	8	5	0
-ACC	6	23	8	2	1	4	7	4	4	11	22	12
-ACA	9	22	19	3	0	11	14	4	3	22	27	12
-ACG	1	1	2	1	0	1	0	0	0	1	1	0
-AAT	2	5	6	4	1	6	1	2	1	3	7	4
-AAC	10	4	9	2	1	4	0	1	1	9	24	13
-AAA	7	9	8	4	3	1	2	1	0	7	20	10
-AAG	0	0	0	0	0	0	0	0	0	2	2	0
-AGT	0	1	0	1	1	0	0	0	0	0	3	0
-AGC	4	6	5	2	1	4	3	0	3	6	7	1
-GTT	1	2	10	5	0	4	3	1	1	2	6	6
-GTC	2	1	5	4	0	1	3	0	0	4	6	5
-GTA	16	3	24	8	2	11	9	2	1	12	13	12
-GTG	1	0	4	4	0	1	0	1	0	0	0	0
-GCT	0	4	7	3	1	7	4	0	4	5	3	3
-GCC	21	17	22	7	0	6	11	4	3	14	29	9
-GCA	12	17	17	7	1	8	8	4	5	14	19	17
-GCG	1	1	0	1	0	0	0	0	1	0	2	0
-GAT	0	0	3	0	0	0	3	2	0	0	1	0
-GAC	4	4	11	12	1	1	2	2	1	3	13	11
-GAA	11	5	10	14	3	4	10	6	3	11	10	6
-GAG	0	0	1	1	0	0	0	0	0	0	1	0
-GGT	0	0	10	0	0	1	2	0	1	6	1	3
-GGC	2	2	5	1	1	1	4	2	1	5	10	6
-GGA	14	14	24	7	0	8	13	4	3	15	19	14
-GGG	2	2	7	1	0	1	2	1	1	3	2	2
-TAA	1	0	1	0	0	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009131615.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	4	13	9	0	1	4	11	2	7	5	0	0	8	0	7	11	33	1	6	6	12	0	1	4	7	0	0	1	6	1	10	13	10	2	3	6	9	1	2	10	7	0	0	4	1	2	16	1	0	21	12	1	0	4	11	0	0	2	14	2	1	0	0	0
+1	ND2	YP_009131616.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	3	7	9	0	4	4	7	1	3	5	0	1	11	0	3	10	37	7	2	5	12	0	1	5	14	0	1	1	2	0	13	15	15	4	3	23	22	1	5	4	9	0	1	6	2	1	3	0	4	17	17	1	0	4	5	0	0	2	14	2	0	0	0	0
+2	COX1	YP_009131617.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	15	25	8	1	5	8	12	2	11	8	0	1	16	1	16	11	26	2	6	5	15	2	2	17	8	0	0	1	5	2	21	17	12	11	7	8	19	2	6	9	8	0	0	5	10	5	24	4	7	22	17	0	3	11	10	1	10	5	24	7	1	0	0	0
+3	COX2	YP_009131618.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	5	3	5	0	3	6	4	0	5	4	1	1	5	0	7	2	10	5	2	3	9	0	1	9	8	0	1	2	3	0	12	4	9	3	4	2	3	1	4	2	4	0	1	2	5	4	8	4	3	7	7	1	0	12	14	1	0	1	7	1	0	0	0	0
+4	ATP8	YP_009131619.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	1	2	4	0	1	1	1	0	0	0	0	0	5	0	0	0	1	0	1	1	6	0	1	1	1	0	0	0	0	0	5	1	0	1	3	1	0	0	1	1	3	0	1	1	0	0	2	0	1	0	1	0	0	1	3	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_009131620.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	8	4	6	0	0	0	3	0	4	1	0	0	5	0	4	8	24	4	1	4	12	1	1	2	8	0	0	1	4	1	11	13	7	3	2	4	11	1	6	4	1	0	0	4	4	1	11	1	7	6	8	0	0	1	4	0	1	1	8	1	0	0	0	0
+6	COX3	YP_009131621.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	6	16	6	0	2	3	6	0	5	7	0	2	12	0	5	7	13	2	2	3	7	1	7	9	9	0	1	1	3	0	8	8	6	2	1	7	14	0	1	0	2	0	0	3	3	3	9	0	4	11	8	0	3	2	10	0	2	4	13	2	0	0	0	0
+7	ND3	YP_009131622.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	4	5	2	0	1	3	1	0	1	1	0	1	4	1	0	5	17	2	1	1	6	0	0	1	3	0	0	1	1	0	7	1	2	1	2	4	4	0	2	1	1	0	0	0	1	0	2	1	0	4	4	0	2	2	6	0	0	2	4	1	0	0	0	0
+8	ND4L	YP_009131623.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	3	5	5	0	1	3	2	0	0	0	1	2	1	0	2	2	12	2	0	2	0	0	1	3	3	0	0	1	2	0	2	0	3	2	1	4	3	0	1	1	0	0	0	3	1	0	1	0	4	3	5	1	0	1	3	0	1	1	3	1	1	0	0	0
+9	ND4	YP_009131624.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	7	10	13	0	1	11	10	2	5	9	0	5	18	2	11	17	41	5	4	7	13	3	3	9	14	0	1	3	5	2	18	21	23	4	8	11	22	1	3	9	7	2	0	6	2	4	12	0	5	14	14	0	0	3	11	0	6	5	15	3	0	0	0	0
+10	ND5	YP_009131625.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	11	28	10	1	2	10	17	0	3	9	1	4	13	0	10	19	46	6	3	9	12	2	3	10	18	2	0	1	9	0	30	29	30	6	5	22	27	1	7	24	20	2	3	7	6	6	13	0	3	29	19	2	1	13	10	1	1	10	19	2	1	0	0	0
+11	CYTB	YP_009131627.1	Cyprinus carpio specularis x Carassius cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinidae intergeneric hybrids	5	25	6	0	3	6	11	1	1	13	0	3	12	1	7	8	36	3	3	4	13	1	1	11	6	0	1	1	6	0	16	17	8	5	0	12	12	0	4	13	10	0	0	1	6	5	12	0	3	9	17	0	0	11	6	0	3	6	14	2	0	0	0	0

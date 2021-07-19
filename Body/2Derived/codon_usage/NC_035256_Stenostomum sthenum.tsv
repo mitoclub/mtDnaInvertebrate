@@ -1,65 +1,11 @@
-	YP_009391128.1|COX1	YP_009391131.1|CYTB	YP_009391132.1|ND6	YP_009391133.1|COX3	YP_009391134.1|ND1	YP_009391135.1|ND3	YP_009391138.1|ND4	YP_009391139.1|ATP6	YP_009391140.1|ND5	YP_009391141.1|ND2
-TTT	29	25	16	18	29	11	39	14	46	32
-TTC	23	21	7	18	12	7	14	10	34	18
-TTA	22	21	12	12	15	5	24	19	29	15
-TTG	5	14	7	5	10	7	5	3	12	13
-TCT	18	11	6	5	8	3	18	7	20	7
-TCC	0	1	4	1	2	2	2	0	1	2
-TCA	10	3	2	2	7	1	5	2	12	2
-TCG	3	2	2	2	2	0	3	0	3	3
-TAT	12	8	6	6	10	0	6	5	10	12
-TAC	8	6	1	2	6	0	8	2	1	5
-TGT	1	1	5	3	7	1	4	2	2	2
-TGC	0	0	0	0	1	0	1	0	2	1
-TGA	15	8	0	9	6	3	5	1	5	5
-TGG	0	2	2	1	2	0	2	1	1	2
-CTT	10	13	2	6	8	1	15	10	17	7
-CTC	1	1	2	0	1	0	4	1	2	1
-CTA	18	10	5	5	8	1	10	6	14	9
-CTG	4	5	0	2	4	0	5	1	9	6
-CCT	9	7	2	5	6	1	4	2	5	5
-CCC	0	0	0	0	1	0	3	0	1	1
-CCA	9	4	0	2	0	1	4	2	1	3
-CCG	0	4	0	1	1	0	0	1	0	0
-CAT	7	4	1	5	0	1	6	1	4	2
-CAC	7	5	0	7	0	1	1	3	3	1
-CAA	4	2	1	5	2	2	4	4	4	8
-CAG	2	1	0	0	2	0	1	1	2	0
-CGT	2	2	0	0	2	0	2	1	0	0
-CGC	0	0	0	0	0	0	0	0	0	0
-CGA	6	3	1	2	4	2	1	1	4	0
-CGG	0	1	0	1	1	1	0	1	1	0
-ATT	35	15	11	14	18	11	28	16	29	25
-ATC	5	4	5	6	5	3	8	4	18	7
-ATA	15	12	13	9	9	8	17	11	27	16
-ATG	11	9	4	3	9	4	15	2	12	13
-ACT	11	7	3	5	6	1	4	5	14	6
-ACC	1	1	1	1	0	0	2	0	6	3
-ACA	12	3	4	5	5	2	5	5	3	2
-ACG	2	1	0	0	0	1	3	1	2	2
-AAT	9	11	5	4	10	2	10	5	10	4
-AAC	11	8	4	2	2	3	8	8	16	5
-AAA	9	15	4	8	4	3	13	4	23	9
-AAG	1	2	2	1	3	1	1	2	2	6
-AGT	8	5	1	1	3	0	8	1	8	2
-AGC	6	2	2	0	2	1	2	1	2	2
-AGA	10	5	8	14	8	4	14	8	19	9
-AGG	2	3	1	2	2	0	3	3	2	4
-GTT	22	14	3	12	4	9	15	13	11	12
-GTC	7	2	0	1	1	0	5	0	0	1
-GTA	11	6	2	7	7	1	4	4	11	3
-GTG	5	3	2	1	5	0	6	4	11	3
-GCT	22	7	2	4	11	3	10	6	10	5
-GCC	3	4	0	2	1	1	6	1	3	0
-GCA	4	6	0	2	3	1	2	2	7	1
-GCG	0	1	0	0	1	0	0	0	1	1
-GAT	12	6	0	3	2	1	1	0	4	2
-GAC	5	1	0	1	1	0	2	2	4	1
-GAA	7	4	1	4	5	1	7	2	8	2
-GAG	1	2	0	2	4	6	2	1	5	4
-GGT	12	5	1	1	2	2	3	4	4	3
-GGC	2	0	1	2	3	0	0	0	2	1
-GGA	22	10	2	9	2	1	6	4	8	3
-GGG	10	5	1	8	3	0	4	1	8	1
-TAA	0	0	0	1	1	0	1	1	0	1
-TAG	1	1	1	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009391128.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	29	23	22	5	18	0	10	3	12	8	1	0	15	0	10	1	18	4	9	0	9	0	7	7	4	2	2	0	6	0	35	5	15	11	11	1	12	2	9	11	9	1	8	6	10	2	22	7	11	5	22	3	4	0	12	5	7	1	12	2	22	10	0	1
+1	CYTB	YP_009391131.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	25	21	21	14	11	1	3	2	8	6	1	0	8	2	13	1	10	5	7	0	4	4	4	5	2	1	2	0	3	1	15	4	12	9	7	1	3	1	11	8	15	2	5	2	5	3	14	2	6	3	7	4	6	1	6	1	4	2	5	0	10	5	0	1
+2	ND6	YP_009391132.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	16	7	12	7	6	4	2	2	6	1	5	0	0	2	2	2	5	0	2	0	0	0	1	0	1	0	0	0	1	0	11	5	13	4	3	1	4	0	5	4	4	2	1	2	8	1	3	0	2	2	2	0	0	0	0	0	1	0	1	1	2	1	0	1
+3	COX3	YP_009391133.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	18	18	12	5	5	1	2	2	6	2	3	0	9	1	6	0	5	2	5	0	2	1	5	7	5	0	0	0	2	1	14	6	9	3	5	1	5	0	4	2	8	1	1	0	14	2	12	1	7	1	4	2	2	0	3	1	4	2	1	2	9	8	1	0
+4	ND1	YP_009391134.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	29	12	15	10	8	2	7	2	10	6	7	1	6	2	8	1	8	4	6	1	0	1	0	0	2	2	2	0	4	1	18	5	9	9	6	0	5	0	10	2	4	3	3	2	8	2	4	1	7	5	11	1	3	1	2	1	5	4	2	3	2	3	1	0
+5	ND3	YP_009391135.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	11	7	5	7	3	2	1	0	0	0	1	0	3	0	1	0	1	0	1	0	1	0	1	1	2	0	0	0	2	1	11	3	8	4	1	0	2	1	2	3	3	1	0	1	4	0	9	0	1	0	3	1	1	0	1	0	1	6	2	0	1	0	0	0
+6	ND4	YP_009391138.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	39	14	24	5	18	2	5	3	6	8	4	1	5	2	15	4	10	5	4	3	4	0	6	1	4	1	2	0	1	0	28	8	17	15	4	2	5	3	10	8	13	1	8	2	14	3	15	5	4	6	10	6	2	0	1	2	7	2	3	0	6	4	1	0
+7	ATP6	YP_009391139.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	14	10	19	3	7	0	2	0	5	2	2	0	1	1	10	1	6	1	2	0	2	1	1	3	4	1	1	0	1	1	16	4	11	2	5	0	5	1	5	8	4	2	1	1	8	3	13	0	4	4	6	1	2	0	0	2	2	1	4	0	4	1	1	0
+8	ND5	YP_009391140.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	46	34	29	12	20	1	12	3	10	1	2	2	5	1	17	2	14	9	5	1	1	0	4	3	4	2	0	0	4	1	29	18	27	12	14	6	3	2	10	16	23	2	8	2	19	2	11	0	11	11	10	3	7	1	4	4	8	5	4	2	8	8	0	0
+9	ND2	YP_009391141.1	Stenostomum sthenum	Eukaryota, Metazoa, Platyhelminthes, Catenulida, Stenostomidae, Stenostomum	32	18	15	13	7	2	2	3	12	5	2	1	5	2	7	1	9	6	5	1	3	0	2	1	8	0	0	0	0	0	25	7	16	13	6	3	2	2	4	5	9	6	2	2	9	4	12	1	3	3	5	0	1	1	2	1	2	4	3	1	3	1	1	0

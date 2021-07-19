@@ -1,65 +1,12 @@
-	YP_009139003.1	YP_009139004.1	YP_009139005.1	YP_009139006.1	YP_009139007.1	YP_009139008.1	YP_009139009.1	YP_009139010.1	YP_009139011.1	YP_009139012.1	YP_009139013.1
-TTT	12	6	26	6	2	7	8	4	6	13	21
-TTC	4	3	16	3	1	6	11	2	2	4	16
-TTA	13	17	14	9	1	7	5	7	5	19	18
-TTG	2	4	3	0	0	1	1	2	0	0	4
-TCT	3	3	8	3	0	2	7	3	2	7	4
-TCC	4	9	6	5	2	1	3	3	1	9	11
-TCA	8	7	12	4	0	1	4	3	3	6	12
-TCG	3	0	0	1	0	0	2	0	0	1	5
-TAT	7	2	10	2	0	2	3	1	0	7	0
-TAC	5	6	8	7	0	1	8	1	0	7	9
-TGT	1	0	0	0	0	0	1	0	1	2	2
-TGC	1	1	1	2	0	0	1	1	2	3	4
-TGA	5	9	14	5	5	3	8	5	1	17	10
-TGG	3	2	3	0	0	2	1	0	0	2	6
-CTT	10	18	16	7	2	13	5	3	4	25	21
-CTC	13	7	7	1	0	4	3	7	4	15	11
-CTA	15	17	15	9	2	20	6	5	7	24	30
-CTG	11	6	7	2	0	1	5	2	4	3	9
-CCT	12	4	10	1	2	5	3	2	0	6	6
-CCC	7	9	4	7	1	7	6	3	1	11	12
-CCA	4	4	11	6	4	5	8	1	1	10	12
-CCG	0	2	3	0	1	2	0	1	0	0	4
-CAT	1	1	3	4	0	2	5	1	2	3	5
-CAC	2	5	15	6	2	1	9	0	2	8	8
-CAA	4	10	8	7	1	5	8	2	3	6	12
-CAG	1	3	0	1	0	3	2	0	0	6	4
-CGT	0	0	2	1	0	1	3	0	0	1	0
-CGC	1	0	1	1	0	0	2	0	2	3	4
-CGA	7	1	4	3	0	5	4	3	1	6	7
-CGG	2	3	1	1	0	0	0	0	0	1	2
-ATT	10	20	29	14	5	20	8	6	1	24	26
-ATC	14	6	9	4	2	3	11	2	0	20	22
-ATA	6	12	12	9	0	10	6	2	4	21	20
-ATG	7	7	12	3	1	2	2	2	1	8	11
-ACT	6	8	3	2	2	6	3	5	2	6	15
-ACC	5	13	9	3	1	5	9	3	3	12	25
-ACA	5	18	21	3	1	10	11	3	2	16	17
-ACG	2	2	2	2	0	1	1	1	1	2	8
-AAT	4	7	7	2	1	6	1	1	0	3	8
-AAC	8	6	9	4	3	5	1	2	3	10	18
-AAA	4	8	7	3	3	0	2	0	0	8	15
-AAG	4	1	1	1	0	1	3	1	0	3	5
-AGT	1	3	2	2	1	0	3	0	1	3	0
-AGC	2	2	2	1	0	3	2	0	3	3	11
-GTT	4	7	16	5	1	5	5	0	0	6	11
-GTC	4	0	3	5	0	3	4	2	0	1	7
-GTA	6	2	20	7	1	5	6	2	1	8	8
-GTG	6	0	4	3	0	1	0	2	0	1	4
-GCT	2	5	12	3	0	4	3	1	2	8	11
-GCC	15	23	21	8	0	7	7	2	7	13	21
-GCA	11	13	14	5	2	8	6	2	3	16	16
-GCG	4	1	1	1	0	0	3	0	1	1	2
-GAT	1	2	8	2	0	0	2	2	0	0	5
-GAC	4	2	7	10	1	1	3	1	1	4	13
-GAA	8	3	9	11	2	3	5	2	2	10	14
-GAG	2	1	2	4	1	1	2	2	1	1	2
-GGT	0	3	7	0	0	1	1	1	0	3	4
-GGC	5	3	10	5	0	5	6	1	2	5	6
-GGA	8	10	18	4	0	2	10	3	3	13	13
-GGG	5	1	11	0	0	2	3	3	0	6	4
-TAA	0	0	1	0	1	1	0	0	1	0	1
-TAG	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009139003.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	12	4	13	2	3	4	8	3	7	5	1	1	5	3	10	13	15	11	12	7	4	0	1	2	4	1	0	1	7	2	10	14	6	7	6	5	5	2	4	8	4	4	1	2	4	4	6	6	2	15	11	4	1	4	8	2	0	5	8	5	0	1	0	0
+1	None	YP_009139004.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	6	3	17	4	3	9	7	0	2	6	0	1	9	2	18	7	17	6	4	9	4	2	1	5	10	3	0	0	1	3	20	6	12	7	8	13	18	2	7	6	8	1	3	2	7	0	2	0	5	23	13	1	2	2	3	1	3	3	10	1	0	0	0	0
+2	None	YP_009139005.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	26	16	14	3	8	6	12	0	10	8	0	1	14	3	16	7	15	7	10	4	11	3	3	15	8	0	2	1	4	1	29	9	12	12	3	9	21	2	7	9	7	1	2	2	16	3	20	4	12	21	14	1	8	7	9	2	7	10	18	11	1	0	0	0
+3	None	YP_009139006.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	6	3	9	0	3	5	4	1	2	7	0	2	5	0	7	1	9	2	1	7	6	0	4	6	7	1	1	1	3	1	14	4	9	3	2	3	3	2	2	4	3	1	2	1	5	5	7	3	3	8	5	1	2	10	11	4	0	5	4	0	0	0	0	0
+4	None	YP_009139007.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	2	1	1	0	0	2	0	0	0	0	0	0	5	0	2	0	2	0	2	1	4	1	0	2	1	0	0	0	0	0	5	2	0	1	2	1	1	0	1	3	3	0	1	0	1	0	1	0	0	0	2	0	0	1	2	1	0	0	0	0	1	0	0	0
+5	None	YP_009139008.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	7	6	7	1	2	1	1	0	2	1	0	0	3	2	13	4	20	1	5	7	5	2	2	1	5	3	1	0	5	0	20	3	10	2	6	5	10	1	6	5	0	1	0	3	5	3	5	1	4	7	8	0	0	1	3	1	1	5	2	2	1	0	0	0
+6	None	YP_009139009.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	8	11	5	1	7	3	4	2	3	8	1	1	8	1	5	3	6	5	3	6	8	0	5	9	8	2	3	2	4	0	8	11	6	2	3	9	11	1	1	1	2	3	3	2	5	4	6	0	3	7	6	3	2	3	5	2	1	6	10	3	0	0	0	0
+7	None	YP_009139010.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	4	2	7	2	3	3	3	0	1	1	0	1	5	0	3	7	5	2	2	3	1	1	1	0	2	0	0	0	3	0	6	2	2	2	5	3	3	1	1	2	0	1	0	0	0	2	2	2	1	2	2	0	2	1	2	2	1	1	3	3	0	0	0	0
+8	None	YP_009139011.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	6	2	5	0	2	1	3	0	0	0	1	2	1	0	4	4	7	4	0	1	1	0	2	2	3	0	0	2	1	0	1	0	4	1	2	3	2	1	0	3	0	0	1	3	0	0	1	0	2	7	3	1	0	1	2	1	0	2	3	0	1	0	0	0
+9	None	YP_009139012.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	13	4	19	0	7	9	6	1	7	7	2	3	17	2	25	15	24	3	6	11	10	0	3	8	6	6	1	3	6	1	24	20	21	8	6	12	16	2	3	10	8	3	3	3	6	1	8	1	8	13	16	1	0	4	10	1	3	5	13	6	0	0	0	0
+10	None	YP_009139013.1	Tanakia himantegus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Acheilognathidae, Tanakia	21	16	18	4	4	11	12	5	0	9	2	4	10	6	21	11	30	9	6	12	12	4	5	8	12	4	0	4	7	2	26	22	20	11	15	25	17	8	8	18	15	5	0	11	11	7	8	4	11	21	16	2	5	13	14	2	4	6	13	4	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_448842.1|ND1	YP_448843.1|ND2	YP_448844.1|COX1	YP_448845.1|COX2	YP_448846.1|ATP8	YP_448847.1|ATP6	YP_448848.1|COX3	YP_448849.1|ND3	YP_448850.1|ND4L	YP_448851.1|ND4	YP_448852.1|ND5	YP_448854.1|CYTB
-TTT	5	3	21	7	0	5	7	3	3	6	9	10
-TTC	16	7	19	2	1	4	14	3	2	12	25	18
-TTA	12	10	15	6	2	19	8	4	4	25	17	7
-TTG	0	1	0	1	0	1	0	0	0	0	0	2
-TCT	1	4	9	5	2	3	2	2	1	7	9	2
-TCC	10	10	5	0	0	1	0	3	4	2	8	5
-TCA	17	6	13	7	2	5	9	2	8	17	22	14
-TCG	0	0	0	0	0	0	0	0	0	3	0	0
-TAT	5	5	11	5	2	1	5	2	1	6	5	5
-TAC	9	5	8	6	0	2	6	1	1	8	9	10
-TGT	0	0	1	2	0	0	1	0	1	1	0	0
-TGC	1	0	0	0	0	0	1	1	3	3	5	3
-TGA	8	11	17	4	5	4	12	5	1	14	10	10
-TGG	0	0	0	1	0	0	0	0	0	0	1	1
-CTT	3	6	8	4	0	5	3	3	4	7	5	6
-CTC	6	6	5	3	3	11	2	5	1	7	14	5
-CTA	31	38	26	13	1	21	18	11	13	42	53	39
-CTG	4	1	4	2	0	3	2	0	0	2	1	1
-CCT	1	1	4	1	0	0	1	0	1	1	4	4
-CCC	4	0	6	0	1	2	1	0	1	3	8	5
-CCA	19	17	17	12	7	11	11	7	0	19	19	15
-CCG	0	0	0	1	0	0	0	1	0	0	0	0
-CAT	2	2	8	6	0	3	5	0	1	5	4	4
-CAC	0	5	12	4	0	1	11	2	3	7	11	7
-CAA	6	14	9	7	2	9	8	2	4	14	14	8
-CAG	0	0	0	0	0	0	0	0	0	0	0	1
-CGT	0	0	2	0	0	0	0	0	0	1	0	1
-CGC	0	0	2	0	0	2	0	1	0	1	2	1
-CGA	7	3	4	5	0	3	5	1	2	9	6	6
-CGG	0	1	0	0	0	0	0	0	0	0	0	0
-ATT	8	11	22	7	1	8	5	4	1	19	22	15
-ATC	17	23	16	13	3	9	7	7	6	22	39	21
-ATA	23	24	29	17	0	11	11	6	6	28	41	15
-ATG	2	4	2	2	1	1	1	1	2	4	3	1
-ACT	3	11	9	4	0	5	2	0	0	13	10	13
-ACC	12	15	14	8	6	8	9	5	4	19	26	12
-ACA	7	25	15	4	4	16	12	4	2	26	33	10
-ACG	0	0	0	0	0	0	1	0	0	3	1	0
-AAT	4	0	8	3	3	3	1	1	0	4	13	0
-AAC	10	14	6	7	4	7	4	2	5	12	20	21
-AAA	8	13	9	4	5	4	2	3	0	11	25	10
-AAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGT	0	3	0	1	0	1	1	0	0	0	0	0
-AGC	1	2	4	1	0	5	3	0	0	6	7	3
-GTT	0	1	7	1	1	4	4	0	0	2	2	0
-GTC	2	0	5	3	0	2	2	1	0	2	2	4
-GTA	6	2	21	7	0	3	10	2	1	6	7	8
-GTG	1	1	5	1	0	0	1	0	1	0	1	0
-GCT	4	3	10	1	0	3	9	2	1	3	5	3
-GCC	12	13	17	4	0	6	4	2	2	16	21	9
-GCA	4	8	17	6	0	2	8	3	1	7	12	7
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	1	0	7	4	1	1	3	1	0	1	1	2
-GAC	3	0	8	4	0	0	1	2	0	1	8	6
-GAA	11	5	9	13	0	3	7	6	1	10	10	5
-GAG	0	0	1	1	0	1	1	0	1	1	0	0
-GGT	0	0	9	0	0	1	4	0	0	2	5	2
-GGC	7	3	12	1	0	1	5	2	3	6	9	9
-GGA	8	9	22	6	0	6	10	3	2	12	12	12
-GGG	1	0	4	1	0	0	1	0	0	1	2	3
-TAA	0	0	0	1	1	1	0	1	1	0	1	0
-TAG	1	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_448842.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	5	16	12	0	1	10	17	0	5	9	0	1	8	0	3	6	31	4	1	4	19	0	2	0	6	0	0	0	7	0	8	17	23	2	3	12	7	0	4	10	8	0	0	1	0	2	6	1	4	12	4	0	1	3	11	0	0	7	8	1	0	1	0	0
+1	ND2	YP_448843.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	3	7	10	1	4	10	6	0	5	5	0	0	11	0	6	6	38	1	1	0	17	0	2	5	14	0	0	0	3	1	11	23	24	4	11	15	25	0	0	14	13	0	3	2	1	0	2	1	3	13	8	0	0	0	5	0	0	3	9	0	0	1	0	0
+2	COX1	YP_448844.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	21	19	15	0	9	5	13	0	11	8	1	0	17	0	8	5	26	4	4	6	17	0	8	12	9	0	2	2	4	0	22	16	29	2	9	14	15	0	8	6	9	0	0	4	7	5	21	5	10	17	17	1	7	8	9	1	9	12	22	4	0	0	0	1
+3	COX2	YP_448845.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	7	2	6	1	5	0	7	0	5	6	2	0	4	1	4	3	13	2	1	0	12	1	6	4	7	0	0	0	5	0	7	13	17	2	4	8	4	0	3	7	4	0	1	1	1	3	7	1	1	4	6	0	4	4	13	1	0	1	6	1	1	0	0	0
+4	ATP8	YP_448846.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	0	1	2	0	2	0	2	0	2	0	0	0	5	0	0	3	1	0	0	1	7	0	0	0	2	0	0	0	0	0	1	3	0	1	0	6	4	0	3	4	5	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_448847.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	5	4	19	1	3	1	5	0	1	2	0	0	4	0	5	11	21	3	0	2	11	0	3	1	9	0	0	2	3	0	8	9	11	1	5	8	16	0	3	7	4	0	1	5	4	2	3	0	3	6	2	0	1	0	3	1	1	1	6	0	1	0	0	0
+6	COX3	YP_448848.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	7	14	8	0	2	0	9	0	5	6	1	1	12	0	3	2	18	2	1	1	11	0	5	11	8	0	0	0	5	0	5	7	11	1	2	9	12	1	1	4	2	0	1	3	4	2	10	1	9	4	8	0	3	1	7	1	4	5	10	1	0	0	0	0
+7	ND3	YP_448849.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	3	3	4	0	2	3	2	0	2	1	0	1	5	0	3	5	11	0	0	0	7	1	0	2	2	0	0	1	1	0	4	7	6	1	0	5	4	0	1	2	3	0	0	0	0	1	2	0	2	2	3	0	1	2	6	0	0	2	3	0	1	0	0	0
+8	ND4L	YP_448850.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	3	2	4	0	1	4	8	0	1	1	1	3	1	0	4	1	13	0	1	1	0	0	1	3	4	0	0	0	2	0	1	6	6	2	0	4	2	0	0	5	0	0	0	0	0	0	1	1	1	2	1	0	0	0	1	1	0	3	2	0	1	0	0	0
+9	ND4	YP_448851.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	6	12	25	0	7	2	17	3	6	8	1	3	14	0	7	7	42	2	1	3	19	0	5	7	14	0	1	1	9	0	19	22	28	4	13	19	26	3	4	12	11	0	0	6	2	2	6	0	3	16	7	0	1	1	10	1	2	6	12	1	0	0	0	0
+10	ND5	YP_448852.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	9	25	17	0	9	8	22	0	5	9	0	5	10	1	5	14	53	1	4	8	19	0	4	11	14	0	0	2	6	0	22	39	41	3	10	26	33	1	13	20	25	1	0	7	2	2	7	1	5	21	12	0	1	8	10	0	5	9	12	2	1	0	0	0
+11	CYTB	YP_448854.1	Indotestudo forstenii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Testudinidae, Indotestudo	10	18	7	2	2	5	14	0	5	10	0	3	10	1	6	5	39	1	4	5	15	0	4	7	8	1	1	1	6	0	15	21	15	1	13	12	10	0	0	21	10	0	0	3	0	4	8	0	3	9	7	0	2	6	5	0	2	9	12	3	0	0	0	0

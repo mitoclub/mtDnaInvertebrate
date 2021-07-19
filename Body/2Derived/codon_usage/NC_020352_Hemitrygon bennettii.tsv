@@ -1,65 +1,13 @@
-	YP_007475337.1|ND1	YP_007475338.1|ND2	YP_007475339.1|COX1	YP_007475340.1|COX2	YP_007475341.1|ATP8	YP_007475342.1|ATP6	YP_007475343.1|COX3	YP_007475344.1|ND3	YP_007475345.1|ND4L	YP_007475346.1|ND4	YP_007475347.1|ND5	YP_007475349.2|CYTB
-TTT	11	7	17	4	2	4	10	6	1	7	13	8
-TTC	9	3	22	5	4	11	13	2	4	12	31	25
-TTA	14	17	14	9	2	14	4	7	4	10	16	5
-TTG	1	1	3	0	0	0	2	1	0	1	0	0
-TCT	3	4	9	2	2	0	2	0	2	4	9	6
-TCC	9	7	6	6	0	1	2	4	6	13	16	6
-TCA	6	16	10	4	0	5	6	1	5	10	19	7
-TCG	0	0	0	1	0	0	0	0	0	0	1	0
-TAT	9	3	14	5	0	2	5	0	0	5	6	5
-TAC	3	5	7	4	1	2	7	2	0	8	7	8
-TGT	0	0	1	1	0	0	1	1	3	1	4	3
-TGC	0	1	0	1	0	0	1	0	1	3	1	0
-TGA	7	10	15	5	5	3	11	4	1	17	14	12
-TGG	1	0	2	0	0	2	1	1	0	1	0	1
-CTT	10	12	14	5	0	13	8	4	2	22	16	11
-CTC	17	28	13	6	1	7	10	10	5	23	29	20
-CTA	25	18	17	7	2	18	6	8	8	36	47	23
-CTG	0	0	1	0	0	0	2	1	2	2	0	0
-CCT	4	5	6	4	1	2	1	1	1	6	6	5
-CCC	7	5	8	2	2	4	6	4	1	10	8	7
-CCA	10	11	16	7	5	9	5	3	1	11	15	9
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	3	2	10	6	0	0	8	0	1	8	7	5
-CAC	2	4	9	4	0	3	9	0	2	5	6	6
-CAA	7	10	9	10	3	7	10	2	1	11	20	8
-CAG	0	1	0	0	0	2	0	0	0	1	1	0
-CGT	2	0	2	4	0	1	0	0	1	1	2	2
-CGC	0	1	0	1	0	1	0	2	1	2	2	2
-CGA	6	2	5	1	0	3	5	0	0	8	3	4
-CGG	0	1	2	0	0	0	0	0	0	0	1	0
-ATT	11	20	26	14	1	15	6	3	6	21	32	22
-ATC	18	19	16	8	2	9	11	6	0	26	26	23
-ATA	9	16	17	9	1	6	7	0	6	23	29	8
-ATG	4	2	10	1	2	3	1	2	2	2	3	1
-ACT	4	4	8	2	2	6	4	2	2	10	8	8
-ACC	11	14	9	3	2	12	11	2	3	19	20	8
-ACA	11	23	17	6	2	6	7	4	4	10	20	13
-ACG	1	0	0	0	0	0	0	0	0	1	3	1
-AAT	2	9	9	1	2	3	0	1	2	7	12	6
-AAC	12	8	6	5	2	7	3	2	1	10	21	16
-AAA	6	8	8	4	3	2	2	1	1	12	24	9
-AAG	1	1	0	0	0	0	0	0	0	0	1	0
-AGT	0	0	3	0	0	1	1	0	0	3	3	0
-AGC	3	2	1	3	3	3	1	1	1	6	5	1
-GTT	5	1	14	8	0	3	4	1	0	0	5	1
-GTC	2	2	10	6	0	5	6	2	0	1	4	7
-GTA	4	0	13	5	0	1	5	0	1	5	6	7
-GTG	0	1	4	1	1	1	0	0	0	0	0	0
-GCT	4	6	10	2	0	2	3	1	2	8	11	6
-GCC	15	9	15	3	1	7	12	4	5	10	18	9
-GCA	6	7	17	9	0	7	7	3	1	13	11	8
-GCG	0	0	2	1	0	0	0	1	0	0	0	0
-GAT	1	0	8	6	0	0	0	2	0	2	6	1
-GAC	3	0	6	5	0	1	4	2	1	1	7	8
-GAA	9	4	7	15	0	4	8	6	2	11	11	5
-GAG	1	1	4	1	0	0	1	0	0	0	0	1
-GGT	3	3	13	2	0	1	7	1	3	2	13	9
-GGC	5	3	13	1	1	1	9	2	1	10	7	7
-GGA	5	8	16	3	0	7	5	2	1	8	8	5
-GGG	3	3	4	2	0	0	1	1	0	1	0	2
-TAA	1	1	1	0	1	1	1	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007475337.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	11	9	14	1	3	9	6	0	9	3	0	0	7	1	10	17	25	0	4	7	10	0	3	2	7	0	2	0	6	0	11	18	9	4	4	11	11	1	2	12	6	1	0	3	5	2	4	0	4	15	6	0	1	3	9	1	3	5	5	3	1	0	0	0
+1	ND2	YP_007475338.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	7	3	17	1	4	7	16	0	3	5	0	1	10	0	12	28	18	0	5	5	11	0	2	4	10	1	0	1	2	1	20	19	16	2	4	14	23	0	9	8	8	1	0	2	1	2	0	1	6	9	7	0	0	0	4	1	3	3	8	3	1	0	0	0
+2	COX1	YP_007475339.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	17	22	14	3	9	6	10	0	14	7	1	0	15	2	14	13	17	1	6	8	16	0	10	9	9	0	2	0	5	2	26	16	17	10	8	9	17	0	9	6	8	0	3	1	14	10	13	4	10	15	17	2	8	6	7	4	13	13	16	4	1	0	0	0
+3	COX2	YP_007475340.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	4	5	9	0	2	6	4	1	5	4	1	1	5	0	5	6	7	0	4	2	7	0	6	4	10	0	4	1	1	0	14	8	9	1	2	3	6	0	1	5	4	0	0	3	8	6	5	1	2	3	9	1	6	5	15	1	2	1	3	2	0	0	0	0
+4	ATP8	YP_007475341.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	2	4	2	0	2	0	0	0	0	1	0	0	5	0	0	1	2	0	1	2	5	0	0	0	3	0	0	0	0	0	1	2	1	2	2	2	2	0	2	2	3	0	0	3	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_007475342.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	4	11	14	0	0	1	5	0	2	2	0	0	3	2	13	7	18	0	2	4	9	0	0	3	7	2	1	1	3	0	15	9	6	3	6	12	6	0	3	7	2	0	1	3	3	5	1	1	2	7	7	0	0	1	4	0	1	1	7	0	1	0	0	0
+6	COX3	YP_007475343.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	10	13	4	2	2	2	6	0	5	7	1	1	11	1	8	10	6	2	1	6	5	0	8	9	10	0	0	0	5	0	6	11	7	1	4	11	7	0	0	3	2	0	1	1	4	6	5	0	3	12	7	0	0	4	8	1	7	9	5	1	1	0	0	0
+7	ND3	YP_007475344.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	6	2	7	1	0	4	1	0	0	2	1	0	4	1	4	10	8	1	1	4	3	0	0	0	2	0	0	2	0	0	3	6	0	2	2	2	4	0	1	2	1	0	0	1	1	2	0	0	1	4	3	1	2	2	6	0	1	2	2	1	0	0	0	0
+8	ND4L	YP_007475345.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	1	4	4	0	2	6	5	0	0	0	3	1	1	0	2	5	8	2	1	1	1	0	1	2	1	0	1	1	0	0	6	0	6	2	2	3	4	0	2	1	1	0	0	1	0	0	1	0	2	5	1	0	0	1	2	0	3	1	1	0	1	0	0	0
+9	ND4	YP_007475346.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	7	12	10	1	4	13	10	0	5	8	1	3	17	1	22	23	36	2	6	10	11	0	8	5	11	1	1	2	8	0	21	26	23	2	10	19	10	1	7	10	12	0	3	6	0	1	5	0	8	10	13	0	2	1	11	0	2	10	8	1	0	0	0	0
+10	ND5	YP_007475347.1	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	13	31	16	0	9	16	19	1	6	7	4	1	14	0	16	29	47	0	6	8	15	0	7	6	20	1	2	2	3	1	32	26	29	3	8	20	20	3	12	21	24	1	3	5	5	4	6	0	11	18	11	0	6	7	11	0	13	7	8	0	1	0	0	0
+11	CYTB	YP_007475349.2	Hemitrygon bennettii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Hemitrygon	8	25	5	0	6	6	7	0	5	8	3	0	12	1	11	20	23	0	5	7	9	0	5	6	8	0	2	2	4	0	22	23	8	1	8	8	13	1	6	16	9	0	0	1	1	7	7	0	6	9	8	0	1	8	5	1	9	7	5	2	1	0	0	0

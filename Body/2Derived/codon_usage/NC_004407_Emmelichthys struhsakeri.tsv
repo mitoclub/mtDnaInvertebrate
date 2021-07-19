@@ -1,65 +1,13 @@
-	NP_740075.1|ND1	NP_740076.1|ND2	NP_740077.1|COX1	NP_740078.1|COX2	NP_740079.1|ATP8	NP_740080.1|ATP6	NP_740081.1|COX3	NP_740082.1|ND3	NP_740083.1|ND4L	NP_740084.1|ND4	NP_740085.1|ND5	NP_740087.1|CYTB
-TTT	10	5	19	4	1	7	8	2	4	3	13	4
-TTC	8	8	23	5	3	5	17	6	3	11	30	26
-TTA	10	4	7	1	0	9	4	5	3	6	10	3
-TTG	2	2	0	0	0	1	0	0	0	4	3	3
-TCT	2	4	10	4	0	0	1	2	3	2	4	2
-TCC	5	6	7	6	1	2	4	4	1	11	13	9
-TCA	7	7	7	3	0	1	5	1	3	5	10	8
-TCG	3	2	1	0	0	1	0	0	1	1	1	2
-TAT	6	1	7	4	0	0	5	1	0	6	3	3
-TAC	5	6	11	5	0	4	7	1	0	8	8	11
-TGT	0	0	0	0	0	0	0	0	2	1	3	0
-TGC	0	0	1	2	0	0	2	1	1	3	4	3
-TGA	7	10	16	5	5	5	11	4	1	18	13	12
-TGG	1	1	1	0	0	0	1	1	0	1	1	1
-CTT	8	18	18	10	1	13	5	7	3	22	21	12
-CTC	14	24	11	4	1	13	9	12	4	25	21	22
-CTA	22	20	17	11	3	15	12	3	11	33	22	15
-CTG	7	9	9	2	0	6	2	0	3	7	12	6
-CCT	5	5	9	6	4	1	3	1	0	3	8	3
-CCC	10	10	10	5	3	12	8	5	2	14	14	14
-CCA	6	5	8	3	4	3	2	1	0	9	4	4
-CCG	3	2	1	0	0	1	0	1	0	1	4	0
-CAT	0	1	7	4	1	1	2	0	1	4	1	2
-CAC	4	6	12	6	1	2	14	1	3	8	14	10
-CAA	7	13	6	7	3	9	8	3	3	9	18	5
-CAG	0	2	2	1	0	0	1	0	0	1	1	1
-CGT	2	0	3	0	0	1	1	0	0	2	1	1
-CGC	0	0	0	3	0	0	0	0	2	1	2	1
-CGA	5	2	4	2	0	3	3	2	1	7	6	4
-CGG	1	2	1	1	0	2	1	0	0	1	2	2
-ATT	15	11	27	9	2	16	6	9	1	15	27	16
-ATC	12	7	14	11	0	2	8	2	0	16	21	15
-ATA	4	10	6	6	1	2	5	1	3	16	21	2
-ATG	4	3	18	5	1	8	3	1	2	11	11	7
-ACT	5	8	9	1	0	2	2	1	3	7	7	4
-ACC	11	17	11	4	3	10	7	3	6	16	27	9
-ACA	3	13	13	4	3	10	11	3	1	15	19	8
-ACG	2	3	2	0	0	0	2	0	0	3	3	1
-AAT	2	3	5	2	1	4	0	1	0	4	9	5
-AAC	10	7	10	3	1	6	1	0	2	10	21	15
-AAA	7	6	8	4	3	1	1	0	0	8	18	7
-AAG	0	3	0	0	0	0	1	1	0	2	2	2
-AGT	0	0	1	2	0	0	1	0	0	3	2	0
-AGC	3	3	4	1	1	5	2	0	3	5	11	1
-GTT	7	3	11	5	1	0	5	1	1	7	6	8
-GTC	3	3	8	8	2	7	4	4	0	5	11	7
-GTA	6	4	20	5	0	3	5	0	1	5	8	10
-GTG	3	1	3	1	0	1	2	1	0	1	3	1
-GCT	4	7	9	4	1	3	1	0	2	6	10	7
-GCC	19	22	21	7	1	11	11	8	5	22	32	14
-GCA	10	12	15	6	1	4	10	0	5	14	16	11
-GCG	1	2	2	1	0	0	0	0	0	0	2	0
-GAT	1	1	2	2	0	0	0	0	0	1	3	1
-GAC	3	2	12	11	0	1	5	4	1	3	11	8
-GAA	9	4	8	12	1	4	9	6	1	11	10	4
-GAG	2	0	3	3	1	0	1	0	1	1	4	1
-GGT	3	0	8	1	0	1	3	0	0	1	6	3
-GGC	7	7	13	3	0	3	11	5	2	15	12	8
-GGA	4	10	17	5	0	5	6	1	2	5	8	11
-GGG	4	1	8	0	0	1	2	0	1	5	4	5
-TAA	0	1	1	0	1	1	1	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_740075.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	10	8	10	2	2	5	7	3	6	5	0	0	7	1	8	14	22	7	5	10	6	3	0	4	7	0	2	0	5	1	15	12	4	4	5	11	3	2	2	10	7	0	0	3	7	3	6	3	4	19	10	1	1	3	9	2	3	7	4	4	0	1	0	0
+1	ND2	NP_740076.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	5	8	4	2	4	6	7	2	1	6	0	0	10	1	18	24	20	9	5	10	5	2	1	6	13	2	0	0	2	2	11	7	10	3	8	17	13	3	3	7	6	3	0	3	3	3	4	1	7	22	12	2	1	2	4	0	0	7	10	1	1	0	0	0
+2	COX1	NP_740077.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	19	23	7	0	10	7	7	1	7	11	0	1	16	1	18	11	17	9	9	10	8	1	7	12	6	2	3	0	4	1	27	14	6	18	9	11	13	2	5	10	8	0	1	4	11	8	20	3	9	21	15	2	2	12	8	3	8	13	17	8	1	0	0	0
+3	COX2	NP_740078.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	4	5	1	0	4	6	3	0	4	5	0	2	5	0	10	4	11	2	6	5	3	0	4	6	7	1	0	3	2	1	9	11	6	5	1	4	4	0	2	3	4	0	2	1	5	8	5	1	4	7	6	1	2	11	12	3	1	3	5	0	0	0	0	0
+4	ATP8	NP_740079.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	1	3	0	0	0	1	0	0	0	0	0	0	5	0	1	1	3	0	4	3	4	0	1	1	3	0	0	0	0	0	2	0	1	1	0	3	3	0	1	1	3	0	0	1	1	2	0	0	1	1	1	0	0	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	NP_740080.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	7	5	9	1	0	2	1	1	0	4	0	0	5	0	13	13	15	6	1	12	3	1	1	2	9	0	1	0	3	2	16	2	2	8	2	10	10	0	4	6	1	0	0	5	0	7	3	1	3	11	4	0	0	1	4	0	1	3	5	1	1	0	0	0
+6	COX3	NP_740081.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	8	17	4	0	1	4	5	0	5	7	0	2	11	1	5	9	12	2	3	8	2	0	2	14	8	1	1	0	3	1	6	8	5	3	2	7	11	2	0	1	1	1	1	2	5	4	5	2	1	11	10	0	0	5	9	1	3	11	6	2	1	0	0	0
+7	ND3	NP_740082.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	2	6	5	0	2	4	1	0	1	1	0	1	4	1	7	12	3	0	1	5	1	1	0	1	3	0	0	0	2	0	9	2	1	1	1	3	3	0	1	0	0	1	0	0	1	4	0	1	0	8	0	0	0	4	6	0	0	5	1	0	0	1	0	0
+8	ND4L	NP_740083.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	4	3	3	0	3	1	3	1	0	0	2	1	1	0	3	4	11	3	0	2	0	0	1	3	3	0	0	2	1	0	1	0	3	2	3	6	1	0	0	2	0	0	0	3	1	0	1	0	2	5	5	0	0	1	1	1	0	2	2	1	1	0	0	0
+9	ND4	NP_740084.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	3	11	6	4	2	11	5	1	6	8	1	3	18	1	22	25	33	7	3	14	9	1	4	8	9	1	2	1	7	1	15	16	16	11	7	16	15	3	4	10	8	2	3	5	7	5	5	1	6	22	14	0	1	3	11	1	1	15	5	5	0	0	0	0
+10	ND5	NP_740085.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	13	30	10	3	4	13	10	1	3	8	3	4	13	1	21	21	22	12	8	14	4	4	1	14	18	1	1	2	6	2	27	21	21	11	7	27	19	3	9	21	18	2	2	11	6	11	8	3	10	32	16	2	3	11	10	4	6	12	8	4	1	0	0	0
+11	CYTB	NP_740087.1	Emmelichthys struhsakeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Emmelichthyidae, Emmelichthys	4	26	3	3	2	9	8	2	3	11	0	3	12	1	12	22	15	6	3	14	4	0	2	10	5	1	1	1	4	2	16	15	2	7	4	9	8	1	5	15	7	2	0	1	8	7	10	1	7	14	11	0	1	8	4	1	3	8	11	5	0	0	0	0

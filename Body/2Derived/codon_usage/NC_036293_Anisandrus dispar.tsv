@@ -1,65 +1,10 @@
-	YP_009441994.1|ND2	YP_009441995.1|COX1	YP_009441996.1|COX2	YP_009441997.1|ATP8	YP_009441998.1|ATP6	YP_009441999.1|COX3	YP_009442000.1|ND3	YP_009442004.1|ND6	YP_009442005.1|CYTB
-TTT	12	28	10	4	10	18	10	10	26
-TTC	9	12	2	2	6	7	3	5	7
-TTA	19	28	4	4	21	12	7	15	20
-TTG	2	0	0	0	0	0	0	0	1
-TCT	11	11	4	1	5	1	2	3	3
-TCC	2	5	3	0	1	4	2	1	4
-TCA	22	12	5	0	15	10	2	3	10
-TCG	2	1	0	0	0	1	0	1	1
-TAT	8	11	4	1	1	6	1	6	15
-TAC	2	5	2	3	2	3	0	3	3
-TGT	2	0	2	0	0	0	2	0	4
-TGC	2	0	0	1	0	2	0	0	1
-TGA	7	13	3	4	6	13	2	2	11
-TGG	2	1	2	0	0	0	0	0	0
-CTT	7	7	7	0	7	7	1	6	9
-CTC	0	3	3	0	2	1	1	1	3
-CTA	13	21	14	2	11	12	9	7	16
-CTG	1	3	0	0	0	0	0	0	1
-CCT	3	2	2	1	0	1	0	2	4
-CCC	2	4	2	1	2	2	0	2	7
-CCA	5	17	3	1	6	7	3	2	9
-CCG	1	3	1	0	1	1	1	0	0
-CAT	2	6	1	0	3	7	1	1	7
-CAC	0	10	3	0	2	6	1	1	2
-CAA	5	9	8	1	3	7	1	2	8
-CAG	0	0	0	0	0	0	0	0	1
-CGT	1	1	1	0	0	0	1	0	1
-CGC	0	2	0	0	1	0	0	0	0
-CGA	0	4	6	0	2	3	1	1	4
-CGG	1	0	0	0	0	0	0	0	1
-ATT	27	43	21	3	18	17	12	19	29
-ATC	12	9	8	0	5	3	4	1	11
-ATA	37	30	12	5	15	16	8	14	17
-ATG	1	0	0	1	3	1	0	1	2
-ACT	5	6	1	0	2	5	2	5	5
-ACC	4	8	3	0	8	6	0	1	2
-ACA	9	21	8	1	7	5	3	6	10
-ACG	1	0	0	0	0	1	0	0	0
-AAT	15	13	11	2	7	7	2	5	13
-AAC	10	5	6	2	7	3	3	2	9
-AAA	14	9	6	6	4	6	8	10	12
-AAG	0	3	0	0	0	1	0	0	2
-AGT	0	1	1	1	2	0	0	0	2
-AGC	0	1	0	1	0	1	1	0	2
-AGA	9	17	3	0	8	8	4	6	5
-AGG	0	1	0	0	1	0	0	1	0
-GTT	0	12	0	0	1	5	1	1	6
-GTC	1	1	1	0	0	1	0	0	2
-GTA	5	12	7	2	4	6	3	4	12
-GTG	1	0	0	0	1	1	0	1	1
-GCT	4	2	0	0	3	1	1	0	6
-GCC	1	13	4	0	5	1	0	4	7
-GCA	4	19	2	1	2	5	4	1	11
-GCG	1	0	0	0	0	1	0	1	0
-GAT	0	9	5	0	1	3	1	2	4
-GAC	0	6	3	0	0	1	2	0	3
-GAA	5	10	9	0	4	8	4	3	5
-GAG	0	0	0	0	0	0	0	0	0
-GGT	2	4	1	0	0	1	0	1	2
-GGC	1	0	1	0	0	0	1	1	1
-GGA	7	38	5	0	7	14	2	4	16
-GGG	1	2	1	0	1	1	0	0	3
-TAA	1	0	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009441994.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	12	9	19	2	11	2	22	2	8	2	2	2	7	2	7	0	13	1	3	2	5	1	2	0	5	0	1	0	0	1	27	12	37	1	5	4	9	1	15	10	14	0	0	0	9	0	0	1	5	1	4	1	4	1	0	0	5	0	2	1	7	1	1	0
+1	COX1	YP_009441995.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	28	12	28	0	11	5	12	1	11	5	0	0	13	1	7	3	21	3	2	4	17	3	6	10	9	0	1	2	4	0	43	9	30	0	6	8	21	0	13	5	9	3	1	1	17	1	12	1	12	0	2	13	19	0	9	6	10	0	4	0	38	2	0	0
+2	COX2	YP_009441996.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	10	2	4	0	4	3	5	0	4	2	2	0	3	2	7	3	14	0	2	2	3	1	1	3	8	0	1	0	6	0	21	8	12	0	1	3	8	0	11	6	6	0	1	0	3	0	0	1	7	0	0	4	2	0	5	3	9	0	1	1	5	1	1	0
+3	ATP8	YP_009441997.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	4	2	4	0	1	0	0	0	1	3	0	1	4	0	0	0	2	0	1	1	1	0	0	0	1	0	0	0	0	0	3	0	5	1	0	0	1	0	2	2	6	0	1	1	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009441998.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	10	6	21	0	5	1	15	0	1	2	0	0	6	0	7	2	11	0	0	2	6	1	3	2	3	0	0	1	2	0	18	5	15	3	2	8	7	0	7	7	4	0	2	0	8	1	1	0	4	1	3	5	2	0	1	0	4	0	0	0	7	1	1	0
+5	COX3	YP_009441999.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	18	7	12	0	1	4	10	1	6	3	0	2	13	0	7	1	12	0	1	2	7	1	7	6	7	0	0	0	3	0	17	3	16	1	5	6	5	1	7	3	6	1	0	1	8	0	5	1	6	1	1	1	5	1	3	1	8	0	1	0	14	1	1	0
+6	ND3	YP_009442000.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	10	3	7	0	2	2	2	0	1	0	2	0	2	0	1	1	9	0	0	0	3	1	1	1	1	0	1	0	1	0	12	4	8	0	2	0	3	0	2	3	8	0	0	1	4	0	1	0	3	0	1	0	4	0	1	2	4	0	0	1	2	0	1	0
+7	ND6	YP_009442004.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	10	5	15	0	3	1	3	1	6	3	0	0	2	0	6	1	7	0	2	2	2	0	1	1	2	0	0	0	1	0	19	1	14	1	5	1	6	0	5	2	10	0	0	0	6	1	1	0	4	1	0	4	1	1	2	0	3	0	1	1	4	0	1	0
+8	CYTB	YP_009442005.1	Anisandrus dispar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Anisandrus	26	7	20	1	3	4	10	1	15	3	4	1	11	0	9	3	16	1	4	7	9	0	7	2	8	1	1	0	4	1	29	11	17	2	5	2	10	0	13	9	12	2	2	2	5	0	6	2	12	1	6	7	11	0	4	3	5	0	2	1	16	3	0	1

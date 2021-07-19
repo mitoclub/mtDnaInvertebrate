@@ -1,65 +1,13 @@
-	YP_009538259.1|ND1	YP_009538260.1|ND2	YP_009538261.1|COX1	YP_009538262.1|COX2	YP_009538263.1|ATP8	YP_009538264.1|ATP6	YP_009538265.1|COX3	YP_009538266.1|ND3	YP_009538267.1|ND4L	YP_009538268.1|ND4	YP_009538269.1|ND5	YP_009538271.1|CYTB
-TTT	8	4	16	4	2	7	5	4	4	7	10	8
-TTC	10	8	25	5	2	1	18	3	2	9	28	22
-TTA	14	13	5	7	3	11	5	3	2	21	25	12
-TTG	1	1	0	2	0	0	0	1	2	0	0	1
-TCT	4	4	7	4	0	1	2	0	2	1	6	3
-TCC	6	4	5	6	0	3	2	2	1	9	8	10
-TCA	7	3	10	4	2	0	7	5	4	8	14	10
-TCG	0	1	1	0	0	1	0	0	0	0	0	0
-TAT	6	2	10	4	0	3	2	1	0	5	5	5
-TAC	7	5	9	5	0	1	9	2	1	9	6	10
-TGT	0	0	1	1	0	0	2	0	2	1	0	1
-TGC	0	2	0	1	0	0	1	1	1	3	6	2
-TGA	7	11	13	4	4	4	12	4	1	17	12	11
-TGG	1	0	4	1	1	0	0	1	0	3	2	1
-CTT	5	7	13	4	2	4	4	2	2	11	9	6
-CTC	8	6	8	4	0	3	8	2	5	11	15	8
-CTA	34	35	28	13	2	27	11	18	13	36	37	35
-CTG	1	4	7	0	0	6	3	2	0	4	8	1
-CCT	3	3	5	2	1	2	2	3	0	4	5	3
-CCC	8	4	10	6	1	4	5	3	2	13	15	7
-CCA	13	13	12	4	3	8	5	3	0	9	8	10
-CCG	0	0	1	2	0	1	0	0	0	1	0	1
-CAT	1	0	9	4	0	3	5	0	1	5	4	5
-CAC	2	6	11	6	2	2	11	0	3	7	13	7
-CAA	7	12	7	7	1	10	8	3	3	13	14	7
-CAG	0	4	1	1	0	0	0	0	0	0	3	0
-CGT	1	1	1	0	0	0	1	0	0	0	1	1
-CGC	2	1	1	0	0	1	1	0	1	2	1	0
-CGA	5	1	5	6	0	4	4	2	1	7	7	6
-CGG	0	1	1	0	0	0	0	0	0	2	1	0
-ATT	7	17	30	10	0	14	7	5	2	20	31	13
-ATC	16	9	12	6	2	12	7	1	0	16	32	17
-ATA	13	18	16	10	0	7	3	4	3	29	23	8
-ATG	1	3	10	2	1	3	4	1	1	5	3	1
-ACT	0	10	7	5	0	5	5	2	1	8	15	4
-ACC	14	13	10	2	1	7	6	2	3	17	29	10
-ACA	8	22	19	3	4	12	13	2	5	16	18	7
-ACG	2	0	2	0	0	0	0	0	0	1	0	1
-AAT	6	3	4	3	1	4	0	0	1	4	10	5
-AAC	4	8	11	3	3	6	1	2	0	9	19	14
-AAA	7	8	8	4	3	2	2	1	0	9	23	9
-AAG	0	1	0	0	0	0	0	0	0	2	0	0
-AGT	1	2	1	0	0	1	0	0	1	1	2	0
-AGC	3	5	2	3	2	3	3	0	2	6	6	0
-GTT	4	3	4	6	0	2	5	0	1	5	5	4
-GTC	3	0	4	3	2	3	3	3	0	4	11	6
-GTA	10	2	24	11	3	5	10	2	0	12	8	15
-GTG	0	1	7	2	0	0	0	1	1	0	0	1
-GCT	6	7	8	5	1	4	2	2	4	7	10	6
-GCC	17	19	20	6	2	5	11	4	8	19	21	10
-GCA	7	20	18	4	1	9	10	3	2	12	22	12
-GCG	1	1	0	0	0	1	0	0	1	0	0	1
-GAT	2	1	7	5	0	1	2	3	0	2	5	5
-GAC	1	0	8	7	1	0	3	1	1	3	11	6
-GAA	7	4	10	14	2	4	10	4	3	9	10	6
-GAG	5	0	1	1	0	0	0	2	0	1	1	0
-GGT	1	1	10	0	0	3	4	1	2	6	3	5
-GGC	4	7	12	1	0	2	6	1	2	7	8	9
-GGA	9	6	21	6	0	5	9	4	1	8	13	10
-GGG	4	1	4	1	0	0	2	0	0	4	6	1
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009538259.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	8	10	14	1	4	6	7	0	6	7	0	0	7	1	5	8	34	1	3	8	13	0	1	2	7	0	1	2	5	0	7	16	13	1	0	14	8	2	6	4	7	0	1	3	4	3	10	0	6	17	7	1	2	1	7	5	1	4	9	4	1	0	0	0
+1	ND2	YP_009538260.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	4	8	13	1	4	4	3	1	2	5	0	2	11	0	7	6	35	4	3	4	13	0	0	6	12	4	1	1	1	1	17	9	18	3	10	13	22	0	3	8	8	1	2	5	3	0	2	1	7	19	20	1	1	0	4	0	1	7	6	1	0	0	0	0
+2	COX1	YP_009538261.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	16	25	5	0	7	5	10	1	10	9	1	0	13	4	13	8	28	7	5	10	12	1	9	11	7	1	1	1	5	1	30	12	16	10	7	10	19	2	4	11	8	0	1	2	4	4	24	7	8	20	18	0	7	8	10	1	10	12	21	4	1	0	0	0
+3	COX2	YP_009538262.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	4	5	7	2	4	6	4	0	4	5	1	1	4	1	4	4	13	0	2	6	4	2	4	6	7	1	0	0	6	0	10	6	10	2	5	2	3	0	3	3	4	0	0	3	6	3	11	2	5	6	4	0	5	7	14	1	0	1	6	1	0	0	0	0
+4	ATP8	YP_009538263.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	2	2	3	0	0	0	2	0	0	0	0	0	4	1	2	0	2	0	1	1	3	0	0	2	1	0	0	0	0	0	0	2	0	1	0	1	4	0	1	3	3	0	0	2	0	2	3	0	1	2	1	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009538264.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	7	1	11	0	1	3	0	1	3	1	0	0	4	0	4	3	27	6	2	4	8	1	3	2	10	0	0	1	4	0	14	12	7	3	5	7	12	0	4	6	2	0	1	3	2	3	5	0	4	5	9	1	1	0	4	0	3	2	5	0	1	0	0	0
+6	COX3	YP_009538265.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	5	18	5	0	2	2	7	0	2	9	2	1	12	0	4	8	11	3	2	5	5	0	5	11	8	0	1	1	4	0	7	7	3	4	5	6	13	0	0	1	2	0	0	3	5	3	10	0	2	11	10	0	2	3	10	0	4	6	9	2	0	0	0	0
+7	ND3	YP_009538266.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	4	3	3	1	0	2	5	0	1	2	0	1	4	1	2	2	18	2	3	3	3	0	0	0	3	0	0	0	2	0	5	1	4	1	2	2	2	0	0	2	1	0	0	0	0	3	2	1	2	4	3	0	3	1	4	2	1	1	4	0	0	0	0	0
+8	ND4L	YP_009538267.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	4	2	2	2	2	1	4	0	0	1	2	1	1	0	2	5	13	0	0	2	0	0	1	3	3	0	0	1	1	0	2	0	3	1	1	3	5	0	1	0	0	0	1	2	1	0	0	1	4	8	2	1	0	1	3	0	2	2	1	0	1	0	0	0
+9	ND4	YP_009538268.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	7	9	21	0	1	9	8	0	5	9	1	3	17	3	11	11	36	4	4	13	9	1	5	7	13	0	0	2	7	2	20	16	29	5	8	17	16	1	4	9	9	2	1	6	5	4	12	0	7	19	12	0	2	3	9	1	6	7	8	4	0	0	0	0
+10	ND5	YP_009538269.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	10	28	25	0	6	8	14	0	5	6	0	6	12	2	9	15	37	8	5	15	8	0	4	13	14	3	1	1	7	1	31	32	23	3	15	29	18	0	10	19	23	0	2	6	5	11	8	0	10	21	22	0	5	11	10	1	3	8	13	6	1	0	0	0
+11	CYTB	YP_009538271.1	Glyptothorax lanceatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Glyptothorax	8	22	12	1	3	10	10	0	5	10	1	2	11	1	6	8	35	1	3	7	10	1	5	7	7	0	1	0	6	0	13	17	8	1	4	10	7	1	5	14	9	0	0	0	4	6	15	1	6	10	12	1	5	6	6	0	5	9	10	1	0	0	0	0

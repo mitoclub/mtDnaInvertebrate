@@ -1,65 +1,13 @@
-	NP_008199.1|ND1	NP_008200.1|ND2	NP_008201.1|COX1	NP_008202.1|COX2	NP_008203.1|ATP8	NP_008204.1|ATP6	NP_008205.1|COX3	NP_008206.1|ND3	NP_008207.1|ND4L	NP_008208.1|ND4	NP_008209.1|ND5	NP_008211.1|CYTB
-TTT	5	5	9	6	1	4	9	2	2	6	12	8
-TTC	10	10	32	5	0	7	13	6	1	16	26	15
-TTA	8	4	7	3	1	6	5	10	3	8	12	4
-TTG	1	2	2	0	0	0	0	0	0	1	1	2
-TCT	4	2	7	1	0	3	3	1	3	3	4	1
-TCC	6	14	10	3	1	2	6	3	1	18	16	10
-TCA	8	8	9	5	2	4	8	1	4	12	15	10
-TCG	1	1	2	0	2	0	0	0	0	1	0	1
-TAT	4	2	9	3	0	0	4	0	2	3	9	4
-TAC	10	8	13	6	2	2	8	3	2	10	10	13
-TGT	0	0	0	1	1	0	0	1	0	1	0	0
-TGC	1	0	1	2	0	0	1	0	3	2	5	2
-TGA	9	11	13	4	3	3	10	4	0	12	10	11
-TGG	0	0	3	0	0	0	2	0	0	1	2	1
-CTT	5	7	9	6	3	4	1	1	2	6	10	10
-CTC	17	18	9	6	1	6	12	4	4	35	35	20
-CTA	27	30	30	15	4	22	16	13	14	41	44	29
-CTG	3	2	5	2	1	6	1	0	0	3	4	2
-CCT	5	6	9	1	1	3	2	2	1	3	5	2
-CCC	13	11	13	9	7	8	6	3	1	13	19	9
-CCA	4	5	7	5	3	2	5	3	0	7	8	12
-CCG	0	0	0	0	0	1	0	0	0	0	0	0
-CAT	0	1	3	4	2	1	4	0	1	2	2	1
-CAC	3	3	14	2	0	6	12	0	2	10	9	11
-CAA	5	10	7	6	3	8	8	3	1	9	18	8
-CAG	1	0	0	1	0	0	1	0	0	1	2	0
-CGT	0	0	3	2	0	1	0	0	0	1	0	0
-CGC	1	4	1	1	0	1	2	1	1	5	5	3
-CGA	4	0	4	2	0	2	3	0	0	4	3	4
-CGG	1	0	0	1	0	0	0	0	0	0	0	0
-ATT	11	9	20	7	1	13	10	4	3	17	23	10
-ATC	13	23	17	14	2	12	4	3	4	21	32	29
-ATA	12	22	26	9	4	8	9	8	9	23	28	10
-ATG	4	3	5	1	1	3	1	0	1	5	3	2
-ACT	8	6	3	7	0	8	4	1	0	6	12	0
-ACC	15	25	13	5	4	8	7	3	6	20	31	16
-ACA	13	14	17	8	2	11	13	2	0	21	18	20
-ACG	3	0	2	0	1	0	0	0	1	1	2	0
-AAT	3	8	4	1	3	3	2	1	4	6	8	4
-AAC	11	12	13	5	2	7	4	4	2	18	26	10
-AAA	6	11	10	4	7	4	3	2	0	11	21	7
-AAG	1	1	0	0	0	1	0	1	0	0	0	1
-AGT	1	0	1	2	0	1	0	0	0	2	2	0
-AGC	2	5	3	0	0	3	4	2	0	7	11	4
-GTT	1	4	4	4	0	4	3	0	1	0	3	1
-GTC	5	1	13	7	0	1	4	3	1	3	6	5
-GTA	3	3	17	3	1	4	6	1	4	7	4	8
-GTG	0	1	3	1	0	1	0	0	0	1	1	0
-GCT	3	4	11	1	0	4	2	1	1	2	5	2
-GCC	13	5	17	8	1	12	11	8	2	16	17	15
-GCA	8	6	11	4	0	4	3	0	4	7	17	3
-GCG	0	1	1	1	0	0	0	0	0	2	1	0
-GAT	0	0	3	2	0	0	3	0	0	1	1	2
-GAC	3	0	12	9	0	1	0	3	1	2	10	9
-GAA	11	6	8	9	1	3	6	5	1	8	9	4
-GAG	0	0	2	2	0	0	1	0	1	1	0	1
-GGT	1	1	6	1	0	0	4	0	1	2	6	4
-GGC	7	9	19	5	0	5	6	1	1	8	8	10
-GGA	4	3	18	5	0	3	7	0	2	7	12	8
-GGG	0	0	3	0	0	0	2	1	0	0	0	2
-TAA	0	0	0	1	0	1	0	0	1	0	1	0
-TAG	0	1	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_008199.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	5	10	8	1	4	6	8	1	4	10	0	1	9	0	5	17	27	3	5	13	4	0	0	3	5	1	0	1	4	1	11	13	12	4	8	15	13	3	3	11	6	1	1	2	1	5	3	0	3	13	8	0	0	3	11	0	1	7	4	0	0	0	0	0
+1	ND2	NP_008200.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	5	10	4	2	2	14	8	1	2	8	0	0	11	0	7	18	30	2	6	11	5	0	1	3	10	0	0	4	0	0	9	23	22	3	6	25	14	0	8	12	11	1	0	5	4	1	3	1	4	5	6	1	0	0	6	0	1	9	3	0	0	1	0	0
+2	COX1	NP_008201.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	9	32	7	2	7	10	9	2	9	13	0	1	13	3	9	9	30	5	9	13	7	0	3	14	7	0	3	1	4	0	20	17	26	5	3	13	17	2	4	13	10	0	1	3	4	13	17	3	11	17	11	1	3	12	8	2	6	19	18	3	0	0	1	0
+3	COX2	NP_008202.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	6	5	3	0	1	3	5	0	3	6	1	2	4	0	6	6	15	2	1	9	5	0	4	2	6	1	2	1	2	1	7	14	9	1	7	5	8	0	1	5	4	0	2	0	4	7	3	1	1	8	4	1	2	9	9	2	1	5	5	0	1	0	0	0
+4	ATP8	NP_008203.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	1	0	1	0	0	1	2	2	0	2	1	0	3	0	3	1	4	1	1	7	3	0	2	0	3	0	0	0	0	0	1	2	4	1	0	4	2	1	3	2	7	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	NP_008204.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	4	7	6	0	3	2	4	0	0	2	0	0	3	0	4	6	22	6	3	8	2	1	1	6	8	0	1	1	2	0	13	12	8	3	8	8	11	0	3	7	4	1	1	3	4	1	4	1	4	12	4	0	0	1	3	0	0	5	3	0	1	0	0	0
+6	COX3	NP_008205.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	9	13	5	0	3	6	8	0	4	8	0	1	10	2	1	12	16	1	2	6	5	0	4	12	8	1	0	2	3	0	10	4	9	1	4	7	13	0	2	4	3	0	0	4	3	4	6	0	2	11	3	0	3	0	6	1	4	6	7	2	0	0	0	0
+7	ND3	NP_008206.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	2	6	10	0	1	3	1	0	0	3	1	0	4	0	1	4	13	0	2	3	3	0	0	0	3	0	0	1	0	0	4	3	8	0	1	3	2	0	1	4	2	1	0	2	0	3	1	0	1	8	0	0	0	3	5	0	0	1	0	1	0	0	0	0
+8	ND4L	NP_008207.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	2	1	3	0	3	1	4	0	2	2	0	3	0	0	2	4	14	0	1	1	0	0	1	2	1	0	0	1	0	0	3	4	9	1	0	6	0	1	4	2	0	0	0	0	1	1	4	0	1	2	4	0	0	1	1	1	1	1	2	0	1	0	0	0
+9	ND4	NP_008208.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	6	16	8	1	3	18	12	1	3	10	1	2	12	1	6	35	41	3	3	13	7	0	2	10	9	1	1	5	4	0	17	21	23	5	6	20	21	1	6	18	11	0	2	7	0	3	7	1	2	16	7	2	1	2	8	1	2	8	7	0	0	0	0	0
+10	ND5	NP_008209.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	12	26	12	1	4	16	15	0	9	10	0	5	10	2	10	35	44	4	5	19	8	0	2	9	18	2	0	5	3	0	23	32	28	3	12	31	18	2	8	26	21	0	2	11	3	6	4	1	5	17	17	1	1	10	9	0	6	8	12	0	1	0	0	0
+11	CYTB	NP_008211.1	Pan paniscus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Hominidae, Pan	8	15	4	2	1	10	10	1	4	13	0	2	11	1	10	20	29	2	2	9	12	0	1	11	8	0	0	3	4	0	10	29	10	2	0	16	20	0	4	10	7	1	0	4	1	5	8	0	2	15	3	0	2	9	4	1	4	10	8	2	0	0	0	0

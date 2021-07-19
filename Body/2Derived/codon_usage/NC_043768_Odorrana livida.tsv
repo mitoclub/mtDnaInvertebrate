@@ -1,65 +1,13 @@
-	YP_009667250.1|ND1	YP_009667251.1|ND2	YP_009667252.1|COX1	YP_009667253.1|COX2	YP_009667254.1|ATP8	YP_009667255.1|ATP6	YP_009667256.1|COX3	YP_009667257.1|ND3	YP_009667258.1|ND4L	YP_009667259.1|ND4	YP_009667260.1|ND5	YP_009667262.1|CYTB
-TTT	10	9	25	4	3	13	15	6	2	13	23	10
-TTC	11	6	17	6	1	5	10	3	2	20	20	20
-TTA	10	15	12	4	1	9	6	1	1	23	14	6
-TTG	0	2	3	2	0	3	0	0	1	1	3	1
-TCT	7	3	6	4	1	0	3	2	0	6	11	2
-TCC	4	11	6	3	0	4	4	2	4	6	13	12
-TCA	11	8	12	3	0	5	3	2	4	8	15	5
-TCG	1	1	0	0	0	0	0	1	1	1	2	2
-TAT	9	5	8	3	0	2	5	3	0	8	8	6
-TAC	3	3	8	5	1	1	5	0	0	5	8	7
-TGT	2	0	0	1	0	0	1	1	1	3	3	1
-TGC	0	2	0	2	1	0	1	1	2	4	5	2
-TGA	5	8	14	2	4	5	10	5	1	12	8	10
-TGG	1	1	3	3	1	0	2	0	0	1	1	2
-CTT	14	11	11	7	3	15	9	7	3	20	12	12
-CTC	12	12	13	4	2	10	5	6	5	12	21	20
-CTA	23	22	21	6	2	17	7	8	8	15	32	12
-CTG	9	2	7	0	0	1	2	1	5	9	5	9
-CCT	4	4	7	4	0	4	1	3	1	6	8	1
-CCC	9	7	7	5	2	6	4	1	2	9	6	7
-CCA	7	8	11	3	3	5	6	4	0	9	9	13
-CCG	2	2	2	2	0	1	1	0	0	1	0	2
-CAT	2	1	5	4	0	3	3	0	1	7	7	2
-CAC	2	4	16	3	1	3	11	1	2	4	13	9
-CAA	6	10	5	8	2	7	6	2	1	9	18	5
-CAG	1	0	1	0	1	2	3	0	1	2	1	1
-CGT	0	1	1	2	0	0	2	0	1	0	1	0
-CGC	3	0	3	3	0	2	1	0	0	4	2	3
-CGA	5	3	5	1	0	1	2	2	1	8	5	4
-CGG	0	0	0	0	0	1	0	0	0	1	0	1
-ATT	16	21	23	13	2	3	12	5	3	19	39	15
-ATC	8	15	21	9	2	11	4	6	0	13	18	28
-ATA	8	17	17	13	1	6	10	2	7	24	22	9
-ATG	4	2	8	4	2	3	2	2	3	5	6	3
-ACT	2	7	9	3	0	5	4	1	2	8	6	4
-ACC	12	19	11	4	2	10	9	6	1	13	20	11
-ACA	7	12	17	7	4	8	7	1	2	19	21	9
-ACG	1	0	2	1	0	2	0	0	0	0	0	2
-AAT	4	5	6	0	1	4	1	0	1	2	10	2
-AAC	4	6	10	5	3	6	2	2	3	11	11	15
-AAA	7	11	10	5	4	2	2	0	1	10	17	6
-AAG	1	1	0	1	1	1	0	1	0	1	4	4
-AGT	1	3	0	1	0	0	1	0	0	1	2	1
-AGC	2	3	4	5	0	2	2	0	1	5	11	2
-GTT	3	3	15	3	0	4	2	0	1	8	7	4
-GTC	8	2	7	3	0	2	5	2	1	8	5	5
-GTA	5	2	11	5	0	3	7	0	1	4	13	6
-GTG	0	0	2	0	0	2	1	0	0	2	2	1
-GCT	6	5	10	5	0	7	3	0	0	5	8	6
-GCC	15	17	27	8	3	4	18	7	6	21	32	15
-GCA	5	8	7	7	0	5	6	1	2	11	17	4
-GCG	0	1	1	0	0	1	1	1	0	3	3	1
-GAT	0	0	4	5	0	0	3	1	0	1	3	4
-GAC	4	2	10	6	0	1	3	2	1	4	10	7
-GAA	7	4	7	8	0	3	7	5	1	9	8	4
-GAG	2	1	4	3	0	1	1	1	1	1	3	0
-GGT	2	1	4	2	0	0	1	0	1	1	1	1
-GGC	6	4	16	3	0	3	11	4	3	10	14	12
-GGA	3	7	16	4	0	1	8	0	2	6	8	8
-GGG	4	4	8	1	0	2	0	1	0	3	2	5
-TAA	0	0	0	0	1	0	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	1	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009667250.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	10	11	10	0	7	4	11	1	9	3	2	0	5	1	14	12	23	9	4	9	7	2	2	2	6	1	0	3	5	0	16	8	8	4	2	12	7	1	4	4	7	1	1	2	3	8	5	0	6	15	5	0	0	4	7	2	2	6	3	4	0	0	0	0
+1	ND2	YP_009667251.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	9	6	15	2	3	11	8	1	5	3	0	2	8	1	11	12	22	2	4	7	8	2	1	4	10	0	1	0	3	0	21	15	17	2	7	19	12	0	5	6	11	1	3	3	3	2	2	0	5	17	8	1	0	2	4	1	1	4	7	4	0	0	0	0
+2	COX1	YP_009667252.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	25	17	12	3	6	6	12	0	8	8	0	0	14	3	11	13	21	7	7	7	11	2	5	16	5	1	1	3	5	0	23	21	17	8	9	11	17	2	6	10	10	0	0	4	15	7	11	2	10	27	7	1	4	10	7	4	4	16	16	8	0	0	0	1
+3	COX2	YP_009667253.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	4	6	4	2	4	3	3	0	3	5	1	2	2	3	7	4	6	0	4	5	3	2	4	3	8	0	2	3	1	0	13	9	13	4	3	4	7	1	0	5	5	1	1	5	3	3	5	0	5	8	7	0	5	6	8	3	2	3	4	1	0	0	0	0
+4	ATP8	YP_009667254.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	3	1	1	0	1	0	0	0	0	1	0	1	4	1	3	2	2	0	0	2	3	0	0	1	2	1	0	0	0	0	2	2	1	2	0	2	4	0	1	3	4	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009667255.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	13	5	9	3	0	4	5	0	2	1	0	0	5	0	15	10	17	1	4	6	5	1	3	3	7	2	0	2	1	1	3	11	6	3	5	10	8	2	4	6	2	1	0	2	4	2	3	2	7	4	5	1	0	1	3	1	0	3	1	2	0	0	0	0
+6	COX3	YP_009667256.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	15	10	6	0	3	4	3	0	5	5	1	1	10	2	9	5	7	2	1	4	6	1	3	11	6	3	2	1	2	0	12	4	10	2	4	9	7	0	1	2	2	0	1	2	2	5	7	1	3	18	6	1	3	3	7	1	1	11	8	0	0	0	0	0
+7	ND3	YP_009667257.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	6	3	1	0	2	2	2	1	3	0	1	1	5	0	7	6	8	1	3	1	4	0	0	1	2	0	0	0	2	0	5	6	2	2	1	6	1	0	0	2	0	1	0	0	0	2	0	0	0	7	1	1	1	2	5	1	0	4	0	1	0	0	0	0
+8	ND4L	YP_009667258.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	2	2	1	1	0	4	4	1	0	0	1	2	1	0	3	5	8	5	1	2	0	0	1	2	1	1	1	0	1	0	3	0	7	3	2	1	2	0	1	3	1	0	0	1	1	1	1	0	0	6	2	0	0	1	1	1	1	3	2	0	1	0	0	0
+9	ND4	YP_009667259.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	13	20	23	1	6	6	8	1	8	5	3	4	12	1	20	12	15	9	6	9	9	1	7	4	9	2	0	4	8	1	19	13	24	5	8	13	19	0	2	11	10	1	1	5	8	8	4	2	5	21	11	3	1	4	9	1	1	10	6	3	0	1	0	0
+10	ND5	YP_009667260.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	23	20	14	3	11	13	15	2	8	8	3	5	8	1	12	21	32	5	8	6	9	0	7	13	18	1	1	2	5	0	39	18	22	6	6	20	21	0	10	11	17	4	2	11	7	5	13	2	8	32	17	3	3	10	8	3	1	14	8	2	1	0	0	0
+11	CYTB	YP_009667262.1	Odorrana livida	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Odorrana	10	20	6	1	2	12	5	2	6	7	1	2	10	2	12	20	12	9	1	7	13	2	2	9	5	1	0	3	4	1	15	28	9	3	4	11	9	2	2	15	6	4	1	2	4	5	6	1	6	15	4	1	4	7	4	0	1	12	8	5	1	0	0	0

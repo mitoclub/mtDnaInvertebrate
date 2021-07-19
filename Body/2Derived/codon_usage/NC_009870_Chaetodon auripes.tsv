@@ -1,65 +1,13 @@
-	YP_001491461.1|ND1	YP_001491462.1|ND2	YP_001491463.1|COX1	YP_001491464.1|COX2	YP_001491465.1|ATP8	YP_001491466.1|ATP6	YP_001491467.1|COX3	YP_001491468.1|ND3	YP_001491469.1|ND4L	YP_001491470.1|ND4	YP_001491471.1|ND5	YP_001491473.1|CYTB
-TTT	10	4	14	5	3	9	7	3	4	3	12	5
-TTC	9	8	30	4	1	6	15	6	2	10	27	22
-TTA	9	9	2	6	0	6	3	2	2	10	13	3
-TTG	1	0	1	0	0	1	0	1	1	0	2	0
-TCT	2	5	10	3	0	1	2	1	1	6	7	6
-TCC	4	10	10	3	2	4	3	2	5	8	16	8
-TCA	10	6	5	3	0	2	5	0	4	7	4	8
-TCG	0	0	0	0	0	1	0	2	0	1	1	1
-TAT	5	3	7	2	0	1	6	1	0	4	2	6
-TAC	7	4	11	6	0	3	8	1	0	8	10	9
-TGT	0	0	0	1	0	0	0	0	2	0	1	0
-TGC	1	0	1	1	0	1	2	1	1	4	5	4
-TGA	7	10	13	5	2	5	12	5	0	12	12	13
-TGG	1	1	4	0	3	0	0	0	1	5	2	0
-CTT	15	22	16	10	4	17	10	1	7	24	23	13
-CTC	13	17	16	4	0	9	7	14	9	25	22	20
-CTA	21	29	17	5	1	16	7	8	4	25	32	20
-CTG	8	3	10	0	0	6	3	5	2	11	4	4
-CCT	4	3	12	5	2	6	1	0	0	5	9	4
-CCC	18	8	11	3	2	4	8	6	2	15	13	7
-CCA	3	10	5	5	2	5	3	2	0	8	6	9
-CCG	0	0	0	1	3	2	0	0	0	1	4	1
-CAT	1	1	6	3	0	2	4	0	2	5	3	5
-CAC	3	6	13	8	3	1	11	1	2	9	13	6
-CAA	4	13	6	8	1	7	8	2	3	6	16	7
-CAG	2	2	1	1	1	2	1	0	0	3	4	0
-CGT	3	0	1	2	0	1	2	0	0	1	2	1
-CGC	1	0	0	1	0	3	0	0	1	3	1	2
-CGA	3	3	6	3	0	2	4	2	1	7	6	5
-CGG	1	1	2	0	0	0	0	0	1	0	0	0
-ATT	18	9	23	8	2	9	9	4	0	22	30	9
-ATC	8	12	15	10	2	4	8	3	1	12	24	22
-ATA	7	9	14	6	1	6	6	2	2	20	23	9
-ATG	2	2	12	4	2	1	2	1	4	14	6	4
-ACT	2	9	5	6	1	0	4	0	2	6	11	3
-ACC	7	22	13	2	1	10	6	4	1	17	25	11
-ACA	11	9	16	5	0	9	12	2	3	15	18	7
-ACG	1	1	4	1	0	0	0	0	0	0	2	1
-AAT	5	4	6	1	0	7	1	0	1	4	10	5
-AAC	7	6	9	4	3	2	0	1	2	5	19	14
-AAA	6	6	7	4	3	0	2	1	0	10	19	8
-AAG	1	2	1	1	0	1	0	0	0	1	3	1
-AGT	1	0	0	1	0	3	1	0	1	2	3	0
-AGC	2	4	4	2	1	3	2	0	1	9	9	1
-GTT	4	3	9	10	3	5	4	1	1	4	4	10
-GTC	4	2	10	6	0	4	6	2	0	5	9	7
-GTA	5	5	14	7	0	5	6	2	1	6	7	7
-GTG	1	2	6	1	0	1	1	0	0	2	2	1
-GCT	5	6	13	4	0	5	4	3	3	6	12	1
-GCC	17	19	16	8	2	8	9	3	8	21	32	21
-GCA	10	13	14	7	0	6	9	3	2	13	16	8
-GCG	1	0	2	0	1	1	1	0	0	0	0	0
-GAT	1	0	5	1	0	1	0	0	0	0	3	2
-GAC	3	2	9	11	1	0	6	4	1	3	10	7
-GAA	7	4	7	11	0	4	7	6	1	13	10	5
-GAG	3	0	4	2	1	0	1	0	1	0	3	1
-GGT	1	0	8	4	0	0	4	0	1	3	5	3
-GGC	10	14	15	1	1	5	8	5	3	11	13	8
-GGA	5	3	14	2	0	3	7	1	1	6	7	10
-GGG	2	2	9	2	0	1	3	2	0	4	5	5
-TAA	1	0	1	0	1	0	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001491461.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	10	9	9	1	2	4	10	0	5	7	0	1	7	1	15	13	21	8	4	18	3	0	1	3	4	2	3	1	3	1	18	8	7	2	2	7	11	1	5	7	6	1	1	2	4	4	5	1	5	17	10	1	1	3	7	3	1	10	5	2	1	0	0	0
+1	ND2	YP_001491462.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	4	8	9	0	5	10	6	0	3	4	0	0	10	1	22	17	29	3	3	8	10	0	1	6	13	2	0	0	3	1	9	12	9	2	9	22	9	1	4	6	6	2	0	4	3	2	5	2	6	19	13	0	0	2	4	0	0	14	3	2	0	0	0	0
+2	COX1	YP_001491463.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	14	30	2	1	10	10	5	0	7	11	0	1	13	4	16	16	17	10	12	11	5	0	6	13	6	1	1	0	6	2	23	15	14	12	5	13	16	4	6	9	7	1	0	4	9	10	14	6	13	16	14	2	5	9	7	4	8	15	14	9	1	0	0	0
+3	COX2	YP_001491464.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	5	4	6	0	3	3	3	0	2	6	1	1	5	0	10	4	5	0	5	3	5	1	3	8	8	1	2	1	3	0	8	10	6	4	6	2	5	1	1	4	4	1	1	2	10	6	7	1	4	8	7	0	1	11	11	2	4	1	2	2	0	0	0	0
+4	ATP8	YP_001491465.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	3	1	0	0	0	2	0	0	0	0	0	0	2	3	4	0	1	0	2	2	2	3	0	3	1	1	0	0	0	0	2	2	1	2	1	1	0	0	0	3	3	0	0	1	3	0	0	0	0	2	0	1	0	1	0	1	0	1	0	0	1	0	0	0
+5	ATP6	YP_001491466.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	9	6	6	1	1	4	2	1	1	3	0	1	5	0	17	9	16	6	6	4	5	2	2	1	7	2	1	3	2	0	9	4	6	1	0	10	9	0	7	2	0	1	3	3	5	4	5	1	5	8	6	1	1	0	4	0	0	5	3	1	0	0	0	0
+6	COX3	YP_001491467.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	7	15	3	0	2	3	5	0	6	8	0	2	12	0	10	7	7	3	1	8	3	0	4	11	8	1	2	0	4	0	9	8	6	2	4	6	12	0	1	0	2	0	1	2	4	6	6	1	4	9	9	1	0	6	7	1	4	8	7	3	0	0	0	0
+7	ND3	YP_001491468.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	3	6	2	1	1	2	0	2	1	1	0	1	5	0	1	14	8	5	0	6	2	0	0	1	2	0	0	0	2	0	4	3	2	1	0	4	2	0	0	1	1	0	0	0	1	2	2	0	3	3	3	0	0	4	6	0	0	5	1	2	0	0	0	0
+8	ND4L	YP_001491469.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	4	2	2	1	1	5	4	0	0	0	2	1	0	1	7	9	4	2	0	2	0	0	2	2	3	0	0	1	1	1	0	1	2	4	2	1	3	0	1	2	0	0	1	1	1	0	1	0	3	8	2	0	0	1	1	1	1	3	1	0	1	0	0	0
+9	ND4	YP_001491470.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	3	10	10	0	6	8	7	1	4	8	0	4	12	5	24	25	25	11	5	15	8	1	5	9	6	3	1	3	7	0	22	12	20	14	6	17	15	0	4	5	10	1	2	9	4	5	6	2	6	21	13	0	0	3	13	0	3	11	6	4	0	0	0	0
+10	ND5	YP_001491471.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	12	27	13	2	7	16	4	1	2	10	1	5	12	2	23	22	32	4	9	13	6	4	3	13	16	4	2	1	6	0	30	24	23	6	11	25	18	2	10	19	19	3	3	9	4	9	7	2	12	32	16	0	3	10	10	3	5	13	7	5	0	1	0	0
+11	CYTB	YP_001491473.1	Chaetodon auripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Chaetodontiformes, Chaetodontidae, Chaetodon	5	22	3	0	6	8	8	1	6	9	0	4	13	0	13	20	20	4	4	7	9	1	5	6	7	0	1	2	5	0	9	22	9	4	3	11	7	1	5	14	8	1	0	1	10	7	7	1	1	21	8	0	2	7	5	1	3	8	10	5	0	0	0	0

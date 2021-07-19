@@ -1,65 +1,12 @@
-	YP_009560195.1|ND1	YP_009560196.1|ND2	YP_009560197.1|COX1	YP_009560198.1|COX2	YP_009560199.1|ATP8	YP_009560200.1|ATP6	YP_009560201.1|COX3	YP_009560202.1|ND3	YP_009560203.1|ND4L	YP_009560204.1|ND4	YP_009560207.1|CYTB
-TTT	1	3	24	5	1	4	8	2	1	14	8
-TTC	15	4	21	3	0	1	10	3	3	6	22
-TTA	10	7	10	5	1	12	9	1	5	15	8
-TTG	0	0	1	1	0	0	0	1	0	1	0
-TCT	4	2	7	5	0	4	0	0	1	2	4
-TCC	5	4	10	0	0	3	2	1	0	10	6
-TCA	15	19	11	7	0	2	10	2	4	9	14
-TCG	0	1	1	1	0	0	0	0	0	0	0
-TAT	0	0	6	1	2	1	6	0	0	4	4
-TAC	10	7	10	5	1	3	6	3	0	7	8
-TGT	1	0	1	1	0	0	1	0	2	1	1
-TGC	1	1	3	2	0	2	0	1	1	3	1
-TGA	6	7	14	5	3	4	9	3	0	8	10
-TGG	2	3	5	0	0	0	3	0	0	2	2
-CTT	9	2	7	4	0	7	3	0	1	11	3
-CTC	7	5	3	5	1	7	2	3	1	13	8
-CTA	32	30	39	13	4	19	18	14	10	38	29
-CTG	2	3	3	0	1	4	1	2	0	5	0
-CCT	3	2	4	0	1	1	1	0	1	0	1
-CCC	5	4	10	2	1	4	3	1	0	4	2
-CCA	12	12	17	10	3	7	7	5	1	20	17
-CCG	0	1	1	1	0	2	0	2	0	0	1
-CAT	2	1	2	4	0	2	4	1	0	6	3
-CAC	2	7	15	6	1	2	12	0	3	7	11
-CAA	8	5	7	9	3	4	6	2	2	15	6
-CAG	0	0	1	3	0	2	0	0	0	0	1
-CGT	0	0	1	0	0	0	0	0	0	0	1
-CGC	1	0	0	2	0	0	1	0	0	1	1
-CGA	5	4	6	1	0	3	3	1	0	7	3
-CGG	1	0	2	3	0	0	0	0	1	1	1
-ATT	9	15	30	4	3	11	4	6	5	19	16
-ATC	10	19	16	7	0	11	9	8	3	19	21
-ATA	22	38	27	10	3	18	13	6	11	34	21
-ATG	4	1	5	2	1	3	1	2	1	4	1
-ACT	6	14	6	3	0	5	4	1	1	9	10
-ACC	10	13	18	7	5	7	13	4	6	17	11
-ACA	16	31	18	12	8	14	13	8	4	26	17
-ACG	0	0	1	0	0	0	0	0	1	2	0
-AAT	4	5	9	1	0	4	2	3	1	5	4
-AAC	10	12	10	5	2	5	3	4	2	6	17
-AAA	7	11	12	3	3	7	6	2	3	11	5
-AAG	1	0	0	0	0	1	0	0	0	2	3
-AGT	1	0	0	0	0	1	1	0	0	1	0
-AGC	0	4	6	1	0	5	3	1	1	7	1
-GTT	0	0	6	2	0	2	4	1	1	2	1
-GTC	2	0	3	4	0	3	5	0	1	2	1
-GTA	5	5	17	11	0	3	8	1	4	5	10
-GTG	1	0	4	1	1	1	1	0	2	0	1
-GCT	4	2	8	4	0	2	2	1	1	6	3
-GCC	7	11	8	2	0	5	5	3	3	15	10
-GCA	9	11	19	10	1	5	7	2	2	13	12
-GCG	0	0	1	0	0	0	0	0	0	0	0
-GAT	0	2	5	2	0	0	2	1	0	0	1
-GAC	3	2	8	6	1	0	2	2	1	3	5
-GAA	11	4	5	15	0	5	6	5	1	10	5
-GAG	0	0	4	2	0	1	3	0	0	1	0
-GGT	0	1	5	0	0	2	2	0	0	1	3
-GGC	7	2	14	2	0	1	2	3	1	4	6
-GGA	9	5	16	5	0	4	13	2	2	5	9
-GGG	1	1	10	3	0	0	2	0	1	6	2
-TAA	0	0	0	0	1	1	0	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009560195.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	1	15	10	0	4	5	15	0	0	10	1	1	6	2	9	7	32	2	3	5	12	0	2	2	8	0	0	1	5	1	9	10	22	4	6	10	16	0	4	10	7	1	1	0	0	2	5	1	4	7	9	0	0	3	11	0	0	7	9	1	0	0	0	0
+1	ND2	YP_009560196.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	3	4	7	0	2	4	19	1	0	7	0	1	7	3	2	5	30	3	2	4	12	1	1	7	5	0	0	0	4	0	15	19	38	1	14	13	31	0	5	12	11	0	0	4	0	0	5	0	2	11	11	0	2	2	4	0	1	2	5	1	0	0	0	0
+2	COX1	YP_009560197.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	24	21	10	1	7	10	11	1	6	10	1	3	14	5	7	3	39	3	4	10	17	1	2	15	7	1	1	0	6	2	30	16	27	5	6	18	18	1	9	10	12	0	0	6	6	3	17	4	8	8	19	1	5	8	5	4	5	14	16	10	0	0	1	0
+3	COX2	YP_009560198.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	5	3	5	1	5	0	7	1	1	5	1	2	5	0	4	5	13	0	0	2	10	1	4	6	9	3	0	2	1	3	4	7	10	2	3	7	12	0	1	5	3	0	0	1	2	4	11	1	4	2	10	0	2	6	15	2	0	2	5	3	0	0	0	0
+4	ATP8	YP_009560199.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	1	0	1	0	0	0	0	0	2	1	0	0	3	0	0	1	4	1	1	1	3	0	0	1	3	0	0	0	0	0	3	0	3	1	0	5	8	0	0	2	3	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009560200.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	4	1	12	0	4	3	2	0	1	3	0	2	4	0	7	7	19	4	1	4	7	2	2	2	4	2	0	0	3	0	11	11	18	3	5	7	14	0	4	5	7	1	1	5	2	3	3	1	2	5	5	0	0	0	5	1	2	1	4	0	1	0	0	0
+6	COX3	YP_009560201.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	8	10	9	0	0	2	10	0	6	6	1	0	9	3	3	2	18	1	1	3	7	0	4	12	6	0	0	1	3	0	4	9	13	1	4	13	13	0	2	3	6	0	1	3	4	5	8	1	2	5	7	0	2	2	6	3	2	2	13	2	0	0	0	0
+7	ND3	YP_009560202.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	2	3	1	1	0	1	2	0	0	3	0	1	3	0	0	3	14	2	0	1	5	2	1	0	2	0	0	0	1	0	6	8	6	2	1	4	8	0	3	4	2	0	0	1	1	0	1	0	1	3	2	0	1	2	5	0	0	3	2	0	0	0	0	0
+8	ND4L	YP_009560203.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	1	3	5	0	1	0	4	0	0	0	2	1	0	0	1	1	10	0	1	0	1	0	0	3	2	0	0	0	0	1	5	3	11	1	1	6	4	1	1	2	3	0	0	1	1	1	4	2	1	3	2	0	0	1	1	0	0	1	2	1	1	0	0	0
+9	ND4	YP_009560204.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	14	6	15	1	2	10	9	0	4	7	1	3	8	2	11	13	38	5	0	4	20	0	6	7	15	0	0	1	7	1	19	19	34	4	9	17	26	2	5	6	11	2	1	7	2	2	5	0	6	15	13	0	0	3	10	1	1	4	5	6	1	0	0	0
+10	CYTB	YP_009560207.1	Elaphe dione	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Colubridae, Colubrinae, Elaphe	8	22	8	0	4	6	14	0	4	8	1	1	10	2	3	8	29	0	1	2	17	1	3	11	6	1	1	1	3	1	16	21	21	1	10	11	17	0	4	17	5	3	0	1	1	1	10	1	3	10	12	0	1	5	5	0	3	6	9	2	0	0	0	0

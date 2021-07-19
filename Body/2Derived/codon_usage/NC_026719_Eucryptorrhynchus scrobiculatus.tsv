@@ -1,65 +1,10 @@
-	YP_009128659.1|ND2	YP_009128660.1|COX1	YP_009128661.1|COX2	YP_009128662.1|ATP8	YP_009128663.1|ATP6	YP_009128664.1|COX3	YP_009128665.1|ND3	YP_009128669.1|ND6	YP_009128670.1|CYTB
-TTT	33	42	10	6	16	24	10	17	30
-TTC	6	2	5	1	0	4	3	3	6
-TTA	29	37	16	4	25	22	17	15	27
-TTG	2	1	0	1	0	0	0	1	0
-TCT	17	8	6	4	9	7	2	4	9
-TCC	2	4	0	0	2	0	0	0	0
-TCA	14	19	7	0	11	5	3	7	10
-TCG	0	0	0	0	0	1	0	0	0
-TAT	15	17	7	4	7	9	2	5	13
-TAC	2	1	1	2	0	1	0	2	5
-TGT	2	0	2	0	0	1	1	3	3
-TGC	0	0	0	0	0	0	0	0	1
-TGA	8	14	6	3	5	13	1	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	11	11	6	2	9	10	3	8	11
-CTC	1	3	1	0	2	0	2	1	1
-CTA	5	6	5	0	6	2	3	3	7
-CTG	0	0	0	0	1	0	0	1	1
-CCT	3	15	6	1	3	5	4	2	9
-CCC	2	2	0	1	1	0	0	1	1
-CCA	3	8	5	1	6	5	0	0	11
-CCG	1	0	0	0	0	0	0	0	1
-CAT	4	13	6	0	4	10	1	1	6
-CAC	0	4	0	0	1	5	0	0	3
-CAA	6	6	8	1	3	8	3	3	8
-CAG	0	0	0	1	0	0	0	0	1
-CGT	0	1	4	0	0	0	0	0	0
-CGC	0	1	0	0	0	1	1	0	0
-CGA	2	7	3	0	2	3	1	1	6
-CGG	0	0	0	0	1	0	0	0	0
-ATT	40	46	29	3	26	21	15	24	36
-ATC	9	5	4	0	3	2	2	3	2
-ATA	22	27	11	4	12	13	3	14	22
-ATG	1	0	0	0	0	1	0	0	1
-ACT	10	15	6	0	9	8	3	4	15
-ACC	2	3	0	0	2	2	0	0	2
-ACA	8	15	6	0	4	8	3	3	12
-ACG	0	1	0	0	0	0	0	0	0
-AAT	28	18	10	2	14	6	6	8	17
-AAC	2	3	2	0	1	1	1	1	2
-AAA	17	12	7	5	4	5	6	9	14
-AAG	0	1	0	0	0	0	0	0	0
-AGT	0	2	1	0	1	1	0	1	2
-AGC	1	0	0	0	0	0	0	0	0
-AGA	5	10	5	1	9	10	4	5	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	12	3	1	2	1	0	1	4
-GTC	1	1	0	0	0	0	0	1	1
-GTA	0	14	5	1	3	7	4	1	8
-GTG	0	0	0	1	0	0	0	0	1
-GCT	3	19	2	0	2	5	1	2	10
-GCC	3	4	0	0	1	2	0	0	1
-GCA	2	10	5	1	4	4	2	1	10
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	14	8	0	1	3	3	2	5
-GAC	0	2	1	0	0	2	0	0	0
-GAA	4	9	10	0	4	7	4	1	5
-GAG	0	0	0	0	0	1	0	0	0
-GGT	0	12	3	0	0	6	2	0	6
-GGC	2	4	0	0	1	0	0	0	0
-GGA	6	28	5	0	6	7	1	7	16
-GGG	1	1	0	0	0	1	0	0	0
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009128659.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	33	6	29	2	17	2	14	0	15	2	2	0	8	0	11	1	5	0	3	2	3	1	4	0	6	0	0	0	2	0	40	9	22	1	10	2	8	0	28	2	17	0	0	1	5	0	1	1	0	0	3	3	2	0	0	0	4	0	0	2	6	1	1	0
+1	COX1	YP_009128660.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	42	2	37	1	8	4	19	0	17	1	0	0	14	0	11	3	6	0	15	2	8	0	13	4	6	0	1	1	7	0	46	5	27	0	15	3	15	1	18	3	12	1	2	0	10	0	12	1	14	0	19	4	10	0	14	2	9	0	12	4	28	1	0	0
+2	COX2	YP_009128661.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	10	5	16	0	6	0	7	0	7	1	2	0	6	0	6	1	5	0	6	0	5	0	6	0	8	0	4	0	3	0	29	4	11	0	6	0	6	0	10	2	7	0	1	0	5	0	3	0	5	0	2	0	5	0	8	1	10	0	3	0	5	0	1	0
+3	ATP8	YP_009128662.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	6	1	4	1	4	0	0	0	4	2	0	0	3	0	2	0	0	0	1	1	1	0	0	0	1	1	0	0	0	0	3	0	4	0	0	0	0	0	2	0	5	0	0	0	1	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009128663.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	16	0	25	0	9	2	11	0	7	0	0	0	5	0	9	2	6	1	3	1	6	0	4	1	3	0	0	0	2	1	26	3	12	0	9	2	4	0	14	1	4	0	1	0	9	0	2	0	3	0	2	1	4	0	1	0	4	0	0	1	6	0	1	0
+5	COX3	YP_009128664.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	24	4	22	0	7	0	5	1	9	1	1	0	13	0	10	0	2	0	5	0	5	0	10	5	8	0	0	1	3	0	21	2	13	1	8	2	8	0	6	1	5	0	1	0	10	0	1	0	7	0	5	2	4	0	3	2	7	1	6	0	7	1	1	0
+6	ND3	YP_009128665.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	10	3	17	0	2	0	3	0	2	0	1	0	1	0	3	2	3	0	4	0	0	0	1	0	3	0	0	1	1	0	15	2	3	0	3	0	3	0	6	1	6	0	0	0	4	0	0	0	4	0	1	0	2	0	3	0	4	0	2	0	1	0	1	0
+7	ND6	YP_009128669.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	17	3	15	1	4	0	7	0	5	2	3	0	2	0	8	1	3	1	2	1	0	0	1	0	3	0	0	0	1	0	24	3	14	0	4	0	3	0	8	1	9	0	1	0	5	0	1	1	1	0	2	0	1	0	2	0	1	0	0	0	7	0	1	0
+8	CYTB	YP_009128670.1	Eucryptorrhynchus scrobiculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Cryptorhynchinae, Eucryptorrhynchus	30	6	27	0	9	0	10	0	13	5	3	1	12	0	11	1	7	1	9	1	11	1	6	3	8	1	0	0	6	0	36	2	22	1	15	2	12	0	17	2	14	0	2	0	5	0	4	1	8	1	10	1	10	0	5	0	5	0	6	0	16	0	1	0

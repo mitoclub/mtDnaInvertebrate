@@ -1,65 +1,13 @@
-	YP_006883654.1|ND1	YP_006883655.1|ND2	YP_006883656.1|COX1	YP_006883657.1|COX2	YP_006883658.1|ATP8	YP_006883659.1|ATP6	YP_006883660.1|COX3	YP_006883661.1|ND3	YP_006883662.1|ND4L	YP_006883663.1|ND4	YP_006883664.1|ND5	YP_006883666.1|CYTB
-TTT	11	5	19	5	2	5	11	3	2	8	21	11
-TTC	10	9	24	3	2	6	11	7	3	10	23	18
-TTA	9	12	19	10	4	12	8	6	7	20	23	12
-TTG	0	0	1	1	1	1	1	0	1	0	1	1
-TCT	7	5	11	6	1	3	8	3	1	14	11	9
-TCC	7	11	6	2	0	1	1	0	3	9	8	7
-TCA	10	4	10	5	2	4	6	2	4	10	12	5
-TCG	1	0	1	0	0	0	0	0	0	0	0	1
-TAT	9	4	12	7	3	3	5	4	2	13	7	6
-TAC	2	4	7	5	0	0	9	1	0	7	8	8
-TGT	0	0	0	1	0	1	0	1	2	2	1	2
-TGC	2	1	1	1	1	1	2	0	1	5	6	1
-TGA	8	11	15	5	3	4	10	3	0	11	11	11
-TGG	1	1	2	0	0	0	2	1	0	1	1	1
-CTT	7	13	10	5	1	10	5	3	4	22	15	7
-CTC	9	8	8	2	3	7	5	3	2	14	11	15
-CTA	29	25	17	12	3	12	10	14	10	35	35	27
-CTG	1	2	3	2	0	3	5	1	0	1	2	0
-CCT	7	4	13	6	2	5	3	2	1	7	11	7
-CCC	3	6	6	4	2	3	2	4	0	7	2	3
-CCA	10	8	9	4	3	6	6	1	0	7	16	13
-CCG	0	0	0	0	0	0	0	0	0	0	1	1
-CAT	1	0	6	4	0	4	10	0	2	7	6	2
-CAC	2	5	11	3	1	1	6	0	2	7	10	10
-CAA	5	11	6	7	3	7	8	3	2	7	15	6
-CAG	1	0	1	2	0	0	0	0	0	1	1	1
-CGT	0	0	1	0	0	1	0	0	0	0	1	2
-CGC	1	0	0	2	0	1	2	1	0	2	1	2
-CGA	6	3	7	4	0	4	2	0	1	7	7	4
-CGG	0	0	0	0	0	0	1	0	0	1	0	0
-ATT	16	19	31	10	5	19	8	5	5	26	34	24
-ATC	14	19	14	5	5	10	10	5	4	15	32	15
-ATA	17	21	22	14	1	13	10	2	8	27	41	12
-ATG	1	2	7	3	1	1	1	0	1	4	1	1
-ACT	7	11	8	6	1	7	4	3	0	11	9	3
-ACC	5	15	6	3	0	6	6	2	3	15	23	13
-ACA	13	19	20	7	1	11	10	3	2	15	24	11
-ACG	0	0	2	1	1	0	1	0	0	0	2	0
-AAT	6	7	10	3	1	5	1	1	2	12	12	8
-AAC	8	13	6	3	0	7	2	2	3	3	21	12
-AAA	8	10	9	4	4	3	2	3	1	12	17	9
-AAG	0	1	0	0	0	1	0	0	0	0	1	1
-AGT	0	1	1	2	0	0	0	0	0	2	3	0
-AGC	0	3	2	2	0	4	4	1	0	7	7	1
-GTT	0	1	10	6	1	2	3	0	1	5	4	5
-GTC	4	0	7	2	0	3	1	0	1	1	3	4
-GTA	6	5	14	6	0	3	8	4	2	7	9	5
-GTG	1	2	4	1	0	1	3	0	1	0	0	1
-GCT	7	8	16	4	0	7	8	3	2	8	15	8
-GCC	6	14	8	2	2	5	6	3	2	8	9	5
-GCA	13	2	18	3	1	4	1	2	2	9	14	10
-GCG	0	1	1	0	0	0	1	0	0	1	0	0
-GAT	3	1	6	5	0	0	2	1	1	0	4	3
-GAC	1	0	9	6	0	0	1	1	0	6	6	6
-GAA	10	3	8	12	5	1	8	5	2	7	10	6
-GAG	0	2	1	1	1	2	0	1	0	2	0	0
-GGT	2	4	15	3	1	2	6	0	2	2	5	5
-GGC	4	3	12	1	1	3	7	3	1	15	8	9
-GGA	7	8	18	3	0	1	7	2	2	4	20	7
-GGG	0	0	2	1	0	0	1	0	0	0	1	4
-TAA	0	1	1	0	0	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006883654.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	11	10	9	0	7	7	10	1	9	2	0	2	8	1	7	9	29	1	7	3	10	0	1	2	5	1	0	1	6	0	16	14	17	1	7	5	13	0	6	8	8	0	0	0	0	4	6	1	7	6	13	0	3	1	10	0	2	4	7	0	0	1	0	0
+1	ND2	YP_006883655.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	5	9	12	0	5	11	4	0	4	4	0	1	11	1	13	8	25	2	4	6	8	0	0	5	11	0	0	0	3	0	19	19	21	2	11	15	19	0	7	13	10	1	1	3	1	0	5	2	8	14	2	1	1	0	3	2	4	3	8	0	1	0	0	0
+2	COX1	YP_006883656.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	19	24	19	1	11	6	10	1	12	7	0	1	15	2	10	8	17	3	13	6	9	0	6	11	6	1	1	0	7	0	31	14	22	7	8	6	20	2	10	6	9	0	1	2	10	7	14	4	16	8	18	1	6	9	8	1	15	12	18	2	1	0	0	0
+3	COX2	YP_006883657.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	5	3	10	1	6	2	5	0	7	5	1	1	5	0	5	2	12	2	6	4	4	0	4	3	7	2	0	2	4	0	10	5	14	3	6	3	7	1	3	3	4	0	2	2	6	2	6	1	4	2	3	0	5	6	12	1	3	1	3	1	0	0	0	0
+4	ATP8	YP_006883658.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	2	2	4	1	1	0	2	0	3	0	0	1	3	0	1	3	3	0	2	2	3	0	0	1	3	0	0	0	0	0	5	5	1	1	1	0	1	1	1	0	4	0	0	0	1	0	0	0	0	2	1	0	0	0	5	1	1	1	0	0	0	0	0	0
+5	ATP6	YP_006883659.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	5	6	12	1	3	1	4	0	3	0	1	1	4	0	10	7	12	3	5	3	6	0	4	1	7	0	1	1	4	0	19	10	13	1	7	6	11	0	5	7	3	1	0	4	2	3	3	1	7	5	4	0	0	0	1	2	2	3	1	0	1	0	0	0
+6	COX3	YP_006883660.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	11	11	8	1	8	1	6	0	5	9	0	2	10	2	5	5	10	5	3	2	6	0	10	6	8	0	0	2	2	1	8	10	10	1	4	6	10	1	1	2	2	0	0	4	3	1	8	3	8	6	1	1	2	1	8	0	6	7	7	1	0	0	0	0
+7	ND3	YP_006883661.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	3	7	6	0	3	0	2	0	4	1	1	0	3	1	3	3	14	1	2	4	1	0	0	0	3	0	0	1	0	0	5	5	2	0	3	2	3	0	1	2	3	0	0	1	0	0	4	0	3	3	2	0	1	1	5	1	0	3	2	0	0	0	0	0
+8	ND4L	YP_006883662.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	2	3	7	1	1	3	4	0	2	0	2	1	0	0	4	2	10	0	1	0	0	0	2	2	2	0	0	0	1	0	5	4	8	1	0	3	2	0	2	3	1	0	0	0	1	1	2	1	2	2	2	0	1	0	2	0	2	1	2	0	1	0	0	0
+9	ND4	YP_006883663.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	8	10	20	0	14	9	10	0	13	7	2	5	11	1	22	14	35	1	7	7	7	0	7	7	7	1	0	2	7	1	26	15	27	4	11	15	15	0	12	3	12	0	2	7	5	1	7	0	8	8	9	1	0	6	7	2	2	15	4	0	0	0	0	0
+10	ND5	YP_006883664.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	21	23	23	1	11	8	12	0	7	8	1	6	11	1	15	11	35	2	11	2	16	1	6	10	15	1	1	1	7	0	34	32	41	1	9	23	24	2	12	21	17	1	3	7	4	3	9	0	15	9	14	0	4	6	10	0	5	8	20	1	1	0	0	0
+11	CYTB	YP_006883666.1	Sarcophilus harrisii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Dasyuromorphia, Dasyuridae, Sarcophilus	11	18	12	1	9	7	5	1	6	8	2	1	11	1	7	15	27	0	7	3	13	1	2	10	6	1	2	2	4	0	24	15	12	1	3	13	11	0	8	12	9	1	0	1	5	4	5	1	8	5	10	0	3	6	6	0	5	9	7	4	0	0	1	0

@@ -1,65 +1,9 @@
-	YP_009108299.1|COX1	YP_009108300.1|ND6	YP_009108301.1|ND5	YP_009108302.1|ND1	YP_009108303.1|ND4L	YP_009108305.1|COX2	YP_009108309.1|ND4	YP_009108311.1|ND2
-TTT	38	8	34	19	3	5	22	16
-TTC	8	6	8	5	0	2	2	8
-TTA	33	9	46	21	8	12	39	25
-TTG	7	8	11	5	2	4	13	9
-TCT	14	1	22	10	6	7	6	8
-TCC	4	3	7	4	1	1	5	4
-TCA	13	2	14	7	3	6	6	8
-TCG	1	0	2	1	1	2	2	1
-TAT	13	5	20	10	1	4	16	9
-TAC	5	0	9	6	0	2	4	8
-TGT	4	2	1	4	3	1	7	3
-TGC	0	3	1	4	1	3	2	0
-TGA	9	2	7	3	0	3	11	5
-TGG	5	1	3	3	0	3	1	5
-CTT	7	6	19	6	6	3	8	8
-CTC	3	0	5	2	0	1	0	3
-CTA	9	7	16	7	3	6	8	12
-CTG	1	6	2	6	0	0	2	4
-CCT	11	0	11	4	0	5	8	4
-CCC	6	0	4	1	0	0	2	2
-CCA	5	2	5	3	0	5	6	1
-CCG	1	0	0	0	0	1	1	2
-CAT	13	1	7	0	0	3	5	3
-CAC	6	0	2	1	0	4	2	1
-CAA	4	2	5	5	0	6	3	2
-CAG	1	3	3	1	1	2	1	2
-CGT	5	0	4	3	0	2	1	0
-CGC	2	0	1	2	0	0	1	0
-CGA	3	1	2	2	2	2	3	0
-CGG	1	0	0	0	0	1	1	1
-ATT	32	11	36	19	10	13	29	17
-ATC	7	1	6	4	1	2	8	5
-ATA	21	7	28	10	8	14	32	24
-ATG	12	2	6	10	7	3	12	4
-ACT	15	0	13	9	0	5	6	6
-ACC	2	3	6	1	3	1	3	2
-ACA	11	2	5	3	0	3	3	4
-ACG	1	1	3	1	1	2	1	2
-AAT	12	1	13	6	3	4	8	4
-AAC	4	1	2	2	1	1	2	0
-AAA	5	1	12	6	1	3	9	4
-AAG	2	2	2	2	1	1	4	5
-AGT	2	1	9	2	1	2	3	6
-AGC	0	3	7	2	0	2	1	0
-AGA	8	0	11	4	2	3	14	9
-AGG	2	6	10	3	1	2	11	3
-GTT	16	3	17	12	4	3	14	3
-GTC	3	1	4	3	0	2	3	4
-GTA	17	4	13	8	3	10	12	14
-GTG	6	5	10	3	0	2	11	3
-GCT	9	1	14	14	2	7	13	5
-GCC	8	4	4	1	1	1	2	2
-GCA	10	1	8	1	1	3	8	4
-GCG	1	0	0	2	0	2	2	2
-GAT	6	1	8	3	0	5	0	3
-GAC	7	1	2	2	1	4	2	0
-GAA	7	3	2	1	1	8	3	5
-GAG	4	2	7	8	1	3	7	1
-GGT	14	1	6	8	1	3	8	4
-GGC	2	1	5	1	0	2	4	2
-GGA	17	4	10	2	1	6	6	13
-GGG	14	3	10	5	0	1	7	3
-TAA	1	1	0	1	0	1	1	0
-TAG	0	0	1	0	1	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009108299.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	38	8	33	7	14	4	13	1	13	5	4	0	9	5	7	3	9	1	11	6	5	1	13	6	4	1	5	2	3	1	32	7	21	12	15	2	11	1	12	4	5	2	2	0	8	2	16	3	17	6	9	8	10	1	6	7	7	4	14	2	17	14	1	0
+1	ND6	YP_009108300.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	8	6	9	8	1	3	2	0	5	0	2	3	2	1	6	0	7	6	0	0	2	0	1	0	2	3	0	0	1	0	11	1	7	2	0	3	2	1	1	1	1	2	1	3	0	6	3	1	4	5	1	4	1	0	1	1	3	2	1	1	4	3	1	0
+2	ND5	YP_009108301.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	34	8	46	11	22	7	14	2	20	9	1	1	7	3	19	5	16	2	11	4	5	0	7	2	5	3	4	1	2	0	36	6	28	6	13	6	5	3	13	2	12	2	9	7	11	10	17	4	13	10	14	4	8	0	8	2	2	7	6	5	10	10	0	1
+3	ND1	YP_009108302.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	19	5	21	5	10	4	7	1	10	6	4	4	3	3	6	2	7	6	4	1	3	0	0	1	5	1	3	2	2	0	19	4	10	10	9	1	3	1	6	2	6	2	2	2	4	3	12	3	8	3	14	1	1	2	3	2	1	8	8	1	2	5	1	0
+4	ND4L	YP_009108303.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	3	0	8	2	6	1	3	1	1	0	3	1	0	0	6	0	3	0	0	0	0	0	0	0	0	1	0	0	2	0	10	1	8	7	0	3	0	1	3	1	1	1	1	0	2	1	4	0	3	0	2	1	1	0	0	1	1	1	1	0	1	0	0	1
+5	COX2	YP_009108305.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	5	2	12	4	7	1	6	2	4	2	1	3	3	3	3	1	6	0	5	0	5	1	3	4	6	2	2	0	2	1	13	2	14	3	5	1	3	2	4	1	3	1	2	2	3	2	3	2	10	2	7	1	3	2	5	4	8	3	3	2	6	1	1	0
+6	ND4	YP_009108309.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	22	2	39	13	6	5	6	2	16	4	7	2	11	1	8	0	8	2	8	2	6	1	5	2	3	1	1	1	3	1	29	8	32	12	6	3	3	1	8	2	9	4	3	1	14	11	14	3	12	11	13	2	8	2	0	2	3	7	8	4	6	7	1	0
+7	ND2	YP_009108311.1	Cerion incanum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Urocoptoidea, Cerionidae, Cerion	16	8	25	9	8	4	8	1	9	8	3	0	5	5	8	3	12	4	4	2	1	2	3	1	2	2	0	0	0	1	17	5	24	4	6	2	4	2	4	0	4	5	6	0	9	3	3	4	14	3	5	2	4	2	3	0	5	1	4	2	13	3	0	1

@@ -1,65 +1,13 @@
-	YP_009349112.1|ND1	YP_009349113.1|ND2	YP_009349114.1|COX1	YP_009349115.1|COX2	YP_009349116.1|ATP8	YP_009349117.1|ATP6	YP_009349118.1|COX3	YP_009349119.1|ND3	YP_009349120.1|ND4L	YP_009349121.1|ND4	YP_009349122.1|ND5	YP_009349124.1|CYTB
-TTT	6	5	26	6	1	9	7	5	4	9	22	11
-TTC	11	4	16	3	2	4	15	4	4	8	18	19
-TTA	15	14	11	4	1	8	5	6	7	23	14	20
-TTG	1	2	2	0	1	1	1	0	0	3	2	1
-TCT	2	4	6	4	1	0	1	1	1	3	7	5
-TCC	6	4	11	4	1	0	4	2	2	8	12	4
-TCA	8	10	7	4	2	2	4	1	3	9	11	13
-TCG	1	1	1	0	0	2	2	1	0	2	2	0
-TAT	3	4	12	4	0	1	3	1	0	6	0	6
-TAC	9	4	6	5	0	3	9	1	0	8	10	8
-TGT	0	0	0	1	0	0	0	1	1	3	3	1
-TGC	0	1	1	1	0	0	2	0	2	2	3	2
-TGA	5	9	14	5	5	5	11	4	1	18	12	11
-TGG	3	2	3	0	0	0	1	1	0	1	2	2
-CTT	11	8	12	9	1	11	8	2	3	11	17	7
-CTC	4	13	7	6	0	9	4	5	6	12	19	9
-CTA	27	28	21	8	1	16	12	9	8	33	33	18
-CTG	5	4	9	1	1	3	4	5	0	6	6	5
-CCT	2	2	2	2	1	2	2	1	0	7	4	1
-CCC	10	5	12	5	1	5	2	3	2	8	5	5
-CCA	12	8	11	7	5	9	8	4	0	12	19	14
-CCG	0	3	3	0	0	1	0	0	0	2	1	1
-CAT	2	1	8	2	0	2	4	0	0	3	4	3
-CAC	3	6	11	8	2	1	12	0	4	9	9	9
-CAA	7	12	5	7	2	7	9	3	3	10	14	6
-CAG	0	2	3	1	0	1	0	0	0	2	5	0
-CGT	0	1	0	0	0	0	2	0	0	0	2	1
-CGC	1	0	2	2	0	0	1	0	2	3	1	1
-CGA	5	3	3	4	0	5	2	1	0	6	7	6
-CGG	2	0	3	0	0	1	0	1	1	2	0	0
-ATT	10	14	22	9	2	17	10	7	1	37	43	21
-ATC	11	12	15	8	3	5	5	1	0	8	16	8
-ATA	9	15	14	8	1	7	5	1	4	14	24	11
-ATG	3	5	10	5	1	3	3	1	2	9	4	2
-ACT	3	3	6	3	3	5	3	0	2	7	10	2
-ACC	14	21	12	0	0	7	7	2	2	18	28	11
-ACA	6	25	15	8	0	7	13	6	3	16	23	9
-ACG	0	2	4	0	0	0	0	0	1	2	2	0
-AAT	3	5	5	2	0	3	0	1	0	2	10	8
-AAC	9	3	10	4	3	5	1	2	2	8	17	9
-AAA	6	7	8	4	3	1	2	1	0	7	18	9
-AAG	1	2	0	0	0	0	0	0	0	2	3	1
-AGT	0	0	1	0	0	2	0	0	0	2	6	0
-AGC	3	3	4	3	0	4	3	0	2	6	8	1
-GTT	3	2	9	8	0	5	1	1	1	3	6	7
-GTC	7	1	11	7	0	3	5	1	0	3	10	5
-GTA	7	3	18	4	3	9	9	3	1	9	10	14
-GTG	2	0	6	2	0	1	0	1	0	2	1	2
-GCT	6	3	6	0	1	4	5	2	0	5	13	3
-GCC	12	21	26	8	1	8	8	3	11	14	25	13
-GCA	13	11	16	6	1	7	8	4	3	14	14	12
-GCG	2	3	0	2	0	0	1	0	0	0	1	1
-GAT	2	1	8	3	0	0	2	2	0	0	8	5
-GAC	2	2	6	9	2	1	3	2	1	3	6	6
-GAA	7	4	8	11	3	4	6	4	3	7	8	5
-GAG	4	2	3	4	0	0	4	2	0	4	3	1
-GGT	2	3	7	1	0	0	0	0	0	2	4	1
-GGC	6	5	10	2	0	5	11	2	1	10	12	4
-GGA	6	6	21	2	0	4	9	5	4	12	11	13
-GGG	4	4	7	4	0	2	2	0	0	5	4	7
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009349112.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	6	11	15	1	2	6	8	1	3	9	0	0	5	3	11	4	27	5	2	10	12	0	2	3	7	0	0	1	5	2	10	11	9	3	3	14	6	0	3	9	6	1	0	3	3	7	7	2	6	12	13	2	2	2	7	4	2	6	6	4	1	0	0	0
+1	ND2	YP_009349113.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	5	4	14	2	4	4	10	1	4	4	0	1	9	2	8	13	28	4	2	5	8	3	1	6	12	2	1	0	3	0	14	12	15	5	3	21	25	2	5	3	7	2	0	3	2	1	3	0	3	21	11	3	1	2	4	2	3	5	6	4	0	0	0	0
+2	COX1	YP_009349114.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	26	16	11	2	6	11	7	1	12	6	0	1	14	3	12	7	21	9	2	12	11	3	8	11	5	3	0	2	3	3	22	15	14	10	6	12	15	4	5	10	8	0	1	4	9	11	18	6	6	26	16	0	8	6	8	3	7	10	21	7	1	0	0	0
+3	COX2	YP_009349115.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	6	3	4	0	4	4	4	0	4	5	1	1	5	0	9	6	8	1	2	5	7	0	2	8	7	1	0	2	4	0	9	8	8	5	3	0	8	0	2	4	4	0	0	3	8	7	4	2	0	8	6	2	3	9	11	4	1	2	2	4	0	0	0	0
+4	ATP8	YP_009349116.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	1	2	1	1	1	1	2	0	0	0	0	0	5	0	1	0	1	1	1	1	5	0	0	2	2	0	0	0	0	0	2	3	1	1	3	0	0	0	0	3	3	0	0	0	0	0	3	0	1	1	1	0	0	2	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009349117.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	9	4	8	1	0	0	2	2	1	3	0	0	5	0	11	9	16	3	2	5	9	1	2	1	7	1	0	0	5	1	17	5	7	3	5	7	7	0	3	5	1	0	2	4	5	3	9	1	4	8	7	0	0	1	4	0	0	5	4	2	0	0	0	0
+6	COX3	YP_009349118.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	7	15	5	1	1	4	4	2	3	9	0	2	11	1	8	4	12	4	2	2	8	0	4	12	9	0	2	1	2	0	10	5	5	3	3	7	13	0	0	1	2	0	0	3	1	5	9	0	5	8	8	1	2	3	6	4	0	11	9	2	0	0	0	0
+7	ND3	YP_009349119.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	5	4	6	0	1	2	1	1	1	1	1	0	4	1	2	5	9	5	1	3	4	0	0	0	3	0	0	0	1	1	7	1	1	1	0	2	6	0	1	2	1	0	0	0	1	1	3	1	2	3	4	0	2	2	4	2	0	2	5	0	0	0	0	0
+8	ND4L	YP_009349120.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	4	4	7	0	1	2	3	0	0	0	1	2	1	0	3	6	8	0	0	2	0	0	0	4	3	0	0	2	0	1	1	0	4	2	2	2	3	1	0	2	0	0	0	2	1	0	1	0	0	11	3	0	0	1	3	0	0	1	4	0	1	0	0	0
+9	ND4	YP_009349121.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	9	8	23	3	3	8	9	2	6	8	3	2	18	1	11	12	33	6	7	8	12	2	3	9	10	2	0	3	6	2	37	8	14	9	7	18	16	2	2	8	7	2	2	6	3	3	9	2	5	14	14	0	0	3	7	4	2	10	12	5	0	0	0	0
+10	ND5	YP_009349122.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	22	18	14	2	7	12	11	2	0	10	3	3	12	2	17	19	33	6	4	5	19	1	4	9	14	5	2	1	7	0	43	16	24	4	10	28	23	2	10	17	18	3	6	8	6	10	10	1	13	25	14	1	8	6	8	3	4	12	11	4	1	0	0	0
+11	CYTB	YP_009349124.1	Acanthocobitis zonalternans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Acanthocobitis	11	19	20	1	5	4	13	0	6	8	1	2	11	2	7	9	18	5	1	5	14	1	3	9	6	0	1	1	6	0	21	8	11	2	2	11	9	0	8	9	9	1	0	1	7	5	14	2	3	13	12	1	5	6	5	1	1	4	13	7	0	0	0	0

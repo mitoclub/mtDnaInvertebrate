@@ -1,65 +1,12 @@
-	YP_008758120.1|ND1	YP_008758121.1|ND2	YP_008758122.1|COX1	YP_008758123.1|COX2	YP_008758124.1|ATP8	YP_008758125.1|ATP6	YP_008758126.1|COX3	YP_008758127.1|ND3	YP_008758128.1|ND4L	YP_008758129.1|ND4	YP_008758132.1|CYTB
-TTT	6	6	12	2	2	4	11	2	3	8	9
-TTC	14	4	29	6	2	10	11	7	5	7	21
-TTA	5	5	10	2	0	8	2	2	0	15	8
-TTG	0	1	1	0	0	3	0	1	0	2	0
-TCT	4	2	6	2	0	2	2	3	2	5	2
-TCC	8	7	11	8	1	3	6	4	5	9	12
-TCA	7	5	5	3	1	1	6	2	1	8	4
-TCG	1	2	2	0	1	0	0	0	1	0	0
-TAT	4	1	5	2	0	0	4	2	1	2	5
-TAC	9	5	14	6	0	3	8	0	0	13	10
-TGT	0	0	0	1	0	0	0	1	2	1	1
-TGC	0	0	1	1	0	0	1	0	1	4	2
-TGA	8	10	16	3	5	5	11	4	1	14	13
-TGG	0	1	1	2	0	0	1	1	0	3	0
-CTT	4	10	14	6	0	6	6	5	3	16	7
-CTC	23	29	14	8	3	18	9	9	9	19	25
-CTA	25	28	17	8	2	15	12	11	7	30	25
-CTG	8	6	5	8	0	3	3	1	5	14	3
-CCT	4	2	9	1	2	1	1	1	0	6	3
-CCC	15	11	11	9	5	8	8	3	1	10	9
-CCA	5	10	5	6	2	8	3	3	1	6	11
-CCG	0	1	3	0	0	0	1	0	0	3	0
-CAT	1	0	2	5	0	2	2	0	1	6	1
-CAC	3	8	17	3	2	2	15	0	2	11	11
-CAA	6	10	6	6	3	6	8	2	3	7	6
-CAG	0	4	1	3	0	3	0	1	0	2	0
-CGT	1	1	1	0	0	1	0	0	0	3	0
-CGC	1	0	1	2	0	0	2	1	2	3	1
-CGA	6	3	7	2	0	4	4	1	1	4	7
-CGG	1	0	0	2	0	1	0	0	0	1	0
-ATT	8	8	25	8	2	9	6	3	2	13	11
-ATC	14	14	19	14	4	10	9	4	0	20	21
-ATA	4	12	12	4	0	7	5	1	1	16	4
-ATG	2	4	14	5	1	1	4	1	3	9	3
-ACT	1	7	7	3	1	4	0	1	1	6	4
-ACC	14	31	9	4	2	10	10	5	4	24	8
-ACA	10	13	21	3	3	8	9	0	3	13	10
-ACG	0	0	2	0	0	0	0	0	0	4	0
-AAT	2	1	7	2	0	4	0	0	0	5	1
-AAC	8	11	8	5	3	5	1	1	3	7	15
-AAA	7	8	7	3	2	1	2	1	0	9	10
-AAG	0	1	0	1	0	0	0	0	0	2	0
-AGT	0	0	0	0	0	0	0	0	0	1	0
-AGC	3	3	6	3	0	4	3	1	1	7	1
-GTT	5	1	5	3	0	3	4	1	1	5	3
-GTC	9	4	8	5	1	4	7	4	1	3	11
-GTA	3	2	19	8	0	4	6	1	0	2	6
-GTG	1	0	3	1	0	1	0	0	0	2	1
-GCT	0	2	9	5	0	2	3	1	0	7	4
-GCC	24	18	27	5	2	13	12	7	5	24	13
-GCA	9	12	10	2	0	4	8	1	7	5	13
-GCG	0	0	2	2	0	0	0	0	0	4	1
-GAT	0	0	3	1	1	0	2	0	0	3	2
-GAC	4	2	11	12	0	1	3	3	1	3	10
-GAA	11	4	9	11	1	4	7	5	1	8	4
-GAG	0	0	2	4	1	0	2	2	1	2	1
-GGT	0	1	3	1	0	1	2	0	1	2	2
-GGC	8	10	22	2	0	7	9	4	3	13	15
-GGA	7	6	13	2	0	2	10	2	1	5	8
-GGG	1	1	7	4	0	1	0	0	1	4	1
-TAA	1	0	1	0	1	1	0	0	1	0	1
-TAG	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008758120.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	6	14	5	0	4	8	7	1	4	9	0	0	8	0	4	23	25	8	4	15	5	0	1	3	6	0	1	1	6	1	8	14	4	2	1	14	10	0	2	8	7	0	0	3	5	9	3	1	0	24	9	0	0	4	11	0	0	8	7	1	1	0	0	0
+1	ND2	YP_008758121.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	6	4	5	1	2	7	5	2	1	5	0	0	10	1	10	29	28	6	2	11	10	1	0	8	10	4	1	0	3	0	8	14	12	4	7	31	13	0	1	11	8	1	0	3	1	4	2	0	2	18	12	0	0	2	4	0	1	10	6	1	0	0	0	0
+2	COX1	YP_008758122.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	12	29	10	1	6	11	5	2	5	14	0	1	16	1	14	14	17	5	9	11	5	3	2	17	6	1	1	1	7	0	25	19	12	14	7	9	21	2	7	8	7	0	0	6	5	8	19	3	9	27	10	2	3	11	9	2	3	22	13	7	1	0	0	0
+3	COX2	YP_008758123.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	2	6	2	0	2	8	3	0	2	6	1	1	3	2	6	8	8	8	1	9	6	0	5	3	6	3	0	2	2	2	8	14	4	5	3	4	3	0	2	5	3	1	0	3	3	5	8	1	5	5	2	2	1	12	11	4	1	2	2	4	0	0	0	0
+4	ATP8	YP_008758124.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	2	2	0	0	0	1	1	1	0	0	0	0	5	0	0	3	2	0	2	5	2	0	0	2	3	0	0	0	0	0	2	4	0	1	1	2	3	0	0	3	2	0	0	0	0	1	0	0	0	2	0	0	1	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_008758125.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	4	10	8	3	2	3	1	0	0	3	0	0	5	0	6	18	15	3	1	8	8	0	2	2	6	3	1	0	4	1	9	10	7	1	4	10	8	0	4	5	1	0	0	4	3	4	4	1	2	13	4	0	0	1	4	0	1	7	2	1	1	0	0	0
+6	COX3	YP_008758126.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	11	11	2	0	2	6	6	0	4	8	0	1	11	1	6	9	12	3	1	8	3	1	2	15	8	0	0	2	4	0	6	9	5	4	0	10	9	0	0	1	2	0	0	3	4	7	6	0	3	12	8	0	2	3	7	2	2	9	10	0	0	1	0	0
+7	ND3	YP_008758127.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	2	7	2	1	3	4	2	0	2	0	1	0	4	1	5	9	11	1	1	3	3	0	0	0	2	1	0	1	1	0	3	4	1	1	1	5	0	0	0	1	1	0	0	1	1	4	1	0	1	7	1	0	0	3	5	2	0	4	2	0	0	0	0	0
+8	ND4L	YP_008758128.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	3	5	0	0	2	5	1	1	1	0	2	1	1	0	3	9	7	5	0	1	1	0	1	2	3	0	0	2	1	0	2	0	1	3	1	4	3	0	0	3	0	0	0	1	1	1	0	0	0	5	7	0	0	1	1	1	1	3	1	1	1	0	0	0
+9	ND4	YP_008758129.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	8	7	15	2	5	9	8	0	2	13	1	4	14	3	16	19	30	14	6	10	6	3	6	11	7	2	3	3	4	1	13	20	16	9	6	24	13	4	5	7	9	2	1	7	5	3	2	2	7	24	5	4	3	3	8	2	2	13	5	4	0	0	0	0
+10	CYTB	YP_008758132.1	Channa marulius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Channoidei, Channidae, Channa	9	21	8	0	2	12	4	0	5	10	1	2	13	0	7	25	25	3	3	9	11	0	1	11	6	0	0	1	7	0	11	21	4	3	4	8	10	0	1	15	10	0	0	1	3	11	6	1	4	13	13	1	2	10	4	1	2	15	8	1	1	0	0	0

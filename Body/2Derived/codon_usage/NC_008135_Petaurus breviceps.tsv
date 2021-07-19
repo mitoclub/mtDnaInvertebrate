@@ -1,65 +1,13 @@
-	YP_637036.1|ND1	YP_637037.1|ND2	YP_637038.1|COX1	YP_637039.1|COX2	YP_637040.1|ATP8	YP_637041.1|ATP6	YP_637042.1|COX3	YP_637043.1|ND3	YP_637044.1|ND4L	YP_637045.1|ND4	YP_637046.1|ND5	YP_637048.1|CYTB
-TTT	10	6	26	6	1	4	8	4	1	11	17	5
-TTC	8	7	16	0	0	7	15	3	4	9	22	20
-TTA	14	20	20	5	2	5	10	8	4	24	16	11
-TTG	0	1	0	2	1	0	0	0	0	1	1	0
-TCT	5	4	7	2	2	2	1	2	0	10	14	2
-TCC	6	5	4	2	2	0	4	3	1	15	6	7
-TCA	10	16	15	6	3	8	9	0	8	13	23	12
-TCG	0	0	0	2	0	0	1	1	0	1	0	2
-TAT	8	4	10	9	2	1	7	1	0	6	7	4
-TAC	6	4	10	5	1	2	5	4	3	13	10	10
-TGT	1	0	1	2	0	1	1	2	1	2	4	0
-TGC	1	0	0	0	1	1	2	0	2	3	1	3
-TGA	8	11	15	5	3	3	11	3	0	8	11	12
-TGG	1	0	2	0	0	1	1	1	0	3	1	0
-CTT	11	3	15	4	1	10	5	6	2	22	11	14
-CTC	7	8	5	2	1	3	2	3	3	5	10	5
-CTA	26	27	19	17	6	20	12	9	11	30	44	33
-CTG	1	1	1	1	0	5	3	2	2	5	5	1
-CCT	3	4	10	5	1	4	3	0	1	5	9	4
-CCC	1	1	3	1	2	0	0	1	0	3	1	2
-CCA	15	15	15	8	3	11	8	7	1	13	14	16
-CCG	0	0	0	0	0	0	0	0	0	0	1	2
-CAT	0	2	7	3	3	2	8	0	2	6	10	1
-CAC	1	6	10	3	1	3	8	0	1	8	10	11
-CAA	5	9	8	9	4	6	8	3	1	9	15	7
-CAG	1	0	0	0	0	1	0	0	0	0	1	0
-CGT	1	0	4	0	0	2	1	0	0	0	2	2
-CGC	2	0	0	3	0	1	1	0	0	3	2	1
-CGA	5	3	4	3	0	2	3	1	1	7	5	5
-CGG	0	0	0	0	0	1	0	0	0	0	1	0
-ATT	18	20	31	11	1	14	10	9	4	24	32	12
-ATC	15	19	13	7	4	12	10	4	3	20	31	25
-ATA	17	25	24	12	3	10	10	4	8	29	37	13
-ATG	0	5	4	5	1	5	1	0	3	4	6	1
-ACT	6	11	8	7	1	5	5	1	0	6	10	4
-ACC	3	17	14	4	3	7	6	3	1	10	24	9
-ACA	15	14	15	8	1	11	11	4	2	18	20	13
-ACG	0	0	0	1	1	0	0	0	0	0	0	0
-AAT	9	7	11	1	1	4	1	0	2	11	13	6
-AAC	6	12	7	3	0	5	6	2	2	10	21	11
-AAA	8	10	9	5	6	5	2	4	2	11	18	11
-AAG	0	0	0	0	0	0	0	0	0	0	2	0
-AGT	0	2	1	1	0	1	0	0	1	4	3	0
-AGC	0	3	2	3	0	3	3	1	1	6	7	1
-GTT	2	1	8	2	0	3	1	1	0	2	0	3
-GTC	2	1	7	1	1	1	3	0	0	2	4	3
-GTA	3	2	19	7	1	5	10	0	3	10	9	9
-GTG	3	2	2	3	0	1	0	0	0	1	0	0
-GCT	6	4	12	4	0	6	3	3	2	6	11	8
-GCC	11	10	12	0	0	6	7	2	4	12	13	11
-GCA	10	6	15	5	1	3	2	2	3	5	14	7
-GCG	0	0	2	0	0	0	1	0	0	0	0	0
-GAT	1	0	8	4	1	1	1	0	0	1	4	4
-GAC	3	1	6	6	2	0	2	2	1	2	6	7
-GAA	9	5	8	14	1	3	8	6	2	7	10	5
-GAG	1	0	1	0	0	0	0	0	0	2	1	1
-GGT	1	2	14	0	0	3	2	2	0	2	3	3
-GGC	5	3	9	3	0	3	8	0	3	10	10	5
-GGA	6	7	21	3	0	3	10	2	2	5	16	15
-GGG	1	1	3	2	0	0	1	0	0	4	3	2
-TAA	1	1	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_637036.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	10	8	14	0	5	6	10	0	8	6	1	1	8	1	11	7	26	1	3	1	15	0	0	1	5	1	1	2	5	0	18	15	17	0	6	3	15	0	9	6	8	0	0	0	2	2	3	3	6	11	10	0	1	3	9	1	1	5	6	1	1	0	0	0
+1	ND2	YP_637037.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	6	7	20	1	4	5	16	0	4	4	0	0	11	0	3	8	27	1	4	1	15	0	2	6	9	0	0	0	3	0	20	19	25	5	11	17	14	0	7	12	10	0	2	3	1	1	2	2	4	10	6	0	0	1	5	0	2	3	7	1	1	0	0	0
+2	COX1	YP_637038.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	26	16	20	0	7	4	15	0	10	10	1	0	15	2	15	5	19	1	10	3	15	0	7	10	8	0	4	0	4	0	31	13	24	4	8	14	15	0	11	7	9	0	1	2	8	7	19	2	12	12	15	2	8	6	8	1	14	9	21	3	1	0	0	0
+3	COX2	YP_637039.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	6	0	5	2	2	2	6	2	9	5	2	0	5	0	4	2	17	1	5	1	8	0	3	3	9	0	0	3	3	0	11	7	12	5	7	4	8	1	1	3	5	0	1	3	2	1	7	3	4	0	5	0	4	6	14	0	0	3	3	2	0	0	0	0
+4	ATP8	YP_637040.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	1	0	2	1	2	2	3	0	2	1	0	1	3	0	1	1	6	0	1	2	3	0	3	1	4	0	0	0	0	0	1	4	3	1	1	3	1	1	1	0	6	0	0	0	0	1	1	0	0	0	1	0	1	2	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_637041.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	4	7	5	0	2	0	8	0	1	2	1	1	3	1	10	3	20	5	4	0	11	0	2	3	6	1	2	1	2	1	14	12	10	5	5	7	11	0	4	5	5	0	1	3	3	1	5	1	6	6	3	0	1	0	3	0	3	3	3	0	1	0	0	0
+6	COX3	YP_637042.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	8	15	10	0	1	4	9	1	7	5	1	2	11	1	5	2	12	3	3	0	8	0	8	8	8	0	1	1	3	0	10	10	10	1	5	6	11	0	1	6	2	0	0	3	1	3	10	0	3	7	2	1	1	2	8	0	2	8	10	1	0	0	0	0
+7	ND3	YP_637043.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	4	3	8	0	2	3	0	1	1	4	2	0	3	1	6	3	9	2	0	1	7	0	0	0	3	0	0	0	1	0	9	4	4	0	1	3	4	0	0	2	4	0	0	1	1	0	0	0	3	2	2	0	0	2	6	0	2	0	2	0	0	0	0	0
+8	ND4L	YP_637044.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	1	4	4	0	0	1	8	0	0	3	1	2	0	0	2	3	11	2	1	0	1	0	2	1	1	0	0	0	1	0	4	3	8	3	0	1	2	0	2	2	2	0	1	1	0	0	3	0	2	4	3	0	0	1	2	0	0	3	2	0	1	0	0	0
+9	ND4	YP_637045.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	11	9	24	1	10	15	13	1	6	13	2	3	8	3	22	5	30	5	5	3	13	0	6	8	9	0	0	3	7	0	24	20	29	4	6	10	18	0	11	10	11	0	4	6	2	2	10	1	6	12	5	0	1	2	7	2	2	10	5	4	0	0	0	0
+10	ND5	YP_637046.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	17	22	16	1	14	6	23	0	7	10	4	1	11	1	11	10	44	5	9	1	14	1	10	10	15	1	2	2	5	1	32	31	37	6	10	24	20	0	13	21	18	2	3	7	0	4	9	0	11	13	14	0	4	6	10	1	3	10	16	3	1	0	0	0
+11	CYTB	YP_637048.1	Petaurus breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Metatheria, Diprotodontia, Petauridae, Petaurus	5	20	11	0	2	7	12	2	4	10	0	3	12	0	14	5	33	1	4	2	16	2	1	11	7	0	2	1	5	0	12	25	13	1	4	9	13	0	6	11	11	0	0	1	3	3	9	0	8	11	7	0	4	7	5	1	3	5	15	2	0	0	1	0

@@ -1,65 +1,13 @@
-	YP_009113387.1|ND1	YP_009113388.1|ND2	YP_009113389.1|COX1	YP_009113390.1|COX2	YP_009113391.1|ATP8	YP_009113392.1|ATP6	YP_009113393.1|COX3	YP_009113394.1|ND3	YP_009113395.1|ND4L	YP_009113396.1|ND4	YP_009113397.1|ND5	YP_009113399.1|CYTB
-TTT	9	2	23	6	1	5	7	3	2	6	10	6
-TTC	14	9	19	3	0	2	15	6	5	13	23	20
-TTA	13	15	19	8	3	21	11	10	4	18	20	14
-TTG	2	1	4	1	0	0	1	0	0	4	4	2
-TCT	1	8	7	3	0	3	1	1	2	4	9	4
-TCC	7	11	7	4	1	1	2	0	3	4	11	4
-TCA	18	6	11	7	2	3	7	3	7	13	21	15
-TCG	0	0	3	0	0	1	1	1	0	1	2	0
-TAT	4	4	8	5	1	2	5	3	0	3	6	5
-TAC	8	4	10	4	1	1	6	4	0	12	10	10
-TGT	0	0	1	2	0	0	1	1	4	3	1	2
-TGC	1	2	0	0	0	1	1	0	0	3	4	1
-TGA	7	8	14	5	5	4	12	5	0	12	11	11
-TGG	0	3	3	0	0	0	0	0	1	3	1	0
-CTT	7	3	9	4	2	6	2	1	3	8	13	8
-CTC	6	5	7	2	0	5	1	5	0	8	12	14
-CTA	25	18	16	11	4	25	17	6	13	41	39	24
-CTG	3	5	4	0	0	2	1	3	1	4	3	0
-CCT	2	3	2	2	0	3	4	1	2	4	4	4
-CCC	4	5	6	1	2	2	2	1	0	7	3	5
-CCA	16	13	17	11	4	8	7	7	1	18	20	14
-CCG	0	0	1	0	0	0	0	1	0	0	0	0
-CAT	1	5	11	8	0	3	7	0	1	3	6	4
-CAC	2	4	10	5	0	0	9	0	4	6	6	7
-CAA	7	16	8	5	2	9	7	2	4	10	15	9
-CAG	0	0	1	1	0	0	1	1	0	2	1	0
-CGT	0	1	3	1	0	0	0	0	0	2	1	1
-CGC	1	0	0	1	0	1	0	1	0	1	2	1
-CGA	6	5	5	4	0	4	4	0	1	8	6	6
-CGG	0	1	0	0	0	0	1	0	0	0	0	0
-ATT	14	9	23	11	3	8	5	8	2	16	34	12
-ATC	11	25	15	8	1	12	11	3	4	22	28	21
-ATA	21	22	27	15	1	10	10	4	8	38	36	13
-ATG	2	4	3	2	1	2	1	1	2	1	5	2
-ACT	3	6	10	9	1	5	2	3	1	14	13	9
-ACC	10	18	10	3	4	10	7	3	2	13	25	14
-ACA	9	26	16	3	3	15	15	3	1	24	30	9
-ACG	2	0	1	0	0	1	1	1	0	0	1	0
-AAT	6	3	8	4	4	3	2	3	0	5	11	3
-AAC	8	6	6	5	2	7	3	1	2	5	23	18
-AAA	6	12	9	5	3	2	2	2	0	11	21	8
-AAG	1	2	0	0	0	1	0	1	0	1	3	2
-AGT	0	1	1	0	0	1	2	0	1	1	4	1
-AGC	2	5	3	2	1	2	2	0	2	9	3	1
-GTT	1	2	7	1	0	0	2	0	0	1	2	0
-GTC	1	2	6	3	0	2	2	0	0	2	2	4
-GTA	8	4	20	11	1	7	10	0	0	8	8	10
-GTG	0	0	4	1	0	0	1	0	1	0	2	1
-GCT	5	4	12	2	0	6	4	0	4	6	5	3
-GCC	8	9	13	2	0	4	8	3	2	14	18	13
-GCA	9	10	16	7	0	2	6	3	1	11	14	7
-GCG	0	0	4	0	0	0	0	0	0	0	0	0
-GAT	2	0	6	2	0	1	2	3	0	2	0	3
-GAC	2	2	9	7	2	0	3	0	0	0	12	6
-GAA	9	5	10	10	0	4	6	6	3	11	8	5
-GAG	2	0	0	3	0	0	1	0	0	1	1	0
-GGT	1	1	6	0	0	1	5	2	1	2	6	5
-GGC	5	3	13	1	0	1	6	1	2	7	8	6
-GGA	6	6	19	5	0	7	7	1	1	10	11	12
-GGG	4	2	9	2	0	1	2	0	1	2	3	2
-TAA	1	0	0	1	1	1	0	0	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009113387.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	9	14	13	2	1	7	18	0	4	8	0	1	7	0	7	6	25	3	2	4	16	0	1	2	7	0	0	1	6	0	14	11	21	2	3	10	9	2	6	8	6	1	0	2	1	1	8	0	5	8	9	0	2	2	9	2	1	5	6	4	1	0	0	0
+1	ND2	YP_009113388.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	2	9	15	1	8	11	6	0	4	4	0	2	8	3	3	5	18	5	3	5	13	0	5	4	16	0	1	0	5	1	9	25	22	4	6	18	26	0	3	6	12	2	1	5	2	2	4	0	4	9	10	0	0	2	5	0	1	3	6	2	0	0	0	0
+2	COX1	YP_009113389.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	23	19	19	4	7	7	11	3	8	10	1	0	14	3	9	7	16	4	2	6	17	1	11	10	8	1	3	0	5	0	23	15	27	3	10	10	16	1	8	6	9	0	1	3	7	6	20	4	12	13	16	4	6	9	10	0	6	13	19	9	0	0	0	1
+3	COX2	YP_009113390.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	6	3	8	1	3	4	7	0	5	4	2	0	5	0	4	2	11	0	2	1	11	0	8	5	5	1	1	1	4	0	11	8	15	2	9	3	3	0	4	5	5	0	0	2	1	3	11	1	2	2	7	0	2	7	10	3	0	1	5	2	1	0	0	0
+4	ATP8	YP_009113391.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	1	0	3	0	0	1	2	0	1	1	0	0	5	0	2	0	4	0	0	2	4	0	0	0	2	0	0	0	0	0	3	1	1	1	1	4	3	0	4	2	3	0	0	1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009113392.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	5	2	21	0	3	1	3	1	2	1	0	1	4	0	6	5	25	2	3	2	8	0	3	0	9	0	0	1	4	0	8	12	10	2	5	10	15	1	3	7	2	1	1	2	0	2	7	0	6	4	2	0	1	0	4	0	1	1	7	1	1	0	0	0
+6	COX3	YP_009113393.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	7	15	11	1	1	2	7	1	5	6	1	1	12	0	2	1	17	1	4	2	7	0	7	9	7	1	0	0	4	1	5	11	10	1	2	7	15	1	2	3	2	0	2	2	2	2	10	1	4	8	6	0	2	3	6	1	5	6	7	2	0	0	0	0
+7	ND3	YP_009113394.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	3	6	10	0	1	0	3	1	3	4	1	0	5	0	1	5	6	3	1	1	7	1	0	0	2	1	0	1	0	0	8	3	4	1	3	3	3	1	3	1	2	1	0	0	0	0	0	0	0	3	3	0	3	0	6	0	2	1	1	0	0	0	0	0
+8	ND4L	YP_009113395.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	2	5	4	0	2	3	7	0	0	0	4	0	0	1	3	0	13	1	2	0	1	0	1	4	4	0	0	0	1	0	2	4	8	2	1	2	1	0	0	2	0	0	1	2	0	0	0	1	4	2	1	0	0	0	3	0	1	2	1	1	1	0	0	0
+9	ND4	YP_009113396.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	6	13	18	4	4	4	13	1	3	12	3	3	12	3	8	8	41	4	4	7	18	0	3	6	10	2	2	1	8	0	16	22	38	1	14	13	24	0	5	5	11	1	1	9	1	2	8	0	6	14	11	0	2	0	11	1	2	7	10	2	1	0	0	0
+10	ND5	YP_009113397.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	10	23	20	4	9	11	21	2	6	10	1	4	11	1	13	12	39	3	4	3	20	0	6	6	15	1	1	2	6	0	34	28	36	5	13	25	30	1	11	23	21	3	4	3	2	2	8	2	5	18	14	0	0	12	8	1	6	8	11	3	1	0	0	0
+11	CYTB	YP_009113399.1	Cyclemys pulchristriata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cyclemys	6	20	14	2	4	4	15	0	5	10	2	1	11	0	8	14	24	0	4	5	14	0	4	7	9	0	1	1	6	0	12	21	13	2	9	14	9	0	3	18	8	2	1	1	0	4	10	1	3	13	7	0	3	6	5	0	5	6	12	2	0	0	0	0

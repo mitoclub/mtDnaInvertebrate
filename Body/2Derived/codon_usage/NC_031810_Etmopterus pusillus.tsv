@@ -1,65 +1,13 @@
-	YP_009316449.1|ND1	YP_009316450.1|ND2	YP_009316451.1|COX1	YP_009316452.1|COX2	YP_009316453.1|ATP8	YP_009316454.1|ATP6	YP_009316455.1|COX3	YP_009316456.1|ND3	YP_009316457.1|ND4L	YP_009316458.1|ND4	YP_009316459.1|ND5	YP_009316461.1|CYTB
-TTT	17	12	35	7	3	11	16	8	5	16	27	19
-TTC	2	5	5	1	2	4	9	1	0	6	13	14
-TTA	18	30	19	16	3	19	13	10	11	34	34	17
-TTG	2	2	1	0	0	0	0	0	1	2	7	1
-TCT	2	5	10	4	0	2	0	1	1	7	10	7
-TCC	5	9	6	5	0	2	1	3	4	9	15	5
-TCA	14	10	9	4	2	1	8	1	5	13	15	9
-TCG	0	1	0	0	0	0	1	1	0	1	2	0
-TAT	9	5	12	8	0	2	10	2	0	12	9	6
-TAC	4	2	7	2	0	2	3	1	2	2	4	8
-TGT	0	1	1	1	0	0	1	1	1	1	3	1
-TGC	0	0	0	1	0	0	1	0	2	3	3	2
-TGA	6	7	14	5	4	5	10	4	1	18	12	10
-TGG	2	3	3	0	1	0	2	1	0	2	2	1
-CTT	14	19	15	7	0	10	6	5	6	27	21	11
-CTC	6	9	9	2	0	4	4	5	2	8	9	11
-CTA	16	14	16	2	0	14	10	6	2	19	27	13
-CTG	5	3	3	0	1	3	1	3	1	0	4	8
-CCT	7	1	6	4	3	2	3	1	1	2	7	1
-CCC	3	2	5	1	3	2	1	3	1	5	4	5
-CCA	10	14	16	8	3	11	7	2	0	14	15	8
-CCG	2	1	2	0	0	0	1	2	0	0	1	6
-CAT	2	2	9	4	0	2	7	0	2	4	5	3
-CAC	5	4	11	6	2	1	9	0	1	7	8	9
-CAA	5	11	9	7	2	9	7	2	2	11	16	8
-CAG	2	1	0	2	0	0	1	0	0	1	4	0
-CGT	2	0	2	2	0	1	2	1	0	2	1	2
-CGC	1	1	0	2	0	0	0	1	0	2	3	2
-CGA	4	3	7	2	0	3	3	0	2	7	3	2
-CGG	1	0	0	0	0	1	0	0	0	0	2	2
-ATT	20	26	30	20	0	20	8	8	5	45	52	31
-ATC	8	7	10	2	2	3	3	2	1	9	11	12
-ATA	11	12	21	11	2	9	8	2	4	21	21	9
-ATG	5	3	4	3	1	3	1	1	1	2	8	2
-ACT	9	7	9	4	2	8	2	0	3	9	17	5
-ACC	1	16	9	3	1	6	6	1	3	12	13	10
-ACA	14	15	17	5	2	11	11	3	2	14	15	10
-ACG	0	1	0	1	0	0	1	2	0	0	1	0
-AAT	8	5	9	1	3	6	2	1	1	10	18	13
-AAC	3	7	6	3	2	5	0	2	2	5	17	6
-AAA	7	9	8	4	5	1	2	1	0	11	25	9
-AAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGT	1	2	0	2	1	2	0	0	0	6	7	2
-AGC	1	4	4	1	0	2	3	1	2	4	4	3
-GTT	4	2	15	5	0	4	8	1	0	5	8	5
-GTC	2	1	2	2	2	2	4	1	0	1	4	5
-GTA	6	5	21	10	1	5	7	0	1	4	6	2
-GTG	1	0	4	0	0	0	0	1	0	0	1	3
-GCT	5	5	10	2	1	4	7	1	1	7	6	5
-GCC	8	12	17	2	0	5	9	3	5	10	20	13
-GCA	12	8	21	9	0	6	6	3	5	12	15	6
-GCG	0	0	0	0	0	0	0	1	0	0	1	0
-GAT	3	0	9	5	0	0	4	2	1	2	10	4
-GAC	1	0	5	7	0	1	1	2	0	4	4	4
-GAA	8	6	10	16	1	4	9	6	2	10	9	6
-GAG	2	0	1	0	0	0	1	0	0	0	2	0
-GGT	4	4	12	4	0	3	2	1	0	1	2	3
-GGC	10	6	12	0	0	2	10	1	3	6	9	5
-GGA	4	2	15	5	0	3	7	4	3	11	13	11
-GGG	0	5	5	0	0	1	2	0	0	4	4	6
-TAA	1	0	1	0	1	1	1	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009316449.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	17	2	18	2	2	5	14	0	9	4	0	0	6	2	14	6	16	5	7	3	10	2	2	5	5	2	2	1	4	1	20	8	11	5	9	1	14	0	8	3	7	0	1	1	4	2	6	1	5	8	12	0	3	1	8	2	4	10	4	0	1	0	0	0
+1	ND2	YP_009316450.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	12	5	30	2	5	9	10	1	5	2	1	0	7	3	19	9	14	3	1	2	14	1	2	4	11	1	0	1	3	0	26	7	12	3	7	16	15	1	5	7	9	1	2	4	2	1	5	0	5	12	8	0	0	0	6	0	4	6	2	5	0	0	0	0
+2	COX1	YP_009316451.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	35	5	19	1	10	6	9	0	12	7	1	0	14	3	15	9	16	3	6	5	16	2	9	11	9	0	2	0	7	0	30	10	21	4	9	9	17	0	9	6	8	0	0	4	15	2	21	4	10	17	21	0	9	5	10	1	12	12	15	5	1	0	0	0
+3	COX2	YP_009316452.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	7	1	16	0	4	5	4	0	8	2	1	1	5	0	7	2	2	0	4	1	8	0	4	6	7	2	2	2	2	0	20	2	11	3	4	3	5	1	1	3	4	0	2	1	5	2	10	0	2	2	9	0	5	7	16	0	4	0	5	0	0	0	0	0
+4	ATP8	YP_009316453.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	3	2	3	0	0	0	2	0	0	0	0	0	4	1	0	0	0	1	3	3	3	0	0	2	2	0	0	0	0	0	0	2	2	1	2	1	2	0	3	2	5	0	1	0	0	2	1	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009316454.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	11	4	19	0	2	2	1	0	2	2	0	0	5	0	10	4	14	3	2	2	11	0	2	1	9	0	1	0	3	1	20	3	9	3	8	6	11	0	6	5	1	0	2	2	4	2	5	0	4	5	6	0	0	1	4	0	3	2	3	1	1	0	0	0
+6	COX3	YP_009316455.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	16	9	13	0	0	1	8	1	10	3	1	1	10	2	6	4	10	1	3	1	7	1	7	9	7	1	2	0	3	0	8	3	8	1	2	6	11	1	2	0	2	0	0	3	8	4	7	0	7	9	6	0	4	1	9	1	2	10	7	2	1	0	0	0
+7	ND3	YP_009316456.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	8	1	10	0	1	3	1	1	2	1	1	0	4	1	5	5	6	3	1	3	2	2	0	0	2	0	1	1	0	0	8	2	2	1	0	1	3	2	1	2	1	0	0	1	1	1	0	1	1	3	3	1	2	2	6	0	1	1	4	0	0	0	0	0
+8	ND4L	YP_009316457.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	5	0	11	1	1	4	5	0	0	2	1	2	1	0	6	2	2	1	1	1	0	0	2	1	2	0	0	0	2	0	5	1	4	1	3	3	2	0	1	2	0	0	0	2	0	0	1	0	1	5	5	0	1	0	2	0	0	3	3	0	1	0	0	0
+9	ND4	YP_009316458.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	16	6	34	2	7	9	13	1	12	2	1	3	18	2	27	8	19	0	2	5	14	0	4	7	11	1	2	2	7	0	45	9	21	2	9	12	14	0	10	5	11	0	6	4	5	1	4	0	7	10	12	0	2	4	10	0	1	6	11	4	0	0	0	0
+10	ND5	YP_009316459.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	27	13	34	7	10	15	15	2	9	4	3	3	12	2	21	9	27	4	7	4	15	1	5	8	16	4	1	3	3	2	52	11	21	8	17	13	15	1	18	17	25	0	7	4	8	4	6	1	6	20	15	1	10	4	9	2	2	9	13	4	0	1	0	0
+11	CYTB	YP_009316461.1	Etmopterus pusillus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squaliformes, Etmopteridae, Etmopterus	19	14	17	1	7	5	9	0	6	8	1	2	10	1	11	11	13	8	1	5	8	6	3	9	8	0	2	2	2	2	31	12	9	2	5	10	10	0	13	6	9	0	2	3	5	5	2	3	5	13	6	0	4	4	6	0	3	5	11	6	1	0	0	0

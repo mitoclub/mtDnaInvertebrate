@@ -1,65 +1,10 @@
-	YP_009740589.1|ND2	YP_009740590.1|COX1	YP_009740591.1|COX2	YP_009740592.1|ATP8	YP_009740593.1|ATP6	YP_009740594.1|COX3	YP_009740595.1|ND3	YP_009740599.1|ND6	YP_009740600.1|CYTB
-TTT	12	32	8	5	15	16	6	15	27
-TTC	11	6	3	3	3	10	3	3	5
-TTA	25	38	17	3	26	21	12	16	29
-TTG	5	2	0	0	1	0	1	0	1
-TCT	2	9	3	0	3	1	1	0	3
-TCC	5	2	1	0	2	0	1	1	1
-TCA	19	19	6	1	10	11	4	5	9
-TCG	3	0	1	0	0	0	0	0	0
-TAT	9	9	5	0	4	7	3	4	14
-TAC	2	7	2	0	1	4	0	0	4
-TGT	2	1	2	0	0	1	2	1	3
-TGC	0	0	0	0	0	0	0	0	1
-TGA	8	14	5	3	5	11	2	2	10
-TGG	2	1	1	0	0	3	0	0	2
-CTT	3	11	6	1	3	4	1	0	3
-CTC	3	2	3	0	0	0	0	0	2
-CTA	12	11	4	3	7	6	2	2	11
-CTG	3	0	0	0	0	1	0	0	0
-CCT	1	7	4	3	7	2	1	1	12
-CCC	2	1	0	0	1	0	1	0	0
-CCA	7	15	4	1	3	7	3	3	10
-CCG	0	1	0	0	0	0	0	0	0
-CAT	0	9	4	0	3	7	0	0	9
-CAC	2	6	2	0	2	5	0	1	2
-CAA	10	8	6	2	3	7	3	4	8
-CAG	0	1	0	0	0	0	0	1	0
-CGT	1	0	1	0	0	0	1	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	5	0	3	3	1	0	7
-CGG	0	1	1	0	0	0	0	0	1
-ATT	29	43	19	3	20	21	17	27	42
-ATC	11	10	8	1	2	3	8	0	5
-ATA	31	31	13	6	17	13	7	25	28
-ATG	6	4	1	0	1	1	0	1	1
-ACT	4	7	7	2	9	5	1	3	5
-ACC	3	0	1	0	1	1	1	0	2
-ACA	12	27	15	1	16	14	5	10	13
-ACG	1	0	0	0	0	0	0	0	1
-AAT	9	15	12	3	15	6	2	12	20
-AAC	10	5	1	1	2	2	0	2	4
-AAA	13	5	6	6	4	3	6	10	8
-AAG	0	2	0	1	0	0	0	0	1
-AGT	0	4	2	0	0	1	1	0	0
-AGC	1	0	0	1	0	1	0	0	0
-AGA	9	10	5	2	7	8	3	4	4
-AGG	1	0	0	0	0	0	0	0	0
-GTT	7	9	1	1	3	7	1	3	9
-GTC	0	1	1	0	0	0	0	0	1
-GTA	6	18	5	0	5	8	2	4	9
-GTG	1	1	0	0	0	0	0	1	0
-GCT	3	12	5	0	1	4	3	0	3
-GCC	3	5	0	0	1	1	1	1	1
-GCA	6	13	2	0	5	7	1	0	11
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	12	11	0	1	5	3	1	8
-GAC	0	3	1	0	0	0	0	1	0
-GAA	8	10	9	0	3	6	4	3	5
-GAG	2	0	0	0	1	1	0	0	0
-GGT	4	12	0	0	2	3	1	2	4
-GGC	0	0	0	0	0	0	0	0	1
-GGA	9	29	8	0	7	12	1	3	12
-GGG	1	4	0	0	0	3	1	0	6
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009740589.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	12	11	25	5	2	5	19	3	9	2	2	0	8	2	3	3	12	3	1	2	7	0	0	2	10	0	1	0	1	0	29	11	31	6	4	3	12	1	9	10	13	0	0	1	9	1	7	0	6	1	3	3	6	0	0	0	8	2	4	0	9	1	1	0
+1	COX1	YP_009740590.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	32	6	38	2	9	2	19	0	9	7	1	0	14	1	11	2	11	0	7	1	15	1	9	6	8	1	0	0	7	1	43	10	31	4	7	0	27	0	15	5	5	2	4	0	10	0	9	1	18	1	12	5	13	1	12	3	10	0	12	0	29	4	0	0
+2	COX2	YP_009740591.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	8	3	17	0	3	1	6	1	5	2	2	0	5	1	6	3	4	0	4	0	4	0	4	2	6	0	1	0	5	1	19	8	13	1	7	1	15	0	12	1	6	0	2	0	5	0	1	1	5	0	5	0	2	0	11	1	9	0	0	0	8	0	1	0
+3	ATP8	YP_009740592.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	5	3	3	0	0	0	1	0	0	0	0	0	3	0	1	0	3	0	3	0	1	0	0	0	2	0	0	0	0	0	3	1	6	0	2	0	1	0	3	1	6	1	0	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009740593.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	15	3	26	1	3	2	10	0	4	1	0	0	5	0	3	0	7	0	7	1	3	0	3	2	3	0	0	0	3	0	20	2	17	1	9	1	16	0	15	2	4	0	0	0	7	0	3	0	5	0	1	1	5	0	1	0	3	1	2	0	7	0	1	0
+5	COX3	YP_009740594.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	16	10	21	0	1	0	11	0	7	4	1	0	11	3	4	0	6	1	2	0	7	0	7	5	7	0	0	0	3	0	21	3	13	1	5	1	14	0	6	2	3	0	1	1	8	0	7	0	8	0	4	1	7	0	5	0	6	1	3	0	12	3	1	0
+6	ND3	YP_009740595.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	6	3	12	1	1	1	4	0	3	0	2	0	2	0	1	0	2	0	1	1	3	0	0	0	3	0	1	0	1	0	17	8	7	0	1	1	5	0	2	0	6	0	1	0	3	0	1	0	2	0	3	1	1	0	3	0	4	0	1	0	1	1	1	0
+7	ND6	YP_009740599.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	15	3	16	0	0	1	5	0	4	0	1	0	2	0	0	0	2	0	1	0	3	0	0	1	4	1	1	0	0	0	27	0	25	1	3	0	10	0	12	2	10	0	0	0	4	0	3	0	4	1	0	1	0	0	1	1	3	0	2	0	3	0	1	0
+8	CYTB	YP_009740600.1	Xiangelilacris zhongdianensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Melanoplinae, Podismini, Xiangelilacris	27	5	29	1	3	1	9	0	14	4	3	1	10	2	3	2	11	0	12	0	10	0	9	2	8	0	0	0	7	1	42	5	28	1	5	2	13	1	20	4	8	1	0	0	4	0	9	1	9	0	3	1	11	0	8	0	5	0	4	1	12	6	1	0

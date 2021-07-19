@@ -1,65 +1,32 @@
-	YP_009353031.1|atp9	YP_009353032.1|rps8	YP_009353033.1|rpl6	YP_009353034.1|rps2	YP_009353035.1|rps4	YP_009353036.1|nad1	YP_009353038.1|orf41	YP_009353039.1|rps12	YP_009353040.1|rps7	YP_009353041.1|nad4L	YP_009353042.1|rpl14	YP_009353043.1|rpl5	YP_009353049.1|rps13	YP_009353050.1|rps11	YP_009353051.1|cox3	YP_009353052.1|atp6	YP_009353053.1|nad2	YP_009353054.1|cox1	YP_009353055.1|nad9	YP_009353056.1|cob	YP_009353057.1|cox2	YP_009353058.1|nad4	YP_009353059.1|nad5	YP_009353060.1|nad6	YP_009353061.1|nad11	YP_009353062.1|nad3	YP_009353063.1|rps14	YP_009353064.1|atp8	YP_009353065.1|rps10	YP_009353066.1|rpl31	YP_009353067.1|nad7
-TTT	5	5	10	9	21	25	4	2	7	9	0	16	4	7	31	25	51	47	13	33	50	50	63	20	14	14	5	8	8	6	18
-TTC	1	0	0	0	1	1	0	0	2	1	1	0	0	1	1	1	7	6	1	4	6	2	7	4	1	0	1	2	0	0	1
-TTA	3	8	2	12	14	25	3	8	9	9	5	16	6	8	11	18	36	31	8	23	55	28	40	18	7	4	7	3	9	5	16
-TTG	4	5	7	7	9	9	1	3	9	1	4	1	3	9	7	7	24	17	5	15	34	26	22	11	1	4	2	1	4	2	12
-TCT	1	5	6	5	8	6	3	4	6	3	4	3	2	4	8	2	14	12	6	9	29	11	16	14	5	4	5	1	6	0	7
-TCC	0	0	1	2	1	4	0	1	1	1	0	0	1	1	0	1	5	5	1	0	5	5	6	3	3	1	1	0	1	0	1
-TCA	0	4	1	3	3	2	0	1	3	4	4	1	0	1	2	2	4	7	2	3	10	7	12	3	1	2	2	0	0	0	2
-TCG	0	0	0	1	0	3	0	1	1	1	1	1	0	0	1	3	8	5	1	3	8	5	6	1	1	1	0	1	2	1	4
-TAT	0	5	9	9	8	11	0	2	3	1	0	6	3	7	6	7	21	16	4	19	22	16	25	7	1	6	2	1	3	1	14
-TAC	0	1	2	1	6	1	0	1	3	0	1	1	1	1	2	2	3	2	3	8	6	4	5	2	2	2	0	0	1	1	1
-TGT	0	2	3	5	4	5	0	3	0	1	1	6	1	4	2	4	6	0	0	3	7	4	15	2	9	1	2	0	1	0	3
-TGC	0	2	2	1	1	1	1	2	0	1	1	2	0	1	0	0	5	0	2	0	4	0	1	0	4	1	0	0	1	0	2
-TGG	0	1	0	2	8	8	0	1	1	0	1	0	0	0	12	3	9	14	4	14	11	10	13	3	3	4	3	1	1	1	4
-CTT	3	6	3	5	3	15	3	0	4	5	4	3	3	1	5	10	18	14	7	7	27	14	24	12	7	7	2	3	1	0	6
-CTC	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	2	3	1	1	0	2	6	0	0	2	0	0	0	0	0	2
-CTA	4	1	1	1	2	2	0	0	2	1	1	1	0	0	3	5	0	2	0	0	13	10	7	3	0	1	0	0	0	0	1
-CTG	2	0	0	1	1	4	0	0	0	1	0	2	0	0	1	2	0	0	1	2	2	4	3	0	1	1	0	0	2	0	0
-CCT	1	0	2	2	4	6	0	3	3	0	0	4	2	1	5	5	6	10	5	8	14	7	10	2	4	2	1	2	2	1	2
-CCC	0	0	3	2	3	1	1	1	1	0	1	1	0	1	0	2	1	2	1	1	4	1	1	1	2	0	0	0	0	0	4
-CCA	0	2	1	0	3	2	0	3	2	0	1	1	2	0	3	2	2	8	2	6	9	3	6	0	2	2	0	0	0	1	4
-CCG	0	1	1	0	4	6	0	1	1	0	1	4	1	0	2	2	3	9	2	6	5	3	0	1	0	1	0	0	1	0	5
-CAT	0	1	1	2	6	1	0	2	3	1	2	4	4	3	9	2	3	12	7	12	20	7	9	3	3	0	1	0	1	1	8
-CAC	0	0	0	0	3	0	0	0	1	0	0	0	0	0	2	4	2	4	2	1	4	2	5	0	1	0	0	0	2	0	6
-CAA	1	0	2	3	8	3	1	5	4	2	5	5	2	1	4	4	2	4	4	3	20	5	6	5	7	2	3	2	2	2	10
-CAG	0	1	0	0	1	3	0	0	0	0	0	2	2	0	4	2	1	5	0	0	3	2	5	2	0	0	2	0	0	1	5
-CGT	1	4	2	5	10	4	0	6	4	0	3	2	3	3	2	2	1	6	5	2	8	3	7	0	3	1	5	2	1	0	6
-CGC	0	1	1	2	2	1	0	0	2	2	0	0	2	2	1	0	0	0	0	0	0	1	3	0	0	0	1	0	0	1	0
-CGA	0	1	0	0	7	0	0	2	2	0	4	0	1	4	1	0	0	1	3	3	1	1	4	0	1	1	1	0	0	2	2
-CGG	0	1	1	0	5	1	0	0	0	0	2	1	2	0	2	0	4	2	0	1	5	2	1	0	1	1	3	0	1	0	5
-ATT	6	5	6	6	8	22	1	5	5	9	6	6	4	8	14	12	31	26	11	18	49	22	24	12	11	6	2	2	3	3	16
-ATC	0	3	3	0	3	1	0	0	0	1	1	0	2	1	3	3	5	2	1	5	12	3	4	2	1	2	0	0	1	1	1
-ATA	0	2	6	8	5	7	3	2	7	5	0	6	3	2	4	12	12	13	3	8	23	14	22	7	5	4	1	2	2	3	6
-ATG	3	2	3	5	4	10	1	1	4	2	3	3	2	1	9	9	12	24	1	16	16	13	20	7	5	1	2	2	2	1	16
-ACT	2	3	2	3	5	6	0	2	0	0	2	4	5	5	6	3	4	9	1	6	18	3	15	4	7	0	0	2	1	1	2
-ACC	1	0	1	0	1	1	0	0	0	0	1	0	1	0	1	3	7	4	1	5	7	3	3	2	0	1	0	0	0	1	4
-ACA	1	2	3	3	2	1	0	2	0	1	2	2	1	6	4	5	5	13	5	3	9	10	8	2	1	1	1	0	1	2	6
-ACG	0	1	1	2	4	2	0	1	1	0	0	0	1	0	1	1	3	6	2	7	6	9	5	3	3	0	1	1	0	0	3
-AAT	1	4	7	10	13	9	2	5	8	3	2	11	5	9	4	4	11	16	9	15	47	13	16	12	6	2	8	4	7	1	9
-AAC	0	0	2	1	0	4	0	0	4	0	1	1	1	4	1	1	1	1	1	4	11	3	2	2	4	0	0	0	1	2	1
-AAA	1	8	8	15	14	6	7	12	12	1	11	14	7	14	2	3	13	5	5	10	77	8	13	7	8	1	5	1	10	5	18
-AAG	0	0	6	3	7	1	0	8	6	0	4	0	2	5	2	0	1	3	0	1	15	1	4	3	3	0	4	1	3	1	4
-AGT	0	1	4	4	5	3	2	1	2	2	3	5	2	5	5	8	14	7	2	11	23	9	14	5	2	2	1	1	2	2	6
-AGC	0	1	3	2	2	1	0	0	2	0	1	0	0	1	1	3	5	3	2	2	7	2	4	3	2	1	1	0	1	0	2
-AGA	2	1	1	4	1	2	1	4	6	0	3	3	3	6	0	0	2	1	4	5	12	3	3	2	4	0	2	2	1	1	6
-AGG	0	2	0	1	4	2	0	3	4	2	0	0	0	3	1	0	0	3	1	1	8	3	0	0	1	0	2	0	3	0	6
-GTT	3	5	10	6	4	16	0	4	7	7	7	7	6	9	18	12	29	26	7	19	30	24	23	16	5	3	3	2	5	2	18
-GTC	0	0	1	0	1	5	0	1	0	0	3	0	0	2	1	0	8	3	2	1	4	1	3	2	2	0	2	1	0	1	2
-GTA	0	1	3	4	1	6	1	3	0	3	2	2	2	2	2	4	4	2	1	7	12	10	10	2	6	2	0	0	1	0	5
-GTG	1	1	3	5	1	1	0	2	3	2	2	4	1	3	3	4	3	6	3	6	6	6	9	2	0	0	1	0	0	0	9
-GCT	10	2	3	2	4	11	1	2	5	3	7	1	1	0	13	9	10	24	1	11	25	10	23	11	4	9	2	0	0	1	11
-GCC	2	1	0	1	0	5	0	1	2	2	0	2	0	0	3	2	6	5	1	4	9	8	9	3	1	1	1	0	0	0	4
-GCA	2	0	2	1	1	6	1	0	4	1	2	0	4	1	4	3	13	4	1	7	10	6	10	1	2	1	0	1	2	0	4
-GCG	1	0	0	1	4	1	0	1	4	1	1	1	1	1	2	2	4	6	1	5	10	6	5	1	1	0	1	1	0	0	3
-GAT	1	6	4	9	8	5	1	3	3	3	2	3	5	4	4	1	7	8	9	12	63	6	15	10	5	6	1	1	0	3	22
-GAC	0	0	0	0	1	2	0	0	3	0	0	0	2	1	1	2	2	5	1	1	15	3	2	2	1	1	0	0	1	1	0
-GAA	0	4	3	5	3	6	1	0	4	1	2	3	2	3	2	3	8	4	7	6	50	8	12	2	8	6	2	1	3	4	20
-GAG	2	0	2	4	5	4	0	1	4	1	0	4	1	0	6	1	5	2	7	2	40	2	3	2	4	2	2	1	2	1	10
-GGT	8	4	7	6	6	15	0	5	3	4	6	4	7	4	16	15	18	32	5	18	24	16	30	8	14	2	1	0	1	3	16
-GGC	0	1	2	2	0	3	0	2	4	0	1	1	1	1	2	0	0	3	0	1	7	3	4	1	1	0	0	0	1	0	4
-GGA	2	3	4	4	4	5	2	4	4	0	2	1	0	3	8	1	8	8	3	4	9	2	8	4	2	3	1	0	2	0	7
-GGG	0	2	2	2	3	7	0	1	1	2	2	3	2	5	2	4	4	12	1	11	9	13	16	3	2	0	0	0	0	1	6
-TAA	0	0	1	1	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1
-TAG	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-TGA	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	atp9	YP_009353031.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	5	1	3	4	1	0	0	0	0	0	0	0	0	3	0	4	2	1	0	0	0	0	0	1	0	1	0	0	0	6	0	0	3	2	1	1	0	1	0	1	0	0	0	2	0	3	0	0	1	10	2	2	1	1	0	0	2	8	0	2	0	0	1	0
+1	rps8	YP_009353032.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	5	0	8	5	5	0	4	0	5	1	2	2	1	6	0	1	0	0	0	2	1	1	0	0	1	4	1	1	1	5	3	2	2	3	0	2	1	4	0	8	0	1	1	1	2	5	0	1	1	2	1	0	0	6	0	4	0	4	1	3	2	0	0	1
+2	rpl6	YP_009353033.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	10	0	2	7	6	1	1	0	9	2	3	2	0	3	0	1	0	2	3	1	1	1	0	2	0	2	1	0	1	6	3	6	3	2	1	3	1	7	2	8	6	4	3	1	0	10	1	3	3	3	0	2	0	4	0	3	2	7	2	4	2	1	0	0
+3	rps2	YP_009353034.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	9	0	12	7	5	2	3	1	9	1	5	1	2	5	0	1	1	2	2	0	0	2	0	3	0	5	2	0	0	6	0	8	5	3	0	3	2	10	1	15	3	4	2	4	1	6	0	4	5	2	1	1	1	9	0	5	4	6	2	4	2	1	0	0
+4	rps4	YP_009353035.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	21	1	14	9	8	1	3	0	8	6	4	1	8	3	1	2	1	4	3	3	4	6	3	8	1	10	2	7	5	8	3	5	4	5	1	2	4	13	0	14	7	5	2	1	4	4	1	1	1	4	0	1	4	8	1	3	5	6	0	4	3	0	0	1
+5	nad1	YP_009353036.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	25	1	25	9	6	4	2	3	11	1	5	1	8	15	0	2	4	6	1	2	6	1	0	3	3	4	1	0	1	22	1	7	10	6	1	1	2	9	4	6	1	3	1	2	2	16	5	6	1	11	5	6	1	5	2	6	4	15	3	5	7	0	1	0
+6	orf41	YP_009353038.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	4	0	3	1	3	0	0	0	0	0	0	1	0	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	3	1	0	0	0	0	2	0	7	0	2	0	1	0	0	0	1	0	1	0	1	0	1	0	1	0	0	0	2	0	1	0	0
+7	rps12	YP_009353039.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	2	0	8	3	4	1	1	1	2	1	3	2	1	0	0	0	0	3	1	3	1	2	0	5	0	6	0	2	0	5	0	2	1	2	0	2	1	5	0	12	8	1	0	4	3	4	1	3	2	2	1	0	1	3	0	0	1	5	2	4	1	0	1	0
+8	rps7	YP_009353040.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	7	2	9	9	6	1	3	1	3	3	0	0	1	4	0	2	0	3	1	2	1	3	1	4	0	4	2	2	0	5	0	7	4	0	0	0	1	8	4	12	6	2	2	6	4	7	0	0	3	5	2	4	4	3	3	4	4	3	4	4	1	1	0	0
+9	nad4L	YP_009353041.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	9	1	9	1	3	1	4	1	1	0	1	1	0	5	0	1	1	0	0	0	0	1	0	2	0	0	2	0	0	9	1	5	2	0	0	1	0	3	0	1	0	2	0	0	2	7	0	3	2	3	2	1	1	3	0	1	1	4	0	0	2	1	0	0
+10	rpl14	YP_009353042.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	0	1	5	4	4	0	4	1	0	1	1	1	1	4	0	1	0	0	1	1	1	2	0	5	0	3	0	4	2	6	1	0	3	2	1	2	0	2	1	11	4	3	1	3	0	7	3	2	2	7	0	2	1	2	0	2	0	6	1	2	2	1	0	0
+11	rpl5	YP_009353043.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	16	0	16	1	3	0	1	1	6	1	6	2	0	3	1	1	2	4	1	1	4	4	0	5	2	2	0	0	1	6	0	6	3	4	0	2	0	11	1	14	0	5	0	3	0	7	0	2	4	1	2	0	1	3	0	3	4	4	1	1	3	0	0	1
+12	rps13	YP_009353049.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	4	0	6	3	2	1	0	0	3	1	1	0	0	3	0	0	0	2	0	2	1	4	0	2	2	3	2	1	2	4	2	3	2	5	1	1	1	5	1	7	2	2	0	3	0	6	0	2	1	1	0	4	1	5	2	2	1	7	1	0	2	1	0	0
+13	rps11	YP_009353050.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	7	1	8	9	4	1	1	0	7	1	4	1	0	1	0	0	0	1	1	0	0	3	0	1	0	3	2	4	0	8	1	2	1	5	0	6	0	9	4	14	5	5	1	6	3	9	2	2	3	0	0	1	1	4	1	3	0	4	1	3	5	1	0	0
+14	cox3	YP_009353051.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	31	1	11	7	8	0	2	1	6	2	2	0	12	5	0	3	1	5	0	3	2	9	2	4	4	2	1	1	2	14	3	4	9	6	1	4	1	4	1	2	2	5	1	0	1	18	1	2	3	13	3	4	2	4	1	2	6	16	2	8	2	1	0	0
+15	atp6	YP_009353052.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	25	1	18	7	2	1	2	3	7	2	4	0	3	10	2	5	2	5	2	2	2	2	4	4	2	2	0	0	0	12	3	12	9	3	3	5	1	4	1	3	0	8	3	0	0	12	0	4	4	9	2	3	2	1	2	3	1	15	0	1	4	0	1	0
+16	nad2	YP_009353053.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	51	7	36	24	14	5	4	8	21	3	6	5	9	18	3	0	0	6	1	2	3	3	2	2	1	1	0	0	4	31	5	12	12	4	7	5	3	11	1	13	1	14	5	2	0	29	8	4	3	10	6	13	4	7	2	8	5	18	0	8	4	1	0	0
+17	cox1	YP_009353054.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	47	6	31	17	12	5	7	5	16	2	0	0	14	14	1	2	0	10	2	8	9	12	4	4	5	6	0	1	2	26	2	13	24	9	4	13	6	16	1	5	3	7	3	1	3	26	3	2	6	24	5	4	6	8	5	4	2	32	3	8	12	1	0	0
+18	nad9	YP_009353055.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	13	1	8	5	6	1	2	1	4	3	0	2	4	7	1	0	1	5	1	2	2	7	2	4	0	5	0	3	0	11	1	3	1	1	1	5	2	9	1	5	0	2	2	4	1	7	2	1	3	1	1	1	1	9	1	7	7	5	0	3	1	0	0	1
+19	cob	YP_009353056.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	33	4	23	15	9	0	3	3	19	8	3	0	14	7	0	0	2	8	1	6	6	12	1	3	0	2	0	3	1	18	5	8	16	6	5	3	7	15	4	10	1	11	2	5	1	19	1	7	6	11	4	7	5	12	1	6	2	18	1	4	11	1	0	0
+20	cox2	YP_009353057.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	50	6	55	34	29	5	10	8	22	6	7	4	11	27	2	13	2	14	4	9	5	20	4	20	3	8	0	1	5	49	12	23	16	18	7	9	6	47	11	77	15	23	7	12	8	30	4	12	6	25	9	10	10	63	15	50	40	24	7	9	9	1	0	0
+21	nad4	YP_009353058.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	50	2	28	26	11	5	7	5	16	4	4	0	10	14	6	10	4	7	1	3	3	7	2	5	2	3	1	1	2	22	3	14	13	3	3	10	9	13	3	8	1	9	2	3	3	24	1	10	6	10	8	6	6	6	3	8	2	16	3	2	13	1	0	0
+22	nad5	YP_009353059.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	63	7	40	22	16	6	12	6	25	5	15	1	13	24	0	7	3	10	1	6	0	9	5	6	5	7	3	4	1	24	4	22	20	15	3	8	5	16	2	13	4	14	4	3	0	23	3	10	9	23	9	10	5	15	2	12	3	30	4	8	16	1	0	0
+23	nad6	YP_009353060.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	20	4	18	11	14	3	3	1	7	2	2	0	3	12	0	3	0	2	1	0	1	3	0	5	2	0	0	0	0	12	2	7	7	4	2	2	3	12	2	7	3	5	3	2	0	16	2	2	2	11	3	1	1	10	2	2	2	8	1	4	3	1	0	0
+24	nad11	YP_009353061.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	14	1	7	1	5	3	1	1	1	2	9	4	3	7	2	0	1	4	2	2	0	3	1	7	0	3	0	1	1	11	1	5	5	7	0	1	3	6	4	8	3	2	2	4	1	5	2	6	0	4	1	2	1	5	1	8	4	14	1	2	2	1	0	0
+25	nad3	YP_009353062.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	14	0	4	4	4	1	2	1	6	2	1	1	4	7	0	1	1	2	0	2	1	0	0	2	0	1	0	1	1	6	2	4	1	0	1	1	0	2	0	1	0	2	1	0	0	3	0	2	0	9	1	1	0	6	1	6	2	2	0	3	0	0	0	1
+26	rps14	YP_009353063.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	5	1	7	2	5	1	2	0	2	0	2	0	3	2	0	0	0	1	0	0	0	1	0	3	2	5	1	1	3	2	0	1	2	0	0	1	1	8	0	5	4	1	1	2	2	3	2	0	1	2	1	0	1	1	0	2	2	1	0	1	0	1	0	0
+27	atp8	YP_009353064.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	8	2	3	1	1	0	0	1	1	0	0	0	1	3	0	0	0	2	0	0	0	0	0	2	0	2	0	0	0	2	0	2	2	2	0	0	1	4	0	1	1	1	0	2	0	2	1	0	0	0	0	1	1	1	0	1	1	0	0	0	0	1	0	0
+28	rps10	YP_009353065.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	8	0	9	4	6	1	0	2	3	1	1	1	1	1	0	0	2	2	0	0	1	1	2	2	0	1	0	0	1	3	1	2	2	1	0	1	0	7	1	10	3	2	1	1	3	5	0	1	0	0	0	2	0	0	1	3	2	1	1	2	0	0	1	0
+29	rpl31	YP_009353066.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	6	0	5	2	0	0	0	1	1	1	0	0	1	0	0	0	0	1	0	1	0	1	0	2	1	0	1	2	0	3	1	3	1	1	1	2	0	1	2	5	1	2	0	1	0	2	1	0	0	1	0	0	0	3	1	4	1	3	0	0	1	1	0	0
+30	nad7	YP_009353067.1	Sargassum spinuligerum	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Fucales, Sargassaceae, Sargassum	18	1	16	12	7	1	2	4	14	1	3	2	4	6	2	1	0	2	4	4	5	8	6	10	5	6	0	2	5	16	1	6	16	2	4	6	3	9	1	18	4	6	2	6	6	18	2	5	9	11	4	4	3	22	0	20	10	16	4	7	6	1	0	0

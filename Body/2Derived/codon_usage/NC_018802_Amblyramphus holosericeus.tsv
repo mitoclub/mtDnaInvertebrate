@@ -1,65 +1,13 @@
-	YP_006883837.1|ND1	YP_006883838.1|ND2	YP_006883839.1|COX1	YP_006883840.1|COX2	YP_006883841.1|ATP8	YP_006883842.1|ATP6	YP_006883843.1|COX3	YP_006883844.1|ND3	YP_006883845.1|ND4L	YP_006883846.1|ND4	YP_006883847.1|ND5	YP_006883848.1|CYTB
-TTT	6	2	5	1	2	2	3	0	1	2	7	2
-TTC	14	11	38	8	2	11	21	8	4	9	30	23
-TTA	7	7	5	0	1	2	1	1	2	12	10	3
-TTG	0	0	0	0	0	1	0	0	0	0	1	0
-TCT	3	5	5	1	2	2	4	0	1	5	6	2
-TCC	11	12	9	5	0	5	3	3	5	11	17	7
-TCA	5	4	11	7	2	5	6	2	3	16	12	12
-TCG	0	0	0	0	0	0	1	1	0	0	1	1
-TAT	5	2	1	0	0	1	0	1	0	2	3	2
-TAC	10	5	17	7	0	2	10	1	3	12	11	10
-TGT	1	0	0	1	0	0	0	1	1	0	2	0
-TGC	2	2	1	2	0	0	1	0	2	3	4	4
-TGA	7	7	16	5	4	3	13	5	1	12	12	11
-TGG	1	3	1	0	1	1	0	0	0	0	0	0
-CTT	9	8	6	2	0	5	4	1	2	8	6	5
-CTC	12	20	10	9	3	17	6	8	2	28	31	20
-CTA	27	23	36	17	1	28	19	17	14	46	51	34
-CTG	9	8	6	3	1	6	2	3	0	5	4	4
-CCT	7	5	7	4	1	0	1	0	1	2	4	3
-CCC	7	7	7	1	5	3	6	3	1	10	14	7
-CCA	9	9	16	6	4	10	6	3	0	15	11	13
-CCG	2	1	0	0	1	2	0	1	0	0	1	1
-CAT	0	2	5	1	0	3	3	0	2	2	5	3
-CAC	2	7	13	8	0	0	12	0	4	11	5	10
-CAA	6	9	8	7	2	8	8	4	3	14	14	6
-CAG	0	0	1	0	0	0	1	0	0	1	3	1
-CGT	2	0	1	1	0	0	0	0	0	1	0	1
-CGC	0	1	1	2	0	2	2	1	1	3	3	2
-CGA	5	4	6	3	0	3	3	1	1	7	3	5
-CGG	1	0	0	0	0	0	0	0	0	0	2	0
-ATT	10	8	10	7	1	3	4	0	0	7	15	4
-ATC	13	27	27	8	2	13	11	7	5	35	43	28
-ATA	7	10	16	8	1	5	6	4	5	19	23	7
-ATG	4	5	6	2	2	3	1	0	1	3	5	1
-ACT	3	13	5	3	4	5	3	3	1	7	7	2
-ACC	7	20	14	8	2	5	6	8	3	12	37	11
-ACA	9	13	20	8	0	13	9	1	2	16	26	9
-ACG	0	0	1	0	0	1	1	0	0	3	0	1
-AAT	2	2	0	1	1	1	1	0	0	1	3	4
-AAC	11	11	15	8	3	9	4	2	2	15	24	16
-AAA	6	11	9	4	0	4	4	1	0	10	21	10
-AAG	1	2	0	0	2	0	0	0	0	0	0	0
-AGT	1	0	0	0	0	0	0	0	0	2	0	0
-AGC	5	6	4	4	1	3	4	1	4	9	10	1
-GTT	1	1	7	4	0	0	4	1	0	1	2	2
-GTC	9	1	10	9	0	6	4	0	1	4	6	17
-GTA	7	2	19	3	1	5	7	1	2	6	7	7
-GTG	0	2	4	1	0	1	0	1	0	0	0	0
-GCT	5	8	6	3	0	1	4	0	2	4	6	4
-GCC	13	8	21	10	3	8	15	5	6	26	25	19
-GCA	10	14	16	4	0	4	6	2	3	13	16	4
-GCG	2	0	2	0	0	0	0	0	0	0	2	1
-GAT	2	0	2	3	0	0	0	0	0	0	0	0
-GAC	2	1	13	9	0	3	4	3	1	2	9	9
-GAA	8	4	9	11	0	4	7	6	0	9	11	5
-GAG	3	1	1	0	0	0	1	0	2	1	1	2
-GGT	3	2	4	2	0	1	0	0	0	1	3	1
-GGC	5	3	14	2	0	4	8	2	3	8	11	10
-GGA	4	6	20	4	0	3	10	3	1	6	16	13
-GGG	2	1	9	0	0	0	1	0	0	2	3	0
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006883837.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	6	14	7	0	3	11	5	0	5	10	1	2	7	1	9	12	27	9	7	7	9	2	0	2	6	0	2	0	5	1	10	13	7	4	3	7	9	0	2	11	6	1	1	5	1	9	7	0	5	13	10	2	2	2	8	3	3	5	4	2	0	0	0	1
+1	ND2	YP_006883838.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	2	11	7	0	5	12	4	0	2	5	0	2	7	3	8	20	23	8	5	7	9	1	2	7	9	0	0	1	4	0	8	27	10	5	13	20	13	0	2	11	11	2	0	6	1	1	2	2	8	8	14	0	0	1	4	1	2	3	6	1	0	0	0	0
+2	COX1	YP_006883839.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	5	38	5	0	5	9	11	0	1	17	0	1	16	1	6	10	36	6	7	7	16	0	5	13	8	1	1	1	6	0	10	27	16	6	5	14	20	1	0	15	9	0	0	4	7	10	19	4	6	21	16	2	2	13	9	1	4	14	20	9	0	0	0	1
+3	COX2	YP_006883840.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	1	8	0	0	1	5	7	0	0	7	1	2	5	0	2	9	17	3	4	1	6	0	1	8	7	0	1	2	3	0	7	8	8	2	3	8	8	0	1	8	4	0	0	4	4	9	3	1	3	10	4	0	3	9	11	0	2	2	4	0	1	0	0	0
+4	ATP8	YP_006883841.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	2	2	1	0	2	0	2	0	0	0	0	0	4	1	0	3	1	1	1	5	4	1	0	0	2	0	0	0	0	0	1	2	1	2	4	2	0	0	1	3	0	2	0	1	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_006883842.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	2	11	2	1	2	5	5	0	1	2	0	0	3	1	5	17	28	6	0	3	10	2	3	0	8	0	0	2	3	0	3	13	5	3	5	5	13	1	1	9	4	0	0	3	0	6	5	1	1	8	4	0	0	3	4	0	1	4	3	0	1	0	0	0
+6	COX3	YP_006883843.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	3	21	1	0	4	3	6	1	0	10	0	1	13	0	4	6	19	2	1	6	6	0	3	12	8	1	0	2	3	0	4	11	6	1	3	6	9	1	1	4	4	0	0	4	4	4	7	0	4	15	6	0	0	4	7	1	0	8	10	1	0	0	0	0
+7	ND3	YP_006883844.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	0	8	1	0	0	3	2	1	1	1	1	0	5	0	1	8	17	3	0	3	3	1	0	0	4	0	0	1	1	0	0	7	4	0	3	8	1	0	0	2	1	0	0	1	1	0	1	1	0	5	2	0	0	3	6	0	0	2	3	0	1	0	0	0
+8	ND4L	YP_006883845.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	1	4	2	0	1	5	3	0	0	3	1	2	1	0	2	2	14	0	1	1	0	0	2	4	3	0	0	1	1	0	0	5	5	1	1	3	2	0	0	2	0	0	0	4	0	1	2	0	2	6	3	0	0	1	0	2	0	3	1	0	1	0	0	0
+9	ND4	YP_006883846.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	2	9	12	0	5	11	16	0	2	12	0	3	12	0	8	28	46	5	2	10	15	0	2	11	14	1	1	3	7	0	7	35	19	3	7	12	16	3	1	15	10	0	2	9	1	4	6	0	4	26	13	0	0	2	9	1	1	8	6	2	0	0	0	0
+10	ND5	YP_006883847.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	7	30	10	1	6	17	12	1	3	11	2	4	12	0	6	31	51	4	4	14	11	1	5	5	14	3	0	3	3	2	15	43	23	5	7	37	26	0	3	24	21	0	0	10	2	6	7	0	6	25	16	2	0	9	11	1	3	11	16	3	0	0	1	0
+11	CYTB	YP_006883848.1	Amblyramphus holosericeus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Icteridae, Amblyramphus	2	23	3	0	2	7	12	1	2	10	0	4	11	0	5	20	34	4	3	7	13	1	3	10	6	1	1	2	5	0	4	28	7	1	2	11	9	1	4	16	10	0	0	1	2	17	7	0	4	19	4	1	0	9	5	2	1	10	13	0	1	0	0	0

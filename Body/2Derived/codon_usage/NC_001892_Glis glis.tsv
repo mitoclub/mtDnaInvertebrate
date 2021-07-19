@@ -1,65 +1,13 @@
-	NP_007510.1|ND1	NP_007511.1|ND2	NP_007512.1|COX1	NP_007513.1|COX2	NP_007514.1|ATP8	NP_007515.1|ATP6	NP_007516.1|COX3	NP_007517.1|ND3	NP_007518.1|ND4L	NP_007519.1|ND4	NP_007520.1|ND5	NP_007522.1|CYTB
-TTT	10	9	27	6	2	10	19	5	2	15	26	19
-TTC	9	10	17	1	1	4	4	2	6	8	23	14
-TTA	15	11	19	8	2	13	8	8	7	30	25	15
-TTG	0	0	2	1	2	0	0	0	0	2	3	2
-TCT	4	9	7	5	2	5	7	3	5	11	18	2
-TCC	8	9	7	2	0	1	4	1	1	5	12	8
-TCA	10	14	13	7	2	4	7	2	5	16	18	11
-TCG	1	0	0	0	0	0	0	0	0	1	1	1
-TAT	5	1	15	8	1	2	10	2	2	9	7	8
-TAC	5	6	5	3	0	0	0	1	2	3	11	6
-TGT	1	0	1	0	0	0	1	1	1	1	2	1
-TGC	0	0	0	2	0	1	2	1	2	2	3	3
-TGA	8	10	15	5	3	3	12	4	0	12	12	11
-TGG	1	1	2	0	0	0	0	0	0	0	1	1
-CTT	8	10	13	11	3	5	5	5	3	21	26	6
-CTC	13	8	6	5	1	4	4	4	4	11	13	13
-CTA	17	25	18	9	2	19	15	9	7	32	25	20
-CTG	1	1	2	0	0	0	2	0	0	2	0	1
-CCT	8	2	13	5	4	5	4	2	0	8	7	5
-CCC	4	6	5	0	1	2	1	1	1	4	6	9
-CCA	8	8	10	8	0	6	4	3	0	8	11	9
-CCG	0	0	0	0	1	0	0	0	1	0	0	0
-CAT	2	1	7	5	4	5	8	0	0	7	7	4
-CAC	2	3	10	2	2	3	6	0	1	2	5	8
-CAA	7	8	7	5	3	7	6	2	2	9	19	7
-CAG	0	0	0	1	0	1	2	1	0	1	0	0
-CGT	1	1	3	2	0	0	1	0	0	1	0	0
-CGC	1	1	0	1	0	2	0	1	1	4	6	3
-CGA	4	2	5	3	1	3	4	0	0	5	4	4
-CGG	3	0	1	0	0	0	0	0	0	0	1	1
-ATT	19	19	28	13	3	22	11	9	9	27	34	28
-ATC	5	26	6	5	1	7	5	4	1	24	23	14
-ATA	19	23	25	10	0	10	9	6	7	26	35	12
-ATG	1	2	5	3	1	3	2	0	1	2	1	2
-ACT	9	3	11	5	1	7	10	4	0	13	17	5
-ACC	6	11	7	4	1	3	3	1	1	9	10	9
-ACA	10	17	19	9	7	10	12	0	0	21	21	12
-ACG	2	2	1	0	1	1	0	0	0	0	1	0
-AAT	11	5	15	4	2	10	6	4	2	9	19	7
-AAC	4	16	3	2	0	3	4	1	3	10	18	6
-AAA	7	7	7	5	5	3	1	2	0	10	19	9
-AAG	1	4	1	0	2	0	0	1	0	3	1	1
-AGT	2	2	1	2	2	2	1	2	0	2	5	1
-AGC	1	3	3	3	1	1	2	0	1	10	7	3
-GTT	7	4	11	5	0	3	3	2	0	1	5	3
-GTC	5	0	6	3	0	2	2	2	4	3	4	4
-GTA	3	3	19	5	0	3	8	0	2	3	9	8
-GTG	1	1	0	1	0	0	0	0	0	0	1	0
-GCT	7	9	12	1	0	4	2	1	1	5	9	4
-GCC	10	5	14	6	0	3	7	4	2	6	12	10
-GCA	7	7	16	2	0	6	6	3	4	11	10	7
-GCG	0	0	2	0	0	0	0	0	0	0	1	0
-GAT	2	0	8	5	3	2	1	0	1	0	5	4
-GAC	2	0	7	5	0	0	2	1	0	4	7	7
-GAA	7	5	8	11	0	2	8	6	2	8	8	6
-GAG	2	1	2	3	0	2	0	0	0	1	2	0
-GGT	1	5	11	2	0	4	2	0	1	4	6	3
-GGC	1	3	5	3	0	2	7	2	1	4	5	7
-GGA	7	7	28	4	0	3	9	2	2	13	12	15
-GGG	3	0	2	1	0	3	2	0	0	0	4	0
-TAA	0	1	0	1	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_007510.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	10	9	15	0	4	8	10	1	5	5	1	0	8	1	8	13	17	1	8	4	8	0	2	2	7	0	1	1	4	3	19	5	19	1	9	6	10	2	11	4	7	1	2	1	7	5	3	1	7	10	7	0	2	2	7	2	1	1	7	3	0	0	0	0
+1	ND2	NP_007511.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	9	10	11	0	9	9	14	0	1	6	0	0	10	1	10	8	25	1	2	6	8	0	1	3	8	0	1	1	2	0	19	26	23	2	3	11	17	2	5	16	7	4	2	3	4	0	3	1	9	5	7	0	0	0	5	1	5	3	7	0	1	0	0	0
+2	COX1	NP_007512.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	27	17	19	2	7	7	13	0	15	5	1	0	15	2	13	6	18	2	13	5	10	0	7	10	7	0	3	0	5	1	28	6	25	5	11	7	19	1	15	3	7	1	1	3	11	6	19	0	12	14	16	2	8	7	8	2	11	5	28	2	0	0	0	1
+3	COX2	NP_007513.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	6	1	8	1	5	2	7	0	8	3	0	2	5	0	11	5	9	0	5	0	8	0	5	2	5	1	2	1	3	0	13	5	10	3	5	4	9	0	4	2	5	0	2	3	5	3	5	1	1	6	2	0	5	5	11	3	2	3	4	1	1	0	0	0
+4	ATP8	NP_007514.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	2	1	2	2	2	0	2	0	1	0	0	0	3	0	3	1	2	0	4	1	0	1	4	2	3	0	0	0	1	0	3	1	0	1	1	1	7	1	2	0	5	2	2	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_007515.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	10	4	13	0	5	1	4	0	2	0	0	1	3	0	5	4	19	0	5	2	6	0	5	3	7	1	0	2	3	0	22	7	10	3	7	3	10	1	10	3	3	0	2	1	3	2	3	0	4	3	6	0	2	0	2	2	4	2	3	3	0	0	0	0
+6	COX3	NP_007516.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	19	4	8	0	7	4	7	0	10	0	1	2	12	0	5	4	15	2	4	1	4	0	8	6	6	2	1	0	4	0	11	5	9	2	10	3	12	0	6	4	1	0	1	2	3	2	8	0	2	7	6	0	1	2	8	0	2	7	9	2	0	0	0	0
+7	ND3	NP_007517.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	5	2	8	0	3	1	2	0	2	1	1	1	4	0	5	4	9	0	2	1	3	0	0	0	2	1	0	1	0	0	9	4	6	0	4	1	0	0	4	1	2	1	2	0	2	2	0	0	1	4	3	0	0	1	6	0	0	2	2	0	0	0	0	0
+8	ND4L	NP_007518.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	2	6	7	0	5	1	5	0	2	2	1	2	0	0	3	4	7	0	0	1	0	1	0	1	2	0	0	1	0	0	9	1	7	1	0	1	0	0	2	3	0	0	0	1	0	4	2	0	1	2	4	0	1	0	2	0	1	1	2	0	1	0	0	0
+9	ND4	NP_007519.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	15	8	30	2	11	5	16	1	9	3	1	2	12	0	21	11	32	2	8	4	8	0	7	2	9	1	1	4	5	0	27	24	26	2	13	9	21	0	9	10	10	3	2	10	1	3	3	0	5	6	11	0	0	4	8	1	4	4	13	0	0	0	0	0
+10	ND5	NP_007520.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	26	23	25	3	18	12	18	1	7	11	2	3	12	1	26	13	25	0	7	6	11	0	7	5	19	0	0	6	4	1	34	23	35	1	17	10	21	1	19	18	19	1	5	7	5	4	9	1	9	12	10	1	5	7	8	2	6	5	12	4	1	0	0	0
+11	CYTB	NP_007522.1	Glis glis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Gliridae, Glirinae, Glis	19	14	15	2	2	8	11	1	8	6	1	3	11	1	6	13	20	1	5	9	9	0	4	8	7	0	0	3	4	1	28	14	12	2	5	9	12	0	7	6	9	1	1	3	3	4	8	0	4	10	7	0	4	7	6	0	3	7	15	0	0	0	1	0

@@ -1,65 +1,22 @@
-	YP_009277408.1|cox2	YP_009277414.1|atp1	YP_009277415.1|atp8	YP_009277416.1|atp9	YP_009277417.1|nad5	YP_009277418.1|nad9	YP_009277419.1|nad2	YP_009277420.1|rps14	YP_009277421.1|atp6	YP_009277422.1|rpl6	YP_009277423.1|rps13	YP_009277429.1|sdh3	YP_009277431.1|sdh4	YP_009277432.1|mttB	YP_009277434.1|rps11	YP_009277435.1|rps12	YP_009277436.1|rps7	YP_009277437.1|nad3	YP_009277439.1|cob	YP_009277440.1|rps1	YP_009277444.1|nad4L
-TTT	8	10	1	5	3	3	6	2	4	3	2	1	1	11	1	2	2	2	0	4	2
-TTC	2	8	3	0	6	3	4	0	0	2	1	4	2	6	0	0	2	3	0	10	2
-TTA	7	16	3	2	1	3	3	0	2	2	1	8	2	9	0	1	2	0	0	2	2
-TTG	7	15	2	1	3	0	3	2	4	1	6	2	2	17	1	3	4	2	0	2	0
-TCT	4	8	0	4	3	1	1	2	2	1	2	3	0	5	2	1	6	4	2	1	2
-TCC	4	6	0	1	3	0	0	1	2	1	1	3	3	3	0	1	1	1	0	1	0
-TCA	3	6	1	3	3	2	0	2	2	0	3	4	1	5	0	3	0	2	0	3	2
-TCG	2	4	0	2	2	1	1	1	2	2	2	3	1	5	2	2	0	1	1	2	3
-TAT	7	10	3	0	3	4	3	2	1	3	1	2	0	9	0	0	1	2	0	1	3
-TAC	1	6	1	1	3	1	0	0	0	1	1	0	0	1	1	3	0	0	0	0	0
-TGT	2	4	1	0	0	1	1	0	0	2	3	0	0	6	0	2	0	2	0	2	0
-TGC	2	0	0	0	1	1	1	0	0	2	0	1	0	5	1	2	2	0	0	1	0
-TGG	8	0	1	0	1	1	1	0	0	0	0	3	1	5	0	0	3	0	0	7	0
-CTT	2	9	0	0	1	0	4	2	2	1	1	5	3	4	2	1	2	3	2	6	2
-CTC	2	3	1	0	0	1	2	0	0	1	1	2	2	2	0	0	1	0	0	0	1
-CTA	4	6	0	0	2	0	4	0	0	0	1	2	1	5	0	0	1	2	0	3	1
-CTG	2	6	0	0	3	1	1	3	2	0	0	1	3	0	1	1	1	1	0	3	1
-CCT	8	15	1	1	3	0	2	1	2	1	0	1	3	7	6	4	1	2	0	5	0
-CCC	4	4	1	0	0	0	0	1	0	2	3	3	0	6	2	1	2	0	1	5	1
-CCA	4	5	0	3	3	2	4	1	5	1	1	3	1	5	0	0	0	1	0	6	1
-CCG	1	4	1	1	2	2	1	0	1	1	1	4	0	2	1	3	1	0	0	7	1
-CAT	8	3	1	0	2	2	3	0	1	2	4	8	6	4	1	2	3	0	0	0	0
-CAC	2	2	0	1	0	0	0	1	2	0	1	1	1	0	7	3	2	1	0	0	0
-CAA	5	25	2	1	0	1	1	2	2	5	3	1	1	6	4	4	5	0	1	3	0
-CAG	4	12	0	0	0	0	0	0	0	1	0	1	0	1	12	1	0	0	0	1	0
-CGT	2	12	0	0	1	0	0	1	1	0	2	3	0	4	0	4	7	1	0	4	0
-CGC	1	3	0	0	1	0	1	0	0	2	3	0	0	0	1	1	0	0	0	5	0
-CGA	2	7	2	2	0	0	0	3	0	2	2	1	1	0	0	5	2	0	1	1	0
-CGG	2	0	0	0	1	0	0	1	1	1	0	0	2	4	2	1	0	0	0	1	1
-ATT	19	20	1	3	4	0	2	1	4	2	6	4	4	10	0	1	4	3	1	5	4
-ATC	2	9	0	2	1	1	3	1	2	1	3	1	6	8	1	1	3	2	1	3	3
-ATA	6	5	0	0	3	1	2	2	0	2	2	0	3	4	1	4	2	1	0	3	0
-ATG	7	13	0	2	4	0	0	3	3	3	1	2	0	5	1	3	2	1	1	3	7
-ACT	9	14	0	2	3	1	3	1	1	3	7	4	3	6	2	2	6	0	0	1	0
-ACC	3	6	0	1	3	2	4	0	2	0	1	3	2	4	0	1	2	0	0	2	1
-ACA	1	3	1	1	1	1	0	1	0	0	0	0	1	4	0	4	2	0	0	2	0
-ACG	1	2	3	2	1	2	4	0	1	1	0	0	1	2	0	0	1	0	1	1	0
-AAT	5	5	0	1	0	1	4	3	3	1	2	5	2	3	0	7	2	0	0	6	2
-AAC	1	7	0	0	0	1	1	1	2	2	0	1	1	1	3	0	3	0	1	6	2
-AAA	3	18	2	2	1	4	3	4	0	6	9	2	2	5	1	11	12	1	1	10	0
-AAG	1	9	0	0	1	1	0	3	0	5	5	1	0	5	4	2	3	0	0	7	0
-AGT	4	3	1	1	3	0	4	2	2	3	3	2	1	5	0	0	2	2	1	1	0
-AGC	1	4	1	0	3	0	0	0	0	1	1	1	0	0	0	1	2	0	0	4	0
-AGA	2	7	0	0	0	0	1	4	0	1	5	1	3	4	0	5	3	1	1	11	1
-AGG	1	2	0	0	0	1	0	4	0	1	3	0	0	1	1	3	4	0	0	8	1
-GTT	5	8	2	0	4	0	4	1	1	7	7	3	4	8	0	5	1	1	0	8	2
-GTC	5	10	0	1	3	0	0	0	0	2	2	2	3	3	0	0	6	1	1	5	1
-GTA	5	9	0	2	2	0	3	0	2	1	0	2	0	6	0	1	1	0	0	4	0
-GTG	5	17	1	1	2	0	0	0	4	0	0	1	1	3	0	1	1	0	0	3	1
-GCT	10	20	1	6	5	1	2	1	2	1	1	3	4	2	0	3	5	3	0	4	1
-GCC	3	13	0	4	1	0	1	1	1	3	2	2	1	3	0	1	4	2	1	2	0
-GCA	1	9	0	5	1	1	2	1	0	0	0	1	1	2	0	2	1	1	0	3	0
-GCG	2	8	0	1	1	0	2	0	0	0	3	2	0	0	0	2	3	0	0	5	0
-GAT	9	19	2	0	3	1	4	3	1	3	4	2	1	1	1	2	4	4	0	1	2
-GAC	6	5	0	0	0	1	1	0	1	0	1	0	1	3	0	0	1	0	0	4	0
-GAA	7	20	0	2	1	2	0	3	3	3	3	0	3	3	0	0	10	2	0	9	1
-GAG	7	7	0	0	2	0	3	0	0	1	3	1	1	4	2	3	0	1	0	1	1
-GGT	5	16	0	3	2	0	1	0	0	1	3	2	0	1	0	5	3	2	0	6	2
-GGC	0	6	0	0	1	0	1	0	0	1	0	0	0	1	0	2	0	0	0	3	0
-GGA	5	16	1	5	2	0	1	1	3	4	5	2	0	1	0	3	2	0	0	9	1
-GGG	2	8	0	0	2	0	1	1	0	1	1	1	2	1	1	1	1	1	0	7	0
-TAA	1	1	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1
-TAG	0	0	0	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0	1	0	0
-TGA	0	0	1	0	1	0	0	1	0	0	0	1	0	0	0	0	1	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox2	YP_009277408.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	8	2	7	7	4	4	3	2	7	1	2	2	8	2	2	4	2	8	4	4	1	8	2	5	4	2	1	2	2	19	2	6	7	9	3	1	1	5	1	3	1	4	1	2	1	5	5	5	5	10	3	1	2	9	6	7	7	5	0	5	2	1	0	0
+1	atp1	YP_009277414.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	10	8	16	15	8	6	6	4	10	6	4	0	0	9	3	6	6	15	4	5	4	3	2	25	12	12	3	7	0	20	9	5	13	14	6	3	2	5	7	18	9	3	4	7	2	8	10	9	17	20	13	9	8	19	5	20	7	16	6	16	8	1	0	0
+2	atp8	YP_009277415.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	1	3	3	2	0	0	1	0	3	1	1	0	1	0	1	0	0	1	1	0	1	1	0	2	0	0	0	2	0	1	0	0	0	0	0	1	3	0	0	2	0	1	1	0	0	2	0	0	1	1	0	0	0	2	0	0	0	0	0	1	0	0	0	1
+3	atp9	YP_009277416.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	5	0	2	1	4	1	3	2	0	1	0	0	0	0	0	0	0	1	0	3	1	0	1	1	0	0	0	2	0	3	2	0	2	2	1	1	2	1	0	2	0	1	0	0	0	0	1	2	1	6	4	5	1	0	0	2	0	3	0	5	0	0	0	0
+4	nad5	YP_009277417.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	3	6	1	3	3	3	3	2	3	3	0	1	1	1	0	2	3	3	0	3	2	2	0	0	0	1	1	0	1	4	1	3	4	3	3	1	1	0	0	1	1	3	3	0	0	4	3	2	2	5	1	1	1	3	0	1	2	2	1	2	2	0	0	1
+5	nad9	YP_009277418.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	3	3	3	0	1	0	2	1	4	1	1	1	1	0	1	0	1	0	0	2	2	2	0	1	0	0	0	0	0	0	1	1	0	1	2	1	2	1	1	4	1	0	0	0	1	0	0	0	0	1	0	1	0	1	1	2	0	0	0	0	0	1	0	0
+6	nad2	YP_009277419.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	6	4	3	3	1	0	0	1	3	0	1	1	1	4	2	4	1	2	0	4	1	3	0	1	0	0	1	0	0	2	3	2	0	3	4	0	4	4	1	3	0	4	0	1	0	4	0	3	0	2	1	2	2	4	1	0	3	1	1	1	1	1	0	0
+7	rps14	YP_009277420.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	2	0	0	2	2	1	2	1	2	0	0	0	0	2	0	0	3	1	1	1	0	0	1	2	0	1	0	3	1	1	1	2	3	1	0	1	0	3	1	4	3	2	0	4	4	1	0	0	0	1	1	1	0	3	0	3	0	0	0	1	1	0	0	1
+8	atp6	YP_009277421.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	4	0	2	4	2	2	2	2	1	0	0	0	0	2	0	0	2	2	0	5	1	1	2	2	0	1	0	0	1	4	2	0	3	1	2	0	1	3	2	0	0	2	0	0	0	1	0	2	4	2	1	0	0	1	1	3	0	0	0	3	0	0	1	0
+9	rpl6	YP_009277422.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	3	2	2	1	1	1	0	2	3	1	2	2	0	1	1	0	0	1	2	1	1	2	0	5	1	0	2	2	1	2	1	2	3	3	0	0	1	1	2	6	5	3	1	1	1	7	2	1	0	1	3	0	0	3	0	3	1	1	1	4	1	0	0	0
+10	rps13	YP_009277423.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	2	1	1	6	2	1	3	2	1	1	3	0	0	1	1	1	0	0	3	1	1	4	1	3	0	2	3	2	0	6	3	2	1	7	1	0	0	2	0	9	5	3	1	5	3	7	2	0	0	1	2	0	3	4	1	3	3	3	0	5	1	0	1	0
+11	sdh3	YP_009277429.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	1	4	8	2	3	3	4	3	2	0	0	1	3	5	2	2	1	1	3	3	4	8	1	1	1	3	0	1	0	4	1	0	2	4	3	0	0	5	1	2	1	2	1	1	0	3	2	2	1	3	2	1	2	2	0	0	1	2	0	2	1	0	0	1
+12	sdh4	YP_009277431.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	1	2	2	2	0	3	1	1	0	0	0	0	1	3	2	1	3	3	0	1	0	6	1	1	0	0	0	1	2	4	6	3	0	3	2	1	1	2	1	2	0	1	0	3	0	4	3	0	1	4	1	1	0	1	1	3	1	0	0	0	2	1	0	0
+13	mttB	YP_009277432.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	11	6	9	17	5	3	5	5	9	1	6	5	5	4	2	5	0	7	6	5	2	4	0	6	1	4	0	0	4	10	8	4	5	6	4	4	2	3	1	5	5	5	0	4	1	8	3	6	3	2	3	2	0	1	3	3	4	1	1	1	1	0	1	0
+14	rps11	YP_009277434.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	1	0	0	1	2	0	0	2	0	1	0	1	0	2	0	0	1	6	2	0	1	1	7	4	12	0	1	0	2	0	1	1	1	2	0	0	0	0	3	1	4	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	1	0	1	0
+15	rps12	YP_009277435.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	2	0	1	3	1	1	3	2	0	3	2	2	0	1	0	0	1	4	1	0	3	2	3	4	1	4	1	5	1	1	1	4	3	2	1	4	0	7	0	11	2	0	1	5	3	5	0	1	1	3	1	2	2	2	0	0	3	5	2	3	1	0	0	0
+16	rps7	YP_009277436.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	2	2	2	4	6	1	0	0	1	0	0	2	3	2	1	1	1	1	2	0	1	3	2	5	0	7	0	2	0	4	3	2	2	6	2	2	1	2	3	12	3	2	2	3	4	1	6	1	1	5	4	1	3	4	1	10	0	3	0	2	1	0	0	1
+17	nad3	YP_009277437.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	2	3	0	2	4	1	2	1	2	0	2	0	0	3	0	2	1	2	0	1	0	0	1	0	0	1	0	0	0	3	2	1	1	0	0	0	0	0	0	1	0	2	0	1	0	1	1	0	0	3	2	1	0	4	0	2	1	2	0	0	1	0	0	1
+18	cob	YP_009277439.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	0	0	0	0	2	0	0	1	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	1	0	0	0	1	0	1	1	0	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+19	rps1	YP_009277440.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	4	10	2	2	1	1	3	2	1	0	2	1	7	6	0	3	3	5	5	6	7	0	0	3	1	4	5	1	1	5	3	3	3	1	2	2	1	6	6	10	7	1	4	11	8	8	5	4	3	4	2	3	5	1	4	9	1	6	3	9	7	1	0	0
+20	nad4L	YP_009277444.1	Ophioglossum californicum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Polypodiopsida, Ophioglossidae, Ophioglossales, Ophioglossaceae, Ophioglossoideae, Ophioglossum	2	2	2	0	2	0	2	3	3	0	0	0	0	2	1	1	1	0	1	1	1	0	0	0	0	0	0	0	1	4	3	0	7	0	1	0	0	2	2	0	0	0	0	1	1	2	1	0	1	1	0	0	0	2	0	1	1	2	0	1	0	1	0	0

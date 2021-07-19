@@ -1,65 +1,13 @@
-	YP_009310969.1|ND1	YP_009310970.1|ND2	YP_009310971.1|COX1	YP_009310972.1|COX2	YP_009310973.1|ATP8	YP_009310974.1|ATP6	YP_009310975.1|COX3	YP_009310976.1|ND3	YP_009310977.1|ND4L	YP_009310978.1|ND4	YP_009310979.1|ND5	YP_009310981.1|CYTB
-TTT	4	3	14	5	1	8	6	4	4	3	13	9
-TTC	13	7	25	4	2	5	16	5	4	13	26	20
-TTA	12	7	16	6	1	4	2	8	4	17	11	9
-TTG	1	0	1	0	0	0	0	0	0	1	0	0
-TCT	1	2	9	3	0	1	1	0	1	4	3	2
-TCC	3	5	2	5	1	1	4	3	3	10	8	4
-TCA	13	8	15	5	2	3	6	2	2	10	17	13
-TCG	1	0	0	0	0	0	0	0	0	1	0	0
-TAT	5	5	12	5	0	2	6	2	0	5	6	4
-TAC	7	3	8	4	0	3	6	0	0	8	5	10
-TGT	0	1	0	0	0	0	1	1	0	1	2	1
-TGC	0	0	1	2	0	0	1	0	3	3	3	2
-TGA	8	11	17	5	5	4	12	5	1	21	12	13
-TGG	0	0	0	0	0	1	0	0	0	0	1	0
-CTT	7	4	15	6	0	5	3	1	2	7	9	3
-CTC	11	5	8	1	0	6	6	1	3	10	15	7
-CTA	29	43	24	17	4	26	20	15	14	46	53	41
-CTG	1	1	1	0	0	3	1	0	0	3	0	1
-CCT	2	0	4	1	1	0	1	0	1	1	3	1
-CCC	7	3	7	2	1	1	2	2	1	6	6	4
-CCA	15	16	17	11	6	16	10	6	0	19	20	17
-CCG	0	0	0	0	0	0	0	0	0	1	0	0
-CAT	0	2	4	4	0	2	1	0	2	1	3	1
-CAC	5	4	15	5	2	1	15	1	2	11	10	11
-CAA	7	13	8	8	1	8	9	3	3	14	22	5
-CAG	0	0	0	0	0	0	0	0	0	0	0	1
-CGT	1	1	1	2	0	0	0	0	0	1	0	0
-CGC	0	0	1	1	0	0	1	1	1	1	1	2
-CGA	6	3	4	3	0	6	3	1	2	9	8	6
-CGG	1	0	2	0	0	0	1	0	0	0	0	0
-ATT	7	10	24	10	2	14	11	7	2	21	27	17
-ATC	16	18	14	9	4	10	6	2	0	20	31	16
-ATA	11	22	16	8	0	9	8	3	3	27	39	14
-ATG	1	3	7	2	2	2	1	1	2	2	3	2
-ACT	2	4	7	4	2	1	2	2	3	3	11	0
-ACC	9	26	7	4	2	3	5	2	2	17	19	14
-ACA	8	21	21	5	0	15	14	5	3	24	30	8
-ACG	2	0	1	0	0	0	0	0	0	0	0	0
-AAT	4	5	5	0	2	5	1	1	0	2	10	1
-AAC	9	8	10	6	1	5	0	2	2	10	21	17
-AAA	7	9	8	4	3	1	2	1	0	8	21	9
-AAG	0	0	0	0	0	0	0	0	0	1	2	0
-AGT	0	1	0	1	1	2	0	0	0	1	2	0
-AGC	3	4	4	2	0	2	3	0	3	4	8	0
-GTT	0	0	12	4	0	2	5	0	0	2	4	3
-GTC	0	0	3	5	0	4	0	1	0	3	4	6
-GTA	18	6	25	10	1	11	10	2	2	12	14	13
-GTG	0	0	2	1	0	0	0	0	0	1	0	0
-GCT	3	4	8	3	1	5	6	2	1	4	6	3
-GCC	15	12	20	4	0	6	8	3	4	12	23	7
-GCA	16	22	19	7	1	8	9	3	8	14	18	20
-GCG	0	0	0	1	0	0	0	0	0	0	1	0
-GAT	0	0	5	3	0	0	1	0	0	0	4	2
-GAC	4	3	9	8	1	1	4	4	1	3	8	9
-GAA	10	6	10	16	3	4	10	5	1	12	11	6
-GAG	1	0	1	0	0	0	0	1	2	0	2	1
-GGT	1	0	11	1	0	1	1	1	1	0	2	1
-GGC	2	4	6	0	1	1	6	0	2	8	6	4
-GGA	15	12	25	5	0	8	12	7	3	21	21	18
-GGG	0	1	5	2	0	1	2	0	0	1	2	2
-TAA	1	0	1	0	0	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009310969.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	4	13	12	1	1	3	13	1	5	7	0	0	8	0	7	11	29	1	2	7	15	0	0	5	7	0	1	0	6	1	7	16	11	1	2	9	8	2	4	9	7	0	0	3	0	0	18	0	3	15	16	0	0	4	10	1	1	2	15	0	1	0	0	0
+1	ND2	YP_009310970.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	3	7	7	0	2	5	8	0	5	3	1	0	11	0	4	5	43	1	0	3	16	0	2	4	13	0	1	0	3	0	10	18	22	3	4	26	21	0	5	8	9	0	1	4	0	0	6	0	4	12	22	0	0	3	6	0	0	4	12	1	0	0	0	0
+2	COX1	YP_009310971.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	14	25	16	1	9	2	15	0	12	8	0	1	17	0	15	8	24	1	4	7	17	0	4	15	8	0	1	1	4	2	24	14	16	7	7	7	21	1	5	10	8	0	0	4	12	3	25	2	8	20	19	0	5	9	10	1	11	6	25	5	1	0	0	0
+3	COX2	YP_009310972.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	5	4	6	0	3	5	5	0	5	4	0	2	5	0	6	1	17	0	1	2	11	0	4	5	8	0	2	1	3	0	10	9	8	2	4	4	5	0	0	6	4	0	1	2	4	5	10	1	3	4	7	1	3	8	16	0	1	0	5	2	0	0	0	0
+4	ATP8	YP_009310973.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	1	2	1	0	0	1	2	0	0	0	0	0	5	0	0	0	4	0	1	1	6	0	0	2	1	0	0	0	0	0	2	4	0	2	2	2	0	0	2	1	3	0	1	0	0	0	1	0	1	0	1	0	0	1	3	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_009310974.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	8	5	4	0	1	1	3	0	2	3	0	0	4	1	5	6	26	3	0	1	16	0	2	1	8	0	0	0	6	0	14	10	9	2	1	3	15	0	5	5	1	0	2	2	2	4	11	0	5	6	8	0	0	1	4	0	1	1	8	1	0	0	0	0
+6	COX3	YP_009310975.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	6	16	2	0	1	4	6	0	6	6	1	1	12	0	3	6	20	1	1	2	10	0	1	15	9	0	0	1	3	1	11	6	8	1	2	5	14	0	1	0	2	0	0	3	5	0	10	0	6	8	9	0	1	4	10	0	1	6	12	2	0	0	0	0
+7	ND3	YP_009310976.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	4	5	8	0	0	3	2	0	2	0	1	0	5	0	1	1	15	0	0	2	6	0	0	1	3	0	0	1	1	0	7	2	3	1	2	2	5	0	1	2	1	0	0	0	0	1	2	0	2	3	3	0	0	4	5	1	1	0	7	0	0	0	0	0
+8	ND4L	YP_009310977.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	4	4	4	0	1	3	2	0	0	0	0	3	1	0	2	3	14	0	1	1	0	0	2	2	3	0	0	1	2	0	2	0	3	2	3	2	3	0	0	2	0	0	0	3	0	0	2	0	1	4	8	0	0	1	1	2	1	2	3	0	1	0	0	0
+9	ND4	YP_009310978.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	3	13	17	1	4	10	10	1	5	8	1	3	21	0	7	10	46	3	1	6	19	1	1	11	14	0	1	1	9	0	21	20	27	2	3	17	24	0	2	10	8	1	1	4	2	3	12	1	4	12	14	0	0	3	12	0	0	8	21	1	0	0	0	0
+10	ND5	YP_009310979.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	13	26	11	0	3	8	17	0	6	5	2	3	12	1	9	15	53	0	3	6	20	0	3	10	22	0	0	1	8	0	27	31	39	3	11	19	30	0	10	21	21	2	2	8	4	4	14	0	6	23	18	1	4	8	11	2	2	6	21	2	1	0	0	0
+11	CYTB	YP_009310981.1	Cyclocheilichthys janthochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyclocheilichthys	9	20	9	0	2	4	13	0	4	10	1	2	13	0	3	7	41	1	1	4	17	0	1	11	5	1	0	2	6	0	17	16	14	2	0	14	8	0	1	17	9	0	0	0	3	6	13	0	3	7	20	0	2	9	6	1	1	4	18	2	0	0	0	0

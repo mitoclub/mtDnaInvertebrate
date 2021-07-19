@@ -1,65 +1,10 @@
-	YP_002587073.1|ND2	YP_002587074.1|COX1	YP_002587075.1|COX2	YP_002587076.1|ATP8	YP_002587077.1|ATP6	YP_002587078.1|COX3	YP_002587079.1|ND3	YP_002587083.1|ND6	YP_002587084.1|CYTB
-TTT	17	21	10	4	10	14	7	15	17
-TTC	6	20	4	1	6	11	4	2	15
-TTA	17	29	14	4	18	14	8	16	20
-TTG	4	0	0	0	0	0	0	2	3
-TCT	23	13	3	1	5	4	4	8	8
-TCC	8	1	3	0	1	2	1	4	3
-TCA	12	12	5	1	5	5	3	7	3
-TCG	1	0	2	0	0	1	0	1	0
-TAT	9	9	5	0	3	9	1	3	16
-TAC	4	6	2	1	1	1	1	2	1
-TGT	1	0	2	0	0	2	1	1	3
-TGC	0	0	0	0	0	1	0	0	0
-TGA	7	14	6	3	4	13	3	1	12
-TGG	1	1	0	0	2	0	0	0	0
-CTT	14	15	8	1	17	7	6	9	15
-CTC	4	3	2	0	1	3	1	1	6
-CTA	9	13	6	2	6	3	3	6	8
-CTG	2	2	1	0	2	0	0	0	4
-CCT	8	13	5	3	8	3	1	1	11
-CCC	2	2	0	1	0	2	0	2	1
-CCA	3	12	7	1	3	4	2	2	7
-CCG	0	0	0	0	0	0	1	0	3
-CAT	6	15	4	0	5	10	1	2	8
-CAC	1	3	2	0	2	6	0	0	5
-CAA	8	8	7	2	3	7	1	3	6
-CAG	1	0	1	0	1	1	0	1	1
-CGT	1	2	0	0	0	1	1	1	4
-CGC	0	0	2	0	0	0	0	1	1
-CGA	1	8	5	0	3	2	0	0	2
-CGG	0	0	0	0	0	1	2	0	1
-ATT	29	31	14	5	12	14	18	18	28
-ATC	10	11	3	0	1	3	2	1	9
-ATA	16	21	7	4	13	8	3	10	9
-ATG	2	5	2	0	2	2	1	0	1
-ACT	9	12	6	0	8	13	0	8	11
-ACC	6	4	0	0	4	1	2	3	3
-ACA	5	16	7	2	8	10	2	4	8
-ACG	3	2	0	0	1	0	0	0	3
-AAT	8	11	7	1	5	4	4	6	7
-AAC	2	6	6	1	2	1	0	3	9
-AAA	7	5	2	4	1	3	4	1	6
-AAG	3	2	0	1	1	0	0	0	1
-AGT	4	4	1	1	4	0	0	1	3
-AGC	1	3	0	0	0	1	0	0	0
-AGA	2	3	7	0	6	6	1	0	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	10	5	2	7	8	4	3	10
-GTC	1	8	1	0	0	1	0	1	3
-GTA	5	23	13	1	8	7	1	6	15
-GTG	1	0	0	0	1	0	0	0	0
-GCT	16	23	6	2	7	17	6	4	12
-GCC	5	6	1	1	3	3	2	0	12
-GCA	5	10	3	0	6	2	2	3	5
-GCG	1	1	1	0	1	0	0	0	0
-GAT	0	10	7	0	0	4	2	1	8
-GAC	1	6	2	0	1	1	1	0	4
-GAA	6	6	10	2	4	6	5	1	2
-GAG	0	2	1	0	0	1	0	0	0
-GGT	2	24	6	0	3	8	0	1	7
-GGC	0	1	0	0	1	1	0	2	1
-GGA	10	21	5	0	6	10	4	2	12
-GGG	1	3	0	0	2	1	1	1	4
-TAA	1	1	0	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_002587073.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	17	6	17	4	23	8	12	1	9	4	1	0	7	1	14	4	9	2	8	2	3	0	6	1	8	1	1	0	1	0	29	10	16	2	9	6	5	3	8	2	7	3	4	1	2	0	2	1	5	1	16	5	5	1	0	1	6	0	2	0	10	1	1	0
+1	COX1	YP_002587074.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	21	20	29	0	13	1	12	0	9	6	0	0	14	1	15	3	13	2	13	2	12	0	15	3	8	0	2	0	8	0	31	11	21	5	12	4	16	2	11	6	5	2	4	3	3	0	10	8	23	0	23	6	10	1	10	6	6	2	24	1	21	3	1	0
+2	COX2	YP_002587075.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	10	4	14	0	3	3	5	2	5	2	2	0	6	0	8	2	6	1	5	0	7	0	4	2	7	1	0	2	5	0	14	3	7	2	6	0	7	0	7	6	2	0	1	0	7	0	5	1	13	0	6	1	3	1	7	2	10	1	6	0	5	0	0	0
+3	ATP8	YP_002587076.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	4	1	4	0	1	0	1	0	0	1	0	0	3	0	1	0	2	0	3	1	1	0	0	0	2	0	0	0	0	0	5	0	4	0	0	0	2	0	1	1	4	1	1	0	0	0	2	0	1	0	2	1	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_002587077.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	10	6	18	0	5	1	5	0	3	1	0	0	4	2	17	1	6	2	8	0	3	0	5	2	3	1	0	0	3	0	12	1	13	2	8	4	8	1	5	2	1	1	4	0	6	0	7	0	8	1	7	3	6	1	0	1	4	0	3	1	6	2	1	0
+5	COX3	YP_002587078.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	14	11	14	0	4	2	5	1	9	1	2	1	13	0	7	3	3	0	3	2	4	0	10	6	7	1	1	0	2	1	14	3	8	2	13	1	10	0	4	1	3	0	0	1	6	0	8	1	7	0	17	3	2	0	4	1	6	1	8	1	10	1	0	0
+6	ND3	YP_002587079.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	7	4	8	0	4	1	3	0	1	1	1	0	3	0	6	1	3	0	1	0	2	1	1	0	1	0	1	0	0	2	18	2	3	1	0	2	2	0	4	0	4	0	0	0	1	0	4	0	1	0	6	2	2	0	2	1	5	0	0	0	4	1	0	0
+7	ND6	YP_002587083.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	15	2	16	2	8	4	7	1	3	2	1	0	1	0	9	1	6	0	1	2	2	0	2	0	3	1	1	1	0	0	18	1	10	0	8	3	4	0	6	3	1	0	1	0	0	0	3	1	6	0	4	0	3	0	1	0	1	0	1	2	2	1	1	0
+8	CYTB	YP_002587084.1	Penaeus stylirostris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Dendrobranchiata, Penaeoidea, Penaeidae, Penaeus	17	15	20	3	8	3	3	0	16	1	3	0	12	0	15	6	8	4	11	1	7	3	8	5	6	1	4	1	2	1	28	9	9	1	11	3	8	3	7	9	6	1	3	0	1	0	10	3	15	0	12	12	5	0	8	4	2	0	7	1	12	4	1	0

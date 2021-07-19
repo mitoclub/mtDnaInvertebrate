@@ -1,65 +1,13 @@
-	YP_009727991.1|COX1	YP_009727992.1|CYTB	YP_009727993.1|ATP6	YP_009727994.1|ND3	YP_009727995.1|ND5	YP_009727996.1|ND6	YP_009727997.1|COX3	YP_009727998.1|ND1	YP_009727999.1|ND2	YP_009728000.1|ND4L	YP_009728001.1|COX2	YP_009728002.1|ND4
-TTT	37	30	20	10	43	15	24	32	18	8	25	31
-TTC	12	7	5	4	3	0	1	1	3	0	1	4
-TTA	26	25	23	10	49	10	20	27	25	3	33	30
-TTG	22	14	8	8	13	6	10	10	6	2	11	13
-TCT	12	8	5	2	15	3	7	11	8	3	18	18
-TCC	0	2	0	0	5	0	0	0	0	0	3	2
-TCA	6	1	4	1	5	2	2	0	5	2	3	1
-TCG	2	1	1	1	7	1	0	0	1	1	1	2
-TAT	12	13	7	3	19	3	14	9	7	1	29	14
-TAC	2	3	1	0	4	4	5	4	4	0	1	2
-TGT	3	5	5	0	11	2	4	10	5	1	13	12
-TGC	1	2	0	1	3	0	1	1	3	0	2	5
-TGA	5	7	1	2	6	1	7	4	4	0	9	7
-TGG	10	5	1	1	3	2	8	2	7	0	5	4
-CTT	9	9	1	3	14	3	6	2	6	3	7	10
-CTC	1	1	0	1	2	0	0	0	1	0	2	1
-CTA	3	3	5	2	5	1	3	3	4	2	3	5
-CTG	2	2	1	0	4	3	1	2	1	1	1	0
-CCT	11	17	5	3	8	1	7	10	4	0	10	7
-CCC	2	1	0	0	0	0	0	0	2	0	1	2
-CCA	11	1	2	0	0	2	0	1	0	0	3	2
-CCG	0	3	3	1	0	0	1	0	0	0	4	2
-CAT	12	9	2	0	4	0	7	0	1	0	8	5
-CAC	6	3	0	1	0	1	2	0	1	1	4	1
-CAA	1	3	2	0	6	0	1	2	2	0	7	4
-CAG	4	2	0	1	3	0	6	3	1	0	2	2
-CGT	8	3	1	1	3	1	4	5	1	1	7	3
-CGC	0	0	0	1	0	0	1	1	0	0	1	0
-CGA	4	2	0	0	2	1	2	2	0	0	1	0
-CGG	3	3	1	1	2	0	1	1	0	0	0	2
-ATT	29	26	13	2	27	6	14	8	14	5	12	14
-ATC	1	0	1	0	0	1	1	4	2	1	3	3
-ATA	18	11	9	3	28	10	8	15	13	6	12	28
-ATG	15	8	8	1	15	6	2	6	6	3	9	7
-ACT	17	11	7	1	10	2	6	6	5	1	11	3
-ACC	2	3	2	1	1	0	0	0	0	0	0	2
-ACA	2	3	1	1	4	1	1	1	1	1	3	5
-ACG	3	0	1	0	2	0	1	0	0	0	1	1
-AAT	10	12	2	2	10	2	4	4	7	5	16	9
-AAC	2	3	1	0	5	2	0	1	1	1	3	1
-AAA	8	8	4	2	10	7	6	4	6	2	19	6
-AAG	4	4	3	3	4	2	2	2	4	1	9	7
-AGT	5	6	3	3	19	5	4	4	8	1	13	4
-AGC	2	1	0	1	1	0	0	1	2	1	0	3
-AGA	9	8	5	5	13	11	6	6	9	0	14	16
-AGG	7	6	9	4	14	5	7	6	6	3	10	7
-GTT	11	21	18	8	29	12	12	16	21	3	31	13
-GTC	2	0	1	0	2	0	0	1	0	0	2	3
-GTA	14	10	10	3	22	10	8	16	6	2	10	15
-GTG	12	10	2	1	15	4	10	6	8	3	6	12
-GCT	24	12	6	2	18	3	11	13	5	2	11	7
-GCC	0	2	1	0	1	0	1	1	0	0	1	1
-GCA	3	3	1	1	4	1	4	2	1	1	4	5
-GCG	2	4	0	0	2	1	1	0	2	0	1	4
-GAT	12	11	5	2	9	0	4	5	1	2	24	7
-GAC	2	1	1	1	1	0	0	0	1	0	5	1
-GAA	5	2	2	2	9	2	6	5	2	1	14	9
-GAG	5	5	4	5	2	2	3	10	4	2	21	0
-GGT	22	14	8	2	17	4	9	8	11	0	21	12
-GGC	2	0	0	0	3	0	1	0	1	1	3	5
-GGA	15	4	4	1	14	6	5	5	6	3	7	7
-GGG	13	16	9	2	12	2	5	10	6	1	10	13
-TAA	1	1	1	0	0	1	0	1	1	0	1	0
-TAG	0	0	0	1	1	0	1	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009727991.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	37	12	26	22	12	0	6	2	12	2	3	1	5	10	9	1	3	2	11	2	11	0	12	6	1	4	8	0	4	3	29	1	18	15	17	2	2	3	10	2	8	4	5	2	9	7	11	2	14	12	24	0	3	2	12	2	5	5	22	2	15	13	1	0
+1	CYTB	YP_009727992.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	30	7	25	14	8	2	1	1	13	3	5	2	7	5	9	1	3	2	17	1	1	3	9	3	3	2	3	0	2	3	26	0	11	8	11	3	3	0	12	3	8	4	6	1	8	6	21	0	10	10	12	2	3	4	11	1	2	5	14	0	4	16	1	0
+2	ATP6	YP_009727993.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	20	5	23	8	5	0	4	1	7	1	5	0	1	1	1	0	5	1	5	0	2	3	2	0	2	0	1	0	0	1	13	1	9	8	7	2	1	1	2	1	4	3	3	0	5	9	18	1	10	2	6	1	1	0	5	1	2	4	8	0	4	9	1	0
+3	ND3	YP_009727994.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	10	4	10	8	2	0	1	1	3	0	0	1	2	1	3	1	2	0	3	0	0	1	0	1	0	1	1	1	0	1	2	0	3	1	1	1	1	0	2	0	2	3	3	1	5	4	8	0	3	1	2	0	1	0	2	1	2	5	2	0	1	2	0	1
+4	ND5	YP_009727995.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	43	3	49	13	15	5	5	7	19	4	11	3	6	3	14	2	5	4	8	0	0	0	4	0	6	3	3	0	2	2	27	0	28	15	10	1	4	2	10	5	10	4	19	1	13	14	29	2	22	15	18	1	4	2	9	1	9	2	17	3	14	12	0	1
+5	ND6	YP_009727996.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	15	0	10	6	3	0	2	1	3	4	2	0	1	2	3	0	1	3	1	0	2	0	0	1	0	0	1	0	1	0	6	1	10	6	2	0	1	0	2	2	7	2	5	0	11	5	12	0	10	4	3	0	1	1	0	0	2	2	4	0	6	2	1	0
+6	COX3	YP_009727997.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	24	1	20	10	7	0	2	0	14	5	4	1	7	8	6	0	3	1	7	0	0	1	7	2	1	6	4	1	2	1	14	1	8	2	6	0	1	1	4	0	6	2	4	0	6	7	12	0	8	10	11	1	4	1	4	0	6	3	9	1	5	5	0	1
+7	ND1	YP_009727998.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	32	1	27	10	11	0	0	0	9	4	10	1	4	2	2	0	3	2	10	0	1	0	0	0	2	3	5	1	2	1	8	4	15	6	6	0	1	0	4	1	4	2	4	1	6	6	16	1	16	6	13	1	2	0	5	0	5	10	8	0	5	10	1	0
+8	ND2	YP_009727999.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	18	3	25	6	8	0	5	1	7	4	5	3	4	7	6	1	4	1	4	2	0	0	1	1	2	1	1	0	0	0	14	2	13	6	5	0	1	0	7	1	6	4	8	2	9	6	21	0	6	8	5	0	1	2	1	1	2	4	11	1	6	6	1	0
+9	ND4L	YP_009728000.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	8	0	3	2	3	0	2	1	1	0	1	0	0	0	3	0	2	1	0	0	0	0	0	1	0	0	1	0	0	0	5	1	6	3	1	0	1	0	5	1	2	1	1	1	0	3	3	0	2	3	2	0	1	0	2	0	1	2	0	1	3	1	0	1
+10	COX2	YP_009728001.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	25	1	33	11	18	3	3	1	29	1	13	2	9	5	7	2	3	1	10	1	3	4	8	4	7	2	7	1	1	0	12	3	12	9	11	0	3	1	16	3	19	9	13	0	14	10	31	2	10	6	11	1	4	1	24	5	14	21	21	3	7	10	1	0
+11	ND4	YP_009728002.1	Macridiscus multifarius	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Veneroidea, Veneridae, Macridiscus	31	4	30	13	18	2	1	2	14	2	12	5	7	4	10	1	5	0	7	2	2	2	5	1	4	2	3	0	0	2	14	3	28	7	3	2	5	1	9	1	6	7	4	3	16	7	13	3	15	12	7	1	5	4	7	1	9	0	12	5	7	13	0	1

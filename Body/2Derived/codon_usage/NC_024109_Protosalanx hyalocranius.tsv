@@ -1,65 +1,13 @@
-	YP_009029961.1|ND1	YP_009029962.1|ND2	YP_009029963.1|COX1	YP_009029964.1|COX2	YP_009029965.1|ATP8	YP_009029966.1|ATP6	YP_009029967.1|COX3	YP_009029968.1|ND3	YP_009029969.1|ND4L	YP_009029970.1|ND4	YP_009029971.1|ND5	YP_009029973.1|CYTB
-TTT	7	8	10	2	1	3	10	3	2	5	12	8
-TTC	12	6	31	7	3	10	16	5	3	12	25	28
-TTA	7	5	6	3	1	8	0	2	0	10	8	3
-TTG	2	2	3	0	0	0	3	0	0	4	2	3
-TCT	6	6	12	2	0	2	3	2	0	2	11	9
-TCC	5	12	8	7	0	2	3	1	2	14	18	3
-TCA	5	3	5	2	1	1	5	4	3	8	5	6
-TCG	1	1	1	1	0	0	1	0	1	0	1	1
-TAT	6	2	5	5	0	0	3	0	0	2	2	1
-TAC	6	8	15	3	0	3	8	2	1	7	8	13
-TGT	0	1	0	0	0	0	1	0	2	3	4	2
-TGC	1	1	0	2	0	0	1	1	1	5	6	1
-TGA	3	11	14	4	5	5	11	4	2	10	9	9
-TGG	5	1	3	1	0	0	1	1	0	9	5	4
-CTT	15	9	17	7	0	11	8	6	5	11	18	13
-CTC	17	19	14	12	1	12	12	10	9	39	39	24
-CTA	15	21	14	1	3	17	3	5	5	16	16	12
-CTG	6	7	10	7	0	2	3	3	3	12	15	6
-CCT	4	3	6	3	4	4	3	0	0	6	8	7
-CCC	15	12	15	5	2	11	8	7	3	17	19	8
-CCA	4	3	4	5	4	1	1	0	0	3	3	6
-CCG	1	1	3	1	0	1	0	1	0	1	0	0
-CAT	2	1	5	3	0	1	3	0	1	2	2	1
-CAC	2	6	15	7	2	2	13	0	4	8	10	11
-CAA	6	10	5	6	1	8	7	3	1	8	11	6
-CAG	1	2	3	2	1	2	2	0	1	4	4	1
-CGT	1	1	0	0	0	0	0	0	1	0	1	0
-CGC	0	1	2	2	0	3	0	0	0	3	3	2
-CGA	4	2	5	4	0	2	5	2	2	6	8	3
-CGG	3	1	1	0	0	1	0	0	0	2	0	2
-ATT	6	9	13	7	2	8	5	5	0	13	21	8
-ATC	15	14	27	12	2	11	7	5	3	22	24	19
-ATA	4	7	11	7	1	7	6	0	2	12	11	5
-ATG	3	7	11	4	1	5	2	1	3	9	14	6
-ACT	3	6	6	2	0	4	5	3	4	7	7	5
-ACC	12	21	15	3	2	7	14	4	3	21	24	7
-ACA	6	13	12	4	1	8	5	0	1	9	9	5
-ACG	1	0	2	0	0	0	0	0	0	4	6	1
-AAT	2	0	2	1	2	1	1	0	0	4	9	6
-AAC	8	7	12	4	2	8	0	1	1	3	17	12
-AAA	5	4	8	5	3	1	2	0	0	7	18	8
-AAG	2	3	0	0	0	0	0	1	0	2	2	1
-AGT	1	2	0	0	0	1	1	0	0	0	0	0
-AGC	4	8	6	3	1	4	2	0	2	8	15	2
-GTT	5	4	10	3	1	6	4	2	1	4	12	7
-GTC	11	5	15	4	0	8	4	0	1	7	10	8
-GTA	7	3	9	9	1	2	8	1	1	4	8	10
-GTG	1	0	7	3	0	1	1	2	0	0	5	4
-GCT	7	7	8	4	2	3	4	5	4	9	14	5
-GCC	20	26	29	9	2	8	9	4	8	26	36	21
-GCA	6	10	9	5	0	5	9	2	1	12	16	4
-GCG	0	3	1	1	0	1	0	1	0	3	0	1
-GAT	0	0	4	3	0	0	0	0	0	1	4	3
-GAC	4	1	10	10	0	1	5	5	1	5	13	7
-GAA	9	4	9	11	2	4	4	4	3	9	6	4
-GAG	2	1	2	3	0	0	6	2	1	6	4	2
-GGT	1	2	4	2	0	2	3	0	0	2	0	2
-GGC	3	7	13	0	0	3	10	2	3	13	15	13
-GGA	5	5	16	5	1	3	5	2	2	4	7	6
-GGG	9	5	13	2	0	3	5	2	1	5	7	5
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009029961.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	7	12	7	2	6	5	5	1	6	6	0	1	3	5	15	17	15	6	4	15	4	1	2	2	6	1	1	0	4	3	6	15	4	3	3	12	6	1	2	8	5	2	1	4	5	11	7	1	7	20	6	0	0	4	9	2	1	3	5	9	0	1	0	0
+1	ND2	YP_009029962.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	8	6	5	2	6	12	3	1	2	8	1	1	11	1	9	19	21	7	3	12	3	1	1	6	10	2	1	1	2	1	9	14	7	7	6	21	13	0	0	7	4	3	2	8	4	5	3	0	7	26	10	3	0	1	4	1	2	7	5	5	0	0	0	0
+2	COX1	YP_009029963.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	10	31	6	3	12	8	5	1	5	15	0	0	14	3	17	14	14	10	6	15	4	3	5	15	5	3	0	2	5	1	13	27	11	11	6	15	12	2	2	12	8	0	0	6	10	15	9	7	8	29	9	1	4	10	9	2	4	13	16	13	1	0	0	0
+3	COX2	YP_009029964.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	2	7	3	0	2	7	2	1	5	3	0	2	4	1	7	12	1	7	3	5	5	1	3	7	6	2	0	2	4	0	7	12	7	4	2	3	4	0	1	4	5	0	0	3	3	4	9	3	4	9	5	1	3	10	11	3	2	0	5	2	0	0	0	0
+4	ATP8	YP_009029965.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	1	3	1	0	0	0	1	0	0	0	0	0	5	0	0	1	3	0	4	2	4	0	0	2	1	1	0	0	0	0	2	2	1	1	0	2	1	0	2	2	3	0	0	1	1	0	1	0	2	2	0	0	0	0	2	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_009029966.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	3	10	8	0	2	2	1	0	0	3	0	0	5	0	11	12	17	2	4	11	1	1	1	2	8	2	0	3	2	1	8	11	7	5	4	7	8	0	1	8	1	0	1	4	6	8	2	1	3	8	5	1	0	1	4	0	2	3	3	3	1	0	0	0
+6	COX3	YP_009029967.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	10	16	0	3	3	3	5	1	3	8	1	1	11	1	8	12	3	3	3	8	1	0	3	13	7	2	0	0	5	0	5	7	6	2	5	14	5	0	1	0	2	0	1	2	4	4	8	1	4	9	9	0	0	5	4	6	3	10	5	5	0	0	0	0
+7	ND3	YP_009029968.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	3	5	2	0	2	1	4	0	0	2	0	1	4	1	6	10	5	3	0	7	0	1	0	0	3	0	0	0	2	0	5	5	0	1	3	4	0	0	0	1	0	1	0	0	2	0	1	2	5	4	2	1	0	5	4	2	0	2	2	2	0	0	0	0
+8	ND4L	YP_009029969.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	2	3	0	0	0	2	3	1	0	1	2	1	2	0	5	9	5	3	0	3	0	0	1	4	1	1	1	0	2	0	0	3	2	3	4	3	1	0	0	1	0	0	0	2	1	1	1	0	4	8	1	0	0	1	3	1	0	3	2	1	1	0	0	0
+9	ND4	YP_009029970.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	5	12	10	4	2	14	8	0	2	7	3	5	10	9	11	39	16	12	6	17	3	1	2	8	8	4	0	3	6	2	13	22	12	9	7	21	9	4	4	3	7	2	0	8	4	7	4	0	9	26	12	3	1	5	9	6	2	13	4	5	0	0	0	0
+10	ND5	YP_009029971.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	12	25	8	2	11	18	5	1	2	8	4	6	9	5	18	39	16	15	8	19	3	0	2	10	11	4	1	3	8	0	21	24	11	14	7	24	9	6	9	17	18	2	0	15	12	10	8	5	14	36	16	0	4	13	6	4	0	15	7	7	1	0	0	0
+11	CYTB	YP_009029973.1	Protosalanx hyalocranius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Protosalanx	8	28	3	3	9	3	6	1	1	13	2	1	9	4	13	24	12	6	7	8	6	0	1	11	6	1	0	2	3	2	8	19	5	6	5	7	5	1	6	12	8	1	0	2	7	8	10	4	5	21	4	1	3	7	4	2	2	13	6	5	0	0	0	0

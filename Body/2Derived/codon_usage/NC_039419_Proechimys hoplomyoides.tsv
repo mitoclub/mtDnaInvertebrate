@@ -1,65 +1,13 @@
-	YP_009516256.1|ND1	YP_009516257.1|ND2	YP_009516258.1|COX1	YP_009516259.1|COX2	YP_009516260.1|ATP8	YP_009516261.1|ATP6	YP_009516262.1|COX3	YP_009516263.1|ND3	YP_009516264.1|ND4L	YP_009516265.1|ND4	YP_009516266.1|ND5	YP_009516268.1|CYTB
-TTT	11	4	28	5	2	8	13	5	2	10	16	16
-TTC	8	4	15	3	2	4	9	2	4	8	26	12
-TTA	20	18	30	15	2	9	8	4	6	27	18	23
-TTG	0	1	0	0	0	1	0	0	1	0	0	0
-TCT	11	5	7	3	1	2	3	4	2	11	15	5
-TCC	5	9	5	4	1	2	2	1	2	6	7	3
-TCA	7	15	15	8	0	2	11	0	6	13	18	14
-TCG	0	0	0	0	1	0	0	0	0	1	1	0
-TAT	6	5	11	9	2	3	7	1	3	16	17	7
-TAC	5	6	9	1	0	0	6	3	1	4	4	9
-TGT	0	0	0	1	0	0	0	1	1	0	2	2
-TGC	1	0	1	2	0	0	1	0	2	4	4	2
-TGA	9	9	17	5	3	3	12	4	0	12	11	12
-TGG	0	0	0	0	0	0	0	1	0	0	1	0
-CTT	5	7	6	8	3	10	10	11	1	15	16	10
-CTC	4	8	6	0	0	4	4	1	0	6	9	6
-CTA	23	31	18	8	5	18	14	7	9	47	43	17
-CTG	4	0	0	0	0	0	0	1	0	2	0	0
-CCT	7	5	16	3	1	10	9	1	1	7	10	6
-CCC	5	4	2	2	1	2	0	4	0	8	6	8
-CCA	8	7	9	8	3	2	2	1	0	5	8	10
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	2	2	8	4	0	3	7	0	1	8	5	5
-CAC	2	4	9	3	2	3	8	0	0	6	8	7
-CAA	6	9	7	5	7	6	8	3	3	9	17	6
-CAG	0	0	0	0	0	1	0	0	0	1	0	0
-CGT	1	0	1	1	0	2	1	0	0	0	0	2
-CGC	1	0	0	1	0	0	1	1	0	1	0	1
-CGA	5	3	7	4	0	3	3	0	1	9	8	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	16	27	30	12	3	14	8	11	4	28	28	17
-ATC	12	13	11	5	3	12	4	7	4	23	26	19
-ATA	22	25	28	14	3	13	8	3	10	24	47	20
-ATG	2	2	3	2	1	3	1	0	1	4	2	1
-ACT	5	10	13	5	3	9	4	3	4	11	18	4
-ACC	5	7	1	4	1	6	7	0	1	6	17	8
-ACA	12	29	21	11	4	11	14	6	3	19	29	14
-ACG	0	0	0	0	1	0	0	1	0	0	1	0
-AAT	6	12	12	4	0	6	2	2	4	3	19	7
-AAC	7	8	6	2	2	3	3	2	1	20	19	10
-AAA	8	11	9	4	6	5	4	4	0	14	23	10
-AAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGT	0	2	0	1	0	2	2	1	0	2	3	1
-AGC	3	2	3	5	0	4	3	0	0	7	4	2
-GTT	3	1	8	1	0	3	5	0	0	1	5	5
-GTC	4	0	6	3	1	1	5	0	0	1	3	2
-GTA	5	8	19	9	0	4	6	1	6	4	8	9
-GTG	0	0	2	0	0	1	0	0	0	1	1	0
-GCT	12	4	17	4	1	4	7	2	1	5	11	3
-GCC	7	6	9	1	0	7	5	2	4	8	8	7
-GCA	10	6	15	3	0	5	2	2	1	12	14	12
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	2	0	8	4	1	0	0	0	0	0	5	3
-GAC	1	0	6	6	0	1	4	2	1	3	3	7
-GAA	9	3	9	15	1	3	6	6	2	7	12	6
-GAG	1	1	1	1	0	0	2	1	0	2	0	0
-GGT	3	2	9	4	0	3	4	0	1	1	6	5
-GGC	1	1	11	2	0	1	4	1	0	9	4	2
-GGA	6	10	23	2	0	6	11	2	3	7	17	14
-GGG	1	1	4	0	0	1	1	0	1	1	0	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009516256.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	11	8	20	0	11	5	7	0	6	5	0	1	9	0	5	4	23	4	7	5	8	0	2	2	6	0	1	1	5	0	16	12	22	2	5	5	12	0	6	7	8	0	0	3	3	4	5	0	12	7	10	0	2	1	9	1	3	1	6	1	0	0	0	0
+1	ND2	YP_009516257.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	4	4	18	1	5	9	15	0	5	6	0	0	9	0	7	8	31	0	5	4	7	0	2	4	9	0	0	0	3	0	27	13	25	2	10	7	29	0	12	8	11	0	2	2	1	0	8	0	4	6	6	0	0	0	3	1	2	1	10	1	0	0	0	0
+2	COX1	YP_009516258.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	28	15	30	0	7	5	15	0	11	9	0	1	17	0	6	6	18	0	16	2	9	1	8	9	7	0	1	0	7	0	30	11	28	3	13	1	21	0	12	6	9	1	0	3	8	6	19	2	17	9	15	0	8	6	9	1	9	11	23	4	1	0	0	0
+3	COX2	YP_009516259.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	5	3	15	0	3	4	8	0	9	1	1	2	5	0	8	0	8	0	3	2	8	0	4	3	5	0	1	1	4	0	12	5	14	2	5	4	11	0	4	2	4	0	1	5	1	3	9	0	4	1	3	0	4	6	15	1	4	2	2	0	1	0	0	0
+4	ATP8	YP_009516260.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	2	2	2	0	1	1	0	1	2	0	0	0	3	0	3	0	5	0	1	1	3	0	0	2	7	0	0	0	0	0	3	3	3	1	3	1	4	1	0	2	6	0	0	0	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009516261.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	8	4	9	1	2	2	2	0	3	0	0	0	3	0	10	4	18	0	10	2	2	0	3	3	6	1	2	0	3	0	14	12	13	3	9	6	11	0	6	3	5	0	2	4	3	1	4	1	4	7	5	0	0	1	3	0	3	1	6	1	1	0	0	0
+6	COX3	YP_009516262.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	13	9	8	0	3	2	11	0	7	6	0	1	12	0	10	4	14	0	9	0	2	0	7	8	8	0	1	1	3	0	8	4	8	1	4	7	14	0	2	3	4	0	2	3	5	5	6	0	7	5	2	0	0	4	6	2	4	4	11	1	0	0	0	0
+7	ND3	YP_009516263.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	5	2	4	0	4	1	0	0	1	3	1	0	4	1	11	1	7	1	1	4	1	0	0	0	3	0	0	1	0	0	11	7	3	0	3	0	6	1	2	2	4	0	1	0	0	0	1	0	2	2	2	0	0	2	6	1	0	1	2	0	0	0	0	0
+8	ND4L	YP_009516264.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	2	4	6	1	2	2	6	0	3	1	1	2	0	0	1	0	9	0	1	0	0	0	1	0	3	0	0	0	1	0	4	4	10	1	4	1	3	0	4	1	0	0	0	0	0	0	6	0	1	4	1	0	0	1	2	0	1	0	3	1	1	0	0	0
+9	ND4	YP_009516265.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	10	8	27	0	11	6	13	1	16	4	0	4	12	0	15	6	47	2	7	8	5	0	8	6	9	1	0	1	9	0	28	23	24	4	11	6	19	0	3	20	14	0	2	7	1	1	4	1	5	8	12	0	0	3	7	2	1	9	7	1	0	0	0	0
+10	ND5	YP_009516266.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	16	26	18	0	15	7	18	1	17	4	2	4	11	1	16	9	43	0	10	6	8	0	5	8	17	0	0	0	8	0	28	26	47	2	18	17	29	1	19	19	23	0	3	4	5	3	8	1	11	8	14	0	5	3	12	0	6	4	17	0	1	0	0	0
+11	CYTB	YP_009516268.1	Proechimys hoplomyoides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	16	12	23	0	5	3	14	0	7	9	2	2	12	0	10	6	17	0	6	8	10	0	5	7	6	0	2	1	5	0	17	19	20	1	4	8	14	0	7	10	10	0	1	2	5	2	9	0	3	7	12	0	3	7	6	0	5	2	14	3	0	0	1	0

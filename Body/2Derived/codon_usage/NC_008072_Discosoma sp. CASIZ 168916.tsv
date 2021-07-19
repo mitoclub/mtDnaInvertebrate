@@ -1,65 +1,14 @@
-	YP_626493.1|ND5	YP_626494.1|ND1	YP_626495.1|CYTB	YP_626496.1|ND4L	YP_626497.1|ND3	YP_626498.1|ATP8	YP_626499.1|COX1	YP_626500.1|COX3	YP_626501.1|COX2	YP_626502.1|ND2	YP_626503.1|ND4	YP_626504.1|ND6	YP_626505.1|ATP6
-TTT	39	18	37	6	15	5	46	24	11	20	37	16	22
-TTC	4	2	2	0	2	3	2	2	2	0	4	1	1
-TTA	44	23	24	9	10	6	31	11	14	23	35	13	22
-TTG	31	15	16	3	3	4	16	6	13	18	22	7	8
-TCT	29	7	13	2	4	2	16	8	9	13	7	6	3
-TCC	6	3	0	2	0	0	1	0	0	5	5	0	2
-TCA	1	1	2	1	0	0	1	3	1	3	7	2	4
-TCG	5	4	4	0	2	0	2	2	3	5	4	1	2
-TAT	23	13	15	5	5	2	22	12	11	13	20	7	7
-TAC	3	2	3	0	0	0	1	1	0	1	0	1	0
-TGT	6	2	4	0	2	0	1	4	2	6	6	1	1
-TGC	1	0	1	0	0	0	0	0	1	0	1	0	0
-TGA	7	3	5	1	1	1	6	3	2	1	6	2	0
-TGG	5	5	7	1	3	2	9	9	4	5	4	4	3
-CTT	12	5	5	4	3	1	7	4	1	11	15	6	4
-CTC	3	3	3	0	1	0	5	0	1	4	2	0	0
-CTA	8	3	6	0	0	0	6	3	3	6	7	1	2
-CTG	2	1	4	0	0	1	2	2	1	3	3	3	3
-CCT	6	6	9	0	2	0	6	4	6	7	6	2	4
-CCC	8	3	3	0	3	1	4	5	1	3	5	1	1
-CCA	2	2	5	0	0	0	11	3	1	0	5	1	0
-CCG	5	4	2	0	1	1	3	0	4	1	2	1	2
-CAT	13	1	9	1	0	0	12	7	3	5	5	3	5
-CAC	2	2	2	0	0	0	4	4	3	0	2	0	0
-CAA	8	2	5	1	1	2	4	6	5	3	12	2	3
-CAG	5	3	3	0	1	1	2	2	2	3	0	1	1
-CGT	2	0	1	0	0	0	1	1	0	0	3	2	1
-CGC	1	0	3	0	1	0	0	0	0	0	0	0	0
-CGA	3	0	3	1	1	0	3	0	1	0	2	2	0
-CGG	1	4	1	0	1	0	1	0	0	2	5	0	0
-ATT	24	14	11	6	7	3	21	10	11	20	27	10	10
-ATC	5	2	6	0	1	0	5	1	5	2	5	3	4
-ATA	12	15	9	6	2	2	15	7	11	11	18	8	10
-ATG	22	10	10	4	1	1	22	5	6	6	13	6	9
-ACT	13	6	6	0	1	6	16	10	2	5	11	3	4
-ACC	7	2	2	0	0	0	3	2	1	4	1	3	0
-ACA	12	3	1	3	0	0	4	1	3	3	4	2	4
-ACG	3	0	4	0	0	0	9	1	2	3	0	0	2
-AAT	10	4	11	2	1	1	15	4	8	8	12	3	5
-AAC	3	3	2	0	1	0	3	0	1	0	1	0	1
-AAA	11	6	3	1	3	2	5	4	4	9	8	2	2
-AAG	5	3	2	0	0	0	2	0	3	3	4	2	1
-AGT	10	8	9	1	1	0	7	4	2	8	5	4	3
-AGC	4	0	1	0	1	0	0	2	0	2	3	1	0
-AGA	3	3	3	4	0	2	5	3	5	4	4	0	3
-AGG	6	2	1	2	0	2	2	1	1	1	0	1	0
-GTT	28	14	17	3	5	5	20	18	10	16	18	5	8
-GTC	9	1	4	2	0	1	4	3	5	3	3	0	3
-GTA	8	11	7	4	4	0	6	1	3	12	9	5	9
-GTG	14	10	14	2	3	1	14	9	4	9	12	8	4
-GCT	19	15	7	3	2	1	13	7	4	16	15	9	8
-GCC	10	9	5	2	2	0	8	4	1	5	5	5	3
-GCA	4	3	2	1	0	1	9	2	5	3	2	2	3
-GCG	8	5	3	3	0	0	8	2	5	5	10	4	5
-GAT	11	4	5	1	1	0	14	3	12	2	5	3	4
-GAC	4	0	3	0	1	1	4	1	4	0	2	2	1
-GAA	2	4	4	3	3	2	7	2	6	2	7	4	4
-GAG	11	7	5	1	5	0	3	7	7	4	11	3	1
-GGT	13	3	9	3	3	2	14	10	5	11	12	2	6
-GGC	5	4	5	1	1	0	6	0	2	1	3	3	5
-GGA	6	5	7	1	1	1	12	6	5	5	12	3	4
-GGG	25	14	11	3	6	3	25	6	3	21	17	12	5
-TAA	1	1	1	1	0	1	0	0	1	1	0	0	1
-TAG	0	0	0	0	1	0	1	1	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	YP_626493.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	39	4	44	31	29	6	1	5	23	3	6	1	7	5	12	3	8	2	6	8	2	5	13	2	8	5	2	1	3	1	24	5	12	22	13	7	12	3	10	3	11	5	10	4	3	6	28	9	8	14	19	10	4	8	11	4	2	11	13	5	6	25	1	0
+1	ND1	YP_626494.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	18	2	23	15	7	3	1	4	13	2	2	0	3	5	5	3	3	1	6	3	2	4	1	2	2	3	0	0	0	4	14	2	15	10	6	2	3	0	4	3	6	3	8	0	3	2	14	1	11	10	15	9	3	5	4	0	4	7	3	4	5	14	1	0
+2	CYTB	YP_626495.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	37	2	24	16	13	0	2	4	15	3	4	1	5	7	5	3	6	4	9	3	5	2	9	2	5	3	1	3	3	1	11	6	9	10	6	2	1	4	11	2	3	2	9	1	3	1	17	4	7	14	7	5	2	3	5	3	4	5	9	5	7	11	1	0
+3	ND4L	YP_626496.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	6	0	9	3	2	2	1	0	5	0	0	0	1	1	4	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	6	0	6	4	0	0	3	0	2	0	1	0	1	0	4	2	3	2	4	2	3	2	1	3	1	0	3	1	3	1	1	3	1	0
+4	ND3	YP_626497.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	15	2	10	3	4	0	0	2	5	0	2	0	1	3	3	1	0	0	2	3	0	1	0	0	1	1	0	1	1	1	7	1	2	1	1	0	0	0	1	1	3	0	1	1	0	0	5	0	4	3	2	2	0	0	1	1	3	5	3	1	1	6	0	1
+5	ATP8	YP_626498.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	5	3	6	4	2	0	0	0	2	0	0	0	1	2	1	0	0	1	0	1	0	1	0	0	2	1	0	0	0	0	3	0	2	1	6	0	0	0	1	0	2	0	0	0	2	2	5	1	0	1	1	0	1	0	0	1	2	0	2	0	1	3	1	0
+6	COX1	YP_626499.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	46	2	31	16	16	1	1	2	22	1	1	0	6	9	7	5	6	2	6	4	11	3	12	4	4	2	1	0	3	1	21	5	15	22	16	3	4	9	15	3	5	2	7	0	5	2	20	4	6	14	13	8	9	8	14	4	7	3	14	6	12	25	0	1
+7	COX3	YP_626500.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	24	2	11	6	8	0	3	2	12	1	4	0	3	9	4	0	3	2	4	5	3	0	7	4	6	2	1	0	0	0	10	1	7	5	10	2	1	1	4	0	4	0	4	2	3	1	18	3	1	9	7	4	2	2	3	1	2	7	10	0	6	6	0	1
+8	COX2	YP_626501.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	11	2	14	13	9	0	1	3	11	0	2	1	2	4	1	1	3	1	6	1	1	4	3	3	5	2	0	0	1	0	11	5	11	6	2	1	3	2	8	1	4	3	2	0	5	1	10	5	3	4	4	1	5	5	12	4	6	7	5	2	5	3	1	0
+9	ND2	YP_626502.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	20	0	23	18	13	5	3	5	13	1	6	0	1	5	11	4	6	3	7	3	0	1	5	0	3	3	0	0	0	2	20	2	11	6	5	4	3	3	8	0	9	3	8	2	4	1	16	3	12	9	16	5	3	5	2	0	2	4	11	1	5	21	1	0
+10	ND4	YP_626503.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	37	4	35	22	7	5	7	4	20	0	6	1	6	4	15	2	7	3	6	5	5	2	5	2	12	0	3	0	2	5	27	5	18	13	11	1	4	0	12	1	8	4	5	3	4	0	18	3	9	12	15	5	2	10	5	2	7	11	12	3	12	17	0	1
+11	ND6	YP_626504.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	16	1	13	7	6	0	2	1	7	1	1	0	2	4	6	0	1	3	2	1	1	1	3	0	2	1	2	0	2	0	10	3	8	6	3	3	2	0	3	0	2	2	4	1	0	1	5	0	5	8	9	5	2	4	3	2	4	3	2	3	3	12	0	1
+12	ATP6	YP_626505.1	Discosoma sp. CASIZ 168916	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Discosoma	22	1	22	8	3	2	4	2	7	0	1	0	0	3	4	0	2	3	4	1	0	2	5	0	3	1	1	0	0	0	10	4	10	9	4	0	4	2	5	1	2	1	3	0	3	0	8	3	9	4	8	3	3	5	4	1	4	1	6	5	4	5	1	0

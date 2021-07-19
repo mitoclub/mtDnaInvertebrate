@@ -1,65 +1,13 @@
-	YP_008758407.1|ND1	YP_008758408.1|ND2	YP_008758409.1|COX1	YP_008758410.1|COX2	YP_008758411.1|ATP8	YP_008758412.1|ATP6	YP_008758413.1|COX3	YP_008758414.1|ND3	YP_008758415.1|ND4L	YP_008758416.1|ND4	YP_008758417.1|ND5	YP_008758419.1|CYTB
-TTT	7	6	20	4	2	3	8	1	2	6	19	11
-TTC	10	10	21	7	1	10	15	8	4	8	25	23
-TTA	8	5	13	9	3	8	5	1	3	23	12	5
-TTG	1	2	2	0	0	0	0	0	1	0	0	0
-TCT	3	6	6	1	1	1	4	1	1	6	8	1
-TCC	7	7	12	4	0	1	2	4	3	15	16	7
-TCA	7	8	7	6	1	1	5	2	4	5	9	12
-TCG	0	2	1	1	0	0	0	0	1	2	1	1
-TAT	2	2	6	2	0	0	7	1	0	4	5	6
-TAC	9	6	12	6	0	4	5	2	0	9	5	10
-TGT	0	0	1	2	0	0	1	1	1	1	2	1
-TGC	0	0	1	0	0	0	0	0	2	3	4	2
-TGA	7	8	16	5	4	5	12	2	1	19	12	12
-TGG	1	3	1	0	1	0	0	3	0	0	1	1
-CTT	11	11	14	5	0	21	9	5	2	20	16	13
-CTC	15	15	9	1	2	6	7	12	6	20	22	17
-CTA	26	27	17	7	1	18	7	6	9	26	41	18
-CTG	1	5	7	2	0	3	1	4	2	9	8	5
-CCT	5	4	7	2	1	1	3	1	1	3	4	4
-CCC	6	6	12	5	3	10	7	3	0	13	13	11
-CCA	12	14	9	6	3	6	3	4	1	9	13	7
-CCG	1	0	1	0	1	1	0	0	0	3	2	1
-CAT	3	1	5	5	1	1	4	0	2	3	5	3
-CAC	2	6	15	6	1	3	11	0	2	8	8	10
-CAA	6	11	6	6	2	6	7	3	3	9	11	5
-CAG	0	1	1	2	1	2	0	0	0	1	4	0
-CGT	0	0	3	1	0	0	0	0	1	0	0	1
-CGC	2	1	0	0	0	0	2	1	1	1	2	2
-CGA	5	3	5	5	0	6	4	1	1	9	9	4
-CGG	1	0	1	1	0	0	0	0	0	1	1	0
-ATT	16	14	31	10	4	8	6	5	3	16	24	13
-ATC	16	15	7	12	0	7	9	5	0	20	32	19
-ATA	9	16	15	7	0	4	6	1	3	18	21	10
-ATG	1	1	10	4	1	5	5	1	2	9	4	2
-ACT	1	4	8	3	0	7	5	1	3	6	11	2
-ACC	9	18	7	7	1	9	1	5	4	18	26	9
-ACA	10	16	19	4	4	9	15	1	3	14	26	8
-ACG	0	2	0	0	0	1	0	0	0	2	1	0
-AAT	5	2	4	2	2	1	1	0	0	5	8	4
-AAC	8	10	10	4	1	9	0	1	1	8	18	19
-AAA	7	11	7	6	3	1	3	1	0	8	20	8
-AAG	0	0	1	0	0	0	0	0	0	2	0	0
-AGT	0	2	0	0	0	0	0	0	1	2	1	1
-AGC	4	1	4	3	1	5	5	0	3	6	12	2
-GTT	2	1	12	6	2	2	5	0	1	3	6	4
-GTC	5	3	10	5	1	3	4	2	0	5	4	10
-GTA	5	7	20	5	0	6	7	0	1	2	7	12
-GTG	2	0	1	1	0	0	2	1	0	0	3	3
-GCT	6	7	13	6	1	4	3	2	2	5	6	5
-GCC	16	13	19	5	2	8	9	7	5	13	26	13
-GCA	13	9	13	4	0	6	11	0	4	18	19	8
-GCG	0	1	1	2	0	1	0	0	0	2	1	1
-GAT	0	0	3	0	0	0	3	0	0	1	6	2
-GAC	4	1	12	13	0	1	4	4	2	3	9	9
-GAA	7	4	10	10	2	4	8	5	1	10	9	6
-GAG	4	1	2	3	1	0	0	2	1	2	2	0
-GGT	1	2	8	2	0	1	5	0	2	1	2	1
-GGC	6	6	13	2	0	4	8	3	1	13	12	13
-GGA	3	8	13	3	0	3	4	3	1	8	11	8
-GGG	6	4	14	0	0	1	3	0	0	4	5	3
-TAA	1	0	0	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008758407.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	7	10	8	1	3	7	7	0	2	9	0	0	7	1	11	15	26	1	5	6	12	1	3	2	6	0	0	2	5	1	16	16	9	1	1	9	10	0	5	8	7	0	0	4	2	5	5	2	6	16	13	0	0	4	7	4	1	6	3	6	1	0	0	0
+1	ND2	YP_008758408.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	6	10	5	2	6	7	8	2	2	6	0	0	8	3	11	15	27	5	4	6	14	0	1	6	11	1	0	1	3	0	14	15	16	1	4	18	16	2	2	10	11	0	2	1	1	3	7	0	7	13	9	1	0	1	4	1	2	6	8	4	0	0	0	0
+2	COX1	YP_008758409.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	20	21	13	2	6	12	7	1	6	12	1	1	16	1	14	9	17	7	7	12	9	1	5	15	6	1	3	0	5	1	31	7	15	10	8	7	19	0	4	10	7	1	0	4	12	10	20	1	13	19	13	1	3	12	10	2	8	13	13	14	0	0	0	1
+3	COX2	YP_008758410.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	4	7	9	0	1	4	6	1	2	6	2	0	5	0	5	1	7	2	2	5	6	0	5	6	6	2	1	0	5	1	10	12	7	4	3	7	4	0	2	4	6	0	0	3	6	5	5	1	6	5	4	2	0	13	10	3	2	2	3	0	0	0	0	0
+4	ATP8	YP_008758411.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	2	1	3	0	1	0	1	0	0	0	0	0	4	1	0	2	1	0	1	3	3	1	1	1	2	1	0	0	0	0	4	0	0	1	0	1	4	0	2	1	3	0	0	1	2	1	0	0	1	2	0	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_008758412.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	3	10	8	0	1	1	1	0	0	4	0	0	5	0	21	6	18	3	1	10	6	1	1	3	6	2	0	0	6	0	8	7	4	5	7	9	9	1	1	9	1	0	0	5	2	3	6	0	4	8	6	1	0	1	4	0	1	4	3	1	0	0	0	0
+6	COX3	YP_008758413.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	8	15	5	0	4	2	5	0	7	5	1	0	12	0	9	7	7	1	3	7	3	0	4	11	7	0	0	2	4	0	6	9	6	5	5	1	15	0	1	0	3	0	0	5	5	4	7	2	3	9	11	0	3	4	8	0	5	8	4	3	0	0	0	0
+7	ND3	YP_008758414.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	1	8	1	0	1	4	2	0	1	2	1	0	2	3	5	12	6	4	1	3	4	0	0	0	3	0	0	1	1	0	5	5	1	1	1	5	1	0	0	1	1	0	0	0	0	2	0	1	2	7	0	0	0	4	5	2	0	3	3	0	0	0	0	0
+8	ND4L	YP_008758415.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	2	4	3	1	1	3	4	1	0	0	1	2	1	0	2	6	9	2	1	0	1	0	2	2	3	0	1	1	1	0	3	0	3	2	3	4	3	0	0	1	0	0	1	3	1	0	1	0	2	5	4	0	0	2	1	1	2	1	1	0	1	0	0	0
+9	ND4	YP_008758416.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	6	8	23	0	6	15	5	2	4	9	1	3	19	0	20	20	26	9	3	13	9	3	3	8	9	1	0	1	9	1	16	20	18	9	6	18	14	2	5	8	8	2	2	6	3	5	2	0	5	13	18	2	1	3	10	2	1	13	8	4	0	0	0	0
+10	ND5	YP_008758417.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	19	25	12	0	8	16	9	1	5	5	2	4	12	1	16	22	41	8	4	13	13	2	5	8	11	4	0	2	9	1	24	32	21	4	11	26	26	1	8	18	20	0	1	12	6	4	7	3	6	26	19	1	6	9	9	2	2	12	11	5	1	0	0	0
+11	CYTB	YP_008758419.1	Helostoma temminkii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Helostomatidae, Helostoma	11	23	5	0	1	7	12	1	6	10	1	2	12	1	13	17	18	5	4	11	7	1	3	10	5	0	1	2	4	0	13	19	10	2	2	9	8	0	4	19	8	0	1	2	4	10	12	3	5	13	8	1	2	9	6	0	1	13	8	3	0	0	0	0

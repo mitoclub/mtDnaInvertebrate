@@ -1,65 +1,13 @@
-	YP_009112252.1|ND1	YP_009112253.1|ND2	YP_009112254.1|COX1	YP_009112255.1|COX2	YP_009112256.1|ATP8	YP_009112257.1|ATP6	YP_009112258.1|COX3	YP_009112259.1|ND3	YP_009112260.1|ND4L	YP_009112261.1|ND4	YP_009112262.1|ND5	YP_009112264.1|CYTB
-TTT	11	9	18	4	3	10	11	3	2	11	17	8
-TTC	9	5	24	5	1	7	13	5	4	8	22	22
-TTA	3	2	3	4	0	3	1	2	0	7	6	1
-TTG	3	7	1	1	0	2	0	2	1	2	4	0
-TCT	3	4	3	1	0	1	2	1	2	1	6	3
-TCC	9	15	11	8	2	2	2	4	2	21	20	13
-TCA	3	4	4	4	0	0	7	1	1	2	3	2
-TCG	2	1	3	0	0	2	0	0	1	1	3	1
-TAT	3	2	4	2	0	1	5	1	0	2	2	3
-TAC	8	3	14	7	0	2	8	1	1	11	8	12
-TGT	0	0	0	2	0	0	0	0	1	0	2	0
-TGC	0	0	1	0	0	0	2	1	2	4	4	3
-TGA	6	8	12	5	4	4	10	5	1	13	13	10
-TGG	2	3	5	0	1	1	2	0	0	6	1	2
-CTT	18	28	14	6	1	16	10	5	5	20	20	14
-CTC	18	20	22	11	2	13	10	12	8	37	36	17
-CTA	15	15	11	5	3	16	5	6	9	20	28	18
-CTG	7	5	10	1	0	2	4	2	2	11	11	8
-CCT	3	3	8	3	0	6	1	3	0	7	5	4
-CCC	14	13	14	8	8	9	8	4	2	13	17	11
-CCA	5	3	3	3	2	2	1	1	0	4	9	3
-CCG	2	2	3	0	0	1	2	0	0	2	2	3
-CAT	1	0	4	3	0	1	1	0	1	0	1	2
-CAC	1	8	15	7	2	2	15	0	4	11	15	10
-CAA	5	9	7	7	2	8	7	2	2	7	15	3
-CAG	2	3	1	1	0	2	2	1	1	6	2	2
-CGT	1	0	1	1	0	0	0	0	0	1	0	0
-CGC	0	1	3	1	0	2	1	2	0	3	6	2
-CGA	5	3	3	2	0	4	3	0	2	5	1	3
-CGG	2	0	1	2	0	0	1	0	0	2	4	3
-ATT	13	10	23	10	0	8	11	4	1	19	24	12
-ATC	13	12	17	10	1	9	4	3	1	15	25	20
-ATA	5	9	6	8	0	4	6	1	0	14	17	6
-ATG	5	5	17	3	1	7	2	1	4	7	8	6
-ACT	3	11	11	1	1	2	5	1	1	7	11	3
-ACC	14	23	10	6	1	12	10	6	6	21	30	10
-ACA	3	5	12	3	2	7	6	2	3	10	14	4
-ACG	3	3	3	1	0	1	2	0	0	2	2	3
-AAT	4	3	5	2	0	2	0	0	0	4	7	3
-AAC	7	8	9	3	4	7	1	1	2	8	24	13
-AAA	5	4	7	4	2	1	2	0	0	6	15	7
-AAG	2	5	2	0	1	0	0	1	0	4	6	2
-AGT	1	1	2	1	0	0	1	0	0	2	1	0
-AGC	3	6	3	2	1	3	3	0	2	5	15	0
-GTT	8	1	17	6	0	5	4	2	0	8	6	9
-GTC	6	6	8	6	2	4	9	1	1	6	8	13
-GTA	1	1	13	6	0	2	4	3	1	4	10	6
-GTG	1	2	5	1	2	0	0	0	0	0	1	2
-GCT	4	7	10	6	1	3	5	3	1	6	9	2
-GCC	19	21	23	5	1	7	10	3	10	20	30	23
-GCA	7	5	15	4	0	6	7	1	2	5	10	8
-GCG	3	2	3	1	1	1	0	2	0	5	3	1
-GAT	1	0	6	3	0	1	2	2	1	1	2	0
-GAC	3	1	8	10	1	0	4	3	0	3	10	11
-GAA	7	5	9	12	2	3	7	5	2	11	8	6
-GAG	4	0	2	3	0	1	1	1	1	2	5	1
-GGT	0	2	6	1	0	1	2	1	1	4	5	1
-GGC	8	9	17	5	0	5	13	2	3	6	9	11
-GGA	3	2	8	1	0	5	2	0	0	8	9	9
-GGG	7	3	16	2	0	1	4	3	1	9	5	5
-TAA	0	0	1	0	1	1	0	0	1	0	0	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009112252.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	11	9	3	3	3	9	3	2	3	8	0	0	6	2	18	18	15	7	3	14	5	2	1	1	5	2	1	0	5	2	13	13	5	5	3	14	3	3	4	7	5	2	1	3	8	6	1	1	4	19	7	3	1	3	7	4	0	8	3	7	0	1	0	0
+1	ND2	YP_009112253.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	9	5	2	7	4	15	4	1	2	3	0	0	8	3	28	20	15	5	3	13	3	2	0	8	9	3	0	1	3	0	10	12	9	5	11	23	5	3	3	8	4	5	1	6	1	6	1	2	7	21	5	2	0	1	5	0	2	9	2	3	0	0	0	0
+2	COX1	YP_009112254.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	18	24	3	1	3	11	4	3	4	14	0	1	12	5	14	22	11	10	8	14	3	3	4	15	7	1	1	3	3	1	23	17	6	17	11	10	12	3	5	9	7	2	2	3	17	8	13	5	10	23	15	3	6	8	9	2	6	17	8	16	1	0	0	0
+3	COX2	YP_009112255.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	4	5	4	1	1	8	4	0	2	7	2	0	5	0	6	11	5	1	3	8	3	0	3	7	7	1	1	1	2	2	10	10	8	3	1	6	3	1	2	3	4	0	1	2	6	6	6	1	6	5	4	1	3	10	12	3	1	5	1	2	0	0	0	0
+4	ATP8	YP_009112256.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	3	1	0	0	0	2	0	0	0	0	0	0	4	1	1	2	3	0	0	8	2	0	0	2	2	0	0	0	0	0	0	1	0	1	1	1	2	0	0	4	2	1	0	1	0	2	0	2	1	1	0	1	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009112257.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	10	7	3	2	1	2	0	2	1	2	0	0	4	1	16	13	16	2	6	9	2	1	1	2	8	2	0	2	4	0	8	9	4	7	2	12	7	1	2	7	1	0	0	3	5	4	2	0	3	7	6	1	1	0	3	1	1	5	5	1	1	0	0	0
+6	COX3	YP_009112258.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	11	13	1	0	2	2	7	0	5	8	0	2	10	2	10	10	5	4	1	8	1	2	1	15	7	2	0	1	3	1	11	4	6	2	5	10	6	2	0	1	2	0	1	3	4	9	4	0	5	10	7	0	2	4	7	1	2	13	2	4	0	0	0	0
+7	ND3	YP_009112259.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	3	5	2	2	1	4	1	0	1	1	0	1	5	0	5	12	6	2	3	4	1	0	0	0	2	1	0	2	0	0	4	3	1	1	1	6	2	0	0	1	0	1	0	0	2	1	3	0	3	3	1	2	2	3	5	1	1	2	0	3	0	0	0	0
+8	ND4L	YP_009112260.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	2	4	0	1	2	2	1	1	0	1	1	2	1	0	5	8	9	2	0	2	0	0	1	4	2	1	0	0	2	0	1	1	0	4	1	6	3	0	0	2	0	0	0	2	0	1	1	0	1	10	2	0	1	0	2	1	1	3	0	1	1	0	0	0
+9	ND4	YP_009112261.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	11	8	7	2	1	21	2	1	2	11	0	4	13	6	20	37	20	11	7	13	4	2	0	11	7	6	1	3	5	2	19	15	14	7	7	21	10	2	4	8	6	4	2	5	8	6	4	0	6	20	5	5	1	3	11	2	4	6	8	9	0	0	0	0
+10	ND5	YP_009112262.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	17	22	6	4	6	20	3	3	2	8	2	4	13	1	20	36	28	11	5	17	9	2	1	15	15	2	0	6	1	4	24	25	17	8	11	30	14	2	7	24	15	6	1	15	6	8	10	1	9	30	10	3	2	10	8	5	5	9	9	5	0	0	1	0
+11	CYTB	YP_009112264.1	Saurida wanieso	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	8	22	1	0	3	13	2	1	3	12	0	3	10	2	14	17	18	8	4	11	3	3	2	10	3	2	0	2	3	3	12	20	6	6	3	10	4	3	3	13	7	2	0	0	9	13	6	2	2	23	8	1	0	11	6	1	1	11	9	5	0	0	0	0

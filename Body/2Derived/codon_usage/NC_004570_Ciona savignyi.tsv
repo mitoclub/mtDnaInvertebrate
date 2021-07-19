@@ -1,65 +1,13 @@
-	NP_786952.1|COX1	NP_786953.1|ND5	NP_786954.1|ND6	NP_786955.1|ATP6	NP_786956.1|ND2	NP_786957.1|COX2	NP_786958.1|CYTB	NP_786959.1|ND1	NP_786960.1|ND4L	NP_786961.1|COX3	NP_786962.1|ND3	NP_786963.1|ND4
-TTT	54	72	31	29	45	19	42	37	8	29	20	74
-TTC	5	2	0	3	3	1	3	0	1	3	0	1
-TTA	33	59	26	26	25	14	35	34	12	19	10	42
-TTG	14	13	7	10	15	7	5	14	1	7	6	12
-TCT	16	33	6	11	17	12	7	9	3	10	5	13
-TCC	0	2	0	0	0	2	1	0	0	0	1	0
-TCA	7	11	1	2	2	3	7	1	1	6	4	9
-TCG	4	1	0	0	2	1	1	1	0	1	0	1
-TAT	15	22	7	5	14	12	16	12	3	9	6	17
-TAC	0	1	1	0	0	2	2	3	0	0	1	1
-TGT	2	5	0	0	4	2	2	0	0	4	2	2
-TGC	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	14	7	0	3	6	3	8	13	0	7	1	7
-TGG	3	4	1	0	0	2	4	1	2	4	0	1
-CTT	4	9	1	4	4	1	3	7	2	5	1	5
-CTC	0	0	0	0	0	0	0	1	0	0	0	0
-CTA	2	3	1	1	0	1	1	5	1	1	2	1
-CTG	1	0	0	0	0	0	0	1	1	0	2	0
-CCT	17	7	1	5	3	4	7	8	0	4	1	8
-CCC	0	0	0	1	0	1	1	0	0	1	0	0
-CCA	2	4	0	0	1	3	4	0	0	2	0	1
-CCG	3	2	0	1	0	1	3	0	0	0	0	0
-CAT	19	6	0	3	3	5	9	1	0	8	0	7
-CAC	1	1	0	0	0	0	0	0	0	1	0	1
-CAA	2	5	1	3	7	5	2	3	1	2	1	1
-CAG	2	2	0	0	0	2	2	3	0	1	0	0
-CGT	2	3	0	1	2	1	4	5	0	1	0	3
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	5	3	0	2	3	2	3	3	0	3	0	4
-CGG	1	1	0	0	0	0	2	0	0	1	0	0
-ATT	36	44	12	13	34	11	30	30	8	18	8	37
-ATC	0	2	0	1	1	0	3	4	0	0	1	1
-ATA	28	40	9	11	25	13	13	16	11	10	6	31
-ATG	5	9	3	4	7	3	5	2	2	1	2	8
-ACT	17	8	1	6	10	7	9	6	2	6	5	4
-ACC	0	1	0	0	0	1	0	0	0	0	0	0
-ACA	7	6	3	2	2	3	3	1	4	5	0	2
-ACG	2	0	0	0	0	1	2	1	0	0	0	4
-AAT	21	29	9	12	16	11	17	12	2	6	5	14
-AAC	0	0	1	1	0	0	1	0	0	1	0	0
-AAA	11	19	4	3	7	8	11	7	3	3	2	19
-AAG	1	4	1	1	6	2	3	5	2	0	2	1
-AGT	13	10	7	4	8	2	9	6	5	6	5	15
-AGC	2	2	1	0	0	0	3	4	0	0	0	0
-AGA	33	27	1	8	18	7	12	13	0	16	1	15
-AGG	6	7	4	2	6	1	2	5	1	0	0	5
-GTT	20	23	8	7	7	9	14	19	4	16	3	16
-GTC	0	1	0	0	0	0	0	0	1	2	0	1
-GTA	19	17	3	5	7	8	8	7	2	8	0	13
-GTG	3	4	2	4	1	1	5	2	1	1	2	4
-GCT	22	6	2	2	1	4	11	8	1	7	1	6
-GCC	0	1	0	0	0	0	0	1	0	1	0	0
-GCA	5	4	0	4	0	1	2	1	0	1	0	2
-GCG	2	3	0	0	0	0	0	1	0	0	0	1
-GAT	15	6	0	0	4	8	5	7	1	6	1	7
-GAC	0	0	0	0	1	0	1	0	0	0	0	0
-GAA	1	12	3	2	3	8	2	11	1	5	3	6
-GAG	4	1	0	5	3	0	2	4	1	2	1	2
-GGT	4	6	3	0	3	3	8	1	0	5	3	7
-GGC	0	0	1	0	0	0	0	0	0	0	0	0
-GGA	10	5	3	0	3	3	5	6	0	6	1	6
-GGG	1	3	0	2	1	0	1	2	0	1	0	3
-TAA	0	1	1	0	0	0	1	0	1	0	0	1
-TAG	1	0	0	1	1	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	NP_786952.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	54	5	33	14	16	0	7	4	15	0	2	0	14	3	4	0	2	1	17	0	2	3	19	1	2	2	2	0	5	1	36	0	28	5	17	0	7	2	21	0	11	1	13	2	33	6	20	0	19	3	22	0	5	2	15	0	1	4	4	0	10	1	0	1
+1	ND5	NP_786953.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	72	2	59	13	33	2	11	1	22	1	5	0	7	4	9	0	3	0	7	0	4	2	6	1	5	2	3	0	3	1	44	2	40	9	8	1	6	0	29	0	19	4	10	2	27	7	23	1	17	4	6	1	4	3	6	0	12	1	6	0	5	3	1	0
+2	ND6	NP_786954.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	31	0	26	7	6	0	1	0	7	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	12	0	9	3	1	0	3	0	9	1	4	1	7	1	1	4	8	0	3	2	2	0	0	0	0	0	3	0	3	1	3	0	1	0
+3	ATP6	NP_786955.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	29	3	26	10	11	0	2	0	5	0	0	0	3	0	4	0	1	0	5	1	0	1	3	0	3	0	1	0	2	0	13	1	11	4	6	0	2	0	12	1	3	1	4	0	8	2	7	0	5	4	2	0	4	0	0	0	2	5	0	0	0	2	0	1
+4	ND2	NP_786956.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	45	3	25	15	17	0	2	2	14	0	4	0	6	0	4	0	0	0	3	0	1	0	3	0	7	0	2	0	3	0	34	1	25	7	10	0	2	0	16	0	7	6	8	0	18	6	7	0	7	1	1	0	0	0	4	1	3	3	3	0	3	1	0	1
+5	COX2	NP_786957.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	19	1	14	7	12	2	3	1	12	2	2	0	3	2	1	0	1	0	4	1	3	1	5	0	5	2	1	0	2	0	11	0	13	3	7	1	3	1	11	0	8	2	2	0	7	1	9	0	8	1	4	0	1	0	8	0	8	0	3	0	3	0	0	0
+6	CYTB	NP_786958.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	42	3	35	5	7	1	7	1	16	2	2	0	8	4	3	0	1	0	7	1	4	3	9	0	2	2	4	0	3	2	30	3	13	5	9	0	3	2	17	1	11	3	9	3	12	2	14	0	8	5	11	0	2	0	5	1	2	2	8	0	5	1	1	0
+7	ND1	NP_786959.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	37	0	34	14	9	0	1	1	12	3	0	0	13	1	7	1	5	1	8	0	0	0	1	0	3	3	5	0	3	0	30	4	16	2	6	0	1	1	12	0	7	5	6	4	13	5	19	0	7	2	8	1	1	1	7	0	11	4	1	0	6	2	0	1
+8	ND4L	NP_786960.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	8	1	12	1	3	0	1	0	3	0	0	0	0	2	2	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	8	0	11	2	2	0	4	0	2	0	3	2	5	0	0	1	4	1	2	1	1	0	0	0	1	0	1	1	0	0	0	0	1	0
+9	COX3	NP_786961.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	29	3	19	7	10	0	6	1	9	0	4	0	7	4	5	0	1	0	4	1	2	0	8	1	2	1	1	0	3	1	18	0	10	1	6	0	5	0	6	1	3	0	6	0	16	0	16	2	8	1	7	1	1	0	6	0	5	2	5	0	6	1	0	0
+10	ND3	NP_786962.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	20	0	10	6	5	1	4	0	6	1	2	0	1	0	1	0	2	2	1	0	0	0	0	0	1	0	0	0	0	0	8	1	6	2	5	0	0	0	5	0	2	2	5	0	1	0	3	0	0	2	1	0	0	0	1	0	3	1	3	0	1	0	0	0
+11	ND4	NP_786963.1	Ciona savignyi	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Cionidae, Ciona	74	1	42	12	13	0	9	1	17	1	2	0	7	1	5	0	1	0	8	0	1	0	7	1	1	0	3	0	4	0	37	1	31	8	4	0	2	4	14	0	19	1	15	0	15	5	16	1	13	4	6	0	2	1	7	0	6	2	7	0	6	3	1	0

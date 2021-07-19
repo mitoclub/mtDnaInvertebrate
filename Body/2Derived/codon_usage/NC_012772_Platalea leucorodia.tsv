@@ -1,65 +1,13 @@
-	YP_002929438.1|ND1	YP_002929439.1|ND2	YP_002929440.1|COX1	YP_002929441.1|COX2	YP_002929442.1|ATP8	YP_002929443.1|ATP6	YP_002929444.1|COX3	YP_002929445.1|ND3	YP_002929446.1|ND4L	YP_002929447.1|ND4	YP_002929448.1|ND5	YP_002929449.1|CYTB
-TTT	7	3	13	1	1	2	4	1	0	6	13	6
-TTC	10	11	29	8	2	6	20	8	5	7	18	21
-TTA	12	6	7	4	1	6	7	1	4	13	7	7
-TTG	1	0	0	0	0	0	0	0	0	0	1	0
-TCT	5	5	3	2	0	2	1	2	1	4	6	5
-TCC	9	8	4	5	4	3	9	2	4	8	16	6
-TCA	8	12	15	11	1	4	6	4	4	13	16	11
-TCG	1	2	2	0	0	0	0	0	1	1	0	0
-TAT	5	0	8	3	0	1	1	1	0	0	0	1
-TAC	10	7	10	5	0	2	8	1	2	11	13	13
-TGT	0	0	0	1	0	0	0	1	1	1	0	2
-TGC	2	0	1	2	0	1	1	0	2	2	5	2
-TGA	8	8	17	5	4	3	12	4	1	10	12	11
-TGG	0	2	0	0	1	1	0	1	0	2	0	0
-CTT	7	10	8	2	0	10	1	4	0	12	12	5
-CTC	17	15	5	7	2	11	9	5	5	28	35	26
-CTA	25	27	36	15	2	33	15	13	10	48	42	28
-CTG	4	6	5	2	2	4	1	1	1	4	5	1
-CCT	6	2	3	2	2	1	1	0	0	1	2	1
-CCC	5	9	7	5	2	7	6	3	1	10	11	14
-CCA	12	10	21	5	2	6	5	5	2	15	15	10
-CCG	2	0	0	1	0	2	0	0	0	0	0	0
-CAT	0	3	5	2	1	0	3	0	1	4	2	2
-CAC	2	7	14	7	1	4	14	0	5	15	10	10
-CAA	4	10	8	8	1	7	7	4	3	15	17	7
-CAG	1	0	1	0	1	1	1	0	0	0	4	1
-CGT	2	0	1	0	0	0	0	1	0	1	1	1
-CGC	2	1	1	2	0	3	0	0	0	2	6	3
-CGA	4	2	6	3	0	2	5	1	2	8	2	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	6	12	13	7	2	2	4	1	0	8	15	7
-ATC	12	17	27	12	3	16	14	11	4	31	33	27
-ATA	12	16	22	8	2	9	4	2	4	22	31	9
-ATG	2	4	3	1	1	2	3	0	3	3	2	1
-ACT	4	9	7	3	2	4	3	1	1	9	11	5
-ACC	10	23	17	4	6	6	6	8	3	18	29	12
-ACA	8	17	16	7	1	14	11	3	2	22	34	10
-ACG	0	0	0	0	1	0	0	0	0	1	3	0
-AAT	2	3	1	0	1	1	2	0	0	2	5	4
-AAC	9	9	14	5	2	8	3	3	3	10	22	16
-AAA	5	12	8	4	2	3	4	1	0	8	22	9
-AAG	2	0	1	0	1	0	0	0	0	2	0	1
-AGT	1	0	1	0	0	0	1	0	1	2	3	1
-AGC	5	4	2	2	0	4	4	0	2	8	9	1
-GTT	6	2	6	4	0	1	3	0	0	1	3	1
-GTC	4	3	12	5	0	2	4	0	0	2	4	6
-GTA	7	4	16	6	0	3	7	1	2	5	7	6
-GTG	1	1	1	1	0	0	0	0	0	0	1	0
-GCT	6	4	12	6	1	2	3	0	1	7	9	3
-GCC	13	8	17	5	0	8	6	5	5	10	22	16
-GCA	10	13	18	3	0	6	11	3	4	15	15	8
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	2	1	2	4	0	0	0	0	0	3	2	1
-GAC	2	1	13	9	0	1	4	3	1	0	6	6
-GAA	8	5	9	14	0	4	8	5	2	7	12	6
-GAG	3	0	1	1	0	0	0	1	0	2	1	1
-GGT	0	3	7	1	0	2	3	0	1	0	2	5
-GGC	5	4	17	1	0	2	4	2	4	11	10	11
-GGA	7	5	20	5	0	4	10	3	0	8	17	9
-GGG	2	0	3	1	0	1	2	0	0	1	3	0
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002929438.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	7	10	12	1	5	9	8	1	5	10	0	2	8	0	7	17	25	4	6	5	12	2	0	2	4	1	2	2	4	0	6	12	12	2	4	10	8	0	2	9	5	2	1	5	6	4	7	1	6	13	10	0	2	2	8	3	0	5	7	2	0	0	1	0
+1	ND2	YP_002929439.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	3	11	6	0	5	8	12	2	0	7	0	0	8	2	10	15	27	6	2	9	10	0	3	7	10	0	0	1	2	0	12	17	16	4	9	23	17	0	3	9	12	0	0	4	2	3	4	1	4	8	13	0	1	1	5	0	3	4	5	0	0	0	0	0
+2	COX1	YP_002929440.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	13	29	7	0	3	4	15	2	8	10	0	1	17	0	8	5	36	5	3	7	21	0	5	14	8	1	1	1	6	0	13	27	22	3	7	17	16	0	1	14	8	1	1	2	6	12	16	1	12	17	18	0	2	13	9	1	7	17	20	3	0	0	0	1
+3	COX2	YP_002929441.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	1	8	4	0	2	5	11	0	3	5	1	2	5	0	2	7	15	2	2	5	5	1	2	7	8	0	0	2	3	0	7	12	8	1	3	4	7	0	0	5	4	0	0	2	4	5	6	1	6	5	3	0	4	9	14	1	1	1	5	1	1	0	0	0
+4	ATP8	YP_002929442.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	1	2	1	0	0	4	1	0	0	0	0	0	4	1	0	2	2	2	2	2	2	0	1	1	1	1	0	0	0	0	2	3	2	1	2	6	1	1	1	2	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002929443.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	2	6	6	0	2	3	4	0	1	2	0	1	3	1	10	11	33	4	1	7	6	2	0	4	7	1	0	3	2	0	2	16	9	2	4	6	14	0	1	8	3	0	0	4	1	2	3	0	2	8	6	0	0	1	4	0	2	2	4	1	1	0	0	0
+6	COX3	YP_002929444.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	4	20	7	0	1	9	6	0	1	8	0	1	12	0	1	9	15	1	1	6	5	0	3	14	7	1	0	0	5	0	4	14	4	3	3	6	11	0	2	3	4	0	1	4	3	4	7	0	3	6	11	0	0	4	8	0	3	4	10	2	0	0	0	0
+7	ND3	YP_002929445.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	1	8	1	0	2	2	4	0	1	1	1	0	4	1	4	5	13	1	0	3	5	0	0	0	4	0	1	0	1	0	1	11	2	0	1	8	3	0	0	3	1	0	0	0	0	0	1	0	0	5	3	0	0	3	5	1	0	2	3	0	1	0	0	0
+8	ND4L	YP_002929446.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	0	5	4	0	1	4	4	1	0	2	1	2	1	0	0	5	10	1	0	1	2	0	1	5	3	0	0	0	2	0	0	4	4	3	1	3	2	0	0	3	0	0	1	2	0	0	2	0	1	5	4	0	0	1	2	0	1	4	0	0	1	0	0	0
+9	ND4	YP_002929447.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	6	7	13	0	4	8	13	1	0	11	1	2	10	2	12	28	48	4	1	10	15	0	4	15	15	0	1	2	8	0	8	31	22	3	9	18	22	1	2	10	8	2	2	8	1	2	5	0	7	10	15	0	3	0	7	2	0	11	8	1	0	0	0	0
+10	ND5	YP_002929448.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	13	18	7	1	6	16	16	0	0	13	0	5	12	0	12	35	42	5	2	11	15	0	2	10	17	4	1	6	2	0	15	33	31	2	11	29	34	3	5	22	22	0	3	9	3	4	7	1	9	22	15	0	2	6	12	1	2	10	17	3	0	0	1	0
+11	CYTB	YP_002929449.1	Platalea leucorodia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Threskiornithidae, Platalea	6	21	7	0	5	6	11	0	1	13	2	2	11	0	5	26	28	1	1	14	10	0	2	10	7	1	1	3	4	0	7	27	9	1	5	12	10	0	4	16	9	1	1	1	1	6	6	0	3	16	8	0	1	6	6	1	5	11	9	0	1	0	0	0

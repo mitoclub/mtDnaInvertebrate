@@ -1,65 +1,14 @@
-	YP_009160768.1|COX3	YP_009160769.1|COX1	YP_009160770.1|ND4L	YP_009160771.1|COX2	YP_009160772.1|ND4	YP_009160773.1|ND6	YP_009160774.1|ATP8	YP_009160775.1|ATP6	YP_009160776.1|ND5	YP_009160777.1|ND1	YP_009160778.1|ND3	YP_009160779.1|ND2	YP_009160780.1|CYTB
-TTT	19	33	2	12	29	14	3	15	29	15	11	13	22
-TTC	4	13	1	1	11	3	0	5	8	7	2	3	8
-TTA	9	30	6	14	37	15	7	25	47	23	7	25	25
-TTG	6	7	6	10	17	8	4	5	20	12	1	20	12
-TCT	3	16	3	10	9	1	2	2	24	10	5	12	10
-TCC	1	6	1	1	3	3	2	2	7	2	2	4	4
-TCA	3	3	1	2	8	2	1	3	6	3	0	4	5
-TCG	1	1	0	1	4	1	0	1	4	1	0	2	2
-TAT	10	19	4	6	10	6	1	4	22	13	5	9	14
-TAC	3	6	1	4	10	3	1	3	6	3	0	3	6
-TGT	0	0	0	2	4	1	0	1	5	2	2	4	3
-TGC	3	1	0	0	2	0	0	0	1	0	0	1	1
-TGA	5	3	1	1	4	3	2	0	6	3	4	1	3
-TGG	7	13	0	5	7	1	1	4	9	4	0	4	8
-CTT	5	9	3	4	13	4	0	3	8	4	4	7	8
-CTC	0	4	1	0	3	0	1	1	3	2	0	4	2
-CTA	5	10	1	5	10	2	0	4	17	6	3	6	6
-CTG	1	2	3	1	4	0	0	3	8	3	1	5	3
-CCT	3	11	0	2	10	3	2	5	6	2	2	6	8
-CCC	5	2	0	6	8	2	0	3	10	6	2	4	4
-CCA	3	8	0	1	1	1	1	0	3	4	1	3	4
-CCG	1	5	0	3	2	1	0	0	2	3	1	3	2
-CAT	8	8	1	3	4	3	0	3	11	2	0	4	7
-CAC	7	7	0	4	3	0	1	2	4	1	0	0	4
-CAA	5	5	1	6	8	4	2	3	10	5	0	6	6
-CAG	1	2	0	1	2	1	0	0	4	1	2	1	3
-CGT	1	1	0	0	4	0	0	1	0	0	0	1	3
-CGC	0	0	0	0	2	1	0	0	0	1	1	0	2
-CGA	0	4	1	0	2	2	0	1	4	1	0	0	3
-CGG	0	0	1	1	0	0	1	0	0	2	2	0	1
-ATT	7	20	8	14	25	15	2	12	21	15	13	21	16
-ATC	4	6	3	1	10	1	1	1	9	4	0	5	3
-ATA	9	23	10	8	16	10	1	11	19	17	1	8	15
-ATG	5	22	4	9	12	4	2	8	22	11	1	8	10
-ACT	8	14	1	1	12	4	6	4	22	3	2	7	3
-ACC	4	3	0	0	7	1	0	5	13	2	0	1	3
-ACA	4	11	3	7	7	3	1	4	7	3	1	9	4
-ACG	2	2	0	1	2	3	0	0	5	0	0	2	2
-AAT	2	8	3	4	12	4	1	6	10	5	1	5	14
-AAC	1	7	0	4	5	0	1	0	7	2	0	3	2
-AAA	3	5	1	4	6	4	3	5	10	6	2	9	5
-AAG	3	1	1	3	6	1	2	2	7	3	1	3	0
-AGT	8	8	0	6	6	4	0	4	8	9	1	9	6
-AGC	3	2	0	0	1	4	0	2	5	0	0	1	3
-AGA	4	6	2	5	6	0	1	1	4	2	0	5	3
-AGG	0	3	0	1	1	0	1	0	3	3	0	1	1
-GTT	13	15	3	9	13	11	3	5	11	10	4	18	11
-GTC	3	3	0	5	7	0	3	4	8	3	1	6	5
-GTA	3	12	2	4	4	4	1	8	9	9	3	10	8
-GTG	4	8	1	5	7	2	0	7	12	5	4	5	8
-GCT	7	16	2	2	15	6	0	4	18	15	3	17	10
-GCC	6	14	5	6	12	7	0	4	20	13	2	9	10
-GCA	7	5	0	4	4	3	1	6	12	4	0	5	2
-GCG	1	4	2	3	7	2	0	3	0	5	0	1	1
-GAT	3	11	1	9	5	4	1	1	10	3	1	2	6
-GAC	1	7	0	4	4	3	1	4	5	1	2	3	3
-GAA	3	4	2	4	6	5	1	1	8	7	4	3	6
-GAG	4	5	1	8	9	2	2	3	4	4	3	4	2
-GGT	5	11	2	2	5	1	1	7	12	4	0	7	6
-GGC	3	9	2	3	8	2	1	6	11	2	4	9	2
-GGA	2	14	1	2	8	5	1	1	8	2	0	6	8
-GGG	11	18	1	5	12	7	0	4	12	14	6	14	11
-TAA	1	1	1	0	0	1	1	1	1	1	1	1	1
-TAG	0	0	0	1	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009160768.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	19	4	9	6	3	1	3	1	10	3	0	3	5	7	5	0	5	1	3	5	3	1	8	7	5	1	1	0	0	0	7	4	9	5	8	4	4	2	2	1	3	3	8	3	4	0	13	3	3	4	7	6	7	1	3	1	3	4	5	3	2	11	1	0
+1	COX1	YP_009160769.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	33	13	30	7	16	6	3	1	19	6	0	1	3	13	9	4	10	2	11	2	8	5	8	7	5	2	1	0	4	0	20	6	23	22	14	3	11	2	8	7	5	1	8	2	6	3	15	3	12	8	16	14	5	4	11	7	4	5	11	9	14	18	1	0
+2	ND4L	YP_009160770.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	2	1	6	6	3	1	1	0	4	1	0	0	1	0	3	1	1	3	0	0	0	0	1	0	1	0	0	0	1	1	8	3	10	4	1	0	3	0	3	0	1	1	0	0	2	0	3	0	2	1	2	5	0	2	1	0	2	1	2	2	1	1	1	0
+3	COX2	YP_009160771.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	12	1	14	10	10	1	2	1	6	4	2	0	1	5	4	0	5	1	2	6	1	3	3	4	6	1	0	0	0	1	14	1	8	9	1	0	7	1	4	4	4	3	6	0	5	1	9	5	4	5	2	6	4	3	9	4	4	8	2	3	2	5	0	1
+4	ND4	YP_009160772.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	29	11	37	17	9	3	8	4	10	10	4	2	4	7	13	3	10	4	10	8	1	2	4	3	8	2	4	2	2	0	25	10	16	12	12	7	7	2	12	5	6	6	6	1	6	1	13	7	4	7	15	12	4	7	5	4	6	9	5	8	8	12	0	1
+5	ND6	YP_009160773.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	14	3	15	8	1	3	2	1	6	3	1	0	3	1	4	0	2	0	3	2	1	1	3	0	4	1	0	1	2	0	15	1	10	4	4	1	3	3	4	0	4	1	4	4	0	0	11	0	4	2	6	7	3	2	4	3	5	2	1	2	5	7	1	0
+6	ATP8	YP_009160774.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	3	0	7	4	2	2	1	0	1	1	0	0	2	1	0	1	0	0	2	0	1	0	0	1	2	0	0	0	0	1	2	1	1	2	6	0	1	0	1	1	3	2	0	0	1	1	3	3	1	0	0	0	1	0	1	1	1	2	1	1	1	0	1	0
+7	ATP6	YP_009160775.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	15	5	25	5	2	2	3	1	4	3	1	0	0	4	3	1	4	3	5	3	0	0	3	2	3	0	1	0	1	0	12	1	11	8	4	5	4	0	6	0	5	2	4	2	1	0	5	4	8	7	4	4	6	3	1	4	1	3	7	6	1	4	1	0
+8	ND5	YP_009160776.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	29	8	47	20	24	7	6	4	22	6	5	1	6	9	8	3	17	8	6	10	3	2	11	4	10	4	0	0	4	0	21	9	19	22	22	13	7	5	10	7	10	7	8	5	4	3	11	8	9	12	18	20	12	0	10	5	8	4	12	11	8	12	1	0
+9	ND1	YP_009160777.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	15	7	23	12	10	2	3	1	13	3	2	0	3	4	4	2	6	3	2	6	4	3	2	1	5	1	0	1	1	2	15	4	17	11	3	2	3	0	5	2	6	3	9	0	2	3	10	3	9	5	15	13	4	5	3	1	7	4	4	2	2	14	1	0
+10	ND3	YP_009160778.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	11	2	7	1	5	2	0	0	5	0	2	0	4	0	4	0	3	1	2	2	1	1	0	0	0	2	0	1	0	2	13	0	1	1	2	0	1	0	1	0	2	1	1	0	0	0	4	1	3	4	3	2	0	0	1	2	4	3	0	4	0	6	1	0
+11	ND2	YP_009160779.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	13	3	25	20	12	4	4	2	9	3	4	1	1	4	7	4	6	5	6	4	3	3	4	0	6	1	1	0	0	0	21	5	8	8	7	1	9	2	5	3	9	3	9	1	5	1	18	6	10	5	17	9	5	1	2	3	3	4	7	9	6	14	1	0
+12	CYTB	YP_009160780.1	Myriopathes japonica	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Antipatharia, Antipathidae, Myriopathes	22	8	25	12	10	4	5	2	14	6	3	1	3	8	8	2	6	3	8	4	4	2	7	4	6	3	3	2	3	1	16	3	15	10	3	3	4	2	14	2	5	0	6	3	3	1	11	5	8	8	10	10	2	1	6	3	6	2	6	2	8	11	1	0

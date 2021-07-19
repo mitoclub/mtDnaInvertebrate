@@ -1,65 +1,10 @@
-	YP_009412977.1|ND2	YP_009412978.1|COX1	YP_009412979.1|COX2	YP_009412980.1|ATP8	YP_009412981.1|ATP6	YP_009412982.1|COX3	YP_009412983.1|ND3	YP_009412987.1|ND6	YP_009412988.1|CYTB
-TTT	31	46	17	8	23	32	19	17	39
-TTC	8	3	0	0	0	1	0	3	1
-TTA	27	29	19	4	18	15	10	14	29
-TTG	12	22	7	2	10	10	8	2	14
-TCT	12	23	10	2	10	11	7	7	13
-TCC	3	2	0	0	0	0	0	4	0
-TCA	7	7	1	0	2	3	1	0	7
-TCG	2	1	0	0	1	0	0	0	1
-TAT	9	12	6	4	5	11	0	9	14
-TAC	3	3	0	0	0	1	1	1	2
-TGT	4	2	2	0	2	3	1	1	3
-TGC	0	0	0	0	0	1	1	0	0
-TGA	4	10	6	4	5	5	2	1	6
-TGG	4	5	1	0	1	7	0	2	5
-CTT	6	8	2	0	6	1	1	3	7
-CTC	2	0	1	0	0	0	1	0	0
-CTA	4	1	0	0	3	1	0	0	5
-CTG	0	0	0	0	1	1	0	1	1
-CCT	4	18	7	2	9	7	2	3	16
-CCC	1	2	0	0	0	0	0	0	2
-CCA	3	4	2	0	0	0	1	1	2
-CCG	2	0	0	0	0	0	0	0	1
-CAT	2	18	4	0	4	12	0	1	9
-CAC	1	0	1	0	0	1	0	0	1
-CAA	4	3	3	0	0	2	0	0	4
-CAG	1	2	5	1	2	2	2	0	2
-CGT	0	6	3	0	1	1	1	1	4
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	3	4	0	1	2	0	0	2
-CGG	0	3	0	0	1	0	0	0	0
-ATT	24	39	17	6	18	24	12	21	29
-ATC	2	2	0	0	1	0	0	0	5
-ATA	19	14	8	2	8	3	3	9	11
-ATG	11	16	6	1	6	4	4	1	2
-ACT	5	22	8	0	7	9	0	3	11
-ACC	0	1	0	0	0	0	0	0	0
-ACA	2	4	2	1	0	1	0	2	4
-ACG	0	3	0	0	0	1	0	3	1
-AAT	8	15	6	2	8	4	3	3	17
-AAC	0	1	0	0	1	0	0	0	3
-AAA	4	2	2	0	2	1	4	8	8
-AAG	5	5	0	0	2	2	1	0	2
-AGT	3	3	3	1	2	5	0	2	3
-AGC	0	0	0	0	0	1	1	0	1
-AGA	9	8	3	0	6	7	1	5	5
-AGG	3	0	1	1	1	2	0	0	0
-GTT	13	21	11	2	12	6	6	7	12
-GTC	1	2	0	0	1	1	0	1	1
-GTA	4	12	6	2	6	12	2	1	10
-GTG	4	3	1	1	3	1	0	0	4
-GCT	6	24	6	2	12	10	3	3	8
-GCC	1	1	0	0	0	0	0	0	2
-GCA	4	7	5	0	4	2	0	1	2
-GCG	2	2	0	0	0	0	0	0	2
-GAT	2	16	13	0	1	5	2	1	8
-GAC	0	0	0	0	0	0	1	0	0
-GAA	5	6	5	1	4	5	3	3	5
-GAG	2	3	6	0	0	2	2	2	2
-GGT	2	15	1	1	4	6	1	1	6
-GGC	2	1	0	0	0	0	0	0	1
-GGA	14	18	6	1	5	10	5	8	15
-GGG	8	13	6	0	2	6	1	3	2
-TAA	1	1	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009412977.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	31	8	27	12	12	3	7	2	9	3	4	0	4	4	6	2	4	0	4	1	3	2	2	1	4	1	0	0	1	0	24	2	19	11	5	0	2	0	8	0	4	5	3	0	9	3	13	1	4	4	6	1	4	2	2	0	5	2	2	2	14	8	1	0
+1	COX1	YP_009412978.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	46	3	29	22	23	2	7	1	12	3	2	0	10	5	8	0	1	0	18	2	4	0	18	0	3	2	6	0	3	3	39	2	14	16	22	1	4	3	15	1	2	5	3	0	8	0	21	2	12	3	24	1	7	2	16	0	6	3	15	1	18	13	1	0
+2	COX2	YP_009412979.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	17	0	19	7	10	0	1	0	6	0	2	0	6	1	2	1	0	0	7	0	2	0	4	1	3	5	3	0	4	0	17	0	8	6	8	0	2	0	6	0	2	0	3	0	3	1	11	0	6	1	6	0	5	0	13	0	5	6	1	0	6	6	0	0
+3	ATP8	YP_009412980.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	8	0	4	2	2	0	0	0	4	0	0	0	4	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	6	0	2	1	0	0	1	0	2	0	0	0	1	0	0	1	2	0	2	1	2	0	0	0	0	0	1	0	1	0	1	0	1	0
+4	ATP6	YP_009412981.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	23	0	18	10	10	0	2	1	5	0	2	0	5	1	6	0	3	1	9	0	0	0	4	0	0	2	1	0	1	1	18	1	8	6	7	0	0	0	8	1	2	2	2	0	6	1	12	1	6	3	12	0	4	0	1	0	4	0	4	0	5	2	1	0
+5	COX3	YP_009412982.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	32	1	15	10	11	0	3	0	11	1	3	1	5	7	1	0	1	1	7	0	0	0	12	1	2	2	1	0	2	0	24	0	3	4	9	0	1	1	4	0	1	2	5	1	7	2	6	1	12	1	10	0	2	0	5	0	5	2	6	0	10	6	0	0
+6	ND3	YP_009412983.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	19	0	10	8	7	0	1	0	0	1	1	1	2	0	1	1	0	0	2	0	1	0	0	0	0	2	1	0	0	0	12	0	3	4	0	0	0	0	3	0	4	1	0	1	1	0	6	0	2	0	3	0	0	0	2	1	3	2	1	0	5	1	0	0
+7	ND6	YP_009412987.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	17	3	14	2	7	4	0	0	9	1	1	0	1	2	3	0	0	1	3	0	1	0	1	0	0	0	1	0	0	0	21	0	9	1	3	0	2	3	3	0	8	0	2	0	5	0	7	1	1	0	3	0	1	0	1	0	3	2	1	0	8	3	1	0
+8	CYTB	YP_009412988.1	Vaejovis smithi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Iurida, Chactoidea, Vaejovidae, Vaejovis	39	1	29	14	13	0	7	1	14	2	3	0	6	5	7	0	5	1	16	2	2	1	9	1	4	2	4	0	2	0	29	5	11	2	11	0	4	1	17	3	8	2	3	1	5	0	12	1	10	4	8	2	2	2	8	0	5	2	6	1	15	2	0	1

@@ -1,65 +1,10 @@
-	YP_009131534.1|ND2	YP_009131535.1|COX1	YP_009131536.1|COX2	YP_009131537.1|ATP8	YP_009131538.1|ATP6	YP_009131539.1|COX3	YP_009131540.1|ND3	YP_009131544.1|ND6	YP_009131545.1|CYTB
-TTT	41	34	17	8	23	22	13	20	30
-TTC	3	4	1	1	0	4	0	2	4
-TTA	46	54	20	4	30	20	16	31	48
-TTG	0	0	0	0	0	1	0	0	0
-TCT	10	19	4	2	5	2	4	6	9
-TCC	5	5	0	0	0	2	1	1	0
-TCA	13	15	8	0	10	5	6	4	7
-TCG	0	0	0	0	0	0	0	0	0
-TAT	12	16	8	3	7	10	2	9	17
-TAC	1	2	0	0	0	1	0	2	2
-TGT	3	1	2	0	0	2	2	1	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	9	14	6	3	5	13	2	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	3	5	3	1	5	2	3	1	4
-CTC	0	0	0	0	0	0	0	0	0
-CTA	1	5	2	0	3	2	0	3	4
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	14	8	1	4	4	0	1	13
-CCC	4	5	0	0	0	0	0	1	2
-CCA	1	5	2	1	4	6	3	0	7
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	15	4	0	6	16	2	0	8
-CAC	1	1	1	0	0	0	0	2	0
-CAA	4	9	8	1	4	6	1	1	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	2	3	0	1	1	0	1	1
-CGC	0	0	0	0	0	1	0	0	0
-CGA	2	7	4	0	2	2	2	0	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	46	49	31	8	32	30	21	18	51
-ATC	3	6	3	0	0	1	0	2	3
-ATA	36	33	7	5	11	11	10	18	17
-ATG	0	0	2	0	1	1	0	0	1
-ACT	2	14	9	0	12	12	2	4	13
-ACC	3	2	1	0	2	2	0	0	3
-ACA	4	12	1	0	3	8	2	2	6
-ACG	0	1	0	0	0	0	0	0	0
-AAT	30	20	23	7	15	12	7	21	26
-AAC	2	5	0	3	3	3	0	0	1
-AAA	16	6	5	6	2	4	5	5	10
-AAG	0	0	0	0	0	0	0	0	0
-AGT	0	5	2	0	3	2	0	1	0
-AGC	0	1	0	0	1	0	0	0	0
-AGA	7	7	2	0	8	4	1	1	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	10	2	0	2	3	0	1	6
-GTC	1	2	0	0	0	0	0	0	0
-GTA	3	10	6	0	3	9	2	5	7
-GTG	0	1	0	0	0	0	0	0	0
-GCT	2	16	5	0	4	3	1	1	13
-GCC	0	1	0	0	0	0	0	0	0
-GCA	4	9	1	0	1	7	1	1	3
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	14	7	0	1	4	3	0	8
-GAC	0	1	1	0	0	0	0	0	0
-GAA	4	9	9	0	4	7	4	3	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	4	12	5	0	2	3	0	1	2
-GGC	0	1	1	0	1	0	0	0	0
-GGA	8	31	3	0	4	14	2	4	19
-GGG	1	0	0	0	1	0	0	0	2
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009131534.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	41	3	46	0	10	5	13	0	12	1	3	0	9	0	3	0	1	0	2	4	1	0	0	1	4	0	0	0	2	0	46	3	36	0	2	3	4	0	30	2	16	0	0	0	7	0	0	1	3	0	2	0	4	0	0	0	4	0	4	0	8	1	1	0
+1	COX1	YP_009131535.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	34	4	54	0	19	5	15	0	16	2	1	0	14	0	5	0	5	0	14	5	5	0	15	1	9	0	2	0	7	0	49	6	33	0	14	2	12	1	20	5	6	0	5	1	7	0	10	2	10	1	16	1	9	0	14	1	9	0	12	1	31	0	0	0
+2	COX2	YP_009131536.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	17	1	20	0	4	0	8	0	8	0	2	0	6	0	3	0	2	0	8	0	2	0	4	1	8	0	3	0	4	0	31	3	7	2	9	1	1	0	23	0	5	0	2	0	2	0	2	0	6	0	5	0	1	0	7	1	9	0	5	1	3	0	0	0
+3	ATP8	YP_009131537.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	8	1	4	0	2	0	0	0	3	0	0	0	3	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	8	0	5	0	0	0	0	0	7	3	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009131538.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	23	0	30	0	5	0	10	0	7	0	0	0	5	0	5	0	3	0	4	0	4	0	6	0	4	0	1	0	2	0	32	0	11	1	12	2	3	0	15	3	2	0	3	1	8	0	2	0	3	0	4	0	1	0	1	0	4	0	2	1	4	1	1	0
+5	COX3	YP_009131539.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	22	4	20	1	2	2	5	0	10	1	2	0	13	0	2	0	2	0	4	0	6	0	16	0	6	0	1	1	2	0	30	1	11	1	12	2	8	0	12	3	4	0	2	0	4	0	3	0	9	0	3	0	7	0	4	0	7	0	3	0	14	0	1	0
+6	ND3	YP_009131540.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	13	0	16	0	4	1	6	0	2	0	2	0	2	0	3	0	0	0	0	0	3	0	2	0	1	0	0	0	2	0	21	0	10	0	2	0	2	0	7	0	5	0	0	0	1	0	0	0	2	0	1	0	1	0	3	0	4	0	0	0	2	0	1	0
+7	ND6	YP_009131544.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	20	2	31	0	6	1	4	0	9	2	1	0	2	0	1	0	3	0	1	1	0	0	0	2	1	0	1	0	0	0	18	2	18	0	4	0	2	0	21	0	5	0	1	0	1	0	1	0	5	0	1	0	1	0	0	0	3	0	1	0	4	0	1	0
+8	CYTB	YP_009131545.1	Parnassius epaphus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Parnassiinae, Parnassini, Parnassius, Parnassius	30	4	48	0	9	0	7	0	17	2	3	0	12	0	4	0	4	0	13	2	7	0	8	0	8	0	1	0	6	0	51	3	17	1	13	3	6	0	26	1	10	0	0	0	2	0	6	0	7	0	13	0	3	0	8	0	4	0	2	0	19	2	1	0

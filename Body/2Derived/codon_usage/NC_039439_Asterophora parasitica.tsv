@@ -1,65 +1,11 @@
-	YP_009517142.1|cox1	YP_009517143.1	YP_009517144.1	YP_009517145.1|atp8	YP_009517146.1|nad4L	YP_009517147.1	YP_009517148.1|cox2	YP_009517149.1	YP_009517150.1	YP_009517156.1
-TTT	27	22	7	7	4	39	10	14	29	15
-TTC	24	9	9	2	1	12	10	10	9	2
-TTA	50	85	17	8	13	95	20	42	66	23
-TTG	6	1	0	0	0	0	2	0	2	1
-TCT	10	28	3	2	3	23	10	14	22	13
-TCC	2	2	0	0	1	4	0	0	3	0
-TCA	20	27	3	1	1	16	9	7	5	4
-TCG	0	1	0	0	0	1	0	0	1	0
-TAT	18	24	4	3	2	32	11	9	31	6
-TAC	2	4	1	0	1	5	0	1	4	1
-TGT	1	5	1	0	0	4	3	1	2	0
-TGC	1	0	0	0	0	0	1	0	0	0
-TGA	0	0	0	0	0	0	0	0	0	0
-TGG	12	3	0	0	0	4	7	1	1	0
-CTT	4	4	2	0	2	5	0	1	13	1
-CTC	0	0	0	0	0	0	0	0	1	0
-CTA	5	7	2	1	1	7	2	5	8	3
-CTG	0	1	0	0	0	1	1	0	1	0
-CCT	13	4	6	2	0	16	8	8	20	3
-CCC	0	1	0	0	0	2	0	0	1	0
-CCA	16	6	0	1	0	2	5	1	5	1
-CCG	0	0	0	0	0	1	0	0	2	0
-CAT	11	3	2	0	0	12	5	4	8	0
-CAC	7	2	0	0	0	0	2	1	0	1
-CAA	10	14	4	4	1	10	9	5	13	4
-CAG	1	2	0	0	0	1	0	0	2	1
-CGT	0	0	0	0	0	0	0	0	1	0
-CGC	0	0	0	0	0	0	0	0	0	0
-CGA	1	0	0	0	1	2	0	1	1	0
-CGG	0	0	0	0	0	0	0	0	0	0
-ATT	21	22	6	5	7	34	18	13	37	23
-ATC	7	5	2	1	3	5	3	2	1	2
-ATA	14	54	7	1	8	29	4	11	30	12
-ATG	16	6	2	1	3	18	4	2	7	4
-ACT	12	14	4	2	2	21	3	7	15	7
-ACC	2	2	0	0	0	3	0	0	2	0
-ACA	17	15	1	1	1	14	9	4	15	7
-ACG	0	0	1	0	1	0	0	0	0	0
-AAT	22	30	5	2	4	25	8	10	69	17
-AAC	1	1	0	0	0	1	0	0	11	1
-AAA	6	18	4	4	1	17	5	3	87	6
-AAG	1	2	0	0	0	0	0	0	3	0
-AGT	8	19	0	1	3	23	4	9	20	3
-AGC	0	3	1	0	0	1	0	0	0	0
-AGA	8	9	2	1	2	12	5	3	25	1
-AGG	0	0	0	0	1	1	0	0	1	0
-GTT	14	5	5	1	1	8	13	13	9	10
-GTC	0	2	0	0	1	1	0	0	3	0
-GTA	22	16	5	1	2	26	8	5	7	9
-GTG	4	2	0	0	0	2	0	6	3	1
-GCT	22	13	7	0	3	24	7	12	11	7
-GCC	4	1	1	0	1	5	1	0	0	0
-GCA	12	6	0	0	1	18	7	5	5	3
-GCG	2	1	1	0	0	2	0	1	6	0
-GAT	13	9	3	0	2	17	15	2	14	3
-GAC	1	0	0	0	0	0	0	0	2	0
-GAA	3	15	5	0	2	13	9	6	14	3
-GAG	4	4	0	0	0	3	0	1	3	0
-GGT	25	15	4	0	6	30	7	9	9	5
-GGC	0	0	0	0	0	0	0	0	0	0
-GGA	23	15	3	0	2	19	8	5	13	3
-GGG	2	1	0	0	0	3	0	1	2	1
-TAA	1	1	1	1	1	0	1	0	1	1
-TAG	0	0	0	0	0	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009517142.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	27	24	50	6	10	2	20	0	18	2	1	1	0	12	4	0	5	0	13	0	16	0	11	7	10	1	0	0	1	0	21	7	14	16	12	2	17	0	22	1	6	1	8	0	8	0	14	0	22	4	22	4	12	2	13	1	3	4	25	0	23	2	1	0
+1	None	YP_009517143.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	22	9	85	1	28	2	27	1	24	4	5	0	0	3	4	0	7	1	4	1	6	0	3	2	14	2	0	0	0	0	22	5	54	6	14	2	15	0	30	1	18	2	19	3	9	0	5	2	16	2	13	1	6	1	9	0	15	4	15	0	15	1	1	0
+2	None	YP_009517144.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	7	9	17	0	3	0	3	0	4	1	1	0	0	0	2	0	2	0	6	0	0	0	2	0	4	0	0	0	0	0	6	2	7	2	4	0	1	1	5	0	4	0	0	1	2	0	5	0	5	0	7	1	0	1	3	0	5	0	4	0	3	0	1	0
+3	atp8	YP_009517145.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	7	2	8	0	2	0	1	0	3	0	0	0	0	0	0	0	1	0	2	0	1	0	0	0	4	0	0	0	0	0	5	1	1	1	2	0	1	0	2	0	4	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	nad4L	YP_009517146.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	4	1	13	0	3	1	1	0	2	1	0	0	0	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	7	3	8	3	2	0	1	1	4	0	1	0	3	0	2	1	1	1	2	0	3	1	1	0	2	0	2	0	6	0	2	0	1	0
+5	None	YP_009517147.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	39	12	95	0	23	4	16	1	32	5	4	0	0	4	5	0	7	1	16	2	2	1	12	0	10	1	0	0	2	0	34	5	29	18	21	3	14	0	25	1	17	0	23	1	12	1	8	1	26	2	24	5	18	2	17	0	13	3	30	0	19	3	0	1
+6	cox2	YP_009517148.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	10	10	20	2	10	0	9	0	11	0	3	1	0	7	0	0	2	1	8	0	5	0	5	2	9	0	0	0	0	0	18	3	4	4	3	0	9	0	8	0	5	0	4	0	5	0	13	0	8	0	7	1	7	0	15	0	9	0	7	0	8	0	1	0
+7	None	YP_009517149.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	14	10	42	0	14	0	7	0	9	1	1	0	0	1	1	0	5	0	8	0	1	0	4	1	5	0	0	0	1	0	13	2	11	2	7	0	4	0	10	0	3	0	9	0	3	0	13	0	5	6	12	0	5	1	2	0	6	1	9	0	5	1	0	1
+8	None	YP_009517150.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	29	9	66	2	22	3	5	1	31	4	2	0	0	1	13	1	8	1	20	1	5	2	8	0	13	2	1	0	1	0	37	1	30	7	15	2	15	0	69	11	87	3	20	0	25	1	9	3	7	3	11	0	5	6	14	2	14	3	9	0	13	2	1	0
+9	None	YP_009517156.1	Asterophora parasitica	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Lyophyllaceae, Asterophora	15	2	23	1	13	0	4	0	6	1	0	0	0	0	1	0	3	0	3	0	1	0	0	1	4	1	0	0	0	0	23	2	12	4	7	0	7	0	17	1	6	0	3	0	1	0	10	0	9	1	7	0	3	0	3	0	3	0	5	0	3	1	1	0

@@ -1,65 +1,10 @@
-	YP_003875479.1|cox1	YP_003875483.1|rps4	YP_003875484.1|nad6	YP_003875488.1|rpo	YP_003875490.1|atp6	YP_003875493.1|nad4	YP_003875494.1|mttB	YP_003875495.1|matR	YP_003875501.1|nad7
-TTT	31	5	6	7	19	24	13	11	7
-TTC	18	5	7	6	7	21	15	15	8
-TTA	22	6	9	8	15	23	7	9	12
-TTG	4	4	9	5	10	9	9	8	7
-TCT	9	7	5	4	1	12	4	7	8
-TCC	3	4	2	0	3	7	4	10	6
-TCA	6	0	2	6	6	4	3	6	7
-TCG	2	2	1	0	1	2	6	14	2
-TAT	13	8	6	15	5	16	7	3	10
-TAC	5	2	2	2	2	2	3	12	4
-TGT	3	0	0	1	3	4	2	2	4
-TGC	1	3	0	2	1	4	6	6	2
-TGG	14	1	4	3	2	6	6	10	4
-CTT	13	3	5	10	12	20	7	12	5
-CTC	7	1	2	2	6	3	3	14	2
-CTA	6	7	2	2	6	13	1	13	3
-CTG	7	0	3	4	6	6	6	10	3
-CCT	7	5	0	4	7	8	5	6	11
-CCC	9	0	1	0	1	8	3	17	0
-CCA	8	1	6	0	5	3	3	6	8
-CCG	6	0	1	0	1	3	3	6	1
-CAT	14	4	3	4	8	10	1	7	11
-CAC	3	3	1	3	0	1	2	14	4
-CAA	5	3	2	3	7	8	6	12	15
-CAG	1	1	1	2	2	3	1	10	1
-CGT	3	1	1	1	1	2	8	6	11
-CGC	3	4	2	0	1	2	0	6	1
-CGA	4	2	3	1	0	5	1	13	12
-CGG	0	4	0	0	1	3	2	9	1
-ATT	17	1	9	7	11	25	8	12	7
-ATC	17	3	4	7	4	12	9	25	7
-ATA	11	7	6	6	8	13	6	19	7
-ATG	22	5	9	9	9	16	4	5	15
-ACT	14	2	7	5	7	12	3	6	11
-ACC	10	2	3	2	1	7	2	9	6
-ACA	9	4	2	2	5	7	7	7	2
-ACG	3	0	4	2	2	2	6	6	0
-AAT	13	4	6	14	10	9	4	6	7
-AAC	3	7	1	4	6	3	1	13	2
-AAA	6	14	2	22	3	8	4	18	12
-AAG	3	15	2	11	3	5	2	28	3
-AGT	10	4	3	5	6	7	4	9	5
-AGC	6	2	1	2	4	9	1	14	1
-AGA	2	13	4	5	1	9	1	14	9
-AGG	0	5	4	2	1	0	3	11	1
-GTT	16	0	9	4	5	15	8	7	5
-GTC	5	1	4	0	3	3	1	10	5
-GTA	9	2	7	5	7	6	7	13	8
-GTG	8	2	2	1	5	10	4	5	10
-GCT	16	2	6	1	7	8	4	5	10
-GCC	6	0	3	0	4	8	2	21	7
-GCA	11	2	0	2	5	7	5	5	9
-GCG	3	0	1	1	2	4	0	14	1
-GAT	8	3	3	10	6	6	2	9	18
-GAC	5	2	2	3	2	4	3	18	3
-GAA	6	5	5	19	4	11	11	21	16
-GAG	3	2	1	8	6	3	4	17	10
-GGT	15	2	4	3	6	13	5	10	9
-GGC	7	3	1	0	2	2	2	10	4
-GGA	21	3	3	2	9	13	2	15	12
-GGG	12	0	1	2	5	6	2	7	2
-TAA	1	1	1	1	0	0	0	0	0
-TAG	0	0	0	0	0	0	1	1	1
-TGA	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox1	YP_003875479.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	31	18	22	4	9	3	6	2	13	5	3	1	14	13	7	6	7	7	9	8	6	14	3	5	1	3	3	4	0	17	17	11	22	14	10	9	3	13	3	6	3	10	6	2	0	16	5	9	8	16	6	11	3	8	5	6	3	15	7	21	12	1	0	0
+1	rps4	YP_003875483.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	5	5	6	4	7	4	0	2	8	2	0	3	1	3	1	7	0	5	0	1	0	4	3	3	1	1	4	2	4	1	3	7	5	2	2	4	0	4	7	14	15	4	2	13	5	0	1	2	2	2	0	2	0	3	2	5	2	2	3	3	0	1	0	0
+2	nad6	YP_003875484.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	6	7	9	9	5	2	2	1	6	2	0	0	4	5	2	2	3	0	1	6	1	3	1	2	1	1	2	3	0	9	4	6	9	7	3	2	4	6	1	2	2	3	1	4	4	9	4	7	2	6	3	0	1	3	2	5	1	4	1	3	1	1	0	0
+3	rpo	YP_003875488.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	7	6	8	5	4	0	6	0	15	2	1	2	3	10	2	2	4	4	0	0	0	4	3	3	2	1	0	1	0	7	7	6	9	5	2	2	2	14	4	22	11	5	2	5	2	4	0	5	1	1	0	2	1	10	3	19	8	3	0	2	2	1	0	0
+4	atp6	YP_003875490.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	19	7	15	10	1	3	6	1	5	2	3	1	2	12	6	6	6	7	1	5	1	8	0	7	2	1	1	0	1	11	4	8	9	7	1	5	2	10	6	3	3	6	4	1	1	5	3	7	5	7	4	5	2	6	2	4	6	6	2	9	5	0	0	0
+5	nad4	YP_003875493.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	24	21	23	9	12	7	4	2	16	2	4	4	6	20	3	13	6	8	8	3	3	10	1	8	3	2	2	5	3	25	12	13	16	12	7	7	2	9	3	8	5	7	9	9	0	15	3	6	10	8	8	7	4	6	4	11	3	13	2	13	6	0	0	1
+6	mttB	YP_003875494.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	13	15	7	9	4	4	3	6	7	3	2	6	6	7	3	1	6	5	3	3	3	1	2	6	1	8	0	1	2	8	9	6	4	3	2	7	6	4	1	4	2	4	1	1	3	8	1	7	4	4	2	5	0	2	3	11	4	5	2	2	2	0	1	0
+7	matR	YP_003875495.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	11	15	9	8	7	10	6	14	3	12	2	6	10	12	14	13	10	6	17	6	6	7	14	12	10	6	6	13	9	12	25	19	5	6	9	7	6	6	13	18	28	9	14	14	11	7	10	13	5	5	21	5	14	9	18	21	17	10	10	15	7	0	1	0
+8	nad7	YP_003875501.1	Silene latifolia	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, Caryophyllales, Caryophyllaceae, Sileneae, Silene	7	8	12	7	8	6	7	2	10	4	4	2	4	5	2	3	3	11	0	8	1	11	4	15	1	11	1	12	1	7	7	7	15	11	6	2	0	7	2	12	3	5	1	9	1	5	5	8	10	10	7	9	1	18	3	16	10	9	4	12	2	0	1	0

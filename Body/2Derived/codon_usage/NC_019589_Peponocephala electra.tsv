@@ -1,65 +1,13 @@
-	YP_007025021.1|ND1	YP_007025022.1|ND2	YP_007025023.1|COX1	YP_007025024.1|COX2	YP_007025025.1|ATP8	YP_007025026.1|ATP6	YP_007025027.1|COX3	YP_007025028.1|ND3	YP_007025029.1|ND4L	YP_007025030.1|ND4	YP_007025031.1|ND5	YP_007025033.1|CYTB
-TTT	6	4	19	4	1	5	9	4	2	11	17	6
-TTC	15	12	23	3	2	11	15	4	2	9	30	20
-TTA	7	7	13	8	0	10	7	4	5	23	12	13
-TTG	0	0	4	1	1	2	0	0	0	1	1	1
-TCT	3	1	8	2	2	4	2	1	0	5	11	3
-TCC	9	12	4	5	1	1	4	2	5	10	10	8
-TCA	7	7	15	7	3	3	11	0	1	11	9	7
-TCG	0	1	1	1	0	0	0	0	0	0	2	0
-TAT	6	0	14	3	2	0	7	1	1	8	9	8
-TAC	3	9	5	6	0	2	4	2	2	8	9	8
-TGT	0	0	1	2	0	0	0	1	1	1	3	1
-TGC	2	0	0	0	0	0	1	0	2	3	1	2
-TGA	9	10	17	5	2	3	12	3	0	13	11	12
-TGG	0	0	0	0	1	0	0	1	0	0	1	0
-CTT	7	8	7	3	3	6	6	4	1	14	17	7
-CTC	9	11	6	5	2	6	10	6	5	22	21	8
-CTA	33	34	27	17	4	19	9	16	12	36	47	32
-CTG	1	2	5	0	1	1	1	0	0	0	2	2
-CCT	2	2	11	3	1	5	1	2	0	9	7	6
-CCC	12	11	8	6	3	3	4	3	0	9	13	5
-CCA	8	8	9	4	2	5	7	1	1	4	9	12
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	0	1	8	1	0	0	4	0	0	7	7	3
-CAC	5	4	9	5	2	5	12	0	3	6	9	8
-CAA	5	12	5	8	5	7	7	3	2	11	18	7
-CAG	1	0	2	0	0	1	0	0	0	0	0	1
-CGT	0	0	2	0	0	1	0	0	0	3	1	3
-CGC	1	1	1	1	0	1	3	1	0	1	5	1
-CGA	7	2	5	5	0	1	3	0	1	6	2	4
-CGG	0	0	0	0	0	1	0	0	0	0	0	0
-ATT	11	19	21	8	1	11	6	2	4	17	20	11
-ATC	13	17	17	8	3	14	10	3	4	24	34	27
-ATA	18	31	27	13	1	11	11	5	4	29	35	13
-ATG	1	2	4	2	1	3	1	0	3	4	4	1
-ACT	4	7	9	4	0	7	5	2	1	11	13	3
-ACC	5	18	7	5	4	7	7	3	2	10	19	12
-ACA	16	22	21	9	3	13	11	5	5	22	31	15
-ACG	1	2	0	0	1	0	1	1	0	0	0	0
-AAT	5	6	8	4	0	5	3	2	3	4	11	5
-AAC	8	9	11	4	1	6	4	3	3	17	22	11
-AAA	7	12	8	5	5	4	2	4	0	10	20	9
-AAG	1	0	1	0	1	1	0	0	0	1	4	0
-AGT	0	0	1	0	0	2	3	0	0	7	4	0
-AGC	1	3	2	3	0	3	2	2	0	3	6	4
-GTT	0	1	9	4	0	1	1	0	0	1	1	2
-GTC	2	2	9	4	0	2	5	1	3	3	3	5
-GTA	9	2	19	5	0	5	7	1	3	7	6	7
-GTG	1	0	0	0	1	0	0	0	1	0	0	2
-GCT	11	3	11	2	0	4	4	5	1	5	12	5
-GCC	6	8	11	2	0	6	7	3	4	11	17	2
-GCA	11	6	18	7	1	4	2	2	4	13	11	17
-GCG	1	0	0	0	0	1	0	1	0	0	0	0
-GAT	1	0	4	2	1	0	0	2	0	2	4	0
-GAC	3	2	11	9	0	1	3	1	1	1	7	10
-GAA	11	4	8	13	0	3	8	5	2	8	9	6
-GAG	0	0	1	1	0	0	0	0	0	1	3	0
-GGT	2	3	14	1	0	4	6	0	1	1	2	3
-GGC	5	1	9	5	1	2	7	1	2	6	9	10
-GGA	6	8	22	2	0	3	6	2	1	7	15	10
-GGG	0	0	3	0	0	0	0	0	0	3	0	1
-TAA	1	0	0	1	0	1	0	0	1	0	0	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007025021.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	6	15	7	0	3	9	7	0	6	3	0	2	9	0	7	9	33	1	2	12	8	0	0	5	5	1	0	1	7	0	11	13	18	1	4	5	16	1	5	8	7	1	0	1	0	2	9	1	11	6	11	1	1	3	11	0	2	5	6	0	1	0	0	0
+1	ND2	YP_007025022.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	4	12	7	0	1	12	7	1	0	9	0	0	10	0	8	11	34	2	2	11	8	0	1	4	12	0	0	1	2	0	19	17	31	2	7	18	22	2	6	9	12	0	0	3	1	2	2	0	3	8	6	0	0	2	4	0	3	1	8	0	0	0	0	0
+2	COX1	YP_007025023.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	19	23	13	4	8	4	15	1	14	5	1	0	17	0	7	6	27	5	11	8	9	1	8	9	5	2	2	1	5	0	21	17	27	4	9	7	21	0	8	11	8	1	1	2	9	9	19	0	11	11	18	0	4	11	8	1	14	9	22	3	0	0	1	0
+3	COX2	YP_007025024.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	4	3	8	1	2	5	7	1	3	6	2	0	5	0	3	5	17	0	3	6	4	0	1	5	8	0	0	1	5	0	8	8	13	2	4	5	9	0	4	4	5	0	0	3	4	4	5	0	2	2	7	0	2	9	13	1	1	5	2	0	1	0	0	0
+4	ATP8	YP_007025025.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	1	2	0	1	2	1	3	0	2	0	0	0	2	1	3	2	4	1	1	3	2	0	0	2	5	0	0	0	0	0	1	3	1	1	0	4	3	1	0	1	5	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_007025026.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	5	11	10	2	4	1	3	0	0	2	0	0	3	0	6	6	19	1	5	3	5	0	0	5	7	1	1	1	1	1	11	14	11	3	7	7	13	0	5	6	4	1	2	3	1	2	5	0	4	6	4	1	0	1	3	0	4	2	3	0	1	0	0	0
+6	COX3	YP_007025027.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	9	15	7	0	2	4	11	0	7	4	0	1	12	0	6	10	9	1	1	4	7	0	4	12	7	0	0	3	3	0	6	10	11	1	5	7	11	1	3	4	2	0	3	2	1	5	7	0	4	7	2	0	0	3	8	0	6	7	6	0	0	0	0	0
+7	ND3	YP_007025028.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	4	4	4	0	1	2	0	0	1	2	1	0	3	1	4	6	16	0	2	3	1	0	0	0	3	0	0	1	0	0	2	3	5	0	2	3	5	1	2	3	4	0	0	2	0	1	1	0	5	3	2	1	2	1	5	0	0	1	2	0	0	0	0	0
+8	ND4L	YP_007025029.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	2	2	5	0	0	5	1	0	1	2	1	2	0	0	1	5	12	0	0	0	1	0	0	3	2	0	0	0	1	0	4	4	4	3	1	2	5	0	3	3	0	0	0	0	0	3	3	1	1	4	4	0	0	1	2	0	1	2	1	0	1	0	0	0
+9	ND4	YP_007025030.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	11	9	23	1	5	10	11	0	8	8	1	3	13	0	14	22	36	0	9	9	4	0	7	6	11	0	3	1	6	0	17	24	29	4	11	10	22	0	4	17	10	1	7	3	1	3	7	0	5	11	13	0	2	1	8	1	1	6	7	3	0	0	0	0
+10	ND5	YP_007025031.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	17	30	12	1	11	10	9	2	9	9	3	1	11	1	17	21	47	2	7	13	9	0	7	9	18	0	1	5	2	0	20	34	35	4	13	19	31	0	11	22	20	4	4	6	1	3	6	0	12	17	11	0	4	7	9	3	2	9	15	0	0	0	0	0
+11	CYTB	YP_007025033.1	Peponocephala electra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Odontoceti, Delphinidae, Peponocephala	6	20	13	1	3	8	7	0	8	8	1	2	12	0	7	8	32	2	6	5	12	0	3	8	7	1	3	1	4	0	11	27	13	1	3	12	15	0	5	11	9	0	0	4	2	5	7	2	5	2	17	0	0	10	6	0	3	10	10	1	0	0	1	0

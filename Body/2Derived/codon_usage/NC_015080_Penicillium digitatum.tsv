@@ -1,65 +1,16 @@
-	YP_004221861.1	YP_004221862.1	YP_004221863.1	YP_004221864.1	YP_004221865.1	YP_004221866.1	YP_004221867.1	YP_004221868.1	YP_004221869.1	YP_004221870.1	YP_004221871.1	YP_004221872.1	YP_004221873.1	YP_004221874.1	YP_004221875.1
-TTT	32	6	18	15	7	40	33	19	25	37	7	15	12	14	20
-TTC	19	0	0	3	0	20	10	13	5	6	2	10	0	12	1
-TTA	70	9	20	23	14	87	90	48	53	71	5	46	29	32	41
-TTG	2	2	1	0	0	5	5	1	0	4	0	0	2	3	3
-TCT	11	1	3	5	3	20	24	6	13	23	0	5	9	7	9
-TCC	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-TCA	13	1	1	10	2	20	10	7	10	9	1	9	2	10	5
-TCG	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TAT	16	2	5	8	4	29	33	9	13	21	1	8	11	9	24
-TAC	7	0	2	3	0	5	3	8	0	6	1	0	1	7	3
-TGT	2	0	2	2	0	6	7	1	4	2	0	2	1	1	1
-TGC	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0
-TGA	15	0	1	6	0	7	2	7	3	2	0	1	2	8	2
-TGG	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-CTT	5	0	1	0	1	4	8	2	4	2	0	2	1	2	5
-CTC	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	2	1	1	1	0	3	1	1	1	4	0	0	2	0	3
-CTG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-CCT	18	1	1	10	0	13	10	14	11	10	1	6	4	4	5
-CCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCA	10	0	2	4	0	6	2	8	3	4	2	3	0	4	1
-CCG	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
-CAT	11	0	2	6	0	8	7	3	1	2	0	4	1	9	2
-CAC	6	0	0	2	0	5	1	7	0	3	0	3	0	5	1
-CAA	15	2	4	11	2	11	14	7	5	8	2	7	5	8	11
-CAG	1	0	0	0	0	0	2	0	1	0	0	0	0	0	0
-CGT	1	0	0	1	0	0	1	1	2	0	2	1	0	1	5
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	33	1	5	11	3	21	27	10	22	18	2	13	18	8	17
-ATC	3	0	0	0	1	2	2	3	2	2	0	2	1	0	0
-ATA	15	7	11	18	13	39	48	27	26	48	4	13	13	10	13
-ATG	15	4	2	11	3	18	9	15	8	13	1	5	6	4	4
-ACT	18	1	3	6	1	26	25	6	7	14	3	2	6	8	12
-ACC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ACA	18	3	4	3	3	20	14	12	6	13	2	8	3	9	5
-ACG	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
-AAT	26	1	8	10	2	26	28	15	11	16	2	12	19	6	42
-AAC	3	0	0	1	1	3	2	4	0	3	0	5	0	3	1
-AAA	15	1	3	5	2	18	18	9	5	10	2	4	4	4	63
-AAG	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0
-AGT	23	0	3	4	3	21	19	9	10	15	0	10	9	5	13
-AGC	0	0	1	0	0	1	2	0	2	0	0	1	0	0	2
-AGA	10	2	2	7	3	11	7	10	8	10	1	4	3	2	21
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	20	1	1	8	0	18	9	10	12	8	1	6	10	10	10
-GTC	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-GTA	14	2	5	3	3	31	12	21	11	22	6	11	10	13	10
-GTG	2	0	0	1	0	0	0	0	1	2	0	0	0	1	1
-GCT	27	5	4	10	2	24	19	21	18	16	0	9	5	12	13
-GCC	1	1	0	1	0	1	0	1	1	1	0	0	0	0	0
-GCA	11	7	0	4	4	8	10	12	7	8	0	5	3	5	4
-GCG	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-GAT	13	0	2	13	2	15	11	7	9	10	0	4	8	3	6
-GAC	5	0	0	0	0	0	0	1	0	0	0	1	0	1	0
-GAA	7	1	5	13	1	15	8	8	11	10	0	4	5	6	8
-GAG	1	0	0	2	1	1	0	1	2	2	0	0	0	0	1
-GGT	36	7	7	8	2	37	16	14	16	26	0	11	8	16	7
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGA	13	5	1	2	3	11	8	7	1	5	0	4	3	6	4
-GGG	2	0	0	0	2	0	2	0	1	0	0	1	0	0	0
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_004221861.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	32	19	70	2	11	0	13	1	16	7	2	0	15	0	5	1	2	0	18	0	10	0	11	6	15	1	1	0	0	0	33	3	15	15	18	0	18	0	26	3	15	0	23	0	10	0	20	1	14	2	27	1	11	1	13	5	7	1	36	0	13	2	1	0
+1	None	YP_004221862.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	6	0	9	2	1	0	1	0	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	0	0	0	0	0	1	0	7	4	1	0	3	0	1	0	1	0	0	0	2	0	1	0	2	0	5	1	7	0	0	0	1	0	7	0	5	0	1	0
+2	None	YP_004221863.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	18	0	20	1	3	0	1	0	5	2	2	1	1	0	1	0	1	0	1	0	2	1	2	0	4	0	0	0	0	0	5	0	11	2	3	0	4	0	8	0	3	2	3	1	2	0	1	0	5	0	4	0	0	0	2	0	5	0	7	0	1	0	1	0
+3	None	YP_004221864.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	15	3	23	0	5	0	10	0	8	3	2	1	6	1	0	0	1	0	10	0	4	0	6	2	11	0	1	0	0	0	11	0	18	11	6	0	3	0	10	1	5	0	4	0	7	0	8	0	3	1	10	1	4	0	13	0	13	2	8	0	2	0	1	0
+4	None	YP_004221865.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	7	0	14	0	3	0	2	0	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	3	1	13	3	1	0	3	0	2	1	2	0	3	0	3	0	0	1	3	0	2	0	4	0	2	0	1	1	2	0	3	2	1	0
+5	None	YP_004221866.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	40	20	87	5	20	0	20	0	29	5	6	0	7	0	4	0	3	0	13	0	6	0	8	5	11	0	0	0	0	0	21	2	39	18	26	0	20	1	26	3	18	2	21	1	11	0	18	0	31	0	24	1	8	0	15	0	15	1	37	0	11	0	1	0
+6	None	YP_004221867.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	33	10	90	5	24	0	10	0	33	3	7	1	2	0	8	0	1	1	10	0	2	0	7	1	14	2	1	0	0	0	27	2	48	9	25	0	14	1	28	2	18	0	19	2	7	0	9	0	12	0	19	0	10	0	11	0	8	0	16	0	8	2	1	0
+7	None	YP_004221868.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	19	13	48	1	6	0	7	0	9	8	1	0	7	0	2	0	1	0	14	0	8	0	3	7	7	0	1	0	0	0	10	3	27	15	6	0	12	0	15	4	9	0	9	0	10	0	10	0	21	0	21	1	12	0	7	1	8	1	14	0	7	0	1	0
+8	None	YP_004221869.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	25	5	53	0	13	0	10	0	13	0	4	0	3	0	4	0	1	0	11	0	3	0	1	0	5	1	2	0	0	0	22	2	26	8	7	0	6	0	11	0	5	0	10	2	8	0	12	0	11	1	18	1	7	0	9	0	11	2	16	0	1	1	1	0
+9	None	YP_004221870.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	37	6	71	4	23	1	9	0	21	6	2	0	2	0	2	0	4	0	10	0	4	0	2	3	8	0	0	0	0	0	18	2	48	13	14	0	13	0	16	3	10	0	15	0	10	0	8	0	22	2	16	1	8	1	10	0	10	2	26	0	5	0	1	0
+10	None	YP_004221871.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	7	2	5	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	0	2	0	0	0	2	0	2	0	0	0	2	0	4	1	3	0	2	0	2	0	2	0	0	0	1	0	1	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+11	None	YP_004221872.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	15	10	46	0	5	0	9	0	8	0	2	0	1	0	2	0	0	0	6	0	3	0	4	3	7	0	1	0	0	0	13	2	13	5	2	0	8	0	12	5	4	0	10	1	4	0	6	0	11	0	9	0	5	0	4	1	4	0	11	0	4	1	1	0
+12	None	YP_004221873.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	12	0	29	2	9	0	2	0	11	1	1	0	2	0	1	0	2	0	4	0	0	0	1	0	5	0	0	0	0	0	18	1	13	6	6	0	3	0	19	0	4	0	9	0	3	0	10	0	10	0	5	0	3	0	8	0	5	0	8	0	3	0	0	1
+13	None	YP_004221874.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	14	12	32	3	7	0	10	0	9	7	1	0	8	0	2	0	0	0	4	0	4	1	9	5	8	0	1	0	0	0	8	0	10	4	8	0	9	0	6	3	4	0	5	0	2	0	10	0	13	1	12	0	5	0	3	1	6	0	16	0	6	0	0	1
+14	None	YP_004221875.1	Penicillium digitatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium	20	1	41	3	9	0	5	0	24	3	1	0	2	0	5	0	3	0	5	0	1	0	2	1	11	0	5	0	0	0	17	0	13	4	12	0	5	0	42	1	63	0	13	2	21	0	10	0	10	1	13	0	4	0	6	0	8	1	7	0	4	0	1	0

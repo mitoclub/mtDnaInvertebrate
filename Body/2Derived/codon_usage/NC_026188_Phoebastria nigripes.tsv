@@ -1,65 +1,13 @@
-	YP_009115539.1|ND1	YP_009115540.1|ND2	YP_009115541.1|COX1	YP_009115542.1|COX2	YP_009115543.1|ATP8	YP_009115544.1|ATP6	YP_009115545.1|COX3	YP_009115546.1|ND3	YP_009115547.1|ND4L	YP_009115548.1|ND4	YP_009115549.1|ND5	YP_009115550.1|CYTB
-TTT	5	1	7	1	2	1	6	5	0	6	6	12
-TTC	13	12	35	8	1	7	18	3	5	9	22	16
-TTA	11	7	7	2	0	6	3	4	7	13	14	5
-TTG	0	1	1	1	1	1	0	0	0	0	2	0
-TCT	4	3	4	1	0	2	3	0	2	3	6	4
-TCC	7	13	8	5	3	2	5	4	3	11	15	6
-TCA	10	12	11	10	4	4	6	3	2	12	14	10
-TCG	1	2	0	1	1	0	0	0	2	0	0	1
-TAT	6	1	8	2	0	1	4	0	1	5	2	2
-TAC	9	6	10	7	0	2	5	2	1	8	10	12
-TGT	0	0	0	1	0	0	0	0	2	1	0	1
-TGC	2	0	1	2	0	1	1	1	1	2	5	3
-TGA	5	8	16	4	5	4	9	5	1	11	8	11
-TGG	3	2	1	1	0	0	3	0	0	1	4	0
-CTT	13	9	7	1	2	11	4	5	1	10	16	8
-CTC	14	13	13	7	2	13	8	8	3	26	31	17
-CTA	19	31	27	16	0	28	17	9	8	50	44	35
-CTG	6	4	7	4	0	4	0	1	1	4	3	4
-CCT	6	3	2	1	2	2	2	1	1	1	4	2
-CCC	6	5	6	5	3	6	6	1	1	10	6	10
-CCA	13	11	20	6	3	7	4	5	0	15	19	12
-CCG	1	1	3	1	0	2	0	1	0	1	1	1
-CAT	1	7	5	5	0	2	3	0	1	2	4	1
-CAC	1	5	14	3	1	2	14	0	5	14	11	11
-CAA	5	5	7	6	2	7	8	4	2	11	20	7
-CAG	0	3	2	1	0	1	0	0	0	3	0	1
-CGT	5	0	2	1	0	1	0	0	0	2	0	0
-CGC	0	1	0	2	0	3	1	0	0	2	5	4
-CGA	3	2	6	2	0	1	4	2	2	7	3	4
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	11	8	12	5	0	2	8	1	1	6	19	3
-ATC	13	20	28	13	5	15	10	8	1	35	31	24
-ATA	6	17	23	7	1	7	7	1	4	19	29	8
-ATG	7	5	2	2	2	1	2	0	5	5	4	1
-ACT	4	13	9	3	2	3	4	4	2	5	9	2
-ACC	9	15	16	7	5	10	3	4	1	27	31	15
-ACA	8	20	14	6	1	15	13	3	4	21	30	11
-ACG	1	0	2	0	0	0	0	0	0	0	0	0
-AAT	6	3	3	0	1	3	1	1	1	2	2	1
-AAC	6	9	12	4	3	8	5	1	2	11	24	20
-AAA	6	13	9	4	3	3	4	1	0	9	21	9
-AAG	1	1	0	0	0	0	0	0	0	0	1	1
-AGT	3	1	0	0	0	0	1	0	1	0	2	1
-AGC	2	2	3	3	0	4	3	1	3	10	9	1
-GTT	0	1	4	6	0	1	2	0	0	1	3	3
-GTC	4	3	12	7	0	3	5	2	2	2	4	7
-GTA	8	3	18	3	0	3	7	1	1	4	4	7
-GTG	3	0	2	1	0	1	0	0	0	0	0	0
-GCT	6	7	7	2	0	2	4	2	2	4	6	5
-GCC	13	10	21	5	0	7	7	1	3	11	34	14
-GCA	10	9	16	6	0	5	9	4	5	16	12	10
-GCG	0	0	1	0	0	0	0	0	0	0	1	0
-GAT	2	1	5	2	0	0	0	1	0	0	1	2
-GAC	2	1	10	10	0	1	4	2	1	2	6	4
-GAA	9	3	9	12	0	4	6	6	3	8	11	6
-GAG	2	1	1	3	0	0	2	0	0	2	2	1
-GGT	1	3	7	1	0	0	1	0	0	2	1	3
-GGC	7	2	12	1	0	5	6	2	3	7	14	10
-GGA	3	5	20	5	0	3	11	2	0	10	17	9
-GGG	2	2	8	2	0	0	2	1	1	0	1	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009115539.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	5	13	11	0	4	7	10	1	6	9	0	2	5	3	13	14	19	6	6	6	13	1	1	1	5	0	5	0	3	1	11	13	6	7	4	9	8	1	6	6	6	1	3	2	0	4	8	3	6	13	10	0	2	2	9	2	1	7	3	2	0	0	0	1
+1	ND2	YP_009115540.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	1	12	7	1	3	13	12	2	1	6	0	0	8	2	9	13	31	4	3	5	11	1	7	5	5	3	0	1	2	0	8	20	17	5	13	15	20	0	3	9	13	1	1	2	1	3	3	0	7	10	9	0	1	1	3	1	3	2	5	2	0	0	0	0
+2	COX1	YP_009115541.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	7	35	7	1	4	8	11	0	8	10	0	1	16	1	7	13	27	7	2	6	20	3	5	14	7	2	2	0	6	0	12	28	23	2	9	16	14	2	3	12	9	0	0	3	4	12	18	2	7	21	16	1	5	10	9	1	7	12	20	8	0	0	0	1
+3	COX2	YP_009115542.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	1	8	2	1	1	5	10	1	2	7	1	2	4	1	1	7	16	4	1	5	6	1	5	3	6	1	1	2	2	0	5	13	7	2	3	7	6	0	0	4	4	0	0	3	6	7	3	1	2	5	6	0	2	10	12	3	1	1	5	2	1	0	0	0
+4	ATP8	YP_009115543.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	2	1	0	1	0	3	4	1	0	0	0	0	5	0	2	2	0	0	2	3	3	0	0	1	2	0	0	0	0	0	0	5	1	2	2	5	1	0	1	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009115544.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	1	7	6	1	2	2	4	0	1	2	0	1	4	0	11	13	28	4	2	6	7	2	2	2	7	1	1	3	1	0	2	15	7	1	3	10	15	0	3	8	3	0	0	4	1	3	3	1	2	7	5	0	0	1	4	0	0	5	3	0	1	0	0	0
+6	COX3	YP_009115545.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	6	18	3	0	3	5	6	0	4	5	0	1	9	3	4	8	17	0	2	6	4	0	3	14	8	0	0	1	4	0	8	10	7	2	4	3	13	0	1	5	4	0	1	3	2	5	7	0	4	7	9	0	0	4	6	2	1	6	11	2	0	0	0	0
+7	ND3	YP_009115546.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	5	3	4	0	0	4	3	0	0	2	0	1	5	0	5	8	9	1	1	1	5	1	0	0	4	0	0	0	2	0	1	8	1	0	4	4	3	0	1	1	1	0	0	1	0	2	1	0	2	1	4	0	1	2	6	0	0	2	2	1	1	0	0	0
+8	ND4L	YP_009115547.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	0	5	7	0	2	3	2	2	1	1	2	1	1	0	1	3	8	1	1	1	0	0	1	5	2	0	0	0	2	0	1	1	4	5	2	1	4	0	1	2	0	0	1	3	0	2	1	0	2	3	5	0	0	1	3	0	0	3	0	1	1	0	0	0
+9	ND4	YP_009115548.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	6	9	13	0	3	11	12	0	5	8	1	2	11	1	10	26	50	4	1	10	15	1	2	14	11	3	2	2	7	0	6	35	19	5	5	27	21	0	2	11	9	0	0	10	1	2	4	0	4	11	16	0	0	2	8	2	2	7	10	0	0	0	0	0
+10	ND5	YP_009115549.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	6	22	14	2	6	15	14	0	2	10	0	5	8	4	16	31	44	3	4	6	19	1	4	11	20	0	0	5	3	0	19	31	29	4	9	31	30	0	2	24	21	1	2	9	3	4	4	0	6	34	12	1	1	6	11	2	1	14	17	1	0	0	1	0
+11	CYTB	YP_009115550.1	Phoebastria nigripes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Procellariiformes, Diomedeidae, Phoebastria	12	16	5	0	4	6	10	1	2	12	1	3	11	0	8	17	35	4	2	10	12	1	1	11	7	1	0	4	4	0	3	24	8	1	2	15	11	0	1	20	9	1	1	1	3	7	7	0	5	14	10	0	2	4	6	1	3	10	9	2	1	0	0	0

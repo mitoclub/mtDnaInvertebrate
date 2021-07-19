@@ -1,65 +1,13 @@
-	YP_003667934.1|ND1	YP_003667935.1|ND2	YP_003667936.1|COX1	YP_003667937.1|COX2	YP_003667938.1|ATP8	YP_003667939.1|ATP6	YP_003667940.1|COX3	YP_003667941.1|ND3	YP_003667942.1|ND4L	YP_003667943.1|ND4	YP_003667944.1|ND5	YP_003667946.1|CYTB
-TTT	9	4	17	3	2	8	8	4	6	13	18	10
-TTC	8	6	23	6	1	4	14	5	2	5	23	20
-TTA	12	12	8	8	4	9	7	8	5	17	19	8
-TTG	0	1	0	0	0	0	0	1	1	2	0	0
-TCT	2	2	7	3	1	1	1	3	2	4	2	3
-TCC	6	6	6	6	1	2	5	0	2	7	10	7
-TCA	9	4	14	4	1	3	5	2	2	13	16	11
-TCG	1	1	0	0	0	0	0	0	0	0	0	0
-TAT	5	2	12	4	0	2	6	1	0	6	6	6
-TAC	7	6	7	5	0	3	6	1	0	8	5	8
-TGT	0	0	0	0	0	0	0	0	1	0	1	1
-TGC	0	1	1	2	0	0	2	1	2	5	4	2
-TGA	6	10	15	5	5	5	12	5	1	17	13	13
-TGG	2	1	2	0	0	0	0	0	0	3	0	0
-CTT	9	8	15	6	0	7	5	4	2	16	14	7
-CTC	7	7	11	1	0	5	6	4	3	12	15	11
-CTA	28	35	25	13	1	21	15	7	10	35	41	28
-CTG	6	4	5	0	0	4	0	2	2	4	7	7
-CCT	5	1	7	1	1	0	1	1	0	5	3	1
-CCC	4	10	7	2	0	2	6	2	2	5	7	7
-CCA	14	5	14	11	7	14	6	5	0	15	15	13
-CCG	1	3	0	0	0	0	0	0	0	2	1	0
-CAT	1	0	5	3	0	1	5	0	1	3	2	4
-CAC	4	6	14	7	2	2	11	0	3	9	12	8
-CAA	7	12	8	8	1	8	9	3	3	12	20	6
-CAG	0	2	0	0	0	0	0	0	0	2	0	0
-CGT	1	0	1	1	0	0	1	0	1	0	0	1
-CGC	1	1	1	1	0	1	1	1	0	0	1	1
-CGA	6	2	5	4	0	5	3	1	1	10	7	5
-CGG	0	1	1	0	0	0	0	0	1	1	2	1
-ATT	12	16	26	13	2	19	9	8	1	31	38	21
-ATC	9	10	12	4	3	5	7	1	1	9	16	12
-ATA	7	17	15	9	0	6	5	2	4	22	25	7
-ATG	4	5	9	3	1	4	3	1	1	4	9	5
-ACT	4	6	2	3	3	2	3	3	3	3	5	6
-ACC	6	22	11	3	1	2	7	4	2	10	21	6
-ACA	10	23	20	3	0	14	12	3	3	25	26	10
-ACG	1	2	2	1	0	1	0	1	0	4	2	1
-AAT	3	3	8	4	1	5	0	2	1	4	6	7
-AAC	10	7	7	2	1	5	1	2	1	7	24	10
-AAA	5	7	8	4	3	1	2	0	0	9	21	9
-AAG	2	2	0	0	0	0	0	1	0	0	1	1
-AGT	0	0	1	0	1	1	1	0	0	1	6	0
-AGC	3	5	4	3	1	3	2	0	3	5	4	1
-GTT	1	1	11	5	1	2	4	0	1	4	10	9
-GTC	3	0	3	4	0	1	1	1	0	2	2	4
-GTA	14	6	24	10	2	14	8	1	1	10	15	8
-GTG	2	0	5	2	0	0	2	0	0	1	2	2
-GCT	6	2	9	3	1	5	8	1	3	5	11	5
-GCC	15	14	20	5	0	8	6	4	6	15	21	10
-GCA	12	19	16	8	1	6	9	3	4	14	20	15
-GCG	1	0	1	1	0	0	0	0	0	0	1	0
-GAT	1	2	4	2	0	0	1	0	0	2	4	2
-GAC	3	3	10	10	1	1	4	4	1	2	9	9
-GAA	10	5	10	14	3	4	10	6	3	10	9	4
-GAG	1	0	1	1	0	0	0	0	0	1	2	2
-GGT	0	0	12	1	0	2	1	1	0	2	3	2
-GGC	2	5	4	1	1	1	5	1	3	9	7	6
-GGA	11	10	24	7	0	6	13	4	3	16	20	16
-GGG	5	3	6	0	0	2	2	1	0	2	3	1
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003667934.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	9	8	12	0	2	6	9	1	5	7	0	0	6	2	9	7	28	6	5	4	14	1	1	4	7	0	1	1	6	0	12	9	7	4	4	6	10	1	3	10	5	2	0	3	1	3	14	2	6	15	12	1	1	3	10	1	0	2	11	5	1	0	0	0
+1	ND2	YP_003667935.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	4	6	12	1	2	6	4	1	2	6	0	1	10	1	8	7	35	4	1	10	5	3	0	6	12	2	0	1	2	1	16	10	17	5	6	22	23	2	3	7	7	2	0	5	1	0	6	0	2	14	19	0	2	3	5	0	0	5	10	3	0	0	0	0
+2	COX1	YP_003667936.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	17	23	8	0	7	6	14	0	12	7	0	1	15	2	15	11	25	5	7	7	14	0	5	14	8	0	1	1	5	1	26	12	15	9	2	11	20	2	8	7	8	0	1	4	11	3	24	5	9	20	16	1	4	10	10	1	12	4	24	6	1	0	0	0
+3	COX2	YP_003667937.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	3	6	8	0	3	6	4	0	4	5	0	2	5	0	6	1	13	0	1	2	11	0	3	7	8	0	1	1	4	0	13	4	9	3	3	3	3	1	4	2	4	0	0	3	5	4	10	2	3	5	8	1	2	10	14	1	1	1	7	0	0	0	0	0
+4	ATP8	YP_003667938.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	2	1	4	0	1	1	1	0	0	0	0	0	5	0	0	0	1	0	1	0	7	0	0	2	1	0	0	0	0	0	2	3	0	1	3	1	0	0	1	1	3	0	1	1	1	0	2	0	1	0	1	0	0	1	3	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_003667939.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	8	4	9	0	1	2	3	0	2	3	0	0	5	0	7	5	21	4	0	2	14	0	1	2	8	0	0	1	5	0	19	5	6	4	2	2	14	1	5	5	1	0	1	3	2	1	14	0	5	8	6	0	0	1	4	0	2	1	6	2	1	0	0	0
+6	COX3	YP_003667940.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	8	14	7	0	1	5	5	0	6	6	0	2	12	0	5	6	15	0	1	6	6	0	5	11	9	0	1	1	3	0	9	7	5	3	3	7	12	0	0	1	2	0	1	2	4	1	8	2	8	6	9	0	1	4	10	0	1	5	13	2	0	0	0	0
+7	ND3	YP_003667941.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	4	5	8	1	3	0	2	0	1	1	0	1	5	0	4	4	7	2	1	2	5	0	0	0	3	0	0	1	1	0	8	1	2	1	3	4	3	1	2	2	0	1	0	0	0	1	1	0	1	4	3	0	0	4	6	0	1	1	4	1	0	0	0	0
+8	ND4L	YP_003667942.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	6	2	5	1	2	2	2	0	0	0	1	2	1	0	2	3	10	2	0	2	0	0	1	3	3	0	1	0	1	1	1	1	4	1	3	2	3	0	1	1	0	0	0	3	1	0	1	0	3	6	4	0	0	1	3	0	0	3	3	0	1	0	0	0
+9	ND4	YP_003667943.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	13	5	17	2	4	7	13	0	6	8	0	5	17	3	16	12	35	4	5	5	15	2	3	9	12	2	0	0	10	1	31	9	22	4	3	10	25	4	4	7	9	0	1	5	4	2	10	1	5	15	14	0	2	2	10	1	2	9	16	2	0	0	0	0
+10	ND5	YP_003667944.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	18	23	19	0	2	10	16	0	6	5	1	4	13	0	14	15	41	7	3	7	15	1	2	12	20	0	0	1	7	2	38	16	25	9	5	21	26	2	6	24	21	1	6	4	10	2	15	2	11	21	20	1	4	9	9	2	3	7	20	3	1	0	0	0
+11	CYTB	YP_003667946.1	Carassius gibelio	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Carassius	10	20	8	0	3	7	11	0	6	8	1	2	13	0	7	11	28	7	1	7	13	0	4	8	6	0	1	1	5	1	21	12	7	5	6	6	10	1	7	10	9	1	0	1	9	4	8	2	5	10	15	0	2	9	4	2	2	6	16	1	0	0	0	0

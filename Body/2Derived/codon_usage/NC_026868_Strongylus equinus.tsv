@@ -1,65 +1,13 @@
-	YP_009131586.1|COX1	YP_009131587.1|COX2	YP_009131588.1|ND3	YP_009131589.1|ND5	YP_009131590.1|ND6	YP_009131591.1|ND4L	YP_009131592.1|ND1	YP_009131593.1|ATP6	YP_009131594.1|ND2	YP_009131595.1|CYTB	YP_009131596.1|COX3	YP_009131597.1|ND4
-TTT	44	16	16	71	20	17	39	31	46	44	35	55
-TTC	1	1	0	0	0	0	0	0	1	1	1	1
-TTA	42	20	14	66	13	2	25	19	38	32	22	45
-TTG	32	11	2	24	15	3	18	5	19	12	12	12
-TCT	12	3	1	8	3	1	8	5	2	2	6	15
-TCC	0	0	0	0	0	0	0	0	0	0	0	1
-TCA	10	4	0	8	2	2	7	3	6	6	5	8
-TCG	2	3	2	0	2	0	2	0	1	3	1	2
-TAT	26	16	2	30	9	2	18	13	9	21	13	26
-TAC	0	0	1	1	0	0	0	0	0	0	0	0
-TGT	5	9	0	6	1	2	1	4	1	3	3	4
-TGC	0	0	0	0	0	0	0	0	0	0	0	1
-TGA	8	4	3	5	2	1	0	0	7	12	6	5
-TGG	5	1	0	2	0	0	2	1	0	2	2	0
-CTT	1	1	0	2	0	0	2	0	0	1	1	2
-CTC	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	1	0	0	0	0	0	0	2	1	0	0
-CTG	0	0	0	0	0	0	0	0	1	1	0	0
-CCT	11	5	0	5	1	0	4	2	4	6	4	6
-CCC	1	0	0	0	0	0	0	0	0	0	0	0
-CCA	6	2	0	2	1	0	3	0	0	5	1	2
-CCG	2	1	0	1	0	0	1	1	1	1	0	0
-CAT	14	2	1	3	0	0	2	1	2	7	10	5
-CAC	1	2	0	1	0	1	0	0	0	0	3	0
-CAA	5	3	0	5	0	0	3	2	4	2	1	2
-CAG	1	3	1	2	0	1	2	1	1	2	0	0
-CGT	6	3	0	2	1	1	5	3	0	2	1	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	1	0	0	1	0	0	1	0	0	1	0	0
-CGG	0	0	0	0	0	0	1	0	0	0	0	1
-ATT	35	16	11	37	13	11	29	19	19	31	16	45
-ATC	1	0	0	0	0	0	1	0	0	0	0	2
-ATA	21	8	9	29	7	9	10	12	23	16	8	34
-ATG	8	3	5	10	3	4	9	2	5	5	4	4
-ACT	13	4	0	10	1	1	2	7	7	7	4	6
-ACC	0	0	0	1	0	0	0	1	0	0	1	0
-ACA	10	1	0	9	0	0	0	0	3	5	2	4
-ACG	5	2	0	2	0	0	2	1	0	3	0	0
-AAT	17	15	3	32	5	0	5	5	17	15	7	16
-AAC	1	0	0	0	0	0	1	0	0	0	2	0
-AAA	9	7	5	16	3	2	4	4	7	11	4	9
-AAG	3	0	0	4	2	1	4	4	5	3	2	4
-AGT	17	11	4	20	9	1	6	8	9	11	6	5
-AGC	0	0	0	1	0	0	0	0	0	1	1	1
-AGA	12	4	1	13	3	3	9	2	4	8	7	14
-AGG	4	1	3	9	2	0	5	2	2	1	2	3
-GTT	17	5	4	16	5	2	14	9	14	19	14	9
-GTC	0	0	0	1	1	0	0	0	0	1	0	1
-GTA	14	6	4	13	2	2	3	3	6	13	4	10
-GTG	12	2	3	5	5	0	3	3	0	4	4	3
-GCT	7	3	2	9	0	0	8	2	1	12	6	10
-GCC	1	0	0	0	0	0	1	0	0	0	0	2
-GCA	8	2	0	3	1	0	1	1	1	2	3	3
-GCG	4	0	1	1	0	0	1	1	0	2	1	1
-GAT	15	10	3	11	1	1	6	2	0	5	5	4
-GAC	0	0	0	0	0	0	0	0	0	0	0	0
-GAA	5	5	3	6	0	0	4	8	4	2	3	8
-GAG	2	3	0	1	1	2	8	2	1	7	4	0
-GGT	29	8	4	17	7	3	8	6	6	14	13	16
-GGC	1	0	0	0	0	0	0	0	0	0	0	0
-GGA	7	2	1	7	3	1	2	2	1	3	4	1
-GGG	11	2	2	4	0	1	2	2	1	2	1	0
-TAA	1	1	1	1	1	1	1	1	0	1	0	1
-TAG	0	0	0	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009131586.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	44	1	42	32	12	0	10	2	26	0	5	0	8	5	1	0	0	0	11	1	6	2	14	1	5	1	6	0	1	0	35	1	21	8	13	0	10	5	17	1	9	3	17	0	12	4	17	0	14	12	7	1	8	4	15	0	5	2	29	1	7	11	1	0
+1	COX2	YP_009131587.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	16	1	20	11	3	0	4	3	16	0	9	0	4	1	1	0	1	0	5	0	2	1	2	2	3	3	3	0	0	0	16	0	8	3	4	0	1	2	15	0	7	0	11	0	4	1	5	0	6	2	3	0	2	0	10	0	5	3	8	0	2	2	1	0
+2	ND3	YP_009131588.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	16	0	14	2	1	0	0	2	2	1	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	11	0	9	5	0	0	0	0	3	0	5	0	4	0	1	3	4	0	4	3	2	0	0	1	3	0	3	0	4	0	1	2	1	0
+3	ND5	YP_009131589.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	71	0	66	24	8	0	8	0	30	1	6	0	5	2	2	0	0	0	5	0	2	1	3	1	5	2	2	0	1	0	37	0	29	10	10	1	9	2	32	0	16	4	20	1	13	9	16	1	13	5	9	0	3	1	11	0	6	1	17	0	7	4	1	0
+4	ND6	YP_009131590.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	20	0	13	15	3	0	2	2	9	0	1	0	2	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	13	0	7	3	1	0	0	0	5	0	3	2	9	0	3	2	5	1	2	5	0	0	1	0	1	0	0	1	7	0	3	0	1	0
+5	ND4L	YP_009131591.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	17	0	2	3	1	0	2	0	2	0	2	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	11	0	9	4	1	0	0	0	0	0	2	1	1	0	3	0	2	0	2	0	0	0	0	0	1	0	0	2	3	0	1	1	1	0
+6	ND1	YP_009131592.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	39	0	25	18	8	0	7	2	18	0	1	0	0	2	2	0	0	0	4	0	3	1	2	0	3	2	5	0	1	1	29	1	10	9	2	0	0	2	5	1	4	4	6	0	9	5	14	0	3	3	8	1	1	1	6	0	4	8	8	0	2	2	1	0
+7	ATP6	YP_009131593.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	31	0	19	5	5	0	3	0	13	0	4	0	0	1	0	0	0	0	2	0	0	1	1	0	2	1	3	0	0	0	19	0	12	2	7	1	0	1	5	0	4	4	8	0	2	2	9	0	3	3	2	0	1	1	2	0	8	2	6	0	2	2	1	0
+8	ND2	YP_009131594.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	46	1	38	19	2	0	6	1	9	0	1	0	7	0	0	0	2	1	4	0	0	1	2	0	4	1	0	0	0	0	19	0	23	5	7	0	3	0	17	0	7	5	9	0	4	2	14	0	6	0	1	0	1	0	0	0	4	1	6	0	1	1	0	1
+9	CYTB	YP_009131595.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	44	1	32	12	2	0	6	3	21	0	3	0	12	2	1	0	1	1	6	0	5	1	7	0	2	2	2	0	1	0	31	0	16	5	7	0	5	3	15	0	11	3	11	1	8	1	19	1	13	4	12	0	2	2	5	0	2	7	14	0	3	2	1	0
+10	COX3	YP_009131596.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	35	1	22	12	6	0	5	1	13	0	3	0	6	2	1	0	0	0	4	0	1	0	10	3	1	0	1	0	0	0	16	0	8	4	4	1	2	0	7	2	4	2	6	1	7	2	14	0	4	4	6	0	3	1	5	0	3	4	13	0	4	1	0	0
+11	ND4	YP_009131597.1	Strongylus equinus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Strongylinae, Strongylus	55	1	45	12	15	1	8	2	26	0	4	1	5	0	2	0	0	0	6	0	2	0	5	0	2	0	1	0	0	1	45	2	34	4	6	0	4	0	16	0	9	4	5	1	14	3	9	1	10	3	10	2	3	1	4	0	8	0	16	0	1	0	1	0

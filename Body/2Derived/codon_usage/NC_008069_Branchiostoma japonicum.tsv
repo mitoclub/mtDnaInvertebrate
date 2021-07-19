@@ -1,65 +1,12 @@
-	YP_626460.1|CYTB	YP_626461.1|ND1	YP_626462.1|ND2	YP_626463.1|COX1	YP_626464.1|COX2	YP_626465.1|ATP8	YP_626466.1|ATP6	YP_626467.1|COX3	YP_626468.1|ND3	YP_626469.1|ND4L	YP_626470.1|ND4
-TTT	27	24	21	40	8	4	10	19	8	3	18
-TTC	6	5	3	7	0	0	1	4	2	0	2
-TTA	29	29	32	31	16	3	27	16	19	16	37
-TTG	16	13	12	14	5	2	10	2	4	6	23
-TCT	14	6	6	17	5	0	3	5	0	4	8
-TCC	2	3	1	0	0	0	0	2	0	1	1
-TCA	1	7	6	11	1	0	3	2	2	2	5
-TCG	1	5	2	3	1	0	2	1	1	1	2
-TAT	12	6	8	13	10	1	3	11	5	2	17
-TAC	6	6	3	4	2	0	1	1	2	0	7
-TGT	2	2	2	1	5	0	1	2	1	3	6
-TGC	1	1	0	0	0	0	0	1	0	0	1
-TGA	6	3	5	10	3	2	4	8	2	0	10
-TGG	5	4	6	10	2	3	1	6	1	0	3
-CTT	8	5	5	8	4	1	3	4	4	2	10
-CTC	1	1	1	0	0	0	0	1	0	1	1
-CTA	4	5	8	3	4	0	8	5	2	3	8
-CTG	0	1	5	3	0	0	1	2	0	0	3
-CCT	11	5	5	13	7	1	8	3	4	0	6
-CCC	0	1	3	2	2	0	0	1	0	0	1
-CCA	6	5	3	7	1	4	3	4	1	0	3
-CCG	4	5	1	3	1	0	1	2	1	0	1
-CAT	12	3	5	21	6	1	3	11	1	0	8
-CAC	2	0	0	0	0	0	1	2	0	2	1
-CAA	7	1	4	2	4	2	4	3	0	1	9
-CAG	2	5	7	3	2	0	2	3	0	0	2
-CGT	1	1	0	6	2	0	2	2	0	0	4
-CGC	0	0	0	0	0	0	0	0	0	0	0
-CGA	2	3	3	2	1	0	0	1	0	0	3
-CGG	5	3	1	3	3	0	2	3	2	1	3
-ATT	16	13	15	33	13	3	12	9	8	1	27
-ATC	7	4	3	6	3	1	1	1	0	2	3
-ATA	9	10	12	17	8	1	8	5	4	6	22
-ATG	5	2	7	9	3	2	6	4	2	0	10
-ACT	9	2	5	13	7	0	6	7	1	0	7
-ACC	0	1	0	0	0	0	1	2	0	0	0
-ACA	5	4	4	14	2	0	7	5	0	3	6
-ACG	3	0	0	8	3	1	3	4	0	0	3
-AAT	16	7	9	14	3	4	6	2	2	2	13
-AAC	3	4	1	0	1	1	2	2	1	0	1
-AAA	4	3	4	6	1	0	1	1	1	0	6
-AAG	2	5	3	3	3	2	2	0	1	1	4
-AGT	4	7	7	4	4	0	4	3	3	3	6
-AGC	1	0	2	2	2	0	3	0	2	0	6
-AGA	1	2	7	1	0	1	1	1	0	2	5
-AGG	0	0	0	0	0	0	0	0	0	0	0
-GTT	14	18	8	12	9	2	5	9	5	5	12
-GTC	4	2	5	2	1	0	4	1	0	0	0
-GTA	11	4	17	14	12	1	7	18	1	0	15
-GTG	7	4	12	7	5	1	6	5	0	2	8
-GCT	13	15	7	23	7	1	5	7	3	5	16
-GCC	1	5	1	1	1	0	1	0	1	0	2
-GCA	6	4	8	16	5	0	6	11	1	2	16
-GCG	4	2	6	3	2	1	1	5	1	0	3
-GAT	6	6	1	10	16	1	3	3	1	1	4
-GAC	2	0	0	4	2	1	0	0	2	0	1
-GAA	3	4	2	5	6	2	3	5	5	1	4
-GAG	3	7	3	6	4	1	3	4	1	1	6
-GGT	7	4	13	11	4	2	4	5	4	2	11
-GGC	2	2	1	0	0	0	0	2	1	1	5
-GGA	4	5	7	13	2	1	6	2	2	2	6
-GGG	15	10	18	21	6	0	6	12	2	1	21
-TAA	0	0	0	0	0	0	1	1	1	1	0
-TAG	0	1	1	1	0	1	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	CYTB	YP_626460.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	27	6	29	16	14	2	1	1	12	6	2	1	6	5	8	1	4	0	11	0	6	4	12	2	7	2	1	0	2	5	16	7	9	5	9	0	5	3	16	3	4	2	4	1	1	0	14	4	11	7	13	1	6	4	6	2	3	3	7	2	4	15	0	0
+1	ND1	YP_626461.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	24	5	29	13	6	3	7	5	6	6	2	1	3	4	5	1	5	1	5	1	5	5	3	0	1	5	1	0	3	3	13	4	10	2	2	1	4	0	7	4	3	5	7	0	2	0	18	2	4	4	15	5	4	2	6	0	4	7	4	2	5	10	0	1
+2	ND2	YP_626462.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	21	3	32	12	6	1	6	2	8	3	2	0	5	6	5	1	8	5	5	3	3	1	5	0	4	7	0	0	3	1	15	3	12	7	5	0	4	0	9	1	4	3	7	2	7	0	8	5	17	12	7	1	8	6	1	0	2	3	13	1	7	18	0	1
+3	COX1	YP_626463.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	40	7	31	14	17	0	11	3	13	4	1	0	10	10	8	0	3	3	13	2	7	3	21	0	2	3	6	0	2	3	33	6	17	9	13	0	14	8	14	0	6	3	4	2	1	0	12	2	14	7	23	1	16	3	10	4	5	6	11	0	13	21	0	1
+4	COX2	YP_626464.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	8	0	16	5	5	0	1	1	10	2	5	0	3	2	4	0	4	0	7	2	1	1	6	0	4	2	2	0	1	3	13	3	8	3	7	0	2	3	3	1	1	3	4	2	0	0	9	1	12	5	7	1	5	2	16	2	6	4	4	0	2	6	0	0
+5	ATP8	YP_626465.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	4	0	3	2	0	0	0	0	1	0	0	0	2	3	1	0	0	0	1	0	4	0	1	0	2	0	0	0	0	0	3	1	1	2	0	0	0	1	4	1	0	2	0	0	1	0	2	0	1	1	1	0	0	1	1	1	2	1	2	0	1	0	0	1
+6	ATP6	YP_626466.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	10	1	27	10	3	0	3	2	3	1	1	0	4	1	3	0	8	1	8	0	3	1	3	1	4	2	2	0	0	2	12	1	8	6	6	1	7	3	6	2	1	2	4	3	1	0	5	4	7	6	5	1	6	1	3	0	3	3	4	0	6	6	1	0
+7	COX3	YP_626467.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	19	4	16	2	5	2	2	1	11	1	2	1	8	6	4	1	5	2	3	1	4	2	11	2	3	3	2	0	1	3	9	1	5	4	7	2	5	4	2	2	1	0	3	0	1	0	9	1	18	5	7	0	11	5	3	0	5	4	5	2	2	12	1	0
+8	ND3	YP_626468.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	8	2	19	4	0	0	2	1	5	2	1	0	2	1	4	0	2	0	4	0	1	1	1	0	0	0	0	0	0	2	8	0	4	2	1	0	0	0	2	1	1	1	3	2	0	0	5	0	1	0	3	1	1	1	1	2	5	1	4	1	2	2	1	0
+9	ND4L	YP_626469.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	3	0	16	6	4	1	2	1	2	0	3	0	0	0	2	1	3	0	0	0	0	0	0	2	1	0	0	0	0	1	1	2	6	0	0	0	3	0	2	0	0	1	3	0	2	0	5	0	0	2	5	0	2	0	1	0	1	1	2	1	2	1	1	0
+10	ND4	YP_626470.1	Branchiostoma japonicum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Branchiostoma	18	2	37	23	8	1	5	2	17	7	6	1	10	3	10	1	8	3	6	1	3	1	8	1	9	2	4	0	3	3	27	3	22	10	7	0	6	3	13	1	6	4	6	6	5	0	12	0	15	8	16	2	16	3	4	1	4	6	11	5	6	21	0	1

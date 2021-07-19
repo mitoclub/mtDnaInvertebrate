@@ -1,65 +1,12 @@
-	YP_009107771.1|ND1	YP_009107772.1|ND2	YP_009107773.1|COX1	YP_009107774.1|COX2	YP_009107775.1|ATP8	YP_009107777.1|COX3	YP_009107778.1|ND3	YP_009107779.1|ND4L	YP_009107780.1|ND4	YP_009107781.1|ND5	YP_009107782.1|CYTB
-TTT	2	0	6	0	2	0	3	2	3	2	3
-TTC	17	12	37	8	1	23	5	3	11	32	25
-TTA	9	5	3	2	1	3	3	2	5	9	4
-TTG	1	1	0	0	0	0	0	0	0	0	0
-TCT	2	3	5	4	0	4	0	0	3	8	0
-TCC	9	14	9	5	3	3	4	5	13	18	8
-TCA	8	5	8	7	2	5	3	5	14	12	11
-TCG	0	0	2	0	0	0	0	0	0	0	1
-TAT	5	0	1	1	0	0	0	2	1	1	1
-TAC	10	7	16	6	0	10	2	1	13	11	11
-TGT	0	0	0	0	0	0	0	1	0	1	0
-TGC	3	2	1	3	0	1	1	2	3	5	4
-TGA	8	9	17	5	5	12	5	1	12	12	11
-TGG	0	1	0	0	0	0	0	0	0	0	0
-CTT	4	17	6	3	0	2	1	0	4	12	6
-CTC	18	21	15	8	1	8	10	3	36	25	21
-CTA	24	24	36	15	2	18	15	11	44	57	35
-CTG	9	4	3	2	0	3	1	3	6	1	2
-CCT	6	2	5	1	2	2	1	0	4	4	2
-CCC	9	13	9	4	5	10	4	2	13	18	7
-CCA	10	7	16	7	3	2	2	0	10	8	14
-CCG	0	0	0	0	0	0	0	0	1	1	1
-CAT	1	3	3	0	0	2	0	1	3	2	2
-CAC	1	5	16	8	0	14	0	5	11	13	10
-CAA	6	9	9	5	2	9	4	3	13	16	6
-CAG	0	2	0	1	0	0	0	0	0	1	1
-CGT	2	0	2	1	0	0	0	0	1	1	2
-CGC	1	2	1	2	0	3	1	0	3	2	1
-CGA	4	2	5	3	0	2	1	1	7	5	6
-CGG	1	0	0	0	0	0	0	1	1	0	0
-ATT	5	4	13	7	2	6	1	1	11	10	7
-ATC	17	25	25	8	4	10	5	5	33	43	27
-ATA	7	9	18	7	2	5	4	4	21	25	6
-ATG	4	7	5	3	2	2	0	2	2	4	2
-ACT	1	8	8	0	1	2	2	0	5	9	2
-ACC	8	19	11	9	5	7	7	8	15	35	11
-ACA	8	15	20	8	1	10	1	2	20	20	11
-ACG	0	0	1	0	1	1	0	0	1	0	1
-AAT	2	2	1	3	0	0	0	0	1	3	3
-AAC	11	10	13	6	4	4	2	2	14	23	18
-AAA	5	12	9	4	2	4	1	0	9	18	8
-AAG	2	1	0	0	0	0	0	0	1	3	2
-AGT	1	1	0	0	0	1	0	0	2	2	0
-AGC	5	6	4	4	1	3	1	4	8	9	1
-GTT	3	0	7	4	0	2	0	0	1	0	2
-GTC	7	4	14	9	0	6	1	0	5	5	11
-GTA	8	3	17	5	1	8	2	1	4	12	7
-GTG	0	0	2	0	0	0	0	0	0	1	0
-GCT	4	6	3	3	0	4	2	0	6	6	4
-GCC	14	12	25	9	0	12	6	7	22	28	20
-GCA	13	13	16	4	0	6	1	1	13	17	2
-GCG	1	0	1	1	0	0	0	0	0	1	1
-GAT	0	1	4	0	0	0	0	1	0	3	1
-GAC	4	1	11	13	0	5	3	0	2	6	7
-GAA	10	3	9	10	0	7	6	1	7	12	7
-GAG	1	1	1	0	0	0	0	1	3	0	0
-GGT	2	0	11	2	0	2	0	0	2	2	1
-GGC	6	6	12	2	0	5	1	3	8	10	12
-GGA	6	5	23	5	0	13	4	1	7	20	11
-GGG	0	2	1	0	0	0	0	0	1	1	0
-TAA	0	0	0	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009107771.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	2	17	9	1	2	9	8	0	5	10	0	3	8	0	4	18	24	9	6	9	10	0	1	1	6	0	2	1	4	1	5	17	7	4	1	8	8	0	2	11	5	2	1	5	3	7	8	0	4	14	13	1	0	4	10	1	2	6	6	0	0	0	1	0
+1	ND2	YP_009107772.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	0	12	5	1	3	14	5	0	0	7	0	2	9	1	17	21	24	4	2	13	7	0	3	5	9	2	0	2	2	0	4	25	9	7	8	19	15	0	2	10	12	1	1	6	0	4	3	0	6	12	13	0	1	1	3	1	0	6	5	2	0	0	0	0
+2	COX1	YP_009107773.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	6	37	3	0	5	9	8	2	1	16	0	1	17	0	6	15	36	3	5	9	16	0	3	16	9	0	2	1	5	0	13	25	18	5	8	11	20	1	1	13	9	0	0	4	7	14	17	2	3	25	16	1	4	11	9	1	11	12	23	1	0	0	0	1
+3	COX2	YP_009107774.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	0	8	2	0	4	5	7	0	1	6	0	3	5	0	3	8	15	2	1	4	7	0	0	8	5	1	1	2	3	0	7	8	7	3	0	9	8	0	3	6	4	0	0	4	4	9	5	0	3	9	4	1	0	13	10	0	2	2	5	0	1	0	0	0
+4	ATP8	YP_009107775.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	2	1	1	0	0	3	2	0	0	0	0	0	5	0	0	1	2	0	2	5	3	0	0	0	2	0	0	0	0	0	2	4	2	2	1	5	1	1	0	4	2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	COX3	YP_009107777.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	0	23	3	0	4	3	5	0	0	10	0	1	12	0	2	8	18	3	2	10	2	0	2	14	9	0	0	3	2	0	6	10	5	2	2	7	10	1	0	4	4	0	1	3	2	6	8	0	4	12	6	0	0	5	7	0	2	5	13	0	0	0	0	0
+6	ND3	YP_009107778.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	3	5	3	0	0	4	3	0	0	2	0	1	5	0	1	10	15	1	1	4	2	0	0	0	4	0	0	1	1	0	1	5	4	0	2	7	1	0	0	2	1	0	0	1	0	1	2	0	2	6	1	0	0	3	6	0	0	1	4	0	1	0	0	0
+7	ND4L	YP_009107779.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	2	3	2	0	0	5	5	0	2	1	1	2	1	0	0	3	11	3	0	2	0	0	1	5	3	0	0	0	1	1	1	5	4	2	0	8	2	0	0	2	0	0	0	4	0	0	1	0	0	7	1	0	1	0	1	1	0	3	1	0	1	0	0	0
+8	ND4	YP_009107780.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	3	11	5	0	3	13	14	0	1	13	0	3	12	0	4	36	44	6	4	13	10	1	3	11	13	0	1	3	7	1	11	33	21	2	5	15	20	1	1	14	9	1	2	8	1	5	4	0	6	22	13	0	0	2	7	3	2	8	7	1	0	0	0	0
+9	ND5	YP_009107781.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	2	32	9	0	8	18	12	0	1	11	1	5	12	0	12	25	57	1	4	18	8	1	2	13	16	1	1	2	5	0	10	43	25	4	9	35	20	0	3	23	18	3	2	9	0	5	12	1	6	28	17	1	3	6	12	0	2	10	20	1	0	0	1	0
+10	CYTB	YP_009107782.1	Chlorophanes spiza	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Chlorophanes	3	25	4	0	0	8	11	1	1	11	0	4	11	0	6	21	35	2	2	7	14	1	2	10	6	1	2	1	6	0	7	27	6	2	2	11	11	1	3	18	8	2	0	1	2	11	7	0	4	20	2	1	1	7	7	0	1	12	11	0	1	0	0	0

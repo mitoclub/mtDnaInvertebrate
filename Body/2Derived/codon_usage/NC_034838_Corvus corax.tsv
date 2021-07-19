@@ -1,65 +1,13 @@
-	YP_009373280.1|ND1	YP_009373281.1|ND2	YP_009373282.1|COX1	YP_009373283.1|COX2	YP_009373284.1|ATP8	YP_009373285.1|ATP6	YP_009373286.1|COX3	YP_009373287.1|ND3	YP_009373288.1|ND4L	YP_009373289.1|ND4	YP_009373290.1|ND5	YP_009373291.1|CYTB
-TTT	5	5	9	2	3	1	6	4	1	3	6	5
-TTC	14	9	34	8	1	9	16	4	5	11	32	24
-TTA	5	4	0	1	0	5	0	0	2	11	6	1
-TTG	0	0	0	0	0	0	0	0	0	0	1	0
-TCT	9	5	3	2	1	2	3	1	3	6	7	2
-TCC	6	11	12	6	3	3	5	3	6	10	13	10
-TCA	5	9	9	7	0	5	3	4	0	9	20	9
-TCG	0	0	0	0	1	2	0	0	0	1	1	0
-TAT	8	3	3	1	0	3	2	1	1	3	3	2
-TAC	6	5	14	6	1	0	10	1	0	10	9	10
-TGT	1	1	0	0	0	0	0	0	0	1	1	0
-TGC	1	0	1	3	0	0	1	1	3	3	6	4
-TGA	8	9	17	5	5	4	12	4	1	11	12	11
-TGG	0	1	0	0	0	0	0	1	0	1	0	0
-CTT	5	8	6	4	1	8	6	2	1	10	7	6
-CTC	9	16	8	3	0	4	6	5	2	14	19	13
-CTA	36	36	44	20	5	36	16	16	15	52	60	41
-CTG	6	3	5	2	0	6	4	4	2	5	8	5
-CCT	7	6	3	3	2	1	2	0	0	4	11	4
-CCC	4	4	3	1	2	3	4	1	1	6	5	7
-CCA	14	12	24	8	4	11	8	6	1	18	12	14
-CCG	1	0	0	0	0	0	0	0	0	0	2	0
-CAT	1	2	2	0	0	1	2	0	1	1	0	2
-CAC	2	7	17	8	0	2	14	0	4	15	14	10
-CAA	5	6	9	6	3	9	6	3	4	12	17	8
-CAG	1	4	0	0	0	0	1	1	0	1	2	0
-CGT	2	1	0	1	0	2	1	0	0	1	0	1
-CGC	2	0	0	0	0	1	1	0	1	0	2	0
-CGA	4	2	8	5	0	2	3	1	1	10	7	7
-CGG	0	0	0	0	0	0	0	1	0	0	0	0
-ATT	8	18	12	4	1	5	4	5	1	18	23	10
-ATC	19	14	29	9	5	16	10	4	2	25	36	27
-ATA	8	9	15	7	2	7	4	4	3	24	23	6
-ATG	6	9	8	5	2	1	6	1	3	4	5	2
-ACT	1	12	11	8	0	6	7	3	1	12	18	1
-ACC	7	16	12	3	6	5	4	3	4	12	18	10
-ACA	8	14	13	5	1	12	12	1	4	18	22	12
-ACG	0	0	0	0	0	1	0	0	0	3	1	1
-AAT	5	3	3	1	2	0	0	0	0	3	5	7
-AAC	8	9	13	4	1	10	4	4	2	13	22	13
-AAA	7	11	9	4	2	3	5	1	0	10	20	10
-AAG	0	2	0	0	0	0	0	0	0	0	0	0
-AGT	0	1	1	0	0	0	0	1	0	1	1	1
-AGC	5	3	2	4	1	5	4	0	3	8	8	1
-GTT	4	0	9	3	0	2	6	0	0	2	3	3
-GTC	3	5	4	6	0	0	3	3	1	4	5	4
-GTA	11	3	21	8	0	4	7	0	0	9	8	9
-GTG	0	1	3	1	0	0	0	0	0	0	3	0
-GCT	2	6	8	8	0	1	5	0	1	5	7	2
-GCC	14	9	20	5	0	11	8	4	8	15	23	14
-GCA	12	13	20	4	0	4	8	4	3	13	16	10
-GCG	0	0	0	0	0	0	0	0	0	0	1	2
-GAT	1	0	1	3	0	1	2	0	0	0	1	2
-GAC	3	2	14	11	0	1	3	3	1	3	9	6
-GAA	9	3	9	11	0	4	6	5	2	10	11	6
-GAG	2	1	1	3	0	0	1	1	0	0	0	1
-GGT	2	1	8	2	0	4	4	1	1	2	3	1
-GGC	3	6	7	2	0	2	6	0	3	7	8	6
-GGA	7	6	29	3	0	1	9	3	0	9	19	17
-GGG	3	0	3	1	0	1	1	1	0	0	3	0
-TAA	0	1	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009373280.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	5	14	5	0	9	6	5	0	8	6	1	1	8	0	5	9	36	6	7	4	14	1	1	2	5	1	2	2	4	0	8	19	8	6	1	7	8	0	5	8	7	0	0	5	4	3	11	0	2	14	12	0	1	3	9	2	2	3	7	3	0	0	0	1
+1	ND2	YP_009373281.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	5	9	4	0	5	11	9	0	3	5	1	0	9	1	8	16	36	3	6	4	12	0	2	7	6	4	1	0	2	0	18	14	9	9	12	16	14	0	3	9	11	2	1	3	0	5	3	1	6	9	13	0	0	2	3	1	1	6	6	0	1	0	0	0
+2	COX1	YP_009373282.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	9	34	0	0	3	12	9	0	3	14	0	1	17	0	6	8	44	5	3	3	24	0	2	17	9	0	0	0	8	0	12	29	15	8	11	12	13	0	3	13	9	0	1	2	9	4	21	3	8	20	20	0	1	14	9	1	8	7	29	3	0	0	0	1
+3	COX2	YP_009373283.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	2	8	1	0	2	6	7	0	1	6	0	3	5	0	4	3	20	2	3	1	8	0	0	8	6	0	1	0	5	0	4	9	7	5	8	3	5	0	1	4	4	0	0	4	3	6	8	1	8	5	4	0	3	11	11	3	2	2	3	1	1	0	0	0
+4	ATP8	YP_009373284.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	3	1	0	0	1	3	0	1	0	1	0	0	5	0	1	0	5	0	2	2	4	0	0	0	3	0	0	0	0	0	1	5	2	2	0	6	1	0	2	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009373285.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	1	9	5	0	2	3	5	2	3	0	0	0	4	0	8	4	36	6	1	3	11	0	1	2	9	0	2	1	2	0	5	16	7	1	6	5	12	1	0	10	3	0	0	5	2	0	4	0	1	11	4	0	1	1	4	0	4	2	1	1	1	0	0	0
+6	COX3	YP_009373286.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	6	16	0	0	3	5	3	0	2	10	0	1	12	0	6	6	16	4	2	4	8	0	2	14	6	1	1	1	3	0	4	10	4	6	7	4	12	0	0	4	5	0	0	4	6	3	7	0	5	8	8	0	2	3	6	1	4	6	9	1	0	0	0	0
+7	ND3	YP_009373287.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	4	4	0	0	1	3	4	0	1	1	0	1	4	1	2	5	16	4	0	1	6	0	0	0	3	1	0	0	1	1	5	4	4	1	3	3	1	0	0	4	1	0	1	0	0	3	0	0	0	4	4	0	0	3	5	1	1	0	3	1	1	0	0	0
+8	ND4L	YP_009373288.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	1	5	2	0	3	6	0	0	1	0	0	3	1	0	1	2	15	2	0	1	1	0	1	4	4	0	0	1	1	0	1	2	3	3	1	4	4	0	0	2	0	0	0	3	0	1	0	0	1	8	3	0	0	1	2	0	1	3	0	0	1	0	0	0
+9	ND4	YP_009373289.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	3	11	11	0	6	10	9	1	3	10	1	3	11	1	10	14	52	5	4	6	18	0	1	15	12	1	1	0	10	0	18	25	24	4	12	12	18	3	3	13	10	0	1	8	2	4	9	0	5	15	13	0	0	3	10	0	2	7	9	0	0	0	0	0
+10	ND5	YP_009373290.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	6	32	6	1	7	13	20	1	3	9	1	6	12	0	7	19	60	8	11	5	12	2	0	14	17	2	0	2	7	0	23	36	23	5	18	18	22	1	5	22	20	0	1	8	3	5	8	3	7	23	16	1	1	9	11	0	3	8	19	3	0	0	1	0
+11	CYTB	YP_009373291.1	Corvus corax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Corvoidea, Corvidae, Corvus	5	24	1	0	2	10	9	0	2	10	0	4	11	0	6	13	41	5	4	7	14	0	2	10	8	0	1	0	7	0	10	27	6	2	1	10	12	1	7	13	10	0	1	1	3	4	9	0	2	14	10	2	2	6	6	1	1	6	17	0	1	0	0	0

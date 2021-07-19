@@ -1,65 +1,13 @@
-	YP_009434310.1|ND1	YP_009434311.1|ND2	YP_009434312.1|COX1	YP_009434313.1|COX2	YP_009434314.1|ATP8	YP_009434315.1|ATP6	YP_009434316.1|COX3	YP_009434317.1|ND3	YP_009434318.1|ND4L	YP_009434319.1|ND4	YP_009434320.1|ND5	YP_009434322.1|CYTB
-TTT	9	2	24	6	0	7	8	3	2	10	12	16
-TTC	6	7	17	2	2	3	9	3	2	6	16	13
-TTA	10	9	13	5	2	9	14	3	3	19	19	11
-TTG	1	0	1	0	1	2	1	0	1	2	2	1
-TCT	5	6	8	4	1	2	1	1	1	4	15	7
-TCC	9	6	8	2	0	3	2	3	2	11	5	8
-TCA	11	7	13	7	0	4	8	1	3	15	22	15
-TCG	1	0	2	2	0	0	0	0	0	0	1	0
-TAT	3	2	11	1	1	2	7	1	0	5	3	7
-TAC	7	4	10	5	1	1	4	2	0	7	8	7
-TGT	0	1	0	1	0	1	0	0	1	2	3	2
-TGC	3	1	2	2	0	1	1	1	2	4	0	0
-TGA	8	10	16	5	3	3	9	3	0	7	9	10
-TGG	0	0	3	0	0	0	4	0	0	3	1	1
-CTT	7	8	8	8	2	9	5	3	6	14	11	9
-CTC	7	5	7	0	1	5	2	3	2	10	15	4
-CTA	31	22	32	14	2	17	12	10	6	36	39	22
-CTG	5	0	3	2	1	2	2	2	2	5	7	4
-CCT	3	3	4	1	0	2	4	0	1	1	3	1
-CCC	10	6	7	3	3	2	2	1	1	4	7	4
-CCA	9	10	18	8	2	9	4	6	0	17	16	16
-CCG	0	0	3	1	1	0	1	1	0	1	0	0
-CAT	0	2	9	1	0	1	3	0	0	1	3	2
-CAC	2	7	10	8	1	4	12	0	1	10	10	10
-CAA	8	6	6	5	2	5	6	1	2	17	12	7
-CAG	0	0	3	6	0	0	1	1	0	3	2	0
-CGT	1	0	3	0	0	4	0	0	0	3	0	1
-CGC	2	0	1	2	0	0	0	0	0	1	0	1
-CGA	3	3	6	3	0	0	6	1	2	5	8	4
-CGG	1	1	0	1	0	0	0	0	0	0	0	0
-ATT	8	21	23	4	2	10	6	2	4	15	28	21
-ATC	14	13	21	9	2	15	11	9	5	17	25	23
-ATA	20	31	27	12	2	16	9	5	5	30	41	12
-ATG	3	2	5	1	1	3	1	0	3	7	8	3
-ACT	2	7	10	2	0	5	5	1	3	8	15	11
-ACC	17	30	11	10	5	11	16	5	4	11	17	9
-ACA	13	30	17	7	8	8	9	9	4	28	40	16
-ACG	0	1	2	0	0	0	0	0	0	2	1	1
-AAT	3	3	4	1	1	4	1	1	2	5	17	6
-AAC	11	9	14	3	0	11	3	4	3	12	19	13
-AAA	8	13	11	3	4	3	5	2	2	7	23	8
-AAG	0	1	1	0	0	2	0	0	0	2	4	0
-AGT	1	1	0	1	0	2	0	0	0	3	1	0
-AGC	0	3	7	3	2	4	4	1	2	4	6	1
-GTT	1	1	8	3	1	2	3	1	1	2	4	4
-GTC	1	0	5	2	0	1	1	1	1	4	1	1
-GTA	4	5	15	9	0	2	10	1	2	6	10	4
-GTG	1	1	1	1	0	2	2	1	1	0	0	0
-GCT	6	4	8	2	0	5	2	1	0	3	8	1
-GCC	5	11	16	6	0	5	6	4	2	18	18	7
-GCA	8	10	12	9	0	5	5	2	5	11	11	11
-GCG	0	1	1	0	0	0	1	0	0	0	1	0
-GAT	1	0	3	6	0	0	1	1	0	2	4	1
-GAC	2	2	10	3	0	0	3	4	1	2	5	6
-GAA	10	6	5	14	0	5	9	3	1	6	10	5
-GAG	2	0	3	2	0	2	1	1	1	2	1	1
-GGT	1	1	4	1	0	0	2	1	1	4	5	2
-GGC	3	2	10	3	0	1	6	3	1	4	4	5
-GGA	8	4	19	5	0	4	10	1	1	5	9	6
-GGG	5	2	12	1	0	0	1	0	1	2	5	6
-TAA	0	0	0	0	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009434310.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	9	6	10	1	5	9	11	1	3	7	0	3	8	0	7	7	31	5	3	10	9	0	0	2	8	0	1	2	3	1	8	14	20	3	2	17	13	0	3	11	8	0	1	0	1	1	4	1	6	5	8	0	1	2	10	2	1	3	8	5	0	0	0	0
+1	ND2	YP_009434311.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	2	7	9	0	6	6	7	0	2	4	1	1	10	0	8	5	22	0	3	6	10	0	2	7	6	0	0	0	3	1	21	13	31	2	7	30	30	1	3	9	13	1	1	3	1	0	5	1	4	11	10	1	0	2	6	0	1	2	4	2	0	0	0	0
+2	COX1	YP_009434312.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	24	17	13	1	8	8	13	2	11	10	0	2	16	3	8	7	32	3	4	7	18	3	9	10	6	3	3	1	6	0	23	21	27	5	10	11	17	2	4	14	11	1	0	7	8	5	15	1	8	16	12	1	3	10	5	3	4	10	19	12	0	0	0	1
+3	COX2	YP_009434313.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	6	2	5	0	4	2	7	2	1	5	1	2	5	0	8	0	14	2	1	3	8	1	1	8	5	6	0	2	3	1	4	9	12	1	2	10	7	0	1	3	3	0	1	3	3	2	9	1	2	6	9	0	6	3	14	2	1	3	5	1	0	0	0	0
+4	ATP8	YP_009434314.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	0	2	2	1	1	0	0	0	1	1	0	0	3	0	2	1	2	1	0	3	2	1	0	1	2	0	0	0	0	0	2	2	2	1	0	5	8	0	1	0	4	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009434315.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	7	3	9	2	2	3	4	0	2	1	1	1	3	0	9	5	17	2	2	2	9	0	1	4	5	0	4	0	0	0	10	15	16	3	5	11	8	0	4	11	3	2	2	4	2	1	2	2	5	5	5	0	0	0	5	2	0	1	4	0	1	0	0	0
+6	COX3	YP_009434316.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	8	9	14	1	1	2	8	0	7	4	0	1	9	4	5	2	12	2	4	2	4	1	3	12	6	1	0	0	6	0	6	11	9	1	5	16	9	0	1	3	5	0	0	4	3	1	10	2	2	6	5	1	1	3	9	1	2	6	10	1	0	0	0	0
+7	ND3	YP_009434317.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	3	3	3	0	1	3	1	0	1	2	0	1	3	0	3	3	10	2	0	1	6	1	0	0	1	1	0	0	1	0	2	9	5	0	1	5	9	0	1	4	2	0	0	1	1	1	1	1	1	4	2	0	1	4	3	1	1	3	1	0	0	0	0	0
+8	ND4L	YP_009434318.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	2	2	3	1	1	2	3	0	0	0	1	2	0	0	6	2	6	2	1	1	0	0	0	1	2	0	0	0	2	0	4	5	5	3	3	4	4	0	2	3	2	0	0	2	1	1	2	1	0	2	5	0	0	1	1	1	1	1	1	1	1	0	0	0
+9	ND4	YP_009434319.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	10	6	19	2	4	11	15	0	5	7	2	4	7	3	14	10	36	5	1	4	17	1	1	10	17	3	3	1	5	0	15	17	30	7	8	11	28	2	5	12	7	2	3	4	2	4	6	0	3	18	11	0	2	2	6	2	4	4	5	2	0	0	0	0
+10	ND5	YP_009434320.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	12	16	19	2	15	5	22	1	3	8	3	0	9	1	11	15	39	7	3	7	16	0	3	10	12	2	0	0	8	0	28	25	41	8	15	17	40	1	17	19	23	4	1	6	4	1	10	0	8	18	11	1	4	5	10	1	5	4	9	5	1	0	0	0
+11	CYTB	YP_009434322.1	Laticauda laticaudata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Elapidae, Laticaudinae, Laticauda	16	13	11	1	7	8	15	0	7	7	2	0	10	1	9	4	22	4	1	4	16	0	2	10	7	0	1	1	4	0	21	23	12	3	11	9	16	1	6	13	8	0	0	1	4	1	4	0	1	7	11	0	1	6	5	1	2	5	6	6	1	0	0	0

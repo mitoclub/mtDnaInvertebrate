@@ -1,65 +1,13 @@
-	YP_001876456.1|ND1	YP_001876457.2|ND2	YP_001876458.2|COX1	YP_001876459.1|COX2	YP_001876460.1|ATP8	YP_001876461.2|ATP6	YP_001876462.2|COX3	YP_001876463.2|ND3	YP_001876464.2|ND4L	YP_001876465.1|ND4	YP_001876466.2|ND5	YP_001876468.1|CYTB
-TTT	14	6	23	4	3	7	10	7	6	11	26	18
-TTC	4	5	19	5	1	4	13	2	2	6	14	11
-TTA	16	14	10	5	5	14	5	4	6	21	14	15
-TTG	1	5	0	1	0	2	1	0	1	1	3	1
-TCT	4	3	9	5	2	1	4	2	2	4	10	5
-TCC	5	10	6	5	0	1	2	0	0	5	7	5
-TCA	6	7	10	3	0	2	6	4	3	13	14	11
-TCG	1	1	0	0	1	0	0	1	0	3	1	1
-TAT	13	4	10	5	0	3	5	2	0	10	6	8
-TAC	0	3	8	4	0	2	7	0	0	5	4	6
-TGT	0	1	1	1	0	0	0	1	1	0	4	1
-TGC	0	0	0	1	0	0	2	0	2	5	3	2
-TGA	8	11	15	4	3	4	11	3	1	17	10	12
-TGG	0	0	2	1	2	1	1	2	0	3	4	1
-CTT	14	9	20	13	1	7	12	8	7	19	26	8
-CTC	10	8	11	1	0	5	6	3	0	13	17	10
-CTA	18	25	13	6	0	15	6	9	9	23	30	23
-CTG	4	8	8	2	0	4	3	2	0	9	6	5
-CCT	7	3	9	1	0	3	5	1	0	6	6	2
-CCC	8	6	10	6	4	9	2	3	1	13	14	10
-CCA	8	10	4	6	5	5	6	2	1	7	8	8
-CCG	1	0	5	1	0	0	0	2	0	1	1	1
-CAT	1	1	4	3	2	3	4	0	1	5	4	2
-CAC	2	6	15	7	0	0	12	0	3	8	12	10
-CAA	6	11	7	7	3	8	9	3	3	8	17	5
-CAG	1	2	1	1	0	0	0	0	0	4	3	1
-CGT	2	1	2	2	0	2	0	0	1	1	1	0
-CGC	1	0	1	2	0	1	2	0	0	1	2	0
-CGA	5	2	4	3	0	3	2	2	2	7	6	8
-CGG	0	1	1	0	0	0	1	0	0	2	0	0
-ATT	18	21	27	15	4	22	8	9	2	29	41	19
-ATC	9	4	11	4	1	1	7	0	0	9	11	14
-ATA	7	17	11	9	0	7	5	1	3	21	24	4
-ATG	4	5	13	3	1	4	3	1	3	6	8	5
-ACT	5	3	10	4	0	3	1	3	1	9	11	6
-ACC	6	17	8	0	1	6	6	0	1	15	20	4
-ACA	8	19	14	5	2	7	13	2	5	17	22	10
-ACG	1	1	5	1	0	3	0	0	1	1	2	2
-AAT	7	5	10	2	3	7	1	0	1	8	16	9
-AAC	6	3	5	3	0	3	0	3	1	4	12	9
-AAA	6	9	6	3	2	0	2	1	0	8	18	8
-AAG	1	0	2	1	0	1	0	0	0	1	3	1
-AGT	1	2	0	0	0	0	0	0	1	1	6	0
-AGC	1	2	5	3	1	4	3	0	2	4	6	1
-GTT	2	4	17	11	1	4	3	3	1	10	10	8
-GTC	5	0	8	1	0	4	4	1	0	2	1	5
-GTA	8	5	15	7	0	7	8	4	1	4	12	10
-GTG	0	0	2	0	0	1	1	0	0	3	6	1
-GCT	7	6	7	3	0	7	3	4	1	5	15	6
-GCC	15	14	22	6	2	9	9	2	5	14	27	10
-GCA	13	21	18	4	1	5	9	2	7	15	12	15
-GCG	0	0	1	2	0	0	1	0	0	1	0	1
-GAT	3	1	6	5	0	0	2	2	0	0	11	8
-GAC	1	2	8	8	1	1	3	2	1	3	3	3
-GAA	9	4	7	9	3	4	8	6	1	8	8	4
-GAG	2	1	4	6	0	0	2	0	2	3	3	2
-GGT	6	3	8	1	0	1	2	0	3	4	3	2
-GGC	4	4	14	4	0	3	10	2	0	10	12	5
-GGA	4	10	14	4	0	4	6	3	2	11	9	14
-GGG	5	2	10	1	0	3	4	2	1	3	7	4
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001876456.1	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	14	4	16	1	4	5	6	1	13	0	0	0	8	0	14	10	18	4	7	8	8	1	1	2	6	1	2	1	5	0	18	9	7	4	5	6	8	1	7	6	6	1	1	1	2	5	8	0	7	15	13	0	3	1	9	2	6	4	4	5	1	0	0	0
+1	ND2	YP_001876457.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	6	5	14	5	3	10	7	1	4	3	1	0	11	0	9	8	25	8	3	6	10	0	1	6	11	2	1	0	2	1	21	4	17	5	3	17	19	1	5	3	9	0	2	2	4	0	5	0	6	14	21	0	1	2	4	1	3	4	10	2	0	0	0	0
+2	COX1	YP_001876458.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	23	19	10	0	9	6	10	0	10	8	1	0	15	2	20	11	13	8	9	10	4	5	4	15	7	1	2	1	4	1	27	11	11	13	10	8	14	5	10	5	6	2	0	5	17	8	15	2	7	22	18	1	6	8	7	4	8	14	14	10	1	0	0	0
+3	COX2	YP_001876459.1	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	4	5	5	1	5	5	3	0	5	4	1	1	4	1	13	1	6	2	1	6	6	1	3	7	7	1	2	2	3	0	15	4	9	3	4	0	5	1	2	3	3	1	0	3	11	1	7	0	3	6	4	2	5	8	9	6	1	4	4	1	0	0	0	0
+4	ATP8	YP_001876460.1	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	3	1	5	0	2	0	0	1	0	0	0	0	3	2	1	0	0	0	0	4	5	0	2	0	3	0	0	0	0	0	4	1	0	1	0	1	2	0	3	0	2	0	0	1	1	0	0	0	0	2	1	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_001876461.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	7	4	14	2	1	1	2	0	3	2	0	0	4	1	7	5	15	4	3	9	5	0	3	0	8	0	2	1	3	0	22	1	7	4	3	6	7	3	7	3	0	1	0	4	4	4	7	1	7	9	5	0	0	1	4	0	1	3	4	3	1	0	0	0
+6	COX3	YP_001876462.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	10	13	5	1	4	2	6	0	5	7	0	2	11	1	12	6	6	3	5	2	6	0	4	12	9	0	0	2	2	1	8	7	5	3	1	6	13	0	1	0	2	0	0	3	3	4	8	1	3	9	9	1	2	3	8	2	2	10	6	4	0	0	0	0
+7	ND3	YP_001876463.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	7	2	4	0	2	0	4	1	2	0	1	0	3	2	8	3	9	2	1	3	2	2	0	0	3	0	0	0	2	0	9	0	1	1	3	0	2	0	0	3	1	0	0	0	3	1	4	0	4	2	2	0	2	2	6	0	0	2	3	2	0	0	0	0
+8	ND4L	YP_001876464.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	6	2	6	1	2	0	3	0	0	0	1	2	1	0	7	0	9	0	0	1	1	0	1	3	3	0	1	0	2	0	2	0	3	3	1	1	5	1	1	1	0	0	1	2	1	0	1	0	1	5	7	0	0	1	1	2	3	0	2	1	1	0	0	0
+9	ND4	YP_001876465.1	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	11	6	21	1	4	5	13	3	10	5	0	5	17	3	19	13	23	9	6	13	7	1	5	8	8	4	1	1	7	2	29	9	21	6	9	15	17	1	8	4	8	1	1	4	10	2	4	3	5	14	15	1	0	3	8	3	4	10	11	3	0	0	0	0
+10	ND5	YP_001876466.2	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	26	14	14	3	10	7	14	1	6	4	4	3	10	4	26	17	30	6	6	14	8	1	4	12	17	3	1	2	6	0	41	11	24	8	11	20	22	2	16	12	18	3	6	6	10	1	12	6	15	27	12	0	11	3	8	3	3	12	9	7	1	0	0	0
+11	CYTB	YP_001876468.1	Cobitis choii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Cobitis	18	11	15	1	5	5	11	1	8	6	1	2	12	1	8	10	23	5	2	10	8	1	2	10	5	1	0	0	8	0	19	14	4	5	6	4	10	2	9	9	8	1	0	1	8	5	10	1	6	10	15	1	8	3	4	2	2	5	14	4	0	0	0	0

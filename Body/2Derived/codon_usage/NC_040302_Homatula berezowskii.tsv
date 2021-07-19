@@ -1,65 +1,13 @@
-	YP_009551284.1|ND1	YP_009551285.1|ND2	YP_009551286.1|COX1	YP_009551287.1|COX2	YP_009551288.1|ATP8	YP_009551289.1|ATP6	YP_009551290.1|COX3	YP_009551291.1|ND3	YP_009551292.1|ND4L	YP_009551293.1|ND4	YP_009551294.1|ND5	YP_009551296.1|CYTB
-TTT	11	7	20	1	2	8	8	6	4	11	19	13
-TTC	5	3	22	8	1	4	14	3	4	5	19	16
-TTA	11	9	10	3	4	4	3	4	3	20	21	13
-TTG	3	0	2	2	0	5	0	2	0	5	5	1
-TCT	2	2	8	1	1	1	1	1	2	4	3	5
-TCC	7	7	8	8	1	0	6	3	1	8	9	8
-TCA	8	7	11	4	1	3	4	1	3	9	21	9
-TCG	1	1	1	0	0	0	1	0	0	1	0	0
-TAT	6	3	10	3	0	3	6	2	0	7	5	6
-TAC	7	4	8	6	0	2	6	0	0	8	5	8
-TGT	0	0	0	0	0	0	0	0	2	2	5	0
-TGC	0	1	1	2	0	0	2	1	1	3	1	3
-TGA	7	8	15	5	4	4	10	2	0	13	10	13
-TGG	1	3	2	0	1	1	2	3	1	7	4	0
-CTT	3	12	7	12	0	9	8	4	1	11	18	4
-CTC	12	11	13	4	0	4	4	5	5	18	15	12
-CTA	24	29	20	7	1	22	17	8	11	27	28	25
-CTG	11	5	11	0	1	3	1	2	2	9	6	5
-CCT	3	2	7	2	2	2	1	0	1	6	3	2
-CCC	10	6	7	7	2	3	2	2	1	8	14	6
-CCA	10	11	13	4	3	11	9	6	0	14	11	13
-CCG	1	0	1	1	0	1	0	0	0	0	1	0
-CAT	1	2	1	3	1	2	2	1	1	2	3	3
-CAC	3	5	18	7	2	1	14	0	3	9	11	9
-CAA	3	11	5	8	2	8	9	3	3	9	16	6
-CAG	4	2	3	0	0	0	0	0	0	4	3	0
-CGT	1	0	1	2	0	1	1	0	0	0	0	1
-CGC	1	0	2	1	0	1	1	0	1	2	0	0
-CGA	6	4	4	3	0	4	3	2	2	8	8	7
-CGG	0	0	1	0	0	0	0	0	0	1	2	0
-ATT	15	16	26	14	1	14	7	5	1	24	37	17
-ATC	10	9	11	4	2	8	9	1	0	15	21	10
-ATA	7	14	16	7	2	8	5	2	6	22	22	7
-ATG	4	6	6	5	2	3	3	1	2	4	8	5
-ACT	3	4	5	2	3	1	3	1	2	5	8	1
-ACC	8	19	10	3	1	9	3	4	3	17	25	8
-ACA	9	19	20	6	0	12	12	3	1	15	21	12
-ACG	1	3	1	0	0	0	3	0	0	2	2	2
-AAT	3	4	7	3	2	3	1	1	1	1	8	8
-AAC	9	4	8	3	1	6	0	1	1	12	21	9
-AAA	6	10	8	2	1	0	2	1	0	7	16	8
-AAG	1	0	0	2	2	1	0	0	0	3	5	1
-AGT	0	2	1	2	0	1	0	0	1	0	4	0
-AGC	4	2	4	1	0	4	3	1	2	5	8	1
-GTT	2	2	11	7	0	6	3	3	0	4	9	7
-GTC	4	2	8	1	0	4	4	1	1	4	2	7
-GTA	8	4	18	12	2	4	8	3	1	6	15	14
-GTG	2	0	6	0	0	2	1	1	0	3	1	1
-GCT	7	8	4	5	0	1	4	1	1	3	3	5
-GCC	15	18	22	4	1	9	8	5	8	19	30	12
-GCA	11	20	15	6	1	8	11	3	6	14	20	13
-GCG	1	0	4	1	0	0	0	0	0	1	0	1
-GAT	1	1	4	1	0	0	2	2	0	0	5	7
-GAC	2	2	10	11	2	1	3	2	1	4	8	5
-GAA	9	3	7	10	2	3	7	5	2	10	9	5
-GAG	2	3	4	5	1	1	2	2	1	0	2	1
-GGT	2	2	9	1	0	2	0	0	1	2	5	1
-GGC	5	5	8	1	0	2	8	2	2	8	7	4
-GGA	8	8	22	7	0	5	11	1	2	14	15	15
-GGG	3	3	7	0	0	2	3	3	0	5	4	5
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	1	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009551284.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	11	5	11	3	2	7	8	1	6	7	0	0	7	1	3	12	24	11	3	10	10	1	1	3	3	4	1	1	6	0	15	10	7	4	3	8	9	1	3	9	6	1	0	4	2	4	8	2	7	15	11	1	1	2	9	2	2	5	8	3	0	1	0	0
+1	ND2	YP_009551285.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	7	3	9	0	2	7	7	1	3	4	0	1	8	3	12	11	29	5	2	6	11	0	2	5	11	2	0	0	4	0	16	9	14	6	4	19	19	3	4	4	10	0	2	2	2	2	4	0	8	18	20	0	1	2	3	3	2	5	8	3	0	0	0	0
+2	COX1	YP_009551286.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	20	22	10	2	8	8	11	1	10	8	0	1	15	2	7	13	20	11	7	7	13	1	1	18	5	3	1	2	4	1	26	11	16	6	5	10	20	1	7	8	8	0	1	4	11	8	18	6	4	22	15	4	4	10	7	4	9	8	22	7	0	1	0	0
+3	COX2	YP_009551287.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	1	8	3	2	1	8	4	0	3	6	0	2	5	0	12	4	7	0	2	7	4	1	3	7	8	0	2	1	3	0	14	4	7	5	2	3	6	0	3	3	2	2	2	1	7	1	12	0	5	4	6	1	1	11	10	5	1	1	7	0	0	0	0	0
+4	ATP8	YP_009551288.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	2	1	4	0	1	1	1	0	0	0	0	0	4	1	0	0	1	1	2	2	3	0	1	2	2	0	0	0	0	0	1	2	2	2	3	1	0	0	2	1	1	2	0	0	0	0	2	0	0	1	1	0	0	2	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009551289.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	8	4	4	5	1	0	3	0	3	2	0	0	4	1	9	4	22	3	2	3	11	1	2	1	8	0	1	1	4	0	14	8	8	3	1	9	12	0	3	6	0	1	1	4	6	4	4	2	1	9	8	0	0	1	3	1	2	2	5	2	1	0	0	0
+6	COX3	YP_009551290.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	8	14	3	0	1	6	4	1	6	6	0	2	10	2	8	4	17	1	1	2	9	0	2	14	9	0	1	1	3	0	7	9	5	3	3	3	12	3	1	0	2	0	0	3	3	4	8	1	4	8	11	0	2	3	7	2	0	8	11	3	0	0	0	0
+7	ND3	YP_009551291.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	6	3	4	2	1	3	1	0	2	0	0	1	2	3	4	5	8	2	0	2	6	0	1	0	3	0	0	0	2	0	5	1	2	1	1	4	3	0	1	1	1	0	0	1	3	1	3	1	1	5	3	0	2	2	5	2	0	2	1	3	0	0	0	0
+8	ND4L	YP_009551292.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	4	4	3	0	2	1	3	0	0	0	2	1	0	1	1	5	11	2	1	1	0	0	1	3	3	0	0	1	2	0	1	0	6	2	2	3	1	0	1	1	0	0	1	2	0	1	1	0	1	8	6	0	0	1	2	1	1	2	2	0	1	0	0	0
+9	ND4	YP_009551293.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	11	5	20	5	4	8	9	1	7	8	2	3	13	7	11	18	27	9	6	8	14	0	2	9	9	4	0	2	8	1	24	15	22	4	5	17	15	2	1	12	7	3	0	5	4	4	6	3	3	19	14	1	0	4	10	0	2	8	14	5	0	0	0	0
+10	ND5	YP_009551294.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	19	19	21	5	3	9	21	0	5	5	5	1	10	4	18	15	28	6	3	14	11	1	3	11	16	3	0	0	8	2	37	21	22	8	8	25	21	2	8	21	16	5	4	8	9	2	15	1	3	30	20	0	5	8	9	2	5	7	15	4	1	0	0	0
+11	CYTB	YP_009551296.1	Homatula berezowskii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Homatula	13	16	13	1	5	8	9	0	6	8	0	3	13	0	4	12	25	5	2	6	13	0	3	9	6	0	1	0	7	0	17	10	7	5	1	8	12	2	8	9	8	1	0	1	7	7	14	1	5	12	13	1	7	5	5	1	1	4	15	5	0	0	0	0

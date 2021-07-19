@@ -1,65 +1,13 @@
-	YP_009311216.1|ND1	YP_009311217.1|ND2	YP_009311218.1|COX1	YP_009311219.1|COX2	YP_009311220.1|ATP8	YP_009311221.1|ATP6	YP_009311222.1|COX3	YP_009311223.1|ND3	YP_009311224.1|ND4L	YP_009311225.1|ND4	YP_009311226.1|ND5	YP_009311228.1|CYTB
-TTT	9	6	22	5	3	9	13	5	5	11	30	14
-TTC	8	2	20	4	0	3	9	4	3	7	11	18
-TTA	24	12	15	5	2	7	8	4	4	23	24	13
-TTG	4	5	0	1	0	2	1	2	3	6	4	2
-TCT	3	4	8	5	1	0	3	1	1	2	6	2
-TCC	7	10	5	4	2	3	2	3	0	12	8	7
-TCA	8	7	11	4	2	2	6	2	4	8	13	12
-TCG	1	0	1	0	0	0	0	0	1	1	0	0
-TAT	9	5	9	2	0	4	3	0	0	6	6	2
-TAC	3	3	9	7	0	1	9	2	0	8	5	12
-TGT	0	0	0	1	0	0	0	1	1	2	3	1
-TGC	0	1	1	1	0	0	2	0	2	3	3	2
-TGA	6	8	12	2	5	5	11	3	1	15	8	8
-TGG	2	3	5	3	0	0	1	2	0	5	5	4
-CTT	8	14	11	5	0	18	6	9	2	20	16	10
-CTC	10	14	9	6	1	6	6	5	4	13	12	11
-CTA	16	20	21	9	1	10	9	6	9	23	27	18
-CTG	0	8	6	2	1	5	1	0	0	3	9	5
-CCT	8	4	4	4	1	3	2	5	0	10	14	5
-CCC	10	8	7	4	2	5	2	1	1	6	9	6
-CCA	6	4	15	6	3	8	8	2	1	9	4	8
-CCG	0	2	2	0	0	0	0	0	0	3	0	2
-CAT	3	4	11	5	0	1	5	0	2	5	9	3
-CAC	2	2	8	5	2	2	11	1	2	6	5	10
-CAA	3	11	6	7	1	8	6	3	3	9	13	6
-CAG	4	2	2	2	0	0	3	0	0	3	5	1
-CGT	0	2	0	1	0	1	0	0	0	1	1	1
-CGC	1	0	1	2	0	2	1	1	1	0	1	0
-CGA	6	1	6	3	0	3	2	0	2	9	5	4
-CGG	1	1	1	0	0	0	2	1	0	1	2	3
-ATT	13	18	26	13	4	15	12	6	2	25	36	15
-ATC	10	5	13	3	0	6	6	2	0	12	18	14
-ATA	6	16	17	9	1	5	7	2	4	19	24	7
-ATG	5	5	7	4	1	5	2	1	1	7	10	4
-ACT	1	8	8	3	2	3	5	1	2	11	18	2
-ACC	11	20	8	3	2	4	7	3	2	8	24	13
-ACA	6	16	20	4	1	13	10	4	5	19	18	9
-ACG	1	0	2	1	0	0	0	0	0	2	2	0
-AAT	5	5	8	4	0	6	0	2	0	7	10	9
-AAC	6	7	7	0	3	3	1	1	2	4	14	8
-AAA	6	7	6	5	2	1	2	0	0	9	18	5
-AAG	1	1	2	0	1	0	0	1	0	0	6	3
-AGT	3	1	0	1	1	1	0	0	1	3	2	0
-AGC	1	5	4	2	0	4	3	0	2	3	8	1
-GTT	9	1	7	6	0	4	4	1	1	4	9	8
-GTC	1	1	9	5	0	1	7	1	1	4	3	5
-GTA	10	3	23	10	2	8	3	2	1	9	12	10
-GTG	1	1	3	0	0	4	1	1	0	1	3	3
-GCT	4	8	13	5	1	4	4	1	0	7	16	6
-GCC	12	19	19	4	1	8	11	4	7	17	20	10
-GCA	15	11	14	6	0	9	5	3	5	14	18	13
-GCG	1	0	0	1	0	0	1	0	0	1	2	2
-GAT	1	1	4	5	1	0	2	2	1	2	7	2
-GAC	3	3	10	9	0	1	3	2	0	2	8	8
-GAA	7	4	8	8	3	3	8	4	3	5	8	5
-GAG	4	1	3	5	0	1	2	2	0	6	4	2
-GGT	2	2	10	1	0	3	4	0	1	6	1	4
-GGC	7	4	12	1	1	2	11	2	2	8	13	5
-GGA	7	10	20	5	0	5	8	4	1	10	15	14
-GGG	3	2	5	2	0	0	0	1	2	5	2	3
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311216.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	9	8	24	4	3	7	8	1	9	3	0	0	6	2	8	10	16	0	8	10	6	0	3	2	3	4	0	1	6	1	13	10	6	5	1	11	6	1	5	6	6	1	3	1	9	1	10	1	4	12	15	1	1	3	7	4	2	7	7	3	1	0	0	0
+1	ND2	YP_009311217.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	6	2	12	5	4	10	7	0	5	3	0	1	8	3	14	14	20	8	4	8	4	2	4	2	11	2	2	0	1	1	18	5	16	5	8	20	16	0	5	7	7	1	1	5	1	1	3	1	8	19	11	0	1	3	4	1	2	4	10	2	0	0	0	0
+2	COX1	YP_009311218.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	22	20	15	0	8	5	11	1	9	9	0	1	12	5	11	9	21	6	4	7	15	2	11	8	6	2	0	1	6	1	26	13	17	7	8	8	20	2	8	7	6	2	0	4	7	9	23	3	13	19	14	0	4	10	8	3	10	12	20	5	1	0	0	0
+3	COX2	YP_009311219.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	5	4	5	1	5	4	4	0	2	7	1	1	2	3	5	6	9	2	4	4	6	0	5	5	7	2	1	2	3	0	13	3	9	4	3	3	4	1	4	0	5	0	1	2	6	5	10	0	5	4	6	1	5	9	8	5	1	1	5	2	0	0	0	0
+4	ATP8	YP_009311220.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	3	0	2	0	1	2	2	0	0	0	0	0	5	0	0	1	1	1	1	2	3	0	0	2	1	0	0	0	0	0	4	0	1	1	2	2	1	0	0	3	2	1	1	0	0	0	2	0	1	1	0	0	1	0	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009311221.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	9	3	7	2	0	3	2	0	4	1	0	0	5	0	18	6	10	5	3	5	8	0	1	2	8	0	1	2	3	0	15	6	5	5	3	4	13	0	6	3	1	0	1	4	4	1	8	4	4	8	9	0	0	1	3	1	3	2	5	0	0	0	0	0
+6	COX3	YP_009311222.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	13	9	8	1	3	2	6	0	3	9	0	2	11	1	6	6	9	1	2	2	8	0	5	11	6	3	0	1	2	2	12	6	7	2	5	7	10	0	0	1	2	0	0	3	4	7	3	1	4	11	5	1	2	3	8	2	4	11	8	0	0	0	0	0
+7	ND3	YP_009311223.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	5	4	4	2	1	3	2	0	0	2	1	0	3	2	9	5	6	0	5	1	2	0	0	1	3	0	0	1	0	1	6	2	2	1	1	3	4	0	2	1	0	1	0	0	1	1	2	1	1	4	3	0	2	2	4	2	0	2	4	1	0	0	0	0
+8	ND4L	YP_009311224.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	5	3	4	3	1	0	4	1	0	0	1	2	1	0	2	4	9	0	0	1	1	0	2	2	3	0	0	1	2	0	2	0	4	1	2	2	5	0	0	2	0	0	1	2	1	1	1	0	0	7	5	0	1	0	3	0	1	2	1	2	1	0	0	0
+9	ND4	YP_009311225.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	11	7	23	6	2	12	8	1	6	8	2	3	15	5	20	13	23	3	10	6	9	3	5	6	9	3	1	0	9	1	25	12	19	7	11	8	19	2	7	4	9	0	3	3	4	4	9	1	7	17	14	1	2	2	5	6	6	8	10	5	0	0	0	0
+10	ND5	YP_009311226.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	30	11	24	4	6	8	13	0	6	5	3	3	8	5	16	12	27	9	14	9	4	0	9	5	13	5	1	1	5	2	36	18	24	10	18	24	18	2	10	14	18	6	2	8	9	3	12	3	16	20	18	2	7	8	8	4	1	13	15	2	1	0	0	0
+11	CYTB	YP_009311228.1	Psilorhynchus pseudecheneis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Psilorhynchidae, Psilorhynchus	14	18	13	2	2	7	12	0	2	12	1	2	8	4	10	11	18	5	5	6	8	2	3	10	6	1	1	0	4	3	15	14	7	4	2	13	9	0	9	8	5	3	0	1	8	5	10	3	6	10	13	2	2	8	5	2	4	5	14	3	0	0	0	0

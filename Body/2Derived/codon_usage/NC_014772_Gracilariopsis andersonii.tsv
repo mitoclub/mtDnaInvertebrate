@@ -1,65 +1,16 @@
-	YP_004062189.1	YP_004062190.1|atp6	YP_004062191.1|atp8	YP_004062192.1|nad5	YP_004062193.1|nad4	YP_004062194.1|sdhD	YP_004062195.1|nad2	YP_004062196.1|nad1	YP_004062197.1|nad3	YP_004062199.1|atp9	YP_004062200.1|sdhC	YP_004062201.1|sdhB	YP_004062202.1|nad6	YP_004062203.1	YP_004062205.1
-TTT	13	24	9	59	48	6	45	20	14	6	17	9	18	5	4
-TTC	0	5	2	13	8	1	13	4	2	0	2	0	2	0	2
-TTA	15	28	13	87	61	10	66	35	10	11	14	17	26	2	6
-TTG	1	2	3	10	9	4	8	6	4	1	0	4	2	3	4
-TCT	4	3	1	15	9	0	10	7	3	1	1	8	6	3	4
-TCC	0	0	2	3	2	0	3	2	0	0	1	1	0	1	1
-TCA	2	5	3	14	10	0	12	6	2	1	4	4	3	1	1
-TCG	0	1	1	7	5	1	3	1	0	0	2	0	0	0	0
-TAT	2	5	4	28	16	2	22	10	6	2	5	14	2	5	3
-TAC	2	2	0	7	3	0	5	4	0	0	3	1	3	0	0
-TGT	0	2	1	6	5	0	4	2	1	0	1	11	1	1	2
-TGC	0	0	0	1	1	0	1	1	0	0	0	2	0	0	1
-TGA	1	1	1	7	7	1	4	9	4	0	1	3	2	0	1
-TGG	0	2	0	5	3	0	2	1	0	0	2	3	0	0	1
-CTT	5	7	2	10	8	3	7	5	3	0	2	4	8	0	1
-CTC	0	2	0	2	0	0	1	0	0	0	1	1	0	0	0
-CTA	3	3	2	5	5	3	9	6	2	0	0	3	3	0	2
-CTG	0	1	1	0	1	0	1	2	0	0	0	0	1	0	0
-CCT	0	7	3	8	10	0	8	7	1	1	2	9	1	0	2
-CCC	1	2	0	2	0	0	0	3	0	0	0	0	0	0	1
-CCA	0	1	0	6	4	0	4	4	2	0	3	3	0	1	1
-CCG	0	0	0	1	1	0	1	1	1	0	0	1	0	0	0
-CAT	1	6	1	11	7	2	4	0	0	0	3	5	2	0	0
-CAC	0	0	2	1	2	0	0	0	0	0	2	1	1	0	0
-CAA	6	6	4	13	9	0	8	5	2	3	1	5	6	0	3
-CAG	0	0	3	1	4	0	1	1	0	0	3	3	0	1	0
-CGT	2	0	1	6	6	1	3	3	1	0	1	3	3	1	0
-CGC	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
-CGA	1	1	0	0	2	0	0	0	0	1	0	1	0	0	0
-CGG	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0
-ATT	7	13	9	35	30	8	39	16	10	3	14	15	12	0	3
-ATC	1	4	3	4	4	1	3	2	0	2	0	1	0	0	1
-ATA	4	12	7	17	24	8	20	21	8	0	6	7	9	3	4
-ATG	3	6	1	18	13	1	10	12	2	5	1	8	7	1	2
-ACT	4	6	3	17	14	0	5	2	0	6	1	3	4	3	3
-ACC	1	2	1	3	2	0	4	2	0	0	0	1	2	0	1
-ACA	5	8	4	12	6	2	12	4	3	0	4	8	3	1	0
-ACG	1	2	0	5	5	0	0	1	0	0	0	2	1	0	0
-AAT	10	10	8	24	7	3	17	10	1	2	5	20	11	5	9
-AAC	2	2	0	5	2	0	2	1	1	0	1	5	1	0	2
-AAA	13	6	12	13	9	2	14	7	4	2	4	18	9	7	12
-AAG	2	0	2	4	3	1	4	2	0	0	1	2	2	0	1
-AGT	4	6	3	14	14	3	12	6	4	1	2	5	3	0	0
-AGC	1	1	0	3	2	0	4	0	0	0	1	0	0	0	0
-AGA	1	1	1	4	3	1	0	5	1	0	1	5	0	0	1
-AGG	1	0	0	3	1	0	1	0	0	0	0	1	0	0	0
-GTT	4	11	2	17	7	1	10	6	4	0	3	2	8	1	1
-GTC	1	1	2	1	3	0	2	1	0	0	0	0	2	0	0
-GTA	2	7	3	22	18	2	10	11	1	6	2	3	5	3	0
-GTG	0	0	0	4	2	0	0	2	0	0	0	0	1	0	0
-GCT	1	4	1	18	5	0	11	13	5	6	1	2	3	1	0
-GCC	0	1	0	2	0	0	2	1	0	0	0	2	2	0	1
-GCA	0	6	2	13	16	1	16	14	2	5	2	5	6	1	0
-GCG	0	3	0	3	2	0	5	3	0	0	0	1	0	0	0
-GAT	5	2	4	12	6	2	8	4	5	0	2	8	5	1	1
-GAC	1	0	1	2	2	1	0	0	0	0	0	1	0	1	0
-GAA	4	5	6	12	12	2	10	11	6	1	1	6	3	3	1
-GAG	1	2	0	0	3	1	1	0	1	0	0	0	0	1	0
-GGT	1	11	0	23	12	2	10	13	1	8	2	3	6	2	1
-GGC	0	1	0	3	1	0	2	0	1	0	0	1	0	0	0
-GGA	3	3	0	17	15	1	10	6	3	2	1	5	6	2	2
-GGG	0	1	0	5	2	1	3	4	0	0	0	0	1	0	0
-TAA	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_004062189.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	13	0	15	1	4	0	2	0	2	2	0	0	1	0	5	0	3	0	0	1	0	0	1	0	6	0	2	0	1	0	7	1	4	3	4	1	5	1	10	2	13	2	4	1	1	1	4	1	2	0	1	0	0	0	5	1	4	1	1	0	3	0	0	1
+1	atp6	YP_004062190.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	24	5	28	2	3	0	5	1	5	2	2	0	1	2	7	2	3	1	7	2	1	0	6	0	6	0	0	0	1	0	13	4	12	6	6	2	8	2	10	2	6	0	6	1	1	0	11	1	7	0	4	1	6	3	2	0	5	2	11	1	3	1	1	0
+2	atp8	YP_004062191.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	9	2	13	3	1	2	3	1	4	0	1	0	1	0	2	0	2	1	3	0	0	0	1	2	4	3	1	1	0	0	9	3	7	1	3	1	4	0	8	0	12	2	3	0	1	0	2	2	3	0	1	0	2	0	4	1	6	0	0	0	0	0	1	0
+3	nad5	YP_004062192.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	59	13	87	10	15	3	14	7	28	7	6	1	7	5	10	2	5	0	8	2	6	1	11	1	13	1	6	0	0	0	35	4	17	18	17	3	12	5	24	5	13	4	14	3	4	3	17	1	22	4	18	2	13	3	12	2	12	0	23	3	17	5	1	0
+4	nad4	YP_004062193.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	48	8	61	9	9	2	10	5	16	3	5	1	7	3	8	0	5	1	10	0	4	1	7	2	9	4	6	0	2	0	30	4	24	13	14	2	6	5	7	2	9	3	14	2	3	1	7	3	18	2	5	0	16	2	6	2	12	3	12	1	15	2	1	0
+5	sdhD	YP_004062194.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	6	1	10	4	0	0	0	1	2	0	0	0	1	0	3	0	3	0	0	0	0	0	2	0	0	0	1	1	0	0	8	1	8	1	0	0	2	0	3	0	2	1	3	0	1	0	1	0	2	0	0	0	1	0	2	1	2	1	2	0	1	1	1	0
+6	nad2	YP_004062195.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	45	13	66	8	10	3	12	3	22	5	4	1	4	2	7	1	9	1	8	0	4	1	4	0	8	1	3	0	0	0	39	3	20	10	5	4	12	0	17	2	14	4	12	4	0	1	10	2	10	0	11	2	16	5	8	0	10	1	10	2	10	3	1	0
+7	nad1	YP_004062196.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	20	4	35	6	7	2	6	1	10	4	2	1	9	1	5	0	6	2	7	3	4	1	0	0	5	1	3	0	0	1	16	2	21	12	2	2	4	1	10	1	7	2	6	0	5	0	6	1	11	2	13	1	14	3	4	0	11	0	13	0	6	4	1	0
+8	nad3	YP_004062197.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	14	2	10	4	3	0	2	0	6	0	1	0	4	0	3	0	2	0	1	0	2	1	0	0	2	0	1	0	0	0	10	0	8	2	0	0	3	0	1	1	4	0	4	0	1	0	4	0	1	0	5	0	2	0	5	0	6	1	1	1	3	0	1	0
+9	atp9	YP_004062199.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	6	0	11	1	1	0	1	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	1	0	3	2	0	5	6	0	0	0	2	0	2	0	1	0	0	0	0	0	6	0	6	0	5	0	0	0	1	0	8	0	2	0	1	0
+10	sdhC	YP_004062200.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	17	2	14	0	1	1	4	2	5	3	1	0	1	2	2	1	0	0	2	0	3	0	3	2	1	3	1	0	0	0	14	0	6	1	1	0	4	0	5	1	4	1	2	1	1	0	3	0	2	0	1	0	2	0	2	0	1	0	2	0	1	0	1	0
+11	sdhB	YP_004062201.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	9	0	17	4	8	1	4	0	14	1	11	2	3	3	4	1	3	0	9	0	3	1	5	1	5	3	3	0	1	2	15	1	7	8	3	1	8	2	20	5	18	2	5	0	5	1	2	0	3	0	2	2	5	1	8	1	6	0	3	1	5	0	1	0
+12	nad6	YP_004062202.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	18	2	26	2	6	0	3	0	2	3	1	0	2	0	8	0	3	1	1	0	0	0	2	1	6	0	3	0	0	0	12	0	9	7	4	2	3	1	11	1	9	2	3	0	0	0	8	2	5	1	3	2	6	0	5	0	3	0	6	0	6	1	1	0
+13	None	YP_004062203.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	5	0	2	3	3	1	1	0	5	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	3	1	3	0	1	0	5	0	7	0	0	0	0	0	1	0	3	0	1	0	1	0	1	1	3	1	2	0	2	0	1	0
+14	None	YP_004062205.1	Gracilariopsis andersonii	Eukaryota, Rhodophyta, Florideophyceae, Rhodymeniophycidae, Gracilariales, Gracilariaceae, Gracilariopsis	4	2	6	4	4	1	1	0	3	0	2	1	1	1	1	0	2	0	2	1	1	0	0	0	3	0	0	0	0	0	3	1	4	2	3	1	0	0	9	2	12	1	0	0	1	0	1	0	0	0	0	1	0	0	1	0	1	0	1	0	2	0	0	1

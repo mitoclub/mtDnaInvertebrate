@@ -1,65 +1,13 @@
-	YP_009433387.1|ND1	YP_009433388.1|ND2	YP_009433389.1|COX1	YP_009433390.1|COX2	YP_009433391.1|ATP8	YP_009433392.1|ATP6	YP_009433393.1|COX3	YP_009433394.1|ND3	YP_009433395.1|ND4L	YP_009433396.1|ND4	YP_009433397.1|ND5	YP_009433398.1|CYTB
-TTT	6	6	11	3	1	2	7	2	1	3	11	11
-TTC	12	10	31	6	2	7	17	7	4	13	23	19
-TTA	13	11	6	3	1	7	8	1	2	19	7	7
-TTG	0	2	0	1	0	0	0	0	0	0	0	0
-TCT	4	1	9	1	1	0	2	3	1	5	5	1
-TCC	10	12	5	7	1	7	5	2	3	7	13	10
-TCA	7	11	9	9	3	3	7	3	5	13	16	10
-TCG	1	2	0	0	0	0	1	0	0	1	0	0
-TAT	2	1	5	2	0	0	4	1	1	8	7	1
-TAC	13	7	13	6	0	3	6	1	1	6	7	13
-TGT	0	0	0	0	0	0	0	0	2	0	3	2
-TGC	2	1	1	3	0	1	1	1	1	4	2	2
-TGA	8	9	16	5	4	4	11	5	1	10	11	11
-TGG	0	1	1	0	1	0	1	0	0	2	1	0
-CTT	13	8	8	5	1	6	3	3	3	10	11	7
-CTC	11	15	14	8	1	16	4	5	2	18	19	16
-CTA	27	24	30	13	4	31	17	16	14	50	57	34
-CTG	1	5	3	1	0	1	1	0	1	3	1	4
-CCT	6	2	4	3	4	2	1	1	1	4	3	4
-CCC	5	3	7	5	3	7	4	0	0	9	7	10
-CCA	12	13	18	5	1	7	7	7	1	15	19	10
-CCG	1	0	1	0	0	1	0	0	0	0	0	1
-CAT	2	5	8	3	0	1	5	0	0	3	2	4
-CAC	2	4	11	6	0	3	11	0	6	11	9	8
-CAA	6	9	7	7	2	7	6	3	2	12	18	8
-CAG	0	0	2	0	0	1	2	0	0	0	1	0
-CGT	3	0	1	1	0	1	1	0	0	0	0	2
-CGC	2	1	3	1	0	2	0	1	0	3	5	1
-CGA	2	2	4	3	0	2	4	1	2	8	4	5
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	11	15	5	1	5	3	2	1	19	15	4
-ATC	17	22	26	13	3	13	13	8	1	25	37	25
-ATA	10	16	23	8	3	8	6	5	6	22	30	8
-ATG	2	2	2	2	1	1	3	0	1	3	1	2
-ACT	4	9	9	1	4	4	1	0	2	15	12	5
-ACC	11	11	19	7	6	13	8	8	1	19	37	12
-ACA	6	19	15	6	0	7	10	1	3	15	31	11
-ACG	1	1	0	0	0	0	0	1	1	0	0	1
-AAT	7	4	6	1	2	1	2	0	0	4	5	3
-AAC	4	10	9	4	2	8	4	3	3	12	21	18
-AAA	7	13	9	4	3	4	3	1	0	9	20	9
-AAG	0	1	0	0	0	0	0	0	0	0	0	1
-AGT	1	0	0	0	0	0	1	0	0	2	0	0
-AGC	4	4	3	4	0	4	2	1	4	8	11	1
-GTT	1	2	4	5	0	1	3	0	0	1	2	1
-GTC	2	0	10	6	0	3	4	0	1	3	6	5
-GTA	10	4	20	5	0	2	7	1	2	4	6	10
-GTG	0	0	1	0	0	0	0	0	0	0	0	0
-GCT	9	5	15	3	0	4	4	1	4	5	12	2
-GCC	9	18	20	8	0	9	7	2	3	14	21	14
-GCA	11	10	9	3	0	4	11	5	3	13	12	9
-GCG	0	0	1	0	0	0	1	0	0	0	0	0
-GAT	1	0	5	3	0	2	3	1	0	0	3	0
-GAC	3	1	10	9	0	0	1	2	1	2	6	6
-GAA	7	4	9	12	0	4	8	6	3	8	10	7
-GAG	4	1	1	3	0	0	0	0	0	0	1	0
-GGT	1	3	16	0	0	1	1	0	1	1	3	3
-GGC	7	2	9	2	0	5	8	1	2	5	8	7
-GGA	3	6	20	5	0	2	7	4	1	12	21	13
-GGG	2	2	2	1	0	0	4	0	0	1	1	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009433387.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	6	12	13	0	4	10	7	1	2	13	0	2	8	0	13	11	27	1	6	5	12	1	2	2	6	0	3	2	2	1	9	17	10	2	4	11	6	1	7	4	7	0	1	4	1	2	10	0	9	9	11	0	1	3	7	4	1	7	3	2	0	0	0	1
+1	ND2	YP_009433388.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	6	10	11	2	1	12	11	2	1	7	0	1	9	1	8	15	24	5	2	3	13	0	5	4	9	0	0	1	2	0	11	22	16	2	9	11	19	1	4	10	13	1	0	4	2	0	4	0	5	18	10	0	0	1	4	1	3	2	6	2	0	1	0	0
+2	COX1	YP_009433389.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	11	31	6	0	9	5	9	0	5	13	0	1	16	1	8	14	30	3	4	7	18	1	8	11	7	2	1	3	4	0	15	26	23	2	9	19	15	0	6	9	9	0	0	3	4	10	20	1	15	20	9	1	5	10	9	1	16	9	20	2	0	0	0	1
+3	COX2	YP_009433390.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	3	6	3	1	1	7	9	0	2	6	0	3	5	0	5	8	13	1	3	5	5	0	3	6	7	0	1	1	3	0	5	13	8	2	1	7	6	0	1	4	4	0	0	4	5	6	5	0	3	8	3	0	3	9	12	3	0	2	5	1	1	0	0	0
+4	ATP8	YP_009433391.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	1	2	1	0	1	1	3	0	0	0	0	0	4	1	1	1	4	0	4	3	1	0	0	0	2	0	0	0	0	0	1	3	3	1	4	6	0	0	2	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009433392.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	2	7	7	0	0	7	3	0	0	3	0	1	4	0	6	16	31	1	2	7	7	1	1	3	7	1	1	2	2	0	5	13	8	1	4	13	7	0	1	8	4	0	0	4	1	3	2	0	4	9	4	0	2	0	4	0	1	5	2	0	1	0	0	0
+6	COX3	YP_009433393.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	7	17	8	0	2	5	7	1	4	6	0	1	11	1	3	4	17	1	1	4	7	0	5	11	6	2	1	0	4	0	3	13	6	3	1	8	10	0	2	4	3	0	1	2	3	4	7	0	4	7	11	1	3	1	8	0	1	8	7	4	0	0	0	0
+7	ND3	YP_009433394.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	2	7	1	0	3	2	3	0	1	1	0	1	5	0	3	5	16	0	1	0	7	0	0	0	3	0	0	1	1	0	2	8	5	0	0	8	1	1	0	3	1	0	0	1	0	0	1	0	1	2	5	0	1	2	6	0	0	1	4	0	1	0	0	0
+8	ND4L	YP_009433395.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	1	4	2	0	1	3	5	0	1	1	2	1	1	0	3	2	14	1	1	0	1	0	0	6	2	0	0	0	2	0	1	1	6	1	2	1	3	1	0	3	0	0	0	4	0	1	2	0	4	3	3	0	0	1	3	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009433396.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	3	13	19	0	5	7	13	1	8	6	0	4	10	2	10	18	50	3	4	9	15	0	3	11	12	0	0	3	8	0	19	25	22	3	15	19	15	0	4	12	9	0	2	8	1	3	4	0	5	14	13	0	0	2	8	0	1	5	12	1	0	0	0	0
+10	ND5	YP_009433397.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	11	23	7	0	5	13	16	0	7	7	3	2	11	1	11	19	57	1	3	7	19	0	2	9	18	1	0	5	4	0	15	37	30	1	12	37	31	0	5	21	20	0	0	11	2	6	6	0	12	21	12	0	3	6	10	1	3	8	21	1	0	0	1	0
+11	CYTB	YP_009433398.1	Tringa semipalmata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	11	19	7	0	1	10	10	0	1	13	2	2	11	0	7	16	34	4	4	10	10	1	4	8	8	0	2	1	5	0	4	25	8	2	5	12	11	1	3	18	9	1	0	1	1	5	10	0	2	14	9	0	0	6	7	0	3	7	13	2	1	0	0	0

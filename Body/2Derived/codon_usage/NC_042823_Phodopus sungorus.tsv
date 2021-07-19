@@ -1,65 +1,13 @@
-	YP_009655122.1|ND1	YP_009655123.1|ND2	YP_009655124.1|COX1	YP_009655125.1|COX2	YP_009655126.1|ATP8	YP_009655127.1|ATP6	YP_009655128.1|COX3	YP_009655129.1|ND3	YP_009655130.1|ND4L	YP_009655131.1|ND4	YP_009655132.1|ND5	YP_009655134.1|CYTB
-TTT	11	7	17	5	1	5	6	7	2	8	16	12
-TTC	11	10	26	1	2	7	16	3	3	9	23	16
-TTA	13	8	12	8	3	8	7	12	5	15	27	16
-TTG	0	0	1	1	0	0	0	0	0	0	0	0
-TCT	3	5	7	5	1	3	2	1	2	8	11	3
-TCC	4	5	3	4	0	1	4	1	2	9	10	2
-TCA	15	15	18	5	7	6	10	4	5	14	17	14
-TCG	0	0	0	0	1	0	1	0	0	1	0	1
-TAT	7	6	11	3	2	1	6	1	2	4	10	6
-TAC	5	6	7	6	0	1	5	2	1	8	7	10
-TGT	1	0	1	2	0	0	0	0	1	0	2	1
-TGC	0	0	0	1	0	0	2	1	2	3	7	2
-TGA	9	8	15	5	3	3	12	4	0	12	9	11
-TGG	0	0	2	0	0	0	0	0	0	0	3	0
-CTT	5	5	14	5	2	10	10	3	2	14	16	6
-CTC	5	13	8	4	0	2	4	0	2	8	3	8
-CTA	29	29	22	12	4	17	14	10	10	41	48	23
-CTG	0	0	2	2	0	1	0	0	0	4	2	2
-CCT	1	2	4	3	2	3	2	1	1	4	7	2
-CCC	9	4	3	3	1	3	3	2	0	5	5	2
-CCA	12	13	20	8	3	7	5	3	1	11	15	16
-CCG	1	1	1	0	0	0	0	0	0	0	0	1
-CAT	3	0	6	2	1	5	6	0	1	1	5	5
-CAC	2	5	13	5	0	4	10	0	1	10	8	8
-CAA	6	9	5	6	5	6	7	2	2	11	15	5
-CAG	0	0	1	0	0	1	0	1	0	0	0	0
-CGT	1	0	2	1	0	1	0	0	0	0	0	0
-CGC	0	1	1	0	0	2	0	1	0	0	0	1
-CGA	7	2	5	5	0	2	5	0	1	9	9	7
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	12	23	27	14	2	16	6	2	3	35	45	16
-ATC	12	19	10	6	2	12	9	4	6	21	19	22
-ATA	22	24	26	15	2	16	5	6	8	34	32	16
-ATG	0	2	5	1	1	2	3	0	1	1	2	2
-ACT	5	6	6	5	1	4	1	0	3	10	17	3
-ACC	5	13	4	3	0	6	5	3	2	10	15	6
-ACA	14	22	27	8	3	13	15	8	2	19	30	18
-ACG	1	0	0	0	2	0	0	0	0	2	3	0
-AAT	5	6	7	2	2	2	6	2	4	17	12	6
-AAC	8	17	9	8	3	6	3	2	1	5	23	11
-AAA	7	12	10	4	5	6	4	3	1	12	23	9
-AAG	0	1	0	0	0	0	0	1	0	2	1	0
-AGT	1	2	1	2	0	0	0	0	0	3	2	0
-AGC	2	1	2	2	0	3	3	2	0	6	9	1
-GTT	1	0	5	3	1	1	1	0	1	2	1	3
-GTC	2	1	3	0	0	1	1	1	0	2	4	5
-GTA	8	4	28	10	0	8	13	3	6	10	11	14
-GTG	2	0	3	0	0	0	1	0	0	1	1	0
-GCT	5	3	11	3	1	4	3	3	1	5	8	8
-GCC	10	8	15	2	1	7	8	2	2	11	14	7
-GCA	9	10	16	3	1	5	5	3	4	12	12	11
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	0	4	2	0	0	3	2	0	2	2	1
-GAC	3	0	12	8	1	1	1	0	1	4	8	11
-GAA	9	4	8	14	1	2	7	6	1	7	10	5
-GAG	2	1	2	2	0	1	0	0	1	0	0	1
-GGT	2	4	11	1	0	2	3	0	1	3	4	4
-GGC	4	2	6	2	0	2	6	1	0	1	8	6
-GGA	5	5	23	4	0	5	11	2	3	11	12	12
-GGG	1	0	6	1	0	2	1	0	0	2	3	2
-TAA	0	0	1	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009655122.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	11	11	13	0	3	4	15	0	7	5	1	0	9	0	5	5	29	0	1	9	12	1	3	2	6	0	1	0	7	0	12	12	22	0	5	5	14	1	5	8	7	0	1	2	1	2	8	2	5	10	9	0	1	3	9	2	2	4	5	1	0	0	0	0
+1	ND2	YP_009655123.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	7	10	8	0	5	5	15	0	6	6	0	0	8	0	5	13	29	0	2	4	13	1	0	5	9	0	0	1	2	0	23	19	24	2	6	13	22	0	6	17	12	1	2	1	0	1	4	0	3	8	10	0	0	0	4	1	4	2	5	0	0	0	0	0
+2	COX1	YP_009655124.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	17	26	12	1	7	3	18	0	11	7	1	0	15	2	14	8	22	2	4	3	20	1	6	13	5	1	2	1	5	0	27	10	26	5	6	4	27	0	7	9	10	0	1	2	5	3	28	3	11	15	16	0	4	12	8	2	11	6	23	6	1	0	0	0
+3	COX2	YP_009655125.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	5	1	8	1	5	4	5	0	3	6	2	1	5	0	5	4	12	2	3	3	8	0	2	5	6	0	1	0	5	0	14	6	15	1	5	3	8	0	2	8	4	0	2	2	3	0	10	0	3	2	3	0	2	8	14	2	1	2	4	1	1	0	0	0
+4	ATP8	YP_009655126.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	1	2	3	0	1	0	7	1	2	0	0	0	3	0	2	0	4	0	2	1	3	0	1	0	5	0	0	0	0	0	2	2	2	1	1	0	3	2	2	3	5	0	0	0	1	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009655127.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	5	7	8	0	3	1	6	0	1	1	0	0	3	0	10	2	17	1	3	3	7	0	5	4	6	1	1	2	2	0	16	12	16	2	4	6	13	0	2	6	6	0	0	3	1	1	8	0	4	7	5	0	0	1	2	1	2	2	5	2	1	0	0	0
+6	COX3	YP_009655128.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	6	16	7	0	2	4	10	1	6	5	0	2	12	0	10	4	14	0	2	3	5	0	6	10	7	0	0	0	5	0	6	9	5	3	1	5	15	0	6	3	4	0	0	3	1	1	13	1	3	8	5	0	3	1	7	0	3	6	11	1	0	0	0	0
+7	ND3	YP_009655129.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	7	3	12	0	1	1	4	0	1	2	0	1	4	0	3	0	10	0	1	2	3	0	0	0	2	1	0	1	0	0	2	4	6	0	0	3	8	0	2	2	3	1	0	2	0	1	3	0	3	2	3	0	2	0	6	0	0	1	2	0	1	0	0	0
+8	ND4L	YP_009655130.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	2	3	5	0	2	2	5	0	2	1	1	2	0	0	2	2	10	0	1	0	1	0	1	1	2	0	0	0	1	0	3	6	8	1	3	2	2	0	4	1	1	0	0	0	1	0	6	0	1	2	4	0	0	1	1	1	1	0	3	0	1	0	0	0
+9	ND4	YP_009655131.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	8	9	15	0	8	9	14	1	4	8	0	3	12	0	14	8	41	4	4	5	11	0	1	10	11	0	0	0	9	0	35	21	34	1	10	10	19	2	17	5	12	2	3	6	2	2	10	1	5	11	12	0	2	4	7	0	3	1	11	2	0	0	0	0
+10	ND5	YP_009655132.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	16	23	27	0	11	10	17	0	10	7	2	7	9	3	16	3	48	2	7	5	15	0	5	8	15	0	0	0	9	0	45	19	32	2	17	15	30	3	12	23	23	1	2	9	1	4	11	1	8	14	12	0	2	8	10	0	4	8	12	3	1	0	0	0
+11	CYTB	YP_009655134.1	Phodopus sungorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Cricetinae, Phodopus	12	16	16	0	3	2	14	1	6	10	1	2	11	0	6	8	23	2	2	2	16	1	5	8	5	0	0	1	7	0	16	22	16	2	3	6	18	0	6	11	9	0	0	1	3	5	14	0	8	7	11	0	1	11	5	1	4	6	12	2	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_009512505.1|COX2	YP_009512506.1|ATP8	YP_009512507.1|ATP6	YP_009512508.1|ND1	YP_009512509.1|ND6	YP_009512510.1|CYTB	YP_009512511.1|ND4L	YP_009512512.1|ND4	YP_009512513.1|ND5	YP_009512514.1|COX3	YP_009512515.1|ND3	YP_009512516.1|ND2
-TTT	11	6	18	28	12	26	7	29	36	22	13	24
-TTC	1	0	3	5	2	9	1	9	14	3	1	2
-TTA	13	5	20	17	11	28	10	36	36	13	8	30
-TTG	7	1	5	12	7	3	2	10	7	5	5	18
-TCT	6	4	14	7	5	10	2	13	16	5	7	13
-TCC	1	0	2	4	2	1	1	4	10	2	0	3
-TCA	2	1	5	9	4	4	2	13	12	3	0	1
-TCG	1	0	0	0	1	0	0	3	3	1	1	1
-TAT	8	0	4	14	8	17	1	11	7	11	0	11
-TAC	1	0	3	1	1	3	2	3	6	0	0	0
-TGT	3	0	1	3	2	2	2	1	7	3	1	7
-TGC	1	0	0	1	0	1	1	3	0	1	0	0
-TGA	6	4	1	4	1	6	0	10	8	8	3	8
-TGG	0	2	3	3	0	7	0	5	3	6	0	3
-CTT	2	1	7	13	5	10	4	13	21	9	4	9
-CTC	2	0	1	3	0	3	1	5	6	1	1	3
-CTA	1	0	3	3	7	9	2	17	16	2	2	7
-CTG	1	0	3	4	1	2	0	1	3	2	1	4
-CCT	5	2	2	6	4	10	0	3	5	5	2	7
-CCC	2	0	1	1	0	3	0	4	2	3	2	2
-CCA	4	0	7	4	1	5	0	8	5	2	0	0
-CCG	1	0	1	1	1	3	0	2	8	1	0	2
-CAT	4	1	2	0	3	6	0	3	5	10	1	3
-CAC	2	0	2	0	1	7	1	6	4	3	0	1
-CAA	5	0	1	2	0	6	1	6	13	4	0	3
-CAG	2	1	3	3	1	3	2	3	2	2	1	3
-CGT	2	1	1	1	0	4	0	2	2	1	2	0
-CGC	0	0	0	3	1	1	1	1	1	1	0	0
-CGA	2	0	0	1	0	2	0	2	2	1	0	1
-CGG	2	0	3	2	0	1	0	0	0	2	2	1
-ATT	17	2	21	21	12	22	7	27	28	11	12	13
-ATC	0	0	3	1	4	5	3	7	13	2	0	6
-ATA	5	0	5	8	13	5	3	22	28	4	2	14
-ATG	5	1	6	2	2	6	1	9	12	2	1	8
-ACT	7	0	2	1	2	6	3	11	11	3	1	5
-ACC	1	0	2	2	1	3	1	2	10	4	0	2
-ACA	0	2	4	5	3	8	3	6	8	6	2	2
-ACG	0	0	2	1	1	0	0	0	1	2	0	1
-AAT	6	2	7	7	1	10	2	9	12	3	2	10
-AAC	2	1	2	1	2	4	1	5	7	0	0	0
-AAA	4	2	0	10	5	5	2	11	14	0	2	8
-AAG	1	1	1	1	0	3	0	3	10	1	1	5
-AGT	3	0	3	3	0	2	1	8	4	2	3	3
-AGC	0	0	3	2	2	0	1	5	4	1	0	0
-AGA	3	2	4	2	0	4	4	11	12	2	4	12
-AGG	0	1	0	5	1	1	2	4	6	2	2	6
-GTT	14	4	9	7	6	11	2	5	15	12	1	15
-GTC	1	0	1	6	1	5	0	4	6	3	1	0
-GTA	6	3	7	5	1	14	1	6	10	2	3	8
-GTG	4	0	2	2	4	1	0	6	5	4	3	7
-GCT	7	0	4	15	5	10	2	10	14	11	3	6
-GCC	0	0	2	5	3	7	2	8	10	3	0	3
-GCA	3	0	3	6	2	8	4	11	12	4	2	4
-GCG	3	0	1	4	1	2	0	0	3	1	0	0
-GAT	8	0	3	2	1	6	2	0	9	4	3	5
-GAC	2	0	2	2	1	3	0	3	5	0	1	0
-GAA	7	2	1	13	2	6	1	8	6	4	4	6
-GAG	8	0	2	0	0	1	1	2	1	5	1	5
-GGT	3	1	5	5	4	5	2	1	5	10	3	12
-GGC	1	0	4	3	1	5	2	5	4	3	1	1
-GGA	3	0	4	5	1	9	1	14	16	10	1	8
-GGG	6	0	0	6	3	10	1	2	8	6	1	10
-TAA	1	1	1	1	1	1	0	1	0	0	0	0
-TAG	0	0	0	0	0	0	1	0	1	1	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_009512505.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	11	1	13	7	6	1	2	1	8	1	3	1	6	0	2	2	1	1	5	2	4	1	4	2	5	2	2	0	2	2	17	0	5	5	7	1	0	0	6	2	4	1	3	0	3	0	14	1	6	4	7	0	3	3	8	2	7	8	3	1	3	6	1	0
+1	ATP8	YP_009512506.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	6	0	5	1	4	0	1	0	0	0	0	0	4	2	1	0	0	0	2	0	0	0	1	0	0	1	1	0	0	0	2	0	0	1	0	0	2	0	2	1	2	1	0	0	2	1	4	0	3	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0
+2	ATP6	YP_009512507.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	18	3	20	5	14	2	5	0	4	3	1	0	1	3	7	1	3	3	2	1	7	1	2	2	1	3	1	0	0	3	21	3	5	6	2	2	4	2	7	2	0	1	3	3	4	0	9	1	7	2	4	2	3	1	3	2	1	2	5	4	4	0	1	0
+3	ND1	YP_009512508.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	28	5	17	12	7	4	9	0	14	1	3	1	4	3	13	3	3	4	6	1	4	1	0	0	2	3	1	3	1	2	21	1	8	2	1	2	5	1	7	1	10	1	3	2	2	5	7	6	5	2	15	5	6	4	2	2	13	0	5	3	5	6	1	0
+4	ND6	YP_009512509.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	12	2	11	7	5	2	4	1	8	1	2	0	1	0	5	0	7	1	4	0	1	1	3	1	0	1	0	1	0	0	12	4	13	2	2	1	3	1	1	2	5	0	0	2	0	1	6	1	1	4	5	3	2	1	1	1	2	0	4	1	1	3	1	0
+5	CYTB	YP_009512510.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	26	9	28	3	10	1	4	0	17	3	2	1	6	7	10	3	9	2	10	3	5	3	6	7	6	3	4	1	2	1	22	5	5	6	6	3	8	0	10	4	5	3	2	0	4	1	11	5	14	1	10	7	8	2	6	3	6	1	5	5	9	10	1	0
+6	ND4L	YP_009512511.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	7	1	10	2	2	1	2	0	1	2	2	1	0	0	4	1	2	0	0	0	0	0	0	1	1	2	0	1	0	0	7	3	3	1	3	1	3	0	2	1	2	0	1	1	4	2	2	0	1	0	2	2	4	0	2	0	1	1	2	2	1	1	0	1
+7	ND4	YP_009512512.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	29	9	36	10	13	4	13	3	11	3	1	3	10	5	13	5	17	1	3	4	8	2	3	6	6	3	2	1	2	0	27	7	22	9	11	2	6	0	9	5	11	3	8	5	11	4	5	4	6	6	10	8	11	0	0	3	8	2	1	5	14	2	1	0
+8	ND5	YP_009512513.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	36	14	36	7	16	10	12	3	7	6	7	0	8	3	21	6	16	3	5	2	5	8	5	4	13	2	2	1	2	0	28	13	28	12	11	10	8	1	12	7	14	10	4	4	12	6	15	6	10	5	14	10	12	3	9	5	6	1	5	4	16	8	0	1
+9	COX3	YP_009512514.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	22	3	13	5	5	2	3	1	11	0	3	1	8	6	9	1	2	2	5	3	2	1	10	3	4	2	1	1	1	2	11	2	4	2	3	4	6	2	3	0	0	1	2	1	2	2	12	3	2	4	11	3	4	1	4	0	4	5	10	3	10	6	0	1
+10	ND3	YP_009512515.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	13	1	8	5	7	0	0	1	0	0	1	0	3	0	4	1	2	1	2	2	0	0	1	0	0	1	2	0	0	2	12	0	2	1	1	0	2	0	2	0	2	1	3	0	4	2	1	1	3	3	3	0	2	0	3	1	4	1	3	1	1	1	0	1
+11	ND2	YP_009512516.1	Chicoreus torrefactus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Muricoidea, Muricidae, Chicoreus	24	2	30	18	13	3	1	1	11	0	7	0	8	3	9	3	7	4	7	2	0	2	3	1	3	3	0	0	1	1	13	6	14	8	5	2	2	1	10	0	8	5	3	0	12	6	15	0	8	7	6	3	4	0	5	0	6	5	12	1	8	10	0	1

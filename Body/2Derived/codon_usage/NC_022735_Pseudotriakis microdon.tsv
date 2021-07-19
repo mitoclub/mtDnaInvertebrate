@@ -1,65 +1,13 @@
-	YP_008758498.1|ND1	YP_008758499.1|ND2	YP_008758500.1|COX1	YP_008758501.2|COX2	YP_008758502.1|ATP8	YP_008758503.1|ATP6	YP_008758504.1|COX3	YP_008758505.1|ND3	YP_008758506.1|ND4L	YP_008758507.2|ND4	YP_008758508.1|ND5	YP_008758510.1|CYTB
-TTT	16	11	29	4	4	11	14	7	4	16	29	23
-TTC	4	4	12	4	0	3	8	2	1	6	16	15
-TTA	24	26	24	13	6	29	10	10	8	34	32	20
-TTG	2	0	2	0	0	2	0	0	0	2	4	2
-TCT	4	5	11	4	1	1	0	2	4	9	5	7
-TCC	5	7	6	1	0	2	3	2	5	9	11	6
-TCA	7	13	11	7	1	2	7	2	4	8	18	12
-TCG	1	0	0	0	0	0	0	0	0	0	2	0
-TAT	9	7	12	9	0	2	12	1	1	14	7	10
-TAC	5	2	5	1	0	2	1	1	0	1	5	3
-TGT	0	1	1	1	0	0	1	1	2	0	2	4
-TGC	0	0	0	1	0	0	1	0	1	4	3	0
-TGA	8	8	17	5	5	5	12	4	1	20	14	10
-TGG	0	2	0	0	0	0	0	1	0	0	0	2
-CTT	14	18	23	8	0	10	13	9	5	17	30	14
-CTC	5	12	7	2	0	2	3	3	3	13	14	8
-CTA	20	21	6	2	2	8	7	7	4	18	24	12
-CTG	0	0	1	0	0	2	2	1	0	1	1	1
-CCT	3	5	7	3	5	7	1	2	2	5	9	3
-CCC	7	7	6	3	2	2	4	0	0	5	2	7
-CCA	13	7	16	7	1	6	8	6	0	13	16	10
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	1	1	11	2	0	0	7	0	1	7	4	5
-CAC	2	4	8	8	1	3	9	0	1	5	11	7
-CAA	5	7	7	9	1	9	7	2	2	10	19	7
-CAG	1	1	3	0	0	0	1	0	0	1	2	1
-CGT	2	0	2	2	0	1	2	1	0	2	2	1
-CGC	2	1	0	1	0	0	0	1	1	0	3	3
-CGA	4	4	7	3	0	4	3	0	1	9	4	3
-CGG	0	0	0	0	0	0	0	0	0	0	0	1
-ATT	20	30	36	20	4	18	13	7	7	46	53	34
-ATC	8	3	6	3	1	3	2	2	1	8	10	7
-ATA	13	11	22	11	1	9	6	1	6	22	25	12
-ATG	1	3	3	2	1	1	1	1	1	3	4	1
-ACT	4	10	10	3	3	9	5	0	0	8	15	6
-ACC	10	8	8	5	1	6	3	2	3	11	18	7
-ACA	9	23	15	6	0	7	13	2	2	18	16	7
-ACG	2	0	0	0	0	0	0	2	0	0	0	0
-AAT	8	6	9	4	4	8	1	4	4	10	25	15
-AAC	5	9	6	0	2	2	1	0	1	9	12	6
-AAA	6	8	9	3	4	1	2	1	0	10	25	8
-AAG	1	2	0	1	0	0	0	0	0	1	0	1
-AGT	1	1	1	2	2	2	2	1	1	1	4	1
-AGC	3	3	3	1	0	2	2	1	4	7	6	2
-GTT	4	2	17	6	0	5	6	1	1	4	7	2
-GTC	1	0	2	4	0	0	3	0	0	3	3	2
-GTA	5	6	18	8	1	7	8	0	0	3	7	13
-GTG	0	0	4	1	0	1	0	1	0	0	1	1
-GCT	5	6	14	4	0	5	5	4	3	8	10	5
-GCC	11	11	12	4	0	7	8	2	3	14	13	10
-GCA	11	6	17	5	0	7	8	4	3	10	14	7
-GCG	0	0	1	0	0	0	0	1	0	0	0	0
-GAT	3	0	7	6	1	0	2	2	1	3	9	7
-GAC	0	1	7	6	0	1	3	0	0	1	4	1
-GAA	9	5	11	13	1	4	10	6	2	10	9	6
-GAG	2	1	0	3	0	0	0	0	0	0	2	0
-GGT	0	6	14	1	0	3	3	1	1	5	13	5
-GGC	6	5	10	3	0	2	6	1	2	4	3	6
-GGA	9	7	18	5	0	3	10	4	1	7	9	11
-GGG	3	1	3	0	0	1	2	0	0	5	3	1
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008758498.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	16	4	24	2	4	5	7	1	9	5	0	0	8	0	14	5	20	0	3	7	13	0	1	2	5	1	2	2	4	0	20	8	13	1	4	10	9	2	8	5	6	1	1	3	4	1	5	0	5	11	11	0	3	0	9	2	0	6	9	3	1	0	0	0
+1	ND2	YP_008758499.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	11	4	26	0	5	7	13	0	7	2	1	0	8	2	18	12	21	0	5	7	7	0	1	4	7	1	0	1	4	0	30	3	11	3	10	8	23	0	6	9	8	2	1	3	2	0	6	0	6	11	6	0	0	1	5	1	6	5	7	1	0	0	0	0
+2	COX1	YP_008758500.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	29	12	24	2	11	6	11	0	12	5	1	0	17	0	23	7	6	1	7	6	16	1	11	8	7	3	2	0	7	0	36	6	22	3	10	8	15	0	9	6	9	0	1	3	17	2	18	4	14	12	17	1	7	7	11	0	14	10	18	3	1	0	0	0
+3	COX2	YP_008758501.2	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	4	4	13	0	4	1	7	0	9	1	1	1	5	0	8	2	2	0	3	3	7	0	2	8	9	0	2	1	3	0	20	3	11	2	3	5	6	0	4	0	3	1	2	1	6	4	8	1	4	4	5	0	6	6	13	3	1	3	5	0	0	0	0	0
+4	ATP8	YP_008758502.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	4	0	6	0	1	0	1	0	0	0	0	0	5	0	0	0	2	0	5	2	1	0	0	1	1	0	0	0	0	0	4	1	1	1	3	1	0	0	4	2	4	0	2	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008758503.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	11	3	29	2	1	2	2	0	2	2	0	0	5	0	10	2	8	2	7	2	6	0	0	3	9	0	1	0	4	0	18	3	9	1	9	6	7	0	8	2	1	0	2	2	5	0	7	1	5	7	7	0	0	1	4	0	3	2	3	1	1	0	0	0
+6	COX3	YP_008758504.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	14	8	10	0	0	3	7	0	12	1	1	1	12	0	13	3	7	2	1	4	8	0	7	9	7	1	2	0	3	0	13	2	6	1	5	3	13	0	1	1	2	0	2	2	6	3	8	0	5	8	8	0	2	3	10	0	3	6	10	2	1	0	0	0
+7	ND3	YP_008758505.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	7	2	10	0	2	2	2	0	1	1	1	0	4	1	9	3	7	1	2	0	6	0	0	0	2	0	1	1	0	0	7	2	1	1	0	2	2	2	4	0	1	0	1	1	1	0	0	1	4	2	4	1	2	0	6	0	1	1	4	0	0	0	0	0
+8	ND4L	YP_008758506.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	4	1	8	0	4	5	4	0	1	0	2	1	1	0	5	3	4	0	2	0	0	0	1	1	2	0	0	1	1	0	7	1	6	1	0	3	2	0	4	1	0	0	1	4	1	0	0	0	3	3	3	0	1	0	2	0	1	2	1	0	1	0	0	0
+9	ND4	YP_008758507.2	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	16	6	34	2	9	9	8	0	14	1	0	4	20	0	17	13	18	1	5	5	13	0	7	5	10	1	2	0	9	0	46	8	22	3	8	11	18	0	10	9	10	1	1	7	4	3	3	0	8	14	10	0	3	1	10	0	5	4	7	5	0	0	0	0
+10	ND5	YP_008758508.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	29	16	32	4	5	11	18	2	7	5	2	3	14	0	30	14	24	1	9	2	16	0	4	11	19	2	2	3	4	0	53	10	25	4	15	18	16	0	25	12	25	0	4	6	7	3	7	1	10	13	14	0	9	4	9	2	13	3	9	3	1	0	0	0
+11	CYTB	YP_008758510.1	Pseudotriakis microdon	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Pseudotriakidae, Pseudotriakis	23	15	20	2	7	6	12	0	10	3	4	0	10	2	14	8	12	1	3	7	10	0	5	7	7	1	1	3	3	1	34	7	12	1	6	7	7	0	15	6	8	1	1	2	2	2	13	1	5	10	7	0	7	1	6	0	5	6	11	1	0	0	0	0

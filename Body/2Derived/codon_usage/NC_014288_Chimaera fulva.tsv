@@ -1,65 +1,13 @@
-	YP_003735079.1|ND1	YP_003735080.1|ND2	YP_003735081.1|COX1	YP_003735082.1|COX2	YP_003735083.1|ATP8	YP_003735084.1|ATP6	YP_003735085.1|COX3	YP_003735086.1|ND3	YP_003735087.1|ND4L	YP_003735088.1|ND4	YP_003735089.1|ND5	YP_003735091.1|CYTB
-TTT	10	10	18	3	2	7	9	6	5	8	23	17
-TTC	6	5	23	6	2	3	12	4	1	11	17	15
-TTA	12	21	17	5	3	13	8	7	9	35	32	12
-TTG	0	1	1	1	0	0	0	1	1	2	1	0
-TCT	8	1	13	4	1	1	5	2	2	11	10	5
-TCC	7	6	5	3	0	5	2	3	3	16	12	10
-TCA	6	8	7	5	1	1	6	0	2	2	8	6
-TCG	1	1	1	0	0	0	1	0	0	0	0	0
-TAT	6	1	9	3	0	2	6	1	2	6	11	9
-TAC	6	6	7	6	0	1	5	1	2	6	8	3
-TGT	0	0	0	1	0	0	0	1	3	4	4	1
-TGC	1	0	1	1	0	1	2	1	1	1	3	2
-TGA	5	7	15	4	5	5	13	4	1	18	11	13
-TGG	3	3	2	1	0	0	0	0	0	1	2	0
-CTT	9	13	15	6	2	16	7	8	3	20	24	10
-CTC	10	7	8	7	0	9	6	1	3	10	18	17
-CTA	35	25	23	10	2	19	11	8	7	19	28	21
-CTG	1	2	2	0	0	1	2	2	0	4	2	2
-CCT	6	6	9	2	3	10	4	4	2	9	15	7
-CCC	12	7	13	8	1	2	4	2	0	6	6	8
-CCA	4	7	6	3	3	3	3	2	0	7	4	5
-CCG	1	0	1	0	1	1	1	1	0	0	1	0
-CAT	1	3	9	4	1	3	8	0	2	6	6	6
-CAC	3	3	12	6	0	0	7	0	1	6	6	5
-CAA	5	12	8	9	1	8	9	3	3	9	14	7
-CAG	1	0	0	1	0	1	0	0	0	1	2	1
-CGT	2	1	3	3	0	0	1	1	0	6	1	3
-CGC	3	0	1	2	0	1	0	1	1	1	5	0
-CGA	3	2	4	1	0	2	4	0	1	4	3	5
-CGG	0	0	0	0	0	1	0	0	0	0	0	0
-ATT	14	12	29	10	4	4	11	9	1	23	23	13
-ATC	13	25	12	14	2	10	5	2	2	16	36	23
-ATA	13	20	24	9	1	13	8	3	3	27	29	12
-ATG	3	3	4	1	1	1	2	1	1	2	3	2
-ACT	4	9	9	3	2	5	5	3	1	8	11	6
-ACC	7	9	15	2	2	8	6	2	3	17	17	11
-ACA	7	24	15	9	0	10	11	1	6	14	19	10
-ACG	0	2	0	0	0	0	1	0	0	0	0	0
-AAT	5	6	7	4	4	3	1	1	3	14	21	10
-AAC	6	10	10	3	6	8	2	1	3	6	20	12
-AAA	7	10	9	4	3	2	2	2	0	11	30	8
-AAG	0	0	1	0	1	0	0	0	0	0	1	1
-AGT	3	2	1	2	0	1	2	1	3	3	4	2
-AGC	2	4	2	2	0	5	2	0	0	5	7	1
-GTT	5	1	9	2	0	3	4	1	0	2	6	3
-GTC	2	0	5	3	0	3	3	0	1	3	8	4
-GTA	7	3	18	9	0	7	8	2	1	11	5	13
-GTG	1	0	4	2	0	0	1	0	0	0	2	1
-GCT	3	7	8	3	1	6	0	1	4	9	7	6
-GCC	15	13	20	4	0	4	11	5	2	17	18	10
-GCA	8	6	12	5	0	6	6	2	3	6	10	3
-GCG	0	0	1	0	0	0	1	0	0	1	0	0
-GAT	3	0	6	6	0	0	4	1	0	1	6	4
-GAC	1	1	9	5	0	1	1	2	0	5	7	5
-GAA	11	6	7	12	0	4	8	5	1	7	11	5
-GAG	0	1	2	2	0	0	1	1	1	2	0	1
-GGT	1	1	8	1	0	1	3	0	2	2	4	1
-GGC	5	4	12	1	0	1	5	3	1	4	8	9
-GGA	8	9	23	6	0	5	9	3	1	9	14	11
-GGG	2	1	4	1	0	0	2	0	0	4	4	4
-TAA	1	0	0	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003735079.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	10	6	12	0	8	7	6	1	6	6	0	1	5	3	9	10	35	1	6	12	4	1	1	3	5	1	2	3	3	0	14	13	13	3	4	7	7	0	5	6	7	0	3	2	5	2	7	1	3	15	8	0	3	1	11	0	1	5	8	2	1	0	0	0
+1	ND2	YP_003735080.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	10	5	21	1	1	6	8	1	1	6	0	0	7	3	13	7	25	2	6	7	7	0	3	3	12	0	1	0	2	0	12	25	20	3	9	9	24	2	6	10	10	0	2	4	1	0	3	0	7	13	6	0	0	1	6	1	1	4	9	1	0	0	0	0
+2	COX1	YP_003735081.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	18	23	17	1	13	5	7	1	9	7	0	1	15	2	15	8	23	2	9	13	6	1	9	12	8	0	3	1	4	0	29	12	24	4	9	15	15	0	7	10	9	1	1	2	9	5	18	4	8	20	12	1	6	9	7	2	8	12	23	4	0	0	0	1
+3	COX2	YP_003735082.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	3	6	5	1	4	3	5	0	3	6	1	1	4	1	6	7	10	0	2	8	3	0	4	6	9	1	3	2	1	0	10	14	9	1	3	2	9	0	4	3	4	0	2	2	2	3	9	2	3	4	5	0	6	5	12	2	1	1	6	1	0	0	0	0
+4	ATP8	YP_003735083.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	2	2	3	0	1	0	1	0	0	0	0	0	5	0	2	0	2	0	3	1	3	1	1	0	1	0	0	0	0	0	4	2	1	1	2	2	0	0	4	6	3	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003735084.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	7	3	13	0	1	5	1	0	2	1	0	1	5	0	16	9	19	1	10	2	3	1	3	0	8	1	0	1	2	1	4	10	13	1	5	8	10	0	3	8	2	0	1	5	3	3	7	0	6	4	6	0	0	1	4	0	1	1	5	0	1	0	0	0
+6	COX3	YP_003735085.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	9	12	8	0	5	2	6	1	6	5	0	2	13	0	7	6	11	2	4	4	3	1	8	7	9	0	1	0	4	0	11	5	8	2	5	6	11	1	1	2	2	0	2	2	4	3	8	1	0	11	6	1	4	1	8	1	3	5	9	2	1	0	0	0
+7	ND3	YP_003735086.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	6	4	7	1	2	3	0	0	1	1	1	1	4	0	8	1	8	2	4	2	2	1	0	0	3	0	1	1	0	0	9	2	3	1	3	2	1	0	1	1	2	0	1	0	1	0	2	0	1	5	2	0	1	2	5	1	0	3	3	0	0	0	0	0
+8	ND4L	YP_003735087.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	5	1	9	1	2	3	2	0	2	2	3	1	1	0	3	3	7	0	2	0	0	0	2	1	3	0	0	1	1	0	1	2	3	1	1	3	6	0	3	3	0	0	3	0	0	1	1	0	4	2	3	0	0	0	1	1	2	1	1	0	1	0	0	0
+9	ND4	YP_003735088.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	8	11	35	2	11	16	2	0	6	6	4	1	18	1	20	10	19	4	9	6	7	0	6	6	9	1	6	1	4	0	23	16	27	2	8	17	14	0	14	6	11	0	3	5	2	3	11	0	9	17	6	1	1	5	7	2	2	4	9	4	0	0	0	0
+10	ND5	YP_003735089.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	23	17	32	1	10	12	8	0	11	8	4	3	11	2	24	18	28	2	15	6	4	1	6	6	14	2	1	5	3	0	23	36	29	3	11	17	19	0	21	20	30	1	4	7	6	8	5	2	7	18	10	0	6	7	11	0	4	8	14	4	1	0	0	0
+11	CYTB	YP_003735091.1	Chimaera fulva	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Holocephali, Chimaeriformes, Chimaeridae, Chimaera	17	15	12	0	5	10	6	0	9	3	1	2	13	0	10	17	21	2	7	8	5	0	6	5	7	1	3	0	5	0	13	23	12	2	6	11	10	0	10	12	8	1	2	1	3	4	13	1	6	10	3	0	4	5	5	1	1	9	11	4	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_001661381.1|ND1	YP_001661382.1|ND2	YP_001661383.1|COX1	YP_001661384.1|COX2	YP_001661385.1|ATP8	YP_001661386.1|ATP6	YP_001661387.1|COX3	YP_001661388.1|ND3	YP_001661389.1|ND4L	YP_001661390.1|ND4	YP_001661391.1|ND5	YP_001661393.1|CYTB
-TTT	8	4	13	1	1	4	8	1	2	8	15	6
-TTC	12	7	29	5	4	6	15	8	3	11	30	17
-TTA	4	6	5	6	1	8	2	4	2	9	10	6
-TTG	1	2	0	3	1	4	2	0	0	3	1	3
-TCT	3	4	10	2	2	3	5	0	1	8	6	2
-TCC	5	12	4	7	1	3	6	1	6	4	12	9
-TCA	10	13	12	7	2	5	5	2	3	17	18	13
-TCG	1	1	3	0	0	0	2	1	0	1	1	0
-TAT	7	4	7	5	2	3	7	1	1	7	6	3
-TAC	5	7	12	5	1	2	5	3	2	6	13	14
-TGT	0	0	0	1	0	0	0	1	2	2	2	1
-TGC	3	0	1	1	0	0	2	0	2	2	2	3
-TGA	7	7	16	5	3	3	10	4	0	11	10	11
-TGG	2	3	1	0	0	0	2	0	0	2	2	1
-CTT	6	7	8	2	1	7	6	2	4	14	12	7
-CTC	8	15	11	7	0	5	6	6	5	21	21	17
-CTA	33	31	26	12	6	14	11	10	11	37	38	32
-CTG	4	7	11	5	0	7	4	4	2	8	11	1
-CCT	4	4	8	2	4	3	1	1	0	4	3	3
-CCC	5	8	8	3	3	4	4	2	1	8	7	6
-CCA	12	8	10	9	0	5	6	3	1	10	15	12
-CCG	2	0	1	1	0	1	0	0	0	0	3	2
-CAT	0	0	7	6	0	2	6	0	1	3	2	3
-CAC	4	2	10	1	0	2	11	0	2	10	19	10
-CAA	5	7	6	5	3	6	7	3	2	11	12	5
-CAG	1	1	1	2	0	2	1	0	0	2	3	1
-CGT	1	1	2	0	0	2	1	0	0	1	2	2
-CGC	1	1	1	1	0	2	1	0	1	1	3	1
-CGA	4	1	4	5	0	2	3	1	1	5	2	4
-CGG	2	0	1	0	0	0	0	0	0	3	2	1
-ATT	14	7	15	12	2	11	7	5	4	23	16	14
-ATC	12	31	22	7	2	15	8	3	2	22	36	27
-ATA	17	26	18	11	1	7	6	6	8	24	26	6
-ATG	2	9	12	5	2	4	3	0	2	9	9	2
-ACT	4	7	10	7	4	3	4	2	0	7	10	3
-ACC	14	16	7	3	3	9	5	4	1	21	23	13
-ACA	5	4	16	4	4	9	9	1	1	13	19	10
-ACG	0	2	4	2	2	1	2	2	0	0	3	1
-AAT	4	7	7	1	1	4	0	0	1	3	6	2
-AAC	8	14	11	4	2	5	6	4	4	13	18	13
-AAA	7	9	8	4	3	2	3	3	0	10	17	9
-AAG	1	1	1	0	0	2	0	0	0	1	4	0
-AGT	1	0	0	1	0	1	1	0	0	2	4	0
-AGC	2	4	3	3	1	2	2	2	0	8	8	3
-GTT	4	1	10	4	2	4	1	0	1	7	4	1
-GTC	3	0	14	2	1	2	4	0	1	2	6	8
-GTA	5	4	11	4	0	4	10	1	1	4	8	7
-GTG	2	1	5	0	0	2	2	1	2	0	3	0
-GCT	5	4	9	3	0	5	4	2	2	5	13	2
-GCC	15	8	25	4	0	7	8	6	2	18	23	11
-GCA	7	7	4	2	0	6	4	4	2	6	7	7
-GCG	1	0	2	0	0	0	1	0	1	1	4	1
-GAT	1	0	7	6	1	0	2	1	0	0	4	1
-GAC	2	2	7	7	0	2	1	1	1	4	7	11
-GAA	9	5	8	13	1	2	5	5	1	7	7	4
-GAG	2	0	2	1	0	1	3	1	1	1	4	2
-GGT	1	2	12	2	0	1	5	0	1	4	5	3
-GGC	4	4	12	2	0	6	8	2	2	7	13	9
-GGA	3	9	16	2	0	3	5	0	2	7	10	9
-GGG	3	0	7	2	0	1	3	1	0	1	3	4
-TAA	0	0	0	1	1	0	0	0	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001661381.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	8	12	4	1	3	5	10	1	7	5	0	3	7	2	6	8	33	4	4	5	12	2	0	4	5	1	1	1	4	2	14	12	17	2	4	14	5	0	4	8	7	1	1	2	4	3	5	2	5	15	7	1	1	2	9	2	1	4	3	3	0	0	0	0
+1	ND2	YP_001661382.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	4	7	6	2	4	12	13	1	4	7	0	0	7	3	7	15	31	7	4	8	8	0	0	2	7	1	1	1	1	0	7	31	26	9	7	16	4	2	7	14	9	1	0	4	1	0	4	1	4	8	7	0	0	2	5	0	2	4	9	0	0	0	0	0
+2	COX1	YP_001661383.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	13	29	5	0	10	4	12	3	7	12	0	1	16	1	8	11	26	11	8	8	10	1	7	10	6	1	2	1	4	1	15	22	18	12	10	7	16	4	7	11	8	1	0	3	10	14	11	5	9	25	4	2	7	7	8	2	12	12	16	7	0	1	0	0
+3	COX2	YP_001661384.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	1	5	6	3	2	7	7	0	5	5	1	1	5	0	2	7	12	5	2	3	9	1	6	1	5	2	0	1	5	0	12	7	11	5	7	3	4	2	1	4	4	0	1	3	4	2	4	0	3	4	2	0	6	7	13	1	2	2	2	2	1	0	0	0
+4	ATP8	YP_001661385.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	1	4	1	1	2	1	2	0	2	1	0	0	3	0	1	0	6	0	4	3	0	0	0	0	3	0	0	0	0	0	2	2	1	2	4	3	4	2	1	2	3	0	0	1	2	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_001661386.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	4	6	8	4	3	3	5	0	3	2	0	0	3	0	7	5	14	7	3	4	5	1	2	2	6	2	2	2	2	0	11	15	7	4	3	9	9	1	4	5	2	2	1	2	4	2	4	2	5	7	6	0	0	2	2	1	1	6	3	1	0	0	0	0
+6	COX3	YP_001661387.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	8	15	2	2	5	6	5	2	7	5	0	2	10	2	6	6	11	4	1	4	6	0	6	11	7	1	1	1	3	0	7	8	6	3	4	5	9	2	0	6	3	0	1	2	1	4	10	2	4	8	4	1	2	1	5	3	5	8	5	3	0	0	0	0
+7	ND3	YP_001661388.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	1	8	4	0	0	1	2	1	1	3	1	0	4	0	2	6	10	4	1	2	3	0	0	0	3	0	0	0	1	0	5	3	6	0	2	4	1	2	0	4	3	0	0	2	0	0	1	1	2	6	4	0	1	1	5	1	0	2	0	1	0	0	0	0
+8	ND4L	YP_001661389.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	2	3	2	0	1	6	3	0	1	2	2	2	0	0	4	5	11	2	0	1	1	0	1	2	2	0	0	1	1	0	4	2	8	2	0	1	1	0	1	4	0	0	0	0	1	1	1	2	2	2	2	1	0	1	1	1	1	2	2	0	1	0	0	0
+9	ND4	YP_001661390.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	8	11	9	3	8	4	17	1	7	6	2	2	11	2	14	21	37	8	4	8	10	0	3	10	11	2	1	1	5	3	23	22	24	9	7	21	13	0	3	13	10	1	2	8	7	2	4	0	5	18	6	1	0	4	7	1	4	7	7	1	0	0	0	0
+10	ND5	YP_001661391.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	15	30	10	1	6	12	18	1	6	13	2	2	10	2	12	21	38	11	3	7	15	3	2	19	12	3	2	3	2	2	16	36	26	9	10	23	19	3	6	18	17	4	4	8	4	6	8	3	13	23	7	4	4	7	7	4	5	13	10	3	1	0	0	0
+11	CYTB	YP_001661393.1	Trichechus manatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Sirenia, Trichechidae, Trichechus	6	17	6	3	2	9	13	0	3	14	1	3	11	1	7	17	32	1	3	6	12	2	3	10	5	1	2	1	4	1	14	27	6	2	3	13	10	1	2	13	9	0	0	3	1	8	7	0	2	11	7	1	1	11	4	2	3	9	9	4	0	0	0	1

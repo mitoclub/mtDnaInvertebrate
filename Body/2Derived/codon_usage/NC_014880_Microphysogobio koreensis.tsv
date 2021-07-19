@@ -1,65 +1,13 @@
-	YP_004123531.1|ND1	YP_004123532.1|ND2	YP_004123533.1|COX1	YP_004123534.1|COX2	YP_004123535.1|ATP8	YP_004123536.1|ATP6	YP_004123537.1|COX3	YP_004123538.1|ND3	YP_004123539.1|ND4L	YP_004123540.1|ND4	YP_004123541.1|ND5	YP_004123543.1|CYTB
-TTT	10	3	24	5	2	7	7	6	2	6	18	11
-TTC	8	5	18	4	1	8	17	3	6	10	22	17
-TTA	6	13	7	5	2	5	2	5	3	19	19	9
-TTG	2	1	0	1	0	1	1	0	1	3	1	0
-TCT	4	4	6	4	0	1	3	0	2	7	6	3
-TCC	3	7	5	5	0	2	4	4	3	7	8	7
-TCA	10	6	14	4	1	1	4	1	1	8	12	12
-TCG	2	1	1	0	0	0	0	1	0	1	4	0
-TAT	5	5	7	7	0	3	3	0	0	4	3	5
-TAC	8	3	11	2	0	0	7	2	0	10	7	10
-TGT	0	0	0	0	0	0	0	0	0	2	0	2
-TGC	0	1	1	2	0	0	2	1	3	3	5	2
-TGA	6	8	14	4	5	2	10	5	1	18	10	13
-TGG	2	3	3	1	0	3	2	0	0	2	4	0
-CTT	8	13	18	5	0	13	9	8	3	14	22	14
-CTC	8	9	12	3	1	5	6	3	3	9	8	6
-CTA	28	23	19	12	1	21	13	7	13	33	36	26
-CTG	9	8	6	2	0	2	2	2	0	8	6	6
-CCT	6	2	5	0	2	2	2	3	0	4	10	2
-CCC	10	6	7	4	5	5	2	2	1	9	7	5
-CCA	7	10	11	8	2	10	7	2	1	12	14	11
-CCG	1	1	5	2	0	1	1	1	0	2	0	3
-CAT	1	3	2	1	0	2	3	0	1	4	4	2
-CAC	3	3	16	9	2	1	13	1	3	8	11	10
-CAA	8	13	6	6	1	8	7	1	2	8	16	6
-CAG	0	1	1	2	0	0	2	2	1	5	2	0
-CGT	0	0	1	1	0	1	2	0	0	0	0	3
-CGC	0	1	1	0	0	1	1	0	2	1	3	0
-CGA	6	1	6	5	0	4	1	2	0	8	8	4
-CGG	1	1	1	0	0	0	1	0	1	2	0	0
-ATT	11	17	25	13	2	14	7	6	1	25	38	17
-ATC	8	8	12	5	4	6	8	4	1	16	17	11
-ATA	9	13	17	8	1	6	6	1	4	25	25	8
-ATG	4	5	7	4	1	5	2	1	1	2	14	5
-ACT	1	10	6	4	2	4	2	1	1	2	7	1
-ACC	5	18	7	3	1	6	6	3	3	13	20	7
-ACA	10	17	20	4	1	9	14	5	4	20	26	15
-ACG	1	3	2	0	1	1	1	1	1	3	4	0
-AAT	2	7	8	3	1	3	0	1	1	3	11	9
-AAC	10	3	8	1	3	7	1	2	1	9	21	8
-AAA	7	8	8	4	3	0	2	0	0	8	19	10
-AAG	0	1	0	0	0	1	0	1	0	3	2	0
-AGT	1	1	1	0	0	1	0	0	1	1	2	0
-AGC	3	5	3	4	1	3	3	0	3	6	11	1
-GTT	2	4	9	5	0	3	3	1	0	4	9	1
-GTC	6	1	9	3	0	3	5	1	0	3	6	10
-GTA	11	4	20	11	1	10	7	1	2	11	6	12
-GTG	3	1	7	1	0	2	1	0	0	1	4	3
-GCT	2	7	7	4	0	3	5	1	2	2	8	3
-GCC	15	10	25	7	2	8	7	3	3	14	21	13
-GCA	15	20	14	4	0	8	7	4	5	17	13	13
-GCG	1	2	1	1	0	0	2	0	2	2	4	2
-GAT	0	0	4	1	0	0	2	1	1	1	4	3
-GAC	4	3	12	12	1	1	3	3	0	2	10	9
-GAA	7	5	4	14	2	4	8	6	3	10	6	5
-GAG	5	0	6	1	2	0	2	0	0	1	5	0
-GGT	2	2	8	2	0	1	1	0	1	5	1	1
-GGC	5	5	11	1	0	3	6	2	2	9	7	8
-GGA	5	9	15	5	0	4	11	2	1	7	12	10
-GGG	7	4	12	1	0	2	5	3	1	8	12	6
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004123531.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	10	8	6	2	4	3	10	2	5	8	0	0	6	2	8	8	28	9	6	10	7	1	1	3	8	0	0	0	6	1	11	8	9	4	1	5	10	1	2	10	7	0	1	3	2	6	11	3	2	15	15	1	0	4	7	5	2	5	5	7	0	1	0	0
+1	ND2	YP_004123532.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	3	5	13	1	4	7	6	1	5	3	0	1	8	3	13	9	23	8	2	6	10	1	3	3	13	1	0	1	1	1	17	8	13	5	10	18	17	3	7	3	8	1	1	5	4	1	4	1	7	10	20	2	0	3	5	0	2	5	9	4	0	0	0	0
+2	COX1	YP_004123533.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	24	18	7	0	6	5	14	1	7	11	0	1	14	3	18	12	19	6	5	7	11	5	2	16	6	1	1	1	6	1	25	12	17	7	6	7	20	2	8	8	8	0	1	3	9	9	20	7	7	25	14	1	4	12	4	6	8	11	15	12	1	0	0	0
+3	COX2	YP_004123534.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	5	4	5	1	4	5	4	0	7	2	0	2	4	1	5	3	12	2	0	4	8	2	1	9	6	2	1	0	5	0	13	5	8	4	4	3	4	0	3	1	4	0	0	4	5	3	11	1	4	7	4	1	1	12	14	1	2	1	5	1	0	0	0	0
+4	ATP8	YP_004123535.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	2	1	2	0	0	0	1	0	0	0	0	0	5	0	0	1	1	0	2	5	2	0	0	2	1	0	0	0	0	0	2	4	1	1	2	1	1	1	1	3	3	0	0	1	0	0	1	0	0	2	0	0	0	1	2	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_004123536.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	7	8	5	1	1	2	1	0	3	0	0	0	2	3	13	5	21	2	2	5	10	1	2	1	8	0	1	1	4	0	14	6	6	5	4	6	9	1	3	7	0	1	1	3	3	3	10	2	3	8	8	0	0	1	4	0	1	3	4	2	1	0	0	0
+6	COX3	YP_004123537.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	7	17	2	1	3	4	4	0	3	7	0	2	10	2	9	6	13	2	2	2	7	1	3	13	7	2	2	1	1	1	7	8	6	2	2	6	14	1	0	1	2	0	0	3	3	5	7	1	5	7	7	2	2	3	8	2	1	6	11	5	0	0	0	0
+7	ND3	YP_004123538.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	6	3	5	0	0	4	1	1	0	2	0	1	5	0	8	3	7	2	3	2	2	1	0	1	1	2	0	0	2	0	6	4	1	1	1	3	5	1	1	2	0	1	0	0	1	1	1	0	1	3	4	0	1	3	6	0	0	2	2	3	0	0	0	0
+8	ND4L	YP_004123539.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	2	6	3	1	2	3	1	0	0	0	0	3	1	0	3	3	13	0	0	1	1	0	1	3	2	1	0	2	0	1	1	1	4	1	1	3	4	1	1	1	0	0	1	3	0	0	2	0	2	3	5	2	1	0	3	0	1	2	1	1	1	0	0	0
+9	ND4	YP_004123540.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	6	10	19	3	7	7	8	1	4	10	2	3	18	2	14	9	33	8	4	9	12	2	4	8	8	5	0	1	8	2	25	16	25	2	2	13	20	3	3	9	8	3	1	6	4	3	11	1	2	14	17	2	1	2	10	1	5	9	7	8	0	0	0	0
+10	ND5	YP_004123541.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	18	22	19	1	6	8	12	4	3	7	0	5	10	4	22	8	36	6	10	7	14	0	4	11	16	2	0	3	8	0	38	17	25	14	7	20	26	4	11	21	19	2	2	11	9	6	6	4	8	21	13	4	4	10	6	5	1	7	12	12	1	0	0	0
+11	CYTB	YP_004123543.1	Microphysogobio koreensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Microphysogobio	11	17	9	0	3	7	12	0	5	10	2	2	13	0	14	6	26	6	2	5	11	3	2	10	6	0	3	0	4	0	17	11	8	5	1	7	15	0	9	8	10	0	0	1	1	10	12	3	3	13	13	2	3	9	5	0	1	8	10	6	0	0	0	0

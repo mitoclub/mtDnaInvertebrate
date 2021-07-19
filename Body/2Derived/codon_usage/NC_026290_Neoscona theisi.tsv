@@ -1,65 +1,10 @@
-	YP_009117187.1|ND2	YP_009117188.1|COX1	YP_009117189.1|COX2	YP_009117190.1|ATP8	YP_009117191.1|ATP6	YP_009117192.1|COX3	YP_009117193.1|ND3	YP_009117197.1|ND6	YP_009117198.1|CYTB
-TTT	27	46	13	2	21	32	16	9	44
-TTC	0	2	1	0	1	3	2	0	1
-TTA	28	48	15	3	26	25	15	20	38
-TTG	12	7	4	1	3	1	2	1	5
-TCT	5	13	8	0	11	8	8	3	12
-TCC	0	0	1	0	1	0	0	0	0
-TCA	6	15	4	1	1	7	1	0	6
-TCG	1	1	1	0	1	0	0	0	0
-TAT	15	18	11	1	9	6	8	9	21
-TAC	1	1	0	1	1	1	0	0	0
-TGT	3	3	4	1	2	0	1	0	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	11	13	4	3	2	11	1	3	10
-TGG	3	1	1	0	0	3	0	1	2
-CTT	4	1	5	0	4	1	1	2	4
-CTC	0	0	0	0	0	0	0	0	0
-CTA	2	3	2	0	0	1	0	0	1
-CTG	1	2	0	0	0	0	0	0	0
-CCT	1	16	8	2	5	6	1	2	12
-CCC	1	1	0	0	0	0	0	0	0
-CCA	3	7	1	0	3	2	1	0	3
-CCG	0	0	0	0	0	0	0	0	0
-CAT	2	11	5	0	4	10	0	0	9
-CAC	0	4	0	0	0	1	0	0	0
-CAA	4	5	5	1	3	3	0	2	7
-CAG	0	2	3	0	1	2	0	0	0
-CGT	3	1	2	0	0	0	0	1	3
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	4	0	1	2	1	0	4
-CGG	0	1	0	0	2	1	1	0	1
-ATT	29	38	18	5	22	14	12	10	27
-ATC	2	1	0	0	0	1	0	1	2
-ATA	37	21	15	7	10	17	8	17	16
-ATG	3	12	4	1	4	0	0	3	9
-ACT	1	17	2	0	5	8	1	1	11
-ACC	0	1	1	0	0	0	0	0	1
-ACA	2	6	1	0	2	1	1	2	1
-ACG	0	1	2	0	1	1	0	0	2
-AAT	10	18	11	4	5	6	3	2	15
-AAC	1	1	0	0	1	0	0	0	1
-AAA	6	0	0	1	5	1	3	2	2
-AAG	5	10	3	3	1	5	2	1	6
-AGT	4	0	2	0	3	2	1	3	0
-AGC	0	0	0	0	0	0	0	0	0
-AGA	14	9	8	3	10	11	2	11	8
-AGG	3	0	2	1	1	0	0	2	0
-GTT	10	17	9	2	6	10	5	12	11
-GTC	0	0	0	0	1	0	0	0	2
-GTA	12	24	7	3	9	15	5	10	15
-GTG	2	2	4	0	0	1	1	0	3
-GCT	6	18	4	1	9	6	3	1	13
-GCC	0	0	1	0	0	0	0	0	0
-GCA	0	11	1	0	3	3	0	2	1
-GCG	0	1	0	0	0	1	0	0	0
-GAT	6	13	9	1	2	4	3	2	10
-GAC	0	0	1	0	0	0	0	0	0
-GAA	6	6	8	2	3	7	4	1	7
-GAG	1	3	4	0	2	1	0	2	0
-GGT	9	20	7	1	7	3	3	3	7
-GGC	0	0	1	0	0	1	0	0	0
-GGA	8	22	2	1	6	12	1	3	10
-GGG	7	9	2	0	0	4	0	0	11
-TAA	0	1	0	1	1	1	1	1	0
-TAG	1	0	1	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009117187.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	27	0	28	12	5	0	6	1	15	1	3	0	11	3	4	0	2	1	1	1	3	0	2	0	4	0	3	0	0	0	29	2	37	3	1	0	2	0	10	1	6	5	4	0	14	3	10	0	12	2	6	0	0	0	6	0	6	1	9	0	8	7	0	1
+1	COX1	YP_009117188.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	46	2	48	7	13	0	15	1	18	1	3	0	13	1	1	0	3	2	16	1	7	0	11	4	5	2	1	0	7	1	38	1	21	12	17	1	6	1	18	1	0	10	0	0	9	0	17	0	24	2	18	0	11	1	13	0	6	3	20	0	22	9	1	0
+2	COX2	YP_009117189.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	13	1	15	4	8	1	4	1	11	0	4	0	4	1	5	0	2	0	8	0	1	0	5	0	5	3	2	0	4	0	18	0	15	4	2	1	1	2	11	0	0	3	2	0	8	2	9	0	7	4	4	1	1	0	9	1	8	4	7	1	2	2	0	1
+3	ATP8	YP_009117190.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	2	0	3	1	0	0	1	0	1	1	1	0	3	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	5	0	7	1	0	0	0	0	4	0	1	3	0	0	3	1	2	0	3	0	1	0	0	0	1	0	2	0	1	0	1	0	1	0
+4	ATP6	YP_009117191.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	21	1	26	3	11	1	1	1	9	1	2	0	2	0	4	0	0	0	5	0	3	0	4	0	3	1	0	0	1	2	22	0	10	4	5	0	2	1	5	1	5	1	3	0	10	1	6	1	9	0	9	0	3	0	2	0	3	2	7	0	6	0	1	0
+5	COX3	YP_009117192.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	32	3	25	1	8	0	7	0	6	1	0	0	11	3	1	0	1	0	6	0	2	0	10	1	3	2	0	0	2	1	14	1	17	0	8	0	1	1	6	0	1	5	2	0	11	0	10	0	15	1	6	0	3	1	4	0	7	1	3	1	12	4	1	0
+6	ND3	YP_009117193.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	16	2	15	2	8	0	1	0	8	0	1	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	1	12	0	8	0	1	0	1	0	3	0	3	2	1	0	2	0	5	0	5	1	3	0	0	0	3	0	4	0	3	0	1	0	1	0
+7	ND6	YP_009117197.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	9	0	20	1	3	0	0	0	9	0	0	0	3	1	2	0	0	0	2	0	0	0	0	0	2	0	1	0	0	0	10	1	17	3	1	0	2	0	2	0	2	1	3	0	11	2	12	0	10	0	1	0	2	0	2	0	1	2	3	0	3	0	1	0
+8	CYTB	YP_009117198.1	Neoscona theisi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	44	1	38	5	12	0	6	0	21	0	3	0	10	2	4	0	1	0	12	0	3	0	9	0	7	0	3	0	4	1	27	2	16	9	11	1	1	2	15	1	2	6	0	0	8	0	11	2	15	3	13	0	1	0	10	0	7	0	7	0	10	11	0	1

@@ -1,65 +1,10 @@
-	YP_009654901.1	YP_009654902.1	YP_009654903.1	YP_009654904.1	YP_009654905.1	YP_009654906.1	YP_009654907.1	YP_009654911.1	YP_009654912.1
-TTT	12	29	4	5	15	11	7	10	18
-TTC	4	10	3	1	2	10	4	2	10
-TTA	30	39	15	7	23	21	10	15	43
-TTG	2	1	0	2	2	0	3	1	2
-TCT	8	10	2	1	6	2	1	3	2
-TCC	2	6	0	0	2	1	1	1	4
-TCA	7	13	8	1	6	8	5	4	10
-TCG	0	1	0	0	0	0	1	0	0
-TAT	10	15	6	1	9	11	0	9	13
-TAC	4	2	2	0	0	3	1	0	3
-TGT	3	0	1	0	0	3	2	0	3
-TGC	0	0	1	0	0	2	0	0	0
-TGA	9	15	6	4	4	12	4	0	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	3	3	1	1	4	2	0	4	3
-CTC	0	0	1	0	0	0	0	0	0
-CTA	7	9	5	0	3	3	1	3	11
-CTG	0	0	0	0	1	2	0	0	1
-CCT	7	15	5	3	4	4	1	2	13
-CCC	2	2	2	0	1	0	0	1	2
-CCA	1	10	3	0	5	4	3	0	7
-CCG	0	0	0	0	0	0	0	0	0
-CAT	2	12	4	0	5	12	0	1	8
-CAC	2	3	1	0	0	4	1	1	3
-CAA	5	8	7	2	3	3	1	3	5
-CAG	0	0	0	0	0	0	0	0	1
-CGT	1	0	2	0	0	0	1	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	9	5	0	3	3	1	0	7
-CGG	0	0	0	0	0	0	0	0	1
-ATT	46	49	27	5	15	18	21	24	29
-ATC	5	10	3	0	7	3	0	0	7
-ATA	41	34	16	3	23	18	9	20	19
-ATG	1	3	1	0	3	1	0	1	2
-ACT	2	6	2	0	3	4	4	2	11
-ACC	2	3	0	0	6	2	0	0	2
-ACA	6	21	12	2	7	13	3	5	6
-ACG	0	0	0	0	0	0	0	0	0
-AAT	21	20	20	2	12	10	2	11	20
-AAC	3	2	0	2	2	1	0	0	1
-AAA	14	8	4	5	4	7	8	6	10
-AAG	0	0	0	0	1	0	0	0	0
-AGT	5	4	0	0	2	0	0	3	2
-AGC	1	0	0	0	0	0	0	0	0
-AGA	13	13	5	1	8	9	3	3	10
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	8	5	0	1	3	1	2	7
-GTC	0	2	1	0	1	2	0	0	0
-GTA	4	16	6	2	7	10	1	5	13
-GTG	1	2	1	0	0	0	1	0	1
-GCT	3	11	1	0	4	3	3	3	7
-GCC	2	5	2	0	1	1	1	1	5
-GCA	3	11	7	0	5	5	1	2	5
-GCG	0	0	0	0	0	0	0	0	0
-GAT	2	12	8	0	0	0	2	2	5
-GAC	0	2	1	0	1	3	1	0	2
-GAA	4	11	11	1	4	9	5	2	7
-GAG	1	0	0	0	0	0	0	0	0
-GGT	2	6	1	0	2	3	0	0	7
-GGC	1	1	0	0	2	0	0	0	0
-GGA	5	33	7	1	3	15	2	3	17
-GGG	3	7	1	0	2	1	1	2	1
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009654901.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	12	4	30	2	8	2	7	0	10	4	3	0	9	0	3	0	7	0	7	2	1	0	2	2	5	0	1	0	1	0	46	5	41	1	2	2	6	0	21	3	14	0	5	1	13	0	3	0	4	1	3	2	3	0	2	0	4	1	2	1	5	3	1	0
+1	None	YP_009654902.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	29	10	39	1	10	6	13	1	15	2	0	0	15	0	3	0	9	0	15	2	10	0	12	3	8	0	0	0	9	0	49	10	34	3	6	3	21	0	20	2	8	0	4	0	13	0	8	2	16	2	11	5	11	0	12	2	11	0	6	1	33	7	0	0
+2	None	YP_009654903.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	4	3	15	0	2	0	8	0	6	2	1	1	6	0	1	1	5	0	5	2	3	0	4	1	7	0	2	0	5	0	27	3	16	1	2	0	12	0	20	0	4	0	0	0	5	0	5	1	6	1	1	2	7	0	8	1	11	0	1	0	7	1	0	0
+3	None	YP_009654904.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	5	1	7	2	1	0	1	0	1	0	0	0	4	0	1	0	0	0	3	0	0	0	0	0	2	0	0	0	0	0	5	0	3	0	0	0	2	0	2	2	5	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0
+4	None	YP_009654905.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	15	2	23	2	6	2	6	0	9	0	0	0	4	0	4	0	3	1	4	1	5	0	5	0	3	0	0	0	3	0	15	7	23	3	3	6	7	0	12	2	4	1	2	0	8	0	1	1	7	0	4	1	5	0	0	1	4	0	2	2	3	2	1	0
+5	None	YP_009654906.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	11	10	21	0	2	1	8	0	11	3	3	2	12	0	2	0	3	2	4	0	4	0	12	4	3	0	0	0	3	0	18	3	18	1	4	2	13	0	10	1	7	0	0	0	9	0	3	2	10	0	3	1	5	0	0	3	9	0	3	0	15	1	1	0
+6	None	YP_009654907.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	7	4	10	3	1	1	5	1	0	1	2	0	4	0	0	0	1	0	1	0	3	0	0	1	1	0	1	0	1	0	21	0	9	0	4	0	3	0	2	0	8	0	0	0	3	0	1	0	1	1	3	1	1	0	2	1	5	0	0	0	2	1	1	0
+7	None	YP_009654911.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	10	2	15	1	3	1	4	0	9	0	0	0	0	0	4	0	3	0	2	1	0	0	1	1	3	0	1	0	0	0	24	0	20	1	2	0	5	0	11	0	6	0	3	0	3	0	2	0	5	0	3	1	2	0	2	0	2	0	0	0	3	2	1	0
+8	None	YP_009654912.1	Cazira horvathi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Cazira	18	10	43	2	2	4	10	0	13	3	3	0	12	0	3	0	11	1	13	2	7	0	8	3	5	1	0	0	7	1	29	7	19	2	11	2	6	0	20	1	10	0	2	0	10	0	7	0	13	1	7	5	5	0	5	2	7	0	7	0	17	1	1	0

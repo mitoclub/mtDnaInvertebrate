@@ -1,65 +1,14 @@
-	YP_009509696.1|COX3	YP_009509697.1|ND3	YP_009509698.1|ND2	YP_009509699.1|COX1	YP_009509700.1|COX2	YP_009509701.1|ATP8	YP_009509702.1|ATP6	YP_009509703.1|ND1	YP_009509704.1|ND6	YP_009509705.1|CYTB	YP_009509706.1|ND4L	YP_009509707.1|ND4	YP_009509708.1|ND5
-TTT	21	13	18	33	11	4	19	28	13	26	5	34	40
-TTC	6	1	7	7	2	0	2	5	0	4	0	4	11
-TTA	12	9	32	35	15	5	19	17	14	33	12	42	31
-TTG	3	3	9	8	4	0	2	6	2	7	3	7	4
-TCT	4	3	9	6	3	1	10	10	7	7	2	12	23
-TCC	1	1	2	2	0	1	2	5	1	2	0	7	4
-TCA	6	1	8	11	8	1	8	4	2	4	1	10	12
-TCG	0	1	3	3	2	0	1	2	0	0	2	6	1
-TAT	9	0	8	13	6	1	6	13	10	13	2	9	11
-TAC	1	0	4	5	3	0	1	4	0	5	2	11	4
-TGT	3	1	4	0	3	0	1	5	2	3	1	5	7
-TGC	1	0	1	1	1	0	0	0	1	0	1	2	1
-TGA	10	2	9	14	6	5	4	5	1	11	0	11	10
-TGG	4	1	2	3	0	1	0	2	0	3	0	5	1
-CTT	7	3	6	5	0	0	8	9	6	10	2	18	22
-CTC	2	2	3	3	0	0	0	4	3	3	1	7	10
-CTA	6	2	7	10	8	3	4	13	5	7	4	8	17
-CTG	1	2	3	6	0	0	3	2	3	1	1	1	9
-CCT	6	3	4	11	3	1	5	4	2	9	0	3	4
-CCC	1	0	2	4	3	0	3	4	2	6	0	7	9
-CCA	1	1	1	4	4	2	2	3	2	4	0	3	5
-CCG	2	0	2	4	1	0	0	1	2	2	0	2	4
-CAT	9	1	2	15	4	0	3	0	1	9	1	5	4
-CAC	3	0	2	4	2	0	1	0	1	4	1	4	7
-CAA	4	1	4	3	7	1	2	2	2	7	1	5	12
-CAG	2	0	5	3	0	0	2	3	1	1	0	2	3
-CGT	1	1	0	2	2	0	2	3	0	1	0	1	2
-CGC	0	0	0	0	1	0	0	0	1	1	0	0	1
-CGA	4	2	1	7	3	0	1	2	0	5	0	3	1
-CGG	0	1	0	3	0	1	0	2	0	1	1	1	1
-ATT	12	12	24	33	18	5	22	23	15	22	8	29	40
-ATC	1	1	5	4	2	0	4	1	3	10	0	10	7
-ATA	6	3	19	18	6	1	7	4	9	7	3	22	37
-ATG	2	1	6	7	2	1	5	5	3	3	2	9	2
-ACT	7	1	3	9	6	2	4	5	5	4	1	9	15
-ACC	3	0	2	3	0	1	0	2	0	3	2	3	8
-ACA	8	1	5	15	2	1	6	3	2	8	3	4	12
-ACG	0	0	2	4	1	0	1	1	1	3	0	4	3
-AAT	3	1	13	15	4	3	6	7	1	9	3	9	13
-AAC	1	0	2	2	3	1	1	1	2	8	0	4	11
-AAA	0	3	7	8	3	3	1	9	2	7	1	12	14
-AAG	1	0	5	1	2	0	0	2	2	1	1	3	4
-AGT	3	2	7	5	1	1	2	2	2	2	3	7	6
-AGC	2	0	4	1	0	0	2	1	2	1	1	4	5
-AGA	1	6	7	4	1	0	7	3	1	2	3	11	5
-AGG	0	1	3	1	2	0	1	4	0	1	1	0	5
-GTT	9	3	8	10	6	0	11	8	5	15	4	5	17
-GTC	0	1	2	5	2	0	1	3	0	3	0	2	3
-GTA	7	3	6	22	9	1	5	4	5	13	0	5	8
-GTG	2	0	2	2	5	0	1	2	1	0	0	1	0
-GCT	9	5	8	23	2	1	2	12	4	10	5	18	10
-GCC	3	1	1	12	3	0	2	7	1	5	2	5	12
-GCA	6	1	4	6	6	0	6	8	2	8	2	7	12
-GCG	2	1	1	5	0	1	2	1	1	2	0	1	2
-GAT	2	1	3	13	7	0	3	3	2	5	0	3	9
-GAC	2	3	0	3	5	0	2	1	1	3	1	1	4
-GAA	7	3	4	8	10	2	3	11	2	6	4	8	7
-GAG	2	2	0	1	4	0	0	2	0	1	0	1	0
-GGT	7	1	8	16	3	0	4	5	2	8	0	6	9
-GGC	1	0	3	4	0	0	5	5	1	3	1	6	6
-GGA	13	5	9	16	7	0	4	5	2	14	3	10	6
-GGG	7	0	11	10	4	1	2	5	3	3	1	3	10
-TAA	1	0	0	1	1	1	1	1	1	1	0	0	0
-TAG	0	1	1	0	0	0	0	0	0	0	1	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009509696.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	21	6	12	3	4	1	6	0	9	1	3	1	10	4	7	2	6	1	6	1	1	2	9	3	4	2	1	0	4	0	12	1	6	2	7	3	8	0	3	1	0	1	3	2	1	0	9	0	7	2	9	3	6	2	2	2	7	2	7	1	13	7	1	0
+1	ND3	YP_009509697.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	13	1	9	3	3	1	1	1	0	0	1	0	2	1	3	2	2	2	3	0	1	0	1	0	1	0	1	0	2	1	12	1	3	1	1	0	1	0	1	0	3	0	2	0	6	1	3	1	3	0	5	1	1	1	1	3	3	2	1	0	5	0	0	1
+2	ND2	YP_009509698.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	18	7	32	9	9	2	8	3	8	4	4	1	9	2	6	3	7	3	4	2	1	2	2	2	4	5	0	0	1	0	24	5	19	6	3	2	5	2	13	2	7	5	7	4	7	3	8	2	6	2	8	1	4	1	3	0	4	0	8	3	9	11	0	1
+3	COX1	YP_009509699.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	33	7	35	8	6	2	11	3	13	5	0	1	14	3	5	3	10	6	11	4	4	4	15	4	3	3	2	0	7	3	33	4	18	7	9	3	15	4	15	2	8	1	5	1	4	1	10	5	22	2	23	12	6	5	13	3	8	1	16	4	16	10	1	0
+4	COX2	YP_009509700.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	11	2	15	4	3	0	8	2	6	3	3	1	6	0	0	0	8	0	3	3	4	1	4	2	7	0	2	1	3	0	18	2	6	2	6	0	2	1	4	3	3	2	1	0	1	2	6	2	9	5	2	3	6	0	7	5	10	4	3	0	7	4	1	0
+5	ATP8	YP_009509701.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	4	0	5	0	1	1	1	0	1	0	0	0	5	1	0	0	3	0	1	0	2	0	0	0	1	0	0	0	0	1	5	0	1	1	2	1	1	0	3	1	3	0	1	0	0	0	0	0	1	0	1	0	0	1	0	0	2	0	0	0	0	1	1	0
+6	ATP6	YP_009509702.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	19	2	19	2	10	2	8	1	6	1	1	0	4	0	8	0	4	3	5	3	2	0	3	1	2	2	2	0	1	0	22	4	7	5	4	0	6	1	6	1	1	0	2	2	7	1	11	1	5	1	2	2	6	2	3	2	3	0	4	5	4	2	1	0
+7	ND1	YP_009509703.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	28	5	17	6	10	5	4	2	13	4	5	0	5	2	9	4	13	2	4	4	3	1	0	0	2	3	3	0	2	2	23	1	4	5	5	2	3	1	7	1	9	2	2	1	3	4	8	3	4	2	12	7	8	1	3	1	11	2	5	5	5	5	1	0
+8	ND6	YP_009509704.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	13	0	14	2	7	1	2	0	10	0	2	1	1	0	6	3	5	3	2	2	2	2	1	1	2	1	0	1	0	0	15	3	9	3	5	0	2	1	1	2	2	2	2	2	1	0	5	0	5	1	4	1	2	1	2	1	2	0	2	1	2	3	1	0
+9	CYTB	YP_009509705.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	26	4	33	7	7	2	4	0	13	5	3	0	11	3	10	3	7	1	9	6	4	2	9	4	7	1	1	1	5	1	22	10	7	3	4	3	8	3	9	8	7	1	2	1	2	1	15	3	13	0	10	5	8	2	5	3	6	1	8	3	14	3	1	0
+10	ND4L	YP_009509706.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	5	0	12	3	2	0	1	2	2	2	1	1	0	0	2	1	4	1	0	0	0	0	1	1	1	0	0	0	0	1	8	0	3	2	1	2	3	0	3	0	1	1	3	1	3	1	4	0	0	0	5	2	2	0	0	1	4	0	0	1	3	1	0	1
+11	ND4	YP_009509707.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	34	4	42	7	12	7	10	6	9	11	5	2	11	5	18	7	8	1	3	7	3	2	5	4	5	2	1	0	3	1	29	10	22	9	9	3	4	4	9	4	12	3	7	4	11	0	5	2	5	1	18	5	7	1	3	1	8	1	6	6	10	3	0	1
+12	ND5	YP_009509708.1	Antarctoneptunea aurora	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	40	11	31	4	23	4	12	1	11	4	7	1	10	1	22	10	17	9	4	9	5	4	4	7	12	3	2	1	1	1	40	7	37	2	15	8	12	3	13	11	14	4	6	5	5	5	17	3	8	0	10	12	12	2	9	4	7	0	9	6	6	10	0	1

@@ -1,65 +1,10 @@
-	YP_009725344.1|ND2	YP_009725345.1|COX1	YP_009725346.1|COX2	YP_009725347.1|ATP8	YP_009725348.1|ATP6	YP_009725349.1|COX3	YP_009725350.1|ND3	YP_009725354.1|ND6	YP_009725355.1|CYTB
-TTT	32	34	11	6	16	21	8	16	33
-TTC	8	11	3	1	0	4	3	2	2
-TTA	33	48	20	7	23	26	16	24	41
-TTG	3	2	0	0	0	0	0	1	0
-TCT	11	8	13	2	6	5	4	4	7
-TCC	1	1	0	1	2	0	1	1	1
-TCA	8	17	3	1	5	7	2	6	10
-TCG	0	0	0	0	0	0	0	0	0
-TAT	8	14	6	3	5	12	3	8	16
-TAC	2	2	3	0	1	0	0	2	4
-TGT	1	0	2	0	1	1	1	2	3
-TGC	0	0	0	0	0	0	0	0	1
-TGA	7	13	6	3	5	12	3	1	12
-TGG	1	1	0	0	0	1	0	0	0
-CTT	10	7	2	0	10	7	2	2	5
-CTC	0	0	0	0	1	1	0	0	0
-CTA	9	4	3	1	3	1	3	2	5
-CTG	1	0	0	0	0	0	0	0	0
-CCT	1	13	5	0	7	6	2	2	8
-CCC	3	4	0	0	1	1	1	1	1
-CCA	5	9	5	2	4	2	1	0	14
-CCG	0	1	0	0	0	0	0	0	0
-CAT	3	11	6	0	5	12	2	0	7
-CAC	0	4	0	0	0	3	0	1	2
-CAA	5	8	7	1	4	6	1	3	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	2	3	2	0	0	1	1	0	0
-CGC	0	0	0	0	0	1	0	0	0
-CGA	0	6	5	0	2	2	1	1	7
-CGG	0	0	0	0	1	0	0	0	0
-ATT	44	50	31	4	26	23	20	26	47
-ATC	3	4	1	0	1	3	1	1	2
-ATA	21	27	11	5	18	8	5	18	16
-ATG	0	1	0	0	1	1	0	1	1
-ACT	15	16	9	0	8	10	3	3	8
-ACC	3	2	1	0	3	1	1	1	0
-ACA	7	15	4	1	7	11	0	2	13
-ACG	0	0	0	0	0	0	0	0	0
-AAT	23	18	13	5	14	7	6	8	19
-AAC	4	2	1	1	1	2	0	3	3
-AAA	15	8	7	7	4	4	6	8	11
-AAG	1	0	0	0	0	0	0	0	0
-AGT	2	3	0	0	1	2	0	0	0
-AGC	2	1	0	0	0	0	0	0	0
-AGA	7	13	3	0	8	2	3	3	6
-AGG	1	0	0	0	0	1	0	0	0
-GTT	4	18	4	0	6	5	1	1	8
-GTC	1	0	1	0	0	1	0	0	0
-GTA	2	14	6	0	2	6	1	1	5
-GTG	0	0	0	0	0	0	0	0	0
-GCT	8	19	4	0	3	5	4	1	12
-GCC	0	3	0	0	2	1	0	0	2
-GCA	4	12	3	0	2	4	0	0	4
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	13	7	0	1	4	3	2	6
-GAC	0	1	2	0	0	0	0	0	3
-GAA	6	9	11	0	4	7	4	3	4
-GAG	0	0	0	0	0	1	0	0	0
-GGT	1	12	4	0	4	7	3	1	3
-GGC	0	0	0	0	0	0	0	0	0
-GGA	8	32	3	0	5	14	0	4	19
-GGG	0	0	1	0	1	0	1	0	1
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009725344.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	32	8	33	3	11	1	8	0	8	2	1	0	7	1	10	0	9	1	1	3	5	0	3	0	5	0	2	0	0	0	44	3	21	0	15	3	7	0	23	4	15	1	2	2	7	1	4	1	2	0	8	0	4	0	1	0	6	0	1	0	8	0	1	0
+1	COX1	YP_009725345.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	34	11	48	2	8	1	17	0	14	2	0	0	13	1	7	0	4	0	13	4	9	1	11	4	8	0	3	0	6	0	50	4	27	1	16	2	15	0	18	2	8	0	3	1	13	0	18	0	14	0	19	3	12	0	13	1	9	0	12	0	32	0	0	0
+2	COX2	YP_009725346.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	11	3	20	0	13	0	3	0	6	3	2	0	6	0	2	0	3	0	5	0	5	0	6	0	7	0	2	0	5	0	31	1	11	0	9	1	4	0	13	1	7	0	0	0	3	0	4	1	6	0	4	0	3	0	7	2	11	0	4	0	3	1	0	0
+3	ATP8	YP_009725347.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	6	1	7	0	2	1	1	0	3	0	0	0	3	0	0	0	1	0	0	0	2	0	0	0	1	0	0	0	0	0	4	0	5	0	0	0	1	0	5	1	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009725348.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	16	0	23	0	6	2	5	0	5	1	1	0	5	0	10	1	3	0	7	1	4	0	5	0	4	0	0	0	2	1	26	1	18	1	8	3	7	0	14	1	4	0	1	0	8	0	6	0	2	0	3	2	2	0	1	0	4	0	4	0	5	1	1	0
+5	COX3	YP_009725349.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	21	4	26	0	5	0	7	0	12	0	1	0	12	1	7	1	1	0	6	1	2	0	12	3	6	0	1	1	2	0	23	3	8	1	10	1	11	0	7	2	4	0	2	0	2	1	5	1	6	0	5	1	4	0	4	0	7	1	7	0	14	0	1	0
+6	ND3	YP_009725350.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	8	3	16	0	4	1	2	0	3	0	1	0	3	0	2	0	3	0	2	1	1	0	2	0	1	0	1	0	1	0	20	1	5	0	3	1	0	0	6	0	6	0	0	0	3	0	1	0	1	0	4	0	0	0	3	0	4	0	3	0	0	1	0	1
+7	ND6	YP_009725354.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	16	2	24	1	4	1	6	0	8	2	2	0	1	0	2	0	2	0	2	1	0	0	0	1	3	0	0	0	1	0	26	1	18	1	3	1	2	0	8	3	8	0	0	0	3	0	1	0	1	0	1	0	0	0	2	0	3	0	1	0	4	0	1	0
+8	CYTB	YP_009725355.1	Monolepta occifluvis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Luperina, Monoleptites, Monolepta	33	2	41	0	7	1	10	0	16	4	3	1	12	0	5	0	5	0	8	1	14	0	7	2	7	0	0	0	7	0	47	2	16	1	8	0	13	0	19	3	11	0	0	0	6	0	8	0	5	0	12	2	4	0	6	3	4	0	3	0	19	1	0	1

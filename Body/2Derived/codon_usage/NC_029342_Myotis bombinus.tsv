@@ -1,65 +1,13 @@
-	YP_009231339.1|ND1	YP_009231340.1|ND2	YP_009231341.1|COX1	YP_009231342.1|COX2	YP_009231343.1|ATP8	YP_009231344.1|ATP6	YP_009231345.1|COX3	YP_009231346.1|ND3	YP_009231347.1|ND4L	YP_009231348.1|ND4	YP_009231349.1|ND5	YP_009231351.1|CYTB
-TTT	12	4	28	3	3	9	14	7	3	9	27	11
-TTC	5	10	14	4	0	4	8	3	0	9	21	11
-TTA	24	21	22	16	5	16	14	6	3	29	30	15
-TTG	2	2	1	1	1	1	0	0	0	0	2	0
-TCT	1	7	10	6	0	2	6	2	2	10	11	8
-TCC	5	4	7	1	0	1	2	2	5	4	10	6
-TCA	8	12	12	10	5	5	7	4	1	10	16	8
-TCG	0	0	1	0	0	0	0	0	0	1	0	0
-TAT	7	5	13	5	3	2	9	2	3	8	12	8
-TAC	8	5	6	5	1	0	4	1	0	10	5	9
-TGT	1	0	0	1	0	0	0	0	1	2	2	2
-TGC	0	0	1	1	0	0	1	1	2	2	2	2
-TGA	8	10	17	5	3	3	11	3	0	12	12	11
-TGG	1	0	0	0	0	0	1	1	0	0	0	1
-CTT	3	6	13	4	1	5	9	5	5	11	10	7
-CTC	6	5	2	2	0	1	1	1	4	5	9	9
-CTA	22	30	18	7	2	18	11	10	11	38	41	27
-CTG	1	0	4	4	0	0	1	2	2	7	2	3
-CCT	2	2	15	5	3	3	4	0	0	8	8	5
-CCC	8	8	6	4	2	4	2	2	0	7	8	5
-CCA	9	11	8	3	1	5	6	4	1	6	11	13
-CCG	2	0	0	1	0	0	1	0	0	0	1	0
-CAT	2	2	11	3	1	5	11	0	2	7	3	5
-CAC	0	4	7	4	1	2	5	0	1	4	9	8
-CAA	6	8	3	5	3	8	7	2	2	8	17	6
-CAG	0	0	3	2	0	0	0	1	0	2	1	0
-CGT	0	0	0	1	0	3	1	1	0	1	1	0
-CGC	0	0	2	1	0	0	1	0	0	1	2	3
-CGA	7	3	6	4	1	1	3	0	1	6	5	3
-CGG	0	0	0	0	0	1	0	0	0	1	1	2
-ATT	18	18	30	12	7	22	13	2	5	32	32	21
-ATC	11	10	10	9	1	5	3	7	1	13	20	17
-ATA	18	36	26	12	2	11	10	6	5	42	44	15
-ATG	3	2	4	2	1	3	1	1	3	2	4	2
-ACT	10	11	16	8	2	7	4	3	2	17	17	4
-ACC	4	8	6	2	1	7	5	1	2	12	17	10
-ACA	14	24	13	7	6	9	12	1	5	11	18	12
-ACG	0	1	0	0	1	1	1	0	0	0	2	1
-AAT	7	11	13	4	0	8	4	1	2	8	12	7
-AAC	7	8	4	2	2	2	4	3	2	11	22	12
-AAA	7	12	7	3	5	4	1	4	0	11	22	6
-AAG	0	0	2	1	0	1	0	0	0	1	1	2
-AGT	1	0	2	1	0	2	3	1	1	1	5	1
-AGC	2	1	2	4	0	2	1	1	0	11	8	2
-GTT	1	3	5	1	0	5	3	1	2	3	5	5
-GTC	2	1	4	2	0	1	5	0	2	2	2	1
-GTA	8	3	24	6	0	4	4	3	4	7	9	10
-GTG	3	1	3	1	0	0	2	0	0	0	2	1
-GCT	5	2	22	4	0	2	6	0	2	7	14	5
-GCC	9	5	8	2	0	5	4	4	0	10	12	5
-GCA	12	10	9	4	0	10	4	4	4	9	9	12
-GCG	0	1	4	0	0	1	0	0	0	1	1	0
-GAT	1	0	10	4	1	1	3	1	0	1	7	3
-GAC	2	0	4	6	0	0	0	2	1	2	4	7
-GAA	9	5	7	12	2	2	8	6	1	6	11	5
-GAG	2	0	3	2	0	1	0	0	1	3	1	1
-GGT	4	1	9	0	0	3	2	0	1	4	4	2
-GGC	4	4	8	4	0	2	7	1	0	3	6	5
-GGA	4	10	24	4	0	6	10	2	3	8	16	16
-GGG	0	0	5	0	0	0	1	0	0	3	0	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009231339.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	12	5	24	2	1	5	8	0	7	8	1	0	8	1	3	6	22	1	2	8	9	2	2	0	6	0	0	0	7	0	18	11	18	3	10	4	14	0	7	7	7	0	1	2	1	2	8	3	5	9	12	0	1	2	9	2	4	4	4	0	0	0	0	0
+1	ND2	YP_009231340.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	4	10	21	2	7	4	12	0	5	5	0	0	10	0	6	5	30	0	2	8	11	0	2	4	8	0	0	0	3	0	18	10	36	2	11	8	24	1	11	8	12	0	0	1	3	1	3	1	2	5	10	1	0	0	5	0	1	4	10	0	0	0	0	0
+2	COX1	YP_009231341.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	28	14	22	1	10	7	12	1	13	6	0	1	17	0	13	2	18	4	15	6	8	0	11	7	3	3	0	2	6	0	30	10	26	4	16	6	13	0	13	4	7	2	2	2	5	4	24	3	22	8	9	4	10	4	7	3	9	8	24	5	1	0	0	0
+3	COX2	YP_009231342.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	4	16	1	6	1	10	0	5	5	1	1	5	0	4	2	7	4	5	4	3	1	3	4	5	2	1	1	4	0	12	9	12	2	8	2	7	0	4	2	3	1	1	4	1	2	6	1	4	2	4	0	4	6	12	2	0	4	4	0	1	0	0	0
+4	ATP8	YP_009231343.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	0	5	1	0	0	5	0	3	1	0	0	3	0	1	0	2	0	3	2	1	0	1	1	3	0	0	0	1	0	7	1	2	1	2	1	6	1	0	2	5	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009231344.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	9	4	16	1	2	1	5	0	2	0	0	0	3	0	5	1	18	0	3	4	5	0	5	2	8	0	3	0	1	1	22	5	11	3	7	7	9	1	8	2	4	1	2	2	5	1	4	0	2	5	10	1	1	0	2	1	3	2	6	0	1	0	0	0
+6	COX3	YP_009231345.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	14	8	14	0	6	2	7	0	9	4	0	1	11	1	9	1	11	1	4	2	6	1	11	5	7	0	1	1	3	0	13	3	10	1	4	5	12	1	4	4	1	0	3	1	3	5	4	2	6	4	4	0	3	0	8	0	2	7	10	1	0	0	0	0
+7	ND3	YP_009231346.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	7	3	6	0	2	2	4	0	2	1	0	1	3	1	5	1	10	2	0	2	4	0	0	0	2	1	1	0	0	0	2	7	6	1	3	1	1	0	1	3	4	0	1	1	1	0	3	0	0	4	4	0	1	2	6	0	0	1	2	0	0	0	0	0
+8	ND4L	YP_009231347.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	0	3	0	2	5	1	0	3	0	1	2	0	0	5	4	11	2	0	0	1	0	2	1	2	0	0	0	1	0	5	1	5	3	2	2	5	0	2	2	0	0	1	0	2	2	4	0	2	0	4	0	0	1	1	1	1	0	3	0	1	0	0	0
+9	ND4	YP_009231348.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	9	9	29	0	10	4	10	1	8	10	2	2	12	0	11	5	38	7	8	7	6	0	7	4	8	2	1	1	6	1	32	13	42	2	17	12	11	0	8	11	11	1	1	11	3	2	7	0	7	10	9	1	1	2	6	3	4	3	8	3	0	0	0	0
+10	ND5	YP_009231349.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	27	21	30	2	11	10	16	0	12	5	2	2	12	0	10	9	41	2	8	8	11	1	3	9	17	1	1	2	5	1	32	20	44	4	17	17	18	2	12	22	22	1	5	8	5	2	9	2	14	12	9	1	7	4	11	1	4	6	16	0	1	0	0	0
+11	CYTB	YP_009231351.1	Myotis bombinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	11	11	15	0	8	6	8	0	8	9	2	2	11	1	7	9	27	3	5	5	13	0	5	8	6	0	0	3	3	2	21	17	15	2	4	10	12	1	7	12	6	2	1	2	5	1	10	1	5	5	12	0	3	7	5	1	2	5	16	1	0	0	1	0

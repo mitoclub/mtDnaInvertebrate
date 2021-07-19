@@ -1,65 +1,13 @@
-	YP_005087595.1|ND1	YP_005087596.1|ND2	YP_005087597.1|COX1	YP_005087598.1|COX2	YP_005087599.1|ATP8	YP_005087600.1|ATP6	YP_005087601.1|COX3	YP_005087602.1|ND3	YP_005087603.1|ND4L	YP_005087604.1|ND4	YP_005087605.1|ND5	YP_005087607.1|CYTB
-TTT	14	8	19	2	5	9	11	5	4	13	27	15
-TTC	5	5	23	5	0	4	11	3	1	7	18	15
-TTA	13	13	10	11	2	5	3	6	8	15	17	5
-TTG	1	0	2	0	1	1	1	1	0	1	1	0
-TCT	1	3	11	4	2	2	5	1	6	2	7	2
-TCC	4	2	5	1	3	2	2	0	4	12	10	6
-TCA	16	14	13	8	4	7	9	6	2	18	29	13
-TCG	1	0	0	0	0	0	0	0	0	0	1	0
-TAT	6	5	14	5	1	1	9	3	1	8	11	6
-TAC	9	4	6	4	0	1	3	0	1	6	7	10
-TGT	1	0	0	0	0	0	1	1	0	0	3	0
-TGC	0	1	1	3	0	0	1	0	3	4	4	3
-TGA	8	7	17	5	3	3	12	4	0	10	12	12
-TGG	1	1	0	0	0	0	0	0	0	2	2	0
-CTT	9	13	9	7	1	13	9	3	4	16	12	9
-CTC	7	14	9	1	1	3	6	2	2	11	14	12
-CTA	25	29	23	12	3	20	15	9	6	36	48	24
-CTG	0	2	7	1	0	0	1	0	1	3	4	4
-CCT	4	2	7	3	4	3	4	1	1	6	4	2
-CCC	5	6	4	2	1	2	0	1	0	6	1	1
-CCA	12	13	18	9	3	8	7	4	1	9	20	19
-CCG	1	0	0	0	0	1	0	0	0	2	0	0
-CAT	3	1	11	2	0	4	9	0	0	3	6	5
-CAC	2	4	7	5	0	5	8	0	1	6	7	7
-CAA	6	11	4	6	4	6	6	3	2	11	13	6
-CAG	0	1	1	0	1	0	1	0	0	0	1	0
-CGT	2	1	1	1	0	1	1	1	1	0	0	2
-CGC	1	0	0	1	0	1	0	0	0	1	1	1
-CGA	4	2	7	4	0	1	4	0	0	6	7	5
-CGG	1	0	0	0	0	2	0	0	0	2	1	0
-ATT	20	23	24	13	3	21	13	5	5	36	34	17
-ATC	10	27	12	5	3	8	2	7	0	17	30	26
-ATA	18	15	27	11	0	11	8	7	7	38	36	14
-ATG	1	4	4	4	2	2	1	0	1	2	2	3
-ACT	1	10	6	6	2	9	5	3	2	12	16	5
-ACC	4	6	7	2	2	4	8	3	2	8	10	2
-ACA	14	17	24	10	5	8	9	4	3	17	28	16
-ACG	1	0	0	0	1	0	0	0	1	0	0	0
-AAT	6	11	7	3	0	5	5	5	3	5	18	8
-AAC	6	12	9	5	0	3	1	1	3	16	21	11
-AAA	6	11	11	5	5	5	4	3	1	14	23	9
-AAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGT	2	1	0	0	0	3	2	0	0	4	4	0
-AGC	2	3	3	4	0	4	2	1	0	9	7	2
-GTT	5	1	8	8	0	0	3	1	1	4	5	2
-GTC	4	1	5	0	0	3	3	1	1	3	1	6
-GTA	4	4	26	6	0	7	9	2	2	3	7	12
-GTG	1	0	0	1	0	0	1	0	1	0	0	0
-GCT	6	6	14	4	1	4	2	3	1	8	7	4
-GCC	6	4	12	3	0	3	6	2	3	5	13	9
-GCA	11	9	14	2	1	7	5	2	5	11	13	10
-GCG	1	0	1	0	0	0	1	0	0	1	0	0
-GAT	0	0	5	3	1	1	2	1	0	1	7	4
-GAC	3	0	11	9	0	0	2	1	1	3	3	6
-GAA	10	4	7	12	2	3	7	5	2	6	8	5
-GAG	2	0	2	1	0	1	0	1	0	2	3	1
-GGT	4	3	9	3	0	0	3	0	1	2	5	2
-GGC	4	0	9	1	0	2	4	1	0	4	5	9
-GGA	3	10	22	3	0	5	13	1	3	11	15	13
-GGG	1	0	6	1	0	2	1	1	0	1	0	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_005087595.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	14	5	13	1	1	4	16	1	6	9	1	0	8	1	9	7	25	0	4	5	12	1	3	2	6	0	2	1	4	1	20	10	18	1	1	4	14	1	6	6	6	0	2	2	5	4	4	1	6	6	11	1	0	3	10	2	4	4	3	1	0	0	0	0
+1	ND2	YP_005087596.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	8	5	13	0	3	2	14	0	5	4	0	1	7	1	13	14	29	2	2	6	13	0	1	4	11	1	1	0	2	0	23	27	15	4	10	6	17	0	11	12	11	1	1	3	1	1	4	0	6	4	9	0	0	0	4	0	3	0	10	0	0	0	0	0
+2	COX1	YP_005087597.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	19	23	10	2	11	5	13	0	14	6	0	1	17	0	9	9	23	7	7	4	18	0	11	7	4	1	1	0	7	0	24	12	27	4	6	7	24	0	7	9	11	0	0	3	8	5	26	0	14	12	14	1	5	11	7	2	9	9	22	6	1	0	0	0
+3	COX2	YP_005087598.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	2	5	11	0	4	1	8	0	5	4	0	3	5	0	7	1	12	1	3	2	9	0	2	5	6	0	1	1	4	0	13	5	11	4	6	2	10	0	3	5	5	0	0	4	8	0	6	1	4	3	2	0	3	9	12	1	3	1	3	1	1	0	0	0
+4	ATP8	YP_005087599.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	5	0	2	1	2	3	4	0	1	0	0	0	3	0	1	1	3	0	4	1	3	0	0	0	4	1	0	0	0	0	3	3	0	2	2	2	5	1	0	0	5	0	0	0	0	0	0	0	1	0	1	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_005087600.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	9	4	5	1	2	2	7	0	1	1	0	0	3	0	13	3	20	0	3	2	8	1	4	5	6	0	1	1	1	2	21	8	11	2	9	4	8	0	5	3	5	0	3	4	0	3	7	0	4	3	7	0	1	0	3	1	0	2	5	2	1	0	0	0
+6	COX3	YP_005087601.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	11	11	3	1	5	2	9	0	9	3	1	1	12	0	9	6	15	1	4	0	7	0	9	8	6	1	1	0	4	0	13	2	8	1	5	8	9	0	5	1	4	0	2	2	3	3	9	1	2	6	5	1	2	2	7	0	3	4	13	1	0	0	0	0
+7	ND3	YP_005087602.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	5	3	6	1	1	0	6	0	3	0	1	0	4	0	3	2	9	0	1	1	4	0	0	0	3	0	1	0	0	0	5	7	7	0	3	3	4	0	5	1	3	0	0	1	1	1	2	0	3	2	2	0	1	1	5	1	0	1	1	1	0	1	0	0
+8	ND4L	YP_005087603.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	4	1	8	0	6	4	2	0	1	1	0	3	0	0	4	2	6	1	1	0	1	0	0	1	2	0	1	0	0	0	5	0	7	1	2	2	3	1	3	3	1	0	0	0	1	1	2	1	1	3	5	0	0	1	2	0	1	0	3	0	1	0	0	0
+9	ND4	YP_005087604.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	13	7	15	1	2	12	18	0	8	6	0	4	10	2	16	11	36	3	6	6	9	2	3	6	11	0	0	1	6	2	36	17	38	2	12	8	17	0	5	16	14	0	4	9	4	3	3	0	8	5	11	1	1	3	6	2	2	4	11	1	0	0	0	0
+10	ND5	YP_005087605.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	27	18	17	1	7	10	29	1	11	7	3	4	12	2	12	14	48	4	4	1	20	0	6	7	13	1	0	1	7	1	34	30	36	2	16	10	28	0	18	21	23	0	4	7	5	1	7	0	7	13	13	0	7	3	8	3	5	5	15	0	1	0	0	0
+11	CYTB	YP_005087607.1	Apodemus chejuensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Apodemus	15	15	5	0	2	6	13	0	6	10	0	3	12	0	9	12	24	4	2	1	19	0	5	7	6	0	2	1	5	0	17	26	14	3	5	2	16	0	8	11	9	0	0	2	2	6	12	0	4	9	10	0	4	6	5	1	2	9	13	1	0	0	0	0

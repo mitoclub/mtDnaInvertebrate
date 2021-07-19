@@ -1,65 +1,13 @@
-	YP_009772664.1|ND1	YP_009772665.1|ND2	YP_009772666.1|COX1	YP_009772667.1|COX2	YP_009772668.1|ATP8	YP_009772669.1|ATP6	YP_009772670.1|COX3	YP_009772671.1|ND3	YP_009772672.1|ND4L	YP_009772673.1|ND4	YP_009772674.1|ND5	YP_009772676.1|CYTB
-TTT	11	6	20	2	0	9	13	6	3	9	23	14
-TTC	7	4	21	7	3	2	11	4	5	8	19	18
-TTA	3	7	8	3	3	13	7	6	2	12	10	7
-TTG	4	6	1	2	2	2	2	3	1	7	6	3
-TCT	3	2	7	4	0	1	3	0	2	2	6	4
-TCC	6	8	6	7	2	0	2	3	2	8	5	6
-TCA	9	4	13	2	0	3	5	2	2	11	14	8
-TCG	2	1	2	1	0	1	0	0	0	3	1	1
-TAT	5	3	13	7	0	5	3	1	0	8	7	5
-TAC	7	6	5	3	0	0	8	1	0	6	5	9
-TGT	0	1	0	1	0	0	0	1	2	1	0	1
-TGC	0	0	1	1	0	1	2	0	1	4	4	2
-TGA	3	8	15	5	5	3	10	5	0	14	8	11
-TGG	5	3	2	0	0	1	2	0	1	6	5	1
-CTT	14	10	19	6	1	12	4	3	1	17	25	12
-CTC	11	13	7	1	0	4	8	4	5	14	21	5
-CTA	17	21	24	12	1	13	10	6	7	25	19	26
-CTG	11	4	6	4	0	5	1	2	7	9	11	8
-CCT	5	5	7	0	1	2	2	1	1	6	7	2
-CCC	13	6	5	5	1	4	4	0	1	7	8	9
-CCA	5	6	11	9	5	9	6	7	0	13	8	11
-CCG	1	1	5	0	0	1	1	0	0	1	3	0
-CAT	1	2	5	3	1	2	7	0	1	4	5	5
-CAC	3	5	14	6	1	1	9	0	3	7	8	7
-CAA	4	9	8	8	1	8	6	3	1	11	10	5
-CAG	3	2	0	0	0	1	3	0	2	4	9	0
-CGT	0	1	1	1	0	1	1	0	0	0	0	0
-CGC	0	1	1	2	0	1	1	1	1	2	2	2
-CGA	5	1	4	3	0	3	2	1	2	5	4	5
-CGG	3	1	2	0	0	0	1	0	0	4	3	1
-ATT	7	12	27	13	2	15	8	7	2	28	28	18
-ATC	17	9	10	5	1	4	6	3	0	9	24	12
-ATA	7	14	14	9	0	8	5	2	3	21	18	9
-ATG	5	6	9	3	1	5	3	2	2	8	15	4
-ACT	3	10	6	4	1	3	3	1	3	6	11	4
-ACC	7	19	8	4	1	6	8	2	3	10	22	9
-ACA	6	16	18	3	1	9	11	3	1	13	24	7
-ACG	2	5	3	0	1	1	1	0	2	3	6	1
-AAT	6	5	5	2	1	4	0	1	1	4	10	7
-AAC	6	3	10	4	3	5	1	0	0	8	15	10
-AAA	5	7	7	2	3	0	1	0	0	7	7	7
-AAG	2	2	1	2	0	1	1	1	0	2	15	2
-AGT	2	3	0	0	0	0	0	0	0	2	3	1
-AGC	2	3	6	3	0	4	3	1	4	3	12	1
-GTT	4	8	14	4	1	7	3	1	1	7	8	6
-GTC	0	1	6	6	2	1	4	1	0	2	10	6
-GTA	7	3	18	7	2	8	9	1	1	9	10	14
-GTG	7	6	6	3	0	3	1	1	0	4	3	1
-GCT	8	6	13	0	1	4	4	2	4	10	8	6
-GCC	16	16	19	7	0	8	10	4	1	13	28	10
-GCA	9	19	10	7	1	7	8	4	6	15	15	13
-GCG	2	1	2	1	0	0	1	1	1	4	1	2
-GAT	2	0	5	3	0	0	2	1	0	1	3	3
-GAC	2	3	9	9	0	1	3	4	1	2	9	7
-GAA	9	4	8	13	3	4	10	2	3	5	9	6
-GAG	2	2	3	2	0	1	0	5	0	6	2	1
-GGT	3	2	10	1	1	2	0	0	1	5	3	4
-GGC	4	6	10	3	1	1	5	2	3	6	8	6
-GGA	2	7	15	3	0	3	12	3	1	16	20	13
-GGG	9	3	11	2	0	4	4	1	1	3	4	2
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009772664.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	11	7	3	4	3	6	9	2	5	7	0	0	3	5	14	11	17	11	5	13	5	1	1	3	4	3	0	0	5	3	7	17	7	5	3	7	6	2	6	6	5	2	2	2	4	0	7	7	8	16	9	2	2	2	9	2	3	4	2	9	1	0	0	0
+1	ND2	YP_009772665.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	6	4	7	6	2	8	4	1	3	6	1	0	8	3	10	13	21	4	5	6	6	1	2	5	9	2	1	1	1	1	12	9	14	6	10	19	16	5	5	3	7	2	3	3	8	1	3	6	6	16	19	1	0	3	4	2	2	6	7	3	0	0	0	0
+2	COX1	YP_009772666.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	20	21	8	1	7	6	13	2	13	5	0	1	15	2	19	7	24	6	7	5	11	5	5	14	8	0	1	1	4	2	27	10	14	9	6	8	18	3	5	10	7	1	0	6	14	6	18	6	13	19	10	2	5	9	8	3	10	10	15	11	1	0	0	0
+3	COX2	YP_009772667.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	2	7	3	2	4	7	2	1	7	3	1	1	5	0	6	1	12	4	0	5	9	0	3	6	8	0	1	2	3	0	13	5	9	3	4	4	3	0	2	4	2	2	0	3	4	6	7	3	0	7	7	1	3	9	13	2	1	3	3	2	0	0	0	0
+4	ATP8	YP_009772668.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	0	3	3	2	0	2	0	0	0	0	0	0	5	0	1	0	1	0	1	1	5	0	1	1	1	0	0	0	0	0	2	1	0	1	1	1	1	1	1	3	3	0	0	0	1	2	2	0	1	0	1	0	0	0	3	0	1	1	0	0	0	1	0	0
+5	ATP6	YP_009772669.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	9	2	13	2	1	0	3	1	5	0	0	1	3	1	12	4	13	5	2	4	9	1	2	1	8	1	1	1	3	0	15	4	8	5	3	6	9	1	4	5	0	1	0	4	7	1	8	3	4	8	7	0	0	1	4	1	2	1	3	4	1	0	0	0
+6	COX3	YP_009772670.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	13	11	7	2	3	2	5	0	3	8	0	2	10	2	4	8	10	1	2	4	6	1	7	9	6	3	1	1	2	1	8	6	5	3	3	8	11	1	0	1	1	1	0	3	3	4	9	1	4	10	8	1	2	3	10	0	0	5	12	4	0	0	0	0
+7	ND3	YP_009772671.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	6	4	6	3	0	3	2	0	1	1	1	0	5	0	3	4	6	2	1	0	7	0	0	0	3	0	0	1	1	0	7	3	2	2	1	2	3	0	1	0	0	1	0	1	1	1	1	1	2	4	4	1	1	4	2	5	0	2	3	1	0	0	0	0
+8	ND4L	YP_009772672.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	3	5	2	1	2	2	2	0	0	0	2	1	0	1	1	5	7	7	1	1	0	0	1	3	1	2	0	1	2	0	2	0	3	2	3	3	1	2	1	0	0	0	0	4	1	0	1	0	4	1	6	1	0	1	3	0	1	3	1	1	1	0	0	0
+9	ND4	YP_009772673.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	9	8	12	7	2	8	11	3	8	6	1	4	14	6	17	14	25	9	6	7	13	1	4	7	11	4	0	2	5	4	28	9	21	8	6	10	13	3	4	8	7	2	2	3	7	2	9	4	10	13	15	4	1	2	5	6	5	6	16	3	0	0	0	0
+10	ND5	YP_009772674.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	23	19	10	6	6	5	14	1	7	5	0	4	8	5	25	21	19	11	7	8	8	3	5	8	10	9	0	2	4	3	28	24	18	15	11	22	24	6	10	15	7	15	3	12	8	10	10	3	8	28	15	1	3	9	9	2	3	8	20	4	1	0	0	0
+11	CYTB	YP_009772676.1	Gymnocypris waddellii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	14	18	7	3	4	6	8	1	5	9	1	2	11	1	12	5	26	8	2	9	11	0	5	7	5	0	0	2	5	1	18	12	9	4	4	9	7	1	7	10	7	2	1	1	6	6	14	1	6	10	13	2	3	7	6	1	4	6	13	2	0	0	0	0

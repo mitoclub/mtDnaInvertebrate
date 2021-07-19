@@ -1,65 +1,10 @@
-	YP_007026316.1|ND2	YP_007026317.1|COX1	YP_007026318.1|COX2	YP_007026319.1|ATP8	YP_007026320.1|ATP6	YP_007026321.1|COX3	YP_007026322.1|ND3	YP_007026326.1|ND6	YP_007026327.1|CYTB
-TTT	36	29	12	5	14	17	8	13	28
-TTC	8	12	2	0	4	9	1	2	5
-TTA	47	53	22	4	30	24	16	25	47
-TTG	3	1	0	0	0	0	0	0	1
-TCT	16	13	8	3	8	7	3	7	3
-TCC	2	0	0	0	0	0	0	1	0
-TCA	16	15	5	2	7	9	10	4	7
-TCG	1	1	0	0	0	0	0	0	0
-TAT	11	14	9	2	4	9	1	6	14
-TAC	2	3	1	0	1	1	0	2	3
-TGT	0	0	1	0	2	1	1	0	1
-TGC	0	0	1	0	0	0	0	0	2
-TGA	8	13	6	3	5	13	3	2	12
-TGG	1	1	0	0	0	0	0	0	1
-CTT	4	5	6	0	10	4	2	6	2
-CTC	0	0	0	0	0	0	0	1	1
-CTA	4	7	3	0	1	0	3	4	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	4	14	4	4	9	5	3	1	10
-CCC	2	0	1	0	0	0	0	0	2
-CCA	2	11	6	1	2	5	1	3	11
-CCG	0	0	0	0	0	0	0	0	0
-CAT	3	10	5	0	3	13	1	1	9
-CAC	2	6	1	0	3	3	0	0	2
-CAA	5	12	7	2	4	7	1	4	7
-CAG	1	0	0	0	0	1	0	0	0
-CGT	1	1	1	0	0	2	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	8	6	0	3	2	3	1	8
-CGG	0	0	0	0	0	0	0	0	0
-ATT	28	43	23	8	16	19	21	20	40
-ATC	1	3	3	0	2	1	3	0	4
-ATA	27	23	7	3	13	8	4	16	11
-ATG	1	1	2	0	2	1	0	0	1
-ACT	8	19	7	1	8	12	0	6	8
-ACC	0	2	0	0	0	0	0	1	2
-ACA	8	18	3	2	12	11	5	5	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	21	17	10	5	13	5	5	10	20
-AAC	0	2	6	0	1	3	0	2	3
-AAA	12	4	1	3	2	2	4	7	6
-AAG	2	2	3	0	0	0	0	2	1
-AGT	2	6	4	0	5	4	1	0	1
-AGC	0	2	0	1	0	0	0	0	0
-AGA	6	1	1	0	2	0	0	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	11	3	0	4	9	0	2	9
-GTC	0	0	1	0	1	0	0	1	0
-GTA	4	22	9	2	7	8	4	5	18
-GTG	0	1	0	0	0	1	0	0	1
-GCT	9	24	5	0	8	11	3	2	12
-GCC	1	3	1	0	1	0	0	0	3
-GCA	6	7	4	2	2	3	0	1	9
-GCG	0	1	0	0	0	0	0	0	0
-GAT	2	9	10	0	0	5	3	1	8
-GAC	0	6	0	0	1	1	0	1	2
-GAA	5	9	9	0	4	6	4	3	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	3	4	5	1	1	5	1	3	5
-GGC	0	0	0	0	0	0	1	0	0
-GGA	11	41	5	0	10	15	1	2	19
-GGG	0	1	0	0	0	0	0	0	0
-TAA	0	0	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007026316.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	36	8	47	3	16	2	16	1	11	2	0	0	8	1	4	0	4	0	4	2	2	0	3	2	5	1	1	0	1	0	28	1	27	1	8	0	8	0	21	0	12	2	2	0	6	0	1	0	4	0	9	1	6	0	2	0	5	0	3	0	11	0	0	0
+1	COX1	YP_007026317.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	29	12	53	1	13	0	15	1	14	3	0	0	13	1	5	0	7	0	14	0	11	0	10	6	12	0	1	0	8	0	43	3	23	1	19	2	18	0	17	2	4	2	6	2	1	0	11	0	22	1	24	3	7	1	9	6	9	0	4	0	41	1	0	0
+2	COX2	YP_007026318.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	12	2	22	0	8	0	5	0	9	1	1	1	6	0	6	0	3	0	4	1	6	0	5	1	7	0	1	0	6	0	23	3	7	2	7	0	3	0	10	6	1	3	4	0	1	0	3	1	9	0	5	1	4	0	10	0	9	0	5	0	5	0	0	0
+3	ATP8	YP_007026319.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	5	0	4	0	3	0	2	0	2	0	0	0	3	0	0	0	0	0	4	0	1	0	0	0	2	0	0	0	0	0	8	0	3	0	1	0	2	0	5	0	3	0	0	1	0	0	0	0	2	0	0	0	2	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_007026320.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	14	4	30	0	8	0	7	0	4	1	2	0	5	0	10	0	1	0	9	0	2	0	3	3	4	0	0	0	3	0	16	2	13	2	8	0	12	0	13	1	2	0	5	0	2	0	4	1	7	0	8	1	2	0	0	1	4	0	1	0	10	0	1	0
+5	COX3	YP_007026321.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	17	9	24	0	7	0	9	0	9	1	1	0	13	0	4	0	0	0	5	0	5	0	13	3	7	1	2	0	2	0	19	1	8	1	12	0	11	0	5	3	2	0	4	0	0	0	9	0	8	1	11	0	3	0	5	1	6	0	5	0	15	0	1	0
+6	ND3	YP_007026322.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	8	1	16	0	3	0	10	0	1	0	1	0	3	0	2	0	3	0	3	0	1	0	1	0	1	0	0	0	3	0	21	3	4	0	0	0	5	0	5	0	4	0	1	0	0	0	0	0	4	0	3	0	0	0	3	0	4	0	1	1	1	0	1	0
+7	ND6	YP_007026326.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	13	2	25	0	7	1	4	0	6	2	0	0	2	0	6	1	4	0	1	0	3	0	1	0	4	0	0	0	1	0	20	0	16	0	6	1	5	0	10	2	7	2	0	0	1	0	2	1	5	0	2	0	1	0	1	1	3	0	3	0	2	0	1	0
+8	CYTB	YP_007026327.1	Hemipyrellia ligurriens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Hemipyrellia	28	5	47	1	3	0	7	0	14	3	1	2	12	1	2	1	3	0	10	2	11	0	9	2	7	0	0	0	8	0	40	4	11	1	8	2	9	0	20	3	6	1	1	0	3	0	9	0	18	1	12	3	9	0	8	2	4	0	5	0	19	0	0	0

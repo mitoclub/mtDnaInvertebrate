@@ -1,65 +1,10 @@
-	YP_009159617.1|ND2	YP_009159618.1|COX1	YP_009159619.1|COX2	YP_009159620.1|ATP8	YP_009159621.1|ATP6	YP_009159622.1|COX3	YP_009159623.1|ND3	YP_009159628.1|ND6	YP_009159629.1|CYTB
-TTT	34	41	13	3	23	33	15	9	37
-TTC	9	4	3	1	5	2	2	2	3
-TTA	39	20	9	4	20	19	12	22	26
-TTG	1	5	0	0	6	5	1	2	3
-TCT	15	12	7	0	11	10	6	4	9
-TCC	1	5	3	0	0	2	0	2	0
-TCA	14	21	11	0	7	11	2	4	17
-TCG	1	0	0	0	1	1	0	0	1
-TAT	5	8	4	1	2	7	1	5	16
-TAC	3	6	2	1	1	3	1	1	3
-TGT	0	2	1	0	1	1	0	1	0
-TGC	1	0	1	0	0	0	1	0	1
-TGA	4	12	4	2	5	7	2	1	9
-TGG	2	2	1	0	0	4	0	0	0
-CTT	12	15	6	0	6	4	3	2	11
-CTC	0	5	0	0	0	0	0	1	0
-CTA	2	7	0	2	3	2	2	2	2
-CTG	1	3	0	0	0	0	0	2	3
-CCT	1	8	4	4	6	8	2	2	8
-CCC	1	5	1	0	0	0	2	0	7
-CCA	5	12	5	0	3	1	2	1	3
-CCG	0	1	0	0	0	0	0	0	1
-CAT	2	12	4	0	5	9	0	1	7
-CAC	0	5	3	0	0	1	0	0	1
-CAA	4	6	7	1	2	7	0	1	4
-CAG	0	0	0	0	0	0	0	0	1
-CGT	0	1	0	0	2	0	1	0	1
-CGC	0	1	0	0	0	0	0	0	0
-CGA	1	5	4	0	0	3	0	0	3
-CGG	0	2	0	0	0	0	0	0	1
-ATT	45	64	29	8	27	26	20	23	48
-ATC	4	4	4	0	0	1	0	1	4
-ATA	26	29	18	7	13	3	2	18	20
-ATG	1	4	2	3	4	3	0	0	5
-ACT	0	12	2	0	10	11	1	2	6
-ACC	2	4	2	1	0	0	0	0	1
-ACA	10	16	16	3	2	4	0	0	6
-ACG	0	0	0	0	0	0	0	0	0
-AAT	23	18	7	1	10	13	2	8	12
-AAC	6	5	4	0	3	1	1	2	7
-AAA	21	11	7	6	7	5	8	8	10
-AAG	0	0	0	0	1	0	0	0	1
-AGT	2	1	0	0	4	1	1	2	1
-AGC	1	0	0	0	0	1	0	0	0
-AGA	4	4	2	1	7	5	1	2	3
-AGG	0	2	0	0	0	0	0	0	0
-GTT	4	9	0	1	5	5	3	1	6
-GTC	0	0	1	0	0	2	1	0	1
-GTA	2	9	2	0	4	5	2	5	3
-GTG	1	3	0	0	2	1	1	0	0
-GCT	2	11	3	0	3	2	0	0	8
-GCC	0	6	3	0	0	1	0	0	0
-GCA	0	7	1	0	1	5	0	1	7
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	10	6	0	0	3	0	2	5
-GAC	1	3	2	0	2	1	2	0	2
-GAA	3	5	11	2	4	5	4	0	4
-GAG	0	3	2	0	0	2	1	0	0
-GGT	2	7	5	0	1	4	2	0	4
-GGC	0	5	0	0	2	0	1	0	0
-GGA	2	27	2	0	0	6	2	2	13
-GGG	1	6	0	0	0	3	0	0	3
-TAA	0	1	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009159617.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	34	9	39	1	15	1	14	1	5	3	0	1	4	2	12	0	2	1	1	1	5	0	2	0	4	0	0	0	1	0	45	4	26	1	0	2	10	0	23	6	21	0	2	1	4	0	4	0	2	1	2	0	0	0	0	1	3	0	2	0	2	1	0	0
+1	COX1	YP_009159618.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	41	4	20	5	12	5	21	0	8	6	2	0	12	2	15	5	7	3	8	5	12	1	12	5	6	0	1	1	5	2	64	4	29	4	12	4	16	0	18	5	11	0	1	0	4	2	9	0	9	3	11	6	7	1	10	3	5	3	7	5	27	6	1	0
+2	COX2	YP_009159619.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	13	3	9	0	7	3	11	0	4	2	1	1	4	1	6	0	0	0	4	1	5	0	4	3	7	0	0	0	4	0	29	4	18	2	2	2	16	0	7	4	7	0	0	0	2	0	0	1	2	0	3	3	1	0	6	2	11	2	5	0	2	0	0	0
+3	ATP8	YP_009159620.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	3	1	4	0	0	0	0	0	1	1	0	0	2	0	0	0	2	0	4	0	0	0	0	0	1	0	0	0	0	0	8	0	7	3	0	1	3	0	1	0	6	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009159621.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	23	5	20	6	11	0	7	1	2	1	1	0	5	0	6	0	3	0	6	0	3	0	5	0	2	0	2	0	0	0	27	0	13	4	10	0	2	0	10	3	7	1	4	0	7	0	5	0	4	2	3	0	1	0	0	2	4	0	1	2	0	0	1	0
+5	COX3	YP_009159622.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	33	2	19	5	10	2	11	1	7	3	1	0	7	4	4	0	2	0	8	0	1	0	9	1	7	0	0	0	3	0	26	1	3	3	11	0	4	0	13	1	5	0	1	1	5	0	5	2	5	1	2	1	5	0	3	1	5	2	4	0	6	3	0	0
+6	ND3	YP_009159623.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	15	2	12	1	6	0	2	0	1	1	0	1	2	0	3	0	2	0	2	2	2	0	0	0	0	0	1	0	0	0	20	0	2	0	1	0	0	0	2	1	8	0	1	0	1	0	3	1	2	1	0	0	0	0	0	2	4	1	2	1	2	0	0	0
+7	ND6	YP_009159628.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	9	2	22	2	4	2	4	0	5	1	1	0	1	0	2	1	2	2	2	0	1	0	1	0	1	0	0	0	0	0	23	1	18	0	2	0	0	0	8	2	8	0	2	0	2	0	1	0	5	0	0	0	1	0	2	0	0	0	0	0	2	0	1	0
+8	CYTB	YP_009159629.1	Amblyomma americanum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Amblyomminae, Amblyomma	37	3	26	3	9	0	17	1	16	3	0	1	9	0	11	0	2	3	8	7	3	1	7	1	4	1	1	0	3	1	48	4	20	5	6	1	6	0	12	7	10	1	1	0	3	0	6	1	3	0	8	0	7	0	5	2	4	0	4	0	13	3	0	0

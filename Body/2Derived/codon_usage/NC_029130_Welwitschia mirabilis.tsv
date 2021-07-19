@@ -1,65 +1,12 @@
-	YP_009227133.1|ccmFN	YP_009227134.1|ccmB	YP_009227140.1|mttB	YP_009227141.1|ccmC	YP_009227142.1|rpl10	YP_009227146.1|nad4	YP_009227148.1|atp6	YP_009227154.1|atp4	YP_009227155.1|cob	YP_009227157.1|ccmFC	YP_009227159.1|matR
-TTT	15	11	11	10	6	25	12	5	13	13	5
-TTC	14	5	10	13	6	19	10	2	14	16	21
-TTA	9	7	4	4	3	21	16	8	7	7	12
-TTG	17	6	11	6	6	10	9	9	10	16	15
-TCT	10	5	4	7	4	11	3	2	6	6	5
-TCC	13	2	6	2	4	7	3	3	5	11	19
-TCA	11	4	6	1	1	6	4	5	4	8	13
-TCG	11	6	4	3	1	1	2	2	3	5	17
-TAT	11	6	8	6	5	12	6	1	15	15	10
-TAC	12	2	7	4	3	8	2	1	6	8	12
-TGT	14	6	7	3	5	5	6	6	3	16	7
-TGC	8	1	5	0	2	5	2	5	2	5	9
-TGG	20	3	5	9	3	7	2	1	13	7	8
-CTT	11	7	3	8	1	13	8	5	10	11	11
-CTC	14	2	2	2	1	6	3	2	3	10	7
-CTA	14	5	2	5	2	17	6	3	9	8	22
-CTG	13	6	6	4	2	11	6	4	5	7	8
-CCT	12	1	4	4	1	5	3	2	11	6	9
-CCC	14	6	4	2	2	6	1	2	4	14	34
-CCA	2	5	2	3	3	3	6	1	5	9	6
-CCG	6	4	5	0	3	2	1	4	5	9	13
-CAT	11	7	0	4	6	9	6	2	10	14	5
-CAC	0	0	1	2	0	0	2	0	3	3	16
-CAA	9	4	4	7	4	9	3	4	5	9	9
-CAG	5	1	1	0	3	2	0	6	4	8	22
-CGT	12	0	8	1	1	1	0	2	4	4	12
-CGC	9	1	2	3	1	1	1	1	2	8	15
-CGA	8	2	2	1	5	7	0	6	2	3	13
-CGG	10	1	1	2	3	2	1	4	0	7	17
-ATT	10	8	7	9	7	23	8	4	16	13	17
-ATC	10	7	6	8	0	15	7	5	5	5	24
-ATA	12	6	12	8	3	13	8	5	15	15	24
-ATG	11	6	7	10	3	22	9	1	9	13	8
-ACT	16	2	5	3	2	14	4	2	5	10	12
-ACC	8	2	2	6	5	9	2	4	4	7	16
-ACA	14	3	6	6	3	5	3	3	4	6	11
-ACG	3	2	7	1	1	2	2	4	2	5	9
-AAT	12	2	4	4	3	10	11	4	6	4	7
-AAC	14	2	3	5	6	5	5	6	3	8	16
-AAA	8	5	3	4	4	4	1	0	4	11	16
-AAG	9	0	2	2	4	5	2	6	2	7	27
-AGT	13	8	4	4	7	4	5	6	8	7	9
-AGC	6	3	0	1	5	9	5	0	6	8	14
-AGA	8	1	1	0	1	4	0	3	3	9	17
-AGG	9	0	2	1	0	1	0	3	1	2	13
-GTT	10	6	7	3	1	10	5	2	4	12	10
-GTC	8	2	1	3	0	2	1	2	1	4	12
-GTA	11	3	6	5	4	9	9	2	12	10	19
-GTG	5	0	5	2	0	15	6	7	15	6	10
-GCT	11	1	3	9	3	9	8	7	12	10	12
-GCC	13	1	3	0	2	6	0	5	7	3	17
-GCA	7	1	4	5	3	8	3	1	4	5	5
-GCG	15	0	6	3	2	2	0	2	5	6	19
-GAT	5	4	3	3	1	8	4	2	7	9	5
-GAC	7	1	4	1	6	2	0	2	3	7	20
-GAA	13	8	3	8	7	11	2	9	4	9	19
-GAG	7	0	5	1	1	3	3	2	1	3	25
-GGT	12	6	3	5	3	13	7	3	9	11	18
-GGC	11	0	2	2	4	2	0	3	6	6	16
-GGA	10	2	3	4	0	12	8	2	9	15	20
-GGG	7	3	1	4	4	7	3	7	5	13	23
-TAA	1	1	1	0	0	0	1	0	0	0	0
-TAG	0	0	0	1	1	0	0	1	1	0	0
-TGA	0	0	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	ccmFN	YP_009227133.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	15	14	9	17	10	13	11	11	11	12	14	8	20	11	14	14	13	12	14	2	6	11	0	9	5	12	9	8	10	10	10	12	11	16	8	14	3	12	14	8	9	13	6	8	9	10	8	11	5	11	13	7	15	5	7	13	7	12	11	10	7	1	0	0
+1	ccmB	YP_009227134.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	11	5	7	6	5	2	4	6	6	2	6	1	3	7	2	5	6	1	6	5	4	7	0	4	1	0	1	2	1	8	7	6	6	2	2	3	2	2	2	5	0	8	3	1	0	6	2	3	0	1	1	1	0	4	1	8	0	6	0	2	3	1	0	0
+2	mttB	YP_009227140.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	11	10	4	11	4	6	6	4	8	7	7	5	5	3	2	2	6	4	4	2	5	0	1	4	1	8	2	2	1	7	6	12	7	5	2	6	7	4	3	3	2	4	0	1	2	7	1	6	5	3	3	4	6	3	4	3	5	3	2	3	1	1	0	0
+3	ccmC	YP_009227141.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	10	13	4	6	7	2	1	3	6	4	3	0	9	8	2	5	4	4	2	3	0	4	2	7	0	1	3	1	2	9	8	8	10	3	6	6	1	4	5	4	2	4	1	0	1	3	3	5	2	9	0	5	3	3	1	8	1	5	2	4	4	0	1	0
+4	rpl10	YP_009227142.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	6	6	3	6	4	4	1	1	5	3	5	2	3	1	1	2	2	1	2	3	3	6	0	4	3	1	1	5	3	7	0	3	3	2	5	3	1	3	6	4	4	7	5	1	0	1	0	4	0	3	2	3	2	1	6	7	1	3	4	0	4	0	1	0
+5	nad4	YP_009227146.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	25	19	21	10	11	7	6	1	12	8	5	5	7	13	6	17	11	5	6	3	2	9	0	9	2	1	1	7	2	23	15	13	22	14	9	5	2	10	5	4	5	4	9	4	1	10	2	9	15	9	6	8	2	8	2	11	3	13	2	12	7	0	0	1
+6	atp6	YP_009227148.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	12	10	16	9	3	3	4	2	6	2	6	2	2	8	3	6	6	3	1	6	1	6	2	3	0	0	1	0	1	8	7	8	9	4	2	3	2	11	5	1	2	5	5	0	0	5	1	9	6	8	0	3	0	4	0	2	3	7	0	8	3	1	0	0
+7	atp4	YP_009227154.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	5	2	8	9	2	3	5	2	1	1	6	5	1	5	2	3	4	2	2	1	4	2	0	4	6	2	1	6	4	4	5	5	1	2	4	3	4	4	6	0	6	6	0	3	3	2	2	2	7	7	5	1	2	2	2	9	2	3	3	2	7	0	1	0
+8	cob	YP_009227155.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	13	14	7	10	6	5	4	3	15	6	3	2	13	10	3	9	5	11	4	5	5	10	3	5	4	4	2	2	0	16	5	15	9	5	4	4	2	6	3	4	2	8	6	3	1	4	1	12	15	12	7	4	5	7	3	4	1	9	6	9	5	0	1	0
+9	ccmFC	YP_009227157.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	13	16	7	16	6	11	8	5	15	8	16	5	7	11	10	8	7	6	14	9	9	14	3	9	8	4	8	3	7	13	5	15	13	10	7	6	5	4	8	11	7	7	8	9	2	12	4	10	6	10	3	5	6	9	7	9	3	11	6	15	13	0	0	0
+10	matR	YP_009227159.1	Welwitschia mirabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Gnetidae, Welwitschiales, Welwitschiaceae, Welwitschia	5	21	12	15	5	19	13	17	10	12	7	9	8	11	7	22	8	9	34	6	13	5	16	9	22	12	15	13	17	17	24	24	8	12	16	11	9	7	16	16	27	9	14	17	13	10	12	19	10	12	17	5	19	5	20	19	25	18	16	20	23	0	0	0

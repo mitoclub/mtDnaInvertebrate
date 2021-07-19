@@ -1,65 +1,13 @@
-	YP_272034.1|ND4L	YP_272035.1|ND2	YP_272036.1|ND4	YP_272037.1|ND1	YP_272038.1|COX1	YP_272039.1|ND5	YP_272040.2|ND3	YP_272041.1|ND6	YP_272042.1|ATP6	YP_272043.1|CYTB	YP_272044.1|COX2	YP_272045.1|COX3
-TTT	8	36	36	34	45	52	14	14	22	32	12	22
-TTC	1	4	2	4	6	4	0	2	2	4	2	4
-TTA	2	6	22	12	22	24	8	7	13	10	5	7
-TTG	11	25	28	16	17	41	7	11	16	28	17	13
-TCT	4	8	9	8	16	22	5	5	10	12	4	3
-TCC	0	1	2	1	2	6	4	1	0	0	1	0
-TCA	0	1	3	2	3	2	1	0	2	1	1	0
-TCG	0	1	2	2	1	3	0	0	0	2	2	0
-TAT	3	21	15	10	15	20	3	4	1	14	4	7
-TAC	0	3	7	4	4	6	0	3	1	7	3	2
-TGT	4	6	12	8	6	18	2	5	5	4	3	7
-TGC	1	1	3	1	0	4	0	3	1	5	3	1
-TGA	0	2	0	1	0	2	0	0	1	2	1	2
-TGG	1	6	9	9	15	22	8	4	11	12	9	17
-CTT	2	8	12	12	10	10	2	5	8	9	3	2
-CTC	0	1	0	2	4	3	0	0	0	1	2	0
-CTA	1	0	2	0	6	5	2	3	3	5	3	2
-CTG	3	3	6	1	3	6	0	1	0	3	0	3
-CCT	0	6	6	6	17	9	2	2	4	13	7	6
-CCC	0	2	1	3	2	6	1	3	0	2	2	0
-CCA	0	0	1	1	6	2	0	0	1	1	1	1
-CCG	1	2	8	1	2	2	1	2	1	2	3	2
-CAT	1	4	7	2	11	4	0	0	3	7	4	5
-CAC	1	0	0	0	8	1	1	1	0	2	0	5
-CAA	0	1	0	1	0	1	1	0	0	3	1	1
-CAG	3	0	10	6	3	6	1	1	6	5	3	3
-CGT	0	4	2	1	6	4	0	2	2	4	4	3
-CGC	0	2	0	1	2	2	1	0	2	1	0	1
-CGA	0	1	0	2	1	3	0	1	0	1	0	1
-CGG	1	4	3	6	7	4	3	2	0	3	5	4
-ATT	2	12	10	7	23	15	2	2	4	19	4	12
-ATC	0	1	1	1	5	6	0	0	1	2	0	3
-ATA	2	4	8	8	7	7	2	2	3	1	1	6
-ATG	0	6	14	5	19	15	2	5	8	12	10	5
-ACT	0	3	8	1	16	13	1	4	4	6	5	9
-ACC	0	1	0	1	5	3	0	0	0	0	1	0
-ACA	0	0	1	0	3	2	0	0	0	1	0	2
-ACG	0	1	1	1	3	3	0	1	1	1	0	3
-AAT	1	3	2	6	7	6	1	2	5	8	5	1
-AAC	0	1	0	1	4	4	0	0	0	1	0	2
-AAA	0	1	2	1	2	2	0	0	0	2	2	1
-AAG	2	6	4	5	5	13	1	6	6	7	4	6
-AGT	1	3	10	4	4	5	1	3	6	4	5	1
-AGC	2	2	1	1	0	5	0	1	1	1	0	1
-AGA	0	1	1	3	3	4	0	5	3	2	1	1
-AGG	2	17	14	10	12	25	3	6	14	18	6	10
-GTT	3	17	33	20	13	20	3	8	13	18	15	15
-GTC	0	0	0	2	4	3	0	0	0	0	0	0
-GTA	1	6	5	5	4	6	1	5	7	1	5	1
-GTG	6	16	12	13	29	27	7	18	10	17	14	10
-GCT	2	3	15	11	19	19	3	4	6	16	2	17
-GCC	2	4	1	2	3	4	2	4	2	2	4	2
-GCA	1	3	2	1	2	2	0	1	4	1	0	1
-GCG	0	3	4	0	5	11	1	5	3	5	3	1
-GAT	1	3	5	2	8	6	3	0	3	5	10	6
-GAC	1	1	0	2	4	4	1	0	0	5	1	0
-GAA	0	0	0	0	1	2	2	1	1	2	1	0
-GAG	2	4	10	12	7	20	4	2	3	8	10	6
-GGT	2	11	20	10	11	17	2	6	9	12	6	7
-GGC	1	8	8	1	1	7	0	3	2	0	1	2
-GGA	1	4	4	3	7	4	0	1	2	2	1	2
-GGG	15	17	23	19	28	45	8	11	13	21	6	18
-TAA	0	0	1	0	0	0	0	0	0	1	0	0
-TAG	1	1	0	1	0	1	1	1	1	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND4L	YP_272034.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	8	1	2	11	4	0	0	0	3	0	4	1	0	1	2	0	1	3	0	0	0	1	1	1	0	3	0	0	0	1	2	0	2	0	0	0	0	0	1	0	0	2	1	2	0	2	3	0	1	6	2	2	1	0	1	1	0	2	2	1	1	15	0	1
+1	ND2	YP_272035.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	36	4	6	25	8	1	1	1	21	3	6	1	2	6	8	1	0	3	6	2	0	2	4	0	1	0	4	2	1	4	12	1	4	6	3	1	0	1	3	1	1	6	3	2	1	17	17	0	6	16	3	4	3	3	3	1	0	4	11	8	4	17	0	1
+2	ND4	YP_272036.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	36	2	22	28	9	2	3	2	15	7	12	3	0	9	12	0	2	6	6	1	1	8	7	0	0	10	2	0	0	3	10	1	8	14	8	0	1	1	2	0	2	4	10	1	1	14	33	0	5	12	15	1	2	4	5	0	0	10	20	8	4	23	1	0
+3	ND1	YP_272037.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	34	4	12	16	8	1	2	2	10	4	8	1	1	9	12	2	0	1	6	3	1	1	2	0	1	6	1	1	2	6	7	1	8	5	1	1	0	1	6	1	1	5	4	1	3	10	20	2	5	13	11	2	1	0	2	2	0	12	10	1	3	19	0	1
+4	COX1	YP_272038.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	45	6	22	17	16	2	3	1	15	4	6	0	0	15	10	4	6	3	17	2	6	2	11	8	0	3	6	2	1	7	23	5	7	19	16	5	3	3	7	4	2	5	4	0	3	12	13	4	4	29	19	3	2	5	8	4	1	7	11	1	7	28	0	0
+5	ND5	YP_272039.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	52	4	24	41	22	6	2	3	20	6	18	4	2	22	10	3	5	6	9	6	2	2	4	1	1	6	4	2	3	4	15	6	7	15	13	3	2	3	6	4	2	13	5	5	4	25	20	3	6	27	19	4	2	11	6	4	2	20	17	7	4	45	0	1
+6	ND3	YP_272040.2	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	14	0	8	7	5	4	1	0	3	0	2	0	0	8	2	0	2	0	2	1	0	1	0	1	1	1	0	1	0	3	2	0	2	2	1	0	0	0	1	0	0	1	1	0	0	3	3	0	1	7	3	2	0	1	3	1	2	4	2	0	0	8	0	1
+7	ND6	YP_272041.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	14	2	7	11	5	1	0	0	4	3	5	3	0	4	5	0	3	1	2	3	0	2	0	1	0	1	2	0	1	2	2	0	2	5	4	0	0	1	2	0	0	6	3	1	5	6	8	0	5	18	4	4	1	5	0	0	1	2	6	3	1	11	0	1
+8	ATP6	YP_272042.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	22	2	13	16	10	0	2	0	1	1	5	1	1	11	8	0	3	0	4	0	1	1	3	0	0	6	2	2	0	0	4	1	3	8	4	0	0	1	5	0	0	6	6	1	3	14	13	0	7	10	6	2	4	3	3	0	1	3	9	2	2	13	0	1
+9	CYTB	YP_272043.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	32	4	10	28	12	0	1	2	14	7	4	5	2	12	9	1	5	3	13	2	1	2	7	2	3	5	4	1	1	3	19	2	1	12	6	0	1	1	8	1	2	7	4	1	2	18	18	0	1	17	16	2	1	5	5	5	2	8	12	0	2	21	1	0
+10	COX2	YP_272044.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	12	2	5	17	4	1	1	2	4	3	3	3	1	9	3	2	3	0	7	2	1	3	4	0	1	3	4	0	0	5	4	0	1	10	5	1	0	0	5	0	2	4	5	0	1	6	15	0	5	14	2	4	0	3	10	1	1	10	6	1	1	6	0	0
+11	COX3	YP_272045.1	Placopecten magellanicus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Pectinoida, Pectinoidea, Pectinidae, Placopecten	22	4	7	13	3	0	0	0	7	2	7	1	2	17	2	0	2	3	6	0	1	2	5	5	1	3	3	1	1	4	12	3	6	5	9	0	2	3	1	2	1	6	1	1	1	10	15	0	1	10	17	2	1	1	6	0	0	6	7	2	2	18	0	1

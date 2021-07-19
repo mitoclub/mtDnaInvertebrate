@@ -1,65 +1,13 @@
-	YP_009305720.1|ND1	YP_009305721.1|ND2	YP_009305722.1|COX1	YP_009305723.1|COX2	YP_009305724.1|ATP8	YP_009305725.1|ATP6	YP_009305726.1|COX3	YP_009305727.1|ND3	YP_009305728.1|ND4L	YP_009305729.1|ND4	YP_009305730.1|ND5	YP_009305731.1|CYTB
-TTT	2	2	5	1	2	1	4	3	0	1	5	3
-TTC	16	10	38	8	1	9	18	6	6	10	31	26
-TTA	6	8	1	2	0	4	5	0	2	2	5	5
-TTG	1	0	0	0	0	0	0	0	0	0	0	0
-TCT	2	3	1	0	1	0	2	0	3	4	5	2
-TCC	7	11	13	10	2	6	6	7	2	10	16	8
-TCA	9	10	11	4	2	5	6	2	2	12	20	14
-TCG	1	0	0	1	0	1	0	0	0	1	0	0
-TAT	0	1	1	2	0	0	3	0	0	2	1	1
-TAC	15	7	16	4	0	3	8	2	2	11	18	11
-TGT	1	0	0	0	0	0	0	0	0	1	3	1
-TGC	2	2	1	3	0	0	1	1	3	2	3	3
-TGA	7	10	17	4	5	4	12	4	1	9	12	11
-TGG	1	1	0	1	0	0	0	1	0	3	0	0
-CTT	2	10	6	4	1	2	2	1	0	4	9	2
-CTC	11	8	4	4	2	8	9	4	0	19	9	11
-CTA	42	31	46	19	2	47	14	20	17	62	72	40
-CTG	4	4	4	2	0	3	3	2	1	5	8	9
-CCT	3	3	5	1	0	1	4	0	0	5	6	4
-CCC	5	6	2	2	4	5	1	2	1	6	4	5
-CCA	17	9	23	10	5	9	7	4	2	16	20	15
-CCG	0	1	0	0	0	0	0	1	0	0	2	0
-CAT	0	2	6	2	1	0	0	0	1	2	3	4
-CAC	2	7	13	6	0	3	15	1	6	14	8	8
-CAA	3	8	7	6	2	8	8	3	1	12	18	6
-CAG	3	2	2	1	0	0	1	0	1	2	0	2
-CGT	3	0	1	0	0	1	0	0	0	1	2	2
-CGC	1	1	1	2	0	0	1	0	0	0	1	2
-CGA	3	3	6	4	0	3	4	0	2	9	4	4
-CGG	1	0	0	0	0	1	0	2	0	1	1	0
-ATT	5	6	13	4	2	3	6	2	1	10	9	9
-ATC	19	20	24	10	3	12	10	6	2	34	43	25
-ATA	8	22	19	9	2	5	6	3	5	26	24	5
-ATG	5	3	6	3	2	1	1	2	2	6	5	1
-ACT	4	5	7	4	1	1	3	2	2	8	6	2
-ACC	7	18	13	4	4	11	10	4	6	19	32	11
-ACA	9	15	17	7	2	11	8	0	2	17	25	10
-ACG	0	0	0	1	0	1	0	0	0	2	1	1
-AAT	3	5	4	2	1	2	0	0	0	2	2	0
-AAC	9	8	11	4	2	8	3	3	2	15	24	20
-AAA	7	13	9	3	4	4	3	1	1	10	19	9
-AAG	0	1	0	1	0	0	1	0	0	0	0	1
-AGT	0	0	1	0	0	0	0	0	0	2	1	1
-AGC	6	4	2	6	1	4	5	1	4	6	11	1
-GTT	1	2	4	1	0	0	1	0	0	1	0	0
-GTC	4	6	8	9	0	2	8	1	1	2	2	6
-GTA	11	2	19	5	1	7	8	1	1	7	15	11
-GTG	1	1	9	3	0	2	0	1	0	0	0	2
-GCT	7	5	9	5	0	1	3	0	1	7	3	4
-GCC	11	15	20	7	0	8	13	7	5	18	25	16
-GCA	10	15	19	5	0	6	6	1	3	11	17	5
-GCG	0	1	0	0	0	0	0	0	0	1	2	2
-GAT	0	0	1	0	0	0	1	0	0	0	0	1
-GAC	4	2	14	12	0	2	5	4	1	2	9	7
-GAA	9	3	9	9	0	4	7	6	1	8	11	6
-GAG	2	1	1	2	0	0	0	0	1	2	0	1
-GGT	4	1	7	2	0	1	0	0	1	1	3	2
-GGC	4	2	8	1	0	4	6	1	2	6	8	5
-GGA	7	8	30	3	0	3	12	3	1	9	20	15
-GGG	0	2	2	2	0	0	1	1	0	1	2	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009305720.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	2	16	6	1	2	7	9	1	0	15	1	2	7	1	2	11	42	4	3	5	17	0	0	2	3	3	3	1	3	1	5	19	8	5	4	7	9	0	3	9	7	0	0	6	1	4	11	1	7	11	10	0	0	4	9	2	4	4	7	0	0	1	0	0
+1	ND2	YP_009305721.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	2	10	8	0	3	11	10	0	1	7	0	2	10	1	10	8	31	4	3	6	9	1	2	7	8	2	0	1	3	0	6	20	22	3	5	18	15	0	5	8	13	1	0	4	2	6	2	1	5	15	15	1	0	2	3	1	1	2	8	2	0	0	0	0
+2	COX1	YP_009305722.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	5	38	1	0	1	13	11	0	1	16	0	1	17	0	6	4	46	4	5	2	23	0	6	13	7	2	1	1	6	0	13	24	19	6	7	13	17	0	4	11	9	0	1	2	4	8	19	9	9	20	19	0	1	14	9	1	7	8	30	2	0	0	0	1
+3	COX2	YP_009305723.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	1	8	2	0	0	10	4	1	2	4	0	3	4	1	4	4	19	2	1	2	10	0	2	6	6	1	0	2	4	0	4	10	9	3	4	4	7	1	2	4	3	1	0	6	1	9	5	3	5	7	5	0	0	12	9	2	2	1	3	2	1	0	0	0
+4	ATP8	YP_009305724.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	2	1	0	0	1	2	2	0	0	0	0	0	5	0	1	2	2	0	0	4	5	0	1	0	2	0	0	0	0	0	2	3	2	2	1	4	2	0	1	2	4	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009305725.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	1	9	4	0	0	6	5	1	0	3	0	0	4	0	2	8	47	3	1	5	9	0	0	3	8	0	1	0	3	1	3	12	5	1	1	11	11	1	2	8	4	0	0	4	0	2	7	2	1	8	6	0	0	2	4	0	1	4	3	0	1	0	0	0
+6	COX3	YP_009305726.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	4	18	5	0	2	6	6	0	3	8	0	1	12	0	2	9	14	3	4	1	7	0	0	15	8	1	0	1	4	0	6	10	6	1	3	10	8	0	0	3	3	1	0	5	1	8	8	0	3	13	6	0	1	5	7	0	0	6	12	1	0	0	0	0
+7	ND3	YP_009305727.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	3	6	0	0	0	7	2	0	0	2	0	1	4	1	1	4	20	2	0	2	4	1	0	1	3	0	0	0	0	2	2	6	3	2	2	4	0	0	0	3	1	0	0	1	0	1	1	1	0	7	1	0	0	4	6	0	0	1	3	1	1	0	0	0
+8	ND4L	YP_009305728.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	0	6	2	0	3	2	2	0	0	2	0	3	1	0	0	0	17	1	0	1	2	0	1	6	1	1	0	0	2	0	1	2	5	2	2	6	2	0	0	2	1	0	0	4	0	1	1	0	1	5	3	0	0	1	1	1	1	2	1	0	1	0	0	0
+9	ND4	YP_009305729.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	1	10	2	0	4	10	12	1	2	11	1	2	9	3	4	19	62	5	5	6	16	0	2	14	12	2	1	0	9	1	10	34	26	6	8	19	17	2	2	15	10	0	2	6	1	2	7	0	7	18	11	1	0	2	8	2	1	6	9	1	0	0	0	0
+10	ND5	YP_009305730.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	5	31	5	0	5	16	20	0	1	18	3	3	12	0	9	9	72	8	6	4	20	2	3	8	18	0	2	1	4	1	9	43	24	5	6	32	25	1	2	24	19	0	1	11	0	2	15	0	3	25	17	2	0	9	11	0	3	8	20	2	0	0	1	0
+11	CYTB	YP_009305731.1	Moho braccatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Mohoidae, Moho	3	26	5	0	2	8	14	0	1	11	1	3	11	0	2	11	40	9	4	5	15	0	4	8	6	2	2	2	4	0	9	25	5	1	2	11	10	1	0	20	9	1	1	1	0	6	11	2	4	16	5	2	1	7	6	1	2	5	15	2	1	0	0	0

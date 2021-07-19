@@ -1,65 +1,13 @@
-	YP_003162746.1|ND1	YP_003162747.1|ND2	YP_003162748.1|COX1	YP_003162749.1|COX2	YP_003162750.1|ATP8	YP_003162751.1|ATP6	YP_003162752.1|COX3	YP_003162753.1|ND3	YP_003162754.1|ND4L	YP_003162755.1|ND4	YP_003162756.1|ND5	YP_003162758.1|CYTB
-TTT	7	3	13	4	2	5	9	3	5	5	17	14
-TTC	11	9	29	5	3	8	15	6	2	12	24	18
-TTA	8	10	6	2	0	11	3	2	1	11	9	5
-TTG	1	2	1	1	0	0	0	1	0	4	2	1
-TCT	1	1	7	5	1	2	5	2	1	3	7	2
-TCC	6	13	9	5	0	1	2	1	3	7	15	11
-TCA	8	6	3	3	0	1	3	4	4	7	8	6
-TCG	1	1	3	0	0	0	0	0	1	1	2	2
-TAT	7	3	4	2	1	2	3	0	0	6	4	7
-TAC	4	6	14	7	0	1	9	2	0	8	6	7
-TGT	0	0	0	1	0	0	1	0	1	0	1	0
-TGC	0	0	1	1	0	0	1	1	2	5	6	3
-TGA	8	9	15	5	5	5	12	3	1	15	11	11
-TGG	0	2	2	0	0	0	0	2	0	4	3	2
-CTT	14	17	16	12	1	15	9	7	8	26	26	13
-CTC	13	23	16	2	0	15	8	8	6	25	18	17
-CTA	26	26	16	9	1	9	11	7	10	27	24	19
-CTG	5	2	7	2	1	5	0	2	0	2	12	5
-CCT	8	5	10	2	3	5	2	3	1	8	11	6
-CCC	8	8	10	7	3	5	8	3	2	12	9	10
-CCA	8	8	7	5	3	7	2	2	0	8	8	4
-CCG	0	2	1	0	0	1	0	0	0	1	2	1
-CAT	2	0	8	4	2	1	7	0	0	5	4	6
-CAC	4	7	11	6	0	2	9	1	3	6	11	7
-CAA	7	13	6	9	2	9	8	3	3	11	12	5
-CAG	0	1	2	0	0	1	1	0	1	0	6	1
-CGT	3	0	2	1	0	1	0	0	0	1	0	0
-CGC	1	2	0	2	0	3	0	1	1	1	3	2
-CGA	4	2	5	3	0	1	4	1	2	8	7	6
-CGG	0	0	1	0	0	0	1	0	0	1	0	0
-ATT	9	8	24	10	2	9	6	2	1	20	27	14
-ATC	17	10	18	13	1	9	9	7	0	11	25	17
-ATA	6	12	14	8	0	7	7	1	3	19	28	6
-ATG	2	5	10	3	2	6	2	2	1	9	7	2
-ACT	6	6	5	3	3	3	4	0	1	9	8	3
-ACC	8	23	10	1	0	6	5	3	6	19	21	11
-ACA	6	12	19	4	2	11	14	5	1	18	29	14
-ACG	0	3	3	1	0	0	1	1	0	3	3	1
-AAT	4	2	5	2	0	2	1	0	1	4	12	3
-AAC	7	8	10	2	2	7	0	1	2	8	14	13
-AAA	6	8	8	4	3	1	2	1	0	9	20	7
-AAG	1	1	0	0	0	0	0	0	0	0	1	2
-AGT	0	2	3	1	0	1	1	0	0	2	7	0
-AGC	3	1	2	3	1	3	2	1	1	8	8	3
-GTT	4	1	7	5	0	2	4	3	1	2	6	5
-GTC	7	2	10	3	2	4	5	2	0	4	7	9
-GTA	5	3	19	6	1	4	6	0	1	7	10	7
-GTG	0	0	5	2	1	1	0	0	0	1	2	2
-GCT	4	4	10	2	0	4	4	0	1	3	10	5
-GCC	20	19	18	7	2	9	8	5	7	23	24	14
-GCA	10	10	21	8	1	4	10	1	4	12	18	10
-GCG	0	1	0	1	1	1	1	0	0	0	0	1
-GAT	3	1	2	3	0	0	1	2	1	1	5	5
-GAC	1	3	12	10	1	1	4	2	1	3	8	5
-GAA	8	3	11	12	2	3	9	6	1	8	10	3
-GAG	3	1	1	2	0	1	1	0	1	4	3	3
-GGT	3	2	12	2	0	2	4	0	0	5	5	4
-GGC	8	6	12	4	0	4	8	3	3	8	17	8
-GGA	5	7	15	2	0	4	6	3	2	5	7	7
-GGG	3	3	5	1	0	2	3	0	0	5	2	5
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003162746.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	7	11	8	1	1	6	8	1	7	4	0	0	8	0	14	13	26	5	8	8	8	0	2	4	7	0	3	1	4	0	9	17	6	2	6	8	6	0	4	7	6	1	0	3	4	7	5	0	4	20	10	0	3	1	8	3	3	8	5	3	1	0	0	0
+1	ND2	YP_003162747.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	3	9	10	2	1	13	6	1	3	6	0	0	9	2	17	23	26	2	5	8	8	2	0	7	13	1	0	2	2	0	8	10	12	5	6	23	12	3	2	8	8	1	2	1	1	2	3	0	4	19	10	1	1	3	3	1	2	6	7	3	0	0	0	0
+2	COX1	YP_003162748.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	13	29	6	1	7	9	3	3	4	14	0	1	15	2	16	16	16	7	10	10	7	1	8	11	6	2	2	0	5	1	24	18	14	10	5	10	19	3	5	10	8	0	3	2	7	10	19	5	10	18	21	0	2	12	11	1	12	12	15	5	1	0	0	0
+3	COX2	YP_003162749.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	4	5	2	1	5	5	3	0	2	7	1	1	5	0	12	2	9	2	2	7	5	0	4	6	9	0	1	2	3	0	10	13	8	3	3	1	4	1	2	2	4	0	1	3	5	3	6	2	2	7	8	1	3	10	12	2	2	4	2	1	0	0	0	0
+4	ATP8	YP_003162750.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	2	3	0	0	1	0	0	0	1	0	0	0	5	0	1	0	1	1	3	3	3	0	2	0	2	0	0	0	0	0	2	1	0	2	3	0	2	0	0	2	3	0	0	1	0	2	1	1	0	2	1	1	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003162751.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	5	8	11	0	2	1	1	0	2	1	0	0	5	0	15	15	9	5	5	5	7	1	1	2	9	1	1	3	1	0	9	9	7	6	3	6	11	0	2	7	1	0	1	3	2	4	4	1	4	9	4	1	0	1	3	1	2	4	4	2	0	0	0	0
+6	COX3	YP_003162752.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	9	15	3	0	5	2	3	0	3	9	1	1	12	0	9	8	11	0	2	8	2	0	7	9	8	1	0	0	4	1	6	9	7	2	4	5	14	1	1	0	2	0	1	2	4	5	6	0	4	8	10	1	1	4	9	1	4	8	6	3	0	0	0	0
+7	ND3	YP_003162753.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	3	6	2	1	2	1	4	0	0	2	0	1	3	2	7	8	7	2	3	3	2	0	0	1	3	0	0	1	1	0	2	7	1	2	0	3	5	1	0	1	1	0	0	1	3	2	0	0	0	5	1	0	2	2	6	0	0	3	3	0	0	0	0	0
+8	ND4L	YP_003162754.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	5	2	1	0	1	3	4	1	0	0	1	2	1	0	8	6	10	0	1	2	0	0	0	3	3	1	0	1	2	0	1	0	3	1	1	6	1	0	1	2	0	0	0	1	1	0	1	0	1	7	4	0	1	1	1	1	0	3	2	0	1	0	0	0
+9	ND4	YP_003162755.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	5	12	11	4	3	7	7	1	6	8	0	5	15	4	26	25	27	2	8	12	8	1	5	6	11	0	1	1	8	1	20	11	19	9	9	19	18	3	4	8	9	0	2	8	2	4	7	1	3	23	12	0	1	3	8	4	5	8	5	5	0	0	0	0
+10	ND5	YP_003162756.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	17	24	9	2	7	15	8	2	4	6	1	6	11	3	26	18	24	12	11	9	8	2	4	11	12	6	0	3	7	0	27	25	28	7	8	21	29	3	12	14	20	1	7	8	6	7	10	2	10	24	18	0	5	8	10	3	5	17	7	2	1	0	0	0
+11	CYTB	YP_003162758.1	Microcanthus strigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Microcanthinae, Microcanthus	14	18	5	1	2	11	6	2	7	7	0	3	11	2	13	17	19	5	6	10	4	1	6	7	5	1	0	2	6	0	14	17	6	2	3	11	14	1	3	13	7	2	0	3	5	9	7	2	5	14	10	1	5	5	3	3	4	8	7	5	0	0	0	0

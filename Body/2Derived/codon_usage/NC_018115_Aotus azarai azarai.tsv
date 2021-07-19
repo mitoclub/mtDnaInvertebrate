@@ -1,65 +1,13 @@
-	YP_006503744.1|ND1	YP_006503745.1|ND2	YP_006503746.1|COX1	YP_006503747.1|COX2	YP_006503748.1|ATP8	YP_006503749.1|ATP6	YP_006503750.1|COX3	YP_006503751.1|ND3	YP_006503752.1|ND4L	YP_006503753.1|ND4	YP_006503754.1|ND5	YP_006503756.1|CYTB
-TTT	12	8	19	5	3	6	7	5	3	8	17	14
-TTC	6	6	22	6	1	4	16	2	1	12	29	16
-TTA	9	9	14	6	5	12	4	5	5	22	12	9
-TTG	0	0	0	1	0	1	0	0	0	1	0	0
-TCT	5	3	9	2	1	6	5	2	3	6	12	6
-TCC	5	12	7	3	1	4	3	0	1	7	10	9
-TCA	11	12	15	9	3	3	4	0	2	14	19	7
-TCG	1	0	0	0	0	0	1	0	0	0	2	1
-TAT	5	4	13	8	2	3	6	2	2	8	10	8
-TAC	7	6	8	5	1	1	9	1	4	8	5	6
-TGT	0	0	1	0	0	0	1	1	1	3	3	0
-TGC	1	0	0	2	0	0	0	0	2	1	0	2
-TGA	9	11	15	5	3	3	12	4	0	12	11	11
-TGG	0	0	1	0	0	0	0	0	0	0	1	1
-CTT	6	10	12	8	1	10	4	1	3	12	15	14
-CTC	9	7	6	3	0	3	5	1	1	19	15	7
-CTA	33	33	26	11	3	17	11	19	15	37	42	23
-CTG	1	2	3	1	1	3	2	1	3	2	4	3
-CCT	4	2	12	2	2	1	3	3	2	3	2	2
-CCC	9	10	6	3	0	7	6	2	0	12	14	12
-CCA	6	11	8	6	4	4	5	1	0	11	11	9
-CCG	0	0	2	1	0	0	0	0	0	0	0	0
-CAT	2	2	10	3	0	2	8	1	0	3	7	6
-CAC	3	3	8	3	1	3	8	0	2	7	9	5
-CAA	6	9	7	7	4	8	9	3	2	8	20	8
-CAG	0	0	0	1	0	1	0	0	0	0	0	0
-CGT	0	0	1	3	0	0	1	0	1	1	3	0
-CGC	1	2	2	1	0	0	1	1	0	0	2	2
-CGA	6	1	5	1	0	4	3	0	0	9	3	5
-CGG	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	14	25	32	13	4	17	6	8	4	27	35	24
-ATC	11	11	10	11	1	10	7	3	2	10	26	15
-ATA	17	35	23	11	4	11	10	5	8	39	31	16
-ATG	3	4	7	2	1	4	1	0	1	4	3	2
-ACT	6	4	13	2	2	4	7	3	1	9	12	9
-ACC	7	9	9	6	2	6	6	2	0	10	23	10
-ACA	13	20	15	7	2	11	13	5	3	22	26	11
-ACG	2	0	2	0	0	0	0	0	0	2	1	1
-AAT	5	9	8	3	2	5	3	3	3	10	16	5
-AAC	7	8	10	3	0	7	2	4	2	12	13	8
-AAA	7	10	10	4	7	3	2	2	0	12	16	7
-AAG	1	2	1	0	0	2	0	1	0	0	3	4
-AGT	0	0	1	0	0	1	2	0	0	2	6	1
-AGC	2	4	3	4	0	1	2	0	0	7	11	2
-GTT	3	1	8	3	0	0	3	1	2	3	5	3
-GTC	2	0	8	2	0	3	3	1	0	3	2	3
-GTA	6	7	14	3	0	7	8	0	3	2	8	8
-GTG	1	0	4	0	1	0	0	0	2	1	1	0
-GCT	5	4	9	6	1	5	3	4	1	4	9	5
-GCC	11	6	14	5	0	2	11	4	3	16	14	11
-GCA	12	5	14	5	1	7	7	3	3	6	16	8
-GCG	0	0	0	0	0	1	0	0	0	0	0	0
-GAT	2	1	9	4	1	1	2	0	1	2	3	5
-GAC	1	1	5	6	0	1	1	2	0	1	7	7
-GAA	11	4	8	13	1	1	7	6	2	9	8	3
-GAG	0	1	3	1	0	1	1	0	0	0	3	2
-GGT	2	0	11	2	0	1	3	0	1	4	2	5
-GGC	8	5	11	3	0	2	7	1	2	8	12	8
-GGA	2	6	20	3	0	5	9	1	1	6	9	9
-GGG	0	1	4	0	0	1	1	1	0	1	2	1
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006503744.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	12	6	9	0	5	5	11	1	5	7	0	1	9	0	6	9	33	1	4	9	6	0	2	3	6	0	0	1	6	0	14	11	17	3	6	7	13	2	5	7	7	1	0	2	3	2	6	1	5	11	12	0	2	1	11	0	2	8	2	0	0	0	0	0
+1	ND2	YP_006503745.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	8	6	9	0	3	12	12	0	4	6	0	0	11	0	10	7	33	2	2	10	11	0	2	3	9	0	0	2	1	0	25	11	35	4	4	9	20	0	9	8	10	2	0	4	1	0	7	0	4	6	5	0	1	1	4	1	0	5	6	1	0	0	0	0
+2	COX1	YP_006503746.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	19	22	14	0	9	7	15	0	13	8	1	0	15	1	12	6	26	3	12	6	8	2	10	8	7	0	1	2	5	0	32	10	23	7	13	9	15	2	8	10	10	1	1	3	8	8	14	4	9	14	14	0	9	5	8	3	11	11	20	4	0	0	0	1
+3	COX2	YP_006503747.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	5	6	6	1	2	3	9	0	8	5	0	2	5	0	8	3	11	1	2	3	6	1	3	3	7	1	3	1	1	1	13	11	11	2	2	6	7	0	3	3	4	0	0	4	3	2	3	0	6	5	5	0	4	6	13	1	2	3	3	0	0	0	0	0
+4	ATP8	YP_006503748.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	3	1	5	0	1	1	3	0	2	1	0	0	3	0	1	0	3	1	2	0	4	0	0	1	4	0	0	0	0	0	4	1	4	1	2	2	2	0	2	0	7	0	0	0	0	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_006503749.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	6	4	12	1	6	4	3	0	3	1	0	0	3	0	10	3	17	3	1	7	4	0	2	3	8	1	0	0	4	0	17	10	11	4	4	6	11	0	5	7	3	2	1	1	0	3	7	0	5	2	7	1	1	1	1	1	1	2	5	1	1	0	0	0
+6	COX3	YP_006503750.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	7	16	4	0	5	3	4	1	6	9	1	0	12	0	4	5	11	2	3	6	5	0	8	8	9	0	1	1	3	0	6	7	10	1	7	6	13	0	3	2	2	0	2	2	3	3	8	0	3	11	7	0	2	1	7	1	3	7	9	1	0	0	0	0
+7	ND3	YP_006503751.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	5	2	5	0	2	0	0	0	2	1	1	0	4	0	1	1	19	1	3	2	1	0	1	0	3	0	0	1	0	0	8	3	5	0	3	2	5	0	3	4	2	1	0	0	1	1	0	0	4	4	3	0	0	2	6	0	0	1	1	1	0	0	0	0
+8	ND4L	YP_006503752.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	3	1	5	0	3	1	2	0	2	4	1	2	0	0	3	1	15	3	2	0	0	0	0	2	2	0	1	0	0	0	4	2	8	1	1	0	3	0	3	2	0	0	0	0	2	0	3	2	1	3	3	0	1	0	2	0	1	2	1	0	1	0	0	0
+9	ND4	YP_006503753.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	8	12	22	1	6	7	14	0	8	8	3	1	12	0	12	19	37	2	3	12	11	0	3	7	8	0	1	0	9	0	27	10	39	4	9	10	22	2	10	12	12	0	2	7	3	3	2	1	4	16	6	0	2	1	9	0	4	8	6	1	0	0	0	0
+10	ND5	YP_006503754.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	17	29	12	0	12	10	19	2	10	5	3	0	11	1	15	15	42	4	2	14	11	0	7	9	20	0	3	2	3	0	35	26	31	3	12	23	26	1	16	13	16	3	6	11	5	2	8	1	9	14	16	0	3	7	8	3	2	12	9	2	1	0	0	0
+11	CYTB	YP_006503756.1	Aotus azarai azarai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Aotidae, Aotus	14	16	9	0	6	9	7	1	8	6	0	2	11	1	14	7	23	3	2	12	9	0	6	5	8	0	0	2	5	0	24	15	16	2	9	10	11	1	5	8	7	4	1	2	3	3	8	0	5	11	8	0	5	7	3	2	5	8	9	1	0	1	0	0

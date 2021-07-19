@@ -1,65 +1,10 @@
-	YP_009559295.1|ND2	YP_009559296.1|COX1	YP_009559297.1|COX2	YP_009559298.1|ATP8	YP_009559299.1|ATP6	YP_009559300.1|COX3	YP_009559301.1|ND3	YP_009559305.1|ND6	YP_009559306.1|CYTB
-TTT	19	21	9	5	11	17	5	13	21
-TTC	5	19	6	1	2	8	3	3	10
-TTA	20	22	11	2	15	11	7	18	32
-TTG	6	3	0	0	1	0	3	2	2
-TCT	11	8	6	1	8	9	5	8	11
-TCC	5	3	1	1	1	0	3	1	0
-TCA	13	15	4	3	5	4	4	7	4
-TCG	5	2	0	0	0	0	0	1	0
-TAT	5	8	5	0	5	7	0	5	13
-TAC	5	7	2	2	0	3	1	2	4
-TGT	1	0	2	0	0	3	0	3	2
-TGC	1	0	0	0	0	0	1	0	1
-TGA	7	10	6	3	6	10	2	0	10
-TGG	2	5	0	0	0	3	1	1	3
-CTT	8	17	6	1	7	10	2	7	13
-CTC	5	7	2	0	3	2	2	1	1
-CTA	13	13	7	3	17	6	5	3	10
-CTG	3	0	1	0	0	1	0	1	1
-CCT	2	11	3	1	6	3	3	3	8
-CCC	3	1	2	0	2	1	0	0	2
-CCA	6	13	4	2	5	3	1	1	10
-CCG	3	3	1	0	0	1	0	1	2
-CAT	2	11	2	0	2	7	0	0	7
-CAC	4	7	3	0	4	9	1	1	5
-CAA	5	7	4	2	3	6	2	1	4
-CAG	5	2	3	0	1	1	0	1	4
-CGT	1	3	3	0	2	3	0	1	2
-CGC	0	0	0	0	0	0	1	0	1
-CGA	2	6	4	0	1	1	2	1	3
-CGG	0	1	0	0	0	0	0	0	2
-ATT	11	34	17	0	11	14	13	13	23
-ATC	10	7	6	2	3	5	6	4	6
-ATA	24	19	8	6	13	6	2	11	9
-ATG	7	9	1	0	1	2	0	1	5
-ACT	1	14	6	5	4	9	0	8	14
-ACC	4	3	2	0	3	2	2	3	1
-ACA	7	13	8	1	11	7	3	4	8
-ACG	2	2	0	1	0	1	0	1	0
-AAT	3	10	9	2	4	3	1	6	9
-AAC	6	6	2	0	4	2	2	2	8
-AAA	8	6	2	4	2	2	3	2	7
-AAG	5	0	0	1	0	0	1	1	1
-AGT	2	3	1	0	1	0	0	1	4
-AGC	3	0	1	0	1	4	0	0	0
-AGA	3	5	4	0	7	5	0	0	2
-AGG	0	1	1	0	1	1	0	0	0
-GTT	9	16	3	1	11	11	1	8	16
-GTC	6	4	1	0	1	1	2	0	0
-GTA	5	18	11	2	6	7	3	2	8
-GTG	3	3	1	0	2	1	1	2	2
-GCT	12	19	5	0	5	8	3	0	14
-GCC	5	7	2	0	2	4	1	1	5
-GCA	5	14	6	0	7	8	3	5	7
-GCG	2	0	1	0	1	1	1	0	2
-GAT	1	7	7	0	0	3	2	3	7
-GAC	1	9	5	0	1	2	2	0	5
-GAA	5	5	5	0	3	5	3	1	2
-GAG	0	3	6	0	1	2	3	1	0
-GGT	6	24	5	0	5	4	3	2	11
-GGC	2	1	1	0	2	2	0	2	0
-GGA	6	18	4	0	4	11	2	1	13
-GGG	2	7	1	0	0	2	0	2	1
-TAA	1	1	0	1	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009559295.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	19	5	20	6	11	5	13	5	5	5	1	1	7	2	8	5	13	3	2	3	6	3	2	4	5	5	1	0	2	0	11	10	24	7	1	4	7	2	3	6	8	5	2	3	3	0	9	6	5	3	12	5	5	2	1	1	5	0	6	2	6	2	1	0
+1	COX1	YP_009559296.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	21	19	22	3	8	3	15	2	8	7	0	0	10	5	17	7	13	0	11	1	13	3	11	7	7	2	3	0	6	1	34	7	19	9	14	3	13	2	10	6	6	0	3	0	5	1	16	4	18	3	19	7	14	0	7	9	5	3	24	1	18	7	1	0
+2	COX2	YP_009559297.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	9	6	11	0	6	1	4	0	5	2	2	0	6	0	6	2	7	1	3	2	4	1	2	3	4	3	3	0	4	0	17	6	8	1	6	2	8	0	9	2	2	0	1	1	4	1	3	1	11	1	5	2	6	1	7	5	5	6	5	1	4	1	0	0
+3	ATP8	YP_009559298.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	5	1	2	0	1	1	3	0	0	2	0	0	3	0	1	0	3	0	1	0	2	0	0	0	2	0	0	0	0	0	0	2	6	0	5	0	1	1	2	0	4	1	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009559299.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	11	2	15	1	8	1	5	0	5	0	0	0	6	0	7	3	17	0	6	2	5	0	2	4	3	1	2	0	1	0	11	3	13	1	4	3	11	0	4	4	2	0	1	1	7	1	11	1	6	2	5	2	7	1	0	1	3	1	5	2	4	0	1	0
+5	COX3	YP_009559300.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	17	8	11	0	9	0	4	0	7	3	3	0	10	3	10	2	6	1	3	1	3	1	7	9	6	1	3	0	1	0	14	5	6	2	9	2	7	1	3	2	2	0	0	4	5	1	11	1	7	1	8	4	8	1	3	2	5	2	4	2	11	2	0	0
+6	ND3	YP_009559301.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	5	3	7	3	5	3	4	0	0	1	0	1	2	1	2	2	5	0	3	0	1	0	0	1	2	0	0	1	2	0	13	6	2	0	0	2	3	0	1	2	3	1	0	0	0	0	1	2	3	1	3	1	3	1	2	2	3	3	3	0	2	0	1	0
+7	ND6	YP_009559305.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	13	3	18	2	8	1	7	1	5	2	3	0	0	1	7	1	3	1	3	0	1	1	0	1	1	1	1	0	1	0	13	4	11	1	8	3	4	1	6	2	2	1	1	0	0	0	8	0	2	2	0	1	5	0	3	0	1	1	2	2	1	2	1	0
+8	CYTB	YP_009559306.1	Euphausia superba	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Euphausiacea, Euphausiidae, Euphausia	21	10	32	2	11	0	4	0	13	4	2	1	10	3	13	1	10	1	8	2	10	2	7	5	4	4	2	1	3	2	23	6	9	5	14	1	8	0	9	8	7	1	4	0	2	0	16	0	8	2	14	5	7	2	7	5	2	0	11	0	13	1	1	0

@@ -1,65 +1,13 @@
-	YP_008144472.1|ND1	YP_008144473.1|ND2	YP_008144474.1|COX1	YP_008144475.1|COX2	YP_008144476.1|ATP8	YP_008144477.1|ATP6	YP_008144478.1|COX3	YP_008144479.1|ND3	YP_008144480.1|ND4L	YP_008144481.1|ND4	YP_008144482.1|ND5	YP_008144484.1|CYTB
-TTT	7	1	23	2	2	6	7	2	4	4	16	7
-TTC	9	8	17	7	2	2	17	5	3	13	21	24
-TTA	12	4	9	8	3	4	6	5	7	21	11	11
-TTG	1	0	1	1	0	0	0	2	0	2	0	0
-TCT	1	4	6	2	0	1	2	0	2	3	3	5
-TCC	6	6	8	6	0	2	4	3	0	8	11	8
-TCA	9	5	9	4	2	3	6	4	5	6	16	10
-TCG	1	0	0	0	0	0	0	0	1	0	0	0
-TAT	7	2	8	2	0	0	7	2	0	8	2	3
-TAC	4	5	11	8	0	4	5	1	1	6	7	12
-TGT	0	0	0	2	0	0	0	0	2	1	2	1
-TGC	0	2	1	0	0	0	1	1	1	3	4	2
-TGA	7	10	16	4	4	4	11	5	1	15	15	12
-TGG	1	1	1	1	1	0	1	0	0	6	0	0
-CTT	1	5	16	5	2	3	5	3	2	6	8	5
-CTC	2	9	4	1	1	14	5	2	1	13	16	9
-CTA	42	40	24	13	1	29	11	14	13	41	55	34
-CTG	3	6	8	0	0	3	4	2	0	1	5	0
-CCT	4	2	3	2	0	1	2	1	1	2	0	0
-CCC	11	11	15	4	2	7	6	5	0	9	15	12
-CCA	10	9	11	8	3	8	2	3	0	17	12	9
-CCG	0	0	0	0	1	0	2	0	0	1	1	0
-CAT	1	1	4	2	0	2	5	0	0	1	5	3
-CAC	4	7	15	7	2	2	13	0	4	9	15	9
-CAA	7	15	8	8	1	9	7	2	3	15	17	7
-CAG	0	0	0	0	0	2	2	1	0	0	0	0
-CGT	1	0	0	0	0	0	0	0	0	0	1	0
-CGC	1	0	1	0	0	0	0	0	0	2	0	1
-CGA	6	4	7	5	0	5	4	2	2	9	8	6
-CGG	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	10	15	23	11	1	11	6	4	1	19	28	10
-ATC	16	11	17	8	2	14	5	3	1	22	31	20
-ATA	13	21	26	8	0	7	7	6	4	25	27	13
-ATG	2	6	1	4	1	3	3	1	1	5	3	3
-ACT	2	9	7	4	1	7	2	1	1	8	11	3
-ACC	18	19	9	5	4	5	8	1	4	23	42	14
-ACA	12	22	20	3	2	13	13	5	5	17	25	12
-ACG	0	0	1	0	1	0	0	0	0	1	2	0
-AAT	3	5	6	1	2	1	0	0	0	3	9	5
-AAC	8	8	8	5	3	9	1	3	1	10	24	17
-AAA	7	9	8	4	5	2	2	1	1	9	23	9
-AAG	0	1	1	0	0	0	0	0	0	0	1	0
-AGT	0	2	1	0	0	1	1	0	0	0	1	0
-AGC	2	3	3	3	0	4	3	1	2	8	11	1
-GTT	2	0	9	5	0	0	2	1	1	0	1	0
-GTC	4	1	5	2	0	1	6	1	0	4	4	8
-GTA	4	3	24	13	3	8	7	1	1	9	6	11
-GTG	2	0	2	1	0	1	3	0	0	1	2	0
-GCT	4	5	5	3	0	3	3	5	2	7	8	2
-GCC	17	15	23	8	0	5	9	2	11	15	17	8
-GCA	7	15	15	4	1	6	10	0	1	10	16	14
-GCG	0	0	4	0	0	1	0	0	0	1	0	1
-GAT	0	0	6	1	0	0	1	1	0	0	3	3
-GAC	3	1	9	10	1	1	4	2	1	5	8	5
-GAA	11	4	9	16	0	4	8	5	3	9	10	6
-GAG	1	0	1	0	0	0	1	1	0	2	1	0
-GGT	3	1	6	1	0	1	4	0	0	5	1	2
-GGC	5	4	13	2	0	3	6	4	3	8	5	10
-GGA	8	8	23	3	1	5	7	2	1	9	18	9
-GGG	2	3	5	2	0	0	4	0	0	3	4	3
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008144472.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	7	9	12	1	1	6	9	1	7	4	0	0	7	1	1	2	42	3	4	11	10	0	1	4	7	0	1	1	6	0	10	16	13	2	2	18	12	0	3	8	7	0	0	2	2	4	4	2	4	17	7	0	0	3	11	1	3	5	8	2	0	1	0	0
+1	ND2	YP_008144473.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	1	8	4	0	4	6	5	0	2	5	0	2	10	1	5	9	40	6	2	11	9	0	1	7	15	0	0	0	4	0	15	11	21	6	9	19	22	0	5	8	9	1	2	3	0	1	3	0	5	15	15	0	0	1	4	0	1	4	8	3	0	0	0	0
+2	COX1	YP_008144474.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	23	17	9	1	6	8	9	0	8	11	0	1	16	1	16	4	24	8	3	15	11	0	4	15	8	0	0	1	7	0	23	17	26	1	7	9	20	1	6	8	8	1	1	3	9	5	24	2	5	23	15	4	6	9	9	1	6	13	23	5	1	0	0	0
+3	COX2	YP_008144475.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	2	7	8	1	2	6	4	0	2	8	2	0	4	1	5	1	13	0	2	4	8	0	2	7	8	0	0	0	5	1	11	8	8	4	4	5	3	0	1	5	4	0	0	3	5	2	13	1	3	8	4	0	1	10	16	0	1	2	3	2	0	0	0	0
+4	ATP8	YP_008144476.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	2	2	3	0	0	0	2	0	0	0	0	0	4	1	2	1	1	0	0	2	3	1	0	2	1	0	0	0	0	0	1	2	0	1	1	4	2	1	2	3	5	0	0	0	0	0	3	0	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_008144477.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	6	2	4	0	1	2	3	0	0	4	0	0	4	0	3	14	29	3	1	7	8	0	2	2	9	2	0	0	5	0	11	14	7	3	7	5	13	0	1	9	2	0	1	4	0	1	8	1	3	5	6	1	0	1	4	0	1	3	5	0	1	0	0	0
+6	COX3	YP_008144478.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	7	17	6	0	2	4	6	0	7	5	0	1	11	1	5	5	11	4	2	6	2	2	5	13	7	2	0	0	4	0	6	5	7	3	2	8	13	0	0	1	2	0	1	3	2	6	7	3	3	9	10	0	1	4	8	1	4	6	7	4	0	0	0	0
+7	ND3	YP_008144479.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	2	5	5	2	0	3	4	0	2	1	0	1	5	0	3	2	14	2	1	5	3	0	0	0	2	1	0	0	2	0	4	3	6	1	1	1	5	0	0	3	1	0	0	1	1	1	1	0	5	2	0	0	1	2	5	1	0	4	2	0	0	0	0	0
+8	ND4L	YP_008144480.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	4	3	7	0	2	0	5	1	0	1	2	1	1	0	2	1	13	0	1	0	0	0	0	4	3	0	0	0	2	0	1	1	4	1	1	4	5	0	0	1	1	0	0	2	1	0	1	0	2	11	1	0	0	1	3	0	0	3	1	0	1	0	0	0
+9	ND4	YP_008144481.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	4	13	21	2	3	8	6	0	8	6	1	3	15	6	6	13	41	1	2	9	17	1	1	9	15	0	0	2	9	0	19	22	25	5	8	23	17	1	3	10	9	0	0	8	0	4	9	1	7	15	10	1	0	5	9	2	5	8	9	3	0	0	0	0
+10	ND5	YP_008144482.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	16	21	11	0	3	11	16	0	2	7	2	4	15	0	8	16	55	5	0	15	12	1	5	15	17	0	1	0	8	0	28	31	27	3	11	42	25	2	9	24	23	1	1	11	1	4	6	2	8	17	16	0	3	8	10	1	1	5	18	4	1	0	0	0
+11	CYTB	YP_008144484.1	Exostoma labiatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Sisoridae, Glyptosterninae, Exostoma	7	24	11	0	5	8	10	0	3	12	1	2	12	0	5	9	34	0	0	12	9	0	3	9	7	0	0	1	6	0	10	20	13	3	3	14	12	0	5	17	9	0	0	1	0	8	11	0	2	8	14	1	3	5	6	0	2	10	9	3	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_003457148.1|ND1	YP_003457149.1|ND2	YP_003457150.1|COX1	YP_003457151.1|COX2	YP_003457152.1|ATP8	YP_003457153.1|ATP6	YP_003457154.1|COX3	YP_003457155.1|ND3	YP_003457156.1|ND4L	YP_003457157.1|ND4	YP_003457158.1|ND5	YP_003457160.1|CYTB
-TTT	10	5	18	6	2	6	15	6	4	10	18	7
-TTC	7	6	24	4	2	2	10	4	2	8	20	21
-TTA	11	14	15	3	3	18	5	3	2	24	20	8
-TTG	6	4	0	3	1	3	2	2	0	7	2	3
-TCT	2	4	7	7	1	2	2	2	2	5	10	4
-TCC	7	12	8	6	1	4	2	5	3	7	6	6
-TCA	10	6	10	1	0	4	6	1	4	12	15	6
-TCG	1	1	1	0	0	0	0	0	0	0	2	5
-TAT	2	3	5	7	0	1	4	1	0	4	4	6
-TAC	10	4	13	2	0	3	8	1	0	10	7	8
-TGT	0	0	0	1	0	1	0	0	1	2	0	0
-TGC	0	0	1	1	0	0	2	1	2	3	6	3
-TGA	8	11	14	4	5	2	12	4	1	10	10	10
-TGG	0	0	3	1	0	1	0	1	0	7	4	3
-CTT	10	10	10	6	0	12	10	5	4	21	22	14
-CTC	12	23	7	4	3	10	5	10	5	22	21	14
-CTA	21	22	22	10	2	19	12	7	12	26	28	24
-CTG	2	7	9	3	0	1	2	2	1	3	6	3
-CCT	6	8	10	2	1	5	2	2	1	7	3	5
-CCC	13	12	10	5	4	8	8	5	0	9	15	13
-CCA	5	2	7	3	3	4	2	1	1	7	10	4
-CCG	0	0	1	4	1	0	1	0	0	2	1	0
-CAT	1	2	6	3	1	2	5	1	1	5	6	2
-CAC	2	6	12	7	1	2	10	0	4	5	8	11
-CAA	6	12	6	8	2	7	6	2	4	10	15	5
-CAG	1	2	3	1	1	2	0	0	0	0	4	1
-CGT	1	1	3	1	0	0	0	1	0	0	0	0
-CGC	2	1	2	0	0	0	0	0	0	2	1	3
-CGA	5	1	3	4	1	6	5	0	1	9	7	3
-CGG	0	2	0	1	0	1	1	1	1	1	0	2
-ATT	17	7	27	13	2	9	9	5	0	18	37	17
-ATC	9	13	15	8	0	7	8	4	2	13	16	16
-ATA	8	10	20	6	0	5	4	2	3	19	12	7
-ATG	3	4	4	4	2	4	2	1	2	5	15	2
-ACT	10	4	5	1	0	4	1	1	2	6	9	1
-ACC	9	22	11	3	4	4	6	3	6	16	35	10
-ACA	3	16	18	3	3	9	10	3	2	17	23	9
-ACG	1	1	4	1	0	0	0	0	0	3	4	1
-AAT	3	3	5	0	3	0	1	0	1	3	10	3
-AAC	8	6	9	6	2	7	2	1	2	9	20	15
-AAA	7	6	8	4	2	1	2	1	0	7	19	8
-AAG	0	2	0	0	0	0	0	0	0	2	2	1
-AGT	1	2	0	3	0	0	1	0	0	0	2	1
-AGC	2	5	4	0	0	7	3	0	2	10	9	1
-GTT	4	2	11	5	1	1	4	1	0	3	3	5
-GTC	3	2	5	5	2	1	4	2	0	5	14	7
-GTA	7	4	20	5	0	10	8	1	1	4	3	8
-GTG	3	0	3	2	0	0	0	0	0	4	4	1
-GCT	6	6	13	4	1	3	5	2	4	6	11	7
-GCC	15	19	16	8	1	10	7	4	5	14	26	13
-GCA	10	9	16	6	0	5	10	0	2	14	11	11
-GCG	1	0	0	0	0	0	1	0	0	1	3	1
-GAT	2	0	4	3	0	0	1	0	1	2	4	5
-GAC	2	1	11	10	0	1	4	5	0	2	7	5
-GAA	9	4	8	12	4	4	6	3	2	9	10	3
-GAG	2	0	2	1	0	0	4	3	0	4	3	3
-GGT	1	1	7	1	0	2	4	1	1	6	5	1
-GGC	10	6	14	3	0	2	9	3	1	6	11	12
-GGA	3	7	15	5	0	5	6	0	3	11	9	10
-GGG	4	5	11	0	0	0	2	2	0	3	4	2
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003457148.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	10	7	11	6	2	7	10	1	2	10	0	0	8	0	10	12	21	2	6	13	5	0	1	2	6	1	1	2	5	0	17	9	8	3	10	9	3	1	3	8	7	0	1	2	4	3	7	3	6	15	10	1	2	2	9	2	1	10	3	4	0	1	0	0
+1	ND2	YP_003457149.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	5	6	14	4	4	12	6	1	3	4	0	0	11	0	10	23	22	7	8	12	2	0	2	6	12	2	1	1	1	2	7	13	10	4	4	22	16	1	3	6	6	2	2	5	2	2	4	0	6	19	9	0	0	1	4	0	1	6	7	5	0	0	0	0
+2	COX1	YP_003457150.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	18	24	15	0	7	8	10	1	5	13	0	1	14	3	10	7	22	9	10	10	7	1	6	12	6	3	3	2	3	0	27	15	20	4	5	11	18	4	5	9	8	0	0	4	11	5	20	3	13	16	16	0	4	11	8	2	7	14	15	11	1	0	0	0
+3	COX2	YP_003457151.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	6	4	3	3	7	6	1	0	7	2	1	1	4	1	6	4	10	3	2	5	3	4	3	7	8	1	1	0	4	1	13	8	6	4	1	3	3	1	0	6	4	0	3	0	5	5	5	2	4	8	6	0	3	10	12	1	1	3	5	0	0	0	0	0
+4	ATP8	YP_003457152.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	2	2	3	1	1	1	0	0	0	0	0	0	5	0	0	3	2	0	1	4	3	1	1	1	2	1	0	0	1	0	2	0	0	2	0	4	3	0	3	2	2	0	0	0	1	2	0	0	1	1	0	0	0	0	4	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003457153.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	6	2	18	3	2	4	4	0	1	3	1	0	2	1	12	10	19	1	5	8	4	0	2	2	7	2	0	0	6	1	9	7	5	4	4	4	9	0	0	7	1	0	0	7	1	1	10	0	3	10	5	0	0	1	4	0	2	2	5	0	0	0	0	0
+6	COX3	YP_003457154.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	15	10	5	2	2	2	6	0	4	8	0	2	12	0	10	5	12	2	2	8	2	1	5	10	6	0	0	0	5	1	9	8	4	2	1	6	10	0	1	2	2	0	1	3	4	4	8	0	5	7	10	1	1	4	6	4	4	9	6	2	0	0	0	0
+7	ND3	YP_003457155.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	6	4	3	2	2	5	1	0	1	1	0	1	4	1	5	10	7	2	2	5	1	0	1	0	2	0	1	0	0	1	5	4	2	1	1	3	3	0	0	1	1	0	0	0	1	2	1	0	2	4	0	0	0	5	3	3	1	3	0	2	0	0	0	0
+8	ND4L	YP_003457156.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	4	2	2	0	2	3	4	0	0	0	1	2	1	0	4	5	12	1	1	0	1	0	1	4	4	0	0	0	1	1	0	2	3	2	2	6	2	0	1	2	0	0	0	2	0	0	1	0	4	5	2	0	1	0	2	0	1	1	3	0	1	0	0	0
+9	ND4	YP_003457157.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	10	8	24	7	5	7	12	0	4	10	2	3	10	7	21	22	26	3	7	9	7	2	5	5	10	0	0	2	9	1	18	13	19	5	6	16	17	3	3	9	7	2	0	10	3	5	4	4	6	14	14	1	2	2	9	4	6	6	11	3	0	0	0	0
+10	ND5	YP_003457158.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	18	20	20	2	10	6	15	2	4	7	0	6	10	4	22	21	28	6	3	15	10	1	6	8	15	4	0	1	7	0	37	16	12	15	9	35	23	4	10	20	19	2	2	9	3	14	3	4	11	26	11	3	4	7	10	3	5	11	9	4	1	0	0	0
+11	CYTB	YP_003457160.1	Thaumatichthys pagidostomus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Lophiiformes, Ceratioidei, Thaumatichthyidae, Thaumatichthys	7	21	8	3	4	6	6	5	6	8	0	3	10	3	14	14	24	3	5	13	4	0	2	11	5	1	0	3	3	2	17	16	7	2	1	10	9	1	3	15	8	1	1	1	5	7	8	1	7	13	11	1	5	5	3	3	1	12	10	2	0	0	0	0

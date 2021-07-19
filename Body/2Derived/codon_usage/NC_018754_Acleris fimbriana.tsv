@@ -1,65 +1,10 @@
-	YP_006883031.1|ND2	YP_006883032.1|COX1	YP_006883033.1|COX2	YP_006883034.1|ATP8	YP_006883035.1|ATP6	YP_006883036.1|COX3	YP_006883037.1|ND3	YP_006883041.1|ND6	YP_006883042.1|CYTB
-TTT	47	35	15	9	20	25	16	23	26
-TTC	3	1	0	0	2	2	0	1	5
-TTA	41	52	20	4	30	25	10	26	47
-TTG	2	0	0	0	0	0	0	0	0
-TCT	17	15	5	2	6	2	4	3	8
-TCC	2	2	3	0	0	1	1	0	1
-TCA	10	17	4	0	7	6	6	8	4
-TCG	0	0	0	0	0	0	0	0	0
-TAT	9	18	5	2	5	7	2	8	17
-TAC	4	2	4	0	2	3	0	1	3
-TGT	2	1	2	1	0	2	1	1	2
-TGC	1	0	0	0	0	0	0	0	1
-TGA	9	13	6	3	5	13	3	2	12
-TGG	0	1	0	0	0	0	0	0	0
-CTT	3	8	3	0	3	2	1	1	5
-CTC	0	0	0	0	1	0	0	0	0
-CTA	3	4	3	0	2	1	3	3	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	13	3	2	5	6	5	1	11
-CCC	2	4	0	0	3	2	0	0	3
-CCA	3	9	8	0	1	2	0	1	8
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	15	5	0	5	13	3	1	6
-CAC	0	1	0	0	0	2	0	0	2
-CAA	4	8	8	1	4	5	1	2	8
-CAG	0	0	0	0	0	1	0	0	0
-CGT	0	1	5	0	0	0	0	0	0
-CGC	0	0	0	0	0	1	0	0	0
-CGA	2	8	2	0	3	3	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	35	52	31	9	29	26	21	22	40
-ATC	4	3	2	1	2	2	1	0	4
-ATA	30	28	10	3	12	11	7	17	20
-ATG	3	1	1	0	2	1	1	1	1
-ACT	6	11	9	0	10	9	3	4	15
-ACC	0	3	0	0	1	1	0	0	3
-ACA	3	14	2	0	4	8	1	3	8
-ACG	0	1	0	0	0	2	0	0	0
-AAT	24	24	22	10	17	12	4	13	25
-AAC	4	1	1	0	3	2	2	1	4
-AAA	15	7	4	6	2	4	5	8	10
-AAG	2	0	0	0	0	0	0	1	1
-AGT	2	5	2	0	5	1	1	0	1
-AGC	0	0	0	0	0	0	0	1	0
-AGA	7	7	3	0	6	4	1	2	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	11	3	0	2	5	1	1	2
-GTC	0	1	0	0	0	0	0	0	0
-GTA	3	14	5	0	4	8	1	2	14
-GTG	0	1	0	0	0	0	0	1	1
-GCT	2	18	2	0	5	10	1	2	8
-GCC	1	0	1	0	0	1	0	0	0
-GCA	3	9	4	0	2	2	0	1	6
-GCG	0	1	0	0	0	0	0	0	1
-GAT	1	13	8	0	1	3	3	3	6
-GAC	0	2	0	0	0	1	0	1	1
-GAA	5	9	7	0	4	7	4	3	5
-GAG	0	0	1	0	0	0	0	0	0
-GGT	2	10	3	0	0	7	1	2	3
-GGC	0	0	0	0	1	0	0	0	3
-GGA	9	33	5	0	8	10	1	3	16
-GGG	1	2	0	0	1	1	0	0	3
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006883031.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	47	3	41	2	17	2	10	0	9	4	2	1	9	0	3	0	3	0	2	2	3	0	1	0	4	0	0	0	2	0	35	4	30	3	6	0	3	0	24	4	15	2	2	0	7	0	3	0	3	0	2	1	3	0	1	0	5	0	2	0	9	1	1	0
+1	COX1	YP_006883032.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	35	1	52	0	15	2	17	0	18	2	1	0	13	1	8	0	4	0	13	4	9	1	15	1	8	0	1	0	8	0	52	3	28	1	11	3	14	1	24	1	7	0	5	0	7	0	11	1	14	1	18	0	9	1	13	2	9	0	10	0	33	2	0	0
+2	COX2	YP_006883033.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	15	0	20	0	5	3	4	0	5	4	2	0	6	0	3	0	3	0	3	0	8	0	5	0	8	0	5	0	2	0	31	2	10	1	9	0	2	0	22	1	4	0	2	0	3	0	3	0	5	0	2	1	4	0	8	0	7	1	3	0	5	0	0	0
+3	ATP8	YP_006883034.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	9	0	4	0	2	0	0	0	2	0	1	0	3	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	9	1	3	0	0	0	0	0	10	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_006883035.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	20	2	30	0	6	0	7	0	5	2	0	0	5	0	3	1	2	0	5	3	1	0	5	0	4	0	0	0	3	0	29	2	12	2	10	1	4	0	17	3	2	0	5	0	6	0	2	0	4	0	5	0	2	0	1	0	4	0	0	1	8	1	1	0
+5	COX3	YP_006883036.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	25	2	25	0	2	1	6	0	7	3	2	0	13	0	2	0	1	0	6	2	2	0	13	2	5	1	0	1	3	0	26	2	11	1	9	1	8	2	12	2	4	0	1	0	4	0	5	0	8	0	10	1	2	0	3	1	7	0	7	0	10	1	1	0
+6	ND3	YP_006883037.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	16	0	10	0	4	1	6	0	2	0	1	0	3	0	1	0	3	0	5	0	0	0	3	0	1	0	0	0	2	0	21	1	7	1	3	0	1	0	4	2	5	0	1	0	1	0	1	0	1	0	1	0	0	0	3	0	4	0	1	0	1	0	1	0
+7	ND6	YP_006883041.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	23	1	26	0	3	0	8	0	8	1	1	0	2	0	1	0	3	0	1	0	1	0	1	0	2	0	0	0	1	0	22	0	17	1	4	0	3	0	13	1	8	1	0	1	2	0	1	0	2	1	2	0	1	0	3	1	3	0	2	0	3	0	1	0
+8	CYTB	YP_006883042.1	Acleris fimbriana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Acleris	26	5	47	0	8	1	4	0	17	3	2	1	12	0	5	0	3	0	11	3	8	0	6	2	8	0	0	0	7	0	40	4	20	1	15	3	8	0	25	4	10	1	1	0	3	0	2	0	14	1	8	0	6	1	6	1	5	0	3	3	16	3	1	0

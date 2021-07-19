@@ -1,65 +1,10 @@
-	YP_009176702.1|ND2	YP_009176703.1|COX1	YP_009176704.1|COX2	YP_009176705.1|ATP8	YP_009176706.1|ATP6	YP_009176707.1|COX3	YP_009176708.1|ND3	YP_009176712.1|ND6	YP_009176713.1|CYTB
-TTT	34	35	14	6	17	24	11	18	34
-TTC	1	5	0	0	1	4	0	1	3
-TTA	55	50	27	6	37	24	16	33	52
-TTG	3	0	0	0	0	0	0	0	1
-TCT	9	11	8	3	8	4	2	5	5
-TCC	2	1	1	0	1	1	2	1	0
-TCA	16	15	2	1	2	5	4	3	7
-TCG	0	0	0	0	0	0	0	0	0
-TAT	14	14	7	1	5	12	1	6	14
-TAC	1	3	1	1	0	0	0	0	2
-TGT	1	0	2	1	0	1	2	2	3
-TGC	0	0	0	0	1	0	0	0	2
-TGA	8	14	5	2	5	13	3	1	14
-TGG	1	0	1	1	0	0	0	0	0
-CTT	4	7	3	0	1	1	2	1	1
-CTC	0	0	0	0	0	0	0	0	0
-CTA	2	4	0	1	5	1	3	0	1
-CTG	0	0	1	0	0	0	0	0	0
-CCT	4	15	5	0	6	4	1	1	11
-CCC	2	1	0	0	0	4	1	0	3
-CCA	2	12	6	3	5	1	2	3	7
-CCG	0	0	0	0	1	1	0	0	0
-CAT	2	14	5	0	4	7	1	0	10
-CAC	0	3	1	0	3	9	0	1	2
-CAA	7	8	7	2	5	8	1	2	8
-CAG	0	0	0	0	0	0	0	1	0
-CGT	0	0	2	0	0	0	0	0	1
-CGC	0	0	0	0	1	0	0	0	1
-CGA	2	9	5	0	2	4	2	1	6
-CGG	0	0	0	0	0	0	1	0	0
-ATT	35	46	20	7	19	21	16	19	38
-ATC	4	1	1	0	0	1	1	0	0
-ATA	25	28	12	2	10	8	9	18	10
-ATG	0	0	1	0	1	1	0	1	1
-ACT	7	12	7	0	4	11	2	7	7
-ACC	1	3	0	0	2	0	0	0	1
-ACA	5	18	8	3	17	13	5	7	9
-ACG	0	3	1	0	0	1	0	0	0
-AAT	31	13	16	6	12	6	4	10	22
-AAC	3	3	2	0	3	1	1	0	1
-AAA	14	3	3	4	2	1	4	10	7
-AAG	0	1	1	0	0	0	0	0	2
-AGT	4	8	3	0	3	3	0	2	0
-AGC	0	0	0	0	0	0	1	0	0
-AGA	5	3	1	0	6	2	0	1	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	11	1	0	4	7	0	0	6
-GTC	1	0	1	0	2	0	1	0	1
-GTA	5	19	10	2	6	10	2	7	14
-GTG	0	2	1	0	0	0	0	0	1
-GCT	4	19	2	1	5	12	3	0	19
-GCC	1	3	0	0	1	1	0	0	1
-GCA	4	15	5	0	3	5	1	0	5
-GCG	0	0	0	0	0	0	0	0	1
-GAT	1	11	7	0	0	4	2	1	9
-GAC	0	3	2	0	1	0	1	0	1
-GAA	4	9	9	0	4	7	6	5	5
-GAG	2	0	0	0	0	0	0	1	0
-GGT	0	4	3	0	2	1	0	0	5
-GGC	0	0	0	0	1	0	0	1	0
-GGA	11	38	8	0	8	16	3	4	18
-GGG	2	3	0	0	0	2	0	0	1
-TAA	0	0	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009176702.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	34	1	55	3	9	2	16	0	14	1	1	0	8	1	4	0	2	0	4	2	2	0	2	0	7	0	0	0	2	0	35	4	25	0	7	1	5	0	31	3	14	0	4	0	5	0	2	1	5	0	4	1	4	0	1	0	4	2	0	0	11	2	0	0
+1	COX1	YP_009176703.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	35	5	50	0	11	1	15	0	14	3	0	0	14	0	7	0	4	0	15	1	12	0	14	3	8	0	0	0	9	0	46	1	28	0	12	3	18	3	13	3	3	1	8	0	3	0	11	0	19	2	19	3	15	0	11	3	9	0	4	0	38	3	0	0
+2	COX2	YP_009176704.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	14	0	27	0	8	1	2	0	7	1	2	0	5	1	3	0	0	1	5	0	6	0	5	1	7	0	2	0	5	0	20	1	12	1	7	0	8	1	16	2	3	1	3	0	1	0	1	1	10	1	2	0	5	0	7	2	9	0	3	0	8	0	0	0
+3	ATP8	YP_009176705.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	6	0	6	0	3	0	1	0	1	1	1	0	2	1	0	0	1	0	0	0	3	0	0	0	2	0	0	0	0	0	7	0	2	0	0	0	3	0	6	0	4	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009176706.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	17	1	37	0	8	1	2	0	5	0	0	1	5	0	1	0	5	0	6	0	5	1	4	3	5	0	0	1	2	0	19	0	10	1	4	2	17	0	12	3	2	0	3	0	6	0	4	2	6	0	5	1	3	0	0	1	4	0	2	1	8	0	1	0
+5	COX3	YP_009176707.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	24	4	24	0	4	1	5	0	12	0	1	0	13	0	1	0	1	0	4	4	1	1	7	9	8	0	0	0	4	0	21	1	8	1	11	0	13	1	6	1	1	0	3	0	2	0	7	0	10	0	12	1	5	0	4	0	7	0	1	0	16	2	0	0
+6	ND3	YP_009176708.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	11	0	16	0	2	2	4	0	1	0	2	0	3	0	2	0	3	0	1	1	2	0	1	0	1	0	0	0	2	1	16	1	9	0	2	0	5	0	4	1	4	0	0	1	0	0	0	1	2	0	3	0	1	0	2	1	6	0	0	0	3	0	0	0
+7	ND6	YP_009176712.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	18	1	33	0	5	1	3	0	6	0	2	0	1	0	1	0	0	0	1	0	3	0	0	1	2	1	0	0	1	0	19	0	18	1	7	0	7	0	10	0	10	0	2	0	1	0	0	0	7	0	0	0	0	0	1	0	5	1	0	1	4	0	1	0
+8	CYTB	YP_009176713.1	Anopheles maculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles, Anopheles maculatus group	34	3	52	1	5	0	7	0	14	2	3	2	14	0	1	0	1	0	11	3	7	0	10	2	8	0	1	1	6	0	38	0	10	1	7	1	9	0	22	1	7	2	0	0	5	0	6	1	14	1	19	1	5	1	9	1	5	0	5	0	18	1	0	0

@@ -1,65 +1,13 @@
-	YP_006884058.1|ND1	YP_006884059.1|ND2	YP_006884060.1|COX1	YP_006884061.1|COX2	YP_006884062.1|ATP8	YP_006884063.1|ATP6	YP_006884064.1|COX3	YP_006884065.1|ND3	YP_006884066.1|ND4L	YP_006884067.1|ND4	YP_006884068.1|ND5	YP_006884070.1|CYTB
-TTT	11	4	22	4	1	10	10	4	6	12	15	10
-TTC	6	3	20	5	2	2	13	6	2	3	23	18
-TTA	7	10	11	7	2	8	3	3	2	13	13	10
-TTG	5	6	0	2	0	1	0	0	1	3	2	0
-TCT	3	3	7	3	0	3	1	1	1	6	5	6
-TCC	5	5	5	5	1	1	5	3	3	9	13	4
-TCA	10	3	14	4	1	0	4	2	2	7	10	9
-TCG	1	1	2	1	0	0	0	0	0	0	4	2
-TAT	7	2	8	6	0	0	5	2	0	6	4	9
-TAC	5	6	10	3	0	3	6	0	0	8	6	6
-TGT	0	1	0	1	0	0	1	0	1	1	4	1
-TGC	0	0	1	1	0	0	1	1	2	4	2	2
-TGA	6	6	14	4	5	4	10	5	0	15	11	11
-TGG	2	5	3	1	0	1	2	0	1	5	3	1
-CTT	14	16	20	5	2	10	6	0	4	16	28	7
-CTC	4	14	8	2	0	5	5	7	5	16	15	14
-CTA	21	15	14	11	1	15	14	13	8	30	28	24
-CTG	12	8	9	1	0	9	5	1	3	8	12	5
-CCT	4	2	4	2	1	1	1	0	1	1	4	2
-CCC	14	12	6	5	3	5	5	5	0	14	15	6
-CCA	4	4	15	5	4	11	5	3	1	12	9	10
-CCG	2	2	3	2	0	1	1	0	0	1	4	3
-CAT	2	1	2	3	1	0	3	0	2	2	4	3
-CAC	3	5	16	7	0	3	13	1	2	10	14	10
-CAA	4	12	8	7	1	4	6	2	3	9	15	6
-CAG	3	2	0	0	0	4	3	1	0	3	3	1
-CGT	0	0	2	1	0	0	1	0	0	2	2	1
-CGC	2	2	1	0	0	2	3	0	3	5	2	1
-CGA	4	1	3	4	0	3	1	2	0	2	5	4
-CGG	2	1	2	1	0	1	0	0	0	2	2	2
-ATT	11	19	27	12	1	12	10	6	2	32	26	14
-ATC	7	7	10	3	2	8	4	1	0	9	20	14
-ATA	6	11	11	7	1	8	5	2	4	19	22	9
-ATG	6	9	12	6	1	5	4	1	1	7	10	5
-ACT	2	10	7	3	2	4	2	1	0	6	7	3
-ACC	11	16	6	2	2	5	5	3	2	17	24	13
-ACA	7	14	20	5	0	9	14	2	8	14	24	7
-ACG	0	8	3	1	0	1	2	1	0	5	4	1
-AAT	9	5	6	3	3	4	1	1	1	2	7	6
-AAC	3	2	10	1	2	4	0	1	1	6	16	10
-AAA	4	3	8	4	3	1	2	1	0	8	18	9
-AAG	3	5	0	0	1	0	0	0	0	3	4	0
-AGT	0	1	1	0	1	1	0	0	0	4	3	0
-AGC	3	7	3	4	0	5	3	1	4	5	9	3
-GTT	6	4	11	8	0	3	3	0	0	3	12	5
-GTC	7	3	7	4	1	5	5	2	0	2	5	7
-GTA	10	4	23	8	2	9	7	2	2	11	4	7
-GTG	1	2	4	3	1	1	2	1	0	3	6	5
-GCT	0	2	10	3	0	1	6	2	1	5	8	2
-GCC	16	22	21	8	1	10	8	6	3	12	26	11
-GCA	10	14	14	4	2	8	6	3	6	14	20	16
-GCG	5	3	0	1	0	1	1	0	1	5	3	3
-GAT	1	2	4	2	0	0	2	1	0	2	3	5
-GAC	3	1	11	11	1	1	3	3	1	3	12	6
-GAA	3	1	7	14	1	4	9	4	3	6	7	5
-GAG	8	4	4	1	1	0	1	2	0	5	4	0
-GGT	0	1	9	0	0	1	2	1	0	1	0	3
-GGC	10	7	14	4	0	4	9	0	2	9	10	8
-GGA	6	7	15	3	0	3	10	3	2	10	12	8
-GGG	3	2	8	2	0	2	2	3	1	7	8	7
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006884058.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	11	6	7	5	3	5	10	1	7	5	0	0	6	2	14	4	21	12	4	14	4	2	2	3	4	3	0	2	4	2	11	7	6	6	2	11	7	0	9	3	4	3	0	3	6	7	10	1	0	16	10	5	1	3	3	8	0	10	6	3	0	1	0	0
+1	ND2	YP_006884059.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	4	3	10	6	3	5	3	1	2	6	1	0	6	5	16	14	15	8	2	12	4	2	1	5	12	2	0	2	1	1	19	7	11	9	10	16	14	8	5	2	3	5	1	7	4	3	4	2	2	22	14	3	2	1	1	4	1	7	7	2	0	0	0	0
+2	COX1	YP_006884060.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	22	20	11	0	7	5	14	2	8	10	0	1	14	3	20	8	14	9	4	6	15	3	2	16	8	0	2	1	3	2	27	10	11	12	7	6	20	3	6	10	8	0	1	3	11	7	23	4	10	21	14	0	4	11	7	4	9	14	15	8	1	0	0	0
+3	COX2	YP_006884061.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	4	5	7	2	3	5	4	1	6	3	1	1	4	1	5	2	11	1	2	5	5	2	3	7	7	0	1	0	4	1	12	3	7	6	3	2	5	1	3	1	4	0	0	4	8	4	8	3	3	8	4	1	2	11	14	1	0	4	3	2	0	0	0	0
+4	ATP8	YP_006884062.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	1	2	2	0	0	1	1	0	0	0	0	0	5	0	2	0	1	0	1	3	4	0	1	0	1	0	0	0	0	0	1	2	1	1	2	2	0	0	3	2	3	1	1	0	0	1	2	1	0	1	2	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_006884063.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	10	2	8	1	3	1	0	0	0	3	0	0	4	1	10	5	15	9	1	5	11	1	0	3	4	4	0	2	3	1	12	8	8	5	4	5	9	1	4	4	1	0	1	5	3	5	9	1	1	10	8	1	0	1	4	0	1	4	3	2	1	0	0	0
+6	COX3	YP_006884064.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	10	13	3	0	1	5	4	0	5	6	1	1	10	2	6	5	14	5	1	5	5	1	3	13	6	3	1	3	1	0	10	4	5	4	2	5	14	2	1	0	2	0	0	3	3	5	7	2	6	8	6	1	2	3	9	1	2	9	10	2	0	0	0	0
+7	ND3	YP_006884065.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	4	6	3	0	1	3	2	0	2	0	0	1	5	0	0	7	13	1	0	5	3	0	0	1	2	1	0	0	2	0	6	1	2	1	1	3	2	1	1	1	1	0	0	1	0	2	2	1	2	6	3	0	1	3	4	2	1	0	3	3	0	0	0	0
+8	ND4L	YP_006884066.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	6	2	2	1	1	3	2	0	0	0	1	2	0	1	4	5	8	3	1	0	1	0	2	2	3	0	0	3	0	0	2	0	4	1	0	2	8	0	1	1	0	0	0	4	0	0	2	0	1	3	6	1	0	1	3	0	0	2	2	1	1	0	0	0
+9	ND4	YP_006884067.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	12	3	13	3	6	9	7	0	6	8	1	4	15	5	16	16	30	8	1	14	12	1	2	10	9	3	2	5	2	2	32	9	19	7	6	17	14	5	2	6	8	3	4	5	3	2	11	3	5	12	14	5	2	3	6	5	1	9	10	7	0	0	0	0
+10	ND5	YP_006884068.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	15	23	13	2	5	13	10	4	4	6	4	2	11	3	28	15	28	12	4	15	9	4	4	14	15	3	2	2	5	2	26	20	22	10	7	24	24	4	7	16	18	4	3	9	12	5	4	6	8	26	20	3	3	12	7	4	0	10	12	8	1	0	0	0
+11	CYTB	YP_006884070.1	Tribolodon brandtii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Tribolodon	10	18	10	0	6	4	9	2	9	6	1	2	11	1	7	14	24	5	2	6	10	3	3	10	6	1	1	1	4	2	14	14	9	5	3	13	7	1	6	10	9	0	0	3	5	7	7	5	2	11	16	3	5	6	5	0	3	8	8	7	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_001527634.1|COX3	YP_001527635.1|CYTB	YP_001527636.1|ND4L	YP_001527637.1|ND4	YP_001527638.1|ATP6	YP_001527639.1|ND2	YP_001527640.1|ND1	YP_001527641.1|ND3	YP_001527642.1|COX1	YP_001527643.1|COX2	YP_001527644.1|ND6	YP_001527645.1|ND5
-TTT	29	37	11	51	25	41	41	23	53	10	17	60
-TTC	0	0	1	3	0	3	1	0	3	0	0	4
-TTA	16	24	8	39	16	23	21	11	34	11	12	41
-TTG	13	16	6	28	7	12	19	8	27	6	11	36
-TCT	10	10	6	11	2	15	6	4	17	6	2	15
-TCC	0	0	0	0	0	0	0	0	0	0	0	0
-TCA	1	6	1	7	1	2	5	0	8	2	1	10
-TCG	0	3	0	2	1	1	2	0	5	2	3	1
-TAT	8	26	0	26	9	20	21	7	26	11	11	26
-TAC	0	0	0	0	0	3	0	1	0	1	0	2
-TGT	8	5	3	19	5	14	15	5	18	10	12	17
-TGC	0	1	0	1	2	1	1	0	1	0	0	4
-TGA	3	6	1	8	1	4	3	2	7	2	1	6
-TGG	4	5	0	3	3	7	4	0	10	2	1	7
-CTT	2	5	0	5	0	3	1	1	7	0	0	3
-CTC	0	1	0	0	0	0	0	1	0	0	0	1
-CTA	0	0	0	2	0	2	2	1	0	1	1	1
-CTG	0	2	0	0	0	0	0	0	1	0	1	3
-CCT	2	8	0	5	5	4	2	1	14	6	2	1
-CCC	0	0	0	0	0	0	0	0	1	0	0	3
-CCA	0	2	0	2	2	0	0	0	5	1	0	0
-CCG	0	0	0	2	0	1	1	0	1	0	0	0
-CAT	7	8	1	8	2	2	0	0	13	5	2	6
-CAC	0	0	0	0	0	0	0	0	0	1	0	0
-CAA	1	2	0	1	0	1	1	0	2	2	0	4
-CAG	0	2	0	2	0	1	2	1	1	1	0	0
-CGT	1	5	0	5	4	1	7	1	10	1	1	3
-CGC	0	0	0	0	0	0	0	0	0	0	0	2
-CGA	0	1	1	1	0	0	1	0	0	0	0	2
-CGG	0	1	1	0	0	0	0	0	1	1	0	0
-ATT	7	15	5	18	12	17	21	6	23	11	3	32
-ATC	0	0	1	2	0	0	0	0	1	0	1	4
-ATA	9	11	4	17	6	8	10	3	24	6	3	19
-ATG	3	14	5	10	1	6	5	2	22	10	1	18
-ACT	6	7	2	6	2	4	2	1	18	6	2	12
-ACC	1	0	0	0	0	0	1	0	0	1	0	1
-ACA	4	2	0	0	0	2	4	1	2	1	0	1
-ACG	0	1	0	2	0	0	0	0	2	0	2	5
-AAT	1	6	3	7	6	5	4	4	16	2	2	7
-AAC	1	1	0	1	0	0	0	1	0	1	0	2
-AAA	2	5	0	6	2	4	4	1	6	7	4	15
-AAG	3	8	0	4	1	6	5	1	5	4	2	10
-AGT	6	10	4	14	6	11	14	6	19	2	3	16
-AGC	0	1	0	0	1	0	0	0	0	0	0	0
-AGA	5	4	0	9	3	3	6	0	7	2	3	12
-AGG	2	3	0	8	1	4	2	0	0	0	3	3
-GTT	18	20	5	21	16	18	13	3	24	14	15	22
-GTC	2	0	2	0	0	1	0	0	0	0	0	1
-GTA	5	14	1	5	1	11	3	2	6	2	5	12
-GTG	2	8	4	8	8	6	5	3	15	6	8	10
-GCT	3	10	1	7	4	3	6	0	14	4	2	7
-GCC	0	0	0	0	0	0	0	0	1	0	0	1
-GCA	2	1	1	1	1	0	2	0	2	2	0	2
-GCG	0	2	0	1	1	1	0	0	3	0	0	1
-GAT	6	9	1	6	4	4	5	1	16	9	1	13
-GAC	0	0	0	0	0	0	0	0	1	0	0	1
-GAA	5	1	1	5	1	3	3	1	2	1	2	5
-GAG	1	4	3	4	1	3	7	3	3	5	2	2
-GGT	7	16	2	12	7	5	18	7	29	10	5	23
-GGC	0	0	0	1	0	0	0	0	1	0	0	0
-GGA	2	3	0	5	1	4	3	1	6	3	2	3
-GGG	6	3	1	6	0	3	4	1	6	0	1	4
-TAA	0	1	0	1	1	1	1	1	1	0	1	1
-TAG	1	0	1	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_001527634.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	29	0	16	13	10	0	1	0	8	0	8	0	3	4	2	0	0	0	2	0	0	0	7	0	1	0	1	0	0	0	7	0	9	3	6	1	4	0	1	1	2	3	6	0	5	2	18	2	5	2	3	0	2	0	6	0	5	1	7	0	2	6	0	1
+1	CYTB	YP_001527635.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	37	0	24	16	10	0	6	3	26	0	5	1	6	5	5	1	0	2	8	0	2	0	8	0	2	2	5	0	1	1	15	0	11	14	7	0	2	1	6	1	5	8	10	1	4	3	20	0	14	8	10	0	1	2	9	0	1	4	16	0	3	3	1	0
+2	ND4L	YP_001527636.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	11	1	8	6	6	0	1	0	0	0	3	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	5	1	4	5	2	0	0	0	3	0	0	0	4	0	0	0	5	2	1	4	1	0	1	0	1	0	1	3	2	0	0	1	0	1
+3	ND4	YP_001527637.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	51	3	39	28	11	0	7	2	26	0	19	1	8	3	5	0	2	0	5	0	2	2	8	0	1	2	5	0	1	0	18	2	17	10	6	0	0	2	7	1	6	4	14	0	9	8	21	0	5	8	7	0	1	1	6	0	5	4	12	1	5	6	1	0
+4	ATP6	YP_001527638.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	25	0	16	7	2	0	1	1	9	0	5	2	1	3	0	0	0	0	5	0	2	0	2	0	0	0	4	0	0	0	12	0	6	1	2	0	0	0	6	0	2	1	6	1	3	1	16	0	1	8	4	0	1	1	4	0	1	1	7	0	1	0	1	0
+5	ND2	YP_001527639.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	41	3	23	12	15	0	2	1	20	3	14	1	4	7	3	0	2	0	4	0	0	1	2	0	1	1	1	0	0	0	17	0	8	6	4	0	2	0	5	0	4	6	11	0	3	4	18	1	11	6	3	0	0	1	4	0	3	3	5	0	4	3	1	0
+6	ND1	YP_001527640.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	41	1	21	19	6	0	5	2	21	0	15	1	3	4	1	0	2	0	2	0	0	1	0	0	1	2	7	0	1	0	21	0	10	5	2	1	4	0	4	0	4	5	14	0	6	2	13	0	3	5	6	0	2	0	5	0	3	7	18	0	3	4	1	0
+7	ND3	YP_001527641.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	23	0	11	8	4	0	0	0	7	1	5	0	2	0	1	1	1	0	1	0	0	0	0	0	0	1	1	0	0	0	6	0	3	2	1	0	1	0	4	1	1	1	6	0	0	0	3	0	2	3	0	0	0	0	1	0	1	3	7	0	1	1	1	0
+8	COX1	YP_001527642.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	53	3	34	27	17	0	8	5	26	0	18	1	7	10	7	0	0	1	14	1	5	1	13	0	2	1	10	0	0	1	23	1	24	22	18	0	2	2	16	0	6	5	19	0	7	0	24	0	6	15	14	1	2	3	16	1	2	3	29	1	6	6	1	0
+9	COX2	YP_001527643.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	10	0	11	6	6	0	2	2	11	1	10	0	2	2	0	0	1	0	6	0	1	0	5	1	2	1	1	0	0	1	11	0	6	10	6	1	1	0	2	1	7	4	2	0	2	0	14	0	2	6	4	0	2	0	9	0	1	5	10	0	3	0	0	1
+10	ND6	YP_001527644.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	17	0	12	11	2	0	1	3	11	0	12	0	1	1	0	0	1	1	2	0	0	0	2	0	0	0	1	0	0	0	3	1	3	1	2	0	0	2	2	0	4	2	3	0	3	3	15	0	5	8	2	0	0	0	1	0	2	2	5	0	2	1	1	0
+11	ND5	YP_001527645.1	Taenia saginata	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Taenia	60	4	41	36	15	0	10	1	26	2	17	4	6	7	3	1	1	3	1	3	0	0	6	0	4	0	3	2	2	0	32	4	19	18	12	1	1	5	7	2	15	10	16	0	12	3	22	1	12	10	7	1	2	1	13	1	5	2	23	0	3	4	1	0

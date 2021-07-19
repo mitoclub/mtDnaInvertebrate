@@ -1,65 +1,10 @@
-	YP_009730139.1|COX1	YP_009730140.1|ND4L	YP_009730141.1|COX2	YP_009730142.1|ATP8	YP_009730143.1|ATP6	YP_009730144.1|COX3	YP_009730145.1|ND3	YP_009730146.1|ND4	YP_009730147.1|ND5
-TTT	28	5	5	1	8	15	5	14	31
-TTC	17	2	6	3	8	11	3	15	15
-TTA	16	10	3	3	11	11	7	20	34
-TTG	0	0	0	0	0	0	0	0	3
-TCT	8	0	1	0	2	2	1	2	16
-TCC	9	2	4	1	2	3	3	10	7
-TCA	12	3	4	0	6	4	1	5	10
-TCG	0	0	0	0	0	0	0	0	1
-TAT	6	1	5	0	0	2	1	9	8
-TAC	12	1	5	1	3	3	3	5	9
-TGT	0	1	2	1	4	2	0	1	4
-TGC	1	0	2	0	1	3	1	4	2
-TGA	13	0	8	5	7	12	2	12	12
-TGG	0	0	1	0	0	3	1	1	3
-CTT	16	2	7	3	12	5	4	17	28
-CTC	10	4	5	1	11	8	2	27	12
-CTA	15	10	6	3	12	7	10	35	21
-CTG	2	0	1	0	1	0	1	1	2
-CCT	10	1	4	0	2	2	1	2	8
-CCC	13	1	3	1	2	0	6	5	2
-CCA	6	0	5	3	6	7	2	11	9
-CCG	0	0	0	1	0	1	0	1	0
-CAT	5	1	1	1	1	5	0	0	3
-CAC	17	0	5	0	4	9	1	7	5
-CAA	10	1	10	3	6	4	2	4	12
-CAG	0	0	1	0	2	1	0	2	2
-CGT	1	0	0	0	0	0	0	0	3
-CGC	2	0	1	1	2	3	0	2	2
-CGA	7	1	5	0	0	3	1	6	5
-CGG	0	0	1	0	1	0	1	0	1
-ATT	18	6	7	0	8	8	1	14	39
-ATC	15	1	10	1	12	7	5	20	13
-ATA	11	10	3	2	6	8	8	19	24
-ATG	27	1	8	1	3	5	4	6	10
-ACT	12	2	3	2	3	6	3	3	15
-ACC	21	2	8	2	14	7	4	20	16
-ACA	16	3	6	4	9	10	4	17	19
-ACG	0	0	0	0	0	0	0	1	0
-AAT	2	0	0	2	0	1	0	4	6
-AAC	11	4	5	2	10	2	1	7	12
-AAA	11	5	4	3	4	3	1	27	16
-AAG	6	3	5	0	5	4	2	6	11
-AGT	1	0	1	0	0	2	0	4	6
-AGC	2	0	1	0	2	2	0	5	11
-AGA	4	3	5	0	7	5	1	7	7
-AGG	0	1	0	0	0	1	0	1	0
-GTT	5	1	2	0	1	2	1	2	5
-GTC	7	0	4	0	3	3	1	4	5
-GTA	17	2	10	0	4	10	1	3	8
-GTG	1	0	1	0	1	0	0	2	1
-GCT	9	1	3	0	2	0	0	2	16
-GCC	15	1	7	1	4	8	3	14	15
-GCA	14	2	3	1	2	7	1	9	18
-GCG	0	0	0	0	1	1	0	0	0
-GAT	3	0	4	0	0	1	0	2	5
-GAC	12	0	8	0	0	5	2	4	5
-GAA	7	1	12	2	4	7	7	11	8
-GAG	0	1	0	0	1	0	0	0	0
-GGT	7	1	2	0	4	1	1	2	7
-GGC	10	0	3	0	0	6	3	1	11
-GGA	24	1	5	0	4	16	2	17	12
-GGG	5	0	0	0	0	1	0	1	4
-TAA	1	1	1	1	1	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009730139.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	28	17	16	0	8	9	12	0	6	12	0	1	13	0	16	10	15	2	10	13	6	0	5	17	10	0	1	2	7	0	18	15	11	27	12	21	16	0	2	11	11	6	1	2	4	0	5	7	17	1	9	15	14	0	3	12	7	0	7	10	24	5	1	0
+1	ND4L	YP_009730140.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	5	2	10	0	0	2	3	0	1	1	1	0	0	0	2	4	10	0	1	1	0	0	1	0	1	0	0	0	1	0	6	1	10	1	2	2	3	0	0	4	5	3	0	0	3	1	1	0	2	0	1	1	2	0	0	0	1	1	1	0	1	0	1	0
+2	COX2	YP_009730141.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	5	6	3	0	1	4	4	0	5	5	2	2	8	1	7	5	6	1	4	3	5	0	1	5	10	1	0	1	5	1	7	10	3	8	3	8	6	0	0	5	4	5	1	1	5	0	2	4	10	1	3	7	3	0	4	8	12	0	2	3	5	0	1	0
+3	ATP8	YP_009730142.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	1	3	3	0	0	1	0	0	0	1	1	0	5	0	3	1	3	0	0	1	3	1	1	0	3	0	0	1	0	0	0	1	2	1	2	2	4	0	2	2	3	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009730143.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	8	8	11	0	2	2	6	0	0	3	4	1	7	0	12	11	12	1	2	2	6	0	1	4	6	2	0	2	0	1	8	12	6	3	3	14	9	0	0	10	4	5	0	2	7	0	1	3	4	1	2	4	2	1	0	0	4	1	4	0	4	0	1	0
+5	COX3	YP_009730144.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	15	11	11	0	2	3	4	0	2	3	2	3	12	3	5	8	7	0	2	0	7	1	5	9	4	1	0	3	3	0	8	7	8	5	6	7	10	0	1	2	3	4	2	2	5	1	2	3	10	0	0	8	7	1	1	5	7	0	1	6	16	1	1	0
+6	ND3	YP_009730145.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	5	3	7	0	1	3	1	0	1	3	0	1	2	1	4	2	10	1	1	6	2	0	0	1	2	0	0	0	1	1	1	5	8	4	3	4	4	0	0	1	1	2	0	0	1	0	1	1	1	0	0	3	1	0	0	2	7	0	1	3	2	0	1	0
+7	ND4	YP_009730146.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	14	15	20	0	2	10	5	0	9	5	1	4	12	1	17	27	35	1	2	5	11	1	0	7	4	2	0	2	6	0	14	20	19	6	3	20	17	1	4	7	27	6	4	5	7	1	2	4	3	2	2	14	9	0	2	4	11	0	2	1	17	1	0	0
+8	ND5	YP_009730147.1	Ophiomastix mixta	Eukaryota, Metazoa, Echinodermata, Eleutherozoa, Asterozoa, Ophiuroidea, Ophiuridea, Ophiurida, Ophiurina, Gnathophiurina, Ophiocomidae, Ophiomastix	31	15	34	3	16	7	10	1	8	9	4	2	12	3	28	12	21	2	8	2	9	0	3	5	12	2	3	2	5	1	39	13	24	10	15	16	19	0	6	12	16	11	6	11	7	0	5	5	8	1	16	15	18	0	5	5	8	0	7	11	12	4	1	0

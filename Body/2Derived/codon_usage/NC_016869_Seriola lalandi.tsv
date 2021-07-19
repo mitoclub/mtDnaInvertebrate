@@ -1,65 +1,13 @@
-	YP_005255176.1|ND1	YP_005255177.1|ND2	YP_005255178.1|COX1	YP_005255179.1|COX2	YP_005255180.1|ATP8	YP_005255181.1|ATP6	YP_005255182.1|COX3	YP_005255183.1|ND3	YP_005255184.1|ND4L	YP_005255185.1|ND4	YP_005255186.1|ND5	YP_005255188.1|CYTB
-TTT	7	6	17	5	2	6	6	4	4	6	15	5
-TTC	12	11	25	5	2	6	16	4	3	11	24	28
-TTA	7	6	11	4	1	8	4	4	3	10	10	3
-TTG	1	4	1	0	0	1	0	0	0	0	1	1
-TCT	2	0	5	2	0	0	1	0	1	2	10	4
-TCC	5	10	10	3	1	4	3	4	6	7	9	11
-TCA	7	6	4	5	0	1	6	2	1	7	9	5
-TCG	3	2	3	0	0	0	0	0	2	2	2	2
-TAT	2	2	4	1	0	0	3	0	0	3	3	4
-TAC	9	5	14	7	0	4	6	2	1	11	9	10
-TGT	0	0	0	1	0	0	1	1	1	1	3	0
-TGC	0	0	1	1	0	0	2	0	2	4	3	3
-TGA	7	7	16	4	4	2	9	4	1	13	12	10
-TGG	1	4	1	1	1	3	3	1	0	6	2	2
-CTT	11	17	10	9	1	11	14	7	13	17	19	11
-CTC	18	30	15	5	1	9	5	8	3	29	30	24
-CTA	15	15	18	9	0	19	10	4	4	26	30	15
-CTG	11	4	8	1	1	6	1	4	1	18	8	7
-CCT	7	4	7	4	5	3	5	2	2	3	8	3
-CCC	14	13	12	6	3	7	2	4	0	13	14	13
-CCA	1	4	4	4	2	8	4	2	0	9	9	2
-CCG	2	2	4	0	1	0	2	0	0	2	1	3
-CAT	2	0	3	4	1	1	5	1	0	4	5	3
-CAC	2	9	17	6	0	3	12	0	4	7	10	9
-CAA	4	12	6	8	2	9	7	2	2	8	13	4
-CAG	3	1	0	0	1	0	1	1	1	2	4	2
-CGT	0	0	2	1	0	1	0	0	0	2	0	0
-CGC	2	1	1	1	0	1	1	1	1	2	2	0
-CGA	3	2	5	4	0	3	5	1	1	7	7	7
-CGG	3	1	1	0	0	1	0	0	1	0	2	2
-ATT	8	14	19	18	1	10	4	4	0	14	14	8
-ATC	12	5	22	6	2	6	11	5	1	18	29	20
-ATA	5	7	9	6	0	5	4	1	3	18	16	4
-ATG	5	7	14	4	1	5	2	2	2	6	13	4
-ACT	4	9	4	0	2	3	1	0	2	4	8	5
-ACC	8	14	9	3	0	5	6	4	5	20	27	10
-ACA	6	12	16	7	2	9	13	2	1	12	15	7
-ACG	2	4	5	1	2	1	1	1	0	6	6	3
-AAT	3	2	4	1	1	4	1	0	0	0	8	4
-AAC	9	8	11	4	2	5	1	2	1	12	21	14
-AAA	3	6	8	3	2	1	3	0	0	7	17	8
-AAG	4	3	0	1	1	0	0	1	0	4	3	1
-AGT	1	0	1	1	0	0	0	0	1	1	1	0
-AGC	2	3	4	2	1	3	3	0	1	8	12	1
-GTT	4	1	18	5	0	4	6	1	1	2	13	6
-GTC	9	4	10	5	1	7	6	3	1	7	14	14
-GTA	5	2	13	4	2	3	2	0	0	3	6	7
-GTG	4	0	2	3	0	1	4	1	0	2	1	0
-GCT	6	6	10	7	0	3	4	2	0	7	8	2
-GCC	19	25	23	3	2	13	15	6	7	16	28	12
-GCA	7	9	13	6	1	4	5	1	5	17	18	12
-GCG	3	3	3	1	1	2	1	0	0	1	4	3
-GAT	0	1	5	3	0	0	0	2	0	1	4	1
-GAC	4	1	10	12	0	1	6	3	2	2	8	10
-GAA	8	4	8	12	2	3	5	5	1	8	7	6
-GAG	3	1	3	2	0	1	3	1	1	5	5	0
-GGT	2	2	6	3	0	1	5	1	1	1	4	2
-GGC	7	8	16	1	0	2	6	1	1	11	18	12
-GGA	4	6	19	4	0	5	6	1	0	12	6	8
-GGG	6	3	6	1	0	3	3	3	3	3	4	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_005255176.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	7	12	7	1	2	5	7	3	2	9	0	0	7	1	11	18	15	11	7	14	1	2	2	2	4	3	0	2	3	3	8	12	5	5	4	8	6	2	3	9	3	4	1	2	4	9	5	4	6	19	7	3	0	4	8	3	2	7	4	6	1	0	0	0
+1	ND2	YP_005255177.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	6	11	6	4	0	10	6	2	2	5	0	0	7	4	17	30	15	4	4	13	4	2	0	9	12	1	0	1	2	1	14	5	7	7	9	14	12	4	2	8	6	3	0	3	1	4	2	0	6	25	9	3	1	1	4	1	2	8	6	3	0	0	0	0
+2	COX1	YP_005255178.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	17	25	11	1	5	10	4	3	4	14	0	1	16	1	10	15	18	8	7	12	4	4	3	17	6	0	2	1	5	1	19	22	9	14	4	9	16	5	4	11	8	0	1	4	18	10	13	2	10	23	13	3	5	10	8	3	6	16	19	6	1	0	0	0
+3	COX2	YP_005255179.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	5	5	4	0	2	3	5	0	1	7	1	1	4	1	9	5	9	1	4	6	4	0	4	6	8	0	1	1	4	0	18	6	6	4	0	3	7	1	1	4	3	1	1	2	5	5	4	3	7	3	6	1	3	12	12	2	3	1	4	1	0	0	0	0
+4	ATP8	YP_005255180.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	2	2	1	0	0	1	0	0	0	0	0	0	4	1	1	1	0	1	5	3	2	1	1	0	2	1	0	0	0	0	1	2	0	1	2	0	2	2	1	2	2	1	0	1	0	1	2	0	0	2	1	1	0	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_005255181.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	6	6	8	1	0	4	1	0	0	4	0	0	2	3	11	9	19	6	3	7	8	0	1	3	9	0	1	1	3	1	10	6	5	5	3	5	9	1	4	5	1	0	0	3	4	7	3	1	3	13	4	2	0	1	3	1	1	2	5	3	1	0	0	0
+6	COX3	YP_005255182.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	6	16	4	0	1	3	6	0	3	6	1	2	9	3	14	5	10	1	5	2	4	2	5	12	7	1	0	1	5	0	4	11	4	2	1	6	13	1	1	1	3	0	0	3	6	6	2	4	4	15	5	1	0	6	5	3	5	6	6	3	0	0	0	0
+7	ND3	YP_005255183.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	4	4	4	0	0	4	2	0	0	2	1	0	4	1	7	8	4	4	2	4	2	0	1	0	2	1	0	1	1	0	4	5	1	2	0	4	2	1	0	2	0	1	0	0	1	3	0	1	2	6	1	0	2	3	5	1	1	1	1	3	0	0	0	0
+8	ND4L	YP_005255184.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	4	3	3	0	1	6	1	2	0	1	1	2	1	0	13	3	4	1	2	0	0	0	0	4	2	1	0	1	1	1	0	1	3	2	2	5	1	0	0	1	0	0	1	1	1	1	0	0	0	7	5	0	0	2	1	1	1	1	0	3	1	0	0	0
+9	ND4	YP_005255185.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	6	11	10	0	2	7	7	2	3	11	1	4	13	6	17	29	26	18	3	13	9	2	4	7	8	2	2	2	7	0	14	18	18	6	4	20	12	6	0	12	7	4	1	8	2	7	3	2	7	16	17	1	1	2	8	5	1	11	12	3	0	0	0	0
+10	ND5	YP_005255186.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	15	24	10	1	10	9	9	2	3	9	3	3	12	2	19	30	30	8	8	14	9	1	5	10	13	4	0	2	7	2	14	29	16	13	8	27	15	6	8	21	17	3	1	12	13	14	6	1	8	28	18	4	4	8	7	5	4	18	6	4	1	0	0	0
+11	CYTB	YP_005255188.1	Seriola lalandi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Carangiformes, Carangidae, Seriola	5	28	3	1	4	11	5	2	4	10	0	3	10	2	11	24	15	7	3	13	2	3	3	9	4	2	0	0	7	2	8	20	4	4	5	10	7	3	4	14	8	1	0	1	6	14	7	0	2	12	12	3	1	10	6	0	2	12	8	3	0	0	0	0

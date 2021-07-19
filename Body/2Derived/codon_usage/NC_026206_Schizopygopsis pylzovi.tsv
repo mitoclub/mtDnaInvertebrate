@@ -1,65 +1,13 @@
-	YP_009116071.1|ND1	YP_009116072.1|ND2	YP_009116073.1|COX1	YP_009116074.1|COX2	YP_009116075.1|ATP8	YP_009116076.1|ATP6	YP_009116077.1|COX3	YP_009116078.1|ND3	YP_009116079.1|ND4L	YP_009116080.1|ND4	YP_009116081.1|ND5	YP_009116083.1|CYTB
-TTT	13	4	18	3	0	7	14	5	6	11	18	17
-TTC	6	5	23	6	3	3	11	4	2	7	23	15
-TTA	5	7	12	6	5	10	9	11	3	21	12	8
-TTG	3	5	0	1	1	3	1	0	0	7	5	1
-TCT	2	4	8	4	0	1	2	0	1	3	7	5
-TCC	7	4	6	5	2	0	2	3	3	7	5	6
-TCA	7	6	12	2	0	4	6	2	2	13	11	8
-TCG	4	1	2	3	0	0	0	0	0	2	4	0
-TAT	7	2	11	8	0	5	5	1	0	8	7	7
-TAC	5	6	7	2	0	0	5	1	0	6	4	7
-TGT	0	1	0	1	0	0	0	0	2	1	0	1
-TGC	0	0	1	1	0	1	2	1	1	4	4	2
-TGA	5	7	16	5	5	4	9	2	0	15	8	10
-TGG	3	4	1	0	0	0	3	3	1	5	5	2
-CTT	14	16	23	7	0	13	5	3	2	16	28	14
-CTC	11	11	4	1	1	3	5	4	5	17	15	4
-CTA	20	14	24	9	0	15	9	5	7	20	21	18
-CTG	5	10	2	4	0	6	3	2	6	4	10	16
-CCT	5	4	8	1	1	2	2	1	0	8	9	1
-CCC	14	7	4	4	1	4	6	0	1	5	8	5
-CCA	4	8	13	9	4	9	5	7	1	12	6	14
-CCG	1	0	3	0	1	1	0	0	0	2	3	2
-CAT	1	4	8	3	1	2	11	0	2	4	6	3
-CAC	3	4	11	6	1	1	5	0	2	7	8	9
-CAA	5	10	8	8	1	9	8	2	2	13	10	4
-CAG	2	2	0	0	0	0	1	1	1	2	7	1
-CGT	0	1	2	1	0	1	1	2	0	0	1	0
-CGC	0	0	1	2	0	0	1	0	1	2	1	2
-CGA	4	2	3	2	0	4	2	0	2	6	8	3
-CGG	4	1	2	1	0	0	1	0	0	3	1	3
-ATT	11	14	26	12	2	16	10	7	2	32	34	19
-ATC	12	7	11	6	1	5	4	1	0	5	19	9
-ATA	3	10	18	9	0	7	6	2	3	19	17	7
-ATG	8	10	5	3	1	3	2	2	2	8	15	6
-ACT	5	8	6	4	1	5	4	2	1	5	11	4
-ACC	6	23	8	4	1	3	7	3	5	14	21	9
-ACA	7	10	19	3	1	9	10	3	2	10	24	8
-ACG	1	6	2	0	1	2	2	0	1	5	3	0
-AAT	5	3	4	3	1	5	0	1	1	5	11	6
-AAC	6	4	11	3	3	4	2	1	1	6	18	11
-AAA	5	4	5	3	3	1	2	0	0	6	15	6
-AAG	2	5	3	1	0	0	0	1	0	3	8	3
-AGT	2	5	0	0	0	0	0	0	0	1	1	1
-AGC	3	3	6	3	0	4	3	0	3	5	10	1
-GTT	6	6	12	7	2	7	6	2	1	4	13	7
-GTC	2	1	6	3	1	0	1	1	0	3	5	6
-GTA	9	6	19	10	2	9	8	1	1	13	8	10
-GTG	4	4	7	0	0	4	2	1	0	1	6	6
-GCT	6	5	12	0	1	3	5	2	4	6	8	5
-GCC	17	17	21	7	0	9	9	4	2	15	30	11
-GCA	10	14	10	6	1	7	7	4	5	13	15	15
-GCG	1	6	2	2	0	0	1	0	1	5	4	0
-GAT	3	1	5	2	0	0	1	1	0	1	5	4
-GAC	1	2	9	10	0	1	4	4	1	2	7	6
-GAA	7	4	10	13	3	3	8	5	2	7	6	7
-GAG	4	1	1	2	0	1	1	2	1	4	6	0
-GGT	3	3	10	0	1	1	0	0	2	5	1	5
-GGC	2	6	9	3	1	3	5	2	1	7	8	10
-GGA	5	8	16	4	0	5	9	4	1	13	17	8
-GGG	8	2	10	2	0	2	8	0	2	6	6	2
-TAA	0	0	1	0	0	1	0	0	1	0	1	0
-TAG	1	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009116071.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	13	6	5	3	2	7	7	4	7	5	0	0	5	3	14	11	20	5	5	14	4	1	1	3	5	2	0	0	4	4	11	12	3	8	5	6	7	1	5	6	5	2	2	3	6	2	9	4	6	17	10	1	3	1	7	4	3	2	5	8	0	1	0	0
+1	ND2	YP_009116072.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	4	5	7	5	4	4	6	1	2	6	1	0	7	4	16	11	14	10	4	7	8	0	4	4	10	2	1	0	2	1	14	7	10	10	8	23	10	6	3	4	4	5	5	3	6	1	6	4	5	17	14	6	1	2	4	1	3	6	8	2	0	0	0	0
+2	COX1	YP_009116073.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	18	23	12	0	8	6	12	2	11	7	0	1	16	1	23	4	24	2	8	4	13	3	8	11	8	0	2	1	3	2	26	11	18	5	6	8	19	2	4	11	5	3	0	6	12	6	19	7	12	21	10	2	5	9	10	1	10	9	16	10	1	0	0	0
+3	COX2	YP_009116074.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	3	6	6	1	4	5	2	3	8	2	1	1	5	0	7	1	9	4	1	4	9	0	3	6	8	0	1	2	2	1	12	6	9	3	4	4	3	0	3	3	3	1	0	3	7	3	10	0	0	7	6	2	2	10	13	2	0	3	4	2	0	0	0	0
+4	ATP8	YP_009116075.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	0	3	5	1	0	2	0	0	0	0	0	0	5	0	0	1	0	0	1	1	4	1	1	1	1	0	0	0	0	0	2	1	0	1	1	1	1	1	1	3	3	0	0	0	2	1	2	0	1	0	1	0	0	0	3	0	1	1	0	0	0	1	0	0
+5	ATP6	YP_009116076.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	7	3	10	3	1	0	4	0	5	0	0	1	4	0	13	3	15	6	2	4	9	1	2	1	9	0	1	0	4	0	16	5	7	3	5	3	9	2	5	4	1	0	0	4	7	0	9	4	3	9	7	0	0	1	3	1	1	3	5	2	1	0	0	0
+6	COX3	YP_009116077.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	14	11	9	1	2	2	6	0	5	5	0	2	9	3	5	5	9	3	2	6	5	0	11	5	8	1	1	1	2	1	10	4	6	2	4	7	10	2	0	2	2	0	0	3	6	1	8	2	5	9	7	1	1	4	8	1	0	5	9	8	0	0	0	0
+7	ND3	YP_009116078.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	5	4	11	0	0	3	2	0	1	1	0	1	2	3	3	4	5	2	1	0	7	0	0	0	2	1	2	0	0	0	7	1	2	2	2	3	3	0	1	1	0	1	0	0	2	1	1	1	2	4	4	0	1	4	5	2	0	2	4	0	0	0	0	0
+8	ND4L	YP_009116079.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	6	2	3	0	1	3	2	0	0	0	2	1	0	1	2	5	7	6	0	1	1	0	2	2	2	1	0	1	2	0	2	0	3	2	1	5	2	1	1	1	0	0	0	3	1	0	1	0	4	2	5	1	0	1	2	1	2	1	1	2	1	0	0	0
+9	ND4	YP_009116080.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	11	7	21	7	3	7	13	2	8	6	1	4	15	5	16	17	20	4	8	5	12	2	4	7	13	2	0	2	6	3	32	5	19	8	5	14	10	5	5	6	6	3	1	5	4	3	13	1	6	15	13	5	1	2	7	4	5	7	13	6	0	0	0	0
+10	ND5	YP_009116081.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	18	23	12	5	7	5	11	4	7	4	0	4	8	5	28	15	21	10	9	8	6	3	6	8	10	7	1	1	8	1	34	19	17	15	11	21	24	3	11	18	15	8	1	10	13	5	8	6	8	30	15	4	5	7	6	6	1	8	17	6	1	0	0	0
+11	CYTB	YP_009116083.1	Schizopygopsis pylzovi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	17	15	8	1	5	6	8	0	7	7	1	2	10	2	14	4	18	16	1	5	14	2	3	9	4	1	0	2	3	3	19	9	7	6	4	9	8	0	6	11	6	3	1	1	7	6	10	6	5	11	15	0	4	6	7	0	5	10	8	2	0	0	0	0

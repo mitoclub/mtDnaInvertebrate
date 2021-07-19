@@ -1,65 +1,13 @@
-	YP_009178177.1|ND1	YP_009178178.1|ND2	YP_009178179.1|COX1	YP_009178180.1|COX2	YP_009178181.1|ATP8	YP_009178182.1|ATP6	YP_009178183.1|COX3	YP_009178184.1|ND3	YP_009178185.1|ND4L	YP_009178186.1|ND4	YP_009178187.1|ND5	YP_009178189.1|CYTB
-TTT	10	5	16	5	2	6	6	3	5	10	21	7
-TTC	7	11	26	5	1	7	16	5	2	8	19	24
-TTA	8	3	4	2	0	5	8	2	1	14	13	4
-TTG	2	3	1	0	0	0	0	0	1	6	3	3
-TCT	3	3	5	2	0	1	4	3	2	5	12	4
-TCC	11	13	9	7	3	4	3	1	4	11	8	10
-TCA	5	3	8	2	0	1	5	3	1	6	12	4
-TCG	2	1	2	1	1	0	0	1	1	3	0	3
-TAT	4	3	4	3	0	1	2	1	0	2	1	4
-TAC	6	3	14	5	0	2	10	2	0	12	9	10
-TGT	0	1	0	1	0	0	0	1	2	0	4	3
-TGC	0	1	1	1	0	0	2	0	1	4	4	0
-TGA	6	9	15	4	5	4	10	3	1	11	11	12
-TGG	2	3	2	1	0	1	2	2	0	7	3	1
-CTT	21	27	22	9	3	11	6	12	8	31	35	14
-CTC	22	21	13	4	2	15	11	10	8	28	22	14
-CTA	10	15	16	11	2	13	6	4	3	15	22	20
-CTG	6	7	6	4	0	10	2	2	2	6	6	6
-CCT	7	9	15	4	3	4	0	0	1	8	11	6
-CCC	12	12	9	5	4	7	10	4	0	16	12	9
-CCA	2	1	4	5	2	5	2	2	1	3	6	6
-CCG	1	0	0	0	1	1	0	2	0	0	1	0
-CAT	2	1	7	2	1	1	5	0	0	1	7	2
-CAC	1	6	14	8	2	3	11	0	4	13	11	10
-CAA	5	14	5	8	3	8	7	1	2	8	15	5
-CAG	2	0	3	0	0	3	2	1	1	2	4	1
-CGT	2	0	3	1	0	0	0	0	1	1	1	1
-CGC	2	2	0	2	0	3	1	1	0	3	3	1
-CGA	2	2	4	2	0	1	3	1	2	5	5	5
-CGG	2	0	1	1	0	2	1	0	0	2	1	1
-ATT	9	10	27	13	2	18	9	6	2	21	27	13
-ATC	9	12	17	7	0	2	5	1	0	12	18	8
-ATA	2	6	9	7	0	5	4	1	2	11	10	5
-ATG	7	5	14	4	1	4	4	3	3	10	12	5
-ACT	6	10	7	1	1	5	6	1	3	8	10	5
-ACC	7	21	8	5	0	10	7	5	2	9	29	4
-ACA	6	7	21	4	2	5	7	0	3	17	19	11
-ACG	0	3	0	3	0	3	2	0	0	3	2	0
-AAT	7	5	3	4	0	4	0	1	0	4	11	3
-AAC	3	5	11	1	3	3	2	0	3	5	17	16
-AAA	5	4	7	3	3	0	2	0	0	7	14	8
-AAG	2	4	1	1	0	1	0	1	0	4	5	1
-AGT	1	1	1	0	0	2	0	0	1	6	2	0
-AGC	3	3	4	4	0	3	3	0	2	5	11	1
-GTT	11	3	12	7	1	3	7	3	0	2	12	9
-GTC	11	3	8	6	1	5	5	2	0	5	10	10
-GTA	3	2	14	4	1	4	5	0	1	7	13	10
-GTG	1	1	5	0	2	0	1	0	0	3	1	4
-GCT	5	10	12	2	0	4	2	0	2	6	5	10
-GCC	19	17	23	7	1	12	11	5	6	15	28	12
-GCA	5	9	12	5	0	2	8	4	7	18	14	12
-GCG	4	4	1	0	0	0	1	0	0	2	6	1
-GAT	0	1	6	3	0	1	0	0	0	2	3	4
-GAC	4	2	8	11	0	0	5	4	1	3	9	6
-GAA	7	3	8	13	0	4	8	4	1	6	12	6
-GAG	4	1	3	1	2	0	1	2	1	5	0	0
-GGT	1	1	6	1	0	3	3	1	1	3	4	2
-GGC	10	10	20	4	0	1	12	4	3	13	13	8
-GGA	2	5	10	2	0	4	4	1	0	3	9	9
-GGG	5	1	10	2	0	0	2	0	0	4	4	6
-TAA	1	1	1	0	1	1	1	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	1	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009178177.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	10	7	8	2	3	11	5	2	4	6	0	0	6	2	21	22	10	6	7	12	2	1	2	1	5	2	2	2	2	2	9	9	2	7	6	7	6	0	7	3	5	2	1	3	11	11	3	1	5	19	5	4	0	4	7	4	1	10	2	5	1	0	0	0
+1	ND2	YP_009178178.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	5	11	3	3	3	13	3	1	3	3	1	1	9	3	27	21	15	7	9	12	1	0	1	6	14	0	0	2	2	0	10	12	6	5	10	21	7	3	5	5	4	4	1	3	3	3	2	1	10	17	9	4	1	2	3	1	1	10	5	1	1	0	0	0
+2	COX1	YP_009178179.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	16	26	4	1	5	9	8	2	4	14	0	1	15	2	22	13	16	6	15	9	4	0	7	14	5	3	3	0	4	1	27	17	9	14	7	8	21	0	3	11	7	1	1	4	12	8	14	5	12	23	12	1	6	8	8	3	6	20	10	10	1	0	0	0
+3	COX2	YP_009178180.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	5	5	2	0	2	7	2	1	3	5	1	1	4	1	9	4	11	4	4	5	5	0	2	8	8	0	1	2	2	1	13	7	7	4	1	5	4	3	4	1	3	1	0	4	7	6	4	0	2	7	5	0	3	11	13	1	1	4	2	2	0	0	0	0
+4	ATP8	YP_009178181.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	2	1	0	0	0	3	0	1	0	0	0	0	5	0	3	2	2	0	3	4	2	1	1	2	3	0	0	0	0	0	2	0	0	1	1	0	2	0	0	3	3	0	0	0	1	1	1	2	0	1	0	0	0	0	0	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_009178182.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	6	7	5	0	1	4	1	0	1	2	0	0	4	1	11	15	13	10	4	7	5	1	1	3	8	3	0	3	1	2	18	2	5	4	5	10	5	3	4	3	0	1	2	3	3	5	4	0	4	12	2	0	1	0	4	0	3	1	4	0	1	0	0	0
+6	COX3	YP_009178183.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	6	16	8	0	4	3	5	0	2	10	0	2	10	2	6	11	6	2	0	10	2	0	5	11	7	2	0	1	3	1	9	5	4	4	6	7	7	2	0	2	2	0	0	3	7	5	5	1	2	11	8	1	0	5	8	1	3	12	4	2	1	0	0	0
+7	ND3	YP_009178184.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	3	5	2	0	3	1	3	1	1	2	1	0	3	2	12	10	4	2	0	4	2	2	0	0	1	1	0	1	1	0	6	1	1	3	1	5	0	0	1	0	0	1	0	0	3	2	0	0	0	5	4	0	0	4	4	2	1	4	1	0	0	1	0	0
+8	ND4L	YP_009178185.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	5	2	1	1	2	4	1	1	0	0	2	1	1	0	8	8	3	2	1	0	1	0	0	4	2	1	1	0	2	0	2	0	2	3	3	2	3	0	0	3	0	0	1	2	0	0	1	0	2	6	7	0	0	1	1	1	1	3	0	0	1	0	0	0
+9	ND4	YP_009178186.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	10	8	14	6	5	11	6	3	2	12	0	4	11	7	31	28	15	6	8	16	3	0	1	13	8	2	1	3	5	2	21	12	11	10	8	9	17	3	4	5	7	4	6	5	2	5	7	3	6	15	18	2	2	3	6	5	3	13	3	4	0	0	0	0
+10	ND5	YP_009178187.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	21	19	13	3	12	8	12	0	1	9	4	4	11	3	35	22	22	6	11	12	6	1	7	11	15	4	1	3	5	1	27	18	10	12	10	29	19	2	11	17	14	5	2	11	12	10	13	1	5	28	14	6	3	9	12	0	4	13	9	4	0	1	0	0
+11	CYTB	YP_009178189.1	Cyprinodon tularosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Cyprinodontidae, Cyprinodon	7	24	4	3	4	10	4	3	4	10	3	0	12	1	14	14	20	6	6	9	6	0	2	10	5	1	1	1	5	1	13	8	5	5	5	4	11	0	3	16	8	1	0	1	9	10	10	4	10	12	12	1	4	6	6	0	2	8	9	6	1	0	0	0

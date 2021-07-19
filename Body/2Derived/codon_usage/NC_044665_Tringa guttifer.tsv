@@ -1,65 +1,13 @@
-	YP_009689733.1|ND1	YP_009689734.1|ND2	YP_009689735.1|COX1	YP_009689736.1|COX2	YP_009689737.1|ATP8	YP_009689738.1|ATP6	YP_009689739.1|COX3	YP_009689740.1|ND3	YP_009689741.1|ND4L	YP_009689742.1|ND4	YP_009689743.1|ND5	YP_009689744.1|CYTB
-TTT	5	5	13	4	1	4	6	1	1	7	16	7
-TTC	14	11	29	5	2	5	18	8	4	10	18	22
-TTA	13	13	6	4	1	7	7	6	4	14	9	5
-TTG	1	2	0	0	0	0	1	0	0	0	0	0
-TCT	4	3	5	1	1	2	2	2	1	5	6	2
-TCC	8	9	9	7	2	3	5	2	3	9	13	7
-TCA	10	14	10	9	3	4	8	3	5	13	14	10
-TCG	0	0	0	0	0	0	0	0	0	1	0	0
-TAT	3	4	8	2	0	0	4	2	1	8	3	0
-TAC	11	4	10	6	0	3	6	0	1	5	11	14
-TGT	0	0	0	0	0	0	0	0	2	0	1	1
-TGC	2	1	1	3	0	1	1	1	1	4	4	3
-TGA	8	9	17	4	5	4	11	5	1	11	11	11
-TGG	0	1	0	1	0	0	1	0	0	1	1	0
-CTT	10	13	7	7	0	5	4	3	2	6	10	8
-CTC	13	12	15	6	2	17	3	6	3	22	20	15
-CTA	26	21	33	14	3	33	17	10	13	52	53	34
-CTG	1	4	0	0	1	1	2	0	0	4	4	5
-CCT	6	1	1	0	3	4	1	0	0	3	3	8
-CCC	5	4	11	7	4	5	4	1	1	8	7	7
-CCA	13	11	14	6	1	8	7	7	1	16	18	11
-CCG	0	2	3	0	0	0	0	0	0	0	1	1
-CAT	0	5	7	6	0	1	6	0	1	6	4	3
-CAC	4	4	12	3	0	2	10	0	5	9	6	9
-CAA	6	8	7	7	2	8	7	3	2	12	18	8
-CAG	0	1	2	0	0	0	1	0	0	0	1	0
-CGT	1	0	2	0	0	1	0	0	0	0	1	1
-CGC	4	1	2	2	0	2	1	1	0	3	4	2
-CGA	3	2	4	3	0	2	4	1	2	8	4	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	12	13	21	8	2	4	5	2	1	19	22	12
-ATC	15	19	20	12	2	12	11	8	2	25	31	19
-ATA	10	18	25	8	3	8	7	5	6	25	32	9
-ATG	2	1	1	2	1	1	2	0	1	1	1	1
-ACT	4	7	7	1	4	6	3	4	1	12	14	3
-ACC	10	17	20	6	5	11	7	6	2	22	33	14
-ACA	8	20	15	6	0	7	9	2	3	15	30	11
-ACG	0	0	1	0	0	0	0	0	1	0	0	1
-AAT	4	4	7	0	0	2	1	0	1	5	9	5
-AAC	7	10	8	5	4	7	4	3	2	10	19	17
-AAA	6	13	9	3	3	4	3	1	0	8	20	9
-AAG	1	1	0	1	0	0	1	0	0	1	0	1
-AGT	1	1	0	1	0	0	0	0	1	1	1	0
-AGC	4	3	3	3	0	4	3	1	3	10	10	1
-GTT	0	0	6	4	0	0	4	0	0	1	1	2
-GTC	2	3	8	6	0	5	3	0	0	3	5	4
-GTA	8	3	19	5	0	2	7	1	2	2	6	10
-GTG	2	0	1	0	0	0	0	0	0	1	0	0
-GCT	10	3	17	2	0	3	4	1	3	8	12	3
-GCC	7	14	18	8	0	11	6	1	4	13	23	12
-GCA	11	12	10	4	0	4	11	5	2	11	12	9
-GCG	0	0	0	0	0	0	1	0	1	0	0	0
-GAT	0	0	4	3	0	1	1	1	0	0	1	1
-GAC	5	1	11	9	0	1	3	2	1	2	7	5
-GAA	7	4	10	14	0	4	7	6	3	9	8	7
-GAG	4	1	0	1	0	0	1	0	0	0	3	0
-GGT	1	2	15	0	0	2	2	0	0	1	3	5
-GGC	8	4	10	2	0	5	7	1	3	5	7	5
-GGA	4	7	21	5	0	1	8	4	1	11	23	14
-GGG	1	0	1	1	0	0	3	0	0	1	0	1
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009689733.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	5	14	13	1	4	8	10	0	3	11	0	2	8	0	10	13	26	1	6	5	13	0	0	4	6	0	1	4	3	0	12	15	10	2	4	10	8	0	4	7	6	1	1	4	0	2	8	2	10	7	11	0	0	5	7	4	1	8	4	1	0	0	0	1
+1	ND2	YP_009689734.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	5	11	13	2	3	9	14	0	4	4	0	1	9	1	13	12	21	4	1	4	11	2	5	4	8	1	0	1	2	0	13	19	18	1	7	17	20	0	4	10	13	1	1	3	0	3	3	0	3	14	12	0	0	1	4	1	2	4	7	0	0	1	0	0
+2	COX1	YP_009689735.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	13	29	6	0	5	9	10	0	8	10	0	1	17	0	7	15	33	0	1	11	14	3	7	12	7	2	2	2	4	0	21	20	25	1	7	20	15	1	7	8	9	0	0	3	6	8	19	1	17	18	10	0	4	11	10	0	15	10	21	1	0	0	0	1
+3	COX2	YP_009689736.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	4	5	4	0	1	7	9	0	2	6	0	3	4	1	7	6	14	0	0	7	6	0	6	3	7	0	0	2	3	0	8	12	8	2	1	6	6	0	0	5	3	1	1	3	4	6	5	0	2	8	4	0	3	9	14	1	0	2	5	1	1	0	0	0
+4	ATP8	YP_009689737.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	1	2	1	0	1	2	3	0	0	0	0	0	5	0	0	2	3	1	3	4	1	0	0	0	2	0	0	0	0	0	2	2	3	1	4	5	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009689738.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	4	5	7	0	2	3	4	0	0	3	0	1	4	0	5	17	33	1	4	5	8	0	1	2	8	0	1	2	2	0	4	12	8	1	6	11	7	0	2	7	4	0	0	4	0	5	2	0	3	11	4	0	1	1	4	0	2	5	1	0	1	0	0	0
+6	COX3	YP_009689739.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	6	18	7	1	2	5	8	0	4	6	0	1	11	1	4	3	17	2	1	4	7	0	6	10	7	1	0	1	4	0	5	11	7	2	3	7	9	0	1	4	3	1	0	3	4	3	7	0	4	6	11	1	1	3	7	1	2	7	8	3	0	0	0	0
+7	ND3	YP_009689740.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	1	8	6	0	2	2	3	0	2	0	0	1	5	0	3	6	10	0	0	1	7	0	0	0	3	0	0	1	1	0	2	8	5	0	4	6	2	0	0	3	1	0	0	1	0	0	1	0	1	1	5	0	1	2	6	0	0	1	4	0	1	0	0	0
+8	ND4L	YP_009689741.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	1	4	4	0	1	3	5	0	1	1	2	1	1	0	2	3	13	0	0	1	1	0	1	5	2	0	0	0	2	0	1	2	6	1	1	2	3	1	1	2	0	0	1	3	0	0	2	0	3	4	2	1	0	1	3	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009689742.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	7	10	14	0	5	9	13	1	8	5	0	4	11	1	6	22	52	4	3	8	16	0	6	9	12	0	0	3	8	0	19	25	25	1	12	22	15	0	5	10	8	1	1	10	1	3	2	1	8	13	11	0	0	2	9	0	1	5	11	1	0	0	0	0
+10	ND5	YP_009689743.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	16	18	9	0	6	13	14	0	3	11	1	4	11	1	10	20	53	4	3	7	18	1	4	6	18	1	1	4	4	0	22	31	32	1	14	33	30	0	9	19	20	0	1	10	1	5	6	0	12	23	12	0	1	7	8	3	3	7	23	0	0	0	1	0
+11	CYTB	YP_009689744.1	Tringa guttifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	7	22	5	0	2	7	10	0	0	14	1	3	11	0	8	15	34	5	8	7	11	1	3	9	8	0	1	2	5	0	12	19	9	1	3	14	11	1	5	17	9	1	0	1	2	4	10	0	3	12	9	0	1	5	7	0	5	5	14	1	1	0	0	0

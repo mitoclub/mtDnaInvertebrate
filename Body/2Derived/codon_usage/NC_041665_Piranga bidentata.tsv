@@ -1,65 +1,13 @@
-	YP_009590240.1|ND1	YP_009590241.1|ND2	YP_009590242.1|COX1	YP_009590243.1|COX2	YP_009590244.1|ATP8	YP_009590245.1|ATP6	YP_009590246.1|COX3	YP_009590247.1|ND3	YP_009590248.1|ND4L	YP_009590249.1|ND4	YP_009590250.1|ND5	YP_009590251.1|CYTB
-TTT	1	3	8	1	2	2	1	0	0	0	4	1
-TTC	18	10	35	7	1	10	21	8	5	11	30	27
-TTA	7	6	5	2	0	6	2	1	2	10	9	3
-TTG	0	1	0	0	0	0	0	0	1	0	0	0
-TCT	3	5	6	2	0	3	3	2	2	5	4	2
-TCC	9	11	9	8	2	4	4	2	4	11	27	6
-TCA	7	5	9	5	3	4	6	4	4	13	11	12
-TCG	0	1	0	1	0	0	0	1	0	0	0	0
-TAT	3	4	1	1	0	1	1	0	0	2	1	2
-TAC	11	3	16	6	0	2	9	2	3	13	14	10
-TGT	0	0	0	0	0	0	0	0	1	0	2	0
-TGC	3	2	1	3	0	0	1	1	2	3	4	4
-TGA	7	8	17	4	5	4	12	5	1	12	12	11
-TGG	1	2	0	1	0	0	0	0	0	0	0	0
-CTT	5	8	7	2	1	2	1	2	0	3	12	4
-CTC	20	18	13	5	1	12	11	8	3	33	24	23
-CTA	29	30	31	20	3	38	17	15	13	44	53	35
-CTG	7	2	7	2	1	4	3	3	1	8	4	3
-CCT	6	4	6	2	5	0	3	1	0	3	2	3
-CCC	8	10	8	1	4	4	6	3	2	11	16	4
-CCA	10	7	16	8	2	11	3	3	0	12	12	15
-CCG	0	2	0	2	0	0	1	0	0	1	0	1
-CAT	0	2	5	3	0	1	3	0	0	3	2	1
-CAC	3	7	14	6	0	2	13	0	6	10	8	11
-CAA	5	9	7	6	2	7	7	4	3	12	14	7
-CAG	1	1	2	0	0	1	1	0	0	1	3	1
-CGT	1	1	2	2	0	0	0	0	0	1	0	2
-CGC	1	1	0	1	0	3	3	1	0	2	2	1
-CGA	6	2	6	3	0	2	3	1	2	9	6	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	6	8	9	3	3	1	3	1	0	8	7	5
-ATC	16	25	29	10	2	15	13	5	5	34	48	31
-ATA	6	11	19	8	1	7	7	5	4	22	25	6
-ATG	5	5	3	3	2	1	1	0	2	3	3	1
-ACT	1	8	6	3	2	3	5	2	1	3	11	6
-ACC	10	19	12	5	4	6	5	6	5	19	31	8
-ACA	8	13	20	7	0	13	9	1	3	21	23	10
-ACG	0	0	1	0	0	0	0	0	0	0	0	2
-AAT	2	2	3	1	1	1	1	0	0	2	1	1
-AAC	11	10	11	7	3	8	4	2	2	14	28	20
-AAA	6	11	9	3	2	4	3	1	0	9	21	10
-AAG	1	2	0	1	0	0	1	0	0	1	0	0
-AGT	1	0	0	1	0	0	1	0	0	1	0	0
-AGC	5	6	4	3	1	4	3	1	4	7	10	1
-GTT	2	1	7	5	0	2	4	0	0	1	0	1
-GTC	6	4	12	8	0	3	6	0	0	1	8	10
-GTA	6	3	20	7	0	5	6	3	1	7	9	8
-GTG	1	1	3	0	1	0	0	0	0	0	0	1
-GCT	5	4	9	2	0	0	5	0	0	6	5	5
-GCC	13	18	20	8	1	11	12	6	8	26	29	17
-GCA	10	11	15	6	0	5	5	2	1	10	17	4
-GCG	3	1	1	0	0	0	1	0	0	0	0	0
-GAT	0	1	4	3	0	0	1	1	0	0	1	1
-GAC	4	1	11	10	0	3	3	2	1	3	7	8
-GAA	10	4	9	11	0	4	8	6	2	10	12	5
-GAG	1	0	1	0	0	0	0	0	0	0	0	1
-GGT	4	1	6	2	0	1	0	0	0	1	4	2
-GGC	5	3	13	2	0	5	5	0	2	7	11	10
-GGA	4	8	26	3	0	2	14	4	2	10	15	9
-GGG	1	0	2	1	0	0	0	1	0	0	3	3
-TAA	0	1	0	1	1	1	0	1	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009590240.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	1	18	7	0	3	9	7	0	3	11	0	3	7	1	5	20	29	7	6	8	10	0	0	3	5	1	1	1	6	0	6	16	6	5	1	10	8	0	2	11	6	1	1	5	2	6	6	1	5	13	10	3	0	4	10	1	4	5	4	1	0	0	0	1
+1	ND2	YP_009590241.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	3	10	6	1	5	11	5	1	4	3	0	2	8	2	8	18	30	2	4	10	7	2	2	7	9	1	1	1	2	0	8	25	11	5	8	19	13	0	2	10	11	2	0	6	1	4	3	1	4	18	11	1	1	1	4	0	1	3	8	0	1	0	0	0
+2	COX1	YP_009590242.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	8	35	5	0	6	9	9	0	1	16	0	1	17	0	7	13	31	7	6	8	16	0	5	14	7	2	2	0	6	0	9	29	19	3	6	12	20	1	3	11	9	0	0	4	7	12	20	3	9	20	15	1	4	11	9	1	6	13	26	2	0	0	0	1
+3	COX2	YP_009590243.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	1	7	2	0	2	8	5	1	1	6	0	3	4	1	2	5	20	2	2	1	8	2	3	6	6	0	2	1	3	0	3	10	8	3	3	5	7	0	1	7	3	1	1	3	5	8	7	0	2	8	6	0	3	10	11	0	2	2	3	1	1	0	0	0
+4	ATP8	YP_009590244.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	2	1	0	0	0	2	3	0	0	0	0	0	5	0	1	1	3	1	5	4	2	0	0	0	2	0	0	0	0	0	3	2	1	2	2	4	0	0	1	3	2	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009590245.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	2	10	6	0	3	4	4	0	1	2	0	0	4	0	2	12	38	4	0	4	11	0	1	2	7	1	0	3	2	0	1	15	7	1	3	6	13	0	1	8	4	0	0	4	2	3	5	0	0	11	5	0	0	3	4	0	1	5	2	0	1	0	0	0
+6	COX3	YP_009590246.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	1	21	2	0	3	4	6	0	1	9	0	1	12	0	1	11	17	3	3	6	3	1	3	13	7	1	0	3	3	0	3	13	7	1	5	5	9	0	1	4	3	1	1	3	4	6	6	0	5	12	5	1	1	3	8	0	0	5	14	0	0	0	0	0
+7	ND3	YP_009590247.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	0	8	1	0	2	2	4	1	0	2	0	1	5	0	2	8	15	3	1	3	3	0	0	0	4	0	0	1	1	0	1	5	5	0	2	6	1	0	0	2	1	0	0	1	0	0	3	0	0	6	2	0	1	2	6	0	0	0	4	1	1	0	0	0
+8	ND4L	YP_009590248.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	0	5	2	1	2	4	4	0	0	3	1	2	1	0	0	3	13	1	0	2	0	0	0	6	3	0	0	0	2	0	0	5	4	2	1	5	3	0	0	2	0	0	0	4	0	0	1	0	0	8	1	0	0	1	2	0	0	2	2	0	1	0	0	0
+9	ND4	YP_009590249.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	0	11	10	0	5	11	13	0	2	13	0	3	12	0	3	33	44	8	3	11	12	1	3	10	12	1	1	2	9	0	8	34	22	3	3	19	21	0	2	14	9	1	1	7	1	1	7	0	6	26	10	0	0	3	10	0	1	7	10	0	0	0	0	0
+10	ND5	YP_009590250.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	4	30	9	0	4	27	11	0	1	14	2	4	12	0	12	24	53	4	2	16	12	0	2	8	14	3	0	2	6	0	7	48	25	3	11	31	23	0	1	28	21	0	0	10	0	8	9	0	5	29	17	0	1	7	12	0	4	11	15	3	0	0	1	0
+11	CYTB	YP_009590251.1	Piranga bidentata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Thraupidae, Piranga	1	27	3	0	2	6	12	0	2	10	0	4	11	0	4	23	35	3	3	4	15	1	1	11	7	1	2	1	5	0	5	31	6	1	6	8	10	2	1	20	10	0	0	1	1	10	8	1	5	17	4	0	1	8	5	1	2	10	9	3	0	1	0	0

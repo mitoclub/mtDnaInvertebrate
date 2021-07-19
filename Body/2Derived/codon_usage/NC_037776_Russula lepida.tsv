@@ -1,65 +1,28 @@
-	YP_009487271.1|cox1	YP_009487272.1|orf307	YP_009487273.1|orf560	YP_009487274.1|orf344	YP_009487275.1|orf117	YP_009487276.1|orf137	YP_009487277.1|nad4	YP_009487278.1|orf289	YP_009487279.1|atp9	YP_009487280.1|orf350	YP_009487281.1|cox3	YP_009487282.1|nad4L	YP_009487283.1|nad5	YP_009487284.1|orf246	YP_009487285.1|orf193	YP_009487286.1|atp8	YP_009487287.1|cox2	YP_009487288.1|orf296	YP_009487289.1|cob	YP_009487290.1|orf345	YP_009487291.1|orf243	YP_009487292.1|orf251	YP_009487296.1|nad6	YP_009487297.1|nad1	YP_009487298.1|nad2	YP_009487299.1|nad3	YP_009487302.1|atp6
-TTT	37	12	34	24	4	10	31	21	1	20	23	7	45	11	9	6	13	14	25	8	11	9	16	28	31	12	19
-TTC	13	1	3	1	1	1	4	1	5	0	2	0	12	0	2	1	2	5	7	2	0	0	0	4	3	3	5
-TTA	64	25	40	32	10	7	81	29	13	43	32	16	99	19	9	8	20	21	50	26	23	22	28	55	86	18	42
-TTG	1	1	5	2	1	3	2	1	0	0	0	0	1	0	0	0	0	2	0	7	1	2	0	1	0	1	2
-TCT	11	11	21	12	7	0	16	6	4	7	5	0	21	6	6	2	5	14	11	7	9	10	6	13	22	2	7
-TCC	0	1	0	0	1	0	0	0	0	1	1	0	2	0	0	0	0	3	0	1	0	3	0	1	2	0	0
-TCA	14	5	7	9	3	5	12	6	2	8	5	4	13	3	3	2	9	6	8	5	5	12	7	6	16	3	6
-TCG	2	2	1	0	0	0	1	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	1
-TAT	17	18	25	11	5	7	24	18	1	15	12	1	29	13	6	4	12	15	17	17	15	8	7	13	24	4	11
-TAC	2	0	5	3	3	1	1	2	1	0	0	0	0	2	1	1	0	4	0	4	2	0	1	0	2	0	1
-TGT	0	2	2	4	0	2	1	0	1	1	0	0	4	4	2	0	4	0	1	4	4	0	1	5	2	1	1
-TGC	0	0	0	1	0	0	1	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0
-TGA	11	4	9	5	3	0	5	0	0	1	7	0	6	3	3	0	7	0	9	1	5	1	1	5	4	0	1
-TGG	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
-CTT	4	0	7	3	2	2	3	3	0	1	1	0	1	5	2	1	1	2	4	3	5	6	1	2	4	0	0
-CTC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	1	6	5	0	1	1	1	0	3	1	0	1	0	2	0	1	3	0	4	0	3	1	0	6	1	0
-CTG	1	0	0	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	2	0	1	1	0	0	0	0	0
-CCT	15	4	4	7	4	2	13	5	1	4	7	0	15	6	1	1	5	3	17	8	4	5	2	13	8	2	4
-CCC	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	0	3	0	0	0	0	1	0	0	0	0
-CCA	12	1	5	4	1	3	4	1	0	2	2	0	7	1	1	2	7	2	5	1	4	1	1	2	3	1	5
-CCG	1	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	13	7	8	5	4	2	8	8	0	7	13	0	11	6	1	0	7	2	10	2	4	4	1	3	6	1	3
-CAC	3	1	0	1	0	1	0	1	0	0	1	0	0	1	1	0	0	0	2	0	0	0	0	0	0	0	1
-CAA	11	10	13	6	1	4	11	2	2	7	10	2	13	4	1	4	9	9	8	4	4	10	4	9	10	4	6
-CAG	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0
-CGT	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	2	3	3	0	1	2	1	0	0	0	0	1	1	2	0	0	0	1	0	1	1	0	0	1	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	19	11	33	19	4	7	30	25	6	21	12	5	40	15	8	2	11	12	15	21	13	13	17	18	29	7	13
-ATC	1	2	3	2	1	1	2	3	0	1	2	0	1	2	3	1	2	3	1	1	1	1	1	0	1	2	4
-ATA	27	20	25	7	8	13	42	27	2	17	14	14	39	17	12	2	21	10	20	15	11	13	20	28	68	6	23
-ATG	18	3	7	4	1	5	7	7	2	6	5	4	17	3	4	2	3	2	14	4	4	5	5	5	8	3	4
-ACT	18	4	21	10	3	3	18	6	0	9	10	1	28	5	2	3	5	9	9	14	8	15	5	10	15	4	10
-ACC	1	2	0	0	1	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0	0	0	0
-ACA	18	7	10	5	2	3	8	6	2	5	11	1	17	6	7	0	7	3	7	7	4	7	6	9	16	2	7
-ACG	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0
-AAT	19	22	60	27	9	5	22	34	1	42	6	2	26	27	22	2	10	20	20	34	21	14	17	12	44	5	8
-AAC	1	2	9	5	3	4	1	1	0	4	0	2	2	3	0	0	1	2	0	3	0	2	1	1	2	0	1
-AAA	9	29	53	33	4	6	9	19	1	57	2	2	16	22	1	3	5	43	6	36	24	5	8	5	16	6	6
-AAG	0	3	4	1	0	1	0	0	0	1	0	0	1	1	1	0	0	2	0	8	2	0	0	0	0	0	0
-AGT	13	7	8	10	4	2	14	8	1	15	7	3	21	7	7	1	6	10	11	7	2	10	5	8	22	2	13
-AGC	0	1	0	0	0	0	1	0	0	1	0	1	0	0	4	0	0	1	0	2	0	1	0	0	0	0	1
-AGA	7	12	15	12	6	3	12	1	2	12	5	2	11	7	2	1	5	10	12	17	8	4	0	7	6	3	3
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
-GTT	13	6	14	5	0	2	7	11	0	2	5	1	13	5	4	0	9	4	7	7	3	1	3	5	3	5	5
-GTC	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
-GTA	16	7	13	5	6	6	12	4	0	6	15	4	18	4	5	2	11	3	19	5	8	8	10	9	11	4	12
-GTG	3	1	2	1	0	0	1	1	0	0	0	0	0	0	1	0	1	2	1	1	1	2	1	2	1	0	0
-GCT	22	10	6	8	1	3	21	3	8	2	10	3	35	3	8	0	12	5	17	6	7	7	5	16	15	7	8
-GCC	1	0	2	0	0	0	1	0	0	2	1	0	2	0	1	0	0	1	2	1	0	1	0	2	1	0	1
-GCA	12	3	2	3	0	2	4	1	6	1	2	2	8	1	4	0	1	1	8	4	2	5	5	3	8	1	3
-GCG	2	2	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	1	0	0	0	0	1	0	1	0
-GAT	13	15	24	12	3	3	10	7	0	2	5	2	18	5	11	0	13	9	11	8	3	17	4	7	9	3	2
-GAC	1	1	1	3	1	1	0	0	0	1	1	0	0	0	3	0	1	0	0	1	1	1	0	0	1	0	0
-GAA	8	12	22	15	2	7	11	12	1	12	7	3	15	10	22	0	11	13	6	19	5	13	2	11	19	4	7
-GAG	1	2	2	1	0	0	1	0	0	2	0	0	0	1	3	0	0	1	1	1	1	5	0	1	1	0	0
-GGT	19	5	8	7	4	4	18	3	6	4	13	2	23	6	0	0	9	8	10	12	6	2	6	7	13	2	5
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0	1
-GGA	27	8	11	7	2	0	10	3	3	2	12	5	23	4	2	0	3	6	10	4	7	2	3	9	12	2	3
-GGG	5	1	2	0	0	0	0	1	1	1	1	0	0	0	0	0	3	2	1	0	0	0	0	1	1	1	1
-TAA	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1
-TAG	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009487271.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	37	13	64	1	11	0	14	2	17	2	0	0	11	0	4	0	0	1	15	0	12	1	13	3	11	0	0	0	2	0	19	1	27	18	18	1	18	0	19	1	9	0	13	0	7	0	13	0	16	3	22	1	12	2	13	1	8	1	19	0	27	5	1	0
+1	orf307	YP_009487272.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	12	1	25	1	11	1	5	2	18	0	2	0	4	0	0	0	1	0	4	0	1	0	7	1	10	0	0	0	3	0	11	2	20	3	4	2	7	0	22	2	29	3	7	1	12	0	6	0	7	1	10	0	3	2	15	1	12	2	5	0	8	1	1	0
+2	orf560	YP_009487273.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	34	3	40	5	21	0	7	1	25	5	2	0	9	0	7	0	6	0	4	1	5	0	8	0	13	2	0	0	3	0	33	3	25	7	21	0	10	0	60	9	53	4	8	0	15	0	14	1	13	2	6	2	2	1	24	1	22	2	8	0	11	2	0	1
+3	orf344	YP_009487274.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	24	1	32	2	12	0	9	0	11	3	4	1	5	1	3	1	5	2	7	0	4	2	5	1	6	0	0	0	0	0	19	2	7	4	10	0	5	1	27	5	33	1	10	0	12	0	5	0	5	1	8	0	3	0	12	3	15	1	7	0	7	0	1	0
+4	orf117	YP_009487275.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	4	1	10	1	7	1	3	0	5	3	0	0	3	0	2	0	0	0	4	0	1	1	4	0	1	0	0	0	1	0	4	1	8	1	3	1	2	0	9	3	4	0	4	0	6	0	0	0	6	0	1	0	0	0	3	1	2	0	4	0	2	0	1	0
+5	orf137	YP_009487276.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	10	1	7	3	0	0	5	0	7	1	2	0	0	0	2	0	1	1	2	1	3	0	2	1	4	1	0	0	2	0	7	1	13	5	3	0	3	0	5	4	6	1	2	0	3	0	2	0	6	0	3	0	2	0	3	1	7	0	4	0	0	0	1	0
+6	nad4	YP_009487277.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	31	4	81	2	16	0	12	1	24	1	1	1	5	0	3	0	1	0	13	0	4	0	8	0	11	0	0	0	1	0	30	2	42	7	18	1	8	0	22	1	9	0	14	1	12	0	7	0	12	1	21	1	4	0	10	0	11	1	18	0	10	0	1	0
+7	orf289	YP_009487278.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	21	1	29	1	6	0	6	0	18	2	0	1	0	0	3	0	1	0	5	0	1	0	8	1	2	0	0	0	0	0	25	3	27	7	6	0	6	0	34	1	19	0	8	0	1	0	11	0	4	1	3	0	1	0	7	0	12	0	3	0	3	1	1	0
+8	atp9	YP_009487279.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	1	5	13	0	4	0	2	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	6	0	2	2	0	0	2	0	1	0	1	0	1	0	2	0	0	0	0	0	8	0	6	0	0	0	1	0	6	0	3	1	1	0
+9	orf350	YP_009487280.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	20	0	43	0	7	1	8	1	15	0	1	0	1	0	1	0	3	0	4	0	2	0	7	0	7	0	0	0	0	0	21	1	17	6	9	0	5	0	42	4	57	1	15	1	12	0	2	1	6	0	2	2	1	0	2	1	12	2	4	0	2	1	1	0
+10	cox3	YP_009487281.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	23	2	32	0	5	1	5	0	12	0	0	0	7	0	1	0	1	0	7	1	2	0	13	1	10	0	0	0	0	0	12	2	14	5	10	1	11	0	6	0	2	0	7	0	5	0	5	0	15	0	10	1	2	0	5	1	7	0	13	0	12	1	1	0
+11	nad4L	YP_009487282.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	7	0	16	0	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	5	0	14	4	1	0	1	0	2	2	2	0	3	1	2	0	1	0	4	0	3	0	2	0	2	0	3	0	2	0	5	0	1	0
+12	nad5	YP_009487283.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	45	12	99	1	21	2	13	4	29	0	4	0	6	0	1	0	1	0	15	1	7	0	11	0	13	0	0	0	1	0	40	1	39	17	28	1	17	1	26	2	16	1	21	0	11	0	13	0	18	0	35	2	8	0	18	0	15	0	23	0	23	0	1	0
+13	orf246	YP_009487284.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	11	0	19	0	6	0	3	0	13	2	4	2	3	1	5	0	0	0	6	0	1	0	6	1	4	0	0	0	2	0	15	2	17	3	5	0	6	0	27	3	22	1	7	0	7	0	5	1	4	0	3	0	1	0	5	0	10	1	6	2	4	0	0	1
+14	orf193	YP_009487285.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	9	2	9	0	6	0	3	0	6	1	2	0	3	0	2	0	2	1	1	0	1	0	1	1	1	0	0	0	0	0	8	3	12	4	2	1	7	0	22	0	1	1	7	4	2	0	4	0	5	1	8	1	4	3	11	3	22	3	0	1	2	0	1	0
+15	atp8	YP_009487286.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	6	1	8	0	2	0	2	0	4	1	0	0	0	0	1	0	0	0	1	0	2	0	0	0	4	0	0	0	0	0	2	1	2	2	3	0	0	0	2	0	3	0	1	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+16	cox2	YP_009487287.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	13	2	20	0	5	0	9	0	12	0	4	0	7	0	1	0	1	0	5	0	7	0	7	0	9	0	0	0	0	0	11	2	21	3	5	0	7	0	10	1	5	0	6	0	5	0	9	0	11	1	12	0	1	0	13	1	11	0	9	1	3	3	1	0
+17	orf296	YP_009487288.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	14	5	21	2	14	3	6	0	15	4	0	1	0	0	2	0	3	0	3	3	2	0	2	0	9	1	0	0	1	0	12	3	10	2	9	1	3	0	20	2	43	2	10	1	10	0	4	1	3	2	5	1	1	1	9	0	13	1	8	0	6	2	1	0
+18	cob	YP_009487289.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	25	7	50	0	11	0	8	0	17	0	1	0	9	0	4	0	0	2	17	0	5	0	10	2	8	0	0	0	0	0	15	1	20	14	9	0	7	0	20	0	6	0	11	0	12	0	7	0	19	1	17	2	8	1	11	0	6	1	10	0	10	1	1	0
+19	orf345	YP_009487290.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	8	2	26	7	7	1	5	0	17	4	4	0	1	1	3	0	4	0	8	0	1	0	2	0	4	0	0	0	1	0	21	1	15	4	14	0	7	0	34	3	36	8	7	2	17	1	7	0	5	1	6	1	4	0	8	1	19	1	12	0	4	0	1	0
+20	orf243	YP_009487291.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	11	0	23	1	9	0	5	0	15	2	4	0	5	0	5	0	0	1	4	0	4	0	4	0	4	0	1	0	1	0	13	1	11	4	8	0	4	1	21	0	24	2	2	0	8	1	3	0	8	1	7	0	2	0	3	1	5	1	6	0	7	0	1	0
+21	orf251	YP_009487292.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	9	0	22	2	10	3	12	0	8	0	0	0	1	0	6	0	3	1	5	0	1	0	4	0	10	0	0	0	0	0	13	1	13	5	15	0	7	0	14	2	5	0	10	1	4	0	1	0	8	2	7	1	5	0	17	1	13	5	2	0	2	0	0	1
+22	nad6	YP_009487296.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	16	0	28	0	6	0	7	0	7	1	1	0	1	0	1	0	1	0	2	1	1	0	1	0	4	0	0	0	0	0	17	1	20	5	5	1	6	0	17	1	8	0	5	0	0	0	3	0	10	1	5	0	5	0	4	0	2	0	6	0	3	0	1	0
+23	nad1	YP_009487297.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	28	4	55	1	13	1	6	0	13	0	5	0	5	0	2	0	0	0	13	0	2	0	3	0	9	0	0	0	1	0	18	0	28	5	10	0	9	0	12	1	5	0	8	0	7	0	5	0	9	2	16	2	3	1	7	0	11	1	7	0	9	1	1	0
+24	nad2	YP_009487298.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	31	3	86	0	22	2	16	2	24	2	2	0	4	0	4	0	6	0	8	0	3	0	6	0	10	2	0	0	0	0	29	1	68	8	15	0	16	0	44	2	16	0	22	0	6	0	3	0	11	1	15	1	8	0	9	1	19	1	13	0	12	1	1	0
+25	nad3	YP_009487299.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	12	3	18	1	2	0	3	0	4	0	1	0	0	0	0	0	1	0	2	0	1	0	1	0	4	0	0	0	0	0	7	2	6	3	4	0	2	1	5	0	6	0	2	0	3	0	5	0	4	0	7	0	1	1	3	0	4	0	2	0	2	1	1	0
+26	atp6	YP_009487302.1	Russula lepida	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Russula	19	5	42	2	7	0	6	1	11	1	1	0	1	0	0	0	0	0	4	0	5	0	3	1	6	0	0	0	0	0	13	4	23	4	10	0	7	0	8	1	6	0	13	1	3	0	5	0	12	0	8	1	3	0	2	0	7	0	5	1	3	1	1	0

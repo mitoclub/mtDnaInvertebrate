@@ -1,65 +1,14 @@
-	YP_009158832.1|COX1	YP_009158834.1|ND5	YP_009158835.1|ND1	YP_009158836.1|CYTB	YP_009158837.1|ND2	YP_009158838.1|ND6	YP_009158839.1|ATP6	YP_009158840.1|ND4	YP_009158841.1|COX3	YP_009158842.1|COX2	YP_009158843.1|ND4L	YP_009158844.1|ND3	YP_009158845.1|ATP8
-TTT	43	40	23	33	22	22	22	42	22	12	6	15	6
-TTC	7	2	0	2	0	0	1	3	3	0	0	3	0
-TTA	31	53	25	25	27	10	20	39	17	16	11	10	8
-TTG	19	26	12	18	23	9	12	20	8	13	2	3	3
-TCT	15	29	6	8	14	4	4	11	7	7	3	3	0
-TCC	1	5	2	2	2	0	1	1	0	1	0	2	0
-TCA	2	4	1	6	5	4	4	5	2	3	1	1	0
-TCG	3	5	6	6	3	0	1	5	4	1	1	1	1
-TAT	20	24	13	18	13	8	6	19	11	9	4	4	2
-TAC	1	3	1	1	1	0	0	1	0	2	1	0	0
-TGT	1	6	2	3	4	1	1	5	4	3	0	1	0
-TGC	0	0	0	1	2	0	0	0	0	0	0	1	0
-TGA	4	5	4	10	2	2	0	3	6	2	1	3	1
-TGG	12	7	3	4	5	3	3	7	5	4	0	1	2
-CTT	5	13	7	14	10	4	2	13	5	0	2	4	2
-CTC	4	2	1	1	3	1	3	3	1	0	0	2	0
-CTA	3	3	3	1	2	2	4	5	0	0	0	0	2
-CTG	2	2	0	3	1	1	1	4	1	1	1	0	0
-CCT	13	10	7	7	6	4	4	11	8	5	0	3	0
-CCC	3	1	1	3	1	2	1	2	1	0	0	1	1
-CCA	6	3	3	6	2	0	0	3	1	4	0	1	1
-CCG	2	3	4	4	2	0	3	3	0	3	0	1	0
-CAT	14	12	3	9	4	2	5	5	13	5	1	0	1
-CAC	2	0	0	1	0	0	0	3	0	1	0	0	0
-CAA	6	10	3	4	7	4	4	9	7	5	1	2	2
-CAG	1	2	3	3	0	0	0	0	1	2	0	0	0
-CGT	0	2	0	3	0	0	1	4	1	0	0	0	0
-CGC	1	0	0	2	0	1	0	0	0	0	0	1	0
-CGA	0	5	3	2	0	2	0	3	1	0	1	1	1
-CGG	2	0	2	0	1	1	0	2	0	2	1	1	0
-ATT	26	33	14	12	16	13	13	26	10	14	12	6	3
-ATC	5	3	6	2	4	0	5	4	1	4	2	0	0
-ATA	15	16	11	10	8	11	6	16	9	6	7	1	2
-ATG	23	16	10	10	7	7	7	13	5	7	3	1	1
-ACT	16	14	5	4	3	2	5	11	11	3	0	1	4
-ACC	2	4	1	1	3	3	0	3	2	0	0	0	1
-ACA	7	7	5	4	3	4	4	4	0	2	3	0	0
-ACG	6	4	0	5	3	0	1	0	1	3	0	0	1
-AAT	12	10	6	12	9	4	6	12	1	9	2	1	1
-AAC	3	5	1	3	0	0	0	2	1	1	0	0	0
-AAA	6	14	10	4	5	1	3	7	4	4	1	3	3
-AAG	2	8	1	2	6	1	3	7	0	4	1	0	2
-AGT	9	11	9	8	9	3	4	7	7	1	1	1	1
-AGC	1	3	0	0	1	1	0	1	0	0	0	0	0
-AGA	6	6	2	4	5	1	1	5	3	4	2	0	2
-AGG	1	1	1	0	2	1	2	1	0	1	0	0	1
-GTT	21	33	17	12	18	5	11	21	16	11	4	8	6
-GTC	3	5	1	5	6	4	2	3	2	1	0	1	0
-GTA	6	6	11	8	6	5	5	7	1	9	2	2	0
-GTG	10	17	5	11	11	4	7	10	7	6	1	3	3
-GCT	16	17	19	11	18	10	9	15	8	5	3	2	1
-GCC	6	10	6	2	5	2	2	7	1	2	1	0	0
-GCA	12	7	0	3	5	3	5	1	3	2	0	0	0
-GCG	4	9	7	3	4	3	2	12	4	4	4	1	0
-GAT	13	10	4	7	3	4	5	2	4	14	1	3	2
-GAC	5	4	0	2	0	0	0	6	0	2	0	0	0
-GAA	5	6	4	4	3	4	2	6	3	7	3	3	1
-GAG	8	8	8	5	4	2	2	10	6	6	1	4	1
-GGT	18	13	3	8	10	3	6	8	7	9	2	5	0
-GGC	5	5	3	3	1	3	1	7	1	0	2	1	0
-GGA	11	8	4	6	11	7	2	8	6	2	2	3	0
-GGG	19	21	13	15	14	6	8	18	9	3	2	3	2
-TAA	0	0	1	1	1	1	0	1	0	0	1	0	1
-TAG	1	1	0	0	0	0	1	0	1	1	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009158832.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	43	7	31	19	15	1	2	3	20	1	1	0	4	12	5	4	3	2	13	3	6	2	14	2	6	1	0	1	0	2	26	5	15	23	16	2	7	6	12	3	6	2	9	1	6	1	21	3	6	10	16	6	12	4	13	5	5	8	18	5	11	19	0	1
+1	ND5	YP_009158834.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	40	2	53	26	29	5	4	5	24	3	6	0	5	7	13	2	3	2	10	1	3	3	12	0	10	2	2	0	5	0	33	3	16	16	14	4	7	4	10	5	14	8	11	3	6	1	33	5	6	17	17	10	7	9	10	4	6	8	13	5	8	21	0	1
+2	ND1	YP_009158835.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	23	0	25	12	6	2	1	6	13	1	2	0	4	3	7	1	3	0	7	1	3	4	3	0	3	3	0	0	3	2	14	6	11	10	5	1	5	0	6	1	10	1	9	0	2	1	17	1	11	5	19	6	0	7	4	0	4	8	3	3	4	13	1	0
+3	CYTB	YP_009158836.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	33	2	25	18	8	2	6	6	18	1	3	1	10	4	14	1	1	3	7	3	6	4	9	1	4	3	3	2	2	0	12	2	10	10	4	1	4	5	12	3	4	2	8	0	4	0	12	5	8	11	11	2	3	3	7	2	4	5	8	3	6	15	1	0
+4	ND2	YP_009158837.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	22	0	27	23	14	2	5	3	13	1	4	2	2	5	10	3	2	1	6	1	2	2	4	0	7	0	0	0	0	1	16	4	8	7	3	3	3	3	9	0	5	6	9	1	5	2	18	6	6	11	18	5	5	4	3	0	3	4	10	1	11	14	1	0
+5	ND6	YP_009158838.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	22	0	10	9	4	0	4	0	8	0	1	0	2	3	4	1	2	1	4	2	0	0	2	0	4	0	0	1	2	1	13	0	11	7	2	3	4	0	4	0	1	1	3	1	1	1	5	4	5	4	10	2	3	3	4	0	4	2	3	3	7	6	1	0
+6	ATP6	YP_009158839.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	22	1	20	12	4	1	4	1	6	0	1	0	0	3	2	3	4	1	4	1	0	3	5	0	4	0	1	0	0	0	13	5	6	7	5	0	4	1	6	0	3	3	4	0	1	2	11	2	5	7	9	2	5	2	5	0	2	2	6	1	2	8	0	1
+7	ND4	YP_009158840.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	42	3	39	20	11	1	5	5	19	1	5	0	3	7	13	3	5	4	11	2	3	3	5	3	9	0	4	0	3	2	26	4	16	13	11	3	4	0	12	2	7	7	7	1	5	1	21	3	7	10	15	7	1	12	2	6	6	10	8	7	8	18	1	0
+8	COX3	YP_009158841.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	22	3	17	8	7	0	2	4	11	0	4	0	6	5	5	1	0	1	8	1	1	0	13	0	7	1	1	0	1	0	10	1	9	5	11	2	0	1	1	1	4	0	7	0	3	0	16	2	1	7	8	1	3	4	4	0	3	6	7	1	6	9	0	1
+9	COX2	YP_009158842.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	12	0	16	13	7	1	3	1	9	2	3	0	2	4	0	0	0	1	5	0	4	3	5	1	5	2	0	0	0	2	14	4	6	7	3	0	2	3	9	1	4	4	1	0	4	1	11	1	9	6	5	2	2	4	14	2	7	6	9	0	2	3	0	1
+10	ND4L	YP_009158843.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	6	0	11	2	3	0	1	1	4	1	0	0	1	0	2	0	0	1	0	0	0	0	1	0	1	0	0	0	1	1	12	2	7	3	0	0	3	0	2	0	1	1	1	0	2	0	4	0	2	1	3	1	0	4	1	0	3	1	2	2	2	2	1	0
+11	ND3	YP_009158844.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	15	3	10	3	3	2	1	1	4	0	1	1	3	1	4	2	0	0	3	1	1	1	0	0	2	0	0	1	1	1	6	0	1	1	1	0	0	0	1	0	3	0	1	0	0	0	8	1	2	3	2	0	0	1	3	0	3	4	5	1	3	3	0	1
+12	ATP8	YP_009158845.1	Porites rus	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Fungiina, Poritidae, Porites	6	0	8	3	0	0	0	1	2	0	0	0	1	2	2	0	2	0	0	1	1	0	1	0	2	0	0	0	1	0	3	0	2	1	4	1	0	1	1	0	3	2	1	0	2	1	6	0	0	3	1	0	0	0	2	0	1	1	0	0	0	2	1	0

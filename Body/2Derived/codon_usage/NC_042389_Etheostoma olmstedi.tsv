@@ -1,65 +1,13 @@
-	YP_009641528.1|ND1	YP_009641529.1|ND2	YP_009641530.1|COX1	YP_009641531.1|COX2	YP_009641532.1|ATP8	YP_009641533.1|ATP6	YP_009641534.1|COX3	YP_009641535.1|ND3	YP_009641536.1|ND4L	YP_009641537.1|ND4	YP_009641538.1|ND5	YP_009641540.1|CYTB
-TTT	11	8	25	5	3	9	12	6	4	10	23	11
-TTC	7	7	17	4	0	2	12	2	3	6	20	20
-TTA	8	9	7	2	1	9	1	4	2	15	12	7
-TTG	3	4	3	2	0	0	1	1	2	3	1	1
-TCT	1	0	3	1	1	2	0	1	1	9	7	4
-TCC	5	8	12	8	0	2	6	3	3	8	15	8
-TCA	7	8	4	3	0	1	3	1	4	7	5	6
-TCG	3	0	4	1	0	0	1	0	0	1	1	1
-TAT	6	4	9	2	0	1	4	1	0	8	8	5
-TAC	5	2	9	7	1	3	8	1	0	6	3	9
-TGT	0	0	0	0	0	0	0	0	2	2	2	0
-TGC	0	0	1	2	0	0	2	1	1	2	4	3
-TGA	5	8	11	4	5	4	12	4	0	10	7	8
-TGG	3	3	6	1	0	1	0	1	1	9	7	5
-CTT	14	22	26	9	0	14	10	7	4	27	24	15
-CTC	14	23	8	5	1	12	8	6	9	19	23	20
-CTA	17	14	13	8	2	17	7	7	4	24	27	14
-CTG	7	5	5	2	1	3	3	4	3	8	10	4
-CCT	7	8	8	3	4	6	4	3	1	4	13	5
-CCC	14	7	13	7	4	9	7	6	1	14	12	8
-CCA	2	4	6	3	1	2	2	0	0	4	4	2
-CCG	1	3	1	1	0	0	0	0	0	4	2	6
-CAT	0	1	7	3	0	2	10	0	0	5	8	5
-CAC	4	8	12	7	2	2	6	1	4	6	8	7
-CAA	6	12	5	5	1	8	7	3	3	8	14	4
-CAG	1	4	3	3	1	1	2	0	0	3	1	2
-CGT	4	1	1	0	0	2	0	0	1	2	1	1
-CGC	0	0	0	3	0	1	2	2	1	3	2	2
-CGA	3	3	7	3	0	2	2	0	1	4	4	4
-CGG	1	0	0	0	0	1	1	0	0	2	4	1
-ATT	17	11	27	17	3	13	8	9	2	26	28	20
-ATC	10	5	14	4	1	3	7	1	0	5	17	9
-ATA	4	7	11	9	0	7	6	1	2	15	15	4
-ATG	5	6	12	2	1	2	3	1	2	11	10	3
-ACT	4	10	7	3	1	3	2	3	1	5	5	2
-ACC	8	20	16	0	3	6	6	3	5	14	27	10
-ACA	4	9	12	4	3	10	12	3	2	11	23	9
-ACG	1	3	0	1	0	1	1	0	0	3	4	1
-AAT	6	3	5	1	1	7	1	1	0	5	10	10
-AAC	6	6	10	4	1	2	0	0	2	6	18	8
-AAA	4	5	8	3	3	1	2	1	0	7	16	9
-AAG	3	4	0	1	0	0	0	0	0	3	5	0
-AGT	2	0	1	1	0	0	1	0	1	4	3	1
-AGC	1	4	4	2	1	3	3	0	1	7	11	1
-GTT	6	5	12	4	0	5	7	1	0	7	14	9
-GTC	7	2	10	6	1	4	4	0	1	7	9	6
-GTA	5	3	13	6	1	6	3	1	1	5	10	9
-GTG	3	2	6	2	0	0	2	2	0	1	2	4
-GCT	5	4	7	2	2	3	1	0	2	7	6	5
-GCC	22	20	23	10	1	9	14	7	7	20	30	18
-GCA	7	14	20	6	1	9	8	1	5	11	16	11
-GCG	2	3	1	1	0	0	0	0	0	3	4	0
-GAT	0	1	4	3	0	0	0	1	1	2	6	4
-GAC	4	2	10	10	0	1	5	3	1	5	7	6
-GAA	8	3	6	10	0	4	8	4	1	7	5	4
-GAG	3	1	5	5	3	0	2	2	1	4	7	2
-GGT	4	0	9	1	0	1	3	0	1	1	5	3
-GGC	7	12	13	3	0	4	9	3	2	7	13	8
-GGA	4	5	10	3	0	4	7	1	1	5	9	9
-GGG	3	2	14	2	0	3	3	2	1	13	5	7
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009641528.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	11	7	8	3	1	5	7	3	6	5	0	0	5	3	14	14	17	7	7	14	2	1	0	4	6	1	4	0	3	1	17	10	4	5	4	8	4	1	6	6	4	3	2	1	6	7	5	3	5	22	7	2	0	4	8	3	4	7	4	3	0	1	0	0
+1	ND2	YP_009641529.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	8	7	9	4	0	8	8	0	4	2	0	0	8	3	22	23	14	5	8	7	4	3	1	8	12	4	1	0	3	0	11	5	7	6	10	20	9	3	3	6	5	4	0	4	5	2	3	2	4	20	14	3	1	2	3	1	0	12	5	2	0	0	0	0
+2	COX1	YP_009641530.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	25	17	7	3	3	12	4	4	9	9	0	1	11	6	26	8	13	5	8	13	6	1	7	12	5	3	1	0	7	0	27	14	11	12	7	16	12	0	5	10	8	0	1	4	12	10	13	6	7	23	20	1	4	10	6	5	9	13	10	14	1	0	0	0
+3	COX2	YP_009641531.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	5	4	2	2	1	8	3	1	2	7	0	2	4	1	9	5	8	2	3	7	3	1	3	7	5	3	0	3	3	0	17	4	9	2	3	0	4	1	1	4	3	1	1	2	4	6	6	2	2	10	6	1	3	10	10	5	1	3	3	2	0	0	0	0
+4	ATP8	YP_009641532.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	3	0	1	0	1	0	0	0	0	1	0	0	5	0	0	1	2	1	4	4	1	0	0	2	1	1	0	0	0	0	3	1	0	1	1	3	3	0	1	1	3	0	0	1	0	1	1	0	2	1	1	0	0	0	0	3	0	0	0	0	1	0	0	0
+5	ATP6	YP_009641533.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	9	2	9	0	2	2	1	0	1	3	0	0	4	1	14	12	17	3	6	9	2	0	2	2	8	1	2	1	2	1	13	3	7	2	3	6	10	1	7	2	1	0	0	3	5	4	6	0	3	9	9	0	0	1	4	0	1	4	4	3	1	0	0	0
+6	COX3	YP_009641534.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	12	12	1	1	0	6	3	1	4	8	0	2	12	0	10	8	7	3	4	7	2	0	10	6	7	2	0	2	2	1	8	7	6	3	2	6	12	1	1	0	2	0	1	3	7	4	3	2	1	14	8	0	0	5	8	2	3	9	7	3	0	0	0	0
+7	ND3	YP_009641535.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	6	2	4	1	1	3	1	0	1	1	0	1	4	1	7	6	7	4	3	6	0	0	0	1	3	0	0	2	0	0	9	1	1	1	3	3	3	0	1	0	1	0	0	0	1	0	1	2	0	7	1	0	1	3	4	2	0	3	1	2	0	0	0	0
+8	ND4L	YP_009641536.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	4	3	2	2	1	3	4	0	0	0	2	1	0	1	4	9	4	3	1	1	0	0	0	4	3	0	1	1	1	0	2	0	2	2	1	5	2	0	0	2	0	0	1	1	0	1	1	0	2	7	5	0	1	1	1	1	1	2	1	1	1	0	0	0
+9	ND4	YP_009641537.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	10	6	15	3	9	8	7	1	8	6	2	2	10	9	27	19	24	8	4	14	4	4	5	6	8	3	2	3	4	2	26	5	15	11	5	14	11	3	5	6	7	3	4	7	7	7	5	1	7	20	11	3	2	5	7	4	1	7	5	13	0	0	0	0
+10	ND5	YP_009641538.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	23	20	12	1	7	15	5	1	8	3	2	4	7	7	24	23	27	10	13	12	4	2	8	8	14	1	1	2	4	4	28	17	15	10	5	27	23	4	10	18	16	5	3	11	14	9	10	2	6	30	16	4	6	7	5	7	5	13	9	5	1	0	0	0
+11	CYTB	YP_009641540.1	Etheostoma olmstedi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Etheostoma	11	20	7	1	4	8	6	1	5	9	0	3	8	5	15	20	14	4	5	8	2	6	5	7	4	2	1	2	4	1	20	9	4	3	2	10	9	1	10	8	9	0	1	1	9	6	9	4	5	18	11	0	4	6	4	2	3	8	9	7	0	0	0	0

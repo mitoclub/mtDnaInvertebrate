@@ -1,65 +1,13 @@
-	YP_009027680.1|ND1	YP_009027681.1|ND2	YP_009027682.1|COX1	YP_009027683.1|COX2	YP_009027684.1|ATP8	YP_009027685.1|ATP6	YP_009027686.1|COX3	YP_009027687.1|ND3	YP_009027688.1|ND4L	YP_009027689.1|ND4	YP_009027690.1|ND5	YP_009027692.1|CYTB
-TTT	7	5	20	3	4	4	6	5	2	11	18	15
-TTC	10	7	23	4	0	6	17	2	2	7	25	12
-TTA	12	16	15	5	3	6	5	5	5	19	11	12
-TTG	2	1	1	0	1	1	1	0	0	0	0	2
-TCT	1	4	13	1	0	3	9	1	2	6	11	6
-TCC	5	10	5	5	1	4	2	1	2	9	13	6
-TCA	10	14	9	7	3	6	7	1	5	11	15	7
-TCG	0	0	0	0	1	0	0	0	0	0	0	0
-TAT	8	3	6	5	1	0	6	2	2	13	11	8
-TAC	6	7	13	5	1	3	4	1	2	7	11	5
-TGT	1	0	0	0	0	0	1	0	1	2	3	1
-TGC	1	0	1	2	0	0	1	1	2	2	2	3
-TGA	8	10	15	5	3	1	12	4	0	11	12	12
-TGG	1	0	2	0	0	2	0	0	0	1	1	0
-CTT	6	8	12	6	1	7	7	4	2	12	16	5
-CTC	13	11	9	4	1	5	7	4	3	11	30	8
-CTA	23	28	22	19	5	22	15	10	13	45	32	26
-CTG	1	3	2	0	0	0	0	2	0	0	5	2
-CCT	5	3	12	4	4	2	1	3	1	8	12	6
-CCC	7	10	6	5	1	3	7	2	0	6	8	5
-CCA	9	6	11	5	1	7	2	2	1	6	7	10
-CCG	0	0	1	0	0	0	0	0	0	0	1	1
-CAT	0	3	7	4	1	6	8	0	0	7	6	4
-CAC	3	2	12	4	0	1	7	0	2	5	6	9
-CAA	8	9	5	5	4	9	8	3	2	9	15	5
-CAG	0	0	1	1	0	0	0	0	0	0	2	1
-CGT	0	1	2	1	0	1	2	0	0	0	1	0
-CGC	1	1	0	3	0	1	0	1	0	2	4	1
-CGA	5	1	5	2	0	2	3	0	1	8	3	6
-CGG	1	0	1	0	0	0	0	0	0	0	1	1
-ATT	17	20	23	12	3	21	11	8	4	33	24	23
-ATC	10	17	15	8	2	7	7	2	4	16	32	18
-ATA	16	25	30	13	3	13	7	4	9	31	34	15
-ATG	8	3	2	1	1	3	2	1	2	4	4	2
-ACT	7	6	10	6	2	12	6	2	0	12	7	3
-ACC	4	14	14	6	3	3	6	2	2	16	23	6
-ACA	11	13	11	5	5	7	11	8	2	16	23	20
-ACG	0	0	0	2	1	0	0	0	0	1	1	0
-AAT	10	4	11	1	2	5	3	1	3	13	18	10
-AAC	3	12	6	4	0	6	5	4	3	8	12	6
-AAA	6	15	8	5	6	3	2	3	0	13	20	10
-AAG	1	1	1	0	1	1	1	0	0	1	2	0
-AGT	1	1	0	2	0	1	1	0	0	2	1	0
-AGC	2	4	3	3	0	2	2	2	0	7	9	3
-GTT	2	4	8	5	0	1	3	1	1	5	5	4
-GTC	4	3	8	2	0	1	6	1	0	2	7	1
-GTA	5	4	19	4	0	7	3	1	4	4	6	13
-GTG	2	1	0	0	0	0	1	0	0	0	1	0
-GCT	7	3	10	2	0	2	4	2	1	6	8	7
-GCC	8	7	14	4	0	7	8	3	5	12	15	6
-GCA	16	6	19	3	0	7	2	4	1	10	17	11
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	1	9	5	1	1	1	1	0	0	5	4
-GAC	2	0	5	7	0	0	2	1	1	2	6	7
-GAA	10	5	10	11	1	2	6	7	2	8	12	5
-GAG	0	0	0	3	0	1	2	0	0	1	0	1
-GGT	3	2	11	1	0	2	5	2	0	4	5	5
-GGC	3	4	7	4	0	3	5	0	4	7	12	6
-GGA	4	9	23	3	0	5	10	1	0	6	12	13
-GGG	1	0	6	0	0	1	1	0	0	1	0	1
-TAA	1	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009027680.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	7	10	12	2	1	5	10	0	8	6	1	1	8	1	6	13	23	1	5	7	9	0	0	3	8	0	0	1	5	1	17	10	16	8	7	4	11	0	10	3	6	1	1	2	2	4	5	2	7	8	16	0	1	2	10	0	3	3	4	1	1	0	0	0
+1	ND2	YP_009027681.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	5	7	16	1	4	10	14	0	3	7	0	0	10	0	8	11	28	3	3	10	6	0	3	2	9	0	1	1	1	0	20	17	25	3	6	14	13	0	4	12	15	1	1	4	4	3	4	1	3	7	6	0	1	0	5	0	2	4	9	0	0	0	0	0
+2	COX1	YP_009027682.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	20	23	15	1	13	5	9	0	6	13	0	1	15	2	12	9	22	2	12	6	11	1	7	12	5	1	2	0	5	1	23	15	30	2	10	14	11	0	11	6	8	1	0	3	8	8	19	0	10	14	19	0	9	5	10	0	11	7	23	6	0	1	0	0
+3	COX2	YP_009027683.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	3	4	5	0	1	5	7	0	5	5	0	2	5	0	6	4	19	0	4	5	5	0	4	4	5	1	1	3	2	0	12	8	13	1	6	6	5	2	1	4	5	0	2	3	5	2	4	0	2	4	3	0	5	7	11	3	1	4	3	0	1	0	0	0
+4	ATP8	YP_009027684.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	4	0	3	1	0	1	3	1	1	1	0	0	3	0	1	1	5	0	4	1	1	0	1	0	4	0	0	0	0	0	3	2	3	1	2	3	5	1	2	0	6	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009027685.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	4	6	6	1	3	4	6	0	0	3	0	0	1	2	7	5	22	0	2	3	7	0	6	1	9	0	1	1	2	0	21	7	13	3	12	3	7	0	5	6	3	1	1	2	1	1	7	0	2	7	7	0	1	0	2	1	2	3	5	1	1	0	0	0
+6	COX3	YP_009027686.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	6	17	5	1	9	2	7	0	6	4	1	1	12	0	7	7	15	0	1	7	2	0	8	7	8	0	2	0	3	0	11	7	7	2	6	6	11	0	3	5	2	1	1	2	3	6	3	1	4	8	2	0	1	2	6	2	5	5	10	1	0	0	0	0
+7	ND3	YP_009027687.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	5	2	5	0	1	1	1	0	2	1	0	1	4	0	4	4	10	2	3	2	2	0	0	0	3	0	0	1	0	0	8	2	4	1	2	2	8	0	1	4	3	0	0	2	1	1	1	0	2	3	4	0	1	1	7	0	2	0	1	0	0	0	0	0
+8	ND4L	YP_009027688.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	2	2	5	0	2	2	5	0	2	2	1	2	0	0	2	3	13	0	1	0	1	0	0	2	2	0	0	0	1	0	4	4	9	2	0	2	2	0	3	3	0	0	0	0	1	0	4	0	1	5	1	0	0	1	2	0	0	4	0	0	1	0	0	0
+9	ND4	YP_009027689.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	11	7	19	0	6	9	11	0	13	7	2	2	11	1	12	11	45	0	8	6	6	0	7	5	9	0	0	2	8	0	33	16	31	4	12	16	16	1	13	8	13	1	2	7	5	2	4	0	6	12	10	0	0	2	8	1	4	7	6	1	0	0	0	0
+10	ND5	YP_009027690.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	18	25	11	0	11	13	15	0	11	11	3	2	12	1	16	30	32	5	12	8	7	1	6	6	15	2	1	4	3	1	24	32	34	4	7	23	23	1	18	12	20	2	1	9	5	7	6	1	8	15	17	0	5	6	12	0	5	12	12	0	1	0	0	0
+11	CYTB	YP_009027692.1	Tarsius lariang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Tarsiiformes, Tarsiidae, Tarsius	15	12	12	2	6	6	7	0	8	5	1	3	12	0	5	8	26	2	6	5	10	1	4	9	5	1	0	1	6	1	23	18	15	2	3	6	20	0	10	6	10	0	0	3	4	1	13	0	7	6	11	0	4	7	5	1	5	6	13	1	1	0	0	0

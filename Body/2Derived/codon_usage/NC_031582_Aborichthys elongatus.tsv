@@ -1,65 +1,13 @@
-	YP_009311723.1|ND1	YP_009311724.1|ND2	YP_009311725.1|COX1	YP_009311726.1|COX2	YP_009311727.1|ATP8	YP_009311728.1|ATP6	YP_009311729.1|COX3	YP_009311730.1|ND3	YP_009311731.1|ND4L	YP_009311732.1|ND4	YP_009311733.1|ND5	YP_009311735.1|CYTB
-TTT	9	6	27	5	2	8	13	3	6	15	27	10
-TTC	7	5	15	4	1	4	10	5	2	2	13	20
-TTA	15	18	16	5	3	11	11	9	5	22	23	11
-TTG	1	1	1	0	1	1	0	0	0	0	3	1
-TCT	2	1	7	3	1	0	6	0	2	3	6	6
-TCC	4	4	7	5	1	1	0	3	2	9	10	3
-TCA	10	8	8	5	2	2	5	2	2	10	15	11
-TCG	2	1	2	0	0	0	1	0	0	0	0	0
-TAT	7	7	7	3	1	2	5	1	0	8	5	2
-TAC	5	1	11	6	0	2	6	1	0	6	5	12
-TGT	0	1	1	1	0	0	0	1	1	1	1	1
-TGC	0	0	0	1	0	0	2	0	2	4	6	2
-TGA	6	9	13	5	5	4	11	3	0	16	11	13
-TGG	3	1	4	0	0	1	1	2	1	3	3	0
-CTT	14	13	11	8	0	11	10	2	2	13	16	5
-CTC	3	2	4	4	0	5	3	3	6	10	6	8
-CTA	25	29	22	11	0	17	10	9	8	34	33	33
-CTG	5	6	8	1	0	0	0	2	2	3	3	2
-CCT	2	4	3	4	3	2	1	1	0	5	8	2
-CCC	2	4	9	3	2	4	2	1	1	6	7	4
-CCA	18	10	14	6	2	10	8	5	1	15	14	13
-CCG	2	1	2	1	0	1	1	0	0	2	0	2
-CAT	0	0	6	4	0	3	6	0	1	3	4	6
-CAC	4	8	13	6	1	0	10	0	3	9	8	6
-CAA	7	12	4	7	2	8	9	4	3	11	16	6
-CAG	1	1	3	1	0	1	0	0	0	0	6	0
-CGT	1	1	0	2	0	0	1	0	0	1	0	0
-CGC	0	0	3	0	0	1	1	0	2	1	0	0
-CGA	6	2	3	4	0	4	3	2	1	8	9	7
-CGG	1	1	2	0	0	0	0	0	0	1	1	1
-ATT	18	27	29	15	5	20	11	8	1	30	44	15
-ATC	10	5	8	3	0	7	3	3	0	10	15	17
-ATA	9	20	21	9	2	10	7	1	5	26	30	14
-ATG	2	3	4	4	1	4	2	2	2	6	10	1
-ACT	4	13	6	3	2	5	2	2	2	5	20	4
-ACC	5	14	8	0	2	6	4	3	2	9	14	10
-ACA	14	18	23	8	0	8	13	4	4	25	30	10
-ACG	0	1	0	0	0	0	2	0	0	1	1	0
-AAT	3	5	6	3	3	5	0	1	2	5	12	6
-AAC	9	5	8	2	1	4	1	3	0	8	18	11
-AAA	5	9	9	5	3	1	2	1	0	9	19	10
-AAG	2	0	0	0	0	0	0	0	0	0	4	0
-AGT	0	1	1	1	0	0	0	0	0	1	1	0
-AGC	3	2	4	2	0	5	3	0	1	7	10	1
-GTT	3	0	13	6	1	3	4	1	1	5	9	7
-GTC	1	1	6	2	0	4	4	1	1	2	2	5
-GTA	8	3	19	9	2	2	7	1	0	9	8	10
-GTG	1	1	6	1	0	4	2	1	0	2	5	2
-GCT	6	5	12	3	1	8	4	1	4	7	11	7
-GCC	13	17	18	7	1	7	8	3	8	14	21	8
-GCA	12	15	16	6	1	4	9	4	2	16	12	12
-GCG	2	0	2	1	0	1	0	0	0	0	0	0
-GAT	1	1	6	3	0	1	3	4	0	1	8	5
-GAC	3	0	8	9	0	0	2	0	1	2	5	6
-GAA	8	6	10	15	3	3	10	4	3	8	9	5
-GAG	2	0	1	0	0	2	0	2	0	3	2	1
-GGT	1	0	5	1	0	3	0	1	0	2	4	0
-GGC	5	8	10	0	0	2	10	3	2	6	7	4
-GGA	8	10	20	5	0	3	9	2	4	14	19	21
-GGG	4	1	10	2	0	2	3	1	0	5	3	1
-TAA	1	0	0	0	1	0	0	0	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311723.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	9	7	15	1	2	4	10	2	7	5	0	0	6	3	14	3	25	5	2	2	18	2	0	4	7	1	1	0	6	1	18	10	9	2	4	5	14	0	3	9	5	2	0	3	3	1	8	1	6	13	12	2	1	3	8	2	1	5	8	4	1	0	0	0
+1	ND2	YP_009311724.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	6	5	18	1	1	4	8	1	7	1	1	0	9	1	13	2	29	6	4	4	10	1	0	8	12	1	1	0	2	1	27	5	20	3	13	14	18	1	5	5	9	0	1	2	0	1	3	1	5	17	15	0	1	0	6	0	0	8	10	1	0	0	0	0
+2	COX1	YP_009311725.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	27	15	16	1	7	7	8	2	7	11	1	0	13	4	11	4	22	8	3	9	14	2	6	13	4	3	0	3	3	2	29	8	21	4	6	8	23	0	6	8	9	0	1	4	13	6	19	6	12	18	16	2	6	8	10	1	5	10	20	10	0	1	0	0
+3	COX2	YP_009311726.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	5	4	5	0	3	5	5	0	3	6	1	1	5	0	8	4	11	1	4	3	6	1	4	6	7	1	2	0	4	0	15	3	9	4	3	0	8	0	3	2	5	0	1	2	6	2	9	1	3	7	6	1	3	9	15	0	1	0	5	2	0	0	0	0
+4	ATP8	YP_009311727.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	2	1	3	1	1	1	2	0	1	0	0	0	5	0	0	0	0	0	3	2	2	0	0	1	2	0	0	0	0	0	5	0	2	1	2	2	0	0	3	1	3	0	0	0	1	0	2	0	1	1	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009311728.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	8	4	11	1	0	1	2	0	2	2	0	0	4	1	11	5	17	0	2	4	10	1	3	0	8	1	0	1	4	0	20	7	10	4	5	6	8	0	5	4	1	0	0	5	3	4	2	4	8	7	4	1	1	0	3	2	3	2	3	2	0	0	0	0
+6	COX3	YP_009311729.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	13	10	11	0	6	0	5	1	5	6	0	2	11	1	10	3	10	0	1	2	8	1	6	10	9	0	1	1	3	0	11	3	7	2	2	4	13	2	0	1	2	0	0	3	4	4	7	2	4	8	9	0	3	2	10	0	0	10	9	3	0	0	0	0
+7	ND3	YP_009311730.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	3	5	9	0	0	3	2	0	1	1	1	0	3	2	2	3	9	2	1	1	5	0	0	0	4	0	0	0	2	0	8	3	1	2	2	3	4	0	1	3	1	0	0	0	1	1	1	1	1	3	4	0	4	0	4	2	1	3	2	1	0	0	0	0
+8	ND4L	YP_009311731.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	6	2	5	0	2	2	2	0	0	0	1	2	0	1	2	6	8	2	0	1	1	0	1	3	3	0	0	2	1	0	1	0	5	2	2	2	4	0	2	0	0	0	0	1	1	1	0	0	4	8	2	0	0	1	3	0	0	2	4	0	1	0	0	0
+9	ND4	YP_009311732.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	15	2	22	0	3	9	10	0	8	6	1	4	16	3	13	10	34	3	5	6	15	2	3	9	11	0	1	1	8	1	30	10	26	6	5	9	25	1	5	8	9	0	1	7	5	2	9	2	7	14	16	0	1	2	8	3	2	6	14	5	0	0	0	0
+10	ND5	YP_009311733.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	27	13	23	3	6	10	15	0	5	5	1	6	11	3	16	6	33	3	8	7	14	0	4	8	16	6	0	0	9	1	44	15	30	10	20	14	30	1	12	18	19	4	1	10	9	2	8	5	11	21	12	0	8	5	9	2	4	7	19	3	1	0	0	0
+11	CYTB	YP_009311735.1	Aborichthys elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Aborichthys	10	20	11	1	6	3	11	0	2	12	1	2	13	0	5	8	33	2	2	4	13	2	6	6	6	0	0	0	7	1	15	17	14	1	4	10	10	0	6	11	10	0	0	1	7	5	10	2	7	8	12	0	5	6	5	1	0	4	21	1	0	0	0	0

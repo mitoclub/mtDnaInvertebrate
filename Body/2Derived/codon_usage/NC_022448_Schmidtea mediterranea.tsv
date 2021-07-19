@@ -1,65 +1,13 @@
-	YP_008592428.3|COX1	YP_008592429.1|ND6	YP_008592430.2|ND5	YP_008592431.1|COX3	YP_008592432.1|ATP6	YP_008592433.1|ND1	YP_008592434.1|COX2	YP_008592435.2|ND3	YP_008592436.1|ND2	YP_008592437.2|CYTB	YP_008592438.1|ND4L	YP_008592439.1|ND4
-TTT	42	21	84	32	43	33	19	19	33	48	16	72
-TTC	11	0	4	4	4	3	2	1	3	11	3	5
-TTA	34	8	40	12	14	19	8	8	27	24	9	29
-TTG	25	21	51	22	13	24	15	16	29	27	10	41
-TCT	32	10	35	12	13	15	9	5	23	25	5	37
-TCC	1	1	2	0	0	2	0	0	0	0	0	3
-TCA	5	1	6	0	2	3	3	0	0	5	3	6
-TCG	1	0	2	2	2	1	1	0	1	2	1	2
-TAT	19	17	38	23	11	17	18	7	21	23	4	31
-TAC	5	1	2	2	0	2	1	1	2	0	0	3
-TGT	3	4	12	7	4	9	9	3	7	6	3	8
-TGC	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	6	2	6	7	1	2	4	4	3	3	1	4
-TGG	8	1	2	6	1	5	2	0	4	6	0	1
-CTT	7	4	7	6	6	8	3	1	5	5	4	10
-CTC	0	0	0	0	1	1	0	1	1	0	0	1
-CTA	1	0	2	0	1	3	0	0	1	0	0	1
-CTG	3	2	1	1	0	1	0	0	0	1	0	4
-CCT	14	1	6	4	3	5	6	2	5	16	0	7
-CCC	1	0	0	0	0	0	0	0	0	0	0	0
-CCA	5	0	2	4	1	2	2	0	1	1	0	0
-CCG	2	0	0	0	0	0	1	0	1	0	0	0
-CAT	16	0	4	7	3	0	9	0	2	6	1	5
-CAC	2	0	1	1	1	0	1	0	0	0	0	1
-CAA	4	0	2	2	1	0	5	0	1	1	1	0
-CAG	2	0	0	1	0	3	4	2	0	1	0	1
-CGT	10	2	5	3	2	6	12	4	0	7	1	4
-CGC	0	0	0	1	0	1	0	0	0	0	0	0
-CGA	0	0	0	0	0	1	1	0	0	0	0	1
-CGG	0	0	1	0	0	0	0	0	1	0	0	0
-ATT	31	4	16	10	13	15	16	3	21	19	2	23
-ATC	2	0	0	0	0	1	0	0	0	0	0	0
-ATA	11	1	8	4	0	3	3	2	5	3	0	4
-ATG	21	2	12	2	3	7	6	2	9	6	1	11
-ACT	17	2	10	11	4	7	11	1	6	7	2	6
-ACC	0	0	0	0	0	0	0	0	0	0	0	1
-ACA	6	1	0	2	0	3	4	0	1	0	0	0
-ACG	0	0	2	1	0	0	1	0	1	1	0	0
-AAT	13	4	13	6	7	4	9	1	9	9	2	14
-AAC	1	0	0	0	1	3	4	0	1	0	0	1
-AAA	0	1	3	1	3	2	1	2	1	1	1	2
-AAG	4	1	8	0	2	6	13	2	5	4	1	4
-AGT	8	3	21	15	5	9	5	1	8	10	5	15
-AGC	2	0	1	0	0	1	0	1	2	0	0	2
-AGA	2	0	6	2	2	0	2	0	1	0	1	5
-AGG	2	0	1	2	0	2	0	0	1	2	0	0
-GTT	26	14	42	20	16	18	22	7	22	32	7	38
-GTC	2	1	2	1	2	0	1	1	2	2	2	0
-GTA	11	0	7	4	2	2	3	1	2	2	1	5
-GTG	4	6	6	3	3	4	3	2	3	2	0	5
-GCT	20	0	11	4	2	8	8	0	6	8	1	8
-GCC	1	0	1	0	1	0	0	0	0	0	0	0
-GCA	0	0	2	0	1	2	2	0	1	2	1	2
-GCG	1	0	0	0	0	0	0	0	0	0	0	0
-GAT	16	5	15	6	4	2	13	4	4	9	1	3
-GAC	1	0	0	0	1	1	0	0	0	0	0	1
-GAA	2	0	1	1	1	3	2	1	1	3	2	3
-GAG	3	1	2	4	1	6	7	4	1	2	1	6
-GGT	31	6	22	12	6	15	20	7	4	15	3	16
-GGC	1	0	1	3	1	1	1	0	0	1	0	2
-GGA	11	0	1	1	2	2	0	0	1	5	1	3
-GGG	4	0	3	1	1	3	0	1	0	1	0	1
-TAA	1	0	1	1	0	1	1	0	1	0	0	0
-TAG	0	1	0	0	1	0	0	1	0	1	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_008592428.3	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	42	11	34	25	32	1	5	1	19	5	3	0	6	8	7	0	1	3	14	1	5	2	16	2	4	2	10	0	0	0	31	2	11	21	17	0	6	0	13	1	0	4	8	2	2	2	26	2	11	4	20	1	0	1	16	1	2	3	31	1	11	4	1	0
+1	ND6	YP_008592429.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	21	0	8	21	10	1	1	0	17	1	4	0	2	1	4	0	0	2	1	0	0	0	0	0	0	0	2	0	0	0	4	0	1	2	2	0	1	0	4	0	1	1	3	0	0	0	14	1	0	6	0	0	0	0	5	0	0	1	6	0	0	0	0	1
+2	ND5	YP_008592430.2	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	84	4	40	51	35	2	6	2	38	2	12	0	6	2	7	0	2	1	6	0	2	0	4	1	2	0	5	0	0	1	16	0	8	12	10	0	0	2	13	0	3	8	21	1	6	1	42	2	7	6	11	1	2	0	15	0	1	2	22	1	1	3	1	0
+3	COX3	YP_008592431.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	32	4	12	22	12	0	0	2	23	2	7	0	7	6	6	0	0	1	4	0	4	0	7	1	2	1	3	1	0	0	10	0	4	2	11	0	2	1	6	0	1	0	15	0	2	2	20	1	4	3	4	0	0	0	6	0	1	4	12	3	1	1	1	0
+4	ATP6	YP_008592432.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	43	4	14	13	13	0	2	2	11	0	4	0	1	1	6	1	1	0	3	0	1	0	3	1	1	0	2	0	0	0	13	0	0	3	4	0	0	0	7	1	3	2	5	0	2	0	16	2	2	3	2	1	1	0	4	1	1	1	6	1	2	1	0	1
+5	ND1	YP_008592433.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	33	3	19	24	15	2	3	1	17	2	9	0	2	5	8	1	3	1	5	0	2	0	0	0	0	3	6	1	1	0	15	1	3	7	7	0	3	0	4	3	2	6	9	1	0	2	18	0	2	4	8	0	2	0	2	1	3	6	15	1	2	3	1	0
+6	COX2	YP_008592434.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	19	2	8	15	9	0	3	1	18	1	9	0	4	2	3	0	0	0	6	0	2	1	9	1	5	4	12	0	1	0	16	0	3	6	11	0	4	1	9	4	1	13	5	0	2	0	22	1	3	3	8	0	2	0	13	0	2	7	20	1	0	0	1	0
+7	ND3	YP_008592435.2	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	19	1	8	16	5	0	0	0	7	1	3	0	4	0	1	1	0	0	2	0	0	0	0	0	0	2	4	0	0	0	3	0	2	2	1	0	0	0	1	0	2	2	1	1	0	0	7	1	1	2	0	0	0	0	4	0	1	4	7	0	0	1	0	1
+8	ND2	YP_008592436.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	33	3	27	29	23	0	0	1	21	2	7	0	3	4	5	1	1	0	5	0	1	1	2	0	1	0	0	0	0	1	21	0	5	9	6	0	1	1	9	1	1	5	8	2	1	1	22	2	2	3	6	0	1	0	4	0	1	1	4	0	1	0	1	0
+9	CYTB	YP_008592437.2	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	48	11	24	27	25	0	5	2	23	0	6	0	3	6	5	0	0	1	16	0	1	0	6	0	1	1	7	0	0	0	19	0	3	6	7	0	0	1	9	0	1	4	10	0	0	2	32	2	2	2	8	0	2	0	9	0	3	2	15	1	5	1	0	1
+10	ND4L	YP_008592438.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	16	3	9	10	5	0	3	1	4	0	3	0	1	0	4	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	2	0	0	1	2	0	0	0	2	0	1	1	5	0	1	0	7	2	1	0	1	0	1	0	1	0	2	1	3	0	1	0	0	1
+11	ND4	YP_008592439.1	Schmidtea mediterranea	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Dugesiidae, Schmidtea	72	5	29	41	37	3	6	2	31	3	8	0	4	1	10	1	1	4	7	0	0	0	5	1	0	1	4	0	1	0	23	0	4	11	6	1	0	0	14	1	2	4	15	2	5	0	38	0	5	5	8	0	2	0	3	1	3	6	16	2	3	1	0	1

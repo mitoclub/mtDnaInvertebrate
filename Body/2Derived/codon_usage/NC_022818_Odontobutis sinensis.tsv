@@ -1,65 +1,13 @@
-	YP_008815309.1|ND1	YP_008815310.1|ND2	YP_008815311.1|COX1	YP_008815312.1|COX2	YP_008815313.1|ATP8	YP_008815314.1|ATP6	YP_008815315.1|COX3	YP_008815316.1|ND3	YP_008815317.1|ND4L	YP_008815318.1|ND4	YP_008815319.1|ND5	YP_008815321.1|CYTB
-TTT	9	7	22	8	3	4	13	5	4	10	23	15
-TTC	7	7	19	3	2	4	11	3	4	3	14	17
-TTA	13	11	14	5	0	17	3	5	5	22	22	9
-TTG	0	0	0	0	0	0	0	1	0	1	2	1
-TCT	1	3	5	1	0	3	2	1	0	6	7	5
-TCC	4	6	8	5	1	0	2	2	5	10	12	7
-TCA	13	11	10	6	1	1	7	1	4	7	7	10
-TCG	0	0	0	1	0	0	0	1	0	0	1	0
-TAT	7	3	9	6	0	3	2	1	0	6	6	6
-TAC	4	6	9	1	0	2	9	1	0	5	8	7
-TGT	0	0	0	1	0	0	0	0	0	2	2	0
-TGC	1	0	1	1	0	0	2	1	3	3	3	2
-TGA	7	10	17	5	5	6	10	2	1	16	12	11
-TGG	1	1	0	0	0	0	2	3	0	1	2	1
-CTT	13	9	16	12	2	16	9	3	7	23	25	15
-CTC	9	22	8	3	0	2	6	4	4	19	16	5
-CTA	18	26	24	7	4	15	8	14	8	26	30	28
-CTG	4	2	3	1	0	3	2	1	1	5	5	1
-CCT	5	2	5	4	5	3	3	1	2	1	7	4
-CCC	7	11	12	4	0	6	4	3	0	6	12	8
-CCA	10	10	9	6	1	6	4	4	0	11	11	9
-CCG	0	0	2	0	0	1	0	1	0	5	1	1
-CAT	0	1	7	3	0	2	5	0	2	1	4	1
-CAC	6	6	12	6	0	1	11	1	3	10	8	11
-CAA	6	13	7	7	4	7	6	2	2	11	16	6
-CAG	2	1	1	1	0	1	1	1	0	1	4	0
-CGT	0	0	0	0	1	0	0	0	0	1	1	1
-CGC	1	1	0	1	0	3	1	0	0	3	3	1
-CGA	6	3	7	5	0	2	4	2	2	7	4	3
-CGG	0	0	1	0	0	0	1	0	0	0	1	3
-ATT	18	21	26	14	3	14	12	4	0	24	38	26
-ATC	9	6	12	8	1	7	8	3	0	13	19	14
-ATA	18	15	22	9	1	10	8	3	3	26	31	10
-ATG	1	2	5	2	1	3	2	1	1	4	6	4
-ACT	4	7	2	4	0	8	1	3	1	12	13	5
-ACC	11	16	11	4	2	7	7	3	5	16	21	10
-ACA	11	24	27	6	2	10	16	1	5	20	24	15
-ACG	1	1	1	0	1	0	1	0	0	1	1	0
-AAT	6	6	5	5	2	3	2	2	0	5	20	8
-AAC	7	5	9	2	0	5	2	1	3	4	10	13
-AAA	7	8	9	6	4	2	2	1	0	10	18	9
-AAG	0	0	0	0	1	1	0	0	0	1	3	0
-AGT	1	2	2	3	0	0	2	0	1	5	3	0
-AGC	6	4	4	0	0	5	3	0	1	7	10	1
-GTT	3	0	9	3	0	3	4	3	0	1	6	6
-GTC	0	0	5	2	0	0	1	0	0	4	5	5
-GTA	5	3	15	8	3	5	8	4	1	10	11	6
-GTG	3	0	6	3	0	1	0	0	0	0	3	1
-GCT	1	6	10	2	0	2	1	1	1	8	9	4
-GCC	13	14	21	6	2	9	11	4	7	17	20	9
-GCA	16	14	15	7	0	8	8	2	4	8	18	6
-GCG	0	0	0	0	0	1	0	0	0	1	0	1
-GAT	1	1	5	7	0	0	1	0	0	1	6	0
-GAC	3	0	9	5	2	2	2	3	1	3	4	7
-GAA	6	5	10	10	0	4	9	5	2	8	12	7
-GAG	5	0	1	3	0	0	2	1	1	4	1	0
-GGT	0	1	6	2	0	0	3	0	3	3	6	2
-GGC	6	5	17	1	0	6	10	2	1	11	4	6
-GGA	5	8	17	4	0	3	6	1	0	6	17	15
-GGG	4	2	6	1	0	0	1	3	0	5	3	2
-TAA	0	0	0	0	1	1	0	0	1	1	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008815309.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	9	7	13	0	1	4	13	0	7	4	0	1	7	1	13	9	18	4	5	7	10	0	0	6	6	2	0	1	6	0	18	9	18	1	4	11	11	1	6	7	7	0	1	6	3	0	5	3	1	13	16	0	1	3	6	5	0	6	5	4	0	0	0	0
+1	ND2	YP_008815310.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	7	7	11	0	3	6	11	0	3	6	0	0	10	1	9	22	26	2	2	11	10	0	1	6	13	1	0	1	3	0	21	6	15	2	7	16	24	1	6	5	8	0	2	4	0	0	3	0	6	14	14	0	1	0	5	0	1	5	8	2	0	0	0	0
+2	COX1	YP_008815311.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	22	19	14	0	5	8	10	0	9	9	0	1	17	0	16	8	24	3	5	12	9	2	7	12	7	1	0	0	7	1	26	12	22	5	2	11	27	1	5	9	9	0	2	4	9	5	15	6	10	21	15	0	5	9	10	1	6	17	17	6	0	1	0	0
+3	COX2	YP_008815312.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	8	3	5	0	1	5	6	1	6	1	1	1	5	0	12	3	7	1	4	4	6	0	3	6	7	1	0	1	5	0	14	8	9	2	4	4	6	0	5	2	6	0	3	0	3	2	8	3	2	6	7	0	7	5	10	3	2	1	4	1	0	0	0	0
+4	ATP8	YP_008815313.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	3	2	0	0	0	1	1	0	0	0	0	0	5	0	2	0	4	0	5	0	1	0	0	0	4	0	1	0	0	0	3	1	1	1	0	2	2	1	2	0	4	1	0	0	0	0	3	0	0	2	0	0	0	2	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008815314.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	4	4	17	0	3	0	1	0	3	2	0	0	6	0	16	2	15	3	3	6	6	1	2	1	7	1	0	3	2	0	14	7	10	3	8	7	10	0	3	5	2	1	0	5	3	0	5	1	2	9	8	1	0	2	4	0	0	6	3	0	1	0	0	0
+6	COX3	YP_008815315.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	13	11	3	0	2	2	7	0	2	9	0	2	10	2	9	6	8	2	3	4	4	0	5	11	6	1	0	1	4	1	12	8	8	2	1	7	16	1	2	2	2	0	2	3	4	1	8	0	1	11	8	0	1	2	9	2	3	10	6	1	0	0	0	0
+7	ND3	YP_008815316.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	5	3	5	1	1	2	1	1	1	1	0	1	2	3	3	4	14	1	1	3	4	1	0	1	2	1	0	0	2	0	4	3	3	1	3	3	1	0	2	1	1	0	0	0	3	0	4	0	1	4	2	0	0	3	5	1	0	2	1	3	0	0	0	0
+8	ND4L	YP_008815317.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	4	4	5	0	0	5	4	0	0	0	0	3	1	0	7	4	8	1	2	0	0	0	2	3	2	0	0	0	2	0	0	0	3	1	1	5	5	0	0	3	0	0	1	1	0	0	1	0	1	7	4	0	0	1	2	1	3	1	0	0	1	0	0	0
+9	ND4	YP_008815318.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	10	3	22	1	6	10	7	0	6	5	2	3	16	1	23	19	26	5	1	6	11	5	1	10	11	1	1	3	7	0	24	13	26	4	12	16	20	1	5	4	10	1	5	7	1	4	10	0	8	17	8	1	1	3	8	4	3	11	6	5	1	0	0	0
+10	ND5	YP_008815319.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	23	14	22	2	7	12	7	1	6	8	2	3	12	2	25	16	30	5	7	12	11	1	4	8	16	4	1	3	4	1	38	19	31	6	13	21	24	1	20	10	18	3	3	10	6	5	11	3	9	20	18	0	6	4	12	1	6	4	17	3	1	0	0	0
+11	CYTB	YP_008815321.1	Odontobutis sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	15	17	9	1	5	7	10	0	6	7	0	2	11	1	15	5	28	1	4	8	9	1	1	11	6	0	1	1	3	3	26	14	10	4	5	10	15	0	8	13	9	0	0	1	6	5	6	1	4	9	6	1	0	7	7	0	2	6	15	2	0	0	0	0

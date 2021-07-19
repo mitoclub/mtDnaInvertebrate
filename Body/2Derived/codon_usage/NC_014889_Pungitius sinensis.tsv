@@ -1,65 +1,13 @@
-	YP_004123653.1|ND1	YP_004123654.1|ND2	YP_004123655.1|COX1	YP_004123656.1|COX2	YP_004123657.1|ATP8	YP_004123658.1|ATP6	YP_004123659.1|COX3	YP_004123660.1|ND3	YP_004123661.1|ND4L	YP_004123662.1|ND4	YP_004123663.1|ND5	YP_004123665.1|CYTB
-TTT	7	7	18	4	2	8	9	3	3	13	20	13
-TTC	11	7	24	4	3	5	15	5	4	4	24	16
-TTA	12	10	9	5	1	11	4	4	3	13	19	7
-TTG	4	2	1	2	0	0	0	0	1	4	2	1
-TCT	7	2	6	4	1	0	5	0	4	2	12	3
-TCC	7	12	11	2	1	2	3	5	1	12	10	10
-TCA	3	5	8	7	0	1	4	0	3	3	11	7
-TCG	0	0	1	0	1	0	0	0	1	1	4	2
-TAT	6	4	4	2	0	0	2	0	0	8	3	3
-TAC	5	2	13	7	0	3	9	2	0	7	8	12
-TGT	0	0	0	0	0	0	1	0	2	1	1	1
-TGC	0	0	1	2	0	0	1	1	1	3	6	2
-TGA	7	9	15	5	4	4	11	5	1	12	8	9
-TGG	1	2	2	0	1	1	1	0	0	7	6	3
-CTT	15	25	15	7	0	13	8	10	4	30	25	14
-CTC	9	10	13	5	0	12	5	4	5	13	16	12
-CTA	20	18	22	7	3	13	14	8	6	29	21	22
-CTG	2	9	2	1	1	2	1	2	5	4	9	4
-CCT	8	4	11	5	2	7	2	1	1	3	9	4
-CCC	9	8	7	6	4	6	7	4	1	8	7	8
-CCA	6	8	10	2	3	3	4	2	0	12	10	7
-CCG	1	1	0	1	0	0	0	1	0	1	1	2
-CAT	2	1	2	1	0	3	3	0	2	4	5	2
-CAC	3	8	18	7	1	1	13	1	3	7	8	10
-CAA	7	10	6	7	2	7	8	3	3	8	16	5
-CAG	0	3	2	1	0	2	1	0	0	3	4	2
-CGT	1	0	1	2	0	2	1	1	0	1	1	1
-CGC	0	0	1	2	1	1	1	1	0	3	2	0
-CGA	5	4	3	3	0	3	3	0	2	5	8	7
-CGG	2	0	3	0	0	0	1	0	0	2	1	0
-ATT	15	15	18	9	1	12	7	2	0	26	29	7
-ATC	13	6	21	14	2	8	6	3	1	12	27	20
-ATA	4	9	8	7	2	5	7	2	2	11	17	6
-ATG	3	5	15	6	1	2	1	1	3	10	7	4
-ACT	7	13	6	1	1	3	2	2	2	6	10	2
-ACC	7	16	13	5	1	11	13	4	2	20	18	9
-ACA	3	16	16	4	1	4	8	3	2	11	20	10
-ACG	1	0	1	0	0	4	0	0	0	3	4	1
-AAT	6	5	3	2	0	6	0	1	1	4	6	4
-AAC	6	4	12	4	1	4	1	0	2	13	19	15
-AAA	4	6	7	2	2	1	2	1	0	7	15	9
-AAG	3	2	1	2	0	0	0	0	0	2	4	0
-AGT	1	0	1	0	0	0	0	0	1	2	2	0
-AGC	2	4	4	3	1	5	4	0	0	7	10	1
-GTT	5	6	20	6	2	6	7	0	2	6	9	12
-GTC	5	3	9	6	0	5	6	1	0	4	6	9
-GTA	7	1	10	2	1	3	3	5	0	8	11	5
-GTG	4	1	4	2	1	1	0	1	0	0	3	3
-GCT	13	10	10	7	2	6	6	1	2	12	13	7
-GCC	16	14	14	4	1	9	9	7	9	19	33	13
-GCA	5	15	19	7	0	5	5	3	2	12	12	11
-GCG	1	1	3	0	0	1	0	0	1	1	1	0
-GAT	1	1	6	5	0	0	1	2	1	0	4	3
-GAC	3	1	8	9	2	1	4	2	1	7	7	7
-GAA	3	4	8	13	2	4	8	3	2	9	8	4
-GAG	8	1	3	0	0	0	2	3	0	1	5	1
-GGT	4	1	12	3	0	3	0	0	0	5	7	2
-GGC	6	6	15	1	0	4	8	3	3	6	14	10
-GGA	2	7	11	5	0	4	8	1	2	10	9	11
-GGG	6	4	9	0	0	0	6	2	1	3	5	5
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004123653.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	7	11	12	4	7	7	3	0	6	5	0	0	7	1	15	9	20	2	8	9	6	1	2	3	7	0	1	0	5	2	15	13	4	3	7	7	3	1	6	6	4	3	1	2	5	5	7	4	13	16	5	1	1	3	3	8	4	6	2	6	1	0	0	0
+1	ND2	YP_004123654.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	7	7	10	2	2	12	5	0	4	2	0	0	9	2	25	10	18	9	4	8	8	1	1	8	10	3	0	0	4	0	15	6	9	5	13	16	16	0	5	4	6	2	0	4	6	3	1	1	10	14	15	1	1	1	4	1	1	6	7	4	0	0	0	0
+2	COX1	YP_004123655.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	18	24	9	1	6	11	8	1	4	13	0	1	15	2	15	13	22	2	11	7	10	0	2	18	6	2	1	1	3	3	18	21	8	15	6	13	16	1	3	12	7	1	1	4	20	9	10	4	10	14	19	3	6	8	8	3	12	15	11	9	1	0	0	0
+3	COX2	YP_004123656.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	4	4	5	2	4	2	7	0	2	7	0	2	5	0	7	5	7	1	5	6	2	1	1	7	7	1	2	2	3	0	9	14	7	6	1	5	4	0	2	4	2	2	0	3	6	6	2	2	7	4	7	0	5	9	13	0	3	1	5	0	0	0	0	0
+4	ATP8	YP_004123657.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	2	3	1	0	1	1	0	1	0	0	0	0	4	1	0	0	3	1	2	4	3	0	0	1	2	0	0	1	0	0	1	2	2	1	1	1	1	0	0	1	2	0	0	1	2	0	1	1	2	1	0	0	0	2	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004123658.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	8	5	11	0	0	2	1	0	0	3	0	0	4	1	13	12	13	2	7	6	3	0	3	1	7	2	2	1	3	0	12	8	5	2	3	11	4	4	6	4	1	0	0	5	6	5	3	1	6	9	5	1	0	1	4	0	3	4	4	0	1	0	0	0
+6	COX3	YP_004123659.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	9	15	4	0	5	3	4	0	2	9	1	1	11	1	8	5	14	1	2	7	4	0	3	13	8	1	1	1	3	1	7	6	7	1	2	13	8	0	0	1	2	0	0	4	7	6	3	0	6	9	5	0	1	4	8	2	0	8	8	6	0	0	0	0
+7	ND3	YP_004123660.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	3	5	4	0	0	5	0	0	0	2	0	1	5	0	10	4	8	2	1	4	2	1	0	1	3	0	1	1	0	0	2	3	2	1	2	4	3	0	1	0	1	0	0	0	0	1	5	1	1	7	3	0	2	2	3	3	0	3	1	2	0	0	0	0
+8	ND4L	YP_004123661.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	3	4	3	1	4	1	3	1	0	0	2	1	1	0	4	5	6	5	1	1	0	0	2	3	3	0	0	0	2	0	0	1	2	3	2	2	2	0	1	2	0	0	1	0	2	0	0	0	2	9	2	1	1	1	2	0	0	3	2	1	1	0	0	0
+9	ND4	YP_004123662.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	13	4	13	4	2	12	3	1	8	7	1	3	12	7	30	13	29	4	3	8	12	1	4	7	8	3	1	3	5	2	26	12	11	10	6	20	11	3	4	13	7	2	2	7	6	4	8	0	12	19	12	1	0	7	9	1	5	6	10	3	0	0	0	0
+10	ND5	YP_004123663.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	20	24	19	2	12	10	11	4	3	8	1	6	8	6	25	16	21	9	9	7	10	1	5	8	16	4	1	2	8	1	29	27	17	7	10	18	20	4	6	19	15	4	2	10	9	6	11	3	13	33	12	1	4	7	8	5	7	14	9	5	1	0	0	0
+11	CYTB	YP_004123665.1	Pungitius sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Gasterosteidae, Pungitius	13	16	7	1	3	10	7	2	3	12	1	2	9	3	14	12	22	4	4	8	7	2	2	10	5	2	1	0	7	0	7	20	6	4	2	9	10	1	4	15	9	0	0	1	12	9	5	3	7	13	11	0	3	7	4	1	2	10	11	5	0	0	0	0

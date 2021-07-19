@@ -1,65 +1,10 @@
-	YP_009326941.1|ND2	YP_009326942.1|COX1	YP_009326943.1|COX2	YP_009326944.1|ATP8	YP_009326945.1|ATP6	YP_009326946.1|COX3	YP_009326947.1|ND3	YP_009326950.1|ND6	YP_009326951.1|CYTB
-TTT	31	24	14	8	15	17	11	12	30
-TTC	13	16	4	2	3	11	1	7	9
-TTA	32	32	15	10	21	17	15	14	28
-TTG	1	3	2	0	1	1	2	4	3
-TCT	16	15	7	2	5	5	3	6	7
-TCC	6	6	1	1	5	8	3	4	3
-TCA	13	8	7	0	9	3	2	5	11
-TCG	2	1	0	0	1	1	0	3	0
-TAT	6	11	8	2	1	5	4	5	9
-TAC	4	7	0	0	3	4	0	1	7
-TGT	0	0	2	0	0	1	1	0	3
-TGC	1	0	0	0	0	0	0	0	0
-TGA	6	13	4	2	6	11	2	2	11
-TGG	1	2	2	0	0	2	1	0	1
-CTT	20	12	9	1	10	8	3	11	14
-CTC	3	4	2	0	2	2	1	1	6
-CTA	8	9	3	0	8	4	2	4	3
-CTG	1	0	0	0	1	0	1	0	0
-CCT	8	11	2	0	7	3	3	1	14
-CCC	3	4	1	1	2	2	1	0	1
-CCA	6	9	7	4	3	4	0	4	9
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	9	3	0	3	8	0	0	8
-CAC	2	9	3	1	4	8	0	1	5
-CAA	8	8	8	1	4	7	0	2	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	4	4	0	1	0	1	0	2
-CGC	0	1	0	0	0	0	0	0	0
-CGA	0	4	3	0	1	4	2	1	6
-CGG	1	0	0	0	1	0	0	0	0
-ATT	26	40	19	0	18	12	9	20	32
-ATC	11	8	9	0	7	11	6	1	8
-ATA	18	26	7	2	8	7	4	6	15
-ATG	3	6	1	1	1	2	0	1	2
-ACT	6	12	3	4	7	9	2	4	9
-ACC	2	5	7	0	6	5	3	3	2
-ACA	5	13	5	1	8	8	2	9	10
-ACG	0	0	1	0	0	0	0	0	0
-AAT	4	13	7	2	6	3	1	2	11
-AAC	8	7	7	0	5	4	2	5	4
-AAA	10	6	2	3	2	2	4	3	8
-AAG	0	0	0	0	0	0	0	0	0
-AGT	0	2	0	0	1	2	0	0	1
-AGC	4	2	0	0	1	2	0	0	1
-AGA	4	7	6	0	7	4	2	2	5
-AGG	3	0	0	0	0	0	0	0	0
-GTT	4	15	1	0	4	4	1	4	11
-GTC	0	3	0	1	0	2	0	0	0
-GTA	2	15	6	0	3	8	1	6	9
-GTG	0	2	1	0	2	1	0	0	1
-GCT	8	22	2	1	3	5	2	2	8
-GCC	5	6	1	0	3	1	1	1	3
-GCA	0	7	6	2	1	7	3	3	8
-GCG	0	2	0	0	0	0	0	0	1
-GAT	0	10	6	0	0	3	2	1	6
-GAC	2	5	5	0	0	1	2	0	2
-GAA	4	8	7	0	5	6	4	1	3
-GAG	0	0	0	0	0	1	1	0	0
-GGT	6	16	2	0	2	7	0	1	5
-GGC	0	3	1	0	0	6	1	1	3
-GGA	5	26	3	0	4	3	2	1	13
-GGG	2	1	1	0	2	1	0	1	0
-TAA	0	1	1	1	1	0	0	1	0
-TAG	1	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009326941.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	31	13	32	1	16	6	13	2	6	4	0	1	6	1	20	3	8	1	8	3	6	0	1	2	8	0	1	0	0	1	26	11	18	3	6	2	5	0	4	8	10	0	0	4	4	3	4	0	2	0	8	5	0	0	0	2	4	0	6	0	5	2	0	1
+1	COX1	YP_009326942.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	24	16	32	3	15	6	8	1	11	7	0	0	13	2	12	4	9	0	11	4	9	1	9	9	8	0	4	1	4	0	40	8	26	6	12	5	13	0	13	7	6	0	2	2	7	0	15	3	15	2	22	6	7	2	10	5	8	0	16	3	26	1	1	0
+2	COX2	YP_009326943.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	14	4	15	2	7	1	7	0	8	0	2	0	4	2	9	2	3	0	2	1	7	0	3	3	8	0	4	0	3	0	19	9	7	1	3	7	5	1	7	7	2	0	0	0	6	0	1	0	6	1	2	1	6	0	6	5	7	0	2	1	3	1	1	0
+3	ATP8	YP_009326944.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	8	2	10	0	2	1	0	0	2	0	0	0	2	0	1	0	0	0	0	1	4	0	0	1	1	0	0	0	0	0	0	0	2	1	4	0	1	0	2	0	3	0	0	0	0	0	0	1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009326945.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	15	3	21	1	5	5	9	1	1	3	0	0	6	0	10	2	8	1	7	2	3	0	3	4	4	0	1	0	1	1	18	7	8	1	7	6	8	0	6	5	2	0	1	1	7	0	4	0	3	2	3	3	1	0	0	0	5	0	2	0	4	2	1	0
+5	COX3	YP_009326946.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	17	11	17	1	5	8	3	1	5	4	1	0	11	2	8	2	4	0	3	2	4	0	8	8	7	0	0	0	4	0	12	11	7	2	9	5	8	0	3	4	2	0	2	2	4	0	4	2	8	1	5	1	7	0	3	1	6	1	7	6	3	1	0	0
+6	ND3	YP_009326947.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	11	1	15	2	3	3	2	0	4	0	1	0	2	1	3	1	2	1	3	1	0	0	0	0	0	0	1	0	2	0	9	6	4	0	2	3	2	0	1	2	4	0	0	0	2	0	1	0	1	0	2	1	3	0	2	2	4	1	0	1	2	0	0	1
+7	ND6	YP_009326950.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	12	7	14	4	6	4	5	3	5	1	0	0	2	0	11	1	4	0	1	0	4	0	0	1	2	0	0	0	1	0	20	1	6	1	4	3	9	0	2	5	3	0	0	0	2	0	4	0	6	0	2	1	3	0	1	0	1	0	1	1	1	1	1	0
+8	CYTB	YP_009326951.1	Somanniathelphusa boyangensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Parathelphusidae, Somanniathelphusa	30	9	28	3	7	3	11	0	9	7	3	0	11	1	14	6	3	0	14	1	9	0	8	5	7	0	2	0	6	0	32	8	15	2	9	2	10	0	11	4	8	0	1	1	5	0	11	0	9	1	8	3	8	1	6	2	3	0	5	3	13	0	0	0

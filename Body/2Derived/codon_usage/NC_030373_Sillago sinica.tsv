@@ -1,65 +1,13 @@
-	YP_009259106.1|ND1	YP_009259107.1|ND2	YP_009259108.1|COX1	YP_009259109.1|COX2	YP_009259110.1|ATP8	YP_009259111.1|ATP6	YP_009259112.1|COX3	YP_009259113.1|ND3	YP_009259114.1|ND4L	YP_009259115.1|ND4	YP_009259116.1|ND5	YP_009259118.1|CYTB
-TTT	9	9	9	4	4	7	6	5	1	7	10	8
-TTC	10	3	33	5	1	4	16	4	6	7	30	22
-TTA	2	7	6	3	2	9	6	1	3	9	14	3
-TTG	1	8	1	1	0	2	2	1	3	3	5	6
-TCT	7	3	4	5	0	0	4	1	1	5	9	7
-TCC	6	4	6	2	2	4	3	4	1	8	10	8
-TCA	4	9	10	4	0	2	4	3	3	4	10	5
-TCG	0	6	5	1	0	4	1	0	3	3	3	3
-TAT	4	1	4	1	0	0	3	1	0	1	2	6
-TAC	7	5	14	7	0	5	11	1	0	12	10	9
-TGT	0	0	0	0	0	0	0	0	1	0	2	1
-TGC	0	0	1	2	0	0	2	1	2	4	5	2
-TGA	6	3	13	4	3	4	12	2	0	9	12	10
-TGG	2	8	4	1	2	2	0	3	1	10	2	3
-CTT	18	20	18	11	1	6	8	8	5	26	17	15
-CTC	12	17	11	4	0	10	6	8	4	28	26	14
-CTA	22	14	14	8	2	16	6	4	4	23	15	16
-CTG	8	13	11	1	0	9	4	6	6	14	14	8
-CCT	7	6	9	6	0	6	2	2	1	6	11	4
-CCC	12	11	8	5	2	3	5	6	1	13	12	9
-CCA	5	2	10	3	3	4	2	1	0	6	5	6
-CCG	0	3	1	0	3	2	3	0	0	2	3	3
-CAT	1	2	2	2	0	0	4	0	1	2	4	3
-CAC	3	7	17	9	2	4	11	1	3	11	12	9
-CAA	5	9	8	8	3	6	8	3	2	6	9	3
-CAG	2	5	1	0	0	1	0	0	0	4	9	2
-CGT	0	1	4	3	0	1	0	0	0	2	0	2
-CGC	3	2	0	1	0	1	1	0	0	0	2	1
-CGA	4	1	3	3	0	3	4	2	2	4	3	5
-CGG	1	0	1	0	0	1	0	0	1	5	4	0
-ATT	12	8	20	12	1	10	6	5	0	15	24	17
-ATC	11	7	18	4	2	6	8	3	0	12	24	10
-ATA	4	5	0	3	1	4	4	0	2	10	8	0
-ATG	5	10	24	8	1	6	3	3	2	15	19	9
-ACT	2	9	5	4	1	3	6	1	2	10	6	4
-ACC	8	16	13	2	1	8	7	3	4	11	32	7
-ACA	6	10	14	4	2	7	6	2	2	13	11	5
-ACG	1	6	4	2	0	0	3	0	0	6	7	4
-AAT	4	6	7	1	0	1	1	1	1	1	9	12
-AAC	8	4	7	4	3	5	2	0	2	11	16	6
-AAA	6	4	7	3	2	1	0	0	0	5	11	8
-AAG	1	5	3	0	1	1	2	1	0	5	10	1
-AGT	1	0	0	1	0	0	1	0	2	3	3	0
-AGC	2	2	4	3	1	4	2	0	0	6	13	2
-GTT	2	6	11	4	1	5	4	1	1	6	12	8
-GTC	12	2	7	7	0	6	5	2	0	2	8	10
-GTA	5	5	17	9	1	1	7	3	1	7	8	6
-GTG	5	2	8	2	0	5	2	0	1	6	5	3
-GCT	4	4	8	2	0	3	6	1	1	6	11	8
-GCC	18	18	19	9	2	7	7	3	6	17	29	15
-GCA	9	12	16	4	1	6	5	1	4	8	12	8
-GCG	4	3	4	2	1	3	2	2	3	7	9	2
-GAT	1	0	3	2	0	1	2	1	0	2	3	5
-GAC	3	3	13	9	1	0	3	3	1	2	7	6
-GAA	3	2	5	9	0	4	6	0	3	5	7	3
-GAG	8	2	5	7	1	1	4	6	0	7	7	2
-GGT	4	2	13	2	0	4	2	0	2	5	8	5
-GGC	5	10	11	1	0	2	11	1	1	11	11	10
-GGA	3	2	12	4	0	4	6	3	1	6	4	8
-GGG	6	4	10	2	1	3	4	2	1	6	8	3
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009259106.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	9	10	2	1	7	6	4	0	4	7	0	0	6	2	18	12	22	8	7	12	5	0	1	3	5	2	0	3	4	1	12	11	4	5	2	8	6	1	4	8	6	1	1	2	2	12	5	5	4	18	9	4	1	3	3	8	4	5	3	6	1	0	0	0
+1	ND2	YP_009259107.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	9	3	7	8	3	4	9	6	1	5	0	0	3	8	20	17	14	13	6	11	2	3	2	7	9	5	1	2	1	0	8	7	5	10	9	16	10	6	6	4	4	5	0	2	6	2	5	2	4	18	12	3	0	3	2	2	2	10	2	4	0	0	0	0
+2	COX1	YP_009259108.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	9	33	6	1	4	6	10	5	4	14	0	1	13	4	18	11	14	11	9	8	10	1	2	17	8	1	4	0	3	1	20	18	0	24	5	13	14	4	7	7	7	3	0	4	11	7	17	8	8	19	16	4	3	13	5	5	13	11	12	10	1	0	0	0
+3	COX2	YP_009259109.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	4	5	3	1	5	2	4	1	1	7	0	2	4	1	11	4	8	1	6	5	3	0	2	9	8	0	3	1	3	0	12	4	3	8	4	2	4	2	1	4	3	0	1	3	4	7	9	2	2	9	4	2	2	9	9	7	2	1	4	2	0	0	0	0
+4	ATP8	YP_009259110.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	4	1	2	0	0	2	0	0	0	0	0	0	3	2	1	0	2	0	0	2	3	3	0	2	3	0	0	0	0	0	1	2	1	1	1	1	2	0	0	3	2	1	0	1	1	0	1	0	0	2	1	1	0	1	0	1	0	0	0	1	0	1	0	0
+5	ATP6	YP_009259111.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	7	4	9	2	0	4	2	4	0	5	0	0	4	2	6	10	16	9	6	3	4	2	0	4	6	1	1	1	3	1	10	6	4	6	3	8	7	0	1	5	1	1	0	4	5	6	1	5	3	7	6	3	1	0	4	1	4	2	4	3	1	0	0	0
+6	COX3	YP_009259112.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	6	16	6	2	4	3	4	1	3	11	0	2	12	0	8	6	6	4	2	5	2	3	4	11	8	0	0	1	4	0	6	8	4	3	6	7	6	3	1	2	0	2	1	2	4	5	7	2	6	7	5	2	2	3	6	4	2	11	6	4	0	0	0	0
+7	ND3	YP_009259113.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	5	4	1	1	1	4	3	0	1	1	0	1	2	3	8	8	4	6	2	6	1	0	0	1	3	0	0	0	2	0	5	3	0	3	1	3	2	0	1	0	0	1	0	0	1	2	3	0	1	3	1	2	1	3	0	6	0	1	3	2	0	0	0	0
+8	ND4L	YP_009259114.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	1	6	3	3	1	1	3	3	0	0	1	2	0	1	5	4	4	6	1	1	0	0	1	3	2	0	0	0	2	1	0	0	2	2	2	4	2	0	1	2	0	0	2	0	1	0	1	1	1	6	4	3	0	1	3	0	2	1	1	1	1	0	0	0
+9	ND4	YP_009259115.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	7	7	9	3	5	8	4	3	1	12	0	4	9	10	26	28	23	14	6	13	6	2	2	11	6	4	2	0	4	5	15	12	10	15	10	11	13	6	1	11	5	5	3	6	6	2	7	6	6	17	8	7	2	2	5	7	5	11	6	6	0	0	0	0
+10	ND5	YP_009259116.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	10	30	14	5	9	10	10	3	2	10	2	5	12	2	17	26	15	14	11	12	5	3	4	12	9	9	0	2	3	4	24	24	8	19	6	32	11	7	9	16	11	10	3	13	12	8	8	5	11	29	12	9	3	7	7	7	8	11	4	8	1	0	0	0
+11	CYTB	YP_009259118.1	Sillago sinica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Sillaginidae, Sillago	8	22	3	6	7	8	5	3	6	9	1	2	10	3	15	14	16	8	4	9	6	3	3	9	3	2	2	1	5	0	17	10	0	9	4	7	5	4	12	6	8	1	0	2	8	10	6	3	8	15	8	2	5	6	3	2	5	10	8	3	0	0	0	0

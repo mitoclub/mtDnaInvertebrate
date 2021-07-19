@@ -1,65 +1,13 @@
-	YP_004300368.1|CYTB	YP_004300370.1|ND1	YP_004300371.1|ND2	YP_004300372.1|COX1	YP_004300373.1|COX2	YP_004300374.1|ATP8	YP_004300375.1|ATP6	YP_004300376.1|COX3	YP_004300377.1|ND3	YP_004300378.1|ND4L	YP_004300379.1|ND4	YP_004300380.1|ND5
-TTT	9	6	3	7	3	0	1	7	2	0	3	4
-TTC	19	12	10	35	5	3	6	18	7	4	7	25
-TTA	10	11	9	9	3	2	11	6	3	5	15	11
-TTG	0	0	0	0	0	0	0	0	0	0	0	1
-TCT	1	3	3	4	3	0	2	3	1	0	3	4
-TCC	7	7	13	10	8	0	6	5	2	2	6	13
-TCA	13	10	11	10	5	4	4	8	1	8	13	14
-TCG	1	1	0	0	0	0	0	1	0	0	1	2
-TAT	1	7	0	3	2	0	1	4	1	0	1	6
-TAC	12	9	8	13	6	1	2	4	1	2	11	8
-TGT	2	0	0	0	1	0	0	0	0	1	0	2
-TGC	4	1	1	1	2	0	0	1	1	2	3	3
-TGA	9	5	10	16	5	4	4	12	4	1	9	12
-TGG	2	3	0	1	0	1	0	0	1	0	2	0
-CTT	2	7	7	7	3	0	8	3	3	0	7	9
-CTC	21	17	15	10	9	3	18	5	6	4	24	31
-CTA	29	27	32	27	18	2	20	19	13	11	51	48
-CTG	1	3	4	4	1	0	4	1	2	0	3	4
-CCT	2	4	3	7	3	1	1	1	0	0	3	2
-CCC	7	6	8	9	3	1	8	6	5	2	6	11
-CCA	18	14	11	15	8	5	8	5	4	0	17	13
-CCG	1	0	0	0	0	0	0	0	0	0	1	0
-CAT	2	1	1	0	2	0	0	1	0	2	1	1
-CAC	12	1	8	22	6	2	4	16	0	2	17	14
-CAA	8	5	10	8	7	2	7	8	3	4	13	16
-CAG	0	0	1	1	0	0	1	0	0	0	2	2
-CGT	0	1	0	0	0	0	1	0	0	0	0	0
-CGC	3	2	1	0	1	0	2	1	1	0	5	3
-CGA	5	5	3	8	4	0	2	4	2	2	5	5
-CGG	0	0	0	0	0	0	0	0	0	0	2	0
-ATT	5	7	8	10	7	3	5	8	1	0	7	13
-ATC	25	18	23	31	12	2	15	10	9	2	32	41
-ATA	9	12	14	25	8	2	9	3	3	4	27	31
-ATG	2	1	1	2	2	1	1	4	0	3	3	2
-ACT	3	2	3	3	1	4	4	3	3	0	9	7
-ACC	10	9	18	20	5	4	7	9	7	6	23	36
-ACA	16	15	21	16	9	0	13	9	3	4	23	33
-ACG	0	0	3	0	0	1	1	0	0	0	0	1
-AAT	2	2	3	2	0	2	3	1	0	0	0	4
-AAC	19	9	8	13	5	1	7	4	3	3	15	28
-AAA	10	6	12	9	4	3	3	3	1	0	9	24
-AAG	0	1	2	0	0	0	1	0	0	0	0	1
-AGT	0	0	0	0	0	0	0	1	0	0	0	0
-AGC	2	5	5	4	2	1	5	5	1	4	9	8
-GTT	3	2	1	3	0	0	1	3	0	0	1	1
-GTC	4	1	2	13	6	0	2	4	1	3	2	6
-GTA	6	7	3	18	8	0	2	4	1	1	3	5
-GTG	0	0	0	1	0	0	0	0	0	0	0	2
-GCT	1	1	3	7	3	0	2	4	0	0	2	6
-GCC	17	9	11	23	6	0	8	7	3	4	11	28
-GCA	8	15	14	15	5	0	6	10	3	4	19	10
-GCG	0	1	1	1	0	0	0	0	0	0	1	0
-GAT	0	0	0	0	6	0	0	1	0	0	0	0
-GAC	6	4	1	15	8	0	1	3	3	1	2	6
-GAA	4	8	5	9	14	0	4	6	6	3	9	14
-GAG	2	3	0	1	0	0	0	1	0	0	0	0
-GGT	2	0	1	5	1	0	0	2	1	0	1	2
-GGC	10	4	4	17	3	0	1	5	1	3	9	13
-GGA	13	7	6	22	4	0	4	12	3	1	5	17
-GGG	0	2	1	3	0	0	1	0	0	0	2	0
-TAA	1	0	0	0	1	1	1	0	1	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	1	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	CYTB	YP_004300368.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	9	19	10	0	1	7	13	1	1	12	2	4	9	2	2	21	29	1	2	7	18	1	2	12	8	0	0	3	5	0	5	25	9	2	3	10	16	0	2	19	10	0	0	2	3	4	6	0	1	17	8	0	0	6	4	2	2	10	13	0	1	0	0	0
+1	ND1	YP_004300370.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	6	12	11	0	3	7	10	1	7	9	0	1	5	3	7	17	27	3	4	6	14	0	1	1	5	0	1	2	5	0	7	18	12	1	2	9	15	0	2	9	6	1	0	5	2	1	7	0	1	9	15	1	0	4	8	3	0	4	7	2	0	0	0	1
+2	ND2	YP_004300371.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	3	10	9	0	3	13	11	0	0	8	0	1	10	0	7	15	32	4	3	8	11	0	1	8	10	1	0	1	3	0	8	23	14	1	3	18	21	3	3	8	12	2	0	5	1	2	3	0	3	11	14	1	0	1	5	0	1	4	6	1	0	0	0	0
+3	COX1	YP_004300372.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	7	35	9	0	4	10	10	0	3	13	0	1	16	1	7	10	27	4	7	9	15	0	0	22	8	1	0	0	8	0	10	31	25	2	3	20	16	0	2	13	9	0	0	4	3	13	18	1	7	23	15	1	0	15	9	1	5	17	22	3	0	0	0	1
+4	COX2	YP_004300373.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	3	5	3	0	3	8	5	0	2	6	1	2	5	0	3	9	18	1	3	3	8	0	2	6	7	0	0	1	4	0	7	12	8	2	1	5	9	0	0	5	4	0	0	2	0	6	8	0	3	6	5	0	6	8	14	0	1	3	4	0	1	0	0	0
+5	ATP8	YP_004300374.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	0	3	2	0	0	0	4	0	0	1	0	0	4	1	0	3	2	0	1	1	5	0	0	2	2	0	0	0	0	0	3	2	2	1	4	4	0	1	2	1	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+6	ATP6	YP_004300375.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	1	6	11	0	2	6	4	0	1	2	0	0	4	0	8	18	20	4	1	8	8	0	0	4	7	1	1	2	2	0	5	15	9	1	4	7	13	1	3	7	3	1	0	5	1	2	2	0	2	8	6	0	0	1	4	0	0	1	4	1	1	0	0	0
+7	COX3	YP_004300376.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	7	18	6	0	3	5	8	1	4	4	0	1	12	0	3	5	19	1	1	6	5	0	1	16	8	0	0	1	4	0	8	10	3	4	3	9	9	0	1	4	3	0	1	5	3	4	4	0	4	7	10	0	1	3	6	1	2	5	12	0	0	0	0	0
+8	ND3	YP_004300377.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	2	7	3	0	1	2	1	0	1	1	0	1	4	1	3	6	13	2	0	5	4	0	0	0	3	0	0	1	2	0	1	9	3	0	3	7	3	0	0	3	1	0	0	1	0	1	1	0	0	3	3	0	0	3	6	0	1	1	3	0	1	0	0	0
+9	ND4L	YP_004300378.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	0	4	5	0	0	2	8	0	0	2	1	2	1	0	0	4	11	0	0	2	0	0	2	2	4	0	0	0	2	0	0	2	4	3	0	6	4	0	0	3	0	0	0	4	0	3	1	0	0	4	4	0	0	1	3	0	0	3	1	0	1	0	0	0
+10	ND4	YP_004300379.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	3	7	15	0	3	6	13	1	1	11	0	3	9	2	7	24	51	3	3	6	17	1	1	17	13	2	0	5	5	2	7	32	27	3	9	23	23	0	0	15	9	0	0	9	1	2	3	0	2	11	19	1	0	2	9	0	1	9	5	2	0	0	1	0
+11	ND5	YP_004300380.1	Gallinula chloropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Gallinula	4	25	11	1	4	13	14	2	6	8	2	3	12	0	9	31	48	4	2	11	13	0	1	14	16	2	0	3	5	0	13	41	31	2	7	36	33	1	4	28	24	1	0	8	1	6	5	2	6	28	10	0	0	6	14	0	2	13	17	0	0	0	0	0

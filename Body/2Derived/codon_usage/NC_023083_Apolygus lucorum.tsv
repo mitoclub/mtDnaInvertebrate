@@ -1,65 +1,10 @@
-	YP_008963273.1|ND2	YP_008963274.1|COX1	YP_008963275.1|COX2	YP_008963276.1|ATP8	YP_008963277.1|ATP6	YP_008963278.1|COX3	YP_008963279.1|ND3	YP_008963283.1|ND6	YP_008963284.1|CYTB
-TTT	18	29	4	4	11	15	10	6	20
-TTC	5	10	4	0	3	12	0	2	6
-TTA	26	33	17	2	28	14	8	18	41
-TTG	1	3	0	0	1	0	1	2	1
-TCT	3	6	4	0	2	2	3	0	3
-TCC	1	1	2	0	0	1	0	0	0
-TCA	18	23	8	0	12	9	6	5	9
-TCG	0	0	1	0	0	0	0	1	0
-TAT	10	11	9	4	6	9	2	6	16
-TAC	2	4	0	0	1	1	0	0	2
-TGT	2	0	2	0	0	3	2	1	3
-TGC	1	0	0	0	0	0	0	0	0
-TGA	9	15	6	4	4	11	3	2	13
-TGG	0	1	0	0	0	1	0	0	0
-CTT	2	2	1	0	0	4	0	1	2
-CTC	2	1	0	0	0	0	0	0	2
-CTA	4	10	4	0	5	6	5	6	9
-CTG	1	1	0	0	0	1	1	0	0
-CCT	6	11	3	0	5	3	1	1	8
-CCC	3	4	1	0	2	1	0	0	1
-CCA	1	11	7	2	6	3	3	1	14
-CCG	0	1	0	0	0	1	0	0	0
-CAT	3	11	3	0	3	10	1	0	8
-CAC	0	4	2	0	0	5	0	1	2
-CAA	6	8	7	1	5	6	1	2	6
-CAG	0	0	0	0	0	0	0	0	1
-CGT	1	0	0	0	0	1	0	0	2
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	9	6	0	3	2	2	1	4
-CGG	0	0	0	0	0	0	0	0	1
-ATT	40	49	25	5	15	19	9	17	37
-ATC	5	13	4	1	3	6	7	2	2
-ATA	56	32	20	9	29	15	14	35	22
-ATG	4	3	1	1	2	2	0	1	4
-ACT	5	7	2	2	3	5	2	2	2
-ACC	2	4	1	0	2	4	0	1	4
-ACA	12	20	11	3	13	10	5	5	7
-ACG	0	0	0	0	0	0	0	0	4
-AAT	21	19	17	2	9	6	3	9	23
-AAC	2	3	3	2	2	2	2	3	4
-AAA	14	6	3	5	7	7	5	6	11
-AAG	4	1	2	0	0	1	1	0	2
-AGT	2	4	3	0	4	2	0	2	0
-AGC	1	0	0	0	0	0	0	0	0
-AGA	12	12	2	0	13	7	3	5	9
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	7	0	1	3	3	1	2	2
-GTC	0	0	1	0	1	1	0	0	2
-GTA	2	22	6	1	6	10	2	2	13
-GTG	1	0	0	0	0	1	0	0	2
-GCT	2	8	0	0	2	2	1	1	6
-GCC	2	6	0	0	2	2	0	1	1
-GCA	3	15	5	2	5	4	2	2	11
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	12	6	0	1	4	2	0	8
-GAC	0	2	2	0	0	0	1	0	0
-GAA	5	12	12	0	4	6	5	6	5
-GAG	0	0	0	1	2	1	0	0	1
-GGT	3	3	1	0	0	4	1	1	4
-GGC	0	2	1	0	0	0	0	0	0
-GGA	6	28	4	0	9	15	2	4	14
-GGG	0	13	3	0	2	1	0	1	4
-TAA	0	0	1	1	0	0	0	1	0
-TAG	0	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_008963273.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	18	5	26	1	3	1	18	0	10	2	2	1	9	0	2	2	4	1	6	3	1	0	3	0	6	0	1	0	1	0	40	5	56	4	5	2	12	0	21	2	14	4	2	1	12	0	4	0	2	1	2	2	3	0	1	0	5	0	3	0	6	0	0	0
+1	COX1	YP_008963274.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	29	10	33	3	6	1	23	0	11	4	0	0	15	1	2	1	10	1	11	4	11	1	11	4	8	0	0	0	9	0	49	13	32	3	7	4	20	0	19	3	6	1	4	0	12	0	7	0	22	0	8	6	15	0	12	2	12	0	3	2	28	13	0	0
+2	COX2	YP_008963275.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	4	4	17	0	4	2	8	1	9	0	2	0	6	0	1	0	4	0	3	1	7	0	3	2	7	0	0	0	6	0	25	4	20	1	2	1	11	0	17	3	3	2	3	0	2	0	0	1	6	0	0	0	5	0	6	2	12	0	1	1	4	3	1	0
+3	ATP8	YP_008963276.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	4	0	2	0	0	0	0	0	4	0	0	0	4	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	5	1	9	1	2	0	3	0	2	2	5	0	0	0	0	0	1	0	1	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0
+4	ATP6	YP_008963277.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	11	3	28	1	2	0	12	0	6	1	0	0	4	0	0	0	5	0	5	2	6	0	3	0	5	0	0	0	3	0	15	3	29	2	3	2	13	0	9	2	7	0	4	0	13	0	3	1	6	0	2	2	5	0	1	0	4	2	0	0	9	2	0	1
+5	COX3	YP_008963278.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	15	12	14	0	2	1	9	0	9	1	3	0	11	1	4	0	6	1	3	1	3	1	10	5	6	0	1	0	2	0	19	6	15	2	5	4	10	0	6	2	7	1	2	0	7	0	3	1	10	1	2	2	4	0	4	0	6	1	4	0	15	1	0	0
+6	ND3	YP_008963279.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	10	0	8	1	3	0	6	0	2	0	2	0	3	0	0	0	5	1	1	0	3	0	1	0	1	0	0	0	2	0	9	7	14	0	2	0	5	0	3	2	5	1	0	0	3	0	1	0	2	0	1	0	2	0	2	1	5	0	1	0	2	0	0	0
+7	ND6	YP_008963283.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	6	2	18	2	0	0	5	1	6	0	1	0	2	0	1	0	6	0	1	0	1	0	0	1	2	0	0	0	1	0	17	2	35	1	2	1	5	0	9	3	6	0	2	0	5	0	2	0	2	0	1	1	2	0	0	0	6	0	1	0	4	1	1	0
+8	CYTB	YP_008963284.1	Apolygus lucorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Apolygus	20	6	41	1	3	0	9	0	16	2	3	0	13	0	2	2	9	0	8	1	14	0	8	2	6	1	2	0	4	1	37	2	22	4	2	4	7	4	23	4	11	2	0	0	9	0	2	2	13	2	6	1	11	0	8	0	5	1	4	0	14	4	0	0

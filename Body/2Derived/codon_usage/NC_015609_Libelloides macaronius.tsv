@@ -1,65 +1,10 @@
-	YP_004564069.1|ND2	YP_004564070.1|COX1	YP_004564071.1|COX2	YP_004564072.1|ATP8	YP_004564073.1|ATP6	YP_004564074.1|COX3	YP_004564075.1|ND3	YP_004564079.1|ND6	YP_004564080.1|CYTB
-TTT	26	29	11	3	13	12	6	9	23
-TTC	9	13	4	3	4	11	6	3	10
-TTA	27	32	17	2	14	17	11	15	27
-TTG	4	1	0	0	1	1	0	0	1
-TCT	5	7	2	1	2	4	1	0	2
-TCC	6	1	0	0	2	0	0	0	0
-TCA	14	21	9	2	8	9	5	9	9
-TCG	1	0	0	0	0	0	1	0	0
-TAT	8	13	5	2	5	7	1	3	16
-TAC	4	6	3	1	2	5	0	4	4
-TGT	2	0	2	0	1	0	2	1	2
-TGC	1	0	0	0	0	1	0	0	1
-TGA	8	15	7	4	3	13	3	1	12
-TGG	1	0	0	0	2	0	0	0	0
-CTT	4	13	8	1	4	6	3	3	4
-CTC	2	2	0	0	1	0	0	2	1
-CTA	11	18	4	3	13	7	4	7	12
-CTG	1	1	0	0	0	1	1	1	1
-CCT	3	7	4	1	2	4	0	1	6
-CCC	3	1	1	0	1	1	1	0	2
-CCA	3	17	7	1	7	5	3	2	14
-CCG	0	0	0	0	1	0	0	0	0
-CAT	3	12	2	0	5	9	2	1	8
-CAC	3	4	3	0	1	6	0	0	4
-CAA	10	10	7	2	3	6	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	0	2	0	0	1	2	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	9	3	0	2	3	0	1	7
-CGG	0	0	0	0	1	0	0	0	1
-ATT	34	35	16	5	20	15	13	20	33
-ATC	8	7	5	0	3	6	2	1	11
-ATA	27	23	10	6	20	7	9	24	19
-ATG	2	1	3	0	1	1	1	0	1
-ACT	5	10	2	1	10	7	3	2	1
-ACC	1	4	4	0	2	2	0	1	2
-ACA	11	16	10	0	9	11	3	9	19
-ACG	0	1	0	0	0	0	0	0	0
-AAT	23	10	14	1	9	7	2	11	16
-AAC	2	4	3	1	4	2	2	5	5
-AAA	10	7	6	4	2	1	5	4	6
-AAG	0	2	0	0	0	0	1	0	2
-AGT	0	5	1	1	1	2	1	1	0
-AGC	0	1	0	0	0	1	0	0	0
-AGA	10	6	2	1	11	5	1	5	4
-AGG	0	0	0	0	0	0	0	0	0
-GTT	6	15	6	0	3	3	1	2	10
-GTC	0	3	0	0	1	0	0	0	1
-GTA	7	21	5	1	6	15	4	6	11
-GTG	0	1	2	1	0	2	0	0	0
-GCT	7	11	2	0	3	2	3	2	5
-GCC	2	4	1	0	2	4	1	0	4
-GCA	4	23	7	1	5	10	1	2	15
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	11	8	1	1	4	2	0	7
-GAC	0	4	1	0	0	1	1	1	3
-GAA	5	9	9	2	4	6	5	5	3
-GAG	0	0	0	0	0	1	0	0	0
-GGT	2	17	2	0	0	5	0	0	4
-GGC	2	0	0	0	0	0	0	1	0
-GGA	6	24	5	0	9	12	3	4	17
-GGG	2	3	2	0	1	1	0	0	4
-TAA	1	0	0	1	0	1	1	0	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_004564069.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	26	9	27	4	5	6	14	1	8	4	2	1	8	1	4	2	11	1	3	3	3	0	3	3	10	0	1	0	1	0	34	8	27	2	5	1	11	0	23	2	10	0	0	0	10	0	6	0	7	0	7	2	4	0	0	0	5	0	2	2	6	2	1	0
+1	COX1	YP_004564070.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	29	13	32	1	7	1	21	0	13	6	0	0	15	0	13	2	18	1	7	1	17	0	12	4	10	0	0	0	9	0	35	7	23	1	10	4	16	1	10	4	7	2	5	1	6	0	15	3	21	1	11	4	23	1	11	4	9	0	17	0	24	3	0	0
+2	COX2	YP_004564071.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	11	4	17	0	2	0	9	0	5	3	2	0	7	0	8	0	4	0	4	1	7	0	2	3	7	0	2	0	3	0	16	5	10	3	2	4	10	0	14	3	6	0	1	0	2	0	6	0	5	2	2	1	7	0	8	1	9	0	2	0	5	2	0	0
+3	ATP8	YP_004564072.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	3	3	2	0	1	0	2	0	2	1	0	0	4	0	1	0	3	0	1	0	1	0	0	0	2	0	0	0	0	0	5	0	6	0	1	0	0	0	1	1	4	0	1	0	1	0	0	0	1	1	0	0	1	0	1	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_004564073.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	13	4	14	1	2	2	8	0	5	2	1	0	3	2	4	1	13	0	2	1	7	1	5	1	3	0	0	0	2	1	20	3	20	1	10	2	9	0	9	4	2	0	1	0	11	0	3	1	6	0	3	2	5	0	1	0	4	0	0	0	9	1	0	0
+5	COX3	YP_004564074.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	12	11	17	1	4	0	9	0	7	5	0	1	13	0	6	0	7	1	4	1	5	0	9	6	6	0	1	0	3	0	15	6	7	1	7	2	11	0	7	2	1	0	2	1	5	0	3	0	15	2	2	4	10	0	4	1	6	1	5	0	12	1	1	0
+6	ND3	YP_004564075.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	6	6	11	0	1	0	5	1	1	0	2	0	3	0	3	0	4	1	0	1	3	0	2	0	1	0	2	0	0	0	13	2	9	1	3	0	3	0	2	2	5	1	1	0	1	0	1	0	4	0	3	1	1	0	2	1	5	0	0	0	3	0	1	0
+7	ND6	YP_004564079.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	9	3	15	0	0	0	9	0	3	4	1	0	1	0	3	2	7	1	1	0	2	0	1	0	3	0	0	0	1	0	20	1	24	0	2	1	9	0	11	5	4	0	1	0	5	0	2	0	6	0	2	0	2	0	0	1	5	0	0	1	4	0	0	0
+8	CYTB	YP_004564080.1	Libelloides macaronius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Myrmeleontiformia, Ascalaphidae, Libelloides	23	10	27	1	2	0	9	0	16	4	2	1	12	0	4	1	12	1	6	2	14	0	8	4	8	0	0	0	7	1	33	11	19	1	1	2	19	0	16	5	6	2	0	0	4	0	10	1	11	0	5	4	15	0	7	3	3	0	4	0	17	4	0	0

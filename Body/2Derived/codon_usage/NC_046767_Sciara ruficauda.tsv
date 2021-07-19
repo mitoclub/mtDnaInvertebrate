@@ -1,65 +1,10 @@
-	YP_009745906.1|ND2	YP_009745907.1|COX1	YP_009745908.1|COX2	YP_009745909.1|ATP8	YP_009745910.1|ATP6	YP_009745911.1|COX3	YP_009745912.1|ND3	YP_009745916.1|ND6	YP_009745917.1|CYTB
-TTT	42	39	16	8	18	22	14	17	31
-TTC	3	2	1	0	2	4	2	1	3
-TTA	51	52	25	6	23	27	13	28	41
-TTG	1	1	0	1	1	1	1	1	0
-TCT	12	17	5	2	8	4	4	5	8
-TCC	1	2	1	0	2	1	0	0	0
-TCA	14	13	8	2	6	10	4	2	7
-TCG	0	1	0	0	0	0	0	0	0
-TAT	15	16	4	0	4	9	1	8	15
-TAC	1	4	3	0	2	1	1	1	3
-TGT	1	0	2	0	1	2	1	1	3
-TGC	0	0	0	0	1	0	0	0	0
-TGA	9	13	6	3	5	12	3	1	12
-TGG	0	1	0	0	0	1	0	0	0
-CTT	2	9	2	2	6	3	0	4	10
-CTC	0	0	1	0	0	0	1	2	1
-CTA	2	6	3	0	3	1	1	1	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	4	13	4	0	3	4	2	0	10
-CCC	2	3	0	1	2	0	1	1	2
-CCA	1	8	6	1	3	5	2	2	9
-CCG	0	1	0	0	0	0	0	0	0
-CAT	3	12	3	0	4	12	1	3	5
-CAC	2	3	2	0	2	4	0	1	6
-CAA	4	9	6	1	4	7	2	2	11
-CAG	0	0	0	0	0	0	0	0	1
-CGT	0	2	0	0	1	0	0	1	1
-CGC	0	0	0	0	1	0	0	0	1
-CGA	1	4	7	0	0	3	2	0	5
-CGG	0	2	0	0	1	0	1	0	0
-ATT	41	51	25	3	25	23	16	19	43
-ATC	4	2	2	1	1	5	2	1	4
-ATA	31	26	11	4	19	9	7	13	12
-ATG	1	1	0	0	1	0	1	2	2
-ACT	6	16	4	1	10	9	3	9	10
-ACC	2	3	3	0	2	0	0	1	3
-ACA	6	14	6	1	6	9	4	2	9
-ACG	0	0	0	0	0	0	0	1	0
-AAT	31	15	12	7	13	11	4	14	20
-AAC	3	5	3	1	2	2	0	3	7
-AAA	17	11	8	5	3	3	4	5	6
-AAG	0	0	0	0	0	0	0	0	0
-AGT	2	5	0	0	2	4	0	1	0
-AGC	0	1	0	0	0	2	0	0	0
-AGA	3	9	5	1	5	2	2	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	12	5	0	1	4	1	2	4
-GTC	0	2	1	0	1	0	0	0	1
-GTA	2	10	3	0	6	7	1	5	10
-GTG	0	2	1	0	1	1	0	0	2
-GCT	5	13	2	0	3	4	1	1	7
-GCC	3	6	0	1	0	1	2	0	1
-GCA	3	10	3	0	6	3	1	0	8
-GCG	0	0	1	0	0	0	0	0	1
-GAT	0	9	10	0	0	3	3	2	7
-GAC	0	6	1	0	1	1	0	0	3
-GAA	5	8	7	0	4	6	4	4	2
-GAG	0	0	0	0	0	0	1	0	0
-GGT	0	6	1	0	1	3	0	1	4
-GGC	0	1	1	0	0	0	0	1	2
-GGA	7	31	5	0	7	13	3	3	16
-GGG	2	3	1	0	1	2	0	0	3
-TAA	1	1	1	1	1	0	1	1	1
-TAG	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009745906.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	42	3	51	1	12	1	14	0	15	1	1	0	9	0	2	0	2	0	4	2	1	0	3	2	4	0	0	0	1	0	41	4	31	1	6	2	6	0	31	3	17	0	2	0	3	0	1	0	2	0	5	3	3	0	0	0	5	0	0	0	7	2	1	0
+1	COX1	YP_009745907.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	39	2	52	1	17	2	13	1	16	4	0	0	13	1	9	0	6	0	13	3	8	1	12	3	9	0	2	0	4	2	51	2	26	1	16	3	14	0	15	5	11	0	5	1	9	0	12	2	10	2	13	6	10	0	9	6	8	0	6	1	31	3	1	0
+2	COX2	YP_009745908.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	16	1	25	0	5	1	8	0	4	3	2	0	6	0	2	1	3	0	4	0	6	0	3	2	6	0	0	0	7	0	25	2	11	0	4	3	6	0	12	3	8	0	0	0	5	0	5	1	3	1	2	0	3	1	10	1	7	0	1	1	5	1	1	0
+3	ATP8	YP_009745909.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	8	0	6	1	2	0	2	0	0	0	0	0	3	0	2	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	3	1	4	0	1	0	1	0	7	1	5	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009745910.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	18	2	23	1	8	2	6	0	4	2	1	1	5	0	6	0	3	0	3	2	3	0	4	2	4	0	1	1	0	1	25	1	19	1	10	2	6	0	13	2	3	0	2	0	5	0	1	1	6	1	3	0	6	0	0	1	4	0	1	0	7	1	1	0
+5	COX3	YP_009745911.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	22	4	27	1	4	1	10	0	9	1	2	0	12	1	3	0	1	0	4	0	5	0	12	4	7	0	0	0	3	0	23	5	9	0	9	0	9	0	11	2	3	0	4	2	2	0	4	0	7	1	4	1	3	0	3	1	6	0	3	0	13	2	0	1
+6	ND3	YP_009745912.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	14	2	13	1	4	0	4	0	1	1	1	0	3	0	0	1	1	0	2	1	2	0	1	0	2	0	0	0	2	1	16	2	7	1	3	0	4	0	4	0	4	0	0	0	2	0	1	0	1	0	1	2	1	0	3	0	4	1	0	0	3	0	1	0
+7	ND6	YP_009745916.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	17	1	28	1	5	0	2	0	8	1	1	0	1	0	4	2	1	0	0	1	2	0	3	1	2	0	1	0	0	0	19	1	13	2	9	1	2	1	14	3	5	0	1	0	1	0	2	0	5	0	1	0	0	0	2	0	4	0	1	1	3	0	1	0
+8	CYTB	YP_009745917.1	Sciara ruficauda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Sciaroidea, Sciaridae, Sciara	31	3	41	0	8	0	7	0	15	3	3	0	12	0	10	1	3	0	10	2	9	0	5	6	11	1	1	1	5	0	43	4	12	2	10	3	9	0	20	7	6	0	0	0	3	0	4	1	10	2	7	1	8	1	7	3	2	0	4	2	16	3	1	0

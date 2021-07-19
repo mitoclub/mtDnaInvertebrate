@@ -1,65 +1,13 @@
-	YP_004300394.1|ND1	YP_004300395.1|ND2	YP_004300396.2|COX1	YP_004300397.1|COX2	YP_004300398.1|ATP8	YP_004300399.1|ATP6	YP_004300400.1|COX3	YP_004300401.1|ND3	YP_004300402.1|ND4L	YP_004300403.1|ND4	YP_004300404.1|ND5	YP_004300406.1|CYTB
-TTT	7	1	19	2	0	1	6	3	2	7	8	5
-TTC	11	15	27	7	2	3	16	5	6	7	21	23
-TTA	11	9	4	6	2	12	5	3	1	22	12	10
-TTG	2	2	4	0	0	1	1	2	2	1	2	4
-TCT	5	4	1	3	1	1	0	0	2	2	3	3
-TCC	6	15	10	4	1	5	3	1	2	13	17	8
-TCA	9	8	15	5	1	4	8	3	5	11	23	11
-TCG	1	1	0	0	0	1	0	0	1	1	2	2
-TAT	3	2	4	4	0	3	7	0	0	4	3	3
-TAC	8	7	13	5	0	1	5	2	0	9	15	12
-TGT	0	0	0	2	0	0	0	0	1	0	0	0
-TGC	1	0	1	1	0	0	1	1	2	5	4	1
-TGA	7	8	17	5	2	4	11	3	0	5	5	11
-TGG	1	2	0	0	2	0	1	1	1	6	2	1
-CTT	5	9	10	3	0	8	2	1	0	10	11	8
-CTC	6	13	8	4	1	9	5	4	5	10	16	9
-CTA	29	24	23	13	3	23	15	10	12	37	46	30
-CTG	11	6	5	5	0	7	4	5	2	10	10	8
-CCT	2	2	4	2	1	1	0	0	1	1	3	1
-CCC	4	3	10	3	0	2	1	0	0	9	14	4
-CCA	9	11	17	9	7	11	11	4	1	10	16	16
-CCG	3	1	2	0	0	2	1	2	0	2	1	2
-CAT	0	1	3	2	0	1	2	0	0	1	4	1
-CAC	3	2	13	8	0	3	15	0	3	10	10	12
-CAA	4	12	10	8	3	5	5	2	1	19	15	7
-CAG	2	3	3	2	1	2	1	0	0	0	4	2
-CGT	2	0	1	0	0	0	0	0	0	0	0	0
-CGC	0	2	1	3	0	1	0	2	1	0	3	3
-CGA	4	3	6	2	0	3	5	0	1	5	6	6
-CGG	1	0	0	0	0	0	0	0	0	2	0	1
-ATT	14	17	19	8	3	2	7	2	2	15	23	7
-ATC	13	17	21	8	2	13	11	7	4	18	34	20
-ATA	9	8	25	10	2	8	9	7	1	27	22	16
-ATG	3	5	7	3	1	7	2	0	2	8	13	1
-ACT	0	4	7	1	1	4	4	1	2	8	5	2
-ACC	9	16	14	7	1	10	9	3	4	19	39	13
-ACA	14	21	17	14	2	13	10	4	5	24	21	10
-ACG	2	1	2	0	0	1	0	1	1	3	1	1
-AAT	2	2	6	2	1	1	2	0	4	3	4	1
-AAC	9	9	12	6	2	12	3	2	3	8	20	14
-AAA	6	11	10	3	4	5	1	2	1	7	19	7
-AAG	1	1	0	0	0	0	0	0	0	1	3	2
-AGT	2	2	1	1	0	0	0	0	0	1	0	0
-AGC	3	2	6	4	2	1	7	2	0	7	13	2
-GTT	3	1	8	3	0	1	5	0	1	1	3	1
-GTC	7	3	9	3	0	0	5	0	1	5	3	9
-GTA	6	5	17	5	1	4	4	3	0	10	12	4
-GTG	1	6	5	2	0	2	0	0	1	1	1	2
-GCT	3	3	5	2	2	1	3	1	1	4	7	3
-GCC	14	20	17	2	0	10	13	8	5	19	23	13
-GCA	12	10	13	5	0	9	4	3	1	10	18	10
-GCG	1	0	0	1	0	0	1	0	0	2	3	0
-GAT	1	0	6	2	0	0	1	0	0	1	2	1
-GAC	2	2	8	8	1	2	3	3	0	6	10	11
-GAA	5	6	6	10	1	4	7	5	1	7	12	6
-GAG	5	2	3	1	0	0	1	2	1	0	2	0
-GGT	0	0	2	0	0	1	1	0	1	1	2	0
-GGC	7	4	12	3	0	3	5	2	2	10	12	5
-GGA	4	4	24	3	0	2	11	3	1	12	10	14
-GGG	5	3	5	2	0	1	1	0	0	0	6	6
-TAA	0	1	0	1	1	1	0	0	1	1	1	0
-TAG	0	0	1	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004300394.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	7	11	11	2	5	6	9	1	3	8	0	1	7	1	5	6	29	11	2	4	9	3	0	3	4	2	2	0	4	1	14	13	9	3	0	9	14	2	2	9	6	1	2	3	3	7	6	1	3	14	12	1	1	2	5	5	0	7	4	5	0	0	0	1
+1	ND2	YP_004300395.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	1	15	9	2	4	15	8	1	2	7	0	0	8	2	9	13	24	6	2	3	11	1	1	2	12	3	0	2	3	0	17	17	8	5	4	16	21	1	2	9	11	1	2	2	1	3	5	6	3	20	10	0	0	2	6	2	0	4	4	3	1	0	0	0
+2	COX1	YP_004300396.2	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	19	27	4	4	1	10	15	0	4	13	0	1	17	0	10	8	23	5	4	10	17	2	3	13	10	3	1	1	6	0	19	21	25	7	7	14	17	2	6	12	10	0	1	6	8	9	17	5	5	17	13	0	6	8	6	3	2	12	24	5	0	1	0	0
+3	COX2	YP_004300397.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	2	7	6	0	3	4	5	0	4	5	2	1	5	0	3	4	13	5	2	3	9	0	2	8	8	2	0	3	2	0	8	8	10	3	1	7	14	0	2	6	3	0	1	4	3	3	5	2	2	2	5	1	2	8	10	1	0	3	3	2	1	0	0	0
+4	ATP8	YP_004300398.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	0	2	2	0	1	1	1	0	0	0	0	0	2	2	0	1	3	0	1	0	7	0	0	0	3	1	0	0	0	0	3	2	2	1	1	1	2	0	1	2	4	0	0	2	0	0	1	0	2	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004300399.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	1	3	12	1	1	5	4	1	3	1	0	0	4	0	8	9	23	7	1	2	11	2	1	3	5	2	0	1	3	0	2	13	8	7	4	10	13	1	1	12	5	0	0	1	1	0	4	2	1	10	9	0	0	2	4	0	1	3	2	1	1	0	0	0
+6	COX3	YP_004300400.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	6	16	5	1	0	3	8	0	7	5	0	1	11	1	2	5	15	4	0	1	11	1	2	15	5	1	0	0	5	0	7	11	9	2	4	9	10	0	2	3	1	0	0	7	5	5	4	0	3	13	4	1	1	3	7	1	1	5	11	1	0	0	0	0
+7	ND3	YP_004300401.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	3	5	3	2	0	1	3	0	0	2	0	1	3	1	1	4	10	5	0	0	4	2	0	0	2	0	0	2	0	0	2	7	7	0	1	3	4	1	0	2	2	0	0	2	0	0	3	0	1	8	3	0	0	3	5	2	0	2	3	0	0	1	0	0
+8	ND4L	YP_004300402.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	2	6	1	2	2	2	5	1	0	0	1	2	0	1	0	5	12	2	1	0	1	0	0	3	1	0	0	1	1	0	2	4	1	2	2	4	5	1	4	3	1	0	0	0	1	1	0	1	1	5	1	0	0	0	1	1	1	2	1	0	1	0	0	0
+9	ND4	YP_004300403.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	7	7	22	1	2	13	11	1	4	9	0	5	5	6	10	10	37	10	1	9	10	2	1	10	19	0	0	0	5	2	15	18	27	8	8	19	24	3	3	8	7	1	1	7	1	5	10	1	4	19	10	2	1	6	7	0	1	10	12	0	1	0	0	0
+10	ND5	YP_004300404.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	8	21	12	2	3	17	23	2	3	15	0	4	5	2	11	16	46	10	3	14	16	1	4	10	15	4	0	3	6	0	23	34	22	13	5	39	21	1	4	20	19	3	0	13	3	3	12	1	7	23	18	3	2	10	12	2	2	12	10	6	1	0	0	0
+11	CYTB	YP_004300406.1	Crocodylus johnsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Crocodylia, Longirostres, Crocodylidae, Crocodylus	5	23	10	4	3	8	11	2	3	12	0	1	11	1	8	9	30	8	1	4	16	2	1	12	7	2	0	3	6	1	7	20	16	1	2	13	10	1	1	14	7	2	0	2	1	9	4	2	3	13	10	0	1	11	6	0	0	5	14	6	0	0	0	0

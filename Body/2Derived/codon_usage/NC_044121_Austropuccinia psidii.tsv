@@ -1,65 +1,29 @@
-	YP_009681216.1|nad2	YP_009681217.1|nad3	YP_009681218.1|orf669	YP_009681219.1|atp6	YP_009681220.1|cox2	YP_009681221.1|orf101	YP_009681223.1|cox3	YP_009681225.1|nad4	YP_009681228.1|orf130	YP_009681230.1|cob	YP_009681231.1|orf241	YP_009681233.1|orf252	YP_009681234.1|cox1	YP_009681235.1|orf717	YP_009681236.1|orf688	YP_009681237.1|orf363	YP_009681238.1|orf175	YP_009681239.1|orf171	YP_009681240.1|orf311	YP_009681241.1|orf337	YP_009681242.1|orf118	YP_009681243.1|orf319	YP_009681245.1|nad6	YP_009681247.1|nad1	YP_009681250.1|nad4L	YP_009681251.1|nad5	YP_009681256.1|atp9	YP_009681258.1|orf99
-TTT	18	12	10	15	13	6	23	22	7	18	4	12	28	17	18	12	4	8	6	13	4	14	10	23	2	30	3	1
-TTC	5	1	20	3	2	0	5	8	5	10	4	0	11	10	9	5	1	4	8	2	5	3	3	3	1	2	2	2
-TTA	0	0	1	0	0	1	1	1	1	1	1	0	0	0	0	1	1	0	0	1	3	0	0	0	0	2	0	0
-TTG	0	0	0	0	0	0	1	0	9	3	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1
-TCT	2	2	13	4	2	1	3	5	2	9	3	4	7	5	17	7	2	2	4	4	2	4	8	4	0	10	0	0
-TCC	1	0	3	1	2	0	2	4	2	4	2	4	1	8	5	2	0	1	3	0	2	2	0	2	0	4	0	1
-TCA	21	0	12	7	7	1	8	9	0	7	7	10	8	10	9	4	3	2	9	7	3	5	5	12	3	16	4	2
-TCG	7	1	6	1	2	1	0	2	0	1	2	3	1	2	3	4	0	0	2	1	1	1	1	4	1	2	0	1
-TAT	13	6	16	8	3	7	7	25	3	13	11	10	19	17	23	14	4	2	4	18	2	13	7	10	5	33	1	2
-TAC	4	1	6	2	6	1	2	4	1	10	5	2	7	9	5	5	2	1	6	3	3	3	0	2	1	3	1	1
-TGT	6	2	7	2	3	0	1	7	9	2	2	2	3	8	5	1	0	1	4	4	3	3	0	3	1	5	0	1
-TGC	0	0	3	0	1	0	2	2	0	2	1	0	1	1	4	0	1	1	3	3	2	0	0	1	0	2	0	2
-TGA	4	0	8	2	4	1	6	5	12	8	4	2	10	9	10	7	0	2	6	8	3	4	4	4	0	5	0	2
-TGG	3	0	3	0	2	0	2	1	1	1	1	0	4	2	2	2	1	0	1	1	3	1	0	2	0	1	0	1
-CTT	4	2	22	6	4	4	3	16	2	11	5	4	10	9	18	7	2	4	7	10	3	12	2	5	0	11	5	2
-CTC	2	2	7	4	2	0	0	4	3	4	1	1	3	9	11	5	0	2	2	1	3	0	2	2	2	3	1	0
-CTA	29	9	20	23	14	7	21	47	1	32	12	16	45	20	16	15	11	7	12	16	3	9	13	26	8	37	6	4
-CTG	9	2	12	6	8	0	8	7	1	9	6	0	10	15	9	4	3	3	7	1	1	3	6	7	2	6	0	1
-CCT	4	2	16	3	1	4	0	9	1	11	2	2	5	7	9	2	3	3	3	2	0	2	0	2	0	5	1	1
-CCC	0	1	3	0	2	0	0	4	0	7	1	0	1	5	7	0	0	1	2	1	0	1	1	2	0	1	0	3
-CCA	5	2	6	3	4	1	5	3	1	7	3	5	11	9	6	0	4	4	3	6	2	0	3	6	0	9	0	1
-CCG	2	0	4	2	3	0	3	1	0	3	2	2	8	6	5	3	1	1	3	1	0	2	0	5	0	1	0	0
-CAT	2	1	14	3	6	4	10	6	4	9	6	8	14	5	10	7	5	2	6	7	0	9	3	3	0	7	0	0
-CAC	1	1	7	2	2	0	3	3	0	2	6	0	5	5	6	2	0	2	7	0	2	4	0	0	0	0	0	1
-CAA	6	1	14	4	4	2	4	3	3	4	6	3	4	13	12	13	11	8	17	13	2	10	4	5	0	14	3	2
-CAG	5	0	8	2	4	0	0	6	2	3	1	5	2	9	8	3	1	0	0	3	0	4	2	4	0	4	0	1
-CGT	0	0	5	1	0	0	2	2	1	2	2	3	1	7	2	3	2	3	2	5	0	3	0	2	0	3	0	0
-CGC	0	0	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	1	0	1	0	0	1	0	0	0	0
-CGA	0	0	1	1	1	0	1	3	0	0	8	0	1	6	4	4	6	2	9	2	0	3	0	0	0	1	1	2
-CGG	0	0	4	0	0	0	0	1	0	1	1	2	2	3	1	3	1	0	5	1	3	0	1	0	0	0	0	0
-ATT	19	12	16	14	20	7	12	23	7	26	6	9	31	26	17	10	11	4	2	8	3	19	11	22	8	23	4	0
-ATC	3	3	8	6	2	2	2	4	1	15	4	1	3	14	25	7	0	5	10	6	2	4	3	8	0	9	1	4
-ATA	32	5	21	14	2	3	10	32	1	11	7	11	14	27	13	8	4	6	9	13	1	8	21	11	9	39	4	3
-ATG	14	2	10	11	3	3	0	14	5	11	7	6	16	18	13	8	5	1	10	4	5	2	6	11	5	19	1	2
-ACT	3	1	11	4	3	2	4	5	0	4	2	2	4	12	18	10	4	6	7	5	5	8	3	1	1	15	0	3
-ACC	1	0	9	1	0	0	3	1	2	4	1	5	0	10	6	0	1	1	1	1	0	2	0	4	1	4	0	2
-ACA	11	4	13	12	7	0	7	17	1	10	10	13	23	16	11	12	5	6	9	5	3	6	5	10	1	22	4	3
-ACG	10	0	4	2	4	1	2	6	0	0	0	3	2	6	5	1	0	2	3	1	2	1	7	3	0	5	0	1
-AAT	16	4	25	9	6	7	4	10	5	13	7	8	13	17	20	12	13	4	7	11	4	13	9	7	2	7	1	2
-AAC	2	0	11	0	2	0	1	3	1	7	2	3	4	29	18	5	2	2	9	7	2	4	2	1	0	0	1	2
-AAA	2	1	21	0	1	5	1	4	2	3	5	6	2	27	22	18	8	6	0	22	2	18	1	0	0	3	0	7
-AAG	8	1	23	2	4	1	2	6	1	6	6	4	5	28	44	14	2	3	10	10	1	16	1	6	0	11	1	4
-AGT	21	4	10	5	7	3	12	17	3	9	6	14	17	16	19	13	9	5	4	10	6	3	6	10	4	18	0	1
-AGC	4	2	9	3	0	0	1	4	1	2	4	4	5	11	13	5	0	2	7	4	1	4	3	1	1	3	1	2
-AGA	4	0	22	0	4	1	3	2	1	7	3	6	7	31	24	5	1	4	0	7	4	4	0	3	5	9	0	3
-AGG	4	1	13	5	1	1	2	6	1	4	1	4	1	8	3	3	0	2	1	2	4	4	1	2	0	2	1	2
-GTT	3	3	14	5	4	2	5	4	2	6	2	2	13	7	8	10	2	5	3	11	0	9	3	0	1	3	0	2
-GTC	2	0	3	3	1	0	0	1	2	3	1	0	3	3	2	3	1	1	0	0	0	2	1	2	0	2	0	0
-GTA	18	6	17	12	17	3	20	26	0	18	9	10	25	10	17	8	3	5	7	7	0	7	11	22	6	11	2	1
-GTG	7	1	6	3	2	1	0	3	5	5	1	3	5	6	11	5	2	0	6	3	0	3	6	7	0	4	1	0
-GCT	7	1	5	4	6	2	4	8	0	5	9	0	13	9	13	5	5	3	7	6	4	7	3	4	1	10	2	2
-GCC	2	3	6	1	0	0	1	5	0	3	0	0	10	10	10	2	0	0	1	1	0	3	3	7	1	7	3	1
-GCA	13	1	10	4	5	2	13	8	1	13	4	4	18	16	8	5	5	6	10	6	1	4	3	9	2	19	3	3
-GCG	7	2	13	5	3	0	4	8	0	5	1	1	9	4	5	2	0	0	3	1	0	0	1	4	1	6	3	1
-GAT	3	1	19	2	13	4	6	9	14	11	6	4	15	19	21	12	5	6	8	10	1	11	8	5	2	12	0	4
-GAC	3	0	8	1	4	0	0	3	0	1	3	4	1	12	12	4	0	2	4	2	0	3	2	1	0	0	0	1
-GAA	4	2	17	2	8	1	5	6	0	4	4	5	3	22	20	12	4	7	3	12	2	14	0	2	0	7	0	2
-GAG	8	2	18	5	6	4	5	5	1	6	4	4	5	19	12	9	2	0	4	5	4	2	0	9	2	4	1	3
-GGT	6	4	16	4	6	4	7	10	1	10	8	7	17	15	10	7	6	4	9	10	0	9	0	4	2	9	0	1
-GGC	1	0	3	0	0	0	1	1	0	5	3	0	1	6	2	2	0	0	7	2	1	2	0	0	0	2	0	0
-GGA	6	1	17	5	2	1	6	10	1	11	2	5	23	14	21	8	5	5	5	9	1	7	2	3	2	13	6	0
-GGG	6	0	19	6	5	0	8	9	0	6	3	4	12	23	9	3	1	2	3	2	1	4	3	11	5	8	5	2
-TAA	0	1	1	1	1	0	1	0	1	1	0	0	1	1	1	1	1	1	0	1	0	1	1	0	0	1	1	1
-TAG	1	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	nad2	YP_009681216.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	18	5	0	0	2	1	21	7	13	4	6	0	4	3	4	2	29	9	4	0	5	2	2	1	6	5	0	0	0	0	19	3	32	14	3	1	11	10	16	2	2	8	21	4	4	4	3	2	18	7	7	2	13	7	3	3	4	8	6	1	6	6	0	1
+1	nad3	YP_009681217.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	12	1	0	0	2	0	0	1	6	1	2	0	0	0	2	2	9	2	2	1	2	0	1	1	1	0	0	0	0	0	12	3	5	2	1	0	4	0	4	0	1	1	4	2	0	1	3	0	6	1	1	3	1	2	1	0	2	2	4	0	1	0	1	0
+2	orf669	YP_009681218.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	10	20	1	0	13	3	12	6	16	6	7	3	8	3	22	7	20	12	16	3	6	4	14	7	14	8	5	1	1	4	16	8	21	10	11	9	13	4	25	11	21	23	10	9	22	13	14	3	17	6	5	6	10	13	19	8	17	18	16	3	17	19	1	0
+3	atp6	YP_009681219.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	15	3	0	0	4	1	7	1	8	2	2	0	2	0	6	4	23	6	3	0	3	2	3	2	4	2	1	0	1	0	14	6	14	11	4	1	12	2	9	0	0	2	5	3	0	5	5	3	12	3	4	1	4	5	2	1	2	5	4	0	5	6	1	0
+4	cox2	YP_009681220.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	13	2	0	0	2	2	7	2	3	6	3	1	4	2	4	2	14	8	1	2	4	3	6	2	4	4	0	0	1	0	20	2	2	3	3	0	7	4	6	2	1	4	7	0	4	1	4	1	17	2	6	0	5	3	13	4	8	6	6	0	2	5	1	0
+5	orf101	YP_009681221.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	6	0	1	0	1	0	1	1	7	1	0	0	1	0	4	0	7	0	4	0	1	0	4	0	2	0	0	0	0	0	7	2	3	3	2	0	0	1	7	0	5	1	3	0	1	1	2	0	3	1	2	0	2	0	4	0	1	4	4	0	1	0	0	1
+6	cox3	YP_009681223.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	23	5	1	1	3	2	8	0	7	2	1	2	6	2	3	0	21	8	0	0	5	3	10	3	4	0	2	0	1	0	12	2	10	0	4	3	7	2	4	1	1	2	12	1	3	2	5	0	20	0	4	1	13	4	6	0	5	5	7	1	6	8	1	0
+7	nad4	YP_009681225.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	22	8	1	0	5	4	9	2	25	4	7	2	5	1	16	4	47	7	9	4	3	1	6	3	3	6	2	0	3	1	23	4	32	14	5	1	17	6	10	3	4	6	17	4	2	6	4	1	26	3	8	5	8	8	9	3	6	5	10	1	10	9	0	1
+8	orf130	YP_009681228.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	7	5	1	9	2	2	0	0	3	1	9	0	12	1	2	3	1	1	1	0	1	0	4	0	3	2	1	0	0	0	7	1	1	5	0	2	1	0	5	1	2	1	3	1	1	1	2	2	0	5	0	0	1	0	14	0	0	1	1	0	1	0	1	0
+9	cob	YP_009681230.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	18	10	1	3	9	4	7	1	13	10	2	2	8	1	11	4	32	9	11	7	7	3	9	2	4	3	2	0	0	1	26	15	11	11	4	4	10	0	13	7	3	6	9	2	7	4	6	3	18	5	5	3	13	5	11	1	4	6	10	5	11	6	1	0
+10	orf241	YP_009681231.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	4	4	1	0	3	2	7	2	11	5	2	1	4	1	5	1	12	6	2	1	3	2	6	6	6	1	2	1	8	1	6	4	7	7	2	1	10	0	7	2	5	6	6	4	3	1	2	1	9	1	9	0	4	1	6	3	4	4	8	3	2	3	0	1
+11	orf252	YP_009681233.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	12	0	0	0	4	4	10	3	10	2	2	0	2	0	4	1	16	0	2	0	5	2	8	0	3	5	3	0	0	2	9	1	11	6	2	5	13	3	8	3	6	4	14	4	6	4	2	0	10	3	0	0	4	1	4	4	5	4	7	0	5	4	0	1
+12	cox1	YP_009681234.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	28	11	0	0	7	1	8	1	19	7	3	1	10	4	10	3	45	10	5	1	11	8	14	5	4	2	1	0	1	2	31	3	14	16	4	0	23	2	13	4	2	5	17	5	7	1	13	3	25	5	13	10	18	9	15	1	3	5	17	1	23	12	1	0
+13	orf717	YP_009681235.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	17	10	0	0	5	8	10	2	17	9	8	1	9	2	9	9	20	15	7	5	9	6	5	5	13	9	7	0	6	3	26	14	27	18	12	10	16	6	17	29	27	28	16	11	31	8	7	3	10	6	9	10	16	4	19	12	22	19	15	6	14	23	1	0
+14	orf688	YP_009681236.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	18	9	0	0	17	5	9	3	23	5	5	4	10	2	18	11	16	9	9	7	6	5	10	6	12	8	2	2	4	1	17	25	13	13	18	6	11	5	20	18	22	44	19	13	24	3	8	2	17	11	13	10	8	5	21	12	20	12	10	2	21	9	1	0
+15	orf363	YP_009681237.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	12	5	1	0	7	2	4	4	14	5	1	0	7	2	7	5	15	4	2	0	0	3	7	2	13	3	3	0	4	3	10	7	8	8	10	0	12	1	12	5	18	14	13	5	5	3	10	3	8	5	5	2	5	2	12	4	12	9	7	2	8	3	1	0
+16	orf175	YP_009681238.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	4	1	1	0	2	0	3	0	4	2	0	1	0	1	2	0	11	3	3	0	4	1	5	0	11	1	2	0	6	1	11	0	4	5	4	1	5	0	13	2	8	2	9	0	1	0	2	1	3	2	5	0	5	0	5	0	4	2	6	0	5	1	1	0
+17	orf171	YP_009681239.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	8	4	0	0	2	1	2	0	2	1	1	1	2	0	4	2	7	3	3	1	4	1	2	2	8	0	3	0	2	0	4	5	6	1	6	1	6	2	4	2	6	3	5	2	4	2	5	1	5	0	3	0	6	0	6	2	7	0	4	0	5	2	1	0
+18	orf311	YP_009681240.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	6	8	0	0	4	3	9	2	4	6	4	3	6	1	7	2	12	7	3	2	3	3	6	7	17	0	2	1	9	5	2	10	9	10	7	1	9	3	7	9	0	10	4	7	0	1	3	0	7	6	7	1	10	3	8	4	3	4	9	7	5	3	0	1
+19	orf337	YP_009681241.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	13	2	1	0	4	0	7	1	18	3	4	3	8	1	10	1	16	1	2	1	6	1	7	0	13	3	5	0	2	1	8	6	13	4	5	1	5	1	11	7	22	10	10	4	7	2	11	0	7	3	6	1	6	1	10	2	12	5	10	2	9	2	1	0
+20	orf118	YP_009681242.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	4	5	3	2	2	2	3	1	2	3	3	2	3	3	3	3	3	1	0	0	2	0	0	2	2	0	0	1	0	3	3	2	1	5	5	0	3	2	4	2	2	1	6	1	4	4	0	0	0	0	4	0	1	0	1	0	2	4	0	1	1	1	0	1
+21	orf319	YP_009681243.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	14	3	0	1	4	2	5	1	13	3	3	0	4	1	12	0	9	3	2	1	0	2	9	4	10	4	3	0	3	0	19	4	8	2	8	2	6	1	13	4	18	16	3	4	4	4	9	2	7	3	7	3	4	0	11	3	14	2	9	2	7	4	1	0
+22	nad6	YP_009681245.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	10	3	0	0	8	0	5	1	7	0	0	0	4	0	2	2	13	6	0	1	3	0	3	0	4	2	0	0	0	1	11	3	21	6	3	0	5	7	9	2	1	1	6	3	0	1	3	1	11	6	3	3	3	1	8	2	0	0	0	0	2	3	1	0
+23	nad1	YP_009681247.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	23	3	0	0	4	2	12	4	10	2	3	1	4	2	5	2	26	7	2	2	6	5	3	0	5	4	2	1	0	0	22	8	11	11	1	4	10	3	7	1	0	6	10	1	3	2	0	2	22	7	4	7	9	4	5	1	2	9	4	0	3	11	0	1
+24	nad4L	YP_009681250.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	2	1	0	0	0	0	3	1	5	1	1	0	0	0	0	2	8	2	0	0	0	0	0	0	0	0	0	0	0	0	8	0	9	5	1	1	1	0	2	0	0	0	4	1	5	0	1	0	6	0	1	1	2	1	2	0	0	2	2	0	2	5	0	1
+25	nad5	YP_009681251.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	30	2	2	0	10	4	16	2	33	3	5	2	5	1	11	3	37	6	5	1	9	1	7	0	14	4	3	0	1	0	23	9	39	19	15	4	22	5	7	0	3	11	18	3	9	2	3	2	11	4	10	7	19	6	12	0	7	4	9	2	13	8	1	0
+26	atp9	YP_009681256.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	3	2	0	0	0	0	4	0	1	1	0	0	0	0	5	1	6	0	1	0	0	0	0	0	3	0	0	0	1	0	4	1	4	1	0	0	4	0	1	1	0	1	0	1	0	1	0	0	2	1	2	3	3	3	0	0	0	1	0	0	6	5	1	0
+27	orf99	YP_009681258.1	Austropuccinia psidii	Eukaryota, Fungi, Dikarya, Basidiomycota, Pucciniomycotina, Pucciniomycetes, Pucciniales, Sphaerophragmiaceae, Austropuccinia	1	2	0	1	0	1	2	1	2	1	1	2	2	1	2	0	4	1	1	3	1	0	0	1	2	1	0	0	2	0	0	4	3	2	3	2	3	1	2	2	7	4	1	2	3	2	2	0	1	0	2	1	3	1	4	1	2	3	1	0	0	2	1	0

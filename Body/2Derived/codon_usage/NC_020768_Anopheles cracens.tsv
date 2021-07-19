@@ -1,65 +1,10 @@
-	YP_007626940.1|ND2	YP_007626941.1|COX1	YP_007626942.1|COX2	YP_007626943.1|ATP8	YP_007626944.1|ATP6	YP_007626945.1|COX3	YP_007626946.1|ND3	YP_007626950.1|ND6	YP_007626951.1|CYTB
-TTT	35	36	13	7	12	22	10	19	29
-TTC	1	5	2	0	5	6	1	0	7
-TTA	51	51	23	7	40	22	16	29	47
-TTG	1	2	1	0	0	0	0	1	0
-TCT	18	13	2	0	7	4	2	5	4
-TCC	1	1	1	0	0	0	1	0	0
-TCA	7	12	8	2	5	7	4	7	9
-TCG	1	1	0	0	0	0	0	0	0
-TAT	10	10	6	1	5	10	1	6	13
-TAC	1	7	1	1	0	2	0	0	3
-TGT	2	0	2	1	0	1	2	2	4
-TGC	0	0	0	0	1	0	0	0	0
-TGA	9	15	6	2	5	13	3	1	14
-TGG	0	0	0	1	0	0	0	0	0
-CTT	5	5	4	0	2	2	1	0	3
-CTC	0	1	0	0	0	0	0	0	0
-CTA	6	3	2	1	2	1	3	4	5
-CTG	0	0	0	0	0	1	1	0	0
-CCT	2	16	5	3	8	6	2	3	13
-CCC	3	1	0	0	0	2	1	0	0
-CCA	3	10	6	1	3	2	1	1	8
-CCG	0	1	0	0	1	0	0	0	0
-CAT	2	12	5	0	6	12	0	0	9
-CAC	0	6	1	0	1	4	1	1	3
-CAA	7	9	7	2	5	8	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	1	0	1	0	0	1	1
-CGC	0	0	1	0	0	0	0	0	0
-CGA	2	10	5	0	2	4	3	0	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	36	46	23	7	18	21	18	19	39
-ATC	5	2	1	0	0	1	0	2	1
-ATA	27	29	11	1	7	9	8	17	10
-ATG	2	0	3	0	4	1	0	0	1
-ACT	3	25	7	0	6	10	4	5	5
-ACC	2	0	1	2	0	0	0	0	0
-ACA	6	13	8	1	15	14	4	9	11
-ACG	1	0	0	0	1	0	0	0	1
-AAT	25	15	15	5	13	6	5	10	19
-AAC	6	2	2	1	2	1	0	1	6
-AAA	15	2	2	4	2	1	4	9	8
-AAG	0	3	1	0	0	0	0	0	1
-AGT	3	5	2	0	4	4	0	2	1
-AGC	0	0	0	0	0	0	0	0	0
-AGA	3	5	3	0	4	1	1	1	4
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	13	6	1	4	5	1	1	10
-GTC	0	0	0	0	1	0	0	0	0
-GTA	4	18	5	1	7	11	2	4	10
-GTG	0	0	0	0	1	0	0	0	0
-GCT	5	18	1	0	6	8	1	0	17
-GCC	0	1	0	1	2	2	1	0	0
-GCA	3	19	5	0	2	8	2	0	9
-GCG	1	0	1	0	0	0	0	0	0
-GAT	1	13	7	0	0	4	2	1	8
-GAC	0	2	2	0	1	0	1	0	2
-GAA	6	8	9	0	4	7	5	5	5
-GAG	0	1	0	0	0	0	1	0	0
-GGT	3	5	2	0	2	2	1	0	6
-GGC	0	0	0	0	0	1	0	0	0
-GGA	13	36	9	0	6	13	2	5	14
-GGG	1	4	0	0	3	3	0	0	3
-TAA	1	0	0	1	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007626940.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	35	1	51	1	18	1	7	1	10	1	2	0	9	0	5	0	6	0	2	3	3	0	2	0	7	0	0	0	2	0	36	5	27	2	3	2	6	1	25	6	15	0	3	0	3	0	3	0	4	0	5	0	3	1	1	0	6	0	3	0	13	1	1	0
+1	COX1	YP_007626941.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	36	5	51	2	13	1	12	1	10	7	0	0	15	0	5	1	3	0	16	1	10	1	12	6	9	0	0	0	10	0	46	2	29	0	25	0	13	0	15	2	2	3	5	0	5	0	13	0	18	0	18	1	19	0	13	2	8	1	5	0	36	4	0	0
+2	COX2	YP_007626942.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	13	2	23	1	2	1	8	0	6	1	2	0	6	0	4	0	2	0	5	0	6	0	5	1	7	0	1	1	5	0	23	1	11	3	7	1	8	0	15	2	2	1	2	0	3	0	6	0	5	0	1	0	5	1	7	2	9	0	2	0	9	0	0	0
+3	ATP8	YP_007626943.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	7	0	7	0	0	0	2	0	1	1	1	0	2	1	0	0	1	0	3	0	1	0	0	0	2	0	0	0	0	0	7	0	1	0	0	2	1	0	5	1	4	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_007626944.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	12	5	40	0	7	0	5	0	5	0	0	1	5	0	2	0	2	0	8	0	3	1	6	1	5	0	1	0	2	0	18	0	7	4	6	0	15	1	13	2	2	0	4	0	4	0	4	1	7	1	6	2	2	0	0	1	4	0	2	0	6	3	1	0
+5	COX3	YP_007626945.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	22	6	22	0	4	0	7	0	10	2	1	0	13	0	2	0	1	1	6	2	2	0	12	4	8	0	0	0	4	0	21	1	9	1	10	0	14	0	6	1	1	0	4	0	1	0	5	0	11	0	8	2	8	0	4	0	7	0	2	1	13	3	0	0
+6	ND3	YP_007626946.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	10	1	16	0	2	1	4	0	1	0	2	0	3	0	1	0	3	1	2	1	1	0	0	1	1	0	0	0	3	0	18	0	8	0	4	0	4	0	5	0	4	0	0	0	1	0	1	0	2	0	1	1	2	0	2	1	5	1	1	0	2	0	1	0
+7	ND6	YP_007626950.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	19	0	29	1	5	0	7	0	6	0	2	0	1	0	0	0	4	0	3	0	1	0	0	1	3	0	1	0	0	0	19	2	17	0	5	0	9	0	10	1	9	0	2	0	1	0	1	0	4	0	0	0	0	0	1	0	5	0	0	0	5	0	1	0
+8	CYTB	YP_007626951.1	Anopheles cracens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	29	7	47	0	4	0	9	0	13	3	4	0	14	0	3	0	5	0	13	0	8	0	9	3	8	0	1	0	7	0	39	1	10	1	5	0	11	1	19	6	8	1	1	0	4	0	10	0	10	0	17	0	9	0	8	2	5	0	6	0	14	3	1	0

@@ -1,65 +1,13 @@
-	YP_009059584.1|ND1	YP_009059585.1|ND2	YP_009059586.1|COX1	YP_009059587.1|COX2	YP_009059588.1|ATP8	YP_009059589.1|ATP6	YP_009059590.1|COX3	YP_009059591.1|ND3	YP_009059592.1|ND4L	YP_009059593.1|ND4	YP_009059594.1|ND5	YP_009059596.1|CYTB
-TTT	16	7	25	6	1	12	9	3	5	9	20	13
-TTC	6	3	15	2	3	4	14	6	0	9	18	20
-TTA	17	19	22	9	4	16	11	4	8	30	23	14
-TTG	1	3	1	0	0	1	0	0	0	1	1	0
-TCT	4	5	13	2	0	1	2	1	3	10	8	3
-TCC	0	6	4	2	1	1	1	2	3	8	11	4
-TCA	13	13	9	9	2	3	7	0	5	9	20	12
-TCG	1	0	1	0	0	0	0	0	0	0	1	0
-TAT	7	7	13	7	1	2	10	2	0	13	9	10
-TAC	6	2	7	3	0	1	2	0	0	2	1	5
-TGT	0	0	0	2	0	0	1	0	2	0	3	0
-TGC	0	1	1	0	0	0	1	1	2	4	2	3
-TGA	8	9	14	5	5	5	12	3	1	15	10	12
-TGG	0	1	3	0	0	0	0	2	0	3	3	0
-CTT	11	17	14	5	1	5	9	8	5	21	31	14
-CTC	8	7	8	4	0	7	5	4	1	13	19	7
-CTA	22	21	18	8	2	16	5	6	6	24	32	22
-CTG	1	2	2	0	0	3	1	1	0	1	3	1
-CCT	2	3	10	3	3	0	3	3	1	4	6	3
-CCC	5	3	4	3	2	6	2	2	0	9	6	4
-CCA	13	14	14	7	4	10	8	5	1	11	17	14
-CCG	1	0	2	0	0	0	0	0	0	0	1	0
-CAT	1	1	6	2	0	3	6	0	2	3	5	4
-CAC	4	4	13	8	0	1	11	0	1	9	9	8
-CAA	7	13	9	8	2	9	8	2	2	13	22	7
-CAG	1	0	1	1	0	0	0	0	0	0	1	1
-CGT	2	1	3	0	0	0	2	0	0	0	0	0
-CGC	2	0	2	1	0	2	0	0	1	1	4	3
-CGA	4	2	3	5	0	2	3	2	1	10	4	5
-CGG	0	1	0	0	0	1	0	0	0	0	0	0
-ATT	17	21	35	17	2	18	14	9	1	39	37	25
-ATC	11	18	11	6	1	5	4	6	2	9	30	16
-ATA	14	23	22	11	0	11	9	5	7	23	27	14
-ATG	2	1	2	1	2	2	1	1	1	3	4	1
-ACT	5	9	7	5	3	7	3	4	3	13	9	4
-ACC	12	11	9	1	0	9	4	2	1	10	15	9
-ACA	10	22	19	4	1	7	12	2	5	14	28	14
-ACG	0	0	1	0	0	0	1	0	0	1	0	1
-AAT	7	5	12	2	3	7	0	1	3	11	15	10
-AAC	7	13	3	4	3	3	1	0	1	7	19	11
-AAA	6	9	8	4	5	1	2	1	1	10	24	9
-AAG	1	0	0	0	0	0	0	0	0	1	1	0
-AGT	0	1	2	1	1	0	2	2	0	3	4	0
-AGC	2	1	3	2	0	5	2	1	2	7	7	1
-GTT	4	0	12	10	0	3	7	0	0	4	5	1
-GTC	1	0	6	4	1	2	6	0	1	3	1	4
-GTA	7	4	16	4	1	6	2	1	2	4	7	9
-GTG	0	0	3	1	0	1	0	0	0	0	1	0
-GCT	7	3	11	1	0	4	5	2	1	7	15	8
-GCC	9	9	9	6	0	7	12	2	5	14	14	10
-GCA	9	10	18	8	0	4	5	4	5	10	6	6
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	2	0	8	9	0	1	4	4	1	1	8	4
-GAC	1	0	6	3	0	0	1	0	0	3	4	5
-GAA	10	5	9	13	1	4	10	6	2	10	10	6
-GAG	0	0	2	3	0	0	0	0	0	1	1	0
-GGT	1	1	14	2	0	1	2	2	0	3	9	4
-GGC	9	5	9	2	0	2	8	1	3	6	8	5
-GGA	6	11	18	3	0	5	8	1	1	10	9	14
-GGG	1	1	5	1	0	1	3	2	0	1	3	0
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009059584.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	16	6	17	1	4	0	13	1	7	6	0	0	8	0	11	8	22	1	2	5	13	1	1	4	7	1	2	2	4	0	17	11	14	2	5	12	10	0	7	7	6	1	0	2	4	1	7	0	7	9	9	0	2	1	10	0	1	9	6	1	1	0	0	0
+1	ND2	YP_009059585.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	7	3	19	3	5	6	13	0	7	2	0	1	9	1	17	7	21	2	3	3	14	0	1	4	13	0	1	0	2	1	21	18	23	1	9	11	22	0	5	13	9	0	1	1	0	0	4	0	3	9	10	0	0	0	5	0	1	5	11	1	0	0	0	0
+2	COX1	YP_009059586.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	25	15	22	1	13	4	9	1	13	7	0	1	14	3	14	8	18	2	10	4	14	2	6	13	9	1	3	2	3	0	35	11	22	2	7	9	19	1	12	3	8	0	2	3	12	6	16	3	11	9	18	1	8	6	9	2	14	9	18	5	1	0	0	0
+3	COX2	YP_009059587.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	6	2	9	0	2	2	9	0	7	3	2	0	5	0	5	4	8	0	3	3	7	0	2	8	8	1	0	1	5	0	17	6	11	1	5	1	4	0	2	4	4	0	1	2	10	4	4	1	1	6	8	0	9	3	13	3	2	2	3	1	0	0	0	0
+4	ATP8	YP_009059588.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	1	3	4	0	0	1	2	0	1	0	0	0	5	0	1	0	2	0	3	2	4	0	0	0	2	0	0	0	0	0	2	1	0	2	3	0	1	0	3	3	5	0	1	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009059589.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	12	4	16	1	1	1	3	0	2	1	0	0	5	0	5	7	16	3	0	6	10	0	3	1	9	0	0	2	2	1	18	5	11	2	7	9	7	0	7	3	1	0	0	5	3	2	6	1	4	7	4	0	1	0	4	0	1	2	5	1	1	0	0	0
+6	COX3	YP_009059590.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	9	14	11	0	2	1	7	0	10	2	1	1	12	0	9	5	5	1	3	2	8	0	6	11	8	0	2	0	3	0	14	4	9	1	3	4	12	1	0	1	2	0	2	2	7	6	2	0	5	12	5	0	4	1	10	0	2	8	8	3	1	0	0	0
+7	ND3	YP_009059591.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	3	6	4	0	1	2	0	0	2	0	0	1	3	2	8	4	6	1	3	2	5	0	0	0	2	0	0	0	2	0	9	6	5	1	4	2	2	0	1	0	1	0	2	1	0	0	1	0	2	2	4	0	4	0	6	0	2	1	1	2	0	0	0	0
+8	ND4L	YP_009059592.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	5	0	8	0	3	3	5	0	0	0	2	2	1	0	5	1	6	0	1	0	1	0	2	1	2	0	0	1	1	0	1	2	7	1	3	1	5	0	3	1	1	0	0	2	0	1	2	0	1	5	5	0	1	0	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009059593.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	9	9	30	1	10	8	9	0	13	2	0	4	15	3	21	13	24	1	4	9	11	0	3	9	13	0	0	1	10	0	39	9	23	3	13	10	14	1	11	7	10	1	3	7	4	3	4	0	7	14	10	0	1	3	10	1	3	6	10	1	0	0	0	0
+10	ND5	YP_009059594.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	20	18	23	1	8	11	20	1	9	1	3	2	10	3	31	19	32	3	6	6	17	1	5	9	22	1	0	4	4	0	37	30	27	4	9	15	28	0	15	19	24	1	4	7	5	1	7	1	15	14	6	0	8	4	10	1	9	8	9	3	1	0	0	0
+11	CYTB	YP_009059596.1	Zapteryx exasperata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Pristiformes/Rhiniformes group, Rhinobatidae, Rhinobatinae, Zapteryx	13	20	14	0	3	4	12	0	10	5	0	3	12	0	14	7	22	1	3	4	14	0	4	8	7	1	0	3	5	0	25	16	14	1	4	9	14	1	10	11	9	0	0	1	1	4	9	0	8	10	6	0	4	5	6	0	4	5	14	0	0	1	0	0

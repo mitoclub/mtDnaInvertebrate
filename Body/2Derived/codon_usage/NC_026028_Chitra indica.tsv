@@ -1,65 +1,13 @@
-	YP_009113400.1|ND1	YP_009113401.1|ND2	YP_009113402.1|COX1	YP_009113403.1|COX2	YP_009113404.1|ATP8	YP_009113405.1|ATP6	YP_009113406.1|COX3	YP_009113407.1|ND3	YP_009113408.1|ND4L	YP_009113409.1|ND4	YP_009113410.1|ND5	YP_009113412.1|CYTB
-TTT	6	1	18	2	0	1	5	2	0	6	4	5
-TTC	16	12	20	7	2	4	18	8	7	10	24	20
-TTA	12	13	14	6	1	13	5	2	4	13	6	9
-TTG	1	0	1	0	0	0	0	0	0	0	0	0
-TCT	6	3	2	0	0	1	0	0	1	2	5	3
-TCC	8	5	11	2	2	6	0	1	2	4	12	5
-TCA	12	10	17	11	0	6	10	5	7	20	25	18
-TCG	1	1	0	0	0	0	0	0	0	0	0	0
-TAT	4	2	3	3	1	2	3	1	1	2	5	2
-TAC	7	5	16	6	0	1	8	1	0	10	10	12
-TGT	0	1	0	0	0	0	0	0	0	2	1	0
-TGC	1	0	1	2	0	0	2	1	4	2	4	2
-TGA	7	10	17	5	5	4	12	3	0	13	12	10
-TGG	1	0	0	0	0	0	0	1	0	0	1	1
-CTT	1	3	4	0	0	0	2	4	0	9	10	3
-CTC	7	9	10	1	0	4	5	6	1	11	11	7
-CTA	36	32	27	16	3	40	21	13	17	48	52	38
-CTG	2	0	3	1	0	1	1	0	0	6	3	4
-CCT	1	1	1	2	1	1	0	0	0	1	3	0
-CCC	6	3	3	0	0	2	2	2	1	6	6	1
-CCA	15	15	22	13	6	12	10	4	3	17	22	22
-CCG	1	1	0	0	0	1	0	1	0	0	0	0
-CAT	0	4	3	4	2	3	4	1	0	3	3	3
-CAC	1	6	17	7	2	0	12	0	3	11	14	8
-CAA	6	11	9	7	3	10	7	3	5	14	21	8
-CAG	0	1	0	0	0	0	0	0	0	0	1	1
-CGT	0	1	2	0	0	0	0	0	0	0	0	0
-CGC	0	0	0	2	0	1	0	1	0	1	3	1
-CGA	6	3	6	4	0	4	5	1	1	8	5	7
-CGG	1	0	0	0	0	0	0	0	1	0	0	0
-ATT	10	13	17	4	5	7	4	2	2	18	14	8
-ATC	13	20	24	16	1	13	11	8	4	25	44	31
-ATA	22	27	28	16	3	12	7	4	6	33	36	11
-ATG	6	6	2	2	1	1	1	1	1	3	2	3
-ACT	7	6	7	4	0	3	4	0	0	7	5	7
-ACC	5	13	13	8	3	10	8	7	5	20	26	10
-ACA	8	27	21	10	2	15	17	7	2	36	44	15
-ACG	0	0	0	0	1	0	0	0	0	0	0	1
-AAT	3	2	6	1	3	3	1	1	3	7	4	4
-AAC	10	14	9	6	4	6	4	3	3	13	23	20
-AAA	7	13	9	5	2	3	2	3	0	9	22	8
-AAG	0	0	0	0	0	1	0	0	0	1	2	1
-AGT	0	1	1	1	0	0	0	0	0	2	1	0
-AGC	3	4	4	1	0	4	4	1	4	5	10	1
-GTT	0	2	4	2	0	1	0	0	0	1	0	0
-GTC	2	1	8	2	0	3	7	0	1	2	5	4
-GTA	6	2	24	8	0	4	8	1	1	3	6	9
-GTG	2	0	1	0	0	0	0	0	0	0	3	1
-GCT	3	2	7	2	0	4	0	0	0	2	7	5
-GCC	11	10	21	4	0	5	12	1	2	16	19	10
-GCA	9	10	12	4	0	2	8	4	2	7	14	4
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	1	4	1	0	0	1	1	0	0	1	0
-GAC	3	1	11	7	1	1	3	1	0	3	6	7
-GAA	12	4	9	15	0	3	8	6	2	10	9	4
-GAG	0	1	1	0	0	1	0	0	0	0	1	0
-GGT	4	0	5	0	0	1	2	1	0	2	1	2
-GGC	6	4	14	2	0	1	4	1	0	6	10	9
-GGA	5	9	20	6	0	6	12	1	2	10	13	13
-GGG	0	0	6	0	0	0	1	1	0	0	0	1
-TAA	1	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009113400.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	6	16	12	1	6	8	12	1	4	7	0	1	7	1	1	7	36	2	1	6	15	1	0	1	6	0	0	0	6	1	10	13	22	6	7	5	8	0	3	10	7	0	0	3	0	2	6	2	3	11	9	0	1	3	12	0	4	6	5	0	1	0	0	0
+1	ND2	YP_009113401.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	1	12	13	0	3	5	10	1	2	5	1	0	10	0	3	9	32	0	1	3	15	1	4	6	11	1	1	0	3	0	13	20	27	6	6	13	27	0	2	14	13	0	1	4	2	1	2	0	2	10	10	0	1	1	4	1	0	4	9	0	0	0	0	0
+2	COX1	YP_009113402.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	18	20	14	1	2	11	17	0	3	16	0	1	17	0	4	10	27	3	1	3	22	0	3	17	9	0	2	0	6	0	17	24	28	2	7	13	21	0	6	9	9	0	1	4	4	8	24	1	7	21	12	0	4	11	9	1	5	14	20	6	0	0	0	1
+3	COX2	YP_009113403.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	2	7	6	0	0	2	11	0	3	6	0	2	5	0	0	1	16	1	2	0	13	0	4	7	7	0	0	2	4	0	4	16	16	2	4	8	10	0	1	6	5	0	1	1	2	2	8	0	2	4	4	0	1	7	15	0	0	2	6	0	1	0	0	0
+4	ATP8	YP_009113404.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	0	2	1	0	0	2	0	0	1	0	0	0	5	0	0	0	3	0	1	0	6	0	2	2	3	0	0	0	0	0	5	1	3	1	0	3	2	1	3	4	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009113405.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	1	4	13	0	1	6	6	0	2	1	0	0	4	0	0	4	40	1	1	2	12	1	3	0	10	0	0	1	4	0	7	13	12	1	3	10	15	0	3	6	3	1	0	4	1	3	4	0	4	5	2	0	0	1	3	1	1	1	6	0	1	0	0	0
+6	COX3	YP_009113406.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	5	18	5	0	0	0	10	0	3	8	0	2	12	0	2	5	21	1	0	2	10	0	4	12	7	0	0	0	5	0	4	11	7	1	4	8	17	0	1	4	2	0	0	4	0	7	8	0	0	12	8	0	1	3	8	0	2	4	12	1	0	0	0	0
+7	ND3	YP_009113407.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	2	8	2	0	0	1	5	0	1	1	0	1	3	1	4	6	13	0	0	2	4	1	1	0	3	0	0	1	1	0	2	8	4	1	0	7	7	0	1	3	3	0	0	1	0	0	1	0	0	1	4	0	1	1	6	0	1	1	1	1	0	0	0	0
+8	ND4L	YP_009113408.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	0	7	4	0	1	2	7	0	1	0	0	4	0	0	0	1	17	0	0	1	3	0	0	3	5	0	0	0	1	1	2	4	6	1	0	5	2	0	3	3	0	0	0	4	0	1	1	0	0	2	2	0	0	0	2	0	0	0	2	0	1	0	0	0
+9	ND4	YP_009113409.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	6	10	13	0	2	4	20	0	2	10	2	2	13	0	9	11	48	6	1	6	17	0	3	11	14	0	0	1	8	0	18	25	33	3	7	20	36	0	7	13	9	1	2	5	1	2	3	0	2	16	7	0	0	3	10	0	2	6	10	0	0	0	0	0
+10	ND5	YP_009113410.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	4	24	6	0	5	12	25	0	5	10	1	4	12	1	10	11	52	3	3	6	22	0	3	14	21	1	0	3	5	0	14	44	36	2	5	26	44	0	4	23	22	2	1	10	0	5	6	3	7	19	14	0	1	6	9	1	1	10	13	0	1	0	0	0
+11	CYTB	YP_009113412.1	Chitra indica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Trionychia, Trionychidae, Chitra	5	20	9	0	3	5	18	0	2	12	0	2	10	1	3	7	38	4	0	1	22	0	3	8	8	1	0	1	7	0	8	31	11	3	7	10	15	1	4	20	8	1	0	1	0	4	9	1	5	10	4	0	0	7	4	0	2	9	13	1	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_009251190.1|ND1	YP_009251191.1|ND2	YP_009251192.1|COX1	YP_009251193.1|COX2	YP_009251194.1|ATP8	YP_009251195.1|ATP6	YP_009251196.1|COX3	YP_009251197.1|ND3	YP_009251198.1|ND4L	YP_009251199.1|ND4	YP_009251200.1|ND5	YP_009251202.1|CYTB
-TTT	16	12	26	5	3	11	14	5	2	19	25	16
-TTC	11	8	16	4	3	4	15	7	2	11	17	21
-TTA	15	17	15	6	2	12	9	3	9	23	24	6
-TTG	5	2	6	0	0	3	0	0	0	1	2	2
-TCT	7	5	4	3	5	9	5	2	4	9	17	8
-TCC	7	14	11	5	2	3	2	1	3	18	17	13
-TCA	6	10	12	6	2	1	5	4	6	12	17	5
-TCG	1	1	1	0	0	0	0	0	0	0	0	0
-TAT	3	2	5	1	0	1	3	2	0	5	6	4
-TAC	6	4	13	7	0	3	6	1	1	7	11	8
-TGT	0	0	0	1	0	0	0	1	2	1	1	2
-TGC	2	2	0	1	0	0	2	0	1	3	4	1
-TGA	8	9	15	3	5	4	12	4	2	9	8	11
-TGG	0	2	2	2	0	1	1	1	0	4	3	0
-CTT	15	18	18	7	2	13	9	9	6	24	21	16
-CTC	9	24	11	3	0	5	5	5	7	13	15	16
-CTA	10	17	9	9	0	16	4	7	3	19	19	12
-CTG	2	3	6	2	1	0	1	1	1	5	7	6
-CCT	4	4	9	3	1	4	4	3	1	3	5	7
-CCC	13	7	12	4	4	6	4	4	1	10	14	9
-CCA	5	8	7	6	2	7	3	1	0	9	11	6
-CCG	1	0	0	0	0	1	0	1	0	1	0	1
-CAT	0	1	8	2	0	1	9	0	1	3	2	4
-CAC	2	3	10	5	0	2	5	0	3	6	11	8
-CAA	7	10	5	7	1	7	6	3	1	11	18	6
-CAG	1	1	2	0	0	1	3	0	0	0	1	1
-CGT	2	0	3	3	1	2	2	0	0	2	1	2
-CGC	1	1	0	3	0	2	1	0	2	3	2	2
-CGA	5	2	5	0	0	1	1	2	0	5	5	4
-CGG	0	0	0	0	0	0	1	0	0	1	0	0
-ATT	20	24	20	15	2	15	11	6	1	24	45	16
-ATC	19	9	14	8	1	9	9	4	1	22	30	16
-ATA	10	10	22	7	0	3	4	2	7	13	15	7
-ATG	1	1	3	4	1	4	4	1	2	5	4	1
-ACT	5	6	15	9	1	3	5	0	3	13	12	7
-ACC	9	12	17	5	2	11	10	1	2	10	18	10
-ACA	8	11	10	3	0	9	8	2	2	16	11	5
-ACG	1	1	1	1	0	0	0	0	0	1	0	1
-AAT	4	6	7	1	2	2	4	0	0	6	15	10
-AAC	9	9	8	7	1	6	2	0	3	6	15	12
-AAA	5	11	7	4	3	3	2	1	1	12	19	8
-AAG	2	1	1	1	0	0	0	0	0	1	3	0
-AGT	1	2	1	0	0	0	0	0	0	4	2	0
-AGC	0	3	4	5	1	4	3	1	0	3	7	0
-GTT	5	0	16	7	1	2	3	1	0	5	4	4
-GTC	4	3	12	2	0	4	8	1	0	3	10	8
-GTA	2	3	9	2	0	1	3	0	0	3	8	4
-GTG	0	0	3	1	0	0	0	1	1	0	2	2
-GCT	9	6	11	4	0	9	6	3	2	5	12	5
-GCC	10	13	19	5	0	6	8	5	5	21	25	20
-GCA	8	6	14	7	1	2	6	3	0	9	10	8
-GCG	0	0	0	1	0	0	0	0	0	0	0	0
-GAT	1	0	5	6	2	0	2	0	1	1	4	4
-GAC	2	0	10	6	2	0	2	3	0	3	8	6
-GAA	9	5	8	11	0	4	8	5	2	10	9	3
-GAG	2	1	1	0	0	0	1	1	1	2	0	1
-GGT	1	2	3	0	0	1	1	0	2	4	2	3
-GGC	8	5	21	4	0	5	11	3	4	7	9	14
-GGA	4	5	15	3	0	3	4	1	2	6	10	9
-GGG	2	2	6	2	0	1	4	1	0	2	6	0
-TAA	0	0	0	0	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009251190.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	16	11	15	5	7	7	6	1	3	6	0	2	8	0	15	9	10	2	4	13	5	1	0	2	7	1	2	1	5	0	20	19	10	1	5	9	8	1	4	9	5	2	1	0	5	4	2	0	9	10	8	0	1	2	9	2	1	8	4	2	0	0	0	0
+1	ND2	YP_009251191.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	12	8	17	2	5	14	10	1	2	4	0	2	9	2	18	24	17	3	4	7	8	0	1	3	10	1	0	1	2	0	24	9	10	1	6	12	11	1	6	9	11	1	2	3	0	3	3	0	6	13	6	0	0	0	5	1	2	5	5	2	0	0	0	0
+2	COX1	YP_009251192.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	26	16	15	6	4	11	12	1	5	13	0	0	15	2	18	11	9	6	9	12	7	0	8	10	5	2	3	0	5	0	20	14	22	3	15	17	10	1	7	8	7	1	1	4	16	12	9	3	11	19	14	0	5	10	8	1	3	21	15	6	0	0	0	1
+3	COX2	YP_009251193.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	5	4	6	0	3	5	6	0	1	7	1	1	3	2	7	3	9	2	3	4	6	0	2	5	7	0	3	3	0	0	15	8	7	4	9	5	3	1	1	7	4	1	0	5	7	2	2	1	4	5	7	1	6	6	11	0	0	4	3	2	0	0	0	0
+4	ATP8	YP_009251194.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	3	3	2	0	5	2	2	0	0	0	0	0	5	0	2	0	0	1	1	4	2	0	0	0	1	0	1	0	0	0	2	1	0	1	1	2	0	0	2	1	3	0	0	1	1	0	0	0	0	0	1	0	2	2	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009251195.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	11	4	12	3	9	3	1	0	1	3	0	0	4	1	13	5	16	0	4	6	7	1	1	2	7	1	2	2	1	0	15	9	3	4	3	11	9	0	2	6	3	0	0	4	2	4	1	0	9	6	2	0	0	0	4	0	1	5	3	1	1	0	0	0
+6	COX3	YP_009251196.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	14	15	9	0	5	2	5	0	3	6	0	2	12	1	9	5	4	1	4	4	3	0	9	5	6	3	2	1	1	1	11	9	4	4	5	10	8	0	4	2	2	0	0	3	3	8	3	0	6	8	6	0	2	2	8	1	1	11	4	4	0	0	0	0
+7	ND3	YP_009251197.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	5	7	3	0	2	1	4	0	2	1	1	0	4	1	9	5	7	1	3	4	1	1	0	0	3	0	0	0	2	0	6	4	2	1	0	1	2	0	0	0	1	0	0	1	1	1	0	1	3	5	3	0	0	3	5	1	0	3	1	1	0	0	0	0
+8	ND4L	YP_009251198.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	2	2	9	0	4	3	6	0	0	1	2	1	2	0	6	7	3	1	1	1	0	0	1	3	1	0	0	2	0	0	1	1	7	2	3	2	2	0	0	3	1	0	0	0	0	0	0	1	2	5	0	0	1	0	2	1	2	4	2	0	1	0	0	0
+9	ND4	YP_009251199.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	19	11	23	1	9	18	12	0	5	7	1	3	9	4	24	13	19	5	3	10	9	1	3	6	11	0	2	3	5	1	24	22	13	5	13	10	16	1	6	6	12	1	4	3	5	3	3	0	5	21	9	0	1	3	10	2	4	7	6	2	0	0	0	0
+10	ND5	YP_009251200.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	25	17	24	2	17	17	17	0	6	11	1	4	8	3	21	15	19	7	5	14	11	0	2	11	18	1	1	2	5	0	45	30	15	4	12	18	11	0	15	15	19	3	2	7	4	10	8	2	12	25	10	0	4	8	9	0	2	9	10	6	0	0	0	1
+11	CYTB	YP_009251202.1	Anomaloglossus baeobatrachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Dendrobatidae, Aromobatinae, Anomaloglossus	16	21	6	2	8	13	5	0	4	8	2	1	11	0	16	16	12	6	7	9	6	1	4	8	6	1	2	2	4	0	16	16	7	1	7	10	5	1	10	12	8	0	0	0	4	8	4	2	5	20	8	0	4	6	3	1	3	14	9	0	0	0	0	0

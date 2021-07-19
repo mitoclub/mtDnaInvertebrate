@@ -1,65 +1,13 @@
-	YP_003331263.1|ND1	YP_003331264.1|ND2	YP_003331265.1|COX1	YP_003331266.2|COX2	YP_003331267.1|ATP8	YP_003331268.1|ATP6	YP_003331269.2|COX3	YP_003331270.2|ND3	YP_003331271.1|ND4L	YP_003331272.2|ND4	YP_003331273.1|ND5	YP_003331275.1|CYTB
-TTT	5	7	16	4	3	6	6	4	4	6	18	7
-TTC	13	3	25	5	1	7	17	4	2	11	23	21
-TTA	7	8	7	2	1	5	5	4	2	8	8	4
-TTG	0	0	1	0	1	2	0	0	1	0	1	0
-TCT	1	1	3	2	1	0	2	1	1	2	5	4
-TCC	14	9	14	6	0	3	2	4	1	14	13	12
-TCA	4	4	11	6	0	1	7	1	4	7	9	5
-TCG	0	0	1	0	0	0	1	0	1	0	0	0
-TAT	7	4	5	4	0	1	0	0	0	5	4	5
-TAC	6	3	13	5	0	4	11	2	0	9	7	12
-TGT	0	0	0	0	0	0	0	0	2	0	1	0
-TGC	0	2	1	2	0	0	3	1	1	5	5	3
-TGA	5	10	10	5	5	5	10	5	1	17	9	7
-TGG	3	1	7	0	0	0	2	0	0	3	5	7
-CTT	8	4	10	7	0	12	3	6	1	18	21	8
-CTC	25	19	21	11	1	9	8	5	8	26	25	20
-CTA	17	29	14	5	2	17	14	11	8	29	31	22
-CTG	7	6	13	3	1	6	5	2	4	9	8	5
-CCT	2	3	4	1	1	0	2	1	0	2	4	4
-CCC	12	13	12	5	6	12	7	5	2	14	17	7
-CCA	9	4	7	5	1	4	4	2	0	8	8	7
-CCG	1	2	5	3	1	1	0	0	0	3	1	3
-CAT	1	2	1	4	0	0	1	0	0	2	3	2
-CAC	3	6	18	6	2	3	15	0	5	9	11	9
-CAA	6	12	7	8	1	7	6	3	3	11	19	6
-CAG	1	1	1	0	0	2	2	0	0	1	1	1
-CGT	0	0	1	0	0	0	0	1	0	1	1	0
-CGC	2	3	2	3	0	3	0	0	2	4	1	0
-CGA	5	3	4	3	0	2	5	1	1	6	8	7
-CGG	1	0	1	0	0	1	0	0	0	0	1	1
-ATT	5	7	20	8	1	4	8	5	2	10	15	10
-ATC	16	12	14	13	2	11	4	3	0	24	33	17
-ATA	7	12	15	6	0	4	3	2	4	17	19	8
-ATG	2	4	10	6	1	6	4	1	1	11	9	2
-ACT	2	7	3	3	1	3	3	2	0	4	5	4
-ACC	8	22	12	4	3	11	8	5	3	18	42	14
-ACA	8	13	17	5	1	8	10	3	4	18	17	8
-ACG	0	0	2	0	0	1	0	0	0	2	0	0
-AAT	5	3	6	1	1	1	0	1	0	1	2	2
-AAC	6	11	9	4	2	8	2	1	1	7	26	13
-AAA	7	7	7	3	3	1	2	1	0	8	16	7
-AAG	0	2	1	1	0	0	0	0	0	2	3	2
-AGT	0	2	1	1	0	0	0	0	0	3	1	1
-AGC	3	7	4	2	1	4	3	0	4	7	13	2
-GTT	2	1	7	1	0	6	6	1	1	3	9	3
-GTC	8	3	16	6	0	2	6	1	0	8	9	15
-GTA	7	6	15	8	3	7	6	2	0	5	9	7
-GTG	3	0	6	1	0	2	1	0	0	2	2	2
-GCT	2	8	4	1	1	1	2	0	1	4	1	1
-GCC	23	22	29	8	2	12	12	6	5	22	39	16
-GCA	9	11	11	5	1	5	6	3	7	9	14	13
-GCG	3	1	1	2	0	1	0	0	1	0	2	1
-GAT	1	0	3	2	0	0	1	1	0	2	2	1
-GAC	3	6	11	11	0	1	4	3	1	3	11	10
-GAA	8	5	8	14	3	4	8	3	2	11	9	6
-GAG	3	0	3	1	0	0	2	3	1	0	3	1
-GGT	2	1	5	0	0	2	3	1	0	2	4	2
-GGC	7	8	20	3	1	3	7	2	1	9	13	7
-GGA	4	4	11	2	0	2	10	2	3	9	8	10
-GGG	5	7	10	3	0	4	2	1	2	9	8	6
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003331263.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	5	13	7	0	1	14	4	0	7	6	0	0	5	3	8	25	17	7	2	12	9	1	1	3	6	1	0	2	5	1	5	16	7	2	2	8	8	0	5	6	7	0	0	3	2	8	7	3	2	23	9	3	1	3	8	3	2	7	4	5	1	0	0	0
+1	ND2	YP_003331264.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	7	3	8	0	1	9	4	0	4	3	0	2	10	1	4	19	29	6	3	13	4	2	2	6	12	1	0	3	3	0	7	12	12	4	7	22	13	0	3	11	7	2	2	7	1	3	6	0	8	22	11	1	0	6	5	0	1	8	4	7	0	1	0	0
+2	COX1	YP_003331265.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	16	25	7	1	3	14	11	1	5	13	0	1	10	7	10	21	14	13	4	12	7	5	1	18	7	1	1	2	4	1	20	14	15	10	3	12	17	2	6	9	7	1	1	4	7	16	15	6	4	29	11	1	3	11	8	3	5	20	11	10	1	0	0	0
+3	COX2	YP_003331266.2	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	4	5	2	0	2	6	6	0	4	5	0	2	5	0	7	11	5	3	1	5	5	3	4	6	8	0	0	3	3	0	8	13	6	6	3	4	5	0	1	4	3	1	1	2	1	6	8	1	1	8	5	2	2	11	14	1	0	3	2	3	0	0	0	0
+4	ATP8	YP_003331267.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	3	1	1	1	1	0	0	0	0	0	0	0	5	0	0	1	2	1	1	6	1	1	0	2	1	0	0	0	0	0	1	2	0	1	1	3	1	0	1	2	3	0	0	1	0	0	3	0	1	2	1	0	0	0	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_003331268.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	6	7	5	2	0	3	1	0	1	4	0	0	5	0	12	9	17	6	0	12	4	1	0	3	7	2	0	3	2	1	4	11	4	6	3	11	8	1	1	8	1	0	0	4	6	2	7	2	1	12	5	1	0	1	4	0	2	3	2	4	1	0	0	0
+6	COX3	YP_003331269.2	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	6	17	5	0	2	2	7	1	0	11	0	3	10	2	3	8	14	5	2	7	4	0	1	15	6	2	0	0	5	0	8	4	3	4	3	8	10	0	0	2	2	0	0	3	6	6	6	1	2	12	6	0	1	4	8	2	3	7	10	2	0	0	0	0
+7	ND3	YP_003331270.2	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	4	4	4	0	1	4	1	0	0	2	0	1	5	0	6	5	11	2	1	5	2	0	0	0	3	0	1	0	1	0	5	3	2	1	2	5	3	0	1	1	1	0	0	0	1	1	2	0	0	6	3	0	1	3	3	3	1	2	2	1	0	0	0	0
+8	ND4L	YP_003331271.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	4	2	2	1	1	1	4	1	0	0	2	1	1	0	1	8	8	4	0	2	0	0	0	5	3	0	0	2	1	0	2	0	4	1	0	3	4	0	0	1	0	0	0	4	1	0	0	0	1	5	7	1	0	1	2	1	0	1	3	2	1	0	0	0
+9	ND4	YP_003331272.2	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	6	11	8	0	2	14	7	0	5	9	0	5	17	3	18	26	29	9	2	14	8	3	2	9	11	1	1	4	6	0	10	24	17	11	4	18	18	2	1	7	8	2	3	7	3	8	5	2	4	22	9	0	2	3	11	0	2	9	9	9	0	0	0	0
+10	ND5	YP_003331273.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	18	23	8	1	5	13	9	0	4	7	1	5	9	5	21	25	31	8	4	17	8	1	3	11	19	1	1	1	8	1	15	33	19	9	5	42	17	0	2	26	16	3	1	13	9	9	9	2	1	39	14	2	2	11	9	3	4	13	8	8	1	0	0	0
+11	CYTB	YP_003331275.1	Bathytroctes breviceps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Bathytroctes	7	21	4	0	4	12	5	0	5	12	0	3	7	7	8	20	22	5	4	7	7	3	2	9	6	1	0	0	7	1	10	17	8	2	4	14	8	0	2	13	7	2	1	2	3	15	7	2	1	16	13	1	1	10	6	1	2	7	10	6	0	0	0	0

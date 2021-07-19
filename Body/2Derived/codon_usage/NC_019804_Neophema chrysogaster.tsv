@@ -1,65 +1,13 @@
-	YP_007183113.1|COX1	YP_007183114.1|COX2	YP_007183115.1|ATP8	YP_007183116.1|ATP6	YP_007183117.1|COX3	YP_007183118.1|ND3	YP_007183119.1|ND4L	YP_007183120.1|ND4	YP_007183121.1|ND5	YP_007183122.1|CYTB	YP_007183124.1|ND1	YP_007183125.1|ND2
-TTT	7	0	0	1	6	2	1	2	4	4	2	2
-TTC	33	9	3	7	16	5	3	11	25	25	16	9
-TTA	6	4	0	4	3	0	1	6	6	4	4	5
-TTG	1	0	0	1	0	1	0	2	1	0	0	0
-TCT	2	3	2	2	0	0	2	3	3	1	3	1
-TCC	13	6	1	3	5	4	5	14	17	15	11	14
-TCA	10	7	2	5	5	3	2	12	13	6	10	12
-TCG	0	0	0	0	0	0	0	1	1	3	0	1
-TAT	5	3	0	0	2	2	1	3	1	1	3	1
-TAC	13	4	0	4	8	0	2	9	13	13	11	6
-TGT	0	1	0	0	0	0	1	2	1	0	0	0
-TGC	1	2	0	0	1	1	2	2	4	4	0	1
-TGA	15	3	5	3	11	2	1	10	8	7	9	9
-TGG	2	2	0	1	1	2	0	2	3	4	0	1
-CTT	6	2	0	2	3	4	2	7	6	5	3	5
-CTC	16	13	0	17	9	8	5	34	30	22	23	22
-CTA	31	13	4	28	18	17	13	45	58	32	31	35
-CTG	4	0	0	5	3	1	0	5	10	2	4	1
-CCT	2	4	0	1	1	1	0	3	2	1	3	4
-CCC	13	2	6	8	7	4	1	17	16	9	13	9
-CCA	14	7	3	10	7	2	3	14	12	15	12	11
-CCG	1	0	0	0	0	0	0	0	1	0	0	0
-CAT	2	0	0	0	1	0	1	3	1	2	0	0
-CAC	17	9	1	3	14	1	3	17	14	9	3	7
-CAA	8	6	2	6	8	2	3	12	15	6	4	8
-CAG	1	1	0	2	2	0	0	1	3	2	1	1
-CGT	0	0	0	0	0	0	0	0	0	0	0	0
-CGC	2	3	0	3	0	1	0	5	4	3	1	0
-CGA	5	2	0	2	4	1	2	5	4	5	7	3
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	6	2	0	4	7	2	2	7	12	6	3	5
-ATC	36	18	5	16	9	6	1	30	37	24	19	26
-ATA	19	9	2	8	6	4	5	23	25	7	12	10
-ATG	5	1	1	2	1	0	1	2	2	1	3	4
-ACT	5	1	1	3	2	0	0	6	7	3	0	7
-ACC	21	8	3	16	11	11	3	20	36	20	16	23
-ACA	16	6	5	8	12	1	4	25	27	5	12	24
-ACG	0	1	0	1	0	0	2	1	2	1	0	2
-AAT	3	0	1	0	1	0	0	0	2	7	1	2
-AAC	13	4	4	10	2	4	3	14	25	15	10	10
-AAA	6	4	2	2	3	1	0	9	20	7	6	13
-AAG	4	0	1	1	1	0	0	1	3	2	1	2
-AGT	0	0	0	1	1	0	0	1	2	1	0	0
-AGC	3	3	0	2	4	1	4	9	9	2	6	5
-GTT	3	6	0	1	2	0	0	3	2	1	1	0
-GTC	10	5	1	2	3	0	0	2	3	7	4	3
-GTA	19	2	0	4	6	1	1	2	6	6	5	1
-GTG	0	0	0	1	1	0	0	0	1	1	1	0
-GCT	6	1	0	2	1	1	0	3	7	1	2	1
-GCC	28	10	0	8	10	2	7	17	29	16	10	15
-GCA	10	4	0	4	11	4	3	13	19	9	11	7
-GCG	0	0	0	0	0	0	0	0	0	1	1	0
-GAT	0	4	0	0	1	0	1	0	1	0	0	1
-GAC	14	9	0	1	4	2	0	3	6	6	5	0
-GAA	8	12	0	3	8	6	3	7	13	4	8	5
-GAG	2	3	0	1	0	1	0	2	2	3	3	0
-GGT	2	1	0	1	1	0	0	1	2	1	0	1
-GGC	13	2	0	4	4	2	3	6	7	7	5	5
-GGA	26	4	0	3	12	3	1	9	18	12	6	4
-GGG	6	1	0	0	2	0	0	1	3	3	1	2
-TAA	0	1	1	1	0	0	1	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	0	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	COX1	YP_007183113.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	7	33	6	1	2	13	10	0	5	13	0	1	15	2	6	16	31	4	2	13	14	1	2	17	8	1	0	2	5	1	6	36	19	5	5	21	16	0	3	13	6	4	0	3	3	10	19	0	6	28	10	0	0	14	8	2	2	13	26	6	0	0	0	1
+1	COX2	YP_007183114.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	0	9	4	0	3	6	7	0	3	4	1	2	3	2	2	13	13	0	4	2	7	0	0	9	6	1	0	3	2	0	2	18	9	1	1	8	6	1	0	4	4	0	0	3	6	5	2	0	1	10	4	0	4	9	12	3	1	2	4	1	1	0	0	0
+2	ATP8	YP_007183115.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	0	3	0	0	2	1	2	0	0	0	0	0	5	0	0	0	4	0	0	6	3	0	0	1	2	0	0	0	0	0	0	5	2	1	1	3	5	0	1	4	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3	ATP6	YP_007183116.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	1	7	4	1	2	3	5	0	0	4	0	0	3	1	2	17	28	5	1	8	10	0	0	3	6	2	0	3	2	0	4	16	8	2	3	16	8	1	0	10	2	1	1	2	1	2	4	1	2	8	4	0	0	1	3	1	1	4	3	0	1	0	0	0
+4	COX3	YP_007183117.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	6	16	3	0	0	5	5	0	2	8	0	1	11	1	3	9	18	3	1	7	7	0	1	14	8	2	0	0	4	0	7	9	6	1	2	11	12	0	1	2	3	1	1	4	2	3	6	1	1	10	11	0	1	4	8	0	1	4	12	2	0	0	0	0
+5	ND3	YP_007183118.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	2	5	0	1	0	4	3	0	2	0	0	1	2	2	4	8	17	1	1	4	2	0	0	1	2	0	0	1	1	0	2	6	4	0	0	11	1	0	0	4	1	0	0	1	0	0	1	0	1	2	4	0	0	2	6	1	0	2	3	0	0	0	0	0
+6	ND4L	YP_007183119.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	1	3	1	0	2	5	2	0	1	2	1	2	1	0	2	5	13	0	0	1	3	0	1	3	3	0	0	0	2	0	2	1	5	1	0	3	4	2	0	3	0	0	0	4	0	0	1	0	0	7	3	0	1	0	3	0	0	3	1	0	1	0	0	0
+7	ND4	YP_007183120.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	2	11	6	2	3	14	12	1	3	9	2	2	10	2	7	34	45	5	3	17	14	0	3	17	12	1	0	5	5	0	7	30	23	2	6	20	25	1	0	14	9	1	1	9	3	2	2	0	3	17	13	0	0	3	7	2	1	6	9	1	0	0	0	0
+8	ND5	YP_007183121.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	4	25	6	1	3	17	13	1	1	13	1	4	8	3	6	30	58	10	2	16	12	1	1	14	15	3	0	4	4	0	12	37	25	2	7	36	27	2	2	25	20	3	2	9	2	3	6	1	7	29	19	0	1	6	13	2	2	7	18	3	1	0	0	0
+9	CYTB	YP_007183122.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	4	25	4	0	1	15	6	3	1	13	0	4	7	4	5	22	32	2	1	9	15	0	2	9	6	2	0	3	5	0	6	24	7	1	3	20	5	1	7	15	7	2	1	2	1	7	6	1	1	16	9	1	0	6	4	3	1	7	12	3	0	0	0	0
+10	ND1	YP_007183124.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	2	16	4	0	3	11	10	0	3	11	0	0	9	0	3	23	31	4	3	13	12	0	0	3	4	1	0	1	7	0	3	19	12	3	0	16	12	0	1	10	6	1	0	6	1	4	5	1	2	10	11	1	0	5	8	3	0	5	6	1	0	0	0	1
+11	ND2	YP_007183125.1	Neophema chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Neophema	2	9	5	0	1	14	12	1	1	6	0	1	9	1	5	22	35	1	4	9	11	0	0	7	8	1	0	0	3	0	5	26	10	4	7	23	24	2	2	10	13	2	0	5	0	3	1	0	1	15	7	0	1	0	5	0	1	5	4	2	0	0	0	0

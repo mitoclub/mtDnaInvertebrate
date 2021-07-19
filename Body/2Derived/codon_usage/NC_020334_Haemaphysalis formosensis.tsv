@@ -1,65 +1,10 @@
-	YP_007475028.1|ND2	YP_007475029.1|COX1	YP_007475030.1|COX2	YP_007475031.1|ATP8	YP_007475032.1|ATP6	YP_007475033.1|COX3	YP_007475034.1|ND3	YP_007475039.1|ND6	YP_007475040.1|CYTB
-TTT	28	35	15	6	20	30	16	9	37
-TTC	2	11	5	0	3	5	4	2	6
-TTA	33	41	8	4	21	20	10	15	35
-TTG	0	2	0	0	3	3	0	0	2
-TCT	10	13	10	0	9	13	2	5	11
-TCC	4	3	0	0	4	1	1	1	3
-TCA	16	16	12	2	9	11	3	6	12
-TCG	1	0	0	0	0	1	0	0	1
-TAT	9	10	4	2	3	6	2	5	13
-TAC	2	3	2	0	1	2	1	3	3
-TGT	1	1	2	0	1	1	1	0	1
-TGC	0	0	0	0	1	0	0	0	0
-TGA	6	14	4	2	5	11	1	0	9
-TGG	0	0	1	0	2	0	1	0	0
-CTT	1	7	2	0	9	4	1	1	5
-CTC	0	1	2	0	1	0	3	0	0
-CTA	1	9	3	0	0	3	1	6	3
-CTG	0	0	0	0	0	0	1	0	0
-CCT	3	8	5	1	4	6	4	2	9
-CCC	1	5	0	0	1	1	0	0	3
-CCA	2	11	5	1	2	2	2	1	5
-CCG	0	2	0	0	1	0	0	0	0
-CAT	2	13	4	0	4	10	1	1	6
-CAC	1	3	2	0	0	0	0	0	3
-CAA	2	7	7	1	1	5	0	2	8
-CAG	0	1	0	0	1	0	0	0	0
-CGT	0	0	0	0	2	1	0	0	0
-CGC	0	0	1	0	0	0	0	0	1
-CGA	1	9	3	0	0	2	1	0	4
-CGG	0	0	0	0	0	0	0	0	0
-ATT	60	58	26	8	30	28	19	20	48
-ATC	5	3	6	0	0	4	1	3	7
-ATA	44	33	18	11	14	10	8	25	17
-ATG	3	2	2	0	4	2	0	5	5
-ACT	3	13	6	1	7	8	0	2	7
-ACC	0	1	0	0	0	1	0	0	4
-ACA	5	18	4	1	3	3	0	2	5
-ACG	0	0	0	2	0	0	0	1	0
-AAT	20	20	11	4	13	10	5	9	17
-AAC	4	5	2	0	0	1	0	2	3
-AAA	21	10	9	6	5	5	5	5	8
-AAG	0	1	0	0	2	1	2	1	2
-AGT	3	2	0	0	3	1	1	1	0
-AGC	1	0	0	0	0	0	0	1	0
-AGA	4	6	5	0	7	4	0	1	2
-AGG	1	0	0	0	0	1	0	0	0
-GTT	1	8	2	0	7	2	1	4	2
-GTC	1	2	0	0	0	0	1	0	0
-GTA	3	12	4	1	3	8	2	3	7
-GTG	0	0	0	0	1	0	0	0	1
-GCT	1	10	1	0	4	3	0	0	8
-GCC	1	5	1	0	0	0	0	0	0
-GCA	1	10	4	0	2	4	0	0	7
-GCG	0	1	0	0	0	0	0	0	0
-GAT	1	9	6	0	0	3	2	1	5
-GAC	0	4	3	0	1	0	1	0	1
-GAA	7	7	10	0	4	7	3	2	4
-GAG	0	1	1	0	0	1	1	0	0
-GGT	0	5	2	0	1	2	1	1	2
-GGC	0	1	1	0	2	0	1	0	0
-GGA	3	27	0	0	0	9	1	1	11
-GGG	0	13	3	0	0	3	1	0	6
-TAA	0	1	1	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007475028.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	28	2	33	0	10	4	16	1	9	2	1	0	6	0	1	0	1	0	3	1	2	0	2	1	2	0	0	0	1	0	60	5	44	3	3	0	5	0	20	4	21	0	3	1	4	1	1	1	3	0	1	1	1	0	1	0	7	0	0	0	3	0	0	0
+1	COX1	YP_007475029.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	35	11	41	2	13	3	16	0	10	3	1	0	14	0	7	1	9	0	8	5	11	2	13	3	7	1	0	0	9	0	58	3	33	2	13	1	18	0	20	5	10	1	2	0	6	0	8	2	12	0	10	5	10	1	9	4	7	1	5	1	27	13	1	0
+2	COX2	YP_007475030.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	15	5	8	0	10	0	12	0	4	2	2	0	4	1	2	2	3	0	5	0	5	0	4	2	7	0	0	1	3	0	26	6	18	2	6	0	4	0	11	2	9	0	0	0	5	0	2	0	4	0	1	1	4	0	6	3	10	1	2	1	0	3	1	0
+3	ATP8	YP_007475031.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	6	0	4	0	0	0	2	0	2	0	0	0	2	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	8	0	11	0	1	0	1	2	4	0	6	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_007475032.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	20	3	21	3	9	4	9	0	3	1	1	1	5	2	9	1	0	0	4	1	2	1	4	0	1	1	2	0	0	0	30	0	14	4	7	0	3	0	13	0	5	2	3	0	7	0	7	0	3	1	4	0	2	0	0	1	4	0	1	2	0	0	1	0
+5	COX3	YP_007475033.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	30	5	20	3	13	1	11	1	6	2	1	0	11	0	4	0	3	0	6	1	2	0	10	0	5	0	1	0	2	0	28	4	10	2	8	1	3	0	10	1	5	1	1	0	4	1	2	0	8	0	3	0	4	0	3	0	7	1	2	0	9	3	0	0
+6	ND3	YP_007475034.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	16	4	10	0	2	1	3	0	2	1	1	0	1	1	1	3	1	1	4	0	2	0	1	0	0	0	0	0	1	0	19	1	8	0	0	0	0	0	5	0	5	2	1	0	0	0	1	1	2	0	0	0	0	0	2	1	3	1	1	1	1	1	0	0
+7	ND6	YP_007475039.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	9	2	15	0	5	1	6	0	5	3	0	0	0	0	1	0	6	0	2	0	1	0	1	0	2	0	0	0	0	0	20	3	25	5	2	0	2	1	9	2	5	1	1	1	1	0	4	0	3	0	0	0	0	0	1	0	2	0	1	0	1	0	1	0
+8	CYTB	YP_007475040.1	Haemaphysalis formosensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	37	6	35	2	11	3	12	1	13	3	1	0	9	0	5	0	3	0	9	3	5	0	6	3	8	0	0	1	4	0	48	7	17	5	7	4	5	0	17	3	8	2	0	0	2	0	2	0	7	1	8	0	7	0	5	1	4	0	2	0	11	6	0	0

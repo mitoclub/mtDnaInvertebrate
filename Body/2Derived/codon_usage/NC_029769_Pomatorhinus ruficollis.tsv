@@ -1,65 +1,13 @@
-	YP_009241237.1|ND1	YP_009241238.1|ND2	YP_009241239.1|COX1	YP_009241240.1|COX2	YP_009241241.1|ATP8	YP_009241242.1|ATP6	YP_009241243.1|COX3	YP_009241244.1|ND3	YP_009241245.1|ND4L	YP_009241246.1|ND4	YP_009241247.1|ND5	YP_009241248.1|CYTB
-TTT	2	3	5	2	3	3	6	0	1	2	7	5
-TTC	18	11	38	7	1	9	16	8	5	11	25	23
-TTA	2	3	2	1	0	3	0	2	2	3	8	5
-TTG	1	1	0	0	0	1	0	0	1	0	0	2
-TCT	1	6	3	1	0	0	1	2	2	2	3	3
-TCC	10	12	11	6	1	7	3	2	5	17	23	10
-TCA	6	6	11	7	2	5	5	2	2	6	12	8
-TCG	1	0	0	0	0	1	0	0	0	2	1	0
-TAT	2	0	2	0	0	0	3	1	0	2	0	0
-TAC	12	8	15	7	1	3	10	1	1	11	14	12
-TGT	1	0	0	1	0	0	0	0	1	0	1	1
-TGC	2	2	1	2	0	0	1	1	2	3	6	3
-TGA	6	9	15	5	5	4	12	5	1	12	12	10
-TGG	2	1	2	0	0	0	0	0	0	0	0	1
-CTT	5	11	7	3	1	6	2	1	2	9	8	7
-CTC	17	18	7	7	1	14	15	11	8	26	31	14
-CTA	38	29	37	14	5	35	11	12	8	54	51	30
-CTG	3	4	8	5	0	1	4	1	1	5	10	6
-CCT	3	6	8	1	3	0	4	0	0	2	5	5
-CCC	9	12	7	2	1	8	6	3	1	14	12	5
-CCA	13	4	15	9	7	7	4	4	2	14	13	14
-CCG	0	0	0	0	0	1	0	0	0	1	1	1
-CAT	1	1	3	4	0	1	2	0	1	4	0	3
-CAC	1	8	16	4	0	2	13	0	5	12	14	9
-CAA	5	10	8	9	2	8	6	4	3	11	16	7
-CAG	1	0	1	0	0	0	1	0	0	2	2	0
-CGT	3	1	2	0	0	0	0	0	0	0	0	1
-CGC	1	2	1	1	0	1	4	0	2	2	1	3
-CGA	4	1	5	5	0	4	2	2	0	9	6	4
-CGG	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	4	2	10	3	1	6	5	1	0	7	11	4
-ATC	19	26	31	12	3	11	10	7	4	34	45	32
-ATA	10	14	17	5	0	7	6	3	5	23	22	6
-ATG	4	2	7	6	2	1	1	1	1	3	4	1
-ACT	3	5	9	1	0	2	2	2	1	6	7	4
-ACC	8	28	14	6	5	12	13	6	4	15	34	9
-ACA	7	17	13	9	1	7	10	2	4	16	25	10
-ACG	2	1	1	1	0	0	0	0	0	0	0	3
-AAT	2	1	4	1	0	3	0	0	0	3	4	4
-AAC	10	7	11	4	4	7	4	2	2	12	19	16
-AAA	6	11	9	3	2	3	4	1	0	8	20	9
-AAG	0	3	0	1	0	0	0	0	0	3	2	1
-AGT	0	1	0	0	0	1	1	0	0	1	0	0
-AGC	5	5	4	6	1	4	4	1	3	8	11	2
-GTT	1	1	4	4	0	1	4	0	1	3	1	1
-GTC	5	4	8	5	0	3	1	1	0	8	5	11
-GTA	4	1	20	6	1	4	10	2	0	4	8	6
-GTG	2	0	6	1	1	1	1	0	0	0	3	2
-GCT	1	3	7	8	0	2	2	1	2	4	9	6
-GCC	13	15	19	7	0	10	14	7	7	21	26	14
-GCA	17	14	17	4	0	4	7	2	0	13	13	7
-GCG	1	0	3	1	1	0	0	1	1	1	0	0
-GAT	0	0	3	3	0	1	2	0	1	0	1	1
-GAC	4	1	12	10	0	1	2	3	0	2	8	9
-GAA	13	4	8	8	0	3	8	6	2	8	11	6
-GAG	0	0	2	2	0	1	0	0	0	2	0	0
-GGT	1	1	6	1	0	1	3	2	1	1	3	4
-GGC	4	4	15	1	0	3	7	2	1	11	16	9
-GGA	8	5	25	5	0	3	6	1	1	5	14	8
-GGG	1	1	1	0	0	1	3	0	1	1	0	3
-TAA	0	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009241237.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	2	18	2	1	1	10	6	1	2	12	1	2	6	2	5	17	38	3	3	9	13	0	1	1	5	1	3	1	4	0	4	19	10	4	3	8	7	2	2	10	6	0	0	5	1	5	4	2	1	13	17	1	0	4	13	0	1	4	8	1	0	0	1	0
+1	ND2	YP_009241238.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	3	11	3	1	6	12	6	0	0	8	0	2	9	1	11	18	29	4	6	12	4	0	1	8	10	0	1	2	1	0	2	26	14	2	5	28	17	1	1	7	11	3	1	5	1	4	1	0	3	15	14	0	0	1	4	0	1	4	5	1	0	0	0	0
+2	COX1	YP_009241239.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	5	38	2	0	3	11	11	0	2	15	0	1	15	2	7	7	37	8	8	7	15	0	3	16	8	1	2	1	5	0	10	31	17	7	9	14	13	1	4	11	9	0	0	4	4	8	20	6	7	19	17	3	3	12	8	2	6	15	25	1	0	0	0	1
+3	COX2	YP_009241240.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	2	7	1	0	1	6	7	0	0	7	1	2	5	0	3	7	14	5	1	2	9	0	4	4	9	0	0	1	5	0	3	12	5	6	1	6	9	1	1	4	3	1	0	6	4	5	6	1	8	7	4	1	3	10	8	2	1	1	5	0	1	0	0	0
+4	ATP8	YP_009241241.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	3	1	0	0	0	1	2	0	0	1	0	0	5	0	1	1	5	0	3	1	7	0	0	0	2	0	0	0	0	0	1	3	0	2	0	5	1	0	0	4	2	0	0	1	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009241242.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	3	9	3	1	0	7	5	1	0	3	0	0	4	0	6	14	35	1	0	8	7	1	1	2	8	0	0	1	4	0	6	11	7	1	2	12	7	0	3	7	3	0	1	4	1	3	4	1	2	10	4	0	1	1	3	1	1	3	3	1	1	0	0	0
+6	COX3	YP_009241243.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	6	16	0	0	1	3	5	0	3	10	0	1	12	0	2	15	11	4	4	6	4	0	2	13	6	1	0	4	2	0	5	10	6	1	2	13	10	0	0	4	4	0	1	4	4	1	10	1	2	14	7	0	2	2	8	0	3	7	6	3	0	0	0	0
+7	ND3	YP_009241244.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	0	8	2	0	2	2	2	0	1	1	0	1	5	0	1	11	12	1	0	3	4	0	0	0	4	0	0	0	2	0	1	7	3	1	2	6	2	0	0	2	1	0	0	1	0	1	2	0	1	7	2	1	0	3	6	0	2	2	1	0	0	0	0	0
+8	ND4L	YP_009241245.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	1	5	2	1	2	5	2	0	0	1	1	2	1	0	2	8	8	1	0	1	2	0	1	5	3	0	0	2	0	0	0	4	5	1	1	4	4	0	0	2	0	0	0	3	1	0	0	0	2	7	0	1	1	0	2	0	1	1	1	1	1	0	0	0
+9	ND4	YP_009241246.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	2	11	3	0	2	17	6	2	2	11	0	3	12	0	9	26	54	5	2	14	14	1	4	12	11	2	0	2	9	0	7	34	23	3	6	15	16	0	3	12	8	3	1	8	3	8	4	0	4	21	13	1	0	2	8	2	1	11	5	1	0	0	0	0
+10	ND5	YP_009241247.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	7	25	8	0	3	23	12	1	0	14	1	6	12	0	8	31	51	10	5	12	13	1	0	14	16	2	0	1	6	1	11	45	22	4	7	34	25	0	4	19	20	2	0	11	1	5	8	3	9	26	13	0	1	8	11	0	3	16	14	0	0	0	1	0
+11	CYTB	YP_009241248.1	Pomatorhinus ruficollis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Timaliidae, Pomatorhinus	5	23	5	2	3	10	8	0	0	12	1	3	10	1	7	14	30	6	5	5	14	1	3	9	7	0	1	3	4	0	4	32	6	1	4	9	10	3	4	16	9	1	0	2	1	11	6	2	6	14	7	0	1	9	6	0	4	9	8	3	1	0	0	0

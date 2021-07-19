@@ -1,65 +1,10 @@
-	YP_009554109.1|COX1	YP_009554110.1|COX2	YP_009554111.1|ATP8	YP_009554112.1|ATP6	YP_009554113.1|COX3	YP_009554114.1|ND3	YP_009554118.1|ND6	YP_009554119.1|CYTB	YP_009554121.1|ND2
-TTT	27	10	4	11	18	7	8	22	15
-TTC	14	5	2	4	6	3	7	13	6
-TTA	15	9	6	15	9	5	12	15	18
-TTG	0	0	0	3	1	0	0	3	1
-TCT	11	5	2	11	7	5	5	5	11
-TCC	6	4	1	3	3	1	1	3	7
-TCA	10	3	0	2	2	1	5	4	16
-TCG	1	2	0	0	1	1	3	1	0
-TAT	4	6	1	4	6	0	2	9	4
-TAC	11	0	0	1	5	1	4	8	4
-TGT	0	1	0	0	0	1	1	2	1
-TGC	0	1	0	0	2	0	2	1	0
-TGA	13	5	3	5	11	2	1	11	6
-TGG	2	1	0	1	2	1	0	0	1
-CTT	10	7	2	9	7	5	4	13	21
-CTC	13	5	0	5	8	3	8	8	9
-CTA	20	10	1	19	9	7	10	15	15
-CTG	0	0	0	1	1	0	1	2	2
-CCT	8	4	2	0	2	1	1	9	4
-CCC	9	1	2	5	5	2	3	8	7
-CCA	7	4	1	7	2	0	3	4	4
-CCG	3	1	0	0	0	1	0	1	1
-CAT	5	3	1	2	6	1	0	8	2
-CAC	13	2	0	5	10	0	1	5	3
-CAA	6	7	2	3	8	1	3	8	10
-CAG	2	1	0	0	1	0	1	0	0
-CGT	1	2	0	0	0	0	0	0	1
-CGC	0	2	0	1	0	0	0	1	0
-CGA	7	3	0	0	4	1	0	3	2
-CGG	2	0	0	2	0	2	1	4	0
-ATT	24	13	3	11	8	12	6	19	24
-ATC	14	7	0	3	5	7	7	11	9
-ATA	34	7	3	7	8	3	13	9	18
-ATG	0	1	0	2	1	0	0	3	2
-ACT	18	3	1	10	10	1	3	6	8
-ACC	5	6	0	4	0	1	4	7	8
-ACA	12	5	1	4	11	6	11	9	4
-ACG	0	0	0	0	0	1	0	1	1
-AAT	10	4	3	8	3	3	4	10	7
-AAC	7	6	1	3	1	2	3	4	5
-AAA	5	4	5	2	2	3	3	7	10
-AAG	1	0	0	1	0	0	0	0	0
-AGT	1	0	0	0	3	0	2	1	0
-AGC	3	1	0	0	0	0	0	1	0
-AGA	6	8	0	8	3	0	3	2	7
-AGG	0	0	0	1	0	1	0	1	3
-GTT	19	4	1	4	2	2	3	7	4
-GTC	6	2	0	4	1	0	1	4	2
-GTA	11	8	0	5	9	2	3	17	4
-GTG	5	0	0	2	4	0	0	1	2
-GCT	14	8	0	6	7	0	3	15	10
-GCC	11	3	1	3	8	5	3	8	8
-GCA	9	4	1	2	4	2	2	7	6
-GCG	2	1	0	0	2	0	1	2	1
-GAT	10	7	0	0	4	1	1	8	0
-GAC	5	4	0	1	1	3	0	4	0
-GAA	6	9	0	4	4	4	3	1	0
-GAG	2	0	1	0	3	1	0	1	2
-GGT	6	1	0	2	3	0	2	0	2
-GGC	9	3	0	5	5	2	0	8	1
-GGA	26	5	0	2	7	2	1	12	9
-GGG	9	1	1	3	7	1	2	4	5
-TAA	0	0	1	1	1	0	1	0	1
-TAG	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009554109.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	27	14	15	0	11	6	10	1	4	11	0	0	13	2	10	13	20	0	8	9	7	3	5	13	6	2	1	0	7	2	24	14	34	0	18	5	12	0	10	7	5	1	1	3	6	0	19	6	11	5	14	11	9	2	10	5	6	2	6	9	26	9	0	0
+1	COX2	YP_009554110.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	10	5	9	0	5	4	3	2	6	0	1	1	5	1	7	5	10	0	4	1	4	1	3	2	7	1	2	2	3	0	13	7	7	1	3	6	5	0	4	6	4	0	0	1	8	0	4	2	8	0	8	3	4	1	7	4	9	0	1	3	5	1	0	0
+2	ATP8	YP_009554111.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	4	2	6	0	2	1	0	0	1	0	0	0	3	0	2	0	1	0	2	2	1	0	1	0	2	0	0	0	0	0	3	0	3	0	1	0	1	0	3	1	5	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0
+3	ATP6	YP_009554112.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	11	4	15	3	11	3	2	0	4	1	0	0	5	1	9	5	19	1	0	5	7	0	2	5	3	0	0	1	0	2	11	3	7	2	10	4	4	0	8	3	2	1	0	0	8	1	4	4	5	2	6	3	2	0	0	1	4	0	2	5	2	3	1	0
+4	COX3	YP_009554113.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	18	6	9	1	7	3	2	1	6	5	0	2	11	2	7	8	9	1	2	5	2	0	6	10	8	1	0	0	4	0	8	5	8	1	10	0	11	0	3	1	2	0	3	0	3	0	2	1	9	4	7	8	4	2	4	1	4	3	3	5	7	7	1	0
+5	ND3	YP_009554114.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	7	3	5	0	5	1	1	1	0	1	1	0	2	1	5	3	7	0	1	2	0	1	1	0	1	0	0	0	1	2	12	7	3	0	1	1	6	1	3	2	3	0	0	0	0	1	2	0	2	0	0	5	2	0	1	3	4	1	0	2	2	1	0	1
+6	ND6	YP_009554118.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	8	7	12	0	5	1	5	3	2	4	1	2	1	0	4	8	10	1	1	3	3	0	0	1	3	1	0	0	0	1	6	7	13	0	3	4	11	0	4	3	3	0	2	0	3	0	3	1	3	0	3	3	2	1	1	0	3	0	2	0	1	2	1	0
+7	CYTB	YP_009554119.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	22	13	15	3	5	3	4	1	9	8	2	1	11	0	13	8	15	2	9	8	4	1	8	5	8	0	0	1	3	4	19	11	9	3	6	7	9	1	10	4	7	0	1	1	2	1	7	4	17	1	15	8	7	2	8	4	1	1	0	8	12	4	0	0
+8	ND2	YP_009554121.1	Bitias brevis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Pandaloidea, Pandalidae, Bitias	15	6	18	1	11	7	16	0	4	4	1	0	6	1	21	9	15	2	4	7	4	1	2	3	10	0	1	0	2	0	24	9	18	2	8	8	4	1	7	5	10	0	0	0	7	3	4	2	4	2	10	8	6	1	0	0	0	2	2	1	9	5	1	0

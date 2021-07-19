@@ -1,65 +1,13 @@
-	YP_008378917.1|ND1	YP_008378918.1|ND2	YP_008378919.1|COX1	YP_008378920.1|COX2	YP_008378921.1|ATP8	YP_008378922.1|ATP6	YP_008378923.1|COX3	YP_008378924.1|ND3	YP_008378925.1|ND4L	YP_008378926.1|ND4	YP_008378927.1|ND5	YP_008378929.1|CYTB
-TTT	6	4	14	3	0	3	9	2	2	5	9	4
-TTC	15	7	27	7	2	5	13	5	1	16	26	17
-TTA	3	6	8	6	2	2	3	5	1	11	8	9
-TTG	0	1	1	0	0	0	0	0	0	0	0	0
-TCT	1	4	7	2	1	5	2	0	0	7	4	3
-TCC	6	12	8	4	0	2	5	3	3	10	14	11
-TCA	12	7	13	4	2	3	10	2	5	9	17	10
-TCG	1	0	0	0	0	0	0	0	0	0	0	0
-TAT	4	2	10	4	2	1	5	1	1	7	13	3
-TAC	9	9	11	5	2	2	9	2	3	7	7	10
-TGT	1	0	0	0	0	0	1	0	1	0	1	2
-TGC	0	0	2	2	0	0	0	1	2	3	3	1
-TGA	8	10	14	3	2	2	12	4	0	12	12	10
-TGG	1	0	2	1	0	0	0	0	0	0	1	2
-CTT	7	6	7	5	0	7	3	0	3	13	17	9
-CTC	17	15	8	1	3	5	9	6	5	20	24	17
-CTA	29	30	35	19	3	29	18	14	10	39	45	29
-CTG	3	3	4	0	1	4	2	1	1	3	1	1
-CCT	4	1	7	1	1	1	2	1	1	6	4	4
-CCC	11	10	17	6	4	6	5	3	2	12	11	5
-CCA	5	8	7	9	2	7	4	2	0	5	15	13
-CCG	0	0	0	0	0	0	0	1	0	1	0	2
-CAT	0	3	3	5	1	2	5	0	1	9	4	3
-CAC	1	6	15	1	2	4	11	0	1	9	7	8
-CAA	6	8	6	7	7	9	8	3	2	10	20	10
-CAG	0	2	1	0	0	1	0	0	0	0	0	0
-CGT	0	0	3	3	0	0	1	1	1	0	2	1
-CGC	1	3	2	0	0	1	1	0	0	3	2	2
-CGA	6	0	4	3	1	2	3	0	0	5	4	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	7	15	24	6	0	13	4	7	4	14	27	14
-ATC	12	23	22	14	3	7	13	5	7	26	25	28
-ATA	16	28	28	9	3	12	9	6	9	32	36	14
-ATG	2	1	4	2	1	2	1	1	2	4	4	3
-ACT	1	8	10	1	2	9	1	3	2	5	18	3
-ACC	15	18	11	10	2	15	11	4	3	19	22	15
-ACA	18	23	13	9	5	8	12	2	2	29	28	13
-ACG	2	2	1	1	1	1	1	0	0	0	1	1
-AAT	6	3	4	3	2	2	0	1	1	5	12	6
-AAC	9	15	17	6	4	11	5	5	5	18	24	12
-AAA	7	8	11	4	4	3	3	4	0	9	20	9
-AAG	0	2	0	0	0	2	0	0	0	3	1	1
-AGT	0	2	1	1	0	0	2	0	0	2	1	1
-AGC	3	1	3	1	0	3	4	1	0	9	10	3
-GTT	5	2	6	3	0	2	4	0	0	2	4	1
-GTC	3	2	11	5	0	1	4	1	0	3	4	5
-GTA	2	1	11	6	0	5	3	0	2	3	5	8
-GTG	0	1	2	0	0	0	1	0	0	0	1	0
-GCT	4	3	8	5	0	4	2	3	0	0	10	0
-GCC	14	8	15	4	0	7	9	3	4	16	22	7
-GCA	9	3	13	5	0	5	3	2	3	10	10	12
-GCG	0	0	0	0	0	0	0	0	1	1	0	0
-GAT	1	0	7	2	0	0	0	2	1	0	3	4
-GAC	2	1	6	7	1	0	3	1	0	3	8	5
-GAA	9	5	10	10	0	3	5	3	1	8	8	2
-GAG	2	0	1	1	0	0	1	2	1	0	1	1
-GGT	1	1	9	2	0	2	0	0	0	3	3	2
-GGC	6	7	17	3	0	2	12	0	2	7	12	13
-GGA	4	6	17	6	0	4	7	2	2	6	9	6
-GGG	1	1	4	0	0	0	0	0	0	0	1	1
-TAA	0	0	1	1	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008378917.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	6	15	3	0	1	6	12	1	4	9	1	0	8	1	7	17	29	3	4	11	5	0	0	1	6	0	0	1	6	0	7	12	16	2	1	15	18	2	6	9	7	0	0	3	5	3	2	0	4	14	9	0	1	2	9	2	1	6	4	1	0	0	0	0
+1	ND2	YP_008378918.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	4	7	6	1	4	12	7	0	2	9	0	0	10	0	6	15	30	3	1	10	8	0	3	6	8	2	0	3	0	0	15	23	28	1	8	18	23	2	3	15	8	2	2	1	2	2	1	1	3	8	3	0	0	1	5	0	1	7	6	1	0	0	0	0
+2	COX1	YP_008378919.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	14	27	8	1	7	8	13	0	10	11	0	2	14	2	7	8	35	4	7	17	7	0	3	15	6	1	3	2	4	0	24	22	28	4	10	11	13	1	4	17	11	0	1	3	6	11	11	2	8	15	13	0	7	6	10	1	9	17	17	4	1	0	0	0
+3	COX2	YP_008378920.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	3	7	6	0	2	4	4	0	4	5	0	2	3	1	5	1	19	0	1	6	9	0	5	1	7	0	3	0	3	0	6	14	9	2	1	10	9	1	3	6	4	0	1	1	3	5	6	0	5	4	5	0	2	7	10	1	2	3	6	0	1	0	0	0
+4	ATP8	YP_008378921.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	0	2	2	0	1	0	2	0	2	2	0	0	2	0	0	3	3	1	1	4	2	0	1	2	7	0	0	0	1	0	0	3	3	1	2	2	5	1	2	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_008378922.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	3	5	2	0	5	2	3	0	1	2	0	0	2	0	7	5	29	4	1	6	7	0	2	4	9	1	0	1	2	0	13	7	12	2	9	15	8	1	2	11	3	2	0	3	2	1	5	0	4	7	5	0	0	0	3	0	2	2	4	0	1	0	0	0
+6	COX3	YP_008378923.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	9	13	3	0	2	5	10	0	5	9	1	0	12	0	3	9	18	2	2	5	4	0	5	11	8	0	1	1	3	0	4	13	9	1	1	11	12	1	0	5	3	0	2	4	4	4	3	1	2	9	3	0	0	3	5	1	0	12	7	0	0	0	0	0
+7	ND3	YP_008378924.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	2	5	5	0	0	3	2	0	1	2	0	1	4	0	0	6	14	1	1	3	2	1	0	0	3	0	1	0	0	0	7	5	6	1	3	4	2	0	1	5	4	0	0	1	0	1	0	0	3	3	2	0	2	1	3	2	0	0	2	0	0	0	0	0
+8	ND4L	YP_008378925.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	2	1	1	0	0	3	5	0	1	3	1	2	0	0	3	5	10	1	1	2	0	0	1	1	2	0	1	0	0	0	4	7	9	2	2	3	2	0	1	5	0	0	0	0	0	0	2	0	0	4	3	1	1	0	1	1	0	2	2	0	1	0	0	0
+9	ND4	YP_008378926.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	5	16	11	0	7	10	9	0	7	7	0	3	12	0	13	20	39	3	6	12	5	1	9	9	10	0	0	3	5	0	14	26	32	4	5	19	29	0	5	18	9	3	2	9	2	3	3	0	0	16	10	1	0	3	8	0	3	7	6	0	0	0	0	0
+10	ND5	YP_008378927.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	9	26	8	0	4	14	17	0	13	7	1	3	12	1	17	24	45	1	4	11	15	0	4	7	20	0	2	2	4	0	27	25	36	4	18	22	28	1	12	24	20	1	1	10	4	4	5	1	10	22	10	0	3	8	8	1	3	12	9	1	1	0	0	0
+11	CYTB	YP_008378929.1	Cercocebus chrysogaster	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Cercopithecinae, Cercocebus	4	17	9	0	3	11	10	0	3	10	2	1	10	2	9	17	29	1	4	5	13	2	3	8	10	0	1	2	4	0	14	28	14	3	3	15	13	1	6	12	9	1	1	3	1	5	8	0	0	7	12	0	4	5	2	1	2	13	6	1	0	0	0	0

@@ -1,65 +1,14 @@
-	YP_009139568.1|ND5	YP_009139569.1|ND1	YP_009139570.1|CYTB	YP_009139571.1|ND4L	YP_009139572.1|ND3	YP_009139573.1|ATP8	YP_009139574.1|COX1	YP_009139575.1|COX3	YP_009139576.1|COX2	YP_009139577.1|ND2	YP_009139578.1|ND4	YP_009139579.1|ND6	YP_009139580.1|ATP6
-TTT	37	18	36	6	16	6	43	24	12	19	39	16	22
-TTC	4	2	3	0	2	2	5	1	1	1	3	2	1
-TTA	45	22	24	7	10	6	32	11	15	23	32	13	20
-TTG	30	15	17	5	3	4	16	6	12	19	24	8	11
-TCT	29	8	13	3	4	2	16	9	9	12	5	6	3
-TCC	6	3	0	1	0	0	1	1	1	5	4	0	2
-TCA	1	1	2	1	0	0	1	3	0	4	7	2	4
-TCG	5	4	4	0	2	0	2	2	3	4	4	1	2
-TAT	23	13	15	5	4	2	22	12	11	13	20	7	6
-TAC	3	2	4	0	0	0	1	1	1	1	0	1	1
-TGT	6	2	4	0	2	0	1	4	2	6	6	1	1
-TGC	1	0	1	0	0	0	0	0	0	0	1	0	0
-TGA	7	3	5	1	2	1	6	3	2	1	5	2	1
-TGG	5	5	7	1	2	2	10	9	4	5	5	4	2
-CTT	12	6	6	4	2	1	7	4	1	11	16	5	3
-CTC	3	2	2	0	1	0	4	1	1	4	1	0	0
-CTA	9	4	7	0	0	0	6	2	3	5	6	1	3
-CTG	2	1	2	0	0	1	2	2	1	4	2	1	1
-CCT	8	6	10	0	2	0	5	4	6	6	7	3	4
-CCC	6	3	2	0	3	1	5	5	1	4	5	1	1
-CCA	2	2	5	0	0	0	11	2	1	0	5	1	0
-CCG	5	4	2	0	1	1	3	0	4	1	3	1	2
-CAT	13	2	9	1	1	0	11	8	4	5	5	3	4
-CAC	2	1	2	0	0	0	5	3	2	0	3	0	1
-CAA	10	2	6	1	1	2	4	7	5	3	10	2	4
-CAG	4	3	2	0	1	0	2	2	2	3	1	1	0
-CGT	2	0	1	0	0	0	1	1	0	0	3	2	1
-CGC	1	0	3	0	1	0	0	0	0	0	0	0	0
-CGA	3	0	3	1	1	0	3	0	1	0	2	2	0
-CGG	1	4	1	0	1	1	1	0	0	2	5	0	0
-ATT	26	15	11	6	7	2	21	10	11	18	27	11	10
-ATC	4	2	7	0	2	0	3	1	6	2	6	2	4
-ATA	12	14	8	7	2	2	17	8	11	11	18	8	11
-ATG	21	10	11	3	1	2	22	4	6	6	14	7	9
-ACT	12	5	6	0	1	6	17	11	2	6	11	2	5
-ACC	8	2	2	0	0	0	4	1	0	4	2	3	0
-ACA	11	3	1	3	0	0	4	2	3	3	4	3	4
-ACG	4	1	4	0	0	0	8	1	2	3	0	0	1
-AAT	11	4	11	2	1	1	15	3	8	8	10	3	5
-AAC	3	3	2	0	1	0	3	1	0	0	1	0	1
-AAA	10	6	3	0	3	2	5	5	4	9	8	2	2
-AAG	5	3	2	0	0	0	2	0	4	3	4	2	1
-AGT	10	9	10	1	1	0	6	5	2	8	5	5	3
-AGC	4	0	1	0	1	0	1	2	0	3	3	0	0
-AGA	3	3	3	3	0	2	5	3	5	4	4	0	2
-AGG	6	2	1	3	0	2	2	1	1	1	0	1	1
-GTT	28	14	17	3	4	4	20	18	9	16	16	4	9
-GTC	10	1	3	2	0	2	2	2	5	3	4	2	4
-GTA	6	11	7	4	4	0	6	1	3	12	7	5	6
-GTG	17	10	13	3	3	1	15	9	4	10	13	7	5
-GCT	19	14	7	3	2	1	14	8	4	17	14	8	7
-GCC	9	9	5	2	2	0	7	2	2	4	6	5	3
-GCA	4	3	2	0	0	1	9	2	4	3	2	3	3
-GCG	8	5	2	4	0	0	8	2	6	5	12	3	5
-GAT	12	4	5	1	1	0	14	4	11	2	5	3	4
-GAC	4	0	3	0	1	1	4	0	5	0	3	2	2
-GAA	2	3	5	3	3	2	7	1	6	2	8	4	4
-GAG	11	8	4	1	5	0	3	7	7	4	10	3	1
-GGT	10	2	8	3	3	1	14	8	5	9	11	1	6
-GGC	7	4	4	1	1	1	6	1	2	2	5	3	5
-GGA	6	5	8	1	1	1	13	5	5	6	12	3	4
-GGG	24	14	12	3	6	3	23	7	3	20	17	12	5
-TAA	1	1	1	1	0	1	0	0	0	1	0	0	1
-TAG	0	0	0	0	1	0	1	1	1	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	YP_009139568.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	37	4	45	30	29	6	1	5	23	3	6	1	7	5	12	3	9	2	8	6	2	5	13	2	10	4	2	1	3	1	26	4	12	21	12	8	11	4	11	3	10	5	10	4	3	6	28	10	6	17	19	9	4	8	12	4	2	11	10	7	6	24	1	0
+1	ND1	YP_009139569.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	18	2	22	15	8	3	1	4	13	2	2	0	3	5	6	2	4	1	6	3	2	4	2	1	2	3	0	0	0	4	15	2	14	10	5	2	3	1	4	3	6	3	9	0	3	2	14	1	11	10	14	9	3	5	4	0	3	8	2	4	5	14	1	0
+2	CYTB	YP_009139570.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	36	3	24	17	13	0	2	4	15	4	4	1	5	7	6	2	7	2	10	2	5	2	9	2	6	2	1	3	3	1	11	7	8	11	6	2	1	4	11	2	3	2	10	1	3	1	17	3	7	13	7	5	2	2	5	3	5	4	8	4	8	12	1	0
+3	ND4L	YP_009139571.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	6	0	7	5	3	1	1	0	5	0	0	0	1	1	4	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	6	0	7	3	0	0	3	0	2	0	0	0	1	0	3	3	3	2	4	3	3	2	0	4	1	0	3	1	3	1	1	3	1	0
+4	ND3	YP_009139572.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	16	2	10	3	4	0	0	2	4	0	2	0	2	2	2	1	0	0	2	3	0	1	1	0	1	1	0	1	1	1	7	2	2	1	1	0	0	0	1	1	3	0	1	1	0	0	4	0	4	3	2	2	0	0	1	1	3	5	3	1	1	6	0	1
+5	ATP8	YP_009139573.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	6	2	6	4	2	0	0	0	2	0	0	0	1	2	1	0	0	1	0	1	0	1	0	0	2	0	0	0	0	1	2	0	2	2	6	0	0	0	1	0	2	0	0	0	2	2	4	2	0	1	1	0	1	0	0	1	2	0	1	1	1	3	1	0
+6	COX1	YP_009139574.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	43	5	32	16	16	1	1	2	22	1	1	0	6	10	7	4	6	2	5	5	11	3	11	5	4	2	1	0	3	1	21	3	17	22	17	4	4	8	15	3	5	2	6	1	5	2	20	2	6	15	14	7	9	8	14	4	7	3	14	6	13	23	0	1
+7	COX3	YP_009139575.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	24	1	11	6	9	1	3	2	12	1	4	0	3	9	4	1	2	2	4	5	2	0	8	3	7	2	1	0	0	0	10	1	8	4	11	1	2	1	3	1	5	0	5	2	3	1	18	2	1	9	8	2	2	2	4	0	1	7	8	1	5	7	0	1
+8	COX2	YP_009139576.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	12	1	15	12	9	1	0	3	11	1	2	0	2	4	1	1	3	1	6	1	1	4	4	2	5	2	0	0	1	0	11	6	11	6	2	0	3	2	8	0	4	4	2	0	5	1	9	5	3	4	4	2	4	6	11	5	6	7	5	2	5	3	0	1
+9	ND2	YP_009139577.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	19	1	23	19	12	5	4	4	13	1	6	0	1	5	11	4	5	4	6	4	0	1	5	0	3	3	0	0	0	2	18	2	11	6	6	4	3	3	8	0	9	3	8	3	4	1	16	3	12	10	17	4	3	5	2	0	2	4	9	2	6	20	1	0
+10	ND4	YP_009139578.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	39	3	32	24	5	4	7	4	20	0	6	1	5	5	16	1	6	2	7	5	5	3	5	3	10	1	3	0	2	5	27	6	18	14	11	2	4	0	10	1	8	4	5	3	4	0	16	4	7	13	14	6	2	12	5	3	8	10	11	5	12	17	0	1
+11	ND6	YP_009139579.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	16	2	13	8	6	0	2	1	7	1	1	0	2	4	5	0	1	1	3	1	1	1	3	0	2	1	2	0	2	0	11	2	8	7	2	3	3	0	3	0	2	2	5	0	0	1	4	2	5	7	8	5	3	3	3	2	4	3	1	3	3	12	0	1
+12	ATP6	YP_009139580.1	Rhodactis indosinensis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Corallimorpharia, Discosomatidae, Rhodactis	22	1	20	11	3	2	4	2	6	1	1	0	1	2	3	0	3	1	4	1	0	2	4	1	4	0	1	0	0	0	10	4	11	9	5	0	4	1	5	1	2	1	3	0	2	1	9	4	6	5	7	3	3	5	4	2	4	1	6	5	4	5	1	0

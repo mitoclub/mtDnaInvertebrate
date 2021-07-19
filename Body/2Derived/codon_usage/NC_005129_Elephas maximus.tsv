@@ -1,65 +1,13 @@
-	YP_626367.1|ND1	YP_626368.1|ND2	YP_626369.1|COX1	YP_626370.1|COX2	YP_626371.1|ATP8	YP_626372.1|ATP6	YP_626373.1|COX3	YP_626374.1|ND3	YP_626375.1|ND4L	YP_626376.1|ND4	YP_626377.1|ND5	YP_626379.1|CYTB
-TTT	12	4	32	4	1	1	11	6	1	8	22	9
-TTC	8	6	10	5	2	8	12	2	3	8	17	17
-TTA	9	11	12	11	1	9	7	4	6	18	16	7
-TTG	0	1	2	1	0	0	0	0	1	1	1	0
-TCT	3	3	17	2	2	2	5	2	4	5	6	6
-TCC	5	8	5	3	1	1	6	0	1	14	9	5
-TCA	11	12	8	7	1	3	3	3	2	10	17	12
-TCG	0	1	1	0	1	1	0	0	1	1	0	1
-TAT	6	3	10	6	1	2	7	1	0	7	6	4
-TAC	6	8	10	3	1	2	6	3	5	7	10	14
-TGT	2	0	1	1	1	0	0	0	1	2	2	0
-TGC	2	0	0	1	0	0	1	1	2	1	3	3
-TGA	9	10	13	3	3	3	12	4	0	11	11	11
-TGG	0	0	4	2	0	1	0	0	0	1	1	0
-CTT	7	9	12	8	5	9	7	4	3	16	11	7
-CTC	5	4	5	3	0	4	8	4	5	14	15	9
-CTA	28	37	23	13	3	21	14	13	10	42	48	35
-CTG	1	2	3	1	1	3	1	0	0	5	4	3
-CCT	8	4	8	2	2	4	5	1	0	4	4	3
-CCC	3	5	5	3	0	2	1	2	1	6	7	6
-CCA	11	10	14	6	1	5	4	3	1	13	15	12
-CCG	0	0	1	1	2	0	1	0	0	0	2	1
-CAT	1	1	8	4	1	4	7	0	0	6	6	5
-CAC	1	4	10	4	0	2	9	0	1	7	10	8
-CAA	8	8	6	5	0	6	6	3	1	9	19	5
-CAG	0	0	0	1	0	1	1	0	1	1	2	1
-CGT	0	0	1	0	0	1	1	0	0	0	3	0
-CGC	1	0	3	0	1	1	1	1	1	1	2	0
-CGA	6	3	3	5	1	2	3	0	0	6	5	8
-CGG	0	0	1	0	0	1	0	0	0	2	0	0
-ATT	8	14	28	12	5	17	8	3	4	22	30	20
-ATC	16	13	10	6	3	10	7	5	2	20	29	16
-ATA	18	33	31	15	2	9	9	6	7	33	34	16
-ATG	3	6	4	1	2	0	1	1	1	3	5	1
-ACT	7	7	13	7	1	5	9	4	1	13	16	7
-ACC	13	19	4	3	0	9	4	1	3	16	22	11
-ACA	5	22	14	6	1	10	10	6	1	13	29	12
-ACG	1	1	2	0	2	2	0	1	1	2	1	0
-AAT	5	7	9	3	0	4	4	4	5	10	9	3
-AAC	7	13	10	4	1	3	1	1	2	9	24	14
-AAA	7	9	8	3	4	4	2	4	0	11	17	8
-AAG	1	2	1	2	5	0	0	0	0	1	4	2
-AGT	1	2	3	1	0	2	4	1	0	2	7	2
-AGC	2	1	1	4	0	3	2	0	0	8	6	1
-GTT	4	0	13	4	1	4	2	1	2	0	2	1
-GTC	4	2	8	5	1	2	2	0	0	2	1	4
-GTA	8	3	15	4	1	4	10	1	4	7	9	5
-GTG	1	0	1	0	1	3	3	0	0	2	0	1
-GCT	4	2	18	3	0	2	3	5	0	12	12	3
-GCC	14	10	10	3	0	8	5	1	3	8	10	8
-GCA	10	6	14	4	1	6	3	2	4	8	15	8
-GCG	0	0	0	0	0	1	1	0	0	0	0	1
-GAT	1	0	5	8	1	1	2	1	0	2	2	4
-GAC	3	0	9	3	0	0	2	1	1	4	7	7
-GAA	11	6	9	12	2	3	6	4	2	5	10	5
-GAG	0	0	1	1	0	2	3	1	0	2	1	1
-GGT	1	2	12	1	0	5	4	1	1	2	2	2
-GGC	5	2	8	2	0	1	6	3	1	2	13	8
-GGA	4	10	18	4	0	3	9	0	2	11	12	14
-GGG	1	1	8	1	0	0	0	0	0	3	0	1
-TAA	0	0	0	1	0	1	0	0	1	0	1	1
-TAG	1	1	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_626367.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	12	8	9	0	3	5	11	0	6	6	2	2	9	0	7	5	28	1	8	3	11	0	1	1	8	0	0	1	6	0	8	16	18	3	7	13	5	1	5	7	7	1	1	2	4	4	8	1	4	14	10	0	1	3	11	0	1	5	4	1	0	1	0	0
+1	ND2	YP_626368.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	4	6	11	1	3	8	12	1	3	8	0	0	10	0	9	4	37	2	4	5	10	0	1	4	8	0	0	0	3	0	14	13	33	6	7	19	22	1	7	13	9	2	2	1	0	2	3	0	2	10	6	0	0	0	6	0	2	2	10	1	0	1	0	0
+2	COX1	YP_626369.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	32	10	12	2	17	5	8	1	10	10	1	0	13	4	12	5	23	3	8	5	14	1	8	10	6	0	1	3	3	1	28	10	31	4	13	4	14	2	9	10	8	1	3	1	13	8	15	1	18	10	14	0	5	9	9	1	12	8	18	8	0	0	1	0
+3	COX2	YP_626370.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	4	5	11	1	2	3	7	0	6	3	1	1	3	2	8	3	13	1	2	3	6	1	4	4	5	1	0	0	5	0	12	6	15	1	7	3	6	0	3	4	3	2	1	4	4	5	4	0	3	3	4	0	8	3	12	1	1	2	4	1	1	0	0	0
+4	ATP8	YP_626371.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	1	2	1	0	2	1	1	1	1	1	1	0	3	0	5	0	3	1	2	0	1	2	1	0	0	0	0	1	1	0	5	3	2	2	1	0	1	2	0	1	4	5	0	0	1	1	1	1	0	0	1	0	1	0	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_626372.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	1	8	9	0	2	1	3	1	2	2	0	0	3	1	9	4	21	3	4	2	5	0	4	2	6	1	1	1	2	1	17	10	9	0	5	9	10	2	4	3	4	0	2	3	4	2	4	3	2	8	6	1	1	0	3	2	5	1	3	0	1	0	0	0
+6	COX3	YP_626373.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	11	12	7	0	5	6	3	0	7	6	0	1	12	0	7	8	14	1	5	1	4	1	7	9	6	1	1	1	3	0	8	7	9	1	9	4	10	0	4	1	2	0	4	2	2	2	10	3	3	5	3	1	2	2	6	3	4	6	9	0	0	0	0	0
+7	ND3	YP_626374.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	6	2	4	0	2	0	3	0	1	3	0	1	4	0	4	4	13	0	1	2	3	0	0	0	3	0	0	1	0	0	3	5	6	1	4	1	6	1	4	1	4	0	1	0	1	0	1	0	5	1	2	0	1	1	4	1	1	3	0	0	0	0	0	0
+8	ND4L	YP_626375.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	1	3	6	1	4	1	2	1	0	5	1	2	0	0	3	5	10	0	0	1	1	0	0	1	1	1	0	1	0	0	4	2	7	1	1	3	1	1	5	2	0	0	0	0	2	0	4	0	0	3	4	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_626376.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	8	8	18	1	5	14	10	1	7	7	2	1	11	1	16	14	42	5	4	6	13	0	6	7	9	1	0	1	6	2	22	20	33	3	13	16	13	2	10	9	11	1	2	8	0	2	7	2	12	8	8	0	2	4	5	2	2	2	11	3	0	0	0	0
+10	ND5	YP_626377.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	22	17	16	1	6	9	17	0	6	10	2	3	11	1	11	15	48	4	4	7	15	2	6	10	19	2	3	2	5	0	30	29	34	5	16	22	29	1	9	24	17	4	7	6	2	1	9	0	12	10	15	0	2	7	10	1	2	13	12	0	1	0	0	0
+11	CYTB	YP_626379.1	Elephas maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Proboscidea, Elephantidae, Elephas	9	17	7	0	6	5	12	1	4	14	0	3	11	0	7	9	35	3	3	6	12	1	5	8	5	1	0	0	8	0	20	16	16	1	7	11	12	0	3	14	8	2	2	1	1	4	5	1	3	8	8	1	4	7	5	1	2	8	14	1	1	0	0	0

@@ -1,65 +1,14 @@
-	YP_009420860.1|COX1	YP_009420861.1|CYTB	YP_009420862.1|ATP8	YP_009420863.1|ND4	YP_009420864.1|ATP6	YP_009420865.1|ND3	YP_009420866.1|ND2	YP_009420867.1|ND4L	YP_009420868.1|ND6	YP_009420869.1|COX2	YP_009420870.1|ND5	YP_009420871.1|ND1	YP_009420872.1|COX3
-TTT	30	24	6	24	22	12	7	7	8	8	35	26	13
-TTC	20	5	0	14	5	3	18	4	6	4	18	10	11
-TTA	18	14	2	23	11	3	15	4	11	4	29	7	8
-TTG	17	7	3	7	5	6	14	5	6	4	17	11	7
-TCT	11	3	0	13	7	1	11	4	2	4	16	9	1
-TCC	3	3	2	6	2	0	2	1	3	2	4	3	5
-TCA	6	6	0	3	4	2	8	0	1	2	6	4	2
-TCG	4	1	0	1	0	1	1	1	3	0	5	0	1
-TAT	12	16	1	6	10	3	7	2	3	6	8	7	8
-TAC	8	7	1	3	4	3	2	0	0	9	13	7	5
-TGT	1	4	0	13	2	0	5	1	4	8	8	2	5
-TGC	0	4	0	6	1	2	2	2	2	0	6	5	1
-TGA	7	7	1	4	6	1	5	0	1	1	4	2	9
-TGG	11	7	2	9	2	1	4	0	0	5	3	3	5
-CTT	11	9	0	14	8	1	13	1	2	4	13	5	7
-CTC	3	2	0	3	3	2	3	1	4	5	3	6	2
-CTA	15	8	0	13	6	4	6	6	2	7	10	5	6
-CTG	3	5	0	7	1	5	9	2	0	6	9	8	5
-CCT	9	8	0	5	4	0	3	0	0	2	4	5	4
-CCC	7	7	0	2	2	1	5	0	3	0	4	0	1
-CCA	8	3	0	5	2	1	0	1	0	5	4	3	2
-CCG	4	6	0	4	2	1	3	0	2	2	2	3	2
-CAT	14	8	0	4	1	1	2	1	0	3	3	1	5
-CAC	6	4	0	5	1	0	2	1	1	2	6	2	4
-CAA	3	4	0	3	1	1	2	0	0	1	5	3	3
-CAG	2	3	0	1	2	1	2	1	0	3	1	1	1
-CGT	5	0	0	1	2	1	0	0	0	2	2	1	4
-CGC	2	2	0	0	2	0	1	0	0	0	2	1	0
-CGA	0	5	0	1	1	2	1	1	0	1	1	3	4
-CGG	5	0	1	0	1	2	1	0	0	1	1	2	2
-ATT	27	19	1	13	17	4	10	5	6	6	9	11	11
-ATC	8	5	0	9	1	5	12	1	2	4	12	4	2
-ATA	18	10	2	21	12	1	7	2	3	4	17	9	9
-ATG	7	7	0	14	2	1	8	4	6	3	14	7	5
-ACT	15	5	1	5	6	1	1	0	2	4	9	1	6
-ACC	4	3	0	4	2	1	2	0	1	0	3	2	1
-ACA	6	5	0	6	4	0	2	1	0	2	9	3	2
-ACG	2	2	0	1	1	0	2	0	2	6	4	2	2
-AAT	13	5	1	5	4	0	4	0	0	3	5	3	3
-AAC	7	6	0	1	1	3	1	0	3	2	3	5	3
-AAA	6	4	1	5	7	0	4	2	2	4	10	2	4
-AAG	3	4	1	4	5	0	3	0	2	3	5	5	5
-AGT	3	3	0	9	3	2	5	1	2	3	6	1	4
-AGC	1	1	0	1	5	0	0	2	2	0	6	2	2
-AGA	8	6	3	13	10	0	13	2	6	1	7	3	2
-AGG	8	5	1	13	4	0	11	1	7	6	14	6	3
-GTT	5	9	2	16	4	0	8	3	3	5	22	9	7
-GTC	10	8	0	8	1	2	6	1	5	1	9	7	7
-GTA	7	7	1	7	6	1	6	2	5	7	10	9	4
-GTG	12	13	2	6	4	3	9	2	6	15	22	10	8
-GCT	15	12	1	7	2	3	2	1	3	4	13	5	10
-GCC	5	0	0	10	0	1	4	1	4	3	6	3	3
-GCA	6	4	0	4	6	2	3	0	1	2	5	7	6
-GCG	7	5	0	8	4	2	7	2	2	4	8	5	2
-GAT	6	9	0	7	3	1	3	0	0	5	4	4	2
-GAC	8	4	0	1	5	2	0	1	3	5	7	1	0
-GAA	3	0	0	2	2	4	3	1	4	4	5	8	3
-GAG	6	6	0	3	2	3	2	3	0	10	11	4	2
-GGT	15	7	0	10	10	1	7	2	3	6	16	3	5
-GGC	8	8	0	5	2	6	2	0	0	4	10	4	9
-GGA	12	4	0	7	3	0	6	2	1	2	15	5	2
-GGG	14	9	1	12	6	5	13	3	5	6	19	7	9
-TAA	0	1	0	0	0	0	0	1	1	0	1	1	1
-TAG	0	0	1	0	1	1	1	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009420860.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	30	20	18	17	11	3	6	4	12	8	1	0	7	11	11	3	15	3	9	7	8	4	14	6	3	2	5	2	0	5	27	8	18	7	15	4	6	2	13	7	6	3	3	1	8	8	5	10	7	12	15	5	6	7	6	8	3	6	15	8	12	14	0	0
+1	CYTB	YP_009420861.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	24	5	14	7	3	3	6	1	16	7	4	4	7	7	9	2	8	5	8	7	3	6	8	4	4	3	0	2	5	0	19	5	10	7	5	3	5	2	5	6	4	4	3	1	6	5	9	8	7	13	12	0	4	5	9	4	0	6	7	8	4	9	1	0
+2	ATP8	YP_009420862.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	6	0	2	3	0	2	0	0	1	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	0	1	0	0	0	1	0	1	1	0	0	3	1	2	0	1	2	1	0	0	0	0	0	0	0	0	0	0	1	0	1
+3	ND4	YP_009420863.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	24	14	23	7	13	6	3	1	6	3	13	6	4	9	14	3	13	7	5	2	5	4	4	5	3	1	1	0	1	0	13	9	21	14	5	4	6	1	5	1	5	4	9	1	13	13	16	8	7	6	7	10	4	8	7	1	2	3	10	5	7	12	0	0
+4	ATP6	YP_009420864.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	22	5	11	5	7	2	4	0	10	4	2	1	6	2	8	3	6	1	4	2	2	2	1	1	1	2	2	2	1	1	17	1	12	2	6	2	4	1	4	1	7	5	3	5	10	4	4	1	6	4	2	0	6	4	3	5	2	2	10	2	3	6	0	1
+5	ND3	YP_009420865.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	12	3	3	6	1	0	2	1	3	3	0	2	1	1	1	2	4	5	0	1	1	1	1	0	1	1	1	0	2	2	4	5	1	1	1	1	0	0	0	3	0	0	2	0	0	0	0	2	1	3	3	1	2	2	1	2	4	3	1	6	0	5	0	1
+6	ND2	YP_009420866.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	7	18	15	14	11	2	8	1	7	2	5	2	5	4	13	3	6	9	3	5	0	3	2	2	2	2	0	1	1	1	10	12	7	8	1	2	2	2	4	1	4	3	5	0	13	11	8	6	6	9	2	4	3	7	3	0	3	2	7	2	6	13	0	1
+7	ND4L	YP_009420867.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	7	4	4	5	4	1	0	1	2	0	1	2	0	0	1	1	6	2	0	0	1	0	1	1	0	1	0	0	1	0	5	1	2	4	0	0	1	0	0	0	2	0	1	2	2	1	3	1	2	2	1	1	0	2	0	1	1	3	2	0	2	3	1	0
+8	ND6	YP_009420868.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	8	6	11	6	2	3	1	3	3	0	4	2	1	0	2	4	2	0	0	3	0	2	0	1	0	0	0	0	0	0	6	2	3	6	2	1	0	2	0	3	2	2	2	2	6	7	3	5	5	6	3	4	1	2	0	3	4	0	3	0	1	5	1	0
+9	COX2	YP_009420869.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	8	4	4	4	4	2	2	0	6	9	8	0	1	5	4	5	7	6	2	0	5	2	3	2	1	3	2	0	1	1	6	4	4	3	4	0	2	6	3	2	4	3	3	0	1	6	5	1	7	15	4	3	2	4	5	5	4	10	6	4	2	6	0	1
+10	ND5	YP_009420870.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	35	18	29	17	16	4	6	5	8	13	8	6	4	3	13	3	10	9	4	4	4	2	3	6	5	1	2	2	1	1	9	12	17	14	9	3	9	4	5	3	10	5	6	6	7	14	22	9	10	22	13	6	5	8	4	7	5	11	16	10	15	19	1	0
+11	ND1	YP_009420871.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	26	10	7	11	9	3	4	0	7	7	2	5	2	3	5	6	5	8	5	0	3	3	1	2	3	1	1	1	3	2	11	4	9	7	1	2	3	2	3	5	2	5	1	2	3	6	9	7	9	10	5	3	7	5	4	1	8	4	3	4	5	7	1	0
+12	COX3	YP_009420872.1	Cerastoderma edule	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Cardioidea, Cardiidae, Cerastoderma	13	11	8	7	1	5	2	1	8	5	5	1	9	5	7	2	6	5	4	1	2	2	5	4	3	1	4	0	4	2	11	2	9	5	6	1	2	2	3	3	4	5	4	2	2	3	7	7	4	8	10	3	6	2	2	0	3	2	5	9	2	9	1	0

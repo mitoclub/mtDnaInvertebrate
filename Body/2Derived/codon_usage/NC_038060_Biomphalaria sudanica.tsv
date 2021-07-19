@@ -1,65 +1,10 @@
-	YP_009498358.1|ND6	YP_009498359.1|ND5	YP_009498360.1|ND1	YP_009498361.1|ND4L	YP_009498362.1|CYTB	YP_009498363.1|COX2	YP_009498367.1|ND4	YP_009498369.1|ND2	YP_009498370.1|COX1
-TTT	21	63	31	12	49	13	39	34	53
-TTC	1	4	0	0	1	2	0	1	0
-TTA	19	60	37	12	34	18	55	39	43
-TTG	4	6	3	0	5	5	5	5	6
-TCT	7	16	4	4	8	7	13	12	15
-TCC	0	0	1	0	0	0	2	0	0
-TCA	4	18	8	2	9	11	13	11	11
-TCG	0	4	1	2	1	0	0	1	2
-TAT	10	20	13	3	15	9	30	13	17
-TAC	1	3	2	1	2	0	1	0	2
-TGT	3	6	6	1	4	3	9	4	2
-TGC	0	1	0	0	2	1	0	1	0
-TGA	1	8	6	1	11	6	9	7	13
-TGG	0	1	0	0	2	0	0	0	1
-CTT	0	9	5	3	4	4	9	4	8
-CTC	1	0	0	0	0	0	0	0	0
-CTA	1	2	2	1	3	2	2	2	2
-CTG	0	0	0	1	0	0	0	0	1
-CCT	2	11	7	0	13	8	7	4	21
-CCC	0	0	0	0	0	2	0	0	0
-CCA	0	1	2	0	9	0	6	4	4
-CCG	0	0	1	0	0	0	0	0	0
-CAT	1	5	1	0	6	4	6	2	15
-CAC	0	3	0	1	4	1	1	0	3
-CAA	1	5	3	0	7	6	7	4	2
-CAG	0	0	0	0	0	1	2	0	1
-CGT	1	3	3	2	4	0	3	1	8
-CGC	0	1	0	0	0	0	0	0	0
-CGA	0	1	3	0	3	2	2	0	3
-CGG	0	1	1	0	0	2	0	0	0
-ATT	13	50	28	7	36	15	40	31	42
-ATC	0	4	1	1	0	2	2	0	1
-ATA	11	45	17	13	17	12	38	25	31
-ATG	3	5	1	0	0	0	5	4	1
-ACT	2	18	7	1	11	5	4	1	18
-ACC	0	0	1	0	1	0	1	0	0
-ACA	0	7	7	0	6	6	5	2	10
-ACG	1	0	0	0	1	1	0	0	2
-AAT	4	18	11	4	10	10	17	15	13
-AAC	0	2	0	1	1	1	2	2	1
-AAA	6	20	9	3	9	6	16	8	4
-AAG	0	1	0	0	0	2	0	1	1
-AGT	3	8	4	1	3	3	5	15	9
-AGC	0	0	0	0	0	0	1	0	0
-AGA	7	20	6	2	7	3	12	8	5
-AGG	0	1	0	0	1	0	1	2	0
-GTT	7	17	9	3	15	7	13	12	22
-GTC	1	1	0	0	2	0	0	0	0
-GTA	7	8	3	2	6	4	9	6	12
-GTG	1	2	2	2	2	2	1	0	3
-GCT	0	11	10	2	7	3	7	2	24
-GCC	0	1	0	0	1	1	1	0	0
-GCA	0	12	11	4	6	7	8	1	7
-GCG	0	1	0	0	1	1	1	0	1
-GAT	1	10	3	0	5	13	4	2	15
-GAC	0	0	0	0	0	0	0	0	0
-GAA	3	6	11	2	7	10	6	4	10
-GAG	0	4	0	1	1	1	1	1	0
-GGT	2	10	6	0	7	4	4	3	21
-GGC	0	1	0	0	2	1	0	0	0
-GGA	1	12	8	2	12	2	9	9	16
-GGG	2	4	0	1	4	3	8	5	8
-TAA	1	0	1	1	0	1	0	1	1
-TAG	0	1	0	0	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND6	YP_009498358.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	21	1	19	4	7	0	4	0	10	1	3	0	1	0	0	1	1	0	2	0	0	0	1	0	1	0	1	0	0	0	13	0	11	3	2	0	0	1	4	0	6	0	3	0	7	0	7	1	7	1	0	0	0	0	1	0	3	0	2	0	1	2	1	0
+1	ND5	YP_009498359.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	63	4	60	6	16	0	18	4	20	3	6	1	8	1	9	0	2	0	11	0	1	0	5	3	5	0	3	1	1	1	50	4	45	5	18	0	7	0	18	2	20	1	8	0	20	1	17	1	8	2	11	1	12	1	10	0	6	4	10	1	12	4	0	1
+2	ND1	YP_009498360.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	31	0	37	3	4	1	8	1	13	2	6	0	6	0	5	0	2	0	7	0	2	1	1	0	3	0	3	0	3	1	28	1	17	1	7	1	7	0	11	0	9	0	4	0	6	0	9	0	3	2	10	0	11	0	3	0	11	0	6	0	8	0	1	0
+3	ND4L	YP_009498361.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	12	0	12	0	4	0	2	2	3	1	1	0	1	0	3	0	1	1	0	0	0	0	0	1	0	0	2	0	0	0	7	1	13	0	1	0	0	0	4	1	3	0	1	0	2	0	3	0	2	2	2	0	4	0	0	0	2	1	0	0	2	1	1	0
+4	CYTB	YP_009498362.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	49	1	34	5	8	0	9	1	15	2	4	2	11	2	4	0	3	0	13	0	9	0	6	4	7	0	4	0	3	0	36	0	17	0	11	1	6	1	10	1	9	0	3	0	7	1	15	2	6	2	7	1	6	1	5	0	7	1	7	2	12	4	0	1
+5	COX2	YP_009498363.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	13	2	18	5	7	0	11	0	9	0	3	1	6	0	4	0	2	0	8	2	0	0	4	1	6	1	0	0	2	2	15	2	12	0	5	0	6	1	10	1	6	2	3	0	3	0	7	0	4	2	3	1	7	1	13	0	10	1	4	1	2	3	1	0
+6	ND4	YP_009498367.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	39	0	55	5	13	2	13	0	30	1	9	0	9	0	9	0	2	0	7	0	6	0	6	1	7	2	3	0	2	0	40	2	38	5	4	1	5	0	17	2	16	0	5	1	12	1	13	0	9	1	7	1	8	1	4	0	6	1	4	0	9	8	0	1
+7	ND2	YP_009498369.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	34	1	39	5	12	0	11	1	13	0	4	1	7	0	4	0	2	0	4	0	4	0	2	0	4	0	1	0	0	0	31	0	25	4	1	0	2	0	15	2	8	1	15	0	8	2	12	0	6	0	2	0	1	0	2	0	4	1	3	0	9	5	1	0
+8	COX1	YP_009498370.1	Biomphalaria sudanica	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Hygrophila, Planorboidea, Planorbidae, Biomphalaria	53	0	43	6	15	0	11	2	17	2	2	0	13	1	8	0	2	1	21	0	4	0	15	3	2	1	8	0	3	0	42	1	31	1	18	0	10	2	13	1	4	1	9	0	5	0	22	0	12	3	24	0	7	1	15	0	10	0	21	0	16	8	1	0

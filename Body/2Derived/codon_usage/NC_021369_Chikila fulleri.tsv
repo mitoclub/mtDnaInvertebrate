@@ -1,65 +1,13 @@
-	YP_008080444.1|ND1	YP_008080445.1|ND2	YP_008080446.1|COX1	YP_008080447.1|COX2	YP_008080448.1|ATP8	YP_008080449.1|ATP6	YP_008080450.1|COX3	YP_008080451.1|ND3	YP_008080452.1|ND4L	YP_008080453.1|ND4	YP_008080454.1|ND5	YP_008080456.1|CYTB
-TTT	8	2	29	8	1	10	14	8	5	9	23	17
-TTC	7	6	11	1	0	2	7	3	1	6	16	11
-TTA	29	21	28	10	6	24	21	12	12	44	44	26
-TTG	1	0	1	1	1	1	1	0	2	1	4	0
-TCT	7	4	6	3	0	2	2	0	0	7	4	5
-TCC	2	3	4	3	0	2	2	3	0	10	7	3
-TCA	12	16	13	8	0	5	9	2	6	14	18	17
-TCG	0	0	1	0	0	0	0	0	0	0	0	0
-TAT	10	4	11	8	1	2	7	2	1	13	4	12
-TAC	2	8	8	0	0	1	6	0	1	5	5	2
-TGT	0	0	0	0	0	1	1	1	1	3	5	1
-TGC	1	0	1	2	0	0	1	0	2	1	2	2
-TGA	7	10	16	5	5	5	11	3	1	14	10	10
-TGG	0	1	1	0	0	0	1	1	0	0	1	1
-CTT	11	10	17	9	1	13	8	4	3	15	14	11
-CTC	1	5	2	1	0	4	2	3	0	10	4	5
-CTA	23	26	10	5	1	13	4	4	5	19	24	13
-CTG	1	0	1	0	0	0	0	0	0	0	3	0
-CCT	5	5	7	5	4	2	0	2	1	5	9	1
-CCC	1	3	2	0	0	2	0	0	0	2	2	2
-CCA	18	8	18	8	3	12	9	7	1	16	14	20
-CCG	0	0	0	0	0	0	0	0	0	1	0	1
-CAT	1	4	15	4	2	1	11	0	2	7	7	8
-CAC	0	4	5	5	0	1	4	0	1	4	5	5
-CAA	7	10	7	7	3	11	6	2	3	13	26	7
-CAG	0	1	0	0	0	0	0	0	0	0	0	0
-CGT	0	3	2	1	0	0	0	0	0	2	0	1
-CGC	0	0	1	1	0	0	1	1	0	1	2	2
-CGA	7	1	5	4	0	4	5	1	2	8	7	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	1
-ATT	31	20	28	18	2	15	11	7	4	40	41	28
-ATC	2	8	10	6	4	6	6	6	1	9	16	13
-ATA	12	29	26	15	4	15	9	7	7	28	44	16
-ATG	1	3	6	1	1	1	1	1	1	1	3	1
-ACT	5	9	12	8	3	7	6	2	2	11	11	7
-ACC	10	13	9	2	2	5	4	2	3	13	17	10
-ACA	12	27	17	9	1	14	10	2	3	22	30	9
-ACG	1	2	0	0	0	0	0	0	0	0	1	0
-AAT	6	6	8	5	3	7	1	1	3	15	19	11
-AAC	9	8	7	1	1	3	2	0	2	7	16	12
-AAA	9	10	9	4	2	3	3	0	0	8	21	10
-AAG	0	1	0	0	0	0	0	1	0	0	1	0
-AGT	1	2	2	2	0	2	3	1	1	3	5	2
-AGC	0	2	3	1	0	0	0	1	1	3	4	0
-GTT	3	1	14	4	0	1	9	0	1	2	3	5
-GTC	0	1	7	1	0	1	3	0	1	1	2	3
-GTA	6	0	17	7	0	3	5	2	1	5	7	5
-GTG	0	0	2	0	0	0	1	0	0	0	1	0
-GCT	2	8	13	4	0	7	3	4	3	10	10	5
-GCC	7	6	12	1	1	2	6	0	3	5	13	9
-GCA	11	11	19	7	0	4	11	3	1	15	18	7
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	3	1	10	8	1	1	2	3	0	2	7	5
-GAC	1	0	4	4	0	0	3	0	1	2	4	3
-GAA	11	6	10	10	0	4	8	6	2	8	11	6
-GAG	0	0	1	3	0	0	1	0	0	0	0	0
-GGT	7	3	15	4	0	4	10	0	3	5	4	8
-GGC	5	1	10	3	0	0	3	2	1	2	6	6
-GGA	4	10	22	2	0	4	5	3	3	9	15	9
-GGG	1	0	0	0	0	0	2	0	0	1	0	2
-TAA	0	1	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008080444.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	8	7	29	1	7	2	12	0	10	2	0	1	7	0	11	1	23	1	5	1	18	0	1	0	7	0	0	0	7	0	31	2	12	1	5	10	12	1	6	9	9	0	1	0	3	0	6	0	2	7	11	0	3	1	11	0	7	5	4	1	0	0	0	0
+1	ND2	YP_008080445.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	2	6	21	0	4	3	16	0	4	8	0	0	10	1	10	5	26	0	5	3	8	0	4	4	10	1	3	0	1	0	20	8	29	3	9	13	27	2	6	8	10	1	2	2	1	1	0	0	8	6	11	0	1	0	6	0	3	1	10	0	1	0	0	0
+2	COX1	YP_008080446.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	29	11	28	1	6	4	13	1	11	8	0	1	16	1	17	2	10	1	7	2	18	0	15	5	7	0	2	1	5	0	28	10	26	6	12	9	17	0	8	7	9	0	2	3	14	7	17	2	13	12	19	0	10	4	10	1	15	10	22	0	0	0	0	1
+3	COX2	YP_008080447.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	8	1	10	1	3	3	8	0	8	0	0	2	5	0	9	1	5	0	5	0	8	0	4	5	7	0	1	1	4	0	18	6	15	1	8	2	9	0	5	1	4	0	2	1	4	1	7	0	4	1	7	0	8	4	10	3	4	3	2	0	0	0	0	0
+4	ATP8	YP_008080448.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	1	0	6	1	0	0	0	0	1	0	0	0	5	0	1	0	1	0	4	0	3	0	2	0	3	0	0	0	0	0	2	4	4	1	3	2	1	0	3	1	2	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008080449.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	10	2	24	1	2	2	5	0	2	1	1	0	5	0	13	4	13	0	2	2	12	0	1	1	11	0	0	0	4	0	15	6	15	1	7	5	14	0	7	3	3	0	2	0	1	1	3	0	7	2	4	0	1	0	4	0	4	0	4	0	1	0	0	0
+6	COX3	YP_008080450.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	14	7	21	1	2	2	9	0	7	6	1	1	11	1	8	2	4	0	0	0	9	0	11	4	6	0	0	1	5	0	11	6	9	1	6	4	10	0	1	2	3	0	3	0	9	3	5	1	3	6	11	0	2	3	8	1	10	3	5	2	0	0	0	0
+7	ND3	YP_008080451.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	8	3	12	0	0	3	2	0	2	0	1	0	3	1	4	3	4	0	2	0	7	0	0	0	2	0	0	1	1	0	7	6	7	1	2	2	2	0	1	0	0	1	1	1	0	0	2	0	4	0	3	0	3	0	6	0	0	2	3	0	0	0	0	0
+8	ND4L	YP_008080452.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	5	1	12	2	0	0	6	0	1	1	1	2	1	0	3	0	5	0	1	0	1	0	2	1	3	0	0	0	2	0	4	1	7	1	2	3	3	0	3	2	0	0	1	1	1	1	1	0	3	3	1	0	0	1	2	0	3	1	3	0	1	0	0	0
+9	ND4	YP_008080453.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	9	6	44	1	7	10	14	0	13	5	3	1	14	0	15	10	19	0	5	2	16	1	7	4	13	0	2	1	8	0	40	9	28	1	11	13	22	0	15	7	8	0	3	3	2	1	5	0	10	5	15	0	2	2	8	0	5	2	9	1	0	0	0	0
+10	ND5	YP_008080454.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	23	16	44	4	4	7	18	0	4	5	5	2	10	1	14	4	24	3	9	2	14	0	7	5	26	0	0	2	7	0	41	16	44	3	11	17	30	1	19	16	21	1	5	4	3	2	7	1	10	13	18	0	7	4	11	0	4	6	15	0	1	0	0	0
+11	CYTB	YP_008080456.1	Chikila fulleri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Chikilidae	17	11	26	0	5	3	17	0	12	2	1	2	10	1	11	5	13	0	1	2	20	1	8	5	7	0	1	2	4	1	28	13	16	1	7	10	9	0	11	12	10	0	2	0	5	3	5	0	5	9	7	0	5	3	6	0	8	6	9	2	0	0	0	0

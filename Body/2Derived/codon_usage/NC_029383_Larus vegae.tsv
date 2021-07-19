@@ -1,65 +1,13 @@
-	YP_009232548.1|ND1	YP_009232549.1|ND2	YP_009232550.1|COX1	YP_009232551.1|COX2	YP_009232552.1|ATP8	YP_009232553.1|ATP6	YP_009232554.1|COX3	YP_009232555.1|ND3	YP_009232556.1|ND4L	YP_009232557.1|ND4	YP_009232558.1|ND5	YP_009232559.1|CYTB
-TTT	6	2	11	2	1	1	3	4	1	0	8	6
-TTC	12	10	31	7	3	9	21	5	5	15	24	25
-TTA	17	9	5	8	2	12	3	3	7	17	14	11
-TTG	0	0	0	0	1	0	2	0	0	0	0	0
-TCT	3	3	2	1	1	3	2	3	2	3	6	4
-TCC	9	7	9	7	2	1	4	2	1	10	13	6
-TCA	10	19	11	10	2	4	9	1	5	10	19	10
-TCG	1	0	1	0	0	0	0	0	0	3	1	0
-TAT	4	3	5	4	0	2	1	2	0	4	4	6
-TAC	11	4	13	4	0	2	8	0	2	6	10	8
-TGT	1	0	0	1	0	0	0	1	2	1	2	3
-TGC	1	1	1	2	0	0	1	0	1	2	3	1
-TGA	9	10	17	4	5	4	11	5	1	11	12	11
-TGG	0	0	0	1	0	0	1	0	0	1	0	0
-CTT	10	9	6	2	1	6	6	8	3	13	9	7
-CTC	17	17	12	6	1	14	9	6	0	23	33	14
-CTA	18	27	37	13	1	27	11	11	10	51	45	31
-CTG	3	2	2	1	0	2	0	0	0	2	2	2
-CCT	7	4	5	1	4	3	3	0	0	3	5	6
-CCC	4	7	8	7	2	5	5	2	2	12	8	8
-CCA	13	8	17	4	3	9	4	6	0	9	16	11
-CCG	1	0	1	0	0	0	0	0	0	1	0	0
-CAT	2	3	9	3	0	1	7	0	2	9	5	5
-CAC	0	8	10	6	0	3	10	0	4	12	8	7
-CAA	4	8	8	7	2	8	8	2	2	14	20	8
-CAG	1	1	0	0	0	0	0	2	0	0	0	0
-CGT	5	1	3	1	0	0	0	0	0	2	6	2
-CGC	1	0	0	1	0	2	1	0	0	1	1	1
-CGA	2	2	6	3	0	3	4	2	2	7	2	5
-CGG	0	0	0	0	0	0	0	0	0	1	0	0
-ATT	10	9	14	7	2	6	8	5	0	13	20	12
-ATC	14	23	26	13	3	11	9	6	2	27	34	16
-ATA	8	16	20	8	2	11	8	3	4	24	30	8
-ATG	6	3	5	2	2	1	2	0	4	3	2	2
-ACT	2	13	14	2	3	7	4	3	3	7	18	6
-ACC	11	13	9	7	5	5	5	4	2	20	28	13
-ACA	9	24	17	6	0	11	9	1	3	17	28	8
-ACG	0	0	1	0	0	0	1	1	0	1	1	0
-AAT	3	4	4	0	1	2	0	1	1	2	5	3
-AAC	9	8	11	6	3	8	5	2	2	12	19	18
-AAA	6	12	9	3	3	4	3	1	0	9	20	9
-AAG	1	2	0	0	0	0	1	0	0	0	1	1
-AGT	2	2	0	1	0	0	1	1	0	2	2	0
-AGC	3	2	3	1	0	4	4	0	4	7	10	1
-GTT	2	0	3	6	0	0	1	0	0	1	4	1
-GTC	4	1	14	4	0	4	7	0	0	2	2	7
-GTA	8	6	16	5	0	2	7	2	2	3	6	9
-GTG	0	1	2	0	0	1	0	0	0	1	1	1
-GCT	7	8	13	6	0	4	3	1	2	8	11	5
-GCC	11	10	19	2	0	7	9	3	4	14	24	16
-GCA	8	6	14	5	0	5	9	3	4	10	10	8
-GCG	1	0	0	1	0	0	0	0	0	1	0	0
-GAT	2	0	3	7	0	1	1	2	1	2	2	2
-GAC	2	1	12	6	0	0	3	1	0	1	5	4
-GAA	9	5	9	10	0	4	7	6	3	9	10	7
-GAG	2	0	1	4	0	0	1	0	0	0	3	0
-GGT	4	1	13	1	0	2	4	0	0	5	5	6
-GGC	2	1	8	1	0	0	4	1	4	5	10	6
-GGA	5	10	25	6	0	6	10	3	1	10	15	10
-GGG	2	0	1	1	0	0	1	1	0	0	2	3
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009232548.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	6	12	17	0	3	9	10	1	4	11	1	1	9	0	10	17	18	3	7	4	13	1	2	0	4	1	5	1	2	0	10	14	8	6	2	11	9	0	3	9	6	1	2	3	2	4	8	0	7	11	8	1	2	2	9	2	4	2	5	2	0	0	0	1
+1	ND2	YP_009232549.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	2	10	9	0	3	7	19	0	3	4	0	1	10	0	9	17	27	2	4	7	8	0	3	8	8	1	1	0	2	0	9	23	16	3	13	13	24	0	4	8	12	2	2	2	0	1	6	1	8	10	6	0	0	1	5	0	1	1	10	0	0	0	0	0
+2	COX1	YP_009232550.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	11	31	5	0	2	9	11	1	5	13	0	1	17	0	6	12	37	2	5	8	17	1	9	10	8	0	3	0	6	0	14	26	20	5	14	9	17	1	4	11	9	0	0	3	3	14	16	2	13	19	14	0	3	12	9	1	13	8	25	1	0	0	0	1
+3	COX2	YP_009232551.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	2	7	8	0	1	7	10	0	4	4	1	2	4	1	2	6	13	1	1	7	4	0	3	6	7	0	1	1	3	0	7	13	8	2	2	7	6	0	0	6	3	0	1	1	6	4	5	0	6	2	5	1	7	6	10	4	1	1	6	1	1	0	0	0
+4	ATP8	YP_009232552.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	1	3	2	1	1	2	2	0	0	0	0	0	5	0	1	1	1	0	4	2	3	0	0	0	2	0	0	0	0	0	2	3	2	2	3	5	0	0	1	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009232553.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	1	9	12	0	3	1	4	0	2	2	0	0	4	0	6	14	27	2	3	5	9	0	1	3	8	0	0	2	3	0	6	11	11	1	7	5	11	0	2	8	4	0	0	4	0	4	2	1	4	7	5	0	1	0	4	0	2	0	6	0	1	0	0	0
+6	COX3	YP_009232554.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	3	21	3	2	2	4	9	0	1	8	0	1	11	1	6	9	11	0	3	5	4	0	7	10	8	0	0	1	4	0	8	9	8	2	4	5	9	1	0	5	3	1	1	4	1	7	7	0	3	9	9	0	1	3	7	1	4	4	10	1	0	0	0	0
+7	ND3	YP_009232555.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	4	5	3	0	3	2	1	0	2	0	1	0	5	0	8	6	11	0	0	2	6	0	0	0	2	2	0	0	2	0	5	6	3	0	3	4	1	1	1	2	1	0	1	0	0	0	2	0	1	3	3	0	2	1	6	0	0	1	3	1	1	0	0	0
+8	ND4L	YP_009232556.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	1	5	7	0	2	1	5	0	0	2	2	1	1	0	3	0	10	0	0	2	0	0	2	4	2	0	0	0	2	0	0	2	4	4	3	2	3	0	1	2	0	0	0	4	0	0	2	0	2	4	4	0	1	0	3	0	0	4	1	0	1	0	0	0
+9	ND4	YP_009232557.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	0	15	17	0	3	10	10	3	4	6	1	2	11	1	13	23	51	2	3	12	9	1	9	12	14	0	2	1	7	1	13	27	24	3	7	20	17	1	2	12	9	0	2	7	1	2	3	1	8	14	10	1	2	1	9	0	5	5	10	0	0	0	0	0
+10	ND5	YP_009232558.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	8	24	14	0	6	13	19	1	4	10	2	3	12	0	9	33	45	2	5	8	16	0	5	8	20	0	6	1	2	0	20	34	30	2	18	28	28	1	5	19	20	1	2	10	4	2	6	1	11	24	10	0	2	5	10	3	5	10	15	2	0	0	1	0
+11	CYTB	YP_009232559.1	Larus vegae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Larus	6	25	11	0	4	6	10	0	6	8	3	1	11	0	7	14	31	2	6	8	11	0	5	7	8	0	2	1	5	0	12	16	8	2	6	13	8	0	3	18	9	1	0	1	1	7	9	1	5	16	8	0	2	4	7	0	6	6	10	3	1	0	0	0

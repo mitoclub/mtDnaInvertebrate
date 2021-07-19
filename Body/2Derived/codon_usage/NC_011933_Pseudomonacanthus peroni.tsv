@@ -1,65 +1,13 @@
-	YP_002519612.1|ND1	YP_002519613.1|ND2	YP_002519614.1|COX1	YP_002519615.1|COX2	YP_002519616.1|ATP8	YP_002519617.1|ATP6	YP_002519618.1|COX3	YP_002519619.1|ND3	YP_002519620.1|ND4L	YP_002519621.1|ND4	YP_002519622.1|ND5	YP_002519624.1|CYTB
-TTT	10	3	19	4	2	5	9	4	2	7	18	8
-TTC	8	9	22	4	2	7	14	6	5	6	22	21
-TTA	8	6	8	4	1	5	5	4	4	14	12	11
-TTG	2	1	0	1	0	1	1	0	0	1	1	1
-TCT	1	3	7	3	1	1	2	1	1	3	7	3
-TCC	10	6	8	5	1	2	3	4	7	13	22	12
-TCA	6	8	8	3	0	0	5	2	3	8	4	5
-TCG	2	1	1	1	0	0	0	1	0	1	0	1
-TAT	5	2	3	4	0	1	4	1	0	5	1	4
-TAC	6	5	15	5	0	3	9	1	0	9	9	10
-TGT	0	0	0	1	0	0	0	0	1	0	0	0
-TGC	1	1	1	1	0	0	2	2	2	4	6	4
-TGA	7	9	15	4	4	4	11	3	0	12	9	11
-TGG	1	2	2	1	1	1	1	2	1	8	5	1
-CTT	8	11	14	7	0	14	7	9	5	16	13	14
-CTC	17	29	17	7	1	19	10	8	7	28	29	11
-CTA	24	20	17	8	2	18	9	5	8	27	31	21
-CTG	4	5	6	2	0	3	0	1	0	11	5	0
-CCT	5	4	10	5	3	3	2	1	1	6	4	6
-CCC	10	10	10	5	3	7	6	4	1	13	20	12
-CCA	9	7	6	4	3	6	3	2	0	6	3	4
-CCG	0	0	2	0	0	1	0	1	0	0	4	0
-CAT	0	0	5	4	0	2	2	0	0	2	2	1
-CAC	4	7	14	6	2	1	13	1	4	10	12	11
-CAA	5	12	6	7	2	5	7	2	2	9	19	6
-CAG	2	2	2	1	0	2	2	0	0	0	2	0
-CGT	0	0	1	0	0	0	0	1	0	0	0	1
-CGC	3	1	0	3	0	2	2	0	2	3	3	2
-CGA	4	2	6	2	0	3	3	0	1	5	6	4
-CGG	1	1	1	1	0	1	0	1	0	3	1	1
-ATT	8	10	25	13	1	7	10	3	2	14	21	10
-ATC	17	9	16	7	1	11	5	5	1	20	30	24
-ATA	6	12	14	8	1	5	6	1	2	16	17	5
-ATG	6	8	10	3	1	4	2	1	2	7	11	7
-ACT	0	15	8	2	2	2	0	1	0	9	8	2
-ACC	13	14	11	2	1	11	6	2	2	14	24	9
-ACA	7	14	15	6	3	9	15	3	6	17	25	7
-ACG	0	2	2	0	0	0	2	0	0	3	0	1
-AAT	3	2	5	1	1	0	0	1	0	3	9	5
-AAC	9	9	10	4	2	10	2	0	1	8	22	13
-AAA	7	7	7	2	3	1	2	1	0	9	17	8
-AAG	0	1	1	2	0	0	0	0	0	3	2	1
-AGT	0	1	0	0	0	0	1	0	0	0	0	0
-AGC	2	4	4	3	1	5	2	0	3	7	11	2
-GTT	4	1	5	7	1	4	2	1	0	5	4	6
-GTC	8	4	11	4	2	4	8	3	1	8	11	7
-GTA	5	1	18	3	1	4	4	1	1	5	11	6
-GTG	2	3	6	5	0	0	2	0	0	0	3	3
-GCT	4	4	12	3	1	0	3	3	2	3	5	4
-GCC	14	24	23	8	2	13	13	6	6	20	38	21
-GCA	11	10	13	6	0	4	6	1	3	12	18	7
-GCG	3	0	2	1	0	0	1	0	1	1	2	2
-GAT	1	1	4	5	0	0	0	1	0	2	4	4
-GAC	3	1	11	8	0	1	5	3	1	2	7	8
-GAA	7	3	7	12	2	5	6	5	1	11	10	6
-GAG	4	2	4	3	1	0	4	1	1	3	3	0
-GGT	2	1	4	0	0	1	1	0	0	2	1	2
-GGC	9	9	13	1	0	4	11	2	2	13	12	7
-GGA	4	9	20	7	0	5	8	2	3	12	12	15
-GGG	2	0	9	1	0	0	2	2	0	1	4	2
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002519612.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	10	8	8	2	1	10	6	2	5	6	0	1	7	1	8	17	24	4	5	10	9	0	0	4	5	2	0	3	4	1	8	17	6	6	0	13	7	0	3	9	7	0	0	2	4	8	5	2	4	14	11	3	1	3	7	4	2	9	4	2	0	1	0	0
+1	ND2	YP_002519613.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	3	9	6	1	3	6	8	1	2	5	0	1	9	2	11	29	20	5	4	10	7	0	0	7	12	2	0	1	2	1	10	9	12	8	15	14	14	2	2	9	7	1	1	4	1	4	1	3	4	24	10	0	1	1	3	2	1	9	9	0	0	0	0	0
+2	COX1	YP_002519614.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	19	22	8	0	7	8	8	1	3	15	0	1	15	2	14	17	17	6	10	10	6	2	5	14	6	2	1	0	6	1	25	16	14	10	8	11	15	2	5	10	7	1	0	4	5	11	18	6	12	23	13	2	4	11	7	4	4	13	20	9	1	0	0	0
+3	COX2	YP_002519615.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	4	4	4	1	3	5	3	1	4	5	1	1	4	1	7	7	8	2	5	5	4	0	4	6	7	1	0	3	2	1	13	7	8	3	2	2	6	0	1	4	2	2	0	3	7	4	3	5	3	8	6	1	5	8	12	3	0	1	7	1	0	0	0	0
+4	ATP8	YP_002519616.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	2	2	1	0	1	1	0	0	0	0	0	0	4	1	0	1	2	0	3	3	3	0	0	2	2	0	0	0	0	0	1	1	1	1	2	1	3	0	1	2	3	0	0	1	1	2	1	0	1	2	0	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_002519617.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	5	7	5	1	1	2	0	0	1	3	0	0	4	1	14	19	18	3	3	7	6	1	2	1	5	2	0	2	3	1	7	11	5	4	2	11	9	0	0	10	1	0	0	5	4	4	4	0	0	13	4	0	0	1	5	0	1	4	5	0	0	0	0	0
+6	COX3	YP_002519618.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	9	14	5	1	2	3	5	0	4	9	0	2	11	1	7	10	9	0	2	6	3	0	2	13	7	2	0	2	3	0	10	5	6	2	0	6	15	2	0	2	2	0	1	2	2	8	4	2	3	13	6	1	0	5	6	4	1	11	8	2	0	0	0	0
+7	ND3	YP_002519619.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	4	6	4	0	1	4	2	1	1	1	0	2	3	2	9	8	5	1	1	4	2	1	0	1	2	0	1	0	0	1	3	5	1	1	1	2	3	0	1	0	1	0	0	0	1	3	1	0	3	6	1	0	1	3	5	1	0	2	2	2	0	0	0	0
+8	ND4L	YP_002519620.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	2	5	4	0	1	7	3	0	0	0	1	2	0	1	5	7	8	0	1	1	0	0	0	4	2	0	0	2	1	0	2	1	2	2	0	2	6	0	0	1	0	0	0	3	0	1	1	0	2	6	3	1	0	1	1	1	0	2	3	0	1	0	0	0
+9	ND4	YP_002519621.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	7	6	14	1	3	13	8	1	5	9	0	4	12	8	16	28	27	11	6	13	6	0	2	10	9	0	0	3	5	3	14	20	16	7	9	14	17	3	3	8	9	3	0	7	5	8	5	0	3	20	12	1	2	2	11	3	2	13	12	1	0	0	0	0
+10	ND5	YP_002519622.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	18	22	12	1	7	22	4	0	1	9	0	6	9	5	13	29	31	5	4	20	3	4	2	12	19	2	0	3	6	1	21	30	17	11	8	24	25	0	9	22	17	2	0	11	4	11	11	3	5	38	18	2	4	7	10	3	1	12	12	4	1	0	0	0
+11	CYTB	YP_002519624.1	Pseudomonacanthus peroni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pseudomonacanthus	8	21	11	1	3	12	5	1	4	10	0	4	11	1	14	11	21	0	6	12	4	0	1	11	6	0	1	2	4	1	10	24	5	7	2	9	7	1	5	13	8	1	0	2	6	7	6	3	4	21	7	2	4	8	6	0	2	7	15	2	0	0	0	0

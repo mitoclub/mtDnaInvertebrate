@@ -1,65 +1,13 @@
-	YP_009108351.1|ND1	YP_009108352.1|ND2	YP_009108353.1|COX1	YP_009108354.1|COX2	YP_009108355.1|ATP8	YP_009108356.1|ATP6	YP_009108357.1|COX3	YP_009108358.1|ND3	YP_009108359.1|ND4L	YP_009108360.1|ND4	YP_009108361.1|ND5	YP_009108362.1|CYTB
-TTT	4	4	9	2	0	1	8	2	0	1	7	4
-TTC	14	9	32	7	3	9	15	6	5	12	28	27
-TTA	8	9	10	2	1	6	5	3	3	7	12	5
-TTG	1	2	0	1	0	0	0	0	1	0	2	0
-TCT	2	4	5	1	0	1	3	0	1	1	4	2
-TCC	11	6	9	5	2	3	6	5	3	10	19	6
-TCA	10	14	9	10	2	3	5	1	5	12	13	14
-TCG	1	0	1	1	1	0	1	0	0	4	0	0
-TAT	4	4	8	0	0	1	2	0	0	3	1	1
-TAC	11	4	10	9	0	2	9	2	2	9	9	13
-TGT	2	0	0	2	0	0	0	0	1	0	0	3
-TGC	0	1	1	1	0	1	1	1	2	3	5	1
-TGA	8	9	17	5	5	3	10	5	1	10	11	11
-TGG	0	1	0	0	0	1	2	0	0	2	1	0
-CTT	13	4	8	3	1	2	1	5	1	3	13	7
-CTC	10	16	12	11	2	17	5	8	3	31	25	15
-CTA	27	27	29	11	3	33	14	10	12	57	44	37
-CTG	6	4	4	3	0	1	8	1	2	3	4	2
-CCT	7	4	5	1	3	5	0	0	0	2	5	1
-CCC	5	7	9	7	1	5	6	2	1	16	9	11
-CCA	13	9	17	5	3	7	6	4	1	8	16	10
-CCG	0	1	0	0	0	0	0	2	0	1	0	3
-CAT	0	3	2	3	1	0	5	0	2	5	4	1
-CAC	2	7	17	5	1	4	11	0	4	12	11	11
-CAA	2	7	9	7	1	7	8	4	2	13	18	8
-CAG	4	2	0	0	1	1	0	0	0	0	1	1
-CGT	3	0	2	0	0	0	0	0	0	3	1	1
-CGC	2	1	0	2	0	3	1	1	0	2	3	2
-CGA	3	2	6	3	0	2	4	1	2	6	3	4
-CGG	1	0	0	0	0	0	0	0	0	0	2	1
-ATT	6	8	9	3	1	4	8	5	1	14	20	7
-ATC	15	23	31	15	2	15	9	6	1	31	33	22
-ATA	11	18	23	8	2	5	6	4	4	22	30	8
-ATG	2	2	2	2	1	3	2	0	2	3	2	1
-ACT	5	7	8	3	0	3	3	2	1	9	12	3
-ACC	9	21	13	6	8	11	8	4	1	20	35	12
-ACA	6	20	19	5	2	10	8	2	4	20	27	12
-ACG	0	2	0	0	0	1	1	0	1	1	1	0
-AAT	2	2	2	1	1	0	0	0	0	1	6	2
-AAC	10	10	13	4	3	10	5	2	3	12	19	18
-AAA	5	11	7	4	2	3	4	1	0	10	20	10
-AAG	2	3	2	0	1	0	0	0	0	0	1	0
-AGT	0	0	0	0	0	0	0	0	0	1	1	1
-AGC	5	4	3	3	0	4	4	1	4	10	11	2
-GTT	2	2	4	3	0	1	0	0	0	1	3	3
-GTC	4	2	10	8	0	4	6	0	0	4	5	3
-GTA	5	2	18	4	1	4	5	2	2	5	4	10
-GTG	2	1	3	1	0	0	3	0	1	0	1	0
-GCT	8	3	13	5	0	4	4	1	2	4	12	4
-GCC	13	15	20	3	0	8	3	4	4	13	23	12
-GCA	8	9	12	6	0	6	13	3	5	12	14	10
-GCG	2	0	1	0	0	0	0	0	0	1	0	0
-GAT	2	1	2	5	0	1	0	0	0	1	0	0
-GAC	2	0	13	7	0	0	4	3	1	1	9	6
-GAA	11	4	9	12	0	4	6	5	3	9	12	7
-GAG	1	1	1	3	0	0	2	1	0	0	0	0
-GGT	2	2	9	1	0	0	3	1	1	2	0	5
-GGC	4	2	19	4	0	7	5	1	2	6	13	7
-GGA	3	4	14	3	0	1	12	2	1	5	17	11
-GGG	4	6	5	1	0	0	1	1	0	5	2	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009108351.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	4	14	8	1	2	11	10	1	4	11	2	0	8	0	13	10	27	6	7	5	13	0	0	2	2	4	3	2	3	1	6	15	11	2	5	9	6	0	2	10	5	2	0	5	2	4	5	2	8	13	8	2	2	2	11	1	2	4	3	4	0	0	0	1
+1	ND2	YP_009108352.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	4	9	9	2	4	6	14	0	4	4	0	1	9	1	4	16	27	4	4	7	9	1	3	7	7	2	0	1	2	0	8	23	18	2	7	21	20	2	2	10	11	3	0	4	2	2	2	1	3	15	9	0	1	0	4	1	2	2	4	6	0	0	0	0
+2	COX1	YP_009108353.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	9	32	10	0	5	9	9	1	8	10	0	1	17	0	8	12	29	4	5	9	17	0	2	17	9	0	2	0	6	0	9	31	23	2	8	13	19	0	2	13	7	2	0	3	4	10	18	3	13	20	12	1	2	13	9	1	9	19	14	5	0	0	0	1
+3	COX2	YP_009108354.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	2	7	2	1	1	5	10	1	0	9	2	1	5	0	3	11	11	3	1	7	5	0	3	5	7	0	0	2	3	0	3	15	8	2	3	6	5	0	1	4	4	0	0	3	3	8	4	1	5	3	6	0	5	7	12	3	1	4	3	1	1	0	0	0
+4	ATP8	YP_009108355.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	0	3	1	0	0	2	2	1	0	0	0	0	5	0	1	2	3	0	3	1	3	0	1	1	1	1	0	0	0	0	1	2	2	1	0	8	2	0	1	3	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009108356.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	1	9	6	0	1	3	3	0	1	2	0	1	3	1	2	17	33	1	5	5	7	0	0	4	7	1	0	3	2	0	4	15	5	3	3	11	10	1	0	10	3	0	0	4	1	4	4	0	4	8	6	0	1	0	4	0	0	7	1	0	1	0	0	0
+6	COX3	YP_009108357.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	8	15	5	0	3	6	5	1	2	9	0	1	10	2	1	5	14	8	0	6	6	0	5	11	8	0	0	1	4	0	8	9	6	2	3	8	8	1	0	5	4	0	0	4	0	6	5	3	4	3	13	0	0	4	6	2	3	5	12	1	0	0	0	0
+7	ND3	YP_009108358.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	2	6	3	0	0	5	1	0	0	2	0	1	5	0	5	8	10	1	0	2	4	2	0	0	4	0	0	1	1	0	5	6	4	0	2	4	2	0	0	2	1	0	0	1	0	0	2	0	1	4	3	0	0	3	5	1	1	1	2	1	1	0	0	0
+8	ND4L	YP_009108359.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	0	5	3	1	1	3	5	0	0	2	1	2	1	0	1	3	12	2	0	1	1	0	2	4	2	0	0	0	2	0	1	1	4	2	1	1	4	1	0	3	0	0	0	4	0	0	2	1	2	4	5	0	0	1	3	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009108360.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	1	12	7	0	1	10	12	4	3	9	0	3	10	2	3	31	57	3	2	16	8	1	5	12	13	0	3	2	6	0	14	31	22	3	9	20	20	1	1	12	10	0	1	10	1	4	5	0	4	13	12	1	1	1	9	0	2	6	5	5	0	0	0	0
+10	ND5	YP_009108361.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	7	28	12	2	4	19	13	0	1	9	0	5	11	1	13	25	44	4	5	9	16	0	4	11	18	1	1	3	3	2	20	33	30	2	12	35	27	1	6	19	20	1	1	11	3	5	4	1	12	23	14	0	0	9	12	0	0	13	17	2	0	0	1	0
+11	CYTB	YP_009108362.1	Chroicocephalus ridibundus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Laridae, Chroicocephalus	4	27	5	0	2	6	14	0	1	13	3	1	11	0	7	15	37	2	1	11	10	3	1	11	8	1	1	2	4	1	7	22	8	1	3	12	12	0	2	18	10	0	1	2	3	3	10	0	4	12	10	0	0	6	7	0	5	7	11	2	1	0	0	0

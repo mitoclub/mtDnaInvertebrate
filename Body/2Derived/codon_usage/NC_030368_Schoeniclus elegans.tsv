@@ -1,65 +1,13 @@
-	YP_009258906.1|ND1	YP_009258907.1|ND2	YP_009258908.1|COX1	YP_009258909.1|COX2	YP_009258910.1|ATP8	YP_009258911.1|ATP6	YP_009258912.1|COX3	YP_009258913.1|ND3	YP_009258914.1|ND4L	YP_009258915.1|ND4	YP_009258916.1|ND5	YP_009258917.1|CYTB
-TTT	6	3	5	2	3	1	2	2	1	0	5	2
-TTC	15	9	38	6	1	12	21	7	4	12	31	24
-TTA	6	6	3	3	0	2	1	4	3	10	6	3
-TTG	1	0	0	0	0	0	1	1	0	0	2	0
-TCT	4	5	3	4	2	4	5	1	3	4	5	3
-TCC	10	13	10	7	0	4	3	4	3	18	18	10
-TCA	4	5	10	4	2	4	7	2	4	8	16	9
-TCG	1	1	1	0	1	0	0	0	0	0	1	0
-TAT	5	1	2	0	0	0	2	0	1	1	0	1
-TAC	11	7	15	8	0	3	9	2	2	13	15	12
-TGT	0	0	0	0	0	0	0	0	1	0	0	1
-TGC	2	2	1	3	0	0	1	1	2	3	6	3
-TGA	6	9	17	5	5	4	12	4	0	12	12	11
-TGG	2	1	0	0	0	0	0	1	1	0	0	0
-CTT	5	10	7	2	1	5	2	3	0	4	3	8
-CTC	16	25	12	7	2	10	8	8	2	32	38	20
-CTA	23	21	37	15	2	31	15	13	9	44	44	38
-CTG	13	6	4	1	1	11	5	0	6	7	12	3
-CCT	4	3	7	0	1	0	2	0	0	5	4	1
-CCC	8	9	7	6	6	5	8	3	2	11	16	12
-CCA	14	9	13	6	3	9	3	3	0	13	11	9
-CCG	0	0	4	0	1	2	0	1	0	0	0	1
-CAT	0	2	3	3	0	0	2	0	1	2	1	0
-CAC	2	5	16	6	0	3	13	0	5	12	9	12
-CAA	6	7	6	4	1	7	7	4	3	11	15	6
-CAG	0	3	3	2	1	1	1	0	0	1	2	1
-CGT	3	1	1	0	0	0	1	0	0	2	0	2
-CGC	0	0	2	3	0	2	2	1	0	2	3	1
-CGA	4	2	5	3	0	3	3	1	2	8	5	6
-CGG	1	1	0	0	0	0	0	0	0	0	0	0
-ATT	5	7	6	3	0	0	2	3	1	11	12	6
-ATC	18	28	32	12	4	16	13	5	4	33	40	27
-ATA	7	13	15	9	0	5	5	4	4	19	21	4
-ATG	4	5	7	2	3	3	2	0	2	4	5	2
-ACT	1	6	5	4	1	0	2	1	0	4	9	5
-ACC	7	21	11	6	3	9	7	5	6	17	32	9
-ACA	7	11	20	8	0	13	9	1	2	16	24	9
-ACG	1	3	3	0	1	0	1	0	0	1	1	0
-AAT	1	4	1	1	0	1	0	0	0	0	3	3
-AAC	11	11	14	8	4	8	4	2	2	17	22	16
-AAA	7	10	9	4	2	4	4	1	0	8	21	10
-AAG	0	2	0	0	0	0	0	0	0	2	0	0
-AGT	1	0	0	0	0	1	0	0	0	0	0	0
-AGC	6	5	4	3	0	3	4	2	4	8	14	1
-GTT	3	0	7	4	0	2	3	0	1	2	1	2
-GTC	5	4	15	9	0	4	6	1	0	3	6	9
-GTA	4	1	16	6	1	4	7	1	1	6	9	9
-GTG	3	1	3	0	0	1	0	1	0	1	3	1
-GCT	5	5	9	1	1	3	5	2	0	8	6	5
-GCC	14	11	18	11	1	11	13	6	8	23	26	18
-GCA	13	12	17	4	0	2	4	1	1	10	16	5
-GCG	1	1	1	0	0	0	2	0	0	1	2	0
-GAT	2	0	2	3	0	0	1	0	0	0	0	0
-GAC	2	2	13	9	0	3	4	3	1	2	8	9
-GAA	7	3	9	10	0	3	5	6	2	6	11	5
-GAG	4	1	0	2	0	1	3	0	0	4	1	2
-GGT	1	2	5	1	1	0	0	0	0	0	1	0
-GGC	8	4	16	3	0	3	6	1	3	13	10	11
-GGA	3	6	20	4	0	3	12	2	1	3	17	11
-GGG	2	1	6	0	0	1	1	2	0	2	4	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009258906.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	6	15	6	1	4	10	4	1	5	11	0	2	6	2	5	16	23	13	4	8	14	0	0	2	6	0	3	0	4	1	5	18	7	4	1	7	7	1	1	11	7	0	1	6	3	5	4	3	5	14	13	1	2	2	7	4	1	8	3	2	0	0	1	0
+1	ND2	YP_009258907.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	3	9	6	0	5	13	5	1	1	7	0	2	9	1	10	25	21	6	3	9	9	0	2	5	7	3	1	0	2	1	7	28	13	5	6	21	11	3	4	11	10	2	0	5	0	4	1	1	5	11	12	1	0	2	3	1	2	4	6	1	0	0	0	0
+2	COX1	YP_009258908.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	5	38	3	0	3	10	10	1	2	15	0	1	17	0	7	12	37	4	7	7	13	4	3	16	6	3	1	2	5	0	6	32	15	7	5	11	20	3	1	14	9	0	0	4	7	15	16	3	9	18	17	1	2	13	9	0	5	16	20	6	0	0	0	1
+3	COX2	YP_009258909.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	2	6	3	0	4	7	4	0	0	8	0	3	5	0	2	7	15	1	0	6	6	0	3	6	4	2	0	3	3	0	3	12	9	2	4	6	8	0	1	8	4	0	0	3	4	9	6	0	1	11	4	0	3	9	10	2	1	3	4	0	1	0	0	0
+4	ATP8	YP_009258910.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	3	1	0	0	2	0	2	1	0	0	0	0	5	0	1	2	2	1	1	6	3	1	0	0	1	1	0	0	0	0	0	4	0	3	1	3	0	1	0	4	2	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+5	ATP6	YP_009258911.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	1	12	2	0	4	4	4	0	0	3	0	0	4	0	5	10	31	11	0	5	9	2	0	3	7	1	0	2	3	0	0	16	5	3	0	9	13	0	1	8	4	0	1	3	2	4	4	1	3	11	2	0	0	3	3	1	0	3	3	1	1	0	0	0
+6	COX3	YP_009258912.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	2	21	1	1	5	3	7	0	2	9	0	1	12	0	2	8	15	5	2	8	3	0	2	13	7	1	1	2	3	0	2	13	5	2	2	7	9	1	0	4	4	0	0	4	3	6	7	0	5	13	4	2	1	4	5	3	0	6	12	1	0	0	0	0
+7	ND3	YP_009258913.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	2	7	4	1	1	4	2	0	0	2	0	1	4	1	3	8	13	0	0	3	3	1	0	0	4	0	0	1	1	0	3	5	4	0	1	5	1	0	0	2	1	0	0	2	0	1	1	1	2	6	1	0	0	3	6	0	0	1	2	2	1	0	0	0
+8	ND4L	YP_009258914.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	1	4	3	0	3	3	4	0	1	2	1	2	0	1	0	2	9	6	0	2	0	0	1	5	3	0	0	0	2	0	1	4	4	2	0	6	2	0	0	2	0	0	0	4	1	0	1	0	0	8	1	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009258915.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	0	12	10	0	4	18	8	0	1	13	0	3	12	0	4	32	44	7	5	11	13	0	2	12	11	1	2	2	8	0	11	33	19	4	4	17	16	1	0	17	8	2	0	8	2	3	6	1	8	23	10	1	0	2	6	4	0	13	3	2	0	0	0	0
+10	ND5	YP_009258916.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	5	31	6	2	5	18	16	1	0	15	0	6	12	0	3	38	44	12	4	16	11	0	1	9	15	2	0	3	5	0	12	40	21	5	9	32	24	1	3	22	21	0	0	14	1	6	9	3	6	26	16	2	0	8	11	1	1	10	17	4	0	0	1	0
+11	CYTB	YP_009258917.1	Schoeniclus elegans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Schoeniclus	2	24	3	0	3	10	9	0	1	12	1	3	11	0	8	20	38	3	1	12	9	1	0	12	6	1	2	1	6	0	6	27	4	2	5	9	9	0	3	16	10	0	0	1	2	9	9	1	5	18	5	0	0	9	5	2	0	11	11	2	1	0	0	0

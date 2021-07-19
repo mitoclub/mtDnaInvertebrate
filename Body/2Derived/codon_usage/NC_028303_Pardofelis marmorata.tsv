@@ -1,65 +1,13 @@
-	YP_009178320.1|ND1	YP_009178321.1|ND2	YP_009178322.1|COX1	YP_009178323.1|COX2	YP_009178324.1|ATP8	YP_009178325.1|ATP6	YP_009178326.1|COX3	YP_009178327.1|ND3	YP_009178328.1|ND4L	YP_009178329.1|ND4	YP_009178330.1|ND5	YP_009178332.1|CYTB
-TTT	5	1	18	5	1	5	7	3	4	10	17	9
-TTC	14	9	24	2	2	7	15	4	1	7	28	17
-TTA	7	4	13	6	2	13	2	3	4	10	11	7
-TTG	2	1	5	2	0	1	3	0	1	1	2	0
-TCT	0	2	7	4	0	1	4	1	3	4	4	6
-TCC	6	9	5	3	1	2	4	2	3	6	13	5
-TCA	10	14	13	6	6	5	7	1	2	16	16	15
-TCG	0	0	2	0	0	1	2	1	0	1	3	1
-TAT	3	4	8	7	2	1	7	2	3	6	12	1
-TAC	9	5	11	4	0	1	6	1	1	12	12	14
-TGT	1	0	1	1	0	0	0	1	1	2	2	1
-TGC	0	1	0	1	0	0	2	0	2	2	2	3
-TGA	9	10	14	4	3	2	9	4	0	13	9	11
-TGG	0	0	3	1	0	1	3	0	0	0	3	1
-CTT	5	7	10	3	2	4	7	6	1	12	13	5
-CTC	11	8	5	4	0	3	6	4	2	13	17	13
-CTA	25	29	17	13	3	20	13	14	10	49	39	28
-CTG	6	4	11	5	1	3	2	1	3	4	7	2
-CCT	5	3	12	3	2	4	2	2	1	4	1	3
-CCC	7	10	7	5	2	4	3	4	0	14	11	9
-CCA	10	8	8	3	2	5	6	1	0	4	12	10
-CCG	0	0	1	2	1	0	0	0	0	1	2	0
-CAT	1	0	8	3	0	3	7	0	1	3	4	2
-CAC	3	5	10	4	1	4	9	0	1	6	11	11
-CAA	5	9	4	7	4	6	6	2	2	8	14	6
-CAG	1	0	2	0	1	2	1	1	0	3	5	0
-CGT	0	0	1	1	0	0	0	0	0	1	2	1
-CGC	1	0	1	0	0	2	1	1	0	1	2	1
-CGA	7	2	6	5	0	3	4	0	1	8	5	7
-CGG	0	2	0	0	0	0	0	0	0	0	0	0
-ATT	9	8	18	10	3	13	9	3	3	21	25	14
-ATC	17	28	16	10	2	12	7	2	3	22	30	24
-ATA	16	39	21	9	4	7	7	4	10	28	31	10
-ATG	4	1	13	6	1	5	3	2	3	4	7	4
-ACT	3	4	13	4	4	8	5	2	3	12	12	5
-ACC	10	13	9	7	0	9	7	4	1	4	23	9
-ACA	13	23	10	8	3	7	9	3	2	24	17	12
-ACG	1	0	6	1	1	0	2	2	0	1	1	0
-AAT	5	4	12	3	2	7	3	3	1	5	13	3
-AAC	8	11	5	3	0	5	4	0	5	16	18	13
-AAA	7	15	8	4	6	3	2	4	0	12	23	8
-AAG	0	0	1	1	1	1	1	0	0	1	3	1
-AGT	0	1	2	0	0	1	0	0	0	2	1	0
-AGC	2	0	1	4	0	3	4	3	1	8	10	1
-GTT	2	1	9	3	0	2	4	0	0	2	0	3
-GTC	2	6	7	3	0	3	3	0	1	2	11	9
-GTA	9	6	19	3	1	5	7	2	4	12	11	8
-GTG	2	1	4	2	0	1	0	2	0	1	1	1
-GCT	5	1	11	3	0	4	3	0	1	6	6	1
-GCC	15	7	14	3	0	10	9	6	2	14	18	11
-GCA	9	8	15	2	0	2	3	3	4	12	16	9
-GCG	0	0	1	0	0	0	0	0	0	0	0	1
-GAT	0	2	13	5	0	1	1	0	1	1	2	6
-GAC	3	0	2	5	1	0	2	2	0	2	8	5
-GAA	11	6	6	12	2	3	7	4	1	8	9	5
-GAG	0	0	4	3	0	0	1	2	1	0	2	1
-GGT	2	1	11	2	0	0	1	0	0	4	2	1
-GGC	2	7	10	4	0	3	5	0	3	5	9	10
-GGA	6	7	16	3	0	7	11	3	1	8	14	12
-GGG	2	0	10	0	0	1	3	0	0	1	4	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009178320.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	5	14	7	2	0	6	10	0	3	9	1	0	9	0	5	11	25	6	5	7	10	0	1	3	5	1	0	1	7	0	9	17	16	4	3	10	13	1	5	8	7	0	0	2	2	2	9	2	5	15	9	0	0	3	11	0	2	2	6	2	0	0	0	0
+1	ND2	YP_009178321.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	1	9	4	1	2	9	14	0	4	5	0	1	10	0	7	8	29	4	3	10	8	0	0	5	9	0	0	0	2	2	8	28	39	1	4	13	23	0	4	11	15	0	1	0	1	6	6	1	1	7	8	0	2	0	6	0	1	7	7	0	0	0	0	0
+2	COX1	YP_009178322.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	18	24	13	5	7	5	13	2	8	11	1	0	14	3	10	5	17	11	12	7	8	1	8	10	4	2	1	1	6	0	18	16	21	13	13	9	10	6	12	5	8	1	2	1	9	7	19	4	11	14	15	1	13	2	6	4	11	10	16	10	1	0	0	0
+3	COX2	YP_009178323.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	5	2	6	2	4	3	6	0	7	4	1	1	4	1	3	4	13	5	3	5	3	2	3	4	7	0	1	0	5	0	10	10	9	6	4	7	8	1	3	3	4	1	0	4	3	3	3	2	3	3	2	0	5	5	12	3	2	4	3	0	1	0	0	0
+4	ATP8	YP_009178324.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	1	2	2	0	0	1	6	0	2	0	0	0	3	0	2	0	3	1	2	2	2	1	0	1	4	1	0	0	0	0	3	2	4	1	4	0	3	1	2	0	6	1	0	0	0	0	1	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009178325.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	5	7	13	1	1	2	5	1	1	1	0	0	2	1	4	3	20	3	4	4	5	0	3	4	6	2	0	2	3	0	13	12	7	5	8	9	7	0	7	5	3	1	1	3	2	3	5	1	4	10	2	0	1	0	3	0	0	3	7	1	1	0	0	0
+6	COX3	YP_009178326.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	7	15	2	3	4	4	7	2	7	6	0	2	9	3	7	6	13	2	2	3	6	0	7	9	6	1	0	1	4	0	9	7	7	3	5	7	9	2	3	4	2	1	0	4	4	3	7	0	3	9	3	0	1	2	7	1	1	5	11	3	0	0	0	0
+7	ND3	YP_009178327.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	3	4	3	0	1	2	1	1	2	1	1	0	4	0	6	4	14	1	2	4	1	0	0	0	2	1	0	1	0	0	3	2	4	2	2	4	3	2	3	0	4	0	0	3	0	0	2	2	0	6	3	0	0	2	4	2	0	0	3	0	0	0	0	0
+8	ND4L	YP_009178328.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	4	1	4	1	3	3	2	0	3	1	1	2	0	0	1	2	10	3	1	0	0	0	1	1	2	0	0	0	1	0	3	3	10	3	3	1	2	0	1	5	0	0	0	1	0	1	4	0	1	2	4	0	1	0	1	1	0	3	1	0	1	0	0	0
+9	ND4	YP_009178329.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	10	7	10	1	4	6	16	1	6	12	2	2	13	0	12	13	49	4	4	14	4	1	3	6	8	3	1	1	8	0	21	22	28	4	12	4	24	1	5	16	12	1	2	8	2	2	12	1	6	14	12	0	1	2	8	0	4	5	8	1	0	0	0	0
+10	ND5	YP_009178330.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	17	28	11	2	4	13	16	3	12	12	2	2	9	3	13	17	39	7	1	11	12	2	4	11	14	5	2	2	5	0	25	30	31	7	12	23	17	1	13	18	23	3	1	10	0	11	11	1	6	18	16	0	2	8	9	2	2	9	14	4	1	0	0	0
+11	CYTB	YP_009178332.1	Pardofelis marmorata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Pardofelis	9	17	7	0	6	5	15	1	1	14	1	3	11	1	5	13	28	2	3	9	10	0	2	11	6	0	1	1	7	0	14	24	10	4	5	9	12	0	3	13	8	1	0	1	3	9	8	1	1	11	9	1	6	5	5	1	1	10	12	3	0	0	1	0

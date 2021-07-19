@@ -1,65 +1,13 @@
-	YP_007026212.1|ND1	YP_007026213.1|ND2	YP_007026214.1|COX1	YP_007026215.1|COX2	YP_007026216.1|ATP8	YP_007026217.1|ATP6	YP_007026218.1|COX3	YP_007026219.1|ND3	YP_007026220.1|ND4L	YP_007026221.1|ND4	YP_007026222.1|ND5	YP_007026224.1|CYTB
-TTT	7	4	19	4	1	5	9	4	7	10	12	11
-TTC	9	6	21	6	2	6	13	4	1	6	26	20
-TTA	7	7	8	8	4	4	5	5	1	11	8	5
-TTG	0	0	1	1	0	0	0	0	0	0	0	1
-TCT	0	0	7	5	0	1	3	1	1	1	4	2
-TCC	5	6	4	3	1	2	1	3	2	8	8	7
-TCA	12	9	15	3	0	3	6	1	3	13	15	11
-TCG	1	0	1	0	0	0	1	0	0	0	0	0
-TAT	5	0	11	4	0	2	3	2	0	6	3	3
-TAC	7	8	8	6	1	3	9	0	0	7	8	11
-TGT	0	1	0	0	0	0	0	0	1	1	1	0
-TGC	0	0	1	2	0	0	2	1	2	4	4	3
-TGA	8	10	15	5	5	4	12	3	1	19	11	12
-TGG	0	1	2	0	0	1	0	2	0	1	3	1
-CTT	6	6	12	3	0	9	2	3	2	11	17	8
-CTC	14	9	13	5	0	6	6	6	2	16	19	9
-CTA	31	37	25	6	1	23	16	11	15	41	44	35
-CTG	4	8	5	3	0	3	3	2	3	8	6	3
-CCT	5	1	6	1	1	1	1	0	0	1	2	0
-CCC	10	6	8	3	1	4	4	3	2	9	11	4
-CCA	8	12	14	11	6	11	7	5	0	16	15	17
-CCG	1	0	0	0	0	1	1	0	0	1	0	0
-CAT	1	2	4	2	0	1	4	0	1	6	1	2
-CAC	4	5	15	7	2	2	12	1	3	7	12	10
-CAA	7	11	8	9	1	9	8	2	3	13	18	6
-CAG	0	2	0	0	0	0	1	1	0	1	2	0
-CGT	0	1	0	1	0	0	0	0	1	0	1	0
-CGC	1	0	2	2	0	1	1	1	0	3	0	2
-CGA	7	3	5	3	0	4	4	1	2	8	9	6
-CGG	0	0	1	0	0	1	0	0	0	0	0	0
-ATT	11	9	16	15	3	12	9	5	1	16	22	14
-ATC	11	16	23	5	2	11	7	3	1	20	35	19
-ATA	10	13	16	9	3	8	6	3	3	21	22	11
-ATG	2	4	7	3	1	2	2	1	2	4	10	2
-ACT	2	4	6	3	1	3	2	2	2	6	6	3
-ACC	9	22	8	4	4	5	7	2	2	16	27	8
-ACA	8	24	20	3	1	11	12	4	5	23	27	8
-ACG	0	0	4	1	0	2	0	0	0	0	1	2
-AAT	3	3	4	2	1	3	0	0	0	2	9	3
-AAC	9	8	11	5	1	6	1	3	2	9	22	14
-AAA	6	8	8	3	3	1	2	1	0	9	22	8
-AAG	1	1	0	1	0	0	1	0	0	0	1	1
-AGT	1	2	1	0	1	1	0	0	0	1	2	0
-AGC	3	7	4	3	0	4	3	0	4	6	11	1
-GTT	3	1	11	2	0	3	5	2	1	4	3	3
-GTC	3	3	6	2	0	1	1	2	1	5	4	8
-GTA	13	6	21	12	0	11	6	1	0	8	16	12
-GTG	2	0	5	2	0	1	4	0	0	3	1	0
-GCT	6	3	6	3	1	2	5	0	0	3	5	2
-GCC	17	14	21	7	0	11	9	4	5	17	27	12
-GCA	11	20	14	8	0	7	10	4	7	16	20	16
-GCG	0	1	3	1	0	0	0	0	0	0	0	1
-GAT	0	0	5	4	0	1	0	1	0	1	2	2
-GAC	4	2	9	8	2	0	5	3	0	2	11	9
-GAA	10	5	8	13	1	5	8	5	2	11	9	7
-GAG	1	0	3	0	2	0	1	1	1	0	2	0
-GGT	2	1	9	0	0	0	2	0	1	2	1	5
-GGC	0	5	6	1	1	2	3	2	2	6	8	5
-GGA	12	10	18	7	0	6	11	5	3	16	20	12
-GGG	4	1	12	0	0	1	5	0	0	5	2	3
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007026212.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	7	9	7	0	0	5	12	1	5	7	0	0	8	0	6	14	31	4	5	10	8	1	1	4	7	0	0	1	7	0	11	11	10	2	2	9	8	0	3	9	6	1	1	3	3	3	13	2	6	17	11	0	0	4	10	1	2	0	12	4	1	0	0	0
+1	ND2	YP_007026213.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	4	6	7	0	0	6	9	0	0	8	1	0	10	1	6	9	37	8	1	6	12	0	2	5	11	2	1	0	3	0	9	16	13	4	4	22	24	0	3	8	8	1	2	7	1	3	6	0	3	14	20	1	0	2	5	0	1	5	10	1	0	0	0	0
+2	COX1	YP_007026214.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	19	21	8	1	7	4	15	1	11	8	0	1	15	2	12	13	25	5	6	8	14	0	4	15	8	0	0	2	5	1	16	23	16	7	6	8	20	4	4	11	8	0	1	4	11	6	21	5	6	21	14	3	5	9	8	3	9	6	18	12	1	0	0	0
+3	COX2	YP_007026215.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	4	6	8	1	5	3	3	0	4	6	0	2	5	0	3	5	6	3	1	3	11	0	2	7	9	0	1	2	3	0	15	5	9	3	3	4	3	1	2	5	3	1	0	3	2	2	12	2	3	7	8	1	4	8	13	0	0	1	7	0	0	0	0	0
+4	ATP8	YP_007026216.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	1	2	4	0	0	1	0	0	0	1	0	0	5	0	0	0	1	0	1	1	6	0	0	2	1	0	0	0	0	0	3	2	3	1	1	4	1	0	1	1	3	0	1	0	0	0	0	0	1	0	0	0	0	2	1	2	0	1	0	0	0	1	0	0
+5	ATP6	YP_007026217.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	5	6	4	0	1	2	3	0	2	3	0	0	4	1	9	6	23	3	1	4	11	1	1	2	9	0	0	1	4	1	12	11	8	2	3	5	11	2	3	6	1	0	1	4	3	1	11	1	2	11	7	0	1	0	5	0	0	2	6	1	1	0	0	0
+6	COX3	YP_007026218.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	9	13	5	0	3	1	6	1	3	9	0	2	12	0	2	6	16	3	1	4	7	1	4	12	8	1	0	1	4	0	9	7	6	2	2	7	12	0	0	1	2	1	0	3	5	1	6	4	5	9	10	0	0	5	8	1	2	3	11	5	0	0	0	0
+7	ND3	YP_007026219.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	4	4	5	0	1	3	1	0	2	0	0	1	3	2	3	6	11	2	0	3	5	0	0	1	2	1	0	1	1	0	5	3	3	1	2	2	4	0	0	3	1	0	0	0	2	2	1	0	0	4	4	0	1	3	5	1	0	2	5	0	0	0	0	0
+8	ND4L	YP_007026220.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	7	1	1	0	1	2	3	0	0	0	1	2	1	0	2	2	15	3	0	2	0	0	1	3	3	0	1	0	2	0	1	1	3	2	2	2	5	0	0	2	0	0	0	4	1	1	0	0	0	5	7	0	0	0	2	1	1	2	3	0	1	0	0	0
+9	ND4	YP_007026221.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	10	6	11	0	1	8	13	0	6	7	1	4	19	1	11	16	41	8	1	9	16	1	6	7	13	1	0	3	8	0	16	20	21	4	6	16	23	0	2	9	9	0	1	6	4	5	8	3	3	17	16	0	1	2	11	0	2	6	16	5	0	0	0	0
+10	ND5	YP_007026222.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	12	26	8	0	4	8	15	0	3	8	1	4	11	3	17	19	44	6	2	11	15	0	1	12	18	2	1	0	9	0	22	35	22	10	6	27	27	1	9	22	22	1	2	11	3	4	16	1	5	27	20	0	2	11	9	2	1	8	20	2	1	0	0	0
+11	CYTB	YP_007026224.1	Onychostoma barbatum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Onychostoma	11	20	5	1	2	7	11	0	3	11	0	3	12	1	8	9	35	3	0	4	17	0	2	10	6	0	0	2	6	0	14	19	11	2	3	8	8	2	3	14	8	1	0	1	3	8	12	0	2	12	16	1	2	9	7	0	5	5	12	3	0	0	0	0

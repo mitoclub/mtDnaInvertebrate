@@ -1,65 +1,13 @@
-	YP_009755370.1|ND1	YP_009755371.1|ND2	YP_009755372.1|COX1	YP_009755373.1|COX2	YP_009755374.1|ATP8	YP_009755375.1|ATP6	YP_009755376.1|COX3	YP_009755377.1|ND3	YP_009755378.1|ND4L	YP_009755379.1|ND4	YP_009755380.1|ND5	YP_009755382.1|Cytb
-TTT	9	4	23	3	2	5	9	0	2	7	13	1
-TTC	8	7	19	5	2	9	15	8	4	10	26	29
-TTA	13	11	10	6	1	11	3	5	4	15	13	6
-TTG	1	0	1	0	0	0	1	0	0	0	2	1
-TCT	3	2	2	2	0	3	3	2	3	3	7	0
-TCC	2	10	10	5	2	2	3	1	3	13	13	9
-TCA	13	7	10	6	0	0	4	2	2	6	10	12
-TCG	0	1	1	0	1	0	0	0	1	1	0	0
-TAT	4	0	9	6	0	1	5	0	0	3	4	6
-TAC	7	8	9	4	0	2	7	3	0	9	8	8
-TGT	0	0	0	0	0	0	0	0	0	1	2	1
-TGC	0	0	1	2	0	0	2	1	3	4	4	2
-TGA	9	11	13	5	4	4	10	5	1	17	9	13
-TGG	0	0	4	0	1	1	2	0	0	0	5	0
-CTT	11	17	16	8	2	16	7	4	5	22	15	16
-CTC	9	24	12	3	1	11	8	6	5	26	26	20
-CTA	26	22	20	9	1	14	12	9	9	35	34	16
-CTG	3	4	3	0	0	2	0	2	3	4	3	3
-CCT	2	4	12	5	3	4	4	3	2	6	9	5
-CCC	10	12	9	4	2	6	6	3	0	7	15	9
-CCA	10	5	7	5	4	7	2	3	1	10	8	7
-CCG	1	0	0	0	0	0	0	0	0	0	1	0
-CAT	0	1	8	6	0	1	7	1	0	3	2	3
-CAC	4	8	12	4	1	2	9	0	4	9	13	9
-CAA	7	14	6	8	3	11	7	3	3	9	18	8
-CAG	0	0	2	0	0	1	1	0	0	1	3	0
-CGT	1	1	2	2	0	1	1	0	0	2	1	0
-CGC	2	0	0	3	0	1	0	1	1	0	3	1
-CGA	4	3	5	1	0	3	3	1	2	8	6	6
-CGG	1	0	1	0	0	0	1	0	0	1	0	1
-ATT	15	8	25	10	2	13	8	4	1	21	25	15
-ATC	11	9	17	10	4	4	7	5	0	13	28	15
-ATA	8	20	17	10	1	6	6	4	3	25	29	9
-ATG	3	2	6	2	1	5	3	1	1	2	4	1
-ACT	8	8	8	2	0	3	3	2	1	8	8	3
-ACC	8	21	11	2	0	9	6	2	5	17	32	9
-ACA	6	18	16	4	1	7	15	6	2	18	24	10
-ACG	0	0	1	0	1	0	0	0	0	1	2	1
-AAT	4	3	9	3	2	2	1	0	0	6	11	7
-AAC	8	10	5	2	1	6	1	1	2	6	18	13
-AAA	6	7	8	4	3	1	2	0	0	9	18	5
-AAG	1	1	0	1	1	0	0	1	0	1	1	3
-AGT	0	0	3	0	1	3	2	0	0	2	1	0
-AGC	4	3	2	3	0	1	1	1	3	6	14	2
-GTT	2	0	11	5	0	3	3	0	1	6	7	3
-GTC	6	4	9	7	0	3	4	3	0	1	5	5
-GTA	8	4	16	7	1	4	8	1	1	6	4	14
-GTG	0	0	5	1	0	4	0	0	0	2	2	2
-GCT	6	5	17	5	0	3	3	1	1	5	11	4
-GCC	15	16	14	5	3	8	9	4	7	19	25	18
-GCA	11	9	17	8	2	7	10	1	4	9	14	9
-GCG	2	0	1	0	0	0	1	0	0	1	1	1
-GAT	0	1	5	8	0	1	4	1	1	0	4	3
-GAC	4	0	9	5	0	0	1	3	1	4	8	7
-GAA	10	3	10	13	1	3	9	6	2	13	9	5
-GAG	1	1	1	1	0	1	1	0	0	1	3	0
-GGT	6	2	5	2	0	1	4	0	0	4	4	5
-GGC	3	6	16	3	0	7	9	3	2	9	16	7
-GGA	7	9	19	4	0	3	8	3	2	10	10	12
-GGG	1	2	6	1	0	1	0	0	0	3	1	0
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009755370.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	9	8	13	1	3	2	13	0	4	7	0	0	9	0	11	9	26	3	2	10	10	1	0	4	7	0	1	2	4	1	15	11	8	3	8	8	6	0	4	8	6	1	0	4	2	6	8	0	6	15	11	2	0	4	10	1	6	3	7	1	0	1	0	0
+1	ND2	YP_009755371.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	4	7	11	0	2	10	7	1	0	8	0	0	11	0	17	24	22	4	4	12	5	0	1	8	14	0	1	0	3	0	8	9	20	2	8	21	18	0	3	10	7	1	0	3	0	4	4	0	5	16	9	0	1	0	3	1	2	6	9	2	0	0	0	0
+2	COX1	YP_009755372.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	23	19	10	1	2	10	10	1	9	9	0	1	13	4	16	12	20	3	12	9	7	0	8	12	6	2	2	0	5	1	25	17	17	6	8	11	16	1	9	5	8	0	3	2	11	9	16	5	17	14	17	1	5	9	10	1	5	16	19	6	1	0	0	0
+3	COX2	YP_009755373.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	3	5	6	0	2	5	6	0	6	4	0	2	5	0	8	3	9	0	5	4	5	0	6	4	8	0	2	3	1	0	10	10	10	2	2	2	4	0	3	2	4	1	0	3	5	7	7	1	5	5	8	0	8	5	13	1	2	3	4	1	0	0	0	0
+4	ATP8	YP_009755374.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	2	2	1	0	0	2	0	1	0	0	0	0	4	1	2	1	1	0	3	2	4	0	0	1	3	0	0	0	0	0	2	4	1	1	0	0	1	1	2	1	3	1	1	0	0	0	1	0	0	3	2	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009755375.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	5	9	11	0	3	2	0	0	1	2	0	0	4	1	16	11	14	2	4	6	7	0	1	2	11	1	1	1	3	0	13	4	6	5	3	9	7	0	2	6	1	0	3	1	3	3	4	4	3	8	7	0	1	0	3	1	1	7	3	1	0	0	0	0
+6	COX3	YP_009755376.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	9	15	3	1	3	3	4	0	5	7	0	2	10	2	7	8	12	0	4	6	2	0	7	9	7	1	1	0	3	1	8	7	6	3	3	6	15	0	1	1	2	0	2	1	3	4	8	0	3	9	10	1	4	1	9	1	4	9	8	0	0	0	0	0
+7	ND3	YP_009755377.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	0	8	5	0	2	1	2	0	0	3	0	1	5	0	4	6	9	2	3	3	3	0	1	0	3	0	0	1	1	0	4	5	4	1	2	2	6	0	0	1	0	1	0	1	0	3	1	0	1	4	1	0	1	3	6	0	0	3	3	0	0	0	0	0
+8	ND4L	YP_009755378.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	2	4	4	0	3	3	2	1	0	0	0	3	1	0	5	5	9	3	2	0	1	0	0	4	3	0	0	1	2	0	1	0	3	1	1	5	2	0	0	2	0	0	0	3	1	0	1	0	1	7	4	0	1	1	2	0	0	2	2	0	1	0	0	0
+9	ND4	YP_009755379.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	7	10	15	0	3	13	6	1	3	9	1	4	17	0	22	26	35	4	6	7	10	0	3	9	9	1	2	0	8	1	21	13	25	2	8	17	18	1	6	6	9	1	2	6	6	1	6	2	5	19	9	1	0	4	13	1	4	9	10	3	0	0	0	0
+10	ND5	YP_009755380.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	13	26	13	2	7	13	10	0	4	8	2	4	9	5	15	26	34	3	9	15	8	1	2	13	18	3	1	3	6	0	25	28	29	4	8	32	24	2	11	18	18	1	1	14	7	5	4	2	11	25	14	1	4	8	9	3	4	16	10	1	1	0	0	0
+11	Cytb	YP_009755382.1	Girella melanichthys	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Terapontoidei, Kyphosidae, Girellinae, Girella	1	29	6	1	0	9	12	0	6	8	1	2	13	0	16	20	16	3	5	9	7	0	3	9	8	0	0	1	6	1	15	15	9	1	3	9	10	1	7	13	5	3	0	2	3	5	14	2	4	18	9	1	3	7	5	0	5	7	12	0	0	0	0	0

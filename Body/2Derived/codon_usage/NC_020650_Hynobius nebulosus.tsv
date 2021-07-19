@@ -1,65 +1,13 @@
-	YP_007625406.1|ND1	YP_007625407.1|ND2	YP_007625408.1|COX1	YP_007625409.1|COX2	YP_007625410.1|ATP8	YP_007625411.1|ATP6	YP_007625412.1|COX3	YP_007625413.1|ND3	YP_007625414.1|ND4L	YP_007625415.1|ND4	YP_007625416.1|ND5	YP_007625418.1|CYTB
-TTT	15	14	28	8	3	13	19	7	9	12	34	20
-TTC	6	2	11	1	1	1	6	1	1	5	14	11
-TTA	26	34	27	12	4	28	9	9	12	42	35	18
-TTG	1	2	1	0	0	2	1	3	0	2	5	0
-TCT	5	6	4	4	1	0	2	2	2	4	11	7
-TCC	3	8	5	3	0	3	1	1	2	8	5	5
-TCA	14	15	20	5	1	2	9	6	3	16	28	13
-TCG	1	0	3	1	0	0	0	0	1	0	1	0
-TAT	4	6	13	9	1	2	4	3	1	9	9	8
-TAC	7	2	7	0	0	1	8	0	1	8	5	6
-TGT	1	2	0	0	0	0	1	1	3	4	2	1
-TGC	0	0	1	2	0	0	1	0	0	0	4	2
-TGA	7	9	15	5	5	4	11	5	1	13	12	12
-TGG	0	2	2	0	0	1	1	0	0	1	2	1
-CTT	11	14	10	4	1	8	6	8	3	15	20	9
-CTC	4	4	6	0	0	4	3	3	0	10	1	11
-CTA	13	18	15	7	1	8	9	4	3	19	23	14
-CTG	0	0	3	1	0	2	0	0	1	1	4	1
-CCT	4	4	6	1	2	5	4	3	1	9	6	5
-CCC	2	2	4	3	1	1	3	0	0	4	1	5
-CCA	15	9	13	9	3	9	5	3	1	11	16	12
-CCG	0	2	3	1	0	1	0	2	0	1	0	1
-CAT	2	5	7	7	0	0	9	0	2	7	5	1
-CAC	1	4	12	1	0	3	5	0	2	2	7	11
-CAA	6	7	6	9	2	9	7	2	2	10	16	8
-CAG	1	1	1	0	0	0	1	0	0	0	2	1
-CGT	2	0	1	3	0	0	1	0	0	1	2	2
-CGC	1	0	0	1	0	1	0	0	0	0	1	0
-CGA	5	3	7	2	0	3	4	2	2	10	6	6
-CGG	0	1	1	0	0	0	0	0	0	0	0	0
-ATT	28	30	34	16	5	16	13	8	2	33	41	23
-ATC	7	5	6	5	0	3	4	6	1	14	23	15
-ATA	15	27	23	16	1	10	13	5	7	31	30	15
-ATG	3	3	6	2	2	2	1	1	2	4	10	2
-ACT	5	7	14	4	0	5	2	0	4	10	10	7
-ACC	4	7	5	3	1	3	4	2	1	7	15	5
-ACA	11	13	17	7	2	13	12	3	3	15	15	9
-ACG	0	0	0	0	0	1	0	0	0	0	2	0
-AAT	11	13	12	6	4	7	1	1	1	10	25	11
-AAC	6	5	3	3	3	3	2	2	2	10	7	6
-AAA	7	11	8	3	4	3	2	1	1	10	26	10
-AAG	0	0	0	0	0	1	0	0	0	1	0	0
-AGT	2	3	2	1	1	2	1	1	1	3	5	0
-AGC	0	2	3	2	0	3	2	0	1	4	6	2
-GTT	4	1	13	3	1	4	4	0	0	2	6	6
-GTC	1	0	3	1	0	2	3	0	0	2	3	2
-GTA	10	3	20	8	0	6	9	1	2	9	10	7
-GTG	0	0	3	1	0	0	2	0	1	0	1	2
-GCT	8	4	12	5	1	4	2	0	2	4	9	3
-GCC	2	6	11	2	0	6	8	2	1	6	5	10
-GCA	11	11	18	9	0	7	10	3	5	23	28	10
-GCG	0	0	0	0	0	0	0	0	0	0	0	2
-GAT	3	1	13	6	0	0	3	0	1	2	7	3
-GAC	0	2	2	5	1	1	3	3	0	1	5	6
-GAA	11	3	7	12	2	4	6	6	2	10	10	4
-GAG	0	1	3	1	0	0	3	1	1	3	2	2
-GGT	4	1	7	3	0	3	4	1	0	2	4	2
-GGC	4	4	9	1	0	2	3	0	2	3	4	6
-GGA	6	7	20	4	0	4	12	3	1	14	14	15
-GGG	3	1	10	0	1	1	2	1	1	2	7	4
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007625406.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	15	6	26	1	5	3	14	1	4	7	1	0	7	0	11	4	13	0	4	2	15	0	2	1	6	1	2	1	5	0	28	7	15	3	5	4	11	0	11	6	7	0	2	0	4	1	10	0	8	2	11	0	3	0	11	0	4	4	6	3	0	0	0	0
+1	ND2	YP_007625407.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	14	2	34	2	6	8	15	0	6	2	2	0	9	2	14	4	18	0	4	2	9	2	5	4	7	1	0	0	3	1	30	5	27	3	7	7	13	0	13	5	11	0	3	2	1	0	3	0	4	6	11	0	1	2	3	1	1	4	7	1	0	0	0	0
+2	COX1	YP_007625408.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	28	11	27	1	4	5	20	3	13	7	0	1	15	2	10	6	15	3	6	4	13	3	7	12	6	1	1	0	7	1	34	6	23	6	14	5	17	0	12	3	8	0	2	3	13	3	20	3	12	11	18	0	13	2	7	3	7	9	20	10	1	0	0	0
+3	COX2	YP_007625409.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	8	1	12	0	4	3	5	1	9	0	0	2	5	0	4	0	7	1	1	3	9	1	7	1	9	0	3	1	2	0	16	5	16	2	4	3	7	0	6	3	3	0	1	2	3	1	8	1	5	2	9	0	6	5	12	1	3	1	4	0	1	0	0	0
+4	ATP8	YP_007625410.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	3	1	4	0	1	0	1	0	1	0	0	0	5	0	1	0	1	0	2	1	3	0	0	0	2	0	0	0	0	0	5	0	1	2	0	1	2	0	4	3	4	0	1	0	1	0	0	0	1	0	0	0	0	1	2	0	0	0	0	1	1	0	0	0
+5	ATP6	YP_007625411.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	13	1	28	2	0	3	2	0	2	1	0	0	4	1	8	4	8	2	5	1	9	1	0	3	9	0	0	1	3	0	16	3	10	2	5	3	13	1	7	3	3	1	2	3	4	2	6	0	4	6	7	0	0	1	4	0	3	2	4	1	1	0	0	0
+6	COX3	YP_007625412.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	19	6	9	1	2	1	9	0	4	8	1	1	11	1	6	3	9	0	4	3	5	0	9	5	7	1	1	0	4	0	13	4	13	1	2	4	12	0	1	2	2	0	1	2	4	3	9	2	2	8	10	0	3	3	6	3	4	3	12	2	0	0	0	0
+7	ND3	YP_007625413.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	7	1	9	3	2	1	6	0	3	0	1	0	5	0	8	3	4	0	3	0	3	2	0	0	2	0	0	0	2	0	8	6	5	1	0	2	3	0	1	2	1	0	1	0	0	0	1	0	0	2	3	0	0	3	6	1	1	0	3	1	0	0	0	0
+8	ND4L	YP_007625414.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	9	1	12	0	2	2	3	1	1	1	3	0	1	0	3	0	3	1	1	0	1	0	2	2	2	0	0	0	2	0	2	1	7	2	4	1	3	0	1	2	1	0	1	1	0	0	2	1	2	1	5	0	1	0	2	1	0	2	1	1	1	0	0	0
+9	ND4	YP_007625415.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	12	5	42	2	4	8	16	0	9	8	4	0	13	1	15	10	19	1	9	4	11	1	7	2	10	0	1	0	10	0	33	14	31	4	10	7	15	0	10	10	10	1	3	4	2	2	9	0	4	6	23	0	2	1	10	3	2	3	14	2	0	0	0	0
+10	ND5	YP_007625416.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	34	14	35	5	11	5	28	1	9	5	2	4	12	2	20	1	23	4	6	1	16	0	5	7	16	2	2	1	6	0	41	23	30	10	10	15	15	2	25	7	26	0	5	6	6	3	10	1	9	5	28	0	7	5	10	2	4	4	14	7	1	0	0	0
+11	CYTB	YP_007625418.1	Hynobius nebulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Cryptobranchoidea, Hynobiidae, Hynobius, Hynobius	20	11	18	0	7	5	13	0	8	6	1	2	12	1	9	11	14	1	5	5	12	1	1	11	8	1	2	0	6	0	23	15	15	2	7	5	9	0	11	6	10	0	0	2	6	2	7	2	3	10	10	2	3	6	4	2	2	6	15	4	0	0	0	0

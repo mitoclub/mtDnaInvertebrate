@@ -1,65 +1,14 @@
-	YP_008083025.1|COX2	YP_008083026.1|ND5	YP_008083027.1|ATP6	YP_008083028.1|COX1	YP_008083029.1|CYTB	YP_008083030.1|COX3	YP_008083031.1|ND3	YP_008083032.1|ATP8	YP_008083033.1|ND4L	YP_008083034.1|ND6	YP_008083035.1|ND4	YP_008083036.1|ND2	YP_008083037.1|ND1
-TTT	12	45	27	37	30	19	14	4	7	16	41	28	24
-TTC	2	14	4	12	9	6	1	0	2	1	10	2	7
-TTA	5	15	8	16	15	10	3	2	5	7	22	8	19
-TTG	10	31	19	18	16	10	6	2	10	15	28	17	15
-TCT	9	25	8	12	6	12	3	5	1	2	15	13	5
-TCC	1	9	1	3	2	4	1	0	1	2	7	2	4
-TCA	2	2	1	2	2	1	0	0	0	0	3	4	3
-TCG	5	7	0	1	1	2	1	1	0	1	2	5	0
-TAT	7	10	1	17	16	5	7	0	4	4	14	13	10
-TAC	7	11	4	9	4	5	0	0	0	1	6	1	5
-TGT	3	3	1	5	5	6	2	1	2	5	5	8	1
-TGC	0	1	1	1	2	0	0	0	1	0	2	2	1
-TGA	2	2	0	4	2	1	0	0	0	1	3	0	2
-TGG	4	8	4	15	12	11	0	1	3	0	10	8	8
-CTT	2	14	3	9	5	4	4	0	1	4	5	9	10
-CTC	2	9	2	2	5	3	1	0	1	1	1	1	4
-CTA	3	7	5	8	2	3	2	1	3	3	6	11	6
-CTG	1	11	4	2	1	2	2	1	2	2	8	6	4
-CCT	2	5	5	12	10	4	1	1	0	1	6	2	1
-CCC	2	3	0	2	1	0	0	0	1	0	2	0	2
-CCA	2	0	0	5	4	1	0	0	0	0	3	1	2
-CCG	2	2	2	4	2	2	0	0	0	0	1	2	2
-CAT	2	3	1	11	7	5	0	0	0	0	5	0	1
-CAC	3	4	2	8	4	5	0	0	0	0	4	2	1
-CAA	0	0	0	1	0	1	0	0	1	0	0	2	2
-CAG	3	7	2	4	4	2	1	1	0	1	1	3	2
-CGT	3	3	2	5	1	0	0	0	0	0	5	2	5
-CGC	0	2	0	0	1	2	0	0	0	0	2	0	0
-CGA	0	3	0	1	3	0	0	0	0	0	2	1	0
-CGG	0	3	0	3	1	2	0	0	0	0	0	2	3
-ATT	12	24	6	35	15	6	10	1	2	11	17	13	9
-ATC	1	2	1	2	5	2	2	0	1	0	7	3	6
-ATA	6	14	4	11	11	7	4	0	3	4	9	10	2
-ATG	6	17	5	20	6	4	2	1	7	7	15	12	4
-ACT	2	5	4	12	5	6	1	0	1	1	9	6	2
-ACC	3	3	1	2	4	5	2	0	1	0	2	1	3
-ACA	2	2	3	9	3	1	1	0	0	2	2	0	2
-ACG	0	3	0	3	0	1	2	0	0	1	0	2	1
-AAT	7	8	2	13	12	3	2	1	1	2	5	5	2
-AAC	0	1	3	3	6	2	1	0	0	0	0	1	1
-AAA	0	2	1	0	0	1	0	0	0	1	1	0	1
-AAG	4	10	2	6	11	1	3	0	5	1	6	6	4
-AGT	7	12	5	14	6	8	5	1	2	6	10	7	8
-AGC	3	3	2	2	4	4	0	0	1	1	6	2	2
-AGA	0	4	1	2	1	1	1	0	1	0	3	2	1
-AGG	7	12	1	7	6	7	5	0	1	6	9	4	8
-GTT	16	27	11	19	23	14	4	1	6	10	20	28	16
-GTC	2	3	0	4	2	3	1	1	1	3	8	4	6
-GTA	2	12	3	3	4	6	2	1	0	2	7	7	9
-GTG	9	36	14	19	15	13	5	1	4	10	27	22	13
-GCT	5	12	6	18	9	2	1	0	2	3	8	3	8
-GCC	1	6	1	5	2	1	0	1	0	0	2	3	3
-GCA	0	5	2	4	1	3	0	0	1	1	3	1	1
-GCG	0	2	2	9	3	1	0	0	0	1	6	1	3
-GAT	10	5	0	12	8	5	1	1	0	3	3	3	3
-GAC	2	2	0	3	0	1	1	0	0	1	1	2	2
-GAA	1	3	0	1	0	1	0	0	1	1	0	2	1
-GAG	9	9	4	7	1	5	3	0	2	0	8	6	10
-GGT	5	23	5	20	6	5	3	1	5	8	16	15	9
-GGC	1	7	2	4	3	0	1	0	1	2	4	9	5
-GGA	5	9	2	5	2	2	0	0	1	1	5	7	2
-GGG	4	28	11	21	16	12	3	1	2	8	28	16	10
-TAA	0	1	0	1	1	0	1	0	0	0	0	0	1
-TAG	1	0	1	0	0	1	0	1	1	1	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_008083025.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	12	2	5	10	9	1	2	5	7	7	3	0	2	4	2	2	3	1	2	2	2	2	2	3	0	3	3	0	0	0	12	1	6	6	2	3	2	0	7	0	0	4	7	3	0	7	16	2	2	9	5	1	0	0	10	2	1	9	5	1	5	4	0	1
+1	ND5	YP_008083026.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	45	14	15	31	25	9	2	7	10	11	3	1	2	8	14	9	7	11	5	3	0	2	3	4	0	7	3	2	3	3	24	2	14	17	5	3	2	3	8	1	2	10	12	3	4	12	27	3	12	36	12	6	5	2	5	2	3	9	23	7	9	28	1	0
+2	ATP6	YP_008083027.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	27	4	8	19	8	1	1	0	1	4	1	1	0	4	3	2	5	4	5	0	0	2	1	2	0	2	2	0	0	0	6	1	4	5	4	1	3	0	2	3	1	2	5	2	1	1	11	0	3	14	6	1	2	2	0	0	0	4	5	2	2	11	0	1
+3	COX1	YP_008083028.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	37	12	16	18	12	3	2	1	17	9	5	1	4	15	9	2	8	2	12	2	5	4	11	8	1	4	5	0	1	3	35	2	11	20	12	2	9	3	13	3	0	6	14	2	2	7	19	4	3	19	18	5	4	9	12	3	1	7	20	4	5	21	1	0
+4	CYTB	YP_008083029.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	30	9	15	16	6	2	2	1	16	4	5	2	2	12	5	5	2	1	10	1	4	2	7	4	0	4	1	1	3	1	15	5	11	6	5	4	3	0	12	6	0	11	6	4	1	6	23	2	4	15	9	2	1	3	8	0	0	1	6	3	2	16	1	0
+5	COX3	YP_008083030.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	19	6	10	10	12	4	1	2	5	5	6	0	1	11	4	3	3	2	4	0	1	2	5	5	1	2	0	2	0	2	6	2	7	4	6	5	1	1	3	2	1	1	8	4	1	7	14	3	6	13	2	1	3	1	5	1	1	5	5	0	2	12	0	1
+6	ND3	YP_008083031.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	14	1	3	6	3	1	0	1	7	0	2	0	0	0	4	1	2	2	1	0	0	0	0	0	0	1	0	0	0	0	10	2	4	2	1	2	1	2	2	1	0	3	5	0	1	5	4	1	2	5	1	0	0	0	1	1	0	3	3	1	0	3	1	0
+7	ATP8	YP_008083032.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	4	0	2	2	5	0	0	1	0	0	1	0	0	1	0	0	1	1	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	1	1	0	1	0	0	1	0	0	0	1	0	0	1	0	1
+8	ND4L	YP_008083033.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	7	2	5	10	1	1	0	0	4	0	2	1	0	3	1	1	3	2	0	1	0	0	0	0	1	0	0	0	0	0	2	1	3	7	1	1	0	0	1	0	0	5	2	1	1	1	6	1	0	4	2	0	1	0	0	0	1	2	5	1	1	2	0	1
+9	ND6	YP_008083034.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	16	1	7	15	2	2	0	1	4	1	5	0	1	0	4	1	3	2	1	0	0	0	0	0	0	1	0	0	0	0	11	0	4	7	1	0	2	1	2	0	1	1	6	1	0	6	10	3	2	10	3	0	1	1	3	1	1	0	8	2	1	8	0	1
+10	ND4	YP_008083035.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	41	10	22	28	15	7	3	2	14	6	5	2	3	10	5	1	6	8	6	2	3	1	5	4	0	1	5	2	2	0	17	7	9	15	9	2	2	0	5	0	1	6	10	6	3	9	20	8	7	27	8	2	3	6	3	1	0	8	16	4	5	28	0	1
+11	ND2	YP_008083036.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	28	2	8	17	13	2	4	5	13	1	8	2	0	8	9	1	11	6	2	0	1	2	0	2	2	3	2	0	1	2	13	3	10	12	6	1	0	2	5	1	0	6	7	2	2	4	28	4	7	22	3	3	1	1	3	2	2	6	15	9	7	16	0	1
+12	ND1	YP_008083037.1	Ascidiella aspersa	Eukaryota, Metazoa, Chordata, Tunicata, Ascidiacea, Enterogona, Phlebobranchia, Ascidiidae, Ascidiella	24	7	19	15	5	4	3	0	10	5	1	1	2	8	10	4	6	4	1	2	2	2	1	1	2	2	5	0	0	3	9	6	2	4	2	3	2	1	2	1	1	4	8	2	1	8	16	6	9	13	8	3	1	3	3	2	1	10	9	5	2	10	1	0

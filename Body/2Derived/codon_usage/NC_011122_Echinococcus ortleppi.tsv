@@ -1,65 +1,13 @@
-	YP_002117984.1|ND5	YP_002117985.1|COX3	YP_002117986.1|CYTB	YP_002117987.1|ND4L	YP_002117988.1|ND4	YP_002117989.1|ATP6	YP_002117990.1|ND2	YP_002117991.1|ND1	YP_002117992.1|ND3	YP_002117993.1|COX1	YP_002117994.1|COX2	YP_002117995.1|ND6
-TTT	55	25	30	10	53	20	44	31	28	50	10	16
-TTC	6	0	4	1	4	4	7	3	0	3	1	0
-TTA	32	7	9	5	26	10	12	16	2	18	3	11
-TTG	43	21	37	11	34	16	25	21	15	52	13	13
-TCT	17	6	15	2	15	2	14	7	2	23	7	1
-TCC	0	0	0	0	1	1	0	0	0	1	0	0
-TCA	5	0	3	1	5	2	2	1	0	2	1	1
-TCG	1	2	1	1	1	1	2	2	0	4	3	1
-TAT	25	9	23	2	24	10	19	18	8	26	11	13
-TAC	6	1	3	0	1	1	2	3	0	2	0	0
-TGT	17	11	6	1	18	6	15	12	4	16	12	10
-TGC	3	0	1	1	4	1	1	3	0	1	0	2
-TGA	6	3	5	1	5	2	5	2	1	6	4	1
-TGG	8	4	6	0	7	2	6	6	2	12	1	2
-CTT	6	1	6	2	2	0	2	2	0	4	1	2
-CTC	1	0	0	0	0	0	0	0	0	0	0	0
-CTA	2	0	2	0	4	0	0	0	0	0	0	0
-CTG	1	2	3	0	1	0	2	3	0	0	1	2
-CCT	3	1	6	0	7	4	4	1	2	14	7	1
-CCC	1	0	0	0	0	1	0	0	0	0	0	0
-CCA	1	0	4	0	0	0	0	3	0	3	0	0
-CCG	1	1	0	0	2	0	1	0	0	2	1	0
-CAT	4	5	8	1	6	1	1	1	0	14	6	1
-CAC	1	2	0	0	2	1	0	0	0	0	0	0
-CAA	1	0	0	0	1	0	1	2	0	2	2	0
-CAG	2	1	4	0	1	0	1	1	1	1	1	0
-CGT	3	2	3	1	4	3	1	5	0	9	1	2
-CGC	0	0	0	0	0	1	0	1	1	0	0	0
-CGA	1	0	0	1	0	0	0	2	0	0	1	0
-CGG	3	0	3	0	3	1	1	0	0	0	0	0
-ATT	20	10	19	9	14	10	8	12	2	24	10	6
-ATC	3	0	1	0	4	1	0	1	0	2	1	0
-ATA	10	3	6	1	7	5	10	6	1	16	0	0
-ATG	18	3	14	4	9	4	4	8	4	19	4	3
-ACT	9	4	8	5	9	0	1	2	1	16	6	2
-ACC	1	0	0	0	1	0	0	0	0	0	0	0
-ACA	1	2	0	0	0	1	2	0	0	2	1	0
-ACG	4	2	1	0	1	0	1	2	0	3	0	0
-AAT	9	1	12	2	4	5	4	8	4	22	6	2
-AAC	1	0	1	0	1	0	1	0	0	0	0	0
-AAA	2	0	0	1	1	0	1	1	0	2	2	1
-AAG	8	1	8	0	5	0	5	6	1	5	3	1
-AGT	22	9	6	4	13	4	6	9	3	17	3	9
-AGC	3	1	0	0	1	0	0	0	0	0	0	1
-AGA	3	4	3	0	3	2	2	5	0	1	0	2
-AGG	7	3	3	1	5	2	6	6	1	6	0	0
-GTT	35	23	24	3	28	13	22	24	11	37	21	12
-GTC	2	1	3	0	1	1	2	0	0	0	1	0
-GTA	11	1	6	4	12	3	4	3	2	2	5	4
-GTG	22	11	11	4	12	8	13	8	3	14	9	7
-GCT	9	2	6	0	4	4	2	11	1	12	3	4
-GCC	3	0	0	0	1	0	0	0	0	0	1	0
-GCA	1	0	1	0	1	0	0	1	0	2	0	0
-GCG	2	2	3	0	2	3	3	1	0	2	0	2
-GAT	13	5	9	2	5	3	7	3	2	16	9	1
-GAC	0	0	0	0	2	0	0	1	0	1	0	0
-GAA	0	2	2	1	2	0	2	3	2	2	4	1
-GAG	4	4	4	3	8	3	3	6	2	4	3	3
-GGT	32	10	12	1	21	6	6	15	4	31	10	9
-GGC	2	0	4	0	1	1	1	1	0	1	0	0
-GGA	4	1	1	0	4	0	5	3	1	1	0	0
-GGG	7	6	5	0	6	1	4	5	4	10	2	2
-TAA	1	1	0	1	0	0	0	1	1	0	0	0
-TAG	0	0	1	0	1	1	1	0	0	1	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	YP_002117984.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	55	6	32	43	17	0	5	1	25	6	17	3	6	8	6	1	2	1	3	1	1	1	4	1	1	2	3	0	1	3	20	3	10	18	9	1	1	4	9	1	2	8	22	3	3	7	35	2	11	22	9	3	1	2	13	0	0	4	32	2	4	7	1	0
+1	COX3	YP_002117985.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	25	0	7	21	6	0	0	2	9	1	11	0	3	4	1	0	0	2	1	0	0	1	5	2	0	1	2	0	0	0	10	0	3	3	4	0	2	2	1	0	0	1	9	1	4	3	23	1	1	11	2	0	0	2	5	0	2	4	10	0	1	6	1	0
+2	CYTB	YP_002117986.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	30	4	9	37	15	0	3	1	23	3	6	1	5	6	6	0	2	3	6	0	4	0	8	0	0	4	3	0	0	3	19	1	6	14	8	0	0	1	12	1	0	8	6	0	3	3	24	3	6	11	6	0	1	3	9	0	2	4	12	4	1	5	0	1
+3	ND4L	YP_002117987.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	10	1	5	11	2	0	1	1	2	0	1	1	1	0	2	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	9	0	1	4	5	0	0	0	2	0	1	0	4	0	0	1	3	0	4	4	0	0	0	0	2	0	1	3	1	0	0	0	1	0
+4	ND4	YP_002117988.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	53	4	26	34	15	1	5	1	24	1	18	4	5	7	2	0	4	1	7	0	0	2	6	2	1	1	4	0	0	3	14	4	7	9	9	1	0	1	4	1	1	5	13	1	3	5	28	1	12	12	4	1	1	2	5	2	2	8	21	1	4	6	0	1
+5	ATP6	YP_002117989.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	20	4	10	16	2	1	2	1	10	1	6	1	2	2	0	0	0	0	4	1	0	0	1	1	0	0	3	1	0	1	10	1	5	4	0	0	1	0	5	0	0	0	4	0	2	2	13	1	3	8	4	0	0	3	3	0	0	3	6	1	0	1	0	1
+6	ND2	YP_002117990.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	44	7	12	25	14	0	2	2	19	2	15	1	5	6	2	0	0	2	4	0	0	1	1	0	1	1	1	0	0	1	8	0	10	4	1	0	2	1	4	1	1	5	6	0	2	6	22	2	4	13	2	0	0	3	7	0	2	3	6	1	5	4	0	1
+7	ND1	YP_002117991.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	31	3	16	21	7	0	1	2	18	3	12	3	2	6	2	0	0	3	1	0	3	0	1	0	2	1	5	1	2	0	12	1	6	8	2	0	0	2	8	0	1	6	9	0	5	6	24	0	3	8	11	0	1	1	3	1	3	6	15	1	3	5	1	0
+8	ND3	YP_002117992.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	28	0	2	15	2	0	0	0	8	0	4	0	1	2	0	0	0	0	2	0	0	0	0	0	0	1	0	1	0	0	2	0	1	4	1	0	0	0	4	0	0	1	3	0	0	1	11	0	2	3	1	0	0	0	2	0	2	2	4	0	1	4	1	0
+9	COX1	YP_002117993.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	50	3	18	52	23	1	2	4	26	2	16	1	6	12	4	0	0	0	14	0	3	2	14	0	2	1	9	0	0	0	24	2	16	19	16	0	2	3	22	0	2	5	17	0	1	6	37	0	2	14	12	0	2	2	16	1	2	4	31	1	1	10	0	1
+10	COX2	YP_002117994.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	10	1	3	13	7	0	1	3	11	0	12	0	4	1	1	0	0	1	7	0	0	1	6	0	2	1	1	0	1	0	10	1	0	4	6	0	1	0	6	0	2	3	3	0	0	0	21	1	5	9	3	1	0	0	9	0	4	3	10	0	0	2	0	1
+11	ND6	YP_002117995.1	Echinococcus ortleppi	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Taeniidae, Echinococcus	16	0	11	13	1	0	1	1	13	0	10	2	1	2	2	0	0	2	1	0	0	0	1	0	0	0	2	0	0	0	6	0	0	3	2	0	0	0	2	0	1	1	9	1	2	0	12	0	4	7	4	0	0	2	1	0	1	3	9	0	0	2	0	1

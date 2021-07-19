@@ -1,65 +1,11 @@
-	YP_003875577.1|ND2	YP_003875578.1|COX1	YP_003875579.1|COX2	YP_003875580.1|ATP8	YP_003875581.1|ATP6	YP_003875582.1|COX3	YP_003875583.1|ND3	YP_003875584.1|ND6	YP_003875585.1|CYTB	YP_003875587.1|ND5
-TTT	21	31	11	2	10	19	13	9	21	42
-TTC	3	8	3	1	1	5	0	2	5	10
-TTA	24	26	7	7	14	16	10	12	24	44
-TTG	10	9	3	1	2	6	0	1	4	8
-TCT	12	15	7	0	6	11	5	5	17	21
-TCC	7	3	5	0	3	2	4	1	2	12
-TCA	7	7	6	0	4	5	4	3	6	14
-TCG	5	3	1	0	1	1	1	0	1	6
-TAT	6	8	4	1	4	3	0	5	10	6
-TAC	4	12	4	0	1	6	0	2	7	7
-TGT	3	0	0	0	0	0	1	1	2	3
-TGC	1	0	2	0	0	0	0	0	1	2
-TGA	4	8	4	3	2	7	2	0	5	8
-TGG	4	6	3	0	2	5	2	1	3	2
-CTT	13	13	4	1	12	6	4	7	12	18
-CTC	4	3	2	0	1	1	0	2	4	5
-CTA	8	14	2	1	10	5	3	6	4	16
-CTG	3	2	0	0	2	0	0	0	3	4
-CCT	5	14	9	1	4	4	3	2	14	12
-CCC	5	8	1	1	3	1	1	2	5	3
-CCA	1	3	1	0	4	3	0	2	4	0
-CCG	0	1	2	0	1	1	0	0	0	1
-CAT	0	6	3	0	2	9	1	0	5	3
-CAC	2	12	1	0	1	4	0	2	5	4
-CAA	4	5	6	3	3	5	1	3	6	12
-CAG	0	0	0	0	0	0	0	1	1	3
-CGT	1	2	0	0	0	1	0	0	2	3
-CGC	0	0	3	0	0	1	1	0	2	0
-CGA	0	5	1	0	2	2	2	1	2	0
-CGG	0	3	1	0	1	0	0	0	0	3
-ATT	22	27	17	2	15	12	6	11	21	25
-ATC	16	15	3	1	8	8	2	7	13	19
-ATA	19	23	17	3	9	13	7	11	15	27
-ATG	3	6	1	0	2	1	2	5	4	1
-ACT	11	12	6	3	11	8	5	9	12	21
-ACC	6	5	1	1	3	4	0	0	2	9
-ACA	5	13	9	4	9	7	2	3	8	6
-ACG	0	1	0	0	1	1	1	1	0	4
-AAT	8	12	4	7	7	1	1	2	6	11
-AAC	1	8	6	0	7	5	0	6	11	11
-AAA	22	8	7	5	4	3	6	6	14	20
-AAG	0	0	1	0	0	2	0	1	0	1
-AGT	5	4	1	0	2	2	0	4	1	9
-AGC	2	2	1	0	1	0	0	1	1	3
-AGA	8	7	1	1	3	4	1	3	4	13
-AGG	1	1	0	0	0	3	0	1	0	4
-GTT	4	17	5	0	6	5	3	0	10	7
-GTC	1	1	2	1	3	2	2	4	5	4
-GTA	2	14	7	0	6	6	4	3	11	9
-GTG	1	5	2	0	1	3	0	1	0	5
-GCT	7	16	4	0	6	1	2	4	9	16
-GCC	4	10	1	1	4	9	1	3	7	13
-GCA	1	7	4	0	4	2	1	1	4	4
-GCG	1	0	0	0	1	1	0	1	0	3
-GAT	1	7	6	0	0	2	1	0	0	3
-GAC	3	11	6	0	1	1	0	1	7	7
-GAA	3	8	8	0	5	7	5	0	7	6
-GAG	3	0	3	0	1	5	2	2	1	6
-GGT	4	22	2	1	3	6	0	1	4	11
-GGC	0	2	2	0	2	2	2	1	5	3
-GGA	2	11	3	0	1	5	1	3	4	5
-GGG	2	10	1	0	1	2	1	0	8	8
-TAA	1	0	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_003875577.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	21	3	24	10	12	7	7	5	6	4	3	1	4	4	13	4	8	3	5	5	1	0	0	2	4	0	1	0	0	0	22	16	19	3	11	6	5	0	8	1	22	0	5	2	8	1	4	1	2	1	7	4	1	1	1	3	3	3	4	0	2	2	1	0
+1	COX1	YP_003875578.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	31	8	26	9	15	3	7	3	8	12	0	0	8	6	13	3	14	2	14	8	3	1	6	12	5	0	2	0	5	3	27	15	23	6	12	5	13	1	12	8	8	0	4	2	7	1	17	1	14	5	16	10	7	0	7	11	8	0	22	2	11	10	0	0
+2	COX2	YP_003875579.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	11	3	7	3	7	5	6	1	4	4	0	2	4	3	4	2	2	0	9	1	1	2	3	1	6	0	0	3	1	1	17	3	17	1	6	1	9	0	4	6	7	1	1	1	1	0	5	2	7	2	4	1	4	0	6	6	8	3	2	2	3	1	0	0
+3	ATP8	YP_003875580.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	2	1	7	1	0	0	0	0	1	0	0	0	3	0	1	0	1	0	1	1	0	0	0	0	3	0	0	0	0	0	2	1	3	0	3	1	4	0	7	0	5	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_003875581.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	10	1	14	2	6	3	4	1	4	1	0	0	2	2	12	1	10	2	4	3	4	1	2	1	3	0	0	0	2	1	15	8	9	2	11	3	9	1	7	7	4	0	2	1	3	0	6	3	6	1	6	4	4	1	0	1	5	1	3	2	1	1	1	0
+5	COX3	YP_003875582.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	19	5	16	6	11	2	5	1	3	6	0	0	7	5	6	1	5	0	4	1	3	1	9	4	5	0	1	1	2	0	12	8	13	1	8	4	7	1	1	5	3	2	2	0	4	3	5	2	6	3	1	9	2	1	2	1	7	5	6	2	5	2	1	0
+6	ND3	YP_003875583.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	13	0	10	0	5	4	4	1	0	0	1	0	2	2	4	0	3	0	3	1	0	0	1	0	1	0	0	1	2	0	6	2	7	2	5	0	2	1	1	0	6	0	0	0	1	0	3	2	4	0	2	1	1	0	1	0	5	2	0	2	1	1	1	0
+7	ND6	YP_003875584.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	9	2	12	1	5	1	3	0	5	2	1	0	0	1	7	2	6	0	2	2	2	0	0	2	3	1	0	0	1	0	11	7	11	5	9	0	3	1	2	6	6	1	4	1	3	1	0	4	3	1	4	3	1	1	0	1	0	2	1	1	3	0	1	0
+8	CYTB	YP_003875585.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	21	5	24	4	17	2	6	1	10	7	2	1	5	3	12	4	4	3	14	5	4	0	5	5	6	1	2	2	2	0	21	13	15	4	12	2	8	0	6	11	14	0	1	1	4	0	10	5	11	0	9	7	4	0	0	7	7	1	4	5	4	8	1	0
+9	ND5	YP_003875587.1	Caprella mutica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Corophiida, Caprellidira, Caprelloidea, Caprellidae, Caprella	42	10	44	8	21	12	14	6	6	7	3	2	8	2	18	5	16	4	12	3	0	1	3	4	12	3	3	0	0	3	25	19	27	1	21	9	6	4	11	11	20	1	9	3	13	4	7	4	9	5	16	13	4	3	3	7	6	6	11	3	5	8	1	0

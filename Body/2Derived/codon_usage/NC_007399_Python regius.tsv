@@ -1,65 +1,13 @@
-	YP_313694.1|ND1	YP_313695.1|ND2	YP_313696.1|COX1	YP_313697.1|COX2	YP_313698.1|ATP8	YP_313699.1|ATP6	YP_313700.1|COX3	YP_313701.1|ND3	YP_313702.1|ND4L	YP_313703.1|ND4	YP_313704.1|ND5	YP_313706.1|CYTB
-TTT	3	1	24	6	1	4	4	2	3	5	9	5
-TTC	14	8	18	3	0	10	17	3	2	16	24	23
-TTA	7	7	10	2	1	3	3	3	1	11	13	6
-TTG	1	1	0	1	0	0	2	0	0	0	1	0
-TCT	1	2	7	1	0	4	1	0	0	0	5	1
-TCC	10	10	6	3	1	2	3	3	2	11	6	6
-TCA	10	12	13	6	2	6	7	4	3	9	19	14
-TCG	1	1	3	0	0	1	1	0	0	2	1	0
-TAT	1	0	8	5	0	2	6	1	1	5	6	5
-TAC	9	5	13	3	2	3	4	2	0	7	6	9
-TGT	1	0	1	2	0	0	0	0	0	2	1	1
-TGC	0	2	1	0	0	1	1	1	2	4	2	1
-TGA	8	10	18	5	5	3	12	3	0	3	8	11
-TGG	0	0	1	0	0	0	0	0	0	6	1	1
-CTT	6	6	7	6	1	7	6	3	2	13	5	8
-CTC	7	9	11	7	3	7	6	5	5	21	21	8
-CTA	36	35	28	11	4	24	14	12	12	32	49	30
-CTG	0	2	5	2	0	4	3	1	0	6	4	2
-CCT	0	1	2	3	0	1	1	0	0	2	4	0
-CCC	4	5	15	3	0	3	6	4	1	10	6	6
-CCA	19	12	16	8	2	9	4	4	1	12	18	16
-CCG	1	2	0	0	0	0	0	0	0	1	0	2
-CAT	0	4	1	2	0	1	5	0	1	3	3	2
-CAC	2	5	16	5	0	1	10	1	3	9	9	13
-CAA	7	5	7	9	2	5	5	2	1	16	18	6
-CAG	2	1	1	2	0	1	2	0	0	1	1	0
-CGT	0	0	3	0	0	1	0	1	0	0	1	1
-CGC	0	0	0	2	0	1	2	0	0	0	1	1
-CGA	7	4	6	4	0	2	1	0	1	9	5	4
-CGG	0	0	0	0	0	1	1	0	0	0	1	0
-ATT	4	9	17	7	4	7	5	6	5	16	19	17
-ATC	19	15	24	4	4	12	6	9	3	27	48	22
-ATA	24	29	28	7	1	17	8	5	11	31	36	13
-ATG	2	3	4	1	1	2	3	0	2	4	1	3
-ACT	3	6	3	3	0	3	3	1	2	2	7	2
-ACC	12	19	18	9	2	8	13	3	2	27	32	18
-ACA	18	34	22	11	4	12	12	6	6	23	38	16
-ACG	1	4	3	0	0	1	1	0	0	1	0	1
-AAT	1	2	8	2	1	8	1	0	1	3	11	3
-AAC	13	9	10	5	1	6	5	4	1	15	20	13
-AAA	7	12	9	3	3	3	5	1	3	12	24	7
-AAG	1	0	2	0	0	0	0	1	0	0	4	1
-AGT	0	1	1	0	0	0	1	1	0	0	0	0
-AGC	0	4	5	1	0	5	2	1	2	4	10	2
-GTT	0	0	9	5	0	1	4	0	3	1	1	0
-GTC	2	1	7	5	0	3	10	3	1	2	2	4
-GTA	4	3	17	11	1	3	7	1	1	3	7	7
-GTG	0	0	2	1	1	0	0	0	0	3	0	0
-GCT	1	1	4	0	0	2	2	0	1	5	7	3
-GCC	14	13	15	14	2	8	5	2	2	14	14	10
-GCA	8	10	17	5	0	3	7	1	2	15	18	13
-GCG	0	1	0	0	0	1	0	0	0	0	2	0
-GAT	1	2	3	3	0	0	1	1	0	1	1	1
-GAC	3	1	10	6	4	0	3	3	1	3	9	7
-GAA	9	4	8	12	2	6	7	4	2	8	13	5
-GAG	1	1	1	3	0	0	2	1	0	0	0	1
-GGT	2	0	2	1	0	0	1	0	1	2	1	1
-GGC	6	3	21	4	0	5	7	2	1	6	12	8
-GGA	7	5	16	3	0	1	12	3	2	5	12	7
-GGG	1	1	6	2	0	2	1	0	0	2	0	3
-TAA	0	1	0	0	1	0	0	0	0	0	1	0
-TAG	0	0	0	0	0	1	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	1	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_313694.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	3	14	7	1	1	10	10	1	1	9	1	0	8	0	6	7	36	0	0	4	19	1	0	2	7	2	0	0	7	0	4	19	24	2	3	12	18	1	1	13	7	1	0	0	0	2	4	0	1	14	8	0	1	3	9	1	2	6	7	1	0	0	0	0
+1	ND2	YP_313695.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	1	8	7	1	2	10	12	1	0	5	0	2	10	0	6	9	35	2	1	5	12	2	4	5	5	1	0	0	4	0	9	15	29	3	6	19	34	4	2	9	12	0	1	4	0	1	3	0	1	13	10	1	2	1	4	1	0	3	5	1	1	0	0	0
+2	COX1	YP_313696.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	24	18	10	0	7	6	13	3	8	13	1	1	18	1	7	11	28	5	2	15	16	0	1	16	7	1	3	0	6	0	17	24	28	4	3	18	22	3	8	10	9	2	1	5	9	7	17	2	4	15	17	0	3	10	8	1	2	21	16	6	0	0	1	0
+3	COX2	YP_313697.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	6	3	2	1	1	3	6	0	5	3	2	0	5	0	6	7	11	2	3	3	8	0	2	5	9	2	0	2	4	0	7	4	7	1	3	9	11	0	2	5	3	0	0	1	5	5	11	1	0	14	5	0	3	6	12	3	1	4	3	2	0	0	0	0
+4	ATP8	YP_313698.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	1	0	1	0	0	1	2	0	0	2	0	0	5	0	1	3	4	0	0	0	2	0	0	0	2	0	0	0	0	0	4	4	1	1	0	2	4	0	1	1	3	0	0	0	0	0	1	1	0	2	0	0	0	4	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_313699.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	4	10	3	0	4	2	6	1	2	3	0	1	3	0	7	7	24	4	1	3	9	0	1	1	5	1	1	1	2	1	7	12	17	2	3	8	12	1	8	6	3	0	0	5	1	3	3	0	2	8	3	1	0	0	6	0	0	5	1	2	0	1	0	0
+6	COX3	YP_313700.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	4	17	3	2	1	3	7	1	6	4	0	1	12	0	6	6	14	3	1	6	4	0	5	10	5	2	0	2	1	1	5	6	8	3	3	13	12	1	1	5	5	0	1	2	4	10	7	0	2	5	7	0	1	3	7	2	1	7	12	1	0	0	0	0
+7	ND3	YP_313701.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	2	3	3	0	0	3	4	0	1	2	0	1	3	0	3	5	12	1	0	4	4	0	0	1	2	0	1	0	0	0	6	9	5	0	1	3	6	0	0	4	1	1	1	1	0	3	1	0	0	2	1	0	1	3	4	1	0	2	3	0	0	0	0	0
+8	ND4L	YP_313702.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	3	2	1	0	0	2	3	0	1	0	0	2	0	0	2	5	12	0	0	1	1	0	1	3	1	0	0	0	1	0	5	3	11	2	2	2	6	0	1	1	3	0	0	2	3	1	1	0	1	2	2	0	0	1	2	0	1	1	2	0	0	0	0	0
+9	ND4	YP_313703.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	5	16	11	0	0	11	9	2	5	7	2	4	3	6	13	21	32	6	2	10	12	1	3	9	16	1	0	0	9	0	16	27	31	4	2	27	23	1	3	15	12	0	0	4	1	2	3	3	5	14	15	0	1	3	8	0	2	6	5	2	0	0	1	0
+10	ND5	YP_313704.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	9	24	13	1	5	6	19	1	6	6	1	2	8	1	5	21	49	4	4	6	18	0	3	9	18	1	1	1	5	1	19	48	36	1	7	32	38	0	11	20	24	4	0	10	1	2	7	0	7	14	18	2	1	9	13	0	1	12	12	0	1	0	0	0
+11	CYTB	YP_313706.1	Python regius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	5	23	6	0	1	6	14	0	5	9	1	1	11	1	8	8	30	2	0	6	16	2	2	13	6	0	1	1	4	0	17	22	13	3	2	18	16	1	3	13	7	1	0	2	0	4	7	0	3	10	13	0	1	7	5	1	1	8	7	3	0	0	0	0

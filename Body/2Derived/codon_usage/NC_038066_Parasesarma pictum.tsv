@@ -1,65 +1,10 @@
-	YP_009498510.1|CYTB	YP_009498512.1|ND2	YP_009498513.1|COX1	YP_009498514.1|COX2	YP_009498515.1|ATP8	YP_009498516.1|ATP6	YP_009498517.1|COX3	YP_009498518.1|ND3	YP_009498522.1|ND6
-TTT	37	31	36	13	9	13	24	11	21
-TTC	3	8	6	2	1	3	5	1	0
-TTA	37	37	39	17	4	25	18	12	27
-TTG	2	3	5	0	2	2	1	0	0
-TCT	5	19	17	8	3	7	5	5	10
-TCC	1	2	2	1	0	1	0	0	1
-TCA	10	9	12	7	0	10	9	3	9
-TCG	0	2	1	0	0	0	0	0	1
-TAT	13	12	14	9	3	4	11	4	6
-TAC	2	3	3	0	0	1	0	0	0
-TGT	3	0	0	2	0	0	2	1	1
-TGC	0	0	0	0	0	0	0	0	0
-TGA	11	7	15	6	2	6	12	3	2
-TGG	1	0	0	0	0	0	1	0	0
-CTT	5	13	5	9	2	11	8	5	4
-CTC	2	0	0	0	0	0	1	0	1
-CTA	7	6	8	3	0	6	3	3	3
-CTG	0	0	1	0	0	0	0	0	0
-CCT	10	10	11	5	3	6	6	3	2
-CCC	3	0	3	1	0	2	0	0	1
-CCA	9	2	13	5	1	3	3	1	4
-CCG	1	0	0	0	0	0	1	0	0
-CAT	11	1	16	4	1	6	14	0	1
-CAC	2	2	2	1	0	1	1	0	0
-CAA	9	7	7	9	1	4	7	1	2
-CAG	0	2	1	0	0	2	1	0	1
-CGT	0	1	4	4	0	1	1	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	6	1	5	2	0	2	3	2	1
-CGG	1	0	0	1	0	0	0	0	0
-ATT	33	45	41	22	4	20	21	14	20
-ATC	3	4	1	3	0	1	1	3	2
-ATA	12	18	28	10	3	12	8	3	7
-ATG	2	2	4	1	1	0	2	0	1
-ACT	10	5	14	1	1	9	14	1	6
-ACC	2	0	1	1	0	1	0	1	1
-ACA	9	6	16	7	1	5	8	8	4
-ACG	0	1	0	0	0	0	0	0	1
-AAT	15	11	16	12	1	6	2	3	6
-AAC	2	5	2	1	1	2	3	1	0
-AAA	7	9	7	2	4	4	2	4	3
-AAG	0	1	0	0	0	0	0	0	0
-AGT	0	4	1	2	1	4	1	0	0
-AGC	0	0	1	0	0	0	0	0	0
-AGA	5	4	8	5	0	4	7	1	1
-AGG	0	0	1	0	0	0	0	0	0
-GTT	12	6	19	5	1	4	4	1	4
-GTC	1	1	1	0	0	0	0	0	0
-GTA	9	2	16	7	0	5	8	3	3
-GTG	2	0	2	0	0	1	1	0	0
-GCT	16	9	20	6	0	9	10	3	1
-GCC	4	1	3	0	1	2	1	0	0
-GCA	6	3	14	5	0	3	3	3	2
-GCG	1	1	1	0	0	0	1	0	0
-GAT	9	2	11	8	0	0	3	3	0
-GAC	2	0	4	3	0	0	1	0	1
-GAA	2	2	8	10	1	5	7	4	1
-GAG	0	1	0	1	0	0	0	0	0
-GGT	6	3	19	4	0	6	7	0	0
-GGC	0	1	0	1	0	0	2	0	1
-GGA	17	10	26	2	0	5	10	4	3
-GGG	0	0	0	1	0	0	0	0	1
-TAA	0	0	0	0	1	1	1	0	0
-TAG	0	1	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	CYTB	YP_009498510.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	37	3	37	2	5	1	10	0	13	2	3	0	11	1	5	2	7	0	10	3	9	1	11	2	9	0	0	0	6	1	33	3	12	2	10	2	9	0	15	2	7	0	0	0	5	0	12	1	9	2	16	4	6	1	9	2	2	0	6	0	17	0	0	0
+1	ND2	YP_009498512.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	31	8	37	3	19	2	9	2	12	3	0	0	7	0	13	0	6	0	10	0	2	0	1	2	7	2	1	0	1	0	45	4	18	2	5	0	6	1	11	5	9	1	4	0	4	0	6	1	2	0	9	1	3	1	2	0	2	1	3	1	10	0	0	1
+2	COX1	YP_009498513.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	36	6	39	5	17	2	12	1	14	3	0	0	15	0	5	0	8	1	11	3	13	0	16	2	7	1	4	0	5	0	41	1	28	4	14	1	16	0	16	2	7	0	1	1	8	1	19	1	16	2	20	3	14	1	11	4	8	0	19	0	26	0	0	0
+3	COX2	YP_009498514.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	13	2	17	0	8	1	7	0	9	0	2	0	6	0	9	0	3	0	5	1	5	0	4	1	9	0	4	0	2	1	22	3	10	1	1	1	7	0	12	1	2	0	2	0	5	0	5	0	7	0	6	0	5	0	8	3	10	1	4	1	2	1	0	0
+4	ATP8	YP_009498515.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	9	1	4	2	3	0	0	0	3	0	0	0	2	0	2	0	0	0	3	0	1	0	1	0	1	0	0	0	0	0	4	0	3	1	1	0	1	0	1	1	4	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+5	ATP6	YP_009498516.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	13	3	25	2	7	1	10	0	4	1	0	0	6	0	11	0	6	0	6	2	3	0	6	1	4	2	1	0	2	0	20	1	12	0	9	1	5	0	6	2	4	0	4	0	4	0	4	0	5	1	9	2	3	0	0	0	5	0	6	0	5	0	1	0
+6	COX3	YP_009498517.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	24	5	18	1	5	0	9	0	11	0	2	0	12	1	8	1	3	0	6	0	3	1	14	1	7	1	1	0	3	0	21	1	8	2	14	0	8	0	2	3	2	0	1	0	7	0	4	0	8	1	10	1	3	1	3	1	7	0	7	2	10	0	1	0
+7	ND3	YP_009498518.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	11	1	12	0	5	0	3	0	4	0	1	0	3	0	5	0	3	0	3	0	1	0	0	0	1	0	1	0	2	0	14	3	3	0	1	1	8	0	3	1	4	0	0	0	1	0	1	0	3	0	3	0	3	0	3	0	4	0	0	0	4	0	0	1
+8	ND6	YP_009498522.1	Parasesarma pictum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Sesarmidae, Parasesarma	21	0	27	0	10	1	9	1	6	0	1	0	2	0	4	1	3	0	2	1	4	0	1	0	2	1	0	0	1	0	20	2	7	1	6	1	4	1	6	0	3	0	0	0	1	0	4	0	3	0	1	0	2	0	0	1	1	0	0	1	3	1	0	0

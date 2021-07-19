@@ -1,65 +1,13 @@
-	YP_009184309.1|ND1	YP_009184310.1|ND2	YP_009184311.1|COX1	YP_009184312.1|COX2	YP_009184313.1|ATP8	YP_009184314.1|ATP6	YP_009184315.1|COX3	YP_009184316.1|ND3	YP_009184317.1|ND4L	YP_009184318.1|ND4	YP_009184319.1|ND5	YP_009184321.1|CYTB
-TTT	3	1	16	0	2	6	5	4	3	8	17	8
-TTC	19	11	27	6	2	5	20	4	1	10	28	23
-TTA	8	7	10	5	2	5	9	6	1	15	18	8
-TTG	1	1	2	0	1	1	1	0	1	0	2	0
-TCT	2	2	3	2	0	0	4	0	0	6	3	2
-TCC	7	5	4	1	1	2	2	1	0	5	8	4
-TCA	8	13	19	9	3	5	10	4	5	11	23	12
-TCG	1	1	0	0	1	0	0	0	0	0	0	1
-TAT	1	3	6	4	1	1	3	2	2	4	7	4
-TAC	8	8	13	6	0	4	8	1	1	11	15	11
-TGT	0	0	1	0	0	1	1	1	0	1	2	1
-TGC	2	1	0	2	0	1	1	0	3	2	2	3
-TGA	8	10	14	5	3	3	12	4	0	13	10	11
-TGG	0	0	3	0	0	0	0	0	0	0	2	1
-CTT	6	1	8	4	1	8	4	3	3	12	11	11
-CTC	1	7	9	6	1	2	6	4	2	13	22	6
-CTA	42	36	29	18	6	20	8	12	13	43	47	26
-CTG	1	2	2	1	0	2	3	2	2	8	5	2
-CCT	1	3	4	2	2	3	1	0	0	4	5	3
-CCC	4	4	5	2	0	3	3	2	0	6	10	5
-CCA	16	15	20	11	6	8	6	5	3	13	13	14
-CCG	1	0	0	0	0	0	0	0	0	0	0	0
-CAT	3	1	6	3	1	3	3	0	0	4	4	2
-CAC	3	2	12	5	3	3	14	0	3	8	10	10
-CAA	4	7	3	5	4	7	5	3	2	9	19	7
-CAG	1	1	3	1	0	0	2	0	0	1	1	0
-CGT	0	0	1	0	0	2	0	0	0	1	0	1
-CGC	5	0	2	1	0	0	0	0	0	2	1	2
-CGA	3	3	5	4	0	3	4	1	1	5	7	4
-CGG	0	0	0	1	0	0	1	0	0	2	1	1
-ATT	8	14	14	11	1	14	6	5	3	14	16	19
-ATC	15	25	25	9	3	15	9	3	2	28	32	23
-ATA	19	40	24	12	2	12	7	5	11	26	33	11
-ATG	2	4	8	5	1	1	3	0	2	7	8	2
-ACT	4	6	7	2	1	2	3	1	1	10	7	3
-ACC	10	17	10	3	2	8	6	3	3	12	22	11
-ACA	9	20	20	11	6	11	12	4	2	26	21	15
-ACG	1	0	0	0	2	1	0	0	0	2	2	1
-AAT	4	2	6	2	0	4	1	1	3	5	8	5
-AAC	8	14	10	5	0	7	7	3	2	11	20	9
-AAA	8	14	9	5	5	4	1	4	0	13	18	8
-AAG	0	0	0	0	0	1	2	0	0	1	2	1
-AGT	0	0	0	0	0	1	0	0	0	3	0	0
-AGC	2	2	3	4	1	2	4	1	1	8	11	5
-GTT	0	1	7	2	0	3	1	0	0	3	3	1
-GTC	2	1	8	2	0	3	4	0	1	4	4	6
-GTA	10	4	18	7	0	5	12	2	5	7	12	13
-GTG	1	0	5	0	0	1	0	0	0	2	0	0
-GCT	3	2	14	3	0	6	2	1	2	3	3	5
-GCC	12	5	13	5	0	6	12	7	5	9	25	8
-GCA	14	11	14	2	0	7	2	4	2	17	14	9
-GCG	0	0	0	0	0	0	0	0	0	1	0	0
-GAT	1	0	6	1	0	0	0	1	1	1	4	5
-GAC	2	2	8	10	1	1	3	1	0	3	5	5
-GAA	11	4	10	14	2	3	7	5	2	9	9	4
-GAG	0	0	0	0	0	0	1	1	0	0	1	2
-GGT	0	0	9	1	0	2	6	0	1	1	4	3
-GGC	2	2	15	3	0	3	3	2	1	4	7	9
-GGA	10	10	19	4	0	3	7	2	2	10	16	10
-GGG	1	2	4	0	0	2	4	0	0	2	1	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009184309.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	3	19	8	1	2	7	8	1	1	8	0	2	8	0	6	1	42	1	1	4	16	1	3	3	4	1	0	5	3	0	8	15	19	2	4	10	9	1	4	8	8	0	0	2	0	2	10	1	3	12	14	0	1	2	11	0	0	2	10	1	0	0	0	0
+1	ND2	YP_009184310.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	1	11	7	1	2	5	13	1	3	8	0	1	10	0	1	7	36	2	3	4	15	0	1	2	7	1	0	0	3	0	14	25	40	4	6	17	20	0	2	14	14	0	0	2	1	1	4	0	2	5	11	0	0	2	4	0	0	2	10	2	0	0	0	0
+2	COX1	YP_009184311.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	16	27	10	2	3	4	19	0	6	13	1	0	14	3	8	9	29	2	4	5	20	0	6	12	3	3	1	2	5	0	14	25	24	8	7	10	20	0	6	10	9	0	0	3	7	8	18	5	14	13	14	0	6	8	10	0	9	15	19	4	1	0	0	0
+3	COX2	YP_009184312.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	0	6	5	0	2	1	9	0	4	6	0	2	5	0	4	6	18	1	2	2	11	0	3	5	5	1	0	1	4	1	11	9	12	5	2	3	11	0	2	5	5	0	0	4	2	2	7	0	3	5	2	0	1	10	14	0	1	3	4	0	1	0	0	0
+4	ATP8	YP_009184313.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	2	2	2	1	0	1	3	1	1	0	0	0	3	0	1	1	6	0	2	0	6	0	1	3	4	0	0	0	0	0	1	3	2	1	1	2	6	2	0	0	5	0	0	1	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009184314.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	6	5	5	1	0	2	5	0	1	4	1	1	3	0	8	2	20	2	3	3	8	0	3	3	7	0	2	0	3	0	14	15	12	1	2	8	11	1	4	7	4	1	1	2	3	3	5	1	6	6	7	0	0	1	3	0	2	3	3	2	1	0	0	0
+6	COX3	YP_009184315.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	5	20	9	1	4	2	10	0	3	8	1	1	12	0	4	6	8	3	1	3	6	0	3	14	5	2	0	0	4	1	6	9	7	3	3	6	12	0	1	7	1	2	0	4	1	4	12	0	2	12	2	0	0	3	7	1	6	3	7	4	0	0	0	0
+7	ND3	YP_009184316.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	4	4	6	0	0	1	4	0	2	1	1	0	4	0	3	4	12	2	0	2	5	0	0	0	3	0	0	0	1	0	5	3	5	0	1	3	4	0	1	3	4	0	0	1	0	0	2	0	1	7	4	0	1	1	5	1	0	2	2	0	0	0	0	0
+8	ND4L	YP_009184317.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	3	1	1	1	0	0	5	0	2	1	0	3	0	0	3	2	13	2	0	0	3	0	0	3	2	0	0	0	1	0	3	2	11	2	1	3	2	0	3	2	0	0	0	1	0	1	5	0	2	5	2	0	1	0	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_009184318.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	8	10	15	0	6	5	11	0	4	11	1	2	13	0	12	13	43	8	4	6	13	0	4	8	9	1	1	2	5	2	14	28	26	7	10	12	26	2	5	11	13	1	3	8	3	4	7	2	3	9	17	1	1	3	9	0	1	4	10	2	0	0	0	0
+10	ND5	YP_009184319.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	17	28	18	2	3	8	23	0	7	15	2	2	10	2	11	22	47	5	5	10	13	0	4	10	19	1	0	1	7	1	16	32	33	8	7	22	21	2	8	20	18	2	0	11	3	4	12	0	3	25	14	0	4	5	9	1	4	7	16	1	1	0	0	0
+11	CYTB	YP_009184321.1	Chaetophractus vellerosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Chaetophractus	8	23	8	0	2	4	12	1	4	11	1	3	11	1	11	6	26	2	3	5	14	0	2	10	7	0	1	2	4	1	19	23	11	2	3	11	15	1	5	9	8	1	0	5	1	6	13	0	5	8	9	0	5	5	4	2	3	9	10	3	0	0	1	0

@@ -1,65 +1,13 @@
-	NP_443593.1|ND1	NP_443594.1|ND2	NP_443595.1|COX1	NP_443596.1|COX2	NP_443597.1|ATP8	NP_443598.1|ATP6	NP_443599.1|COX3	NP_443600.1|ND3	NP_443601.1|ND4L	NP_443602.1|ND4	NP_443603.1|ND5	NP_443605.1|CYTB
-TTT	5	4	18	5	1	3	8	3	1	7	12	9
-TTC	13	8	24	5	4	7	16	5	4	8	25	18
-TTA	6	6	4	5	0	8	3	0	1	8	7	5
-TTG	1	1	2	0	0	1	0	0	0	1	2	0
-TCT	3	2	7	2	0	1	2	1	3	2	5	4
-TCC	7	8	5	4	1	1	6	5	1	11	12	12
-TCA	6	5	11	6	1	0	2	1	5	7	9	7
-TCG	1	1	0	0	0	0	0	0	0	0	1	0
-TAT	3	1	4	2	0	2	4	2	1	4	2	1
-TAC	8	6	14	6	0	3	8	2	1	9	7	13
-TGT	0	0	0	0	0	0	1	0	1	1	0	1
-TGC	0	0	1	2	0	0	1	1	2	3	6	3
-TGA	7	6	17	5	5	5	12	5	0	17	11	10
-TGG	1	5	0	0	0	0	0	0	1	2	3	2
-CTT	8	15	14	10	1	12	9	6	5	9	16	9
-CTC	16	15	15	4	2	18	5	13	7	30	29	15
-CTA	28	24	24	9	4	13	12	7	10	40	39	28
-CTG	4	13	5	0	0	5	2	2	1	7	7	3
-CCT	4	2	6	3	0	5	2	3	2	2	4	5
-CCC	14	16	12	7	6	4	8	3	0	17	19	9
-CCA	4	3	9	4	2	6	1	0	0	8	8	6
-CCG	2	3	1	0	0	1	1	2	0	0	1	1
-CAT	0	0	3	3	0	3	2	0	0	3	3	3
-CAC	4	8	16	7	1	1	15	0	4	8	13	8
-CAA	6	14	5	9	3	9	8	1	3	11	17	5
-CAG	1	1	2	0	0	0	0	2	0	2	3	0
-CGT	0	0	0	2	0	0	1	0	0	1	1	0
-CGC	0	2	2	1	0	0	0	0	1	2	5	0
-CGA	6	2	4	2	0	6	4	2	2	5	1	10
-CGG	2	0	2	1	0	0	0	0	0	3	1	0
-ATT	8	7	22	15	0	6	7	5	1	20	18	8
-ATC	15	15	16	6	3	12	10	3	1	15	31	19
-ATA	6	12	9	8	0	3	5	1	3	19	18	7
-ATG	4	5	15	4	1	6	3	2	1	9	12	4
-ACT	1	5	4	1	0	3	2	1	1	10	6	4
-ACC	13	23	12	2	1	8	6	4	4	22	36	16
-ACA	6	14	19	5	5	10	12	3	1	12	20	5
-ACG	1	1	1	0	0	1	2	0	0	1	1	0
-AAT	3	2	5	0	1	1	0	0	0	2	7	2
-AAC	9	11	9	4	3	7	1	1	1	9	26	18
-AAA	5	7	8	3	1	1	2	0	0	9	20	9
-AAG	2	1	0	1	0	0	0	1	0	1	0	0
-AGT	1	1	0	0	0	0	1	0	0	0	2	0
-AGC	2	3	4	3	2	7	2	0	2	7	12	1
-GTT	5	1	6	4	0	4	3	0	2	5	4	6
-GTC	10	3	12	6	1	4	6	5	0	5	8	10
-GTA	6	1	20	5	0	3	7	0	1	5	11	11
-GTG	0	1	5	3	0	0	0	0	0	0	2	0
-GCT	3	11	1	2	0	3	4	0	0	7	8	3
-GCC	20	24	29	8	4	14	11	6	8	16	33	17
-GCA	10	4	16	7	0	2	6	2	6	11	11	12
-GCG	1	1	4	2	0	1	1	0	0	1	2	1
-GAT	2	0	2	3	0	0	2	1	1	0	2	3
-GAC	2	2	14	11	0	1	3	3	1	6	10	7
-GAA	8	4	7	12	1	3	10	5	1	9	10	3
-GAG	3	0	4	2	1	1	0	1	1	2	3	2
-GGT	1	0	7	2	0	0	3	0	0	3	5	1
-GGC	7	6	10	4	0	4	8	2	3	17	11	8
-GGA	7	6	15	3	0	7	9	4	2	5	10	14
-GGG	3	6	13	0	0	1	2	0	1	4	4	2
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_443593.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	5	13	6	1	3	7	6	1	3	8	0	0	7	1	8	16	28	4	4	14	4	2	0	4	6	1	0	0	6	2	8	15	6	4	1	13	6	1	3	9	5	2	1	2	5	10	6	0	3	20	10	1	2	2	8	3	1	7	7	3	1	0	0	0
+1	ND2	NP_443594.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	4	8	6	1	2	8	5	1	1	6	0	0	6	5	15	15	24	13	2	16	3	3	0	8	14	1	0	2	2	0	7	15	12	5	5	23	14	1	2	11	7	1	1	3	1	3	1	1	11	24	4	1	0	2	4	0	0	6	6	6	0	0	0	0
+2	COX1	NP_443595.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	18	24	4	2	7	5	11	0	4	14	0	1	17	0	14	15	24	5	6	12	9	1	3	16	5	2	0	2	4	2	22	16	9	15	4	12	19	1	5	9	8	0	0	4	6	12	20	5	1	29	16	4	2	14	7	4	7	10	15	13	1	0	0	0
+3	COX2	NP_443596.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	5	5	5	0	2	4	6	0	2	6	0	2	5	0	10	4	9	0	3	7	4	0	3	7	9	0	2	1	2	1	15	6	8	4	1	2	5	0	0	4	3	1	0	3	4	6	5	3	2	8	7	2	3	11	12	2	2	4	3	0	0	0	0	0
+4	ATP8	NP_443597.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	1	4	0	0	0	1	1	0	0	0	0	0	5	0	1	2	4	0	0	6	2	0	0	1	3	0	0	0	0	0	0	3	0	1	0	1	5	0	1	3	1	0	0	2	0	1	0	0	0	4	0	0	0	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	NP_443598.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	3	7	8	1	1	1	0	0	2	3	0	0	5	0	12	18	13	5	5	4	6	1	3	1	9	0	0	0	6	0	6	12	3	6	3	8	10	1	1	7	1	0	0	7	4	4	3	0	3	14	2	1	0	1	3	1	0	4	7	1	0	0	0	0
+6	COX3	NP_443599.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	8	16	3	0	2	6	2	0	4	8	1	1	12	0	9	5	12	2	2	8	1	1	2	15	8	0	1	0	4	0	7	10	5	3	2	6	12	2	0	1	2	0	1	2	3	6	7	0	4	11	6	1	2	3	10	0	3	8	9	2	0	0	0	0
+7	ND3	NP_443600.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	3	5	0	0	1	5	1	0	2	2	0	1	5	0	6	13	7	2	3	3	0	2	0	0	1	2	0	0	2	0	5	3	1	2	1	4	3	0	0	1	0	1	0	0	0	5	0	0	0	6	2	0	1	3	5	1	0	2	4	0	0	0	0	0
+8	ND4L	NP_443601.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	1	4	1	0	3	1	5	0	1	1	1	2	0	1	5	7	10	1	2	0	0	0	0	4	3	0	0	1	2	0	1	1	3	1	1	4	1	0	0	1	0	0	0	2	2	0	1	0	0	8	6	0	1	1	1	1	0	3	2	1	1	0	0	0
+9	ND4	NP_443602.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	7	8	8	1	2	11	7	0	4	9	1	3	17	2	9	30	40	7	2	17	8	0	3	8	11	2	1	2	5	3	20	15	19	9	10	22	12	1	2	9	9	1	0	7	5	5	5	0	7	16	11	1	0	6	9	2	3	17	5	4	0	0	0	0
+10	ND5	NP_443603.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	12	25	7	2	5	12	9	1	2	7	0	6	11	3	16	29	39	7	4	19	8	1	3	13	17	3	1	5	1	1	18	31	18	12	6	36	20	1	7	26	20	0	2	12	4	8	11	2	8	33	11	2	2	10	10	3	5	11	10	4	1	0	0	0
+11	CYTB	NP_443605.1	Beryx splendens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Berycidae, Beryx	9	18	5	0	4	12	7	0	1	13	1	3	10	2	9	15	28	3	5	9	6	1	3	8	5	0	0	0	10	0	8	19	7	4	4	16	5	0	2	18	9	0	0	1	6	10	11	0	3	17	12	1	3	7	3	2	1	8	14	2	0	0	0	0

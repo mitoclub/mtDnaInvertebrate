@@ -1,65 +1,13 @@
-	YP_009412829.1|ND1	YP_009412830.1|ND2	YP_009412831.1|COX1	YP_009412832.1|COX2	YP_009412833.1|ATP8	YP_009412834.1|ATP6	YP_009412835.1|COX3	YP_009412836.1|ND3	YP_009412837.1|ND4L	YP_009412838.1|ND4	YP_009412839.1|ND5	YP_009412841.1|CYTB
-TTT	9	8	22	5	3	8	12	5	4	9	24	11
-TTC	10	6	19	1	1	6	14	2	2	11	22	18
-TTA	17	17	19	11	3	13	15	5	6	25	33	10
-TTG	0	1	3	0	0	0	0	1	1	2	3	1
-TCT	4	6	10	5	2	2	4	0	2	6	7	10
-TCC	6	8	3	3	3	2	3	3	2	9	13	4
-TCA	13	10	15	5	4	6	8	1	4	14	17	7
-TCG	0	0	1	1	1	1	0	0	0	0	0	2
-TAT	8	6	13	6	2	1	6	3	2	12	12	9
-TAC	5	1	7	4	0	2	4	0	0	6	3	3
-TGT	0	0	0	1	0	0	0	1	2	2	3	1
-TGC	1	1	1	2	0	0	2	0	1	2	2	2
-TGA	8	9	16	5	3	3	12	4	0	11	11	11
-TGG	1	1	1	0	0	0	0	0	0	1	1	1
-CTT	1	11	12	7	0	10	6	5	2	14	14	13
-CTC	9	5	7	2	0	1	3	4	1	7	7	6
-CTA	25	24	17	12	4	12	8	8	11	37	34	22
-CTG	1	3	1	3	0	2	1	2	0	4	3	1
-CCT	2	6	10	2	3	4	3	1	0	4	7	6
-CCC	7	4	6	0	0	5	4	2	1	8	7	4
-CCA	13	12	13	12	1	4	4	3	1	8	11	12
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	2	0	7	4	1	6	8	0	0	5	4	3
-CAC	1	4	12	4	0	2	7	0	1	5	6	8
-CAA	6	9	6	5	5	7	7	4	3	10	18	6
-CAG	0	1	0	1	0	0	0	0	0	0	0	2
-CGT	0	0	2	1	0	1	1	1	1	2	0	1
-CGC	0	0	3	2	0	1	1	0	0	1	3	1
-CGA	8	4	3	3	0	3	2	0	0	6	5	3
-CGG	0	0	0	0	0	0	1	0	0	1	0	3
-ATT	24	21	26	11	2	26	11	8	4	29	45	14
-ATC	7	16	12	6	4	8	4	2	3	13	14	26
-ATA	18	33	27	10	1	11	8	5	11	39	42	13
-ATG	4	4	5	4	2	4	1	1	0	2	3	5
-ACT	2	11	15	5	1	3	7	1	2	6	8	9
-ACC	9	7	4	6	2	7	7	0	2	12	17	7
-ACA	10	18	15	8	4	7	12	4	1	19	30	12
-ACG	0	2	0	1	1	0	0	0	0	2	2	0
-AAT	8	15	8	3	4	5	5	4	3	14	17	3
-AAC	5	7	8	0	1	4	2	1	4	10	20	12
-AAA	7	14	7	1	7	4	1	4	0	11	18	8
-AAG	0	0	2	2	0	1	0	0	0	1	4	2
-AGT	1	2	1	1	0	2	4	1	1	5	4	2
-AGC	2	0	2	4	1	2	1	0	0	6	7	3
-GTT	1	4	5	2	0	3	4	1	1	2	8	5
-GTC	1	0	3	1	0	1	3	3	1	3	0	1
-GTA	8	4	28	7	0	5	6	3	1	10	8	10
-GTG	1	0	2	3	0	0	1	0	1	0	0	0
-GCT	5	6	11	4	0	4	5	1	2	5	11	6
-GCC	9	5	13	3	0	6	7	2	5	9	9	7
-GCA	13	5	16	3	0	6	2	5	2	11	16	11
-GCG	0	0	3	0	0	0	1	0	0	0	0	1
-GAT	1	0	12	4	1	1	2	1	0	0	4	3
-GAC	2	0	5	6	0	0	2	2	1	2	7	7
-GAA	9	4	9	16	1	1	8	7	2	9	10	7
-GAG	2	0	0	1	0	2	0	0	0	0	1	0
-GGT	1	2	12	5	0	4	8	2	0	4	7	4
-GGC	2	5	11	0	0	4	3	0	4	5	4	9
-GGA	8	6	22	3	0	3	9	0	0	7	13	9
-GGG	1	1	2	0	0	0	1	2	0	1	4	2
-TAA	0	0	0	1	0	1	0	1	1	0	1	0
-TAG	0	1	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009412829.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	9	10	17	0	4	6	13	0	8	5	0	1	8	1	1	9	25	1	2	7	13	0	2	1	6	0	0	0	8	0	24	7	18	4	2	9	10	0	8	5	7	0	1	2	1	1	8	1	5	9	13	0	1	2	9	2	1	2	8	1	0	0	0	0
+1	ND2	YP_009412830.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	8	6	17	1	6	8	10	0	6	1	0	1	9	1	11	5	24	3	6	4	12	0	0	4	9	1	0	0	4	0	21	16	33	4	11	7	18	2	15	7	14	0	2	0	4	0	4	0	6	5	5	0	0	0	4	0	2	5	6	1	0	1	0	0
+2	COX1	YP_009412831.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	22	19	19	3	10	3	15	1	13	7	0	1	16	1	12	7	17	1	10	6	13	0	7	12	6	0	2	3	3	0	26	12	27	5	15	4	15	0	8	8	7	2	1	2	5	3	28	2	11	13	16	3	12	5	9	0	12	11	22	2	0	0	1	0
+3	COX2	YP_009412832.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	5	1	11	0	5	3	5	1	6	4	1	2	5	0	7	2	12	3	2	0	12	0	4	4	5	1	1	2	3	0	11	6	10	4	5	6	8	1	3	0	1	2	1	4	2	1	7	3	4	3	3	0	4	6	16	1	5	0	3	0	1	0	0	0
+4	ATP8	YP_009412833.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	3	1	3	0	2	3	4	1	2	0	0	0	3	0	0	0	4	0	3	0	1	0	1	0	5	0	0	0	0	0	2	4	1	2	1	2	4	1	4	1	7	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009412834.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	8	6	13	0	2	2	6	1	1	2	0	0	3	0	10	1	12	2	4	5	4	0	6	2	7	0	1	1	3	0	26	8	11	4	3	7	7	0	5	4	4	1	2	2	3	1	5	0	4	6	6	0	1	0	1	2	4	4	3	0	1	0	0	0
+6	COX3	YP_009412835.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	12	14	15	0	4	3	8	0	6	4	0	2	12	0	6	3	8	1	3	4	4	0	8	7	7	0	1	1	2	1	11	4	8	1	7	7	12	0	5	2	1	0	4	1	4	3	6	1	5	7	2	1	2	2	8	0	8	3	9	1	0	0	0	0
+7	ND3	YP_009412836.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	5	2	5	1	0	3	1	0	3	0	1	0	4	0	5	4	8	2	1	2	3	0	0	0	4	0	1	0	0	0	8	2	5	1	1	0	4	0	4	1	4	0	1	0	1	3	3	0	1	2	5	0	1	2	7	0	2	0	0	2	1	0	0	0
+8	ND4L	YP_009412837.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	4	2	6	1	2	2	4	0	2	0	2	1	0	0	2	1	11	0	0	1	1	0	0	1	3	0	1	0	0	0	4	3	11	0	2	2	1	0	3	4	0	0	1	0	1	1	1	1	2	5	2	0	0	1	2	0	0	4	0	0	1	0	0	0
+9	ND4	YP_009412838.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	9	11	25	2	6	9	14	0	12	6	2	2	11	1	14	7	37	4	4	8	8	0	5	5	10	0	2	1	6	1	29	13	39	2	6	12	19	2	14	10	11	1	5	6	2	3	10	0	5	9	11	0	0	2	9	0	4	5	7	1	0	0	0	0
+10	ND5	YP_009412839.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	24	22	33	3	7	13	17	0	12	3	3	2	11	1	14	7	34	3	7	7	11	0	4	6	18	0	0	3	5	0	45	14	42	3	8	17	30	2	17	20	18	4	4	7	8	0	8	0	11	9	16	0	4	7	10	1	7	4	13	4	1	0	0	0
+11	CYTB	YP_009412841.1	Microcebus tavaratra	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Microcebus	11	18	10	1	10	4	7	2	9	3	1	2	11	1	13	6	22	1	6	4	12	0	3	8	6	2	1	1	3	3	14	26	13	5	9	7	12	0	3	12	8	2	2	3	5	1	10	0	6	7	11	1	3	7	7	0	4	9	9	2	0	0	1	0

@@ -1,65 +1,13 @@
-	YP_009724992.1|COX1	YP_009724993.1|COX2	YP_009724994.1|ATP8	YP_009724995.1|ATP6	YP_009724996.1|COX3	YP_009724997.1|ND3	YP_009724998.1|ND4L	YP_009724999.1|ND4	YP_009725000.1|ND5	YP_009725001.1|CYTB	YP_009725003.1|ND1	YP_009725004.1|ND2
-TTT	5	0	2	0	6	1	2	4	3	6	3	3
-TTC	38	9	2	10	17	8	4	7	28	23	16	13
-TTA	0	1	0	7	1	0	3	5	5	0	5	4
-TTG	0	0	0	0	0	0	0	0	0	0	0	0
-TCT	6	4	1	3	3	0	1	3	4	4	3	3
-TCC	9	5	2	4	5	6	7	14	17	10	9	16
-TCA	9	7	0	2	3	0	3	10	12	8	6	5
-TCG	0	1	0	0	0	0	0	1	0	1	1	1
-TAT	0	0	0	0	2	0	1	3	2	1	5	2
-TAC	17	7	0	3	8	1	1	11	16	11	9	3
-TGT	0	0	0	0	1	0	0	0	0	0	0	1
-TGC	1	3	1	0	0	1	3	3	6	4	3	1
-TGA	15	5	5	4	12	5	1	12	11	11	7	10
-TGG	2	0	0	0	0	0	0	0	1	0	1	1
-CTT	1	1	3	7	3	2	1	6	8	9	8	4
-CTC	13	11	2	14	13	6	6	29	40	11	20	16
-CTA	39	15	2	31	12	16	11	45	55	39	27	36
-CTG	9	3	0	3	4	4	0	10	4	7	6	8
-CCT	5	3	2	1	3	3	0	4	2	3	2	3
-CCC	9	4	3	6	5	2	0	13	13	10	12	9
-CCA	16	5	4	9	5	3	2	11	15	9	8	8
-CCG	0	0	0	1	0	0	0	0	3	2	2	1
-CAT	1	0	0	1	3	0	2	3	1	1	0	1
-CAC	18	9	0	2	13	1	4	11	10	11	2	10
-CAA	9	7	1	5	9	3	3	11	16	5	5	10
-CAG	0	0	1	3	0	1	0	3	2	2	2	0
-CGT	0	0	0	0	0	0	0	1	0	1	0	0
-CGC	2	2	0	4	2	1	0	4	1	2	2	1
-CGA	6	3	0	1	3	1	2	7	7	5	6	2
-CGG	0	1	0	0	0	0	0	0	0	0	0	0
-ATT	9	2	2	2	1	2	0	11	9	4	7	6
-ATC	31	11	1	14	13	6	3	31	41	26	17	19
-ATA	14	4	0	7	4	2	2	25	20	5	6	10
-ATG	10	4	2	1	4	1	4	8	6	3	5	5
-ACT	7	4	0	3	2	0	0	6	1	2	3	6
-ACC	14	5	5	11	11	5	7	24	41	11	10	19
-ACA	14	7	5	10	8	3	2	11	22	13	3	12
-ACG	2	0	0	0	1	0	0	0	1	0	1	1
-AAT	1	0	1	1	0	0	0	0	2	3	1	1
-AAC	14	7	2	9	3	4	2	14	23	17	12	11
-AAA	9	4	2	3	3	1	0	8	20	7	6	13
-AAG	0	0	0	1	1	0	0	2	2	3	1	1
-AGT	0	0	0	0	0	0	0	0	0	0	2	0
-AGC	3	3	2	5	4	1	4	10	11	1	4	4
-GTT	4	3	0	2	2	0	0	3	2	3	1	2
-GTC	12	12	0	2	8	0	1	2	7	13	6	7
-GTA	21	5	1	4	6	0	1	3	9	6	6	3
-GTG	1	1	0	1	1	1	0	0	1	1	2	0
-GCT	4	2	0	2	3	1	0	5	4	5	5	6
-GCC	23	9	1	11	16	7	5	26	30	16	14	16
-GCA	19	5	0	4	6	2	3	8	18	5	13	13
-GCG	2	1	0	0	0	1	0	2	0	1	1	0
-GAT	4	2	0	0	1	0	0	0	2	1	0	0
-GAC	11	11	0	1	3	3	1	3	7	7	4	1
-GAA	8	8	0	3	6	5	1	7	11	7	7	3
-GAG	2	3	0	1	1	1	1	2	1	0	4	2
-GGT	1	3	0	1	1	0	0	1	1	3	0	2
-GGC	21	1	0	3	10	3	2	9	17	15	5	4
-GGA	18	4	0	4	8	1	2	4	12	5	4	4
-GGG	7	0	0	0	1	1	0	3	2	1	5	3
-TAA	0	1	1	1	0	1	1	0	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	1	0	0	0
-AGG	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	COX1	YP_009724992.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	5	38	0	0	6	9	9	0	0	17	0	1	15	2	1	13	39	9	5	9	16	0	1	18	9	0	0	2	6	0	9	31	14	10	7	14	14	2	1	14	9	0	0	3	4	12	21	1	4	23	19	2	4	11	8	2	1	21	18	7	0	0	0	1
+1	COX2	YP_009724993.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	0	9	1	0	4	5	7	1	0	7	0	3	5	0	1	11	15	3	3	4	5	0	0	9	7	0	0	2	3	1	2	11	4	4	4	5	7	0	0	7	4	0	0	3	3	12	5	1	2	9	5	1	2	11	8	3	3	1	4	0	1	0	0	0
+2	ATP8	YP_009724994.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	2	2	0	0	1	2	0	0	0	0	0	1	5	0	3	2	2	0	2	3	4	0	0	0	1	1	0	0	0	0	2	1	0	2	0	5	5	0	1	2	2	0	0	2	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3	ATP6	YP_009724995.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	0	10	7	0	3	4	2	0	0	3	0	0	4	0	7	14	31	3	1	6	9	1	1	2	5	3	0	4	1	0	2	14	7	1	3	11	10	0	1	9	3	1	0	5	2	2	4	1	2	11	4	0	0	1	3	1	1	3	4	0	1	0	0	0
+4	COX3	YP_009724996.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	6	17	1	0	3	5	3	0	2	8	1	0	12	0	3	13	12	4	3	5	5	0	3	13	9	0	0	2	3	0	1	13	4	4	2	11	8	1	0	3	3	1	0	4	2	8	6	1	3	16	6	0	1	3	6	1	1	10	8	1	0	0	0	0
+5	ND3	YP_009724997.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	1	8	0	0	0	6	0	0	0	1	0	1	5	0	2	6	16	4	3	2	3	0	0	1	3	1	0	1	1	0	2	6	2	1	0	5	3	0	0	4	1	0	0	1	0	0	0	1	1	7	2	1	0	3	5	1	0	3	1	1	1	0	0	0
+6	ND4L	YP_009724998.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	2	4	3	0	1	7	3	0	1	1	0	3	1	0	1	6	11	0	0	0	2	0	2	4	3	0	0	0	2	0	0	3	2	4	0	7	2	0	0	2	0	0	0	4	0	1	1	0	0	5	3	0	0	1	1	1	0	2	2	0	1	0	0	0
+7	ND4	YP_009724999.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	4	7	5	0	3	14	10	1	3	11	0	3	12	0	6	29	45	10	4	13	11	0	3	11	11	3	1	4	7	0	11	31	25	8	6	24	11	0	0	14	8	2	0	10	3	2	3	0	5	26	8	2	0	3	7	2	1	9	4	3	0	0	0	0
+8	ND5	YP_009725000.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	3	28	5	0	4	17	12	0	2	16	0	6	11	1	8	40	55	4	2	13	15	3	1	10	16	2	0	1	7	0	9	41	20	6	1	41	22	1	2	23	20	2	0	11	2	7	9	1	4	30	18	0	2	7	11	1	1	17	12	2	0	0	1	0
+9	CYTB	YP_009725001.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	6	23	0	0	4	10	8	1	1	11	0	4	11	0	9	11	39	7	3	10	9	2	1	11	5	2	1	2	5	0	4	26	5	3	2	11	13	0	3	17	7	3	0	1	3	13	6	1	5	16	5	1	1	7	7	0	3	15	5	1	1	0	0	0
+10	ND1	YP_009725003.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	3	16	5	0	3	9	6	1	5	9	0	3	7	1	8	20	27	6	2	12	8	2	0	2	5	2	0	2	6	0	7	17	6	5	3	10	3	1	1	12	6	1	2	4	1	6	6	2	5	14	13	1	0	4	7	4	0	5	4	5	1	0	0	0
+11	ND2	YP_009725004.1	Seicercus borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Sylvioidea, Phylloscopidae, Seicercus	3	13	4	0	3	16	5	1	2	3	1	1	10	1	4	16	36	8	3	9	8	1	1	10	10	0	0	1	2	0	6	19	10	5	6	19	12	1	1	11	13	1	0	4	2	7	3	0	6	16	13	0	0	1	3	2	2	4	4	3	0	0	0	0

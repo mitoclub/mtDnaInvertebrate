@@ -1,65 +1,10 @@
-	YP_009755468.1|nad2	YP_009755469.1|cox1	YP_009755470.1|cox2	YP_009755471.1|atp8	YP_009755472.1|atp6	YP_009755473.1|cox3	YP_009755474.1|nad3	YP_009755478.1|nad6	YP_009755479.1|cob
-TTT	23	32	10	3	14	21	7	5	26
-TTC	8	7	7	0	4	5	2	3	8
-TTA	31	32	15	4	23	15	13	16	36
-TTG	3	2	0	0	0	0	0	1	3
-TCT	10	9	2	2	7	4	4	5	3
-TCC	2	6	1	0	1	1	3	0	0
-TCA	15	16	6	1	5	11	4	8	9
-TCG	2	0	1	0	0	0	0	0	0
-TAT	11	14	7	3	3	8	2	4	12
-TAC	1	4	0	0	2	3	0	2	4
-TGT	2	1	2	1	2	1	1	1	2
-TGC	1	0	0	0	0	0	0	1	1
-TGA	9	13	6	3	5	12	3	1	13
-TGG	1	2	0	0	0	1	0	0	0
-CTT	4	10	5	2	4	3	4	2	4
-CTC	1	1	0	0	0	2	1	2	0
-CTA	9	17	9	1	7	8	0	6	12
-CTG	0	0	0	0	2	0	0	0	0
-CCT	1	8	6	3	5	6	1	2	7
-CCC	6	4	2	0	4	3	1	1	6
-CCA	2	12	4	1	3	3	2	1	9
-CCG	0	0	0	0	0	0	0	1	1
-CAT	2	12	3	0	7	13	1	0	6
-CAC	1	5	3	0	1	3	0	1	5
-CAA	7	10	6	2	4	7	2	3	7
-CAG	1	1	1	0	0	0	0	0	1
-CGT	1	2	1	0	0	3	0	0	1
-CGC	0	0	1	0	0	0	0	0	1
-CGA	1	8	5	0	2	1	2	1	6
-CGG	0	0	0	0	1	0	0	0	0
-ATT	37	45	20	2	18	17	21	25	36
-ATC	3	5	4	0	2	1	2	0	5
-ATA	35	25	9	4	13	8	8	19	12
-ATG	1	1	1	1	1	1	0	0	1
-ACT	6	11	3	1	8	8	1	3	4
-ACC	2	2	2	0	5	2	0	1	7
-ACA	10	20	5	1	6	11	2	7	10
-ACG	0	0	0	0	0	0	0	0	0
-AAT	21	14	9	3	11	6	2	10	18
-AAC	4	3	3	0	0	1	2	3	3
-AAA	10	4	3	4	1	1	4	4	6
-AAG	1	1	1	1	1	0	0	1	1
-AGT	0	5	3	2	1	1	0	1	1
-AGC	1	1	1	2	2	2	0	0	0
-AGA	3	3	1	0	6	2	2	1	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	9	2	1	5	8	0	1	7
-GTC	1	1	2	0	0	0	1	0	1
-GTA	1	21	12	2	9	11	4	6	17
-GTG	1	3	0	0	0	0	0	1	0
-GCT	5	12	2	2	3	7	2	2	8
-GCC	4	7	1	1	4	3	1	1	3
-GCA	5	17	8	0	6	5	0	1	13
-GCG	0	1	0	0	0	0	1	0	0
-GAT	1	10	10	0	0	4	1	1	7
-GAC	0	5	1	0	1	0	2	0	4
-GAA	8	9	9	0	4	7	4	5	3
-GAG	1	0	0	0	0	0	0	0	0
-GGT	2	5	3	0	1	2	1	1	2
-GGC	0	0	1	0	4	1	0	0	4
-GGA	10	32	6	0	4	12	2	3	17
-GGG	3	10	2	0	3	7	1	1	3
-TAA	1	0	1	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	nad2	YP_009755468.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	23	8	31	3	10	2	15	2	11	1	2	1	9	1	4	1	9	0	1	6	2	0	2	1	7	1	1	0	1	0	37	3	35	1	6	2	10	0	21	4	10	1	0	1	3	0	5	1	1	1	5	4	5	0	1	0	8	1	2	0	10	3	1	0
+1	cox1	YP_009755469.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	32	7	32	2	9	6	16	0	14	4	1	0	13	2	10	1	17	0	8	4	12	0	12	5	10	1	2	0	8	0	45	5	25	1	11	2	20	0	14	3	4	1	5	1	3	0	9	1	21	3	12	7	17	1	10	5	9	0	5	0	32	10	0	0
+2	cox2	YP_009755470.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	10	7	15	0	2	1	6	1	7	0	2	0	6	0	5	0	9	0	6	2	4	0	3	3	6	1	1	1	5	0	20	4	9	1	3	2	5	0	9	3	3	1	3	1	1	0	2	2	12	0	2	1	8	0	10	1	9	0	3	1	6	2	1	0
+3	atp8	YP_009755471.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	3	0	4	0	2	0	1	0	3	0	1	0	3	0	2	0	1	0	3	0	1	0	0	0	2	0	0	0	0	0	2	0	4	1	1	0	1	0	3	0	4	1	2	2	0	0	1	0	2	0	2	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	atp6	YP_009755472.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	14	4	23	0	7	1	5	0	3	2	2	0	5	0	4	0	7	2	5	4	3	0	7	1	4	0	0	0	2	1	18	2	13	1	8	5	6	0	11	0	1	1	1	2	6	0	5	0	9	0	3	4	6	0	0	1	4	0	1	4	4	3	1	0
+5	cox3	YP_009755473.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	21	5	15	0	4	1	11	0	8	3	1	0	12	1	3	2	8	0	6	3	3	0	13	3	7	0	3	0	1	0	17	1	8	1	8	2	11	0	6	1	1	0	1	2	2	0	8	0	11	0	7	3	5	0	4	0	7	0	2	1	12	7	1	0
+6	nad3	YP_009755474.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	7	2	13	0	4	3	4	0	2	0	1	0	3	0	4	1	0	0	1	1	2	0	1	0	2	0	0	0	2	0	21	2	8	0	1	0	2	0	2	2	4	0	0	0	2	0	0	1	4	0	2	1	0	1	1	2	4	0	1	0	2	1	0	1
+7	nad6	YP_009755478.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	5	3	16	1	5	0	8	0	4	2	1	1	1	0	2	2	6	0	2	1	1	1	0	1	3	0	0	0	1	0	25	0	19	0	3	1	7	0	10	3	4	1	1	0	1	0	1	0	6	1	2	1	1	0	1	0	5	0	1	0	3	1	1	0
+8	cob	YP_009755479.1	Hercostomus brevipilosus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Empidoidea, Dolichopodidae, Dolichopodinae, Hercostomus	26	8	36	3	3	0	9	0	12	4	2	1	13	0	4	0	12	0	7	6	9	1	6	5	7	1	1	1	6	0	36	5	12	1	4	7	10	0	18	3	6	1	1	0	2	0	7	1	17	0	8	3	13	0	7	4	3	0	2	4	17	3	0	1

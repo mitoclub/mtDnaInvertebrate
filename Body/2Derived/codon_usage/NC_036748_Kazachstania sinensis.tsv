@@ -1,65 +1,12 @@
-	YP_009454572.1	YP_009454574.1	YP_009454575.1	YP_009454576.1	YP_009454577.1	YP_009454578.1	YP_009454579.1	YP_009454580.1	YP_009454581.1	YP_009454582.1	YP_009454583.1
-TTT	8	1	22	0	0	17	4	17	20	5	16
-TTC	1	4	25	1	0	0	0	9	17	3	4
-TTA	29	12	60	0	0	18	14	43	41	17	24
-TTG	0	0	0	0	0	0	0	0	0	0	1
-TCT	1	1	9	0	0	4	2	8	4	3	6
-TCC	0	0	1	0	0	0	0	0	1	0	0
-TCA	5	3	28	0	0	3	1	5	16	5	5
-TCG	0	0	0	0	0	0	0	0	0	1	0
-TAT	23	1	21	0	0	24	4	10	20	16	29
-TAC	0	1	3	0	0	0	0	3	2	1	3
-TGT	0	0	1	0	0	1	0	1	2	1	2
-TGC	0	1	0	0	0	0	0	0	3	0	1
-TGA	2	0	10	0	0	4	0	4	8	3	4
-TGG	0	0	0	0	0	0	0	0	0	0	2
-CTT	1	0	1	0	0	2	0	0	0	0	1
-CTC	0	0	0	0	0	0	0	0	0	1	1
-CTA	2	1	0	0	0	4	1	2	3	2	3
-CTG	0	0	0	1	0	1	0	0	0	1	0
-CCT	2	1	14	0	0	4	1	4	9	4	7
-CCC	0	0	0	0	0	1	0	0	0	0	0
-CCA	2	0	11	0	0	2	2	4	11	1	0
-CCG	0	0	0	0	0	0	0	0	0	0	0
-CAT	4	0	15	0	0	3	0	5	12	1	2
-CAC	0	0	0	0	0	0	0	0	0	2	0
-CAA	2	1	9	0	1	5	2	5	8	4	8
-CAG	0	0	1	0	0	0	0	0	0	0	2
-CGT	0	0	0	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	0	1
-CGA	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0
-ATT	27	10	44	1	0	16	4	35	31	17	33
-ATC	1	0	5	0	0	0	1	0	7	1	0
-ATA	23	0	9	0	0	20	1	8	3	16	29
-ATG	3	4	23	1	0	1	2	7	13	0	3
-ACT	4	1	7	0	0	4	0	7	9	7	3
-ACC	0	0	0	0	0	0	0	0	0	0	2
-ACA	7	1	19	0	0	4	2	4	6	6	3
-ACG	0	0	1	0	0	0	0	0	0	0	0
-AAT	82	1	23	0	0	31	1	17	18	22	67
-AAC	1	1	1	0	0	2	0	1	3	0	0
-AAA	29	2	10	0	0	25	2	5	8	16	32
-AAG	2	0	0	0	0	2	0	0	0	1	2
-AGT	6	0	5	0	0	5	0	11	4	3	5
-AGC	0	0	0	0	0	0	0	0	0	0	0
-AGA	3	1	10	0	0	8	1	3	10	6	4
-AGG	0	0	0	0	0	0	0	0	0	0	1
-GTT	3	2	6	0	0	2	0	5	11	2	2
-GTC	0	0	1	0	0	0	0	0	0	0	1
-GTA	3	1	27	0	0	4	2	7	23	4	3
-GTG	0	1	1	0	0	0	0	0	1	0	0
-GCT	0	3	29	0	0	3	0	8	14	3	4
-GCC	0	5	3	0	0	0	0	0	1	1	1
-GCA	1	4	13	0	0	1	0	2	7	1	1
-GCG	0	0	0	0	0	0	0	0	0	0	0
-GAT	6	0	13	1	0	11	0	3	7	7	9
-GAC	1	0	1	0	0	0	0	0	1	1	0
-GAA	5	1	8	0	0	6	0	3	4	5	3
-GAG	0	1	0	0	0	1	0	1	1	1	3
-GGT	5	4	28	0	0	4	1	9	16	7	12
-GGC	0	0	1	0	0	0	0	0	0	0	0
-GGA	0	6	12	0	0	3	0	3	8	4	1
-GGG	0	0	1	0	0	0	0	0	3	0	0
-TAA	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009454572.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	8	1	29	0	1	0	5	0	23	0	0	0	2	0	1	0	2	0	2	0	2	0	4	0	2	0	0	0	0	0	27	1	23	3	4	0	7	0	82	1	29	2	6	0	3	0	3	0	3	0	0	0	1	0	6	1	5	0	5	0	0	0	1	0
+1	None	YP_009454574.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	1	4	12	0	1	0	3	0	1	1	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	10	0	0	4	1	0	1	0	1	1	2	0	0	0	1	0	2	0	1	1	3	5	4	0	0	0	1	1	4	0	6	0	1	0
+2	None	YP_009454575.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	22	25	60	0	9	1	28	0	21	3	1	0	10	0	1	0	0	0	14	0	11	0	15	0	9	1	0	0	0	0	44	5	9	23	7	0	19	1	23	1	10	0	5	0	10	0	6	1	27	1	29	3	13	0	13	1	8	0	28	1	12	1	1	0
+3	None	YP_009454576.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	None	YP_009454577.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+5	None	YP_009454578.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	17	0	18	0	4	0	3	0	24	0	1	0	4	0	2	0	4	1	4	1	2	0	3	0	5	0	0	0	0	0	16	0	20	1	4	0	4	0	31	2	25	2	5	0	8	0	2	0	4	0	3	0	1	0	11	0	6	1	4	0	3	0	1	0
+6	None	YP_009454579.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	4	0	14	0	2	0	1	0	4	0	0	0	0	0	0	0	1	0	1	0	2	0	0	0	2	0	0	0	0	0	4	1	1	2	0	0	2	0	1	0	2	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+7	None	YP_009454580.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	17	9	43	0	8	0	5	0	10	3	1	0	4	0	0	0	2	0	4	0	4	0	5	0	5	0	0	0	0	0	35	0	8	7	7	0	4	0	17	1	5	0	11	0	3	0	5	0	7	0	8	0	2	0	3	0	3	1	9	0	3	0	1	0
+8	None	YP_009454581.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	20	17	41	0	4	1	16	0	20	2	2	3	8	0	0	0	3	0	9	0	11	0	12	0	8	0	0	0	0	0	31	7	3	13	9	0	6	0	18	3	8	0	4	0	10	0	11	0	23	1	14	1	7	0	7	1	4	1	16	0	8	3	1	0
+9	None	YP_009454582.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	5	3	17	0	3	0	5	1	16	1	1	0	3	0	0	1	2	1	4	0	1	0	1	2	4	0	0	0	0	0	17	1	16	0	7	0	6	0	22	0	16	1	3	0	6	0	2	0	4	0	3	1	1	0	7	1	5	1	7	0	4	0	1	0
+10	None	YP_009454583.1	Kazachstania sinensis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Kazachstania	16	4	24	1	6	0	5	0	29	3	2	1	4	2	1	1	3	0	7	0	0	0	2	0	8	2	0	1	0	0	33	0	29	3	3	2	3	0	67	0	32	2	5	0	4	1	2	1	3	0	4	1	1	0	9	0	3	3	12	0	1	0	1	0

@@ -1,65 +1,13 @@
-	YP_004221809.1|ND1	YP_004221810.1|ND2	YP_004221811.1|COX1	YP_004221812.1|COX2	YP_004221813.1|ATP8	YP_004221814.1|ATP6	YP_004221815.1|COX3	YP_004221816.1|ND3	YP_004221817.1|ND4L	YP_004221818.1|ND4	YP_004221819.1|ND5	YP_004221821.1|CYTB
-TTT	13	13	25	3	3	10	13	4	4	12	28	14
-TTC	10	6	16	5	1	2	12	4	1	7	14	16
-TTA	2	4	3	2	1	5	2	3	2	7	8	2
-TTG	4	4	5	3	0	2	3	4	3	14	4	4
-TCT	5	12	9	1	1	3	4	3	1	5	12	6
-TCC	10	8	9	7	0	1	2	3	2	9	18	13
-TCA	3	1	6	5	0	2	4	0	1	11	3	2
-TCG	1	2	3	1	0	0	1	1	1	1	2	3
-TAT	6	4	10	2	1	4	6	0	1	6	5	5
-TAC	6	4	8	7	1	2	6	2	0	9	8	8
-TGT	0	1	0	1	0	0	0	1	1	1	2	2
-TGC	0	2	1	1	0	0	2	0	2	3	4	1
-TGA	4	5	17	5	5	2	10	3	1	11	7	10
-TGG	4	6	0	0	0	2	2	2	0	7	7	3
-CTT	23	33	17	7	2	10	9	5	7	25	34	22
-CTC	22	26	19	12	1	16	9	13	5	26	27	16
-CTA	4	6	13	3	1	12	5	6	5	9	12	5
-CTG	5	5	6	1	0	4	3	1	1	13	10	7
-CCT	5	7	9	1	2	4	2	1	0	6	4	2
-CCC	13	18	10	6	2	8	9	7	1	13	21	13
-CCA	3	1	6	6	2	4	1	0	1	7	7	4
-CCG	3	0	2	0	1	2	0	1	0	1	1	2
-CAT	3	2	3	3	0	1	3	0	1	4	5	2
-CAC	1	5	17	7	1	2	12	0	4	6	6	10
-CAA	5	7	4	5	0	7	7	3	1	6	6	4
-CAG	2	3	4	3	1	3	1	0	1	5	12	1
-CGT	2	0	4	4	0	2	3	0	0	5	4	2
-CGC	2	3	2	1	1	1	2	1	1	1	5	2
-CGA	3	0	2	0	0	0	0	1	1	3	1	3
-CGG	1	1	0	1	0	2	0	0	0	3	1	1
-ATT	12	10	26	10	3	10	7	5	0	14	30	16
-ATC	5	7	11	10	0	10	4	3	0	18	18	12
-ATA	5	5	7	5	0	6	3	1	4	7	9	2
-ATG	5	7	17	9	1	6	4	1	1	15	19	10
-ACT	3	15	10	5	0	3	9	0	1	15	13	5
-ACC	12	17	11	3	2	7	10	3	5	20	30	11
-ACA	2	5	8	2	2	7	3	0	5	2	8	3
-ACG	1	1	7	1	0	2	3	0	0	3	5	3
-AAT	4	1	6	3	2	2	1	1	0	3	5	6
-AAC	6	2	8	4	2	6	1	0	1	7	23	12
-AAA	3	5	7	4	3	1	2	1	1	4	9	4
-AAG	4	3	2	0	0	0	0	0	0	2	8	5
-AGT	1	1	1	1	1	0	0	2	1	6	2	0
-AGC	4	5	4	2	0	4	3	0	3	5	7	0
-GTT	9	7	15	5	0	1	8	1	0	8	11	7
-GTC	13	3	7	3	2	6	5	2	1	9	13	12
-GTA	2	0	11	6	1	3	2	0	1	2	1	5
-GTG	1	3	11	2	2	4	2	2	1	1	5	5
-GCT	7	12	7	2	1	1	4	1	3	4	8	7
-GCC	22	24	24	7	1	12	8	6	7	27	34	19
-GCA	8	2	11	4	1	3	7	2	3	9	12	5
-GCG	2	0	4	3	0	1	3	2	2	3	6	0
-GAT	0	1	7	5	0	1	2	1	1	1	5	5
-GAC	3	1	7	7	1	0	4	2	0	4	8	6
-GAA	7	4	5	11	2	2	7	4	1	3	7	4
-GAG	3	2	6	4	0	2	3	2	1	5	4	4
-GGT	2	4	8	4	0	4	4	1	0	4	4	7
-GGC	9	11	13	1	0	7	13	3	4	14	21	13
-GGA	2	0	9	1	1	1	3	0	1	1	7	4
-GGG	2	1	16	3	0	2	3	1	1	8	0	3
-TAA	0	0	1	0	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004221809.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	13	10	2	4	5	10	3	1	6	6	0	0	4	4	23	22	4	5	5	13	3	3	3	1	5	2	2	2	3	1	12	5	5	5	3	12	2	1	4	6	3	4	1	4	9	13	2	1	7	22	8	2	0	3	7	3	2	9	2	2	0	0	0	1
+1	ND2	YP_004221810.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	13	6	4	4	12	8	1	2	4	4	1	2	5	6	33	26	6	5	7	18	1	0	2	5	7	3	0	3	0	1	10	7	5	7	15	17	5	1	1	2	5	3	1	5	7	3	0	3	12	24	2	0	1	1	4	2	4	11	0	1	0	0	0	0
+2	COX1	YP_004221811.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	25	16	3	5	9	9	6	3	10	8	0	1	17	0	17	19	13	6	9	10	6	2	3	17	4	4	4	2	2	0	26	11	7	17	10	11	8	7	6	8	7	2	1	4	15	7	11	11	7	24	11	4	7	7	5	6	8	13	9	16	1	0	0	0
+3	COX2	YP_004221812.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	3	5	2	3	1	7	5	1	2	7	1	1	5	0	7	12	3	1	1	6	6	0	3	7	5	3	4	1	0	1	10	10	5	9	5	3	2	1	3	4	4	0	1	2	5	3	6	2	2	7	4	3	5	7	11	4	4	1	1	3	0	0	0	0
+4	ATP8	YP_004221813.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	3	1	1	0	1	0	0	0	1	1	0	0	5	0	2	1	1	0	2	2	2	1	0	1	0	1	0	1	0	0	3	0	0	1	0	2	2	0	2	2	3	0	1	0	0	2	1	2	1	1	1	0	0	1	2	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_004221814.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	10	2	5	2	3	1	2	0	4	2	0	0	2	2	10	16	12	4	4	8	4	2	1	2	7	3	2	1	0	2	10	10	6	6	3	7	7	2	2	6	1	0	0	4	1	6	3	4	1	12	3	1	1	0	2	2	4	7	1	2	1	0	0	0
+6	COX3	YP_004221815.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	13	12	2	3	4	2	4	1	6	6	0	2	10	2	9	9	5	3	2	9	1	0	3	12	7	1	3	2	0	0	7	4	3	4	9	10	3	3	1	1	2	0	0	3	8	5	2	2	4	8	7	3	2	4	7	3	4	13	3	3	0	0	0	0
+7	ND3	YP_004221816.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	4	4	3	4	3	3	0	1	0	2	1	0	3	2	5	13	6	1	1	7	0	1	0	0	3	0	0	1	1	0	5	3	1	1	0	3	0	0	1	0	1	0	2	0	1	2	0	2	1	6	2	2	1	2	4	2	1	3	0	1	1	0	0	0
+8	ND4L	YP_004221817.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	4	1	2	3	1	2	1	1	1	0	1	2	1	0	7	5	5	1	0	1	1	0	1	4	1	1	0	1	1	0	0	0	4	1	1	5	5	0	0	1	1	0	1	3	0	1	1	1	3	7	3	2	1	0	1	1	0	4	1	1	1	0	0	0
+9	ND4	YP_004221818.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	12	7	7	14	5	9	11	1	6	9	1	3	11	7	25	26	9	13	6	13	7	1	4	6	6	5	5	1	3	3	14	18	7	15	15	20	2	3	3	7	4	2	6	5	8	9	2	1	4	27	9	3	1	4	3	5	4	14	1	8	0	0	0	0
+10	ND5	YP_004221819.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	28	14	8	4	12	18	3	2	5	8	2	4	7	7	34	27	12	10	4	21	7	1	5	6	6	12	4	5	1	1	30	18	9	19	13	30	8	5	5	23	9	8	2	7	11	13	1	5	8	34	12	6	5	8	7	4	4	21	7	0	1	0	0	0
+11	CYTB	YP_004221821.1	Jenkinsia sp. CL54	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Spratelloidinae, Jenkinsia	14	16	2	4	6	13	2	3	5	8	2	1	10	3	22	16	5	7	2	13	4	2	2	10	4	1	2	2	3	1	16	12	2	10	5	11	3	3	6	12	4	5	0	0	7	12	5	5	7	19	5	0	5	6	4	4	7	13	4	3	0	0	0	0

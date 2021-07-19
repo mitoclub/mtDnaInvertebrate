@@ -1,65 +1,11 @@
-	YP_009184518.1|ND2	YP_009184520.1|COX2	YP_009184521.1|ATP8	YP_009184522.1|ATP6	YP_009184523.1|COX3	YP_009184524.1|ND3	YP_009184525.1|ND4L	YP_009184526.1|ND4	YP_009184527.1|ND5	YP_009184529.1|CYTB
-TTT	4	1	2	5	6	5	4	5	20	10
-TTC	10	5	2	6	20	3	0	12	26	21
-TTA	3	6	1	6	6	7	5	15	22	6
-TTG	1	0	1	1	1	1	0	0	1	2
-TCT	1	1	0	0	4	0	0	5	2	1
-TCC	5	2	1	3	3	1	0	6	10	4
-TCA	16	10	3	5	10	4	5	10	23	14
-TCG	0	0	1	0	0	0	0	1	0	0
-TAT	2	3	1	1	7	1	1	5	6	2
-TAC	8	7	0	3	3	2	2	10	13	12
-TGT	0	0	0	1	1	1	0	1	1	1
-TGC	0	2	0	1	1	0	3	2	3	3
-TGA	9	5	3	3	12	4	0	13	12	11
-TGG	1	0	0	0	0	0	0	0	0	1
-CTT	3	4	1	8	4	5	3	14	15	7
-CTC	6	7	1	2	6	2	1	15	19	8
-CTA	39	16	6	17	9	10	13	43	41	28
-CTG	1	2	1	4	5	1	0	5	7	1
-CCT	2	1	2	3	2	1	0	4	5	3
-CCC	5	4	0	3	3	1	0	6	9	5
-CCA	14	9	6	7	6	5	2	13	12	13
-CCG	0	0	0	1	0	0	1	0	2	1
-CAT	1	3	2	2	5	0	1	4	5	3
-CAC	3	5	2	4	11	0	2	8	9	10
-CAA	8	6	4	6	7	3	2	10	20	6
-CAG	0	0	0	1	0	0	0	0	1	1
-CGT	0	1	0	2	1	0	0	1	0	1
-CGC	0	0	0	0	0	0	0	2	2	2
-CGA	3	4	0	3	4	1	1	6	8	5
-CGG	0	1	0	0	0	0	0	1	0	0
-ATT	21	9	3	10	6	5	2	19	21	15
-ATC	19	10	1	20	8	3	3	24	31	28
-ATA	39	12	2	11	9	6	11	28	32	13
-ATG	4	4	1	2	3	0	2	5	4	1
-ACT	8	2	1	1	1	1	1	7	8	1
-ACC	14	3	2	9	10	3	2	16	18	13
-ACA	20	10	6	12	10	3	3	28	29	15
-ACG	0	2	2	0	0	1	0	1	0	0
-AAT	1	1	0	5	2	2	2	9	7	4
-AAC	13	6	0	6	5	2	3	7	20	11
-AAA	13	5	6	5	3	4	0	12	17	8
-AAG	1	0	0	0	0	0	0	2	2	1
-AGT	0	0	0	1	1	0	0	5	3	0
-AGC	4	4	1	2	3	1	1	6	9	4
-GTT	2	3	0	2	1	0	0	1	0	0
-GTC	0	1	0	3	5	0	1	4	4	6
-GTA	3	5	0	5	10	2	4	7	11	13
-GTG	1	2	0	1	0	1	1	2	2	0
-GCT	3	5	0	7	2	1	1	4	3	5
-GCC	5	3	0	5	12	7	6	7	25	9
-GCA	11	2	0	7	2	3	2	17	14	9
-GCG	0	0	0	0	0	0	0	1	0	0
-GAT	0	4	0	1	0	1	1	1	2	4
-GAC	2	7	1	0	3	1	0	3	8	6
-GAA	4	14	1	3	7	6	2	8	10	5
-GAG	0	0	0	0	1	0	0	1	0	1
-GGT	0	1	0	4	3	0	1	1	4	1
-GGC	2	3	0	2	5	3	1	5	6	12
-GGA	11	3	0	2	10	1	2	9	15	11
-GGG	1	1	0	2	2	0	0	2	2	1
-TAA	0	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND2	YP_009184518.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	4	10	3	1	1	5	16	0	2	8	0	0	9	1	3	6	39	1	2	5	14	0	1	3	8	0	0	0	3	0	21	19	39	4	8	14	20	0	1	13	13	1	0	4	2	0	3	1	3	5	11	0	0	2	4	0	0	2	11	1	0	0	0	0
+1	COX2	YP_009184520.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	1	5	6	0	1	2	10	0	3	7	0	2	5	0	4	7	16	2	1	4	9	0	3	5	6	0	1	0	4	1	9	10	12	4	2	3	10	2	1	6	5	0	0	4	3	1	5	2	5	3	2	0	4	7	14	0	1	3	3	1	1	0	0	0
+2	ATP8	YP_009184521.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	2	2	1	1	0	1	3	1	1	0	0	0	3	0	1	1	6	1	2	0	6	0	2	2	4	0	0	0	0	0	3	1	2	1	1	2	6	2	0	0	6	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+3	ATP6	YP_009184522.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	5	6	6	1	0	3	5	0	1	3	1	1	3	0	8	2	17	4	3	3	7	1	2	4	6	1	2	0	3	0	10	20	11	2	1	9	12	0	5	6	5	0	1	2	2	3	5	1	7	5	7	0	1	0	3	0	4	2	2	2	1	0	0	0
+4	COX3	YP_009184523.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	6	20	6	1	4	3	10	0	7	3	1	1	12	0	4	6	9	5	2	3	6	0	5	11	7	0	1	0	4	0	6	8	9	3	1	10	10	0	2	5	3	0	1	3	1	5	10	0	2	12	2	0	0	3	7	1	3	5	10	2	0	0	0	0
+5	ND3	YP_009184524.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	5	3	7	1	0	1	4	0	1	2	1	0	4	0	5	2	10	1	1	1	5	0	0	0	3	0	0	0	1	0	5	3	6	0	1	3	3	1	2	2	4	0	0	1	0	0	2	1	1	7	3	0	1	1	6	0	0	3	1	0	0	0	0	0
+6	ND4L	YP_009184525.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	4	0	5	0	0	0	5	0	1	2	0	3	0	0	3	1	13	0	0	0	2	1	1	2	2	0	0	0	1	0	2	3	11	2	1	2	3	0	2	3	0	0	0	1	0	1	4	1	1	6	2	0	1	0	2	0	1	1	2	0	1	0	0	0
+7	ND4	YP_009184526.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	5	12	15	0	5	6	10	1	5	10	1	2	13	0	14	15	43	5	4	6	13	0	4	8	10	0	1	2	6	1	19	24	28	5	7	16	28	1	9	7	12	2	5	6	1	4	7	2	4	7	17	1	1	3	8	1	1	5	9	2	0	0	0	0
+8	ND5	YP_009184527.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	20	26	22	1	2	10	23	0	6	13	1	3	12	0	15	19	41	7	5	9	12	2	5	9	20	1	0	2	8	0	21	31	32	4	8	18	29	0	7	20	17	2	3	9	0	4	11	2	3	25	14	0	2	8	10	0	4	6	15	2	1	0	0	0
+9	CYTB	YP_009184529.1	Zaedyus pichiy	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Cingulata, Chlamyphoridae, Zaedyus	10	21	6	2	1	4	14	0	2	12	1	3	11	1	7	8	28	1	3	5	13	1	3	10	6	1	1	2	5	0	15	28	13	1	1	13	15	0	4	11	8	1	0	4	0	6	13	0	5	9	9	0	4	6	5	1	1	12	11	1	0	0	1	0

@@ -1,65 +1,10 @@
-	YP_009408825.1|ND2	YP_009408826.1|COX1	YP_009408827.1|COX2	YP_009408828.1|ATP8	YP_009408829.1|ATP6	YP_009408830.1|COX3	YP_009408831.1|ND3	YP_009408835.1|ND6	YP_009408836.1|CYTB
-TTT	35	31	13	4	14	20	9	11	20
-TTC	3	8	1	0	3	6	3	2	10
-TTA	41	46	22	5	29	23	12	23	47
-TTG	3	0	1	0	0	0	0	0	0
-TCT	16	18	5	4	6	4	5	8	3
-TCC	3	0	0	2	1	1	0	0	0
-TCA	13	12	5	1	10	12	7	3	7
-TCG	0	1	0	0	0	0	0	0	0
-TAT	9	13	6	1	3	9	1	9	15
-TAC	1	4	3	1	2	1	0	0	3
-TGT	2	0	2	0	2	1	2	1	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	8	14	6	3	6	13	3	1	13
-TGG	1	1	0	0	0	0	0	0	0
-CTT	8	14	4	0	10	5	0	4	5
-CTC	0	0	1	0	0	1	0	0	2
-CTA	6	5	1	0	4	3	2	6	2
-CTG	0	1	0	0	0	0	0	0	0
-CCT	3	15	6	2	8	4	1	2	10
-CCC	2	1	1	0	1	0	1	1	1
-CCA	2	10	4	2	2	7	2	2	12
-CCG	1	0	0	0	0	0	0	0	0
-CAT	3	13	4	0	5	13	1	3	7
-CAC	0	5	2	0	3	3	0	0	3
-CAA	9	11	7	4	4	7	1	6	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	3	3	0	0	1	0	1	1
-CGC	0	0	0	0	0	1	0	0	0
-CGA	2	5	4	0	3	2	2	0	7
-CGG	0	1	0	0	0	0	1	0	0
-ATT	33	45	19	7	15	19	24	22	40
-ATC	4	1	3	0	4	1	1	1	5
-ATA	25	25	11	4	10	4	8	15	9
-ATG	0	1	1	0	1	2	0	0	2
-ACT	7	12	6	0	5	8	2	2	10
-ACC	0	0	0	0	2	1	0	0	2
-ACA	9	19	10	1	10	10	4	10	9
-ACG	0	1	0	0	0	0	0	0	0
-AAT	27	18	11	2	11	5	4	8	19
-AAC	5	1	5	1	0	3	0	3	7
-AAA	9	5	2	4	2	3	4	7	7
-AAG	1	1	1	0	0	0	0	0	1
-AGT	2	8	3	1	2	1	1	0	0
-AGC	0	0	0	0	0	1	0	0	0
-AGA	4	1	3	1	6	3	1	3	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	17	7	0	5	11	1	2	12
-GTC	0	2	0	0	1	0	0	0	1
-GTA	3	16	5	1	6	5	2	4	12
-GTG	0	0	0	0	0	0	0	0	0
-GCT	12	22	8	0	8	10	2	3	12
-GCC	2	2	1	0	1	0	0	0	2
-GCA	3	12	1	1	3	5	0	2	10
-GCG	1	0	0	0	0	1	0	0	0
-GAT	1	8	8	0	0	5	2	1	8
-GAC	0	7	2	0	1	0	1	0	2
-GAA	5	9	9	0	4	7	4	3	3
-GAG	1	0	0	0	0	0	0	0	0
-GGT	4	9	3	1	5	6	0	2	6
-GGC	0	0	2	0	1	0	0	0	0
-GGA	7	32	6	0	6	14	3	3	18
-GGG	1	5	0	0	0	0	0	0	0
-TAA	1	1	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009408825.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	35	3	41	3	16	3	13	0	9	1	2	0	8	1	8	0	6	0	3	2	2	1	3	0	9	0	0	0	2	0	33	4	25	0	7	0	9	0	27	5	9	1	2	0	4	0	3	0	3	0	12	2	3	1	1	0	5	1	4	0	7	1	1	0
+1	COX1	YP_009408826.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	31	8	46	0	18	0	12	1	13	4	0	0	14	1	14	0	5	1	15	1	10	0	13	5	11	0	3	0	5	1	45	1	25	1	12	0	19	1	18	1	5	1	8	0	1	0	17	2	16	0	22	2	12	0	8	7	9	0	9	0	32	5	1	0
+2	COX2	YP_009408827.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	13	1	22	1	5	0	5	0	6	3	2	0	6	0	4	1	1	0	6	1	4	0	4	2	7	0	3	0	4	0	19	3	11	1	6	0	10	0	11	5	2	1	3	0	3	0	7	0	5	0	8	1	1	0	8	2	9	0	3	2	6	0	1	0
+3	ATP8	YP_009408828.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	4	0	5	0	4	2	1	0	1	1	0	0	3	0	0	0	0	0	2	0	2	0	0	0	4	0	0	0	0	0	7	0	4	0	0	0	1	0	2	1	4	0	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_009408829.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	14	3	29	0	6	1	10	0	3	2	2	0	6	0	10	0	4	0	8	1	2	0	5	3	4	0	0	0	3	0	15	4	10	1	5	2	10	0	11	0	2	0	2	0	6	0	5	1	6	0	8	1	3	0	0	1	4	0	5	1	6	0	1	0
+5	COX3	YP_009408830.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	20	6	23	0	4	1	12	0	9	1	1	0	13	0	5	1	3	0	4	0	7	0	13	3	7	0	1	1	2	0	19	1	4	2	8	1	10	0	5	3	3	0	1	1	3	0	11	0	5	0	10	0	5	1	5	0	7	0	6	0	14	0	1	0
+6	ND3	YP_009408831.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	9	3	12	0	5	0	7	0	1	0	2	0	3	0	0	0	2	0	1	1	2	0	1	0	1	0	0	0	2	1	24	1	8	0	2	0	4	0	4	0	4	0	1	0	1	0	1	0	2	0	2	0	0	0	2	1	4	0	0	0	3	0	1	0
+7	ND6	YP_009408835.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	11	2	23	0	8	0	3	0	9	0	1	0	1	0	4	0	6	0	2	1	2	0	3	0	6	0	1	0	0	0	22	1	15	0	2	0	10	0	8	3	7	0	0	0	3	0	2	0	4	0	3	0	2	0	1	0	3	0	2	0	3	0	1	0
+8	CYTB	YP_009408836.1	Ceratitis fasciventris	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Ceratitis, Pterandrus	20	10	47	0	3	0	7	0	15	3	3	0	13	0	5	2	2	0	10	1	12	0	7	3	8	0	1	0	7	0	40	5	9	2	10	2	9	0	19	7	7	1	0	0	2	0	12	1	12	0	12	2	10	0	8	2	3	0	6	0	18	0	0	1

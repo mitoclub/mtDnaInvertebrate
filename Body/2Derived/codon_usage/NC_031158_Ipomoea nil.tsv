@@ -1,65 +1,7 @@
-	YP_009295059.1|nad7	YP_009295063.1|rps4	YP_009295066.1|rpl10	YP_009295068.1|cox2	YP_009295078.1|nad9	YP_009295079.1|ccmFn
-TTT	5	8	5	5	8	27
-TTC	9	3	11	7	4	18
-TTA	9	8	7	10	3	12
-TTG	6	5	3	3	2	8
-TCT	9	7	5	6	5	16
-TCC	6	6	3	2	1	7
-TCA	13	3	3	4	3	12
-TCG	2	5	2	2	2	12
-TAT	8	9	4	8	10	9
-TAC	4	2	1	2	1	6
-TGT	4	3	3	3	0	8
-TGC	2	2	0	1	2	4
-TGG	4	1	4	6	5	13
-CTT	7	7	5	1	2	23
-CTC	2	5	2	3	0	6
-CTA	1	3	2	2	3	11
-CTG	3	0	2	2	2	5
-CCT	11	8	2	7	1	13
-CCC	1	2	3	0	4	7
-CCA	7	4	5	8	3	7
-CCG	1	2	0	2	2	4
-CAT	12	7	4	7	4	14
-CAC	3	4	0	2	0	2
-CAA	16	6	3	9	6	6
-CAG	1	3	2	3	1	10
-CGT	11	5	0	3	4	9
-CGC	1	2	1	1	4	7
-CGA	10	5	3	1	4	10
-CGG	2	1	1	3	2	12
-ATT	8	8	1	14	5	13
-ATC	7	6	1	10	2	5
-ATA	6	13	2	3	2	7
-ATG	15	5	3	6	4	14
-ACT	11	8	2	6	1	11
-ACC	5	2	3	3	4	10
-ACA	2	7	1	3	3	9
-ACG	1	0	0	2	1	2
-AAT	7	13	3	5	3	15
-AAC	3	12	1	1	2	7
-AAA	11	16	6	6	8	13
-AAG	2	10	3	0	2	10
-AGT	5	5	8	5	6	8
-AGC	1	2	1	0	1	4
-AGA	8	17	3	1	3	5
-AGG	3	8	1	2	1	4
-GTT	5	4	0	7	6	13
-GTC	5	1	0	1	2	7
-GTA	8	2	3	13	5	5
-GTG	10	3	1	2	3	8
-GCT	10	3	2	10	1	17
-GCC	5	0	1	3	1	9
-GCA	10	3	3	3	1	9
-GCG	1	1	0	1	0	8
-GAT	18	3	5	9	9	11
-GAC	4	3	3	6	4	8
-GAA	16	9	7	9	9	13
-GAG	10	4	4	4	5	7
-GGT	9	4	3	5	3	7
-GGC	4	2	1	0	1	10
-GGA	12	10	4	6	3	16
-GGG	2	0	0	1	1	4
-TAA	0	1	1	1	1	0
-TAG	1	0	0	0	0	0
-TGA	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	nad7	YP_009295059.1	Ipomoea nil	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Solanales, Convolvulaceae, Ipomoeeae, Ipomoea	5	9	9	6	9	6	13	2	8	4	4	2	4	7	2	1	3	11	1	7	1	12	3	16	1	11	1	10	2	8	7	6	15	11	5	2	1	7	3	11	2	5	1	8	3	5	5	8	10	10	5	10	1	18	4	16	10	9	4	12	2	0	1	0
+1	rps4	YP_009295063.1	Ipomoea nil	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Solanales, Convolvulaceae, Ipomoeeae, Ipomoea	8	3	8	5	7	6	3	5	9	2	3	2	1	7	5	3	0	8	2	4	2	7	4	6	3	5	2	5	1	8	6	13	5	8	2	7	0	13	12	16	10	5	2	17	8	4	1	2	3	3	0	3	1	3	3	9	4	4	2	10	0	1	0	0
+2	rpl10	YP_009295066.1	Ipomoea nil	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Solanales, Convolvulaceae, Ipomoeeae, Ipomoea	5	11	7	3	5	3	3	2	4	1	3	0	4	5	2	2	2	2	3	5	0	4	0	3	2	0	1	3	1	1	1	2	3	2	3	1	0	3	1	6	3	8	1	3	1	0	0	3	1	2	1	3	0	5	3	7	4	3	1	4	0	1	0	0
+3	cox2	YP_009295068.1	Ipomoea nil	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Solanales, Convolvulaceae, Ipomoeeae, Ipomoea	5	7	10	3	6	2	4	2	8	2	3	1	6	1	3	2	2	7	0	8	2	7	2	9	3	3	1	1	3	14	10	3	6	6	3	3	2	5	1	6	0	5	0	1	2	7	1	13	2	10	3	3	1	9	6	9	4	5	0	6	1	1	0	0
+4	nad9	YP_009295078.1	Ipomoea nil	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Solanales, Convolvulaceae, Ipomoeeae, Ipomoea	8	4	3	2	5	1	3	2	10	1	0	2	5	2	0	3	2	1	4	3	2	4	0	6	1	4	4	4	2	5	2	2	4	1	4	3	1	3	2	8	2	6	1	3	1	6	2	5	3	1	1	1	0	9	4	9	5	3	1	3	1	1	0	0
+5	ccmFn	YP_009295079.1	Ipomoea nil	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, asterids, lamiids, Solanales, Convolvulaceae, Ipomoeeae, Ipomoea	27	18	12	8	16	7	12	12	9	6	8	4	13	23	6	11	5	13	7	7	4	14	2	6	10	9	7	10	12	13	5	7	14	11	10	9	2	15	7	13	10	8	4	5	4	13	7	5	8	17	9	9	8	11	8	13	7	7	10	16	4	0	0	1

@@ -1,65 +1,16 @@
-	YP_002970832.1|cox3	YP_002970833.1|atp8	YP_002970834.1|rps5	YP_002970835.1|cox1	YP_002970836.1|atp9	YP_002970837.1|cox2	YP_002970838.1|nad4L	YP_002970839.1|nad5	YP_002970840.1|nad2	YP_002970841.1|cob	YP_002970842.1|nad3	YP_002970843.1|nad1	YP_002970844.1|nad4	YP_002970845.1|atp6	YP_002970846.1|nad6
-TTT	17	7	16	37	2	15	6	58	48	25	19	32	42	24	10
-TTC	6	1	0	10	2	0	0	5	2	6	0	3	4	2	1
-TTA	36	7	49	68	7	28	13	93	85	48	19	60	76	40	30
-TTG	0	0	1	0	0	0	1	0	5	1	0	0	2	1	1
-TCT	4	0	14	12	0	1	2	12	32	10	4	14	26	5	4
-TCC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
-TCA	14	1	8	9	3	13	3	26	12	6	2	8	10	11	7
-TCG	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-TAT	12	3	25	18	1	10	3	32	36	17	8	14	28	10	12
-TAC	3	0	0	3	0	1	0	1	1	1	0	0	3	1	0
-TGT	3	0	1	2	0	4	0	4	6	2	1	6	3	2	1
-TGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	9	1	3	15	0	7	0	6	3	7	1	3	2	0	3
-TGG	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
-CTT	2	0	3	8	1	1	2	2	10	6	3	5	7	2	1
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	0	1	0	0	0	1	1	2	1	2	2	2	3	1
-CTG	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-CCT	6	1	3	20	1	3	0	12	11	19	2	12	11	4	1
-CCC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-CCA	3	2	0	6	0	9	0	7	1	3	1	1	1	3	2
-CCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	13	0	4	15	0	9	0	10	6	9	2	1	2	5	1
-CAC	1	0	1	0	0	0	0	0	0	1	0	0	1	1	0
-CAA	6	2	4	10	2	10	1	16	8	7	4	6	7	7	2
-CAG	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0
-CGT	2	0	2	2	0	0	0	0	0	1	0	0	0	2	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	1	21	22	3	10	3	27	42	25	3	32	28	11	10
-ATC	3	0	1	1	0	0	1	0	1	0	0	0	0	3	1
-ATA	12	4	25	23	4	21	15	55	37	22	12	13	42	20	32
-ATG	4	1	3	17	1	11	3	18	9	14	3	6	8	4	7
-ACT	4	0	5	10	0	3	2	21	17	8	3	6	15	5	3
-ACC	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-ACA	13	3	5	16	4	13	1	17	11	8	1	9	11	7	7
-ACG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	9	3	45	20	0	9	4	37	37	21	8	13	12	14	14
-AAC	2	0	2	0	1	1	0	1	2	1	0	2	2	0	1
-AAA	1	2	64	7	1	8	1	21	17	9	6	6	15	8	2
-AAG	0	0	2	1	0	0	1	0	1	2	0	0	0	0	2
-AGT	7	2	11	24	0	7	2	19	21	8	5	11	18	11	8
-AGC	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
-AGA	3	1	17	9	2	7	3	7	7	9	1	8	9	1	3
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	6	2	6	19	4	4	2	16	17	16	2	19	13	2	5
-GTC	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
-GTA	12	3	10	13	0	9	1	21	5	6	3	4	12	11	3
-GTG	1	0	0	0	0	0	0	0	0	1	0	2	1	0	1
-GCT	7	0	5	30	6	5	3	22	12	23	1	19	15	5	3
-GCC	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
-GCA	3	0	2	7	3	5	3	10	2	6	5	5	7	2	3
-GCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	6	0	8	13	0	12	2	16	13	11	3	5	12	4	3
-GAC	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0
-GAA	6	0	9	6	2	14	3	12	9	9	4	11	10	6	4
-GAG	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1
-GGT	20	0	7	45	10	8	5	36	24	23	6	19	29	14	7
-GGC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-GGA	4	0	3	3	2	5	1	10	3	1	0	0	1	1	2
-GGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-TAA	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox3	YP_002970832.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	17	6	36	0	4	0	14	0	12	3	3	0	9	0	2	0	0	0	6	0	3	0	13	1	6	0	2	0	0	0	9	3	12	4	4	0	13	0	9	2	1	0	7	0	3	0	6	0	12	1	7	0	3	0	6	0	6	0	20	0	4	0	1	0
+1	atp8	YP_002970833.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	7	1	7	0	0	0	1	0	3	0	0	0	1	0	0	0	0	0	1	0	2	0	0	0	2	0	0	0	1	0	1	0	4	1	0	0	3	0	3	0	2	0	2	0	1	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+2	rps5	YP_002970834.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	16	0	49	1	14	0	8	0	25	0	1	0	3	0	3	0	1	0	3	0	0	0	4	1	4	0	2	0	0	0	21	1	25	3	5	0	5	0	45	2	64	2	11	0	17	0	6	0	10	0	5	0	2	0	8	0	9	1	7	0	3	0	1	0
+3	cox1	YP_002970835.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	37	10	68	0	12	0	9	0	18	3	2	0	15	0	8	0	0	1	20	1	6	0	15	0	10	1	2	0	0	0	22	1	23	17	10	1	16	0	20	0	7	1	24	0	9	0	19	0	13	0	30	2	7	0	13	1	6	0	45	0	3	0	1	0
+4	atp9	YP_002970836.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	2	2	7	0	0	0	3	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	3	0	4	1	0	0	4	0	0	1	1	0	0	1	2	0	4	0	0	0	6	0	3	0	0	0	2	0	10	0	2	0	0	1
+5	cox2	YP_002970837.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	15	0	28	0	1	0	13	0	10	1	4	0	7	0	1	0	0	0	3	0	9	0	9	0	10	1	0	0	0	0	10	0	21	11	3	0	13	0	9	1	8	0	7	0	7	0	4	0	9	0	5	0	5	0	12	1	14	0	8	0	5	0	1	0
+6	nad4L	YP_002970838.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	6	0	13	1	2	0	3	0	3	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	1	15	3	2	0	1	0	4	0	1	1	2	0	3	0	2	0	1	0	3	0	3	0	2	0	3	0	5	0	1	1	1	0
+7	nad5	YP_002970839.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	58	5	93	0	12	0	26	1	32	1	4	0	6	1	2	0	1	0	12	0	7	0	10	0	16	0	0	0	1	0	27	0	55	18	21	0	17	0	37	1	21	0	19	0	7	0	16	0	21	0	22	0	10	0	16	0	12	1	36	0	10	0	1	0
+8	nad2	YP_002970840.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	48	2	85	5	32	1	12	0	36	1	6	0	3	0	10	0	2	0	11	0	1	0	6	0	8	1	0	0	0	0	42	1	37	9	17	0	11	0	37	2	17	1	21	0	7	0	17	0	5	0	12	0	2	0	13	1	9	0	24	1	3	0	0	1
+9	cob	YP_002970841.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	25	6	48	1	10	0	6	0	17	1	2	0	7	0	6	0	1	0	19	0	3	0	9	1	7	1	1	0	1	0	25	0	22	14	8	0	8	0	21	1	9	2	8	0	9	0	16	0	6	1	23	0	6	0	11	1	9	0	23	0	1	0	1	0
+10	nad3	YP_002970842.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	19	0	19	0	4	0	2	0	8	0	1	0	1	0	3	0	2	0	2	0	1	0	2	0	4	0	0	0	0	0	3	0	12	3	3	0	1	0	8	0	6	0	5	0	1	0	2	0	3	0	1	0	5	0	3	0	4	0	6	0	0	0	1	0
+11	nad1	YP_002970843.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	32	3	60	0	14	0	8	0	14	0	6	0	3	0	5	0	2	0	12	0	1	0	1	0	6	0	0	0	0	0	32	0	13	6	6	0	9	0	13	2	6	0	11	0	8	0	19	0	4	2	19	0	5	0	5	1	11	0	19	0	0	0	1	0
+12	nad4	YP_002970844.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	42	4	76	2	26	0	10	0	28	3	3	0	2	0	7	0	2	0	11	0	1	0	2	1	7	0	0	0	0	0	28	0	42	8	15	0	11	0	12	2	15	0	18	0	9	0	13	0	12	1	15	0	7	0	12	0	10	1	29	0	1	0	1	0
+13	atp6	YP_002970845.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	24	2	40	1	5	0	11	0	10	1	2	0	0	1	2	0	3	0	4	0	3	0	5	1	7	0	2	0	0	0	11	3	20	4	5	0	7	0	14	0	8	0	11	1	1	0	2	1	11	0	5	0	2	0	4	0	6	0	14	0	1	0	1	0
+14	nad6	YP_002970846.1	Arthroderma uncinatum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Arthroderma	10	1	30	1	4	1	7	0	12	0	1	0	3	0	1	0	1	0	1	0	2	0	1	0	2	0	0	0	0	0	10	1	32	7	3	0	7	0	14	1	2	2	8	0	3	0	5	1	3	1	3	0	3	0	3	0	4	1	7	0	2	0	1	0

@@ -1,65 +1,13 @@
-	YP_007626368.1|ND1	YP_007626369.1|ND2	YP_007626370.1|COX1	YP_007626371.1|COX2	YP_007626372.1|ATP8	YP_007626373.1|ATP6	YP_007626374.1|COX3	YP_007626375.1|ND3	YP_007626376.1|ND4L	YP_007626377.1|ND4	YP_007626378.1|ND5	YP_007626380.1|CYTB
-TTT	11	4	20	4	1	9	11	7	1	9	19	9
-TTC	10	9	22	2	3	3	13	1	3	15	27	17
-TTA	6	8	14	3	2	9	6	7	7	16	9	4
-TTG	2	0	0	0	1	1	0	0	1	1	2	0
-TCT	1	4	9	2	0	3	2	0	2	6	7	1
-TCC	5	10	5	6	0	2	4	2	3	14	14	6
-TCA	12	12	13	7	4	4	9	2	4	6	14	11
-TCG	1	0	0	1	0	0	0	0	0	2	0	0
-TAT	3	1	12	4	1	0	7	1	2	5	13	5
-TAC	9	7	7	7	1	2	4	2	2	12	9	10
-TGT	0	0	1	0	0	0	1	1	1	0	3	1
-TGC	1	0	0	2	0	0	1	0	2	3	2	3
-TGA	9	9	16	4	2	3	12	3	0	10	11	10
-TGG	0	1	1	1	1	0	0	1	0	3	1	2
-CTT	6	5	12	5	1	9	9	5	1	13	10	8
-CTC	8	9	7	2	2	3	7	6	4	11	16	13
-CTA	29	32	26	18	5	20	10	8	9	48	42	29
-CTG	3	2	1	5	0	2	0	2	0	5	9	4
-CCT	4	1	9	1	3	3	4	2	0	6	3	2
-CCC	7	5	11	3	1	6	4	1	1	7	14	4
-CCA	10	11	7	8	3	4	4	2	0	7	9	14
-CCG	1	2	1	1	0	0	0	1	0	0	0	2
-CAT	1	2	3	2	1	1	5	0	1	3	1	8
-CAC	2	3	14	5	1	5	12	0	1	7	9	4
-CAA	7	10	5	5	3	9	7	3	1	11	18	6
-CAG	0	0	1	1	0	0	0	0	1	0	0	0
-CGT	0	0	1	1	0	0	0	0	0	3	3	0
-CGC	1	0	1	1	0	2	2	1	0	0	2	0
-CGA	7	3	6	4	0	1	3	0	1	7	3	8
-CGG	0	0	0	0	0	1	0	0	0	0	0	0
-ATT	15	20	26	11	1	15	6	4	3	23	33	20
-ATC	15	16	12	7	4	8	8	1	2	16	25	19
-ATA	18	33	25	13	3	11	8	4	11	29	33	10
-ATG	1	6	8	4	1	2	1	2	1	4	6	6
-ACT	0	7	8	3	0	4	4	2	0	5	9	1
-ACC	6	12	11	2	1	4	7	2	3	9	22	6
-ACA	14	21	19	11	6	14	11	7	3	24	27	19
-ACG	1	1	0	2	1	1	0	0	0	0	1	0
-AAT	4	5	8	0	0	2	4	3	2	5	8	7
-AAC	7	13	11	5	2	10	4	2	2	17	25	10
-AAA	7	11	7	6	6	3	2	3	0	8	21	7
-AAG	0	1	2	0	0	1	0	0	0	3	2	2
-AGT	2	1	0	2	1	0	2	1	2	2	1	1
-AGC	3	0	3	3	0	5	3	1	0	10	13	1
-GTT	3	3	8	5	1	0	6	1	1	3	5	4
-GTC	1	5	9	1	0	4	3	0	0	3	5	6
-GTA	11	4	17	4	0	6	7	2	5	8	10	8
-GTG	0	0	3	2	0	1	1	1	1	2	0	0
-GCT	2	3	9	0	0	5	1	2	1	3	6	1
-GCC	7	9	13	3	0	5	9	6	2	10	14	8
-GCA	18	6	18	5	0	8	6	2	4	15	20	19
-GCG	1	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	0	13	4	0	1	1	0	0	0	3	4
-GAC	2	1	3	6	1	0	2	2	1	3	8	8
-GAA	11	4	8	11	2	3	8	5	2	8	9	5
-GAG	0	1	1	4	0	0	0	1	0	1	2	1
-GGT	0	1	7	1	0	1	4	0	0	2	3	1
-GGC	5	4	12	2	0	3	9	0	1	7	10	6
-GGA	7	9	27	3	0	7	7	3	3	7	13	16
-GGG	0	0	1	2	0	0	0	0	0	2	2	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007626368.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	11	10	6	2	1	5	12	1	3	9	0	1	9	0	6	8	29	3	4	7	10	1	1	2	7	0	0	1	7	0	15	15	18	1	0	6	14	1	4	7	7	0	2	3	3	1	11	0	2	7	18	1	1	2	11	0	0	5	7	0	0	0	0	0
+1	ND2	YP_007626369.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	4	9	8	0	4	10	12	0	1	7	0	0	9	1	5	9	32	2	1	5	11	2	2	3	10	0	0	0	3	0	20	16	33	6	7	12	21	1	5	13	11	1	1	0	3	5	4	0	3	9	6	0	0	1	4	1	1	4	9	0	0	0	0	0
+2	COX1	YP_007626370.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	20	22	14	0	9	5	13	0	12	7	1	0	16	1	12	7	26	1	9	11	7	1	3	14	5	1	1	1	6	0	26	12	25	8	8	11	19	0	8	11	7	2	0	3	8	9	17	3	9	13	18	0	13	3	8	1	7	12	27	1	1	0	0	0
+3	COX2	YP_007626371.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	4	2	3	0	2	6	7	1	4	7	0	2	4	1	5	2	18	5	1	3	8	1	2	5	5	1	1	1	4	0	11	7	13	4	3	2	11	2	0	5	6	0	2	3	5	1	4	2	0	3	5	0	4	6	11	4	1	2	3	2	1	0	0	0
+4	ATP8	YP_007626372.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	1	3	2	1	0	0	4	0	1	1	0	0	2	1	1	2	5	0	3	1	3	0	1	1	3	0	0	0	0	0	1	4	3	1	0	1	6	1	0	2	6	0	1	0	1	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007626373.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	9	3	9	1	3	2	4	0	0	2	0	0	3	0	9	3	20	2	3	6	4	0	1	5	9	0	0	2	1	1	15	8	11	2	4	4	14	1	2	10	3	1	0	5	0	4	6	1	5	5	8	0	1	0	3	0	1	3	7	0	1	0	0	0
+6	COX3	YP_007626374.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	11	13	6	0	2	4	9	0	7	4	1	1	12	0	9	7	10	0	4	4	4	0	5	12	7	0	0	2	3	0	6	8	8	1	4	7	11	0	4	4	2	0	2	3	6	3	7	1	1	9	6	0	1	2	8	0	4	9	7	0	0	0	0	0
+7	ND3	YP_007626375.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	7	1	7	0	0	2	2	0	1	2	1	0	3	1	5	6	8	2	2	1	2	1	0	0	3	0	0	1	0	0	4	1	4	2	2	2	7	0	3	2	3	0	1	1	1	0	2	1	2	6	2	0	0	2	5	1	0	0	3	0	0	0	0	0
+8	ND4L	YP_007626376.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	1	3	7	1	2	3	4	0	2	2	1	2	0	0	1	4	9	0	0	1	0	0	1	1	1	1	0	0	1	0	3	2	11	1	0	3	3	0	2	2	0	0	2	0	1	0	5	1	1	2	4	0	0	1	2	0	0	1	3	0	1	0	0	0
+9	ND4	YP_007626377.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	9	15	16	1	6	14	6	2	5	12	0	3	10	3	13	11	48	5	6	7	7	0	3	7	11	0	3	0	7	0	23	16	29	4	5	9	24	0	5	17	8	3	2	10	3	3	8	2	3	10	15	0	0	3	8	1	2	7	7	2	0	0	0	0
+10	ND5	YP_007626378.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	19	27	9	2	7	14	14	0	13	9	3	2	11	1	10	16	42	9	3	14	9	0	1	9	18	0	3	2	3	0	33	25	33	6	9	22	27	1	8	25	21	2	1	13	5	5	10	0	6	14	20	0	3	8	9	2	3	10	13	2	1	0	0	0
+11	CYTB	YP_007626380.1	Nanger dama	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Nanger	9	17	4	0	1	6	11	0	5	10	1	3	10	2	8	13	29	4	2	4	14	2	8	4	6	0	0	0	8	0	20	19	10	6	1	6	19	0	7	10	7	2	1	1	4	6	8	0	1	8	19	0	4	8	5	1	1	6	16	2	0	0	1	0

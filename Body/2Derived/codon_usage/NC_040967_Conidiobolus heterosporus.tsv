@@ -1,65 +1,35 @@
-	YP_009558589.1|cob	YP_009558590.1|orf240	YP_009558591.1|orf317	YP_009558592.1|orf330	YP_009558593.1|atp6	YP_009558594.1|cox1	YP_009558595.1|orf303	YP_009558596.1|orf298	YP_009558597.1|orf349	YP_009558598.1|orf329	YP_009558599.1|orf198	YP_009558600.1|orf324	YP_009558601.1|orf329	YP_009558602.1|orf340	YP_009558603.1|orf337	YP_009558604.1|orf263	YP_009558605.1|orf363	YP_009558606.1|orf191	YP_009558607.1|nad4L	YP_009558608.1|cox3	YP_009558609.1|orf234	YP_009558610.1|cox2	YP_009558611.1|orf309	YP_009558612.1|orf391	YP_009558615.1|nad4	YP_009558616.1|orf326	YP_009558617.1|nad5	YP_009558618.1|orf235	YP_009558619.1|orf238	YP_009558620.1|nad2	YP_009558621.1|atp9	YP_009558622.1|atp8	YP_009558624.1|nad1	YP_009558625.1|nad3
-TTT	19	5	10	14	12	17	3	7	14	4	7	8	9	10	10	8	11	3	6	15	5	7	8	15	17	7	24	8	12	11	4	3	15	5
-TTC	8	0	2	2	1	24	1	2	3	2	0	1	4	1	1	2	5	1	0	9	0	0	0	5	2	4	9	1	0	1	1	0	3	1
-TTA	47	18	24	22	41	51	29	31	15	38	20	32	18	34	22	26	25	21	18	30	24	27	22	30	69	30	82	17	14	36	14	8	43	16
-TTG	3	1	4	5	0	2	0	2	4	4	2	4	4	2	2	0	0	1	1	0	1	0	1	2	0	2	1	0	1	0	0	0	3	0
-TCT	4	2	11	7	1	4	0	5	5	2	4	9	8	2	5	4	7	4	3	2	4	1	6	3	2	3	8	2	4	0	0	0	2	0
-TCC	1	2	2	2	0	0	0	1	1	0	0	2	2	2	0	1	2	1	1	1	0	0	2	3	0	2	0	0	1	0	0	0	0	0
-TCA	12	5	8	9	12	21	9	6	6	7	2	9	7	8	5	6	10	4	2	8	8	9	6	5	22	10	26	11	5	13	5	0	11	1
-TCG	0	0	0	0	1	1	1	1	2	0	0	2	0	2	0	0	1	0	0	0	2	1	2	0	3	1	1	0	0	1	0	0	2	0
-TAT	19	15	15	10	10	26	21	10	13	13	12	15	19	20	9	17	19	13	3	12	18	13	19	19	30	11	40	14	7	27	2	4	9	9
-TAC	2	1	3	4	0	3	0	0	5	2	1	2	2	1	1	0	3	0	0	0	0	1	5	3	0	0	1	1	1	0	0	0	1	0
-TGT	1	4	1	5	0	1	2	3	0	2	0	2	3	3	2	5	6	0	1	2	4	5	1	5	2	4	6	4	2	3	1	0	1	2
-TGC	0	1	0	1	0	0	0	1	0	1	0	2	1	1	1	0	0	0	0	0	1	1	1	0	0	1	0	1	1	0	0	0	0	0
-TGA	1	4	1	1	0	1	0	1	2	0	0	0	2	0	5	4	0	1	0	0	2	1	0	2	0	4	0	0	1	0	0	0	2	0
-TGG	10	2	2	3	0	12	2	5	5	6	3	7	1	5	1	1	3	2	0	9	2	6	0	2	6	3	11	3	3	2	0	0	3	1
-CTT	1	2	6	4	0	5	0	1	4	2	3	3	3	1	9	2	1	1	0	0	1	1	0	2	0	1	2	2	5	0	0	0	1	0
-CTC	0	1	1	0	1	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	1	2	3	1	1	4	4	4	6	1	1	5	1	2	6	0	4	0	2	0	0	2	1	3	2	1	9	1	2	1	0	1	4	2
-CTG	0	1	0	2	0	2	0	1	0	1	0	0	0	0	2	0	1	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	1
-CCT	8	1	5	4	1	2	3	0	5	6	3	1	5	2	1	3	4	2	1	2	5	3	3	2	3	1	10	0	3	0	1	1	4	0
-CCC	0	0	0	1	0	0	0	1	0	1	1	3	0	0	1	1	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	1	0
-CCA	13	7	6	2	6	17	6	4	5	6	2	2	3	4	2	1	7	6	0	5	5	7	3	8	8	5	8	3	6	6	0	3	6	3
-CCG	2	0	0	0	0	5	0	1	1	1	0	2	0	1	0	0	0	0	0	1	2	1	2	1	2	1	1	1	1	3	0	0	0	1
-CAT	12	4	1	4	5	10	5	8	4	4	4	3	5	5	3	5	3	1	1	8	4	5	3	4	6	7	13	8	2	4	0	0	0	0
-CAC	0	2	0	1	0	5	0	3	1	0	0	2	0	0	2	1	2	0	0	3	1	1	2	2	1	0	2	0	2	0	0	0	1	0
-CAA	5	3	7	9	4	7	6	7	14	11	6	13	13	10	9	6	7	4	0	4	2	5	6	12	5	7	6	3	7	4	1	2	6	1
-CAG	0	2	2	1	1	2	2	2	6	1	1	0	0	3	0	0	1	1	0	1	2	2	0	0	1	3	2	0	0	2	0	0	2	0
-CGT	0	0	0	0	0	0	0	0	0	0	0	2	0	1	2	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	4	1	0	1	0	1	1	5	7	0	2	1	1	1	0	1	1	6	0	0	4	1	1	1	1	0	1	0	1	0	0	1	1	0
-CGG	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	6	3	9	11	0	1	1	5	5	3	5	5	6	4	2	3	9	5	0	1	2	0	6	4	1	1	3	1	5	1	0	0	3	0
-ATC	0	1	1	1	0	0	1	2	2	2	0	3	1	1	0	0	0	0	2	1	1	0	1	3	1	1	0	0	3	1	0	1	1	0
-ATA	36	29	27	21	42	52	34	20	23	26	16	17	26	25	26	27	32	17	12	22	23	32	20	37	79	32	90	24	22	115	7	11	42	25
-ATG	11	5	0	2	5	17	6	1	5	5	4	3	3	6	5	2	6	2	3	5	4	5	7	8	15	2	19	6	4	9	2	1	14	3
-ACT	9	4	3	10	5	7	8	5	4	1	4	3	3	5	10	1	5	3	3	5	3	1	6	4	3	4	7	2	6	0	0	0	3	0
-ACC	0	1	1	0	0	0	1	2	2	0	0	2	1	2	0	0	1	0	0	0	1	0	4	1	0	1	1	0	0	0	0	0	0	0
-ACA	7	7	8	8	10	20	3	8	7	14	3	7	9	7	9	2	5	5	1	11	8	8	9	14	13	7	19	6	3	17	3	1	8	4
-ACG	2	1	0	1	1	2	1	0	3	1	0	1	2	2	0	0	1	1	0	2	0	1	0	0	2	1	7	1	2	1	0	0	1	2
-AAT	22	9	20	29	7	17	19	24	14	22	15	20	21	23	19	33	31	17	3	7	9	11	17	30	17	25	28	12	13	20	2	1	9	8
-AAC	0	1	2	4	1	2	2	3	2	3	0	3	2	3	3	3	4	2	0	0	0	2	1	4	1	2	3	0	2	1	1	0	1	0
-AAA	5	22	26	23	12	9	36	23	28	29	25	29	41	37	31	31	37	15	2	5	18	11	40	46	12	34	18	26	19	10	2	2	7	4
-AAG	3	4	8	9	0	0	4	5	13	5	3	2	6	7	6	1	3	3	0	0	4	1	9	5	1	5	4	5	2	9	0	1	1	1
-AGT	9	8	9	8	9	9	11	9	6	5	9	6	5	7	13	4	10	7	0	5	9	9	14	3	18	1	24	6	3	25	2	2	7	2
-AGC	0	0	0	1	2	2	0	1	0	1	0	4	1	1	2	0	2	2	0	1	1	0	2	2	0	0	1	1	1	1	1	1	0	0
-AGA	8	5	12	10	2	9	12	10	8	15	3	11	12	13	9	9	17	4	2	6	7	5	10	13	12	14	11	10	7	11	1	1	7	1
-AGG	0	1	2	2	1	1	1	2	2	1	1	1	0	3	2	1	0	1	0	0	1	1	2	2	0	0	1	0	3	1	0	0	1	0
-GTT	5	1	10	2	0	4	1	1	2	0	1	5	1	1	3	0	4	0	0	1	0	0	1	2	0	0	2	0	3	0	0	0	4	0
-GTC	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0
-GTA	26	8	12	12	20	28	8	4	17	10	2	4	10	11	14	10	8	6	3	18	7	18	3	12	28	9	27	8	10	23	1	3	16	5
-GTG	0	0	1	0	0	6	3	0	2	1	0	0	1	1	2	0	1	0	0	4	1	0	1	2	2	2	2	0	1	3	2	0	2	1
-GCT	5	3	3	3	2	9	1	4	7	4	2	5	5	3	9	0	5	1	1	3	1	0	4	3	3	3	9	0	2	0	0	0	8	0
-GCC	2	1	0	2	0	6	0	1	3	2	0	2	2	1	1	0	0	0	1	1	0	0	0	1	2	3	2	0	1	0	2	0	4	0
-GCA	8	5	6	6	4	22	3	4	3	7	5	4	4	5	4	5	6	4	5	10	3	7	3	3	9	6	21	5	6	11	9	0	5	2
-GCG	6	0	1	0	2	5	2	0	1	0	0	2	0	0	0	0	0	0	1	2	0	0	0	0	6	1	5	0	0	8	1	0	7	3
-GAT	6	8	11	12	4	13	12	11	14	12	11	15	10	14	12	10	13	4	2	3	6	8	12	12	6	12	16	6	7	7	0	0	4	4
-GAC	1	1	1	2	0	2	1	3	3	1	0	0	0	0	9	0	5	0	0	1	1	4	0	2	1	1	2	1	1	0	0	0	1	0
-GAA	5	7	12	12	6	7	23	16	14	17	7	12	16	13	15	12	13	7	3	10	8	14	17	20	10	24	15	18	13	6	1	0	6	2
-GAG	3	4	2	4	1	2	3	5	5	6	0	3	7	5	4	4	4	1	1	0	5	3	3	2	9	6	4	1	2	11	0	1	5	1
-GGT	9	4	5	6	3	13	1	6	4	4	2	5	5	3	7	4	4	4	2	7	4	2	10	9	6	3	17	5	4	2	1	0	9	1
-GGC	1	0	0	0	0	0	0	1	2	0	0	0	1	1	2	0	1	0	0	0	0	0	1	2	0	2	1	0	0	0	0	0	0	0
-GGA	12	9	7	10	5	24	5	6	14	14	6	13	12	12	9	6	9	6	3	12	6	7	9	11	15	12	16	8	8	14	7	0	6	4
-GGG	3	2	4	4	8	12	5	3	4	3	0	3	5	3	3	1	1	1	1	7	4	3	1	1	14	3	15	3	4	20	0	1	8	1
-TAA	1	0	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	1	0	1	0	0	1	1	1	1	1	1	1	0
-TAG	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cob	YP_009558589.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	19	8	47	3	4	1	12	0	19	2	1	0	1	10	1	0	1	0	8	0	13	2	12	0	5	0	0	0	4	0	6	0	36	11	9	0	7	2	22	0	5	3	9	0	8	0	5	1	26	0	5	2	8	6	6	1	5	3	9	1	12	3	1	0
+1	orf240	YP_009558590.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	5	0	18	1	2	2	5	0	15	1	4	1	4	2	2	1	2	1	1	0	7	0	4	2	3	2	0	0	1	0	3	1	29	5	4	1	7	1	9	1	22	4	8	0	5	1	1	0	8	0	3	1	5	0	8	1	7	4	4	0	9	2	0	1
+2	orf317	YP_009558591.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	10	2	24	4	11	2	8	0	15	3	1	0	1	2	6	1	3	0	5	0	6	0	1	0	7	2	0	0	0	0	9	1	27	0	3	1	8	0	20	2	26	8	9	0	12	2	10	0	12	1	3	0	6	1	11	1	12	2	5	0	7	4	1	0
+3	orf330	YP_009558592.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	14	2	22	5	7	2	9	0	10	4	5	1	1	3	4	0	1	2	4	1	2	0	4	1	9	1	0	0	1	0	11	1	21	2	10	0	8	1	29	4	23	9	8	1	10	2	2	0	12	0	3	2	6	0	12	2	12	4	6	0	10	4	0	1
+4	atp6	YP_009558593.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	12	1	41	0	1	0	12	1	10	0	0	0	0	0	0	1	1	0	1	0	6	0	5	0	4	1	0	0	0	0	0	0	42	5	5	0	10	1	7	1	12	0	9	2	2	1	0	0	20	0	2	0	4	2	4	0	6	1	3	0	5	8	1	0
+5	cox1	YP_009558594.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	17	24	51	2	4	0	21	1	26	3	1	0	1	12	5	0	4	2	2	0	17	5	10	5	7	2	0	0	1	0	1	0	52	17	7	0	20	2	17	2	9	0	9	2	9	1	4	0	28	6	9	6	22	5	13	2	7	2	13	0	24	12	1	0
+6	orf303	YP_009558595.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	3	1	29	0	0	0	9	1	21	0	2	0	0	2	0	0	4	0	3	0	6	0	5	0	6	2	0	0	1	0	1	1	34	6	8	1	3	1	19	2	36	4	11	0	12	1	1	0	8	3	1	0	3	2	12	1	23	3	1	0	5	5	1	0
+7	orf298	YP_009558596.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	7	2	31	2	5	1	6	1	10	0	3	1	1	5	1	0	4	1	0	1	4	1	8	3	7	2	0	0	5	1	5	2	20	1	5	2	8	0	24	3	23	5	9	1	10	2	1	0	4	0	4	1	4	0	11	3	16	5	6	1	6	3	1	0
+8	orf349	YP_009558597.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	14	3	15	4	5	1	6	2	13	5	0	0	2	5	4	0	6	0	5	0	5	1	4	1	14	6	0	0	7	2	5	2	23	5	4	2	7	3	14	2	28	13	6	0	8	2	2	0	17	2	7	3	3	1	14	3	14	5	4	2	14	4	1	0
+9	orf329	YP_009558598.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	4	2	38	4	2	0	7	0	13	2	2	1	0	6	2	0	1	1	6	1	6	1	4	0	11	1	0	0	0	0	3	2	26	5	1	0	14	1	22	3	29	5	5	1	15	1	0	0	10	1	4	2	7	0	12	1	17	6	4	0	14	3	1	0
+10	orf198	YP_009558599.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	7	0	20	2	4	0	2	0	12	1	0	0	0	3	3	0	1	0	3	1	2	0	4	0	6	1	0	0	2	0	5	0	16	4	4	0	3	0	15	0	25	3	9	0	3	1	1	0	2	0	2	0	5	0	11	0	7	0	2	0	6	0	1	0
+11	orf324	YP_009558600.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	8	1	32	4	9	2	9	2	15	2	2	2	0	7	3	1	5	0	1	3	2	2	3	2	13	0	2	0	1	0	5	3	17	3	3	2	7	1	20	3	29	2	6	4	11	1	5	1	4	0	5	2	4	2	15	0	12	3	5	0	13	3	1	0
+12	orf329	YP_009558601.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	9	4	18	4	8	2	7	0	19	2	3	1	2	1	3	0	1	0	5	0	3	0	5	0	13	0	0	0	1	0	6	1	26	3	3	1	9	2	21	2	41	6	5	1	12	0	1	0	10	1	5	2	4	0	10	0	16	7	5	1	12	5	1	0
+13	orf340	YP_009558602.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	10	1	34	2	2	2	8	2	20	1	3	1	0	5	1	0	2	0	2	0	4	1	5	0	10	3	1	0	1	0	4	1	25	6	5	2	7	2	23	3	37	7	7	1	13	3	1	0	11	1	3	1	5	0	14	0	13	5	3	1	12	3	0	1
+14	orf337	YP_009558603.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	10	1	22	2	5	0	5	0	9	1	2	1	5	1	9	2	6	2	1	1	2	0	3	2	9	0	2	1	0	1	2	0	26	5	10	0	9	0	19	3	31	6	13	2	9	2	3	1	14	2	9	1	4	0	12	9	15	4	7	2	9	3	1	0
+15	orf263	YP_009558604.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	8	2	26	0	4	1	6	0	17	0	5	0	4	1	2	0	0	0	3	1	1	0	5	1	6	0	0	0	1	0	3	0	27	2	1	0	2	0	33	3	31	1	4	0	9	1	0	0	10	0	0	0	5	0	10	0	12	4	4	0	6	1	1	0
+16	orf363	YP_009558605.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	11	5	25	0	7	2	10	1	19	3	6	0	0	3	1	0	4	1	4	0	7	0	3	2	7	1	2	0	1	0	9	0	32	6	5	1	5	1	31	4	37	3	10	2	17	0	4	1	8	1	5	0	6	0	13	5	13	4	4	1	9	1	1	0
+17	orf191	YP_009558606.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	3	1	21	1	4	1	4	0	13	0	0	0	1	2	1	0	0	0	2	0	6	0	1	0	4	1	0	0	6	0	5	0	17	2	3	0	5	1	17	2	15	3	7	2	4	1	0	1	6	0	1	0	4	0	4	0	7	1	4	0	6	1	1	0
+18	nad4L	YP_009558607.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	6	0	18	1	3	1	2	0	3	0	1	0	0	0	0	0	2	0	1	0	0	0	1	0	0	0	0	0	0	0	0	2	12	3	3	0	1	0	3	0	2	0	0	0	2	0	0	0	3	0	1	1	5	1	2	0	3	1	2	0	3	1	0	1
+19	cox3	YP_009558608.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	15	9	30	0	2	1	8	0	12	0	2	0	0	9	0	0	0	0	2	1	5	1	8	3	4	1	0	0	0	0	1	1	22	5	5	0	11	2	7	0	5	0	5	1	6	0	1	0	18	4	3	1	10	2	3	1	10	0	7	0	12	7	0	1
+20	orf234	YP_009558609.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	5	0	24	1	4	0	8	2	18	0	4	1	2	2	1	0	0	0	5	0	5	2	4	1	2	2	0	0	4	0	2	1	23	4	3	1	8	0	9	0	18	4	9	1	7	1	0	0	7	1	1	0	3	0	6	1	8	5	4	0	6	4	0	1
+21	cox2	YP_009558610.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	7	0	27	0	1	0	9	1	13	1	5	1	1	6	1	0	2	0	3	0	7	1	5	1	5	2	0	0	1	0	0	0	32	5	1	0	8	1	11	2	11	1	9	0	5	1	0	0	18	0	0	0	7	0	8	4	14	3	2	0	7	3	1	0
+22	orf309	YP_009558611.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	8	0	22	1	6	2	6	2	19	5	1	1	0	0	0	0	1	0	3	0	3	2	3	2	6	0	2	0	1	0	6	1	20	7	6	4	9	0	17	1	40	9	14	2	10	2	1	0	3	1	4	0	3	0	12	0	17	3	10	1	9	1	0	1
+23	orf391	YP_009558612.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	15	5	30	2	3	3	5	0	19	3	5	0	2	2	2	0	3	3	2	1	8	1	4	2	12	0	0	0	1	0	4	3	37	8	4	1	14	0	30	4	46	5	3	2	13	2	2	0	12	2	3	1	3	0	12	2	20	2	9	2	11	1	1	0
+24	nad4	YP_009558615.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	17	2	69	0	2	0	22	3	30	0	2	0	0	6	0	0	2	0	3	2	8	2	6	1	5	1	0	0	1	0	1	1	79	15	3	0	13	2	17	1	12	1	18	0	12	0	0	0	28	2	3	2	9	6	6	1	10	9	6	0	15	14	0	1
+25	orf326	YP_009558616.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	7	4	30	2	3	2	10	1	11	0	4	1	4	3	1	0	1	0	1	0	5	1	7	0	7	3	0	0	0	0	1	1	32	2	4	1	7	1	25	2	34	5	1	0	14	0	0	1	9	2	3	3	6	1	12	1	24	6	3	2	12	3	0	1
+26	nad5	YP_009558617.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	24	9	82	1	8	0	26	1	40	1	6	0	0	11	2	0	9	1	10	0	8	1	13	2	6	2	0	0	1	0	3	0	90	19	7	1	19	7	28	3	18	4	24	1	11	1	2	1	27	2	9	2	21	5	16	2	15	4	17	1	16	15	1	0
+27	orf235	YP_009558618.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	8	1	17	0	2	0	11	0	14	1	4	1	0	3	2	0	1	0	0	0	3	1	8	0	3	0	0	0	0	0	1	0	24	6	2	0	6	1	12	0	26	5	6	1	10	0	0	0	8	0	0	0	5	0	6	1	18	1	5	0	8	3	1	0
+28	orf238	YP_009558619.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	12	0	14	1	4	1	5	0	7	1	2	1	1	3	5	0	2	0	3	0	6	1	2	2	7	0	0	0	1	0	5	3	22	4	6	0	3	2	13	2	19	2	3	1	7	3	3	0	10	1	2	1	6	0	7	1	13	2	4	0	8	4	1	0
+29	nad2	YP_009558620.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	11	1	36	0	0	0	13	1	27	0	3	0	0	2	0	0	1	0	0	0	6	3	4	0	4	2	0	0	0	0	1	1	115	9	0	0	17	1	20	1	10	9	25	1	11	1	0	0	23	3	0	0	11	8	7	0	6	11	2	0	14	20	1	0
+30	atp9	YP_009558621.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	4	1	14	0	0	0	5	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	7	2	0	0	3	0	2	1	2	0	2	1	1	0	0	0	1	2	0	2	9	1	0	0	1	0	1	0	7	0	1	0
+31	atp8	YP_009558622.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	3	0	8	0	0	0	0	0	4	0	0	0	0	0	0	0	1	0	1	0	3	0	0	0	2	0	0	0	1	0	0	1	11	1	0	0	1	0	1	0	2	1	2	1	1	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0
+32	nad1	YP_009558624.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	15	3	43	3	2	0	11	2	9	1	1	0	2	3	1	0	4	0	4	1	6	0	0	1	6	2	0	0	1	0	3	1	42	14	3	0	8	1	9	1	7	1	7	0	7	1	4	1	16	2	8	4	5	7	4	1	6	5	9	0	6	8	1	0
+33	nad3	YP_009558625.1	Conidiobolus heterosporus	Eukaryota, Fungi, Fungi incertae sedis, Zoopagomycota, Entomophthoromycotina, Entomophthoromycetes, Entomophthorales, Ancylistaceae, Conidiobolus	5	1	16	0	0	0	1	0	9	0	2	0	0	1	0	0	2	1	0	0	3	1	0	0	1	0	0	0	0	0	0	0	25	3	0	0	4	2	8	0	4	1	2	0	1	0	0	0	5	1	0	0	2	3	4	0	2	1	1	0	4	1	0	1

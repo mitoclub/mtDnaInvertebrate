@@ -1,65 +1,7 @@
-	YP_001936197.1|COX1	YP_001936198.1|ND1	YP_001936199.1|CYTB	YP_001936200.1|ND6	YP_001936201.1|ND3	YP_001936202.1|ND4L
-TTT	27	11	20	5	9	2
-TTC	18	9	9	6	4	1
-TTA	40	27	36	14	12	13
-TTG	8	5	8	3	0	1
-TCT	16	9	10	5	2	3
-TCC	5	1	3	2	1	1
-TCA	3	3	5	2	2	1
-TCG	2	4	0	1	0	0
-TAT	17	13	11	8	5	3
-TAC	6	2	9	1	0	1
-TGT	0	3	3	0	1	1
-TGC	1	1	1	0	0	0
-TGA	0	0	0	0	0	0
-TGG	15	6	10	1	4	0
-CTT	3	8	5	3	1	4
-CTC	1	0	4	0	1	1
-CTA	11	6	5	5	4	2
-CTG	3	2	1	0	1	1
-CCT	12	9	9	8	1	0
-CCC	4	2	6	0	3	0
-CCA	4	2	4	1	0	0
-CCG	7	2	1	1	1	0
-CAT	13	2	10	2	0	0
-CAC	4	0	1	2	0	0
-CAA	5	3	7	2	1	1
-CAG	3	3	0	5	0	0
-CGT	2	0	1	1	0	3
-CGC	0	0	1	0	0	0
-CGA	1	2	1	0	0	1
-CGG	1	1	1	0	0	0
-ATT	28	15	14	5	4	12
-ATC	2	6	4	3	2	3
-ATA	21	11	16	12	6	1
-ATG	24	15	13	6	4	5
-ACT	16	4	5	2	1	2
-ACC	6	2	5	2	1	0
-ACA	10	0	4	3	1	1
-ACG	0	3	1	1	0	1
-AAT	11	8	12	9	2	3
-AAC	5	0	4	0	1	1
-AAA	4	5	5	2	3	0
-AAG	4	3	4	2	0	0
-AGT	13	6	6	6	0	0
-AGC	3	3	4	2	2	1
-AGA	5	4	5	0	1	2
-AGG	2	0	0	2	0	0
-GTT	11	9	11	8	6	3
-GTC	3	4	4	3	0	2
-GTA	11	10	11	6	1	1
-GTG	6	5	6	3	1	1
-GCT	19	18	12	8	1	3
-GCC	6	5	7	3	1	4
-GCA	10	12	1	1	1	1
-GCG	4	0	2	0	0	1
-GAT	16	3	5	3	4	0
-GAC	2	1	7	1	0	0
-GAA	6	7	4	1	3	0
-GAG	2	3	3	1	4	3
-GGT	17	10	5	0	0	5
-GGC	2	3	3	1	2	0
-GGA	18	7	13	6	5	1
-GGG	13	8	8	3	5	0
-TAA	0	1	0	0	0	1
-TAG	0	0	1	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_001936197.1	Keratoisidinae sp. BAL208-1	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Calcaxonia, Isididae, unclassified Isididae	27	18	40	8	16	5	3	2	17	6	0	1	0	15	3	1	11	3	12	4	4	7	13	4	5	3	2	0	1	1	28	2	21	24	16	6	10	0	11	5	4	4	13	3	5	2	11	3	11	6	19	6	10	4	16	2	6	2	17	2	18	13	0	0
+1	ND1	YP_001936198.1	Keratoisidinae sp. BAL208-1	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Calcaxonia, Isididae, unclassified Isididae	11	9	27	5	9	1	3	4	13	2	3	1	0	6	8	0	6	2	9	2	2	2	2	0	3	3	0	0	2	1	15	6	11	15	4	2	0	3	8	0	5	3	6	3	4	0	9	4	10	5	18	5	12	0	3	1	7	3	10	3	7	8	1	0
+2	CYTB	YP_001936199.1	Keratoisidinae sp. BAL208-1	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Calcaxonia, Isididae, unclassified Isididae	20	9	36	8	10	3	5	0	11	9	3	1	0	10	5	4	5	1	9	6	4	1	10	1	7	0	1	1	1	1	14	4	16	13	5	5	4	1	12	4	5	4	6	4	5	0	11	4	11	6	12	7	1	2	5	7	4	3	5	3	13	8	0	1
+3	ND6	YP_001936200.1	Keratoisidinae sp. BAL208-1	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Calcaxonia, Isididae, unclassified Isididae	5	6	14	3	5	2	2	1	8	1	0	0	0	1	3	0	5	0	8	0	1	1	2	2	2	5	1	0	0	0	5	3	12	6	2	2	3	1	9	0	2	2	6	2	0	2	8	3	6	3	8	3	1	0	3	1	1	1	0	1	6	3	0	1
+4	ND3	YP_001936201.1	Keratoisidinae sp. BAL208-1	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Calcaxonia, Isididae, unclassified Isididae	9	4	12	0	2	1	2	0	5	0	1	0	0	4	1	1	4	1	1	3	0	1	0	0	1	0	0	0	0	0	4	2	6	4	1	1	1	0	2	1	3	0	0	2	1	0	6	0	1	1	1	1	1	0	4	0	3	4	0	2	5	5	0	1
+5	ND4L	YP_001936202.1	Keratoisidinae sp. BAL208-1	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Calcaxonia, Isididae, unclassified Isididae	2	1	13	1	3	1	1	0	3	1	1	0	0	0	4	1	2	1	0	0	0	0	0	0	1	0	3	0	1	0	12	3	1	5	2	0	1	1	3	1	0	0	0	1	2	0	3	2	1	1	3	4	1	1	0	0	0	3	5	0	1	0	1	0

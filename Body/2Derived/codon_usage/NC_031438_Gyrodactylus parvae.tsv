@@ -1,65 +1,13 @@
-	YP_009309691.1|COX3	YP_009309692.1|CYTB	YP_009309693.1|ND4L	YP_009309694.1|ND4	YP_009309695.1|ATP6	YP_009309696.1|ND2	YP_009309697.1|ND1	YP_009309698.1|ND3	YP_009309699.1|COX1	YP_009309700.1|COX2	YP_009309701.1|ND6	YP_009309702.1|ND5
-TTT	14	23	9	33	21	30	27	16	34	10	15	39
-TTC	6	4	3	4	4	4	9	2	18	0	2	7
-TTA	30	35	11	53	9	35	35	13	57	20	17	55
-TTG	2	3	0	3	1	3	3	2	1	4	2	7
-TCT	3	11	1	5	1	10	9	4	20	11	4	13
-TCC	0	1	0	1	0	2	3	0	1	0	2	1
-TCA	3	3	0	7	2	2	5	2	8	0	6	7
-TCG	0	0	0	0	0	0	0	0	1	0	0	0
-TAT	13	16	2	15	2	9	24	7	15	12	10	28
-TAC	0	9	0	7	5	3	3	1	3	3	1	8
-TGT	3	3	3	10	2	6	7	3	6	6	3	15
-TGC	1	1	1	1	0	0	0	0	0	0	1	1
-TGA	6	7	2	6	1	3	4	1	17	3	2	6
-TGG	1	4	0	0	1	3	3	2	2	1	2	1
-CTT	7	7	4	9	5	5	2	3	5	1	1	14
-CTC	0	1	2	1	1	3	1	0	0	0	0	1
-CTA	5	4	3	8	5	10	6	1	6	2	3	7
-CTG	0	0	0	3	3	0	0	1	1	0	0	1
-CCT	0	3	1	4	3	1	1	0	8	1	0	2
-CCC	1	0	0	1	1	0	1	0	1	0	0	0
-CCA	2	6	0	5	3	1	2	0	10	5	0	6
-CCG	0	1	0	1	1	0	0	0	1	0	0	0
-CAT	7	6	0	5	3	1	1	0	12	1	0	6
-CAC	0	3	0	1	1	0	0	2	2	3	0	2
-CAA	2	6	0	2	0	0	0	0	2	1	0	3
-CAG	1	1	0	0	0	0	3	0	1	0	0	1
-CGT	0	3	0	3	4	0	5	0	5	1	0	4
-CGC	0	0	0	0	0	0	0	0	0	0	0	1
-CGA	1	1	1	2	0	0	2	0	3	2	1	2
-CGG	0	1	0	0	0	0	0	0	1	1	0	1
-ATT	13	13	2	24	11	14	11	2	23	7	14	21
-ATC	0	0	1	3	0	1	2	1	4	2	1	3
-ATA	6	22	11	32	17	38	13	5	25	8	9	44
-ATG	5	13	1	8	2	5	9	2	18	5	5	11
-ACT	5	9	1	4	2	1	4	2	15	6	2	7
-ACC	1	1	0	1	0	0	1	0	1	0	0	5
-ACA	4	1	0	0	3	4	4	2	6	2	4	9
-ACG	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	4	14	1	13	6	13	8	3	16	8	5	18
-AAC	2	3	1	3	1	2	0	1	3	2	1	7
-AAA	3	4	4	14	1	9	3	3	2	2	3	11
-AAG	3	8	0	4	2	5	7	1	7	4	0	7
-AGT	8	11	2	20	9	12	11	5	17	4	5	19
-AGC	0	0	1	1	2	5	2	0	3	1	1	3
-AGA	5	5	1	12	1	7	6	3	7	3	13	17
-AGG	1	1	0	1	0	2	0	0	4	1	2	4
-GTT	7	14	3	8	5	7	10	5	17	13	3	12
-GTC	0	1	1	4	1	0	2	0	1	1	0	2
-GTA	9	15	1	12	4	6	5	5	24	4	8	20
-GTG	2	1	0	1	3	3	2	4	2	2	1	2
-GCT	3	7	2	1	4	0	0	0	9	0	1	7
-GCC	0	2	0	3	1	0	1	1	0	0	0	0
-GCA	2	7	0	4	1	1	7	0	6	1	1	7
-GCG	0	1	0	0	0	0	1	0	2	0	0	2
-GAT	2	7	0	7	1	2	3	2	8	9	2	9
-GAC	3	1	1	0	2	1	2	1	5	2	0	4
-GAA	4	4	1	5	5	4	5	2	6	7	0	5
-GAG	1	2	1	1	0	2	4	1	0	2	2	2
-GGT	9	11	2	11	3	4	9	2	29	2	2	5
-GGC	0	4	0	2	0	0	2	1	1	0	0	0
-GGA	1	6	0	7	4	5	2	1	7	5	1	5
-GGG	1	6	1	5	0	1	3	1	6	2	2	8
-TAA	1	1	1	1	0	1	0	1	1	1	0	0
-TAG	0	0	0	0	1	0	1	0	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009309691.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	14	6	30	2	3	0	3	0	13	0	3	1	6	1	7	0	5	0	0	1	2	0	7	0	2	1	0	0	1	0	13	0	6	5	5	1	4	0	4	2	3	3	8	0	5	1	7	0	9	2	3	0	2	0	2	3	4	1	9	0	1	1	1	0
+1	CYTB	YP_009309692.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	23	4	35	3	11	1	3	0	16	9	3	1	7	4	7	1	4	0	3	0	6	1	6	3	6	1	3	0	1	1	13	0	22	13	9	1	1	0	14	3	4	8	11	0	5	1	14	1	15	1	7	2	7	1	7	1	4	2	11	4	6	6	1	0
+2	ND4L	YP_009309693.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	9	3	11	0	1	0	0	0	2	0	3	1	2	0	4	2	3	0	1	0	0	0	0	0	0	0	0	0	1	0	2	1	11	1	1	0	0	0	1	1	4	0	2	1	1	0	3	1	1	0	2	0	0	0	0	1	1	1	2	0	0	1	1	0
+3	ND4	YP_009309694.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	33	4	53	3	5	1	7	0	15	7	10	1	6	0	9	1	8	3	4	1	5	1	5	1	2	0	3	0	2	0	24	3	32	8	4	1	0	0	13	3	14	4	20	1	12	1	8	4	12	1	1	3	4	0	7	0	5	1	11	2	7	5	1	0
+4	ATP6	YP_009309695.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	21	4	9	1	1	0	2	0	2	5	2	0	1	1	5	1	5	3	3	1	3	1	3	1	0	0	4	0	0	0	11	0	17	2	2	0	3	0	6	1	1	2	9	2	1	0	5	1	4	3	4	1	1	0	1	2	5	0	3	0	4	0	0	1
+5	ND2	YP_009309696.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	30	4	35	3	10	2	2	0	9	3	6	0	3	3	5	3	10	0	1	0	1	0	1	0	0	0	0	0	0	0	14	1	38	5	1	0	4	0	13	2	9	5	12	5	7	2	7	0	6	3	0	0	1	0	2	1	4	2	4	0	5	1	1	0
+6	ND1	YP_009309697.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	27	9	35	3	9	3	5	0	24	3	7	0	4	3	2	1	6	0	1	1	2	0	1	0	0	3	5	0	2	0	11	2	13	9	4	1	4	0	8	0	3	7	11	2	6	0	10	2	5	2	0	1	7	1	3	2	5	4	9	2	2	3	0	1
+7	ND3	YP_009309698.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	16	2	13	2	4	0	2	0	7	1	3	0	1	2	3	0	1	1	0	0	0	0	0	2	0	0	0	0	0	0	2	1	5	2	2	0	2	0	3	1	3	1	5	0	3	0	5	0	5	4	0	1	0	0	2	1	2	1	2	1	1	1	1	0
+8	COX1	YP_009309699.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	34	18	57	1	20	1	8	1	15	3	6	0	17	2	5	0	6	1	8	1	10	1	12	2	2	1	5	0	3	1	23	4	25	18	15	1	6	0	16	3	2	7	17	3	7	4	17	1	24	2	9	0	6	2	8	5	6	0	29	1	7	6	1	0
+9	COX2	YP_009309700.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	10	0	20	4	11	0	0	0	12	3	6	0	3	1	1	0	2	0	1	0	5	0	1	3	1	0	1	0	2	1	7	2	8	5	6	0	2	0	8	2	2	4	4	1	3	1	13	1	4	2	0	0	1	0	9	2	7	2	2	0	5	2	1	0
+10	ND6	YP_009309701.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	15	2	17	2	4	2	6	0	10	1	3	1	2	2	1	0	3	0	0	0	0	0	0	0	0	0	0	0	1	0	14	1	9	5	2	0	4	0	5	1	3	0	5	1	13	2	3	0	8	1	1	0	1	0	2	0	0	2	2	0	1	2	0	1
+11	ND5	YP_009309702.1	Gyrodactylus parvae	Eukaryota, Metazoa, Platyhelminthes, Monogenea, Monopisthocotylea, Gyrodactylidae, Gyrodactylus	39	7	55	7	13	1	7	0	28	8	15	1	6	1	14	1	7	1	2	0	6	0	6	2	3	1	4	1	2	1	21	3	44	11	7	5	9	0	18	7	11	7	19	3	17	4	12	2	20	2	7	0	7	2	9	4	5	2	5	0	5	8	0	1

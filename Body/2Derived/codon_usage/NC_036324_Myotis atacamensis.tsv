@@ -1,65 +1,13 @@
-	YP_009442729.1|ND1	YP_009442730.1|ND2	YP_009442731.1|COX1	YP_009442732.1|COX2	YP_009442733.1|ATP8	YP_009442734.1|ATP6	YP_009442735.1|COX3	YP_009442736.1|ND3	YP_009442737.1|ND4L	YP_009442738.1|ND4	YP_009442739.1|ND5	YP_009442741.1|CYTB
-TTT	12	7	26	4	3	7	14	6	3	8	23	15
-TTC	7	3	16	3	0	6	9	4	1	9	26	9
-TTA	16	13	16	12	4	12	11	6	4	27	29	12
-TTG	1	2	5	2	1	2	1	2	2	2	5	1
-TCT	3	6	13	4	0	4	8	1	5	10	11	10
-TCC	4	7	4	4	0	1	4	1	3	5	7	6
-TCA	9	8	11	6	6	4	5	5	0	10	19	5
-TCG	0	0	0	1	0	0	0	0	0	1	1	1
-TAT	11	3	11	5	2	1	8	1	2	13	12	8
-TAC	2	7	8	5	1	1	5	2	2	6	5	8
-TGT	1	0	0	1	0	0	0	1	1	1	2	0
-TGC	0	0	1	1	0	0	1	0	2	3	2	4
-TGA	7	10	17	4	3	2	12	4	0	11	12	12
-TGG	2	0	0	1	0	1	0	0	0	1	0	0
-CTT	6	9	9	6	1	3	6	3	4	8	11	11
-CTC	2	3	6	1	0	4	5	4	3	5	4	7
-CTA	24	30	23	11	1	16	13	6	8	37	39	21
-CTG	6	2	3	2	0	4	0	3	3	9	2	6
-CCT	6	1	13	6	3	2	3	1	0	3	7	7
-CCC	6	7	5	5	2	5	2	2	1	11	9	6
-CCA	8	11	11	2	1	5	6	1	0	8	12	8
-CCG	1	2	0	0	0	0	0	2	0	1	0	2
-CAT	1	1	6	4	1	2	7	0	0	6	3	5
-CAC	2	6	12	3	2	5	9	0	2	4	9	8
-CAA	6	8	4	7	4	7	5	3	2	9	17	6
-CAG	0	0	2	0	0	1	2	0	0	1	2	0
-CGT	0	0	2	0	0	1	2	0	0	1	0	1
-CGC	0	0	0	2	0	2	0	0	0	2	4	1
-CGA	6	2	6	4	1	2	3	1	1	7	5	5
-CGG	1	1	0	0	0	0	0	0	0	0	0	1
-ATT	16	11	30	15	7	20	7	5	4	31	44	23
-ATC	11	21	10	5	1	7	7	4	1	16	13	19
-ATA	19	35	21	9	2	14	8	7	7	36	40	16
-ATG	3	7	9	4	1	3	3	0	2	5	4	2
-ACT	6	5	12	9	1	5	3	1	1	14	15	6
-ACC	7	14	8	3	1	7	4	2	3	13	16	5
-ACA	12	22	15	8	4	10	14	3	4	15	20	7
-ACG	1	1	0	0	1	1	2	1	0	0	1	2
-AAT	6	9	13	2	1	2	5	1	4	5	17	10
-AAC	8	8	4	4	1	6	2	2	1	15	13	8
-AAA	7	12	9	4	6	5	1	4	0	10	20	9
-AAG	0	1	0	0	0	0	0	0	0	2	3	0
-AGT	0	0	2	1	0	3	2	1	1	4	2	1
-AGC	3	1	2	3	0	2	2	1	0	5	10	3
-GTT	2	3	9	2	1	2	3	0	2	4	4	6
-GTC	3	1	3	2	0	3	5	0	0	1	4	0
-GTA	10	5	19	5	0	3	3	2	5	4	7	10
-GTG	0	0	5	1	1	1	3	1	1	1	4	2
-GCT	7	2	17	4	0	2	2	2	0	9	13	6
-GCC	9	7	13	1	0	5	8	3	2	8	13	9
-GCA	12	12	11	5	0	9	4	4	4	8	12	8
-GCG	0	0	1	1	0	0	0	0	0	2	0	1
-GAT	2	1	12	5	0	2	2	1	0	0	4	5
-GAC	1	0	2	5	1	0	1	2	1	3	7	5
-GAA	9	6	8	12	2	3	7	5	2	8	13	5
-GAG	2	0	2	2	0	0	1	1	0	1	0	1
-GGT	4	2	13	1	0	1	3	0	1	1	7	0
-GGC	2	2	8	4	0	3	7	2	0	9	7	5
-GGA	4	8	21	4	0	6	9	1	1	8	14	18
-GGG	2	2	5	0	0	1	2	0	2	2	1	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009442729.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	12	7	16	1	3	4	9	0	11	2	1	0	7	2	6	2	24	6	6	6	8	1	1	2	6	0	0	0	6	1	16	11	19	3	6	7	12	1	6	8	7	0	0	3	2	3	10	0	7	9	12	0	2	1	9	2	4	2	4	2	0	0	0	0
+1	ND2	YP_009442730.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	7	3	13	2	6	7	8	0	3	7	0	0	10	0	9	3	30	2	1	7	11	2	1	6	8	0	0	0	2	1	11	21	35	7	5	14	22	1	9	8	12	1	0	1	3	1	5	0	2	7	12	0	1	0	6	0	2	2	8	2	0	0	0	0
+2	COX1	YP_009442731.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	26	16	16	5	13	4	11	0	11	8	0	1	17	0	9	6	23	3	13	5	11	0	6	12	4	2	2	0	6	0	30	10	21	9	12	8	15	0	13	4	9	0	2	2	9	3	19	5	17	13	11	1	12	2	8	2	13	8	21	5	1	0	0	0
+3	COX2	YP_009442732.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	4	3	12	2	4	4	6	1	5	5	1	1	4	1	6	1	11	2	6	5	2	0	4	3	7	0	0	2	4	0	15	5	9	4	9	3	8	0	2	4	4	0	1	3	2	2	5	1	4	1	5	1	5	5	12	2	1	4	4	0	1	0	0	0
+4	ATP8	YP_009442733.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	0	4	1	0	0	6	0	2	1	0	0	3	0	1	0	1	0	3	2	1	0	1	2	4	0	0	0	1	0	7	1	2	1	1	1	4	1	1	1	6	0	0	0	1	0	0	1	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009442734.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	7	6	12	2	4	1	4	0	1	1	0	0	2	1	3	4	16	4	2	5	5	0	2	5	7	1	1	2	2	0	20	7	14	3	5	7	10	1	2	6	5	0	3	2	2	3	3	1	2	5	9	0	2	0	3	0	1	3	6	1	1	0	0	0
+6	COX3	YP_009442735.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	14	9	11	1	8	4	5	0	8	5	0	1	12	0	6	5	13	0	3	2	6	0	7	9	5	2	2	0	3	0	7	7	8	3	3	4	14	2	5	2	1	0	2	2	3	5	3	3	2	8	4	0	2	1	7	1	3	7	9	2	0	0	0	0
+7	ND3	YP_009442736.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	6	4	6	2	1	1	5	0	1	2	1	0	4	0	3	4	6	3	1	2	1	2	0	0	3	0	0	0	1	0	5	4	7	0	1	2	3	1	1	2	4	0	1	1	0	0	2	1	2	3	4	0	1	2	5	1	0	2	1	0	0	0	0	0
+8	ND4L	YP_009442737.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	3	1	4	2	5	3	0	0	2	2	1	2	0	0	4	3	8	3	0	1	0	0	0	2	2	0	0	0	1	0	4	1	7	2	1	3	4	0	4	1	0	0	1	0	2	0	5	1	0	2	4	0	0	1	2	0	1	0	1	2	1	0	0	0
+9	ND4	YP_009442738.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	8	9	27	2	10	5	10	1	13	6	1	3	11	1	8	5	37	9	3	11	8	1	6	4	9	1	1	2	7	0	31	16	36	5	14	13	15	0	5	15	10	2	4	5	4	1	4	1	9	8	8	2	0	3	8	1	1	9	8	2	0	0	0	0
+10	ND5	YP_009442739.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	23	26	29	5	11	7	19	1	12	5	2	2	12	0	11	4	39	2	7	9	12	0	3	9	17	2	0	4	5	0	44	13	40	4	15	16	20	1	17	13	20	3	2	10	4	4	7	4	13	13	12	0	4	7	13	0	7	7	14	1	1	0	0	0
+11	CYTB	YP_009442741.1	Myotis atacamensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Myotis	15	9	12	1	10	6	5	1	8	8	0	4	12	0	11	7	21	6	7	6	8	2	5	8	6	0	1	1	5	1	23	19	16	2	6	5	7	2	10	8	9	0	1	3	6	0	10	2	6	9	8	1	5	5	5	1	0	5	18	1	0	0	0	1

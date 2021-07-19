@@ -1,65 +1,10 @@
-	YP_009227458.1|ND2	YP_009227459.1|COX1	YP_009227460.1|COX2	YP_009227461.1|ATP8	YP_009227462.1|ATP6	YP_009227463.1|COX3	YP_009227464.1|ND3	YP_009227468.1|ND6	YP_009227469.1|CYTB
-TTT	12	27	7	5	14	12	6	14	24
-TTC	11	11	4	2	6	15	5	3	8
-TTA	25	39	23	6	27	22	9	11	34
-TTG	6	1	0	0	0	0	0	1	1
-TCT	5	6	2	1	1	2	2	2	1
-TCC	2	2	1	0	0	2	0	0	0
-TCA	23	20	10	3	13	7	7	5	12
-TCG	2	0	0	0	0	0	0	0	0
-TAT	7	10	6	0	4	5	1	5	11
-TAC	4	6	2	0	0	3	0	0	6
-TGT	2	1	1	0	0	1	0	0	4
-TGC	0	0	1	0	0	0	1	0	1
-TGA	10	14	6	3	5	14	3	2	12
-TGG	0	1	0	0	0	0	0	0	0
-CTT	6	6	2	1	2	6	1	1	4
-CTC	4	2	0	0	0	1	0	0	0
-CTA	13	12	5	1	7	5	6	4	5
-CTG	2	0	0	0	0	0	0	0	0
-CCT	2	9	3	1	0	5	1	2	8
-CCC	2	2	1	0	1	0	1	1	2
-CCA	6	13	5	1	8	6	3	1	11
-CCG	0	2	0	0	0	0	0	0	0
-CAT	1	10	5	0	4	9	1	0	11
-CAC	1	4	1	0	2	5	0	1	1
-CAA	8	9	5	3	3	8	1	5	8
-CAG	1	0	0	0	0	0	1	0	0
-CGT	0	1	2	0	0	1	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	6	0	3	3	2	0	8
-CGG	1	0	0	0	0	0	1	0	0
-ATT	26	45	18	4	18	18	15	26	43
-ATC	11	7	5	2	3	3	4	1	5
-ATA	30	31	9	3	19	8	7	28	19
-ATG	2	0	2	0	1	2	0	1	1
-ACT	3	8	6	0	7	6	0	4	7
-ACC	5	7	0	0	2	0	1	0	0
-ACA	13	24	12	1	14	14	4	10	15
-ACG	1	0	0	0	0	0	0	0	0
-AAT	10	12	11	5	16	6	1	13	19
-AAC	6	8	1	0	1	1	1	3	5
-AAA	14	7	5	5	3	1	6	7	9
-AAG	2	1	0	1	0	0	0	0	1
-AGT	1	5	3	0	0	0	0	0	0
-AGC	0	0	0	0	1	0	1	0	0
-AGA	11	8	5	2	6	7	3	3	4
-AGG	0	0	0	1	0	0	0	0	0
-GTT	6	11	3	0	3	5	2	1	10
-GTC	1	0	0	0	0	0	0	0	1
-GTA	6	16	9	0	5	10	3	3	11
-GTG	0	2	0	0	0	0	0	0	0
-GCT	1	10	3	0	3	5	1	1	8
-GCC	1	3	0	0	0	1	0	0	3
-GCA	10	21	8	1	7	12	4	3	10
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	10	4	0	0	3	1	0	7
-GAC	0	6	7	0	1	1	2	1	1
-GAA	8	9	7	1	4	7	5	4	4
-GAG	1	0	1	0	0	0	0	0	1
-GGT	2	7	2	0	1	1	0	2	5
-GGC	0	3	0	0	0	0	0	0	0
-GGA	11	34	8	0	9	20	4	3	18
-GGG	1	3	0	0	1	0	0	0	0
-TAA	0	0	0	1	0	1	0	1	1
-TAG	0	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009227458.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	12	11	25	6	5	2	23	2	7	4	2	0	10	0	6	4	13	2	2	2	6	0	1	1	8	1	0	0	1	1	26	11	30	2	3	5	13	1	10	6	14	2	1	0	11	0	6	1	6	0	1	1	10	0	0	0	8	1	2	0	11	1	0	0
+1	COX1	YP_009227459.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	27	11	39	1	6	2	20	0	10	6	1	0	14	1	6	2	12	0	9	2	13	2	10	4	9	0	1	0	7	0	45	7	31	0	8	7	24	0	12	8	7	1	5	0	8	0	11	0	16	2	10	3	21	0	10	6	9	0	7	3	34	3	0	0
+2	COX2	YP_009227460.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	7	4	23	0	2	1	10	0	6	2	1	1	6	0	2	0	5	0	3	1	5	0	5	1	5	0	2	0	6	0	18	5	9	2	6	0	12	0	11	1	5	0	3	0	5	0	3	0	9	0	3	0	8	0	4	7	7	1	2	0	8	0	0	0
+3	ATP8	YP_009227461.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	5	2	6	0	1	0	3	0	0	0	0	0	3	0	1	0	1	0	1	0	1	0	0	0	3	0	0	0	0	0	4	2	3	0	0	0	1	0	5	0	5	1	0	0	2	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009227462.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	14	6	27	0	1	0	13	0	4	0	0	0	5	0	2	0	7	0	0	1	8	0	4	2	3	0	0	0	3	0	18	3	19	1	7	2	14	0	16	1	3	0	0	1	6	0	3	0	5	0	3	0	7	0	0	1	4	0	1	0	9	1	0	1
+5	COX3	YP_009227463.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	12	15	22	0	2	2	7	0	5	3	1	0	14	0	6	1	5	0	5	0	6	0	9	5	8	0	1	0	3	0	18	3	8	2	6	0	14	0	6	1	1	0	0	0	7	0	5	0	10	0	5	1	12	0	3	1	7	0	1	0	20	0	1	0
+6	ND3	YP_009227464.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	6	5	9	0	2	0	7	0	1	0	0	1	3	0	1	0	6	0	1	1	3	0	1	0	1	1	0	0	2	1	15	4	7	0	0	1	4	0	1	1	6	0	0	1	3	0	2	0	3	0	1	0	4	0	1	2	5	0	0	0	4	0	0	0
+7	ND6	YP_009227468.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	14	3	11	1	2	0	5	0	5	0	0	0	2	0	1	0	4	0	2	1	1	0	0	1	5	0	1	0	0	0	26	1	28	1	4	0	10	0	13	3	7	0	0	0	3	0	1	0	3	0	1	0	3	0	0	1	4	0	2	0	3	0	1	0
+8	CYTB	YP_009227469.1	Peripolus nepalensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Calliptaminae, Peripolus	24	8	34	1	1	0	12	0	11	6	4	1	12	0	4	0	5	0	8	2	11	0	11	1	8	0	0	0	8	0	43	5	19	1	7	0	15	0	19	5	9	1	0	0	4	0	10	1	11	0	8	3	10	0	7	1	4	1	5	0	18	0	1	0

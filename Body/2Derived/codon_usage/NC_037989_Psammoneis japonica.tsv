@@ -1,65 +1,19 @@
-	YP_009495505.1|cox2	YP_009495506.1|nad7	YP_009495507.1|nad9	YP_009495508.1|rps14	YP_009495509.1|cox1	YP_009495510.1|orf1	YP_009495511.1|orf2	YP_009495512.1|orf3	YP_009495513.1|orf4	YP_009495514.1|orf5	YP_009495515.1|orf6	YP_009495516.1|orf7	YP_009495517.1|nad5	YP_009495518.1|cox3	YP_009495519.1|nad11	YP_009495525.1|rps11	YP_009495526.1|tatC	YP_009495532.1|atp8
-TTT	22	18	13	2	38	22	17	36	16	20	31	35	67	35	55	8	32	8
-TTC	3	2	1	0	10	9	5	8	8	10	5	8	5	4	4	1	4	0
-TTA	33	22	18	8	34	24	21	60	16	37	23	39	66	17	64	15	22	8
-TTG	3	4	1	3	9	13	5	9	4	12	14	13	9	3	9	2	5	1
-TCT	6	3	3	1	15	15	19	24	7	16	12	20	12	4	20	1	4	0
-TCC	0	2	0	0	0	1	4	5	3	5	11	5	0	0	1	0	0	0
-TCA	4	3	2	3	8	6	8	15	9	14	3	12	18	6	19	1	6	0
-TCG	2	4	2	2	5	7	5	4	4	4	10	6	8	0	8	0	0	2
-TAT	9	14	9	4	20	17	21	26	13	19	17	29	33	11	31	6	15	5
-TAC	3	4	2	0	2	14	9	16	9	6	12	8	5	0	4	2	4	0
-TGT	7	5	4	1	2	8	12	4	4	9	10	10	9	3	18	1	4	0
-TGC	0	2	0	0	0	6	3	4	2	4	4	6	3	0	5	0	1	0
-TGG	8	4	3	2	12	6	7	13	5	7	8	7	8	11	6	0	3	0
-CTT	4	4	1	1	4	13	28	10	19	18	20	19	11	1	14	3	2	3
-CTC	0	0	0	0	0	3	7	3	4	5	6	2	0	1	0	0	0	0
-CTA	3	3	1	1	7	11	9	14	2	16	8	15	4	1	3	4	7	1
-CTG	0	1	0	0	0	6	2	5	6	6	6	5	2	2	2	0	1	0
-CCT	4	5	2	0	8	13	11	14	9	15	9	13	7	3	11	1	3	0
-CCC	1	0	0	0	1	3	1	4	1	1	6	3	0	0	1	0	0	0
-CCA	2	8	4	0	14	8	10	7	6	3	7	8	5	1	7	2	2	2
-CCG	4	4	0	1	1	5	7	2	5	4	3	1	2	3	3	1	1	0
-CAT	5	12	3	0	12	11	18	16	6	15	14	15	10	14	11	3	1	0
-CAC	3	1	1	0	5	1	5	10	4	5	4	4	3	1	2	0	0	1
-CAA	8	12	3	2	4	12	14	16	14	16	11	11	12	2	15	5	6	6
-CAG	2	4	2	1	1	4	3	4	4	7	7	3	2	4	2	1	1	0
-CGT	2	6	1	5	0	8	15	8	6	9	12	10	2	0	5	1	1	0
-CGC	0	2	0	0	0	0	1	1	2	4	4	1	0	0	1	0	0	0
-CGA	2	3	1	1	2	12	5	2	7	9	2	6	4	3	7	1	0	1
-CGG	0	3	2	0	0	2	5	1	2	7	6	2	1	0	2	0	0	0
-ATT	19	20	11	11	28	32	32	37	21	32	25	37	34	17	36	10	15	6
-ATC	2	2	2	0	6	7	13	6	10	10	8	14	2	2	3	1	2	0
-ATA	2	12	9	4	16	21	22	31	12	19	12	29	13	2	10	6	14	3
-ATG	7	16	3	4	18	22	13	10	7	10	12	11	24	8	11	3	4	1
-ACT	5	9	4	1	19	17	17	19	15	20	18	30	16	9	22	5	7	0
-ACC	2	2	0	0	2	2	1	7	2	2	9	6	2	1	3	0	2	1
-ACA	7	4	8	1	7	8	12	18	9	7	3	14	14	8	12	5	2	1
-ACG	1	2	2	0	3	4	13	4	2	9	3	5	8	1	7	0	1	0
-AAT	13	16	9	8	10	34	33	57	25	36	27	48	19	10	62	15	11	6
-AAC	1	3	1	1	6	9	16	15	5	17	13	13	3	1	9	2	2	0
-AAA	13	19	12	13	7	62	53	82	47	62	62	75	20	7	58	24	16	6
-AAG	1	4	4	1	1	16	32	26	11	28	27	30	11	1	13	5	0	1
-AGT	7	2	2	2	7	15	17	20	5	19	12	15	10	6	15	4	7	0
-AGC	1	1	0	1	2	6	9	12	3	8	7	3	0	0	4	0	1	0
-AGA	3	8	4	2	9	25	14	27	12	19	14	18	5	5	9	3	1	0
-AGG	0	1	1	0	1	8	7	3	4	9	4	2	0	0	0	2	0	1
-GTT	10	13	6	3	20	9	21	16	9	21	23	21	28	11	20	3	6	3
-GTC	1	3	0	0	2	4	2	6	4	7	6	6	2	1	0	1	1	0
-GTA	9	9	5	1	11	19	13	15	6	14	9	10	12	6	11	4	4	2
-GTG	1	0	0	0	6	1	10	11	3	4	7	9	6	1	5	0	1	0
-GCT	5	8	2	2	10	15	16	17	13	12	17	16	19	11	8	3	1	0
-GCC	0	2	0	0	3	4	6	5	2	5	6	4	3	1	1	0	1	0
-GCA	3	8	1	0	16	4	10	13	4	5	6	11	16	5	7	1	4	1
-GCG	2	3	0	0	6	3	7	3	9	5	4	2	9	5	1	0	0	0
-GAT	7	16	6	1	12	26	24	26	20	31	17	21	19	5	25	3	4	2
-GAC	1	5	1	0	2	8	12	13	10	6	13	7	3	0	2	0	0	0
-GAA	10	26	13	2	5	20	26	21	23	20	17	25	11	6	25	1	4	1
-GAG	4	2	2	0	0	15	13	9	9	10	10	7	1	3	10	1	2	1
-GGT	5	12	5	1	21	16	14	24	9	16	23	15	30	11	19	1	0	1
-GGC	2	2	0	1	2	3	4	6	4	7	9	3	6	0	3	1	0	0
-GGA	5	10	2	1	25	12	8	11	8	13	7	13	16	8	12	2	4	1
-GGG	1	3	0	0	0	10	6	5	8	12	9	6	1	2	1	0	0	0
-TAA	1	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	0	1
-TAG	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
-TGA	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox2	YP_009495505.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	22	3	33	3	6	0	4	2	9	3	7	0	8	4	0	3	0	4	1	2	4	5	3	8	2	2	0	2	0	19	2	2	7	5	2	7	1	13	1	13	1	7	1	3	0	10	1	9	1	5	0	3	2	7	1	10	4	5	2	5	1	1	0	0
+1	nad7	YP_009495506.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	18	2	22	4	3	2	3	4	14	4	5	2	4	4	0	3	1	5	0	8	4	12	1	12	4	6	2	3	3	20	2	12	16	9	2	4	2	16	3	19	4	2	1	8	1	13	3	9	0	8	2	8	3	16	5	26	2	12	2	10	3	1	0	0
+2	nad9	YP_009495507.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	13	1	18	1	3	0	2	2	9	2	4	0	3	1	0	1	0	2	0	4	0	3	1	3	2	1	0	1	2	11	2	9	3	4	0	8	2	9	1	12	4	2	0	4	1	6	0	5	0	2	0	1	0	6	1	13	2	5	0	2	0	0	1	0
+3	rps14	YP_009495508.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	2	0	8	3	1	0	3	2	4	0	1	0	2	1	0	1	0	0	0	0	1	0	0	2	1	5	0	1	0	11	0	4	4	1	0	1	0	8	1	13	1	2	1	2	0	3	0	1	0	2	0	0	0	1	0	2	0	1	1	1	0	1	0	0
+4	cox1	YP_009495509.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	38	10	34	9	15	0	8	5	20	2	2	0	12	4	0	7	0	8	1	14	1	12	5	4	1	0	0	2	0	28	6	16	18	19	2	7	3	10	6	7	1	7	2	9	1	20	2	11	6	10	3	16	6	12	2	5	0	21	2	25	0	1	0	0
+5	orf1	YP_009495510.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	22	9	24	13	15	1	6	7	17	14	8	6	6	13	3	11	6	13	3	8	5	11	1	12	4	8	0	12	2	32	7	21	22	17	2	8	4	34	9	62	16	15	6	25	8	9	4	19	1	15	4	4	3	26	8	20	15	16	3	12	10	0	0	1
+6	orf2	YP_009495511.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	17	5	21	5	19	4	8	5	21	9	12	3	7	28	7	9	2	11	1	10	7	18	5	14	3	15	1	5	5	32	13	22	13	17	1	12	13	33	16	53	32	17	9	14	7	21	2	13	10	16	6	10	7	24	12	26	13	14	4	8	6	1	0	0
+7	orf3	YP_009495512.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	36	8	60	9	24	5	15	4	26	16	4	4	13	10	3	14	5	14	4	7	2	16	10	16	4	8	1	2	1	37	6	31	10	19	7	18	4	57	15	82	26	20	12	27	3	16	6	15	11	17	5	13	3	26	13	21	9	24	6	11	5	1	0	0
+8	orf4	YP_009495513.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	16	8	16	4	7	3	9	4	13	9	4	2	5	19	4	2	6	9	1	6	5	6	4	14	4	6	2	7	2	21	10	12	7	15	2	9	2	25	5	47	11	5	3	12	4	9	4	6	3	13	2	4	9	20	10	23	9	9	4	8	8	1	0	0
+9	orf5	YP_009495514.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	20	10	37	12	16	5	14	4	19	6	9	4	7	18	5	16	6	15	1	3	4	15	5	16	7	9	4	9	7	32	10	19	10	20	2	7	9	36	17	62	28	19	8	19	9	21	7	14	4	12	5	5	5	31	6	20	10	16	7	13	12	1	0	0
+10	orf6	YP_009495515.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	31	5	23	14	12	11	3	10	17	12	10	4	8	20	6	8	6	9	6	7	3	14	4	11	7	12	4	2	6	25	8	12	12	18	9	3	3	27	13	62	27	12	7	14	4	23	6	9	7	17	6	6	4	17	13	17	10	23	9	7	9	1	0	0
+11	orf7	YP_009495516.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	35	8	39	13	20	5	12	6	29	8	10	6	7	19	2	15	5	13	3	8	1	15	4	11	3	10	1	6	2	37	14	29	11	30	6	14	5	48	13	75	30	15	3	18	2	21	6	10	9	16	4	11	2	21	7	25	7	15	3	13	6	0	1	0
+12	nad5	YP_009495517.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	67	5	66	9	12	0	18	8	33	5	9	3	8	11	0	4	2	7	0	5	2	10	3	12	2	2	0	4	1	34	2	13	24	16	2	14	8	19	3	20	11	10	0	5	0	28	2	12	6	19	3	16	9	19	3	11	1	30	6	16	1	1	0	0
+13	cox3	YP_009495518.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	35	4	17	3	4	0	6	0	11	0	3	0	11	1	1	1	2	3	0	1	3	14	1	2	4	0	0	3	0	17	2	2	8	9	1	8	1	10	1	7	1	6	0	5	0	11	1	6	1	11	1	5	5	5	0	6	3	11	0	8	2	1	0	0
+14	nad11	YP_009495519.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	55	4	64	9	20	1	19	8	31	4	18	5	6	14	0	3	2	11	1	7	3	11	2	15	2	5	1	7	2	36	3	10	11	22	3	12	7	62	9	58	13	15	4	9	0	20	0	11	5	8	1	7	1	25	2	25	10	19	3	12	1	1	0	0
+15	rps11	YP_009495525.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	8	1	15	2	1	0	1	0	6	2	1	0	0	3	0	4	0	1	0	2	1	3	0	5	1	1	0	1	0	10	1	6	3	5	0	5	0	15	2	24	5	4	0	3	2	3	1	4	0	3	0	1	0	3	0	1	1	1	1	2	0	1	0	0
+16	tatC	YP_009495526.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	32	4	22	5	4	0	6	0	15	4	4	1	3	2	0	7	1	3	0	2	1	1	0	6	1	1	0	0	0	15	2	14	4	7	2	2	1	11	2	16	0	7	1	1	0	6	1	4	1	1	1	4	0	4	0	4	2	0	0	4	0	0	1	0
+17	atp8	YP_009495532.1	Psammoneis japonica	Eukaryota, Stramenopiles, Bacillariophyta, Mediophyceae, Biddulphiophycidae, Triceratiales, Plagiogrammaceae, Psammoneis	8	0	8	1	0	0	0	2	5	0	0	0	0	3	0	1	0	0	0	2	0	0	1	6	0	0	0	1	0	6	0	3	1	0	1	1	0	6	0	6	1	0	0	0	1	3	0	2	0	0	0	1	0	2	0	1	1	1	0	1	0	1	0	0

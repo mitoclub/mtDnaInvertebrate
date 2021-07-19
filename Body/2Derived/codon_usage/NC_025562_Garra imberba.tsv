@@ -1,65 +1,13 @@
-	YP_009107134.1|ND1	YP_009107135.1|ND2	YP_009107136.1|COX1	YP_009107137.1|COX2	YP_009107138.1|ATP8	YP_009107139.1|ATP6	YP_009107140.1|COX3	YP_009107141.1|ND3	YP_009107142.1|ND4L	YP_009107143.1|ND4	YP_009107144.1|ND5	YP_009107146.1|CYTB
-TTT	9	6	17	2	1	8	7	4	5	10	20	12
-TTC	8	5	23	7	2	4	16	5	3	7	23	18
-TTA	7	9	9	10	5	7	4	4	3	21	11	10
-TTG	2	0	0	1	0	2	0	0	1	1	0	1
-TCT	2	3	9	3	0	1	3	2	3	2	3	2
-TCC	3	8	5	5	2	2	3	3	2	7	8	7
-TCA	13	3	13	5	1	2	6	0	1	12	15	11
-TCG	0	1	0	0	0	0	0	0	0	2	2	0
-TAT	9	4	10	4	0	1	5	2	0	9	4	4
-TAC	3	4	9	5	0	4	7	0	0	5	7	10
-TGT	0	1	0	0	0	0	1	0	1	1	2	2
-TGC	0	0	1	2	0	0	1	1	2	4	3	1
-TGA	8	10	17	5	5	4	12	5	0	17	12	12
-TGG	0	1	0	0	0	1	0	0	1	2	1	0
-CTT	5	4	11	4	0	7	6	2	2	10	11	8
-CTC	7	12	14	1	0	9	5	4	2	12	16	9
-CTA	35	33	23	11	0	17	11	13	10	36	47	29
-CTG	6	8	7	1	0	5	5	2	4	4	6	5
-CCT	10	3	4	0	1	1	0	0	0	4	2	1
-CCC	3	9	9	3	1	4	6	4	2	7	5	5
-CCA	11	7	13	11	6	12	6	4	0	16	18	14
-CCG	0	0	2	0	0	0	1	0	0	2	1	1
-CAT	2	1	9	2	0	1	6	0	2	7	1	3
-CAC	3	5	10	8	2	2	10	1	2	5	14	9
-CAA	6	11	8	8	1	7	9	2	3	14	15	6
-CAG	1	3	0	0	0	1	0	1	0	0	3	0
-CGT	1	1	1	0	0	0	0	0	1	1	1	1
-CGC	0	0	1	2	0	0	1	1	2	3	1	1
-CGA	5	3	6	4	0	6	4	1	0	6	8	4
-CGG	2	0	0	0	0	0	0	0	0	1	0	2
-ATT	19	22	25	10	4	14	9	4	2	26	35	20
-ATC	4	4	13	6	2	9	8	4	1	14	25	10
-ATA	7	16	17	8	0	6	8	2	4	24	25	11
-ATG	4	2	7	4	1	4	1	1	1	5	9	3
-ACT	3	3	4	4	3	2	2	0	1	4	5	4
-ACC	7	27	11	4	1	3	5	3	1	13	29	7
-ACA	9	18	20	3	0	13	11	6	5	22	22	12
-ACG	1	3	1	0	0	2	3	0	1	1	1	0
-AAT	3	5	8	1	1	6	0	2	1	5	11	6
-AAC	10	4	7	5	2	4	1	1	1	6	19	11
-AAA	4	7	7	3	3	0	2	1	0	9	19	7
-AAG	3	2	1	1	0	1	0	0	0	0	4	2
-AGT	0	2	0	1	1	1	1	0	1	0	2	0
-AGC	3	4	5	2	0	3	2	0	2	7	9	1
-GTT	2	3	7	7	0	3	3	1	0	2	7	7
-GTC	2	1	5	4	0	2	3	2	1	4	4	3
-GTA	13	5	26	11	2	8	7	3	1	10	10	10
-GTG	2	1	5	0	0	3	2	0	0	2	3	3
-GCT	3	1	7	2	1	4	4	1	1	4	7	6
-GCC	17	13	24	6	0	7	11	3	6	16	24	6
-GCA	14	21	15	7	1	8	7	4	5	15	19	18
-GCG	0	2	0	1	0	0	0	0	1	0	2	2
-GAT	0	1	3	2	0	1	1	1	0	0	6	5
-GAC	4	3	11	10	1	0	4	3	1	3	7	6
-GAA	10	2	10	13	2	4	9	5	2	10	10	7
-GAG	1	3	1	2	1	0	1	1	1	1	2	0
-GGT	2	2	11	1	0	3	1	1	0	4	4	2
-GGC	1	2	7	3	1	1	4	2	1	5	6	7
-GGA	12	10	19	5	0	6	13	4	5	13	18	14
-GGG	3	4	8	0	0	1	3	0	0	7	3	2
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009107134.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	9	8	7	2	2	3	13	0	9	3	0	0	8	0	5	7	35	6	10	3	11	0	2	3	6	1	1	0	5	2	19	4	7	4	3	7	9	1	3	10	4	3	0	3	2	2	13	2	3	17	14	0	0	4	10	1	2	1	12	3	1	0	0	0
+1	ND2	YP_009107135.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	6	5	9	0	3	8	3	1	4	4	1	0	10	1	4	12	33	8	3	9	7	0	1	5	11	3	1	0	3	0	22	4	16	2	3	27	18	3	5	4	7	2	2	4	3	1	5	1	1	13	21	2	1	3	2	3	2	2	10	4	0	0	0	0
+2	COX1	YP_009107136.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	17	23	9	0	9	5	13	0	10	9	0	1	17	0	11	14	23	7	4	9	13	2	9	10	8	0	1	1	6	0	25	13	17	7	4	11	20	1	8	7	7	1	0	5	7	5	26	5	7	24	15	0	3	11	10	1	11	7	19	8	1	0	0	0
+3	COX2	YP_009107137.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	2	7	10	1	3	5	5	0	4	5	0	2	5	0	4	1	11	1	0	3	11	0	2	8	8	0	0	2	4	0	10	6	8	4	4	4	3	0	1	5	3	1	1	2	7	4	11	0	2	6	7	1	2	10	13	2	1	3	5	0	0	0	0	0
+4	ATP8	YP_009107138.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	1	2	5	0	0	2	1	0	0	0	0	0	5	0	0	0	0	0	1	1	6	0	0	2	1	0	0	0	0	0	4	2	0	1	3	1	0	0	1	2	3	0	1	0	0	0	2	0	1	0	1	0	0	1	2	1	0	1	0	0	0	1	0	0
+5	ATP6	YP_009107139.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	8	4	7	2	1	2	2	0	1	4	0	0	4	1	7	9	17	5	1	4	12	0	1	2	7	1	0	0	6	0	14	9	6	4	2	3	13	2	6	4	0	1	1	3	3	2	8	3	4	7	8	0	1	0	4	0	3	1	6	1	1	0	0	0
+6	COX3	YP_009107140.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	7	16	4	0	3	3	6	0	5	7	1	1	12	0	6	5	11	5	0	6	6	1	6	10	9	0	0	1	4	0	9	8	8	1	2	5	11	3	0	1	2	0	1	2	3	3	7	2	4	11	7	0	1	4	9	1	1	4	13	3	0	0	0	0
+7	ND3	YP_009107141.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	4	5	4	0	2	3	0	0	2	0	0	1	5	0	2	4	13	2	0	4	4	0	0	1	2	1	0	1	1	0	4	4	2	1	0	3	6	0	2	1	1	0	0	0	1	2	3	0	1	3	4	0	1	3	5	1	1	2	4	0	0	0	0	0
+8	ND4L	YP_009107142.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	5	3	3	1	3	2	1	0	0	0	1	2	0	1	2	2	10	4	0	2	0	0	2	2	3	0	1	2	0	0	2	1	4	1	1	1	5	1	1	1	0	0	1	2	0	1	1	0	1	6	5	1	0	1	2	1	0	1	5	0	1	0	0	0
+9	ND4	YP_009107143.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	10	7	21	1	2	7	12	2	9	5	1	4	17	2	10	12	36	4	4	7	16	2	7	5	14	0	1	3	6	1	26	14	24	5	4	13	22	1	5	6	9	0	0	7	2	4	10	2	4	16	15	0	0	3	10	1	4	5	13	7	0	0	0	0
+10	ND5	YP_009107144.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	20	23	11	0	3	8	15	2	4	7	2	3	12	1	11	16	47	6	2	5	18	1	1	14	15	3	1	1	8	0	35	25	25	9	5	29	22	1	11	19	19	4	2	9	7	4	10	3	7	24	19	2	6	7	10	2	4	6	18	3	1	0	0	0
+11	CYTB	YP_009107146.1	Garra imberba	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	12	18	10	1	2	7	11	0	4	10	2	1	12	0	8	9	29	5	1	5	14	1	3	9	6	0	1	1	4	2	20	10	11	3	4	7	12	0	6	11	7	2	0	1	7	3	10	3	6	6	18	2	5	6	7	0	2	7	14	2	0	0	0	0

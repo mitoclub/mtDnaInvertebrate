@@ -1,65 +1,13 @@
-	YP_009320246.1|ND1	YP_009320247.1|ND2	YP_009320248.1|COX1	YP_009320249.1|COX2	YP_009320250.1|ATP8	YP_009320251.1|ATP6	YP_009320252.1|COX3	YP_009320253.1|ND3	YP_009320254.1|ND4L	YP_009320255.1|ND4	YP_009320256.1|ND5	YP_009320257.1|CYTB
-TTT	2	2	10	2	0	0	4	3	0	3	8	7
-TTC	16	11	31	7	4	8	18	5	5	11	22	19
-TTA	5	3	7	2	0	4	2	1	1	6	6	3
-TTG	0	3	0	0	0	0	1	0	0	1	1	1
-TCT	2	1	4	1	0	0	1	1	2	1	5	4
-TCC	10	12	7	12	2	7	5	4	2	12	13	10
-TCA	6	12	11	4	1	4	6	1	4	11	14	11
-TCG	2	0	0	0	0	0	0	0	0	1	1	0
-TAT	7	2	5	2	0	1	3	1	0	1	1	2
-TAC	6	4	13	6	0	3	6	1	2	10	14	13
-TGT	2	0	0	1	0	0	0	0	2	0	1	2
-TGC	1	3	0	2	0	0	1	1	1	3	5	2
-TGA	8	9	17	5	5	4	11	4	0	11	11	10
-TGG	0	0	0	0	0	0	1	1	0	1	1	1
-CTT	12	6	8	5	0	5	2	2	0	7	8	5
-CTC	15	16	16	12	2	21	12	9	5	41	33	15
-CTA	28	31	32	10	3	31	14	16	13	47	54	40
-CTG	4	7	5	3	0	2	1	1	3	3	5	6
-CCT	2	1	5	2	1	2	2	0	1	2	5	4
-CCC	12	12	11	4	6	10	7	2	1	15	8	13
-CCA	12	11	11	6	2	4	4	4	0	14	14	7
-CCG	0	1	4	0	1	0	0	1	0	0	0	0
-CAT	1	1	0	1	0	0	0	0	0	3	4	2
-CAC	1	7	19	8	2	4	16	0	6	14	12	10
-CAA	5	8	6	8	2	8	9	4	1	13	15	7
-CAG	1	2	1	0	1	0	0	0	1	1	1	1
-CGT	1	0	0	0	0	0	0	0	0	0	2	0
-CGC	2	1	1	2	0	3	1	0	2	4	3	3
-CGA	4	2	7	3	0	2	4	2	0	7	3	5
-CGG	1	0	0	0	0	0	0	0	0	0	1	0
-ATT	7	6	11	4	0	5	5	2	1	5	14	8
-ATC	15	21	29	15	1	11	12	9	2	31	31	25
-ATA	11	16	21	9	3	9	10	3	6	16	27	7
-ATG	3	1	3	1	1	2	1	0	1	4	4	1
-ACT	4	9	4	1	2	2	0	2	0	2	7	1
-ACC	14	19	21	5	4	11	10	8	6	38	37	14
-ACA	5	22	16	8	1	12	11	2	4	12	35	13
-ACG	1	1	1	0	0	1	0	0	0	0	1	0
-AAT	0	2	1	3	1	2	0	0	0	2	2	2
-AAC	12	9	14	2	3	7	5	2	2	12	26	19
-AAA	7	12	9	4	3	4	4	1	0	8	21	10
-AAG	0	2	0	0	0	0	0	0	0	1	0	0
-AGT	0	1	1	0	0	0	0	0	1	0	2	0
-AGC	5	3	2	2	1	4	5	1	4	9	9	3
-GTT	3	0	2	1	0	0	1	0	0	0	1	1
-GTC	3	5	12	6	1	4	5	0	0	4	5	6
-GTA	7	4	21	8	1	2	7	1	1	6	7	4
-GTG	1	2	1	0	0	0	1	0	0	0	0	1
-GCT	3	2	8	2	0	1	4	1	0	3	3	3
-GCC	16	17	22	9	1	7	14	4	7	14	26	14
-GCA	10	5	15	4	0	6	4	2	3	20	18	7
-GCG	1	0	0	0	0	0	0	0	0	0	2	0
-GAT	2	0	2	1	0	1	1	0	0	0	0	0
-GAC	2	1	13	12	0	1	3	3	1	2	7	6
-GAA	10	5	9	10	0	4	8	6	3	5	10	7
-GAG	1	0	0	4	0	0	0	0	0	3	3	0
-GGT	0	1	4	0	0	0	0	0	0	0	1	2
-GGC	7	6	22	1	0	5	6	2	3	9	16	11
-GGA	5	6	15	6	0	3	12	3	1	9	14	10
-GGG	1	0	6	1	0	0	1	0	0	0	2	2
-TAA	1	0	0	1	1	1	0	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009320246.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	2	16	5	0	2	10	6	2	7	6	2	1	8	0	12	15	28	4	2	12	12	0	1	1	5	1	1	2	4	1	7	15	11	3	4	14	5	1	0	12	7	0	0	5	3	3	7	1	3	16	10	1	2	2	10	1	0	7	5	1	1	0	0	0
+1	ND2	YP_009320247.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	2	11	3	3	1	12	12	0	2	4	0	3	9	0	6	16	31	7	1	12	11	1	1	7	8	2	0	1	2	0	6	21	16	1	9	19	22	1	2	9	12	2	1	3	0	5	4	2	2	17	5	0	0	1	5	0	1	6	6	0	0	0	0	0
+2	COX1	YP_009320248.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	10	31	7	0	4	7	11	0	5	13	0	0	17	0	8	16	32	5	5	11	11	4	0	19	6	1	0	1	7	0	11	29	21	3	4	21	16	1	1	14	9	0	1	2	2	12	21	1	8	22	15	0	2	13	9	0	4	22	15	6	0	0	0	1
+3	COX2	YP_009320249.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	2	7	2	0	1	12	4	0	2	6	1	2	5	0	5	12	10	3	2	4	6	0	1	8	8	0	0	2	3	0	4	15	9	1	1	5	8	0	3	2	4	0	0	2	1	6	8	0	2	9	4	0	1	12	10	4	0	1	6	1	1	0	0	0
+4	ATP8	YP_009320250.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	0	4	0	0	0	2	1	0	0	0	0	0	5	0	0	2	3	0	1	6	2	1	0	2	2	1	0	0	0	0	0	1	3	1	2	4	1	0	1	3	3	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009320251.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	0	8	4	0	0	7	4	0	1	3	0	0	4	0	5	21	31	2	2	10	4	0	0	4	8	0	0	3	2	0	5	11	9	2	2	11	12	1	2	7	4	0	0	4	0	4	2	0	1	7	6	0	1	1	4	0	0	5	3	0	1	0	0	0
+6	COX3	YP_009320252.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	4	18	2	1	1	5	6	0	3	6	0	1	11	1	2	12	14	1	2	7	4	0	0	16	9	0	0	1	4	0	5	12	10	1	0	10	11	0	0	5	4	0	0	5	1	5	7	1	4	14	4	0	1	3	8	0	0	6	12	1	0	0	0	0
+7	ND3	YP_009320253.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	3	5	1	0	1	4	1	0	1	1	0	1	4	1	2	9	16	1	0	2	4	1	0	0	4	0	0	0	2	0	2	9	3	0	2	8	2	0	0	2	1	0	0	1	0	0	1	0	1	4	2	0	0	3	6	0	0	2	3	0	1	0	0	0
+8	ND4L	YP_009320254.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	0	5	1	0	2	2	4	0	0	2	2	1	0	0	0	5	13	3	1	1	0	0	0	6	1	1	0	2	0	0	1	2	6	1	0	6	4	0	0	2	0	0	1	4	0	0	1	0	0	7	3	0	0	1	3	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009320255.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	3	11	6	1	1	12	11	1	1	10	0	3	11	1	7	41	47	3	2	15	14	0	3	14	13	1	0	4	7	0	5	31	16	4	2	38	12	0	2	12	8	1	0	9	0	4	6	0	3	14	20	0	0	2	5	3	0	9	9	0	1	0	0	0
+10	ND5	YP_009320256.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	8	22	6	1	5	13	14	1	1	14	1	5	11	1	8	33	54	5	5	8	14	0	4	12	15	1	2	3	3	1	14	31	27	4	7	37	35	1	2	26	21	0	2	9	1	5	7	0	3	26	18	2	0	7	10	3	1	16	14	2	1	0	0	0
+11	CYTB	YP_009320257.1	Phalcoboenus australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Falconiformes, Falconidae, Phalcoboenus	7	19	3	1	4	10	11	0	2	13	2	2	10	1	5	15	40	6	4	13	7	0	2	10	7	1	0	3	5	0	8	25	7	1	1	14	13	0	2	19	10	0	0	3	1	6	4	1	3	14	7	0	0	6	7	0	2	11	10	2	1	0	0	0

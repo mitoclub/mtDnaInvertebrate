@@ -1,65 +1,10 @@
-	YP_008758081.1|ND2	YP_008758082.1|COX1	YP_008758083.1|COX2	YP_008758084.1|ATP8	YP_008758085.1|ATP6	YP_008758086.1|COX3	YP_008758087.1|ND3	YP_008758091.1|ND6	YP_008758092.1|CYTB
-TTT	35	36	17	5	16	21	11	15	30
-TTC	6	11	1	0	2	5	3	4	3
-TTA	42	47	22	5	32	24	15	23	37
-TTG	3	0	1	0	0	2	0	1	0
-TCT	16	15	11	3	8	9	8	9	8
-TCC	4	5	1	0	1	3	3	1	2
-TCA	13	15	7	1	8	7	2	5	11
-TCG	0	1	0	0	0	0	0	0	0
-TAT	15	10	5	4	7	7	4	5	16
-TAC	1	6	2	0	1	3	2	3	2
-TGT	5	1	1	0	2	1	1	0	1
-TGC	0	0	2	0	0	0	0	0	1
-TGA	8	13	6	3	5	12	3	2	12
-TGG	1	1	0	0	0	1	0	0	1
-CTT	6	10	4	0	6	6	3	5	13
-CTC	1	3	0	0	0	1	2	1	1
-CTA	3	6	0	0	5	3	1	0	4
-CTG	0	1	1	0	0	0	0	0	1
-CCT	2	14	4	3	7	2	2	2	12
-CCC	3	3	0	0	0	1	0	0	0
-CCA	4	9	5	1	2	5	2	1	9
-CCG	0	1	0	0	0	0	0	0	0
-CAT	2	11	4	1	5	12	1	2	6
-CAC	1	5	1	0	1	3	0	0	5
-CAA	3	7	8	1	4	5	2	0	6
-CAG	0	0	0	0	0	0	0	1	0
-CGT	1	3	2	0	1	2	1	0	1
-CGC	0	1	2	0	0	0	0	0	1
-CGA	1	5	2	0	1	2	0	1	5
-CGG	0	0	0	0	1	0	0	0	0
-ATT	39	49	26	8	19	26	19	25	39
-ATC	7	5	5	1	2	3	0	2	10
-ATA	25	28	10	5	12	9	8	17	17
-ATG	0	1	1	0	2	1	1	1	1
-ACT	4	17	4	2	8	8	0	6	6
-ACC	1	3	2	0	1	4	0	1	3
-ACA	3	11	3	0	5	5	1	2	9
-ACG	0	0	0	0	0	1	0	0	0
-AAT	25	18	15	4	14	8	1	12	22
-AAC	3	1	6	0	4	2	1	2	5
-AAA	14	5	2	3	2	2	3	8	12
-AAG	0	2	1	0	0	0	0	0	0
-AGT	2	5	3	1	1	3	0	2	3
-AGC	0	1	2	0	1	1	0	0	0
-AGA	10	6	2	0	9	3	2	1	1
-AGG	1	0	0	0	0	0	0	0	0
-GTT	2	9	3	0	3	3	0	0	4
-GTC	0	1	0	0	2	1	0	1	2
-GTA	2	10	2	0	3	4	0	0	4
-GTG	0	1	0	0	0	0	0	0	0
-GCT	3	14	2	1	2	5	2	1	11
-GCC	1	3	1	0	2	0	0	0	2
-GCA	3	12	2	0	2	6	2	0	4
-GCG	0	1	0	0	0	0	0	0	0
-GAT	1	13	6	0	1	3	1	1	6
-GAC	0	1	2	0	0	1	2	1	2
-GAA	3	9	7	0	4	7	3	1	3
-GAG	0	0	2	0	0	0	1	0	0
-GGT	1	7	2	0	1	5	1	3	3
-GGC	1	0	1	0	1	1	1	0	2
-GGA	7	30	4	0	8	9	1	2	13
-GGG	2	7	1	0	0	2	0	1	6
-TAA	0	1	1	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_008758081.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	35	6	42	3	16	4	13	0	15	1	5	0	8	1	6	1	3	0	2	3	4	0	2	1	3	0	1	0	1	0	39	7	25	0	4	1	3	0	25	3	14	0	2	0	10	1	2	0	2	0	3	1	3	0	1	0	3	0	1	1	7	2	0	0
+1	COX1	YP_008758082.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	36	11	47	0	15	5	15	1	10	6	1	0	13	1	10	3	6	1	14	3	9	1	11	5	7	0	3	1	5	0	49	5	28	1	17	3	11	0	18	1	5	2	5	1	6	0	9	1	10	1	14	3	12	1	13	1	9	0	7	0	30	7	1	0
+2	COX2	YP_008758083.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	17	1	22	1	11	1	7	0	5	2	1	2	6	0	4	0	0	1	4	0	5	0	4	1	8	0	2	2	2	0	26	5	10	1	4	2	3	0	15	6	2	1	3	2	2	0	3	0	2	0	2	1	2	0	6	2	7	2	2	1	4	1	1	0
+3	ATP8	YP_008758084.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	5	0	5	0	3	0	1	0	4	0	0	0	3	0	0	0	0	0	3	0	1	0	1	0	1	0	0	0	0	0	8	1	5	0	2	0	0	0	4	0	3	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_008758085.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	16	2	32	0	8	1	8	0	7	1	2	0	5	0	6	0	5	0	7	0	2	0	5	1	4	0	1	0	1	1	19	2	12	2	8	1	5	0	14	4	2	0	1	1	9	0	3	2	3	0	2	2	2	0	1	0	4	0	1	1	8	0	1	0
+5	COX3	YP_008758086.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	21	5	24	2	9	3	7	0	7	3	1	0	12	1	6	1	3	0	2	1	5	0	12	3	5	0	2	0	2	0	26	3	9	1	8	4	5	1	8	2	2	0	3	1	3	0	3	1	4	0	5	0	6	0	3	1	7	0	5	1	9	2	1	0
+6	ND3	YP_008758087.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	11	3	15	0	8	3	2	0	4	2	1	0	3	0	3	2	1	0	2	0	2	0	1	0	2	0	1	0	0	0	19	0	8	1	0	0	1	0	1	1	3	0	0	0	2	0	0	0	0	0	2	0	2	0	1	2	3	1	1	1	1	0	0	0
+7	ND6	YP_008758091.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	15	4	23	1	9	1	5	0	5	3	0	0	2	0	5	1	0	0	2	0	1	0	2	0	0	1	0	0	1	0	25	2	17	1	6	1	2	0	12	2	8	0	2	0	1	0	0	1	0	0	1	0	0	0	1	1	1	0	3	0	2	1	1	0
+8	CYTB	YP_008758092.1	Jellisonia amadoi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Ceratophyllidae, Jellisonia	30	3	37	0	8	2	11	0	16	2	1	1	12	1	13	1	4	1	12	0	9	0	6	5	6	0	1	1	5	0	39	10	17	1	6	3	9	0	22	5	12	0	3	0	1	0	4	2	4	0	11	2	4	0	6	2	3	0	3	2	13	6	1	0

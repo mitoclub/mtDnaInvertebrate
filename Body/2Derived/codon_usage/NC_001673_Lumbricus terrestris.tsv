@@ -1,65 +1,12 @@
-	NP_008239.1|COX2	NP_008240.1|ATP8	NP_008241.1|COX3	NP_008242.1|ND6	NP_008243.1|CYTB	NP_008244.1|ATP6	NP_008246.1|ND4L	NP_008247.2|ND4	NP_008248.1|ND1	NP_008249.1|ND3	NP_008250.1|ND2
-TTT	6	1	12	10	19	10	3	14	18	6	11
-TTC	2	2	12	4	11	11	1	9	10	3	6
-TTA	7	3	9	10	8	10	6	23	13	6	14
-TTG	0	0	0	1	2	0	1	4	2	3	6
-TCT	3	2	4	2	8	6	4	12	4	5	8
-TCC	3	4	5	6	5	6	2	10	6	2	9
-TCA	6	2	4	3	8	6	4	9	5	4	14
-TCG	0	0	0	1	1	1	0	0	2	0	0
-TAT	7	1	2	3	10	3	0	8	5	0	5
-TAC	2	0	6	3	7	3	2	8	7	0	5
-TGT	0	0	2	0	0	2	2	4	1	1	3
-TGC	2	1	4	0	1	1	0	1	1	0	3
-TGA	6	6	9	1	11	4	0	6	4	3	7
-TGG	0	0	5	0	3	0	0	4	2	0	0
-CTT	2	2	3	2	10	3	4	11	7	3	9
-CTC	6	0	3	7	8	6	3	12	7	0	3
-CTA	14	2	13	8	17	15	4	24	16	6	17
-CTG	0	0	1	0	2	2	2	6	3	0	4
-CCT	3	2	2	2	10	2	0	7	3	1	7
-CCC	0	2	4	2	8	3	0	7	5	2	5
-CCA	8	0	5	4	1	6	2	7	2	3	3
-CCG	1	0	0	0	4	1	0	1	4	0	2
-CAT	2	0	7	0	4	1	0	4	3	1	3
-CAC	3	1	9	0	5	6	1	6	1	1	2
-CAA	10	0	3	3	3	2	1	5	7	0	8
-CAG	1	0	1	0	0	1	0	1	0	0	0
-CGT	3	0	4	0	1	1	0	0	1	0	0
-CGC	1	0	0	1	0	1	0	2	0	0	0
-CGA	2	0	2	0	6	2	1	2	5	3	0
-CGG	0	0	0	1	2	0	0	0	1	1	1
-ATT	12	3	11	10	29	9	4	23	13	8	20
-ATC	3	0	6	7	15	10	4	11	6	7	9
-ATA	7	4	5	9	13	8	5	35	16	2	32
-ATG	5	1	2	3	2	3	2	13	7	1	8
-ACT	8	2	8	3	5	3	3	11	6	2	5
-ACC	1	1	6	7	7	6	0	4	6	3	5
-ACA	7	1	6	5	8	10	2	15	5	3	5
-ACG	0	0	0	1	1	1	0	1	1	2	2
-AAT	4	3	0	2	9	3	4	8	7	0	7
-AAC	5	1	3	4	12	5	1	6	4	0	7
-AAA	4	2	0	2	6	2	1	12	7	1	12
-AAG	1	0	1	0	3	2	0	3	2	2	2
-AGT	0	1	0	1	4	2	3	0	1	0	1
-AGC	0	0	3	1	1	1	2	3	1	0	0
-AGA	3	1	4	2	2	7	2	11	7	2	9
-AGG	0	0	2	1	0	0	1	1	4	0	1
-GTT	2	0	5	1	4	4	4	4	6	2	3
-GTC	5	0	3	2	1	3	3	5	2	2	3
-GTA	10	1	3	3	11	4	2	10	9	3	5
-GTG	7	0	6	0	2	0	0	4	2	0	2
-GCT	8	0	11	3	6	6	1	16	9	1	9
-GCC	3	1	10	5	4	6	2	7	6	3	7
-GCA	4	0	2	3	12	5	2	12	9	4	3
-GCG	0	0	1	1	4	0	0	1	1	0	3
-GAT	5	0	4	1	3	4	1	1	3	3	1
-GAC	5	0	0	0	7	3	0	3	2	2	1
-GAA	8	0	4	0	4	2	1	6	1	3	2
-GAG	1	0	2	0	4	0	1	2	8	3	1
-GGT	3	0	4	1	6	1	1	3	1	1	1
-GGC	1	0	6	3	6	0	0	5	3	0	2
-GGA	2	0	6	1	5	3	2	2	2	1	6
-GGG	4	0	4	0	8	3	1	6	6	2	6
-TAA	0	0	0	0	0	0	1	0	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	NP_008239.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	6	2	7	0	3	3	6	0	7	2	0	2	6	0	2	6	14	0	3	0	8	1	2	3	10	1	3	1	2	0	12	3	7	5	8	1	7	0	4	5	4	1	0	0	3	0	2	5	10	7	8	3	4	0	5	5	8	1	3	1	2	4	0	0
+1	ATP8	NP_008240.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	1	2	3	0	2	4	2	0	1	0	0	1	6	0	2	0	2	0	2	2	0	0	0	1	0	0	0	0	0	0	3	0	4	1	2	1	1	0	3	1	2	0	1	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+2	COX3	NP_008241.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	12	12	9	0	4	5	4	0	2	6	2	4	9	5	3	3	13	1	2	4	5	0	7	9	3	1	4	0	2	0	11	6	5	2	8	6	6	0	0	3	0	1	0	3	4	2	5	3	3	6	11	10	2	1	4	0	4	2	4	6	6	4	0	0
+3	ND6	NP_008242.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	10	4	10	1	2	6	3	1	3	3	0	0	1	0	2	7	8	0	2	2	4	0	0	0	3	0	0	1	0	1	10	7	9	3	3	7	5	1	2	4	2	0	1	1	2	1	1	2	3	0	3	5	3	1	1	0	0	0	1	3	1	0	0	0
+4	CYTB	NP_008243.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	19	11	8	2	8	5	8	1	10	7	0	1	11	3	10	8	17	2	10	8	1	4	4	5	3	0	1	0	6	2	29	15	13	2	5	7	8	1	9	12	6	3	4	1	2	0	4	1	11	2	6	4	12	4	3	7	4	4	6	6	5	8	0	0
+5	ATP6	NP_008244.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	10	11	10	0	6	6	6	1	3	3	2	1	4	0	3	6	15	2	2	3	6	1	1	6	2	1	1	1	2	0	9	10	8	3	3	6	10	1	3	5	2	2	2	1	7	0	4	3	4	0	6	6	5	0	4	3	2	0	1	0	3	3	0	0
+6	ND4L	NP_008246.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	3	1	6	1	4	2	4	0	0	2	2	0	0	0	4	3	4	2	0	0	2	0	0	1	1	0	0	0	1	0	4	4	5	2	3	0	2	0	4	1	1	0	3	2	2	1	4	3	2	0	1	2	2	0	1	0	1	1	1	0	2	1	1	0
+7	ND4	NP_008247.2	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	14	9	23	4	12	10	9	0	8	8	4	1	6	4	11	12	24	6	7	7	7	1	4	6	5	1	0	2	2	0	23	11	35	13	11	4	15	1	8	6	12	3	0	3	11	1	4	5	10	4	16	7	12	1	1	3	6	2	3	5	2	6	0	0
+8	ND1	NP_008248.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	18	10	13	2	4	6	5	2	5	7	1	1	4	2	7	7	16	3	3	5	2	4	3	1	7	0	1	0	5	1	13	6	16	7	6	6	5	1	7	4	7	2	1	1	7	4	6	2	9	2	9	6	9	1	3	2	1	8	1	3	2	6	0	0
+9	ND3	NP_008249.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	6	3	6	3	5	2	4	0	0	0	1	0	3	0	3	0	6	0	1	2	3	0	1	1	0	0	0	0	3	1	8	7	2	1	2	3	3	2	0	0	1	2	0	0	2	0	2	2	3	0	1	3	4	0	3	2	3	3	1	0	1	2	0	0
+10	ND2	NP_008250.1	Lumbricus terrestris	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Clitellata, Oligochaeta, Haplotaxida, Lumbricina, Lumbricidae, Lumbricinae, Lumbricus	11	6	14	6	8	9	14	0	5	5	3	3	7	0	9	3	17	4	7	5	3	2	3	2	8	0	0	0	0	1	20	9	32	8	5	5	5	2	7	7	12	2	1	0	9	1	3	3	5	2	9	7	3	3	1	1	2	1	1	2	6	6	0	0

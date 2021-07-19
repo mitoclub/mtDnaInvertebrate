@@ -1,65 +1,10 @@
-	YP_009110412.1|ND2	YP_009110413.1|COX1	YP_009110414.1|COX2	YP_009110415.1|ATP8	YP_009110416.1|ATP6	YP_009110417.1|COX3	YP_009110418.1|ND3	YP_009110422.1|ND6	YP_009110423.1|CYTB
-TTT	45	33	11	5	19	22	12	15	24
-TTC	7	7	2	1	4	5	4	3	8
-TTA	35	49	23	6	28	22	12	24	46
-TTG	0	2	2	0	1	0	0	1	0
-TCT	17	14	5	1	8	5	5	3	5
-TCC	1	3	1	0	0	0	3	0	1
-TCA	7	19	8	1	6	3	0	8	8
-TCG	0	0	0	0	0	0	0	1	0
-TAT	12	17	9	3	7	8	1	10	19
-TAC	1	3	0	0	1	2	0	0	2
-TGT	2	1	2	0	0	2	2	2	2
-TGC	0	0	0	0	0	0	1	0	1
-TGA	9	14	6	3	5	12	3	2	12
-TGG	0	0	0	0	0	1	0	0	0
-CTT	5	8	3	1	4	3	1	1	2
-CTC	1	1	0	0	0	0	0	0	0
-CTA	3	8	1	0	1	2	3	3	8
-CTG	0	0	0	0	0	0	0	0	0
-CCT	0	11	5	0	6	5	4	3	9
-CCC	5	8	1	0	2	1	1	0	1
-CCA	2	6	4	2	3	4	0	0	11
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	10	4	0	6	10	1	0	4
-CAC	0	6	2	0	0	4	1	0	4
-CAA	4	9	7	1	5	6	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	2	1	1	0	0	2	0	0	2
-CGC	0	0	1	0	0	0	0	0	0
-CGA	0	8	5	0	3	2	2	1	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	53	56	26	6	29	28	18	18	37
-ATC	3	4	5	2	4	3	4	2	12
-ATA	28	23	10	3	11	7	6	22	16
-ATG	0	1	0	0	1	3	0	0	1
-ACT	6	9	3	0	12	5	2	6	9
-ACC	4	3	3	0	1	0	0	0	7
-ACA	2	16	5	0	1	11	2	4	12
-ACG	0	1	0	0	0	0	0	0	0
-AAT	28	18	15	10	16	8	6	17	20
-AAC	7	5	7	0	2	7	1	2	6
-AAA	14	6	3	6	3	3	6	8	10
-AAG	0	0	1	1	0	1	0	0	0
-AGT	2	2	1	0	1	2	0	1	0
-AGC	0	0	0	0	2	2	0	0	0
-AGA	7	8	3	0	7	3	1	2	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	5	4	1	4	6	1	0	5
-GTC	0	0	0	0	0	0	0	0	0
-GTA	1	14	4	0	2	9	3	5	9
-GTG	0	2	0	0	0	1	0	0	1
-GCT	4	19	2	0	2	7	1	0	9
-GCC	0	1	0	0	1	2	0	1	1
-GCA	2	9	5	0	3	4	1	1	7
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	15	7	0	0	4	1	1	6
-GAC	0	0	1	0	1	0	2	0	2
-GAA	4	9	9	0	4	7	4	3	4
-GAG	1	0	0	0	0	0	0	0	0
-GGT	2	9	3	0	2	5	1	0	3
-GGC	0	0	0	0	0	0	0	0	0
-GGA	7	29	5	0	7	12	1	4	18
-GGG	3	8	2	0	0	1	0	1	3
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009110412.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	45	7	35	0	17	1	7	0	12	1	2	0	9	0	5	1	3	0	0	5	2	0	1	0	4	0	2	0	0	0	53	3	28	0	6	4	2	0	28	7	14	0	2	0	7	0	0	0	1	0	4	0	2	0	0	0	4	1	2	0	7	3	1	0
+1	COX1	YP_009110413.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	33	7	49	2	14	3	19	0	17	3	1	0	14	0	8	1	8	0	11	8	6	0	10	6	9	0	1	0	8	0	56	4	23	1	9	3	16	1	18	5	6	0	2	0	8	0	5	0	14	2	19	1	9	1	15	0	9	0	9	0	29	8	0	0
+2	COX2	YP_009110414.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	11	2	23	2	5	1	8	0	9	0	2	0	6	0	3	0	1	0	5	1	4	0	4	2	7	0	1	1	5	0	26	5	10	0	3	3	5	0	15	7	3	1	1	0	3	0	4	0	4	0	2	0	5	0	7	1	9	0	3	0	5	2	0	0
+3	ATP8	YP_009110415.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	5	1	6	0	1	0	1	0	3	0	0	0	3	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	6	2	3	0	0	0	0	0	10	0	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009110416.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	19	4	28	1	8	0	6	0	7	1	0	0	5	0	4	0	1	0	6	2	3	0	6	0	5	0	0	0	3	0	29	4	11	1	12	1	1	0	16	2	3	0	1	2	7	0	4	0	2	0	2	1	3	0	0	1	4	0	2	0	7	0	1	0
+5	COX3	YP_009110417.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	22	5	22	0	5	0	3	0	8	2	2	0	12	1	3	0	2	0	5	1	4	0	10	4	6	0	2	0	2	0	28	3	7	3	5	0	11	0	8	7	3	1	2	2	3	0	6	0	9	1	7	2	4	0	4	0	7	0	5	0	12	1	1	0
+6	ND3	YP_009110418.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	12	4	12	0	5	3	0	0	1	0	2	1	3	0	1	0	3	0	4	1	0	0	1	1	1	0	0	0	2	0	18	4	6	0	2	0	2	0	6	1	6	0	0	0	1	0	1	0	3	0	1	0	1	0	1	2	4	0	1	0	1	0	0	1
+7	ND6	YP_009110422.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	15	3	24	1	3	0	8	1	10	0	2	0	2	0	1	0	3	0	3	0	0	0	0	0	2	0	0	0	1	0	18	2	22	0	6	0	4	0	17	2	8	0	1	0	2	0	0	0	5	0	0	1	1	0	1	0	3	0	0	0	4	1	1	0
+8	CYTB	YP_009110423.1	Striacosta albicosta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Noctuoidea, Noctuidae, Noctuinae, Striacosta	24	8	46	0	5	1	8	0	19	2	2	1	12	0	2	0	8	0	9	1	11	0	4	4	8	0	2	0	5	0	37	12	16	1	9	7	12	0	20	6	10	0	0	0	2	0	5	0	9	1	9	1	7	0	6	2	4	0	3	0	18	3	1	0

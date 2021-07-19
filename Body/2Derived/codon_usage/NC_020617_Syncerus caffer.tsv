@@ -1,65 +1,13 @@
-	YP_007624977.1|ND1	YP_007624978.1|ND2	YP_007624979.1|COX1	YP_007624980.1|COX2	YP_007624981.1|ATP8	YP_007624982.1|ATP6	YP_007624983.1|COX3	YP_007624984.1|ND3	YP_007624985.1|ND4L	YP_007624986.1|ND4	YP_007624987.1|ND5	YP_007624989.1|CYTB
-TTT	9	8	19	4	1	6	8	5	1	10	15	3
-TTC	9	5	23	2	3	6	16	4	3	10	31	21
-TTA	15	8	13	6	4	9	6	3	2	17	7	10
-TTG	0	1	1	2	1	1	0	0	0	1	2	0
-TCT	2	4	8	4	0	1	4	0	3	9	9	2
-TCC	8	6	5	3	0	2	4	1	4	12	10	7
-TCA	11	16	15	8	4	4	6	3	2	8	13	11
-TCG	0	1	0	1	1	1	0	0	0	0	1	1
-TAT	6	5	8	7	2	1	7	2	2	9	12	7
-TAC	6	3	11	4	0	1	4	1	2	7	7	9
-TGT	1	0	1	1	0	0	1	0	0	1	1	0
-TGC	0	0	0	1	0	0	1	1	3	2	4	4
-TGA	9	10	15	5	3	3	10	4	0	12	11	12
-TGG	0	0	2	0	0	0	2	0	0	1	1	0
-CTT	2	3	8	4	1	6	6	2	5	15	7	1
-CTC	10	7	8	2	1	6	5	8	0	10	19	19
-CTA	28	29	23	15	4	19	12	11	13	42	47	27
-CTG	1	7	5	4	0	3	3	2	2	11	5	3
-CCT	5	3	9	3	2	1	5	1	1	2	4	1
-CCC	9	6	8	2	1	4	3	2	0	10	14	6
-CCA	7	11	11	7	3	7	4	3	0	8	9	14
-CCG	1	1	0	1	0	0	0	0	0	0	0	1
-CAT	1	1	5	2	0	1	4	0	0	2	4	4
-CAC	2	4	12	5	2	5	12	0	2	9	7	9
-CAA	7	10	5	6	2	7	7	3	1	10	18	5
-CAG	0	0	1	0	1	1	0	0	0	1	1	1
-CGT	0	0	0	1	0	1	1	0	0	1	1	0
-CGC	1	0	2	0	0	1	1	1	0	1	4	0
-CGA	7	3	4	5	0	3	3	0	1	8	3	8
-CGG	0	0	2	0	0	0	0	0	0	0	0	0
-ATT	10	13	18	10	4	9	6	5	3	14	18	16
-ATC	20	18	19	7	1	14	9	1	1	25	42	26
-ATA	19	38	25	13	2	10	8	6	10	32	42	13
-ATG	2	5	9	4	1	3	2	0	2	4	4	3
-ACT	1	4	6	3	0	3	4	3	1	3	6	2
-ACC	3	16	12	4	1	6	7	3	0	16	19	5
-ACA	13	16	20	11	6	16	12	5	5	17	30	17
-ACG	1	1	0	0	1	1	0	0	0	0	1	2
-AAT	2	4	9	1	1	3	2	3	2	4	11	4
-AAC	10	13	10	4	2	6	5	2	3	19	27	13
-AAA	7	10	9	5	6	3	2	3	1	10	20	9
-AAG	0	2	0	1	0	1	0	0	0	0	2	0
-AGT	0	0	0	1	0	3	0	0	0	2	3	0
-AGC	4	1	3	4	0	5	6	2	1	9	9	3
-GTT	3	2	9	4	0	1	2	0	1	3	4	2
-GTC	2	5	9	3	1	2	6	1	1	4	7	3
-GTA	8	6	16	5	0	9	5	2	4	10	5	9
-GTG	2	1	4	1	0	0	3	0	1	0	1	0
-GCT	0	3	12	2	0	4	2	1	1	3	3	6
-GCC	12	11	10	1	0	7	11	7	3	13	17	4
-GCA	16	5	17	4	1	5	2	3	4	12	18	14
-GCG	0	0	1	1	0	0	0	0	0	0	0	1
-GAT	1	1	8	4	0	0	1	1	1	3	3	4
-GAC	2	1	8	6	1	1	2	1	0	1	7	7
-GAA	9	5	7	13	2	3	6	5	1	6	10	5
-GAG	2	0	2	2	0	0	2	1	1	2	2	1
-GGT	0	0	7	1	0	0	3	0	1	2	5	2
-GGC	7	5	11	3	0	4	10	0	1	6	10	4
-GGA	5	8	22	2	0	5	5	2	2	9	13	16
-GGG	0	1	7	2	0	2	2	1	0	1	0	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007624977.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	9	9	15	0	2	8	11	0	6	6	1	0	9	0	2	10	28	1	5	9	7	1	1	2	7	0	0	1	7	0	10	20	19	2	1	3	13	1	2	10	7	0	0	4	3	2	8	2	0	12	16	0	1	2	9	2	0	7	5	0	0	1	0	0
+1	ND2	YP_007624978.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	8	5	8	1	4	6	16	1	5	3	0	0	10	0	3	7	29	7	3	6	11	1	1	4	10	0	0	0	3	0	13	18	38	5	4	16	16	1	4	13	10	2	0	1	2	5	6	1	3	11	5	0	1	1	5	0	0	5	8	1	0	0	0	0
+2	COX1	YP_007624979.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	19	23	13	1	8	5	15	0	8	11	1	0	15	2	8	8	23	5	9	8	11	0	5	12	5	1	0	2	4	2	18	19	25	9	6	12	20	0	9	10	9	0	0	3	9	9	16	4	12	10	17	1	8	8	7	2	7	11	22	7	1	0	0	0
+3	COX2	YP_007624980.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	4	2	6	2	4	3	8	1	7	4	1	1	5	0	4	2	15	4	3	2	7	1	2	5	6	0	1	0	5	0	10	7	13	4	3	4	11	0	1	4	5	1	1	4	4	3	5	1	2	1	4	1	4	6	13	2	1	3	2	2	1	0	0	0
+4	ATP8	YP_007624981.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	1	3	4	1	0	0	4	1	2	0	0	0	3	0	1	1	4	0	2	1	3	0	0	2	2	1	0	0	0	0	4	1	2	1	0	1	6	1	1	2	6	0	0	0	0	1	0	0	0	0	1	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007624982.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	6	6	9	1	1	2	4	1	1	1	0	0	3	0	6	6	19	3	1	4	7	0	1	5	7	1	1	1	3	0	9	14	10	3	3	6	16	1	3	6	3	1	3	5	1	2	9	0	4	7	5	0	0	1	3	0	0	4	5	2	1	0	0	0
+6	COX3	YP_007624983.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	8	16	6	0	4	4	6	0	7	4	1	1	10	2	6	5	12	3	5	3	4	0	4	12	7	0	1	1	3	0	6	9	8	2	4	7	12	0	2	5	2	0	0	6	2	6	5	3	2	11	2	0	1	2	6	2	3	10	5	2	0	0	0	0
+7	ND3	YP_007624984.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	5	4	3	0	0	1	3	0	2	1	0	1	4	0	2	8	11	2	1	2	3	0	0	0	3	0	0	1	0	0	5	1	6	0	3	3	5	0	3	2	3	0	0	2	0	1	2	0	1	7	3	0	1	1	5	1	0	0	2	1	0	0	0	0
+8	ND4L	YP_007624985.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	1	3	2	0	3	4	2	0	2	2	0	3	0	0	5	0	13	2	1	0	0	0	0	2	1	0	0	0	1	0	3	1	10	2	1	0	5	0	2	3	1	0	0	1	1	1	4	1	1	3	4	0	1	0	1	1	1	1	2	0	1	0	0	0
+9	ND4	YP_007624986.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	10	10	17	1	9	12	8	0	9	7	1	2	12	1	15	10	42	11	2	10	8	0	2	9	10	1	1	1	8	0	14	25	32	4	3	16	17	0	4	19	10	0	2	9	3	4	10	0	3	13	12	0	3	1	6	2	2	6	9	1	0	0	0	0
+10	ND5	YP_007624987.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	15	31	7	2	9	10	13	1	12	7	1	4	11	1	7	19	47	5	4	14	9	0	4	7	18	1	1	4	3	0	18	42	42	4	6	19	30	1	11	27	20	2	3	9	4	7	5	1	3	17	18	0	3	7	10	2	5	10	13	0	1	0	0	0
+11	CYTB	YP_007624989.1	Syncerus caffer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Bovinae, Syncerus	3	21	10	0	2	7	11	1	7	9	0	4	12	0	1	19	27	3	1	6	14	1	4	9	5	1	0	0	8	0	16	26	13	3	2	5	17	2	4	13	9	0	0	3	2	3	9	0	6	4	14	1	4	7	5	1	2	4	16	2	0	0	1	0

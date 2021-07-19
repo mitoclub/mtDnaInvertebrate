@@ -1,65 +1,13 @@
-	YP_009145186.1|ND1	YP_009145187.1|ND2	YP_009145188.1|COX1	YP_009145189.1|COX2	YP_009145190.1|ATP8	YP_009145191.1|ATP6	YP_009145192.1|COX3	YP_009145193.1|ND3	YP_009145194.1|ND4L	YP_009145195.1|ND4	YP_009145196.1|ND5	YP_009145198.1|CYTB
-TTT	19	11	26	4	3	9	13	7	4	15	22	16
-TTC	3	9	17	2	1	4	10	2	2	8	25	13
-TTA	22	4	14	13	2	15	9	5	6	32	19	12
-TTG	1	1	2	0	1	0	0	0	0	2	1	0
-TCT	4	8	9	6	3	3	6	2	2	5	11	5
-TCC	5	6	8	4	1	1	3	3	2	11	8	5
-TCA	8	16	10	7	3	6	9	1	5	13	28	10
-TCG	0	0	0	0	0	0	1	0	1	3	2	1
-TAT	6	8	12	6	3	2	6	2	2	9	12	6
-TAC	3	3	7	4	0	0	4	1	2	6	10	10
-TGT	0	0	0	0	0	0	1	0	1	2	3	2
-TGC	2	1	1	2	0	0	1	1	3	2	3	2
-TGA	9	10	17	5	3	3	12	4	0	12	11	11
-TGG	0	0	0	0	0	0	0	0	0	0	1	1
-CTT	7	14	16	12	4	13	7	8	3	11	21	17
-CTC	10	9	8	3	0	6	6	5	3	7	19	7
-CTA	18	28	17	6	5	10	13	9	8	29	34	22
-CTG	1	2	2	2	0	0	0	0	0	3	1	2
-CCT	5	5	15	3	2	12	2	2	1	5	10	7
-CCC	10	6	3	3	3	2	3	3	1	15	6	6
-CCA	7	10	10	7	0	2	5	1	0	4	6	9
-CCG	0	0	1	1	1	0	0	0	0	0	1	0
-CAT	1	2	8	4	1	4	5	0	1	4	7	6
-CAC	1	1	10	4	2	3	11	0	1	7	7	6
-CAA	7	9	6	5	2	8	7	2	2	8	13	6
-CAG	0	0	0	0	0	0	0	1	0	2	1	0
-CGT	1	0	4	1	0	3	1	0	0	1	1	2
-CGC	1	0	0	0	0	0	0	1	0	0	2	1
-CGA	5	3	4	5	0	2	4	0	1	10	7	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	16	18	29	11	3	21	9	6	8	40	37	18
-ATC	9	16	9	7	3	3	4	0	2	14	17	20
-ATA	20	28	28	12	1	11	7	7	7	29	34	12
-ATG	2	2	4	1	2	4	1	0	2	3	2	2
-ACT	11	8	14	5	2	6	3	2	1	9	19	7
-ACC	5	10	6	3	0	6	5	0	0	8	19	10
-ACA	10	15	15	8	3	9	11	2	1	20	17	7
-ACG	0	0	1	1	1	0	1	0	1	2	1	1
-AAT	6	8	11	3	2	4	5	3	4	11	12	7
-AAC	7	13	6	3	0	6	2	3	1	7	21	7
-AAA	6	11	9	3	6	3	2	2	0	10	20	10
-AAG	2	3	0	1	0	1	0	1	0	0	2	0
-AGT	0	0	1	0	0	1	2	1	0	3	3	2
-AGC	1	2	2	4	0	2	3	0	0	6	4	2
-GTT	4	1	13	5	0	2	5	2	1	6	4	5
-GTC	2	3	4	3	0	2	3	1	2	1	3	9
-GTA	8	4	19	4	0	6	10	2	4	5	15	6
-GTG	0	0	1	0	0	0	1	1	0	0	1	0
-GCT	7	4	18	6	0	4	4	4	3	13	9	5
-GCC	9	3	6	2	1	5	8	3	1	5	11	7
-GCA	12	9	16	1	0	7	4	3	2	11	12	11
-GCG	0	0	2	0	0	0	0	0	0	1	1	0
-GAT	1	0	11	4	0	1	1	2	0	2	4	4
-GAC	2	1	4	9	1	0	3	0	1	2	7	7
-GAA	9	5	8	11	3	2	7	5	2	5	11	5
-GAG	1	0	2	3	0	1	1	1	0	3	0	1
-GGT	1	1	11	0	0	2	4	0	2	6	3	5
-GGC	2	2	4	3	0	2	7	2	0	3	7	7
-GGA	9	12	30	4	0	7	7	2	2	7	16	9
-GGG	0	2	2	1	0	0	2	0	0	1	1	3
-TAA	0	0	1	1	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009145186.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	19	3	22	1	4	5	8	0	6	3	0	2	9	0	7	10	18	1	5	10	7	0	1	1	7	0	1	1	5	0	16	9	20	2	11	5	10	0	6	7	6	2	0	1	4	2	8	0	7	9	12	0	1	2	9	1	1	2	9	0	0	0	0	0
+1	ND2	YP_009145187.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	11	9	4	1	8	6	16	0	8	3	0	1	10	0	14	9	28	2	5	6	10	0	2	1	9	0	0	0	3	0	18	16	28	2	8	10	15	0	8	13	11	3	0	2	1	3	4	0	4	3	9	0	0	1	5	0	1	2	12	2	0	0	0	0
+2	COX1	YP_009145188.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	26	17	14	2	9	8	10	0	12	7	0	1	17	0	16	8	17	2	15	3	10	1	8	10	6	0	4	0	4	0	29	9	28	4	14	6	15	1	11	6	9	0	1	2	13	4	19	1	18	6	16	2	11	4	8	2	11	4	30	2	1	0	0	0
+3	COX2	YP_009145189.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	4	2	13	0	6	4	7	0	6	4	0	2	5	0	12	3	6	2	3	3	7	1	4	4	5	0	1	0	5	0	11	7	12	1	5	3	8	1	3	3	3	1	0	4	5	3	4	0	6	2	1	0	4	9	11	3	0	3	4	1	1	0	0	0
+4	ATP8	YP_009145190.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	3	1	2	1	3	1	3	0	3	0	0	0	3	0	4	0	5	0	2	3	0	1	1	2	2	0	0	0	0	0	3	3	1	2	2	0	3	1	2	0	6	0	0	0	0	0	0	0	0	1	0	0	0	1	3	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009145191.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	9	4	15	0	3	1	6	0	2	0	0	0	3	0	13	6	10	0	12	2	2	0	4	3	8	0	3	0	2	0	21	3	11	4	6	6	9	0	4	6	3	1	1	2	2	2	6	0	4	5	7	0	1	0	2	1	2	2	7	0	1	0	0	0
+6	COX3	YP_009145192.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	13	10	9	0	6	3	9	1	6	4	1	1	12	0	7	6	13	0	2	3	5	0	5	11	7	0	1	0	4	0	9	4	7	1	3	5	11	1	5	2	2	0	2	3	5	3	10	1	4	8	4	0	1	3	7	1	4	7	7	2	0	0	0	0
+7	ND3	YP_009145193.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	7	2	5	0	2	3	1	0	2	1	0	1	4	0	8	5	9	0	2	3	1	0	0	0	2	1	0	1	0	0	6	0	7	0	2	0	2	0	3	3	2	1	1	0	2	1	2	1	4	3	3	0	2	0	5	1	0	2	2	0	0	0	0	0
+8	ND4L	YP_009145194.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	4	2	6	0	2	2	5	1	2	2	1	3	0	0	3	3	8	0	1	1	0	0	1	1	2	0	0	0	1	0	8	2	7	2	1	0	1	1	4	1	0	0	0	0	1	2	4	0	3	1	2	0	0	1	2	0	2	0	2	0	1	0	0	0
+9	ND4	YP_009145195.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	15	8	32	2	5	11	13	3	9	6	2	2	12	0	11	7	29	3	5	15	4	0	4	7	8	2	1	0	10	0	40	14	29	3	9	8	20	2	11	7	10	0	3	6	6	1	5	0	13	5	11	1	2	2	5	3	6	3	7	1	0	0	0	0
+10	ND5	YP_009145196.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	22	25	19	1	11	8	28	2	12	10	3	3	11	1	21	19	34	1	10	6	6	1	7	7	13	1	1	2	7	0	37	17	34	2	19	19	17	1	12	21	20	2	3	4	4	3	15	1	9	11	12	1	4	7	11	0	3	7	16	1	1	0	0	0
+11	CYTB	YP_009145198.1	Ictidomys tridecemlineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Xerinae, Marmotini, Ictidomys	16	13	12	0	5	5	10	1	6	10	2	2	11	1	17	7	22	2	7	6	9	0	6	6	6	0	2	1	5	0	18	20	12	2	7	10	7	1	7	7	10	0	2	2	5	9	6	0	5	7	11	0	4	7	5	1	5	7	9	3	0	0	1	0

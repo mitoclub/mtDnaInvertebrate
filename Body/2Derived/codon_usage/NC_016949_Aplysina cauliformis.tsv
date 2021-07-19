@@ -1,65 +1,8 @@
-	YP_005351091.1|COX1	YP_005351092.1|COX2	YP_005351093.1|ATP8	YP_005351094.1|ATP6	YP_005351095.1|COX3	YP_005351096.1|ND2	YP_005351097.1|ND5
-TTT	41	9	5	19	24	23	44
-TTC	6	2	1	1	0	8	2
-TTA	47	22	7	33	19	60	63
-TTG	6	0	2	4	1	4	13
-TCT	9	7	3	2	5	21	25
-TCC	3	1	1	1	1	5	1
-TCA	9	1	1	5	3	6	8
-TCG	1	2	0	0	1	1	2
-TAT	23	9	2	7	13	19	28
-TAC	2	1	0	1	0	2	2
-TGT	2	3	1	0	2	4	5
-TGC	1	0	0	0	0	1	2
-TGA	13	6	2	4	10	5	6
-TGG	2	0	0	0	2	0	3
-CTT	4	3	3	7	4	11	10
-CTC	0	0	0	1	0	2	1
-CTA	4	2	1	2	2	7	6
-CTG	1	1	0	0	1	0	1
-CCT	5	4	1	4	3	5	5
-CCC	4	1	1	2	3	4	4
-CCA	15	4	1	4	5	2	6
-CCG	1	3	1	0	0	2	2
-CAT	15	5	1	3	11	2	9
-CAC	3	2	0	0	5	1	3
-CAA	8	9	8	3	5	7	9
-CAG	1	0	0	1	1	3	1
-CGT	2	1	0	1	0	0	0
-CGC	0	0	0	1	0	0	0
-CGA	2	3	1	0	2	3	1
-CGG	1	0	1	1	0	0	1
-ATT	27	16	4	13	11	33	31
-ATC	5	3	0	2	2	6	11
-ATA	21	15	2	19	10	40	35
-ATG	22	6	1	12	7	7	20
-ACT	7	3	2	5	7	6	17
-ACC	2	3	0	3	3	2	4
-ACA	18	9	3	4	9	11	11
-ACG	3	1	0	2	1	0	5
-AAT	12	5	3	7	3	12	25
-AAC	5	1	0	1	0	5	2
-AAA	8	4	3	4	3	19	21
-AAG	1	2	1	0	0	0	2
-AGT	11	2	2	6	6	7	12
-AGC	2	1	1	0	2	7	3
-AGA	4	3	0	4	4	4	6
-AGG	1	0	0	0	0	0	4
-GTT	16	8	3	5	13	13	19
-GTC	3	2	0	1	0	1	4
-GTA	13	6	0	7	5	9	8
-GTG	1	0	1	0	3	3	4
-GCT	11	6	0	4	5	6	12
-GCC	6	3	0	8	5	6	8
-GCA	18	5	1	3	6	12	10
-GCG	3	1	2	3	3	2	8
-GAT	12	8	2	5	2	8	10
-GAC	7	7	0	0	2	0	4
-GAA	6	9	2	4	6	9	8
-GAG	2	2	0	1	2	3	5
-GGT	15	6	0	4	3	8	10
-GGC	4	1	0	3	4	5	8
-GGA	13	3	0	4	7	13	10
-GGG	18	2	0	3	5	10	18
-TAA	1	1	0	1	1	1	1
-TAG	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_005351091.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	41	6	47	6	9	3	9	1	23	2	2	1	13	2	4	0	4	1	5	4	15	1	15	3	8	1	2	0	2	1	27	5	21	22	7	2	18	3	12	5	8	1	11	2	4	1	16	3	13	1	11	6	18	3	12	7	6	2	15	4	13	18	1	0
+1	COX2	YP_005351092.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	9	2	22	0	7	1	1	2	9	1	3	0	6	0	3	0	2	1	4	1	4	3	5	2	9	0	1	0	3	0	16	3	15	6	3	3	9	1	5	1	4	2	2	1	3	0	8	2	6	0	6	3	5	1	8	7	9	2	6	1	3	2	1	0
+2	ATP8	YP_005351093.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	5	1	7	2	3	1	1	0	2	0	1	0	2	0	3	0	1	0	1	1	1	1	1	0	8	0	0	0	1	1	4	0	2	1	2	0	3	0	3	0	3	1	2	1	0	0	3	0	0	1	0	0	1	2	2	0	2	0	0	0	0	0	0	1
+3	ATP6	YP_005351094.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	19	1	33	4	2	1	5	0	7	1	0	0	4	0	7	1	2	0	4	2	4	0	3	0	3	1	1	1	0	1	13	2	19	12	5	3	4	2	7	1	4	0	6	0	4	0	5	1	7	0	4	8	3	3	5	0	4	1	4	3	4	3	1	0
+4	COX3	YP_005351095.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	24	0	19	1	5	1	3	1	13	0	2	0	10	2	4	0	2	1	3	3	5	0	11	5	5	1	0	0	2	0	11	2	10	7	7	3	9	1	3	0	3	0	6	2	4	0	13	0	5	3	5	5	6	3	2	2	6	2	3	4	7	5	1	0
+5	ND2	YP_005351096.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	23	8	60	4	21	5	6	1	19	2	4	1	5	0	11	2	7	0	5	4	2	2	2	1	7	3	0	0	3	0	33	6	40	7	6	2	11	0	12	5	19	0	7	7	4	0	13	1	9	3	6	6	12	2	8	0	9	3	8	5	13	10	1	0
+6	ND5	YP_005351097.1	Aplysina cauliformis	Eukaryota, Metazoa, Porifera, Demospongiae, Verongimorpha, Verongiida, Aplysinidae, Aplysina	44	2	63	13	25	1	8	2	28	2	5	2	6	3	10	1	6	1	5	4	6	2	9	3	9	1	0	0	1	1	31	11	35	20	17	4	11	5	25	2	21	2	12	3	6	4	19	4	8	4	12	8	10	8	10	4	8	5	10	8	10	18	1	0

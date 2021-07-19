@@ -1,65 +1,10 @@
-	YP_009776023.1|nad2	YP_009776024.1|cox1	YP_009776025.1|cox2	YP_009776026.1|atp8	YP_009776027.1|atp6	YP_009776028.1|cox3	YP_009776029.1|nad3	YP_009776033.1|nad6	YP_009776034.1|cob
-TTT	27	36	15	5	16	19	12	17	28
-TTC	7	8	1	0	0	4	0	0	2
-TTA	33	47	20	7	29	27	20	28	38
-TTG	0	0	0	0	1	0	0	0	2
-TCT	6	15	4	1	5	6	1	5	3
-TCC	4	2	2	0	2	2	0	2	2
-TCA	8	13	8	0	6	6	4	4	10
-TCG	0	1	1	0	0	0	0	0	0
-TAT	14	10	8	2	4	7	4	7	19
-TAC	4	5	0	1	1	4	0	2	2
-TGT	1	0	2	0	1	1	1	2	3
-TGC	0	0	0	0	0	0	0	1	1
-TGA	8	14	6	3	5	13	2	1	11
-TGG	1	0	0	0	0	0	0	0	0
-CTT	7	5	4	1	3	7	1	2	9
-CTC	1	0	0	0	0	0	0	0	1
-CTA	14	9	0	1	5	2	1	2	5
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	17	7	2	1	5	2	1	11
-CCC	2	3	3	0	5	1	0	0	1
-CCA	4	7	0	1	6	3	2	2	11
-CCG	1	0	0	0	0	0	0	0	0
-CAT	3	14	6	0	4	11	2	1	9
-CAC	0	1	0	0	1	4	1	0	1
-CAA	5	7	6	1	5	6	1	4	8
-CAG	0	0	1	0	0	0	0	0	0
-CGT	1	2	4	0	0	1	0	0	0
-CGC	0	0	2	0	1	0	0	0	2
-CGA	1	6	1	0	2	3	2	1	5
-CGG	0	1	0	0	0	0	0	0	0
-ATT	41	49	32	6	29	25	16	25	42
-ATC	5	3	0	0	0	3	3	2	6
-ATA	27	28	11	5	17	9	7	16	15
-ATG	0	2	0	0	1	1	1	0	1
-ACT	5	16	4	0	11	11	2	3	6
-ACC	3	4	1	1	0	3	0	0	6
-ACA	7	10	7	1	7	5	4	4	11
-ACG	0	0	0	0	0	0	0	0	0
-AAT	24	18	12	6	12	7	5	13	17
-AAC	2	3	1	0	2	2	2	0	3
-AAA	14	9	8	7	3	4	6	8	11
-AAG	1	0	0	0	0	0	0	0	0
-AGT	2	2	0	0	1	1	0	0	1
-AGC	0	4	0	0	0	0	0	0	1
-AGA	5	9	4	0	9	4	1	1	6
-AGG	1	1	0	0	0	1	1	0	1
-GTT	1	18	4	0	5	5	0	0	7
-GTC	1	3	1	0	0	1	0	0	2
-GTA	8	13	5	0	2	7	1	2	7
-GTG	0	1	1	0	0	0	0	0	0
-GCT	9	18	1	0	3	5	1	0	12
-GCC	7	5	1	0	1	1	0	0	2
-GCA	2	8	5	0	3	3	1	2	4
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	13	8	0	1	4	2	2	7
-GAC	0	1	1	0	0	0	1	0	0
-GAA	6	9	11	0	4	8	3	2	4
-GAG	1	0	1	0	0	0	1	0	0
-GGT	1	7	1	0	1	6	0	0	3
-GGC	1	1	1	0	0	0	1	1	2
-GGA	7	30	4	0	8	13	2	4	15
-GGG	2	6	2	0	1	1	0	0	3
-TAA	1	0	1	1	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	nad2	YP_009776023.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	27	7	33	0	6	4	8	0	14	4	1	0	8	1	7	1	14	0	2	2	4	1	3	0	5	0	1	0	1	0	41	5	27	0	5	3	7	0	24	2	14	1	2	0	5	1	1	1	8	0	9	7	2	0	0	0	6	1	1	1	7	2	1	0
+1	cox1	YP_009776024.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	36	8	47	0	15	2	13	1	10	5	0	0	14	0	5	0	9	0	17	3	7	0	14	1	7	0	2	0	6	1	49	3	28	2	16	4	10	0	18	3	9	0	2	4	9	1	18	3	13	1	18	5	8	0	13	1	9	0	7	1	30	6	0	0
+2	cox2	YP_009776025.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	15	1	20	0	4	2	8	1	8	0	2	0	6	0	4	0	0	0	7	3	0	0	6	0	6	1	4	2	1	0	32	0	11	0	4	1	7	0	12	1	8	0	0	0	4	0	4	1	5	1	1	1	5	0	8	1	11	1	1	1	4	2	1	0
+3	atp8	YP_009776026.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	5	0	7	0	1	0	0	0	2	1	0	0	3	0	1	0	1	0	2	0	1	0	0	0	1	0	0	0	0	0	6	0	5	0	0	1	1	0	6	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	atp6	YP_009776027.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	16	0	29	1	5	2	6	0	4	1	1	0	5	0	3	0	5	0	1	5	6	0	4	1	5	0	0	1	2	0	29	0	17	1	11	0	7	0	12	2	3	0	1	0	9	0	5	0	2	0	3	1	3	0	1	0	4	0	1	0	8	1	1	0
+5	cox3	YP_009776028.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	19	4	27	0	6	2	6	0	7	4	1	0	13	0	7	0	2	0	5	1	3	0	11	4	6	0	1	0	3	0	25	3	9	1	11	3	5	0	7	2	4	0	1	0	4	1	5	1	7	0	5	1	3	0	4	0	8	0	6	0	13	1	0	0
+6	nad3	YP_009776029.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	12	0	20	0	1	0	4	0	4	0	1	0	2	0	1	0	1	0	2	0	2	0	2	1	1	0	0	0	2	0	16	3	7	1	2	0	4	0	5	2	6	0	0	0	1	1	0	0	1	0	1	0	1	0	2	1	3	1	0	1	2	0	1	0
+7	nad6	YP_009776033.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	17	0	28	0	5	2	4	0	7	2	2	1	1	0	2	0	2	0	1	0	2	0	1	0	4	0	0	0	1	0	25	2	16	0	3	0	4	0	13	0	8	0	0	0	1	0	0	0	2	0	0	0	2	0	2	0	2	0	0	1	4	0	1	0
+8	cob	YP_009776034.1	Aulacophora indica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Chrysomelidae, Galerucinae, Aulacophorina, Aulacophorites, Aulacophora	28	2	38	2	3	2	10	0	19	2	3	1	11	0	9	1	5	0	11	1	11	0	9	1	8	0	0	2	5	0	42	6	15	1	6	6	11	0	17	3	11	0	1	1	6	1	7	2	7	0	12	2	4	0	7	0	4	0	3	2	15	3	1	0

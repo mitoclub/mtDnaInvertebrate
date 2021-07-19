@@ -1,65 +1,13 @@
-	YP_009368296.1|ND1	YP_009368297.1|ND2	YP_009368298.1|COX1	YP_009368299.1|COX2	YP_009368300.1|ATP8	YP_009368301.1|ATP6	YP_009368302.1|COX3	YP_009368303.1|ND3	YP_009368304.1|ND4L	YP_009368305.1|ND4	YP_009368306.1|ND5	YP_009368308.1|CYTB
-TTT	6	5	19	5	2	4	9	3	3	11	15	9
-TTC	14	8	23	2	1	5	14	5	2	9	23	20
-TTA	8	5	15	8	3	8	4	1	7	19	16	5
-TTG	2	0	5	1	1	1	5	0	1	3	4	0
-TCT	1	2	6	2	1	1	5	1	3	4	5	2
-TCC	8	9	7	7	2	6	6	2	5	12	18	14
-TCA	7	12	15	4	3	4	7	0	1	11	13	4
-TCG	2	0	3	1	0	1	1	0	0	1	2	2
-TAT	4	3	7	7	1	0	4	0	0	8	7	4
-TAC	8	3	12	4	1	2	6	4	1	8	6	10
-TGT	0	0	1	1	0	0	0	0	2	2	3	1
-TGC	1	1	0	2	0	0	2	1	1	2	3	2
-TGA	8	10	15	5	3	3	11	2	0	11	11	9
-TGG	1	1	2	0	0	0	1	2	0	3	1	2
-CTT	8	7	12	9	2	10	5	5	2	14	13	9
-CTC	8	12	8	6	1	5	9	8	5	20	20	16
-CTA	30	34	13	10	5	18	8	8	6	34	40	27
-CTG	3	4	5	0	0	4	3	1	1	1	4	5
-CCT	0	3	9	2	3	8	3	0	1	4	3	7
-CCC	11	6	11	6	3	5	7	3	1	10	11	7
-CCA	10	7	8	5	1	1	1	4	0	8	15	8
-CCG	1	0	0	0	0	0	0	0	0	0	0	2
-CAT	1	1	3	5	0	0	6	0	1	5	2	2
-CAC	4	7	16	1	1	7	11	0	1	6	11	8
-CAA	6	12	4	5	3	8	7	2	2	11	18	7
-CAG	0	1	2	1	0	0	0	1	0	1	1	1
-CGT	0	0	2	0	1	1	0	0	0	1	1	1
-CGC	1	0	2	4	0	1	1	1	1	1	3	2
-CGA	5	3	3	2	0	3	4	0	0	7	5	5
-CGG	2	0	1	0	0	0	0	0	0	1	0	0
-ATT	10	25	18	10	0	16	6	4	7	19	30	15
-ATC	16	14	18	9	4	11	8	5	1	17	28	20
-ATA	15	17	25	13	2	7	8	6	8	30	39	11
-ATG	3	6	10	2	2	1	2	1	3	3	3	2
-ACT	2	7	3	6	0	4	6	3	3	4	14	3
-ACC	13	10	8	6	2	13	6	0	2	15	21	16
-ACA	14	29	22	4	2	12	11	4	1	24	23	16
-ACG	2	1	2	2	3	0	0	2	0	2	2	1
-AAT	4	4	9	0	2	6	3	1	1	8	8	5
-AAC	8	16	7	6	3	4	5	2	4	12	28	13
-AAA	6	11	9	4	4	4	2	4	0	11	22	9
-AAG	2	1	0	1	2	0	0	1	0	1	0	1
-AGT	1	1	1	1	0	1	1	0	0	2	3	1
-AGC	1	1	2	2	1	3	2	0	1	12	9	1
-GTT	1	2	7	5	0	2	3	0	0	2	4	0
-GTC	0	3	8	2	1	1	4	1	1	1	4	4
-GTA	6	5	18	7	1	5	7	3	3	9	6	6
-GTG	0	0	5	1	0	1	0	0	0	0	0	1
-GCT	4	4	13	3	0	3	3	1	2	3	5	3
-GCC	13	8	12	3	0	8	7	5	4	14	20	9
-GCA	10	4	13	2	0	5	4	2	3	10	12	9
-GCG	1	1	2	0	0	0	1	1	0	2	0	1
-GAT	2	0	10	5	0	0	2	0	0	1	1	1
-GAC	1	1	5	5	0	1	1	4	1	2	8	10
-GAA	10	3	7	14	1	2	7	7	1	9	9	4
-GAG	1	1	3	0	0	1	1	0	1	1	2	2
-GGT	0	1	10	3	0	5	4	0	1	3	8	4
-GGC	7	6	10	1	0	1	9	1	3	4	9	9
-GGA	5	9	20	4	0	3	8	2	0	5	9	11
-GGG	0	0	7	1	0	0	0	1	0	5	2	0
-TAA	0	0	1	1	0	1	0	1	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009368296.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	6	14	8	2	1	8	7	2	4	8	0	1	8	1	8	8	30	3	0	11	10	1	1	4	6	0	0	1	5	2	10	16	15	3	2	13	14	2	4	8	6	2	1	1	1	0	6	0	4	13	10	1	2	1	10	1	0	7	5	0	0	0	0	0
+1	ND2	YP_009368297.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	5	8	5	0	2	9	12	0	3	3	0	1	10	1	7	12	34	4	3	6	7	0	1	7	12	1	0	0	3	0	25	14	17	6	7	10	29	1	4	16	11	1	1	1	2	3	5	0	4	8	4	1	0	1	3	1	1	6	9	0	0	0	0	0
+2	COX1	YP_009368298.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	19	23	15	5	6	7	15	3	7	12	1	0	15	2	12	8	13	5	9	11	8	0	3	16	4	2	2	2	3	1	18	18	25	10	3	8	22	2	9	7	9	0	1	2	7	8	18	5	13	12	13	2	10	5	7	3	10	10	20	7	1	0	0	0
+3	COX2	YP_009368299.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	5	2	8	1	2	7	4	1	7	4	1	2	5	0	9	6	10	0	2	6	5	0	5	1	5	1	0	4	2	0	10	9	13	2	6	6	4	2	0	6	4	1	1	2	5	2	7	1	3	3	2	0	5	5	14	0	3	1	4	1	1	0	0	0
+4	ATP8	YP_009368300.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	2	1	3	1	1	2	3	0	1	1	0	0	3	0	2	1	5	0	3	3	1	0	0	1	3	0	1	0	0	0	0	4	2	2	0	2	2	3	2	3	4	2	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009368301.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	5	8	1	1	6	4	1	0	2	0	0	3	0	10	5	18	4	8	5	1	0	0	7	8	0	1	1	3	0	16	11	7	1	4	13	12	0	6	4	4	0	1	3	2	1	5	1	3	8	5	0	0	1	2	1	5	1	3	0	1	0	0	0
+6	COX3	YP_009368302.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	14	4	5	5	6	7	1	4	6	0	2	11	1	5	9	8	3	3	7	1	0	6	11	7	0	0	1	4	0	6	8	8	2	6	6	11	0	3	5	2	0	1	2	3	4	7	0	3	7	4	1	2	1	7	1	4	9	8	0	0	0	0	0
+7	ND3	YP_009368303.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	5	1	0	1	2	0	0	0	4	0	1	2	2	5	8	8	1	0	3	4	0	0	0	2	1	0	1	0	0	4	5	6	1	3	0	4	2	1	2	4	1	0	0	0	1	3	0	1	5	2	1	0	4	7	0	0	1	2	1	1	0	0	0
+8	ND4L	YP_009368304.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	2	7	1	3	5	1	0	0	1	2	1	0	0	2	5	6	1	1	1	0	0	1	1	2	0	0	1	0	0	7	1	8	3	3	2	1	0	1	4	0	0	0	1	0	1	3	0	2	4	3	0	0	1	1	1	1	3	0	0	1	0	0	0
+9	ND4	YP_009368305.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	11	9	19	3	4	12	11	1	8	8	2	2	11	3	14	20	34	1	4	10	8	0	5	6	11	1	1	1	7	1	19	17	30	3	4	15	24	2	8	12	11	1	2	12	2	1	9	0	3	14	10	2	1	2	9	1	3	4	5	5	0	0	0	0
+10	ND5	YP_009368306.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	15	23	16	4	5	18	13	2	7	6	3	3	11	1	13	20	40	4	3	11	15	0	2	11	18	1	1	3	5	0	30	28	39	3	14	21	23	2	8	28	22	0	3	9	4	4	6	0	5	20	12	0	1	8	9	2	8	9	9	2	1	0	0	0
+11	CYTB	YP_009368308.1	Lepilemur hollandorum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	20	5	0	2	14	4	2	4	10	1	2	9	2	9	16	27	5	7	7	8	2	2	8	7	1	1	2	5	0	15	20	11	2	3	16	16	1	5	13	9	1	1	1	0	4	6	1	3	9	9	1	1	10	4	2	4	9	11	0	0	0	1	0

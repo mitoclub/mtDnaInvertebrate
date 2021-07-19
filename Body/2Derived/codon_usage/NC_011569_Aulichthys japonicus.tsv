@@ -1,65 +1,13 @@
-	YP_002317207.1|ND1	YP_002317208.1|ND2	YP_002317209.1|COX1	YP_002317210.1|COX2	YP_002317211.1|ATP8	YP_002317212.1|ATP6	YP_002317213.1|COX3	YP_002317214.1|ND3	YP_002317215.1|ND4L	YP_002317216.1|ND4	YP_002317217.1|ND5	YP_002317219.1|CYTB
-TTT	11	13	25	7	2	8	14	5	3	16	30	13
-TTC	8	4	17	2	2	6	10	4	4	4	14	16
-TTA	11	13	18	7	2	14	8	5	3	19	22	11
-TTG	3	0	0	1	0	1	0	0	1	4	2	3
-TCT	10	9	9	2	2	2	6	2	4	9	12	8
-TCC	4	9	5	5	0	2	1	1	0	6	9	5
-TCA	3	4	11	4	2	0	3	3	4	6	13	7
-TCG	0	3	1	2	0	0	1	1	1	0	2	3
-TAT	6	5	9	2	0	3	4	1	0	9	7	5
-TAC	5	1	9	7	0	0	7	1	0	4	4	11
-TGT	0	0	0	1	0	0	0	1	2	1	3	1
-TGC	0	0	1	1	0	0	2	0	1	3	4	2
-TGA	3	8	13	5	4	3	12	3	1	15	9	11
-TGG	5	3	4	0	1	2	0	2	0	4	5	1
-CTT	18	25	26	11	1	16	9	3	5	28	23	21
-CTC	5	6	9	3	0	4	1	4	5	9	12	7
-CTA	20	19	8	2	3	12	12	13	7	22	21	12
-CTG	4	6	1	2	0	3	1	2	3	7	11	5
-CCT	6	6	11	4	5	3	2	1	0	7	11	7
-CCC	9	5	9	5	2	6	8	4	0	7	7	5
-CCA	5	8	7	5	2	6	3	3	2	9	11	9
-CCG	4	3	1	0	0	1	0	0	0	2	1	0
-CAT	2	1	6	4	0	3	6	1	2	2	2	4
-CAC	1	8	13	4	1	1	11	0	3	10	10	8
-CAA	5	11	7	6	1	9	5	3	2	8	17	7
-CAG	3	1	1	2	0	0	3	0	1	2	3	0
-CGT	2	1	2	1	0	3	0	0	1	2	0	1
-CGC	1	0	0	3	0	2	2	1	1	0	4	1
-CGA	3	3	6	2	0	1	4	1	0	6	5	4
-CGG	2	0	0	1	0	0	0	0	0	3	2	1
-ATT	15	16	33	14	3	17	10	4	1	23	34	16
-ATC	11	3	8	9	0	5	4	3	0	10	19	13
-ATA	6	14	12	9	1	6	6	2	2	19	19	5
-ATG	3	2	11	3	1	3	2	1	3	9	11	5
-ACT	6	14	11	3	1	5	6	1	2	7	14	4
-ACC	4	16	9	3	1	11	7	5	1	15	22	9
-ACA	5	8	16	4	1	6	9	3	2	16	12	7
-ACG	1	1	0	0	0	0	1	0	0	2	2	1
-AAT	9	4	7	1	0	5	1	0	1	7	12	10
-AAC	3	6	8	5	2	4	0	1	1	5	15	9
-AAA	5	7	6	2	3	1	2	0	0	8	16	9
-AAG	2	2	2	2	1	0	0	1	0	1	3	1
-AGT	1	2	1	0	0	0	1	0	1	3	2	0
-AGC	2	2	4	3	0	6	3	0	1	9	11	1
-GTT	9	8	14	8	2	5	5	1	2	13	12	13
-GTC	4	0	8	3	1	2	3	0	0	2	5	4
-GTA	4	4	14	2	1	5	7	4	0	6	10	9
-GTG	4	1	5	3	0	0	0	2	0	1	5	1
-GCT	13	11	10	6	0	6	2	2	5	14	16	8
-GCC	12	11	18	4	3	9	12	1	6	8	23	8
-GCA	11	12	16	9	1	4	7	4	3	13	14	13
-GCG	2	1	2	0	0	0	1	0	1	1	2	2
-GAT	1	2	7	6	0	1	2	1	1	0	6	3
-GAC	3	2	7	8	2	0	3	3	1	5	6	7
-GAA	10	4	8	11	0	3	10	5	2	10	10	3
-GAG	1	0	3	2	1	1	0	1	0	2	3	2
-GGT	2	2	13	3	0	0	3	1	0	7	4	3
-GGC	3	3	4	2	0	5	9	1	3	2	7	4
-GGA	9	9	24	4	0	5	9	3	2	13	19	14
-GGG	4	6	6	0	0	1	1	1	1	5	2	7
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002317207.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	11	8	11	3	10	4	3	0	6	5	0	0	3	5	18	5	20	4	6	9	5	4	2	1	5	3	2	1	3	2	15	11	6	3	6	4	5	1	9	3	5	2	1	2	9	4	4	4	13	12	11	2	1	3	10	1	2	3	9	4	1	0	0	0
+1	ND2	YP_002317208.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	13	4	13	0	9	9	4	3	5	1	0	0	8	3	25	6	19	6	6	5	8	3	1	8	11	1	1	0	3	0	16	3	14	2	14	16	8	1	4	6	7	2	2	2	8	0	4	1	11	11	12	1	2	2	4	0	2	3	9	6	0	0	0	0
+2	COX1	YP_002317209.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	25	17	18	0	9	5	11	1	9	9	0	1	13	4	26	9	8	1	11	9	7	1	6	13	7	1	2	0	6	0	33	8	12	11	11	9	16	0	7	8	6	2	1	4	14	8	14	5	10	18	16	2	7	7	8	3	13	4	24	6	1	0	0	0
+3	COX2	YP_002317210.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	7	2	7	1	2	5	4	2	2	7	1	1	5	0	11	3	2	2	4	5	5	0	4	4	6	2	1	3	2	1	14	9	9	3	3	3	4	0	1	5	2	2	0	3	8	3	2	3	6	4	9	0	6	8	11	2	3	2	4	0	0	0	0	0
+4	ATP8	YP_002317211.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	2	2	2	0	2	0	2	0	0	0	0	0	4	1	1	0	3	0	5	2	2	0	0	1	1	0	0	0	0	0	3	0	1	1	1	1	1	0	0	2	3	1	0	0	2	1	1	0	0	3	1	0	0	2	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_002317212.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	8	6	14	1	2	2	0	0	3	0	0	0	3	2	16	4	12	3	3	6	6	1	3	1	9	0	3	2	1	0	17	5	6	3	5	11	6	0	5	4	1	0	0	6	5	2	5	0	6	9	4	0	1	0	3	1	0	5	5	1	0	0	0	0
+6	COX3	YP_002317213.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	14	10	8	0	6	1	3	1	4	7	0	2	12	0	9	1	12	1	2	8	3	0	6	11	5	3	0	2	4	0	10	4	6	2	6	7	9	1	1	0	2	0	1	3	5	3	7	0	2	12	7	1	2	3	10	0	3	9	9	1	0	0	0	0
+7	ND3	YP_002317214.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	5	4	5	0	2	1	3	1	1	1	1	0	3	2	3	4	13	2	1	4	3	0	1	0	3	0	0	1	1	0	4	3	2	1	1	5	3	0	0	1	0	1	0	0	1	0	4	2	2	1	4	0	1	3	5	1	1	1	3	1	0	0	0	0
+8	ND4L	YP_002317215.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	3	4	3	1	4	0	4	1	0	0	2	1	1	0	5	5	7	3	0	0	2	0	2	3	2	1	1	1	0	0	1	0	2	3	2	1	2	0	1	1	0	0	1	1	2	0	0	0	5	6	3	1	1	1	2	0	0	3	2	1	1	0	0	0
+9	ND4	YP_002317216.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	16	4	19	4	9	6	6	0	9	4	1	3	15	4	28	9	22	7	7	7	9	2	2	10	8	2	2	0	6	3	23	10	19	9	7	15	16	2	7	5	8	1	3	9	13	2	6	1	14	8	13	1	0	5	10	2	7	2	13	5	0	0	0	0
+10	ND5	YP_002317217.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	30	14	22	2	12	9	13	2	7	4	3	4	9	5	23	12	21	11	11	7	11	1	2	10	17	3	0	4	5	2	34	19	19	11	14	22	12	2	12	15	16	3	2	11	12	5	10	5	16	23	14	2	6	6	10	3	4	7	19	2	1	0	0	0
+11	CYTB	YP_002317219.1	Aulichthys japonicus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Gasterosteales, Aulorhynchidae, Aulichthys	13	16	11	3	8	5	7	3	5	11	1	2	11	1	21	7	12	5	7	5	9	0	4	8	7	0	1	1	4	1	16	13	5	5	4	9	7	1	10	9	9	1	0	1	13	4	9	1	8	8	13	2	3	7	3	2	3	4	14	7	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_006883694.1|ND1	YP_006883695.1|ND2	YP_006883696.1|COX1	YP_006883697.1|COX2	YP_006883698.1|ATP8	YP_006883699.1|ATP6	YP_006883700.1|COX3	YP_006883701.1|ND3	YP_006883702.1|ND4L	YP_006883703.1|ND4	YP_006883704.1|ND5	YP_006883706.1|CYTB
-TTT	5	6	20	6	1	8	9	4	2	10	14	12
-TTC	14	8	23	3	2	6	14	7	3	9	36	25
-TTA	15	3	8	1	3	7	4	2	4	15	11	5
-TTG	1	2	0	0	1	2	0	2	2	3	0	0
-TCT	2	4	3	3	1	2	3	0	1	2	3	8
-TCC	5	6	10	5	2	1	6	4	3	9	17	8
-TCA	10	4	8	4	0	4	1	2	5	7	10	4
-TCG	1	1	1	1	1	3	0	0	0	2	2	2
-TAT	2	1	2	3	0	0	4	1	0	6	2	5
-TAC	10	6	15	6	1	3	8	2	1	7	9	8
-TGT	0	0	0	0	0	0	0	1	1	1	2	1
-TGC	0	1	1	3	1	0	2	0	3	3	9	3
-TGA	5	10	16	4	4	4	10	4	1	12	10	10
-TGG	3	1	1	1	1	1	2	1	0	3	1	3
-CTT	14	15	15	7	2	5	8	7	7	17	18	13
-CTC	13	20	12	7	1	16	11	6	5	12	36	15
-CTA	18	27	23	8	0	12	9	5	5	26	25	20
-CTG	3	8	6	2	0	1	2	3	1	13	11	5
-CCT	2	3	3	2	3	1	2	1	0	2	5	7
-CCC	13	11	14	5	3	7	8	6	2	13	13	10
-CCA	7	5	9	5	1	5	2	3	0	11	13	6
-CCG	1	3	1	0	0	2	0	0	0	1	1	0
-CAT	0	1	3	2	0	0	1	1	0	2	9	2
-CAC	2	6	17	7	1	8	14	0	4	8	11	9
-CAA	4	11	4	6	3	2	6	3	2	9	13	2
-CAG	3	3	3	1	1	4	2	0	0	0	5	3
-CGT	0	0	2	0	0	1	2	0	1	0	1	0
-CGC	1	2	1	1	0	1	0	1	1	4	1	3
-CGA	7	2	5	5	0	4	3	1	1	7	9	5
-CGG	0	0	0	1	0	1	0	0	0	0	1	0
-ATT	10	13	24	9	3	16	8	4	1	21	26	14
-ATC	17	11	14	12	1	7	4	6	2	13	28	15
-ATA	9	9	12	6	0	7	5	4	2	18	20	8
-ATG	2	5	14	5	1	2	3	0	2	9	4	3
-ACT	3	7	6	3	0	5	2	1	2	5	4	2
-ACC	10	20	9	6	3	7	8	4	4	14	29	11
-ACA	5	20	20	7	2	8	13	2	2	22	26	9
-ACG	1	1	2	2	0	1	2	0	1	1	3	2
-AAT	5	2	6	3	0	1	0	0	1	2	6	6
-AAC	8	8	8	4	0	6	3	0	0	11	19	15
-AAA	4	9	8	4	3	1	0	0	1	10	17	7
-AAG	3	0	1	0	0	0	1	1	0	1	4	1
-AGT	0	2	0	1	0	1	0	0	0	2	2	0
-AGC	4	3	4	1	1	4	3	0	4	8	10	1
-GTT	4	2	12	4	1	2	3	1	0	9	5	4
-GTC	5	3	11	8	1	2	7	2	0	2	6	4
-GTA	5	1	10	3	0	7	7	1	1	4	5	12
-GTG	1	0	6	0	0	3	1	1	0	1	6	1
-GCT	5	6	6	7	1	1	6	2	1	12	9	3
-GCC	19	16	31	4	0	10	7	3	6	23	28	17
-GCA	11	15	10	6	1	6	10	0	4	15	16	7
-GCG	0	0	4	0	0	0	0	1	1	0	1	1
-GAT	0	1	4	2	1	1	0	0	0	0	4	1
-GAC	3	3	10	11	0	1	5	4	1	5	8	10
-GAA	8	4	11	13	3	6	7	4	1	7	11	7
-GAG	4	1	0	1	0	1	1	2	1	5	0	0
-GGT	2	1	4	1	0	0	2	0	1	1	2	3
-GGC	5	6	18	2	0	3	12	2	2	6	9	7
-GGA	9	7	17	5	0	6	6	2	1	10	12	10
-GGG	1	2	8	1	0	1	2	2	1	5	8	5
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	1	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006883694.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	5	14	15	1	2	5	10	1	2	10	0	0	5	3	14	13	18	3	2	13	7	1	0	2	4	3	0	1	7	0	10	17	9	2	3	10	5	1	5	8	4	3	0	4	4	5	5	1	5	19	11	0	0	3	8	4	2	5	9	1	1	0	0	0
+1	ND2	YP_006883695.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	6	8	3	2	4	6	4	1	1	6	0	1	10	1	15	20	27	8	3	11	5	3	1	6	11	3	0	2	2	0	13	11	9	5	7	20	20	1	2	8	9	0	2	3	2	3	1	0	6	16	15	0	1	3	4	1	1	6	7	2	0	0	0	0
+2	COX1	YP_006883696.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	20	23	8	0	3	10	8	1	2	15	0	1	16	1	15	12	23	6	3	14	9	1	3	17	4	3	2	1	5	0	24	14	12	14	6	9	20	2	6	8	8	1	0	4	12	11	10	6	6	31	10	4	4	10	11	0	4	18	17	8	1	0	0	0
+3	COX2	YP_006883697.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	6	3	1	0	3	5	4	1	3	6	0	3	4	1	7	7	8	2	2	5	5	0	2	7	6	1	0	1	5	1	9	12	6	5	3	6	7	2	3	4	4	0	1	1	4	8	3	0	7	4	6	0	2	11	13	1	1	2	5	1	0	0	0	0
+4	ATP8	YP_006883698.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	1	2	3	1	1	2	0	1	0	1	0	1	4	1	2	1	0	0	3	3	1	0	0	1	3	1	0	0	0	0	3	1	0	1	0	3	2	0	0	0	3	0	0	1	1	1	0	0	1	0	1	0	1	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_006883699.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	8	6	7	2	2	1	4	3	0	3	0	0	4	1	5	16	12	1	1	7	5	2	0	8	2	4	1	1	4	1	16	7	7	2	5	7	8	1	1	6	1	0	1	4	2	2	7	3	1	10	6	0	1	1	6	1	0	3	6	1	1	0	0	0
+6	COX3	YP_006883700.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	9	14	4	0	3	6	1	0	4	8	0	2	10	2	8	11	9	2	2	8	2	0	1	14	6	2	2	0	3	0	8	4	5	3	2	8	13	2	0	3	0	1	0	3	3	7	7	1	6	7	10	0	0	5	7	1	2	12	6	2	0	0	0	0
+7	ND3	YP_006883701.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	4	7	2	2	0	4	2	0	1	2	1	0	4	1	7	6	5	3	1	6	3	0	1	0	3	0	0	1	1	0	4	6	4	0	1	4	2	0	0	0	0	1	0	0	1	2	1	1	2	3	0	1	0	4	4	2	0	2	2	2	0	0	0	0
+8	ND4L	YP_006883702.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	2	3	4	2	1	3	5	0	0	1	1	3	1	0	7	5	5	1	0	2	0	0	0	4	2	0	1	1	1	0	1	2	2	2	2	4	2	1	1	0	1	0	0	4	0	0	1	0	1	6	4	1	0	1	1	1	1	2	1	1	1	0	0	0
+9	ND4	YP_006883703.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	10	9	15	3	2	9	7	2	6	7	1	3	12	3	17	12	26	13	2	13	11	1	2	8	9	0	0	4	7	0	21	13	18	9	5	14	22	1	2	11	10	1	2	8	9	2	4	1	12	23	15	0	0	5	7	5	1	6	10	5	0	0	1	0
+10	ND5	YP_006883704.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	14	36	11	0	3	17	10	2	2	9	2	9	10	1	18	36	25	11	5	13	13	1	9	11	13	5	1	1	9	1	26	28	20	4	4	29	26	3	6	19	17	4	2	10	5	6	5	6	9	28	16	1	4	8	11	0	2	9	12	8	1	0	0	0
+11	CYTB	YP_006883706.1	Trichiurus lepturus nanhaiensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Trichiuridae, Trichiurus	12	25	5	0	8	8	4	2	5	8	1	3	10	3	13	15	20	5	7	10	6	0	2	9	2	3	0	3	5	0	14	15	8	3	2	11	9	2	6	15	7	1	0	1	4	4	12	1	3	17	7	1	1	10	7	0	3	7	10	5	0	0	0	0

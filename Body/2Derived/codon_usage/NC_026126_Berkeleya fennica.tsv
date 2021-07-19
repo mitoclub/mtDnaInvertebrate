@@ -1,65 +1,33 @@
-	YP_009115268.1|cob	YP_009115269.1|nad5	YP_009115270.1|nad6	YP_009115271.1|nad2	YP_009115273.1|nad4	YP_009115274.1|rps13	YP_009115275.1|cox3	YP_009115276.1|nad3	YP_009115277.1|cox2	YP_009115278.1|nad7	YP_009115279.1|nad9	YP_009115280.1|rps14	YP_009115281.1|cox1	YP_009115282.1|atp6	YP_009115283.1|rps10	YP_009115284.1|rps8	YP_009115285.1|rpl6	YP_009115286.1|rps2	YP_009115287.1|rps4	YP_009115289.1|rps12	YP_009115290.1|rps7	YP_009115291.1|rpl14	YP_009115292.1|rpl5	YP_009115293.1|nad1	YP_009115295.1|orf147	YP_009115297.1|rpl2	YP_009115298.1|rps19	YP_009115299.1|rps3	YP_009115300.1|rpl16	YP_009115301.1|atp9	YP_009115302.1|nad4L	YP_009115303.1|nad11
-TTT	30	64	23	52	53	5	27	10	17	14	15	11	39	23	8	6	8	9	10	1	4	2	13	24	9	6	7	18	4	2	5	46
-TTC	6	8	2	8	4	0	4	3	3	1	0	0	6	7	2	1	3	1	2	0	1	2	4	4	2	1	1	5	2	4	2	7
-TTA	27	50	20	55	53	16	22	14	28	23	13	12	38	29	7	6	12	13	18	11	4	5	10	31	13	8	1	17	1	10	10	55
-TTG	3	14	6	8	16	2	1	1	2	8	2	3	3	3	0	0	2	2	4	1	4	0	5	3	3	3	0	5	1	0	1	6
-TCT	9	26	7	20	11	5	7	1	7	5	3	2	5	9	2	4	7	3	3	1	0	5	3	8	1	8	1	9	1	1	3	12
-TCC	0	1	1	3	1	0	0	1	0	2	1	2	0	1	3	0	1	0	0	1	2	1	0	0	0	2	2	0	2	0	0	6
-TCA	5	8	5	11	4	3	1	4	8	5	2	3	13	5	2	5	3	5	4	2	2	4	2	7	6	8	2	6	5	1	1	18
-TCG	0	2	1	2	2	0	0	1	1	1	1	0	1	1	0	0	1	0	1	0	1	1	0	0	0	2	0	0	0	0	0	3
-TAT	16	34	11	29	22	2	10	5	9	11	8	1	15	4	4	6	6	7	10	5	5	2	5	9	7	6	2	13	1	0	2	24
-TAC	6	5	1	4	3	1	2	1	1	6	3	1	6	5	0	1	3	3	3	2	1	0	3	5	2	2	0	3	0	0	1	4
-TGT	4	7	1	6	2	1	1	1	2	6	2	1	2	1	0	1	1	0	0	1	0	1	1	1	0	1	0	1	1	1	0	12
-TGC	1	2	0	2	1	0	0	2	2	1	0	0	0	0	0	1	1	0	0	2	0	0	1	2	0	0	0	0	0	0	1	4
-TGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-TGG	10	8	1	4	7	0	12	4	6	4	4	2	12	2	0	3	0	1	2	0	1	0	0	7	1	2	1	2	2	0	0	6
-CTT	4	14	6	13	13	2	3	4	6	8	7	2	15	5	0	1	3	2	2	2	1	3	4	8	3	4	1	9	3	1	0	12
-CTC	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	1	0	0	0	0	1	1	0	1	0
-CTA	6	9	4	8	5	2	2	2	3	2	1	2	6	5	0	2	1	5	4	2	5	0	3	7	3	3	1	5	4	5	5	12
-CTG	0	0	2	1	2	0	1	0	0	2	0	0	1	1	0	0	0	2	0	0	0	0	0	1	0	1	0	0	0	0	0	2
-CCT	13	5	2	3	7	0	5	2	4	6	1	0	5	4	1	1	3	0	2	3	0	3	4	6	1	8	1	1	2	0	1	7
-CCC	0	0	0	1	1	1	0	0	0	2	0	0	0	0	1	0	1	0	2	1	1	0	1	0	1	0	1	0	1	0	0	0
-CCA	11	6	1	4	9	0	1	1	6	7	5	0	13	4	0	2	2	5	4	3	0	0	3	9	2	7	0	3	2	1	0	8
-CCG	1	2	0	0	0	0	2	0	0	2	0	0	2	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1
-CAT	12	13	0	5	4	1	14	0	4	12	1	3	11	1	2	0	3	6	7	1	2	0	4	1	1	6	3	7	1	0	0	11
-CAC	1	2	1	0	1	0	0	1	3	2	0	0	8	2	2	0	0	1	1	1	0	0	0	1	0	2	1	2	0	0	0	2
-CAA	7	6	4	5	7	4	4	1	6	9	4	1	1	7	6	3	3	4	12	3	10	5	2	6	5	7	1	16	3	1	2	24
-CAG	1	6	3	1	1	0	0	0	2	4	2	0	5	0	1	0	1	0	1	0	1	0	1	0	1	0	0	1	1	0	0	5
-CGT	1	1	0	0	4	0	1	0	1	2	0	3	0	0	0	0	1	0	3	1	2	0	0	0	0	0	0	0	1	0	1	3
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0
-CGA	2	4	0	3	1	3	0	2	0	5	1	2	2	1	1	3	1	2	1	3	4	1	3	4	0	2	1	0	3	0	0	5
-CGG	0	0	0	2	1	1	1	0	0	3	1	0	1	0	0	0	0	0	2	2	0	0	1	0	0	1	0	2	1	0	0	2
-ATT	31	40	10	29	37	5	14	9	15	21	6	5	30	19	7	14	6	17	10	5	6	9	8	25	5	18	5	9	8	6	13	33
-ATC	2	3	0	4	6	0	1	1	2	2	1	1	7	2	0	3	5	2	0	0	1	1	1	2	0	3	0	2	0	1	2	4
-ATA	9	21	6	11	8	4	4	4	5	8	4	1	7	11	2	5	12	9	7	2	7	6	4	9	6	7	3	18	4	1	8	18
-ATG	12	20	5	16	10	1	5	3	7	15	2	0	21	3	1	3	1	3	4	1	3	2	2	8	2	2	2	2	2	3	3	13
-ACT	14	20	4	14	20	1	13	2	11	12	7	3	24	11	2	1	4	5	1	3	3	4	5	6	6	6	2	9	6	2	3	25
-ACC	0	3	0	1	0	0	1	1	1	0	2	0	2	4	0	0	4	1	2	1	0	0	1	1	2	3	1	3	0	0	2	3
-ACA	6	16	1	8	10	2	7	0	4	10	1	3	3	4	2	1	6	6	6	3	3	1	5	10	5	6	0	8	2	1	1	15
-ACG	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	2	2	2	0	0	1	5	0	1	1	0	5	1	0	0	1
-AAT	11	20	10	9	13	7	4	2	12	13	10	9	13	10	6	7	7	18	13	5	6	5	11	12	12	11	7	19	4	1	4	45
-AAC	2	3	3	3	1	0	3	0	6	3	3	3	5	4	0	4	2	5	7	2	4	1	4	3	5	7	2	13	2	0	2	30
-AAA	7	24	5	21	11	14	6	4	4	24	11	17	8	8	11	18	31	45	33	19	27	23	22	8	15	36	11	57	20	2	5	58
-AAG	1	6	2	4	4	3	3	0	2	5	1	2	0	0	2	2	1	3	3	6	7	1	3	0	4	3	2	6	1	1	1	10
-AGT	8	12	2	23	11	0	7	0	6	2	2	0	5	6	2	1	3	5	3	1	1	2	3	6	1	4	3	5	0	1	1	15
-AGC	1	1	1	6	6	1	1	0	4	1	2	3	5	3	0	1	1	5	2	0	2	1	2	4	0	2	2	4	0	0	1	6
-AGA	7	8	2	2	4	4	3	2	4	8	7	2	5	0	3	2	2	3	8	5	0	6	2	4	1	10	2	6	3	1	2	13
-AGG	0	0	0	0	1	0	0	0	1	1	0	1	0	0	0	0	0	0	3	0	0	0	0	1	0	1	0	1	0	0	0	0
-GTT	11	29	14	24	15	2	16	4	5	9	9	2	13	9	1	2	6	1	4	5	2	3	2	11	2	6	1	7	6	1	3	14
-GTC	0	2	0	0	2	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	1	0	0	1	0	0	0	1	0	0	0	2
-GTA	19	9	3	10	10	0	8	2	10	12	7	0	16	6	0	0	2	2	3	2	2	6	4	9	2	0	3	9	2	1	3	15
-GTG	0	8	3	3	5	0	4	1	0	2	1	1	2	2	1	0	1	0	2	0	0	1	0	1	1	1	0	3	0	0	0	3
-GCT	9	31	6	21	14	3	8	5	8	10	3	1	16	5	0	0	1	3	3	2	4	2	2	10	1	2	0	1	3	2	1	7
-GCC	0	2	0	0	2	1	1	1	1	2	0	0	1	0	0	1	1	0	0	1	1	0	0	1	0	3	2	2	0	3	1	1
-GCA	13	7	3	9	9	2	10	2	3	7	2	1	18	4	1	1	2	3	3	0	6	2	1	15	2	5	1	9	5	8	4	11
-GCG	3	6	1	2	2	0	1	0	0	4	0	0	2	0	0	0	0	1	1	0	0	0	0	1	0	0	0	2	0	1	1	0
-GAT	11	17	5	10	7	4	4	8	9	17	4	1	10	4	0	2	1	6	3	2	1	1	3	3	3	3	1	3	2	0	1	26
-GAC	2	2	1	0	0	0	2	0	1	2	1	0	1	0	0	2	2	2	2	0	0	1	0	2	1	2	0	1	0	1	2	9
-GAA	5	8	4	8	12	1	5	5	7	19	9	3	6	8	3	4	8	6	7	2	6	3	8	10	3	7	4	11	4	1	1	29
-GAG	2	5	2	7	2	4	1	3	4	9	7	0	2	1	0	1	2	1	0	1	2	0	1	0	3	2	1	2	0	1	1	3
-GGT	13	33	4	11	15	6	8	2	6	8	4	2	17	5	0	3	2	1	1	0	0	2	1	10	0	7	1	5	4	3	1	10
-GGC	2	2	1	2	3	0	0	1	0	1	1	0	1	0	0	0	1	0	1	0	0	0	1	2	0	5	0	1	2	0	1	5
-GGA	7	13	0	6	11	0	7	1	4	12	0	1	21	3	0	3	3	2	4	6	2	6	4	5	2	9	2	7	7	5	0	12
-GGG	5	5	1	6	6	0	5	1	2	6	1	1	6	1	0	1	3	0	1	3	2	1	0	3	0	4	2	0	3	1	2	7
-TAA	0	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1
-TAG	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cob	YP_009115268.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	30	6	27	3	9	0	5	0	16	6	4	1	0	10	4	0	6	0	13	0	11	1	12	1	7	1	1	0	2	0	31	2	9	12	14	0	6	0	11	2	7	1	8	1	7	0	11	0	19	0	9	0	13	3	11	2	5	2	13	2	7	5	0	1
+1	nad5	YP_009115269.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	64	8	50	14	26	1	8	2	34	5	7	2	0	8	14	0	9	0	5	0	6	2	13	2	6	6	1	0	4	0	40	3	21	20	20	3	16	2	20	3	24	6	12	1	8	0	29	2	9	8	31	2	7	6	17	2	8	5	33	2	13	5	1	0
+2	nad6	YP_009115270.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	23	2	20	6	7	1	5	1	11	1	1	0	0	1	6	0	4	2	2	0	1	0	0	1	4	3	0	0	0	0	10	0	6	5	4	0	1	0	10	3	5	2	2	1	2	0	14	0	3	3	6	0	3	1	5	1	4	2	4	1	0	1	1	0
+3	nad2	YP_009115271.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	52	8	55	8	20	3	11	2	29	4	6	2	0	4	13	1	8	1	3	1	4	0	5	0	5	1	0	0	3	2	29	4	11	16	14	1	8	0	9	3	21	4	23	6	2	0	24	0	10	3	21	0	9	2	10	0	8	7	11	2	6	6	0	1
+4	nad4	YP_009115273.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	53	4	53	16	11	1	4	2	22	3	2	1	0	7	13	0	5	2	7	1	9	0	4	1	7	1	4	0	1	1	37	6	8	10	20	0	10	0	13	1	11	4	11	6	4	1	15	2	10	5	14	2	9	2	7	0	12	2	15	3	11	6	1	0
+5	rps13	YP_009115274.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	5	0	16	2	5	0	3	0	2	1	1	0	0	0	2	0	2	0	0	1	0	0	1	0	4	0	0	0	3	1	5	0	4	1	1	0	2	1	7	0	14	3	0	1	4	0	2	0	0	0	3	1	2	0	4	0	1	4	6	0	0	0	1	0
+6	cox3	YP_009115275.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	27	4	22	1	7	0	1	0	10	2	1	0	0	12	3	0	2	1	5	0	1	2	14	0	4	0	1	0	0	1	14	1	4	5	13	1	7	1	4	3	6	3	7	1	3	0	16	0	8	4	8	1	10	1	4	2	5	1	8	0	7	5	0	1
+7	nad3	YP_009115276.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	10	3	14	1	1	1	4	1	5	1	1	2	0	4	4	0	2	0	2	0	1	0	0	1	1	0	0	0	2	0	9	1	4	3	2	1	0	0	2	0	4	0	0	0	2	0	4	1	2	1	5	1	2	0	8	0	5	3	2	1	1	1	1	0
+8	cox2	YP_009115277.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	17	3	28	2	7	0	8	1	9	1	2	2	0	6	6	0	3	0	4	0	6	0	4	3	6	2	1	0	0	0	15	2	5	7	11	1	4	0	12	6	4	2	6	4	4	1	5	0	10	0	8	1	3	0	9	1	7	4	6	0	4	2	1	0
+9	nad7	YP_009115278.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	14	1	23	8	5	2	5	1	11	6	6	1	0	4	8	0	2	2	6	2	7	2	12	2	9	4	2	0	5	3	21	2	8	15	12	0	10	0	13	3	24	5	2	1	8	1	9	0	12	2	10	2	7	4	17	2	19	9	8	1	12	6	1	0
+10	nad9	YP_009115279.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	15	0	13	2	3	1	2	1	8	3	2	0	0	4	7	0	1	0	1	0	5	0	1	0	4	2	0	0	1	1	6	1	4	2	7	2	1	0	10	3	11	1	2	2	7	0	9	0	7	1	3	0	2	0	4	1	9	7	4	1	0	1	0	1
+11	rps14	YP_009115280.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	11	0	12	3	2	2	3	0	1	1	1	0	0	2	2	1	2	0	0	0	0	0	3	0	1	0	3	0	2	0	5	1	1	0	3	0	3	0	9	3	17	2	0	3	2	1	2	1	0	1	1	0	1	0	1	0	3	0	2	0	1	1	1	0
+12	cox1	YP_009115281.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	39	6	38	3	5	0	13	1	15	6	2	0	0	12	15	0	6	1	5	0	13	2	11	8	1	5	0	0	2	1	30	7	7	21	24	2	3	0	13	5	8	0	5	5	5	0	13	0	16	2	16	1	18	2	10	1	6	2	17	1	21	6	1	0
+13	atp6	YP_009115282.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	23	7	29	3	9	1	5	1	4	5	1	0	0	2	5	0	5	1	4	0	4	0	1	2	7	0	0	0	1	0	19	2	11	3	11	4	4	0	10	4	8	0	6	3	0	0	9	0	6	2	5	0	4	0	4	0	8	1	5	0	3	1	1	0
+14	rps10	YP_009115283.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	8	2	7	0	2	3	2	0	4	0	0	0	0	0	0	0	0	0	1	1	0	0	2	2	6	1	0	0	1	0	7	0	2	1	2	0	2	0	6	0	11	2	2	0	3	0	1	0	0	1	0	0	1	0	0	0	3	0	0	0	0	0	1	0
+15	rps8	YP_009115284.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	6	1	6	0	4	0	5	0	6	1	1	1	0	3	1	0	2	0	1	0	2	0	0	0	3	0	0	1	3	0	14	3	5	3	1	0	1	0	7	4	18	2	1	1	2	0	2	0	0	0	0	1	1	0	2	2	4	1	3	0	3	1	1	0
+16	rpl6	YP_009115285.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	8	3	12	2	7	1	3	1	6	3	1	1	0	0	3	1	1	0	3	1	2	0	3	0	3	1	1	0	1	0	6	5	12	1	4	4	6	2	7	2	31	1	3	1	2	0	6	1	2	1	1	1	2	0	1	2	8	2	2	1	3	3	1	0
+17	rps2	YP_009115286.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	9	1	13	2	3	0	5	0	7	3	0	0	0	1	2	1	5	2	0	0	5	0	6	1	4	0	0	0	2	0	17	2	9	3	5	1	6	2	18	5	45	3	5	5	3	0	1	1	2	0	3	0	3	1	6	2	6	1	1	0	2	0	0	1
+18	rps4	YP_009115287.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	10	2	18	4	3	0	4	1	10	3	0	0	0	2	2	1	4	0	2	2	4	0	7	1	12	1	3	1	1	2	10	0	7	4	1	2	6	2	13	7	33	3	3	2	8	3	4	0	3	2	3	0	3	1	3	2	7	0	1	1	4	1	1	0
+19	rps12	YP_009115289.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	1	0	11	1	1	1	2	0	5	2	1	2	0	0	2	1	2	0	3	1	3	0	1	1	3	0	1	0	3	2	5	0	2	1	3	1	3	0	5	2	19	6	1	0	5	0	5	1	2	0	2	1	0	0	2	0	2	1	0	0	6	3	1	0
+20	rps7	YP_009115290.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	4	1	4	4	0	2	2	1	5	1	0	0	0	1	1	0	5	0	0	1	0	1	2	0	10	1	2	0	4	0	6	1	7	3	3	0	3	0	6	4	27	7	1	2	0	0	2	1	2	0	4	1	6	0	1	0	6	2	0	0	2	2	1	0
+21	rpl14	YP_009115291.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	2	2	5	0	5	1	4	1	2	0	1	0	0	0	3	0	0	0	3	0	0	0	0	0	5	0	0	0	1	0	9	1	6	2	4	0	1	1	5	1	23	1	2	1	6	0	3	0	6	1	2	0	2	0	1	1	3	0	2	0	6	1	1	0
+22	rpl5	YP_009115292.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	13	4	10	5	3	0	2	0	5	3	1	1	0	0	4	1	3	0	4	1	3	0	4	0	2	1	0	1	3	1	8	1	4	2	5	1	5	5	11	4	22	3	3	2	2	0	2	0	4	0	2	0	1	0	3	0	8	1	1	1	4	0	0	1
+23	nad1	YP_009115293.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	24	4	31	3	8	0	7	0	9	5	1	2	0	7	8	0	7	1	6	0	9	1	1	1	6	0	0	0	4	0	25	2	9	8	6	1	10	0	12	3	8	0	6	4	4	1	11	1	9	1	10	1	15	1	3	2	10	0	10	2	5	3	1	0
+24	orf147	YP_009115295.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	9	2	13	3	1	0	6	0	7	2	0	0	1	1	3	0	3	0	1	1	2	0	1	0	5	1	0	0	0	0	5	0	6	2	6	2	5	1	12	5	15	4	1	0	1	0	2	0	2	1	1	0	2	0	3	1	3	3	0	0	2	0	1	0
+25	rpl2	YP_009115297.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	6	1	8	3	8	2	8	2	6	2	1	0	0	2	4	0	3	1	8	0	7	1	6	2	7	0	0	1	2	1	18	3	7	2	6	3	6	1	11	7	36	3	4	2	10	1	6	0	0	1	2	3	5	0	3	2	7	2	7	5	9	4	1	0
+26	rps19	YP_009115298.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	7	1	1	0	1	2	2	0	2	0	0	0	0	1	1	0	1	0	1	1	0	0	3	1	1	0	0	0	1	0	5	0	3	2	2	1	0	0	7	2	11	2	3	2	2	0	1	0	3	0	0	2	1	0	1	0	4	1	1	0	2	2	1	0
+27	rps3	YP_009115299.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	18	5	17	5	9	0	6	0	13	3	1	0	0	2	9	1	5	0	1	0	3	0	7	2	16	1	0	0	0	2	9	2	18	2	9	3	8	5	19	13	57	6	5	4	6	1	7	1	9	3	1	2	9	2	3	1	11	2	5	1	7	0	1	0
+28	rpl16	YP_009115300.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	4	2	1	1	1	2	5	0	1	0	1	0	0	2	3	1	4	0	2	1	2	0	1	0	3	1	1	0	3	1	8	0	4	2	6	0	2	1	4	2	20	1	0	0	3	0	6	0	2	0	3	0	5	0	2	0	4	0	4	2	7	3	1	0
+29	atp9	YP_009115301.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	2	4	10	0	1	0	1	0	0	0	1	0	0	0	1	0	5	0	0	0	1	0	0	0	1	0	0	0	0	0	6	1	1	3	2	0	1	0	1	0	2	1	1	0	1	0	1	0	1	0	2	3	8	1	0	1	1	1	3	0	5	1	1	0
+30	nad4L	YP_009115302.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	5	2	10	1	3	0	1	0	2	1	0	1	0	0	0	1	5	0	1	0	0	0	0	0	2	0	1	0	0	0	13	2	8	3	3	2	1	0	4	2	5	1	1	1	2	0	3	0	3	0	1	1	4	1	1	2	1	1	1	1	0	2	1	0
+31	nad11	YP_009115303.1	Berkeleya fennica	Eukaryota, Stramenopiles, Bacillariophyta, Bacillariophyceae, Bacillariophycidae, Naviculales, Berkeleyaceae, Berkeleya	46	7	55	6	12	6	18	3	24	4	12	4	0	6	12	0	12	2	7	0	8	1	11	2	24	5	3	0	5	2	33	4	18	13	25	3	15	1	45	30	58	10	15	6	13	0	14	2	15	3	7	1	11	0	26	9	29	3	10	5	12	7	1	0

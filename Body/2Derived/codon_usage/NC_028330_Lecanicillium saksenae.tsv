@@ -1,65 +1,16 @@
-	YP_009178754.1	YP_009178755.1	YP_009178756.1	YP_009178757.1	YP_009178758.1	YP_009178759.1	YP_009178760.1	YP_009178761.1	YP_009178762.1	YP_009178763.1	YP_009178764.1	YP_009178765.1	YP_009178766.1	YP_009178767.1	YP_009178768.1
-TTT	22	26	15	2	10	4	37	14	18	17	26	3	12	13	12
-TTC	4	13	4	3	6	1	25	16	27	14	18	2	7	13	3
-TTA	43	76	16	14	29	8	76	54	69	62	77	5	45	32	29
-TTG	0	2	1	0	0	2	0	0	2	0	0	0	1	0	0
-TCT	7	20	0	1	5	4	14	4	8	6	8	1	1	4	4
-TCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TCA	9	10	2	5	8	0	20	7	14	11	18	2	11	9	10
-TCG	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-TAT	25	30	9	2	12	4	31	13	18	15	25	2	9	9	12
-TAC	2	2	0	0	0	0	4	8	2	1	0	2	0	3	0
-TGT	0	2	2	0	4	0	4	1	1	3	4	0	2	1	0
-TGC	0	1	0	1	0	0	1	0	1	0	0	0	0	0	0
-TGA	4	5	0	0	6	0	8	7	14	5	3	0	1	8	4
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	2	8	1	0	0	3	2	2	1	2	1	0	0	0	1
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	3	5	0	0	0	1	0	0	0	0	0	0	1	0	0
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	4	9	3	1	9	0	14	7	17	7	10	2	2	6	3
-CCC	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0
-CCA	2	2	0	0	4	0	5	13	11	3	1	1	5	3	1
-CCG	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0
-CAT	6	7	2	0	7	0	11	8	10	2	2	0	4	11	1
-CAC	0	1	0	0	0	0	2	2	4	0	2	0	2	4	0
-CAA	10	9	5	2	7	1	13	9	10	8	7	1	7	3	3
-CAG	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
-CGT	6	1	0	0	0	0	3	2	0	1	0	2	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	17	35	5	0	8	7	26	9	24	10	16	3	4	4	7
-ATC	0	4	1	2	2	1	6	6	6	5	9	1	7	1	0
-ATA	32	38	11	3	16	13	61	24	22	34	38	4	25	20	25
-ATG	4	9	1	3	7	3	18	14	20	11	10	3	6	5	6
-ACT	11	34	1	1	4	1	13	7	9	6	2	0	1	6	1
-ACC	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-ACA	13	8	5	1	5	2	26	10	18	11	27	1	14	17	13
-ACG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-AAT	55	27	9	1	10	3	23	15	14	15	18	2	12	5	20
-AAC	3	6	0	1	2	0	6	5	7	0	2	0	5	3	2
-AAA	61	22	5	2	5	2	19	10	11	7	12	2	5	3	3
-AAG	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-AGT	14	28	6	0	5	3	29	11	22	11	21	0	7	7	9
-AGC	0	1	0	0	1	0	1	0	0	0	0	0	2	1	1
-AGA	20	6	2	1	5	3	6	8	11	8	9	1	4	4	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	4	16	1	3	7	1	13	8	15	2	6	1	3	6	1
-GTC	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-GTA	7	16	6	3	6	4	27	18	17	18	26	4	10	13	12
-GTG	3	1	0	0	1	0	0	0	0	1	0	0	1	0	0
-GCT	5	12	2	5	12	4	21	20	23	21	13	0	6	9	1
-GCC	1	2	2	1	1	1	1	0	2	1	2	0	1	0	0
-GCA	1	6	2	5	2	2	13	9	13	7	11	2	5	8	5
-GCG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-GAT	9	14	2	0	10	1	16	6	13	8	12	0	4	2	2
-GAC	1	0	0	0	4	1	1	2	1	0	1	0	0	3	1
-GAA	11	12	6	1	13	2	13	8	6	13	13	1	6	8	5
-GAG	0	1	0	0	1	1	0	1	0	0	0	0	1	0	0
-GGT	9	12	9	2	9	1	31	13	24	13	15	0	9	14	7
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGA	2	14	2	8	5	4	16	14	29	6	14	0	11	9	5
-GGG	0	1	0	0	0	1	1	0	2	1	1	0	0	0	0
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009178754.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	22	4	43	0	7	0	9	0	25	2	0	0	4	0	2	0	3	0	4	0	2	1	6	0	10	0	6	0	0	0	17	0	32	4	11	0	13	0	55	3	61	4	14	0	20	0	4	0	7	3	5	1	1	0	9	1	11	0	9	0	2	0	1	0
+1	None	YP_009178755.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	26	13	76	2	20	0	10	1	30	2	2	1	5	0	8	0	5	0	9	0	2	0	7	1	9	1	1	0	0	0	35	4	38	9	34	1	8	0	27	6	22	0	28	1	6	0	16	0	16	1	12	2	6	0	14	0	12	1	12	0	14	1	1	0
+2	None	YP_009178756.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	15	4	16	1	0	0	2	0	9	0	2	0	0	0	1	0	0	0	3	0	0	0	2	0	5	0	0	0	0	0	5	1	11	1	1	0	5	0	9	0	5	1	6	0	2	0	1	0	6	0	2	2	2	0	2	0	6	0	9	0	2	0	1	0
+3	None	YP_009178757.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	2	3	14	0	1	0	5	0	2	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	2	3	3	1	0	1	0	1	1	2	0	0	0	1	0	3	0	3	0	5	1	5	0	0	0	1	0	2	0	8	0	1	0
+4	None	YP_009178758.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	10	6	29	0	5	0	8	1	12	0	4	0	6	0	0	0	0	0	9	0	4	0	7	0	7	0	0	0	0	0	8	2	16	7	4	0	5	0	10	2	5	0	5	1	5	0	7	0	6	1	12	1	2	0	10	4	13	1	9	0	5	0	1	0
+5	None	YP_009178759.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	4	1	8	2	4	0	0	0	4	0	0	0	0	0	3	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	7	1	13	3	1	0	2	0	3	0	2	0	3	0	3	0	1	0	4	0	4	1	2	0	1	1	2	1	1	0	4	1	1	0
+6	None	YP_009178760.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	37	25	76	0	14	0	20	0	31	4	4	1	8	0	2	0	0	0	14	1	5	0	11	2	13	0	3	0	0	0	26	6	61	18	13	0	26	1	23	6	19	0	29	1	6	0	13	0	27	0	21	1	13	1	16	1	13	0	31	0	16	1	1	0
+7	None	YP_009178761.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	14	16	54	0	4	0	7	0	13	8	1	0	7	0	2	0	0	0	7	0	13	1	8	2	9	0	2	0	0	0	9	6	24	14	7	0	10	0	15	5	10	0	11	0	8	0	8	0	18	0	20	0	9	0	6	2	8	1	13	0	14	0	1	0
+8	None	YP_009178762.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	18	27	69	2	8	0	14	0	18	2	1	1	14	0	1	0	0	0	17	0	11	0	10	4	10	0	0	0	0	0	24	6	22	20	9	0	18	0	14	7	11	0	22	0	11	0	15	0	17	0	23	2	13	0	13	1	6	0	24	0	29	2	1	0
+9	None	YP_009178763.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	17	14	62	0	6	0	11	0	15	1	3	0	5	0	2	0	0	0	7	1	3	0	2	0	8	0	1	0	0	0	10	5	34	11	6	0	11	0	15	0	7	0	11	0	8	0	2	0	18	1	21	1	7	0	8	0	13	0	13	0	6	1	1	0
+10	None	YP_009178764.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	26	18	77	0	8	0	18	0	25	0	4	0	3	0	1	0	0	0	10	1	1	0	2	2	7	0	0	0	0	0	16	9	38	10	2	0	27	0	18	2	12	0	21	0	9	0	6	1	26	0	13	2	11	0	12	1	13	0	15	0	14	1	1	0
+11	None	YP_009178765.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	3	2	5	0	1	0	2	0	2	2	0	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	2	0	0	0	3	1	4	3	0	0	1	0	2	0	2	0	0	0	1	0	1	0	4	0	0	0	2	0	0	0	1	0	0	0	0	0	1	0
+12	None	YP_009178766.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	12	7	45	1	1	0	11	0	9	0	2	0	1	0	0	0	1	0	2	1	5	0	4	2	7	0	0	0	0	0	4	7	25	6	1	0	14	0	12	5	5	0	7	2	4	0	3	0	10	1	6	1	5	0	4	0	6	1	9	0	11	0	1	0
+13	None	YP_009178767.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	13	13	32	0	4	0	9	0	9	3	1	0	8	0	0	0	0	0	6	0	3	1	11	4	3	1	0	0	0	0	4	1	20	5	6	0	17	0	5	3	3	0	7	1	4	0	6	0	13	0	9	0	8	0	2	3	8	0	14	0	9	0	1	0
+14	None	YP_009178768.1	Lecanicillium saksenae	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Lecanicillium	12	3	29	0	4	0	10	0	12	0	0	0	4	0	1	0	0	0	3	0	1	0	1	0	3	0	0	0	0	0	7	0	25	6	1	0	13	0	20	2	3	0	9	1	1	0	1	0	12	0	1	0	5	0	2	1	5	0	7	0	5	0	1	0

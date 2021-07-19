@@ -1,65 +1,13 @@
-	YP_009424346.1|ND1	YP_009424347.1|ND2	YP_009424348.1|COX1	YP_009424349.1|COX2	YP_009424350.1|ATP8	YP_009424351.1|ATP6	YP_009424352.1|COX3	YP_009424353.1|ND3	YP_009424354.1|ND4L	YP_009424355.1|ND4	YP_009424356.1|ND5	YP_009424358.1|CYTB
-TTT	6	5	23	2	2	9	9	6	3	10	13	11
-TTC	14	9	19	5	2	4	12	3	3	8	29	19
-TTA	12	11	14	9	5	8	7	5	5	19	16	8
-TTG	0	0	1	1	1	1	1	0	1	3	0	1
-TCT	3	4	7	4	1	1	4	1	6	4	8	2
-TCC	7	4	8	0	2	5	5	2	4	13	16	7
-TCA	11	16	17	8	4	4	10	2	1	11	21	12
-TCG	1	0	0	1	1	0	0	0	0	1	0	0
-TAT	9	3	12	7	1	0	7	2	1	7	9	7
-TAC	6	7	8	3	0	2	5	1	1	6	9	8
-TGT	0	0	0	0	0	0	0	0	1	0	5	0
-TGC	1	0	1	2	0	0	2	1	2	3	2	3
-TGA	8	7	17	5	3	3	11	4	0	13	13	12
-TGG	1	1	0	0	0	0	1	0	0	0	1	0
-CTT	7	12	15	7	1	8	4	4	0	18	12	16
-CTC	6	13	8	3	0	4	9	5	4	15	16	9
-CTA	31	24	21	12	1	18	12	5	10	29	43	20
-CTG	0	1	1	0	0	1	2	1	0	3	2	1
-CCT	8	3	11	3	2	2	4	1	1	1	5	3
-CCC	7	8	3	2	2	2	2	3	0	6	10	5
-CCA	6	10	14	9	2	9	4	2	1	14	11	14
-CCG	1	1	0	0	1	1	0	1	0	0	0	0
-CAT	2	4	7	2	0	3	9	0	0	4	6	5
-CAC	3	3	11	4	0	6	9	0	1	7	6	8
-CAA	6	12	6	6	5	6	7	3	2	11	13	6
-CAG	0	0	0	0	0	0	0	0	0	0	0	0
-CGT	0	0	2	2	0	1	1	1	0	0	3	2
-CGC	1	1	1	2	0	1	0	0	1	2	2	2
-CGA	7	2	5	2	0	3	4	0	0	7	4	4
-CGG	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	13	12	25	7	3	17	7	11	2	24	39	16
-ATC	16	31	11	12	3	12	11	3	3	31	32	25
-ATA	17	22	25	10	2	14	7	3	7	28	38	11
-ATG	1	0	4	4	1	1	1	0	1	6	0	2
-ACT	5	6	8	2	1	4	5	0	5	9	19	5
-ACC	8	12	8	2	0	6	1	0	2	9	8	10
-ACA	8	15	20	13	5	10	12	8	3	20	26	13
-ACG	0	2	0	1	1	1	1	2	0	0	1	0
-AAT	7	5	9	4	0	2	3	2	2	9	13	5
-AAC	4	16	7	4	1	6	3	3	4	15	21	12
-AAA	6	12	10	5	6	4	3	3	1	13	23	10
-AAG	0	0	0	0	0	1	1	0	0	0	2	0
-AGT	1	0	0	1	0	0	1	0	0	5	4	0
-AGC	3	5	3	5	0	5	2	2	0	6	9	1
-GTT	2	3	10	5	1	1	2	0	0	2	2	3
-GTC	4	3	7	1	0	0	6	4	0	2	5	6
-GTA	6	4	21	6	1	9	6	1	6	6	7	12
-GTG	1	0	2	2	0	0	1	0	0	0	1	0
-GCT	5	1	13	5	1	3	2	0	1	6	9	5
-GCC	8	8	11	2	1	8	4	4	2	10	18	8
-GCA	10	7	16	2	1	4	9	5	3	13	10	10
-GCG	1	2	1	0	0	0	0	0	0	1	0	0
-GAT	0	0	8	2	1	1	3	0	0	1	2	5
-GAC	4	0	8	9	0	1	1	2	1	3	9	6
-GAA	11	5	8	12	2	4	7	6	1	9	8	6
-GAG	1	0	1	2	0	0	0	0	1	0	2	0
-GGT	0	2	8	0	0	3	3	0	1	3	1	0
-GGC	8	3	7	5	0	2	5	1	1	7	9	9
-GGA	3	7	25	3	0	3	12	2	1	5	13	15
-GGG	1	1	6	0	0	2	1	0	2	1	2	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009424346.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	6	14	12	0	3	7	11	1	9	6	0	1	8	1	7	6	31	0	8	7	6	1	2	3	6	0	0	1	7	0	13	16	17	1	5	8	8	0	7	4	6	0	1	3	2	4	6	1	5	8	10	1	0	4	11	1	0	8	3	1	0	0	0	0
+1	ND2	YP_009424347.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	5	9	11	0	4	4	16	0	3	7	0	0	7	1	12	13	24	1	3	8	10	1	4	3	12	0	0	1	2	0	12	31	22	0	6	12	15	2	5	16	12	0	0	5	3	3	4	0	1	8	7	2	0	0	5	0	2	3	7	1	0	0	0	0
+2	COX1	YP_009424348.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	23	19	14	1	7	8	17	0	12	8	0	1	17	0	15	8	21	1	11	3	14	0	7	11	6	0	2	1	5	0	25	11	25	4	8	8	20	0	9	7	10	0	0	3	10	7	21	2	13	11	16	1	8	8	8	1	8	7	25	6	1	0	0	0
+3	COX2	YP_009424349.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	2	5	9	1	4	0	8	1	7	3	0	2	5	0	7	3	12	0	3	2	9	0	2	4	6	0	2	2	2	0	7	12	10	4	2	2	13	1	4	4	5	0	1	5	5	1	6	2	5	2	2	0	2	9	12	2	0	5	3	0	1	0	0	0
+4	ATP8	YP_009424350.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	2	2	5	1	1	2	4	1	1	0	0	0	3	0	1	0	1	0	2	2	2	1	0	0	5	0	0	0	0	0	3	3	2	1	1	0	5	1	0	1	6	0	0	0	1	0	1	0	1	1	1	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009424351.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	9	4	8	1	1	5	4	0	0	2	0	0	3	0	8	4	18	1	2	2	9	1	3	6	6	0	1	1	3	0	17	12	14	1	4	6	10	1	2	6	4	1	0	5	1	0	9	0	3	8	4	0	1	1	4	0	3	2	3	2	1	0	0	0
+6	COX3	YP_009424352.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	9	12	7	1	4	5	10	0	7	5	0	2	11	1	4	9	12	2	4	2	4	0	9	9	7	0	1	0	4	0	7	11	7	1	5	1	12	1	3	3	3	1	1	2	2	6	6	1	2	4	9	0	3	1	7	0	3	5	12	1	0	0	0	0
+7	ND3	YP_009424353.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	6	3	5	0	1	2	2	0	2	1	0	1	4	0	4	5	5	1	1	3	2	1	0	0	3	0	1	0	0	0	11	3	3	0	0	0	8	2	2	3	3	0	0	2	0	4	1	0	0	4	5	0	0	2	6	0	0	1	2	0	0	1	0	0
+8	ND4L	YP_009424354.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	3	3	5	1	6	4	1	0	1	1	1	2	0	0	0	4	10	0	1	0	1	0	0	1	2	0	0	1	0	0	2	3	7	1	5	2	3	0	2	4	1	0	0	0	0	0	6	0	1	2	3	0	0	1	1	1	1	1	1	2	1	0	0	0
+9	ND4	YP_009424355.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	10	8	19	3	4	13	11	1	7	6	0	3	13	0	18	15	29	3	1	6	14	0	4	7	11	0	0	2	7	0	24	31	28	6	9	9	20	0	9	15	13	0	5	6	2	2	6	0	6	10	13	1	1	3	9	0	3	7	5	1	0	0	0	0
+10	ND5	YP_009424356.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	13	29	16	0	8	16	21	0	9	9	5	2	13	1	12	16	43	2	5	10	11	0	6	6	13	0	3	2	4	1	39	32	38	0	19	8	26	1	13	21	23	2	4	9	2	5	7	1	9	18	10	0	2	9	8	2	1	9	13	2	1	0	0	0
+11	CYTB	YP_009424358.1	Leopoldamys sabanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Leopoldamys	11	19	8	1	2	7	12	0	7	8	0	3	12	0	16	9	20	1	3	5	14	0	5	8	6	0	2	2	4	0	16	25	11	2	5	10	13	0	5	12	10	0	0	1	3	6	12	0	5	8	10	0	5	6	6	0	0	9	15	1	0	0	0	0

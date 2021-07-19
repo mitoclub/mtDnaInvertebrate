@@ -1,65 +1,13 @@
-	YP_009311398.1|ND1	YP_009311399.1|ND2	YP_009311400.1|COX1	YP_009311401.1|COX2	YP_009311402.1|ATP8	YP_009311403.1|ATP6	YP_009311404.1|COX3	YP_009311405.1|ND3	YP_009311406.1|ND4L	YP_009311407.1|ND4	YP_009311408.1|ND5	YP_009311410.1|CYTB
-TTT	2	3	13	3	2	8	7	3	2	2	11	5
-TTC	13	6	27	6	1	3	16	6	6	14	29	24
-TTA	5	10	8	7	3	8	4	9	6	21	23	16
-TTG	0	0	0	0	0	1	0	0	0	2	0	0
-TCT	2	2	8	6	0	0	2	1	2	3	0	0
-TCC	3	5	2	3	1	1	2	2	2	6	11	7
-TCA	12	10	17	4	2	3	7	2	2	16	16	10
-TCG	1	0	0	0	0	0	0	0	0	0	0	1
-TAT	4	1	9	4	0	2	6	1	0	3	6	3
-TAC	8	7	10	5	0	4	6	1	0	9	5	11
-TGT	0	0	0	1	0	0	1	1	1	2	0	2
-TGC	0	1	1	1	0	0	1	0	2	2	5	1
-TGA	8	10	16	4	5	5	12	5	0	21	12	12
-TGG	0	1	1	1	0	0	0	0	1	0	1	0
-CTT	3	1	19	6	0	6	3	2	2	7	10	8
-CTC	10	4	8	0	1	6	4	3	1	10	9	9
-CTA	40	46	25	16	2	23	19	12	12	47	45	27
-CTG	2	0	4	1	0	3	2	0	2	0	3	2
-CCT	1	2	7	1	0	2	3	0	1	2	5	0
-CCC	6	4	4	2	1	1	1	1	1	1	2	4
-CCA	16	13	16	11	6	13	8	7	0	22	19	18
-CCG	1	0	1	0	1	1	0	0	0	1	1	1
-CAT	0	0	2	3	1	1	4	0	1	3	2	2
-CAC	5	6	17	5	1	2	12	1	3	10	12	10
-CAA	7	14	8	9	0	8	9	3	3	12	18	6
-CAG	0	0	0	0	1	0	0	0	0	3	2	0
-CGT	0	1	2	1	0	0	1	0	0	0	0	0
-CGC	1	0	1	2	0	0	1	0	1	2	1	1
-CGA	6	3	6	3	0	6	3	2	2	9	8	7
-CGG	1	0	0	0	0	0	0	0	0	0	1	0
-ATT	11	13	21	9	2	14	12	6	1	18	25	9
-ATC	14	17	18	10	3	9	5	4	1	22	29	26
-ATA	10	18	21	9	2	9	7	2	3	26	36	10
-ATG	4	1	2	3	1	1	2	1	1	2	2	2
-ACT	1	8	7	2	3	0	3	2	0	4	3	2
-ACC	10	20	7	4	0	3	5	1	5	17	25	11
-ACA	8	24	20	5	0	16	13	6	3	21	36	10
-ACG	0	0	2	1	0	0	0	0	1	0	0	0
-AAT	1	4	4	2	1	5	1	0	0	3	4	4
-AAC	12	7	11	6	2	5	0	3	2	7	27	13
-AAA	7	9	8	4	2	1	2	1	0	9	22	8
-AAG	0	0	0	0	1	0	0	0	0	1	1	1
-AGT	1	3	1	0	0	0	0	0	0	4	1	0
-AGC	2	5	4	3	1	5	3	0	3	3	11	1
-GTT	1	0	8	4	0	2	4	0	1	4	4	4
-GTC	1	0	3	4	0	4	2	1	0	3	5	5
-GTA	15	5	29	10	0	10	8	2	1	10	14	12
-GTG	3	1	2	0	0	1	1	0	0	2	0	2
-GCT	3	1	8	2	0	3	1	2	0	3	5	2
-GCC	11	16	21	4	2	8	12	2	6	14	25	8
-GCA	19	20	16	8	1	8	10	3	7	12	20	18
-GCG	0	0	0	1	0	0	0	0	0	1	1	0
-GAT	0	0	4	2	0	1	2	0	0	1	2	1
-GAC	4	2	10	9	2	0	3	4	1	2	9	10
-GAA	11	6	9	14	3	4	7	6	3	11	13	6
-GAG	0	0	2	1	0	0	3	0	0	0	0	0
-GGT	1	1	10	1	0	3	2	0	0	1	1	5
-GGC	0	3	4	0	0	0	6	3	3	5	5	2
-GGA	15	10	25	6	0	7	10	4	3	23	22	17
-GGG	2	4	7	1	0	1	3	1	0	1	2	1
-TAA	1	0	1	0	0	0	0	0	1	0	1	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311398.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	2	13	5	0	2	3	12	1	4	8	0	0	8	0	3	10	40	2	1	6	16	1	0	5	7	0	0	1	6	1	11	14	10	4	1	10	8	0	1	12	7	0	1	2	1	1	15	3	3	11	19	0	0	4	11	0	1	0	15	2	1	0	0	0
+1	ND2	YP_009311399.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	3	6	10	0	2	5	10	0	1	7	0	1	10	1	1	4	46	0	2	4	13	0	0	6	14	0	1	0	3	0	13	17	18	1	8	20	24	0	4	7	9	0	3	5	0	0	5	1	1	16	20	0	0	2	6	0	1	3	10	4	0	0	0	0
+2	COX1	YP_009311400.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	13	27	8	0	8	2	17	0	9	10	0	1	16	1	19	8	25	4	7	4	16	1	2	17	8	0	2	1	6	0	21	18	21	2	7	7	20	2	4	11	8	0	1	4	8	3	29	2	8	21	16	0	4	10	9	2	10	4	25	7	1	0	0	0
+3	COX2	YP_009311401.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	3	6	7	0	6	3	4	0	4	5	1	1	4	1	6	0	16	1	1	2	11	0	3	5	9	0	1	2	3	0	9	10	9	3	2	4	5	1	2	6	4	0	0	3	4	4	10	0	2	4	8	1	2	9	14	1	1	0	6	1	0	0	0	0
+4	ATP8	YP_009311402.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	2	1	3	0	0	1	2	0	0	0	0	0	5	0	0	1	2	0	0	1	6	1	1	1	0	1	0	0	0	0	2	3	2	1	3	0	0	0	1	2	2	1	0	1	0	0	0	0	0	2	1	0	0	2	3	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009311403.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	8	3	8	1	0	1	3	0	2	4	0	0	5	0	6	6	23	3	2	1	13	1	1	2	8	0	0	0	6	0	14	9	9	1	0	3	16	0	5	5	1	0	0	5	2	4	10	1	3	8	8	0	1	0	4	0	3	0	7	1	0	0	0	0
+6	COX3	YP_009311404.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	7	16	4	0	2	2	7	0	6	6	1	1	12	0	3	4	19	2	3	1	8	0	4	12	9	0	1	1	3	0	12	5	7	2	3	5	13	0	1	0	2	0	0	3	4	2	8	1	1	12	10	0	2	3	7	3	2	6	10	3	0	0	0	0
+7	ND3	YP_009311405.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	3	6	9	0	1	2	2	0	1	1	1	0	5	0	2	3	12	0	0	1	7	0	0	1	3	0	0	0	2	0	6	4	2	1	2	1	6	0	0	3	1	0	0	0	0	1	2	0	2	2	3	0	0	4	6	0	0	3	4	1	0	0	0	0
+8	ND4L	YP_009311406.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	2	6	6	0	2	2	2	0	0	0	1	2	0	1	2	1	12	2	1	1	0	0	1	3	3	0	0	1	2	0	1	1	3	1	0	5	3	1	0	2	0	0	0	3	1	0	1	0	0	6	7	0	0	1	3	0	0	3	3	0	1	0	0	0
+9	ND4	YP_009311407.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	2	14	21	2	3	6	16	0	3	9	2	2	21	0	7	10	47	0	2	1	22	1	3	10	12	3	0	2	9	0	18	22	26	2	4	17	21	0	3	7	9	1	4	3	4	3	10	2	3	14	12	1	1	2	11	0	1	5	23	1	0	0	0	0
+10	ND5	YP_009311408.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	11	29	23	0	0	11	16	0	6	5	0	5	12	1	10	9	45	3	5	2	19	1	2	12	18	2	0	1	8	1	25	29	36	2	3	25	36	0	4	27	22	1	1	11	4	5	14	0	5	25	20	1	2	9	13	0	1	5	22	2	1	0	0	0
+11	CYTB	YP_009311410.1	Albulichthys albuloides	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Albulichthys	5	24	16	0	0	7	10	1	3	11	2	1	12	0	8	9	27	2	0	4	18	1	2	10	6	0	0	1	7	0	9	26	10	2	2	11	10	0	4	13	8	1	0	1	4	5	12	2	2	8	18	0	1	10	6	0	5	2	17	1	1	0	0	0

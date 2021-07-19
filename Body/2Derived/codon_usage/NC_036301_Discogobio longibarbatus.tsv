@@ -1,65 +1,13 @@
-	YP_009442171.1|ND1	YP_009442172.1|ND2	YP_009442173.1|COX1	YP_009442174.1|COX2	YP_009442175.1|ATP8	YP_009442176.1|ATP6	YP_009442177.1|COX3	YP_009442178.1|ND3	YP_009442179.1|ND4L	YP_009442180.1|ND4	YP_009442181.1|ND5	YP_009442183.1|CYTB
-TTT	7	3	19	4	0	6	9	4	4	12	20	10
-TTC	10	7	21	4	3	6	14	5	4	6	21	20
-TTA	13	14	10	9	5	11	6	9	7	27	15	14
-TTG	0	1	1	0	0	0	0	0	1	0	3	0
-TCT	2	0	10	3	1	2	3	2	2	2	2	1
-TCC	2	8	3	6	2	1	3	3	3	6	9	8
-TCA	13	5	13	4	1	2	6	0	1	15	12	10
-TCG	1	1	1	0	0	0	0	0	0	1	3	1
-TAT	9	3	11	5	0	3	6	1	0	10	8	6
-TAC	3	5	8	4	0	2	6	1	0	4	4	8
-TGT	0	1	0	0	0	0	0	0	1	0	0	1
-TGC	0	0	1	2	0	0	2	1	2	5	5	2
-TGA	8	10	16	3	5	5	12	5	1	19	10	13
-TGG	0	1	1	2	0	0	0	0	0	0	3	0
-CTT	5	10	15	4	0	7	3	2	3	7	10	9
-CTC	10	7	13	2	0	7	8	5	2	15	23	7
-CTA	30	34	21	15	0	20	14	8	9	30	40	28
-CTG	4	1	3	0	0	2	1	1	1	6	3	3
-CCT	4	4	7	1	1	2	2	0	0	4	2	2
-CCC	10	8	5	1	1	3	2	5	1	4	6	6
-CCA	10	6	15	12	6	11	9	3	1	18	19	13
-CCG	0	2	1	0	0	1	0	0	0	1	1	0
-CAT	1	2	5	3	1	2	5	0	1	4	3	3
-CAC	4	4	14	7	1	1	11	1	3	8	12	9
-CAA	7	12	8	8	1	8	9	4	3	10	15	6
-CAG	0	2	0	0	0	0	0	0	0	4	3	0
-CGT	0	0	1	0	0	0	0	0	0	1	2	1
-CGC	1	1	1	2	0	0	0	1	3	2	1	1
-CGA	5	3	6	4	0	6	5	0	0	7	7	6
-CGG	2	0	0	0	0	0	0	1	0	1	0	0
-ATT	14	15	26	10	3	14	7	3	2	27	40	20
-ATC	10	11	12	8	2	7	10	5	0	13	16	10
-ATA	10	16	19	9	0	9	7	2	3	22	33	9
-ATG	1	4	6	3	1	1	1	1	2	3	4	4
-ACT	0	4	9	3	2	3	3	0	1	4	8	1
-ACC	7	24	5	6	2	4	5	4	2	15	23	10
-ACA	12	17	20	3	0	13	13	5	5	23	24	11
-ACG	0	2	2	0	0	0	0	0	0	0	3	1
-AAT	4	3	7	2	2	5	0	1	0	2	12	9
-AAC	9	6	8	4	1	5	1	2	2	10	16	8
-AAA	6	6	8	3	3	1	2	1	0	9	22	9
-AAG	1	3	0	1	0	0	0	0	0	1	1	0
-AGT	1	1	0	1	1	1	0	0	0	2	3	0
-AGC	2	5	5	2	0	3	3	0	3	4	8	1
-GTT	1	2	10	4	0	4	6	2	1	6	10	5
-GTC	4	1	3	6	0	2	2	1	0	1	3	6
-GTA	12	3	26	6	2	12	7	3	1	10	11	11
-GTG	3	1	4	2	0	0	0	0	0	2	1	2
-GCT	3	4	7	2	1	5	3	3	2	5	6	4
-GCC	19	18	24	6	0	4	11	1	5	13	26	9
-GCA	11	20	14	7	1	9	8	4	6	15	17	18
-GCG	0	0	1	1	0	1	0	0	0	1	0	1
-GAT	1	1	4	4	0	0	1	2	0	0	6	2
-GAC	3	3	10	8	1	1	4	2	1	3	9	10
-GAA	9	5	10	14	3	3	8	6	3	9	9	5
-GAG	2	0	1	1	0	1	2	0	0	2	2	1
-GGT	2	1	9	2	0	0	1	2	0	1	3	1
-GGC	1	3	10	2	1	5	4	1	1	7	7	8
-GGA	9	10	23	5	0	6	14	3	4	18	19	15
-GGG	6	4	3	0	0	0	2	0	1	3	3	1
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009442171.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	7	10	13	0	2	2	13	1	9	3	0	0	8	0	5	10	30	4	4	10	10	0	1	4	7	0	0	1	5	2	14	10	10	1	0	7	12	0	4	9	6	1	1	2	1	4	12	3	3	19	11	0	1	3	9	2	2	1	9	6	1	0	0	0
+1	ND2	YP_009442172.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	3	7	14	1	0	8	5	1	3	5	1	0	10	1	10	7	34	1	4	8	6	2	2	4	12	2	0	1	3	0	15	11	16	4	4	24	17	2	3	6	6	3	1	5	2	1	3	1	4	18	20	0	1	3	5	0	1	3	10	4	0	0	0	0
+2	COX1	YP_009442173.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	19	21	10	1	10	3	13	1	11	8	0	1	16	1	15	13	21	3	7	5	15	1	5	14	8	0	1	1	6	0	26	12	19	6	9	5	20	2	7	8	8	0	0	5	10	3	26	4	7	24	14	1	4	10	10	1	9	10	23	3	1	0	0	0
+3	COX2	YP_009442174.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	4	4	9	0	3	6	4	0	5	4	0	2	3	2	4	2	15	0	1	1	12	0	3	7	8	0	0	2	4	0	10	8	9	3	3	6	3	0	2	4	3	1	1	2	4	6	6	2	2	6	7	1	4	8	14	1	2	2	5	0	0	0	0	0
+4	ATP8	YP_009442175.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	0	3	5	0	1	2	1	0	0	0	0	0	5	0	0	0	0	0	1	1	6	0	1	1	1	0	0	0	0	0	3	2	0	1	2	2	0	0	2	1	3	0	1	0	0	0	2	0	1	0	1	0	0	1	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009442176.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	6	6	11	0	2	1	2	0	3	2	0	0	5	0	7	7	20	2	2	3	11	1	2	1	8	0	0	0	6	0	14	7	9	1	3	4	13	0	5	5	1	0	1	3	4	2	12	0	5	4	9	1	0	1	3	1	0	5	6	0	1	0	0	0
+6	COX3	YP_009442177.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	9	14	6	0	3	3	6	0	6	6	0	2	12	0	3	8	14	1	2	2	9	0	5	11	9	0	0	0	5	0	7	10	7	1	3	5	13	0	0	1	2	0	0	3	6	2	7	0	3	11	8	0	1	4	8	2	1	4	14	2	0	0	0	0
+7	ND3	YP_009442178.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	4	5	9	0	2	3	0	0	1	1	0	1	5	0	2	5	8	1	0	5	3	0	0	1	4	0	0	1	0	1	3	5	2	1	0	4	5	0	1	2	1	0	0	0	2	1	3	0	3	1	4	0	2	2	6	0	2	1	3	0	0	0	0	0
+8	ND4L	YP_009442179.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	4	4	7	1	2	3	1	0	0	0	1	2	1	0	3	2	9	1	0	1	1	0	1	3	3	0	0	3	0	0	2	0	3	2	1	2	5	0	0	2	0	0	0	3	1	0	1	0	2	5	6	0	0	1	3	0	0	1	4	1	1	0	0	0
+9	ND4	YP_009442180.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	12	6	27	0	2	6	15	1	10	4	0	5	19	0	7	15	30	6	4	4	18	1	4	8	10	4	1	2	7	1	27	13	22	3	4	15	23	0	2	10	9	1	2	4	6	1	10	2	5	13	15	1	0	3	9	2	1	7	18	3	0	0	0	0
+10	ND5	YP_009442181.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	20	21	15	3	2	9	12	3	8	4	0	5	10	3	10	23	40	3	2	6	19	1	3	12	15	3	2	1	7	0	40	16	33	4	8	23	24	3	12	16	22	1	3	8	10	3	11	1	6	26	17	0	6	9	9	2	3	7	19	3	1	0	0	0
+11	CYTB	YP_009442183.1	Discogobio longibarbatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Discogobio	10	20	14	0	1	8	10	1	6	8	1	2	13	0	9	7	28	3	2	6	13	0	3	9	6	0	1	1	6	0	20	10	9	4	1	10	11	1	9	8	9	0	0	1	5	6	11	2	4	9	18	1	2	10	5	1	1	8	15	1	0	0	0	0

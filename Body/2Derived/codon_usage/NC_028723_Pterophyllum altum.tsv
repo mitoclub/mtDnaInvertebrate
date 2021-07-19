@@ -1,65 +1,13 @@
-	YP_009192641.1|ND1	YP_009192642.1|ND2	YP_009192643.1|COX1	YP_009192644.1|COX2	YP_009192645.1|ATP8	YP_009192646.1|ATP6	YP_009192647.1|COX3	YP_009192648.1|ND3	YP_009192649.1|ND4L	YP_009192650.1|ND4	YP_009192651.1|ND5	YP_009192653.1|CYTB
-TTT	12	7	26	4	2	6	11	7	4	13	17	14
-TTC	8	7	18	6	2	5	12	2	3	6	27	16
-TTA	8	7	9	4	2	9	3	1	4	14	15	5
-TTG	0	0	2	0	0	1	1	0	0	3	0	1
-TCT	4	3	2	5	0	1	2	1	1	3	7	5
-TCC	10	10	7	5	1	1	5	3	5	15	14	10
-TCA	5	6	10	1	0	1	4	2	2	6	10	7
-TCG	0	0	4	0	0	1	0	1	0	0	0	0
-TAT	5	4	10	4	0	4	6	0	0	6	4	5
-TAC	5	4	9	4	0	2	5	2	0	7	8	9
-TGT	0	0	0	1	0	0	1	1	2	2	1	2
-TGC	0	0	2	1	0	0	1	0	2	2	5	1
-TGA	7	9	12	3	5	5	8	4	1	15	10	8
-TGG	1	2	5	2	0	0	4	1	0	3	4	3
-CTT	15	24	10	11	0	15	7	6	5	26	26	17
-CTC	29	28	21	7	2	14	6	12	9	24	31	26
-CTA	13	16	12	5	2	13	12	5	5	27	23	17
-CTG	8	3	9	2	0	3	3	2	1	5	4	0
-CCT	6	5	5	6	3	3	2	2	0	5	8	6
-CCC	13	14	16	4	3	10	7	5	1	15	18	8
-CCA	3	2	9	4	5	4	3	1	1	7	6	6
-CCG	0	0	1	0	0	0	0	0	0	0	1	1
-CAT	0	2	4	3	2	2	4	0	1	0	2	4
-CAC	3	4	16	7	0	2	13	1	2	10	12	8
-CAA	7	15	6	7	1	6	9	3	3	11	17	4
-CAG	0	1	2	1	0	4	0	0	0	1	1	1
-CGT	0	1	2	1	0	1	0	0	1	1	0	0
-CGC	6	1	0	1	0	3	2	2	0	3	3	3
-CGA	2	2	6	4	0	2	3	0	2	5	6	4
-CGG	0	0	0	0	0	0	0	0	0	2	0	1
-ATT	15	11	22	13	1	12	13	5	1	24	37	18
-ATC	5	14	20	8	3	5	3	6	0	8	17	16
-ATA	6	6	19	5	0	5	8	2	4	18	24	11
-ATG	4	4	6	6	1	3	1	1	2	7	5	2
-ACT	4	9	10	4	1	3	3	2	2	6	10	3
-ACC	13	23	12	1	1	7	9	2	5	26	25	11
-ACA	9	16	13	3	2	13	11	3	2	8	17	6
-ACG	0	0	0	0	0	0	1	1	0	3	6	1
-AAT	5	2	4	3	1	2	0	1	1	3	8	3
-AAC	5	9	10	3	2	5	4	1	2	8	24	16
-AAA	6	8	9	4	4	2	2	0	0	8	19	6
-AAG	1	0	0	0	1	0	0	1	0	2	2	3
-AGT	0	0	0	1	1	0	0	0	1	0	3	0
-AGC	5	3	4	3	0	6	3	0	2	9	8	0
-GTT	4	1	11	6	0	5	2	2	1	3	7	9
-GTC	3	2	11	4	1	5	9	1	0	5	9	5
-GTA	5	0	11	5	0	3	2	0	0	5	5	5
-GTG	1	0	5	2	0	1	1	0	0	1	2	1
-GCT	9	6	11	5	0	6	4	1	1	5	11	3
-GCC	12	21	23	6	4	9	9	6	9	17	28	12
-GCA	9	12	12	9	0	3	8	2	2	12	13	13
-GCG	0	0	0	0	0	0	0	1	0	2	1	2
-GAT	1	0	3	4	0	0	1	1	1	0	4	3
-GAC	3	1	12	9	0	1	3	2	0	3	7	7
-GAA	7	6	11	14	0	4	8	6	2	11	10	4
-GAG	4	0	0	1	2	0	1	0	0	2	2	1
-GGT	5	3	5	1	0	2	5	0	1	1	4	6
-GGC	7	8	21	3	0	4	9	4	3	15	14	12
-GGA	3	6	8	3	0	1	6	1	1	5	8	5
-GGG	3	0	12	1	0	2	1	0	0	5	2	2
-TAA	1	0	1	0	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009192641.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	12	8	8	0	4	10	5	0	5	5	0	0	7	1	15	29	13	8	6	13	3	0	0	3	7	0	0	6	2	0	15	5	6	4	4	13	9	0	5	5	6	1	0	5	4	3	5	1	9	12	9	0	1	3	7	4	5	7	3	3	1	0	0	0
+1	ND2	YP_009192642.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	7	7	7	0	3	10	6	0	4	4	0	0	9	2	24	28	16	3	5	14	2	0	2	4	15	1	1	1	2	0	11	14	6	4	9	23	16	0	2	9	8	0	0	3	1	2	0	0	6	21	12	0	0	1	6	0	3	8	6	0	0	0	0	0
+2	COX1	YP_009192643.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	26	18	9	2	2	7	10	4	10	9	0	2	12	5	10	21	12	9	5	16	9	1	4	16	6	2	2	0	6	0	22	20	19	6	10	12	13	0	4	10	9	0	0	4	11	11	11	5	11	23	12	0	3	12	11	0	5	21	8	12	1	0	0	0
+3	COX2	YP_009192644.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	4	6	4	0	5	5	1	0	4	4	1	1	3	2	11	7	5	2	6	4	4	0	3	7	7	1	1	1	4	0	13	8	5	6	4	1	3	0	3	3	4	0	1	3	6	4	5	2	5	6	9	0	4	9	14	1	1	3	3	1	0	0	0	0
+4	ATP8	YP_009192645.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	2	2	2	0	0	1	0	0	0	0	0	0	5	0	0	2	2	0	3	3	5	0	2	0	1	0	0	0	0	0	1	3	0	1	1	1	2	0	1	2	4	1	1	0	0	1	0	0	0	4	0	0	0	0	0	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_009192646.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	6	5	9	1	1	1	1	1	4	2	0	0	5	0	15	14	13	3	3	10	4	0	2	2	6	4	1	3	2	0	12	5	5	3	3	7	13	0	2	5	2	0	0	6	5	5	3	1	6	9	3	0	0	1	4	0	2	4	1	2	1	0	0	0
+6	COX3	YP_009192647.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	11	12	3	1	2	5	4	0	6	5	1	1	8	4	7	6	12	3	2	7	3	0	4	13	9	0	0	2	3	0	13	3	8	1	3	9	11	1	0	4	2	0	0	3	2	9	2	1	4	9	8	0	1	3	8	1	5	9	6	1	0	0	0	0
+7	ND3	YP_009192648.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	7	2	1	0	1	3	2	1	0	2	1	0	4	1	6	12	5	2	2	5	1	0	0	1	3	0	0	2	0	0	5	6	2	1	2	2	3	1	1	1	0	1	0	0	2	1	0	0	1	6	2	1	1	2	6	0	0	4	1	0	0	0	0	0
+8	ND4L	YP_009192649.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	4	3	4	0	1	5	2	0	0	0	2	2	1	0	5	9	5	1	0	1	1	0	1	2	3	0	1	0	2	0	1	0	4	2	2	5	2	0	1	2	0	0	1	2	1	0	0	0	1	9	2	0	1	0	2	0	1	3	1	0	1	0	0	0
+9	ND4	YP_009192650.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	13	6	14	3	3	15	6	0	6	7	2	2	15	3	26	24	27	5	5	15	7	0	0	10	11	1	1	3	5	2	24	8	18	7	6	26	8	3	3	8	8	2	0	9	3	5	5	1	5	17	12	2	0	3	11	2	1	15	5	5	0	0	0	0
+10	ND5	YP_009192651.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	17	27	15	0	7	14	10	0	4	8	1	5	10	4	26	31	23	4	8	18	6	1	2	12	17	1	0	3	6	0	37	17	24	5	10	25	17	6	8	24	19	2	3	8	7	9	5	2	11	28	13	1	4	7	10	2	4	14	8	2	1	0	0	0
+11	CYTB	YP_009192653.1	Pterophyllum altum	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Pterophyllum	14	16	5	1	5	10	7	0	5	9	2	1	8	3	17	26	17	0	6	8	6	1	4	8	4	1	0	3	4	1	18	16	11	2	3	11	6	1	3	16	6	3	0	0	9	5	5	1	3	12	13	2	3	7	4	1	6	12	5	2	1	0	0	0

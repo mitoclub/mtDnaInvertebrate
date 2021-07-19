@@ -1,65 +1,10 @@
-	YP_006504013.1|ND2	YP_006504014.1|COX1	YP_006504015.1|COX2	YP_006504016.1|ATP8	YP_006504017.1|ATP6	YP_006504018.1|COX3	YP_006504019.1|ND3	YP_006504023.1|ND6	YP_006504024.1|CYTB
-TTT	5	12	3	2	4	9	3	3	10
-TTC	9	31	6	2	7	15	5	3	17
-TTA	19	17	6	1	14	7	5	4	7
-TTG	3	0	1	0	1	1	0	1	1
-TCT	5	4	1	0	1	0	0	0	1
-TCC	7	2	1	0	0	2	4	0	2
-TCA	16	20	8	1	7	10	7	5	10
-TCG	2	0	0	0	0	1	0	0	0
-TAT	2	6	7	1	1	2	0	2	6
-TAC	10	9	2	1	3	7	1	4	11
-TGT	2	1	2	0	0	1	0	0	1
-TGC	1	1	0	0	0	0	1	1	3
-TGA	8	14	6	3	4	12	3	1	10
-TGG	2	1	0	0	0	1	0	0	2
-CTT	4	7	5	0	4	3	1	2	4
-CTC	4	4	2	0	1	0	0	2	1
-CTA	20	28	8	2	21	19	10	11	33
-CTG	2	2	1	0	2	1	0	0	0
-CCT	2	5	2	2	1	2	1	2	5
-CCC	4	4	2	0	0	2	2	0	3
-CCA	6	17	5	1	9	5	2	2	11
-CCG	1	1	1	0	0	0	0	1	4
-CAT	0	8	1	0	2	4	0	1	1
-CAC	2	8	5	0	4	11	1	2	10
-CAA	5	7	12	2	4	7	1	3	8
-CAG	0	0	1	0	0	0	0	0	0
-CGT	0	1	0	0	0	1	0	0	0
-CGC	0	1	0	0	0	0	0	0	1
-CGA	1	7	6	0	3	3	3	1	6
-CGG	0	1	1	0	0	0	0	0	1
-ATT	18	21	12	4	8	6	5	5	12
-ATC	13	20	11	1	14	10	12	6	17
-ATA	20	30	14	7	14	6	11	29	14
-ATG	5	2	1	0	0	1	0	5	2
-ACT	4	9	2	0	6	4	1	2	3
-ACC	10	8	2	0	4	4	3	5	6
-ACA	16	22	14	5	12	18	3	16	24
-ACG	1	1	0	0	2	2	0	1	0
-AAT	10	6	3	0	5	2	1	3	11
-AAC	14	12	7	5	13	5	4	5	11
-AAA	15	4	3	3	4	2	5	2	9
-AAG	2	5	2	3	1	1	0	3	2
-AGT	2	4	1	0	2	0	0	0	1
-AGC	0	2	2	1	0	1	0	1	1
-AGA	3	9	4	0	10	3	3	7	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	6	2	0	1	2	0	0	2
-GTC	3	3	0	0	1	3	0	0	4
-GTA	13	22	10	0	5	13	2	7	17
-GTG	5	3	2	0	1	0	0	1	1
-GCT	3	6	0	0	1	2	0	0	4
-GCC	5	8	3	1	0	2	0	0	8
-GCA	9	24	9	0	9	14	5	3	17
-GCG	2	0	0	1	1	0	0	0	0
-GAT	2	7	5	0	0	4	1	0	5
-GAC	0	7	6	0	1	1	2	0	5
-GAA	7	8	10	3	7	8	5	5	4
-GAG	2	2	0	0	0	1	1	0	0
-GGT	4	4	1	0	1	0	0	0	3
-GGC	0	2	2	0	1	2	1	0	0
-GGA	5	32	4	0	6	13	2	5	17
-GGG	7	6	1	0	2	6	0	1	3
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006504013.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	5	9	19	3	5	7	16	2	2	10	2	1	8	2	4	4	20	2	2	4	6	1	0	2	5	0	0	0	1	0	18	13	20	5	4	10	16	1	10	14	15	2	2	0	3	0	1	3	13	5	3	5	9	2	2	0	7	2	4	0	5	7	1	0
+1	COX1	YP_006504014.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	12	31	17	0	4	2	20	0	6	9	1	1	14	1	7	4	28	2	5	4	17	1	8	8	7	0	1	1	7	1	21	20	30	2	9	8	22	1	6	12	4	5	4	2	9	0	6	3	22	3	6	8	24	0	7	7	8	2	4	2	32	6	1	0
+2	COX2	YP_006504015.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	3	6	6	1	1	1	8	0	7	2	2	0	6	0	5	2	8	1	2	2	5	1	1	5	12	1	0	0	6	1	12	11	14	1	2	2	14	0	3	7	3	2	1	2	4	0	2	0	10	2	0	3	9	0	5	6	10	0	1	2	4	1	0	0
+3	ATP8	YP_006504016.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	2	2	1	0	0	0	1	0	1	1	0	0	3	0	0	0	2	0	2	0	1	0	0	0	2	0	0	0	0	0	4	1	7	0	0	0	5	0	0	5	3	3	0	1	0	0	0	0	0	0	0	1	0	1	0	0	3	0	0	0	0	0	1	0
+4	ATP6	YP_006504017.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	4	7	14	1	1	0	7	0	1	3	0	0	4	0	4	1	21	2	1	0	9	0	2	4	4	0	0	0	3	0	8	14	14	0	6	4	12	2	5	13	4	1	2	0	10	0	1	1	5	1	1	0	9	1	0	1	7	0	1	1	6	2	1	0
+5	COX3	YP_006504018.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	9	15	7	1	0	2	10	1	2	7	1	0	12	1	3	0	19	1	2	2	5	0	4	11	7	0	1	0	3	0	6	10	6	1	4	4	18	2	2	5	2	1	0	1	3	0	2	3	13	0	2	2	14	0	4	1	8	1	0	2	13	6	1	0
+6	ND3	YP_006504019.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	3	5	5	0	0	4	7	0	0	1	0	1	3	0	1	0	10	0	1	2	2	0	0	1	1	0	0	0	3	0	5	12	11	0	1	3	3	0	1	4	5	0	0	0	3	0	0	0	2	0	0	0	5	0	1	2	5	1	0	1	2	0	1	0
+7	ND6	YP_006504023.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	3	3	4	1	0	0	5	0	2	4	0	1	1	0	2	2	11	0	2	0	2	1	1	2	3	0	0	0	1	0	5	6	29	5	2	5	16	1	3	5	2	3	0	1	7	0	0	0	7	1	0	0	3	0	0	0	5	0	0	0	5	1	1	0
+8	CYTB	YP_006504024.1	Macrognathotermes errator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Macrognathotermes	10	17	7	1	1	2	10	0	6	11	1	3	10	2	4	1	33	0	5	3	11	4	1	10	8	0	0	1	6	1	12	17	14	2	3	6	24	0	11	11	9	2	1	1	5	0	2	4	17	1	4	8	17	0	5	5	4	0	3	0	17	3	0	0

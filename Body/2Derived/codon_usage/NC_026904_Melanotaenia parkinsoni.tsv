@@ -1,65 +1,13 @@
-	YP_009132687.1|ND1	YP_009132688.1|ND2	YP_009132689.1|COX1	YP_009132690.1|COX2	YP_009132691.1|ATP8	YP_009132692.1|ATP6	YP_009132693.1|COX3	YP_009132694.1|ND3	YP_009132695.1|ND4L	YP_009132696.1|ND4	YP_009132697.1|ND5	YP_009132699.1|CYTB
-TTT	8	3	16	3	1	10	8	5	4	4	21	10
-TTC	9	6	28	7	2	5	14	3	3	13	19	17
-TTA	7	8	6	3	1	5	4	2	5	10	8	4
-TTG	1	2	0	1	0	0	1	0	1	1	1	1
-TCT	3	3	6	3	1	1	4	1	1	4	9	3
-TCC	11	12	10	3	1	1	5	3	6	9	10	9
-TCA	5	7	7	6	0	1	2	3	3	8	15	5
-TCG	0	0	1	1	1	0	0	0	0	0	1	3
-TAT	3	2	6	1	1	2	3	2	0	7	4	2
-TAC	9	5	12	7	1	3	9	1	0	8	8	12
-TGT	0	1	0	1	0	1	0	0	1	1	1	1
-TGC	0	1	1	1	0	0	3	1	2	4	5	3
-TGA	7	10	17	5	5	4	9	3	0	14	6	11
-TGG	1	1	0	0	0	0	3	2	1	3	6	2
-CTT	13	23	12	6	2	15	11	9	3	29	21	14
-CTC	15	21	12	5	3	14	7	11	9	25	35	18
-CTA	22	23	24	9	2	20	7	7	7	22	29	23
-CTG	5	3	8	4	0	3	2	2	1	10	6	3
-CCT	2	7	14	2	2	6	5	2	0	6	8	5
-CCC	12	14	10	7	3	5	5	5	2	17	15	10
-CCA	5	3	5	5	3	5	2	1	0	5	7	4
-CCG	1	1	0	0	0	1	0	0	0	0	0	2
-CAT	2	1	5	4	0	3	5	0	0	3	3	2
-CAC	1	6	14	6	1	1	11	0	4	8	9	10
-CAA	6	13	6	9	2	7	10	2	2	12	15	6
-CAG	0	1	2	0	0	4	0	0	1	2	3	1
-CGT	1	2	1	2	0	0	0	0	0	1	2	1
-CGC	1	1	0	3	0	4	1	2	3	4	2	1
-CGA	5	1	7	1	1	2	4	0	0	4	4	5
-CGG	1	0	0	0	1	0	0	0	0	1	1	0
-ATT	15	13	26	16	2	9	7	3	1	15	27	18
-ATC	13	12	17	8	1	6	8	2	1	19	30	14
-ATA	12	9	13	10	1	4	6	2	1	19	17	11
-ATG	2	5	11	3	1	2	3	1	2	6	7	4
-ACT	2	9	7	4	1	3	5	3	1	6	8	2
-ACC	11	22	14	2	3	9	9	4	3	23	29	9
-ACA	10	13	13	5	0	11	10	0	4	14	22	11
-ACG	0	1	1	0	0	0	0	0	0	0	1	0
-AAT	6	4	6	2	0	1	1	0	0	3	8	6
-AAC	3	6	8	3	1	7	2	1	3	7	20	15
-AAA	7	9	8	4	5	2	2	1	0	6	16	8
-AAG	0	0	0	1	0	0	0	0	0	5	3	1
-AGT	0	1	0	2	0	0	1	0	0	0	2	0
-AGC	3	3	5	2	0	4	2	0	3	9	11	2
-GTT	5	1	5	5	0	0	4	1	1	3	5	7
-GTC	7	2	13	5	1	4	5	1	0	4	5	7
-GTA	6	2	13	2	0	7	6	2	0	3	12	9
-GTG	0	0	6	1	0	0	1	1	1	0	1	0
-GCT	9	6	15	3	1	4	3	3	4	11	11	6
-GCC	15	17	11	5	2	10	10	4	3	19	29	11
-GCA	9	9	20	8	0	5	9	3	4	11	17	10
-GCG	0	0	2	0	0	1	0	1	0	2	1	0
-GAT	0	1	3	3	0	1	1	2	0	2	3	3
-GAC	4	1	11	10	0	0	3	2	1	2	10	8
-GAA	8	5	11	13	0	4	7	5	2	10	9	4
-GAG	3	0	0	0	1	0	1	1	0	2	3	0
-GGT	2	1	11	1	0	2	3	0	0	2	4	3
-GGC	9	9	12	0	1	3	8	2	4	13	13	12
-GGA	7	4	15	6	0	4	8	3	0	6	10	8
-GGG	0	2	8	1	0	1	1	1	0	3	4	2
-TAA	0	0	1	0	0	1	0	0	1	0	1	1
-TAG	1	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009132687.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	8	9	7	1	3	11	5	0	3	9	0	0	7	1	13	15	22	5	2	12	5	1	2	1	6	0	1	1	5	1	15	13	12	2	2	11	10	0	6	3	7	0	0	3	5	7	6	0	9	15	9	0	0	4	8	3	2	9	7	0	0	1	0	0
+1	ND2	YP_009132688.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	3	6	8	2	3	12	7	0	2	5	1	1	10	1	23	21	23	3	7	14	3	1	1	6	13	1	2	1	1	0	13	12	9	5	9	22	13	1	4	6	9	0	1	3	1	2	2	0	6	17	9	0	1	1	5	0	1	9	4	2	0	0	0	0
+2	COX1	YP_009132689.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	16	28	6	0	6	10	7	1	6	12	0	1	17	0	12	12	24	8	14	10	5	0	5	14	6	2	1	0	7	0	26	17	13	11	7	14	13	1	6	8	8	0	0	5	5	13	13	6	15	11	20	2	3	11	11	0	11	12	15	8	1	0	0	0
+3	COX2	YP_009132690.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	3	7	3	1	3	3	6	1	1	7	1	1	5	0	6	5	9	4	2	7	5	0	4	6	9	0	2	3	1	0	16	8	10	3	4	2	5	0	2	3	4	1	2	2	5	5	2	1	3	5	8	0	3	10	13	0	1	0	6	1	0	0	0	0
+4	ATP8	YP_009132691.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	1	2	1	0	1	1	0	1	1	1	0	0	5	0	2	3	2	0	2	3	3	0	0	1	2	0	0	0	1	1	2	1	1	1	1	3	0	0	0	1	5	0	0	0	0	1	0	0	1	2	0	0	0	0	0	1	0	1	0	0	0	1	0	0
+5	ATP6	YP_009132692.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	10	5	5	0	1	1	1	0	2	3	1	0	4	0	15	14	20	3	6	5	5	1	3	1	7	4	0	4	2	0	9	6	4	2	3	9	11	0	1	7	2	0	0	4	0	4	7	0	4	10	5	1	1	0	4	0	2	3	4	1	1	0	0	0
+6	COX3	YP_009132693.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	8	14	4	1	4	5	2	0	3	9	0	3	9	3	11	7	7	2	5	5	2	0	5	11	10	0	0	1	4	0	7	8	6	3	5	9	10	0	1	2	2	0	1	2	4	5	6	1	3	10	9	0	1	3	7	1	3	8	8	1	0	0	0	0
+7	ND3	YP_009132694.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	5	3	2	0	1	3	3	0	2	1	0	1	3	2	9	11	7	2	2	5	1	0	0	0	2	0	0	2	0	0	3	2	2	1	3	4	0	0	0	1	1	0	0	0	1	1	2	1	3	4	3	1	2	2	5	1	0	2	3	1	0	0	0	0
+8	ND4L	YP_009132695.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	4	3	5	1	1	6	3	0	0	0	1	2	0	1	3	9	7	1	0	2	0	0	0	4	2	1	0	3	0	0	1	1	1	2	1	3	4	0	0	3	0	0	0	3	1	0	0	1	4	3	4	0	0	1	2	0	0	4	0	0	1	0	0	0
+9	ND4	YP_009132696.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	4	13	10	1	4	9	8	0	7	8	1	4	14	3	29	25	22	10	6	17	5	0	3	8	12	2	1	4	4	1	15	19	19	6	6	23	14	0	3	7	6	5	0	9	3	4	3	0	11	19	11	2	2	2	10	2	2	13	6	3	0	0	0	0
+10	ND5	YP_009132697.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	21	19	8	1	9	10	15	1	4	8	1	5	6	6	21	35	29	6	8	15	7	0	3	9	15	3	2	2	4	1	27	30	17	7	8	29	22	1	8	20	16	3	2	11	5	5	12	1	11	29	17	1	3	10	9	3	4	13	10	4	1	0	0	0
+11	CYTB	YP_009132699.1	Melanotaenia parkinsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Atheriniformes, Melanotaeniidae, Melanotaenia	10	17	4	1	3	9	5	3	2	12	1	3	11	2	14	18	23	3	5	10	4	2	2	10	6	1	1	1	5	0	18	14	11	4	2	9	11	0	6	15	8	1	0	2	7	7	9	0	6	11	10	0	3	8	4	0	3	12	8	2	1	0	0	0

@@ -1,65 +1,10 @@
-	YP_007025086.1|ND2	YP_007025087.1|COX1	YP_007025088.1|COX2	YP_007025089.1|ATP8	YP_007025090.1|ATP6	YP_007025091.1|COX3	YP_007025092.1|ND3	YP_007025096.1|ND6	YP_007025097.1|CYTB
-TTT	9	27	9	1	14	10	6	7	21
-TTC	3	12	3	0	2	9	3	1	4
-TTA	28	45	16	2	32	14	9	18	34
-TTG	2	1	1	0	0	4	1	1	1
-TCT	6	6	3	0	5	2	3	4	4
-TCC	5	3	3	0	2	2	2	0	1
-TCA	9	21	8	0	6	6	5	2	8
-TCG	1	0	0	0	0	0	0	1	0
-TAT	14	14	7	2	6	12	1	8	13
-TAC	4	1	1	1	2	2	0	0	3
-TGT	3	1	3	0	0	3	1	1	3
-TGC	0	0	0	0	1	0	1	0	0
-TGA	10	15	6	4	4	12	3	1	10
-TGG	0	1	0	0	0	1	0	0	2
-CTT	3	4	1	1	2	4	0	1	2
-CTC	1	0	0	0	1	0	0	0	1
-CTA	5	11	4	1	5	6	5	7	13
-CTG	0	0	0	0	0	0	0	0	1
-CCT	3	7	3	0	4	4	1	2	17
-CCC	3	7	4	0	1	2	0	1	3
-CCA	4	11	3	2	5	3	3	0	2
-CCG	0	2	0	0	0	0	0	0	0
-CAT	1	16	3	0	2	13	1	0	5
-CAC	3	3	2	0	2	2	0	1	5
-CAA	7	7	8	1	3	6	1	2	5
-CAG	0	0	0	0	0	0	0	1	1
-CGT	1	2	2	0	1	0	1	1	3
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	4	0	2	2	1	0	4
-CGG	0	0	1	0	0	1	0	0	0
-ATT	37	38	21	8	17	25	12	12	34
-ATC	6	11	4	0	4	1	3	2	4
-ATA	44	36	18	7	24	18	17	27	36
-ATG	3	1	2	0	5	2	0	0	3
-ACT	7	14	10	3	5	9	1	4	8
-ACC	2	6	2	0	6	2	1	2	2
-ACA	12	13	4	1	4	12	3	4	10
-ACG	0	0	0	0	0	0	1	0	0
-AAT	21	17	10	6	13	5	1	11	17
-AAC	7	2	5	1	4	1	1	4	7
-AAA	15	6	8	4	3	6	4	5	11
-AAG	2	1	0	1	0	1	1	1	1
-AGT	4	3	0	1	5	4	0	4	1
-AGC	2	2	1	0	0	2	0	1	0
-AGA	10	7	2	0	4	6	3	4	7
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	5	3	1	3	3	1	4	4
-GTC	0	0	0	0	0	0	0	0	1
-GTA	6	25	6	2	6	8	5	7	8
-GTG	0	1	0	0	0	0	0	0	1
-GCT	4	10	3	0	3	1	2	2	5
-GCC	1	4	0	0	1	1	0	3	5
-GCA	2	16	5	1	3	7	2	1	6
-GCG	0	0	0	0	1	0	0	0	0
-GAT	1	10	10	0	0	4	1	3	7
-GAC	0	4	0	1	1	0	2	0	0
-GAA	3	10	10	0	6	5	4	2	9
-GAG	0	0	0	0	0	1	1	0	0
-GGT	1	13	0	0	3	6	2	0	4
-GGC	0	1	0	0	0	1	0	0	0
-GGA	8	28	6	0	3	11	1	2	14
-GGG	2	3	1	0	1	0	0	2	7
-TAA	1	0	0	1	0	0	1	1	0
-TAG	0	0	0	0	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007025086.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	9	3	28	2	6	5	9	1	14	4	3	0	10	0	3	1	5	0	3	3	4	0	1	3	7	0	1	0	0	0	37	6	44	3	7	2	12	0	21	7	15	2	4	2	10	0	1	0	6	0	4	1	2	0	1	0	3	0	1	0	8	2	1	0
+1	COX1	YP_007025087.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	27	12	45	1	6	3	21	0	14	1	1	0	15	1	4	0	11	0	7	7	11	2	16	3	7	0	2	0	7	0	38	11	36	1	14	6	13	0	17	2	6	1	3	2	7	0	5	0	25	1	10	4	16	0	10	4	10	0	13	1	28	3	0	0
+2	COX2	YP_007025088.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	9	3	16	1	3	3	8	0	7	1	3	0	6	0	1	0	4	0	3	4	3	0	3	2	8	0	2	0	4	1	21	4	18	2	10	2	4	0	10	5	8	0	0	1	2	0	3	0	6	0	3	0	5	0	10	0	10	0	0	0	6	1	0	0
+3	ATP8	YP_007025089.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	1	0	2	0	0	0	0	0	2	1	0	0	4	0	1	0	1	0	0	0	2	0	0	0	1	0	0	0	0	0	8	0	7	0	3	0	1	0	6	1	4	1	1	0	0	0	1	0	2	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0
+4	ATP6	YP_007025090.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	14	2	32	0	5	2	6	0	6	2	0	1	4	0	2	1	5	0	4	1	5	0	2	2	3	0	1	0	2	0	17	4	24	5	5	6	4	0	13	4	3	0	5	0	4	0	3	0	6	0	3	1	3	1	0	1	6	0	3	0	3	1	0	1
+5	COX3	YP_007025091.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	10	9	14	4	2	2	6	0	12	2	3	0	12	1	4	0	6	0	4	2	3	0	13	2	6	0	0	0	2	1	25	1	18	2	9	2	12	0	5	1	6	1	4	2	6	0	3	0	8	0	1	1	7	0	4	0	5	1	6	1	11	0	0	0
+6	ND3	YP_007025092.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	6	3	9	1	3	2	5	0	1	0	1	1	3	0	0	0	5	0	1	0	3	0	1	0	1	0	1	0	1	0	12	3	17	0	1	1	3	1	1	1	4	1	0	0	3	0	1	0	5	0	2	0	2	0	1	2	4	1	2	0	1	0	1	0
+7	ND6	YP_007025096.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	7	1	18	1	4	0	2	1	8	0	1	0	1	0	1	0	7	0	2	1	0	0	0	1	2	1	1	0	0	0	12	2	27	0	4	2	4	0	11	4	5	1	4	1	4	0	4	0	7	0	2	3	1	0	3	0	2	0	0	0	2	2	1	0
+8	CYTB	YP_007025097.1	Nabis apicalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Nabidae, Nabinae, Nabis, Mila	21	4	34	1	4	1	8	0	13	3	3	0	10	2	2	1	13	1	17	3	2	0	5	5	5	1	3	0	4	0	34	4	36	3	8	2	10	0	17	7	11	1	1	0	7	0	4	1	8	1	5	5	6	0	7	0	9	0	4	0	14	7	0	1

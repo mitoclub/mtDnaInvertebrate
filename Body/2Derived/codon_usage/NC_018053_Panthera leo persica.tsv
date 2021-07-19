@@ -1,65 +1,13 @@
-	YP_006460418.1|ND1	YP_006460419.1|ND2	YP_006460420.1|COX1	YP_006460421.1|COX2	YP_006460422.1|ATP8	YP_006460423.1|ATP6	YP_006460424.1|COX3	YP_006460425.1|ND3	YP_006460426.1|ND4L	YP_006460427.1|ND4	YP_006460428.1|ND5	YP_006460430.1|CYTB
-TTT	5	4	25	4	2	7	8	4	1	4	19	8
-TTC	15	8	17	3	1	5	14	4	4	11	25	18
-TTA	4	4	12	5	3	11	7	3	5	13	11	11
-TTG	0	1	6	2	0	1	1	0	0	2	4	2
-TCT	3	3	7	3	1	4	1	1	0	4	9	3
-TCC	7	9	5	5	0	1	7	3	5	6	14	8
-TCA	6	11	13	7	5	5	7	1	3	15	13	13
-TCG	0	2	2	0	1	0	2	0	0	0	5	0
-TAT	5	1	9	8	1	0	7	1	2	5	12	7
-TAC	8	9	10	3	1	2	6	2	2	12	8	8
-TGT	1	0	1	0	0	0	1	1	1	2	2	1
-TGC	0	1	0	2	0	0	1	0	2	1	2	3
-TGA	7	10	13	5	3	3	9	3	0	9	9	9
-TGG	2	0	4	0	0	0	3	1	0	4	3	3
-CTT	7	5	9	3	1	5	3	3	0	11	11	6
-CTC	10	7	4	5	0	4	6	4	3	18	24	11
-CTA	29	31	25	14	3	13	11	14	10	37	35	24
-CTG	4	3	6	5	0	9	5	2	3	11	5	4
-CCT	3	1	14	4	4	3	1	2	0	4	5	5
-CCC	10	13	8	4	1	6	4	4	1	11	8	10
-CCA	9	5	6	5	3	4	6	1	0	6	12	8
-CCG	0	1	1	0	0	0	0	0	0	0	1	1
-CAT	1	0	8	1	0	1	6	0	2	2	5	5
-CAC	2	4	10	6	1	7	10	0	0	7	11	8
-CAA	6	7	5	6	4	9	7	3	2	10	17	5
-CAG	0	2	1	1	1	0	0	0	0	1	3	1
-CGT	1	0	1	0	0	0	1	1	0	0	1	0
-CGC	1	1	1	1	0	2	1	0	0	2	3	2
-CGA	5	4	6	5	0	2	2	0	1	8	4	6
-CGG	1	0	0	0	0	0	1	0	0	0	1	1
-ATT	8	13	25	12	5	15	10	5	2	19	20	16
-ATC	21	25	8	7	2	7	5	2	3	22	34	24
-ATA	18	40	23	8	3	7	7	6	7	27	35	9
-ATG	1	0	10	6	1	4	3	0	6	7	4	4
-ACT	2	3	16	7	0	5	2	1	1	8	11	5
-ACC	11	15	7	3	2	11	11	3	2	9	19	9
-ACA	14	21	13	6	3	7	9	5	3	21	16	10
-ACG	0	0	3	2	1	0	1	0	0	2	4	0
-AAT	2	2	13	1	1	5	1	2	3	6	10	5
-AAC	9	12	4	3	0	7	5	2	3	16	21	9
-AAA	7	14	8	2	7	4	3	3	0	12	20	9
-AAG	0	1	1	3	0	0	0	1	0	1	5	0
-AGT	2	0	1	3	0	0	1	1	0	2	5	1
-AGC	2	1	2	3	1	3	4	1	1	8	9	1
-GTT	3	3	6	1	0	1	5	0	1	0	5	3
-GTC	3	1	11	4	0	6	4	0	1	6	6	5
-GTA	7	5	16	6	0	6	6	2	4	9	9	11
-GTG	1	1	9	2	0	2	1	0	1	1	0	0
-GCT	7	3	14	2	1	7	5	1	2	7	3	2
-GCC	12	9	11	3	0	8	6	6	1	18	24	12
-GCA	10	8	15	2	1	0	3	5	2	9	15	8
-GCG	0	0	0	0	0	2	0	0	1	1	0	1
-GAT	0	1	8	5	1	0	2	1	0	0	5	5
-GAC	3	1	7	5	0	1	1	1	1	3	5	7
-GAA	9	6	9	10	1	3	8	5	1	6	8	4
-GAG	2	1	1	5	1	0	0	1	1	2	3	2
-GGT	2	0	9	4	0	2	5	0	1	2	5	2
-GGC	2	7	11	2	0	1	4	0	2	7	5	10
-GGA	6	7	18	3	0	8	8	3	1	7	16	13
-GGG	2	0	9	0	0	0	3	0	0	2	2	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006460418.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	5	15	4	0	3	7	6	0	5	8	1	0	7	2	7	10	29	4	3	10	9	0	1	2	6	0	1	1	5	1	8	21	18	1	2	11	14	0	2	9	7	0	2	2	3	3	7	1	7	12	10	0	0	3	9	2	2	2	6	2	0	0	0	0
+1	ND2	YP_006460419.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	8	4	1	3	9	11	2	1	9	0	1	10	0	5	7	31	3	1	13	5	1	0	4	7	2	0	1	4	0	13	25	40	0	3	15	21	0	2	12	14	1	0	1	3	1	5	1	3	9	8	0	1	1	6	1	0	7	7	0	0	0	0	0
+2	COX1	YP_006460420.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	25	17	12	6	7	5	13	2	9	10	1	0	13	4	9	4	25	6	14	8	6	1	8	10	5	1	1	1	6	0	25	8	23	10	16	7	13	3	13	4	8	1	1	2	6	11	16	9	14	11	15	0	8	7	9	1	9	11	18	9	1	0	0	0
+3	COX2	YP_006460421.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	3	5	2	3	5	7	0	8	3	0	2	5	0	3	5	14	5	4	4	5	0	1	6	6	1	0	1	5	0	12	7	8	6	7	3	6	2	1	3	2	3	3	3	1	4	6	2	2	3	2	0	5	5	10	5	4	2	3	0	1	0	0	0
+4	ATP8	YP_006460422.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	2	1	3	0	1	0	5	1	1	1	0	0	3	0	1	0	3	0	4	1	3	0	0	1	4	1	0	0	0	0	5	2	3	1	0	2	3	1	1	0	7	0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_006460423.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	7	5	11	1	4	1	5	0	0	2	0	0	3	0	5	4	13	9	3	6	4	0	1	7	9	0	0	2	2	0	15	7	7	4	5	11	7	0	5	7	4	0	0	3	1	6	6	2	7	8	0	2	0	1	3	0	2	1	8	0	1	0	0	0
+6	COX3	YP_006460424.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	8	14	7	1	1	7	7	2	7	6	1	1	9	3	3	6	11	5	1	4	6	0	6	10	7	0	1	1	2	1	10	5	7	3	2	11	9	1	1	5	3	0	1	4	5	4	6	1	5	6	3	0	2	1	8	0	5	4	8	3	0	0	0	0
+7	ND3	YP_006460425.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	4	3	0	1	3	1	0	1	2	1	0	3	1	3	4	14	2	2	4	1	0	0	0	3	0	1	0	0	0	5	2	6	0	1	3	5	0	2	2	3	1	1	1	0	0	2	0	1	6	5	0	1	1	5	1	0	0	3	0	0	0	0	0
+8	ND4L	YP_006460426.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	1	4	5	0	0	5	3	0	2	2	1	2	0	0	0	3	10	3	0	1	0	0	2	0	2	0	0	0	1	0	2	3	7	6	1	2	3	0	3	3	0	0	0	1	1	1	4	1	2	1	2	1	0	1	1	1	1	2	1	0	1	0	0	0
+9	ND4	YP_006460427.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	11	13	2	4	6	15	0	5	12	2	1	9	4	11	18	37	11	4	11	6	0	2	7	10	1	0	2	8	0	19	22	27	7	8	9	21	2	6	16	12	1	2	8	0	6	9	1	7	18	9	1	0	3	6	2	2	7	7	2	0	0	0	0
+10	ND5	YP_006460428.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	19	25	11	4	9	14	13	5	12	8	2	2	9	3	11	24	35	5	5	8	12	1	5	11	17	3	1	3	4	1	20	34	35	4	11	19	16	4	10	21	20	5	5	9	5	6	9	0	3	24	15	0	5	5	8	3	5	5	16	2	1	0	0	0
+11	CYTB	YP_006460430.1	Panthera leo persica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	8	18	11	2	3	8	13	0	7	8	1	3	9	3	6	11	24	4	5	10	8	1	5	8	5	1	0	2	6	1	16	24	9	4	5	9	10	0	5	9	9	0	1	1	3	5	11	0	2	12	8	1	5	7	4	2	2	10	13	1	0	0	1	0

@@ -1,65 +1,13 @@
-	YP_009514028.1|ND1	YP_009514029.1|ND2	YP_009514030.1|COX1	YP_009514031.1|COX2	YP_009514032.1|ATP8	YP_009514033.1|ATP6	YP_009514034.1|COX3	YP_009514035.1|ND3	YP_009514036.1|ND4L	YP_009514037.1|ND4	YP_009514038.1|ND5	YP_009514040.1|CYTB
-TTT	10	2	21	6	3	3	13	5	4	6	25	13
-TTC	10	7	23	1	2	9	9	4	2	12	21	17
-TTA	10	18	25	14	1	13	7	8	9	31	20	19
-TTG	0	2	1	2	1	1	0	0	0	3	0	0
-TCT	6	5	7	4	1	4	3	2	1	7	14	7
-TCC	10	5	9	4	2	3	3	3	3	8	8	3
-TCA	5	14	10	6	1	1	11	0	6	16	18	12
-TCG	0	1	0	0	0	0	1	0	0	0	1	0
-TAT	3	4	11	6	2	1	8	3	1	8	5	6
-TAC	8	7	8	4	0	1	5	1	2	11	11	10
-TGT	0	0	0	0	0	0	1	1	0	3	1	1
-TGC	1	0	1	3	0	0	0	0	3	1	4	3
-TGA	8	10	16	5	3	3	12	5	0	10	10	12
-TGG	1	0	1	0	0	0	0	0	0	2	2	0
-CTT	10	7	9	6	1	7	8	3	3	16	9	3
-CTC	5	4	5	2	0	3	5	4	1	6	12	10
-CTA	32	30	14	8	4	17	13	7	4	39	36	19
-CTG	2	1	6	1	0	2	1	1	0	0	3	2
-CCT	6	9	12	6	3	7	6	3	0	9	8	5
-CCC	7	3	6	0	1	3	3	2	1	6	9	10
-CCA	8	6	8	7	1	3	2	0	0	7	7	8
-CCG	0	0	2	0	0	0	1	1	0	0	1	0
-CAT	2	2	11	2	0	5	7	0	1	5	5	2
-CAC	3	3	7	5	1	2	8	0	1	8	11	10
-CAA	6	9	5	5	4	5	8	3	3	9	12	5
-CAG	0	0	2	0	2	2	0	0	0	1	4	1
-CGT	1	0	0	1	0	2	2	0	0	3	0	0
-CGC	1	0	2	1	0	0	1	1	0	1	0	3
-CGA	4	3	6	4	0	3	2	0	1	6	8	5
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	12	17	30	11	6	20	7	11	6	31	28	23
-ATC	11	22	9	8	1	7	5	4	1	17	33	18
-ATA	22	29	22	12	0	13	8	5	10	27	38	16
-ATG	4	2	9	4	2	2	2	0	1	2	2	1
-ACT	6	6	7	6	1	8	3	4	2	11	14	7
-ACC	7	12	7	4	2	4	9	0	2	7	20	9
-ACA	10	30	21	10	5	12	13	7	3	21	29	13
-ACG	1	0	1	0	1	0	0	0	1	0	2	1
-AAT	6	10	9	6	1	6	1	3	0	10	12	5
-AAC	8	10	9	2	2	4	5	1	5	13	25	11
-AAA	7	10	9	3	4	5	3	3	0	12	22	10
-AAG	1	1	0	1	0	0	0	1	0	2	2	1
-AGT	0	0	1	3	0	0	3	1	0	4	3	0
-AGC	2	5	2	1	0	6	1	0	0	6	5	3
-GTT	3	2	13	3	1	4	1	0	1	1	3	3
-GTC	4	0	4	1	0	1	4	0	0	1	5	3
-GTA	5	5	16	6	0	3	9	0	5	6	6	7
-GTG	0	0	3	1	0	1	1	0	0	1	3	2
-GCT	5	4	21	6	0	5	4	1	1	7	11	2
-GCC	9	5	9	1	1	3	8	2	4	4	10	6
-GCA	12	7	12	1	0	7	2	3	2	13	17	12
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	0	9	5	0	1	2	0	1	0	4	1
-GAC	2	0	5	5	1	0	2	2	0	3	4	9
-GAA	5	3	9	13	2	2	7	6	2	7	11	6
-GAG	5	1	1	3	0	1	1	1	0	2	2	0
-GGT	3	0	11	1	0	1	1	1	1	3	4	6
-GGC	3	4	9	4	0	3	6	1	1	4	6	3
-GGA	5	6	15	2	0	7	12	0	3	10	16	12
-GGG	0	4	12	1	0	0	1	1	0	0	1	3
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009514028.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	10	10	10	0	6	10	5	0	3	8	0	1	8	1	10	5	32	2	6	7	8	0	2	3	6	0	1	1	4	1	12	11	22	4	6	7	10	1	6	8	7	1	0	2	3	4	5	0	5	9	12	0	1	2	5	5	3	3	5	0	0	0	0	0
+1	ND2	YP_009514029.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	2	7	18	2	5	5	14	1	4	7	0	0	10	0	7	4	30	1	9	3	6	0	2	3	9	0	0	0	3	0	17	22	29	2	6	12	30	0	10	10	10	1	0	5	2	0	5	0	4	5	7	0	0	0	3	1	0	4	6	4	0	0	0	0
+2	COX1	YP_009514030.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	21	23	25	1	7	9	10	0	11	8	0	1	16	1	9	5	14	6	12	6	8	2	11	7	5	2	0	2	6	0	30	9	22	9	7	7	21	1	9	9	9	0	1	2	13	4	16	3	21	9	12	0	9	5	9	1	11	9	15	12	1	0	0	0
+3	COX2	YP_009514031.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	6	1	14	2	4	4	6	0	6	4	0	3	5	0	6	2	8	1	6	0	7	0	2	5	5	0	1	1	4	0	11	8	12	4	6	4	10	0	6	2	3	1	3	1	3	1	6	1	6	1	1	0	5	5	13	3	1	4	2	1	1	0	0	0
+4	ATP8	YP_009514032.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	3	2	1	1	1	2	1	0	2	0	0	0	3	0	1	0	4	0	3	1	1	0	0	1	4	2	0	0	0	0	6	1	0	2	1	2	5	1	1	2	4	0	0	0	1	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009514033.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	3	9	13	1	4	3	1	0	1	1	0	0	3	0	7	3	17	2	7	3	3	0	5	2	5	2	2	0	3	0	20	7	13	2	8	4	12	0	6	4	5	0	0	6	4	1	3	1	5	3	7	0	1	0	2	1	1	3	7	0	1	0	0	0
+6	COX3	YP_009514034.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	13	9	7	0	3	3	11	1	8	5	1	0	12	0	8	5	13	1	6	3	2	1	7	8	8	0	2	1	2	0	7	5	8	2	3	9	13	0	1	5	3	0	3	1	1	4	9	1	4	8	2	0	2	2	7	1	1	6	12	1	0	0	0	0
+7	ND3	YP_009514035.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	5	4	8	0	2	3	0	0	3	1	1	0	5	0	3	4	7	1	3	2	0	1	0	0	3	0	0	1	0	0	11	4	5	0	4	0	7	0	3	1	3	1	1	0	0	0	0	0	1	2	3	0	0	2	6	1	1	1	0	1	0	0	0	0
+8	ND4L	YP_009514036.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	4	2	9	0	1	3	6	0	1	2	0	3	0	0	3	1	4	0	0	1	0	0	1	1	3	0	0	0	1	0	6	1	10	1	2	2	3	1	0	5	0	0	0	0	1	0	5	0	1	4	2	0	1	0	2	0	1	1	3	0	1	0	0	0
+9	ND4	YP_009514037.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	6	12	31	3	7	8	16	0	8	11	3	1	10	2	16	6	39	0	9	6	7	0	5	8	9	1	3	1	6	0	31	17	27	2	11	7	21	0	10	13	12	2	4	6	1	1	6	1	7	4	13	0	0	3	7	2	3	4	10	0	0	0	0	0
+10	ND5	YP_009514038.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	25	21	20	0	14	8	18	1	5	11	1	4	10	2	9	12	36	3	8	9	7	1	5	11	12	4	0	0	8	0	28	33	38	2	14	20	29	2	12	25	22	2	3	5	3	5	6	3	11	10	17	0	4	4	11	2	4	6	16	1	1	0	0	0
+11	CYTB	YP_009514040.1	Proechimys quadruplicatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Hystricomorpha, Echimyidae, Proechimys	13	17	19	0	7	3	12	0	6	10	1	3	12	0	3	10	19	2	5	10	8	0	2	10	5	1	0	3	5	0	23	18	16	1	7	9	13	1	5	11	10	1	0	3	3	3	7	2	2	6	12	0	1	9	6	0	6	3	12	3	0	0	1	0

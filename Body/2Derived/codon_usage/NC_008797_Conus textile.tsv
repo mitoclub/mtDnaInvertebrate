@@ -1,65 +1,14 @@
-	YP_001004248.1|COX1	YP_001004249.1|COX2	YP_001004250.1|ATP8	YP_001004251.1|ATP6	YP_001004252.1|ND1	YP_001004253.1|ND6	YP_001004254.1|CYTB	YP_001004255.1|ND4L	YP_001004256.1|ND4	YP_001004257.1|ND5	YP_001004258.1|COX3	YP_001004259.1|ND3	YP_001004260.1|ND2
-TTT	34	12	2	14	28	9	27	5	28	41	22	9	24
-TTC	6	0	2	7	5	3	4	0	9	8	4	3	5
-TTA	27	7	2	18	18	13	21	10	30	36	9	7	30
-TTG	12	8	3	3	11	4	6	3	11	7	9	5	13
-TCT	12	3	3	10	12	8	10	5	22	22	3	3	19
-TCC	1	1	0	2	2	2	1	0	3	8	0	1	1
-TCA	10	6	2	6	2	1	5	1	9	13	5	1	5
-TCG	1	3	0	1	0	0	0	0	1	4	2	2	1
-TAT	14	7	1	5	12	11	18	1	14	10	10	1	9
-TAC	4	1	0	2	2	1	2	1	4	3	0	0	1
-TGT	1	3	0	2	5	2	3	2	6	6	2	0	4
-TGC	1	1	0	0	1	1	0	0	1	3	2	1	0
-TGA	11	4	4	3	4	1	11	0	13	9	10	2	7
-TGG	6	2	2	1	2	0	2	0	3	3	4	1	3
-CTT	16	8	2	11	15	10	18	3	18	18	10	4	15
-CTC	1	0	0	3	3	1	4	1	4	9	1	0	3
-CTA	7	3	1	5	7	5	6	2	20	19	0	1	6
-CTG	4	0	0	1	3	2	3	1	4	6	2	2	3
-CCT	8	5	2	5	5	6	11	0	7	3	5	2	3
-CCC	1	1	0	0	1	0	2	0	6	2	0	0	1
-CCA	9	0	0	4	3	0	6	0	3	12	3	1	1
-CCG	2	3	0	1	2	1	2	1	2	2	2	1	3
-CAT	12	5	0	4	1	1	11	2	9	5	10	1	4
-CAC	8	2	0	1	0	0	2	1	1	5	2	0	2
-CAA	3	3	0	3	1	0	3	0	6	8	1	1	2
-CAG	3	4	1	1	4	3	7	1	3	7	4	0	3
-CGT	2	2	0	1	4	0	1	0	2	1	0	2	1
-CGC	1	1	0	0	0	0	0	0	1	1	0	0	0
-CGA	6	1	0	0	2	0	5	0	0	2	4	1	0
-CGG	2	2	0	3	2	1	3	1	2	2	1	1	1
-ATT	34	20	4	19	17	18	24	7	30	36	11	9	16
-ATC	2	0	0	1	0	0	4	1	8	9	1	1	4
-ATA	13	6	0	6	6	10	4	3	24	31	4	1	12
-ATG	12	4	2	5	5	2	5	4	10	7	2	4	11
-ACT	14	7	1	6	6	4	9	5	8	9	9	0	4
-ACC	3	0	1	2	1	0	1	1	3	8	1	0	1
-ACA	13	2	1	6	2	1	6	1	2	9	3	0	2
-ACG	1	0	0	0	1	2	2	0	0	0	1	0	1
-AAT	12	5	2	6	6	2	10	2	11	9	3	2	5
-AAC	4	1	0	5	3	0	5	1	2	8	0	0	3
-AAA	5	1	4	0	6	3	6	1	11	13	2	0	6
-AAG	5	2	1	1	5	2	2	1	6	9	0	3	8
-AGT	4	3	2	2	2	3	1	2	5	3	4	2	7
-AGC	2	0	2	1	2	2	0	1	5	10	0	0	2
-AGA	8	4	1	3	5	1	3	5	11	10	4	3	12
-AGG	1	0	0	0	3	2	1	0	3	2	1	2	4
-GTT	19	11	1	10	9	5	18	3	3	16	12	10	10
-GTC	1	0	1	2	4	0	1	1	1	3	1	2	3
-GTA	18	7	0	6	4	3	9	2	9	11	3	2	6
-GTG	5	5	0	1	3	2	2	0	2	3	6	0	2
-GCT	19	7	1	5	18	1	9	3	18	19	12	2	8
-GCC	7	1	0	2	4	2	5	0	7	10	2	1	3
-GCA	11	4	0	3	6	3	11	2	6	10	4	1	1
-GCG	5	1	0	1	2	0	1	1	0	3	2	1	5
-GAT	16	10	1	4	4	0	5	1	2	8	4	4	4
-GAC	0	2	0	1	0	1	4	0	1	7	0	0	1
-GAA	7	5	0	2	6	0	3	3	6	3	4	3	4
-GAG	2	9	1	1	7	1	4	1	3	2	5	4	3
-GGT	14	5	0	5	7	3	9	2	8	7	8	1	10
-GGC	1	1	0	1	3	0	4	1	4	4	2	1	1
-GGA	19	4	0	3	3	3	11	2	7	9	9	3	5
-GGG	13	3	0	4	6	4	6	0	2	8	12	2	17
-TAA	0	1	0	0	0	0	1	0	0	1	1	0	1
-TAG	1	0	1	1	1	1	0	1	1	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_001004248.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	34	6	27	12	12	1	10	1	14	4	1	1	11	6	16	1	7	4	8	1	9	2	12	8	3	3	2	1	6	2	34	2	13	12	14	3	13	1	12	4	5	5	4	2	8	1	19	1	18	5	19	7	11	5	16	0	7	2	14	1	19	13	0	1
+1	COX2	YP_001004249.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	12	0	7	8	3	1	6	3	7	1	3	1	4	2	8	0	3	0	5	1	0	3	5	2	3	4	2	1	1	2	20	0	6	4	7	0	2	0	5	1	1	2	3	0	4	0	11	0	7	5	7	1	4	1	10	2	5	9	5	1	4	3	1	0
+2	ATP8	YP_001004250.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	2	2	2	3	3	0	2	0	1	0	0	0	4	2	2	0	1	0	2	0	0	0	0	0	0	1	0	0	0	0	4	0	0	2	1	1	1	0	2	0	4	1	2	2	1	0	1	1	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1
+3	ATP6	YP_001004251.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	14	7	18	3	10	2	6	1	5	2	2	0	3	1	11	3	5	1	5	0	4	1	4	1	3	1	1	0	0	3	19	1	6	5	6	2	6	0	6	5	0	1	2	1	3	0	10	2	6	1	5	2	3	1	4	1	2	1	5	1	3	4	0	1
+4	ND1	YP_001004252.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	28	5	18	11	12	2	2	0	12	2	5	1	4	2	15	3	7	3	5	1	3	2	1	0	1	4	4	0	2	2	17	0	6	5	6	1	2	1	6	3	6	5	2	2	5	3	9	4	4	3	18	4	6	2	4	0	6	7	7	3	3	6	0	1
+5	ND6	YP_001004253.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	9	3	13	4	8	2	1	0	11	1	2	1	1	0	10	1	5	2	6	0	0	1	1	0	0	3	0	0	0	1	18	0	10	2	4	0	1	2	2	0	3	2	3	2	1	2	5	0	3	2	1	2	3	0	0	1	0	1	3	0	3	4	0	1
+6	CYTB	YP_001004254.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	27	4	21	6	10	1	5	0	18	2	3	0	11	2	18	4	6	3	11	2	6	2	11	2	3	7	1	0	5	3	24	4	4	5	9	1	6	2	10	5	6	2	1	0	3	1	18	1	9	2	9	5	11	1	5	4	3	4	9	4	11	6	1	0
+7	ND4L	YP_001004255.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	5	0	10	3	5	0	1	0	1	1	2	0	0	0	3	1	2	1	0	0	0	1	2	1	0	1	0	0	0	1	7	1	3	4	5	1	1	0	2	1	1	1	2	1	5	0	3	1	2	0	3	0	2	1	1	0	3	1	2	1	2	0	0	1
+8	ND4	YP_001004256.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	28	9	30	11	22	3	9	1	14	4	6	1	13	3	18	4	20	4	7	6	3	2	9	1	6	3	2	1	0	2	30	8	24	10	8	3	2	0	11	2	11	6	5	5	11	3	3	1	9	2	18	7	6	0	2	1	6	3	8	4	7	2	0	1
+9	ND5	YP_001004257.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	41	8	36	7	22	8	13	4	10	3	6	3	9	3	18	9	19	6	3	2	12	2	5	5	8	7	1	1	2	2	36	9	31	7	9	8	9	0	9	8	13	9	3	10	10	2	16	3	11	3	19	10	10	3	8	7	3	2	7	4	9	8	1	0
+10	COX3	YP_001004258.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	22	4	9	9	3	0	5	2	10	0	2	2	10	4	10	1	0	2	5	0	3	2	10	2	1	4	0	0	4	1	11	1	4	2	9	1	3	1	3	0	2	0	4	0	4	1	12	1	3	6	12	2	4	2	4	0	4	5	8	2	9	12	1	0
+11	ND3	YP_001004259.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	9	3	7	5	3	1	1	2	1	0	0	1	2	1	4	0	1	2	2	0	1	1	1	0	1	0	2	0	1	1	9	1	1	4	0	0	0	0	2	0	0	3	2	0	3	2	10	2	2	0	2	1	1	1	4	0	3	4	1	1	3	2	0	1
+12	ND2	YP_001004260.1	Conus textile	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Hypsogastropoda, Neogastropoda, Conoidea, Conidae, Conus	24	5	30	13	19	1	5	1	9	1	4	0	7	3	15	3	6	3	3	1	1	3	4	2	2	3	1	0	0	1	16	4	12	11	4	1	2	1	5	3	6	8	7	2	12	4	10	3	6	2	8	3	1	5	4	1	4	3	10	1	5	17	1	0

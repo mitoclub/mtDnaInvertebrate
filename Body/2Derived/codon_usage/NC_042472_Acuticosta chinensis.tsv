@@ -1,65 +1,10 @@
-	YP_009645794.1|COX1	YP_009645795.1|COX3	YP_009645796.1|ATP6	YP_009645797.1|ATP8	YP_009645798.1|ND4L	YP_009645799.1|ND4	YP_009645802.1|ND5	YP_009645805.1|ND3	YP_009645806.1|COX2
-TTT	40	26	23	5	8	33	44	13	10
-TTC	4	2	1	0	0	2	5	1	1
-TTA	21	10	13	2	8	36	44	7	14
-TTG	29	13	13	2	4	25	30	12	8
-TCT	26	6	11	1	2	19	13	6	9
-TCC	1	0	1	0	1	1	4	0	2
-TCA	3	1	0	0	0	3	5	2	0
-TCG	2	0	0	0	0	1	2	0	2
-TAT	12	7	6	1	2	15	8	2	10
-TAC	4	3	1	0	1	5	9	0	0
-TGT	1	5	2	1	3	10	10	1	3
-TGC	0	0	0	1	0	3	1	0	1
-TGA	8	5	2	2	1	6	7	1	2
-TGG	9	10	4	2	1	11	7	2	4
-CTT	6	4	2	0	2	14	13	1	4
-CTC	1	0	1	0	0	0	0	0	0
-CTA	7	3	2	0	1	6	7	0	1
-CTG	3	2	1	0	1	1	3	0	0
-CCT	18	7	4	3	1	7	7	3	7
-CCC	1	0	1	0	0	1	1	1	0
-CCA	4	1	1	0	0	2	2	0	1
-CCG	0	1	1	0	0	1	0	0	0
-CAT	13	13	6	0	1	6	7	1	6
-CAC	5	0	0	0	0	1	0	0	1
-CAA	4	2	1	2	2	4	5	0	4
-CAG	3	2	1	0	0	1	7	0	2
-CGT	2	4	1	1	1	1	2	1	2
-CGC	0	0	0	0	0	0	0	0	1
-CGA	4	1	0	0	1	3	5	3	3
-CGG	4	1	1	0	0	1	2	0	0
-ATT	30	10	15	5	6	31	34	7	13
-ATC	1	1	1	0	1	3	6	0	0
-ATA	10	3	5	3	2	12	16	4	5
-ATG	13	7	8	4	1	6	14	2	5
-ACT	19	9	5	1	1	7	14	1	0
-ACC	1	2	0	0	0	0	1	0	0
-ACA	2	2	1	0	0	1	5	0	0
-ACG	3	0	0	0	0	4	2	0	1
-AAT	16	4	5	1	0	4	9	0	5
-AAC	0	0	0	1	0	4	1	0	0
-AAA	2	2	1	7	0	6	12	1	1
-AAG	6	0	3	3	1	5	10	1	2
-AGT	5	5	7	1	5	10	16	2	5
-AGC	0	0	2	0	1	4	5	0	1
-AGA	7	3	4	1	2	8	8	0	8
-AGG	2	5	2	0	0	7	7	1	4
-GTT	36	19	17	3	7	25	30	6	16
-GTC	3	0	0	0	0	1	4	0	0
-GTA	9	3	13	2	2	7	14	5	3
-GTG	8	7	3	1	5	8	8	5	6
-GCT	31	8	5	0	4	19	19	2	11
-GCC	2	0	0	0	0	3	3	0	0
-GCA	2	1	3	0	1	1	3	1	0
-GCG	3	3	1	2	0	0	3	1	1
-GAT	12	3	3	1	1	4	10	1	9
-GAC	3	0	1	0	0	0	0	1	2
-GAA	2	2	2	1	0	4	8	4	3
-GAG	5	7	1	0	2	6	5	4	7
-GGT	19	6	12	1	6	13	26	7	12
-GGC	2	2	1	0	2	3	2	2	1
-GGA	6	7	7	1	2	8	11	1	0
-GGG	17	9	5	0	5	15	19	2	7
-TAA	0	1	1	1	0	1	1	0	1
-TAG	1	0	0	0	1	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009645794.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	40	4	21	29	26	1	3	2	12	4	1	0	8	9	6	1	7	3	18	1	4	0	13	5	4	3	2	0	4	4	30	1	10	13	19	1	2	3	16	0	2	6	5	0	7	2	36	3	9	8	31	2	2	3	12	3	2	5	19	2	6	17	0	1
+1	COX3	YP_009645795.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	26	2	10	13	6	0	1	0	7	3	5	0	5	10	4	0	3	2	7	0	1	1	13	0	2	2	4	0	1	1	10	1	3	7	9	2	2	0	4	0	2	0	5	0	3	5	19	0	3	7	8	0	1	3	3	0	2	7	6	2	7	9	1	0
+2	ATP6	YP_009645796.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	23	1	13	13	11	1	0	0	6	1	2	0	2	4	2	1	2	1	4	1	1	1	6	0	1	1	1	0	0	1	15	1	5	8	5	0	1	0	5	0	1	3	7	2	4	2	17	0	13	3	5	0	3	1	3	1	2	1	12	1	7	5	1	0
+3	ATP8	YP_009645797.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	5	0	2	2	1	0	0	0	1	0	1	1	2	2	0	0	0	0	3	0	0	0	0	0	2	0	1	0	0	0	5	0	3	4	1	0	0	0	1	1	7	3	1	0	1	0	3	0	2	1	0	0	0	2	1	0	1	0	1	0	1	0	1	0
+4	ND4L	YP_009645798.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	8	0	8	4	2	1	0	0	2	1	3	0	1	1	2	0	1	1	1	0	0	0	1	0	2	0	1	0	1	0	6	1	2	1	1	0	0	0	0	0	0	1	5	1	2	0	7	0	2	5	4	0	1	0	1	0	0	2	6	2	2	5	0	1
+5	ND4	YP_009645799.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	33	2	36	25	19	1	3	1	15	5	10	3	6	11	14	0	6	1	7	1	2	1	6	1	4	1	1	0	3	1	31	3	12	6	7	0	1	4	4	4	6	5	10	4	8	7	25	1	7	8	19	3	1	0	4	0	4	6	13	3	8	15	1	0
+6	ND5	YP_009645802.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	44	5	44	30	13	4	5	2	8	9	10	1	7	7	13	0	7	3	7	1	2	0	7	0	5	7	2	0	5	2	34	6	16	14	14	1	5	2	9	1	12	10	16	5	8	7	30	4	14	8	19	3	3	3	10	0	8	5	26	2	11	19	1	0
+7	ND3	YP_009645805.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	13	1	7	12	6	0	2	0	2	0	1	0	1	2	1	0	0	0	3	1	0	0	1	0	0	0	1	0	3	0	7	0	4	2	1	0	0	0	0	0	1	1	2	0	0	1	6	0	5	5	2	0	1	1	1	1	4	4	7	2	1	2	0	1
+8	COX2	YP_009645806.1	Acuticosta chinensis	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Palaeoheterodonta, Unionida, Unionoidea, Unionidae, Unioninae, Acuticosta	10	1	14	8	9	2	0	2	10	0	3	1	2	4	4	0	1	0	7	0	1	0	6	1	4	2	2	1	3	0	13	0	5	5	0	0	0	1	5	0	1	2	5	1	8	4	16	0	3	6	11	0	0	1	9	2	3	7	12	1	0	7	1	0

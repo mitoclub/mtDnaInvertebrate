@@ -1,65 +1,14 @@
-	YP_009250792.1|COX1	YP_009250793.1|COX2	YP_009250794.1|ATP8	YP_009250795.1|COX3	YP_009250796.1|ND6	YP_009250797.1|CYTB	YP_009250798.1|ATP6	YP_009250799.1|ND5	YP_009250800.1|ND4L	YP_009250801.1|ND4	YP_009250802.1|ND1	YP_009250803.1|ND3	YP_009250804.1|ND2
-TTT	9	7	1	18	7	12	8	17	1	15	13	6	12
-TTC	32	3	1	8	4	15	4	14	1	3	10	6	5
-TTA	15	3	3	11	6	12	9	20	2	22	6	4	16
-TTG	1	1	0	0	0	4	1	1	0	2	1	0	1
-TCT	9	3	2	1	4	7	4	7	0	12	6	2	5
-TCC	4	1	3	0	3	4	1	8	2	7	8	1	9
-TCA	12	8	1	5	4	4	5	14	4	16	6	3	11
-TCG	0	0	0	0	2	1	0	2	0	3	0	1	1
-TAT	7	5	0	3	4	8	4	8	0	5	4	0	4
-TAC	8	3	0	4	1	8	3	6	1	7	9	1	5
-TGT	0	3	0	2	1	1	2	3	1	3	2	1	1
-TGC	0	0	1	2	0	3	1	4	3	0	1	0	2
-TGA	13	5	4	9	3	8	4	6	1	7	9	2	6
-TGG	2	1	2	4	1	6	1	1	0	3	0	0	2
-CTT	14	8	0	8	6	11	7	17	3	15	10	2	11
-CTC	17	5	0	6	4	9	2	11	5	11	5	1	8
-CTA	21	6	3	4	5	11	10	30	6	24	22	10	21
-CTG	2	2	2	1	2	6	1	6	0	2	0	1	2
-CCT	7	4	2	2	0	5	2	6	0	6	3	1	6
-CCC	8	5	3	4	2	8	1	8	0	8	4	4	3
-CCA	10	3	4	4	5	6	4	11	0	6	7	3	5
-CCG	2	0	0	1	1	3	2	0	0	3	1	0	1
-CAT	5	1	1	8	0	5	3	4	0	4	1	2	1
-CAC	15	6	2	6	2	8	4	12	4	8	2	0	7
-CAA	7	8	0	5	2	7	3	13	2	7	3	1	9
-CAG	0	0	0	0	2	0	0	2	0	1	2	0	0
-CGT	1	2	0	1	0	0	0	1	1	1	1	0	1
-CGC	6	2	0	4	1	2	0	2	1	1	4	0	1
-CGA	5	3	1	1	1	4	4	1	0	3	2	2	0
-CGG	1	0	0	0	0	1	0	2	0	0	0	0	0
-ATT	31	13	5	15	8	23	16	44	3	26	20	7	16
-ATC	12	11	1	3	7	15	6	15	5	12	11	7	8
-ATA	22	9	4	6	8	14	10	41	8	45	17	4	32
-ATG	4	3	1	1	2	5	1	2	1	9	3	1	1
-ACT	10	2	0	6	2	3	4	10	1	7	4	3	9
-ACC	8	4	1	5	4	10	5	22	3	8	11	3	6
-ACA	14	5	1	11	5	5	7	21	0	18	9	4	14
-ACG	1	0	0	1	1	1	0	2	1	0	0	0	0
-AAT	11	6	0	0	1	9	5	7	0	10	4	1	7
-AAC	4	5	0	2	4	12	2	13	2	9	5	2	9
-AAA	7	3	1	0	2	7	3	15	1	10	9	1	8
-AAG	1	0	0	1	0	1	0	1	0	0	0	0	0
-AGT	1	0	1	2	0	1	1	3	0	5	6	0	1
-AGC	2	0	1	2	0	1	3	6	0	1	1	1	1
-AGA	5	2	1	7	1	0	6	12	0	4	3	1	6
-AGG	0	1	0	1	0	0	1	0	0	0	1	0	1
-GTT	7	4	0	3	4	8	3	5	1	5	0	0	1
-GTC	9	2	1	4	2	3	0	5	0	1	4	3	0
-GTA	16	9	1	9	2	8	7	9	1	5	2	3	5
-GTG	1	0	1	2	0	2	0	2	0	3	1	0	3
-GCT	8	1	0	4	3	9	3	5	1	7	3	1	2
-GCC	11	5	1	6	4	8	5	20	1	14	11	3	4
-GCA	19	10	1	9	2	13	5	13	6	12	10	1	6
-GCG	3	2	0	2	3	1	1	3	0	1	2	1	2
-GAT	4	2	0	3	0	3	2	0	1	1	3	0	0
-GAC	11	7	1	0	0	4	3	9	1	2	1	2	0
-GAA	8	9	0	9	0	5	2	7	2	5	9	6	3
-GAG	1	2	0	0	0	2	0	2	0	0	0	0	0
-GGT	11	1	0	4	0	2	0	3	1	2	1	0	0
-GGC	15	3	3	7	2	10	2	7	1	5	3	2	9
-GGA	17	7	0	10	3	9	6	9	2	5	6	1	5
-GGG	4	1	1	2	1	3	1	4	0	6	1	0	4
-TAA	0	1	1	0	1	1	1	0	1	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009250792.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	9	32	15	1	9	4	12	0	7	8	0	0	13	2	14	17	21	2	7	8	10	2	5	15	7	0	1	6	5	1	31	12	22	4	10	8	14	1	11	4	7	1	1	2	5	0	7	9	16	1	8	11	19	3	4	11	8	1	11	15	17	4	0	0
+1	COX2	YP_009250793.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	7	3	3	1	3	1	8	0	5	3	3	0	5	1	8	5	6	2	4	5	3	0	1	6	8	0	2	2	3	0	13	11	9	3	2	4	5	0	6	5	3	0	0	0	2	1	4	2	9	0	1	5	10	2	2	7	9	2	1	3	7	1	1	0
+2	ATP8	YP_009250794.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	1	1	3	0	2	3	1	0	0	0	0	1	4	2	0	0	3	2	2	3	4	0	1	2	0	0	0	0	1	0	5	1	4	1	0	1	1	0	0	0	1	0	1	1	1	0	0	1	1	1	0	1	1	0	0	1	0	0	0	3	0	1	1	0
+3	COX3	YP_009250795.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	18	8	11	0	1	0	5	0	3	4	2	2	9	4	8	6	4	1	2	4	4	1	8	6	5	0	1	4	1	0	15	3	6	1	6	5	11	1	0	2	0	1	2	2	7	1	3	4	9	2	4	6	9	2	3	0	9	0	4	7	10	2	0	0
+4	ND6	YP_009250796.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	7	4	6	0	4	3	4	2	4	1	1	0	3	1	6	4	5	2	0	2	5	1	0	2	2	2	0	1	1	0	8	7	8	2	2	4	5	1	1	4	2	0	0	0	1	0	4	2	2	0	3	4	2	3	0	0	0	0	0	2	3	1	1	0
+5	CYTB	YP_009250797.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	12	15	12	4	7	4	4	1	8	8	1	3	8	6	11	9	11	6	5	8	6	3	5	8	7	0	0	2	4	1	23	15	14	5	3	10	5	1	9	12	7	1	1	1	0	0	8	3	8	2	9	8	13	1	3	4	5	2	2	10	9	3	1	0
+6	ATP6	YP_009250798.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	8	4	9	1	4	1	5	0	4	3	2	1	4	1	7	2	10	1	2	1	4	2	3	4	3	0	0	0	4	0	16	6	10	1	4	5	7	0	5	2	3	0	1	3	6	1	3	0	7	0	3	5	5	1	2	3	2	0	0	2	6	1	1	0
+7	ND5	YP_009250799.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	17	14	20	1	7	8	14	2	8	6	3	4	6	1	17	11	30	6	6	8	11	0	4	12	13	2	1	2	1	2	44	15	41	2	10	22	21	2	7	13	15	1	3	6	12	0	5	5	9	2	5	20	13	3	0	9	7	2	3	7	9	4	0	0
+8	ND4L	YP_009250800.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	1	1	2	0	0	2	4	0	0	1	1	3	1	0	3	5	6	0	0	0	0	0	0	4	2	0	1	1	0	0	3	5	8	1	1	3	0	1	0	2	1	0	0	0	0	0	1	0	1	0	1	1	6	0	1	1	2	0	1	1	2	0	1	0
+9	ND4	YP_009250801.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	15	3	22	2	12	7	16	3	5	7	3	0	7	3	15	11	24	2	6	8	6	3	4	8	7	1	1	1	3	0	26	12	45	9	7	8	18	0	10	9	10	0	5	1	4	0	5	1	5	3	7	14	12	1	1	2	5	0	2	5	5	6	1	0
+10	ND1	YP_009250802.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	13	10	6	1	6	8	6	0	4	9	2	1	9	0	10	5	22	0	3	4	7	1	1	2	3	2	1	4	2	0	20	11	17	3	4	11	9	0	4	5	9	0	6	1	3	1	0	4	2	1	3	11	10	2	3	1	9	0	1	3	6	1	0	0
+11	ND3	YP_009250803.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	6	6	4	0	2	1	3	1	0	1	1	0	2	0	2	1	10	1	1	4	3	0	2	0	1	0	0	0	2	0	7	7	4	1	3	3	4	0	1	2	1	0	0	1	1	0	0	3	3	0	1	3	1	1	0	2	6	0	0	2	1	0	0	0
+12	ND2	YP_009250804.1	Namalycastis abiuma	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Nereididae, Namalycastis	12	5	16	1	5	9	11	1	4	5	1	2	6	2	11	8	21	2	6	3	5	1	1	7	9	0	1	1	0	0	16	8	32	1	9	6	14	0	7	9	8	0	1	1	6	1	1	0	5	3	2	4	6	2	0	0	3	0	0	9	5	4	0	1

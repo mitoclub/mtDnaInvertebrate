@@ -1,65 +1,8 @@
-	YP_009354498.1|COX1	YP_009354499.1|ND1	YP_009354500.1|CYTB	YP_009354502.1|ND3	YP_009354503.1|ND4L	YP_009354504.1|MutS	YP_009354505.1|ND2
-TTT	27	12	22	9	3	25	13
-TTC	17	7	9	4	0	8	4
-TTA	40	31	32	16	12	79	52
-TTG	6	3	10	1	2	15	13
-TCT	17	9	10	2	3	32	11
-TCC	2	0	1	1	1	6	2
-TCA	6	3	4	2	1	15	6
-TCG	3	4	0	0	0	9	3
-TAT	17	12	16	6	3	38	13
-TAC	7	3	6	0	1	5	4
-TGT	0	3	3	1	1	12	8
-TGC	1	2	3	0	0	6	0
-TGA	0	0	0	0	0	2	0
-TGG	15	6	10	4	0	12	7
-CTT	2	7	9	2	3	29	11
-CTC	0	1	1	0	1	0	3
-CTA	12	6	3	2	4	8	13
-CTG	2	2	2	0	0	1	2
-CCT	13	11	12	4	0	20	6
-CCC	4	1	2	1	0	9	4
-CCA	9	2	5	0	0	10	4
-CCG	2	0	1	1	0	1	2
-CAT	15	2	10	0	0	16	8
-CAC	3	0	1	0	0	9	0
-CAA	6	4	6	1	1	41	6
-CAG	2	2	1	0	0	6	4
-CGT	4	0	2	0	3	6	1
-CGC	0	0	1	0	0	2	0
-CGA	0	2	1	0	1	8	4
-CGG	2	1	0	0	0	2	0
-ATT	29	18	19	4	11	50	17
-ATC	4	6	1	2	4	9	8
-ATA	18	11	14	7	1	25	24
-ATG	24	13	14	3	4	14	16
-ACT	17	8	8	1	2	29	8
-ACC	2	1	3	0	0	8	0
-ACA	11	0	5	2	2	12	12
-ACG	0	2	0	0	0	1	2
-AAT	11	8	12	2	2	52	8
-AAC	5	0	5	1	2	16	1
-AAA	5	6	7	3	0	47	9
-AAG	3	3	3	0	0	18	3
-AGT	9	6	6	0	0	22	5
-AGC	3	3	3	1	1	4	7
-AGA	6	3	5	1	2	13	5
-AGG	1	0	0	0	0	7	0
-GTT	8	8	16	4	4	22	6
-GTC	3	0	3	2	1	5	2
-GTA	14	8	11	0	1	21	13
-GTG	6	7	3	1	2	4	11
-GCT	19	21	14	1	3	16	21
-GCC	9	3	3	0	4	6	6
-GCA	7	12	3	1	1	15	11
-GCG	2	0	0	0	1	5	2
-GAT	17	4	4	3	0	23	2
-GAC	1	1	7	1	0	11	2
-GAA	6	8	5	4	0	38	9
-GAG	2	2	1	4	3	20	3
-GGT	21	10	6	1	5	21	11
-GGC	1	2	3	2	0	5	4
-GGA	21	8	12	5	1	13	11
-GGG	8	5	7	4	0	9	14
-TAA	0	0	1	0	1	1	0
-TAG	0	1	0	1	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009354498.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	27	17	40	6	17	2	6	3	17	7	0	1	0	15	2	0	12	2	13	4	9	2	15	3	6	2	4	0	0	2	29	4	18	24	17	2	11	0	11	5	5	3	9	3	6	1	8	3	14	6	19	9	7	2	17	1	6	2	21	1	21	8	0	0
+1	ND1	YP_009354499.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	12	7	31	3	9	0	3	4	12	3	3	2	0	6	7	1	6	2	11	1	2	0	2	0	4	2	0	0	2	1	18	6	11	13	8	1	0	2	8	0	6	3	6	3	3	0	8	0	8	7	21	3	12	0	4	1	8	2	10	2	8	5	0	1
+2	CYTB	YP_009354500.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	22	9	32	10	10	1	4	0	16	6	3	3	0	10	9	1	3	2	12	2	5	1	10	1	6	1	2	1	1	0	19	1	14	14	8	3	5	0	12	5	7	3	6	3	5	0	16	3	11	3	14	3	3	0	4	7	5	1	6	3	12	7	1	0
+3	ND3	YP_009354502.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	9	4	16	1	2	1	2	0	6	0	1	0	0	4	2	0	2	0	4	1	0	1	0	0	1	0	0	0	0	0	4	2	7	3	1	0	2	0	2	1	3	0	0	1	1	0	4	2	0	1	1	0	1	0	3	1	4	4	1	2	5	4	0	1
+4	ND4L	YP_009354503.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	3	0	12	2	3	1	1	0	3	1	1	0	0	0	3	1	4	0	0	0	0	0	0	0	1	0	3	0	1	0	11	4	1	4	2	0	2	0	2	2	0	0	0	1	2	0	4	1	1	2	3	4	1	1	0	0	0	3	5	0	1	0	1	0
+5	MutS	YP_009354504.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	25	8	79	15	32	6	15	9	38	5	12	6	2	12	29	0	8	1	20	9	10	1	16	9	41	6	6	2	8	2	50	9	25	14	29	8	12	1	52	16	47	18	22	4	13	7	22	5	21	4	16	6	15	5	23	11	38	20	21	5	13	9	1	0
+6	ND2	YP_009354505.1	Sinularia cf. cruciata GS-2016	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Alcyonacea, Alcyoniina, Alcyoniidae, Sinularia	13	4	52	13	11	2	6	3	13	4	8	0	0	7	11	3	13	2	6	4	4	2	8	0	6	4	1	0	4	0	17	8	24	16	8	0	12	2	8	1	9	3	5	7	5	0	6	2	13	11	21	6	11	2	2	2	9	3	11	4	11	14	0	1

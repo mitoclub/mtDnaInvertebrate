@@ -1,65 +1,12 @@
-	YP_009672815.1|ND1	YP_009672816.1|ND2	YP_009672817.1|COX1	YP_009672819.1|ATP8	YP_009672820.1|ATP6	YP_009672821.1|COX3	YP_009672822.1|ND3	YP_009672823.1|ND4L	YP_009672824.1|ND4	YP_009672825.1|ND5	YP_009672827.1|CYTB
-TTT	9	8	14	3	5	7	5	2	6	19	12
-TTC	10	4	27	1	6	17	3	5	9	22	18
-TTA	11	13	8	0	6	2	3	3	13	9	6
-TTG	2	1	0	1	3	0	0	0	6	3	0
-TCT	2	1	6	1	1	1	2	3	4	7	1
-TCC	5	7	12	1	3	6	4	4	10	14	11
-TCA	9	6	7	1	1	3	1	1	7	7	7
-TCG	2	1	0	0	0	0	0	0	0	2	1
-TAT	5	1	4	0	1	4	0	0	4	7	4
-TAC	6	6	14	0	3	8	2	0	9	7	11
-TGT	0	0	0	0	0	0	0	1	2	0	0
-TGC	0	0	1	0	0	2	1	2	2	6	3
-TGA	5	10	16	5	3	10	4	1	13	11	11
-TGG	3	1	1	0	1	2	1	0	6	3	1
-CTT	7	14	13	1	9	5	4	2	15	11	13
-CTC	13	17	17	0	13	8	6	8	15	21	12
-CTA	27	21	18	3	20	10	12	10	37	37	23
-CTG	4	7	10	0	4	6	2	3	9	13	6
-CCT	4	2	10	1	1	3	1	0	5	10	4
-CCC	14	13	11	6	7	6	6	2	14	15	9
-CCA	6	3	4	3	7	3	2	0	6	5	8
-CCG	0	1	3	0	3	1	0	0	3	5	1
-CAT	1	2	5	0	0	1	0	0	2	1	0
-CAC	4	4	15	2	3	15	0	4	8	13	12
-CAA	6	14	6	3	7	7	2	2	9	12	6
-CAG	1	2	2	0	1	1	1	0	2	4	0
-CGT	1	0	0	0	0	0	0	0	0	1	0
-CGC	0	1	1	0	2	0	0	1	3	1	3
-CGA	7	3	7	0	4	5	1	2	7	5	4
-CGG	0	0	0	0	0	0	1	0	1	3	1
-ATT	13	11	24	1	9	6	4	0	20	23	10
-ATC	10	14	14	2	10	9	3	0	17	27	19
-ATA	5	10	11	0	6	6	0	3	19	24	8
-ATG	3	7	14	1	3	2	3	2	7	5	3
-ACT	1	8	7	0	4	2	0	2	6	6	4
-ACC	12	16	9	1	7	9	6	5	19	25	9
-ACA	6	21	16	3	10	12	1	2	15	26	7
-ACG	1	4	3	0	2	1	0	0	2	2	0
-AAT	3	3	1	0	1	0	1	0	2	4	5
-AAC	7	6	13	3	8	2	0	2	8	25	16
-AAA	7	10	8	3	1	2	0	0	7	17	8
-AAG	0	0	0	0	0	0	1	0	2	4	1
-AGT	2	0	0	0	0	0	0	1	0	0	0
-AGC	3	3	5	1	4	3	0	2	8	13	1
-GTT	4	2	11	2	3	1	2	0	3	6	4
-GTC	8	1	5	0	3	7	1	1	5	9	9
-GTA	8	5	13	1	4	8	4	1	5	9	6
-GTG	0	1	10	0	2	1	0	0	1	2	6
-GCT	3	0	7	0	3	3	3	0	4	7	3
-GCC	15	26	25	2	9	8	4	8	24	29	17
-GCA	16	10	14	1	6	10	3	4	11	18	14
-GCG	1	2	3	0	1	0	0	0	5	1	1
-GAT	1	0	3	0	0	1	1	0	0	2	2
-GAC	3	4	11	0	1	4	3	1	3	8	8
-GAA	7	3	7	2	4	8	6	2	4	10	4
-GAG	4	1	4	0	0	2	0	1	8	5	1
-GGT	1	0	3	0	0	3	0	0	2	1	0
-GGC	9	7	18	0	6	10	3	2	14	16	12
-GGA	1	5	14	0	6	7	1	3	8	10	8
-GGG	6	5	12	0	0	1	2	0	4	4	6
-TAA	0	0	1	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009672815.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	9	10	11	2	2	5	9	2	5	6	0	0	5	3	7	13	27	4	4	14	6	0	1	4	6	1	1	0	7	0	13	10	5	3	1	12	6	1	3	7	7	0	2	3	4	8	8	0	3	15	16	1	1	3	7	4	1	9	1	6	0	1	0	0
+1	ND2	YP_009672816.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	8	4	13	1	1	7	6	1	1	6	0	0	10	1	14	17	21	7	2	13	3	1	2	4	14	2	0	1	3	0	11	14	10	7	8	16	21	4	3	6	10	0	0	3	2	1	5	1	0	26	10	2	0	4	3	1	0	7	5	5	0	0	0	0
+2	COX1	YP_009672817.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	14	27	8	0	6	12	7	0	4	14	0	1	16	1	13	17	18	10	10	11	4	3	5	15	6	2	0	1	7	0	24	14	11	14	7	9	16	3	1	13	8	0	0	5	11	5	13	10	7	25	14	3	3	11	7	4	3	18	14	12	1	0	0	0
+3	ATP8	YP_009672819.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	3	1	0	1	1	1	1	0	0	0	0	0	5	0	1	0	3	0	1	6	3	0	0	2	3	0	0	0	0	0	1	2	0	1	0	1	3	0	0	3	3	0	0	1	2	0	1	0	0	2	1	0	0	0	2	0	0	0	0	0	1	0	0	0
+4	ATP6	YP_009672820.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	5	6	6	3	1	3	1	0	1	3	0	0	3	1	9	13	20	4	1	7	7	3	0	3	7	1	0	2	4	0	9	10	6	3	4	7	10	2	1	8	1	0	0	4	3	3	4	2	3	9	6	1	0	1	4	0	0	6	6	0	0	0	0	0
+5	COX3	YP_009672821.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	7	17	2	0	1	6	3	0	4	8	0	2	10	2	5	8	10	6	3	6	3	1	1	15	7	1	0	0	5	0	6	9	6	2	2	9	12	1	0	2	2	0	0	3	1	7	8	1	3	8	10	0	1	4	8	2	3	10	7	1	0	0	0	0
+6	ND3	YP_009672822.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	5	3	3	0	2	4	1	0	0	2	0	1	4	1	4	6	12	2	1	6	2	0	0	0	2	1	0	0	1	1	4	3	0	3	0	6	1	0	1	0	0	1	0	0	2	1	4	0	3	4	3	0	1	3	6	0	0	3	1	2	0	0	0	0
+7	ND4L	YP_009672823.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	2	5	3	0	3	4	1	0	0	0	1	2	1	0	2	8	10	3	0	2	0	0	0	4	2	0	0	1	2	0	0	0	3	2	2	5	2	0	0	2	0	0	1	2	0	1	1	0	0	8	4	0	0	1	2	1	0	2	3	0	1	0	0	0
+8	ND4	YP_009672824.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	6	9	13	6	4	10	7	0	4	9	2	2	13	6	15	15	37	9	5	14	6	3	2	8	9	2	0	3	7	1	20	17	19	7	6	19	15	2	2	8	7	2	0	8	3	5	5	1	4	24	11	5	0	3	4	8	2	14	8	4	0	0	0	0
+9	ND5	YP_009672825.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	19	22	9	3	7	14	7	2	7	7	0	6	11	3	11	21	37	13	10	15	5	5	1	13	12	4	1	1	5	3	23	27	24	5	6	25	26	2	4	25	17	4	0	13	6	9	9	2	7	29	18	1	2	8	10	5	1	16	10	4	1	0	0	0
+10	CYTB	YP_009672827.1	Hypseleotris klunzingeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Eleotroidei, Eleotridae, Eleotrinae, Hypseleotris	12	18	6	0	1	11	7	1	4	11	0	3	11	1	13	12	23	6	4	9	8	1	0	12	6	0	0	3	4	1	10	19	8	3	4	9	7	0	5	16	8	1	0	1	4	9	6	6	3	17	14	1	2	8	4	1	0	12	8	6	0	0	0	0

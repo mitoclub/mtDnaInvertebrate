@@ -1,65 +1,10 @@
-	YP_004021852.1|ND2	YP_004021853.1|COX1	YP_004021854.1|COX2	YP_004021855.1|ATP8	YP_004021856.1|ATP6	YP_004021857.1|COX3	YP_004021858.1|ND3	YP_004021862.1|ND6	YP_004021863.1|CYTB
-TTT	11	28	9	2	14	20	4	8	17
-TTC	3	11	2	1	1	3	4	2	7
-TTA	26	44	15	4	27	19	10	9	40
-TTG	3	2	2	0	0	0	0	0	0
-TCT	5	10	1	0	4	1	0	0	3
-TCC	2	4	0	0	0	0	1	0	0
-TCA	16	18	9	0	5	11	4	6	9
-TCG	1	2	0	0	0	0	1	0	1
-TAT	6	7	5	2	2	7	3	6	12
-TAC	2	6	1	1	1	2	0	1	5
-TGT	1	1	2	0	2	1	1	0	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	9	13	6	3	5	10	3	1	10
-TGG	0	2	0	0	0	2	0	0	1
-CTT	5	1	0	0	1	2	1	2	2
-CTC	0	2	1	0	0	0	0	1	0
-CTA	6	6	6	1	5	3	1	5	12
-CTG	1	4	0	0	1	0	0	0	0
-CCT	3	7	5	0	3	6	2	0	9
-CCC	1	3	1	0	3	1	0	0	1
-CCA	3	13	3	2	4	2	4	4	10
-CCG	0	3	1	0	1	1	0	0	1
-CAT	2	13	2	0	2	9	1	0	5
-CAC	1	4	3	0	1	4	0	1	7
-CAA	7	7	6	2	3	10	2	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	0	1	0	0	0	0	0	1
-CGC	0	1	1	0	0	0	0	0	1
-CGA	1	7	4	0	3	4	2	1	4
-CGG	0	0	1	0	0	0	0	0	0
-ATT	37	45	16	3	17	21	15	19	28
-ATC	5	6	2	3	6	1	3	4	4
-ATA	58	41	20	13	28	19	15	37	30
-ATG	3	5	0	0	0	3	0	0	2
-ACT	11	8	6	0	3	4	2	3	6
-ACC	3	1	1	0	2	3	2	2	2
-ACA	14	29	13	1	13	11	3	7	20
-ACG	0	1	1	0	1	0	0	1	2
-AAT	22	12	15	4	11	8	5	11	18
-AAC	5	4	2	0	6	2	0	1	4
-AAA	16	9	5	6	6	5	3	10	12
-AAG	0	0	1	0	0	0	1	1	0
-AGT	3	1	3	0	3	1	0	0	1
-AGC	0	1	0	0	0	0	0	0	0
-AGA	7	12	5	1	7	6	1	2	3
-AGG	0	0	0	0	0	0	1	0	0
-GTT	0	5	4	0	3	7	1	1	4
-GTC	0	3	0	0	0	1	0	0	1
-GTA	6	14	7	1	4	12	4	2	14
-GTG	1	2	2	0	2	2	0	0	1
-GCT	2	12	2	0	7	6	2	1	6
-GCC	0	2	0	0	0	0	0	0	1
-GCA	7	10	3	0	3	5	3	0	8
-GCG	0	0	0	1	0	0	0	0	1
-GAT	0	9	10	0	1	3	2	1	7
-GAC	0	6	1	0	0	0	2	0	4
-GAA	6	9	9	1	5	6	4	1	5
-GAG	1	0	0	0	0	1	0	0	0
-GGT	3	10	3	0	4	1	1	0	8
-GGC	0	1	0	0	0	1	0	0	1
-GGA	7	20	1	0	3	12	2	4	9
-GGG	2	14	4	0	1	3	1	1	6
-TAA	0	0	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_004021852.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	11	3	26	3	5	2	16	1	6	2	1	0	9	0	5	0	6	1	3	1	3	0	2	1	7	0	1	0	1	0	37	5	58	3	11	3	14	0	22	5	16	0	3	0	7	0	0	0	6	1	2	0	7	0	0	0	6	1	3	0	7	2	0	0
+1	COX1	YP_004021853.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	28	11	44	2	10	4	18	2	7	6	1	0	13	2	1	2	6	4	7	3	13	3	13	4	7	0	0	1	7	0	45	6	41	5	8	1	29	1	12	4	9	0	1	1	12	0	5	3	14	2	12	2	10	0	9	6	9	0	10	1	20	14	0	0
+2	COX2	YP_004021854.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	9	2	15	2	1	0	9	0	5	1	2	0	6	0	0	1	6	0	5	1	3	1	2	3	6	0	1	1	4	1	16	2	20	0	6	1	13	1	15	2	5	1	3	0	5	0	4	0	7	2	2	0	3	0	10	1	9	0	3	0	1	4	0	0
+3	ATP8	YP_004021855.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	2	1	4	0	0	0	0	0	2	1	0	0	3	0	0	0	1	0	0	0	2	0	0	0	2	0	0	0	0	0	3	3	13	0	0	0	1	0	4	0	6	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_004021856.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	14	1	27	0	4	0	5	0	2	1	2	0	5	0	1	0	5	1	3	3	4	1	2	1	3	0	0	0	3	0	17	6	28	0	3	2	13	1	11	6	6	0	3	0	7	0	3	0	4	2	7	0	3	0	1	0	5	0	4	0	3	1	1	0
+5	COX3	YP_004021857.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	20	3	19	0	1	0	11	0	7	2	1	0	10	2	2	0	3	0	6	1	2	1	9	4	10	0	0	0	4	0	21	1	19	3	4	3	11	0	8	2	5	0	1	0	6	0	7	1	12	2	6	0	5	0	3	0	6	1	1	1	12	3	1	0
+6	ND3	YP_004021858.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	4	4	10	0	0	1	4	1	3	0	1	0	3	0	1	0	1	0	2	0	4	0	1	0	2	0	0	0	2	0	15	3	15	0	2	2	3	0	5	0	3	1	0	0	1	1	1	0	4	0	2	0	3	0	2	2	4	0	1	0	2	1	0	0
+7	ND6	YP_004021862.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	8	2	9	0	0	0	6	0	6	1	0	0	1	0	2	1	5	0	0	0	4	0	0	1	3	0	0	0	1	0	19	4	37	0	3	2	7	1	11	1	10	1	0	0	2	0	1	0	2	0	1	0	0	0	1	0	1	0	0	0	4	1	1	0
+8	CYTB	YP_004021863.1	Ramulus irregulariterdentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Phasmatodea, Verophasmatodea, Anareolatae, Phasmatidae, Phasmatinae, Clitumnini, Ramulus	17	7	40	0	3	0	9	1	12	5	3	0	10	1	2	0	12	0	9	1	10	1	5	7	8	0	1	1	4	0	28	4	30	2	6	2	20	2	18	4	12	0	1	0	3	0	4	1	14	1	6	1	8	1	7	4	5	0	8	1	9	6	0	0

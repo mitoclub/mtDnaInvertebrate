@@ -1,65 +1,13 @@
-	YP_009144269.1|ND1	YP_009144270.1|ND2	YP_009144271.1|COX1	YP_009144272.1|COX2	YP_009144273.1|ATP8	YP_009144274.1|ATP6	YP_009144275.1|COX3	YP_009144276.1|ND3	YP_009144277.1|ND4L	YP_009144278.1|ND4	YP_009144279.1|ND5	YP_009144281.1|CYTB
-TTT	11	9	23	4	4	8	12	7	4	15	26	14
-TTC	8	5	19	2	0	4	12	2	1	5	17	12
-TTA	22	28	16	15	5	19	8	8	12	35	41	11
-TTG	0	1	2	0	0	0	0	0	0	1	0	0
-TCT	8	2	13	7	3	3	1	2	5	8	9	3
-TCC	3	11	6	3	0	2	4	1	0	11	4	7
-TCA	13	11	12	4	3	3	9	2	3	6	18	11
-TCG	0	1	0	0	2	0	1	0	0	0	1	0
-TAT	7	5	15	8	2	3	5	3	2	12	15	8
-TAC	7	5	5	2	0	0	7	0	1	5	7	6
-TGT	0	0	1	1	0	0	1	1	2	0	1	2
-TGC	1	0	1	1	0	0	0	0	1	3	3	2
-TGA	9	10	14	5	3	3	12	2	0	11	12	12
-TGG	1	0	3	0	0	0	0	2	0	2	0	0
-CTT	9	12	4	7	2	10	5	8	2	19	13	8
-CTC	12	8	8	1	1	4	5	2	2	13	8	11
-CTA	14	14	22	7	1	6	13	5	6	24	39	21
-CTG	1	1	3	2	0	2	1	2	1	1	0	2
-CCT	7	10	17	6	4	8	3	2	0	9	6	6
-CCC	7	2	4	4	1	3	4	2	0	4	6	5
-CCA	6	5	6	3	1	3	4	2	1	8	14	11
-CCG	1	0	1	0	0	0	0	0	0	0	0	0
-CAT	3	2	12	5	0	4	9	1	1	6	4	5
-CAC	1	2	5	1	0	2	8	0	1	4	8	7
-CAA	6	10	6	6	5	9	7	2	2	10	13	6
-CAG	0	0	0	0	0	0	0	1	0	2	2	1
-CGT	0	0	1	0	0	0	1	0	0	5	3	0
-CGC	3	2	1	5	0	0	1	1	0	1	2	1
-CGA	3	1	6	1	0	4	3	0	1	2	5	7
-CGG	2	0	0	0	0	0	0	0	0	2	0	0
-ATT	22	24	30	15	5	17	10	7	3	31	36	15
-ATC	6	14	11	5	2	9	5	1	1	13	21	21
-ATA	15	36	25	11	3	14	10	6	9	25	34	20
-ATG	1	1	5	2	1	2	1	2	1	4	3	2
-ACT	3	11	18	7	2	8	5	1	1	9	14	6
-ACC	6	11	1	6	1	8	4	2	0	11	16	8
-ACA	7	18	17	6	3	11	9	4	5	25	19	9
-ACG	0	0	1	1	1	0	0	0	0	0	4	1
-AAT	9	11	11	6	1	5	5	6	3	13	21	9
-AAC	4	10	5	1	1	4	3	0	1	9	13	9
-AAA	7	10	9	4	5	5	3	2	0	10	22	6
-AAG	0	1	0	2	2	0	1	0	0	1	1	3
-AGT	1	1	1	0	0	3	1	2	1	4	7	2
-AGC	2	1	3	4	0	2	2	0	0	6	5	2
-GTT	5	0	12	4	0	2	2	0	2	5	9	3
-GTC	2	1	8	3	0	1	6	0	2	1	2	6
-GTA	10	5	14	6	0	3	8	1	3	9	7	8
-GTG	0	0	3	0	0	1	0	0	0	0	2	2
-GCT	5	3	19	4	0	4	4	2	1	8	9	8
-GCC	8	5	11	1	0	5	7	7	4	14	20	7
-GCA	13	7	14	6	0	7	6	3	4	5	13	11
-GCG	0	0	0	1	0	0	0	0	1	0	2	0
-GAT	2	0	11	8	0	1	3	2	1	1	3	4
-GAC	1	0	3	3	1	0	0	0	0	4	6	7
-GAA	9	3	9	12	2	3	6	6	2	10	8	6
-GAG	2	2	1	1	0	0	2	0	0	0	4	0
-GGT	3	5	15	2	0	1	6	0	2	4	9	5
-GGC	4	4	10	4	0	3	6	3	0	5	9	5
-GGA	6	5	13	1	0	7	8	0	2	6	9	13
-GGG	0	1	8	1	0	0	2	0	1	2	1	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009144269.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	11	8	22	0	8	3	13	0	7	7	0	1	9	1	9	12	14	1	7	7	6	1	3	1	6	0	0	3	3	2	22	6	15	1	3	6	7	0	9	4	7	0	1	2	5	2	10	0	5	8	13	0	2	1	9	2	3	4	6	0	0	0	0	0
+1	ND2	YP_009144270.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	9	5	28	1	2	11	11	1	5	5	0	0	10	0	12	8	14	1	10	2	5	0	2	2	10	0	0	2	1	0	24	14	36	1	11	11	18	0	11	10	10	1	1	1	0	1	5	0	3	5	7	0	0	0	3	2	5	4	5	1	0	1	0	0
+2	COX1	YP_009144271.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	23	19	16	2	13	6	12	0	15	5	1	1	14	3	4	8	22	3	17	4	6	1	12	5	6	0	1	1	6	0	30	11	25	5	18	1	17	1	11	5	9	0	1	3	12	8	14	3	19	11	14	0	11	3	9	1	15	10	13	8	1	0	0	0
+3	COX2	YP_009144272.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	4	2	15	0	7	3	4	0	8	2	1	1	5	0	7	1	7	2	6	4	3	0	5	1	6	0	0	5	1	0	15	5	11	2	7	6	6	1	6	1	4	2	0	4	4	3	6	0	4	1	6	1	8	3	12	1	2	4	1	1	1	0	0	0
+4	ATP8	YP_009144273.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	4	0	5	0	3	0	3	2	2	0	0	0	3	0	2	1	1	0	4	1	1	0	0	0	5	0	0	0	0	0	5	2	3	1	2	1	3	1	1	1	5	2	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009144274.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	8	4	19	0	3	2	3	0	3	0	0	0	3	0	10	4	6	2	8	3	3	0	4	2	9	0	0	0	4	0	17	9	14	2	8	8	11	0	5	4	5	0	3	2	2	1	3	1	4	5	7	0	1	0	3	0	1	3	7	0	1	0	0	0
+6	COX3	YP_009144275.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	12	12	8	0	1	4	9	1	5	7	1	0	12	0	5	5	13	1	3	4	4	0	9	8	7	0	1	1	3	0	10	5	10	1	5	4	9	0	5	3	3	1	1	2	2	6	8	0	4	7	6	0	3	0	6	2	6	6	8	2	0	0	0	0
+7	ND3	YP_009144276.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	7	2	8	0	2	1	2	0	3	0	1	0	2	2	8	2	5	2	2	2	2	0	1	0	2	1	0	1	0	0	7	1	6	2	1	2	4	0	6	0	2	0	2	0	0	0	1	0	2	7	3	0	2	0	6	0	0	3	0	0	0	0	0	0
+8	ND4L	YP_009144277.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	4	1	12	0	5	0	3	0	2	1	2	1	0	0	2	2	6	1	0	0	1	0	1	1	2	0	0	0	1	0	3	1	9	1	1	0	5	0	3	1	0	0	1	0	2	2	3	0	1	4	4	1	1	0	2	0	2	0	2	1	1	0	0	0
+9	ND4	YP_009144278.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	15	5	35	1	8	11	6	0	12	5	0	3	11	2	19	13	24	1	9	4	8	0	6	4	10	2	5	1	2	2	31	13	25	4	9	11	25	0	13	9	10	1	4	6	5	1	9	0	8	14	5	0	1	4	10	0	4	5	6	2	0	0	0	0
+10	ND5	YP_009144279.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	26	17	41	0	9	4	18	1	15	7	1	3	12	0	13	8	39	0	6	6	14	0	4	8	13	2	3	2	5	0	36	21	34	3	14	16	19	4	21	13	22	1	7	5	9	2	7	2	9	20	13	2	3	6	8	4	9	9	9	1	1	0	0	0
+11	CYTB	YP_009144281.1	Crocidura grayi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	14	12	11	0	3	7	11	0	8	6	2	2	12	0	8	11	21	2	6	5	11	0	5	7	6	1	0	1	7	0	15	21	20	2	6	8	9	1	9	9	6	3	2	2	3	6	8	2	8	7	11	0	4	7	6	0	5	5	13	2	0	0	1	0

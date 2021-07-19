@@ -1,65 +1,13 @@
-	YP_009178606.1|ND1	YP_009178607.1|ND2	YP_009178608.1|COX1	YP_009178609.1|COX2	YP_009178610.1|ATP8	YP_009178611.1|ATP6	YP_009178612.1|COX3	YP_009178613.1|ND3	YP_009178614.1|ND4L	YP_009178615.1|ND4	YP_009178616.1|ND5	YP_009178618.1|CYTB
-TTT	8	3	28	6	2	10	6	5	3	12	17	15
-TTC	13	7	12	3	4	6	16	3	1	11	24	18
-TTA	15	13	7	6	2	5	6	6	6	15	21	15
-TTG	2	1	6	0	0	1	0	1	1	2	4	1
-TCT	5	5	10	3	1	2	1	2	7	1	13	2
-TCC	4	5	4	6	1	1	2	3	3	14	14	8
-TCA	7	16	10	3	0	6	6	1	3	9	14	9
-TCG	0	0	1	1	0	0	0	0	0	0	0	1
-TAT	4	5	14	7	1	3	8	1	0	9	7	10
-TAC	8	2	6	2	0	1	4	1	0	7	6	5
-TGT	0	0	1	1	0	0	2	1	1	4	5	2
-TGC	0	0	0	1	0	0	0	0	3	2	1	1
-TGA	7	10	15	5	4	5	11	4	1	12	11	13
-TGG	1	0	2	0	1	0	1	1	0	6	2	0
-CTT	12	22	17	5	2	14	11	10	6	23	23	18
-CTC	11	15	10	4	1	15	8	5	2	21	23	7
-CTA	26	20	18	11	2	14	8	8	8	25	36	17
-CTG	1	3	3	1	0	1	2	1	0	3	3	2
-CCT	5	4	7	3	0	3	2	0	0	8	6	4
-CCC	5	3	4	4	2	6	3	4	2	8	7	5
-CCA	12	13	18	5	4	5	7	4	0	11	19	12
-CCG	0	0	0	1	1	0	0	0	0	1	0	0
-CAT	3	2	11	8	1	1	6	0	3	6	8	5
-CAC	2	6	9	2	0	2	11	0	0	3	6	6
-CAA	7	9	9	9	2	9	9	1	1	11	20	7
-CAG	0	2	1	1	0	0	0	1	0	1	1	1
-CGT	3	0	1	3	0	0	0	1	1	3	1	2
-CGC	0	1	2	1	0	1	0	1	1	1	3	2
-CGA	5	3	4	2	0	4	5	0	0	7	4	4
-CGG	0	0	1	0	0	0	0	0	0	0	0	0
-ATT	11	17	28	13	1	14	6	4	4	30	29	19
-ATC	14	19	15	9	0	7	8	4	2	15	25	22
-ATA	14	20	22	6	4	8	6	2	6	17	31	9
-ATG	1	3	5	4	1	4	2	3	2	5	2	2
-ACT	3	10	8	4	0	3	4	1	3	9	13	4
-ACC	12	15	8	2	3	6	7	3	5	14	17	12
-ACA	10	14	17	5	1	10	11	3	1	17	21	11
-ACG	1	1	1	0	0	2	0	1	0	0	1	0
-AAT	5	3	6	3	1	4	2	1	0	3	10	8
-AAC	8	10	9	3	6	6	2	1	4	14	25	14
-AAA	7	9	7	4	4	2	3	1	1	13	20	9
-AAG	0	1	1	0	0	0	0	0	0	0	2	0
-AGT	1	1	2	2	0	2	1	1	2	1	3	1
-AGC	2	4	2	1	0	2	2	1	0	8	6	0
-GTT	5	3	12	3	1	5	3	1	0	3	8	8
-GTC	3	2	10	9	0	2	7	1	0	4	5	2
-GTA	4	2	15	5	0	4	5	0	1	3	4	6
-GTG	1	0	2	3	0	1	2	0	0	0	1	0
-GCT	7	5	11	2	0	5	5	1	2	5	14	3
-GCC	13	10	15	3	0	4	9	3	4	11	14	13
-GCA	6	7	19	10	1	7	6	4	1	15	14	7
-GCG	1	1	1	0	0	0	1	0	0	1	1	0
-GAT	2	0	10	2	0	0	4	0	0	1	4	6
-GAC	1	0	4	9	0	2	0	3	1	4	8	2
-GAA	10	4	4	14	0	3	9	6	2	11	10	3
-GAG	0	1	7	2	0	1	0	0	0	0	1	3
-GGT	4	4	16	2	0	0	8	1	0	8	8	7
-GGC	4	4	13	2	1	2	6	3	3	3	11	8
-GGA	6	8	12	4	0	5	6	2	1	8	7	5
-GGG	2	0	5	0	0	1	1	0	0	1	1	4
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009178606.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	8	13	15	2	5	4	7	0	4	8	0	0	7	1	12	11	26	1	5	5	12	0	3	2	7	0	3	0	5	0	11	14	14	1	3	12	10	1	5	8	7	0	1	2	5	3	4	1	7	13	6	1	2	1	10	0	4	4	6	2	1	0	0	0
+1	ND2	YP_009178607.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	3	7	13	1	5	5	16	0	5	2	0	0	10	0	22	15	20	3	4	3	13	0	2	6	9	2	0	1	3	0	17	19	20	3	10	15	14	1	3	10	9	1	1	4	3	2	2	0	5	10	7	1	0	0	4	1	4	4	8	0	0	0	0	0
+2	COX1	YP_009178608.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	28	12	7	6	10	4	10	1	14	6	1	0	15	2	17	10	18	3	7	4	18	0	11	9	9	1	1	2	4	1	28	15	22	5	8	8	17	1	6	9	7	1	2	2	12	10	15	2	11	15	19	1	10	4	4	7	16	13	12	5	1	0	0	0
+3	COX2	YP_009178609.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	6	3	6	0	3	6	3	1	7	2	1	1	5	0	5	4	11	1	3	4	5	1	8	2	9	1	3	1	2	0	13	9	6	4	4	2	5	0	3	3	4	0	2	1	3	9	5	3	2	3	10	0	2	9	14	2	2	2	4	0	0	0	0	0
+4	ATP8	YP_009178610.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	2	4	2	0	1	1	0	0	1	0	0	0	4	1	2	1	2	0	0	2	4	1	1	0	2	0	0	0	0	0	1	0	4	1	0	3	1	0	1	6	4	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009178611.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	10	6	5	1	2	1	6	0	3	1	0	0	5	0	14	15	14	1	3	6	5	0	1	2	9	0	0	1	4	0	14	7	8	4	3	6	10	2	4	6	2	0	2	2	5	2	4	1	5	4	7	0	0	2	3	1	0	2	5	1	1	0	0	0
+6	COX3	YP_009178612.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	6	16	6	0	1	2	6	0	8	4	2	0	11	1	11	8	8	2	2	3	7	0	6	11	9	0	0	0	5	0	6	8	6	2	4	7	11	0	2	2	3	0	1	2	3	7	5	2	5	9	6	1	4	0	9	0	8	6	6	1	1	0	0	0
+7	ND3	YP_009178613.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	5	3	6	1	2	3	1	0	1	1	1	0	4	1	10	5	8	1	0	4	4	0	0	0	1	1	1	1	0	0	4	4	2	3	1	3	3	1	1	1	1	0	1	1	1	1	0	0	1	3	4	0	0	3	6	0	1	3	2	0	0	0	0	0
+8	ND4L	YP_009178614.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	3	1	6	1	7	3	3	0	0	0	1	3	1	0	6	2	8	0	0	2	0	0	3	0	1	0	1	1	0	0	4	2	6	2	3	5	1	0	0	4	1	0	2	0	0	0	1	0	2	4	1	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009178615.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	12	11	15	2	1	14	9	0	9	7	4	2	12	6	23	21	25	3	8	8	11	1	6	3	11	1	3	1	7	0	30	15	17	5	9	14	17	0	3	14	13	0	1	8	3	4	3	0	5	11	15	1	1	4	11	0	8	3	8	1	0	0	0	0
+10	ND5	YP_009178616.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	17	24	21	4	13	14	14	0	7	6	5	1	11	2	23	23	36	3	6	7	19	0	8	6	20	1	1	3	4	0	29	25	31	2	13	17	21	1	10	25	20	2	3	6	8	5	4	1	14	14	14	1	4	8	10	1	8	11	7	1	1	0	0	0
+11	CYTB	YP_009178618.1	Himantura uarnak	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Himantura	15	18	15	1	2	8	9	1	10	5	2	1	13	0	18	7	17	2	4	5	12	0	5	6	7	1	2	2	4	0	19	22	9	2	4	12	11	0	8	14	9	0	1	0	8	2	6	0	3	13	7	0	6	2	3	3	7	8	5	4	0	0	0	0

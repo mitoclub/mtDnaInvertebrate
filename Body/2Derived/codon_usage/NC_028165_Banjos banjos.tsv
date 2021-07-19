@@ -1,65 +1,13 @@
-	YP_009175589.1|ND1	YP_009175590.1|ND2	YP_009175591.1|COX1	YP_009175592.1|COX2	YP_009175593.1|ATP8	YP_009175594.1|ATP6	YP_009175595.1|COX3	YP_009175596.1|ND3	YP_009175597.1|ND4L	YP_009175598.1|ND4	YP_009175599.1|ND5	YP_009175601.1|CYTB
-TTT	8	6	25	6	1	6	12	4	3	9	18	5
-TTC	10	7	17	5	3	6	12	5	4	6	23	25
-TTA	8	8	6	1	0	10	2	5	3	10	8	5
-TTG	2	3	1	0	0	1	0	1	1	2	0	1
-TCT	0	2	5	3	1	1	3	0	1	5	5	5
-TCC	6	11	8	6	1	2	5	5	3	10	11	8
-TCA	12	7	8	4	0	2	4	2	5	4	12	8
-TCG	0	1	1	0	0	0	0	1	0	0	1	0
-TAT	4	1	10	3	0	1	2	2	0	8	6	2
-TAC	7	6	8	5	0	4	10	0	0	6	6	13
-TGT	0	0	0	1	0	0	1	1	2	0	2	0
-TGC	0	0	1	1	0	0	1	0	1	4	4	3
-TGA	6	10	17	5	4	5	12	5	0	17	12	12
-TGG	2	1	0	0	1	0	0	0	1	2	2	1
-CTT	9	9	15	10	0	15	6	4	6	22	17	9
-CTC	18	31	17	5	1	8	13	12	5	24	34	26
-CTA	22	20	18	11	3	16	8	5	8	31	30	19
-CTG	3	5	6	0	0	5	2	0	1	8	3	3
-CCT	7	6	12	3	4	5	5	1	2	2	11	6
-CCC	9	9	7	7	4	8	5	7	0	14	15	13
-CCA	8	4	9	4	3	4	2	0	0	8	3	3
-CCG	0	2	0	0	0	0	0	0	0	2	1	0
-CAT	1	1	9	3	0	0	6	0	2	4	4	4
-CAC	3	6	10	7	2	3	10	1	2	7	11	7
-CAA	7	13	7	7	1	8	9	1	3	9	17	5
-CAG	0	2	1	1	1	1	0	2	0	2	3	1
-CGT	1	0	3	1	0	1	1	0	0	1	0	0
-CGC	0	3	0	2	0	0	0	1	2	0	1	0
-CGA	7	2	4	2	0	3	3	1	1	8	6	7
-CGG	0	0	1	1	0	2	1	0	0	2	2	1
-ATT	15	10	30	18	2	12	6	4	1	22	28	14
-ATC	13	10	11	5	0	5	8	4	0	10	21	15
-ATA	6	10	15	8	0	4	5	1	4	19	25	5
-ATG	2	6	7	4	2	6	3	1	1	9	6	3
-ACT	2	9	6	3	2	1	0	4	2	7	13	2
-ACC	9	23	13	3	0	11	8	2	4	21	29	11
-ACA	9	10	15	3	2	10	14	3	2	13	19	8
-ACG	0	1	3	0	0	0	1	0	0	1	2	0
-AAT	6	4	8	3	2	5	0	1	2	2	6	8
-AAC	6	6	8	2	1	3	1	0	0	11	24	12
-AAA	6	9	8	3	3	2	1	1	0	9	19	8
-AAG	1	0	0	1	0	0	1	0	0	2	2	1
-AGT	1	2	2	2	0	0	0	0	1	2	2	1
-AGC	3	2	3	1	1	5	3	0	1	7	12	1
-GTT	5	1	10	4	1	4	6	1	1	4	7	5
-GTC	4	3	5	2	2	5	4	3	0	7	8	11
-GTA	8	3	21	6	0	5	5	1	1	4	10	8
-GTG	1	0	5	2	1	0	1	0	0	1	2	0
-GCT	4	3	15	3	0	1	3	0	1	8	5	7
-GCC	18	19	17	6	2	12	12	6	8	19	35	12
-GCA	13	13	16	10	1	3	8	2	4	12	15	15
-GCG	0	2	0	0	0	0	0	0	0	1	0	0
-GAT	1	1	3	2	0	1	2	0	0	2	2	3
-GAC	3	2	12	11	0	0	3	4	2	2	10	7
-GAA	9	5	8	15	3	4	9	6	2	9	9	4
-GAG	2	0	2	0	0	0	1	0	0	2	3	1
-GGT	2	2	12	2	0	4	4	0	1	6	6	3
-GGC	5	6	14	2	0	2	6	4	2	11	12	11
-GGA	9	9	12	5	0	4	8	2	2	7	9	11
-GGG	1	1	9	0	0	1	3	0	0	3	3	1
-TAA	1	1	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009175589.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	8	10	8	2	0	6	12	0	4	7	0	0	6	2	9	18	22	3	7	9	8	0	1	3	7	0	1	0	7	0	15	13	6	2	2	9	9	0	6	6	6	1	1	3	5	4	8	1	4	18	13	0	1	3	9	2	2	5	9	1	1	0	0	0
+1	ND2	YP_009175590.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	6	7	8	3	2	11	7	1	1	6	0	0	10	1	9	31	20	5	6	9	4	2	1	6	13	2	0	3	2	0	10	10	10	6	9	23	10	1	4	6	9	0	2	2	1	3	3	0	3	19	13	2	1	2	5	0	2	6	9	1	1	0	0	0
+2	COX1	YP_009175591.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	25	17	6	1	5	8	8	1	10	8	0	1	17	0	15	17	18	6	12	7	9	0	9	10	7	1	3	0	4	1	30	11	15	7	6	13	15	3	8	8	8	0	2	3	10	5	21	5	15	17	16	0	3	12	8	2	12	14	12	9	1	0	0	0
+3	COX2	YP_009175592.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	6	5	1	0	3	6	4	0	3	5	1	1	5	0	10	5	11	0	3	7	4	0	3	7	7	1	1	2	2	1	18	5	8	4	3	3	3	0	3	2	3	1	2	1	4	2	6	2	3	6	10	0	2	11	15	0	2	2	5	0	0	0	0	0
+4	ATP8	YP_009175593.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	1	3	0	0	1	1	0	0	0	0	0	0	4	1	0	1	3	0	4	4	3	0	0	2	1	1	0	0	0	0	2	0	0	2	2	0	2	0	2	1	3	0	0	1	1	2	0	1	0	2	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009175594.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	6	6	10	1	1	2	2	0	1	4	0	0	5	0	15	8	16	5	5	8	4	0	0	3	8	1	1	0	3	2	12	5	4	6	1	11	10	0	5	3	2	0	0	5	4	5	5	0	1	12	3	0	1	0	4	0	4	2	4	1	1	0	0	0
+6	COX3	YP_009175595.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	12	12	2	0	3	5	4	0	2	10	1	1	12	0	6	13	8	2	5	5	2	0	6	10	9	0	1	0	3	1	6	8	5	3	0	8	14	1	0	1	1	1	0	3	6	4	5	1	3	12	8	0	2	3	9	1	4	6	8	3	0	0	0	0
+7	ND3	YP_009175596.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	4	5	5	1	0	5	2	1	2	0	1	0	5	0	4	12	5	0	1	7	0	0	0	1	1	2	0	1	1	0	4	4	1	1	4	2	3	0	1	0	1	0	0	0	1	3	1	0	0	6	2	0	0	4	6	0	0	4	2	0	0	0	0	0
+8	ND4L	YP_009175597.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	3	4	3	1	1	3	5	0	0	0	2	1	0	1	6	5	8	1	2	0	0	0	2	2	3	0	0	2	1	0	1	0	4	1	2	4	2	0	2	0	0	0	1	1	1	0	1	0	1	8	4	0	0	2	2	0	1	2	2	0	1	0	0	0
+9	ND4	YP_009175598.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	9	6	10	2	5	10	4	0	8	6	0	4	17	2	22	24	31	8	2	14	8	2	4	7	9	2	1	0	8	2	22	10	19	9	7	21	13	1	2	11	9	2	2	7	4	7	4	1	8	19	12	1	2	2	9	2	6	11	7	3	0	0	0	0
+10	ND5	YP_009175599.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	18	23	8	0	5	11	12	1	6	6	2	4	12	2	17	34	30	3	11	15	3	1	4	11	17	3	0	1	6	2	28	21	25	6	13	29	19	2	6	24	19	2	2	12	7	8	10	2	5	35	15	0	2	10	9	3	6	12	9	3	1	0	0	0
+11	CYTB	YP_009175601.1	Banjos banjos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Pempheriformes, Banjosidae, Banjos	5	25	5	1	5	8	8	0	2	13	0	3	12	1	9	26	19	3	6	13	3	0	4	7	5	1	0	0	7	1	14	15	5	3	2	11	8	0	8	12	8	1	1	1	5	11	8	0	7	12	15	0	3	7	4	1	3	11	11	1	0	0	0	0

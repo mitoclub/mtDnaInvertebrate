@@ -1,65 +1,13 @@
-	YP_007316831.1|ND1	YP_007316832.1|ND2	YP_007316833.1|COX1	YP_007316834.1|COX2	YP_007316835.1|ATP8	YP_007316836.1|ATP6	YP_007316837.1|COX3	YP_007316838.1|ND3	YP_007316839.1|ND4L	YP_007316840.1|ND4	YP_007316841.1|ND5	YP_007316843.1|CYTB
-TTT	14	12	21	6	3	12	13	6	5	14	20	17
-TTC	7	4	21	3	1	3	12	1	1	12	15	15
-TTA	15	20	21	4	1	16	5	3	8	22	24	10
-TTG	1	1	0	2	0	1	2	1	1	1	3	2
-TCT	8	7	11	8	3	1	0	4	4	7	13	3
-TCC	3	10	8	0	0	4	2	1	2	10	11	10
-TCA	10	12	11	6	4	4	6	3	1	15	19	11
-TCG	1	1	0	0	0	0	1	0	0	0	1	1
-TAT	4	6	9	5	1	0	1	2	0	6	6	6
-TAC	5	2	9	3	0	3	10	2	0	4	11	8
-TGT	0	0	0	0	0	0	0	0	3	2	2	1
-TGC	2	0	0	2	0	1	2	1	0	4	6	2
-TGA	8	11	17	5	5	5	13	5	1	11	10	10
-TGG	0	0	0	0	0	0	0	0	0	2	1	0
-CTT	15	17	15	8	4	14	10	6	8	23	20	13
-CTC	3	10	7	5	1	8	6	7	4	11	10	10
-CTA	17	21	17	8	0	9	5	6	2	21	24	17
-CTG	2	1	3	0	1	3	0	1	2	2	5	2
-CCT	2	1	3	3	3	3	1	1	0	3	7	2
-CCC	7	2	4	3	0	1	4	1	1	12	9	4
-CCA	14	13	16	6	3	11	6	6	1	7	9	14
-CCG	0	0	3	1	1	1	0	2	0	0	0	2
-CAT	3	0	10	2	1	1	5	0	0	6	5	4
-CAC	0	4	9	5	0	2	9	0	4	3	7	8
-CAA	7	11	5	6	2	7	9	2	1	13	13	6
-CAG	0	0	2	1	0	1	0	0	0	0	2	1
-CGT	2	1	1	1	0	1	2	0	0	1	0	1
-CGC	1	1	0	0	0	1	1	0	0	2	3	2
-CGA	5	1	7	5	0	3	1	2	2	7	7	6
-CGG	0	0	0	0	0	0	1	0	0	1	0	0
-ATT	21	28	28	16	2	17	13	3	4	32	52	17
-ATC	11	6	10	6	1	5	2	5	0	13	18	21
-ATA	11	13	20	9	0	4	10	3	6	22	27	9
-ATG	4	1	7	2	2	1	1	1	4	2	6	1
-ACT	7	10	13	7	1	8	10	1	1	9	13	3
-ACC	9	12	14	5	1	10	3	4	2	17	17	12
-ACA	9	18	14	3	0	9	14	0	6	15	15	13
-ACG	1	1	0	0	0	1	0	0	0	0	1	0
-AAT	4	6	6	3	1	6	2	0	1	6	18	7
-AAC	9	9	10	6	1	3	3	1	3	2	13	13
-AAA	7	12	8	4	5	2	2	1	1	10	19	9
-AAG	0	0	0	1	0	1	0	0	0	2	4	0
-AGT	1	1	1	1	0	2	0	0	1	2	5	0
-AGC	0	4	3	5	0	1	3	1	1	4	9	1
-GTT	5	2	15	3	0	4	5	2	1	7	8	6
-GTC	5	2	6	1	0	4	5	0	0	2	2	3
-GTA	3	2	12	8	1	2	5	4	0	4	10	9
-GTG	1	0	6	1	1	0	1	0	1	1	2	1
-GCT	6	1	15	1	1	2	7	3	3	9	14	9
-GCC	10	17	19	7	0	8	8	1	2	20	17	11
-GCA	11	8	5	11	0	7	7	6	3	15	19	8
-GCG	1	0	1	0	0	0	0	0	0	1	0	1
-GAT	0	0	9	5	1	0	4	0	0	3	7	3
-GAC	3	1	7	6	1	0	0	3	1	1	5	6
-GAA	10	7	7	8	0	4	9	5	3	10	9	5
-GAG	0	0	2	3	0	0	0	1	0	3	1	0
-GGT	2	0	10	1	0	3	1	0	1	4	3	3
-GGC	5	3	15	2	1	3	7	1	1	3	6	8
-GGA	7	10	17	4	0	3	8	3	1	10	12	10
-GGG	1	1	4	2	0	1	4	1	2	3	5	5
-TAA	0	1	0	0	1	1	0	0	0	1	0	1
-TAG	0	0	0	0	0	0	0	0	1	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007316831.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	14	7	15	1	8	3	10	1	4	5	0	2	8	0	15	3	17	2	2	7	14	0	3	0	7	0	2	1	5	0	21	11	11	4	7	9	9	1	4	9	7	0	1	0	5	5	3	1	6	10	11	1	0	3	10	0	2	5	7	1	0	0	0	0
+1	ND2	YP_007316832.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	12	4	20	1	7	10	12	1	6	2	0	0	11	0	17	10	21	1	1	2	13	0	0	4	11	0	1	1	1	0	28	6	13	1	10	12	18	1	6	9	12	0	1	4	2	2	2	0	1	17	8	0	0	1	7	0	0	3	10	1	1	0	0	0
+2	COX1	YP_007316833.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	21	21	21	0	11	8	11	0	9	9	0	0	17	0	15	7	17	3	3	4	16	3	10	9	5	2	1	0	7	0	28	10	20	7	13	14	14	0	6	10	8	0	1	3	15	6	12	6	15	19	5	1	9	7	7	2	10	15	17	4	0	0	1	0
+3	COX2	YP_007316834.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	6	3	4	2	8	0	6	0	5	3	0	2	5	0	8	5	8	0	3	3	6	1	2	5	6	1	1	0	5	0	16	6	9	2	7	5	3	0	3	6	4	1	1	5	3	1	8	1	1	7	11	0	5	6	8	3	1	2	4	2	0	0	0	0
+4	ATP8	YP_007316835.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	3	1	1	0	3	0	4	0	1	0	0	0	5	0	4	1	0	1	3	0	3	1	1	0	2	0	0	0	0	0	2	1	0	2	1	1	0	0	1	1	5	0	0	0	0	0	1	1	1	0	0	0	1	1	0	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_007316836.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	12	3	16	1	1	4	4	0	0	3	0	1	5	0	14	8	9	3	3	1	11	1	1	2	7	1	1	1	3	0	17	5	4	1	8	10	9	1	6	3	2	1	2	1	4	4	2	0	2	8	7	0	0	0	4	0	3	3	3	1	1	0	0	0
+6	COX3	YP_007316837.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	13	12	5	2	0	2	6	1	1	10	0	2	13	0	10	6	5	0	1	4	6	0	5	9	9	0	2	1	1	1	13	2	10	1	10	3	14	0	2	3	2	0	0	3	5	5	5	1	7	8	7	0	4	0	9	0	1	7	8	4	0	0	0	0
+7	ND3	YP_007316838.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	6	1	3	1	4	1	3	0	2	2	0	1	5	0	6	7	6	1	1	1	6	2	0	0	2	0	0	0	2	0	3	5	3	1	1	4	0	0	0	1	1	0	0	1	2	0	4	0	3	1	6	0	0	3	5	1	0	1	3	1	0	0	0	0
+8	ND4L	YP_007316839.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	5	1	8	1	4	2	1	0	0	0	3	0	1	0	8	4	2	2	0	1	1	0	0	4	1	0	0	0	2	0	4	0	6	4	1	2	6	0	1	3	1	0	1	1	1	0	0	1	3	2	3	0	0	1	3	0	1	1	1	2	0	1	0	0
+9	ND4	YP_007316840.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	14	12	22	1	7	10	15	0	6	4	2	4	11	2	23	11	21	2	3	12	7	0	6	3	13	0	1	2	7	1	32	13	22	2	9	17	15	0	6	2	10	2	2	4	7	2	4	1	9	20	15	1	3	1	10	3	4	3	10	3	1	0	0	0
+10	ND5	YP_007316841.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	20	15	24	3	13	11	19	1	6	11	2	6	10	1	20	10	24	5	7	9	9	0	5	7	13	2	0	3	7	0	52	18	27	6	13	17	15	1	18	13	19	4	5	9	8	2	10	2	14	17	19	0	7	5	9	1	3	6	12	5	0	0	1	0
+11	CYTB	YP_007316843.1	Telmatobius bolivianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Ceratophryidae, Telmatobiinae, Telmatobius	17	15	10	2	3	10	11	1	6	8	1	2	10	0	13	10	17	2	2	4	14	2	4	8	6	1	1	2	6	0	17	21	9	1	3	12	13	0	7	13	9	0	0	1	6	3	9	1	9	11	8	1	3	6	5	0	3	8	10	5	1	0	0	0

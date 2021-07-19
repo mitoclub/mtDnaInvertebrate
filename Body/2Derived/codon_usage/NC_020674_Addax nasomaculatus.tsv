@@ -1,65 +1,13 @@
-	YP_007625718.1|ND1	YP_007625719.1|ND2	YP_007625720.1|COX1	YP_007625721.1|COX2	YP_007625722.1|ATP8	YP_007625723.1|ATP6	YP_007625724.1|COX3	YP_007625725.1|ND3	YP_007625726.1|ND4L	YP_007625727.1|ND4	YP_007625728.1|ND5	YP_007625730.1|CYTB
-TTT	9	4	19	5	1	7	12	5	0	6	15	12
-TTC	12	11	23	1	3	6	12	3	4	15	31	13
-TTA	9	16	14	11	2	8	7	2	4	16	9	7
-TTG	0	0	2	2	1	1	1	0	1	1	4	0
-TCT	0	5	12	4	0	2	2	0	2	4	9	2
-TCC	6	7	2	4	0	1	2	1	4	15	12	7
-TCA	12	15	12	7	4	6	11	3	3	8	14	10
-TCG	1	0	1	1	0	0	0	0	0	1	1	0
-TAT	3	2	10	5	1	0	6	0	2	6	9	8
-TAC	9	6	9	6	2	2	5	3	1	8	8	7
-TGT	1	0	1	1	0	0	0	0	1	1	1	0
-TGC	0	0	0	1	0	0	2	1	2	2	4	4
-TGA	9	10	15	5	3	3	11	4	0	11	9	12
-TGG	0	0	2	0	0	0	1	0	0	2	3	0
-CTT	5	5	8	2	1	6	5	2	4	11	13	8
-CTC	8	9	6	3	2	5	8	9	1	17	14	12
-CTA	29	22	23	10	4	20	10	14	12	40	46	25
-CTG	3	1	6	5	0	4	1	0	0	9	3	5
-CCT	4	3	11	0	2	4	0	2	0	4	5	4
-CCC	8	4	8	4	1	2	7	1	1	10	11	5
-CCA	10	10	8	9	3	6	5	3	0	8	10	13
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	2	2	10	4	1	2	3	0	0	8	2	1
-CAC	1	3	7	3	0	4	14	0	3	5	11	11
-CAA	7	10	6	6	2	9	7	2	2	10	17	6
-CAG	0	0	0	0	1	0	0	1	0	1	1	0
-CGT	1	0	0	1	0	1	0	0	0	2	1	0
-CGC	0	0	2	0	0	1	3	1	0	2	5	0
-CGA	7	3	5	5	0	2	2	0	1	6	2	8
-CGG	0	0	1	0	0	0	0	0	0	0	1	0
-ATT	14	24	20	13	3	17	9	1	2	17	25	14
-ATC	17	14	17	6	2	7	6	3	3	23	35	25
-ATA	18	41	26	14	4	10	7	5	8	31	40	13
-ATG	2	1	8	3	1	3	3	2	4	3	2	1
-ACT	2	4	7	2	1	3	2	2	1	5	10	3
-ACC	5	17	12	5	1	7	10	4	2	10	20	6
-ACA	13	16	18	11	4	12	11	6	2	18	26	19
-ACG	1	1	1	0	1	2	1	1	0	2	2	1
-AAT	3	6	6	3	0	4	1	1	3	8	11	4
-AAC	10	11	13	2	3	7	6	4	2	16	25	12
-AAA	7	13	9	3	5	4	2	3	0	10	20	8
-AAG	0	0	0	3	0	0	0	0	0	1	2	1
-AGT	1	1	0	3	0	1	3	2	0	3	1	1
-AGC	2	1	3	2	0	5	2	0	1	8	13	3
-GTT	2	0	6	0	0	2	1	1	1	3	3	2
-GTC	3	5	8	4	1	3	7	1	0	6	5	9
-GTA	8	4	18	6	0	5	7	2	5	9	7	10
-GTG	0	0	6	1	0	0	0	0	1	0	1	0
-GCT	4	3	13	0	0	4	3	3	1	7	4	1
-GCC	9	11	10	2	0	8	8	4	2	6	12	9
-GCA	15	5	16	6	2	5	4	2	3	14	21	14
-GCG	0	2	2	0	0	0	0	0	2	1	0	1
-GAT	1	0	7	3	1	1	1	0	1	3	3	0
-GAC	2	0	8	7	0	0	2	2	0	1	7	12
-GAA	11	5	7	15	2	1	6	6	2	8	10	6
-GAG	0	0	2	0	0	2	2	0	0	0	2	0
-GGT	1	0	5	0	0	1	4	0	0	3	4	0
-GGC	5	4	13	2	0	4	8	0	2	6	10	9
-GGA	4	9	25	5	1	6	6	3	2	7	13	14
-GGG	2	1	4	1	0	0	2	0	0	1	1	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007625718.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	9	12	9	0	0	6	12	1	3	9	1	0	9	0	5	8	29	3	4	8	10	0	2	1	7	0	1	0	7	0	14	17	18	2	2	5	13	1	3	10	7	0	1	2	2	3	8	0	4	9	15	0	1	2	11	0	1	5	4	2	0	0	0	0
+1	ND2	YP_007625719.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	4	11	16	0	5	7	15	0	2	6	0	0	10	0	5	9	22	1	3	4	10	0	2	3	10	0	0	0	3	0	24	14	41	1	4	17	16	1	6	11	13	0	1	1	0	5	4	0	3	11	5	2	0	0	5	0	0	4	9	1	0	0	0	0
+2	COX1	YP_007625720.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	19	23	14	2	12	2	12	1	10	9	1	0	15	2	8	6	23	6	11	8	8	1	10	7	6	0	0	2	5	1	20	17	26	8	7	12	18	1	6	13	9	0	0	3	6	8	18	6	13	10	16	2	7	8	7	2	5	13	25	4	1	0	0	0
+3	COX2	YP_007625721.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	5	1	11	2	4	4	7	1	5	6	1	1	5	0	2	3	10	5	0	4	9	0	4	3	6	0	1	0	5	0	13	6	14	3	2	5	11	0	3	2	3	3	3	2	0	4	6	1	0	2	6	0	3	7	15	0	0	2	5	1	1	0	0	0
+4	ATP8	YP_007625722.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	1	3	2	1	0	0	4	0	1	2	0	0	3	0	1	2	4	0	2	1	3	0	1	0	2	1	0	0	0	0	3	2	4	1	1	1	4	1	0	3	5	0	0	0	0	1	0	0	0	0	2	0	1	0	2	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_007625723.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	7	6	8	1	2	1	6	0	0	2	0	0	3	0	6	5	20	4	4	2	6	0	2	4	9	0	1	1	2	0	17	7	10	3	3	7	12	2	4	7	4	0	1	5	2	3	5	0	4	8	5	0	1	0	1	2	1	4	6	0	1	0	0	0
+6	COX3	YP_007625724.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	12	12	7	1	2	2	11	0	6	5	0	2	11	1	5	8	10	1	0	7	5	0	3	14	7	0	0	3	2	0	9	6	7	3	2	10	11	1	1	6	2	0	3	2	1	7	7	0	3	8	4	0	1	2	6	2	4	8	6	2	0	0	0	0
+7	ND3	YP_007625725.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	5	3	2	0	0	1	3	0	0	3	0	1	4	0	2	9	14	0	2	1	3	0	0	0	2	1	0	1	0	0	1	3	5	2	2	4	6	1	1	4	3	0	2	0	1	1	2	0	3	4	2	0	0	2	6	0	0	0	3	0	0	0	0	0
+8	ND4L	YP_007625726.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	0	4	4	1	2	4	3	0	2	1	1	2	0	0	4	1	12	0	0	1	0	0	0	3	2	0	0	0	1	0	2	3	8	4	1	2	2	0	3	2	0	0	0	1	1	0	5	1	1	2	3	2	1	0	2	0	0	2	2	0	1	0	0	0
+9	ND4	YP_007625727.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	6	15	16	1	4	15	8	1	6	8	1	2	11	2	11	17	40	9	4	10	8	0	8	5	10	1	2	2	6	0	17	23	31	3	5	10	18	2	8	16	10	1	3	8	3	6	9	0	7	6	14	1	3	1	8	0	3	6	7	1	0	0	0	0
+10	ND5	YP_007625728.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	15	31	9	4	9	12	14	1	9	8	1	4	9	3	13	14	46	3	5	11	10	0	2	11	17	1	1	5	2	1	25	35	40	2	10	20	26	2	11	25	20	2	1	13	3	5	7	1	4	12	21	0	3	7	10	2	4	10	13	1	1	0	0	0
+11	CYTB	YP_007625730.1	Addax nasomaculatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Hippotraginae, Addax	12	13	7	0	2	7	10	0	8	7	0	4	12	0	8	12	25	5	4	5	13	0	1	11	6	0	0	0	8	0	14	25	13	1	3	6	19	1	4	12	8	1	1	3	2	9	10	0	1	9	14	1	0	12	6	0	0	9	14	1	0	0	1	0

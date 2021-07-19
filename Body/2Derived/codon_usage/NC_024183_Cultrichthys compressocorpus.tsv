@@ -1,65 +1,13 @@
-	YP_009034323.1|ND1	YP_009034324.1|ND2	YP_009034325.1|COX1	YP_009034326.1|COX2	YP_009034327.1|ATP8	YP_009034328.1|ATP6	YP_009034329.1|COX3	YP_009034330.1|ND3	YP_009034331.1|ND4L	YP_009034332.1|ND4	YP_009034333.1|ND5	YP_009034335.1|CYTB
-TTT	5	4	15	2	2	8	5	2	3	6	11	7
-TTC	11	5	27	7	1	6	18	7	5	10	28	21
-TTA	8	12	6	6	2	8	5	3	5	17	15	9
-TTG	0	1	3	1	0	0	0	0	0	1	1	3
-TCT	2	2	7	4	0	0	2	2	0	4	5	6
-TCC	4	8	7	4	1	2	3	2	4	10	10	5
-TCA	10	7	10	5	0	1	7	2	2	8	13	10
-TCG	2	1	1	0	0	1	0	0	0	1	1	0
-TAT	9	2	5	4	0	2	6	2	0	5	4	6
-TAC	4	6	13	5	0	1	5	0	0	9	7	9
-TGT	0	0	1	0	0	0	0	0	0	1	0	2
-TGC	0	1	0	2	0	0	2	1	3	4	5	1
-TGA	8	11	15	5	5	3	11	5	0	19	12	12
-TGG	0	0	2	0	0	2	1	0	1	1	2	1
-CTT	6	9	15	7	1	5	6	1	2	13	16	7
-CTC	8	6	12	1	0	14	8	5	4	17	19	9
-CTA	36	29	17	12	1	14	9	11	10	37	40	28
-CTG	5	6	9	1	0	6	4	5	2	1	4	4
-CCT	7	0	5	0	0	3	1	0	1	2	9	3
-CCC	7	8	5	6	4	3	3	4	0	5	10	2
-CCA	10	11	16	7	5	11	8	4	1	20	12	14
-CCG	0	0	2	1	0	1	0	0	0	1	0	2
-CAT	0	0	4	4	0	1	7	1	1	3	5	2
-CAC	5	6	14	6	2	2	9	0	3	9	9	10
-CAA	7	14	8	8	1	7	9	3	3	12	15	6
-CAG	0	0	0	0	0	1	0	0	0	0	3	0
-CGT	0	1	1	1	0	0	2	0	1	1	0	1
-CGC	2	1	1	1	0	0	1	0	1	1	1	2
-CGA	5	2	6	3	0	5	2	1	1	8	9	4
-CGG	1	0	0	1	0	1	0	1	0	1	0	1
-ATT	11	19	24	13	3	15	9	4	2	24	29	15
-ATC	12	9	13	5	2	7	6	5	0	15	28	16
-ATA	7	16	15	10	1	9	6	3	3	19	24	10
-ATG	2	4	9	2	1	3	2	1	2	7	11	2
-ACT	4	3	7	4	1	5	2	3	1	8	5	3
-ACC	6	21	7	2	3	4	3	3	2	17	28	11
-ACA	7	21	22	4	2	10	17	3	3	18	28	9
-ACG	2	1	1	1	0	1	0	0	1	1	2	1
-AAT	4	3	7	1	2	5	0	0	1	1	8	6
-AAC	7	8	9	3	2	5	1	3	1	10	23	11
-AAA	5	8	8	3	3	1	2	1	0	8	19	9
-AAG	2	1	0	1	0	0	0	0	0	3	3	1
-AGT	0	0	1	0	1	0	0	0	0	1	2	1
-AGC	5	6	3	4	0	4	3	0	4	5	11	1
-GTT	1	0	9	6	0	4	5	0	0	5	5	4
-GTC	4	4	9	3	1	2	3	1	0	4	7	9
-GTA	14	5	23	8	1	10	7	2	2	8	7	8
-GTG	2	2	3	3	0	0	2	0	0	3	3	4
-GCT	1	5	10	1	0	4	3	0	0	1	4	2
-GCC	18	20	20	8	0	9	11	4	7	16	23	11
-GCA	13	12	16	4	1	5	8	4	7	12	18	15
-GCG	2	1	1	3	0	1	0	0	0	4	1	2
-GAT	2	1	4	2	0	0	1	1	1	1	2	1
-GAC	2	2	11	11	1	1	4	3	0	3	11	10
-GAA	10	4	10	12	3	4	8	5	3	11	10	5
-GAG	1	1	1	3	1	0	2	1	0	0	2	1
-GGT	0	0	11	1	0	1	2	1	0	0	2	2
-GGC	3	3	7	4	0	3	5	1	1	7	6	5
-GGA	12	13	22	4	0	6	11	4	3	16	16	11
-GGG	3	2	6	0	0	0	4	1	1	5	7	7
-TAA	1	0	1	0	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009034323.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	5	11	8	0	2	4	10	2	9	4	0	0	8	0	6	8	36	5	7	7	10	0	0	5	7	0	0	2	5	1	11	12	7	2	4	6	7	2	4	7	5	2	0	5	1	4	14	2	1	18	13	2	2	2	10	1	0	3	12	3	1	0	0	0
+1	ND2	YP_009034324.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	4	5	12	1	2	8	7	1	2	6	0	1	11	0	9	6	29	6	0	8	11	0	0	6	14	0	1	1	2	0	19	9	16	4	3	21	21	1	3	8	8	1	0	6	0	4	5	2	5	20	12	1	1	2	4	1	0	3	13	2	0	0	0	0
+2	COX1	YP_009034325.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	15	27	6	3	7	7	10	1	5	13	1	0	15	2	15	12	17	9	5	5	16	2	4	14	8	0	1	1	6	0	24	13	15	9	7	7	22	1	7	9	8	0	1	3	9	9	23	3	10	20	16	1	4	11	10	1	11	7	22	6	1	0	0	0
+3	COX2	YP_009034326.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	2	7	6	1	4	4	5	0	4	5	0	2	5	0	7	1	12	1	0	6	7	1	4	6	8	0	1	1	3	1	13	5	10	2	4	2	4	1	1	3	3	1	0	4	6	3	8	3	1	8	4	3	2	11	12	3	1	4	4	0	0	0	0	0
+4	ATP8	YP_009034327.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	2	1	2	0	0	1	0	0	0	0	0	0	5	0	1	0	1	0	0	4	5	0	0	2	1	0	0	0	0	0	3	2	1	1	1	3	2	0	2	2	3	0	1	0	0	1	1	0	0	0	1	0	0	1	3	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009034328.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	8	6	8	0	0	2	1	1	2	1	0	0	3	2	5	14	14	6	3	3	11	1	1	2	7	1	0	0	5	1	15	7	9	3	5	4	10	1	5	5	1	0	0	4	4	2	10	0	4	9	5	1	0	1	4	0	1	3	6	0	1	0	0	0
+6	COX3	YP_009034329.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	5	18	5	0	2	3	7	0	6	5	0	2	11	1	6	8	9	4	1	3	8	0	7	9	9	0	2	1	2	0	9	6	6	2	2	3	17	0	0	1	2	0	0	3	5	3	7	2	3	11	8	0	1	4	8	2	2	5	11	4	0	0	0	0
+7	ND3	YP_009034330.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	2	7	3	0	2	2	2	0	2	0	0	1	5	0	1	5	11	5	0	4	4	0	1	0	3	0	0	0	1	1	4	5	3	1	3	3	3	0	0	3	1	0	0	0	0	1	2	0	0	4	4	0	1	3	5	1	1	1	4	1	0	0	0	0
+8	ND4L	YP_009034331.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	3	5	5	0	0	4	2	0	0	0	0	3	0	1	2	4	10	2	1	0	1	0	1	3	3	0	1	1	1	0	2	0	3	2	1	2	3	1	1	1	0	0	0	4	0	0	2	0	0	7	7	0	1	0	3	0	0	1	3	1	1	0	0	0
+9	ND4	YP_009034332.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	6	10	17	1	4	10	8	1	5	9	1	4	19	1	13	17	37	1	2	5	20	1	3	9	12	0	1	1	8	1	24	15	19	7	8	17	18	1	1	10	8	3	1	5	5	4	8	3	1	16	12	4	1	3	11	0	0	7	16	5	0	0	0	0
+10	ND5	YP_009034333.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	11	28	15	1	5	10	13	1	4	7	0	5	12	2	16	19	40	4	9	10	12	0	5	9	15	3	0	1	9	0	29	28	24	11	5	28	28	2	8	23	19	3	2	11	5	7	7	3	4	23	18	1	2	11	10	2	2	6	16	7	0	1	0	0
+11	CYTB	YP_009034335.1	Cultrichthys compressocorpus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cultrichthys	7	21	9	3	6	5	10	0	6	9	2	1	12	1	7	9	28	4	3	2	14	2	2	10	6	0	1	2	4	1	15	16	10	2	3	11	9	1	6	11	9	1	1	1	4	9	8	4	2	11	15	2	1	10	5	1	2	5	11	7	0	0	0	0

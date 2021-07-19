@@ -1,65 +1,13 @@
-	NP_861502.1|ND1	NP_861503.1|ND2	NP_861504.1|COX1	NP_861505.1|COX2	NP_861506.1|ATP8	NP_861507.1|ATP6	NP_861508.1|COX3	NP_861509.1|ND3	NP_861510.1|ND4L	NP_861511.1|ND4	NP_861512.1|ND5	NP_861514.1|CYTB
-TTT	6	5	11	5	1	6	7	3	1	9	12	6
-TTC	12	10	31	3	3	6	18	5	4	11	24	21
-TTA	9	14	8	4	2	10	5	5	6	14	20	11
-TTG	0	0	3	0	1	0	0	0	1	1	1	1
-TCT	0	3	7	2	3	2	3	1	0	7	12	2
-TCC	8	8	7	3	1	1	4	0	4	8	12	7
-TCA	9	15	12	8	4	5	10	4	6	21	18	11
-TCG	1	1	0	1	0	0	0	0	0	2	1	0
-TAT	4	3	7	2	1	0	7	1	2	1	8	7
-TAC	10	6	11	7	0	2	4	2	1	12	13	8
-TGT	1	0	0	1	0	0	0	0	1	0	1	0
-TGC	2	0	1	1	0	0	2	1	2	3	3	3
-TGA	8	10	17	5	3	3	12	4	0	11	11	12
-TGG	0	0	0	0	0	1	0	0	0	2	1	0
-CTT	9	11	10	5	1	5	7	4	4	19	15	10
-CTC	7	13	3	4	0	6	6	6	4	15	21	12
-CTA	27	25	24	15	3	15	15	10	9	33	37	26
-CTG	3	5	7	3	1	4	0	1	1	2	5	1
-CCT	5	2	6	5	4	5	5	3	1	6	7	4
-CCC	9	9	7	2	0	5	2	1	0	6	10	11
-CCA	10	9	15	6	1	3	4	2	1	10	11	7
-CCG	0	0	0	1	0	0	0	0	0	0	0	0
-CAT	1	3	5	2	1	4	5	0	0	0	7	7
-CAC	1	3	11	6	1	3	11	0	2	13	8	7
-CAA	7	7	5	4	2	5	7	3	2	8	17	4
-CAG	1	0	2	1	1	2	0	0	0	1	0	2
-CGT	2	1	2	2	0	0	0	0	1	2	4	1
-CGC	2	0	2	0	1	1	2	1	0	2	2	2
-CGA	3	2	4	4	0	4	3	0	0	6	3	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	17	16	29	13	3	21	10	7	4	22	29	14
-ATC	15	16	13	7	5	10	6	1	4	26	30	24
-ATA	16	27	29	8	0	9	8	7	5	32	33	13
-ATG	3	3	3	4	1	3	1	0	2	3	2	4
-ACT	4	8	12	5	2	8	4	3	1	5	13	5
-ACC	8	12	10	8	3	6	10	1	3	19	22	8
-ACA	7	13	16	6	4	7	8	3	2	21	19	11
-ACG	2	0	1	0	1	1	0	0	0	1	1	2
-AAT	5	8	4	3	0	5	3	4	2	6	11	4
-AAC	7	16	14	3	2	6	6	0	4	11	26	11
-AAA	7	8	9	4	4	3	2	4	0	10	20	9
-AAG	0	0	0	0	0	1	0	0	0	0	0	0
-AGT	0	1	1	2	1	0	4	0	0	1	1	0
-AGC	2	3	2	4	1	4	0	1	0	7	12	2
-GTT	4	2	8	4	0	4	3	0	1	2	4	3
-GTC	4	2	8	3	0	1	2	1	1	5	8	9
-GTA	4	3	20	5	0	5	9	3	3	7	7	6
-GTG	1	1	3	0	0	1	0	1	0	0	1	0
-GCT	6	4	14	1	0	5	5	0	1	8	5	5
-GCC	11	12	16	9	0	5	5	2	2	11	15	11
-GCA	13	7	11	2	2	8	5	8	3	7	14	8
-GCG	0	0	0	0	0	0	0	0	0	0	1	0
-GAT	1	0	1	4	1	1	2	0	0	0	1	4
-GAC	2	0	13	8	1	0	1	2	1	3	8	7
-GAA	9	4	9	12	1	3	8	6	2	9	10	6
-GAG	2	1	2	0	0	0	0	0	0	1	1	0
-GGT	4	5	10	1	0	0	3	1	1	3	8	4
-GGC	3	6	10	3	0	5	7	2	1	5	10	9
-GGA	3	4	17	5	0	6	10	1	2	8	7	11
-GGG	1	0	10	0	0	0	0	0	0	1	2	1
-TAA	0	0	1	1	0	1	0	0	1	0	1	1
-TAG	1	1	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_861502.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	6	12	9	0	0	8	9	1	4	10	1	2	8	0	9	7	27	3	5	9	10	0	1	1	7	1	2	2	3	0	17	15	16	3	4	8	7	2	5	7	7	0	0	2	4	4	4	1	6	11	13	0	1	2	9	2	4	3	3	1	0	1	0	0
+1	ND2	NP_861503.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	5	10	14	0	3	8	15	1	3	6	0	0	10	0	11	13	25	5	2	9	9	0	3	3	7	0	1	0	2	0	16	16	27	3	8	12	13	0	8	16	8	0	1	3	2	2	3	1	4	12	7	0	0	0	4	1	5	6	4	0	0	1	0	0
+2	COX1	NP_861504.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	11	31	8	3	7	7	12	0	7	11	0	1	17	0	10	3	24	7	6	7	15	0	5	11	5	2	2	2	4	0	29	13	29	3	12	10	16	1	4	14	9	0	1	2	8	8	20	3	14	16	11	0	1	13	9	2	10	10	17	10	1	0	0	0
+3	COX2	NP_861505.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	5	3	4	0	2	3	8	1	2	7	1	1	5	0	5	4	15	3	5	2	6	1	2	6	4	1	2	0	4	0	13	7	8	4	5	8	6	0	3	3	4	0	2	4	4	3	5	0	1	9	2	0	4	8	12	0	1	3	5	0	1	0	0	0
+4	ATP8	NP_861506.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	1	3	2	1	3	1	4	0	1	0	0	0	3	0	1	0	3	1	4	0	1	0	1	1	2	1	0	1	0	0	3	5	0	1	2	3	4	1	0	2	4	0	1	1	0	0	0	0	0	0	2	0	1	1	1	0	0	0	0	0	0	1	0	0
+5	ATP6	NP_861507.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	6	6	10	0	2	1	5	0	0	2	0	0	3	1	5	6	15	4	5	5	3	0	4	3	5	2	0	1	4	0	21	10	9	3	8	6	7	1	5	6	3	1	0	4	4	1	5	1	5	5	8	0	1	0	3	0	0	5	6	0	1	0	0	0
+6	COX3	NP_861508.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	7	18	5	0	3	4	10	0	7	4	0	2	12	0	7	6	15	0	5	2	4	0	5	11	7	0	0	2	3	0	10	6	8	1	4	10	8	0	3	6	2	0	4	0	3	2	9	0	5	5	5	0	2	1	8	0	3	7	10	0	0	0	0	0
+7	ND3	NP_861509.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	3	5	5	0	1	0	4	0	1	2	0	1	4	0	4	6	10	1	3	1	2	0	0	0	3	0	0	1	0	0	7	1	7	0	3	1	3	0	4	0	4	0	0	1	0	1	3	1	0	2	8	0	0	2	6	0	1	2	1	0	0	0	0	0
+8	ND4L	NP_861510.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	1	4	6	1	0	4	6	0	2	1	1	2	0	0	4	4	9	1	1	0	1	0	0	2	2	0	1	0	0	0	4	4	5	2	1	3	2	0	2	4	0	0	0	0	1	1	3	0	1	2	3	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	NP_861511.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	9	11	14	1	7	8	21	2	1	12	0	3	11	2	19	15	33	2	6	6	10	0	0	13	8	1	2	2	6	0	22	26	32	3	5	19	21	1	6	11	10	0	1	7	2	5	7	0	8	11	7	0	0	3	9	1	3	5	8	1	0	0	0	0
+10	ND5	NP_861512.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	12	24	20	1	12	12	18	1	8	13	1	3	11	1	15	21	37	5	7	10	11	0	7	8	17	0	4	2	3	0	29	30	33	2	13	22	19	1	11	26	20	0	1	12	4	8	7	1	5	15	14	1	1	8	10	1	8	10	7	2	1	0	0	0
+11	CYTB	NP_861514.1	Elephantulus sp. VB001	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Afrotheria, Macroscelidea, Macroscelididae, Elephantulus	6	21	11	1	2	7	11	0	7	8	0	3	12	0	10	12	26	1	4	11	7	0	7	7	4	2	1	2	5	0	14	24	13	4	5	8	11	2	4	11	9	0	0	2	3	9	6	0	5	11	8	0	4	7	6	0	4	9	11	1	1	0	0	0

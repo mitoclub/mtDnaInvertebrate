@@ -1,65 +1,9 @@
-	YP_009305271.1|COX2	YP_009305272.1|CYTB	YP_009305275.1|ND3	YP_009305277.1|ND6	YP_009305278.1|COX3	YP_009305280.1|ND1	YP_009305281.1|ND2	YP_009305282.1|ND4L
-TTT	30	36	15	13	27	30	19	15
-TTC	2	5	1	2	2	5	4	1
-TTA	31	28	14	9	19	30	44	15
-TTG	7	8	2	7	7	11	8	1
-TCT	13	6	1	3	6	8	12	6
-TCC	1	1	1	0	0	0	3	0
-TCA	3	4	0	2	2	3	5	1
-TCG	1	2	0	0	1	0	1	0
-TAT	25	13	1	7	12	11	9	8
-TAC	5	4	0	2	3	1	3	1
-TGT	9	3	1	3	5	8	13	2
-TGC	1	2	0	0	0	2	2	0
-TGA	6	8	3	2	7	5	5	1
-TGG	6	4	1	0	8	1	7	2
-CTT	10	11	2	3	5	5	1	4
-CTC	0	0	1	0	0	0	0	0
-CTA	6	3	1	0	5	3	5	0
-CTG	0	2	0	0	1	2	1	0
-CCT	8	12	4	0	4	5	4	1
-CCC	1	0	0	1	1	2	2	0
-CCA	7	8	0	2	1	2	1	0
-CCG	1	1	0	0	0	2	0	0
-CAT	5	14	1	1	8	0	1	4
-CAC	1	0	1	0	1	0	0	1
-CAA	5	4	1	0	3	2	1	1
-CAG	2	2	0	0	2	2	2	0
-CGT	5	1	2	0	3	6	0	0
-CGC	0	0	0	0	0	0	0	0
-CGA	3	3	1	0	1	3	1	1
-CGG	0	2	0	0	2	0	0	0
-ATT	19	24	8	11	12	11	18	6
-ATC	4	1	1	0	2	0	2	3
-ATA	17	13	8	12	8	13	18	4
-ATG	8	10	1	4	3	7	5	3
-ACT	12	14	2	1	6	5	3	3
-ACC	1	0	0	0	0	0	0	1
-ACA	4	3	0	1	3	3	3	0
-ACG	1	0	1	1	1	0	0	0
-AAT	20	13	2	3	3	6	10	0
-AAC	5	4	3	0	0	0	1	0
-AAA	19	9	8	6	4	6	7	11
-AAG	8	0	0	4	6	1	4	2
-AGT	10	9	3	3	3	6	11	8
-AGC	1	1	0	1	1	2	1	0
-AGA	12	9	9	4	4	7	10	1
-AGG	10	4	1	4	3	2	8	4
-GTT	21	23	2	10	9	17	20	5
-GTC	1	2	1	1	0	1	2	2
-GTA	21	11	10	6	12	10	11	4
-GTG	4	5	2	6	2	5	3	1
-GCT	13	19	0	4	7	10	4	0
-GCC	1	1	1	0	1	0	0	0
-GCA	4	2	0	2	0	5	4	0
-GCG	1	1	0	2	1	0	1	0
-GAT	23	7	1	1	5	7	1	6
-GAC	4	2	3	0	0	0	0	0
-GAA	18	5	3	2	3	6	1	1
-GAG	21	3	4	2	3	7	7	1
-GGT	19	17	1	3	6	8	14	2
-GGC	3	1	1	1	2	2	0	0
-GGA	10	8	3	5	2	4	8	1
-GGG	13	7	1	6	9	9	7	1
-TAA	1	1	1	1	1	1	0	0
-TAG	0	0	0	0	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_009305271.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	30	2	31	7	13	1	3	1	25	5	9	1	6	6	10	0	6	0	8	1	7	1	5	1	5	2	5	0	3	0	19	4	17	8	12	1	4	1	20	5	19	8	10	1	12	10	21	1	21	4	13	1	4	1	23	4	18	21	19	3	10	13	1	0
+1	CYTB	YP_009305272.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	36	5	28	8	6	1	4	2	13	4	3	2	8	4	11	0	3	2	12	0	8	1	14	0	4	2	1	0	3	2	24	1	13	10	14	0	3	0	13	4	9	0	9	1	9	4	23	2	11	5	19	1	2	1	7	2	5	3	17	1	8	7	1	0
+2	ND3	YP_009305275.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	15	1	14	2	1	1	0	0	1	0	1	0	3	1	2	1	1	0	4	0	0	0	1	1	1	0	2	0	1	0	8	1	8	1	2	0	0	1	2	3	8	0	3	0	9	1	2	1	10	2	0	1	0	0	1	3	3	4	1	1	3	1	1	0
+3	ND6	YP_009305277.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	13	2	9	7	3	0	2	0	7	2	3	0	2	0	3	0	0	0	0	1	2	0	1	0	0	0	0	0	0	0	11	0	12	4	1	0	1	1	3	0	6	4	3	1	4	4	10	1	6	6	4	0	2	2	1	0	2	2	3	1	5	6	1	0
+4	COX3	YP_009305278.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	27	2	19	7	6	0	2	1	12	3	5	0	7	8	5	0	5	1	4	1	1	0	8	1	3	2	3	0	1	2	12	2	8	3	6	0	3	1	3	0	4	6	3	1	4	3	9	0	12	2	7	1	0	1	5	0	3	3	6	2	2	9	1	0
+5	ND1	YP_009305280.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	30	5	30	11	8	0	3	0	11	1	8	2	5	1	5	0	3	2	5	2	2	2	0	0	2	2	6	0	3	0	11	0	13	7	5	0	3	0	6	0	6	1	6	2	7	2	17	1	10	5	10	0	5	0	7	0	6	7	8	2	4	9	1	0
+6	ND2	YP_009305281.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	19	4	44	8	12	3	5	1	9	3	13	2	5	7	1	0	5	1	4	2	1	0	1	0	1	2	0	0	1	0	18	2	18	5	3	0	3	0	10	1	7	4	11	1	10	8	20	2	11	3	4	0	4	1	1	0	1	7	14	0	8	7	0	1
+7	ND4L	YP_009305282.1	Ruditapes philippinarum	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Veneroidea, Veneridae, Ruditapes	15	1	15	1	6	0	1	0	8	1	2	0	1	2	4	0	0	0	1	0	0	0	4	1	1	0	0	0	1	0	6	3	4	3	3	1	0	0	0	0	11	2	8	0	1	4	5	2	4	1	0	0	0	0	6	0	1	1	2	0	1	1	0	1

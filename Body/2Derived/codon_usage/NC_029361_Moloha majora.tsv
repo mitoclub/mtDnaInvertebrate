@@ -1,65 +1,10 @@
-	YP_009231704.1|COX1	YP_009231705.1|COX2	YP_009231706.1|ATP8	YP_009231707.1|ATP6	YP_009231708.1|COX3	YP_009231709.1|ND3	YP_009231713.1|ND6	YP_009231714.1|CYTB	YP_009231716.1|ND2
-TTT	30	11	5	14	22	9	14	29	22
-TTC	12	3	0	3	7	0	3	7	7
-TTA	33	16	3	30	21	11	24	37	31
-TTG	0	2	0	0	0	0	0	0	1
-TCT	15	7	0	9	7	8	9	7	18
-TCC	8	3	0	0	2	2	2	2	6
-TCA	11	8	1	8	7	3	9	8	12
-TCG	0	0	0	0	0	0	0	0	0
-TAT	10	6	4	6	9	1	5	13	14
-TAC	6	1	0	0	1	2	1	2	0
-TGT	0	2	0	0	2	2	1	0	1
-TGC	0	0	0	0	0	0	0	3	0
-TGA	14	6	3	6	13	3	1	11	7
-TGG	1	0	0	0	0	0	1	0	1
-CTT	9	6	0	10	3	3	4	6	4
-CTC	2	2	0	2	2	1	0	3	2
-CTA	10	1	2	4	2	2	2	8	10
-CTG	0	0	1	0	1	0	1	1	0
-CCT	14	6	3	9	10	3	6	12	11
-CCC	2	2	0	0	0	1	0	2	1
-CCA	10	3	0	3	0	0	1	8	3
-CCG	0	0	0	1	0	0	0	0	0
-CAT	11	5	0	6	11	0	2	8	4
-CAC	6	1	0	1	4	0	0	4	0
-CAA	9	7	1	2	6	1	2	7	10
-CAG	0	0	1	0	0	0	0	0	0
-CGT	5	2	0	0	2	1	2	3	0
-CGC	0	0	0	0	0	0	0	1	0
-CGA	4	5	0	3	2	2	0	4	2
-CGG	0	0	0	0	0	0	0	0	0
-ATT	39	26	4	17	17	16	17	26	43
-ATC	5	3	0	2	1	6	2	11	10
-ATA	34	13	8	11	9	5	18	23	26
-ATG	0	1	1	1	1	1	0	1	3
-ACT	17	4	0	8	6	1	3	6	2
-ACC	5	1	1	0	6	0	3	1	1
-ACA	15	6	0	8	11	4	6	16	12
-ACG	1	0	0	0	0	1	0	0	0
-AAT	13	9	4	5	3	2	6	13	11
-AAC	5	4	0	4	3	0	0	4	3
-AAA	6	1	5	5	2	5	5	8	14
-AAG	0	1	0	0	0	0	0	0	0
-AGT	3	2	0	4	0	0	1	1	3
-AGC	0	0	0	0	0	0	0	0	0
-AGA	5	6	1	7	7	1	1	3	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	15	2	0	6	5	0	3	4	2
-GTC	0	0	0	0	0	0	2	2	0
-GTA	20	7	0	4	13	3	2	15	2
-GTG	1	0	0	0	0	0	1	0	0
-GCT	17	5	1	9	7	1	1	6	8
-GCC	4	1	0	1	2	1	1	9	2
-GCA	13	3	0	2	6	1	1	5	3
-GCG	0	0	0	0	0	0	0	0	0
-GAT	8	8	1	0	2	2	2	9	0
-GAC	7	3	0	0	2	1	0	2	0
-GAA	9	10	2	4	7	4	0	3	5
-GAG	0	0	0	0	0	1	0	0	0
-GGT	10	5	0	2	5	0	0	6	4
-GGC	3	0	0	0	1	0	0	0	1
-GGA	32	2	0	5	10	5	5	16	5
-GGG	2	1	0	1	3	0	0	2	1
-TAA	0	0	1	1	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009231704.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	30	12	33	0	15	8	11	0	10	6	0	0	14	1	9	2	10	0	14	2	10	0	11	6	9	0	5	0	4	0	39	5	34	0	17	5	15	1	13	5	6	0	3	0	5	0	15	0	20	1	17	4	13	0	8	7	9	0	10	3	32	2	0	0
+1	COX2	YP_009231705.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	11	3	16	2	7	3	8	0	6	1	2	0	6	0	6	2	1	0	6	2	3	0	5	1	7	0	2	0	5	0	26	3	13	1	4	1	6	0	9	4	1	1	2	0	6	0	2	0	7	0	5	1	3	0	8	3	10	0	5	0	2	1	0	0
+2	ATP8	YP_009231706.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	5	0	3	0	0	0	1	0	4	0	0	0	3	0	0	0	2	1	3	0	0	0	0	0	1	1	0	0	0	0	4	0	8	1	0	1	0	0	4	0	5	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	2	0	0	0	0	0	1	0
+3	ATP6	YP_009231707.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	14	3	30	0	9	0	8	0	6	0	0	0	6	0	10	2	4	0	9	0	3	1	6	1	2	0	0	0	3	0	17	2	11	1	8	0	8	0	5	4	5	0	4	0	7	0	6	0	4	0	9	1	2	0	0	0	4	0	2	0	5	1	1	0
+4	COX3	YP_009231708.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	22	7	21	0	7	2	7	0	9	1	2	0	13	0	3	2	2	1	10	0	0	0	11	4	6	0	2	0	2	0	17	1	9	1	6	6	11	0	3	3	2	0	0	0	7	0	5	0	13	0	7	2	6	0	2	2	7	0	5	1	10	3	0	0
+5	ND3	YP_009231709.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	9	0	11	0	8	2	3	0	1	2	2	0	3	0	3	1	2	0	3	1	0	0	0	0	1	0	1	0	2	0	16	6	5	1	1	0	4	1	2	0	5	0	0	0	1	0	0	0	3	0	1	1	1	0	2	1	4	1	0	0	5	0	1	0
+6	ND6	YP_009231713.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	14	3	24	0	9	2	9	0	5	1	1	0	1	1	4	0	2	1	6	0	1	0	2	0	2	0	2	0	0	0	17	2	18	0	3	3	6	0	6	0	5	0	1	0	1	0	3	2	2	1	1	1	1	0	2	0	0	0	0	0	5	0	0	0
+7	CYTB	YP_009231714.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	29	7	37	0	7	2	8	0	13	2	0	3	11	0	6	3	8	1	12	2	8	0	8	4	7	0	3	1	4	0	26	11	23	1	6	1	16	0	13	4	8	0	1	0	3	0	4	2	15	0	6	9	5	0	9	2	3	0	6	0	16	2	1	0
+8	ND2	YP_009231716.1	Moloha majora	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Dromiacea, Homoloidea, Homolidae, Moloha	22	7	31	1	18	6	12	0	14	0	1	0	7	1	4	2	10	0	11	1	3	0	4	0	10	0	0	0	2	0	43	10	26	3	2	1	12	0	11	3	14	0	3	0	5	0	2	0	2	0	8	2	3	0	0	0	5	0	4	1	5	1	1	0

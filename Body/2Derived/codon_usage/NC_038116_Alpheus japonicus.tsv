@@ -1,65 +1,10 @@
-	YP_009500792.1|COX1	YP_009500793.1|COX2	YP_009500794.1|ATP8	YP_009500795.1|ATP6	YP_009500796.1|COX3	YP_009500797.1|ND3	YP_009500801.1|ND6	YP_009500802.1|CYTB	YP_009500804.1|ND2
-TTT	18	6	2	9	12	5	4	18	11
-TTC	26	8	1	8	11	6	6	17	14
-TTA	19	7	4	15	10	9	13	16	17
-TTG	1	1	0	1	0	0	1	3	1
-TCT	11	2	0	2	5	4	11	9	4
-TCC	4	3	0	3	3	2	3	5	9
-TCA	8	6	1	11	6	3	11	6	20
-TCG	2	1	0	1	0	0	0	0	4
-TAT	7	4	1	4	6	0	2	6	3
-TAC	8	4	1	0	5	0	4	9	9
-TGT	0	1	0	0	1	2	0	1	1
-TGC	0	1	0	0	1	0	1	2	1
-TGA	14	6	3	6	10	1	1	10	4
-TGG	1	0	0	0	3	2	0	1	3
-CTT	11	7	2	11	7	3	8	8	10
-CTC	10	1	2	3	2	2	5	6	8
-CTA	13	9	1	15	13	5	9	16	16
-CTG	6	3	0	2	2	1	1	4	2
-CCT	7	0	1	2	2	1	3	4	3
-CCC	11	3	2	5	3	3	2	7	9
-CCA	5	6	2	3	3	1	5	9	4
-CCG	3	1	0	2	1	0	0	2	3
-CAT	8	3	0	1	5	1	0	3	1
-CAC	10	2	1	5	11	1	1	10	4
-CAA	6	8	1	4	9	1	3	7	8
-CAG	2	0	0	0	0	0	1	1	2
-CGT	1	0	0	0	0	1	0	1	1
-CGC	0	2	0	0	0	0	0	1	0
-CGA	10	6	0	2	4	2	0	6	2
-CGG	0	0	0	1	0	0	2	0	0
-ATT	29	7	3	11	11	12	6	16	19
-ATC	11	12	1	5	6	6	9	18	18
-ATA	25	10	6	7	9	5	12	9	14
-ATG	4	1	0	2	2	0	1	3	0
-ACT	11	3	1	8	7	0	3	7	6
-ACC	10	5	1	4	7	1	5	5	10
-ACA	13	5	2	6	7	3	7	12	6
-ACG	3	1	0	0	0	1	0	1	2
-AAT	9	6	0	7	4	1	1	4	5
-AAC	10	6	2	5	2	2	0	12	11
-AAA	5	4	3	1	1	5	5	7	10
-AAG	0	1	2	1	1	0	0	1	2
-AGT	2	1	0	1	1	0	0	0	0
-AGC	0	0	0	0	0	0	2	1	1
-AGA	9	6	1	7	5	3	2	1	7
-AGG	0	0	0	0	0	0	0	1	1
-GTT	13	4	0	4	7	0	2	7	5
-GTC	7	4	1	3	2	1	0	4	1
-GTA	15	5	0	5	7	2	3	13	4
-GTG	2	1	0	0	0	0	0	1	0
-GCT	9	4	1	3	7	0	3	6	5
-GCC	12	5	1	2	6	4	2	7	11
-GCA	15	5	0	7	5	2	0	11	4
-GCG	2	1	0	2	0	0	1	3	1
-GAT	5	4	1	1	2	1	0	8	0
-GAC	10	6	0	0	3	3	2	4	0
-GAA	7	8	1	4	7	5	3	2	1
-GAG	1	3	0	0	0	0	0	1	1
-GGT	4	1	0	4	3	0	0	1	4
-GGC	9	3	0	1	3	1	1	4	2
-GGA	25	4	0	6	8	2	2	16	3
-GGG	12	0	0	1	4	1	2	4	4
-TAA	0	1	1	1	0	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009500792.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	18	26	19	1	11	4	8	2	7	8	0	0	14	1	11	10	13	6	7	11	5	3	8	10	6	2	1	0	10	0	29	11	25	4	11	10	13	3	9	10	5	0	2	0	9	0	13	7	15	2	9	12	15	2	5	10	7	1	4	9	25	12	0	0
+1	COX2	YP_009500793.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	6	8	7	1	2	3	6	1	4	4	1	1	6	0	7	1	9	3	0	3	6	1	3	2	8	0	0	2	6	0	7	12	10	1	3	5	5	1	6	6	4	1	1	0	6	0	4	4	5	1	4	5	5	1	4	6	8	3	1	3	4	0	1	0
+2	ATP8	YP_009500794.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	2	1	4	0	0	0	1	0	1	1	0	0	3	0	2	2	1	0	1	2	2	0	0	1	1	0	0	0	0	0	3	1	6	0	1	1	2	0	0	2	3	2	0	0	1	0	0	1	0	0	1	1	0	0	1	0	1	0	0	0	0	0	1	0
+3	ATP6	YP_009500795.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	9	8	15	1	2	3	11	1	4	0	0	0	6	0	11	3	15	2	2	5	3	2	1	5	4	0	0	0	2	1	11	5	7	2	8	4	6	0	7	5	1	1	1	0	7	0	4	3	5	0	3	2	7	2	1	0	4	0	4	1	6	1	1	0
+4	COX3	YP_009500796.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	12	11	10	0	5	3	6	0	6	5	1	1	10	3	7	2	13	2	2	3	3	1	5	11	9	0	0	0	4	0	11	6	9	2	7	7	7	0	4	2	1	1	1	0	5	0	7	2	7	0	7	6	5	0	2	3	7	0	3	3	8	4	0	0
+5	ND3	YP_009500797.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	5	6	9	0	4	2	3	0	0	0	2	0	1	2	3	2	5	1	1	3	1	0	1	1	1	0	1	0	2	0	12	6	5	0	0	1	3	1	1	2	5	0	0	0	3	0	0	1	2	0	0	4	2	0	1	3	5	0	0	1	2	1	0	0
+6	ND6	YP_009500801.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	4	6	13	1	11	3	11	0	2	4	0	1	1	0	8	5	9	1	3	2	5	0	0	1	3	1	0	0	0	2	6	9	12	1	3	5	7	0	1	0	5	0	0	2	2	0	2	0	3	0	3	2	0	1	0	2	3	0	0	1	2	2	1	0
+7	CYTB	YP_009500802.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	18	17	16	3	9	5	6	0	6	9	1	2	10	1	8	6	16	4	4	7	9	2	3	10	7	1	1	1	6	0	16	18	9	3	7	5	12	1	4	12	7	1	0	1	1	1	7	4	13	1	6	7	11	3	8	4	2	1	1	4	16	4	1	0
+8	ND2	YP_009500804.1	Alpheus japonicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Alpheoidea, Alpheidae, Alpheus	11	14	17	1	4	9	20	4	3	9	1	1	4	3	10	8	16	2	3	9	4	3	1	4	8	2	1	0	2	0	19	18	14	0	6	10	6	2	5	11	10	2	0	1	7	1	5	1	4	0	5	11	4	1	0	0	1	1	4	2	3	4	1	0

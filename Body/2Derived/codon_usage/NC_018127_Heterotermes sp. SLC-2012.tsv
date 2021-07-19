@@ -1,65 +1,10 @@
-	YP_006503974.1|ND2	YP_006503975.1|COX1	YP_006503976.1|COX2	YP_006503977.1|ATP8	YP_006503978.1|ATP6	YP_006503979.1|COX3	YP_006503980.1|ND3	YP_006503984.1|ND6	YP_006503985.1|CYTB
-TTT	8	12	2	0	3	2	3	1	7
-TTC	8	32	8	4	10	22	5	5	19
-TTA	15	12	7	1	8	4	3	4	2
-TTG	0	0	0	0	0	0	1	0	0
-TCT	4	2	0	0	1	1	0	0	1
-TCC	5	3	3	1	0	1	1	0	2
-TCA	17	24	7	2	5	9	9	9	11
-TCG	1	0	0	0	0	0	0	0	0
-TAT	3	2	2	1	1	1	0	1	4
-TAC	8	13	5	1	2	8	2	6	13
-TGT	1	0	0	0	0	0	0	1	1
-TGC	2	2	2	0	0	1	1	0	3
-TGA	5	13	6	3	4	12	2	1	12
-TGG	4	2	0	0	0	1	1	0	0
-CTT	1	7	2	0	2	3	0	1	2
-CTC	2	5	0	0	9	1	1	1	3
-CTA	24	28	15	2	23	20	10	15	38
-CTG	5	4	1	0	0	2	0	1	2
-CCT	2	3	1	1	0	0	1	0	2
-CCC	3	6	2	0	3	1	1	1	4
-CCA	8	18	8	2	7	7	3	4	15
-CCG	0	0	1	0	1	2	0	0	2
-CAT	0	2	2	0	2	3	0	0	1
-CAC	3	13	5	0	4	11	1	2	9
-CAA	4	10	10	2	4	9	1	4	8
-CAG	2	0	0	0	0	0	0	0	0
-CGT	0	0	0	0	0	0	0	0	0
-CGC	0	1	0	0	0	0	0	0	0
-CGA	1	7	8	0	3	4	3	1	8
-CGG	0	1	0	0	0	0	0	0	0
-ATT	10	20	10	1	10	5	4	6	10
-ATC	19	23	9	1	11	12	9	6	18
-ATA	25	26	14	10	13	9	9	26	17
-ATG	9	5	3	0	2	1	0	2	2
-ACT	3	3	1	0	0	2	0	0	2
-ACC	10	4	4	3	6	5	1	5	7
-ACA	14	26	13	4	17	15	8	15	20
-ACG	5	2	1	0	1	3	0	0	1
-AAT	7	1	0	1	10	2	2	1	4
-AAC	11	18	10	4	8	6	3	10	20
-AAA	11	3	5	3	6	3	5	4	10
-AAG	6	5	0	0	0	1	0	1	1
-AGT	1	1	0	2	0	0	0	0	0
-AGC	2	4	1	0	2	1	0	1	0
-AGA	8	10	6	1	12	5	4	5	3
-AGG	0	1	0	0	0	0	0	1	1
-GTT	4	4	3	0	1	1	0	0	2
-GTC	4	5	3	1	1	2	0	0	3
-GTA	14	22	6	0	8	10	5	5	20
-GTG	0	2	1	0	0	1	0	1	1
-GCT	2	3	1	0	2	0	0	0	2
-GCC	4	8	1	0	0	6	0	2	6
-GCA	11	28	10	1	6	13	6	3	18
-GCG	1	1	0	0	0	0	0	0	1
-GAT	0	4	3	0	1	1	1	0	0
-GAC	2	10	6	0	0	4	2	1	10
-GAA	8	9	11	1	6	8	6	4	4
-GAG	1	1	0	0	0	0	0	0	1
-GGT	1	3	0	0	1	0	0	0	0
-GGC	1	3	0	0	1	0	0	0	0
-GGA	12	31	8	0	8	19	2	4	16
-GGG	3	7	1	0	1	2	1	2	8
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006503974.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	8	8	15	0	4	5	17	1	3	8	1	2	5	4	1	2	24	5	2	3	8	0	0	3	4	2	0	0	1	0	10	19	25	9	3	10	14	5	7	11	11	6	1	2	8	0	4	4	14	0	2	4	11	1	0	2	8	1	1	1	12	3	1	0
+1	COX1	YP_006503975.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	12	32	12	0	2	3	24	0	2	13	0	2	13	2	7	5	28	4	3	6	18	0	2	13	10	0	0	1	7	1	20	23	26	5	3	4	26	2	1	18	3	5	1	4	10	1	4	5	22	2	3	8	28	1	4	10	9	1	3	3	31	7	1	0
+2	COX2	YP_006503976.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	2	8	7	0	0	3	7	0	2	5	0	2	6	0	2	0	15	1	1	2	8	1	2	5	10	0	0	0	8	0	10	9	14	3	1	4	13	1	0	10	5	0	0	1	6	0	3	3	6	1	1	1	10	0	3	6	11	0	0	0	8	1	0	0
+3	ATP8	YP_006503977.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	0	4	1	0	0	1	2	0	1	1	0	0	3	0	0	0	2	0	1	0	2	0	0	0	2	0	0	0	0	0	1	1	10	0	0	3	4	0	1	4	3	0	2	0	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_006503978.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	3	10	8	0	1	0	5	0	1	2	0	0	4	0	2	9	23	0	0	3	7	1	2	4	4	0	0	0	3	0	10	11	13	2	0	6	17	1	10	8	6	0	0	2	12	0	1	1	8	0	2	0	6	0	1	0	6	0	1	1	8	1	1	0
+5	COX3	YP_006503979.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	2	22	4	0	1	1	9	0	1	8	0	1	12	1	3	1	20	2	0	1	7	2	3	11	9	0	0	0	4	0	5	12	9	1	2	5	15	3	2	6	3	1	0	1	5	0	1	2	10	1	0	6	13	0	1	4	8	0	0	0	19	2	1	0
+6	ND3	YP_006503980.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	3	5	3	1	0	1	9	0	0	2	0	1	2	1	0	1	10	0	1	1	3	0	0	1	1	0	0	0	3	0	4	9	9	0	0	1	8	0	2	3	5	0	0	0	4	0	0	0	5	0	0	0	6	0	1	2	6	0	0	0	2	1	1	0
+7	ND6	YP_006503984.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	1	5	4	0	0	0	9	0	1	6	1	0	1	0	1	1	15	1	0	1	4	0	0	2	4	0	0	0	1	0	6	6	26	2	0	5	15	0	1	10	4	1	0	1	5	1	0	0	5	1	0	2	3	0	0	1	4	0	0	0	4	2	1	0
+8	CYTB	YP_006503985.1	Heterotermes sp. SLC-2012	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	7	19	2	0	1	2	11	0	4	13	1	3	12	0	2	3	38	2	2	4	15	2	1	9	8	0	0	0	8	0	10	18	17	2	2	7	20	1	4	20	10	1	0	0	3	1	2	3	20	1	2	6	18	1	0	10	4	1	0	0	16	8	0	0

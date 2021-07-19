@@ -1,65 +1,13 @@
-	YP_009003652.1|ND1	YP_009003653.1|ND2	YP_009003654.1|COX1	YP_009003655.1|COX2	YP_009003656.1|ATP8	YP_009003657.1|ATP6	YP_009003658.1|COX3	YP_009003659.1|ND3	YP_009003660.1|ND4L	YP_009003661.1|ND4	YP_009003662.1|ND5	YP_009003664.1|CYTB
-TTT	9	8	23	5	2	4	6	4	4	8	17	12
-TTC	9	6	16	3	2	9	16	4	2	15	24	23
-TTA	19	20	20	7	6	21	8	10	5	18	23	12
-TTG	0	3	0	1	0	0	0	0	0	0	1	1
-TCT	1	5	9	2	0	1	0	2	3	12	5	5
-TCC	5	5	6	2	0	1	3	3	6	9	16	9
-TCA	12	16	13	9	1	1	6	1	3	8	18	8
-TCG	0	0	0	0	0	0	1	1	0	0	1	0
-TAT	10	4	15	7	0	4	8	1	1	7	6	7
-TAC	4	3	3	3	0	0	5	1	0	6	7	7
-TGT	0	2	0	2	0	0	2	1	0	1	3	2
-TGC	0	0	1	0	0	0	0	0	3	3	2	1
-TGA	8	10	17	5	5	5	12	5	1	20	14	13
-TGG	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	4	8	22	5	1	10	12	5	2	25	20	10
-CTC	19	21	8	3	0	7	5	7	7	18	29	15
-CTA	23	25	14	9	2	15	7	7	5	24	31	22
-CTG	1	0	1	0	0	0	1	2	0	0	1	0
-CCT	8	5	14	6	4	2	4	1	2	1	5	4
-CCC	5	7	1	1	2	3	2	1	0	7	12	5
-CCA	11	9	15	6	3	10	6	5	0	14	13	11
-CCG	0	0	1	0	0	1	1	1	0	1	0	0
-CAT	3	3	11	4	0	2	8	0	2	7	7	6
-CAC	1	3	8	6	1	1	8	0	0	7	9	6
-CAA	6	9	9	9	1	8	8	2	2	12	17	8
-CAG	1	0	1	0	0	1	0	0	0	0	0	0
-CGT	2	1	2	2	0	0	2	0	1	1	1	2
-CGC	3	1	0	1	0	1	0	2	1	1	3	2
-CGA	3	3	7	3	0	4	3	0	0	9	5	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	10	13	31	16	3	15	11	3	3	29	31	16
-ATC	21	22	13	6	2	10	4	7	4	21	35	22
-ATA	14	10	20	10	1	9	7	0	6	22	23	12
-ATG	1	2	4	3	1	1	1	2	1	1	1	1
-ACT	6	11	8	4	3	5	6	0	1	7	13	5
-ACC	7	14	10	3	0	9	3	2	3	13	17	6
-ACA	10	15	15	6	0	10	12	3	2	19	20	9
-ACG	0	0	0	0	0	0	0	1	0	0	0	0
-AAT	2	4	8	3	2	3	1	2	0	5	14	7
-AAC	10	11	7	1	6	7	2	2	4	13	21	13
-AAA	7	10	8	4	4	1	2	1	1	11	25	9
-AAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGT	1	3	2	2	1	1	0	1	1	2	3	0
-AGC	3	3	2	1	0	3	3	0	2	7	10	3
-GTT	2	0	11	7	0	2	6	0	0	1	7	4
-GTC	3	2	8	4	0	2	2	1	1	4	0	8
-GTA	4	3	19	7	0	6	7	1	0	5	7	7
-GTG	0	0	1	0	0	0	1	0	0	0	1	0
-GCT	6	3	15	6	0	5	4	1	5	11	9	7
-GCC	10	13	10	4	0	4	8	3	3	13	18	12
-GCA	9	8	19	5	0	8	11	4	3	8	11	7
-GCG	0	0	0	0	0	0	0	1	0	0	0	0
-GAT	2	0	13	5	0	0	2	2	0	2	3	3
-GAC	1	1	2	7	1	1	3	1	1	3	11	6
-GAA	10	6	10	16	1	4	10	6	2	10	11	6
-GAG	0	0	0	0	0	0	0	0	0	0	0	0
-GGT	2	2	21	5	0	2	5	0	2	2	9	1
-GGC	6	3	4	2	0	2	5	2	2	6	9	8
-GGA	8	10	17	2	0	5	11	4	1	11	10	14
-GGG	2	2	3	0	0	1	0	0	0	0	0	0
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009003652.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	9	9	19	0	1	5	12	0	10	4	0	0	8	0	4	19	23	1	8	5	11	0	3	1	6	1	2	3	3	0	10	21	14	1	6	7	10	0	2	10	7	0	1	3	2	3	4	0	6	10	9	0	2	1	10	0	2	6	8	2	1	0	0	0
+1	ND2	YP_009003653.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	8	6	20	3	5	5	16	0	4	3	2	0	10	0	8	21	25	0	5	7	9	0	3	3	9	0	1	1	3	0	13	22	10	2	11	14	15	0	4	11	10	0	3	3	0	2	3	0	3	13	8	0	0	1	6	0	2	3	10	2	0	0	0	0
+2	COX1	YP_009003654.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	23	16	20	0	9	6	13	0	15	3	0	1	17	0	22	8	14	1	14	1	15	1	11	8	9	1	2	0	7	0	31	13	20	4	8	10	15	0	8	7	8	0	2	2	11	8	19	1	15	10	19	0	13	2	10	0	21	4	17	3	1	0	0	0
+3	COX2	YP_009003655.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	5	3	7	1	2	2	9	0	7	3	2	0	5	0	5	3	9	0	6	1	6	0	4	6	9	0	2	1	3	0	16	6	10	3	4	3	6	0	3	1	4	0	2	1	7	4	7	0	6	4	5	0	5	7	16	0	5	2	2	0	0	0	0	0
+4	ATP8	YP_009003656.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	2	2	6	0	0	0	1	0	0	0	0	0	5	0	1	0	2	0	4	2	3	0	0	1	1	0	0	0	0	0	3	2	1	1	3	0	0	0	2	6	4	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009003657.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	4	9	21	0	1	1	1	0	4	0	0	0	5	0	10	7	15	0	2	3	10	1	2	1	8	1	0	1	4	0	15	10	9	1	5	9	10	0	3	7	1	0	1	3	2	2	6	0	5	4	8	0	0	1	4	0	2	2	5	1	1	0	0	0
+6	COX3	YP_009003658.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	6	16	8	0	0	3	6	1	8	5	2	0	12	0	12	5	7	1	4	2	6	1	8	8	8	0	2	0	3	0	11	4	7	1	6	3	12	0	1	2	2	0	0	3	6	2	7	1	4	8	11	0	2	3	10	0	5	5	11	0	1	0	0	0
+7	ND3	YP_009003659.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	4	4	10	0	2	3	1	1	1	1	1	0	5	0	5	7	7	2	1	1	5	1	0	0	2	0	0	2	0	0	3	7	0	2	0	2	3	1	2	2	1	0	1	0	0	1	1	0	1	3	4	1	2	1	6	0	0	2	4	0	0	0	0	0
+8	ND4L	YP_009003660.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	4	2	5	0	3	6	3	0	1	0	0	3	1	0	2	7	5	0	2	0	0	0	2	0	2	0	1	1	0	0	3	4	6	1	1	3	2	0	0	4	1	0	1	2	0	1	0	0	5	3	3	0	0	1	2	0	2	2	1	0	1	0	0	0
+9	ND4	YP_009003661.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	8	15	18	0	12	9	8	0	7	6	1	3	20	0	25	18	24	0	1	7	14	1	7	7	12	0	1	1	9	0	29	21	22	1	7	13	19	0	5	13	11	0	2	7	1	4	5	0	11	13	8	0	2	3	10	0	2	6	11	0	0	0	0	0
+10	ND5	YP_009003662.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	17	24	23	1	5	16	18	1	6	7	3	2	14	0	20	29	31	1	5	12	13	0	7	9	17	0	1	3	5	0	31	35	23	1	13	17	20	0	14	21	25	0	3	10	7	0	7	1	9	18	11	0	3	11	11	0	9	9	10	0	1	0	0	0
+11	CYTB	YP_009003664.1	Carcharhinus sorrah	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Carcharhinus	12	23	12	1	5	9	8	0	7	7	2	1	13	0	10	15	22	0	4	5	11	0	6	6	8	0	2	2	4	0	16	22	12	1	5	6	9	0	7	13	9	0	0	3	4	8	7	0	7	12	7	0	3	6	6	0	1	8	14	0	0	0	0	0

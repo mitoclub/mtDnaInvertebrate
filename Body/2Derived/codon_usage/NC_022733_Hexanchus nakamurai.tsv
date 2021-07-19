@@ -1,65 +1,13 @@
-	YP_008758472.1|ND1	YP_008758473.1|ND2	YP_008758474.1|COX1	YP_008758475.2|COX2	YP_008758476.1|ATP8	YP_008758477.1|ATP6	YP_008758478.1|COX3	YP_008758479.1|ND3	YP_008758480.1|ND4L	YP_008758481.2|ND4	YP_008758482.1|ND5	YP_008758484.2|CYTB
-TTT	10	6	21	7	2	12	8	8	3	12	20	12
-TTC	7	8	20	1	2	4	14	3	3	9	23	15
-TTA	16	19	24	7	2	21	11	9	7	25	39	13
-TTG	0	0	0	1	0	2	1	0	0	2	2	1
-TCT	2	5	11	4	1	0	0	1	0	3	7	4
-TCC	6	10	7	3	1	0	5	5	7	11	11	8
-TCA	9	9	11	7	1	4	7	1	3	9	15	10
-TCG	0	0	0	0	0	0	0	0	0	0	2	0
-TAT	9	4	14	6	0	3	5	1	1	8	5	7
-TAC	4	2	4	4	0	0	7	0	1	6	10	7
-TGT	0	0	0	2	0	0	1	1	4	1	3	1
-TGC	0	1	1	0	0	0	1	0	0	4	2	2
-TGA	8	10	16	4	5	5	12	4	1	20	11	10
-TGG	0	0	1	1	0	0	0	1	0	0	1	2
-CTT	13	16	17	5	2	13	10	7	7	21	21	15
-CTC	11	17	8	4	1	4	4	5	4	13	17	18
-CTA	23	22	16	10	0	10	9	7	4	26	26	17
-CTG	1	3	0	0	0	2	0	1	0	2	1	0
-CCT	6	3	7	1	2	4	3	2	0	5	7	4
-CCC	4	7	5	2	1	4	1	3	0	5	11	7
-CCA	13	9	17	9	4	8	8	3	1	12	13	10
-CCG	1	1	0	1	0	0	0	0	0	1	0	0
-CAT	3	2	11	4	1	2	8	0	3	6	7	6
-CAC	1	7	8	6	2	1	8	0	2	5	8	6
-CAA	6	11	10	8	1	9	9	2	2	13	20	11
-CAG	0	0	0	1	0	0	0	0	0	0	0	0
-CGT	2	1	2	2	0	1	1	1	0	0	1	0
-CGC	3	0	0	1	0	1	1	1	2	2	4	3
-CGA	3	3	5	2	0	3	3	0	0	9	4	3
-CGG	0	0	1	1	0	0	0	0	0	0	0	0
-ATT	21	27	31	14	3	17	12	7	3	32	43	26
-ATC	14	8	10	8	3	6	4	3	4	13	22	18
-ATA	13	12	24	11	1	8	7	0	5	24	26	18
-ATG	2	1	2	3	1	1	1	1	1	3	4	2
-ACT	5	5	11	3	4	9	8	1	3	10	10	4
-ACC	10	17	13	4	0	8	5	2	0	18	21	8
-ACA	12	28	12	5	1	8	10	4	6	16	18	11
-ACG	0	0	1	0	0	0	0	0	0	0	0	1
-AAT	7	8	13	2	2	5	3	3	1	9	17	12
-AAC	6	8	2	3	0	7	1	2	2	8	19	10
-AAA	8	9	6	4	7	2	2	1	0	11	23	9
-AAG	0	1	2	1	0	0	0	0	0	0	1	0
-AGT	1	1	2	2	1	1	2	1	1	3	5	1
-AGC	3	3	2	1	0	2	2	0	0	5	7	2
-GTT	2	1	14	5	0	6	6	1	0	4	7	6
-GTC	2	0	6	4	0	2	3	1	0	1	4	3
-GTA	4	2	16	7	1	2	6	1	1	5	2	3
-GTG	0	0	3	0	0	0	0	0	0	0	0	1
-GCT	4	6	10	1	0	5	7	4	2	6	11	1
-GCC	9	6	13	7	0	5	9	2	3	12	16	18
-GCA	9	5	17	6	1	5	3	1	2	12	10	1
-GCG	1	1	1	0	0	1	0	0	0	0	0	0
-GAT	2	0	13	8	1	0	2	1	0	4	4	4
-GAC	1	0	1	4	0	1	3	3	1	1	7	5
-GAA	10	6	10	15	1	4	7	6	2	10	11	5
-GAG	0	0	1	0	0	0	2	0	0	0	0	0
-GGT	3	4	22	2	0	0	6	2	2	6	4	3
-GGC	5	9	6	2	0	5	6	0	2	7	6	7
-GGA	9	4	14	3	0	4	6	2	2	9	17	10
-GGG	0	0	3	1	0	0	1	1	0	0	1	1
-TAA	0	0	1	0	1	1	1	0	0	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008758472.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	10	7	16	0	2	6	9	0	9	4	0	0	8	0	13	11	23	1	6	4	13	1	3	1	6	0	2	3	3	0	21	14	13	2	5	10	12	0	7	6	8	0	1	3	2	2	4	0	4	9	9	1	2	1	10	0	3	5	9	0	0	0	0	0
+1	ND2	YP_008758473.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	6	8	19	0	5	10	9	0	4	2	0	1	10	0	16	17	22	3	3	7	9	1	2	7	11	0	1	0	3	0	27	8	12	1	5	17	28	0	8	8	9	1	1	3	1	0	2	0	6	6	5	1	0	0	6	0	4	9	4	0	0	0	0	0
+2	COX1	YP_008758474.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	21	20	24	0	11	7	11	0	14	4	0	1	16	1	17	8	16	0	7	5	17	0	11	8	10	0	2	0	5	1	31	10	24	2	11	13	12	1	13	2	6	2	2	2	14	6	16	3	10	13	17	1	13	1	10	1	22	6	14	3	1	0	0	0
+3	COX2	YP_008758475.2	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	7	1	7	1	4	3	7	0	6	4	2	0	4	1	5	4	10	0	1	2	9	1	4	6	8	1	2	1	2	1	14	8	11	3	3	4	5	0	2	3	4	1	2	1	5	4	7	0	1	7	6	0	8	4	15	0	2	2	3	1	0	0	0	0
+4	ATP8	YP_008758476.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	2	2	2	0	1	1	1	0	0	0	0	0	5	0	2	1	0	0	2	1	4	0	1	2	1	0	0	0	0	0	3	3	1	1	4	0	1	0	2	0	7	0	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008758477.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	12	4	21	2	0	0	4	0	3	0	0	0	5	0	13	4	10	2	4	4	8	0	2	1	9	0	1	1	3	0	17	6	8	1	9	8	8	0	5	7	2	0	1	2	6	2	2	0	5	5	5	1	0	1	4	0	0	5	4	0	1	0	0	0
+6	COX3	YP_008758478.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	8	14	11	1	0	5	7	0	5	7	1	1	12	0	10	4	9	0	3	1	8	0	8	8	9	0	1	1	3	0	12	4	7	1	8	5	10	0	3	1	2	0	2	2	6	3	6	0	7	9	3	0	2	3	7	2	6	6	6	1	1	0	0	0
+7	ND3	YP_008758479.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	8	3	9	0	1	5	1	0	1	0	1	0	4	1	7	5	7	1	2	3	3	0	0	0	2	0	1	1	0	0	7	3	0	1	1	2	4	0	3	2	1	0	1	0	1	1	1	0	4	2	1	0	1	3	6	0	2	0	2	1	0	0	0	0
+8	ND4L	YP_008758480.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	3	3	7	0	0	7	3	0	1	1	4	0	1	0	7	4	4	0	0	0	1	0	3	2	2	0	0	2	0	0	3	4	5	1	3	0	6	0	1	2	0	0	1	0	0	0	1	0	2	3	2	0	0	1	2	0	2	2	2	0	0	0	0	0
+9	ND4	YP_008758481.2	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	12	9	25	2	3	11	9	0	8	6	1	4	20	0	21	13	26	2	5	5	12	1	6	5	13	0	0	2	9	0	32	13	24	3	10	18	16	0	9	8	11	0	3	5	4	1	5	0	6	12	12	0	4	1	10	0	6	7	9	0	0	0	0	0
+10	ND5	YP_008758482.1	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	20	23	39	2	7	11	15	2	5	10	3	2	11	1	21	17	26	1	7	11	13	0	7	8	20	0	1	4	4	0	43	22	26	4	10	21	18	0	17	19	23	1	5	7	7	4	2	0	11	16	10	0	4	7	11	0	4	6	17	1	0	0	0	0
+11	CYTB	YP_008758484.2	Hexanchus nakamurai	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Hexanchus	12	15	13	1	4	8	10	0	7	7	1	2	10	2	15	18	17	0	4	7	10	0	6	6	11	0	0	3	3	0	26	18	18	2	4	8	11	1	12	10	9	0	1	2	6	3	3	1	1	18	1	0	4	5	5	0	3	7	10	1	0	0	0	0

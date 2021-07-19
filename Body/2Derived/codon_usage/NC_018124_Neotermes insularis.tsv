@@ -1,65 +1,10 @@
-	YP_006503935.1|ND2	YP_006503936.1|COX1	YP_006503937.1|COX2	YP_006503938.1|ATP8	YP_006503939.1|ATP6	YP_006503940.1|COX3	YP_006503941.1|ND3	YP_006503945.1|ND6	YP_006503946.1|CYTB
-TTT	6	17	4	0	10	7	5	2	5
-TTC	10	23	6	4	5	18	4	6	21
-TTA	11	23	6	2	11	12	4	7	16
-TTG	3	4	0	0	0	0	0	0	0
-TCT	2	1	2	1	3	0	0	1	3
-TCC	6	2	1	0	1	2	2	0	1
-TCA	22	26	6	1	6	11	5	3	8
-TCG	1	0	0	0	0	0	1	0	0
-TAT	5	3	3	0	2	6	1	4	5
-TAC	6	13	4	1	1	4	0	2	13
-TGT	2	1	2	0	0	0	0	0	1
-TGC	2	1	1	0	1	1	1	1	2
-TGA	8	15	6	3	6	13	3	2	10
-TGG	2	0	0	0	0	0	0	0	2
-CTT	9	5	0	0	7	2	1	5	2
-CTC	3	0	5	0	1	2	2	0	2
-CTA	17	24	12	4	22	14	11	12	23
-CTG	6	3	1	0	2	1	0	1	1
-CCT	2	5	0	1	0	0	0	2	3
-CCC	3	3	2	2	3	0	0	1	1
-CCA	6	18	8	0	8	9	3	0	18
-CCG	0	1	0	0	0	0	1	0	1
-CAT	4	9	5	1	3	6	0	3	3
-CAC	0	6	1	0	3	8	1	0	10
-CAA	6	11	8	1	4	9	1	4	8
-CAG	1	0	0	0	0	1	0	0	0
-CGT	0	0	0	0	0	1	0	0	0
-CGC	0	0	1	0	0	0	0	0	0
-CGA	2	9	5	0	3	3	3	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	23	28	20	5	6	15	7	5	23
-ATC	16	17	7	1	7	8	8	5	14
-ATA	19	28	13	9	17	10	8	24	18
-ATG	9	1	2	0	1	2	0	2	1
-ACT	7	5	3	0	8	1	0	3	3
-ACC	5	3	4	1	6	2	0	4	3
-ACA	18	27	12	2	9	16	10	13	27
-ACG	2	0	0	0	0	1	0	0	0
-AAT	8	8	6	0	10	5	1	2	11
-AAC	7	10	7	2	6	2	2	4	9
-AAA	10	5	5	4	4	3	5	8	11
-AAG	2	4	0	1	0	0	0	0	1
-AGT	2	1	3	0	1	1	1	0	0
-AGC	0	3	0	0	0	0	1	1	0
-AGA	9	11	7	3	9	9	2	6	5
-AGG	2	0	0	0	0	0	0	0	0
-GTT	3	6	2	0	1	2	0	1	0
-GTC	1	1	0	0	2	1	0	1	2
-GTA	11	26	7	0	10	9	3	6	21
-GTG	3	1	0	0	0	0	0	0	1
-GCT	4	12	0	1	2	0	2	2	2
-GCC	3	3	3	0	0	3	3	0	7
-GCA	7	24	10	0	6	9	3	4	14
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	10	6	0	1	2	3	0	5
-GAC	0	4	6	0	0	1	0	3	6
-GAA	6	9	9	2	6	7	6	4	3
-GAG	1	1	0	0	0	1	0	0	1
-GGT	4	8	1	0	1	2	0	1	0
-GGC	1	1	1	0	2	0	1	0	0
-GGA	8	32	4	0	7	20	1	7	21
-GGG	4	4	1	0	0	0	1	0	2
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006503935.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	6	10	11	3	2	6	22	1	5	6	2	2	8	2	9	3	17	6	2	3	6	0	4	0	6	1	0	0	2	0	23	16	19	9	7	5	18	2	8	7	10	2	2	0	9	2	3	1	11	3	4	3	7	0	0	0	6	1	4	1	8	4	1	0
+1	COX1	YP_006503936.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	17	23	23	4	1	2	26	0	3	13	1	1	15	0	5	0	24	3	5	3	18	1	9	6	11	0	0	0	9	0	28	17	28	1	5	3	27	0	8	10	5	4	1	3	11	0	6	1	26	1	12	3	24	1	10	4	9	1	8	1	32	4	1	0
+2	COX2	YP_006503937.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	4	6	6	0	2	1	6	0	3	4	2	1	6	0	0	5	12	1	0	2	8	0	5	1	8	0	0	1	5	0	20	7	13	2	3	4	12	0	6	7	5	0	3	0	7	0	2	0	7	0	0	3	10	0	6	6	9	0	1	1	4	1	0	0
+3	ATP8	YP_006503938.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	0	4	2	0	1	0	1	0	0	1	0	0	3	0	0	0	4	0	1	2	0	0	1	0	1	0	0	0	0	0	5	1	9	0	0	1	2	0	0	2	4	1	0	0	3	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_006503939.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	10	5	11	0	3	1	6	0	2	1	0	1	6	0	7	1	22	2	0	3	8	0	3	3	4	0	0	0	3	0	6	7	17	1	8	6	9	0	10	6	4	0	1	0	9	0	1	2	10	0	2	0	6	0	1	0	6	0	1	2	7	0	1	0
+5	COX3	YP_006503940.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	7	18	12	0	0	2	11	0	6	4	0	1	13	0	2	2	14	1	0	0	9	0	6	8	9	1	1	0	3	0	15	8	10	2	1	2	16	1	5	2	3	0	1	0	9	0	2	1	9	0	0	3	9	0	2	1	7	1	2	0	20	0	1	0
+6	ND3	YP_006503941.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	5	4	4	0	0	2	5	1	1	0	0	1	3	0	1	2	11	0	0	0	3	1	0	1	1	0	0	0	3	0	7	8	8	0	0	0	10	0	1	2	5	0	1	1	2	0	0	0	3	0	2	3	3	0	3	0	6	0	0	1	1	1	1	0
+7	ND6	YP_006503945.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	2	6	7	0	1	0	3	0	4	2	0	1	2	0	5	0	12	1	2	1	0	0	3	0	4	0	0	0	1	0	5	5	24	2	3	4	13	0	2	4	8	0	0	1	6	0	1	1	6	0	2	0	4	0	0	3	4	0	1	0	7	0	1	0
+8	CYTB	YP_006503946.1	Neotermes insularis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Kalotermitidae, Neotermitinae, Neotermes	5	21	16	0	3	1	8	0	5	13	1	2	10	2	2	2	23	1	3	1	18	1	3	10	8	0	0	0	7	0	23	14	18	1	3	3	27	0	11	9	11	1	0	0	5	0	0	2	21	1	2	7	14	0	5	6	3	1	0	0	21	2	0	0

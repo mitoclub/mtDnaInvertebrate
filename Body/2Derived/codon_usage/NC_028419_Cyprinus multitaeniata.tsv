@@ -1,65 +1,13 @@
-	YP_009179835.1|ND1	YP_009179836.1|ND2	YP_009179837.1|COX1	YP_009179838.1|COX2	YP_009179839.1|ATP8	YP_009179840.1|ATP6	YP_009179841.1|COX3	YP_009179842.1|ND3	YP_009179843.1|ND4L	YP_009179844.1|ND4	YP_009179845.1|ND5	YP_009179847.1|CYTB
-TTT	3	4	16	4	2	7	6	3	3	7	11	4
-TTC	13	6	24	4	2	5	17	6	5	10	28	25
-TTA	8	9	8	5	4	6	6	2	5	14	11	7
-TTG	0	0	2	0	0	1	0	0	0	0	1	0
-TCT	1	3	5	3	1	0	1	1	1	1	1	3
-TCC	4	5	8	6	1	0	3	3	3	11	11	6
-TCA	11	7	12	4	1	4	8	1	2	10	17	11
-TCG	2	1	2	0	0	0	0	0	0	2	0	1
-TAT	7	3	10	5	0	4	4	1	0	5	3	2
-TAC	5	5	8	4	0	1	8	1	0	9	9	12
-TGT	0	0	0	1	0	0	0	0	1	0	1	0
-TGC	0	1	1	1	0	0	1	1	2	5	4	3
-TGA	8	11	16	5	5	5	10	4	1	18	13	11
-TGG	0	0	1	0	0	0	0	1	0	2	0	2
-CTT	8	5	16	8	0	6	6	0	4	11	10	9
-CTC	11	11	12	2	0	8	5	4	2	17	19	8
-CTA	31	34	26	10	1	20	14	18	10	40	45	35
-CTG	1	6	2	4	0	4	1	2	2	5	6	1
-CCT	6	1	6	1	1	1	3	0	1	4	3	4
-CCC	6	7	5	4	1	4	2	2	1	7	9	2
-CCA	12	11	15	8	6	14	7	6	0	13	12	13
-CCG	0	0	2	0	0	0	1	0	0	3	2	2
-CAT	3	1	2	1	1	1	7	0	1	3	3	1
-CAC	3	5	17	9	1	2	9	1	3	9	10	11
-CAA	6	14	8	8	1	9	9	3	3	14	19	6
-CAG	0	0	0	0	0	0	0	0	0	0	1	0
-CGT	0	1	0	1	0	0	1	0	0	1	0	1
-CGC	1	1	2	2	0	1	2	1	1	3	1	1
-CGA	7	2	5	4	0	4	3	1	1	5	9	7
-CGG	1	0	2	0	0	1	0	0	1	2	0	0
-ATT	10	14	21	12	4	9	9	7	2	18	30	16
-ATC	14	15	17	4	1	15	7	1	0	21	29	18
-ATA	10	17	12	9	0	8	7	2	3	22	31	10
-ATG	2	2	11	3	1	2	1	1	2	5	5	2
-ACT	5	3	6	4	3	3	1	2	1	8	5	0
-ACC	5	23	8	2	1	2	7	4	4	11	22	11
-ACA	9	22	19	3	0	10	14	4	3	23	27	12
-ACG	0	1	2	1	0	1	0	0	0	0	1	0
-AAT	2	5	6	4	1	6	1	2	1	3	7	4
-AAC	9	3	9	2	1	4	0	1	1	9	24	12
-AAA	8	9	8	4	3	1	2	1	0	7	20	10
-AAG	0	0	0	0	0	0	0	0	0	2	2	0
-AGT	0	0	1	1	1	0	0	0	0	0	3	0
-AGC	4	8	5	2	1	5	4	0	3	6	7	2
-GTT	1	2	10	5	0	4	3	2	1	2	5	5
-GTC	2	1	4	4	0	1	2	0	0	4	7	5
-GTA	17	3	24	8	2	11	8	1	1	12	12	15
-GTG	1	0	4	3	0	1	2	1	0	0	1	0
-GCT	0	4	8	3	1	5	5	0	4	5	3	2
-GCC	21	17	21	7	0	8	10	4	3	14	29	11
-GCA	13	16	17	7	1	7	10	5	5	14	19	13
-GCG	0	2	0	1	0	0	0	0	1	0	2	2
-GAT	0	0	4	0	0	0	3	1	0	0	1	2
-GAC	4	5	10	12	1	1	3	2	1	3	13	10
-GAA	11	4	10	14	3	4	8	7	3	11	10	5
-GAG	0	0	1	1	0	0	0	0	0	0	1	0
-GGT	0	0	10	0	0	1	1	0	1	6	2	2
-GGC	2	2	4	2	1	1	5	2	2	5	8	6
-GGA	14	15	24	7	0	9	13	3	3	16	20	15
-GGG	2	1	7	1	0	0	1	1	0	2	2	2
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009179835.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	3	13	8	0	1	4	11	2	7	5	0	0	8	0	8	11	31	1	6	6	12	0	3	3	6	0	0	1	7	1	10	14	10	2	5	5	9	0	2	9	8	0	0	4	1	2	17	1	0	21	13	0	0	4	11	0	0	2	14	2	1	0	0	0
+1	ND2	YP_009179836.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	4	6	9	0	3	5	7	1	3	5	0	1	11	0	5	11	34	6	1	7	11	0	1	5	14	0	1	1	2	0	14	15	17	2	3	23	22	1	5	3	9	0	0	8	2	1	3	0	4	17	16	2	0	5	4	0	0	2	15	1	0	0	0	0
+2	COX1	YP_009179837.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	16	24	8	2	5	8	12	2	10	8	0	1	16	1	16	12	26	2	6	5	15	2	2	17	8	0	0	2	5	2	21	17	12	11	6	8	19	2	6	9	8	0	1	5	10	4	24	4	8	21	17	0	4	10	10	1	10	4	24	7	1	0	0	0
+3	COX2	YP_009179838.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	4	4	5	0	3	6	4	0	5	4	1	1	5	0	8	2	10	4	1	4	8	0	1	9	8	0	1	2	4	0	12	4	9	3	4	2	3	1	4	2	4	0	1	2	5	4	8	3	3	7	7	1	0	12	14	1	0	2	7	1	0	0	0	0
+4	ATP8	YP_009179839.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	2	2	4	0	1	1	1	0	0	0	0	0	5	0	0	0	1	0	1	1	6	0	1	1	1	0	0	0	0	0	4	1	0	1	3	1	0	0	1	1	3	0	1	1	0	0	2	0	1	0	1	0	0	1	3	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_009179840.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	7	5	6	1	0	0	4	0	4	1	0	0	5	0	6	8	20	4	1	4	14	0	1	2	9	0	0	1	4	1	9	15	8	2	3	2	10	1	6	4	1	0	0	5	4	1	11	1	5	8	7	0	0	1	4	0	1	1	9	0	1	0	0	0
+6	COX3	YP_009179841.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	6	17	6	0	1	3	8	0	4	8	0	1	10	0	6	5	14	1	3	2	7	1	7	9	9	0	1	2	3	0	9	7	7	1	1	7	14	0	1	0	2	0	0	4	3	2	8	2	5	10	10	0	3	3	8	0	1	5	13	1	0	0	0	0
+7	ND3	YP_009179842.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	3	6	2	0	1	3	1	0	1	1	0	1	4	1	0	4	18	2	0	2	6	0	0	1	3	0	0	1	1	0	7	1	2	1	2	4	4	0	2	1	1	0	0	0	2	0	1	1	0	4	5	0	1	2	7	0	0	2	3	1	0	0	0	0
+8	ND4L	YP_009179843.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	3	5	5	0	1	3	2	0	0	0	1	2	1	0	4	2	10	2	1	1	0	0	1	3	3	0	0	1	1	1	2	0	3	2	1	4	3	0	1	1	0	0	0	3	1	0	1	0	4	3	5	1	0	1	3	0	1	2	3	0	1	0	0	0
+9	ND4	YP_009179844.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	7	10	14	0	1	11	10	2	5	9	0	5	18	2	11	17	40	5	4	7	13	3	3	9	14	0	1	3	5	2	18	21	22	5	8	11	23	0	3	9	7	2	0	6	2	4	12	0	5	14	14	0	0	3	11	0	6	5	16	2	0	0	0	0
+10	ND5	YP_009179845.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	11	28	11	1	1	11	17	0	3	9	1	4	13	0	10	19	45	6	3	9	12	2	3	10	19	1	0	1	9	0	30	29	31	5	5	22	27	1	7	24	20	2	3	7	5	7	12	1	3	29	19	2	1	13	10	1	2	8	20	2	1	0	0	0
+11	CYTB	YP_009179847.1	Cyprinus multitaeniata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cyprinus	4	25	7	0	3	6	11	1	2	12	0	3	11	2	9	8	35	1	4	2	13	2	1	11	6	0	1	1	7	0	16	18	10	2	0	11	12	0	4	12	10	0	0	2	5	5	15	0	2	11	13	2	2	10	5	0	2	6	15	2	0	0	0	0

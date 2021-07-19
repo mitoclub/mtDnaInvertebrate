@@ -1,65 +1,10 @@
-	YP_009164767.1|ND2	YP_009164768.1|COX1	YP_009164769.1|COX2	YP_009164770.1|ATP8	YP_009164771.1|ATP6	YP_009164772.1|COX3	YP_009164773.1|ND3	YP_009164777.1|ND6	YP_009164778.1|CYTB
-TTT	39	36	15	5	21	23	12	15	31
-TTC	3	5	0	0	2	3	0	0	2
-TTA	38	39	21	5	29	20	15	29	39
-TTG	5	1	0	0	0	0	0	0	0
-TCT	13	20	7	3	6	4	3	3	8
-TCC	4	2	4	0	1	0	3	0	1
-TCA	11	10	3	2	7	7	5	3	7
-TCG	2	0	0	0	0	0	0	0	0
-TAT	8	12	6	3	2	10	1	7	13
-TAC	3	5	1	0	1	0	2	2	6
-TGT	1	0	2	0	3	2	2	1	2
-TGC	1	0	0	0	0	0	0	0	1
-TGA	8	14	5	3	5	12	3	2	12
-TGG	0	1	1	0	0	1	0	0	0
-CTT	5	17	3	0	5	5	4	1	10
-CTC	2	1	1	0	1	2	0	0	0
-CTA	3	6	6	0	2	2	1	2	5
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	19	5	1	8	6	2	2	12
-CCC	3	2	1	0	2	1	1	0	1
-CCA	3	6	5	3	1	2	1	2	8
-CCG	0	1	0	0	1	0	0	0	0
-CAT	2	16	4	0	5	13	1	1	7
-CAC	2	2	1	0	2	2	0	1	4
-CAA	6	8	8	1	3	8	2	4	8
-CAG	1	0	0	0	1	0	0	0	0
-CGT	0	1	2	0	0	0	2	0	1
-CGC	0	0	0	0	0	0	1	1	0
-CGA	2	9	4	0	3	4	0	0	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	42	47	21	7	23	24	15	22	39
-ATC	5	0	0	1	1	2	4	2	4
-ATA	16	28	12	5	13	7	7	23	18
-ATG	2	0	1	0	1	1	0	0	1
-ACT	7	15	9	1	10	12	1	4	9
-ACC	2	3	1	0	1	1	0	0	1
-ACA	5	13	6	1	9	9	1	5	13
-ACG	0	0	0	0	0	2	0	0	1
-AAT	21	13	13	6	10	4	2	12	17
-AAC	1	2	1	0	3	3	2	4	4
-AAA	14	5	3	3	2	2	3	5	10
-AAG	0	3	1	0	0	0	0	0	0
-AGT	2	6	1	0	3	3	1	0	0
-AGC	1	2	0	0	0	1	0	0	0
-AGA	6	4	4	0	6	3	2	3	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	18	8	0	5	8	0	1	9
-GTC	0	0	0	0	0	1	0	0	0
-GTA	4	13	3	0	2	7	2	1	8
-GTG	1	1	0	0	0	0	0	1	1
-GCT	11	22	4	0	6	9	2	0	12
-GCC	2	7	0	1	0	1	0	2	2
-GCA	1	6	5	0	2	4	4	0	5
-GCG	0	1	0	0	0	0	0	0	0
-GAT	2	12	8	0	1	3	2	2	9
-GAC	0	3	2	0	0	1	1	0	1
-GAA	7	9	9	1	4	6	4	3	2
-GAG	0	0	0	0	0	1	0	0	0
-GGT	6	14	7	0	2	5	1	2	7
-GGC	0	1	0	0	0	1	0	0	0
-GGA	7	29	2	0	9	11	2	3	16
-GGG	3	3	1	0	0	3	0	0	2
-TAA	1	0	1	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009164767.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	39	3	38	5	13	4	11	2	8	3	1	1	8	0	5	2	3	0	2	3	3	0	2	2	6	1	0	0	2	0	42	5	16	2	7	2	5	0	21	1	14	0	2	1	6	0	3	0	4	1	11	2	1	0	2	0	7	0	6	0	7	3	1	0
+1	COX1	YP_009164768.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	36	5	39	1	20	2	10	0	12	5	0	0	14	1	17	1	6	0	19	2	6	1	16	2	8	0	1	0	9	0	47	0	28	0	15	3	13	0	13	2	5	3	6	2	4	0	18	0	13	1	22	7	6	1	12	3	9	0	14	1	29	3	0	0
+2	COX2	YP_009164769.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	15	0	21	0	7	4	3	0	6	1	2	0	5	1	3	1	6	0	5	1	5	0	4	1	8	0	2	0	4	0	21	0	12	1	9	1	6	0	13	1	3	1	1	0	4	0	8	0	3	0	4	0	5	0	8	2	9	0	7	0	2	1	1	0
+3	ATP8	YP_009164770.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	5	0	5	0	3	0	2	0	3	0	0	0	3	0	0	0	0	0	1	0	3	0	0	0	1	0	0	0	0	0	7	1	5	0	1	0	1	0	6	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009164771.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	21	2	29	0	6	1	7	0	2	1	3	0	5	0	5	1	2	0	8	2	1	1	5	2	3	1	0	0	3	0	23	1	13	1	10	1	9	0	10	3	2	0	3	0	6	0	5	0	2	0	6	0	2	0	1	0	4	0	2	0	9	0	1	0
+5	COX3	YP_009164772.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	23	3	20	0	4	0	7	0	10	0	2	0	12	1	5	2	2	0	6	1	2	0	13	2	8	0	0	0	4	0	24	2	7	1	12	1	9	2	4	3	2	0	3	1	3	0	8	1	7	0	9	1	4	0	3	1	6	1	5	1	11	3	0	0
+6	ND3	YP_009164773.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	12	0	15	0	3	3	5	0	1	2	2	0	3	0	4	0	1	0	2	1	1	0	1	0	2	0	2	1	0	0	15	4	7	0	1	0	1	0	2	2	3	0	1	0	2	0	0	0	2	0	2	0	4	0	2	1	4	0	1	0	2	0	0	0
+7	ND6	YP_009164777.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	15	0	29	0	3	0	3	0	7	2	1	0	2	0	1	0	2	0	2	0	2	0	1	1	4	0	0	1	0	0	22	2	23	0	4	0	5	0	12	4	5	0	0	0	3	0	1	0	1	1	0	2	0	0	2	0	3	0	2	0	3	0	1	0
+8	CYTB	YP_009164778.1	Nevromus exterior	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Megaloptera, Corydalidae, Corydalinae, Nevromus	31	2	39	0	8	1	7	0	13	6	2	1	12	0	10	0	5	0	12	1	8	0	7	4	8	0	1	0	6	0	39	4	18	1	9	1	13	1	17	4	10	0	0	0	3	0	9	0	8	1	12	2	5	0	9	1	2	0	7	0	16	2	0	0

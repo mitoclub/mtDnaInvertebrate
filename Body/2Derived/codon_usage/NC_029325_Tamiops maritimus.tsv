@@ -1,65 +1,13 @@
-	YP_009230473.1|ND1	YP_009230474.1|ND2	YP_009230475.1|COX1	YP_009230476.1|COX2	YP_009230477.1|ATP8	YP_009230478.1|ATP6	YP_009230479.1|COX3	YP_009230480.1|ND3	YP_009230481.1|ND4L	YP_009230482.1|ND4	YP_009230483.1|ND5	YP_009230485.1|CYTB
-TTT	9	4	19	5	1	8	8	2	3	7	24	8
-TTC	13	11	23	2	4	4	15	6	1	15	25	21
-TTA	11	7	14	8	3	5	6	3	5	14	17	4
-TTG	0	0	0	0	1	0	0	0	0	2	0	0
-TCT	3	0	6	6	1	2	4	2	2	8	9	7
-TCC	3	10	11	2	2	2	1	2	3	11	14	3
-TCA	10	18	9	8	3	6	12	2	4	13	16	12
-TCG	1	0	1	1	0	0	0	0	0	1	3	0
-TAT	6	3	7	9	2	1	4	2	1	9	10	4
-TAC	3	5	12	2	0	1	6	1	3	6	12	11
-TGT	1	0	1	1	0	0	0	1	0	1	3	2
-TGC	1	0	0	1	0	0	2	0	4	2	2	2
-TGA	9	10	16	5	3	3	12	4	0	12	11	10
-TGG	0	0	1	0	0	0	0	0	0	0	1	2
-CTT	5	7	14	9	2	6	9	11	4	12	27	9
-CTC	15	13	7	5	1	7	11	7	3	16	18	20
-CTA	26	31	19	13	3	19	9	7	7	38	34	27
-CTG	1	2	6	0	0	4	0	0	2	5	3	1
-CCT	10	5	10	5	2	8	1	3	1	6	9	3
-CCC	6	10	7	3	3	2	6	2	1	10	10	10
-CCA	7	7	11	6	1	5	3	1	0	5	6	8
-CCG	0	0	0	0	0	0	0	0	0	0	0	1
-CAT	1	1	10	3	1	1	6	0	0	2	3	3
-CAC	2	4	8	4	1	6	10	0	2	9	7	10
-CAA	7	8	6	4	4	7	6	3	2	10	15	6
-CAG	0	1	0	1	0	1	1	0	0	1	1	0
-CGT	0	0	3	0	0	1	0	0	0	0	1	0
-CGC	1	0	0	2	0	0	3	0	0	2	2	4
-CGA	6	3	5	4	0	4	2	1	1	7	6	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	14	20	18	11	2	17	12	5	3	22	23	18
-ATC	17	19	19	7	3	12	4	3	8	28	33	23
-ATA	18	28	28	9	2	13	8	7	9	36	36	12
-ATG	1	0	3	4	1	3	1	0	2	1	0	2
-ACT	3	7	7	2	2	4	4	0	0	3	6	2
-ACC	5	12	14	4	1	4	7	3	3	10	21	10
-ACA	17	17	17	10	3	13	8	2	0	23	22	11
-ACG	0	0	0	1	1	0	1	0	0	0	1	0
-AAT	7	7	8	1	3	6	5	2	1	10	10	4
-AAC	6	12	9	5	0	5	5	2	4	14	27	11
-AAA	8	12	9	5	5	4	2	3	0	9	21	9
-AAG	0	2	0	0	0	0	0	1	0	1	2	1
-AGT	0	0	1	1	0	1	0	2	0	2	3	0
-AGC	1	4	2	3	0	2	5	0	1	7	5	4
-GTT	1	0	10	5	0	6	4	1	0	1	2	3
-GTC	3	3	7	3	1	1	7	0	0	4	5	3
-GTA	5	5	20	3	1	2	5	2	5	4	7	9
-GTG	0	0	1	1	0	0	0	0	0	1	1	2
-GCT	5	1	13	1	0	2	4	0	1	10	10	4
-GCC	14	7	11	3	1	7	6	4	2	7	16	10
-GCA	11	12	17	3	0	6	5	6	3	13	14	8
-GCG	0	0	1	1	0	0	0	0	0	0	0	0
-GAT	1	0	10	6	2	1	2	1	0	0	3	4
-GAC	2	0	5	6	0	0	1	1	1	3	11	7
-GAA	10	5	9	14	1	3	7	6	1	6	8	5
-GAG	0	0	1	1	0	0	1	0	1	2	2	1
-GGT	0	2	10	2	0	1	3	0	1	2	6	7
-GGC	5	5	5	1	0	2	8	2	0	2	6	5
-GGA	7	7	27	4	0	7	7	2	3	12	11	9
-GGG	0	0	5	1	0	1	2	0	0	2	4	3
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009230473.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	9	13	11	0	3	3	10	1	6	3	1	1	9	0	5	15	26	1	10	6	7	0	1	2	7	0	0	1	6	0	14	17	18	1	3	5	17	0	7	6	8	0	0	1	1	3	5	0	5	14	11	0	1	2	10	0	0	5	7	0	0	0	0	0
+1	ND2	YP_009230474.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	4	11	7	0	0	10	18	0	3	5	0	0	10	0	7	13	31	2	5	10	7	0	1	4	8	1	0	0	3	0	20	19	28	0	7	12	17	0	7	12	12	2	0	4	0	3	5	0	1	7	12	0	0	0	5	0	2	5	7	0	0	0	0	0
+2	COX1	YP_009230475.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	19	23	14	0	6	11	9	1	7	12	1	0	16	1	14	7	19	6	10	7	11	0	10	8	6	0	3	0	5	0	18	19	28	3	7	14	17	0	8	9	9	0	1	2	10	7	20	1	13	11	17	1	10	5	9	1	10	5	27	5	1	0	0	0
+3	COX2	YP_009230476.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	5	2	8	0	6	2	8	1	9	2	1	1	5	0	9	5	13	0	5	3	6	0	3	4	4	1	0	2	4	0	11	7	9	4	2	4	10	1	1	5	5	0	1	3	5	3	3	1	1	3	3	1	6	6	14	1	2	1	4	1	1	0	0	0
+4	ATP8	YP_009230477.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	1	4	3	1	1	2	3	0	2	0	0	0	3	0	2	1	3	0	2	3	1	0	1	1	4	0	0	0	0	0	2	3	2	1	2	1	3	1	3	0	5	0	0	0	0	1	1	0	0	1	0	0	2	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009230478.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	8	4	5	0	2	2	6	0	1	1	0	0	3	0	6	7	19	4	8	2	5	0	1	6	7	1	1	0	4	0	17	12	13	3	4	4	13	0	6	5	4	0	1	2	6	1	2	0	2	7	6	0	1	0	3	0	1	2	7	1	1	0	0	0
+6	COX3	YP_009230479.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	8	15	6	0	4	1	12	0	4	6	0	2	12	0	9	11	9	0	1	6	3	0	6	10	6	1	0	3	2	0	12	4	8	1	4	7	8	1	5	5	2	0	0	5	4	7	5	0	4	6	5	0	2	1	7	1	3	8	7	2	0	0	0	0
+7	ND3	YP_009230480.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	2	6	3	0	2	2	2	0	2	1	1	0	4	0	11	7	7	0	3	2	1	0	0	0	3	0	0	0	1	0	5	3	7	0	0	3	2	0	2	2	3	1	2	0	1	0	2	0	0	4	6	0	1	1	6	0	0	2	2	0	1	0	0	0
+8	ND4L	YP_009230481.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	3	1	5	0	2	3	4	0	1	3	0	4	0	0	4	3	7	2	1	1	0	0	0	2	2	0	0	0	1	0	3	8	9	2	0	3	0	0	1	4	0	0	0	1	0	0	5	0	1	2	3	0	0	1	1	1	1	0	3	0	1	0	0	0
+9	ND4	YP_009230482.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	7	15	14	2	8	11	13	1	9	6	1	2	12	0	12	16	38	5	6	10	5	0	2	9	10	1	0	2	7	0	22	28	36	1	3	10	23	0	10	14	9	1	2	7	1	4	4	1	10	7	13	0	0	3	6	2	2	2	12	2	0	0	0	0
+10	ND5	YP_009230483.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	24	25	17	0	9	14	16	3	10	12	3	2	11	1	27	18	34	3	9	10	6	0	3	7	15	1	1	2	6	0	23	33	36	0	6	21	22	1	10	27	21	2	3	5	2	5	7	1	10	16	14	0	3	11	8	2	6	6	11	4	1	0	0	0
+11	CYTB	YP_009230485.1	Tamiops maritimus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Tamiops	8	21	4	0	7	3	12	0	4	11	2	2	10	2	9	20	27	1	3	10	8	1	3	10	6	0	0	4	4	0	18	23	12	2	2	10	11	0	4	11	9	1	0	4	3	3	9	2	4	10	8	0	4	7	5	1	7	5	9	3	0	0	1	0

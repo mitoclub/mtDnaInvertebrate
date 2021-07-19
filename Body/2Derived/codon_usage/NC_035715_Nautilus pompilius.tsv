@@ -1,65 +1,7 @@
-	YP_009420015.1|COX1	YP_009420016.1|COX2	YP_009420017.1|ATP6	YP_009420024.1|COX3	YP_009420025.1|ND3	YP_009420026.1|ND2
-TTT	24	3	7	16	4	13
-TTC	18	7	8	10	1	10
-TTA	31	13	9	7	4	23
-TTG	3	1	3	6	1	6
-TCT	10	7	8	3	7	10
-TCC	7	1	13	8	3	13
-TCA	13	7	4	6	0	9
-TCG	1	1	0	2	3	0
-TAT	7	5	2	1	2	5
-TAC	8	3	7	6	1	6
-TGT	0	0	0	2	0	2
-TGC	0	2	0	1	1	1
-TGA	15	5	3	11	4	7
-TGG	2	1	2	2	1	0
-CTT	12	8	10	4	7	16
-CTC	5	0	14	6	6	8
-CTA	18	8	12	12	4	16
-CTG	1	1	0	1	0	2
-CCT	6	2	4	2	1	6
-CCC	6	2	5	5	1	2
-CCA	11	5	5	4	1	3
-CCG	1	2	0	0	0	0
-CAT	7	3	2	6	1	1
-CAC	13	2	4	7	0	4
-CAA	6	8	5	6	2	7
-CAG	1	1	0	0	0	2
-CGT	1	1	1	1	0	1
-CGC	1	2	3	1	0	0
-CGA	9	3	0	3	1	0
-CGG	0	1	0	0	1	0
-ATT	26	11	8	3	12	23
-ATC	11	9	12	5	3	9
-ATA	13	10	5	4	4	16
-ATG	11	1	2	2	0	3
-ACT	11	5	3	3	1	7
-ACC	9	1	7	9	2	5
-ACA	16	2	4	7	0	10
-ACG	1	1	1	1	1	0
-AAT	8	5	2	3	1	3
-AAC	10	6	6	4	0	10
-AAA	7	5	2	1	1	8
-AAG	1	2	0	0	1	2
-AGT	1	1	1	2	6	2
-AGC	2	0	4	2	2	3
-AGA	5	2	1	1	5	12
-AGG	2	1	0	0	0	2
-GTT	9	6	5	5	1	8
-GTC	8	4	3	8	2	2
-GTA	16	6	4	7	3	3
-GTG	4	1	1	2	1	3
-GCT	11	4	3	3	1	4
-GCC	7	4	5	5	0	7
-GCA	17	5	2	6	1	1
-GCG	0	0	0	2	0	0
-GAT	10	4	3	2	1	0
-GAC	6	6	2	1	1	3
-GAA	5	6	2	7	1	2
-GAG	3	4	0	3	2	3
-GGT	6	3	1	1	0	5
-GGC	7	0	4	8	0	3
-GGA	25	7	6	9	1	10
-GGG	5	0	1	4	2	0
-TAA	0	1	0	0	1	1
-TAG	1	0	1	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009420015.1	Nautilus pompilius	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Nautiloidea, Nautilida, Nautilidae, Nautilus	24	18	31	3	10	7	13	1	7	8	0	0	15	2	12	5	18	1	6	6	11	1	7	13	6	1	1	1	9	0	26	11	13	11	11	9	16	1	8	10	7	1	1	2	5	2	9	8	16	4	11	7	17	0	10	6	5	3	6	7	25	5	0	1
+1	COX2	YP_009420016.1	Nautilus pompilius	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Nautiloidea, Nautilida, Nautilidae, Nautilus	3	7	13	1	7	1	7	1	5	3	0	2	5	1	8	0	8	1	2	2	5	2	3	2	8	1	1	2	3	1	11	9	10	1	5	1	2	1	5	6	5	2	1	0	2	1	6	4	6	1	4	4	5	0	4	6	6	4	3	0	7	0	1	0
+2	ATP6	YP_009420017.1	Nautilus pompilius	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Nautiloidea, Nautilida, Nautilidae, Nautilus	7	8	9	3	8	13	4	0	2	7	0	0	3	2	10	14	12	0	4	5	5	0	2	4	5	0	1	3	0	0	8	12	5	2	3	7	4	1	2	6	2	0	1	4	1	0	5	3	4	1	3	5	2	0	3	2	2	0	1	4	6	1	0	1
+3	COX3	YP_009420024.1	Nautilus pompilius	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Nautiloidea, Nautilida, Nautilidae, Nautilus	16	10	7	6	3	8	6	2	1	6	2	1	11	2	4	6	12	1	2	5	4	0	6	7	6	0	1	1	3	0	3	5	4	2	3	9	7	1	3	4	1	0	2	2	1	0	5	8	7	2	3	5	6	2	2	1	7	3	1	8	9	4	0	1
+4	ND3	YP_009420025.1	Nautilus pompilius	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Nautiloidea, Nautilida, Nautilidae, Nautilus	4	1	4	1	7	3	0	3	2	1	0	1	4	1	7	6	4	0	1	1	1	0	1	0	2	0	0	0	1	1	12	3	4	0	1	2	0	1	1	0	1	1	6	2	5	0	1	2	3	1	1	0	1	0	1	1	1	2	0	0	1	2	1	0
+5	ND2	YP_009420026.1	Nautilus pompilius	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Nautiloidea, Nautilida, Nautilidae, Nautilus	13	10	23	6	10	13	9	0	5	6	2	1	7	0	16	8	16	2	6	2	3	0	1	4	7	2	1	0	0	0	23	9	16	3	7	5	10	0	3	10	8	2	2	3	12	2	8	2	3	3	4	7	1	0	0	3	2	3	5	3	10	0	1	0

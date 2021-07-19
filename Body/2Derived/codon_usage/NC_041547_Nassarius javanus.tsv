@@ -1,65 +1,14 @@
-	YP_009582113.1|COX1	YP_009582114.1|COX2	YP_009582115.1|ATP8	YP_009582116.1	YP_009582117.1|ND1	YP_009582118.1|ND6	YP_009582119.1|CYTB	YP_009582120.1|ND4L	YP_009582121.1|ND4	YP_009582122.1|ND5	YP_009582123.1|COX3	YP_009582124.1|ND3	YP_009582125.1|ND2
-TTT	38	8	4	19	28	9	26	5	25	41	21	13	22
-TTC	2	4	0	1	6	2	7	2	12	10	5	2	2
-TTA	36	23	7	25	34	26	34	15	52	59	22	12	36
-TTG	1	1	1	4	2	1	2	1	9	3	4	1	14
-TCT	13	8	3	12	10	4	8	2	19	19	7	5	16
-TCC	1	0	0	0	1	3	1	0	4	1	0	0	1
-TCA	8	6	1	5	5	3	6	4	13	25	3	1	6
-TCG	1	0	0	3	1	0	1	0	0	2	0	0	1
-TAT	15	7	0	8	16	6	14	2	17	8	7	0	11
-TAC	3	3	0	0	2	3	4	1	2	5	4	0	2
-TGT	0	4	0	1	4	2	2	2	5	6	4	1	4
-TGC	1	0	0	0	0	0	1	0	0	1	1	0	0
-TGA	15	6	6	3	6	1	13	0	14	12	13	3	9
-TGG	2	0	0	1	1	0	0	0	2	0	1	0	2
-CTT	18	2	1	5	6	3	10	3	7	15	6	2	9
-CTC	2	0	0	0	2	0	0	0	2	2	0	0	2
-CTA	9	2	0	3	6	1	10	1	11	16	0	3	1
-CTG	1	0	0	0	0	0	1	0	0	0	0	1	0
-CCT	18	4	1	6	4	6	14	0	7	11	6	3	8
-CCC	0	1	0	0	2	0	0	0	1	0	1	0	0
-CCA	5	3	1	3	6	2	7	0	6	10	3	2	2
-CCG	0	3	1	2	0	0	0	0	0	0	0	0	1
-CAT	17	5	0	3	0	0	11	2	10	8	10	1	2
-CAC	1	1	0	1	0	0	2	0	1	3	2	0	2
-CAA	4	6	1	4	5	2	7	0	8	12	5	0	7
-CAG	2	1	1	0	0	2	1	1	0	2	1	1	1
-CGT	4	2	0	2	2	0	2	1	1	4	3	1	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	6	4	0	2	5	1	6	0	4	1	2	3	0
-CGG	2	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	38	18	1	19	24	20	27	6	33	46	12	12	27
-ATC	0	1	1	2	1	1	4	1	7	3	1	1	7
-ATA	17	7	0	8	10	13	9	4	22	33	5	3	23
-ATG	8	1	2	3	1	3	4	3	5	5	2	3	4
-ACT	13	8	2	6	7	1	7	4	8	10	11	0	4
-ACC	0	0	0	0	1	0	3	0	2	3	0	0	0
-ACA	18	1	1	6	4	1	6	2	8	12	4	1	3
-ACG	1	0	0	0	0	0	0	0	2	1	1	0	1
-AAT	16	7	4	8	7	2	14	3	12	17	4	2	11
-AAC	1	0	1	1	0	1	2	0	3	6	0	0	1
-AAA	7	5	3	1	11	4	6	2	15	19	0	3	10
-AAG	2	0	0	0	0	0	1	0	1	2	1	0	1
-AGT	4	1	0	5	6	3	2	3	4	8	2	3	9
-AGC	1	2	0	2	0	0	1	0	3	3	0	0	1
-AGA	4	2	0	4	5	4	1	5	19	10	4	3	11
-AGG	1	0	0	0	1	1	0	0	0	1	1	1	0
-GTT	15	7	2	8	6	8	11	3	8	13	10	5	10
-GTC	0	2	0	3	2	0	5	1	1	3	2	0	0
-GTA	21	11	3	11	6	5	14	1	6	13	6	0	6
-GTG	4	1	0	2	1	1	0	0	0	2	3	1	3
-GCT	29	9	1	5	16	6	16	7	10	13	10	8	12
-GCC	1	0	0	0	4	0	3	0	4	7	0	0	0
-GCA	14	3	0	5	10	2	8	1	10	16	9	1	4
-GCG	0	0	0	0	0	1	0	0	2	1	0	0	0
-GAT	11	11	0	4	4	1	7	0	4	9	3	3	3
-GAC	5	1	0	1	0	1	3	1	2	3	1	1	0
-GAA	8	10	2	3	12	1	5	4	6	8	6	4	4
-GAG	2	3	0	0	1	0	2	0	0	1	3	1	2
-GGT	13	4	0	6	5	3	13	0	5	7	4	3	14
-GGC	0	0	0	2	1	0	0	0	0	2	1	0	1
-GGA	24	7	1	3	11	4	13	5	16	18	18	3	10
-GGG	8	2	0	0	2	2	2	0	1	2	4	0	7
-TAA	1	1	1	1	1	1	1	0	0	0	1	1	1
-TAG	0	0	0	0	0	0	0	1	1	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009582113.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	38	2	36	1	13	1	8	1	15	3	0	1	15	2	18	2	9	1	18	0	5	0	17	1	4	2	4	0	6	2	38	0	17	8	13	0	18	1	16	1	7	2	4	1	4	1	15	0	21	4	29	1	14	0	11	5	8	2	13	0	24	8	1	0
+1	COX2	YP_009582114.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	8	4	23	1	8	0	6	0	7	3	4	0	6	0	2	0	2	0	4	1	3	3	5	1	6	1	2	0	4	0	18	1	7	1	8	0	1	0	7	0	5	0	1	2	2	0	7	2	11	1	9	0	3	0	11	1	10	3	4	0	7	2	1	0
+2	ATP8	YP_009582115.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	4	0	7	1	3	0	1	0	0	0	0	0	6	0	1	0	0	0	1	0	1	1	0	0	1	1	0	0	0	0	1	1	0	2	2	0	1	0	4	1	3	0	0	0	0	0	2	0	3	0	1	0	0	0	0	0	2	0	0	0	1	0	1	0
+3	None	YP_009582116.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	19	1	25	4	12	0	5	3	8	0	1	0	3	1	5	0	3	0	6	0	3	2	3	1	4	0	2	0	2	0	19	2	8	3	6	0	6	0	8	1	1	0	5	2	4	0	8	3	11	2	5	0	5	0	4	1	3	0	6	2	3	0	1	0
+4	ND1	YP_009582117.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	28	6	34	2	10	1	5	1	16	2	4	0	6	1	6	2	6	0	4	2	6	0	0	0	5	0	2	0	5	0	24	1	10	1	7	1	4	0	7	0	11	0	6	0	5	1	6	2	6	1	16	4	10	0	4	0	12	1	5	1	11	2	1	0
+5	ND6	YP_009582118.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	9	2	26	1	4	3	3	0	6	3	2	0	1	0	3	0	1	0	6	0	2	0	0	0	2	2	0	0	1	0	20	1	13	3	1	0	1	0	2	1	4	0	3	0	4	1	8	0	5	1	6	0	2	1	1	1	1	0	3	0	4	2	1	0
+6	CYTB	YP_009582119.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	26	7	34	2	8	1	6	1	14	4	2	1	13	0	10	0	10	1	14	0	7	0	11	2	7	1	2	0	6	0	27	4	9	4	7	3	6	0	14	2	6	1	2	1	1	0	11	5	14	0	16	3	8	0	7	3	5	2	13	0	13	2	1	0
+7	ND4L	YP_009582120.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	5	2	15	1	2	0	4	0	2	1	2	0	0	0	3	0	1	0	0	0	0	0	2	0	0	1	1	0	0	0	6	1	4	3	4	0	2	0	3	0	2	0	3	0	5	0	3	1	1	0	7	0	1	0	0	1	4	0	0	0	5	0	0	1
+8	ND4	YP_009582121.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	25	12	52	9	19	4	13	0	17	2	5	0	14	2	7	2	11	0	7	1	6	0	10	1	8	0	1	0	4	0	33	7	22	5	8	2	8	2	12	3	15	1	4	3	19	0	8	1	6	0	10	4	10	2	4	2	6	0	5	0	16	1	0	1
+9	ND5	YP_009582122.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	41	10	59	3	19	1	25	2	8	5	6	1	12	0	15	2	16	0	11	0	10	0	8	3	12	2	4	0	1	0	46	3	33	5	10	3	12	1	17	6	19	2	8	3	10	1	13	3	13	2	13	7	16	1	9	3	8	1	7	2	18	2	0	1
+10	COX3	YP_009582123.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	21	5	22	4	7	0	3	0	7	4	4	1	13	1	6	0	0	0	6	1	3	0	10	2	5	1	3	0	2	0	12	1	5	2	11	0	4	1	4	0	0	1	2	0	4	1	10	2	6	3	10	0	9	0	3	1	6	3	4	1	18	4	1	0
+11	ND3	YP_009582124.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	13	2	12	1	5	0	1	0	0	0	1	0	3	0	2	0	3	1	3	0	2	0	1	0	0	1	1	0	3	0	12	1	3	3	0	0	1	0	2	0	3	0	3	0	3	1	5	0	0	1	8	0	1	0	3	1	4	1	3	0	3	0	1	0
+12	ND2	YP_009582125.1	Nassarius javanus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Nassariidae, Nassariinae, Nassarius	22	2	36	14	16	1	6	1	11	2	4	0	9	2	9	2	1	0	8	0	2	1	2	2	7	1	1	0	0	0	27	7	23	4	4	0	3	1	11	1	10	1	9	1	11	0	10	0	6	3	12	0	4	0	3	0	4	2	14	1	10	7	1	0

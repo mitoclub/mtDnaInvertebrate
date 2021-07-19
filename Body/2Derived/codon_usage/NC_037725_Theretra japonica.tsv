@@ -1,65 +1,10 @@
-	YP_009485351.1|ND2	YP_009485352.1|COX1	YP_009485353.1|COX2	YP_009485354.1|ATP8	YP_009485355.1|ATP6	YP_009485356.1|COX3	YP_009485357.1|ND3	YP_009485361.1|ND6	YP_009485362.1|CYTB
-TTT	47	34	12	5	18	22	10	17	30
-TTC	2	4	1	0	3	5	5	3	7
-TTA	42	48	26	3	30	25	12	26	45
-TTG	0	0	0	0	0	0	0	1	0
-TCT	11	12	5	0	5	2	2	2	4
-TCC	2	5	0	1	1	1	1	0	1
-TCA	15	18	8	1	7	8	6	9	6
-TCG	0	0	0	0	0	0	0	0	0
-TAT	12	14	8	3	7	11	0	6	16
-TAC	3	7	2	1	2	1	1	0	4
-TGT	1	1	1	0	0	1	1	1	2
-TGC	0	0	1	0	0	1	1	0	1
-TGA	9	14	6	3	5	13	3	2	11
-TGG	0	0	0	0	0	0	0	0	1
-CTT	2	8	0	0	3	3	2	2	3
-CTC	0	2	0	0	0	0	0	0	1
-CTA	4	5	2	1	5	0	2	3	2
-CTG	0	1	0	0	0	0	0	0	0
-CCT	2	9	5	1	5	4	1	1	8
-CCC	1	5	1	0	1	2	0	0	2
-CCA	4	13	4	1	4	4	3	1	12
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	13	4	0	5	11	1	0	5
-CAC	1	3	2	0	1	3	1	1	3
-CAA	4	9	7	1	4	8	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	1	0	0	0	1	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	9	6	0	3	3	1	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	37	56	28	11	25	28	20	14	41
-ATC	8	2	5	1	5	5	2	5	9
-ATA	32	29	9	4	11	6	9	21	23
-ATG	0	1	1	0	1	1	0	1	1
-ACT	8	11	5	2	7	11	1	5	9
-ACC	3	4	2	0	0	1	0	0	3
-ACA	3	13	5	0	10	6	3	4	12
-ACG	0	0	0	0	0	0	0	0	0
-AAT	31	18	23	8	17	9	6	21	21
-AAC	4	4	2	2	3	5	1	2	7
-AAA	16	6	4	5	2	5	6	7	10
-AAG	0	0	0	0	0	0	0	0	0
-AGT	0	3	0	0	2	1	0	1	2
-AGC	0	0	0	0	1	1	0	0	0
-AGA	8	8	4	0	7	6	1	1	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	10	2	0	1	3	0	3	8
-GTC	1	0	0	0	0	0	0	0	1
-GTA	1	13	4	0	4	9	2	3	4
-GTG	0	0	1	0	0	0	0	0	0
-GCT	2	15	0	0	2	3	1	0	6
-GCC	0	2	1	0	1	2	0	0	2
-GCA	2	13	4	0	4	6	1	2	8
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	11	8	0	1	4	1	0	6
-GAC	0	4	0	0	0	0	2	0	1
-GAA	5	9	9	0	4	7	4	3	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	2	5	4	0	1	2	1	0	4
-GGC	0	0	0	0	0	0	0	0	0
-GGA	9	36	4	0	7	14	0	4	17
-GGG	0	3	0	0	0	0	1	1	2
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009485351.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	47	2	42	0	11	2	15	0	12	3	1	0	9	0	2	0	4	0	2	1	4	0	0	1	4	0	0	0	2	0	37	8	32	0	8	3	3	0	31	4	16	0	0	0	8	0	1	1	1	0	2	0	2	0	0	0	5	0	2	0	9	0	1	0
+1	COX1	YP_009485352.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	34	4	48	0	12	5	18	0	14	7	1	0	14	0	8	2	5	1	9	5	13	0	13	3	9	0	0	0	9	0	56	2	29	1	11	4	13	0	18	4	6	0	3	0	8	0	10	0	13	0	15	2	13	0	11	4	9	0	5	0	36	3	0	0
+2	COX2	YP_009485353.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	12	1	26	0	5	0	8	0	8	2	1	1	6	0	0	0	2	0	5	1	4	0	4	2	7	0	1	0	6	0	28	5	9	1	5	2	5	0	23	2	4	0	0	0	4	0	2	0	4	1	0	1	4	0	8	0	9	0	4	0	4	0	0	0
+3	ATP8	YP_009485354.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	5	0	3	0	0	1	1	0	3	1	0	0	3	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	11	1	4	0	2	0	0	0	8	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009485355.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	18	3	30	0	5	1	7	0	7	2	0	0	5	0	3	0	5	0	5	1	4	0	5	1	4	0	0	0	3	0	25	5	11	1	7	0	10	0	17	3	2	0	2	1	7	0	1	0	4	0	2	1	4	0	1	0	4	0	1	0	7	0	1	0
+5	COX3	YP_009485356.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	22	5	25	0	2	1	8	0	11	1	1	1	13	0	3	0	0	0	4	2	4	0	11	3	8	0	0	0	3	0	28	5	6	1	11	1	6	0	9	5	5	0	1	1	6	0	3	0	9	0	3	2	6	0	4	0	7	0	2	0	14	0	1	0
+6	ND3	YP_009485357.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	10	5	12	0	2	1	6	0	0	1	1	1	3	0	2	0	2	0	1	0	3	0	1	1	1	0	1	0	1	0	20	2	9	0	1	0	3	0	6	1	6	0	0	0	1	0	0	0	2	0	1	0	1	0	1	2	4	0	1	0	0	1	1	0
+7	ND6	YP_009485361.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	17	3	26	1	2	0	9	0	6	0	1	0	2	0	2	0	3	0	1	0	1	0	0	1	2	0	0	0	1	0	14	5	21	1	5	0	4	0	21	2	7	0	1	0	1	0	3	0	3	0	0	0	2	0	0	0	3	0	0	0	4	1	1	0
+8	CYTB	YP_009485362.1	Theretra japonica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Sphingidae, Macroglossinae, Macroglossini, Theretra	30	7	45	0	4	1	6	0	16	4	2	1	11	1	3	1	2	0	8	2	12	0	5	3	8	0	0	0	7	0	41	9	23	1	9	3	12	0	21	7	10	0	2	0	2	0	8	1	4	0	6	2	8	0	6	1	4	0	4	0	17	2	1	0

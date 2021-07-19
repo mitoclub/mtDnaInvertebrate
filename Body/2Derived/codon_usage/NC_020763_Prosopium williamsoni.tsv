@@ -1,65 +1,13 @@
-	YP_007626875.1|ND1	YP_007626876.1|ND2	YP_007626877.1|COX1	YP_007626878.1|COX2	YP_007626879.1|ATP8	YP_007626880.1|ATP6	YP_007626881.1|COX3	YP_007626882.1|ND3	YP_007626883.1|ND4L	YP_007626884.1|ND4	YP_007626885.1|ND5	YP_007626887.1|CYTB
-TTT	8	8	26	3	1	4	9	4	2	8	19	18
-TTC	9	2	16	5	3	8	15	3	4	7	21	12
-TTA	6	13	10	2	0	5	5	4	0	12	17	3
-TTG	0	5	2	0	1	4	0	1	2	5	3	3
-TCT	3	5	2	4	0	2	4	2	0	5	12	9
-TCC	6	4	12	6	0	0	4	2	2	11	11	3
-TCA	5	7	7	3	1	1	3	2	4	5	9	8
-TCG	3	1	3	0	1	0	0	0	0	0	1	1
-TAT	8	6	10	6	0	2	3	2	1	6	6	6
-TAC	4	3	8	3	0	2	9	0	0	7	3	8
-TGT	0	0	1	1	0	0	0	0	2	1	1	3
-TGC	0	1	0	1	0	0	2	1	1	4	5	1
-TGA	3	9	15	5	5	3	11	5	0	11	12	10
-TGG	5	2	2	0	0	2	1	0	1	9	2	3
-CTT	18	17	21	14	1	22	7	6	5	19	28	13
-CTC	13	13	3	8	1	6	7	5	4	18	15	20
-CTA	17	24	18	5	1	13	10	5	6	33	24	11
-CTG	10	5	8	0	1	4	1	5	6	11	7	7
-CCT	7	4	1	5	2	2	3	0	1	5	6	0
-CCC	13	10	12	6	5	4	6	6	0	16	14	14
-CCA	3	2	10	2	2	9	3	1	1	6	5	5
-CCG	1	3	5	1	0	2	0	1	0	0	3	2
-CAT	2	1	5	3	0	0	1	0	1	2	3	2
-CAC	2	5	14	7	2	3	15	0	3	9	14	10
-CAA	6	7	5	5	2	7	6	2	3	7	10	5
-CAG	1	5	3	3	0	2	3	1	0	5	11	2
-CGT	1	1	1	1	0	0	0	0	0	1	1	0
-CGC	1	0	0	1	0	2	0	0	2	3	0	1
-CGA	3	3	5	4	0	4	4	2	1	6	6	6
-CGG	3	1	2	0	0	0	1	0	0	1	2	1
-ATT	7	9	26	9	0	13	10	3	1	19	31	14
-ATC	13	8	16	10	2	7	5	6	0	14	13	13
-ATA	4	12	8	7	0	5	4	0	3	16	15	8
-ATG	5	4	16	5	1	4	4	1	3	10	16	2
-ACT	3	7	8	5	3	6	4	4	1	4	5	3
-ACC	8	16	9	2	1	8	9	3	2	14	37	10
-ACA	6	10	17	2	1	6	8	2	2	18	17	9
-ACG	3	3	3	0	0	2	2	2	2	3	4	1
-AAT	3	1	4	2	1	4	1	0	0	5	7	9
-AAC	6	8	10	2	2	5	1	1	1	7	24	8
-AAA	4	6	5	5	3	0	1	1	0	5	9	4
-AAG	3	2	3	0	0	1	1	0	0	5	11	5
-AGT	0	0	0	1	0	0	1	0	0	4	4	0
-AGC	5	6	5	2	1	4	2	0	3	4	8	1
-GTT	8	5	12	6	2	4	5	2	0	8	11	8
-GTC	6	4	10	5	1	6	7	1	2	1	2	6
-GTA	6	9	13	7	1	3	4	0	2	6	12	8
-GTG	4	2	4	2	0	1	2	1	0	3	7	6
-GCT	7	10	10	5	1	3	4	4	2	6	11	7
-GCC	15	18	24	5	2	8	9	7	7	21	24	18
-GCA	10	11	13	6	0	7	6	2	4	10	14	9
-GCG	3	4	1	1	0	1	1	0	1	0	1	1
-GAT	2	1	7	3	0	0	1	1	0	2	4	5
-GAC	2	2	7	10	0	1	4	3	1	4	10	6
-GAA	5	3	6	12	1	4	8	3	1	8	8	4
-GAG	6	2	5	3	2	0	2	3	2	3	4	1
-GGT	2	3	7	0	0	0	2	0	1	5	3	6
-GGC	6	7	14	3	1	6	14	1	1	7	11	7
-GGA	7	7	16	4	0	3	4	3	4	7	11	11
-GGG	4	2	10	2	0	2	2	2	0	8	7	3
-TAA	1	1	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007626875.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	8	9	6	0	3	6	5	3	8	4	0	0	3	5	18	13	17	10	7	13	3	1	2	2	6	1	1	1	3	3	7	13	4	5	3	8	6	3	3	6	4	3	0	5	8	6	6	4	7	15	10	3	2	2	5	6	2	6	7	4	1	0	0	0
+1	ND2	YP_007626876.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	8	2	13	5	5	4	7	1	6	3	0	1	9	2	17	13	24	5	4	10	2	3	1	5	7	5	1	0	3	1	9	8	12	4	7	16	10	3	1	8	6	2	0	6	5	4	9	2	10	18	11	4	1	2	3	2	3	7	7	2	1	0	0	0
+2	COX1	YP_007626877.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	26	16	10	2	2	12	7	3	10	8	1	0	15	2	21	3	18	8	1	12	10	5	5	14	5	3	1	0	5	2	26	16	8	16	8	9	17	3	4	10	5	3	0	5	12	10	13	4	10	24	13	1	7	7	6	5	7	14	16	10	0	1	0	0
+3	COX2	YP_007626878.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	3	5	2	0	4	6	3	0	6	3	1	1	5	0	14	8	5	0	5	6	2	1	3	7	5	3	1	1	4	0	9	10	7	5	5	2	2	0	2	2	5	0	1	2	6	5	7	2	5	5	6	1	3	10	12	3	0	3	4	2	0	0	0	0
+4	ATP8	YP_007626879.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	1	3	0	1	0	0	1	1	0	0	0	0	5	0	1	1	1	1	2	5	2	0	0	2	2	0	0	0	0	0	0	2	0	1	3	1	1	0	1	2	3	0	0	1	2	1	1	0	1	2	0	0	0	0	1	2	0	1	0	0	1	0	0	0
+5	ATP6	YP_007626880.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	4	8	5	4	2	0	1	0	2	2	0	0	3	2	22	6	13	4	2	4	9	2	0	3	7	2	0	2	4	0	13	7	5	4	6	8	6	2	4	5	0	1	0	4	4	6	3	1	3	8	7	1	0	1	4	0	0	6	3	2	1	0	0	0
+6	COX3	YP_007626881.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	9	15	5	0	4	4	3	0	3	9	0	2	11	1	7	7	10	1	3	6	3	0	1	15	6	3	0	0	4	1	10	5	4	4	4	9	8	2	1	1	1	1	1	2	5	7	4	2	4	9	6	1	1	4	8	2	2	14	4	2	0	0	0	0
+7	ND3	YP_007626882.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	4	3	4	1	2	2	2	0	2	0	0	1	5	0	6	5	5	5	0	6	1	1	0	0	2	1	0	0	2	0	3	6	0	1	4	3	2	2	0	1	1	0	0	0	2	1	0	1	4	7	2	0	1	3	3	3	0	1	3	2	0	0	0	0
+8	ND4L	YP_007626883.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	2	4	0	2	0	2	4	0	1	0	2	1	0	1	5	4	6	6	1	0	1	0	1	3	3	0	0	2	1	0	1	0	3	3	1	2	2	2	0	1	0	0	0	3	0	2	2	0	2	7	4	1	0	1	1	2	1	1	4	0	1	0	0	0
+9	ND4	YP_007626884.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	8	7	12	5	5	11	5	0	6	7	1	4	11	9	19	18	33	11	5	16	6	0	2	9	7	5	1	3	6	1	19	14	16	10	4	14	18	3	5	7	5	5	4	4	8	1	6	3	6	21	10	0	2	4	8	3	5	7	7	8	0	0	0	0
+10	ND5	YP_007626885.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	19	21	17	3	12	11	9	1	6	3	1	5	12	2	28	15	24	7	6	14	5	3	3	14	10	11	1	0	6	2	31	13	15	16	5	37	17	4	7	24	9	11	4	8	11	2	12	7	11	24	14	1	4	10	8	4	3	11	11	7	1	0	0	0
+11	CYTB	YP_007626887.1	Prosopium williamsoni	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Salmoniformes, Salmonidae, Coregoninae, Prosopium	18	12	3	3	9	3	8	1	6	8	3	1	10	3	13	20	11	7	0	14	5	2	2	10	5	2	0	1	6	1	14	13	8	2	3	10	9	1	9	8	4	5	0	1	8	6	8	6	7	18	9	1	5	6	4	1	6	7	11	3	0	0	0	0

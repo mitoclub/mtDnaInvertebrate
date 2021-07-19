@@ -1,65 +1,11 @@
-	YP_004425072.1|ND2	YP_004425073.1|COX1	YP_004425074.1|COX2	YP_004425075.1|ATP8	YP_004425076.1|ATP6	YP_004425078.1|ND3	YP_004425079.1|ND4L	YP_004425080.1|ND4	YP_004425081.1|ND5	YP_004425082.1|CYTB
-TTT	2	8	2	0	2	0	0	5	7	5
-TTC	10	34	6	2	6	10	6	10	26	26
-TTA	2	2	3	0	4	1	0	8	4	6
-TTG	1	2	0	0	0	0	2	1	0	0
-TCT	3	3	1	0	1	1	1	1	4	1
-TCC	12	10	6	0	6	1	3	16	17	10
-TCA	8	8	10	3	4	4	4	11	8	7
-TCG	2	3	1	0	0	1	1	1	1	5
-TAT	2	3	0	0	2	0	0	3	0	3
-TAC	5	14	8	0	1	2	1	11	11	10
-TGT	0	0	0	0	0	0	1	0	2	0
-TGC	1	1	3	0	0	1	2	3	5	5
-TGA	9	16	5	5	2	4	1	11	10	11
-TGG	2	1	0	0	2	1	0	1	2	0
-CTT	4	8	2	0	6	0	2	8	5	3
-CTC	19	13	10	4	15	10	1	24	29	19
-CTA	33	30	9	4	26	14	9	53	58	26
-CTG	6	8	6	0	11	2	4	8	11	9
-CCT	2	4	2	1	2	0	0	3	2	1
-CCC	10	12	4	3	7	4	2	12	14	8
-CCA	12	14	8	6	7	3	1	10	12	16
-CCG	1	0	0	0	1	0	0	4	3	0
-CAT	2	1	2	0	0	0	0	4	1	2
-CAC	8	18	8	0	5	0	6	10	14	9
-CAA	6	8	5	2	4	3	2	9	16	8
-CAG	4	2	2	0	3	1	0	3	3	0
-CGT	0	0	0	0	0	0	0	1	0	0
-CGC	2	1	1	0	1	1	1	1	5	2
-CGA	1	6	4	0	2	1	1	9	4	5
-CGG	0	1	0	0	2	0	0	0	0	1
-ATT	5	9	5	0	5	0	2	13	13	5
-ATC	20	34	12	2	13	6	3	27	38	23
-ATA	11	16	5	2	7	3	3	16	23	6
-ATG	6	8	3	1	3	3	4	9	5	3
-ACT	3	5	1	1	1	0	1	3	9	1
-ACC	13	18	5	6	9	5	5	24	35	15
-ACA	18	16	5	2	9	2	2	20	22	8
-ACG	1	0	1	0	1	0	0	1	2	1
-AAT	1	1	2	1	1	0	0	2	3	6
-AAC	12	14	3	1	10	2	2	8	21	15
-AAA	10	8	3	4	4	1	0	7	20	8
-AAG	4	1	1	0	0	0	0	3	3	2
-AGT	1	0	0	0	0	1	0	0	0	0
-AGC	5	3	3	0	4	0	4	10	10	3
-GTT	0	3	3	0	2	1	0	1	1	0
-GTC	6	14	6	1	3	1	0	4	5	8
-GTA	6	15	8	0	1	1	3	5	10	9
-GTG	0	2	2	0	1	0	1	0	2	3
-GCT	7	8	2	0	3	2	1	4	5	2
-GCC	15	30	11	1	10	4	4	17	35	20
-GCA	16	7	3	3	5	4	2	10	15	8
-GCG	0	1	0	0	0	1	0	1	2	0
-GAT	0	1	1	0	0	0	0	2	0	0
-GAC	1	14	12	0	1	3	1	1	6	7
-GAA	4	8	12	0	3	6	3	10	10	7
-GAG	1	2	2	0	1	0	0	0	4	0
-GGT	0	6	0	0	0	0	0	2	0	0
-GGC	6	14	4	0	5	2	4	7	14	7
-GGA	5	18	4	0	3	2	1	9	14	10
-GGG	0	9	1	0	0	1	1	2	6	5
-TAA	0	0	1	1	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0
-AGG	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND2	YP_004425072.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	2	10	2	1	3	12	8	2	2	5	0	1	9	2	4	19	33	6	2	10	12	1	2	8	6	4	0	2	1	0	5	20	11	6	3	13	18	1	1	12	10	4	1	5	0	6	6	0	7	15	16	0	0	1	4	1	0	6	5	0	0	0	0	0
+1	COX1	YP_004425073.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	8	34	2	2	3	10	8	3	3	14	0	1	16	1	8	13	30	8	4	12	14	0	1	18	8	2	0	1	6	1	9	34	16	8	5	18	16	0	1	14	8	1	0	3	3	14	15	2	8	30	7	1	1	14	8	2	6	14	18	9	0	0	0	1
+2	COX2	YP_004425074.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	2	6	3	0	1	6	10	1	0	8	0	3	5	0	2	10	9	6	2	4	8	0	2	8	5	2	0	1	4	0	5	12	5	3	1	5	5	1	2	3	3	1	0	3	3	6	8	2	2	11	3	0	1	12	12	2	0	4	4	1	1	0	0	0
+3	ATP8	YP_004425075.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	0	2	0	0	0	0	3	0	0	0	0	0	5	0	0	4	4	0	1	3	6	0	0	0	2	0	0	0	0	0	0	2	2	1	1	6	2	0	1	1	4	0	0	0	0	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	1	0	0	0
+4	ATP6	YP_004425076.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	2	6	4	0	1	6	4	0	2	1	0	0	2	2	6	15	26	11	2	7	7	1	0	5	4	3	0	1	2	2	5	13	7	3	1	9	9	1	1	10	4	0	0	4	2	3	1	1	3	10	5	0	0	1	3	1	0	5	3	0	1	0	0	0
+5	ND3	YP_004425078.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	0	10	1	0	1	1	4	1	0	2	0	1	4	1	0	10	14	2	0	4	3	0	0	0	3	1	0	1	1	0	0	6	3	3	0	5	2	0	0	2	1	0	1	0	1	1	1	0	2	4	4	1	0	3	6	0	0	2	2	1	1	0	0	0
+6	ND4L	YP_004425079.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	0	6	0	2	1	3	4	1	0	1	1	2	1	0	2	1	9	4	0	2	1	0	0	6	2	0	0	1	1	0	2	3	3	4	1	5	2	0	0	2	0	0	0	4	0	0	3	1	1	4	2	0	0	1	3	0	0	4	1	1	1	0	0	0
+7	ND4	YP_004425080.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	5	10	8	1	1	16	11	1	3	11	0	3	11	1	8	24	53	8	3	12	10	4	4	10	9	3	1	1	9	0	13	27	16	9	3	24	20	1	2	8	7	3	0	10	1	4	5	0	4	17	10	1	2	1	10	0	2	7	9	2	0	0	0	0
+8	ND5	YP_004425081.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	7	26	4	0	4	17	8	1	0	11	2	5	10	2	5	29	58	11	2	14	12	3	1	14	16	3	0	5	4	0	13	38	23	5	9	35	22	2	3	21	20	3	0	10	1	5	10	2	5	35	15	2	0	6	10	4	0	14	14	6	1	0	0	0
+9	CYTB	YP_004425082.1	Sibirionetta formosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Anseriformes, Anatidae, Sibirionetta	5	26	6	0	1	10	7	5	3	10	0	5	11	0	3	19	26	9	1	8	16	0	2	9	8	0	0	2	5	1	5	23	6	3	1	15	8	1	6	15	8	2	0	3	0	8	9	3	2	20	8	0	0	7	7	0	0	7	10	5	1	0	0	0

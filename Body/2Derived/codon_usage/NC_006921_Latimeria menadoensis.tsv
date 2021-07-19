@@ -1,65 +1,13 @@
-	YP_220641.1|ND1	YP_220642.1|ND2	YP_220643.2|COX1	YP_220644.1|COX2	YP_220645.1|ATP8	YP_220646.1|ATP6	YP_220647.1|COX3	YP_220648.2|ND3	YP_220649.1|ND4L	YP_220650.1|ND4	YP_220651.1|ND5	YP_220653.1|CYTB
-TTT	5	3	19	3	0	6	8	3	2	5	18	5
-TTC	11	6	18	4	4	7	15	4	3	9	20	23
-TTA	5	8	8	6	4	14	4	5	4	12	8	5
-TTG	1	1	0	1	0	0	0	0	0	1	0	0
-TCT	1	0	1	2	1	0	2	3	1	4	2	2
-TCC	5	3	6	1	2	0	3	1	2	6	6	4
-TCA	13	14	14	6	1	1	9	0	3	14	12	11
-TCG	1	0	1	2	0	0	0	0	0	1	2	2
-TAT	7	3	8	5	0	0	4	1	2	3	6	8
-TAC	3	5	10	5	0	3	8	0	0	7	7	6
-TGT	0	0	0	1	1	0	0	1	1	0	1	0
-TGC	0	1	1	1	0	0	1	0	2	4	5	3
-TGA	8	10	16	5	5	4	12	3	1	15	15	12
-TGG	0	0	1	0	0	1	0	2	0	4	0	1
-CTT	6	8	3	2	0	3	1	2	0	10	6	4
-CTC	9	6	9	5	1	9	2	3	4	13	10	9
-CTA	38	39	37	18	3	26	21	16	12	47	54	30
-CTG	4	6	6	1	0	5	5	2	2	4	5	5
-CCT	1	2	4	1	0	0	3	3	0	1	2	0
-CCC	3	5	5	3	3	3	4	1	0	5	3	4
-CCA	19	9	16	10	6	12	5	4	3	13	19	16
-CCG	1	0	3	1	0	1	0	0	0	2	1	1
-CAT	1	2	6	2	0	0	4	0	2	4	3	3
-CAC	4	3	14	7	1	3	11	1	2	11	12	8
-CAA	5	10	6	6	4	9	9	2	4	11	24	8
-CAG	1	1	1	2	0	0	1	0	0	0	1	0
-CGT	0	0	3	0	0	0	0	0	0	0	0	1
-CGC	0	0	0	1	0	3	0	0	1	1	0	1
-CGA	8	4	6	5	0	3	5	2	1	10	8	6
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	14	10	19	11	0	5	10	3	0	16	23	13
-ATC	12	11	20	8	2	10	5	7	0	22	40	25
-ATA	13	28	26	10	2	11	6	2	4	33	34	5
-ATG	1	3	4	4	2	2	2	2	3	6	9	6
-ACT	1	7	3	1	2	1	2	1	2	6	7	1
-ACC	7	16	9	0	1	7	5	3	2	13	21	16
-ACA	15	31	28	8	2	15	16	4	6	33	38	17
-ACG	0	1	1	1	0	2	0	1	0	0	0	0
-AAT	3	5	4	0	2	3	1	0	0	5	9	1
-AAC	10	11	11	4	1	9	2	3	3	12	30	20
-AAA	7	11	8	4	1	1	2	1	0	10	23	7
-AAG	1	3	0	0	1	0	0	0	0	0	2	2
-AGT	2	0	0	0	0	0	3	1	0	1	2	0
-AGC	1	5	5	4	0	4	1	1	1	5	10	1
-GTT	1	1	2	4	0	3	2	0	0	4	2	4
-GTC	2	2	4	4	0	2	5	0	0	0	6	4
-GTA	8	2	25	6	0	7	10	3	3	5	8	11
-GTG	2	1	9	1	0	1	0	0	1	1	1	2
-GCT	4	4	8	2	0	3	2	1	1	6	1	4
-GCC	9	10	13	4	1	6	8	1	4	14	18	9
-GCA	16	12	19	10	0	6	9	7	5	11	22	11
-GCG	1	0	2	0	0	0	0	0	0	0	1	0
-GAT	1	0	4	3	0	0	2	1	1	0	3	2
-GAC	2	1	11	10	0	2	3	3	0	4	10	8
-GAA	10	6	10	16	2	4	8	6	2	10	9	5
-GAG	1	1	0	1	0	0	0	0	1	1	2	2
-GGT	4	2	8	0	0	0	3	0	1	4	2	2
-GGC	4	3	8	2	0	1	6	3	2	5	7	3
-GGA	7	10	24	5	0	9	8	3	4	14	19	18
-GGG	4	2	7	1	0	0	3	0	0	2	2	3
-TAA	1	1	1	0	1	0	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_220641.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	5	11	5	1	1	5	13	1	7	3	0	0	8	0	6	9	38	4	1	3	19	1	1	4	5	1	0	0	8	0	14	12	13	1	1	7	15	0	3	10	7	1	2	1	1	2	8	2	4	9	16	1	1	2	10	1	4	4	7	4	1	0	0	0
+1	ND2	YP_220642.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	3	6	8	1	0	3	14	0	3	5	0	1	10	0	8	6	39	6	2	5	9	0	2	3	10	1	0	0	4	0	10	11	28	3	7	16	31	1	5	11	11	3	0	5	1	2	2	1	4	10	12	0	0	1	6	1	2	3	10	2	1	0	0	0
+2	COX1	YP_220643.2	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	19	18	8	0	1	6	14	1	8	10	0	1	16	1	3	9	37	6	4	5	16	3	6	14	6	1	3	0	6	0	19	20	26	4	3	9	28	1	4	11	8	0	0	5	2	4	25	9	8	13	19	2	4	11	10	0	8	8	24	7	1	0	0	0
+3	COX2	YP_220644.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	3	4	6	1	2	1	6	2	5	5	1	1	5	0	2	5	18	1	1	3	10	1	2	7	6	2	0	1	5	0	11	8	10	4	1	0	8	1	0	4	4	0	0	4	4	4	6	1	2	4	10	0	3	10	16	1	0	2	5	1	0	0	0	0
+4	ATP8	YP_220645.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	0	4	4	0	1	2	1	0	0	0	1	0	5	0	0	1	3	0	0	3	6	0	0	1	4	0	0	0	0	0	0	2	2	2	2	1	2	0	2	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_220646.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	6	7	14	0	0	0	1	0	0	3	0	0	4	1	3	9	26	5	0	3	12	1	0	3	9	0	0	3	3	0	5	10	11	2	1	7	15	2	3	9	1	0	0	4	3	2	7	1	3	6	6	0	0	2	4	0	0	1	9	0	0	0	0	0
+6	COX3	YP_220647.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	8	15	4	0	2	3	9	0	4	8	0	1	12	0	1	2	21	5	3	4	5	0	4	11	9	1	0	0	5	0	10	5	6	2	2	5	16	0	1	2	2	0	3	1	2	5	10	0	2	8	9	0	2	3	8	0	3	6	8	3	1	0	0	0
+7	ND3	YP_220648.2	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	3	4	5	0	3	1	0	0	1	0	1	0	3	2	2	3	16	2	3	1	4	0	0	1	2	0	0	0	2	0	3	7	2	2	1	3	4	1	0	3	1	0	1	1	0	0	3	0	1	1	7	0	1	3	6	0	0	3	3	0	0	0	0	0
+8	ND4L	YP_220649.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	2	3	4	0	1	2	3	0	2	0	1	2	1	0	0	4	12	2	0	0	3	0	2	2	4	0	0	1	1	0	0	0	4	3	2	2	6	0	0	3	0	0	0	1	0	0	3	1	1	4	5	0	1	0	2	1	1	2	4	0	1	0	0	0
+9	ND4	YP_220650.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	5	9	12	1	4	6	14	1	3	7	0	4	15	4	10	13	47	4	1	5	13	2	4	11	11	0	0	1	10	0	16	22	33	6	6	13	33	0	5	12	10	0	1	5	4	0	5	1	6	14	11	0	0	4	10	1	4	5	14	2	0	0	0	0
+10	ND5	YP_220651.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	18	20	8	0	2	6	12	2	6	7	1	5	15	0	6	10	54	5	2	3	19	1	3	12	24	1	0	0	8	0	23	40	34	9	7	21	38	0	9	30	23	2	2	10	2	6	8	1	1	18	22	1	3	10	9	2	2	7	19	2	1	0	0	0
+11	CYTB	YP_220653.1	Latimeria menadoensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Coelacanthiformes, Coelacanthidae, Latimeria	5	23	5	0	2	4	11	2	8	6	0	3	12	1	4	9	30	5	0	4	16	1	3	8	8	0	1	1	6	0	13	25	5	6	1	16	17	0	1	20	7	2	0	1	4	4	11	2	4	9	11	0	2	8	5	2	2	3	18	3	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_002000314.1|ND1	YP_002000315.1|ND2	YP_002000316.1|COX1	YP_002000317.1|COX2	YP_002000318.1|ATP8	YP_002000319.1|ATP6	YP_002000320.1|COX3	YP_002000321.1|ND3	YP_002000322.1|ND4L	YP_002000323.1|ND4	YP_002000324.1|ND5	YP_002000326.1|CYTB
-TTT	5	7	12	4	1	4	8	5	1	3	16	6
-TTC	16	6	30	4	3	8	16	3	5	15	30	20
-TTA	5	4	8	3	3	4	2	4	5	13	7	2
-TTG	0	1	0	0	0	1	0	0	0	2	0	0
-TCT	4	1	5	1	1	4	5	0	2	3	4	4
-TCC	6	11	11	7	1	3	7	2	5	13	11	7
-TCA	8	9	12	9	3	3	5	3	1	11	21	11
-TCG	0	0	0	0	0	0	0	0	0	1	2	0
-TAT	6	3	8	4	2	2	7	2	1	4	3	4
-TAC	6	8	11	5	1	1	4	2	2	10	11	11
-TGT	0	0	0	1	0	0	1	0	1	1	1	0
-TGC	1	0	1	1	0	0	1	1	2	2	3	5
-TGA	8	11	16	5	3	3	12	4	0	11	11	11
-TGG	1	0	1	0	0	0	0	0	0	2	1	1
-CTT	8	12	8	4	2	8	7	0	2	17	13	10
-CTC	18	21	12	10	1	13	9	10	5	16	25	22
-CTA	27	25	23	14	2	15	14	11	8	52	57	24
-CTG	1	2	7	2	1	1	2	1	0	2	2	2
-CCT	3	4	13	2	5	3	0	2	0	4	4	1
-CCC	13	9	11	1	2	8	5	5	0	12	11	11
-CCA	6	7	5	10	2	4	5	0	1	5	14	9
-CCG	0	1	0	1	0	0	1	0	0	0	1	1
-CAT	1	1	3	3	0	3	5	0	1	4	2	2
-CAC	2	6	15	5	0	3	11	0	1	8	9	11
-CAA	6	9	6	6	4	8	7	3	1	9	16	7
-CAG	0	0	0	0	0	0	1	0	0	0	0	0
-CGT	0	0	1	1	0	1	1	0	0	1	1	0
-CGC	2	0	2	2	0	2	0	1	0	3	3	2
-CGA	6	3	4	3	0	2	4	0	1	5	6	6
-CGG	0	0	1	0	0	0	0	0	0	1	0	0
-ATT	8	4	24	8	2	18	5	5	1	15	20	12
-ATC	18	30	11	10	4	10	8	6	3	27	34	27
-ATA	11	23	22	13	1	10	8	3	11	25	30	9
-ATG	5	4	9	3	1	3	2	2	2	4	3	3
-ACT	2	5	6	3	0	7	3	0	2	6	9	4
-ACC	9	15	7	3	2	9	12	4	1	21	21	12
-ACA	10	16	22	8	5	4	8	2	2	15	27	8
-ACG	0	0	0	1	1	2	0	1	0	1	2	0
-AAT	5	8	5	0	0	3	3	1	4	7	11	3
-AAC	8	14	11	5	1	6	5	3	2	15	23	12
-AAA	7	10	9	4	6	3	2	3	0	10	18	10
-AAG	0	2	0	1	0	1	0	0	0	1	2	0
-AGT	0	0	0	0	0	0	1	0	0	2	2	0
-AGC	1	4	3	5	1	3	2	1	1	7	8	3
-GTT	3	2	7	3	0	2	3	3	0	2	4	3
-GTC	5	2	17	5	0	3	5	0	6	5	5	7
-GTA	5	3	17	3	0	5	7	0	3	5	8	7
-GTG	1	1	1	1	0	0	0	0	0	3	1	1
-GCT	4	1	9	2	0	4	3	2	2	4	7	1
-GCC	15	15	20	5	2	8	8	4	4	15	16	18
-GCA	14	7	15	2	1	5	4	4	1	10	14	7
-GCG	0	0	0	1	0	0	0	0	1	0	4	0
-GAT	1	0	6	4	1	0	1	0	0	0	0	2
-GAC	4	1	9	7	0	1	2	2	1	3	9	10
-GAA	7	4	8	12	2	3	7	5	2	8	12	5
-GAG	3	1	2	2	0	0	1	1	0	1	0	0
-GGT	0	1	8	0	1	3	4	0	0	3	7	5
-GGC	4	8	21	4	0	7	11	3	3	4	12	13
-GGA	6	5	15	3	0	2	4	1	1	8	7	5
-GGG	3	0	3	1	0	0	2	0	0	2	1	2
-TAA	0	0	0	1	0	0	0	0	1	0	0	0
-TAG	0	0	1	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002000314.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	5	16	5	0	4	6	8	0	6	6	0	1	8	1	8	18	27	1	3	13	6	0	1	2	6	0	0	2	6	0	8	18	11	5	2	9	10	0	5	8	7	0	0	1	3	5	5	1	4	15	14	0	1	4	7	3	0	4	6	3	0	0	0	0
+1	ND2	YP_002000315.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	7	6	4	1	1	11	9	0	3	8	0	0	11	0	12	21	25	2	4	9	7	1	1	6	9	0	0	0	3	0	4	30	23	4	5	15	16	0	8	14	10	2	0	4	2	2	3	1	1	15	7	0	0	1	4	1	1	8	5	0	0	0	0	0
+2	COX1	YP_002000316.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	12	30	8	0	5	11	12	0	8	11	0	1	16	1	8	12	23	7	13	11	5	0	3	15	6	0	1	2	4	1	24	11	22	9	6	7	22	0	5	11	9	0	0	3	7	17	17	1	9	20	15	0	6	9	8	2	8	21	15	3	0	1	0	0
+3	COX2	YP_002000317.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	4	4	3	0	1	7	9	0	4	5	1	1	5	0	4	10	14	2	2	1	10	1	3	5	6	0	1	2	3	0	8	10	13	3	3	3	8	1	0	5	4	1	0	5	3	5	3	1	2	5	2	1	4	7	12	2	0	4	3	1	1	0	0	0
+4	ATP8	YP_002000318.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	1	3	3	0	1	1	3	0	2	1	0	0	3	0	2	1	2	1	5	2	2	0	0	0	4	0	0	0	0	0	2	4	1	1	0	2	5	1	0	1	6	0	0	1	0	0	0	0	0	2	1	0	1	0	2	0	1	0	0	0	0	1	0	0
+5	ATP6	YP_002000319.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	4	8	4	1	4	3	3	0	2	1	0	0	3	0	8	13	15	1	3	8	4	0	3	3	8	0	1	2	2	0	18	10	10	3	7	9	4	2	3	6	3	1	0	3	2	3	5	0	4	8	5	0	0	1	3	0	3	7	2	0	0	0	0	0
+6	COX3	YP_002000320.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	8	16	2	0	5	7	5	0	7	4	1	1	12	0	7	9	14	2	0	5	5	1	5	11	7	1	1	0	4	0	5	8	8	2	3	12	8	0	3	5	2	0	1	2	3	5	7	0	3	8	4	0	1	2	7	1	4	11	4	2	0	0	0	0
+7	ND3	YP_002000321.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	5	3	4	0	0	2	3	0	2	2	0	1	4	0	0	10	11	1	2	5	0	0	0	0	3	0	0	1	0	0	5	6	3	2	0	4	2	1	1	3	3	0	0	1	3	0	0	0	2	4	4	0	0	2	5	1	0	3	1	0	0	0	0	0
+8	ND4L	YP_002000322.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	1	5	5	0	2	5	1	0	1	2	1	2	0	0	2	5	8	0	0	0	1	0	1	1	1	0	0	0	1	0	1	3	11	2	2	1	2	0	4	2	0	0	0	1	0	6	3	0	2	4	1	1	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_002000323.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	3	15	13	2	3	13	11	1	4	10	1	2	11	2	17	16	52	2	4	12	5	0	4	8	9	0	1	3	5	1	15	27	25	4	6	21	15	1	7	15	10	1	2	7	2	5	5	3	4	15	10	0	0	3	8	1	3	4	8	2	0	0	0	0
+10	ND5	YP_002000324.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	16	30	7	0	4	11	21	2	3	11	1	3	11	1	13	25	57	2	4	11	14	1	2	9	16	0	1	3	6	0	20	34	30	3	9	21	27	2	11	23	18	2	2	8	4	5	8	1	7	16	14	4	0	9	12	0	7	12	7	1	0	0	0	0
+11	CYTB	YP_002000326.1	Ochotona curzoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Lagomorpha, Ochotonidae, Ochotona	6	20	2	0	4	7	11	0	4	11	0	5	11	1	10	22	24	2	1	11	9	1	2	11	7	0	0	2	6	0	12	27	9	3	4	12	8	0	3	12	10	0	0	3	3	7	7	1	1	18	7	0	2	10	5	0	5	13	5	2	0	0	0	0

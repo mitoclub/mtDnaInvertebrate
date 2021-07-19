@@ -1,65 +1,10 @@
-	YP_009704151.1|ND2	YP_009704152.1|COX1	YP_009704153.1|COX2	YP_009704154.1|ATP8	YP_009704155.1|ATP6	YP_009704156.1|COX3	YP_009704157.1|ND3	YP_009704161.1|ND6	YP_009704162.1|CYTB
-TTT	11	10	6	2	6	4	2	4	12
-TTC	16	32	9	2	9	21	5	6	19
-TTA	11	9	6	1	10	4	5	3	8
-TTG	3	1	1	1	0	0	2	0	1
-TCT	6	2	4	0	1	0	1	2	2
-TCC	9	18	9	3	2	5	3	2	4
-TCA	15	11	4	1	10	9	4	6	10
-TCG	3	2	1	0	0	1	0	0	0
-TAT	1	8	1	0	1	0	0	2	8
-TAC	5	7	8	0	5	10	3	4	8
-TGT	0	0	0	0	0	1	2	0	1
-TGC	2	0	2	0	1	0	0	0	2
-TGA	8	13	6	3	5	12	2	5	10
-TGG	0	1	0	0	0	1	0	0	2
-CTT	8	8	3	0	10	3	1	3	13
-CTC	13	16	6	0	5	6	3	4	8
-CTA	18	25	12	4	15	14	6	9	22
-CTG	8	4	2	0	1	3	1	0	3
-CCT	1	6	3	1	3	3	1	2	2
-CCC	8	8	2	1	5	2	2	2	10
-CCA	1	11	4	2	5	6	1	3	9
-CCG	0	0	1	0	0	0	1	0	1
-CAT	0	8	3	0	2	5	0	0	6
-CAC	4	9	3	0	3	9	1	2	5
-CAA	8	6	8	2	4	4	3	2	7
-CAG	1	1	1	0	0	1	0	0	0
-CGT	1	1	1	0	0	0	0	0	1
-CGC	0	0	1	0	2	0	0	0	2
-CGA	1	7	5	0	2	3	2	1	4
-CGG	0	1	0	0	0	1	0	0	0
-ATT	20	27	13	2	17	11	10	12	23
-ATC	15	23	14	4	9	11	10	13	18
-ATA	19	29	11	5	13	10	6	19	16
-ATG	3	2	0	0	0	2	1	1	1
-ACT	3	7	1	1	4	5	1	2	7
-ACC	11	13	3	2	6	10	5	2	10
-ACA	7	11	5	0	8	5	4	4	11
-ACG	0	0	0	0	0	0	0	1	0
-AAT	9	8	4	3	5	6	2	7	12
-AAC	12	10	6	2	4	3	0	5	8
-AAA	10	7	6	3	7	3	6	6	10
-AAG	2	1	1	1	0	0	0	0	1
-AGT	0	1	1	0	2	0	1	0	0
-AGC	3	3	0	0	0	2	1	0	0
-AGA	3	14	5	1	7	4	0	2	5
-AGG	4	0	1	1	2	1	0	0	1
-GTT	6	8	2	0	2	3	0	0	3
-GTC	2	6	3	0	2	4	3	1	2
-GTA	4	13	5	1	6	7	0	5	11
-GTG	1	2	0	0	0	0	0	0	0
-GCT	1	8	5	0	4	1	2	1	8
-GCC	12	10	3	1	4	10	2	3	9
-GCA	8	14	1	0	2	6	2	2	8
-GCG	1	0	0	0	1	0	0	0	0
-GAT	1	13	4	0	0	2	1	0	3
-GAC	0	2	5	0	1	2	2	1	4
-GAA	7	7	7	1	4	8	3	5	6
-GAG	0	2	2	0	0	0	1	0	0
-GGT	2	5	1	0	1	2	1	0	0
-GGC	2	5	2	0	4	4	1	1	3
-GGA	7	30	4	0	5	10	1	4	15
-GGG	0	4	0	0	0	1	0	0	5
-TAA	0	0	1	0	0	0	0	1	0
-TAG	1	0	0	1	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009704151.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	11	16	11	3	6	9	15	3	1	5	0	2	8	0	8	13	18	8	1	8	1	0	0	4	8	1	1	0	1	0	20	15	19	3	3	11	7	0	9	12	10	2	0	3	3	4	6	2	4	1	1	12	8	1	1	0	7	0	2	2	7	0	0	1
+1	COX1	YP_009704152.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	10	32	9	1	2	18	11	2	8	7	0	0	13	1	8	16	25	4	6	8	11	0	8	9	6	1	1	0	7	1	27	23	29	2	7	13	11	0	8	10	7	1	1	3	14	0	8	6	13	2	8	10	14	0	13	2	7	2	5	5	30	4	0	0
+2	COX2	YP_009704153.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	6	9	6	1	4	9	4	1	1	8	0	2	6	0	3	6	12	2	3	2	4	1	3	3	8	1	1	1	5	0	13	14	11	0	1	3	5	0	4	6	6	1	1	0	5	1	2	3	5	0	5	3	1	0	4	5	7	2	1	2	4	0	1	0
+3	ATP8	YP_009704154.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	2	2	1	1	0	3	1	0	0	0	0	0	3	0	0	0	4	0	1	1	2	0	0	0	2	0	0	0	0	0	2	4	5	0	1	2	0	0	3	2	3	1	0	0	1	1	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1
+4	ATP6	YP_009704155.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	6	9	10	0	1	2	10	0	1	5	0	1	5	0	10	5	15	1	3	5	5	0	2	3	4	0	0	2	2	0	17	9	13	0	4	6	8	0	5	4	7	0	2	0	7	2	2	2	6	0	4	4	2	1	0	1	4	0	1	4	5	0	0	0
+5	COX3	YP_009704156.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	4	21	4	0	0	5	9	1	0	10	1	0	12	1	3	6	14	3	3	2	6	0	5	9	4	1	0	0	3	1	11	11	10	2	5	10	5	0	6	3	3	0	0	2	4	1	3	4	7	0	1	10	6	0	2	2	8	0	2	4	10	1	0	0
+6	ND3	YP_009704157.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	2	5	5	2	1	3	4	0	0	3	2	0	2	0	1	3	6	1	1	2	1	1	0	1	3	0	0	0	2	0	10	10	6	1	1	5	4	0	2	0	6	0	1	1	0	0	0	3	0	0	2	2	2	0	1	2	3	1	1	1	1	0	0	1
+7	ND6	YP_009704161.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	4	6	3	0	2	2	6	0	2	4	0	0	5	0	3	4	9	0	2	2	3	0	0	2	2	0	0	0	1	0	12	13	19	1	2	2	4	1	7	5	6	0	0	0	2	0	0	1	5	0	1	3	2	0	0	1	5	0	0	1	4	0	1	0
+8	CYTB	YP_009704162.1	Lucanus fortunei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Lucaninae, Lucanus	12	19	8	1	2	4	10	0	8	8	1	2	10	2	13	8	22	3	2	10	9	1	6	5	7	0	1	2	4	0	23	18	16	1	7	10	11	0	12	8	10	1	0	0	5	1	3	2	11	0	8	9	8	0	3	4	6	0	0	3	15	5	0	1

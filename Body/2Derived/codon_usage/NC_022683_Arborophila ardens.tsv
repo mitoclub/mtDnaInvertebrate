@@ -1,65 +1,13 @@
-	YP_008757729.1|ND1	YP_008757730.1|ND2	YP_008757731.1|COX1	YP_008757732.1|COX2	YP_008757733.1|ATP8	YP_008757734.1|ATP6	YP_008757735.1|COX3	YP_008757736.1|ND3	YP_008757737.1|ND4L	YP_008757738.1|ND4	YP_008757739.1|ND5	YP_008757740.1|CYTB
-TTT	5	6	22	5	3	3	5	3	4	4	9	8
-TTC	14	6	20	3	1	5	20	6	4	12	20	17
-TTA	11	6	10	5	1	3	3	4	3	9	10	7
-TTG	0	0	3	0	0	1	0	0	0	1	1	0
-TCT	3	4	5	3	1	3	3	0	2	3	4	1
-TCC	10	11	5	6	1	5	3	1	2	12	15	16
-TCA	8	14	13	8	1	4	9	4	7	17	14	8
-TCG	1	1	1	0	0	0	0	0	0	1	1	0
-TAT	2	2	7	1	0	2	0	0	1	6	2	3
-TAC	10	3	11	7	0	1	8	2	0	8	13	11
-TGT	1	1	0	2	0	0	0	0	0	1	0	0
-TGC	0	0	1	1	0	0	1	1	3	4	5	3
-TGA	6	10	14	4	5	4	12	4	1	11	11	9
-TGG	2	0	3	1	0	0	0	1	0	1	1	2
-CTT	9	14	13	8	1	10	4	7	2	11	8	6
-CTC	20	27	12	6	4	14	6	5	2	26	33	27
-CTA	21	25	21	10	2	34	18	10	10	45	48	25
-CTG	4	1	3	2	0	1	1	0	1	4	6	0
-CCT	4	3	3	1	2	3	0	1	0	2	2	1
-CCC	11	11	10	8	3	4	4	1	2	12	14	11
-CCA	10	9	18	4	4	10	6	5	1	16	16	14
-CCG	2	0	0	0	0	0	1	0	0	0	1	0
-CAT	1	1	3	3	0	1	2	1	1	3	2	3
-CAC	1	8	16	7	0	5	15	0	5	13	8	9
-CAA	4	9	9	7	2	7	7	3	2	10	16	9
-CAG	1	0	0	0	0	1	0	0	0	0	2	0
-CGT	1	0	0	0	0	1	0	0	0	0	0	0
-CGC	1	1	2	2	0	2	2	0	0	3	3	3
-CGA	5	3	5	3	0	2	3	2	2	7	5	5
-CGG	1	0	1	0	0	0	0	0	0	1	0	0
-ATT	14	7	16	8	1	6	5	1	0	16	16	11
-ATC	10	26	25	9	1	13	9	7	3	27	45	28
-ATA	10	13	19	8	2	6	8	5	4	19	26	7
-ATG	3	4	6	3	1	1	1	1	2	5	2	3
-ACT	3	5	4	2	2	4	1	2	0	4	7	4
-ACC	16	19	22	9	6	7	9	5	3	31	40	11
-ACA	6	20	15	4	2	11	13	6	4	17	28	8
-ACG	2	0	0	0	1	0	0	0	0	0	0	0
-AAT	4	3	0	1	1	1	0	0	0	1	8	4
-AAC	7	11	15	3	2	8	5	2	4	13	18	17
-AAA	5	14	9	4	2	3	4	1	0	8	22	9
-AAG	2	0	0	1	0	0	0	0	0	3	2	1
-AGT	1	0	0	1	0	0	0	1	2	1	1	0
-AGC	7	3	3	0	2	5	5	0	3	8	10	2
-GTT	3	2	6	2	0	1	4	0	0	1	3	2
-GTC	3	0	10	4	0	2	7	1	0	1	3	4
-GTA	4	2	15	7	0	3	3	1	2	4	5	5
-GTG	2	0	3	3	0	1	0	0	0	0	0	1
-GCT	6	2	9	2	0	2	2	0	0	5	5	2
-GCC	16	13	17	9	0	10	9	6	5	12	21	11
-GCA	4	8	18	3	0	3	12	2	4	9	18	14
-GCG	0	0	1	1	0	0	0	0	0	1	2	1
-GAT	2	0	3	5	0	0	1	0	1	1	1	1
-GAC	2	1	12	9	0	1	3	3	0	1	6	5
-GAA	11	5	9	10	0	3	7	6	2	9	10	7
-GAG	0	0	1	4	0	2	1	0	1	0	3	0
-GGT	2	1	3	1	0	2	3	1	0	2	2	4
-GGC	4	5	18	1	0	3	5	1	2	11	15	8
-GGA	5	5	20	5	0	3	9	3	1	4	14	11
-GGG	1	1	6	1	0	0	2	0	0	2	1	1
-TAA	1	0	0	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008757729.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	5	14	11	0	3	10	8	1	2	10	1	0	6	2	9	20	21	4	4	11	10	2	1	1	4	1	1	1	5	1	14	10	10	3	3	16	6	2	4	7	5	2	1	7	3	3	4	2	6	16	4	0	2	2	11	0	2	4	5	1	1	0	0	0
+1	ND2	YP_008757730.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	6	6	6	0	4	11	14	1	2	3	1	0	10	0	14	27	25	1	3	11	9	0	1	8	9	0	0	1	3	0	7	26	13	4	5	19	20	0	3	11	14	0	0	3	2	0	2	0	2	13	8	0	0	1	5	0	1	5	5	1	0	0	0	0
+2	COX1	YP_008757731.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	22	20	10	3	5	5	13	1	7	11	0	1	14	3	13	12	21	3	3	10	18	0	3	16	9	0	0	2	5	1	16	25	19	6	4	22	15	0	0	15	9	0	0	3	6	10	15	3	9	17	18	1	3	12	9	1	3	18	20	6	0	0	0	1
+3	COX2	YP_008757732.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	5	3	5	0	3	6	8	0	1	7	2	1	4	1	8	6	10	2	1	8	4	0	3	7	7	0	0	2	3	0	8	9	8	3	2	9	4	0	1	3	4	1	1	0	2	4	7	3	2	9	3	1	5	9	10	4	1	1	5	1	1	0	0	0
+4	ATP8	YP_008757733.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	3	1	1	0	1	1	1	0	0	0	0	0	5	0	1	4	2	0	2	3	4	0	0	0	2	0	0	0	0	0	1	1	2	1	2	6	2	1	1	2	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008757734.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	3	5	3	1	3	5	4	0	2	1	0	0	4	0	10	14	34	1	3	4	10	0	1	5	7	1	1	2	2	0	6	13	6	1	4	7	11	0	1	8	3	0	0	5	1	2	3	1	2	10	3	0	0	1	3	2	2	3	3	0	1	0	0	0
+6	COX3	YP_008757735.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	5	20	3	0	3	3	9	0	0	8	0	1	12	0	4	6	18	1	0	4	6	1	2	15	7	0	0	2	3	0	5	9	8	1	1	9	13	0	0	5	4	0	0	5	4	7	3	0	2	9	12	0	1	3	7	1	3	5	9	2	0	0	0	0
+7	ND3	YP_008757736.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	3	6	4	0	0	1	4	0	0	2	0	1	4	1	7	5	10	0	1	1	5	0	1	0	3	0	0	0	2	0	1	7	5	1	2	5	6	0	0	2	1	0	1	0	0	1	1	0	0	6	2	0	0	3	6	0	1	1	3	0	1	0	0	0
+8	ND4L	YP_008757737.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	4	4	3	0	2	2	7	0	1	0	0	3	1	0	2	2	10	1	0	2	1	0	1	5	2	0	0	0	2	0	0	3	4	2	0	3	4	0	0	4	0	0	2	3	0	0	2	0	0	5	4	0	1	0	2	1	0	2	1	0	1	0	0	0
+9	ND4	YP_008757738.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	4	12	9	1	3	12	17	1	6	8	1	4	11	1	11	26	45	4	2	12	16	0	3	13	10	0	0	3	7	1	16	27	19	5	4	31	17	0	1	13	8	3	1	8	1	1	4	0	5	12	9	1	1	1	9	0	2	11	4	2	0	0	0	0
+10	ND5	YP_008757739.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	9	20	10	1	4	15	14	1	2	13	0	5	11	1	8	33	48	6	2	14	16	1	2	8	16	2	0	3	5	0	16	45	26	2	7	40	28	0	8	18	22	2	1	10	3	3	5	0	5	21	18	2	1	6	10	3	2	15	14	1	1	0	0	0
+11	CYTB	YP_008757740.1	Arborophila ardens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Arborophila	8	17	7	0	1	16	8	0	3	11	0	3	9	2	6	27	25	0	1	11	14	0	3	9	9	0	0	3	5	0	11	28	7	3	4	11	8	0	4	17	9	1	0	2	2	4	5	1	2	11	14	1	1	5	7	0	4	8	11	1	1	0	0	0

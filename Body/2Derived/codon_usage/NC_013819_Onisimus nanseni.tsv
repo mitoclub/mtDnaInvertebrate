@@ -1,65 +1,10 @@
-	YP_003433903.1|COX1	YP_003433904.1|COX2	YP_003433905.1|ATP8	YP_003433906.1|ATP6	YP_003433907.1|COX3	YP_003433908.1|ND3	YP_003433909.1|ND6	YP_003433910.1|CYTB	YP_003433915.1|ND2
-TTT	38	13	4	14	21	10	18	28	28
-TTC	4	1	0	3	3	2	0	4	1
-TTA	39	11	4	15	16	12	22	24	33
-TTG	2	4	1	3	2	3	1	6	7
-TCT	15	9	2	7	6	2	6	12	12
-TCC	1	0	0	0	0	1	0	2	4
-TCA	11	7	1	4	12	1	1	9	12
-TCG	4	1	0	0	0	1	1	0	0
-TAT	7	2	0	4	7	0	3	11	2
-TAC	8	6	1	2	0	0	2	13	5
-TGT	0	1	1	0	1	1	1	1	3
-TGC	0	2	0	0	0	0	0	3	0
-TGA	12	4	4	3	8	2	2	6	8
-TGG	1	2	0	1	5	0	0	2	0
-CTT	15	5	1	6	6	3	1	9	14
-CTC	1	0	1	1	0	1	1	1	3
-CTA	13	4	1	9	4	3	7	11	4
-CTG	0	1	0	0	0	1	0	3	3
-CCT	11	9	1	11	7	2	1	7	10
-CCC	7	2	1	1	0	0	2	2	4
-CCA	7	1	2	2	2	3	3	7	3
-CCG	3	0	0	1	0	0	1	3	1
-CAT	9	2	0	1	3	1	1	3	2
-CAC	9	2	1	3	11	0	1	4	3
-CAA	7	8	2	3	7	0	0	8	7
-CAG	2	2	0	1	2	0	0	1	0
-CGT	3	2	0	0	1	0	0	1	2
-CGC	0	0	0	1	1	0	0	0	0
-CGA	4	3	0	1	2	3	0	2	0
-CGG	2	0	0	1	0	0	1	1	0
-ATT	32	19	4	21	17	8	13	15	26
-ATC	5	3	1	3	2	1	3	8	4
-ATA	24	10	3	12	5	4	11	18	13
-ATG	3	2	1	3	1	2	0	4	4
-ACT	14	7	6	9	8	3	4	9	11
-ACC	5	2	0	3	2	1	1	6	1
-ACA	15	6	1	4	8	1	13	6	9
-ACG	2	0	0	1	0	0	0	1	0
-AAT	10	3	0	7	5	3	2	10	4
-AAC	6	4	0	6	1	1	4	10	7
-AAA	4	6	2	2	4	7	4	13	10
-AAG	1	0	0	2	0	0	2	2	1
-AGT	7	2	1	1	4	2	1	5	2
-AGC	1	0	0	1	3	1	0	1	3
-AGA	9	6	1	5	4	4	4	6	3
-AGG	1	2	0	2	0	1	1	0	2
-GTT	13	5	1	1	11	5	4	10	6
-GTC	2	1	0	2	1	0	2	1	1
-GTA	16	7	0	7	7	4	5	14	6
-GTG	2	2	0	2	6	1	1	3	3
-GCT	25	6	0	11	10	3	3	9	15
-GCC	1	1	0	4	2	0	0	4	4
-GCA	8	1	1	5	5	1	3	3	4
-GCG	2	0	0	0	1	0	0	1	0
-GAT	9	4	0	0	4	3	0	1	1
-GAC	8	8	0	1	1	1	1	6	1
-GAA	2	6	1	2	5	1	2	6	1
-GAG	5	1	0	2	2	3	1	2	2
-GGT	20	4	0	2	3	2	2	8	4
-GGC	4	2	0	1	2	1	2	6	1
-GGA	16	2	0	3	5	1	1	3	2
-GGG	5	0	0	0	6	0	0	4	5
-TAA	1	0	1	1	1	1	1	0	1
-TAG	0	1	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_003433903.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	38	4	39	2	15	1	11	4	7	8	0	0	12	1	15	1	13	0	11	7	7	3	9	9	7	2	3	0	4	2	32	5	24	3	14	5	15	2	10	6	4	1	7	1	9	1	13	2	16	2	25	1	8	2	9	8	2	5	20	4	16	5	1	0
+1	COX2	YP_003433904.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	13	1	11	4	9	0	7	1	2	6	1	2	4	2	5	0	4	1	9	2	1	0	2	2	8	2	2	0	3	0	19	3	10	2	7	2	6	0	3	4	6	0	2	0	6	2	5	1	7	2	6	1	1	0	4	8	6	1	4	2	2	0	0	1
+2	ATP8	YP_003433905.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	4	0	4	1	2	0	1	0	0	1	1	0	4	0	1	1	1	0	1	1	2	0	0	1	2	0	0	0	0	0	4	1	3	1	6	0	1	0	0	0	2	0	1	0	1	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+3	ATP6	YP_003433906.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	14	3	15	3	7	0	4	0	4	2	0	0	3	1	6	1	9	0	11	1	2	1	1	3	3	1	0	1	1	1	21	3	12	3	9	3	4	1	7	6	2	2	1	1	5	2	1	2	7	2	11	4	5	0	0	1	2	2	2	1	3	0	1	0
+4	COX3	YP_003433907.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	21	3	16	2	6	0	12	0	7	0	1	0	8	5	6	0	4	0	7	0	2	0	3	11	7	2	1	1	2	0	17	2	5	1	8	2	8	0	5	1	4	0	4	3	4	0	11	1	7	6	10	2	5	1	4	1	5	2	3	2	5	6	1	0
+5	ND3	YP_003433908.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	10	2	12	3	2	1	1	1	0	0	1	0	2	0	3	1	3	1	2	0	3	0	1	0	0	0	0	0	3	0	8	1	4	2	3	1	1	0	3	1	7	0	2	1	4	1	5	0	4	1	3	0	1	0	3	1	1	3	2	1	1	0	1	0
+6	ND6	YP_003433909.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	18	0	22	1	6	0	1	1	3	2	1	0	2	0	1	1	7	0	1	2	3	1	1	1	0	0	0	0	0	1	13	3	11	0	4	1	13	0	2	4	4	2	1	0	4	1	4	2	5	1	3	0	3	0	0	1	2	1	2	2	1	0	1	0
+7	CYTB	YP_003433910.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	28	4	24	6	12	2	9	0	11	13	1	3	6	2	9	1	11	3	7	2	7	3	3	4	8	1	1	0	2	1	15	8	18	4	9	6	6	1	10	10	13	2	5	1	6	0	10	1	14	3	9	4	3	1	1	6	6	2	8	6	3	4	0	1
+8	ND2	YP_003433915.1	Onisimus nanseni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Gammaridea, Lysianassoidea, Lysianassidae, Onisimus	28	1	33	7	12	4	12	0	2	5	3	0	8	0	14	3	4	3	10	4	3	1	2	3	7	0	2	0	0	0	26	4	13	4	11	1	9	0	4	7	10	1	2	3	3	2	6	1	6	3	15	4	4	0	1	1	1	2	4	1	2	5	1	0

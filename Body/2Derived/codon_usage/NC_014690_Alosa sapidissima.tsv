@@ -1,65 +1,13 @@
-	YP_004021549.1|ND1	YP_004021550.1|ND2	YP_004021551.1|COX1	YP_004021552.1|COX2	YP_004021553.1|ATP8	YP_004021554.1|ATP6	YP_004021555.1|COX3	YP_004021556.1|ND3	YP_004021557.1|ND4L	YP_004021558.1|ND4	YP_004021559.1|ND5	YP_004021561.1|CYTB
-TTT	11	3	16	4	2	6	8	2	5	5	15	4
-TTC	13	5	24	2	2	6	17	5	4	12	25	25
-TTA	3	6	6	0	0	8	1	3	3	13	10	14
-TTG	2	3	1	1	1	0	0	0	0	6	1	1
-TCT	3	4	3	2	1	4	2	0	3	3	3	6
-TCC	9	12	9	8	0	0	2	4	1	9	11	4
-TCA	7	3	13	4	0	0	6	3	0	7	15	10
-TCG	0	2	1	0	0	0	0	0	0	0	1	1
-TAT	1	3	8	3	0	2	1	2	0	6	3	2
-TAC	10	7	11	7	1	3	9	0	0	9	8	13
-TGT	0	0	0	1	0	0	1	0	2	4	3	1
-TGC	1	2	1	1	0	0	1	1	1	1	3	2
-TGA	7	10	16	5	5	4	12	3	0	13	13	12
-TGG	1	0	1	0	0	1	0	2	1	7	1	1
-CTT	13	9	17	8	1	10	7	3	4	17	17	9
-CTC	10	18	11	2	0	13	5	4	6	18	16	7
-CTA	22	22	19	13	3	14	15	13	7	22	32	22
-CTG	8	6	9	3	0	4	7	4	3	9	8	4
-CCT	7	6	6	3	4	4	2	2	0	6	8	2
-CCC	8	10	7	5	3	7	4	4	1	10	17	9
-CCA	6	2	12	8	2	6	6	1	0	10	8	10
-CCG	3	1	3	0	0	0	1	1	0	1	0	0
-CAT	1	1	3	2	1	1	2	0	0	3	2	1
-CAC	4	6	16	7	0	3	14	0	4	7	11	12
-CAA	6	13	7	6	1	8	7	2	3	8	16	3
-CAG	0	1	1	1	0	1	1	1	0	3	3	1
-CGT	0	2	1	1	0	0	2	0	0	0	0	2
-CGC	0	1	1	3	0	0	1	1	0	3	1	0
-CGA	6	2	5	5	0	5	3	1	3	7	9	5
-CGG	2	0	2	0	0	1	0	0	1	1	0	1
-ATT	11	11	23	11	3	13	5	3	0	22	26	16
-ATC	11	11	14	5	0	8	5	7	1	15	27	11
-ATA	6	9	5	4	0	2	4	2	3	13	15	6
-ATG	4	6	20	7	1	7	2	2	3	13	15	5
-ACT	3	6	7	3	1	4	6	0	0	6	7	3
-ACC	9	25	10	3	0	4	7	4	4	14	25	6
-ACA	8	15	14	5	2	14	10	1	4	20	28	9
-ACG	0	5	4	1	0	1	1	0	1	2	3	1
-AAT	5	1	8	2	1	2	1	1	0	4	6	2
-AAC	4	7	6	4	4	6	1	2	3	9	19	14
-AAA	7	7	8	4	3	1	1	1	0	9	17	8
-AAG	0	1	1	0	0	0	1	0	0	1	3	1
-AGT	0	1	1	1	0	0	0	1	1	2	2	1
-AGC	4	5	4	3	0	4	3	0	2	6	10	2
-GTT	2	3	7	8	0	1	5	1	0	5	9	5
-GTC	5	3	7	3	3	7	4	3	0	7	6	9
-GTA	7	5	21	9	1	5	7	3	0	5	12	14
-GTG	5	0	7	3	0	1	4	0	2	4	4	0
-GCT	1	3	5	1	3	2	1	0	3	1	7	5
-GCC	19	29	23	5	1	10	13	5	4	19	35	17
-GCA	14	12	17	6	1	7	7	3	5	16	18	13
-GCG	0	1	3	2	0	2	0	0	1	3	0	2
-GAT	2	0	6	1	0	0	0	1	0	0	2	3
-GAC	2	1	10	11	0	1	5	2	1	4	12	8
-GAA	8	4	6	12	3	2	8	2	2	7	8	3
-GAG	3	0	4	2	0	1	0	4	1	4	2	4
-GGT	2	1	5	2	0	1	1	1	1	2	4	3
-GGC	2	4	7	2	0	5	6	1	3	11	11	6
-GGA	6	9	13	4	1	3	9	2	1	11	14	13
-GGG	10	3	20	1	0	2	7	2	0	5	4	6
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004021549.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	11	13	3	2	3	9	7	0	1	10	0	1	7	1	13	10	22	8	7	8	6	3	1	4	6	0	0	0	6	2	11	11	6	4	3	9	8	0	5	4	7	0	0	4	2	5	7	5	1	19	14	0	2	2	8	3	2	2	6	10	0	1	0	0
+1	ND2	YP_004021550.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	3	5	6	3	4	12	3	2	3	7	0	2	10	0	9	18	22	6	6	10	2	1	1	6	13	1	2	1	2	0	11	11	9	6	6	25	15	5	1	7	7	1	1	5	3	3	5	0	3	29	12	1	0	1	4	0	1	4	9	3	0	0	0	0
+2	COX1	YP_004021551.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	16	24	6	1	3	9	13	1	8	11	0	1	16	1	17	11	19	9	6	7	12	3	3	16	7	1	1	1	5	2	23	14	5	20	7	10	14	4	8	6	8	1	1	4	7	7	21	7	5	23	17	3	6	10	6	4	5	7	13	20	1	0	0	0
+3	COX2	YP_004021552.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	4	2	0	1	2	8	4	0	3	7	1	1	5	0	8	2	13	3	3	5	8	0	2	7	6	1	1	3	5	0	11	5	4	7	3	3	5	1	2	4	4	0	1	3	8	3	9	3	1	5	6	2	1	11	12	2	2	2	4	1	0	0	0	0
+4	ATP8	YP_004021553.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	2	2	0	1	1	0	0	0	0	1	0	0	5	0	1	0	3	0	4	3	2	0	1	0	1	0	0	0	0	0	3	0	0	1	1	0	2	0	1	4	3	0	0	0	0	3	1	0	3	1	1	0	0	0	3	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_004021554.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	6	6	8	0	4	0	0	0	2	3	0	0	4	1	10	13	14	4	4	7	6	0	1	3	8	1	0	0	5	1	13	8	2	7	4	4	14	1	2	6	1	0	0	4	1	7	5	1	2	10	7	2	0	1	2	1	1	5	3	2	1	0	0	0
+6	COX3	YP_004021555.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	8	17	1	0	2	2	6	0	1	9	1	1	12	0	7	5	15	7	2	4	6	1	2	14	7	1	2	1	3	0	5	5	4	2	6	7	10	1	1	1	1	1	0	3	5	4	7	4	1	13	7	0	0	5	8	0	1	6	9	7	0	0	0	0
+7	ND3	YP_004021556.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	2	5	3	0	0	4	3	0	2	0	0	1	3	2	3	4	13	4	2	4	1	1	0	0	2	1	0	1	1	0	3	7	2	2	0	4	1	0	1	2	1	0	1	0	1	3	3	0	0	5	3	0	1	2	2	4	1	1	2	2	0	0	0	0
+8	ND4L	YP_004021557.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	5	4	3	0	3	1	0	0	0	0	2	1	0	1	4	6	7	3	0	1	0	0	0	4	3	0	0	0	3	1	0	1	3	3	0	4	4	1	0	3	0	0	1	2	0	0	0	2	3	4	5	1	0	1	2	1	1	3	1	0	1	0	0	0
+9	ND4	YP_004021558.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	5	12	13	6	3	9	7	0	6	9	4	1	13	7	17	18	22	9	6	10	10	1	3	7	8	3	0	3	7	1	22	15	13	13	6	14	20	2	4	9	9	1	2	6	5	7	5	4	1	19	16	3	0	4	7	4	2	11	11	5	0	0	0	0
+10	ND5	YP_004021559.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	15	25	10	1	3	11	15	1	3	8	3	3	13	1	17	16	32	8	8	17	8	0	2	11	16	3	0	1	9	0	26	27	15	15	7	25	28	3	6	19	17	3	2	10	9	6	12	4	7	35	18	0	2	12	8	2	4	11	14	4	1	0	0	0
+11	CYTB	YP_004021561.1	Alosa sapidissima	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Alosa	4	25	14	1	6	4	10	1	2	13	1	2	12	1	9	7	22	4	2	9	10	0	1	12	3	1	2	0	5	1	16	11	6	5	3	6	9	1	2	14	8	1	1	2	5	9	14	0	5	17	13	2	3	8	3	4	3	6	13	6	0	0	0	0

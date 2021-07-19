@@ -1,65 +1,13 @@
-	YP_004021729.1|ND1	YP_004021730.1|ND2	YP_004021731.1|COX1	YP_004021732.1|COX2	YP_004021733.1|ATP8	YP_004021734.1|ATP6	YP_004021735.1|COX3	YP_004021736.1|ND3	YP_004021737.1|ND4L	YP_004021738.1|ND4	YP_004021739.1|ND5	YP_004021741.1|CYTB
-TTT	10	6	19	5	2	10	15	3	3	10	18	14
-TTC	13	7	23	2	2	1	6	5	1	7	18	15
-TTA	14	13	16	9	5	12	10	6	2	18	17	11
-TTG	0	0	1	0	0	0	1	0	1	1	1	1
-TCT	1	1	4	3	0	3	7	2	2	6	6	4
-TCC	5	4	5	2	2	2	2	2	5	7	9	5
-TCA	18	15	21	9	4	6	9	2	3	17	31	13
-TCG	0	0	0	0	1	0	0	0	0	0	0	0
-TAT	6	5	11	5	1	0	5	1	2	6	9	6
-TAC	7	4	9	4	0	2	7	2	1	9	9	8
-TGT	1	0	1	0	0	0	0	1	1	0	4	1
-TGC	0	1	0	3	0	0	2	0	2	3	4	2
-TGA	9	8	16	5	3	3	12	3	0	7	13	12
-TGG	0	0	1	0	0	0	0	1	0	4	0	0
-CTT	5	10	10	10	1	6	7	3	4	12	20	3
-CTC	4	6	7	3	0	3	2	1	4	3	11	3
-CTA	31	30	23	10	2	22	14	11	11	46	41	33
-CTG	2	0	2	1	0	1	1	1	0	3	1	2
-CCT	2	2	5	2	2	2	1	2	1	2	6	4
-CCC	1	2	1	1	1	1	2	1	1	1	4	2
-CCA	18	17	22	11	3	11	7	3	0	13	14	16
-CCG	0	0	0	0	1	1	0	0	0	3	0	0
-CAT	2	2	6	3	1	4	6	0	0	6	1	4
-CAC	2	4	12	3	0	5	11	0	1	8	10	10
-CAA	7	12	5	6	3	7	7	3	2	11	14	6
-CAG	0	1	1	0	0	0	0	0	0	0	0	1
-CGT	0	0	2	2	0	1	0	0	0	2	1	0
-CGC	1	0	0	0	0	0	1	1	1	0	2	0
-CGA	7	3	6	4	0	3	4	0	0	7	6	8
-CGG	0	0	0	0	0	1	0	0	0	0	0	0
-ATT	12	20	18	8	3	20	9	5	4	22	28	17
-ATC	14	24	18	11	3	9	7	7	1	31	33	25
-ATA	20	26	25	13	3	12	9	5	7	34	41	16
-ATG	1	2	4	1	1	1	2	0	1	6	2	1
-ACT	3	8	12	4	0	6	1	2	6	5	9	7
-ACC	5	12	3	1	0	5	8	2	2	14	24	5
-ACA	13	26	24	12	8	9	11	7	3	24	28	20
-ACG	0	0	0	0	1	0	0	0	0	0	0	0
-AAT	5	7	5	7	0	4	2	1	0	8	16	4
-AAC	7	14	12	2	2	4	5	4	6	16	27	13
-AAA	7	12	10	5	5	3	4	3	1	15	25	9
-AAG	0	0	0	0	0	1	0	0	0	0	0	0
-AGT	2	4	2	2	0	1	1	1	0	7	1	1
-AGC	2	0	1	2	0	4	3	1	0	4	7	1
-GTT	1	1	9	2	0	1	3	0	0	2	5	5
-GTC	1	0	6	2	1	2	2	1	0	1	1	3
-GTA	9	4	23	6	0	7	9	4	4	5	8	9
-GTG	1	0	1	2	0	1	0	0	0	1	0	0
-GCT	4	0	11	5	0	4	1	4	2	4	5	2
-GCC	8	5	17	3	0	3	4	1	2	12	18	9
-GCA	10	10	14	2	0	6	10	2	4	4	11	8
-GCG	1	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	0	5	4	1	2	3	0	1	2	4	4
-GAC	2	0	10	7	0	0	1	2	0	3	6	7
-GAA	10	4	9	14	1	4	7	6	2	8	10	6
-GAG	1	0	0	1	0	0	0	0	0	0	1	0
-GGT	1	0	7	0	0	2	3	0	0	2	0	1
-GGC	4	3	7	3	0	2	3	0	0	5	7	2
-GGA	6	9	30	5	0	6	13	2	4	9	15	20
-GGG	1	1	2	0	0	0	1	1	0	2	4	2
-TAA	0	0	1	0	1	1	0	1	1	0	1	0
-TAG	0	0	0	1	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004021729.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	10	13	14	0	1	5	18	0	6	7	1	0	9	0	5	4	31	2	2	1	18	0	2	2	7	0	0	1	7	0	12	14	20	1	3	5	13	0	5	7	7	0	2	2	1	1	9	1	4	8	10	1	1	2	10	1	1	4	6	1	0	0	0	0
+1	ND2	YP_004021730.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	6	7	13	0	1	4	15	0	5	4	0	1	8	0	10	6	30	0	2	2	17	0	2	4	12	1	0	0	3	0	20	24	26	2	8	12	26	0	7	14	12	0	4	0	1	0	4	0	0	5	10	0	0	0	4	0	0	3	9	1	0	0	0	0
+2	COX1	YP_004021731.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	19	23	16	1	4	5	21	0	11	9	1	0	16	1	10	7	23	2	5	1	22	0	6	12	5	1	2	0	6	0	18	18	25	4	12	3	24	0	5	12	10	0	2	1	9	6	23	1	11	17	14	0	5	10	9	0	7	7	30	2	1	0	0	0
+3	COX2	YP_004021732.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	5	2	9	0	3	2	9	0	5	4	0	3	5	0	10	3	10	1	2	1	11	0	3	3	6	0	2	0	4	0	8	11	13	1	4	1	12	0	7	2	5	0	2	2	2	2	6	2	5	3	2	0	4	7	14	1	0	3	5	0	0	1	0	0
+4	ATP8	YP_004021733.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	2	2	5	0	0	2	4	1	1	0	0	0	3	0	1	0	2	0	2	1	3	1	1	0	3	0	0	0	0	0	3	3	3	1	0	0	8	1	0	2	5	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004021734.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	10	1	12	0	3	2	6	0	0	2	0	0	3	0	6	3	22	1	2	1	11	1	4	5	7	0	1	0	3	1	20	9	12	1	6	5	9	0	4	4	3	1	1	4	1	2	7	1	4	3	6	0	2	0	4	0	2	2	6	0	1	0	0	0
+6	COX3	YP_004021735.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	15	6	10	1	7	2	9	0	5	7	0	2	12	0	7	2	14	1	1	2	7	0	6	11	7	0	0	1	4	0	9	7	9	2	1	8	11	0	2	5	4	0	1	3	3	2	9	0	1	4	10	0	3	1	7	0	3	3	13	1	0	0	0	0
+7	ND3	YP_004021736.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	3	5	6	0	2	2	2	0	1	2	1	0	3	1	3	1	11	1	2	1	3	0	0	0	3	0	0	1	0	0	5	7	5	0	2	2	7	0	1	4	3	0	1	1	0	1	4	0	4	1	2	0	0	2	6	0	0	0	2	1	1	0	0	0
+8	ND4L	YP_004021737.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	3	1	2	1	2	5	3	0	2	1	1	2	0	0	4	4	11	0	1	1	0	0	0	1	2	0	0	1	0	0	4	1	7	1	6	2	3	0	0	6	1	0	0	0	0	0	4	0	2	2	4	0	1	0	2	0	0	0	4	0	1	0	0	0
+9	ND4	YP_004021738.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	10	7	18	1	6	7	17	0	6	9	0	3	7	4	12	3	46	3	2	1	13	3	6	8	11	0	2	0	7	0	22	31	34	6	5	14	24	0	8	16	15	0	7	4	2	1	5	1	4	12	4	0	2	3	8	0	2	5	9	2	0	0	0	0
+10	ND5	YP_004021739.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	18	18	17	1	6	9	31	0	9	9	4	4	13	0	20	11	41	1	6	4	14	0	1	10	14	0	1	2	6	0	28	33	41	2	9	24	28	0	16	27	25	0	1	7	5	1	8	0	5	18	11	0	4	6	10	1	0	7	15	4	1	0	0	0
+11	CYTB	YP_004021741.1	Pseudomys chapmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Murinae, Pseudomys	14	15	11	1	4	5	13	0	6	8	1	2	12	0	3	3	33	2	4	2	16	0	4	10	6	1	0	0	8	0	17	25	16	1	7	5	20	0	4	13	9	0	1	1	5	3	9	0	2	9	8	0	4	7	6	0	1	2	20	2	0	0	0	0

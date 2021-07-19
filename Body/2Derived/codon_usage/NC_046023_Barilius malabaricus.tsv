@@ -1,65 +1,13 @@
-	YP_009731466.1|ND1	YP_009731467.1|ND2	YP_009731468.1|COX1	YP_009731469.1|COX2	YP_009731470.1|ATP8	YP_009731471.1|ATP6	YP_009731472.1|COX3	YP_009731473.1|ND3	YP_009731474.1|ND4L	YP_009731475.1|ND4	YP_009731476.1|ND5	YP_009731478.1|CYTB
-TTT	8	3	21	6	2	6	11	5	4	5	23	11
-TTC	7	6	21	4	1	6	13	3	3	12	21	19
-TTA	13	11	10	6	1	11	6	3	6	23	13	15
-TTG	1	0	2	1	0	2	0	0	0	4	3	2
-TCT	1	2	5	2	0	1	2	1	2	8	10	4
-TCC	8	8	10	6	0	1	3	2	2	5	7	5
-TCA	11	6	7	3	2	1	6	1	3	9	8	11
-TCG	0	0	1	1	0	0	0	0	0	0	0	0
-TAT	8	3	13	3	1	4	5	1	0	7	7	6
-TAC	6	3	5	6	0	1	4	1	0	6	13	9
-TGT	0	1	0	1	0	0	0	0	1	1	1	1
-TGC	0	0	1	2	0	0	2	1	2	4	8	2
-TGA	7	11	17	4	4	5	11	4	1	18	13	12
-TGG	1	0	0	1	1	0	1	1	0	2	1	0
-CTT	6	11	18	8	2	8	6	2	3	10	14	12
-CTC	10	11	9	5	2	11	4	8	1	16	20	8
-CTA	24	27	17	6	1	16	12	10	10	30	32	25
-CTG	6	8	8	1	1	2	3	2	4	5	9	2
-CCT	6	3	3	3	0	2	0	0	1	4	4	3
-CCC	8	8	8	4	1	6	4	4	1	13	11	9
-CCA	10	8	12	7	3	10	7	4	0	9	11	10
-CCG	0	0	5	0	3	0	1	0	0	0	2	0
-CAT	1	2	4	1	1	1	1	0	1	5	4	5
-CAC	1	5	14	6	0	2	16	1	3	6	13	7
-CAA	4	13	5	6	1	5	9	3	2	14	16	4
-CAG	3	1	3	1	1	3	0	0	0	0	3	2
-CGT	0	0	1	0	0	0	1	0	0	2	0	0
-CGC	1	0	1	1	0	0	2	0	0	1	2	1
-CGA	7	3	5	4	0	5	2	1	2	7	9	7
-CGG	0	1	1	1	0	2	0	1	0	1	0	0
-ATT	17	19	25	14	1	14	10	9	1	24	31	18
-ATC	6	11	10	5	1	6	5	2	0	13	17	12
-ATA	12	16	18	8	0	6	8	2	4	21	28	7
-ATG	6	2	6	2	2	6	1	1	2	7	3	2
-ACT	5	7	5	2	1	3	4	2	1	10	7	4
-ACC	5	19	7	3	3	5	4	0	4	11	27	12
-ACA	6	14	20	6	0	12	12	5	6	19	22	9
-ACG	1	1	4	3	0	3	2	0	0	2	1	1
-AAT	7	6	7	2	1	2	0	1	0	6	11	5
-AAC	7	6	8	5	2	5	1	2	3	11	13	14
-AAA	7	8	7	5	2	1	2	1	1	9	20	9
-AAG	0	2	1	0	0	0	1	0	0	0	2	0
-AGT	1	0	0	2	1	1	0	0	1	2	5	0
-AGC	3	10	5	1	1	5	3	0	1	3	3	0
-GTT	5	1	10	5	2	1	3	1	0	5	11	10
-GTC	3	4	9	3	1	4	4	0	0	4	6	4
-GTA	10	3	19	11	2	6	11	2	1	8	7	14
-GTG	0	2	7	3	0	2	1	0	0	0	1	0
-GCT	9	8	13	2	1	3	4	4	3	7	10	2
-GCC	11	14	21	5	0	5	10	2	4	11	22	9
-GCA	11	15	15	6	1	10	6	6	3	16	20	13
-GCG	2	2	0	1	0	1	0	0	1	2	0	1
-GAT	1	0	5	4	1	1	1	0	0	1	4	3
-GAC	2	1	10	7	1	1	4	4	1	2	8	7
-GAA	11	3	8	13	1	3	7	5	2	9	13	6
-GAG	0	2	3	3	0	1	2	1	1	1	1	1
-GGT	1	0	9	2	0	1	1	0	1	4	5	3
-GGC	4	5	7	0	1	0	6	3	1	8	12	7
-GGA	9	9	19	7	0	4	13	3	3	14	11	13
-GGG	4	3	11	0	0	4	3	1	1	3	4	2
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009731466.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	8	7	13	1	1	8	11	0	8	6	0	0	7	1	6	10	24	6	6	8	10	0	1	1	4	3	0	1	7	0	17	6	12	6	5	5	6	1	7	7	7	0	1	3	5	3	10	0	9	11	11	2	1	2	11	0	1	4	9	4	1	0	0	0
+1	ND2	YP_009731467.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	3	6	11	0	2	8	6	0	3	3	1	0	11	0	11	11	27	8	3	8	8	0	2	5	13	1	0	0	3	1	19	11	16	2	7	19	14	1	6	6	8	2	0	10	1	4	3	2	8	14	15	2	0	1	3	2	0	5	9	3	0	0	0	0
+2	COX1	YP_009731468.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	21	21	10	2	5	10	7	1	13	5	0	1	17	0	18	9	17	8	3	8	12	5	4	14	5	3	1	1	5	1	25	10	18	6	5	7	20	4	7	8	7	1	0	5	10	9	19	7	13	21	15	0	5	10	8	3	9	7	19	11	1	0	0	0
+3	COX2	YP_009731469.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	6	4	6	1	2	6	3	1	3	6	1	2	4	1	8	5	6	1	3	4	7	0	1	6	6	1	0	1	4	1	14	5	8	2	2	3	6	3	2	5	5	0	2	1	5	3	11	3	2	5	6	1	4	7	13	3	2	0	7	0	0	0	0	0
+4	ATP8	YP_009731470.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	2	1	1	0	0	0	2	0	1	0	0	0	4	1	2	2	1	1	0	1	3	3	1	0	1	1	0	0	0	0	1	1	0	2	1	3	0	0	1	2	2	0	1	1	2	1	2	0	1	0	1	0	1	1	1	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009731471.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	6	6	11	2	1	1	1	0	4	1	0	0	5	0	8	11	16	2	2	6	10	0	1	2	5	3	0	0	5	2	14	6	6	6	3	5	12	3	2	5	1	0	1	5	1	4	6	2	3	5	10	1	1	1	3	1	1	0	4	4	0	0	0	0
+6	COX3	YP_009731472.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	11	13	6	0	2	3	6	0	5	4	0	2	11	1	6	4	12	3	0	4	7	1	1	16	9	0	1	2	2	0	10	5	8	1	4	4	12	2	0	1	2	1	0	3	3	4	11	1	4	10	6	0	1	4	7	2	1	6	13	3	0	0	0	0
+7	ND3	YP_009731473.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	5	3	3	0	1	2	1	0	1	1	0	1	4	1	2	8	10	2	0	4	4	0	0	1	3	0	0	0	1	1	9	2	2	1	2	0	5	0	1	2	1	0	0	0	1	0	2	0	4	2	6	0	0	4	5	1	0	3	3	1	0	0	0	0
+8	ND4L	YP_009731474.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	4	3	6	0	2	2	3	0	0	0	1	2	1	0	3	1	10	4	1	1	0	0	1	3	2	0	0	0	2	0	1	0	4	2	1	4	6	0	0	3	1	0	1	1	0	0	1	0	3	4	3	1	0	1	2	1	1	1	3	1	1	0	0	0
+9	ND4	YP_009731475.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	5	12	23	4	8	5	9	0	7	6	1	4	18	2	10	16	30	5	4	13	9	0	5	6	14	0	2	1	7	1	24	13	21	7	10	11	19	2	6	11	9	0	2	3	5	4	8	0	7	11	16	2	1	2	9	1	4	8	14	3	0	0	0	0
+10	ND5	YP_009731476.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	23	21	13	3	10	7	8	0	7	13	1	8	13	1	14	20	32	9	4	11	11	2	4	13	16	3	0	2	9	0	31	17	28	3	7	27	22	1	11	13	20	2	5	3	11	6	7	1	10	22	20	0	4	8	13	1	5	12	11	4	1	0	0	0
+11	CYTB	YP_009731478.1	Barilius malabaricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Barilius	11	19	15	2	4	5	11	0	6	9	1	2	12	0	12	8	25	2	3	9	10	0	5	7	4	2	0	1	7	0	18	12	7	2	4	12	9	1	5	14	9	0	0	0	10	4	14	0	2	9	13	1	3	7	6	1	3	7	13	2	0	0	0	0

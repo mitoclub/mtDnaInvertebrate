@@ -1,65 +1,13 @@
-	YP_004285970.1|ND1	YP_004285971.1|ND2	YP_004285972.1|COX1	YP_004285973.1|COX2	YP_004285974.1|ATP8	YP_004285975.1|ATP6	YP_004285976.1|COX3	YP_004285977.1|ND3	YP_004285978.1|ND4L	YP_004285979.1|ND4	YP_004285980.1|ND5	YP_004285981.1|CYTB
-TTT	2	4	9	3	1	4	6	2	0	0	6	6
-TTC	15	8	31	6	3	7	18	6	5	13	21	24
-TTA	4	5	5	4	0	5	6	3	4	7	10	12
-TTG	0	0	1	0	0	0	1	0	0	2	1	1
-TCT	5	2	3	5	1	0	3	3	1	5	4	0
-TCC	12	6	14	8	2	3	5	2	2	12	23	14
-TCA	7	11	4	6	0	4	6	1	4	13	11	8
-TCG	0	1	4	0	1	1	0	0	1	0	0	0
-TAT	3	2	3	2	0	2	4	0	0	2	2	3
-TAC	12	6	15	6	0	1	6	2	2	12	10	11
-TGT	0	0	0	1	0	0	0	0	0	0	1	1
-TGC	1	1	1	2	0	1	1	2	3	3	4	3
-TGA	6	9	15	4	4	4	11	5	0	11	10	11
-TGG	2	1	2	1	1	0	1	0	1	1	1	0
-CTT	9	12	9	5	0	6	1	1	1	10	14	6
-CTC	21	18	19	5	1	18	6	16	4	33	39	17
-CTA	23	27	24	15	4	27	16	8	13	40	41	28
-CTG	5	4	5	1	2	4	3	1	0	8	5	3
-CCT	3	3	6	1	1	2	1	1	0	4	8	2
-CCC	8	8	9	3	3	3	5	2	0	17	8	15
-CCA	10	9	15	9	5	9	4	4	2	6	14	7
-CCG	2	0	1	0	0	2	2	1	0	0	0	1
-CAT	0	5	5	4	0	1	3	0	0	4	2	0
-CAC	2	5	14	5	0	3	14	0	6	12	12	13
-CAA	3	7	9	6	2	8	6	4	2	12	17	6
-CAG	2	2	0	1	0	0	1	0	0	0	2	2
-CGT	1	0	0	1	0	0	0	0	0	2	0	1
-CGC	2	1	2	2	0	4	1	0	0	0	4	3
-CGA	5	1	6	2	0	1	4	2	2	9	5	4
-CGG	0	1	0	0	0	0	0	0	0	1	0	0
-ATT	10	5	10	3	2	4	4	2	0	12	19	9
-ATC	16	24	29	13	2	17	12	7	3	31	34	20
-ATA	8	17	17	8	0	8	7	3	5	21	22	5
-ATG	6	4	8	2	2	1	1	1	2	3	8	2
-ACT	4	12	5	2	2	0	3	0	1	7	9	5
-ACC	9	23	18	4	4	11	9	4	3	24	33	15
-ACA	8	17	14	7	4	12	10	5	3	17	32	9
-ACG	0	2	2	0	0	0	0	0	0	1	1	1
-AAT	1	3	1	1	0	1	1	0	0	0	2	2
-AAC	10	9	14	4	4	9	4	3	3	12	22	19
-AAA	7	10	7	4	3	3	3	1	0	9	20	10
-AAG	0	3	2	0	0	0	0	0	0	2	0	0
-AGT	0	3	0	0	0	0	0	0	1	1	0	0
-AGC	5	2	3	2	0	4	5	1	2	12	13	1
-GTT	2	1	7	6	0	0	4	0	0	3	3	3
-GTC	2	1	8	6	0	3	5	1	0	3	7	5
-GTA	7	4	20	6	0	2	4	1	2	3	3	8
-GTG	3	0	1	0	0	1	0	0	0	0	1	0
-GCT	6	2	4	1	0	1	2	1	0	4	8	3
-GCC	13	13	31	9	1	10	11	4	4	10	27	16
-GCA	9	13	12	5	0	6	9	2	6	16	12	7
-GCG	1	1	0	0	0	0	0	0	1	0	1	0
-GAT	0	0	1	3	0	0	1	1	0	0	3	1
-GAC	4	1	14	11	0	1	3	2	1	3	4	5
-GAA	8	3	10	11	0	4	7	6	2	6	12	7
-GAG	3	1	0	3	0	0	1	0	1	2	3	0
-GGT	1	1	13	0	0	1	2	0	0	1	2	3
-GGC	7	4	14	2	0	5	7	0	3	11	14	9
-GGA	3	7	16	5	0	3	10	4	2	6	14	11
-GGG	3	1	4	1	0	0	1	1	0	0	1	2
-TAA	0	0	0	1	0	0	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004285970.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	2	15	4	0	5	12	7	0	3	12	0	1	6	2	9	21	23	5	3	8	10	2	0	2	3	2	1	2	5	0	10	16	8	6	4	9	8	0	1	10	7	0	0	5	2	2	7	3	6	13	9	1	0	4	8	3	1	7	3	3	0	0	1	0
+1	ND2	YP_004285971.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	4	8	5	0	2	6	11	1	2	6	0	1	9	1	12	18	27	4	3	8	9	0	5	5	7	2	0	1	1	1	5	24	17	4	12	23	17	2	3	9	10	3	3	2	1	1	4	0	2	13	13	1	0	1	3	1	1	4	7	1	0	0	0	0
+2	COX1	YP_004285972.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	9	31	5	1	3	14	4	4	3	15	0	1	15	2	9	19	24	5	6	9	15	1	5	14	9	0	0	2	6	0	10	29	17	8	5	18	14	2	1	14	7	2	0	3	7	8	20	1	4	31	12	0	1	14	10	0	13	14	16	4	0	0	0	1
+3	COX2	YP_004285973.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	3	6	4	0	5	8	6	0	2	6	1	2	4	1	5	5	15	1	1	3	9	0	4	5	6	1	1	2	2	0	3	13	8	2	2	4	7	0	1	4	4	0	0	2	6	6	6	0	1	9	5	0	3	11	11	3	0	2	5	1	1	0	0	0
+4	ATP8	YP_004285974.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	1	3	0	0	1	2	0	1	0	0	0	0	4	1	0	1	4	2	1	3	5	0	0	0	2	0	0	0	0	0	2	2	0	2	2	4	4	0	0	4	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5	ATP6	YP_004285975.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	4	7	5	0	0	3	4	1	2	1	0	1	4	0	6	18	27	4	2	3	9	2	1	3	8	0	0	4	1	0	4	17	8	1	0	11	12	0	1	9	3	0	0	4	0	3	2	1	1	10	6	0	0	1	4	0	1	5	3	0	0	0	0	0
+6	COX3	YP_004285976.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	6	18	6	1	3	5	6	0	4	6	0	1	11	1	1	6	16	3	1	5	4	2	3	14	6	1	0	1	4	0	4	12	7	1	3	9	10	0	1	4	3	0	0	5	4	5	4	0	2	11	9	0	1	3	7	1	2	7	10	1	0	0	0	0
+7	ND3	YP_004285977.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	2	6	3	0	3	2	1	0	0	2	0	2	5	0	1	16	8	1	1	2	4	1	0	0	4	0	0	0	2	0	2	7	3	1	0	4	5	0	0	3	1	0	0	1	0	1	1	0	1	4	2	0	1	2	6	0	0	0	4	1	0	0	0	0
+8	ND4L	YP_004285978.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	0	5	4	0	1	2	4	1	0	2	0	3	0	1	1	4	13	0	0	0	2	0	0	6	2	0	0	0	2	0	0	3	5	2	1	3	3	0	0	3	0	0	1	2	0	0	2	0	0	4	6	1	0	1	2	1	0	3	2	0	1	0	0	0
+9	ND4	YP_004285979.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	0	13	7	2	5	12	13	0	2	12	0	3	11	1	10	33	40	8	4	17	6	0	4	12	12	0	2	0	9	1	12	31	21	3	7	24	17	1	0	12	9	2	1	12	3	3	3	0	4	10	16	0	0	3	6	2	1	11	6	0	0	0	0	0
+10	ND5	YP_004285980.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	6	21	10	1	4	23	11	0	2	10	1	4	10	1	14	39	41	5	8	8	14	0	2	12	17	2	0	4	5	0	19	34	22	8	9	33	32	1	2	22	20	0	0	13	3	7	3	1	8	27	12	1	3	4	12	3	2	14	14	1	0	0	1	0
+11	CYTB	YP_004285981.1	Zenaida auriculata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Columbiformes, Columbidae, Zenaida	6	24	12	1	0	14	8	0	3	11	1	3	11	0	6	17	28	3	2	15	7	1	0	13	6	2	1	3	4	0	9	20	5	2	5	15	9	1	2	19	10	0	0	1	3	5	8	0	3	16	7	0	1	5	7	0	3	9	11	2	1	0	0	0

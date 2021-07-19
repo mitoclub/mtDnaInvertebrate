@@ -1,65 +1,10 @@
-	YP_002889383.1|ND2	YP_002889384.1|COX1	YP_002889385.1|COX2	YP_002889386.1|ATP8	YP_002889387.1|ATP6	YP_002889388.1|COX3	YP_002889389.1|ND3	YP_002889393.1|ND6	YP_002889394.1|CYTB
-TTT	27	42	11	3	15	21	10	16	29
-TTC	6	1	2	1	3	5	6	2	6
-TTA	44	52	14	6	23	17	11	24	34
-TTG	1	0	1	0	0	1	0	0	0
-TCT	11	12	9	2	6	8	3	7	8
-TCC	1	2	2	2	1	1	2	0	1
-TCA	16	17	7	2	8	10	4	7	13
-TCG	0	0	1	0	0	0	0	0	0
-TAT	22	12	7	2	5	11	1	10	17
-TAC	1	3	0	1	0	3	1	3	2
-TGT	0	0	2	0	0	1	2	2	4
-TGC	0	0	2	1	0	0	0	0	0
-TGA	7	14	6	3	5	13	5	2	12
-TGG	0	1	0	0	0	0	0	0	0
-CTT	3	4	3	0	3	2	0	3	2
-CTC	1	2	1	0	0	1	0	1	0
-CTA	4	7	1	1	4	4	1	1	9
-CTG	0	0	0	0	0	0	0	0	1
-CCT	5	11	3	1	4	4	2	1	8
-CCC	1	3	3	0	0	0	0	0	0
-CCA	1	13	4	2	7	5	5	1	13
-CCG	0	0	0	0	0	0	0	0	0
-CAT	3	13	3	0	3	11	0	2	7
-CAC	1	3	2	0	0	3	0	2	3
-CAA	5	9	6	1	3	5	0	3	6
-CAG	0	0	1	0	0	0	0	0	0
-CGT	0	0	2	0	0	2	0	1	0
-CGC	1	0	0	0	0	0	0	0	0
-CGA	1	8	3	0	3	1	3	0	5
-CGG	0	0	1	0	0	0	0	0	0
-ATT	54	50	32	6	26	27	19	21	48
-ATC	5	11	6	2	5	5	3	4	10
-ATA	39	31	16	6	21	17	8	24	25
-ATG	0	2	2	0	1	1	1	1	2
-ACT	8	9	6	1	6	6	1	2	6
-ACC	4	4	1	1	0	0	0	0	1
-ACA	8	19	6	1	11	8	3	5	11
-ACG	0	0	0	0	0	0	0	0	0
-AAT	21	24	12	8	11	11	3	16	19
-AAC	7	3	4	0	3	4	1	4	8
-AAA	17	8	7	4	6	9	5	10	14
-AAG	0	0	1	0	0	0	0	0	0
-AGT	1	2	0	0	1	0	0	0	1
-AGC	0	0	0	0	1	0	0	1	0
-AGA	8	7	3	0	11	9	3	3	4
-AGG	0	0	0	0	0	0	1	0	0
-GTT	0	3	1	0	3	1	1	1	4
-GTC	0	2	0	0	0	0	0	0	1
-GTA	2	14	5	1	2	7	1	4	5
-GTG	0	0	0	0	0	0	0	0	0
-GCT	1	9	1	0	3	1	0	0	5
-GCC	0	1	1	0	2	1	0	0	2
-GCA	1	16	3	0	6	5	0	1	5
-GCG	0	0	0	0	0	1	0	0	0
-GAT	3	10	4	1	1	3	3	2	4
-GAC	0	3	3	0	0	1	1	0	1
-GAA	4	9	11	0	4	7	4	2	4
-GAG	0	0	0	0	0	0	0	2	0
-GGT	0	12	2	0	1	1	0	1	4
-GGC	0	0	0	0	0	0	0	1	1
-GGA	4	33	3	0	6	13	3	1	15
-GGG	0	0	0	0	0	0	0	0	0
-TAA	0	0	1	1	1	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_002889383.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	27	6	44	1	11	1	16	0	22	1	0	0	7	0	3	1	4	0	5	1	1	0	3	1	5	0	0	1	1	0	54	5	39	0	8	4	8	0	21	7	17	0	1	0	8	0	0	0	2	0	1	0	1	0	3	0	4	0	0	0	4	0	0	0
+1	COX1	YP_002889384.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	42	1	52	0	12	2	17	0	12	3	0	0	14	1	4	2	7	0	11	3	13	0	13	3	9	0	0	0	8	0	50	11	31	2	9	4	19	0	24	3	8	0	2	0	7	0	3	2	14	0	9	1	16	0	10	3	9	0	12	0	33	0	0	0
+2	COX2	YP_002889385.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	11	2	14	1	9	2	7	1	7	0	2	2	6	0	3	1	1	0	3	3	4	0	3	2	6	1	2	0	3	1	32	6	16	2	6	1	6	0	12	4	7	1	0	0	3	0	1	0	5	0	1	1	3	0	4	3	11	0	2	0	3	0	1	0
+3	ATP8	YP_002889386.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	3	1	6	0	2	2	2	0	2	1	0	1	3	0	0	0	1	0	1	0	2	0	0	0	1	0	0	0	0	0	6	2	6	0	1	1	1	0	8	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_002889387.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	15	3	23	0	6	1	8	0	5	0	0	0	5	0	3	0	4	0	4	0	7	0	3	0	3	0	0	0	3	0	26	5	21	1	6	0	11	0	11	3	6	0	1	1	11	0	3	0	2	0	3	2	6	0	1	0	4	0	1	0	6	0	1	0
+5	COX3	YP_002889388.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	21	5	17	1	8	1	10	0	11	3	1	0	13	0	2	1	4	0	4	0	5	0	11	3	5	0	2	0	1	0	27	5	17	1	6	0	8	0	11	4	9	0	0	0	9	0	1	0	7	0	1	1	5	1	3	1	7	0	1	0	13	0	1	0
+6	ND3	YP_002889389.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	10	6	11	0	3	2	4	0	1	1	2	0	5	0	0	0	1	0	2	0	5	0	0	0	0	0	0	0	3	0	19	3	8	1	1	0	3	0	3	1	5	0	0	0	3	1	1	0	1	0	0	0	0	0	3	1	4	0	0	0	3	0	1	0
+7	ND6	YP_002889393.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	16	2	24	0	7	0	7	0	10	3	2	0	2	0	3	1	1	0	1	0	1	0	2	2	3	0	1	0	0	0	21	4	24	1	2	0	5	0	16	4	10	0	0	1	3	0	1	0	4	0	0	0	1	0	2	0	2	2	1	1	1	0	0	0
+8	CYTB	YP_002889394.1	Cephus cinctus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Cephoidea, Cephidae, Cephus	29	6	34	0	8	1	13	0	17	2	4	0	12	0	2	0	9	1	8	0	13	0	7	3	6	0	0	0	5	0	48	10	25	2	6	1	11	0	19	8	14	0	1	0	4	0	4	1	5	0	5	2	5	0	4	1	4	0	4	1	15	0	1	0

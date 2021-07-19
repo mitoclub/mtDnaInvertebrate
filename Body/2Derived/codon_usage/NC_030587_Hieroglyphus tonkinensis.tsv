@@ -1,65 +1,10 @@
-	YP_009266285.1|ND2	YP_009266286.1|COX1	YP_009266287.1|COX2	YP_009266288.1|ATP8	YP_009266289.1|ATP6	YP_009266290.1|COX3	YP_009266291.1|ND3	YP_009266295.1|ND6	YP_009266296.1|CYTB
-TTT	15	28	8	5	17	17	7	12	25
-TTC	6	10	3	2	3	10	3	5	6
-TTA	26	32	15	1	17	18	14	16	38
-TTG	4	0	0	0	0	1	0	1	1
-TCT	4	4	1	1	3	0	1	0	2
-TCC	3	2	0	0	1	1	0	0	0
-TCA	20	24	11	3	10	11	6	8	11
-TCG	3	0	0	0	0	0	1	0	0
-TAT	5	11	7	0	3	8	1	5	13
-TAC	7	5	2	0	1	1	0	0	4
-TGT	2	1	2	0	0	0	1	0	6
-TGC	1	0	0	0	0	1	0	0	0
-TGA	10	15	6	3	4	14	3	1	12
-TGG	0	0	0	0	1	0	0	0	0
-CTT	5	8	4	0	5	5	1	1	3
-CTC	3	2	0	0	0	1	0	1	0
-CTA	14	19	8	2	11	6	3	1	7
-CTG	2	1	1	1	0	0	0	0	0
-CCT	3	3	1	1	3	1	0	2	7
-CCC	1	3	1	0	1	0	0	0	1
-CCA	7	18	7	1	5	10	4	2	13
-CCG	1	2	0	0	1	0	1	0	0
-CAT	2	8	5	0	6	10	1	1	8
-CAC	0	6	1	0	1	4	0	0	5
-CAA	9	10	5	2	3	7	2	4	8
-CAG	1	0	0	0	0	0	0	0	0
-CGT	0	1	1	0	0	0	1	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	7	7	0	3	4	1	1	8
-CGG	0	0	0	0	0	0	1	0	0
-ATT	21	39	16	4	19	18	16	28	37
-ATC	15	9	2	1	4	1	3	1	10
-ATA	31	30	14	7	21	11	6	20	16
-ATG	8	1	1	0	1	2	0	1	2
-ACT	3	7	4	0	1	5	1	3	2
-ACC	4	4	1	0	2	0	0	0	2
-ACA	14	24	13	1	15	14	6	8	17
-ACG	1	1	0	0	0	0	0	0	0
-AAT	6	11	5	5	14	6	3	11	21
-AAC	10	9	4	1	1	1	0	5	3
-AAA	9	6	4	6	3	1	5	8	9
-AAG	3	2	1	1	0	0	0	0	2
-AGT	0	3	1	1	1	0	0	0	0
-AGC	0	0	1	0	0	0	0	0	0
-AGA	13	10	6	1	7	7	3	3	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	7	13	4	0	2	3	1	2	8
-GTC	1	2	0	0	0	1	0	0	0
-GTA	4	15	8	0	5	13	3	5	13
-GTG	0	0	2	0	0	0	0	0	0
-GCT	4	14	3	0	0	2	0	1	6
-GCC	1	3	0	0	2	2	2	0	2
-GCA	5	18	9	1	11	13	4	3	12
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	12	9	0	1	2	1	1	6
-GAC	0	4	4	0	0	2	2	2	1
-GAA	10	9	9	2	4	9	5	3	5
-GAG	1	0	0	0	0	0	0	1	0
-GGT	2	12	0	0	0	1	1	1	4
-GGC	0	3	1	0	0	0	0	0	0
-GGA	10	28	9	0	12	19	2	2	19
-GGG	1	3	0	0	0	0	1	2	1
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009266285.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	15	6	26	4	4	3	20	3	5	7	2	1	10	0	5	3	14	2	3	1	7	1	2	0	9	1	0	0	2	0	21	15	31	8	3	4	14	1	6	10	9	3	0	0	13	0	7	1	4	0	4	1	5	0	0	0	10	1	2	0	10	1	1	0
+1	COX1	YP_009266286.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	28	10	32	0	4	2	24	0	11	5	1	0	15	0	8	2	19	1	3	3	18	2	8	6	10	0	1	0	7	0	39	9	30	1	7	4	24	1	11	9	6	2	3	0	10	0	13	2	15	0	14	3	18	0	12	4	9	0	12	3	28	3	0	0
+2	COX2	YP_009266287.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	8	3	15	0	1	0	11	0	7	2	2	0	6	0	4	0	8	1	1	1	7	0	5	1	5	0	1	0	7	0	16	2	14	1	4	1	13	0	5	4	4	1	1	1	6	0	4	0	8	2	3	0	9	0	9	4	9	0	0	1	9	0	1	0
+3	ATP8	YP_009266288.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	5	2	1	0	1	0	3	0	0	0	0	0	3	0	0	0	2	1	1	0	1	0	0	0	2	0	0	0	0	0	4	1	7	0	0	0	1	0	5	1	6	1	1	0	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009266289.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	17	3	17	0	3	1	10	0	3	1	0	0	4	1	5	0	11	0	3	1	5	1	6	1	3	0	0	0	3	0	19	4	21	1	1	2	15	0	14	1	3	0	1	0	7	0	2	0	5	0	0	2	11	0	1	0	4	0	0	0	12	0	1	0
+5	COX3	YP_009266290.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	17	10	18	1	0	1	11	0	8	1	0	1	14	0	5	1	6	0	1	0	10	0	10	4	7	0	0	0	4	0	18	1	11	2	5	0	14	0	6	1	1	0	0	0	7	0	3	1	13	0	2	2	13	0	2	2	9	0	1	0	19	0	1	0
+6	ND3	YP_009266291.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	7	3	14	0	1	0	6	1	1	0	1	0	3	0	1	0	3	0	0	0	4	1	1	0	2	0	1	0	1	1	16	3	6	0	1	0	6	0	3	0	5	0	0	0	3	0	1	0	3	0	0	2	4	0	1	2	5	0	1	0	2	1	1	0
+7	ND6	YP_009266295.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	12	5	16	1	0	0	8	0	5	0	0	0	1	0	1	1	1	0	2	0	2	0	1	0	4	0	0	0	1	0	28	1	20	1	3	0	8	0	11	5	8	0	0	0	3	0	2	0	5	0	1	0	3	0	1	2	3	1	1	0	2	2	1	0
+8	CYTB	YP_009266296.1	Hieroglyphus tonkinensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Oxyinae, Hieroglyphus	25	6	38	1	2	0	11	0	13	4	6	0	12	0	3	0	7	0	7	1	13	0	8	5	8	0	0	0	8	0	37	10	16	2	2	2	17	0	21	3	9	2	0	0	3	0	8	0	13	0	6	2	12	0	6	1	5	0	4	0	19	1	1	0

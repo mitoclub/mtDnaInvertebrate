@@ -1,65 +1,7 @@
-	YP_002836201.1|var1	YP_002836203.1|cytb	YP_002836204.1|cox1	YP_002836205.1|atp8	YP_002836206.1|atp6	YP_002836208.1|cox3
-TTT	14	20	26	6	17	11
-TTC	0	13	17	0	4	6
-TTA	38	42	62	14	50	37
-TTG	0	0	0	0	0	0
-TCT	4	6	13	1	3	2
-TCC	1	0	0	0	0	0
-TCA	3	20	29	0	12	10
-TCG	0	0	0	0	0	0
-TAT	41	19	22	2	12	11
-TAC	0	3	2	0	1	2
-TGT	0	4	1	0	1	5
-TGC	0	0	0	0	0	0
-TGA	2	7	10	0	3	9
-TGG	0	0	0	0	0	0
-CTT	1	0	0	0	0	0
-CTC	0	0	0	0	0	0
-CTA	5	6	3	0	3	5
-CTG	0	0	0	0	0	0
-CCT	3	7	13	0	6	4
-CCC	0	1	1	0	0	0
-CCA	1	9	13	3	2	5
-CCG	0	1	0	0	0	0
-CAT	3	11	15	0	4	13
-CAC	0	1	0	0	0	0
-CAA	4	4	9	3	7	7
-CAG	0	0	1	0	0	0
-CGT	0	0	0	0	0	0
-CGC	0	0	0	0	0	0
-CGA	0	0	0	0	0	0
-CGG	0	0	0	0	0	0
-ATT	42	37	45	5	29	19
-ATC	1	1	4	0	3	2
-ATA	34	5	7	2	6	6
-ATG	2	15	19	1	5	6
-ACT	9	9	10	1	8	11
-ACC	0	0	0	0	0	0
-ACA	5	2	14	2	5	6
-ACG	0	0	0	0	0	0
-AAT	104	18	27	1	9	5
-AAC	0	2	2	0	0	0
-AAA	40	10	10	1	7	4
-AAG	3	0	0	0	0	0
-AGT	7	3	3	0	5	4
-AGC	0	0	0	0	0	0
-AGA	4	11	9	2	4	7
-AGG	0	0	0	0	0	0
-GTT	2	8	15	0	4	8
-GTC	0	0	3	0	0	0
-GTA	3	31	24	2	7	14
-GTG	0	0	0	0	0	0
-GCT	0	12	24	0	10	12
-GCC	0	1	1	0	0	1
-GCA	0	8	17	1	2	4
-GCG	0	0	0	0	0	0
-GAT	6	8	12	0	4	7
-GAC	0	0	1	0	0	0
-GAA	2	6	8	0	5	6
-GAG	1	0	0	0	0	0
-GGT	5	14	24	1	10	14
-GGC	0	0	0	0	0	0
-GGA	1	9	19	0	7	6
-GGG	0	1	0	0	0	0
-TAA	1	1	1	1	1	1
-TAG	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	var1	YP_002836201.1	[Candida] castellii	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces, Nakaseomyces/Candida clade	14	0	38	0	4	1	3	0	41	0	0	0	2	0	1	0	5	0	3	0	1	0	3	0	4	0	0	0	0	0	42	1	34	2	9	0	5	0	104	0	40	3	7	0	4	0	2	0	3	0	0	0	0	0	6	0	2	1	5	0	1	0	1	0
+1	cytb	YP_002836203.1	[Candida] castellii	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces, Nakaseomyces/Candida clade	20	13	42	0	6	0	20	0	19	3	4	0	7	0	0	0	6	0	7	1	9	1	11	1	4	0	0	0	0	0	37	1	5	15	9	0	2	0	18	2	10	0	3	0	11	0	8	0	31	0	12	1	8	0	8	0	6	0	14	0	9	1	1	0
+2	cox1	YP_002836204.1	[Candida] castellii	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces, Nakaseomyces/Candida clade	26	17	62	0	13	0	29	0	22	2	1	0	10	0	0	0	3	0	13	1	13	0	15	0	9	1	0	0	0	0	45	4	7	19	10	0	14	0	27	2	10	0	3	0	9	0	15	3	24	0	24	1	17	0	12	1	8	0	24	0	19	0	1	0
+3	atp8	YP_002836205.1	[Candida] castellii	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces, Nakaseomyces/Candida clade	6	0	14	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	0	0	0	0	0	5	0	2	1	1	0	2	0	1	0	1	0	0	0	2	0	0	0	2	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+4	atp6	YP_002836206.1	[Candida] castellii	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces, Nakaseomyces/Candida clade	17	4	50	0	3	0	12	0	12	1	1	0	3	0	0	0	3	0	6	0	2	0	4	0	7	0	0	0	0	0	29	3	6	5	8	0	5	0	9	0	7	0	5	0	4	0	4	0	7	0	10	0	2	0	4	0	5	0	10	0	7	0	1	0
+5	cox3	YP_002836208.1	[Candida] castellii	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Nakaseomyces, Nakaseomyces/Candida clade	11	6	37	0	2	0	10	0	11	2	5	0	9	0	0	0	5	0	4	0	5	0	13	0	7	0	0	0	0	0	19	2	6	6	11	0	6	0	5	0	4	0	4	0	7	0	8	0	14	0	12	1	4	0	7	0	6	0	14	0	6	0	1	0

@@ -1,65 +1,10 @@
-	YP_009479374.1|ND2	YP_009479375.1|COX1	YP_009479376.1|COX2	YP_009479377.1|ATP8	YP_009479378.1|ATP6	YP_009479379.1|COX3	YP_009479380.1|ND3	YP_009479384.1|ND6	YP_009479385.1|CYTB
-TTT	47	34	14	8	28	23	15	26	33
-TTC	6	7	2	1	3	5	5	0	2
-TTA	37	39	17	4	26	26	11	23	36
-TTG	4	1	0	0	0	0	0	0	0
-TCT	15	25	5	0	4	6	3	6	10
-TCC	3	3	1	0	3	2	0	0	1
-TCA	11	9	3	1	7	4	4	4	5
-TCG	0	0	2	0	0	0	0	0	0
-TAT	11	15	8	2	6	11	3	7	17
-TAC	1	2	0	0	1	0	1	1	2
-TGT	3	0	2	0	0	2	2	1	2
-TGC	0	0	0	0	0	0	0	0	1
-TGA	9	14	6	3	5	13	3	2	10
-TGG	0	0	0	0	0	0	0	0	1
-CTT	6	20	4	0	3	1	2	4	9
-CTC	1	1	1	0	0	0	0	0	3
-CTA	4	5	4	0	3	1	1	3	5
-CTG	0	0	1	0	0	0	0	0	0
-CCT	2	12	5	2	6	6	2	3	14
-CCC	4	4	3	0	2	1	1	0	2
-CCA	2	9	1	0	3	2	2	0	5
-CCG	0	0	1	0	0	0	0	0	0
-CAT	0	12	4	0	5	13	2	0	5
-CAC	2	4	1	0	2	2	0	1	3
-CAA	4	9	7	2	3	6	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	2	6	0	1	2	1	0	2
-CGC	1	0	0	0	0	1	0	0	0
-CGA	0	6	1	0	2	1	1	1	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	48	56	32	7	27	26	20	21	51
-ATC	4	1	5	0	2	2	0	1	5
-ATA	28	25	8	6	10	8	5	13	19
-ATG	0	3	0	0	1	1	0	0	2
-ACT	6	15	7	1	14	10	5	5	11
-ACC	1	2	0	0	1	4	0	0	3
-ACA	0	11	4	0	3	7	0	3	10
-ACG	0	0	0	0	0	1	0	0	0
-AAT	30	23	23	5	14	11	6	13	20
-AAC	3	2	3	2	2	1	2	2	6
-AAA	15	7	4	7	2	6	5	9	9
-AAG	0	0	0	0	0	0	0	0	0
-AGT	1	4	3	0	2	2	0	0	0
-AGC	0	0	0	0	0	0	0	0	0
-AGA	5	8	2	0	8	2	1	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	9	4	0	3	3	0	2	5
-GTC	0	1	0	0	1	2	0	0	0
-GTA	0	12	2	1	3	5	2	2	6
-GTG	0	1	0	0	0	3	0	0	0
-GCT	3	20	4	0	4	4	1	1	10
-GCC	2	2	0	0	0	2	0	0	1
-GCA	2	4	2	0	2	6	1	1	6
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	11	7	0	0	4	2	0	5
-GAC	0	3	1	0	1	0	1	0	2
-GAA	4	9	9	0	4	7	4	3	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	4	14	3	0	3	3	1	1	2
-GGC	0	1	0	0	0	0	0	0	0
-GGA	5	25	3	0	6	14	1	3	14
-GGG	2	7	2	0	0	0	0	1	7
-TAA	0	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009479374.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	47	6	37	4	15	3	11	0	11	1	3	0	9	0	6	1	4	0	2	4	2	0	0	2	4	0	1	1	0	0	48	4	28	0	6	1	0	0	30	3	15	0	1	0	5	0	2	0	0	0	3	2	2	0	0	0	4	0	4	0	5	2	0	0
+1	COX1	YP_009479375.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	34	7	39	1	25	3	9	0	15	2	0	0	14	0	20	1	5	0	12	4	9	0	12	4	9	0	2	0	6	0	56	1	25	3	15	2	11	0	23	2	7	0	4	0	8	0	9	1	12	1	20	2	4	1	11	3	9	0	14	1	25	7	0	0
+2	COX2	YP_009479376.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	14	2	17	0	5	1	3	2	8	0	2	0	6	0	4	1	4	1	5	3	1	1	4	1	7	0	6	0	1	0	32	5	8	0	7	0	4	0	23	3	4	0	3	0	2	0	4	0	2	0	4	0	2	0	7	1	9	0	3	0	3	2	0	0
+3	ATP8	YP_009479377.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	8	1	4	0	0	0	1	0	2	0	0	0	3	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	7	0	6	0	1	0	0	0	5	2	7	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009479378.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	28	3	26	0	4	3	7	0	6	1	0	0	5	0	3	0	3	0	6	2	3	0	5	2	3	0	1	0	2	0	27	2	10	1	14	1	3	0	14	2	2	0	2	0	8	0	3	1	3	0	4	0	2	0	0	1	4	0	3	0	6	0	1	0
+5	COX3	YP_009479379.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	23	5	26	0	6	2	4	0	11	0	2	0	13	0	1	0	1	0	6	1	2	0	13	2	6	0	2	1	1	0	26	2	8	1	10	4	7	1	11	1	6	0	2	0	2	0	3	2	5	3	4	2	6	0	4	0	7	0	3	0	14	0	1	0
+6	ND3	YP_009479380.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	15	5	11	0	3	0	4	0	3	1	2	0	3	0	2	0	1	0	2	1	2	0	2	0	1	0	1	0	1	0	20	0	5	0	5	0	0	0	6	2	5	0	0	0	1	0	0	0	2	0	1	0	1	0	2	1	4	0	1	0	1	0	1	0
+7	ND6	YP_009479384.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	26	0	23	0	6	0	4	0	7	1	1	0	2	0	4	0	3	0	3	0	0	0	0	1	2	0	0	0	1	0	21	1	13	0	5	0	3	0	13	2	9	0	0	0	1	0	2	0	2	0	1	0	1	0	0	0	3	0	1	0	3	1	1	0
+8	CYTB	YP_009479385.1	Endotricha consocia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Pyralidae, Pyralinae, Endotricha	33	2	36	0	10	1	5	0	17	2	2	1	10	1	9	3	5	0	14	2	5	0	5	3	8	0	2	0	5	0	51	5	19	2	11	3	10	0	20	6	9	0	0	0	3	0	5	0	6	0	10	1	6	0	5	2	4	0	2	0	14	7	1	0

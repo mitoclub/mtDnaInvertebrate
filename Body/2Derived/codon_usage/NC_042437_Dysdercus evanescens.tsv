@@ -1,65 +1,10 @@
-	YP_009643467.1|ND2	YP_009643468.1|COX1	YP_009643469.1|COX2	YP_009643470.1|ATP8	YP_009643471.1|ATP6	YP_009643472.1|COX3	YP_009643473.1|ND3	YP_009643477.1|ND6	YP_009643478.1|CYTB
-TTT	13	35	10	0	9	18	5	10	23
-TTC	2	7	5	0	1	7	3	2	4
-TTA	44	44	26	6	32	24	12	14	45
-TTG	2	1	1	0	1	0	0	0	0
-TCT	5	9	3	0	6	4	1	3	9
-TCC	1	3	0	0	0	1	0	1	1
-TCA	7	19	9	0	6	8	5	5	7
-TCG	0	1	0	0	0	0	0	0	0
-TAT	9	14	6	2	5	7	1	7	10
-TAC	1	2	0	1	1	4	1	1	5
-TGT	0	0	2	0	0	2	1	0	3
-TGC	0	0	0	0	0	0	1	0	1
-TGA	9	15	6	4	4	12	3	1	11
-TGG	1	1	0	0	0	0	0	1	1
-CTT	3	8	1	1	3	3	4	0	5
-CTC	0	0	0	0	0	0	0	0	0
-CTA	5	7	2	0	7	2	4	2	5
-CTG	0	0	0	0	0	0	0	0	0
-CCT	5	14	5	1	5	5	1	3	15
-CCC	2	3	0	0	0	1	2	0	1
-CCA	3	9	5	1	6	2	1	1	6
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	12	5	1	3	12	0	1	8
-CAC	1	3	1	0	1	3	0	0	2
-CAA	7	8	8	2	3	6	1	2	6
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	1	0	0	0	1	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	8	4	0	2	3	1	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	34	47	20	5	25	23	14	22	41
-ATC	1	2	2	0	3	1	0	1	3
-ATA	56	28	12	3	20	15	14	27	23
-ATG	1	1	1	1	1	1	0	2	1
-ACT	5	15	4	4	5	5	1	2	6
-ACC	3	2	0	0	1	1	0	1	1
-ACA	16	22	13	3	6	12	9	2	10
-ACG	0	0	0	0	0	0	0	0	0
-AAT	25	18	9	4	16	7	4	13	22
-AAC	5	2	3	1	2	2	0	0	1
-AAA	17	7	9	6	6	7	6	6	11
-AAG	0	2	0	0	0	2	0	0	1
-AGT	3	2	0	0	2	4	0	1	3
-AGC	0	0	1	0	0	0	0	1	0
-AGA	11	11	2	1	6	5	3	4	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	12	1	0	2	2	1	4	8
-GTC	0	1	1	0	0	2	0	0	0
-GTA	2	16	10	0	5	8	1	5	9
-GTG	0	0	1	0	0	2	0	0	0
-GCT	2	9	3	2	4	1	1	2	7
-GCC	1	0	0	0	1	0	0	0	3
-GCA	3	21	5	0	6	6	3	1	9
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	13	9	0	1	4	2	0	7
-GAC	0	1	0	0	0	0	1	0	0
-GAA	4	10	11	2	4	7	5	5	6
-GAG	1	0	0	0	0	0	0	0	1
-GGT	2	9	1	0	3	4	0	0	6
-GGC	0	1	0	0	0	1	0	1	2
-GGA	10	33	7	0	6	16	3	2	13
-GGG	0	2	1	0	1	0	0	3	1
-TAA	1	0	0	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009643467.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	13	2	44	2	5	1	7	0	9	1	0	0	9	1	3	0	5	0	5	2	3	0	1	1	7	0	0	0	2	0	34	1	56	1	5	3	16	0	25	5	17	0	3	0	11	0	1	0	2	0	2	1	3	0	1	0	4	1	2	0	10	0	1	0
+1	COX1	YP_009643468.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	35	7	44	1	9	3	19	1	14	2	0	0	15	1	8	0	7	0	14	3	9	0	12	3	8	0	1	0	8	0	47	2	28	1	15	2	22	0	18	2	7	2	2	0	11	0	12	1	16	0	9	0	21	0	13	1	10	0	9	1	33	2	0	0
+2	COX2	YP_009643469.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	10	5	26	1	3	0	9	0	6	0	2	0	6	0	1	0	2	0	5	0	5	0	5	1	8	0	1	0	4	0	20	2	12	1	4	0	13	0	9	3	9	0	0	1	2	0	1	1	10	1	3	0	5	0	9	0	11	0	1	0	7	1	0	0
+3	ATP8	YP_009643470.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	0	0	6	0	0	0	0	0	2	1	0	0	4	0	1	0	0	0	1	0	1	0	1	0	2	0	0	0	0	0	5	0	3	1	4	0	3	0	4	1	6	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009643471.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	9	1	32	1	6	0	6	0	5	1	0	0	4	0	3	0	7	0	5	0	6	0	3	1	3	0	0	0	2	0	25	3	20	1	5	1	6	0	16	2	6	0	2	0	6	0	2	0	5	0	4	1	6	0	1	0	4	0	3	0	6	1	1	0
+5	COX3	YP_009643472.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	18	7	24	0	4	1	8	0	7	4	2	0	12	0	3	0	2	0	5	1	2	0	12	3	6	0	0	0	3	0	23	1	15	1	5	1	12	0	7	2	7	2	4	0	5	0	2	2	8	2	1	0	6	0	4	0	7	0	4	1	16	0	0	0
+6	ND3	YP_009643473.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	5	3	12	0	1	0	5	0	1	1	1	1	3	0	4	0	4	0	1	2	1	0	0	0	1	0	1	0	1	0	14	0	14	0	1	0	9	0	4	0	6	0	0	0	3	0	1	0	1	0	1	0	3	0	2	1	5	0	0	0	3	0	1	0
+7	ND6	YP_009643477.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	10	2	14	0	3	1	5	0	7	1	0	0	1	1	0	0	2	0	3	0	1	0	1	0	2	0	0	0	1	0	22	1	27	2	2	1	2	0	13	0	6	0	1	1	4	0	4	0	5	0	2	0	1	0	0	0	5	0	0	1	2	3	1	0
+8	CYTB	YP_009643478.1	Dysdercus evanescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pyrrhocoroidea, Pyrrhocoridae, Dysdercus	23	4	45	0	9	1	7	0	10	5	3	1	11	1	5	0	5	0	15	1	6	0	8	2	6	0	0	0	7	0	41	3	23	1	6	1	10	0	22	1	11	1	3	0	5	0	8	0	9	0	7	3	9	0	7	0	6	1	6	2	13	1	0	1

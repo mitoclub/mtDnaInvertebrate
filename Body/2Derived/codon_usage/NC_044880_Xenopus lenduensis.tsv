@@ -1,65 +1,13 @@
-	YP_009700534.1|ND1	YP_009700535.1|ND2	YP_009700536.1|COX1	YP_009700537.1|COX2	YP_009700538.1|ATP8	YP_009700539.1|ATP6	YP_009700540.1|COX3	YP_009700541.1|ND3	YP_009700542.1|ND4L	YP_009700543.1|ND4	YP_009700544.1|ND5	YP_009700546.1|CYTB
-TTT	12	9	18	5	2	9	10	4	5	11	21	13
-TTC	5	5	22	4	2	3	12	3	2	7	21	19
-TTA	13	18	17	6	4	13	4	6	10	27	26	16
-TTG	0	1	1	0	1	2	3	1	0	5	3	2
-TCT	5	16	9	5	3	3	3	2	2	7	11	5
-TCC	4	2	5	2	0	1	0	2	2	6	8	5
-TCA	15	14	11	8	0	3	8	3	4	22	20	9
-TCG	1	0	0	0	0	0	1	0	0	1	0	3
-TAT	9	2	6	4	0	2	5	2	1	6	3	6
-TAC	3	3	12	4	0	1	7	0	0	5	5	7
-TGT	0	0	1	0	0	0	0	1	2	1	0	0
-TGC	1	2	0	2	0	0	2	0	3	4	6	3
-TGA	7	10	15	5	5	4	11	5	0	15	12	11
-TGG	1	1	2	0	0	0	1	0	1	2	0	3
-CTT	11	13	13	9	2	14	8	8	4	21	22	12
-CTC	7	11	8	1	0	5	4	2	2	6	12	8
-CTA	21	24	18	8	0	20	9	8	4	25	25	17
-CTG	2	1	4	1	0	2	1	3	1	4	1	2
-CCT	5	7	14	3	0	3	2	3	1	6	6	4
-CCC	4	1	3	2	3	2	3	0	0	3	5	2
-CCA	9	10	11	9	5	9	6	5	1	16	13	15
-CCG	2	1	1	0	0	2	1	0	0	0	1	3
-CAT	1	1	8	0	1	0	4	0	0	4	4	5
-CAC	3	5	11	8	0	4	11	0	3	8	9	6
-CAA	7	9	7	6	1	8	8	2	1	8	19	7
-CAG	1	2	1	1	1	0	0	1	0	4	1	0
-CGT	1	1	1	0	0	0	0	0	0	1	0	0
-CGC	0	1	0	2	0	1	0	0	0	2	0	1
-CGA	7	2	7	4	0	3	5	2	2	8	8	7
-CGG	0	0	0	0	0	0	0	0	0	0	2	0
-ATT	14	19	30	14	1	17	10	3	3	19	44	27
-ATC	11	14	9	4	2	8	8	7	1	25	22	9
-ATA	18	16	25	10	0	5	7	1	7	24	25	9
-ATG	4	2	4	5	1	3	3	1	1	7	5	2
-ACT	8	8	13	4	2	5	4	1	2	6	16	3
-ACC	5	11	8	4	2	4	2	5	2	14	13	5
-ACA	9	23	16	7	3	10	14	2	7	20	24	13
-ACG	0	2	2	2	0	0	1	0	0	1	1	1
-AAT	2	3	13	2	1	5	0	0	0	9	16	6
-AAC	9	9	4	7	2	7	3	1	3	8	25	14
-AAA	7	9	8	2	5	2	3	1	1	9	18	8
-AAG	0	1	0	1	0	1	0	0	0	1	1	1
-AGT	0	3	0	1	0	1	0	1	0	3	4	0
-AGC	1	3	4	2	1	3	3	1	1	6	5	2
-GTT	3	3	17	6	1	4	4	0	1	2	6	8
-GTC	2	1	2	2	1	4	5	0	0	2	4	3
-GTA	9	3	16	8	0	3	8	0	1	3	12	7
-GTG	0	0	3	0	0	1	1	0	0	0	0	1
-GCT	4	6	18	2	0	3	3	4	3	9	10	7
-GCC	10	9	9	8	0	5	8	5	4	12	13	11
-GCA	14	7	17	5	0	8	10	3	1	10	24	10
-GCG	0	0	1	0	0	0	0	1	0	0	1	0
-GAT	3	1	9	4	0	0	2	3	1	1	8	4
-GAC	2	0	6	8	0	1	3	0	0	1	5	7
-GAA	8	4	10	11	2	3	8	5	1	9	7	5
-GAG	3	1	1	3	0	1	1	1	1	3	2	0
-GGT	5	3	8	3	0	3	2	2	2	6	3	4
-GGC	5	2	8	0	1	2	7	2	0	3	11	4
-GGA	6	6	24	4	0	4	11	0	3	7	10	11
-GGG	3	4	7	1	0	0	1	1	1	4	6	7
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009700534.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	12	5	13	0	5	4	15	1	9	3	0	1	7	1	11	7	21	2	5	4	9	2	1	3	7	1	1	0	7	0	14	11	18	4	8	5	9	0	2	9	7	0	0	1	3	2	9	0	4	10	14	0	3	2	8	3	5	5	6	3	0	0	0	0
+1	ND2	YP_009700535.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	9	5	18	1	16	2	14	0	2	3	0	2	10	1	13	11	24	1	7	1	10	1	1	5	9	2	1	1	2	0	19	14	16	2	8	11	23	2	3	9	9	1	3	3	3	1	3	0	6	9	7	0	1	0	4	1	3	2	6	4	0	0	0	0
+2	COX1	YP_009700536.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	18	22	17	1	9	5	11	0	6	12	1	0	15	2	13	8	18	4	14	3	11	1	8	11	7	1	1	0	7	0	30	9	25	4	13	8	16	2	13	4	8	0	0	4	17	2	16	3	18	9	17	1	9	6	10	1	8	8	24	7	1	0	0	0
+3	COX2	YP_009700537.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	5	4	6	0	5	2	8	0	4	4	0	2	5	0	9	1	8	1	3	2	9	0	0	8	6	1	0	2	4	0	14	4	10	5	4	4	7	2	2	7	2	1	1	2	6	2	8	0	2	8	5	0	4	8	11	3	3	0	4	1	0	0	0	0
+4	ATP8	YP_009700538.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	2	2	4	1	3	0	0	0	0	0	0	0	5	0	2	0	0	0	0	3	5	0	1	0	1	1	0	0	0	0	1	2	0	1	2	2	3	0	1	2	5	0	0	1	1	1	0	0	0	0	0	0	0	0	2	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009700539.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	9	3	13	2	3	1	3	0	2	1	0	0	4	0	14	5	20	2	3	2	9	2	0	4	8	0	0	1	3	0	17	8	5	3	5	4	10	0	5	7	2	1	1	3	4	4	3	1	3	5	8	0	0	1	3	1	3	2	4	0	1	0	0	0
+6	COX3	YP_009700540.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	10	12	4	3	3	0	8	1	5	7	0	2	11	1	8	4	9	1	2	3	6	1	4	11	8	0	0	0	5	0	10	8	7	3	4	2	14	1	0	3	3	0	0	3	4	5	8	1	3	8	10	0	2	3	8	1	2	7	11	1	0	0	0	0
+7	ND3	YP_009700541.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	4	3	6	1	2	2	3	0	2	0	1	0	5	0	8	2	8	3	3	0	5	0	0	0	2	1	0	0	2	0	3	7	1	1	1	5	2	0	0	1	1	0	1	1	0	0	0	0	4	5	3	1	3	0	5	1	2	2	0	1	0	0	0	0
+8	ND4L	YP_009700542.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	5	2	10	0	2	2	4	0	1	0	2	3	0	1	4	2	4	1	1	0	1	0	0	3	1	0	0	0	2	0	3	1	7	1	2	2	7	0	0	3	1	0	0	1	1	0	1	0	3	4	1	0	1	0	1	1	2	0	3	1	1	0	0	0
+9	ND4	YP_009700543.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	11	7	27	5	7	6	22	1	6	5	1	4	15	2	21	6	25	4	6	3	16	0	4	8	8	4	1	2	8	0	19	25	24	7	6	14	20	1	9	8	9	1	3	6	2	2	3	0	9	12	10	0	1	1	9	3	6	3	7	4	0	0	0	0
+10	ND5	YP_009700544.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	21	21	26	3	11	8	20	0	3	5	0	6	12	0	22	12	25	1	6	5	13	1	4	9	19	1	0	0	8	2	44	22	25	5	16	13	24	1	16	25	18	1	4	5	6	4	12	0	10	13	24	1	8	5	7	2	3	11	10	6	1	0	0	0
+11	CYTB	YP_009700546.1	Xenopus lenduensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Pipoidea, Pipidae, Xenopodinae, Xenopus, Xenopus	13	19	16	2	5	5	9	3	6	7	0	3	11	3	12	8	17	2	4	2	15	3	5	6	7	0	0	1	7	0	27	9	9	2	3	5	13	1	6	14	8	1	0	2	8	3	7	1	7	11	10	0	4	7	5	0	4	4	11	7	0	0	0	0

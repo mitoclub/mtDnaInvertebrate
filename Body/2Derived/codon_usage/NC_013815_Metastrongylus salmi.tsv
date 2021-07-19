@@ -1,65 +1,10 @@
-	YP_003433826.1|COX1	YP_003433827.1|COX2	YP_003433829.1|ND5	YP_003433830.1|ND6	YP_003433831.1|ND4L	YP_003433833.1|ATP6	YP_003433835.1|CYTB	YP_003433836.1|COX3	YP_003433837.1|ND4
-TTT	45	23	95	27	18	30	49	42	72
-TTC	1	0	0	1	0	0	1	0	3
-TTA	26	12	39	7	4	16	20	14	38
-TTG	49	20	51	15	5	21	40	21	35
-TCT	22	9	15	5	3	5	7	7	20
-TCC	1	0	0	0	0	1	0	0	0
-TCA	1	1	4	1	0	4	2	2	8
-TCG	2	1	1	0	0	1	2	0	2
-TAT	29	13	25	12	2	14	25	15	19
-TAC	0	0	0	0	0	1	0	0	1
-TGT	7	9	10	4	4	4	6	3	6
-TGC	0	1	0	0	0	0	0	2	0
-TGA	5	2	2	0	0	0	7	1	3
-TGG	8	3	4	2	0	1	5	7	3
-CTT	3	0	0	1	1	0	2	2	3
-CTC	0	0	0	0	0	0	0	0	1
-CTA	2	1	0	1	0	1	1	0	2
-CTG	0	0	1	0	0	0	1	1	1
-CCT	13	7	5	2	0	0	9	3	5
-CCC	0	0	0	0	0	0	0	0	1
-CCA	2	0	1	1	0	1	0	0	2
-CCG	4	0	1	0	0	0	1	0	0
-CAT	15	4	4	0	1	2	7	10	5
-CAC	1	0	0	0	0	0	0	0	1
-CAA	5	0	5	0	0	1	2	0	2
-CAG	1	6	2	0	0	0	2	1	0
-CGT	6	3	2	1	1	3	2	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	0	0	0	0	0	0	0	3
-CGG	0	0	1	0	0	0	1	0	0
-ATT	32	14	25	8	9	15	27	10	23
-ATC	0	0	0	0	0	0	0	1	2
-ATA	4	3	13	4	1	2	6	4	14
-ATG	21	8	20	4	5	8	6	4	15
-ACT	19	5	10	3	0	7	9	7	5
-ACC	0	0	0	0	0	0	0	0	0
-ACA	3	1	1	0	0	0	0	1	1
-ACG	1	0	4	0	0	0	0	0	1
-AAT	21	10	19	5	0	4	13	10	15
-AAC	0	1	1	1	0	0	0	0	0
-AAA	4	1	4	1	2	2	3	2	5
-AAG	8	5	14	2	1	3	9	5	4
-AGT	18	9	22	6	4	7	8	8	13
-AGC	0	0	3	0	0	0	1	1	1
-AGA	7	3	10	1	1	2	7	2	8
-AGG	7	2	13	2	1	2	4	2	5
-GTT	28	9	27	14	3	12	15	14	11
-GTC	1	0	0	0	0	0	1	0	3
-GTA	8	4	8	0	1	1	15	4	5
-GTG	4	1	8	2	3	4	6	7	4
-GCT	16	3	7	0	0	1	11	7	6
-GCC	1	0	0	1	0	0	0	0	3
-GCA	1	0	2	0	0	1	1	1	0
-GCG	1	1	1	0	0	0	1	0	0
-GAT	16	10	11	1	1	3	8	6	4
-GAC	0	0	1	0	0	0	1	0	0
-GAA	4	4	5	0	0	2	2	3	4
-GAG	3	8	4	0	1	6	3	3	4
-GGT	31	6	20	7	2	6	17	11	12
-GGC	0	0	0	0	0	0	1	2	0
-GGA	6	1	3	2	1	2	0	4	2
-GGG	10	7	3	1	2	2	3	5	3
-TAA	0	0	1	0	1	1	1	1	0
-TAG	1	1	0	1	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_003433826.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	45	1	26	49	22	1	1	2	29	0	7	0	5	8	3	0	2	0	13	0	2	4	15	1	5	1	6	0	1	0	32	0	4	21	19	0	3	1	21	0	4	8	18	0	7	7	28	1	8	4	16	1	1	1	16	0	4	3	31	0	6	10	0	1
+1	COX2	YP_003433827.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	23	0	12	20	9	0	1	1	13	0	9	1	2	3	0	0	1	0	7	0	0	0	4	0	0	6	3	0	0	0	14	0	3	8	5	0	1	0	10	1	1	5	9	0	3	2	9	0	4	1	3	0	0	1	10	0	4	8	6	0	1	7	0	1
+2	ND5	YP_003433829.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	95	0	39	51	15	0	4	1	25	0	10	0	2	4	0	0	0	1	5	0	1	1	4	0	5	2	2	0	0	1	25	0	13	20	10	0	1	4	19	1	4	14	22	3	10	13	27	0	8	8	7	0	2	1	11	1	5	4	20	0	3	3	1	0
+3	ND6	YP_003433830.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	27	1	7	15	5	0	1	0	12	0	4	0	0	2	1	0	1	0	2	0	1	0	0	0	0	0	1	0	0	0	8	0	4	4	3	0	0	0	5	1	1	2	6	0	1	2	14	0	0	2	0	1	0	0	1	0	0	0	7	0	2	1	0	1
+4	ND4L	YP_003433831.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	18	0	4	5	3	0	0	0	2	0	4	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	9	0	1	5	0	0	0	0	0	0	2	1	4	0	1	1	3	0	1	3	0	0	0	0	1	0	0	1	2	0	1	2	1	0
+5	ATP6	YP_003433833.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	30	0	16	21	5	1	4	1	14	1	4	0	0	1	0	0	1	0	0	0	1	0	2	0	1	0	3	0	0	0	15	0	2	8	7	0	0	0	4	0	2	3	7	0	2	2	12	0	1	4	1	0	1	0	3	0	2	6	6	0	2	2	1	0
+6	CYTB	YP_003433835.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	49	1	20	40	7	0	2	2	25	0	6	0	7	5	2	0	1	1	9	0	0	1	7	0	2	2	2	0	0	1	27	0	6	6	9	0	0	0	13	0	3	9	8	1	7	4	15	1	15	6	11	0	1	1	8	1	2	3	17	1	0	3	1	0
+7	COX3	YP_003433836.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	42	0	14	21	7	0	2	0	15	0	3	2	1	7	2	0	0	1	3	0	0	0	10	0	0	1	1	0	0	0	10	1	4	4	7	0	1	0	10	0	2	5	8	1	2	2	14	0	4	7	7	0	1	0	6	0	3	3	11	2	4	5	1	0
+8	ND4	YP_003433837.1	Metastrongylus salmi	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Metastrongyloidea, Metastrongylidae, Metastrongylus	72	3	38	35	20	0	8	2	19	1	6	0	3	3	3	1	2	1	5	1	2	0	5	1	2	0	0	0	3	0	23	2	14	15	5	0	1	1	15	0	5	4	13	1	8	5	11	3	5	4	6	3	0	0	4	0	4	4	12	0	2	3	0	1

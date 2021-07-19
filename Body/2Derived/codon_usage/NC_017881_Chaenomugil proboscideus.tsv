@@ -1,65 +1,13 @@
-	YP_006303301.1|ND1	YP_006303302.1|ND2	YP_006303303.1|COX1	YP_006303304.1|COX2	YP_006303305.1|ATP8	YP_006303306.1|ATP6	YP_006303307.1|COX3	YP_006303308.1|ND3	YP_006303309.1|ND4L	YP_006303310.1|ND4	YP_006303311.1|ND5	YP_006303313.1|CYTB
-TTT	11	7	15	2	1	7	10	4	2	13	18	11
-TTC	8	5	25	8	4	7	14	4	5	3	25	18
-TTA	13	14	10	5	1	9	5	4	1	11	16	11
-TTG	4	3	3	2	2	0	0	0	0	3	4	1
-TCT	4	4	12	6	0	0	1	7	1	2	10	5
-TCC	6	10	8	4	1	4	6	1	4	9	17	7
-TCA	9	5	8	3	0	2	3	1	3	8	8	8
-TCG	0	0	0	0	0	0	1	0	0	3	0	1
-TAT	6	1	10	5	0	2	5	2	0	5	5	3
-TAC	6	7	10	4	0	1	7	1	0	8	6	12
-TGT	0	0	0	0	0	0	1	1	1	0	1	0
-TGC	0	0	1	2	0	0	1	1	2	4	5	4
-TGA	7	10	15	4	5	5	10	4	1	14	9	13
-TGG	1	1	3	1	0	0	2	1	0	4	5	0
-CTT	18	23	16	8	1	17	6	11	4	26	18	18
-CTC	14	22	13	5	1	11	7	8	3	28	29	14
-CTA	10	12	18	8	1	18	11	2	12	23	32	14
-CTG	5	4	6	1	0	2	2	2	3	5	4	3
-CCT	6	8	15	5	3	4	6	3	2	10	11	3
-CCC	12	9	7	3	2	7	4	5	0	10	18	9
-CCA	4	6	7	4	4	4	2	1	0	3	1	9
-CCG	0	0	1	2	1	1	0	0	0	1	1	1
-CAT	1	3	8	2	0	3	6	0	1	3	8	3
-CAC	1	6	11	7	2	1	11	0	2	9	10	9
-CAA	6	10	5	7	1	8	6	2	2	11	17	4
-CAG	1	3	3	1	1	2	2	1	0	0	1	1
-CGT	0	0	0	2	0	0	0	0	1	1	2	2
-CGC	0	1	2	3	0	2	0	1	0	5	1	1
-CGA	7	3	6	1	0	2	4	1	2	5	6	5
-CGG	1	0	0	0	0	1	1	0	0	0	0	0
-ATT	11	17	29	14	1	10	9	4	2	22	38	16
-ATC	10	9	10	6	1	8	5	6	2	14	17	15
-ATA	8	10	11	8	0	5	5	2	4	20	17	7
-ATG	3	3	15	4	1	3	3	2	1	5	5	3
-ACT	6	10	10	2	1	3	5	1	2	5	4	1
-ACC	10	9	9	3	4	6	10	3	5	20	25	7
-ACA	5	22	15	4	2	13	9	2	1	10	20	10
-ACG	2	1	1	1	0	0	0	0	0	3	3	0
-AAT	7	6	8	4	2	4	1	1	0	6	11	5
-AAC	3	3	7	1	1	6	1	1	3	7	18	13
-AAA	7	8	8	3	3	1	2	1	1	10	19	7
-AAG	0	1	1	0	0	1	0	0	0	0	1	2
-AGT	1	1	0	0	0	0	0	0	0	1	2	0
-AGC	3	2	5	4	0	4	3	0	3	8	11	2
-GTT	8	2	11	6	2	3	3	2	1	3	10	6
-GTC	6	3	13	3	0	2	7	0	0	8	8	7
-GTA	4	1	15	6	1	4	5	0	0	3	10	14
-GTG	2	1	4	3	0	2	3	1	0	0	0	0
-GCT	3	8	12	4	1	6	3	1	1	9	9	4
-GCC	19	15	18	4	1	8	8	3	7	21	26	11
-GCA	9	13	11	9	0	3	9	2	5	14	11	17
-GCG	2	1	4	0	0	0	1	0	0	1	4	0
-GAT	0	1	7	2	0	0	1	1	1	1	3	3
-GAC	4	1	8	11	0	1	4	3	0	4	12	10
-GAA	8	4	12	13	2	4	8	5	1	7	11	4
-GAG	2	1	2	1	1	0	1	1	1	5	2	1
-GGT	1	1	8	5	0	2	5	1	2	7	10	5
-GGC	5	8	11	1	0	4	10	2	1	10	11	11
-GGA	9	5	19	3	0	3	5	2	2	6	9	8
-GGG	3	4	9	0	0	1	1	1	0	3	0	0
-TAA	1	0	1	0	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006303301.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	11	8	13	4	4	6	9	0	6	6	0	0	7	1	18	14	10	5	6	12	4	0	1	1	6	1	0	0	7	1	11	10	8	3	6	10	5	2	7	3	7	0	1	3	8	6	4	2	3	19	9	2	0	4	8	2	1	5	9	3	1	0	0	0
+1	ND2	YP_006303302.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	7	5	14	3	4	10	5	0	1	7	0	0	10	1	23	22	12	4	8	9	6	0	3	6	10	3	0	1	3	0	17	9	10	3	10	9	22	1	6	3	8	1	1	2	2	3	1	1	8	15	13	1	1	1	4	1	1	8	5	4	0	0	0	0
+2	COX1	YP_006303303.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	15	25	10	3	12	8	8	0	10	10	0	1	15	3	16	13	18	6	15	7	7	1	8	11	5	3	0	2	6	0	29	10	11	15	10	9	15	1	8	7	8	1	0	5	11	13	15	4	12	18	11	4	7	8	12	2	8	11	19	9	1	0	0	0
+3	COX2	YP_006303304.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	2	8	5	2	6	4	3	0	5	4	0	2	4	1	8	5	8	1	5	3	4	2	2	7	7	1	2	3	1	0	14	6	8	4	2	3	4	1	4	1	3	0	0	4	6	3	6	3	4	4	9	0	2	11	13	1	5	1	3	0	0	0	0	0
+4	ATP8	YP_006303305.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	1	4	1	2	0	1	0	0	0	0	0	0	5	0	1	1	1	0	3	2	4	1	0	2	1	1	0	0	0	0	1	1	0	1	1	4	2	0	2	1	3	0	0	0	2	0	1	0	1	1	0	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_006303306.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	7	7	9	0	0	4	2	0	2	1	0	0	5	0	17	11	18	2	4	7	4	1	3	1	8	2	0	2	2	1	10	8	5	3	3	6	13	0	4	6	1	1	0	4	3	2	4	2	6	8	3	0	0	1	4	0	2	4	3	1	1	0	0	0
+6	COX3	YP_006303307.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	10	14	5	0	1	6	3	1	5	7	1	1	10	2	6	7	11	2	6	4	2	0	6	11	6	2	0	0	4	1	9	5	5	3	5	10	9	0	1	1	2	0	0	3	3	7	5	3	3	8	9	1	1	4	8	1	5	10	5	1	0	0	0	0
+7	ND3	YP_006303308.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	4	4	4	0	7	1	1	0	2	1	1	1	4	1	11	8	2	2	3	5	1	0	0	0	2	1	0	1	1	0	4	6	2	2	1	3	2	0	1	1	1	0	0	0	2	0	0	1	1	3	2	0	1	3	5	1	1	2	2	1	0	0	0	0
+8	ND4L	YP_006303309.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	2	5	1	0	1	4	3	0	0	0	1	2	1	0	4	3	12	3	2	0	0	0	1	2	2	0	1	0	2	0	2	2	4	1	2	5	1	0	0	3	1	0	0	3	1	0	0	0	1	7	5	0	1	0	1	1	2	1	2	0	1	0	0	0
+9	ND4	YP_006303310.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	13	3	11	3	2	9	8	3	5	8	0	4	14	4	26	28	23	5	10	10	3	1	3	9	11	0	1	5	5	0	22	14	20	5	5	20	10	3	6	7	10	0	1	8	3	8	3	0	9	21	14	1	1	4	7	5	7	10	6	3	0	0	0	0
+10	ND5	YP_006303311.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	18	25	16	4	10	17	8	0	5	6	1	5	9	5	18	29	32	4	11	18	1	1	8	10	17	1	2	1	6	0	38	17	17	5	4	25	20	3	11	18	19	1	2	11	10	8	10	0	9	26	11	4	3	12	11	2	10	11	9	0	0	1	0	0
+11	CYTB	YP_006303313.1	Chaenomugil proboscideus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Mugilomorphae, Mugilidae, Chaenomugil	11	18	11	1	5	7	8	1	3	12	0	4	13	0	18	14	14	3	3	9	9	1	3	9	4	1	2	1	5	0	16	15	7	3	1	7	10	0	5	13	7	2	0	2	6	7	14	0	4	11	17	0	3	10	4	1	5	11	8	0	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_009754854.1|ND1	YP_009754855.1|ND2	YP_009754856.1|COX1	YP_009754857.1|COX2	YP_009754858.1|ATP8	YP_009754859.1|ATP6	YP_009754860.1|COX3	YP_009754861.1|ND3	YP_009754862.1|ND4L	YP_009754863.1|ND4	YP_009754864.1|ND5	YP_009754866.1|CYTB
-TTT	10	7	17	3	1	3	6	2	2	5	15	10
-TTC	7	6	25	4	0	9	18	5	1	12	29	16
-TTA	12	11	7	4	1	7	3	2	3	13	11	4
-TTG	0	2	2	2	0	1	1	1	1	3	0	2
-TCT	4	0	7	3	1	4	2	1	3	2	7	4
-TCC	3	12	7	6	0	3	7	4	1	7	10	7
-TCA	10	14	14	3	6	4	6	3	4	18	16	10
-TCG	2	0	2	2	0	0	0	0	1	2	3	0
-TAT	4	7	11	5	4	0	4	2	1	4	7	5
-TAC	8	3	8	6	0	2	7	2	2	13	12	9
-TGT	1	0	0	1	0	0	1	0	2	3	1	0
-TGC	0	0	1	1	0	0	1	1	1	2	3	4
-TGA	8	8	16	3	3	3	11	4	0	11	12	12
-TGG	1	2	1	2	0	0	1	0	0	1	0	0
-CTT	5	8	9	3	2	8	2	4	3	8	18	8
-CTC	11	5	9	7	2	9	7	8	4	12	22	16
-CTA	29	34	26	17	3	16	23	9	11	48	36	33
-CTG	0	1	10	1	1	3	1	2	2	7	9	1
-CCT	3	3	6	1	3	3	3	0	1	1	4	4
-CCC	7	8	7	2	1	3	3	2	0	8	8	8
-CCA	12	8	15	10	2	6	6	4	0	10	12	11
-CCG	1	1	1	0	0	0	0	0	0	1	2	0
-CAT	1	1	3	4	1	2	3	0	1	2	2	6
-CAC	3	3	15	3	1	7	13	1	2	8	8	7
-CAA	6	9	5	5	3	8	6	2	2	11	21	7
-CAG	0	0	1	2	0	0	1	0	0	0	0	0
-CGT	1	0	2	1	0	0	0	0	0	0	0	1
-CGC	1	1	0	1	0	0	1	1	1	2	3	1
-CGA	6	2	5	3	1	4	3	0	0	6	6	4
-CGG	0	0	1	1	0	0	1	0	0	2	0	2
-ATT	16	17	20	10	6	16	3	3	2	30	21	12
-ATC	11	15	17	7	1	12	8	3	3	17	32	26
-ATA	13	27	22	12	1	11	6	8	8	28	34	12
-ATG	6	6	7	4	2	3	3	0	2	5	2	6
-ACT	2	8	10	3	2	4	4	1	4	10	12	3
-ACC	11	12	8	6	2	8	8	1	0	13	18	9
-ACA	7	24	16	9	5	9	10	4	2	15	27	8
-ACG	0	1	2	1	1	2	0	0	0	2	2	1
-AAT	6	5	8	1	0	3	2	1	1	9	14	4
-AAC	6	12	10	5	1	8	4	5	4	12	21	11
-AAA	7	13	8	5	5	4	3	3	0	9	21	8
-AAG	0	1	1	0	0	0	1	0	0	2	4	0
-AGT	1	0	0	1	0	0	2	0	1	2	3	1
-AGC	2	3	3	3	0	4	1	2	0	11	9	3
-GTT	2	2	5	2	1	1	4	0	0	1	4	4
-GTC	6	3	10	2	0	2	2	0	1	5	2	6
-GTA	7	4	20	8	0	2	9	3	5	6	14	5
-GTG	1	1	2	1	0	2	1	0	1	1	0	1
-GCT	1	1	8	1	0	2	4	4	1	6	5	1
-GCC	19	11	16	0	0	6	10	4	4	12	16	12
-GCA	11	5	17	6	1	7	1	2	2	11	15	11
-GCG	1	0	0	1	0	0	0	0	1	0	3	0
-GAT	1	0	5	2	0	0	0	1	0	1	1	2
-GAC	2	1	9	9	1	1	4	1	1	2	8	10
-GAA	8	4	9	8	1	3	7	5	2	9	12	4
-GAG	3	1	1	6	1	0	1	1	0	0	0	2
-GGT	0	4	5	1	0	2	5	0	0	5	5	1
-GGC	4	2	11	5	0	1	8	2	2	6	9	9
-GGA	6	5	25	2	0	6	8	1	1	6	11	14
-GGG	2	3	6	0	0	2	1	0	1	1	3	1
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009754854.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	10	7	12	0	4	3	10	2	4	8	1	0	8	1	5	11	29	0	3	7	12	1	1	3	6	0	1	1	6	0	16	11	13	6	2	11	7	0	6	6	7	0	1	2	2	6	7	1	1	19	11	1	1	2	8	3	0	4	6	2	0	0	0	0
+1	ND2	YP_009754855.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	7	6	11	2	0	12	14	0	7	3	0	0	8	2	8	5	34	1	3	8	8	1	1	3	9	0	0	1	2	0	17	15	27	6	8	12	24	1	5	12	13	1	0	3	2	3	4	1	1	11	5	0	0	1	4	1	4	2	5	3	0	0	0	0
+2	COX1	YP_009754856.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	17	25	7	2	7	7	14	2	11	8	0	1	16	1	9	9	26	10	6	7	15	1	3	15	5	1	2	0	5	1	20	17	22	7	10	8	16	2	8	10	8	1	0	3	5	10	20	2	8	16	17	0	5	9	9	1	5	11	25	6	1	0	0	0
+3	COX2	YP_009754857.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	3	4	4	2	3	6	3	2	5	6	1	1	3	2	3	7	17	1	1	2	10	0	4	3	5	2	1	1	3	1	10	7	12	4	3	6	9	1	1	5	5	0	1	3	2	2	8	1	1	0	6	1	2	9	8	6	1	5	2	0	1	0	0	0
+4	ATP8	YP_009754858.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	1	0	1	0	1	0	6	0	4	0	0	0	3	0	2	2	3	1	3	1	2	0	1	1	3	0	0	0	1	0	6	1	1	2	2	2	5	1	0	1	5	0	0	0	1	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009754859.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	3	9	7	1	4	3	4	0	0	2	0	0	3	0	8	9	16	3	3	3	6	0	2	7	8	0	0	0	4	0	16	12	11	3	4	8	9	2	3	8	4	0	0	4	1	2	2	2	2	6	7	0	0	1	3	0	2	1	6	2	1	0	0	0
+6	COX3	YP_009754860.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	6	18	3	1	2	7	6	0	4	7	1	1	11	1	2	7	23	1	3	3	6	0	3	13	6	1	0	1	3	1	3	8	6	3	4	8	10	0	2	4	3	1	2	1	4	2	9	1	4	10	1	0	0	4	7	1	5	8	8	1	0	0	0	0
+7	ND3	YP_009754861.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	2	5	2	1	1	4	3	0	2	2	0	1	4	0	4	8	9	2	0	2	4	0	0	1	2	0	0	1	0	0	3	3	8	0	1	1	4	0	1	5	3	0	0	2	0	0	3	0	4	4	2	0	1	1	5	1	0	2	1	0	1	0	0	0
+8	ND4L	YP_009754862.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	2	1	3	1	3	1	4	1	1	2	2	1	0	0	3	4	11	2	1	0	0	0	1	2	2	0	0	1	0	0	2	3	8	2	4	0	2	0	1	4	0	0	1	0	0	1	5	1	1	4	2	1	0	1	2	0	0	2	1	1	1	0	0	0
+9	ND4	YP_009754863.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	5	12	13	3	2	7	18	2	4	13	3	2	11	1	8	12	48	7	1	8	10	1	2	8	11	0	0	2	6	2	30	17	28	5	10	13	15	2	9	12	9	2	2	11	1	5	6	1	6	12	11	0	1	2	9	0	5	6	6	1	0	0	0	0
+10	ND5	YP_009754864.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	15	29	11	0	7	10	16	3	7	12	1	3	12	0	18	22	36	9	4	8	12	2	2	8	21	0	0	3	6	0	21	32	34	2	12	18	27	2	14	21	21	4	3	9	4	2	14	0	5	16	15	3	1	8	12	0	5	9	11	3	1	0	0	0
+11	CYTB	YP_009754866.1	Nanonycteris veldkampii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Megachiroptera, Pteropodidae, Nanonycteris	10	16	4	2	4	7	10	0	5	9	0	4	12	0	8	16	33	1	4	8	11	0	6	7	7	0	1	1	4	2	12	26	12	6	3	9	8	1	4	11	8	0	1	3	4	6	5	1	1	12	11	0	2	10	4	2	1	9	14	1	0	0	0	1

@@ -1,65 +1,10 @@
-	YP_308856.1|ND2	YP_308857.1|COX1	YP_308858.1|COX2	YP_308859.1|ATP8	YP_308860.1|ATP6	YP_308861.1|COX3	YP_308862.1|ND3	YP_308866.1|ND6	YP_308867.1|CYTB
-TTT	33	33	13	10	14	22	8	15	31
-TTC	8	10	2	3	2	4	3	5	10
-TTA	33	36	17	3	25	16	9	21	29
-TTG	1	2	0	0	2	0	0	0	1
-TCT	19	12	7	4	7	6	9	7	8
-TCC	7	9	0	1	1	4	1	1	3
-TCA	12	11	9	0	11	6	4	11	10
-TCG	1	0	0	0	0	0	0	1	0
-TAT	5	13	7	1	4	10	1	6	12
-TAC	5	5	3	0	1	2	2	0	3
-TGT	1	0	1	0	0	2	1	0	2
-TGC	1	0	1	0	0	0	0	0	1
-TGA	6	12	6	2	6	13	2	3	10
-TGG	1	3	0	0	0	0	1	0	2
-CTT	18	14	10	6	11	9	6	4	13
-CTC	5	3	1	2	1	1	2	1	3
-CTA	8	4	1	1	3	4	3	5	6
-CTG	0	0	0	0	0	1	1	1	1
-CCT	8	13	6	2	5	6	3	3	17
-CCC	5	6	0	1	4	2	0	1	2
-CCA	4	7	3	1	2	2	1	2	4
-CCG	0	0	1	0	1	0	0	0	0
-CAT	1	9	6	0	4	12	1	3	9
-CAC	2	9	2	0	2	1	0	1	4
-CAA	8	8	6	1	5	7	1	1	7
-CAG	2	0	1	0	0	1	0	0	0
-CGT	1	1	2	0	2	2	0	0	4
-CGC	0	1	1	0	0	2	0	0	0
-CGA	1	7	4	0	1	1	3	2	4
-CGG	0	0	0	0	0	0	0	0	0
-ATT	37	35	27	1	23	14	14	22	39
-ATC	7	14	5	1	3	8	5	1	5
-ATA	17	31	9	3	12	7	3	9	11
-ATG	1	3	2	1	1	2	0	0	1
-ACT	9	17	5	0	8	11	2	6	10
-ACC	2	6	3	1	3	0	1	1	2
-ACA	2	7	4	0	4	11	1	3	7
-ACG	0	0	0	0	0	1	0	0	1
-AAT	11	9	9	1	7	6	2	6	10
-AAC	6	9	3	0	3	2	1	2	5
-AAA	9	7	2	4	2	1	5	2	9
-AAG	0	0	0	1	1	0	0	0	0
-AGT	3	5	0	1	2	1	0	1	2
-AGC	1	0	0	0	0	0	0	0	0
-AGA	4	7	4	0	7	5	1	1	4
-AGG	0	0	1	0	0	1	0	0	0
-GTT	2	10	1	0	2	6	2	2	6
-GTC	0	1	0	0	0	0	0	0	1
-GTA	2	17	7	0	6	7	0	3	14
-GTG	0	2	1	0	1	0	0	0	0
-GCT	5	18	1	0	3	11	1	2	11
-GCC	3	9	1	0	1	3	0	2	3
-GCA	2	8	7	0	6	3	2	1	7
-GCG	1	0	0	0	0	0	0	0	1
-GAT	1	11	7	0	0	4	1	0	6
-GAC	1	4	2	0	0	0	2	1	3
-GAA	2	7	7	0	4	6	4	2	2
-GAG	0	1	3	0	1	1	1	0	0
-GGT	1	12	3	0	5	5	0	1	2
-GGC	0	8	2	0	2	4	0	0	5
-GGA	9	22	2	0	0	6	4	3	11
-GGG	1	4	1	0	2	2	0	1	4
-TAA	1	1	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_308856.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	33	8	33	1	19	7	12	1	5	5	1	1	6	1	18	5	8	0	8	5	4	0	1	2	8	2	1	0	1	0	37	7	17	1	9	2	2	0	11	6	9	0	3	1	4	0	2	0	2	0	5	3	2	1	1	1	2	0	1	0	9	1	1	0
+1	COX1	YP_308857.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	33	10	36	2	12	9	11	0	13	5	0	0	12	3	14	3	4	0	13	6	7	0	9	9	8	0	1	1	7	0	35	14	31	3	17	6	7	0	9	9	7	0	5	0	7	0	10	1	17	2	18	9	8	0	11	4	7	1	12	8	22	4	1	0
+2	COX2	YP_308858.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	13	2	17	0	7	0	9	0	7	3	1	1	6	0	10	1	1	0	6	0	3	1	6	2	6	1	2	1	4	0	27	5	9	2	5	3	4	0	9	3	2	0	0	0	4	1	1	0	7	1	1	1	7	0	7	2	7	3	3	2	2	1	0	0
+3	ATP8	YP_308859.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	10	3	3	0	4	1	0	0	1	0	0	0	2	0	6	2	1	0	2	1	1	0	0	0	1	0	0	0	0	0	1	1	3	1	0	1	0	0	1	0	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_308860.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	14	2	25	2	7	1	11	0	4	1	0	0	6	0	11	1	3	0	5	4	2	1	4	2	5	0	2	0	1	0	23	3	12	1	8	3	4	0	7	3	2	1	2	0	7	0	2	0	6	1	3	1	6	0	0	0	4	1	5	2	0	2	1	0
+5	COX3	YP_308861.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	22	4	16	0	6	4	6	0	10	2	2	0	13	0	9	1	4	1	6	2	2	0	12	1	7	1	2	2	1	0	14	8	7	2	11	0	11	1	6	2	1	0	1	0	5	1	6	0	7	0	11	3	3	0	4	0	6	1	5	4	6	2	1	0
+6	ND3	YP_308862.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	8	3	9	0	9	1	4	0	1	2	1	0	2	1	6	2	3	1	3	0	1	0	1	0	1	0	0	0	3	0	14	5	3	0	2	1	1	0	2	1	5	0	0	0	1	0	2	0	0	0	1	0	2	0	1	2	4	1	0	0	4	0	0	1
+7	ND6	YP_308866.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	15	5	21	0	7	1	11	1	6	0	0	0	3	0	4	1	5	1	3	1	2	0	3	1	1	0	0	0	2	0	22	1	9	0	6	1	3	0	6	2	2	0	1	0	1	0	2	0	3	0	2	2	1	0	0	1	2	0	1	0	3	1	1	0
+8	CYTB	YP_308867.1	Geothelphusa dehaani	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Potamoidea, Potamidae, Geothelphusa	31	10	29	1	8	3	10	0	12	3	2	1	10	2	13	3	6	1	17	2	4	0	9	4	7	0	4	0	4	0	39	5	11	1	10	2	7	1	10	5	9	0	2	0	4	0	6	1	14	0	11	3	7	1	6	3	2	0	2	5	11	4	0	0

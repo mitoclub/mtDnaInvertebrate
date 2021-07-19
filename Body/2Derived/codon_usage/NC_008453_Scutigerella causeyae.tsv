@@ -1,65 +1,8 @@
-	YP_784034.1|COX1	YP_784035.1|COX2	YP_784036.1|ATP8	YP_784037.1|ATP6	YP_784039.1|ND3	YP_784043.1|ND6	YP_784044.1|CYTB
-TTT	33	13	6	18	11	15	27
-TTC	8	4	1	3	6	5	11
-TTA	19	15	5	21	13	12	24
-TTG	2	1	2	0	1	2	1
-TCT	18	7	1	6	5	7	9
-TCC	5	3	1	4	2	3	7
-TCA	14	10	1	11	6	5	13
-TCG	0	0	0	1	0	2	1
-TAT	14	6	0	3	1	1	10
-TAC	3	2	0	1	0	4	3
-TGT	1	2	0	3	1	0	2
-TGC	0	2	0	0	0	0	1
-TGA	15	5	3	3	3	1	11
-TGG	1	0	0	0	0	0	2
-CTT	20	5	1	10	5	5	9
-CTC	4	2	0	0	0	0	2
-CTA	12	5	2	7	1	7	8
-CTG	2	0	0	1	0	0	0
-CCT	8	2	1	9	5	3	10
-CCC	6	1	1	0	0	1	1
-CCA	11	5	2	3	2	3	10
-CCG	2	1	0	0	0	0	0
-CAT	14	5	1	5	0	1	8
-CAC	6	0	0	1	1	0	3
-CAA	8	2	2	4	2	0	7
-CAG	0	3	0	0	0	0	0
-CGT	1	2	0	0	1	0	2
-CGC	0	0	0	0	0	0	0
-CGA	9	3	0	3	0	1	6
-CGG	0	1	0	0	0	0	0
-ATT	40	20	5	20	16	16	43
-ATC	5	4	1	3	2	3	8
-ATA	29	7	3	14	2	10	15
-ATG	1	2	0	1	0	0	1
-ACT	13	8	0	7	3	5	5
-ACC	4	2	0	0	1	0	4
-ACA	14	6	5	4	2	5	10
-ACG	0	0	0	1	1	0	0
-AAT	12	10	0	9	4	5	16
-AAC	8	0	3	2	1	2	4
-AAA	6	7	2	4	4	6	9
-AAG	0	0	0	0	1	0	0
-AGT	1	0	0	2	0	0	0
-AGC	1	1	0	1	0	0	1
-AGA	4	2	1	2	0	2	3
-AGG	2	0	0	2	0	0	0
-GTT	17	3	0	8	1	2	6
-GTC	3	1	0	1	0	1	1
-GTA	8	6	0	4	1	4	8
-GTG	3	0	0	1	0	1	1
-GCT	17	6	0	2	0	1	5
-GCC	10	1	0	2	0	1	6
-GCA	10	4	1	4	1	2	7
-GCG	1	0	0	0	0	0	0
-GAT	11	9	0	1	2	0	4
-GAC	4	1	0	0	0	0	3
-GAA	6	8	1	3	4	2	6
-GAG	1	1	0	1	1	0	0
-GGT	10	0	0	1	1	0	4
-GGC	3	2	0	0	1	0	3
-GGA	26	4	0	6	2	2	14
-GGG	6	2	0	0	0	2	3
-TAA	0	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_784034.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	33	8	19	2	18	5	14	0	14	3	1	0	15	1	20	4	12	2	8	6	11	2	14	6	8	0	1	0	9	0	40	5	29	1	13	4	14	0	12	8	6	0	1	1	4	2	17	3	8	3	17	10	10	1	11	4	6	1	10	3	26	6	0	0
+1	COX2	YP_784035.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	13	4	15	1	7	3	10	0	6	2	2	2	5	0	5	2	5	0	2	1	5	1	5	0	2	3	2	0	3	1	20	4	7	2	8	2	6	0	10	0	7	0	0	1	2	0	3	1	6	0	6	1	4	0	9	1	8	1	0	2	4	2	0	0
+2	ATP8	YP_784036.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	6	1	5	2	1	1	1	0	0	0	0	0	3	0	1	0	2	0	1	1	2	0	1	0	2	0	0	0	0	0	5	1	3	0	0	0	5	0	0	3	2	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+3	ATP6	YP_784037.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	18	3	21	0	6	4	11	1	3	1	3	0	3	0	10	0	7	1	9	0	3	0	5	1	4	0	0	0	3	0	20	3	14	1	7	0	4	1	9	2	4	0	2	1	2	2	8	1	4	1	2	2	4	0	1	0	3	1	1	0	6	0	1	0
+4	ND3	YP_784039.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	11	6	13	1	5	2	6	0	1	0	1	0	3	0	5	0	1	0	5	0	2	0	0	1	2	0	1	0	0	0	16	2	2	0	3	1	2	1	4	1	4	1	0	0	0	0	1	0	1	0	0	0	1	0	2	0	4	1	1	1	2	0	0	0
+5	ND6	YP_784043.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	15	5	12	2	7	3	5	2	1	4	0	0	1	0	5	0	7	0	3	1	3	0	1	0	0	0	0	0	1	0	16	3	10	0	5	0	5	0	5	2	6	0	0	0	2	0	2	1	4	1	1	1	2	0	0	0	2	0	0	0	2	2	1	0
+6	CYTB	YP_784044.1	Scutigerella causeyae	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Myriapoda, Symphyla, Scutigerellidae, Scutigerella	27	11	24	1	9	7	13	1	10	3	2	1	11	2	9	2	8	0	10	1	10	0	8	3	7	0	2	0	6	0	43	8	15	1	5	4	10	0	16	4	9	0	0	1	3	0	6	1	8	1	5	6	7	0	4	3	6	0	4	3	14	3	1	0

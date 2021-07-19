@@ -1,65 +1,13 @@
-	YP_009368153.1|ND1	YP_009368154.1|ND2	YP_009368155.1|COX1	YP_009368156.1|COX2	YP_009368157.1|ATP8	YP_009368158.1|ATP6	YP_009368159.1|COX3	YP_009368160.1|ND3	YP_009368161.1|ND4L	YP_009368162.1|ND4	YP_009368163.1|ND5	YP_009368165.1|CYTB
-TTT	4	6	20	4	3	3	10	5	1	9	21	9
-TTC	17	7	22	2	0	6	15	3	4	14	19	19
-TTA	9	11	15	9	4	6	5	2	5	17	20	7
-TTG	0	1	2	2	3	2	0	0	0	3	0	1
-TCT	1	1	4	5	1	1	4	1	4	4	8	6
-TCC	9	7	7	4	2	6	5	2	2	11	16	10
-TCA	10	9	15	6	3	5	8	0	2	14	14	5
-TCG	0	0	1	0	0	0	0	0	0	2	1	1
-TAT	8	2	10	5	2	0	7	2	1	8	6	2
-TAC	6	7	11	5	0	2	4	2	1	8	8	12
-TGT	1	1	1	2	0	0	0	0	0	2	2	3
-TGC	1	1	0	2	0	0	1	1	3	2	3	1
-TGA	8	11	15	5	3	3	12	4	0	11	12	11
-TGG	1	0	2	0	0	0	0	0	0	2	0	0
-CTT	8	8	14	12	4	8	9	6	4	18	10	11
-CTC	7	10	4	2	1	6	6	7	2	13	21	11
-CTA	29	32	14	9	0	20	15	6	9	31	48	29
-CTG	3	4	8	2	0	6	0	2	1	4	2	1
-CCT	2	7	9	4	3	5	4	1	0	7	8	3
-CCC	7	4	10	4	2	5	4	2	1	8	6	11
-CCA	11	7	10	4	2	2	3	4	1	7	11	9
-CCG	1	0	0	0	0	0	0	0	0	1	0	0
-CAT	1	0	6	4	1	1	7	0	2	4	1	2
-CAC	1	4	12	3	0	6	9	0	0	7	10	8
-CAA	6	12	3	6	3	8	7	3	3	9	20	8
-CAG	0	0	3	0	0	0	0	0	0	1	2	0
-CGT	0	0	1	1	1	1	0	0	0	0	0	0
-CGC	1	0	2	3	0	1	1	1	1	2	3	3
-CGA	7	4	5	2	0	3	4	0	0	8	4	4
-CGG	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	15	15	17	9	3	19	7	6	4	20	31	16
-ATC	7	20	22	8	4	12	7	2	6	18	27	17
-ATA	18	26	26	11	1	7	7	5	6	35	34	13
-ATG	1	5	8	2	1	3	2	1	4	3	4	5
-ACT	3	11	4	8	0	3	6	0	1	9	12	4
-ACC	11	13	8	3	1	10	7	3	1	12	16	11
-ACA	17	20	22	7	4	11	12	5	2	19	28	14
-ACG	0	2	2	1	1	0	0	1	0	4	4	2
-AAT	5	6	6	2	1	3	4	2	1	7	14	3
-AAC	8	17	10	3	4	7	4	3	4	16	21	15
-AAA	7	11	9	4	6	4	2	3	0	10	20	10
-AAG	1	0	0	1	0	0	0	0	0	1	1	0
-AGT	0	0	2	1	0	2	0	0	0	2	1	1
-AGC	1	2	2	2	0	1	3	0	1	11	14	3
-GTT	1	2	11	7	0	3	2	1	1	1	3	4
-GTC	4	1	4	3	0	1	4	1	0	2	4	2
-GTA	6	3	19	6	1	4	6	2	3	5	7	9
-GTG	1	0	3	0	0	1	0	0	2	1	0	2
-GCT	6	2	12	2	0	3	2	2	3	7	8	6
-GCC	10	10	14	5	0	6	9	3	3	8	17	7
-GCA	10	7	12	2	1	5	5	5	2	11	12	7
-GCG	0	0	2	0	0	1	0	1	0	0	2	0
-GAT	2	0	11	5	1	1	3	2	0	1	2	6
-GAC	2	0	5	6	0	0	0	1	1	2	7	5
-GAA	7	4	10	11	1	3	7	5	1	9	11	6
-GAG	4	0	0	3	0	0	1	2	1	1	0	0
-GGT	3	2	10	3	0	5	2	1	1	2	3	3
-GGC	5	3	10	1	0	0	11	0	2	6	11	10
-GGA	4	8	22	2	0	3	8	3	1	6	11	8
-GGG	0	1	5	2	0	2	0	1	0	3	1	3
-TAA	0	0	1	1	0	1	0	1	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009368153.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	17	9	0	1	9	10	0	8	6	1	1	8	1	8	7	29	3	2	7	11	1	1	1	6	0	0	1	7	0	15	7	18	1	3	11	17	0	5	8	7	1	0	1	1	4	6	1	6	10	10	0	2	2	7	4	3	5	4	0	0	0	0	0
+1	ND2	YP_009368154.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	6	7	11	1	1	7	9	0	2	7	1	1	11	0	8	10	32	4	7	4	7	0	0	4	12	0	0	0	4	0	15	20	26	5	11	13	20	2	6	17	11	0	0	2	2	1	3	0	2	10	7	0	0	0	4	0	2	3	8	1	0	0	0	0
+2	COX1	YP_009368155.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	20	22	15	2	4	7	15	1	10	11	1	0	15	2	14	4	14	8	9	10	10	0	6	12	3	3	1	2	5	0	17	22	26	8	4	8	22	2	6	10	9	0	2	2	11	4	19	3	12	14	12	2	11	5	10	0	10	10	22	5	1	0	0	0
+3	COX2	YP_009368156.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	4	2	9	2	5	4	6	0	5	5	2	2	5	0	12	2	9	2	4	4	4	0	4	3	6	0	1	3	2	0	9	8	11	2	8	3	7	1	2	3	4	1	1	2	7	3	6	0	2	5	2	0	5	6	11	3	3	1	2	2	1	0	0	0
+4	ATP8	YP_009368157.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	0	4	3	1	2	3	0	2	0	0	0	3	0	4	1	0	0	3	2	2	0	1	0	3	0	1	0	0	0	3	4	1	1	0	1	4	1	1	4	6	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009368158.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	3	6	6	2	1	6	5	0	0	2	0	0	3	0	8	6	20	6	5	5	2	0	1	6	8	0	1	1	3	0	19	12	7	3	3	10	11	0	3	7	4	0	2	1	3	1	4	1	3	6	5	1	1	0	3	0	5	0	3	2	1	0	0	0
+6	COX3	YP_009368159.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	10	15	5	0	4	5	8	0	7	4	0	1	12	0	9	6	15	0	4	4	3	0	7	9	7	0	0	1	4	0	7	7	7	2	6	7	12	0	4	4	2	0	0	3	2	4	6	0	2	9	5	0	3	0	7	1	2	11	8	0	0	0	0	0
+7	ND3	YP_009368160.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	5	3	2	0	1	2	0	0	2	2	0	1	4	0	6	7	6	2	1	2	4	0	0	0	3	0	0	1	0	0	6	2	5	1	0	3	5	1	2	3	3	0	0	0	1	1	2	0	2	3	5	1	2	1	5	2	1	0	3	1	1	0	0	0
+8	ND4L	YP_009368161.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	1	4	5	0	4	2	2	0	1	1	0	3	0	0	4	2	9	1	0	1	1	0	2	0	3	0	0	1	0	0	4	6	6	4	1	1	2	0	1	4	0	0	0	1	1	0	3	2	3	3	2	0	0	1	1	1	1	2	1	0	1	0	0	0
+9	ND4	YP_009368162.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	14	17	3	4	11	14	2	8	8	2	2	11	2	18	13	31	4	7	8	7	1	4	7	9	1	0	2	8	0	20	18	35	3	9	12	19	4	7	16	10	1	2	11	1	2	5	1	7	8	11	0	1	2	9	1	2	6	6	3	0	0	0	0
+10	ND5	YP_009368163.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	21	19	20	0	8	16	14	1	6	8	2	3	12	0	10	21	48	2	8	6	11	0	1	10	20	2	0	3	4	1	31	27	34	4	12	16	28	4	14	21	20	1	1	14	3	4	7	0	8	17	12	2	2	7	11	0	3	11	11	1	1	0	0	0
+11	CYTB	YP_009368165.1	Lepilemur septentrionalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Lepilemur	9	19	7	1	6	10	5	1	2	12	3	1	11	0	11	11	29	1	3	11	9	0	2	8	8	0	0	3	4	0	16	17	13	5	4	11	14	2	3	15	10	0	1	3	4	2	9	2	6	7	7	0	6	5	6	0	3	10	8	3	0	0	1	0

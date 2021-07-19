@@ -1,65 +1,10 @@
-	YP_009350286.1|ND2	YP_009350287.1|COX1	YP_009350288.1|COX2	YP_009350289.1|ATP8	YP_009350290.1|ATP6	YP_009350291.1|COX3	YP_009350292.1|ND3	YP_009350296.1|ND6	YP_009350297.1|CYTB
-TTT	8	18	2	2	6	7	2	2	12
-TTC	6	26	8	2	6	16	6	4	15
-TTA	15	19	8	1	19	12	3	8	19
-TTG	6	0	1	1	2	3	1	0	0
-TCT	5	4	0	1	1	0	2	0	3
-TCC	8	3	2	0	0	1	1	1	2
-TCA	15	20	8	2	7	9	11	6	6
-TCG	3	0	0	0	0	1	0	0	0
-TAT	3	5	6	1	0	4	0	3	6
-TAC	9	10	2	1	3	5	1	2	11
-TGT	0	0	1	0	0	1	1	0	2
-TGC	2	2	1	0	0	0	0	1	2
-TGA	8	14	6	3	4	12	3	1	12
-TGG	2	1	0	0	0	1	0	0	0
-CTT	4	10	5	0	2	3	1	2	2
-CTC	3	1	3	0	1	1	0	0	2
-CTA	17	24	6	0	19	12	10	12	20
-CTG	4	2	0	1	0	0	0	0	3
-CCT	3	7	3	1	0	2	0	2	4
-CCC	1	3	0	0	3	1	1	1	3
-CCA	8	17	7	1	6	7	4	2	15
-CCG	0	0	0	0	1	0	0	0	1
-CAT	1	6	4	0	1	6	0	2	2
-CAC	1	10	2	0	4	9	1	1	9
-CAA	4	7	11	3	4	8	1	3	8
-CAG	1	0	1	0	0	0	0	0	0
-CGT	0	0	1	0	0	0	0	0	0
-CGC	0	1	0	0	1	0	1	0	0
-CGA	1	9	5	0	1	4	2	1	8
-CGG	0	0	1	0	1	0	0	0	0
-ATT	15	23	15	3	10	11	8	5	20
-ATC	18	18	8	2	11	6	6	6	9
-ATA	20	26	13	8	16	8	11	31	21
-ATG	5	6	2	1	1	1	0	2	4
-ACT	3	8	0	0	3	6	0	1	5
-ACC	7	7	3	0	6	5	1	4	4
-ACA	15	24	13	3	10	16	4	16	20
-ACG	3	0	2	0	1	0	0	0	2
-AAT	13	7	5	1	13	4	4	5	17
-AAC	7	10	6	3	7	3	1	6	7
-AAA	12	4	3	4	5	3	4	4	9
-AAG	3	4	2	1	0	0	1	1	1
-AGT	1	3	1	1	1	0	0	0	0
-AGC	2	4	1	1	3	0	0	0	1
-AGA	3	7	7	1	8	3	3	6	5
-AGG	1	1	0	1	0	1	0	0	0
-GTT	2	10	2	0	0	2	1	1	3
-GTC	1	1	1	1	2	0	0	0	0
-GTA	13	22	9	0	7	14	3	7	18
-GTG	5	3	4	0	0	0	0	0	0
-GCT	5	5	1	0	3	2	0	0	4
-GCC	3	9	1	0	1	3	2	0	2
-GCA	9	23	8	0	7	13	4	2	20
-GCG	1	0	0	0	0	0	0	0	0
-GAT	3	8	4	0	1	3	2	0	6
-GAC	0	6	6	0	0	2	1	0	6
-GAA	4	9	10	1	7	8	6	3	4
-GAG	4	1	0	0	0	0	0	2	0
-GGT	3	7	1	0	2	1	0	1	2
-GGC	1	1	0	0	1	0	0	1	0
-GGA	8	35	5	0	6	17	3	3	18
-GGG	4	2	1	0	1	3	0	1	2
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009350286.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	8	6	15	6	5	8	15	3	3	9	0	2	8	2	4	3	17	4	3	1	8	0	1	1	4	1	0	0	1	0	15	18	20	5	3	7	15	3	13	7	12	3	1	2	3	1	2	1	13	5	5	3	9	1	3	0	4	4	3	1	8	4	1	0
+1	COX1	YP_009350287.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	18	26	19	0	4	3	20	0	5	10	0	2	14	1	10	1	24	2	7	3	17	0	6	10	7	0	0	1	9	0	23	18	26	6	8	7	24	0	7	10	4	4	3	4	7	1	10	1	22	3	5	9	23	0	8	6	9	1	7	1	35	2	1	0
+2	COX2	YP_009350288.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	2	8	8	1	0	2	8	0	6	2	1	1	6	0	5	3	6	0	3	0	7	0	4	2	11	1	1	0	5	1	15	8	13	2	0	3	13	2	5	6	3	2	1	1	7	0	2	1	9	4	1	1	8	0	4	6	10	0	1	0	5	1	0	0
+3	ATP8	YP_009350289.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	2	2	1	1	1	0	2	0	1	1	0	0	3	0	0	0	0	1	1	0	1	0	0	0	3	0	0	0	0	0	3	2	8	1	0	0	3	0	1	3	4	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009350290.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	6	6	19	2	1	0	7	0	0	3	0	0	4	0	2	1	19	0	0	3	6	1	1	4	4	0	0	1	1	1	10	11	16	1	3	6	10	1	13	7	5	0	1	3	8	0	0	2	7	0	3	1	7	0	1	0	7	0	2	1	6	1	1	0
+5	COX3	YP_009350291.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	7	16	12	3	0	1	9	1	4	5	1	0	12	1	3	1	12	0	2	1	7	0	6	9	8	0	0	0	4	0	11	6	8	1	6	5	16	0	4	3	3	0	0	0	3	1	2	0	14	0	2	3	13	0	3	2	8	0	1	0	17	3	1	0
+6	ND3	YP_009350292.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	2	6	3	1	2	1	11	0	0	1	1	0	3	0	1	0	10	0	0	1	4	0	0	1	1	0	0	1	2	0	8	6	11	0	0	1	4	0	4	1	4	1	0	0	3	0	1	0	3	0	0	2	4	0	2	1	6	0	0	0	3	0	1	0
+7	ND6	YP_009350296.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	2	4	8	0	0	1	6	0	3	2	0	1	1	0	2	0	12	0	2	1	2	0	2	1	3	0	0	0	1	0	5	6	31	2	1	4	16	0	5	6	4	1	0	0	6	0	1	0	7	0	0	0	2	0	0	0	3	2	1	1	3	1	1	0
+8	CYTB	YP_009350297.1	Cubitermes fulvus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Cubitermes group, Cubitermes	12	15	19	0	3	2	6	0	6	11	2	2	12	0	2	2	20	3	4	3	15	1	2	9	8	0	0	0	8	0	20	9	21	4	5	4	20	2	17	7	9	1	0	1	5	0	3	0	18	0	4	2	20	0	6	6	4	0	2	0	18	2	1	0

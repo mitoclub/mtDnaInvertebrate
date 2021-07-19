@@ -1,65 +1,13 @@
-	YP_009370864.1|COX3	YP_009370865.1|CYTB	YP_009370866.1|ND4L	YP_009370867.1|ND4	YP_009370868.1|ATP6	YP_009370869.1|ND2	YP_009370870.1|ND1	YP_009370871.1|ND3	YP_009370872.1|COX1	YP_009370873.1|COX2	YP_009370874.1|ND6	YP_009370875.1|ND5
-TTT	18	20	8	41	20	34	25	14	45	14	15	33
-TTC	3	5	0	4	0	9	4	5	4	1	1	12
-TTA	16	18	9	30	12	17	16	4	25	6	13	25
-TTG	8	9	2	20	6	11	14	5	14	6	4	15
-TCT	7	13	1	11	3	7	6	7	17	3	2	18
-TCC	0	3	1	7	4	2	2	6	5	1	1	5
-TCA	2	2	2	10	3	5	1	0	7	3	3	7
-TCG	2	1	0	3	1	3	3	1	7	0	0	2
-TAT	6	14	0	14	6	12	6	3	11	5	4	14
-TAC	5	10	1	5	2	5	11	1	6	4	4	10
-TGT	4	9	1	10	5	6	6	2	8	2	7	16
-TGC	2	5	2	4	1	6	6	3	4	2	2	7
-TGA	4	4	1	3	3	7	1	2	5	2	1	10
-TGG	6	7	0	10	2	5	8	1	12	3	1	6
-CTT	5	14	1	11	3	5	8	3	15	2	4	14
-CTC	3	1	1	5	0	0	5	1	6	0	4	5
-CTA	5	5	1	9	1	7	4	1	10	2	2	8
-CTG	3	5	3	5	5	5	5	1	5	3	1	11
-CCT	1	5	0	3	3	1	6	0	9	4	1	1
-CCC	4	5	0	6	2	3	3	0	10	3	2	8
-CCA	2	1	0	2	0	1	0	3	2	1	0	3
-CCG	0	2	0	0	1	1	0	0	2	0	2	1
-CAT	5	6	1	5	1	1	2	1	8	1	2	4
-CAC	2	4	0	3	1	0	0	0	5	3	1	2
-CAA	0	1	1	3	0	1	0	1	1	3	1	1
-CAG	3	3	0	1	0	2	4	0	2	1	0	3
-CGT	0	1	0	0	1	1	2	1	2	0	3	2
-CGC	0	4	0	1	0	1	2	1	2	2	0	1
-CGA	0	3	1	1	2	1	2	0	2	1	0	5
-CGG	1	0	1	6	2	2	3	0	1	1	1	2
-ATT	9	23	5	21	9	7	18	6	22	7	6	20
-ATC	1	2	1	0	0	1	3	3	10	2	2	6
-ATA	4	9	0	5	4	6	5	3	15	6	2	7
-ATG	3	3	3	7	5	3	4	4	22	3	4	13
-ACT	6	5	0	7	3	5	3	0	6	2	1	5
-ACC	2	5	1	5	0	0	2	1	12	1	1	10
-ACA	2	2	1	1	0	1	4	1	1	2	2	5
-ACG	1	2	0	2	1	0	2	1	1	2	3	5
-AAT	2	1	1	2	2	4	3	0	9	4	0	3
-AAC	0	4	1	0	1	1	0	0	2	1	1	5
-AAA	2	8	1	5	1	2	2	1	5	1	2	6
-AAG	1	6	0	4	0	4	6	1	4	3	0	7
-AGT	6	1	1	5	6	3	4	1	8	1	3	10
-AGC	1	3	0	1	0	1	3	0	3	1	1	5
-AGA	1	2	0	7	0	4	3	0	7	2	2	5
-AGG	3	9	2	5	3	7	6	2	6	1	6	8
-GTT	10	15	10	12	3	12	10	2	17	5	5	26
-GTC	1	4	4	4	3	4	0	0	4	5	3	5
-GTA	2	10	0	5	4	3	5	1	13	8	5	16
-GTG	5	17	4	13	10	15	2	2	11	10	6	10
-GCT	6	5	0	5	3	8	5	3	5	3	1	6
-GCC	2	7	0	3	1	6	5	2	5	2	2	9
-GCA	1	1	3	1	1	0	3	1	6	3	0	7
-GCG	0	2	0	6	2	3	5	0	3	1	1	5
-GAT	1	4	2	1	1	4	1	1	11	7	0	8
-GAC	4	3	1	3	0	1	2	1	3	6	0	1
-GAA	1	0	0	5	0	0	1	3	0	1	0	1
-GAG	3	7	4	7	2	3	8	1	5	3	3	6
-GGT	3	3	1	7	5	4	5	1	9	3	1	8
-GGC	5	8	0	8	2	5	6	0	11	6	2	5
-GGA	3	4	1	3	3	3	1	1	7	3	1	8
-GGG	4	13	1	17	6	9	15	5	23	4	4	24
-TAA	0	0	0	0	0	0	0	0	1	0	1	0
-TAG	0	0	1	1	1	1	1	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009370864.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	18	3	16	8	7	0	2	2	6	5	4	2	4	6	5	3	5	3	1	4	2	0	5	2	0	3	0	0	0	1	9	1	4	3	6	2	2	1	2	0	2	1	6	1	1	3	10	1	2	5	6	2	1	0	1	4	1	3	3	5	3	4	0	0
+1	CYTB	YP_009370865.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	20	5	18	9	13	3	2	1	14	10	9	5	4	7	14	1	5	5	5	5	1	2	6	4	1	3	1	4	3	0	23	2	9	3	5	5	2	2	1	4	8	6	1	3	2	9	15	4	10	17	5	7	1	2	4	3	0	7	3	8	4	13	0	0
+2	ND4L	YP_009370866.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	8	0	9	2	1	1	2	0	0	1	1	2	1	0	1	1	1	3	0	0	0	0	1	0	1	0	0	0	1	1	5	1	0	3	0	1	1	0	1	1	1	0	1	0	0	2	10	4	0	4	0	0	3	0	2	1	0	4	1	0	1	1	0	1
+3	ND4	YP_009370867.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	41	4	30	20	11	7	10	3	14	5	10	4	3	10	11	5	9	5	3	6	2	0	5	3	3	1	0	1	1	6	21	0	5	7	7	5	1	2	2	0	5	4	5	1	7	5	12	4	5	13	5	3	1	6	1	3	5	7	7	8	3	17	0	1
+4	ATP6	YP_009370868.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	20	0	12	6	3	4	3	1	6	2	5	1	3	2	3	0	1	5	3	2	0	1	1	1	0	0	1	0	2	2	9	0	4	5	3	0	0	1	2	1	1	0	6	0	0	3	3	3	4	10	3	1	1	2	1	0	0	2	5	2	3	6	0	1
+5	ND2	YP_009370869.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	34	9	17	11	7	2	5	3	12	5	6	6	7	5	5	0	7	5	1	3	1	1	1	0	1	2	1	1	1	2	7	1	6	3	5	0	1	0	4	1	2	4	3	1	4	7	12	4	3	15	8	6	0	3	4	1	0	3	4	5	3	9	0	1
+6	ND1	YP_009370870.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	25	4	16	14	6	2	1	3	6	11	6	6	1	8	8	5	4	5	6	3	0	0	2	0	0	4	2	2	2	3	18	3	5	4	3	2	4	2	3	0	2	6	4	3	3	6	10	0	5	2	5	5	3	5	1	2	1	8	5	6	1	15	0	1
+7	ND3	YP_009370871.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	14	5	4	5	7	6	0	1	3	1	2	3	2	1	3	1	1	1	0	0	3	0	1	0	1	0	1	1	0	0	6	3	3	4	0	1	1	1	0	0	1	1	1	0	0	2	2	0	1	2	3	2	1	0	1	1	3	1	1	0	1	5	0	1
+8	COX1	YP_009370872.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	45	4	25	14	17	5	7	7	11	6	8	4	5	12	15	6	10	5	9	10	2	2	8	5	1	2	2	2	2	1	22	10	15	22	6	12	1	1	9	2	5	4	8	3	7	6	17	4	13	11	5	5	6	3	11	3	0	5	9	11	7	23	1	0
+9	COX2	YP_009370873.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	14	1	6	6	3	1	3	0	5	4	2	2	2	3	2	0	2	3	4	3	1	0	1	3	3	1	0	2	1	1	7	2	6	3	2	1	2	2	4	1	1	3	1	1	2	1	5	5	8	10	3	2	3	1	7	6	1	3	3	6	3	4	0	0
+10	ND6	YP_009370874.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	15	1	13	4	2	1	3	0	4	4	7	2	1	1	4	4	2	1	1	2	0	2	2	1	1	0	3	0	0	1	6	2	2	4	1	1	2	3	0	1	2	0	3	1	2	6	5	3	5	6	1	2	0	1	0	0	0	3	1	2	1	4	1	0
+11	ND5	YP_009370875.1	Khawia sinensis	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Caryophyllidea, Lytocestidae, Khawia	33	12	25	15	18	5	7	2	14	10	16	7	10	6	14	5	8	11	1	8	3	1	4	2	1	3	2	1	5	2	20	6	7	13	5	10	5	5	3	5	6	7	10	5	5	8	26	5	16	10	6	9	7	5	8	1	1	6	8	5	8	24	0	1

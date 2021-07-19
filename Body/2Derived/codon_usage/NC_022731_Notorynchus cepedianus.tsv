@@ -1,65 +1,13 @@
-	YP_008758446.1|ND1	YP_008758447.1|ND2	YP_008758448.1|COX1	YP_008758449.2|COX2	YP_008758450.1|ATP8	YP_008758451.1|ATP6	YP_008758452.1|COX3	YP_008758453.1|ND3	YP_008758454.1|ND4L	YP_008758455.2|ND4	YP_008758456.1|ND5	YP_008758458.1|CYTB
-TTT	8	3	24	4	4	12	10	7	2	11	14	13
-TTC	8	11	15	4	0	4	13	3	3	8	29	18
-TTA	11	10	17	10	1	17	12	7	3	25	33	12
-TTG	1	2	3	0	0	3	2	1	0	2	4	0
-TCT	2	5	7	4	0	0	3	2	2	6	5	3
-TCC	7	10	9	2	0	1	2	4	4	7	14	10
-TCA	9	8	11	7	2	3	8	1	3	10	13	9
-TCG	0	0	0	0	0	0	0	0	1	0	0	0
-TAT	7	5	8	6	0	3	7	1	1	6	9	4
-TAC	6	1	10	4	0	1	5	0	1	7	6	8
-TGT	0	0	0	1	0	0	0	1	3	1	2	1
-TGC	0	1	1	1	0	0	2	0	1	4	4	3
-TGA	8	10	16	4	5	5	12	5	1	18	11	12
-TGG	0	0	1	1	0	0	0	0	0	2	1	0
-CTT	11	17	19	8	1	7	8	8	3	16	25	11
-CTC	17	20	8	3	1	9	5	8	8	18	15	19
-CTA	22	26	17	7	1	16	7	5	7	26	28	17
-CTG	3	1	0	0	0	1	1	0	0	3	2	1
-CCT	5	3	10	1	5	4	3	4	0	3	9	5
-CCC	8	4	6	3	2	5	2	3	1	7	13	10
-CCA	10	12	14	7	3	6	6	1	0	13	8	5
-CCG	0	0	0	2	0	0	0	0	0	0	1	1
-CAT	3	0	15	6	1	3	5	0	3	7	9	8
-CAC	1	9	6	4	2	0	11	0	1	5	7	5
-CAA	6	11	8	9	1	9	9	2	2	12	19	9
-CAG	0	0	1	0	0	0	0	0	0	1	2	0
-CGT	2	1	1	2	0	0	1	1	0	1	2	1
-CGC	3	0	2	1	0	1	1	1	1	1	3	2
-CGA	3	3	5	3	0	4	2	0	1	8	4	3
-CGG	0	0	0	0	0	0	1	0	0	1	0	1
-ATT	15	19	31	15	5	15	12	7	3	27	40	26
-ATC	17	11	10	7	1	10	6	4	3	17	21	16
-ATA	12	19	22	11	4	6	6	0	6	22	24	14
-ATG	3	1	2	3	2	2	1	1	1	2	1	1
-ACT	4	5	8	4	1	9	2	1	1	12	11	5
-ACC	15	19	14	3	0	8	7	1	5	16	24	10
-ACA	9	24	14	5	0	7	10	4	5	15	21	10
-ACG	0	0	0	1	0	2	0	0	0	1	0	2
-AAT	8	7	11	1	4	6	2	3	1	11	22	9
-AAC	4	9	4	3	1	6	1	2	2	4	17	13
-AAA	8	10	7	5	6	1	2	1	0	11	22	9
-AAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGT	0	1	3	3	0	2	2	0	2	1	3	0
-AGC	3	3	1	0	0	1	2	0	0	7	8	2
-GTT	2	1	14	4	0	3	7	0	0	3	2	5
-GTC	2	0	7	6	0	1	2	2	0	2	6	2
-GTA	5	2	18	5	0	2	5	1	1	5	4	5
-GTG	0	0	3	1	0	1	2	0	0	3	0	1
-GCT	2	6	14	5	0	6	7	3	2	4	9	7
-GCC	12	9	13	4	0	5	10	3	3	17	19	13
-GCA	10	6	17	5	0	6	3	2	2	11	10	3
-GCG	0	0	0	0	0	0	0	0	0	0	1	1
-GAT	1	0	12	7	1	1	5	2	1	2	5	4
-GAC	3	0	2	5	0	0	0	2	0	4	5	6
-GAA	9	6	8	14	1	4	8	6	2	10	10	5
-GAG	1	0	3	1	0	0	1	0	0	0	1	0
-GGT	5	2	20	2	0	0	7	1	2	7	4	6
-GGC	7	7	7	2	0	4	4	2	3	7	9	5
-GGA	5	6	15	4	0	4	8	2	1	8	15	10
-GGG	1	2	3	0	0	1	1	1	0	1	0	0
-TAA	1	0	0	0	1	1	1	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008758446.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	8	8	11	1	2	7	9	0	7	6	0	0	8	0	11	17	22	3	5	8	10	0	3	1	6	0	2	3	3	0	15	17	12	3	4	15	9	0	8	4	8	0	0	3	2	2	5	0	2	12	10	0	1	3	9	1	5	7	5	1	1	0	0	0
+1	ND2	YP_008758447.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	3	11	10	2	5	10	8	0	5	1	0	1	10	0	17	20	26	1	3	4	12	0	0	9	11	0	1	0	3	0	19	11	19	1	5	19	24	0	7	9	10	0	1	3	1	0	2	0	6	9	6	0	0	0	6	0	2	7	6	2	0	0	0	0
+2	COX1	YP_008758448.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	24	15	17	3	7	9	11	0	8	10	0	1	16	1	19	8	17	0	10	6	14	0	15	6	8	1	1	2	5	0	31	10	22	2	8	14	14	0	11	4	7	1	3	1	14	7	18	3	14	13	17	0	12	2	8	3	20	7	15	3	0	0	1	0
+3	COX2	YP_008758449.2	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	4	4	10	0	4	2	7	0	6	4	1	1	4	1	8	3	7	0	1	3	7	2	6	4	9	0	2	1	3	0	15	7	11	3	4	3	5	1	1	3	5	0	3	0	4	6	5	1	5	4	5	0	7	5	14	1	2	2	4	0	0	0	0	0
+4	ATP8	YP_008758450.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	4	0	1	0	0	0	2	0	0	0	0	0	5	0	1	1	1	0	5	2	3	0	1	2	1	0	0	0	0	0	5	1	4	2	1	0	0	0	4	1	6	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008758451.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	12	4	17	3	0	1	3	0	3	1	0	0	5	0	7	9	16	1	4	5	6	0	3	0	9	0	0	1	4	0	15	10	6	2	9	8	7	2	6	6	1	0	2	1	3	1	2	1	6	5	6	0	1	0	4	0	0	4	4	1	1	0	0	0
+6	COX3	YP_008758452.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	10	13	12	2	3	2	8	0	7	5	0	2	12	0	8	5	7	1	3	2	6	0	5	11	9	0	1	1	2	1	12	6	6	1	2	7	10	0	2	1	2	0	2	2	7	2	5	2	7	10	3	0	5	0	8	1	7	4	8	1	1	0	0	0
+7	ND3	YP_008758453.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	7	3	7	1	2	4	1	0	1	0	1	0	5	0	8	8	5	0	4	3	1	0	0	0	2	0	1	1	0	0	7	4	0	1	1	1	4	0	3	2	1	0	0	0	0	2	1	0	3	3	2	0	2	2	6	0	1	2	2	1	0	0	0	0
+8	ND4L	YP_008758454.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	2	3	3	0	2	4	3	1	1	1	3	1	1	0	3	8	7	0	0	1	0	0	3	1	2	0	0	1	1	0	3	3	6	1	1	5	5	0	1	2	0	0	2	0	0	0	1	0	2	3	2	0	1	0	2	0	2	3	1	0	1	0	0	0
+9	ND4	YP_008758455.2	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	11	8	25	2	6	7	10	0	6	7	1	4	18	2	16	18	26	3	3	7	13	0	7	5	12	1	1	1	8	1	27	17	22	2	12	16	15	1	11	4	11	0	1	7	3	2	5	3	4	17	11	0	2	4	10	0	7	7	8	1	0	0	0	0
+10	ND5	YP_008758456.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	14	29	33	4	5	14	13	0	9	6	2	4	11	1	25	15	28	2	9	13	8	1	9	7	19	2	2	3	4	0	40	21	24	1	11	24	21	0	22	17	22	0	3	8	2	6	4	0	9	19	10	1	5	5	10	1	4	9	15	0	0	0	0	0
+11	CYTB	YP_008758458.1	Notorynchus cepedianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Hexanchiformes, Hexanchidae, Notorynchus	13	18	12	0	3	10	9	0	4	8	1	3	12	0	11	19	17	1	5	10	5	1	8	5	9	0	1	2	3	1	26	16	14	1	5	10	10	2	9	13	9	0	0	2	5	2	5	1	7	13	3	1	4	6	5	0	6	5	10	0	0	0	0	0

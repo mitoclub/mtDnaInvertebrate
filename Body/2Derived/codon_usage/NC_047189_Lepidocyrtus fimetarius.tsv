@@ -1,65 +1,10 @@
-	YP_009756937.1|ND2	YP_009756938.1|COX1	YP_009756939.1|COX2	YP_009756940.1|ATP8	YP_009756941.1|ATP6	YP_009756942.1|COX3	YP_009756943.1|ND3	YP_009756947.1|ND6	YP_009756948.1|CYTB
-TTT	17	31	15	3	15	14	6	11	20
-TTC	9	10	3	2	7	11	4	1	10
-TTA	23	18	10	5	15	9	10	18	23
-TTG	2	1	0	0	0	0	0	1	0
-TCT	14	12	2	0	5	7	2	4	10
-TCC	5	2	3	0	3	7	3	1	1
-TCA	7	15	6	0	5	2	3	6	5
-TCG	0	1	0	1	2	0	0	0	2
-TAT	5	9	4	1	1	4	0	3	5
-TAC	9	9	3	0	2	3	1	2	10
-TGT	1	0	0	0	0	0	0	1	1
-TGC	0	0	3	0	0	2	1	0	1
-TGA	6	13	5	3	3	10	1	2	8
-TGG	1	2	1	0	1	4	1	0	3
-CTT	15	10	3	1	12	8	5	1	9
-CTC	4	5	1	0	0	2	1	0	5
-CTA	7	19	8	0	11	7	4	7	17
-CTG	1	4	0	0	2	4	1	0	2
-CCT	3	10	7	2	3	4	2	1	5
-CCC	7	8	1	1	3	4	3	1	4
-CCA	4	7	3	1	3	1	1	2	7
-CCG	2	2	0	0	1	0	0	0	4
-CAT	1	5	5	0	4	3	0	0	4
-CAC	2	10	2	0	2	11	2	1	8
-CAA	6	11	6	2	3	6	0	1	9
-CAG	2	0	1	0	1	2	0	1	2
-CGT	0	3	0	0	0	1	0	1	0
-CGC	0	1	3	0	2	0	0	0	3
-CGA	1	4	2	0	0	3	2	0	4
-CGG	0	1	1	0	0	0	1	0	0
-ATT	28	29	16	4	11	16	14	15	23
-ATC	8	20	9	1	6	5	3	4	11
-ATA	25	26	5	6	16	11	5	17	18
-ATG	3	4	2	0	3	2	1	2	1
-ACT	5	14	7	2	7	6	2	6	6
-ACC	6	10	2	0	4	6	0	5	11
-ACA	4	17	5	0	6	4	2	7	8
-ACG	3	1	1	0	1	2	1	0	1
-AAT	11	8	10	3	8	2	2	3	11
-AAC	8	10	7	1	6	9	0	7	9
-AAA	17	6	6	5	8	3	7	7	8
-AAG	1	0	0	2	1	4	1	1	3
-AGT	5	1	0	0	0	1	0	0	0
-AGC	1	1	1	0	0	1	1	0	0
-AGA	7	7	2	1	6	6	0	3	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	11	4	0	2	3	2	5	6
-GTC	2	1	3	0	1	1	0	0	2
-GTA	4	12	4	1	5	9	2	2	9
-GTG	0	8	1	0	2	0	0	0	3
-GCT	3	6	4	1	4	5	1	3	7
-GCC	7	14	4	1	3	6	4	2	9
-GCA	3	15	3	1	4	4	0	1	7
-GCG	1	1	1	0	0	1	0	0	2
-GAT	1	3	4	0	1	2	1	0	5
-GAC	1	12	6	1	1	2	3	0	4
-GAA	4	5	8	2	5	4	5	3	3
-GAG	2	3	1	0	0	2	0	0	1
-GGT	1	8	2	0	1	6	1	1	3
-GGC	3	8	2	0	5	2	0	1	5
-GGA	4	15	2	0	2	6	1	1	9
-GGG	2	15	2	0	0	2	1	1	7
-TAA	1	0	0	1	1	0	0	0	1
-TAG	0	0	0	0	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009756937.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	17	9	23	2	14	5	7	0	5	9	1	0	6	1	15	4	7	1	3	7	4	2	1	2	6	2	0	0	1	0	28	8	25	3	5	6	4	3	11	8	17	1	5	1	7	0	4	2	4	0	3	7	3	1	1	1	4	2	1	3	4	2	1	0
+1	COX1	YP_009756938.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	31	10	18	1	12	2	15	1	9	9	0	0	13	2	10	5	19	4	10	8	7	2	5	10	11	0	3	1	4	1	29	20	26	4	14	10	17	1	8	10	6	0	1	1	7	0	11	1	12	8	6	14	15	1	3	12	5	3	8	8	15	15	0	0
+2	COX2	YP_009756939.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	15	3	10	0	2	3	6	0	4	3	0	3	5	1	3	1	8	0	7	1	3	0	5	2	6	1	0	3	2	1	16	9	5	2	7	2	5	1	10	7	6	0	0	1	2	0	4	3	4	1	4	4	3	1	4	6	8	1	2	2	2	2	0	0
+3	ATP8	YP_009756940.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	3	2	5	0	0	0	0	1	1	0	0	0	3	0	1	0	0	0	2	1	1	0	0	0	2	0	0	0	0	0	4	1	6	0	2	0	0	0	3	1	5	2	0	0	1	0	0	0	1	0	1	1	1	0	0	1	2	0	0	0	0	0	1	0
+4	ATP6	YP_009756941.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	15	7	15	0	5	3	5	2	1	2	0	0	3	1	12	0	11	2	3	3	3	1	4	2	3	1	0	2	0	0	11	6	16	3	7	4	6	1	8	6	8	1	0	0	6	0	2	1	5	2	4	3	4	0	1	1	5	0	1	5	2	0	1	0
+5	COX3	YP_009756942.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	14	11	9	0	7	7	2	0	4	3	0	2	10	4	8	2	7	4	4	4	1	0	3	11	6	2	1	0	3	0	16	5	11	2	6	6	4	2	2	9	3	4	1	1	6	0	3	1	9	0	5	6	4	1	2	2	4	2	6	2	6	2	0	0
+6	ND3	YP_009756943.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	6	4	10	0	2	3	3	0	0	1	0	1	1	1	5	1	4	1	2	3	1	0	0	2	0	0	0	0	2	1	14	3	5	1	2	0	2	1	2	0	7	1	0	1	0	0	2	0	2	0	1	4	0	0	1	3	5	0	1	0	1	1	0	1
+7	ND6	YP_009756947.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	11	1	18	1	4	1	6	0	3	2	1	0	2	0	1	0	7	0	1	1	2	0	0	1	1	1	1	0	0	0	15	4	17	2	6	5	7	0	3	7	7	1	0	0	3	0	5	0	2	0	3	2	1	0	0	0	3	0	1	1	1	1	0	1
+8	CYTB	YP_009756948.1	Lepidocyrtus fimetarius	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Collembola, Entomobryomorpha, Entomobryoidea, Entomobryidae, Lepidocyrtinae, Lepidocyrtini, Lepidocyrtus	20	10	23	0	10	1	5	2	5	10	1	1	8	3	9	5	17	2	5	4	7	4	4	8	9	2	0	3	4	0	23	11	18	1	6	11	8	1	11	9	8	3	0	0	3	0	6	2	9	3	7	9	7	2	5	4	3	1	3	5	9	7	1	0

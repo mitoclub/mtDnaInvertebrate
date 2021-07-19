@@ -1,65 +1,13 @@
-	YP_009176334.1|ND1	YP_009176335.1|ND2	YP_009176336.1|COX1	YP_009176337.1|COX2	YP_009176338.1|ATP8	YP_009176339.1|ATP6	YP_009176340.1|COX3	YP_009176341.1|ND3	YP_009176342.1|ND4L	YP_009176343.1|ND4	YP_009176344.1|ND5	YP_009176346.1|CYTB
-TTT	9	6	21	6	2	8	7	2	2	8	15	12
-TTC	9	4	21	5	2	4	17	6	5	6	25	18
-TTA	5	3	9	3	0	7	2	2	2	15	11	7
-TTG	0	2	1	1	0	0	1	0	0	1	0	1
-TCT	1	2	6	3	1	1	3	2	2	3	4	7
-TCC	6	10	10	7	1	2	6	4	3	12	14	7
-TCA	11	8	5	4	0	2	2	0	3	6	10	8
-TCG	0	1	1	0	0	0	0	0	1	0	1	0
-TAT	4	2	5	2	0	1	2	2	0	2	5	4
-TAC	7	5	13	6	0	4	10	0	0	12	7	11
-TGT	0	0	0	0	0	0	1	0	2	3	1	1
-TGC	0	0	1	2	0	0	1	1	1	1	5	2
-TGA	7	10	14	5	5	5	11	5	0	17	12	12
-TGG	1	1	3	0	0	0	1	0	1	2	2	1
-CTT	9	17	16	9	0	10	6	7	3	19	22	11
-CTC	16	25	21	4	1	14	10	9	8	29	29	26
-CTA	29	30	13	9	3	19	10	6	11	33	29	18
-CTG	3	4	3	1	0	5	2	4	0	3	3	0
-CCT	3	2	12	3	3	2	2	2	1	5	12	3
-CCC	13	13	9	7	5	12	9	5	1	16	16	14
-CCA	6	7	7	4	3	3	2	1	0	6	2	3
-CCG	2	1	0	0	0	0	0	1	0	0	1	1
-CAT	1	0	6	3	2	1	7	0	2	4	3	3
-CAC	3	7	13	7	0	2	9	1	2	8	12	8
-CAA	7	14	7	6	1	9	9	3	2	9	19	6
-CAG	0	1	1	2	1	0	0	0	1	2	2	0
-CGT	1	0	3	0	0	0	0	0	2	0	1	1
-CGC	0	1	0	3	0	1	1	0	0	2	1	0
-CGA	6	3	3	3	0	5	4	2	1	7	6	7
-CGG	1	0	2	0	0	0	0	0	0	2	1	0
-ATT	16	11	27	14	2	12	9	3	0	14	24	14
-ATC	12	8	14	9	0	5	5	6	1	18	28	15
-ATA	5	8	16	10	0	5	6	1	4	16	27	4
-ATG	3	4	6	2	2	4	2	1	1	9	4	3
-ACT	3	8	2	1	1	3	2	2	0	8	12	4
-ACC	9	23	17	3	0	12	7	3	6	17	30	12
-ACA	8	11	17	1	2	8	15	3	2	16	19	9
-ACG	0	1	1	3	0	0	0	1	0	1	1	0
-AAT	5	1	8	3	2	2	1	1	0	1	6	5
-AAC	7	9	8	2	1	7	0	0	3	12	24	14
-AAA	7	8	8	3	3	2	2	1	0	8	21	9
-AAG	0	1	0	1	0	0	0	0	0	2	0	0
-AGT	0	0	0	2	1	0	0	0	0	1	1	1
-AGC	4	3	5	1	0	4	3	0	1	7	12	1
-GTT	7	1	11	3	1	2	4	0	1	5	6	3
-GTC	3	2	8	5	2	6	7	4	0	5	7	11
-GTA	4	5	18	4	0	7	5	0	1	4	9	7
-GTG	4	0	4	2	1	0	0	0	0	0	0	1
-GCT	1	2	11	5	0	1	3	1	3	5	6	4
-GCC	26	25	23	5	4	10	10	8	6	19	35	18
-GCA	8	12	13	9	0	4	9	0	4	15	15	10
-GCG	0	0	1	0	0	0	0	0	0	1	0	1
-GAT	1	0	0	2	1	1	1	0	0	0	4	3
-GAC	3	3	15	11	0	0	4	4	2	5	8	8
-GAA	10	5	8	15	1	3	10	4	2	10	11	5
-GAG	1	0	2	0	1	1	0	2	0	2	1	0
-GGT	0	0	5	2	0	1	0	1	0	2	4	4
-GGC	7	9	18	3	0	5	11	2	3	13	14	10
-GGA	5	8	14	4	0	4	8	3	2	9	10	10
-GGG	5	1	10	0	0	1	2	0	0	2	2	2
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009176334.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	9	9	5	0	1	6	11	0	4	7	0	0	7	1	9	16	29	3	3	13	6	2	1	3	7	0	1	0	6	1	16	12	5	3	3	9	8	0	5	7	7	0	0	4	7	3	4	4	1	26	8	0	1	3	10	1	0	7	5	5	1	0	0	0
+1	ND2	YP_009176335.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	6	4	3	2	2	10	8	1	2	5	0	0	10	1	17	25	30	4	2	13	7	1	0	7	14	1	0	1	3	0	11	8	8	4	8	23	11	1	1	9	8	1	0	3	1	2	5	0	2	25	12	0	0	3	5	0	0	9	8	1	0	0	0	0
+2	COX1	YP_009176336.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	21	21	9	1	6	10	5	1	5	13	0	1	14	3	16	21	13	3	12	9	7	0	6	13	7	1	3	0	3	2	27	14	16	6	2	17	17	1	8	8	8	0	0	5	11	8	18	4	11	23	13	1	0	15	8	2	5	18	14	10	1	0	0	0
+3	COX2	YP_009176337.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	6	5	3	1	3	7	4	0	2	6	0	2	5	0	9	4	9	1	3	7	4	0	3	7	6	2	0	3	3	0	14	9	10	2	1	3	1	3	3	2	3	1	2	1	3	5	4	2	5	5	9	0	2	11	15	0	2	3	4	0	0	0	0	0
+4	ATP8	YP_009176338.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	2	2	0	0	1	1	0	0	0	0	0	0	5	0	0	1	3	0	3	5	3	0	2	0	1	1	0	0	0	0	2	0	0	2	1	0	2	0	2	1	3	0	1	0	1	2	0	1	0	4	0	0	1	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009176339.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	8	4	7	0	1	2	2	0	1	4	0	0	5	0	10	14	19	5	2	12	3	0	1	2	9	0	0	1	5	0	12	5	5	4	3	12	8	0	2	7	2	0	0	4	2	6	7	0	1	10	4	0	1	0	3	1	1	5	4	1	1	0	0	0
+6	COX3	YP_009176340.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	7	17	2	1	3	6	2	0	2	10	1	1	11	1	6	10	10	2	2	9	2	0	7	9	9	0	0	1	4	0	9	5	6	2	2	7	15	0	1	0	2	0	0	3	4	7	5	0	3	10	9	0	1	4	10	0	0	11	8	2	0	0	0	0
+7	ND3	YP_009176341.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	2	6	2	0	2	4	0	0	2	0	0	1	5	0	7	9	6	4	2	5	1	1	0	1	3	0	0	0	2	0	3	6	1	1	2	3	3	1	1	0	1	0	0	0	0	4	0	0	1	8	0	0	0	4	4	2	1	2	3	0	0	0	0	0
+8	ND4L	YP_009176342.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	2	5	2	0	2	3	3	1	0	0	2	1	0	1	3	8	11	0	1	1	0	0	2	2	2	1	2	0	1	0	0	1	4	1	0	6	2	0	0	3	0	0	0	1	1	0	1	0	3	6	4	0	0	2	2	0	0	3	2	0	1	0	0	0
+9	ND4	YP_009176343.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	8	6	15	1	3	12	6	0	2	12	3	1	17	2	19	29	33	3	5	16	6	0	4	8	9	2	0	2	7	2	14	18	16	9	8	17	16	1	1	12	8	2	1	7	5	5	4	0	5	19	15	1	0	5	10	2	2	13	9	2	0	0	0	0
+10	ND5	YP_009176344.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	15	25	11	0	4	14	10	1	5	7	1	5	12	2	22	29	29	3	12	16	2	1	3	12	19	2	1	1	6	1	24	28	27	4	12	30	19	1	6	24	21	0	1	12	6	7	9	0	6	35	15	0	4	8	11	1	4	14	10	2	1	0	0	0
+11	CYTB	YP_009176346.1	Serranidae sp. JL-2015	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, unclassified Serranidae	12	18	7	1	7	7	8	0	4	11	1	2	12	1	11	26	18	0	3	14	3	1	3	8	6	0	1	0	7	0	14	15	4	3	4	12	9	0	5	14	9	0	1	1	3	11	7	1	4	18	10	1	3	8	5	0	4	10	10	2	0	0	0	0

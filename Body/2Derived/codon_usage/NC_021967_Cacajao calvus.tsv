@@ -1,65 +1,13 @@
-	YP_008379229.1|ND1	YP_008379230.1|ND2	YP_008379231.1|COX1	YP_008379232.1|COX2	YP_008379233.1|ATP8	YP_008379234.1|ATP6	YP_008379235.1|COX3	YP_008379236.1|ND3	YP_008379237.1|ND4L	YP_008379238.1|ND4	YP_008379239.1|ND5	YP_008379241.1|CYTB
-TTT	6	7	28	7	3	6	11	4	5	10	14	15
-TTC	8	5	13	4	0	2	14	3	0	8	24	13
-TTA	8	14	9	6	3	7	5	4	9	21	10	9
-TTG	0	0	3	1	2	0	0	0	0	2	0	1
-TCT	2	6	6	2	2	4	6	0	0	3	5	4
-TCC	4	8	8	3	1	5	3	2	4	8	13	11
-TCA	14	10	15	9	5	3	5	0	3	14	19	8
-TCG	2	1	0	0	0	1	1	0	0	2	2	1
-TAT	6	6	10	4	5	2	7	2	3	6	6	3
-TAC	8	5	11	9	0	2	7	2	2	12	16	11
-TGT	1	0	0	2	0	0	0	1	0	1	2	1
-TGC	0	0	1	0	0	0	1	0	3	2	1	1
-TGA	7	10	15	4	3	3	12	4	0	9	9	10
-TGG	2	1	1	1	0	0	0	0	0	4	3	2
-CTT	8	8	12	4	1	6	6	3	1	15	19	13
-CTC	9	10	9	5	0	4	2	3	1	6	20	4
-CTA	32	28	25	12	2	29	12	14	14	45	39	28
-CTG	3	2	3	1	0	4	2	2	0	4	1	4
-CCT	3	5	9	4	3	4	3	2	1	7	5	3
-CCC	9	7	7	2	0	6	3	1	0	10	12	9
-CCA	9	10	12	6	2	2	7	3	0	12	12	13
-CCG	0	0	1	0	0	0	0	0	0	0	0	0
-CAT	1	2	7	1	0	5	6	0	1	3	2	6
-CAC	3	3	12	6	0	0	11	1	2	6	10	5
-CAA	6	10	5	6	3	8	9	2	2	6	16	5
-CAG	0	0	2	2	0	1	1	1	0	2	1	3
-CGT	1	1	2	2	0	0	1	0	0	1	2	0
-CGC	1	2	2	1	0	0	1	0	0	1	2	2
-CGA	5	0	3	3	0	3	2	0	1	8	4	4
-CGG	0	0	1	0	0	1	0	0	0	0	0	1
-ATT	16	21	32	17	2	20	8	7	3	23	34	23
-ATC	9	17	9	6	3	8	4	1	3	12	21	16
-ATA	18	30	25	10	4	9	10	2	9	34	33	12
-ATG	3	1	6	3	1	3	2	1	1	5	8	2
-ACT	7	3	15	5	1	6	3	4	1	9	13	4
-ACC	7	8	9	3	1	7	4	5	1	14	20	8
-ACA	13	24	15	6	4	10	14	4	2	20	26	18
-ACG	0	0	0	0	0	0	1	1	0	0	1	0
-AAT	2	10	5	1	4	4	3	5	3	9	14	5
-AAC	9	12	13	5	0	9	1	1	2	14	14	10
-AAA	7	11	11	3	6	4	1	2	0	11	21	10
-AAG	0	0	0	1	0	0	0	1	0	1	2	0
-AGT	2	2	2	0	0	1	0	0	0	4	4	1
-AGC	1	3	2	4	1	3	4	0	0	4	9	5
-GTT	2	4	6	1	1	2	6	3	2	4	4	3
-GTC	2	1	9	2	0	1	3	1	0	2	3	3
-GTA	5	4	16	7	1	5	5	2	3	6	11	5
-GTG	0	0	2	0	1	1	0	0	0	1	2	1
-GCT	8	7	11	3	0	1	5	0	3	3	12	6
-GCC	10	5	12	7	1	6	9	6	1	12	12	10
-GCA	13	6	13	6	1	7	6	3	5	13	14	7
-GCG	1	0	1	0	0	0	1	0	0	0	1	0
-GAT	1	0	5	5	0	0	4	1	0	2	2	6
-GAC	2	0	10	5	0	0	1	3	1	0	6	7
-GAA	11	4	11	11	0	2	7	5	2	7	8	2
-GAG	0	0	0	3	1	0	1	0	0	1	4	1
-GGT	2	2	8	1	0	1	2	0	0	3	2	2
-GGC	7	5	14	4	0	2	8	0	3	7	16	14
-GGA	2	5	20	2	0	6	10	2	1	8	10	7
-GGG	0	0	4	1	0	0	0	1	0	1	1	0
-TAA	0	0	0	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008379229.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	6	8	8	0	2	4	14	2	6	8	1	0	7	2	8	9	32	3	3	9	9	0	1	3	6	0	1	1	5	0	16	9	18	3	7	7	13	0	2	9	7	0	2	1	2	2	5	0	8	10	13	1	1	2	11	0	2	7	2	0	0	0	0	0
+1	ND2	YP_008379230.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	7	5	14	0	6	8	10	1	6	5	0	0	10	1	8	10	28	2	5	7	10	0	2	3	10	0	1	2	0	0	21	17	30	1	3	8	24	0	10	12	11	0	2	3	4	1	4	0	7	5	6	0	0	0	4	0	2	5	5	0	0	0	0	0
+2	COX1	YP_008379231.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	28	13	9	3	6	8	15	0	10	11	0	1	15	1	12	9	25	3	9	7	12	1	7	12	5	2	2	2	3	1	32	9	25	6	15	9	15	0	5	13	11	0	2	2	6	9	16	2	11	12	13	1	5	10	11	0	8	14	20	4	0	0	0	1
+3	COX2	YP_008379232.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	7	4	6	1	2	3	9	0	4	9	2	0	4	1	4	5	12	1	4	2	6	0	1	6	6	2	2	1	3	0	17	6	10	3	5	3	6	0	1	5	3	1	0	4	1	2	7	0	3	7	6	0	5	5	11	3	1	4	2	1	0	0	0	0
+4	ATP8	YP_008379233.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	3	0	3	2	2	1	5	0	5	0	0	0	3	0	1	0	2	0	3	0	2	0	0	0	3	0	0	0	0	0	2	3	4	1	1	1	4	0	4	0	6	0	0	1	1	0	1	1	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0
+5	ATP6	YP_008379234.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	6	2	7	0	4	5	3	1	2	2	0	0	3	0	6	4	29	4	4	6	2	0	5	0	8	1	0	0	3	1	20	8	9	3	6	7	10	0	4	9	4	0	1	3	2	1	5	1	1	6	7	0	0	0	2	0	1	2	6	0	1	0	0	0
+6	COX3	YP_008379235.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	11	14	5	0	6	3	5	1	7	7	0	1	12	0	6	2	12	2	3	3	7	0	6	11	9	1	1	1	2	0	8	4	10	2	3	4	14	1	3	1	1	0	0	4	6	3	5	0	5	9	6	1	4	1	7	1	2	8	10	0	0	0	0	0
+7	ND3	YP_008379236.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	4	3	4	0	0	2	0	0	2	2	1	0	4	0	3	3	14	2	2	1	3	0	0	1	2	1	0	0	0	0	7	1	2	1	4	5	4	1	5	1	2	1	0	0	3	1	2	0	0	6	3	0	1	3	5	0	0	0	2	1	0	0	0	0
+8	ND4L	YP_008379237.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	5	0	9	0	0	4	3	0	3	2	0	3	0	0	1	1	14	0	1	0	0	0	1	2	2	0	0	0	1	0	3	3	9	1	1	1	2	0	3	2	0	0	0	0	2	0	3	0	3	1	5	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_008379238.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	10	8	21	2	3	8	14	2	6	12	1	2	9	4	15	6	45	4	7	10	12	0	3	6	6	2	1	1	8	0	23	12	34	5	9	14	20	0	9	14	11	1	4	4	4	2	6	1	3	12	13	0	2	0	7	1	3	7	8	1	0	0	0	0
+10	ND5	YP_008379239.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	14	24	10	0	5	13	19	2	6	16	2	1	9	3	19	20	39	1	5	12	12	0	2	10	16	1	2	2	4	0	34	21	33	8	13	20	26	1	14	14	21	2	4	9	4	3	11	2	12	12	14	1	2	6	8	4	2	16	10	1	1	0	0	0
+11	CYTB	YP_008379241.1	Cacajao calvus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Pitheciidae, Pitheciinae, Cacajao	15	13	9	1	4	11	8	1	3	11	1	1	10	2	13	4	28	4	3	9	13	0	6	5	5	3	0	2	4	1	23	16	12	2	4	8	18	0	5	10	10	0	1	5	3	3	5	1	6	10	7	0	6	7	2	1	2	14	7	0	0	1	0	0

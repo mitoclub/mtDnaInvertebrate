@@ -1,65 +1,12 @@
-	YP_009344740.1|ND1	YP_009344741.1|ND2	YP_009344742.1|COX1	YP_009344743.1|COX2	YP_009344744.1|ATP8	YP_009344745.1|ATP6	YP_009344746.1|COX3	YP_009344747.1|ND3	YP_009344748.1|ND4L	YP_009344749.1|ND4	YP_009344752.1|CYTB
-TTT	9	6	23	5	3	7	8	7	2	9	9
-TTC	11	6	19	6	1	6	14	2	5	9	22
-TTA	8	6	11	5	1	7	5	3	1	9	5
-TTG	0	0	1	0	1	2	1	0	1	1	0
-TCT	2	6	4	4	0	0	1	4	2	6	4
-TCC	8	12	10	5	2	2	4	2	4	14	10
-TCA	10	3	10	3	0	0	4	2	2	8	7
-TCG	0	0	2	0	0	0	0	0	0	0	0
-TAT	5	2	5	5	0	2	5	1	0	6	8
-TAC	4	6	13	3	0	3	6	1	0	8	6
-TGT	0	0	0	0	0	0	0	1	0	1	2
-TGC	0	0	1	2	0	0	2	0	3	3	1
-TGA	7	10	15	5	5	5	12	5	1	17	10
-TGG	1	1	3	0	0	0	0	0	0	1	1
-CTT	16	17	18	8	1	13	6	5	8	25	9
-CTC	23	27	13	8	2	9	11	13	5	25	34
-CTA	18	27	16	6	2	24	9	5	6	32	9
-CTG	3	4	3	1	0	0	2	0	3	7	6
-CCT	3	5	9	4	3	5	3	2	1	7	1
-CCC	15	11	9	7	2	5	8	3	1	15	9
-CCA	4	3	10	3	5	6	1	3	0	4	11
-CCG	1	0	2	0	0	0	0	0	0	0	0
-CAT	3	3	3	4	1	2	6	0	0	1	3
-CAC	1	3	16	6	1	3	11	1	4	10	9
-CAA	7	15	10	8	1	6	8	3	2	10	4
-CAG	0	1	0	0	1	4	0	0	1	1	1
-CGT	4	2	1	0	0	0	1	1	0	0	0
-CGC	0	1	1	3	0	3	0	0	1	3	1
-CGA	4	1	6	2	0	3	4	1	2	7	7
-CGG	0	0	0	1	0	0	0	0	0	1	0
-ATT	13	14	30	11	0	11	9	4	0	18	21
-ATC	12	10	12	10	1	8	7	5	1	14	15
-ATA	5	9	15	9	0	4	7	2	3	24	9
-ATG	5	2	10	2	1	4	2	1	3	2	2
-ACT	9	5	10	1	0	1	4	1	4	2	4
-ACC	10	28	14	4	0	12	4	4	3	25	12
-ACA	8	15	11	4	3	11	15	4	2	14	4
-ACG	0	0	1	1	0	0	0	0	0	2	1
-AAT	2	1	6	0	1	2	1	0	0	3	7
-AAC	9	9	8	5	2	6	2	1	2	7	10
-AAA	7	7	9	3	3	2	2	1	0	8	9
-AAG	0	1	0	1	0	0	0	0	0	1	0
-AGT	0	0	0	0	0	2	0	0	1	4	0
-AGC	4	4	5	4	1	4	3	0	3	5	1
-GTT	4	1	11	3	2	4	4	6	1	1	3
-GTC	5	3	10	5	2	4	8	1	0	5	12
-GTA	5	0	15	7	0	3	2	0	0	5	3
-GTG	0	0	2	2	0	0	0	0	0	2	0
-GCT	1	6	8	4	0	2	4	2	3	12	3
-GCC	17	20	20	5	3	10	11	1	5	14	16
-GCA	8	10	18	8	1	5	7	2	4	12	16
-GCG	1	1	0	0	0	1	1	0	0	0	0
-GAT	0	0	2	5	0	0	0	0	1	0	1
-GAC	4	1	12	8	0	1	5	4	0	3	10
-GAA	9	5	10	13	3	3	10	6	2	10	5
-GAG	1	0	1	2	0	1	0	0	0	2	0
-GGT	2	1	9	1	0	4	4	0	0	1	4
-GGC	9	8	19	2	0	3	10	3	3	13	9
-GGA	5	8	14	5	0	2	7	2	2	9	11
-GGG	2	1	4	1	0	0	0	1	0	2	1
-TAA	1	0	1	0	1	1	0	0	1	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009344740.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	9	11	8	0	2	8	10	0	5	4	0	0	7	1	16	23	18	3	3	15	4	1	3	1	7	0	4	0	4	0	13	12	5	5	9	10	8	0	2	9	7	0	0	4	4	5	5	0	1	17	8	1	0	4	9	1	2	9	5	2	1	0	0	0
+1	ND2	YP_009344741.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	6	6	6	0	6	12	3	0	2	6	0	0	10	1	17	27	27	4	5	11	3	0	3	3	15	1	2	1	1	0	14	10	9	2	5	28	15	0	1	9	7	1	0	4	1	3	0	0	6	20	10	1	0	1	5	0	1	8	8	1	0	0	0	0
+2	COX1	YP_009344742.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	23	19	11	1	4	10	10	2	5	13	0	1	15	3	18	13	16	3	9	9	10	2	3	16	10	0	1	1	6	0	30	12	15	10	10	14	11	1	6	8	9	0	0	5	11	10	15	2	8	20	18	0	2	12	10	1	9	19	14	4	1	0	0	0
+3	COX2	YP_009344743.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	5	6	5	0	4	5	3	0	5	3	0	2	5	0	8	8	6	1	4	7	3	0	4	6	8	0	0	3	2	1	11	10	9	2	1	4	4	1	0	5	3	1	0	4	3	5	7	2	4	5	8	0	5	8	13	2	1	2	5	1	0	0	0	0
+4	ATP8	YP_009344744.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	3	1	1	1	0	2	0	0	0	0	0	0	5	0	1	2	2	0	3	2	5	0	1	1	1	1	0	0	0	0	0	1	0	1	0	0	3	0	1	2	3	0	0	1	2	2	0	0	0	3	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009344745.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	7	6	7	2	0	2	0	0	2	3	0	0	5	0	13	9	24	0	5	5	6	0	2	3	6	4	0	3	3	0	11	8	4	4	1	12	11	0	2	6	2	0	2	4	4	4	3	0	2	10	5	1	0	1	3	1	4	3	2	0	1	0	0	0
+6	COX3	YP_009344746.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	8	14	5	1	1	4	4	0	5	6	0	2	12	0	6	11	9	2	3	8	1	0	6	11	8	0	1	0	4	0	9	7	7	2	4	4	15	0	1	2	2	0	0	3	4	8	2	0	4	11	7	1	0	5	10	0	4	10	7	0	0	0	0	0
+7	ND3	YP_009344747.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	7	2	3	0	4	2	2	0	1	1	1	0	5	0	5	13	5	0	2	3	3	0	0	1	3	0	1	0	1	0	4	5	2	1	1	4	4	0	0	1	1	0	0	0	6	1	0	0	2	1	2	0	0	4	6	0	0	3	2	1	0	0	0	0
+8	ND4L	YP_009344748.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	2	5	1	1	2	4	2	0	0	0	0	3	1	0	8	5	6	3	1	1	0	0	0	4	2	1	0	1	2	0	0	1	3	3	4	3	2	0	0	2	0	0	1	3	1	0	0	0	3	5	4	0	1	0	2	0	0	3	2	0	1	0	0	0
+9	ND4	YP_009344749.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	9	9	9	1	6	14	8	0	6	8	1	3	17	1	25	25	32	7	7	15	4	0	1	10	10	1	0	3	7	1	18	14	24	2	2	25	14	2	3	7	8	1	4	5	1	5	5	2	12	14	12	0	0	3	10	2	1	13	9	2	0	0	0	0
+10	CYTB	YP_009344752.1	Rocio octofasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, New World cichlids, Cichlasomatinae, Heroini, Rocio	9	22	5	0	4	10	7	0	8	6	2	1	10	1	9	34	9	6	1	9	11	0	3	9	4	1	0	1	7	0	21	15	9	2	4	12	4	1	7	10	9	0	0	1	3	12	3	0	3	16	16	0	1	10	5	0	4	9	11	1	1	0	0	0

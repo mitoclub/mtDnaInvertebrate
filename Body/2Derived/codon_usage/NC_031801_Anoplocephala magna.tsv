@@ -1,65 +1,13 @@
-	YP_009316236.1	YP_009316237.1	YP_009316238.1	YP_009316239.1	YP_009316240.1	YP_009316241.1	YP_009316242.1	YP_009316243.1	YP_009316244.1	YP_009316245.1	YP_009316246.1	YP_009316247.1
-TTT	54	14	25	62	24	41	12	47	23	59	35	21
-TTC	1	1	0	1	0	0	1	7	2	2	3	0
-TTA	27	9	12	45	17	33	10	47	18	19	15	8
-TTG	36	11	12	26	14	12	4	19	6	18	17	11
-TCT	18	5	5	19	6	12	1	11	3	13	6	3
-TCC	0	0	0	0	0	0	0	1	0	0	0	0
-TCA	5	1	0	8	0	4	2	6	3	3	2	1
-TCG	5	1	1	2	2	4	0	2	0	0	3	1
-TAT	19	10	12	27	13	21	0	20	9	18	19	11
-TAC	0	3	0	4	1	2	0	2	1	2	5	0
-TGT	16	7	5	17	10	10	3	18	8	12	13	2
-TGC	1	1	2	4	0	2	0	1	1	2	1	1
-TGA	13	1	2	8	6	11	0	8	2	7	2	1
-TGG	7	2	0	4	2	1	1	4	0	4	4	1
-CTT	12	2	2	6	3	6	1	3	1	2	5	0
-CTC	0	0	0	0	0	0	0	1	0	0	0	0
-CTA	0	0	0	6	1	0	1	2	1	1	2	0
-CTG	1	1	1	3	1	1	0	4	1	0	2	0
-CCT	15	3	1	1	2	6	0	4	3	3	4	2
-CCC	0	1	0	0	0	0	0	1	0	0	0	0
-CCA	4	1	1	2	0	3	0	3	4	2	2	0
-CCG	1	3	0	1	0	0	0	2	0	0	0	0
-CAT	12	6	0	3	6	6	1	7	2	1	1	0
-CAC	1	0	1	1	0	2	0	0	0	0	0	0
-CAA	2	1	0	2	1	1	0	0	0	2	0	0
-CAG	1	2	0	1	1	3	0	2	0	1	4	1
-CGT	4	2	0	3	1	5	1	4	3	3	5	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	2	0	0	3	0	1	1	1	1	0	1	0
-CGG	1	0	0	1	0	1	0	1	0	0	2	0
-ATT	22	8	6	26	8	16	10	26	11	14	14	6
-ATC	0	0	0	5	1	2	0	0	2	0	0	0
-ATA	14	5	5	15	10	8	2	16	8	5	12	0
-ATG	23	3	7	15	3	13	2	9	2	4	5	3
-ACT	13	4	2	10	5	9	2	7	3	3	5	1
-ACC	0	0	0	1	0	0	0	1	1	0	0	0
-ACA	4	1	0	5	2	1	1	0	0	2	1	0
-ACG	1	1	0	1	0	2	0	1	0	0	1	0
-AAT	13	2	5	10	4	6	3	8	5	4	3	4
-AAC	1	0	0	1	0	0	0	1	0	0	0	0
-AAA	8	6	3	14	0	4	0	5	4	3	2	2
-AAG	6	5	1	10	2	10	0	7	0	5	9	1
-AGT	9	7	4	15	7	10	1	12	5	10	7	2
-AGC	0	0	1	1	0	4	0	1	0	0	0	0
-AGA	3	0	3	16	3	5	1	7	4	2	8	1
-AGG	5	2	2	5	3	2	3	5	2	7	4	2
-GTT	39	11	9	24	18	20	8	8	8	20	16	7
-GTC	0	1	0	1	3	4	0	1	0	0	0	0
-GTA	17	6	6	11	3	9	4	10	4	4	2	3
-GTG	10	6	5	12	2	8	2	4	4	5	4	4
-GCT	12	2	0	8	3	6	1	10	2	1	9	1
-GCC	1	0	0	2	1	1	0	0	0	0	0	0
-GCA	1	2	0	4	0	1	0	2	2	0	2	0
-GCG	0	0	1	0	0	2	0	2	1	1	1	0
-GAT	14	9	0	13	3	8	1	6	1	6	4	1
-GAC	1	1	0	1	2	0	0	0	0	1	0	0
-GAA	4	2	1	2	4	3	2	8	2	1	2	2
-GAG	2	6	1	3	3	6	3	4	1	3	5	1
-GGT	23	8	4	14	7	5	0	13	4	6	15	5
-GGC	1	0	0	0	0	1	0	2	0	0	2	0
-GGA	14	4	2	13	2	2	0	7	2	4	5	3
-GGG	10	1	2	8	4	10	1	4	1	6	5	2
-TAA	0	0	0	1	0	1	0	0	1	0	1	1
-TAG	1	1	1	0	0	0	1	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009316236.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	54	1	27	36	18	0	5	5	19	0	16	1	13	7	12	0	0	1	15	0	4	1	12	1	2	1	4	0	2	1	22	0	14	23	13	0	4	1	13	1	8	6	9	0	3	5	39	0	17	10	12	1	1	0	14	1	4	2	23	1	14	10	0	1
+1	None	YP_009316237.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	14	1	9	11	5	0	1	1	10	3	7	1	1	2	2	0	0	1	3	1	1	3	6	0	1	2	2	0	0	0	8	0	5	3	4	0	1	1	2	0	6	5	7	0	0	2	11	1	6	6	2	0	2	0	9	1	2	6	8	0	4	1	0	1
+2	None	YP_009316238.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	25	0	12	12	5	0	0	1	12	0	5	2	2	0	2	0	0	1	1	0	1	0	0	1	0	0	0	0	0	0	6	0	5	7	2	0	0	0	5	0	3	1	4	1	3	2	9	0	6	5	0	0	0	1	0	0	1	1	4	0	2	2	0	1
+3	None	YP_009316239.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	62	1	45	26	19	0	8	2	27	4	17	4	8	4	6	0	6	3	1	0	2	1	3	1	2	1	3	0	3	1	26	5	15	15	10	1	5	1	10	1	14	10	15	1	16	5	24	1	11	12	8	2	4	0	13	1	2	3	14	0	13	8	1	0
+4	None	YP_009316240.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	24	0	17	14	6	0	0	2	13	1	10	0	6	2	3	0	1	1	2	0	0	0	6	0	1	1	1	0	0	0	8	1	10	3	5	0	2	0	4	0	0	2	7	0	3	3	18	3	3	2	3	1	0	0	3	2	4	3	7	0	2	4	0	0
+5	None	YP_009316241.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	41	0	33	12	12	0	4	4	21	2	10	2	11	1	6	0	0	1	6	0	3	0	6	2	1	3	5	0	1	1	16	2	8	13	9	0	1	2	6	0	4	10	10	4	5	2	20	4	9	8	6	1	1	2	8	0	3	6	5	1	2	10	1	0
+6	None	YP_009316242.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	12	1	10	4	1	0	2	0	0	0	3	0	0	1	1	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	10	0	2	2	2	0	1	0	3	0	0	0	1	0	1	3	8	0	4	2	1	0	0	0	1	0	2	3	0	0	0	1	0	1
+7	None	YP_009316243.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	47	7	47	19	11	1	6	2	20	2	18	1	8	4	3	1	2	4	4	1	3	2	7	0	0	2	4	0	1	1	26	0	16	9	7	1	0	1	8	1	5	7	12	1	7	5	8	1	10	4	10	0	2	2	6	0	8	4	13	2	7	4	0	1
+8	None	YP_009316244.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	23	2	18	6	3	0	3	0	9	1	8	1	2	0	1	0	1	1	3	0	4	0	2	0	0	0	3	0	1	0	11	2	8	2	3	1	0	0	5	0	4	0	5	0	4	2	8	0	4	4	2	0	2	1	1	0	2	1	4	0	2	1	1	0
+9	None	YP_009316245.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	59	2	19	18	13	0	3	0	18	2	12	2	7	4	2	0	1	0	3	0	2	0	1	0	2	1	3	0	0	0	14	0	5	4	3	0	2	0	4	0	3	5	10	0	2	7	20	0	4	5	1	0	0	1	6	1	1	3	6	0	4	6	0	1
+10	None	YP_009316246.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	35	3	15	17	6	0	2	3	19	5	13	1	2	4	5	0	2	2	4	0	2	0	1	0	0	4	5	0	1	2	14	0	12	5	5	0	1	1	3	0	2	9	7	0	8	4	16	0	2	4	9	0	2	1	4	0	2	5	15	2	5	5	1	0
+11	None	YP_009316247.1	Anoplocephala magna	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Cyclophyllidea, Anoplocephalidae, Anoplocephala	21	0	8	11	3	0	1	1	11	0	2	1	1	1	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	6	0	0	3	1	0	0	0	4	0	2	1	2	0	1	2	7	0	3	4	1	0	0	0	1	0	2	1	5	0	3	2	1	0

@@ -1,65 +1,13 @@
-	YP_009158787.1|ND1	YP_009158788.1|ND2	YP_009158789.1|COX1	YP_009158790.1|COX2	YP_009158791.1|ATP8	YP_009158792.1|ATP6	YP_009158793.1|COX3	YP_009158794.1|ND3	YP_009158795.1|ND4L	YP_009158796.1|ND4	YP_009158797.1|ND5	YP_009158799.1|CYTB
-TTT	9	3	17	2	1	6	11	5	1	4	14	13
-TTC	8	5	24	6	3	4	12	2	5	10	26	18
-TTA	9	6	11	3	2	7	4	6	3	11	13	6
-TTG	1	1	2	0	0	0	0	0	1	1	5	2
-TCT	3	3	5	1	0	0	3	1	3	0	5	6
-TCC	8	6	9	8	1	1	3	4	3	13	11	7
-TCA	5	9	8	5	1	1	3	1	1	10	12	8
-TCG	1	0	3	0	0	0	0	0	0	0	2	0
-TAT	6	3	7	5	0	0	3	2	0	4	4	4
-TAC	8	6	12	5	0	3	9	0	1	10	7	9
-TGT	1	1	0	0	0	0	0	0	1	3	2	0
-TGC	0	1	1	2	0	0	2	2	2	3	4	3
-TGA	8	9	14	4	5	3	12	4	1	17	11	12
-TGG	0	2	3	1	0	2	0	1	0	2	3	1
-CTT	3	7	8	4	1	7	6	5	3	12	19	9
-CTC	15	13	9	5	0	15	6	3	8	15	12	18
-CTA	29	26	22	13	2	17	11	10	8	35	35	20
-CTG	4	9	10	3	1	10	4	2	1	12	10	4
-CCT	4	0	4	1	2	1	1	1	1	5	5	0
-CCC	7	11	12	6	4	11	5	5	0	10	15	10
-CCA	12	7	10	6	2	4	6	1	1	12	10	10
-CCG	1	0	2	1	1	1	0	2	0	1	0	1
-CAT	1	0	5	3	0	1	1	0	0	1	6	1
-CAC	4	5	14	7	2	3	14	0	5	8	10	11
-CAA	5	11	5	8	1	9	9	1	3	10	13	9
-CAG	1	3	3	0	0	0	0	2	0	2	5	0
-CGT	1	0	2	0	0	0	0	0	0	0	0	0
-CGC	0	0	2	1	0	3	2	1	1	2	1	0
-CGA	7	4	2	5	0	3	4	0	1	9	7	8
-CGG	0	0	2	0	0	0	0	1	0	0	2	0
-ATT	6	10	18	12	6	10	7	5	1	19	23	8
-ATC	20	17	19	6	0	10	8	4	0	24	30	20
-ATA	11	16	15	7	1	7	5	2	4	17	18	8
-ATG	2	7	10	5	1	3	4	1	2	9	11	3
-ACT	2	5	2	2	0	3	1	0	2	3	5	2
-ACC	10	22	15	1	3	10	12	4	5	21	21	8
-ACA	8	21	17	6	0	7	9	1	3	13	24	15
-ACG	0	1	2	2	1	1	2	0	0	2	5	0
-AAT	4	5	5	2	1	0	1	0	1	2	9	5
-AAC	9	8	10	3	2	10	1	2	1	11	20	16
-AAA	5	9	7	4	3	1	2	1	0	9	19	8
-AAG	2	1	1	0	1	0	0	0	0	1	2	1
-AGT	1	4	0	1	0	0	0	0	0	0	3	0
-AGC	1	3	4	2	1	5	3	0	2	7	12	1
-GTT	3	1	5	3	0	3	2	1	0	4	7	1
-GTC	2	3	11	4	0	3	8	3	0	4	10	7
-GTA	7	4	18	10	0	7	6	0	2	8	9	11
-GTG	3	1	10	3	1	1	1	1	0	2	1	5
-GCT	4	2	8	2	0	3	2	0	1	3	11	3
-GCC	16	21	27	6	0	8	9	5	7	21	28	17
-GCA	13	12	10	5	1	7	11	8	3	15	18	8
-GCG	1	1	3	2	0	0	1	0	0	1	1	0
-GAT	0	0	3	1	0	0	1	1	0	0	5	2
-GAC	4	1	12	11	0	1	4	3	1	3	8	9
-GAA	8	4	7	15	3	4	10	5	3	11	9	4
-GAG	3	2	3	1	0	0	0	1	0	2	3	0
-GGT	3	1	5	0	0	1	0	0	0	3	0	3
-GGC	9	8	20	3	1	6	8	2	2	8	10	9
-GGA	3	4	17	4	0	4	9	2	3	9	15	14
-GGG	3	3	5	2	0	0	3	2	1	6	6	2
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009158787.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	9	8	9	1	3	8	5	1	6	8	1	0	8	0	3	15	29	4	4	7	12	1	1	4	5	1	1	0	7	0	6	20	11	2	2	10	8	0	4	9	5	2	1	1	3	2	7	3	4	16	13	1	0	4	8	3	3	9	3	3	0	1	0	0
+1	ND2	YP_009158788.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	3	5	6	1	3	6	9	0	3	6	1	1	9	2	7	13	26	9	0	11	7	0	0	5	11	3	0	0	4	0	10	17	16	7	5	22	21	1	5	8	9	1	4	3	1	3	4	1	2	21	12	1	0	1	4	2	1	8	4	3	0	0	0	0
+2	COX1	YP_009158789.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	17	24	11	2	5	9	8	3	7	12	0	1	14	3	8	9	22	10	4	12	10	2	5	14	5	3	2	2	2	2	18	19	15	10	2	15	17	2	5	10	7	1	0	4	5	11	18	10	8	27	10	3	3	12	7	3	5	20	17	5	1	0	0	0
+3	COX2	YP_009158790.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	2	6	3	0	1	8	5	0	5	5	0	2	4	1	4	5	13	3	1	6	6	1	3	7	8	0	0	1	5	0	12	6	7	5	2	1	6	2	2	3	4	0	1	2	3	4	10	3	2	6	5	2	1	11	15	1	0	3	4	2	0	0	0	0
+4	ATP8	YP_009158791.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	1	3	2	0	0	1	1	0	0	0	0	0	5	0	1	0	2	1	2	4	2	1	0	2	1	0	0	0	0	0	6	0	1	1	0	3	0	1	1	2	3	1	0	1	0	0	0	1	0	0	1	0	0	0	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009158792.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	6	4	7	0	0	1	1	0	0	3	0	0	3	2	7	15	17	10	1	11	4	1	1	3	9	0	0	3	3	0	10	10	7	3	3	10	7	1	0	10	1	0	0	5	3	3	7	1	3	8	7	0	0	1	4	0	1	6	4	0	1	0	0	0
+6	COX3	YP_009158793.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	11	12	4	0	3	3	3	0	3	9	0	2	12	0	6	6	11	4	1	5	6	0	1	14	9	0	0	2	4	0	7	8	5	4	1	12	9	2	1	1	2	0	0	3	2	8	6	1	2	9	11	1	1	4	10	0	0	8	9	3	0	0	0	0
+7	ND3	YP_009158794.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	5	2	6	0	1	4	1	0	2	0	0	2	4	1	5	3	10	2	1	5	1	2	0	0	1	2	0	1	0	1	5	4	2	1	0	4	1	0	0	2	1	0	0	0	1	3	0	1	0	5	8	0	1	3	5	1	0	2	2	2	0	0	0	0
+8	ND4L	YP_009158795.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	1	5	3	1	3	3	1	0	0	1	1	2	1	0	3	8	8	1	1	0	1	0	0	5	3	0	0	1	1	0	1	0	4	2	2	5	3	0	1	1	0	0	0	2	0	0	2	0	1	7	3	0	0	1	3	0	0	2	3	1	1	0	0	0
+9	ND4	YP_009158796.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	4	10	11	1	0	13	10	0	4	10	3	3	17	2	12	15	35	12	5	10	12	1	1	8	10	2	0	2	9	0	19	24	17	9	3	21	13	2	2	11	9	1	0	7	4	4	8	2	3	21	15	1	0	3	11	2	3	8	9	6	0	0	0	0
+10	ND5	YP_009158797.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	14	26	13	5	5	11	12	2	4	7	2	4	11	3	19	12	35	10	5	15	10	0	6	10	13	5	0	1	7	2	23	30	18	11	5	21	24	5	9	20	19	2	3	12	7	10	9	1	11	28	18	1	5	8	9	3	0	10	15	6	1	0	0	0
+11	CYTB	YP_009158799.1	Acipenser schrenckii x Huso dauricus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae	13	18	6	2	6	7	8	0	4	9	0	3	12	1	9	18	20	4	0	10	10	1	1	11	9	0	0	0	8	0	8	20	8	3	2	8	15	0	5	16	8	1	0	1	1	7	11	5	3	17	8	0	2	9	4	0	3	9	14	2	0	0	0	0

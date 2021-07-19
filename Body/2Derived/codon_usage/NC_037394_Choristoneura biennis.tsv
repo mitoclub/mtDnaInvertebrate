@@ -1,65 +1,10 @@
-	YP_009473427.1|ND2	YP_009473428.1|COX1	YP_009473429.1|COX2	YP_009473430.1|ATP8	YP_009473431.1|ATP6	YP_009473432.1|COX3	YP_009473433.1|ND3	YP_009473437.1|ND6	YP_009473438.1|CYTB
-TTT	45	34	14	9	17	24	13	22	29
-TTC	2	3	1	1	3	2	2	1	5
-TTA	39	49	22	4	35	20	11	22	43
-TTG	3	1	0	0	0	0	0	1	0
-TCT	10	14	6	0	7	4	7	2	6
-TCC	3	4	1	1	1	1	2	0	2
-TCA	15	13	5	1	7	3	5	6	5
-TCG	1	0	0	0	0	0	0	0	1
-TAT	10	16	9	2	8	9	2	7	18
-TAC	2	4	0	0	0	2	0	3	2
-TGT	3	1	2	1	0	2	1	1	2
-TGC	0	0	0	0	0	0	0	0	1
-TGA	9	12	6	3	5	13	3	0	11
-TGG	0	2	0	0	0	0	0	1	1
-CTT	3	12	4	0	3	5	1	3	6
-CTC	0	0	0	0	0	0	0	0	1
-CTA	6	3	1	0	2	1	1	2	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	13	5	2	5	6	0	2	15
-CCC	3	6	1	0	2	0	1	0	2
-CCA	2	8	4	0	3	3	3	0	5
-CCG	0	0	0	0	0	1	0	0	0
-CAT	1	14	4	0	2	12	2	1	7
-CAC	0	2	1	0	2	4	0	0	1
-CAA	4	8	9	1	4	6	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	2	0	0	2	1	1	1
-CGC	0	0	0	0	0	0	0	0	1
-CGA	2	8	5	0	3	2	1	0	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	49	50	32	6	21	26	22	23	46
-ATC	3	2	3	0	2	4	0	0	2
-ATA	29	30	8	4	13	13	6	18	20
-ATG	1	1	1	0	1	2	0	0	4
-ACT	1	12	6	1	8	8	2	5	13
-ACC	3	0	0	0	1	1	0	0	2
-ACA	3	20	5	0	7	13	2	3	6
-ACG	0	0	0	0	0	0	0	0	0
-AAT	25	22	19	9	17	11	5	18	25
-AAC	6	3	5	0	1	2	0	2	4
-AAA	17	6	4	7	2	4	6	6	10
-AAG	0	1	0	0	0	0	0	0	0
-AGT	4	1	3	0	4	3	1	1	2
-AGC	0	0	0	0	0	0	0	0	0
-AGA	4	10	2	0	5	3	0	4	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	7	2	1	6	7	2	3	3
-GTC	0	0	0	0	0	0	1	0	1
-GTA	2	19	4	0	4	4	2	2	11
-GTG	0	2	1	0	0	0	0	0	0
-GCT	3	16	4	0	4	6	2	0	9
-GCC	1	3	0	0	0	0	0	0	1
-GCA	1	9	2	0	3	4	0	3	4
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	13	8	0	0	4	2	0	5
-GAC	0	2	0	0	1	0	1	0	3
-GAA	5	9	8	0	5	6	4	4	4
-GAG	0	0	0	0	0	1	0	0	0
-GGT	1	10	3	0	5	6	0	1	1
-GGC	0	0	0	0	0	0	0	1	0
-GGA	10	32	4	0	6	12	2	3	24
-GGG	1	3	1	0	0	0	0	0	0
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009473427.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	45	2	39	3	10	3	15	1	10	2	3	0	9	0	3	0	6	0	2	3	2	0	1	0	4	0	0	0	2	0	49	3	29	1	1	3	3	0	25	6	17	0	4	0	4	0	1	0	2	0	3	1	1	0	1	0	5	0	1	0	10	1	1	0
+1	COX1	YP_009473428.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	34	3	49	1	14	4	13	0	16	4	1	0	12	2	12	0	3	0	13	6	8	0	14	2	8	0	1	0	8	0	50	2	30	1	12	0	20	0	22	3	6	1	1	0	10	0	7	0	19	2	16	3	9	0	13	2	9	0	10	0	32	3	0	0
+2	COX2	YP_009473429.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	14	1	22	0	6	1	5	0	9	0	2	0	6	0	4	0	1	0	5	1	4	0	4	1	9	0	2	0	5	0	32	3	8	1	6	0	5	0	19	5	4	0	3	0	2	0	2	0	4	1	4	0	2	0	8	0	8	0	3	0	4	1	0	0
+3	ATP8	YP_009473430.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	9	1	4	0	0	1	1	0	2	0	1	0	3	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	6	0	4	0	1	0	0	0	9	0	7	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009473431.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	17	3	35	0	7	1	7	0	8	0	0	0	5	0	3	0	2	0	5	2	3	0	2	2	4	0	0	0	3	0	21	2	13	1	8	1	7	0	17	1	2	0	4	0	5	0	6	0	4	0	4	0	3	0	0	1	5	0	5	0	6	0	1	0
+5	COX3	YP_009473432.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	24	2	20	0	4	1	3	0	9	2	2	0	13	0	5	0	1	0	6	0	3	1	12	4	6	0	2	0	2	0	26	4	13	2	8	1	13	0	11	2	4	0	3	0	3	0	7	0	4	0	6	0	4	0	4	0	6	1	6	0	12	0	1	0
+6	ND3	YP_009473433.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	13	2	11	0	7	2	5	0	2	0	1	0	3	0	1	0	1	0	0	1	3	0	2	0	1	0	1	0	1	0	22	0	6	0	2	0	2	0	5	0	6	0	1	0	0	0	2	1	2	0	2	0	0	0	2	1	4	0	0	0	2	0	1	0
+7	ND6	YP_009473437.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	22	1	22	1	2	0	6	0	7	3	1	0	0	1	3	0	2	0	2	0	0	0	1	0	3	0	1	0	0	0	23	0	18	0	5	0	3	0	18	2	6	0	1	0	4	0	3	0	2	0	0	0	3	0	0	0	4	0	1	1	3	0	1	0
+8	CYTB	YP_009473438.1	Choristoneura biennis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Tortricoidea, Tortricidae, Tortricinae, Choristoneura	29	5	43	0	6	2	5	1	18	2	2	1	11	1	6	1	3	0	15	2	5	0	7	1	8	0	1	1	5	0	46	2	20	4	13	2	6	0	25	4	10	0	2	0	1	0	3	1	11	0	9	1	4	0	5	3	4	0	1	0	24	0	1	0

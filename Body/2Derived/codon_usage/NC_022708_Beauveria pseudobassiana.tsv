@@ -1,65 +1,16 @@
-	YP_008758054.1|rps3	YP_008758055.1|nad2	YP_008758056.1|nad3	YP_008758057.1|atp9	YP_008758058.1|cox2	YP_008758059.1|nad4L	YP_008758060.1|nad5	YP_008758061.1|cob	YP_008758062.1|cox1	YP_008758063.1|nad1	YP_008758064.1|nad4	YP_008758065.1|atp8	YP_008758066.1|atp6	YP_008758067.1|cox3	YP_008758068.1|nad6
-TTT	21	27	18	2	10	3	42	19	20	21	34	3	14	16	9
-TTC	1	11	0	3	4	2	19	11	24	11	9	2	5	10	4
-TTA	46	78	17	14	30	10	70	53	69	54	71	5	45	30	29
-TTG	1	4	0	0	0	1	4	1	0	4	3	0	1	1	1
-TCT	10	17	2	3	3	3	16	5	10	7	9	1	4	6	5
-TCC	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0
-TCA	7	10	0	3	10	0	20	5	11	10	16	2	9	6	8
-TCG	1	2	0	0	0	0	0	1	0	1	0	0	0	0	1
-TAT	27	31	8	1	12	4	31	18	17	13	26	3	9	10	11
-TAC	3	2	2	1	0	0	3	3	3	2	0	1	1	2	1
-TGT	3	2	2	0	4	0	5	1	2	3	4	0	2	1	0
-TGC	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0
-TGA	5	5	0	0	6	0	8	7	14	5	3	0	1	8	5
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	4	9	1	0	1	2	4	2	1	1	0	0	0	1	1
-CTC	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	6	6	0	0	0	0	2	1	0	2	2	0	0	0	0
-CTG	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-CCT	4	10	1	1	5	0	16	11	17	9	10	2	4	8	3
-CCC	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0
-CCA	5	1	1	0	8	0	3	8	11	2	2	1	3	2	1
-CCG	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
-CAT	11	7	2	0	6	0	12	10	11	3	3	0	5	13	2
-CAC	1	0	0	0	1	0	1	0	4	0	1	0	1	2	0
-CAA	11	10	4	2	7	1	12	9	10	8	7	1	7	4	3
-CAG	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0
-CGT	5	2	0	0	0	0	3	2	0	1	0	2	0	0	0
-CGC	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-ATT	15	37	4	2	9	8	22	8	16	21	18	3	5	3	9
-ATC	2	3	2	0	0	2	5	5	5	0	3	1	6	1	1
-ATA	29	39	10	3	14	13	67	29	33	27	50	5	24	21	25
-ATG	5	9	1	3	8	3	18	14	20	11	11	3	6	6	6
-ACT	20	30	2	2	5	1	17	6	9	5	5	0	1	7	3
-ACC	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0
-ACA	8	6	4	0	5	1	22	12	19	10	23	1	13	14	11
-ACG	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1
-AAT	50	27	8	1	11	3	23	13	16	13	16	2	13	7	19
-AAC	6	5	1	1	2	0	4	6	4	1	4	0	4	1	3
-AAA	56	23	6	2	6	2	18	10	10	6	12	2	5	3	2
-AAG	10	1	0	0	0	0	1	0	1	1	0	0	0	0	0
-AGT	10	29	6	0	3	3	30	11	21	13	20	0	6	8	8
-AGC	5	2	0	0	2	0	2	2	1	0	1	0	2	1	1
-AGA	17	6	2	1	6	3	6	8	11	8	9	1	5	4	1
-AGG	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	6	13	1	3	6	1	9	7	13	2	5	0	1	7	0
-GTC	1	0	0	0	0	0	2	0	0	0	0	1	0	0	2
-GTA	3	19	7	3	7	3	22	15	19	19	21	3	12	11	8
-GTG	1	1	0	0	1	0	5	2	0	1	0	0	3	2	0
-GCT	5	13	3	5	9	4	22	17	24	20	12	1	7	7	3
-GCC	0	2	1	0	0	1	1	0	2	3	2	0	1	1	0
-GCA	2	8	2	6	4	2	12	12	11	8	13	1	6	9	3
-GCG	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0
-GAT	10	13	2	0	14	2	16	8	13	6	14	0	3	5	3
-GAC	0	2	0	0	1	0	1	0	1	2	0	0	1	0	1
-GAA	10	11	6	1	11	2	12	8	5	12	12	1	6	7	4
-GAG	0	2	0	0	0	1	1	1	1	1	0	0	1	1	1
-GGT	9	13	9	2	8	1	34	14	25	10	18	0	10	15	7
-GGC	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0
-GGA	5	7	2	8	6	5	12	10	26	8	7	0	8	6	4
-GGG	0	7	0	0	0	0	1	3	4	1	4	0	1	1	1
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	rps3	YP_008758054.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	21	1	46	1	10	0	7	1	27	3	3	0	5	0	4	1	6	0	4	0	5	0	11	1	11	1	5	1	0	0	15	2	29	5	20	0	8	0	50	6	56	10	10	5	17	1	6	1	3	1	5	0	2	0	10	0	10	0	9	1	5	0	1	0
+1	nad2	YP_008758055.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	27	11	78	4	17	0	10	2	31	2	2	1	5	0	9	0	6	0	10	0	1	0	7	0	10	0	2	0	0	0	37	3	39	9	30	2	6	0	27	5	23	1	29	2	6	0	13	0	19	1	13	2	8	0	13	2	11	2	13	1	7	7	1	0
+2	nad3	YP_008758056.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	18	0	17	0	2	0	0	0	8	2	2	0	0	0	1	0	0	0	1	1	1	0	2	0	4	1	0	0	0	0	4	2	10	1	2	0	4	0	8	1	6	0	6	0	2	0	1	0	7	0	3	1	2	0	2	0	6	0	9	0	2	0	1	0
+3	atp9	YP_008758057.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	2	3	14	0	3	0	3	0	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	2	0	3	3	2	0	0	0	1	1	2	0	0	0	1	0	3	0	3	0	5	0	6	0	0	0	1	0	2	0	8	0	1	0
+4	cox2	YP_008758058.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	10	4	30	0	3	1	10	0	12	0	4	0	6	0	1	0	0	0	5	0	8	1	6	1	7	0	0	0	0	0	9	0	14	8	5	0	5	0	11	2	6	0	3	2	6	0	6	0	7	1	9	0	4	0	14	1	11	0	8	0	6	0	1	0
+5	nad4L	YP_008758059.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	3	2	10	1	3	1	0	0	4	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	8	2	13	3	1	0	1	1	3	0	2	0	3	0	3	0	1	0	3	0	4	1	2	0	2	0	2	1	1	0	5	0	1	0
+6	nad5	YP_008758060.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	42	19	70	4	16	0	20	0	31	3	5	1	8	0	4	0	2	0	16	0	3	0	12	1	12	1	3	0	0	0	22	5	67	18	17	0	22	0	23	4	18	1	30	2	6	0	9	2	22	5	22	1	12	2	16	1	12	1	34	0	12	1	1	0
+7	cob	YP_008758061.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	19	11	53	1	5	0	5	1	18	3	1	1	7	0	2	0	1	0	11	1	8	1	10	0	9	0	2	0	0	0	8	5	29	14	6	0	12	0	13	6	10	0	11	2	8	0	7	0	15	2	17	0	12	0	8	0	8	1	14	0	10	3	1	0
+8	cox1	YP_008758062.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	20	24	69	0	10	0	11	0	17	3	2	1	14	0	1	0	0	0	17	0	11	0	11	4	10	0	0	0	0	0	16	5	33	20	9	0	19	0	16	4	10	1	21	1	11	0	13	0	19	0	24	2	11	1	13	1	5	1	25	0	26	4	1	0
+9	nad1	YP_008758063.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	21	11	54	4	7	0	10	1	13	2	3	0	5	0	1	0	2	1	9	0	2	0	3	0	8	0	1	0	0	0	21	0	27	11	5	0	10	0	13	1	6	1	13	0	8	0	2	0	19	1	20	3	8	0	6	2	12	1	10	0	8	1	1	0
+10	nad4	YP_008758064.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	34	9	71	3	9	1	16	0	26	0	4	0	3	0	0	0	2	0	10	0	2	0	3	1	7	0	0	0	0	0	18	3	50	11	5	0	23	1	16	4	12	0	20	1	9	0	5	0	21	0	12	2	13	0	14	0	12	0	18	0	7	4	1	0
+11	atp8	YP_008758065.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	3	2	5	0	1	0	2	0	3	1	0	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	2	0	0	0	3	1	5	3	0	0	1	0	2	0	2	0	0	0	1	0	0	1	3	0	1	0	1	0	0	0	1	0	0	0	0	0	1	0
+12	atp6	YP_008758066.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	14	5	45	1	4	0	9	0	9	1	2	0	1	0	0	0	0	0	4	1	3	0	5	1	7	0	0	0	0	0	5	6	24	6	1	0	13	0	13	4	5	0	6	2	5	0	1	0	12	3	7	1	6	0	3	1	6	1	10	1	8	1	1	0
+13	cox3	YP_008758067.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	16	10	30	1	6	0	6	0	10	2	1	0	8	0	1	0	0	0	8	0	2	0	13	2	4	0	0	0	0	0	3	1	21	6	7	1	14	0	7	1	3	0	8	1	4	0	7	0	11	2	7	1	9	0	5	0	7	1	15	0	6	1	1	0
+14	nad6	YP_008758068.1	Beauveria pseudobassiana	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Cordycipitaceae, Beauveria	9	4	29	1	5	0	8	1	11	1	0	0	5	0	1	0	0	0	3	0	1	0	2	0	3	0	0	0	0	1	9	1	25	6	3	0	11	1	19	3	2	0	8	1	1	0	0	2	8	0	3	0	3	0	3	1	4	1	7	0	4	1	1	0

@@ -1,65 +1,13 @@
-	YP_138318.1|ND1	YP_138319.1|ND2	YP_138320.1|COX1	YP_138321.1|COX2	YP_138322.1|ATP8	YP_138323.1|ATP6	YP_138324.1|COX3	YP_138325.1|ND3	YP_138326.1|ND4L	YP_138327.1|ND4	YP_138328.1|ND5	YP_138330.1|CYTB
-TTT	10	9	29	9	4	11	16	6	4	14	24	16
-TTC	8	1	11	2	0	2	8	2	1	2	18	15
-TTA	10	12	11	7	3	11	6	3	5	21	28	11
-TTG	2	0	3	2	0	4	3	0	0	3	5	1
-TCT	1	3	8	4	0	1	2	0	2	6	8	6
-TCC	5	7	5	6	0	1	3	2	0	9	8	4
-TCA	16	9	14	5	1	3	5	3	0	12	28	11
-TCG	3	4	1	0	0	0	1	2	2	1	2	2
-TAT	7	3	10	3	0	2	7	1	0	9	4	4
-TAC	3	4	8	4	1	1	3	1	0	5	8	9
-TGT	0	0	0	1	0	0	0	0	1	2	2	1
-TGC	1	1	1	1	0	0	2	1	2	3	6	2
-TGA	5	11	14	3	5	3	12	5	2	8	9	11
-TGG	2	0	3	2	0	2	0	0	0	7	2	2
-CTT	10	3	12	2	0	8	4	6	5	15	18	8
-CTC	7	4	12	2	0	2	5	1	2	12	8	7
-CTA	24	30	14	11	1	20	14	12	8	25	25	21
-CTG	9	11	9	1	0	9	3	2	0	8	4	9
-CCT	3	1	7	2	0	1	5	0	0	5	3	4
-CCC	2	4	11	0	2	2	2	2	0	9	3	6
-CCA	15	12	9	8	3	12	3	5	0	11	14	12
-CCG	1	2	3	3	2	0	2	1	1	3	4	2
-CAT	0	1	6	3	0	3	1	0	2	5	3	0
-CAC	3	9	13	5	1	3	13	1	4	6	9	12
-CAA	6	11	7	9	3	6	7	2	2	9	18	6
-CAG	1	0	2	0	0	2	1	0	0	3	2	1
-CGT	0	1	2	0	0	0	1	1	0	2	0	0
-CGC	1	0	0	2	0	1	0	1	0	1	4	1
-CGA	7	3	4	3	0	2	4	0	1	5	5	5
-CGG	0	0	3	1	0	1	0	0	1	3	0	2
-ATT	19	18	25	15	4	14	11	6	0	27	39	24
-ATC	11	9	15	5	1	4	4	3	1	11	16	15
-ATA	15	31	21	14	1	11	7	4	8	24	39	14
-ATG	4	4	9	3	1	3	2	3	3	7	10	2
-ACT	3	5	8	3	3	6	3	0	3	6	14	4
-ACC	7	5	7	2	0	5	10	3	4	15	10	4
-ACA	13	28	16	10	2	14	8	4	5	21	24	11
-ACG	0	1	5	0	0	0	0	1	2	3	3	2
-AAT	0	5	9	3	2	1	0	2	0	6	11	9
-AAC	13	11	6	4	5	8	4	2	3	11	17	9
-AAA	7	9	8	4	4	2	2	1	1	9	25	11
-AAG	0	1	0	0	0	1	1	0	0	1	1	0
-AGT	0	1	1	2	0	1	1	1	0	2	2	1
-AGC	1	5	4	2	1	5	2	0	1	7	11	1
-GTT	4	2	7	6	0	2	3	1	0	6	7	6
-GTC	2	2	6	2	1	4	4	1	1	3	0	5
-GTA	6	2	20	4	0	4	8	0	1	9	10	5
-GTG	1	3	6	1	0	1	2	0	0	3	1	0
-GCT	2	2	12	2	0	2	2	3	1	8	7	3
-GCC	4	13	11	3	2	9	8	3	5	11	18	11
-GCA	13	11	16	9	0	2	10	3	6	13	13	10
-GCG	3	1	3	2	0	0	1	0	0	2	2	1
-GAT	2	1	6	3	0	1	2	0	0	0	3	2
-GAC	1	1	9	8	0	0	3	3	1	2	8	5
-GAA	8	3	6	11	1	4	6	6	0	4	6	6
-GAG	3	1	5	2	1	0	3	0	2	6	6	2
-GGT	1	1	7	1	0	1	2	0	2	1	1	2
-GGC	4	2	16	2	0	3	8	4	0	5	10	6
-GGA	5	7	11	1	0	3	8	1	1	6	10	6
-GGG	8	3	12	4	0	3	3	0	2	7	7	12
-TAA	0	1	0	0	1	1	0	0	0	0	1	0
-TAG	1	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	1	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_138318.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	10	8	10	2	1	5	16	3	7	3	0	1	5	2	10	7	24	9	3	2	15	1	0	3	6	1	0	1	7	0	19	11	15	4	3	7	13	0	0	13	7	0	0	1	4	2	6	1	2	4	13	3	2	1	8	3	1	4	5	8	0	1	0	0
+1	ND2	YP_138319.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	9	1	12	0	3	7	9	4	3	4	0	1	11	0	3	4	30	11	1	4	12	2	1	9	11	0	1	0	3	0	18	9	31	4	5	5	28	1	5	11	9	1	1	5	2	2	2	3	2	13	11	1	1	1	3	1	1	2	7	3	1	0	0	0
+2	COX1	YP_138320.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	29	11	11	3	8	5	14	1	10	8	0	1	14	3	12	12	14	9	7	11	9	3	6	13	7	2	2	0	4	3	25	15	21	9	8	7	16	5	9	6	8	0	1	4	7	6	20	6	12	11	16	3	6	9	6	5	7	16	11	12	0	0	0	1
+3	COX2	YP_138321.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	9	2	7	2	4	6	5	0	3	4	1	1	3	2	2	2	11	1	2	0	8	3	3	5	9	0	0	2	3	1	15	5	14	3	3	2	10	0	3	4	4	0	2	2	6	2	4	1	2	3	9	2	3	8	11	2	1	2	1	4	0	0	0	0
+4	ATP8	YP_138322.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	4	0	3	0	0	0	1	0	0	1	0	0	5	0	0	0	1	0	0	2	3	2	0	1	3	0	0	0	0	0	4	1	1	1	3	0	2	0	2	5	4	0	0	1	0	1	0	0	0	2	0	0	0	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_138323.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	11	2	11	4	1	1	3	0	2	1	0	0	3	2	8	2	20	9	1	2	12	0	3	3	6	2	0	1	2	1	14	4	11	3	6	5	14	0	1	8	2	1	1	5	2	4	4	1	2	9	2	0	1	0	4	0	1	3	3	3	1	0	0	0
+6	COX3	YP_138324.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	16	8	6	3	2	3	5	1	7	3	0	2	12	0	4	5	14	3	5	2	3	2	1	13	7	1	1	0	4	0	11	4	7	2	3	10	8	0	0	4	2	1	1	2	3	4	8	2	2	8	10	1	2	3	6	3	2	8	8	3	0	0	0	0
+7	ND3	YP_138325.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	6	2	3	0	0	2	3	2	1	1	0	1	5	0	6	1	12	2	0	2	5	1	0	1	2	0	1	1	0	0	6	3	4	3	0	3	4	1	2	2	1	0	1	0	1	1	0	0	3	3	3	0	0	3	6	0	0	4	1	0	0	1	0	0
+8	ND4L	YP_138326.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	4	1	5	0	2	0	0	2	0	0	1	2	2	0	5	2	8	0	0	0	0	1	2	4	2	0	0	0	1	1	0	1	8	3	3	4	5	2	0	3	1	0	0	1	0	1	1	0	1	5	6	0	0	1	0	2	2	0	1	2	0	0	1	0
+9	ND4	YP_138327.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	14	2	21	3	6	9	12	1	9	5	2	3	8	7	15	12	25	8	5	9	11	3	5	6	9	3	2	1	5	3	27	11	24	7	6	15	21	3	6	11	9	1	2	7	6	3	9	3	8	11	13	2	0	2	4	6	1	5	6	7	0	0	0	0
+10	ND5	YP_138328.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	24	18	28	5	8	8	28	2	4	8	2	6	9	2	18	8	25	4	3	3	14	4	3	9	18	2	0	4	5	0	39	16	39	10	14	10	24	3	11	17	25	1	2	11	7	0	10	1	7	18	13	2	3	8	6	6	1	10	10	7	1	0	0	0
+11	CYTB	YP_138330.1	Paramesotriton hongkongensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Caudata, Salamandroidea, Salamandridae, Pleurodelinae, Paramesotriton	16	15	11	1	6	4	11	2	4	9	1	2	11	2	8	7	21	9	4	6	12	2	0	12	6	1	0	1	5	2	24	15	14	2	4	4	11	2	9	9	11	0	1	1	6	5	5	0	3	11	10	1	2	5	6	2	2	6	6	12	0	0	0	0

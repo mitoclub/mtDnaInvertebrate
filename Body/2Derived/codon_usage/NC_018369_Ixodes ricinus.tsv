@@ -1,65 +1,10 @@
-	YP_006576347.1|ND2	YP_006576348.1|COX1	YP_006576349.2|COX2	YP_006576350.1|ATP8	YP_006576351.1|ATP6	YP_006576352.1|COX3	YP_006576353.1|ND3	YP_006576357.1|ND6	YP_006576358.1|CYTB
-TTT	37	45	18	7	21	29	15	12	34
-TTC	6	4	3	0	3	6	2	4	6
-TTA	38	45	7	9	19	18	9	13	29
-TTG	1	0	0	0	0	0	0	1	1
-TCT	18	22	10	2	12	10	2	8	12
-TCC	0	5	3	1	2	5	3	0	4
-TCA	19	13	15	2	9	8	0	2	7
-TCG	0	1	0	0	1	1	0	1	1
-TAT	5	8	3	1	3	5	1	4	9
-TAC	3	5	2	0	1	0	0	0	6
-TGT	1	2	3	0	1	1	0	0	2
-TGC	1	0	0	0	0	0	1	0	0
-TGA	6	15	6	2	5	13	2	1	9
-TGG	2	0	0	0	0	0	1	0	0
-CTT	10	13	7	1	6	4	5	3	6
-CTC	0	0	0	0	0	3	1	1	5
-CTA	4	1	1	0	5	1	1	6	4
-CTG	0	0	0	0	0	0	0	0	0
-CCT	6	11	7	2	7	5	5	2	14
-CCC	2	3	0	0	1	1	0	2	4
-CCA	3	10	3	0	3	3	1	1	1
-CCG	1	1	0	0	0	0	0	0	1
-CAT	3	16	5	0	5	7	0	1	7
-CAC	2	1	1	0	0	6	0	0	1
-CAA	6	6	4	1	3	6	0	0	4
-CAG	0	2	1	0	0	0	0	0	0
-CGT	0	1	2	0	2	1	0	0	0
-CGC	0	0	2	0	0	0	0	0	0
-CGA	1	8	2	0	0	2	1	0	5
-CGG	0	0	0	0	1	0	0	0	0
-ATT	48	59	30	7	33	30	20	20	40
-ATC	3	0	1	0	1	3	4	3	7
-ATA	30	31	19	4	20	16	3	22	28
-ATG	1	1	1	0	2	1	0	0	1
-ACT	4	12	3	2	6	6	1	4	8
-ACC	2	2	1	0	2	1	0	0	0
-ACA	0	13	6	0	2	5	2	2	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	20	22	12	3	10	7	3	7	21
-AAC	3	4	2	1	2	2	1	1	1
-AAA	15	8	6	6	8	5	7	9	11
-AAG	0	1	0	0	0	0	1	0	0
-AGT	0	4	0	0	0	2	0	0	0
-AGC	0	0	0	0	0	0	0	0	1
-AGA	2	4	2	0	6	7	1	5	3
-AGG	0	0	0	0	0	0	1	0	0
-GTT	0	10	2	0	4	5	1	0	5
-GTC	1	0	0	0	0	1	0	0	1
-GTA	3	12	4	0	1	3	1	3	8
-GTG	0	1	0	0	1	0	0	0	0
-GCT	2	11	1	0	4	4	0	1	4
-GCC	0	3	1	0	0	3	1	0	3
-GCA	2	12	4	0	0	2	1	0	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	11	5	0	0	3	2	0	5
-GAC	0	3	3	0	1	0	0	0	1
-GAA	1	6	10	0	4	7	5	1	3
-GAG	1	1	0	0	0	0	0	0	1
-GGT	3	10	3	0	1	1	0	1	5
-GGC	0	1	0	0	0	1	0	0	2
-GGA	7	29	4	0	3	8	3	1	12
-GGG	0	3	0	0	0	1	0	0	2
-TAA	0	1	0	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006576347.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	37	6	38	1	18	0	19	0	5	3	1	1	6	2	10	0	4	0	6	2	3	1	3	2	6	0	0	0	1	0	48	3	30	1	4	2	0	0	20	3	15	0	0	0	2	0	0	1	3	0	2	0	2	0	0	0	1	1	3	0	7	0	0	0
+1	COX1	YP_006576348.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	45	4	45	0	22	5	13	1	8	5	2	0	15	0	13	0	1	0	11	3	10	1	16	1	6	2	1	0	8	0	59	0	31	1	12	2	13	0	22	4	8	1	4	0	4	0	10	0	12	1	11	3	12	0	11	3	6	1	10	1	29	3	1	0
+2	COX2	YP_006576349.2	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	18	3	7	0	10	3	15	0	3	2	3	0	6	0	7	0	1	0	7	0	3	0	5	1	4	1	2	2	2	0	30	1	19	1	3	1	6	0	12	2	6	0	0	0	2	0	2	0	4	0	1	1	4	0	5	3	10	0	3	0	4	0	0	0
+3	ATP8	YP_006576350.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	7	0	9	0	2	1	2	0	1	0	0	0	2	0	1	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	7	0	4	0	2	0	0	0	3	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_006576351.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	21	3	19	0	12	2	9	1	3	1	1	0	5	0	6	0	5	0	7	1	3	0	5	0	3	0	2	0	0	1	33	1	20	2	6	2	2	0	10	2	8	0	0	0	6	0	4	0	1	1	4	0	0	0	0	1	4	0	1	0	3	0	1	0
+5	COX3	YP_006576352.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	29	6	18	0	10	5	8	1	5	0	1	0	13	0	4	3	1	0	5	1	3	0	7	6	6	0	1	0	2	0	30	3	16	1	6	1	5	0	7	2	5	0	2	0	7	0	5	1	3	0	4	3	2	0	3	0	7	0	1	1	8	1	0	0
+6	ND3	YP_006576353.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	15	2	9	0	2	3	0	0	1	0	0	1	2	1	5	1	1	0	5	0	1	0	0	0	0	0	0	0	1	0	20	4	3	0	1	0	2	0	3	1	7	1	0	0	1	1	1	0	1	0	0	1	1	0	2	0	5	0	0	0	3	0	1	0
+7	ND6	YP_006576357.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	12	4	13	1	8	0	2	1	4	0	0	0	1	0	3	1	6	0	2	2	1	0	1	0	0	0	0	0	0	0	20	3	22	0	4	0	2	0	7	1	9	0	0	0	5	0	0	0	3	0	1	0	0	0	0	0	1	0	1	0	1	0	1	0
+8	CYTB	YP_006576358.1	Ixodes ricinus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Ixodinae, Ixodes	34	6	29	1	12	4	7	1	9	6	2	0	9	0	6	5	4	0	14	4	1	1	7	1	4	0	0	0	5	0	40	7	28	1	8	0	9	0	21	1	11	0	0	1	3	0	5	1	8	0	4	3	6	0	5	1	3	1	5	2	12	2	0	0

@@ -1,65 +1,13 @@
-	YP_009483990.1|ND1	YP_009483991.1|ND2	YP_009483992.1|COX1	YP_009483993.1|COX2	YP_009483994.1|ATP8	YP_009483995.1|ATP6	YP_009483996.1|COX3	YP_009483997.1|ND3	YP_009483998.1|ND4L	YP_009483999.1|ND4	YP_009484000.1|ND5	YP_009484001.1|CYTB
-TTT	4	2	4	0	2	2	3	1	1	1	4	1
-TTC	14	11	39	8	2	11	20	7	4	11	34	26
-TTA	0	5	3	3	0	3	3	2	2	4	5	1
-TTG	0	1	0	1	0	0	0	0	0	0	0	0
-TCT	3	1	4	1	1	2	2	1	0	2	3	4
-TCC	12	15	8	8	1	6	4	2	6	13	21	5
-TCA	3	7	12	7	3	3	8	3	4	12	15	12
-TCG	1	0	1	0	0	1	0	0	0	1	0	1
-TAT	4	1	0	1	0	1	1	0	0	5	0	2
-TAC	12	7	17	6	0	2	10	2	3	9	13	11
-TGT	0	0	0	1	0	0	0	0	1	0	0	1
-TGC	3	2	1	2	0	0	1	1	2	3	6	3
-TGA	8	9	17	5	5	4	12	5	1	12	12	11
-TGG	0	1	0	0	0	0	0	0	0	0	0	0
-CTT	8	11	3	2	2	2	2	2	2	5	7	5
-CTC	14	23	16	9	3	16	9	9	1	37	29	19
-CTA	24	19	31	12	2	34	17	13	13	46	56	41
-CTG	17	7	10	3	0	6	2	5	2	7	5	4
-CCT	4	6	4	0	1	2	2	1	0	1	3	1
-CCC	11	5	10	4	5	2	8	2	2	14	17	12
-CCA	10	8	18	8	4	9	3	4	0	11	12	10
-CCG	0	2	0	0	0	1	0	0	0	1	0	0
-CAT	0	2	3	2	0	1	2	0	1	1	1	1
-CAC	2	6	16	7	0	2	13	0	6	13	9	11
-CAA	5	6	8	6	2	8	6	4	2	13	16	6
-CAG	1	4	0	0	0	0	2	0	0	0	1	1
-CGT	1	0	2	1	0	0	0	0	0	1	1	1
-CGC	3	1	1	2	0	1	3	1	0	4	2	1
-CGA	3	2	4	3	0	4	3	1	2	6	4	7
-CGG	1	1	1	0	0	0	0	0	0	1	1	0
-ATT	3	11	12	1	1	2	4	2	0	8	8	8
-ATC	23	21	26	15	2	15	10	5	4	32	46	26
-ATA	9	12	15	8	1	7	5	4	5	22	24	6
-ATG	3	6	7	2	2	2	2	0	1	4	4	1
-ACT	3	10	8	3	3	2	3	0	1	0	9	3
-ACC	6	18	13	6	4	8	7	10	6	19	36	9
-ACA	10	14	18	8	0	13	10	2	0	15	18	9
-ACG	0	2	1	0	0	0	0	0	0	5	4	2
-AAT	1	3	0	0	2	1	0	0	0	2	3	1
-AAC	12	11	15	9	2	8	5	2	2	15	24	18
-AAA	5	12	9	4	2	4	4	1	0	8	20	10
-AAG	2	1	0	0	0	0	0	0	0	2	1	0
-AGT	3	0	0	0	0	0	0	0	0	1	1	0
-AGC	4	5	4	3	1	4	4	1	4	7	11	1
-GTT	2	1	1	0	0	0	2	0	0	3	2	2
-GTC	5	2	16	9	0	3	8	0	2	2	5	13
-GTA	6	5	15	6	1	4	6	1	1	6	10	7
-GTG	1	0	8	1	0	1	0	1	0	0	2	0
-GCT	6	3	5	4	0	0	6	1	0	8	4	5
-GCC	12	14	23	8	1	13	13	4	8	21	28	15
-GCA	11	11	14	5	0	3	3	2	2	15	15	5
-GCG	2	1	1	0	0	0	0	0	0	0	1	1
-GAT	2	2	2	1	0	0	0	0	0	0	1	2
-GAC	2	0	13	12	0	3	4	3	1	2	7	7
-GAA	9	4	8	11	0	4	6	5	2	9	12	5
-GAG	2	0	2	0	0	0	2	1	0	1	0	2
-GGT	2	2	4	1	0	0	1	0	0	4	0	1
-GGC	9	4	16	3	0	4	7	1	3	10	11	12
-GGA	2	5	23	4	0	2	12	3	1	3	17	9
-GGG	0	1	4	0	0	1	1	1	0	1	4	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009483990.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	4	14	0	0	3	12	3	1	4	12	0	3	8	0	8	14	24	17	4	11	10	0	0	2	5	1	1	3	3	1	3	23	9	3	3	6	10	0	1	12	5	2	3	4	2	5	6	1	6	12	11	2	2	2	9	2	2	9	2	0	0	0	1	0
+1	ND2	YP_009483991.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	2	11	5	1	1	15	7	0	1	7	0	2	9	1	11	23	19	7	6	5	8	2	2	6	6	4	0	1	2	1	11	21	12	6	10	18	14	2	3	11	12	1	0	5	1	2	5	0	3	14	11	1	2	0	4	0	2	4	5	1	0	0	0	0
+2	COX1	YP_009483992.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	4	39	3	0	4	8	12	1	0	17	0	1	17	0	3	16	31	10	4	10	18	0	3	16	8	0	2	1	4	1	12	26	15	7	8	13	18	1	0	15	9	0	0	4	1	16	15	8	5	23	14	1	2	13	8	2	4	16	23	4	0	0	0	1
+3	COX2	YP_009483993.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	0	8	3	1	1	8	7	0	1	6	1	2	5	0	2	9	12	3	0	4	8	0	2	7	6	0	1	2	3	0	1	15	8	2	3	6	8	0	0	9	4	0	0	3	0	9	6	1	4	8	5	0	1	12	11	0	1	3	4	0	1	0	0	0
+4	ATP8	YP_009483994.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	2	2	0	0	1	1	3	0	0	0	0	0	5	0	2	3	2	0	1	5	4	0	0	0	2	0	0	0	0	0	1	2	1	2	3	4	0	0	2	2	2	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009483995.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	2	11	3	0	2	6	3	1	1	2	0	0	4	0	2	16	34	6	2	2	9	1	1	2	8	0	0	1	4	0	2	15	7	2	2	8	13	0	1	8	4	0	0	4	0	3	4	1	0	13	3	0	0	3	4	0	0	4	2	1	1	0	0	0
+6	COX3	YP_009483996.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	3	20	3	0	2	4	8	0	1	10	0	1	12	0	2	9	17	2	2	8	3	0	2	13	6	2	0	3	3	0	4	10	5	2	3	7	10	0	0	5	4	0	0	4	2	8	6	0	6	13	3	0	0	4	6	2	1	7	12	1	0	0	0	0
+7	ND3	YP_009483997.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	1	7	2	0	1	2	3	0	0	2	0	1	5	0	2	9	13	5	1	2	4	0	0	0	4	0	0	1	1	0	2	5	4	0	0	10	2	0	0	2	1	0	0	1	0	0	1	1	1	4	2	0	0	3	5	1	0	1	3	1	1	0	0	0
+8	ND4L	YP_009483998.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	1	4	2	0	0	6	4	0	0	3	1	2	1	0	2	1	13	2	0	2	0	0	1	6	2	0	0	0	2	0	0	4	5	1	1	6	0	0	0	2	0	0	0	4	0	2	1	0	0	8	2	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009483999.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	1	11	4	0	2	13	12	1	5	9	0	3	12	0	5	37	46	7	1	14	11	1	1	13	13	0	1	4	6	1	8	32	22	4	0	19	15	5	2	15	8	2	1	7	3	2	6	0	8	21	15	0	0	2	9	1	4	10	3	1	0	0	0	0
+10	ND5	YP_009484000.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	4	34	5	0	3	21	15	0	0	13	0	6	12	0	7	29	56	5	3	17	12	0	1	9	16	1	1	2	4	1	8	46	24	4	9	36	18	4	3	24	20	1	1	11	2	5	10	2	4	28	15	1	1	7	12	0	0	11	17	4	0	0	1	0
+11	CYTB	YP_009484001.1	Emberiza leucocephalos	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Emberizinae, Emberizini, Emberiza	1	26	1	0	4	5	12	1	2	11	1	3	11	0	5	19	41	4	1	12	10	0	1	11	6	1	1	1	7	0	8	26	6	1	3	9	9	2	1	18	10	0	0	1	2	13	7	0	5	15	5	1	2	7	5	2	1	12	9	2	1	0	0	0

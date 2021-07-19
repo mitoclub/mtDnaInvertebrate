@@ -1,65 +1,17 @@
-	YP_009711089.1|cox1	YP_009711090.1|nad4	YP_009711091.1|orf255	YP_009711092.1|cox3	YP_009711093.1|atp8	YP_009711094.1|nad4L	YP_009711095.1|nad5	YP_009711096.1|cox2	YP_009711097.1|nad2	YP_009711098.1|nad3	YP_009711099.1|nad1	YP_009711100.1|nad6	YP_009711101.1|cob	YP_009711102.1|atp6	YP_009711103.1|rps3	YP_009711104.1|atp9
-TTT	33	37	9	22	7	5	43	8	41	10	29	15	23	18	31	1
-TTC	16	3	1	7	0	1	12	5	5	4	5	2	10	5	6	4
-TTA	41	61	18	21	4	12	70	19	83	14	36	22	40	31	46	9
-TTG	2	3	3	6	1	0	7	2	5	2	3	6	3	3	7	0
-TCT	11	20	10	9	1	3	23	7	42	2	12	17	10	14	25	1
-TCC	2	1	0	1	0	0	2	0	10	1	1	2	2	1	6	0
-TCA	18	9	6	2	3	3	23	6	15	3	7	5	7	4	10	0
-TCG	1	2	0	0	0	0	2	0	0	0	1	1	0	0	1	0
-TAT	18	16	14	6	3	2	22	11	24	1	8	9	14	6	26	1
-TAC	7	8	2	5	1	1	6	6	4	1	2	1	4	5	4	2
-TGT	0	5	7	1	0	0	5	1	1	1	3	1	1	0	2	0
-TGC	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0
-TGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-TGG	12	8	4	7	0	0	7	6	3	0	4	1	9	1	4	0
-CTT	10	9	4	6	2	3	10	2	21	4	8	8	8	6	15	0
-CTC	2	1	3	0	0	0	1	0	3	1	0	0	0	1	2	0
-CTA	8	12	2	1	2	2	19	5	9	5	7	3	4	3	10	3
-CTG	1	1	2	0	0	1	2	1	0	0	1	0	2	2	6	0
-CCT	17	11	5	7	1	0	16	7	9	3	10	4	13	8	13	1
-CCC	0	1	0	1	1	0	2	0	1	0	0	0	3	0	5	0
-CCA	9	6	3	1	1	0	4	2	3	2	4	4	4	0	7	1
-CCG	1	2	1	0	1	0	1	1	0	0	2	0	3	1	1	0
-CAT	7	6	5	10	0	0	9	6	4	1	2	1	10	4	4	0
-CAC	9	1	3	2	0	0	4	1	5	2	1	1	4	1	6	0
-CAA	7	7	7	5	4	1	6	7	8	3	10	5	7	4	13	2
-CAG	2	1	1	1	0	0	3	0	4	2	0	1	1	0	2	0
-CGT	0	1	0	0	0	0	1	0	1	0	1	0	0	1	3	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-CGA	1	2	0	1	0	0	2	1	3	0	2	1	2	2	2	0
-CGG	0	0	0	0	0	0	1	0	0	0	1	0	0	0	3	0
-ATT	16	25	11	12	2	6	29	13	25	8	17	13	16	12	25	2
-ATC	8	9	2	3	1	1	3	4	8	3	6	6	4	8	7	3
-ATA	16	22	7	9	2	11	29	10	36	6	11	6	8	13	22	1
-ATG	16	13	7	5	2	2	15	4	10	3	7	4	12	1	10	3
-ACT	11	15	10	9	1	1	30	9	24	5	10	6	4	10	14	2
-ACC	0	6	5	1	0	0	2	1	3	1	0	1	1	1	3	0
-ACA	19	5	1	6	2	1	16	6	19	3	5	2	9	5	17	3
-ACG	1	1	1	1	0	1	0	1	0	0	0	0	0	2	0	0
-AAT	11	10	14	6	1	4	16	4	27	7	8	10	15	9	47	0
-AAC	8	5	1	1	0	0	3	3	7	0	2	6	3	1	11	1
-AAA	6	9	22	1	3	1	18	5	14	3	7	5	4	5	70	1
-AAG	1	3	4	0	0	0	2	1	2	0	0	0	2	0	12	0
-AGT	6	10	7	7	0	3	17	4	30	0	8	4	6	6	19	0
-AGC	2	2	3	0	1	0	3	2	6	1	0	1	2	3	6	1
-AGA	9	10	9	3	1	4	8	3	8	1	4	1	11	1	25	2
-AGG	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0
-GTT	14	4	6	7	1	0	17	5	10	3	10	5	11	7	7	2
-GTC	5	2	0	0	0	1	2	1	1	2	5	1	1	1	6	1
-GTA	22	16	5	7	1	2	27	4	12	2	10	8	15	8	12	0
-GTG	5	4	0	5	1	0	4	8	5	1	5	3	4	3	4	0
-GCT	22	24	3	15	0	3	26	11	22	2	14	6	14	10	3	6
-GCC	4	2	0	1	1	0	3	1	5	0	2	2	2	1	3	2
-GCA	13	8	2	8	0	2	10	1	8	1	5	1	12	6	4	6
-GCG	4	1	0	1	0	0	3	0	3	0	3	2	0	1	2	1
-GAT	13	9	7	6	0	2	15	14	11	1	8	3	6	2	24	0
-GAC	3	1	0	0	0	0	2	1	3	1	0	1	3	0	4	0
-GAA	14	11	6	6	0	2	14	13	20	4	11	5	8	8	30	1
-GAG	2	3	1	2	0	0	2	1	7	0	2	2	0	0	6	0
-GGT	24	11	6	15	0	3	22	13	20	4	9	10	12	5	8	4
-GGC	1	0	2	0	0	1	1	0	2	0	0	0	1	0	1	0
-GGA	20	11	2	8	0	2	25	2	15	2	7	5	9	6	7	6
-GGG	4	3	0	3	0	1	3	2	8	0	2	1	4	3	3	0
-TAA	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009711089.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	33	16	41	2	11	2	18	1	18	7	0	0	0	12	10	2	8	1	17	0	9	1	7	9	7	2	0	0	1	0	16	8	16	16	11	0	19	1	11	8	6	1	6	2	9	0	14	5	22	5	22	4	13	4	13	3	14	2	24	1	20	4	1	0
+1	nad4	YP_009711090.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	37	3	61	3	20	1	9	2	16	8	5	1	0	8	9	1	12	1	11	1	6	2	6	1	7	1	1	0	2	0	25	9	22	13	15	6	5	1	10	5	9	3	10	2	10	0	4	2	16	4	24	2	8	1	9	1	11	3	11	0	11	3	0	1
+2	orf255	YP_009711091.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	9	1	18	3	10	0	6	0	14	2	7	1	0	4	4	3	2	2	5	0	3	1	5	3	7	1	0	0	0	0	11	2	7	7	10	5	1	1	14	1	22	4	7	3	9	0	6	0	5	0	3	0	2	0	7	0	6	1	6	2	2	0	1	0
+3	cox3	YP_009711092.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	22	7	21	6	9	1	2	0	6	5	1	0	0	7	6	0	1	0	7	1	1	0	10	2	5	1	0	0	1	0	12	3	9	5	9	1	6	1	6	1	1	0	7	0	3	0	7	0	7	5	15	1	8	1	6	0	6	2	15	0	8	3	1	0
+4	atp8	YP_009711093.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	7	0	4	1	1	0	3	0	3	1	0	0	0	0	2	0	2	0	1	1	1	1	0	0	4	0	0	0	0	0	2	1	2	2	1	0	2	0	1	0	3	0	0	1	1	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+5	nad4L	YP_009711094.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	5	1	12	0	3	0	3	0	2	1	0	0	0	0	3	0	2	1	0	0	0	0	0	0	1	0	0	0	0	0	6	1	11	2	1	0	1	1	4	0	1	0	3	0	4	0	0	1	2	0	3	0	2	0	2	0	2	0	3	1	2	1	1	0
+6	nad5	YP_009711095.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	43	12	70	7	23	2	23	2	22	6	5	0	0	7	10	1	19	2	16	2	4	1	9	4	6	3	1	0	2	1	29	3	29	15	30	2	16	0	16	3	18	2	17	3	8	0	17	2	27	4	26	3	10	3	15	2	14	2	22	1	25	3	1	0
+7	cox2	YP_009711096.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	8	5	19	2	7	0	6	0	11	6	1	1	0	6	2	0	5	1	7	0	2	1	6	1	7	0	0	0	1	0	13	4	10	4	9	1	6	1	4	3	5	1	4	2	3	1	5	1	4	8	11	1	1	0	14	1	13	1	13	0	2	2	1	0
+8	nad2	YP_009711097.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	41	5	83	5	42	10	15	0	24	4	1	0	0	3	21	3	9	0	9	1	3	0	4	5	8	4	1	0	3	0	25	8	36	10	24	3	19	0	27	7	14	2	30	6	8	1	10	1	12	5	22	5	8	3	11	3	20	7	20	2	15	8	1	0
+9	nad3	YP_009711098.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	10	4	14	2	2	1	3	0	1	1	1	0	0	0	4	1	5	0	3	0	2	0	1	2	3	2	0	0	0	0	8	3	6	3	5	1	3	0	7	0	3	0	0	1	1	0	3	2	2	1	2	0	1	0	1	1	4	0	4	0	2	0	1	0
+10	nad1	YP_009711099.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	29	5	36	3	12	1	7	1	8	2	3	0	0	4	8	0	7	1	10	0	4	2	2	1	10	0	1	0	2	1	17	6	11	7	10	0	5	0	8	2	7	0	8	0	4	0	10	5	10	5	14	2	5	3	8	0	11	2	9	0	7	2	1	0
+11	nad6	YP_009711100.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	15	2	22	6	17	2	5	1	9	1	1	0	0	1	8	0	3	0	4	0	4	0	1	1	5	1	0	0	1	0	13	6	6	4	6	1	2	0	10	6	5	0	4	1	1	0	5	1	8	3	6	2	1	2	3	1	5	2	10	0	5	1	1	0
+12	cob	YP_009711101.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	23	10	40	3	10	2	7	0	14	4	1	1	0	9	8	0	4	2	13	3	4	3	10	4	7	1	0	0	2	0	16	4	8	12	4	1	9	0	15	3	4	2	6	2	11	0	11	1	15	4	14	2	12	0	6	3	8	0	12	1	9	4	1	0
+13	atp6	YP_009711102.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	18	5	31	3	14	1	4	0	6	5	0	0	0	1	6	1	3	2	8	0	0	1	4	1	4	0	1	0	2	0	12	8	13	1	10	1	5	2	9	1	5	0	6	3	1	0	7	1	8	3	10	1	6	1	2	0	8	0	5	0	6	3	1	0
+14	rps3	YP_009711103.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	31	6	46	7	25	6	10	1	26	4	2	0	1	4	15	2	10	6	13	5	7	1	4	6	13	2	3	1	2	3	25	7	22	10	14	3	17	0	47	11	70	12	19	6	25	1	7	6	12	4	3	3	4	2	24	4	30	6	8	1	7	3	1	0
+15	atp9	YP_009711104.1	Turbinellus floccosus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Phallomycetidae, Gomphales, Gomphaceae, Turbinellus	1	4	9	0	1	0	0	0	1	2	0	0	0	0	0	0	3	0	1	0	1	0	0	0	2	0	0	0	0	0	2	3	1	3	2	0	3	0	0	1	1	0	0	1	2	0	2	1	0	0	6	2	6	1	0	0	1	0	4	0	6	0	1	0

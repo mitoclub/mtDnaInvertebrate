@@ -1,65 +1,10 @@
-	YP_001542716.1|ND2	YP_001542717.1|COX1	YP_001542718.1|COX2	YP_001542719.1|ATP8	YP_001542720.1|ATP6	YP_001542721.1|COX3	YP_001542722.1|ND3	YP_001542726.1|ND6	YP_001542727.1|CYTB
-TTT	18	20	10	5	8	13	6	8	17
-TTC	12	19	4	0	9	11	4	6	14
-TTA	26	29	10	5	19	16	7	12	20
-TTG	6	0	2	0	1	2	1	1	0
-TCT	9	11	2	1	5	3	3	3	7
-TCC	9	4	1	1	4	2	2	5	2
-TCA	6	12	4	4	8	4	7	3	7
-TCG	0	0	2	0	0	0	0	0	0
-TAT	8	13	8	2	4	8	1	3	14
-TAC	5	6	2	1	1	3	0	5	5
-TGT	3	0	2	0	1	2	1	1	2
-TGC	1	0	0	0	0	0	0	0	1
-TGA	3	14	6	3	4	13	5	0	11
-TGG	5	1	0	0	1	0	0	1	1
-CTT	10	14	9	1	12	4	2	9	10
-CTC	2	10	4	0	4	6	3	4	10
-CTA	21	12	5	0	4	5	5	7	12
-CTG	0	0	0	0	2	1	0	0	2
-CCT	7	16	9	3	6	7	3	3	11
-CCC	3	3	1	1	4	4	1	1	6
-CCA	1	8	3	1	1	1	0	1	4
-CCG	0	1	0	0	1	0	0	0	1
-CAT	4	5	6	0	5	7	0	0	5
-CAC	0	10	0	0	2	8	1	3	6
-CAA	7	12	6	1	3	7	0	4	8
-CAG	0	0	0	0	0	1	1	0	0
-CGT	0	1	1	0	2	1	0	0	3
-CGC	1	1	0	0	1	0	0	0	2
-CGA	2	5	4	0	0	3	2	1	2
-CGG	0	1	2	0	0	0	1	0	1
-ATT	24	32	15	6	16	20	12	13	22
-ATC	10	10	3	0	10	4	6	8	12
-ATA	17	21	10	6	10	7	6	10	14
-ATG	4	6	2	0	3	1	0	4	2
-ACT	12	14	5	2	7	8	0	6	9
-ACC	7	6	2	0	6	8	1	4	5
-ACA	13	15	10	1	7	6	2	4	6
-ACG	0	0	2	0	1	1	0	0	1
-AAT	8	12	10	5	8	4	3	9	16
-AAC	10	4	6	0	5	3	1	3	7
-AAA	10	3	3	2	1	1	4	6	4
-AAG	0	3	1	0	0	1	0	0	2
-AGT	1	7	3	1	4	6	1	2	1
-AGC	0	5	2	0	1	0	1	0	0
-AGA	2	2	1	0	4	5	0	2	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	11	7	0	1	1	3	2	10
-GTC	0	9	1	0	0	3	1	2	7
-GTA	6	15	7	0	4	6	2	4	9
-GTG	1	1	0	0	0	2	0	1	2
-GCT	4	13	4	0	3	7	1	3	7
-GCC	7	8	4	1	6	3	5	2	10
-GCA	6	15	2	0	1	3	1	0	6
-GCG	1	1	0	0	0	0	0	0	2
-GAT	1	8	5	0	1	2	2	1	10
-GAC	1	7	4	0	0	2	1	2	1
-GAA	8	9	9	0	4	7	5	2	3
-GAG	0	0	0	0	0	0	0	0	0
-GGT	3	16	2	0	2	4	1	2	10
-GGC	1	0	2	0	2	1	0	0	2
-GGA	8	21	4	0	4	13	1	1	11
-GGG	3	9	1	0	2	1	1	1	2
-TAA	0	0	0	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_001542716.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	18	12	26	6	9	9	6	0	8	5	3	1	3	5	10	2	21	0	7	3	1	0	4	0	7	0	0	1	2	0	24	10	17	4	12	7	13	0	8	10	10	0	1	0	2	0	5	0	6	1	4	7	6	1	1	1	8	0	3	1	8	3	0	0
+1	COX1	YP_001542717.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	20	19	29	0	11	4	12	0	13	6	0	0	14	1	14	10	12	0	16	3	8	1	5	10	12	0	1	1	5	1	32	10	21	6	14	6	15	0	12	4	3	3	7	5	2	0	11	9	15	1	13	8	15	1	8	7	9	0	16	0	21	9	0	0
+2	COX2	YP_001542718.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	10	4	10	2	2	1	4	2	8	2	2	0	6	0	9	4	5	0	9	1	3	0	6	0	6	0	1	0	4	2	15	3	10	2	5	2	10	2	10	6	3	1	3	2	1	0	7	1	7	0	4	4	2	0	5	4	9	0	2	2	4	1	0	0
+3	ATP8	YP_001542719.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	5	0	5	0	1	1	4	0	2	1	0	0	3	0	1	0	0	0	3	1	1	0	0	0	1	0	0	0	0	0	6	0	6	0	2	0	1	0	5	0	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_001542720.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	8	9	19	1	5	4	8	0	4	1	1	0	4	1	12	4	4	2	6	4	1	1	5	2	3	0	2	1	0	0	16	10	10	3	7	6	7	1	8	5	1	0	4	1	4	0	1	0	4	0	3	6	1	0	1	0	4	0	2	2	4	2	0	0
+5	COX3	YP_001542721.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	13	11	16	2	3	2	4	0	8	3	2	0	13	0	4	6	5	1	7	4	1	0	7	8	7	1	1	0	3	0	20	4	7	1	8	8	6	1	4	3	1	1	6	0	5	0	1	3	6	2	7	3	3	0	2	2	7	0	4	1	13	1	1	0
+6	ND3	YP_001542722.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	6	4	7	1	3	2	7	0	1	0	1	0	5	0	2	3	5	0	3	1	0	0	0	1	0	1	0	0	2	1	12	6	6	0	0	1	2	0	3	1	4	0	1	1	0	0	3	1	2	0	1	5	1	0	2	1	5	0	1	0	1	1	0	0
+7	ND6	YP_001542726.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	8	6	12	1	3	5	3	0	3	5	1	0	0	1	9	4	7	0	3	1	1	0	0	3	4	0	0	0	1	0	13	8	10	4	6	4	4	0	9	3	6	0	2	0	2	0	2	2	4	1	3	2	0	0	1	2	2	0	2	0	1	1	1	0
+8	CYTB	YP_001542727.1	Anabrus simplex	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Tettigoniinae, Anabrus	17	14	20	0	7	2	7	0	14	5	2	1	11	1	10	10	12	2	11	6	4	1	5	6	8	0	3	2	2	1	22	12	14	2	9	5	6	1	16	7	4	2	1	0	1	0	10	7	9	2	7	10	6	2	10	1	3	0	10	2	11	2	0	0

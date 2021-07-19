@@ -1,65 +1,10 @@
-	YP_009373267.1|ND2	YP_009373268.1|COX1	YP_009373269.1|COX2	YP_009373270.1|ATP8	YP_009373271.1|ATP6	YP_009373272.1|COX3	YP_009373273.1|ND3	YP_009373277.1|ND6	YP_009373278.1|CYTB
-TTT	49	29	13	7	21	21	13	23	27
-TTC	3	9	1	1	5	5	1	1	8
-TTA	34	43	20	2	30	20	15	23	45
-TTG	1	1	1	0	0	1	0	0	0
-TCT	17	21	6	0	14	6	2	6	8
-TCC	2	5	0	0	1	1	0	1	0
-TCA	9	11	5	0	1	3	7	4	9
-TCG	0	0	0	0	0	0	0	0	0
-TAT	7	16	10	3	5	11	1	6	19
-TAC	2	2	0	0	0	2	0	3	2
-TGT	2	1	1	0	0	2	1	0	3
-TGC	1	0	1	0	0	1	1	1	0
-TGA	9	14	6	3	5	13	2	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	3	12	5	2	5	4	3	4	5
-CTC	0	0	0	0	0	0	0	0	2
-CTA	5	8	0	0	2	2	0	0	4
-CTG	0	0	0	0	1	0	0	0	0
-CCT	4	8	5	1	7	4	3	1	11
-CCC	2	7	3	1	1	1	1	1	4
-CCA	1	10	2	0	2	3	1	0	7
-CCG	0	0	0	0	0	0	0	0	0
-CAT	2	14	5	1	6	11	2	1	6
-CAC	0	2	0	0	0	3	0	0	2
-CAA	4	9	9	1	3	6	1	3	7
-CAG	0	0	0	0	0	0	0	0	1
-CGT	0	0	4	0	1	1	0	0	0
-CGC	0	0	0	0	0	1	0	0	0
-CGA	2	9	3	0	2	2	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	56	57	33	9	27	28	17	24	50
-ATC	2	2	2	0	3	4	4	1	6
-ATA	27	33	8	4	9	10	8	21	13
-ATG	1	0	2	0	1	1	0	2	1
-ACT	4	14	10	0	10	9	1	4	11
-ACC	1	3	0	1	1	1	0	1	3
-ACA	0	11	1	0	5	9	3	0	10
-ACG	1	0	0	0	0	0	0	0	0
-AAT	35	21	19	11	16	12	8	15	23
-AAC	2	3	4	1	2	1	1	2	3
-AAA	15	5	4	6	3	5	5	6	10
-AAG	0	1	0	0	0	0	0	0	0
-AGT	0	1	3	0	1	1	0	1	1
-AGC	0	0	0	0	0	1	0	0	0
-AGA	7	10	3	0	9	3	1	3	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	6	5	0	4	5	0	3	9
-GTC	0	1	0	0	0	0	0	0	0
-GTA	3	15	2	0	2	7	2	3	2
-GTG	0	0	0	0	0	0	0	0	0
-GCT	1	16	2	0	3	9	1	0	5
-GCC	1	4	1	0	0	0	0	0	3
-GCA	3	6	3	0	2	3	1	1	8
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	14	8	0	0	4	3	0	7
-GAC	0	1	0	0	1	0	0	0	1
-GAA	4	9	9	0	3	8	4	3	4
-GAG	1	0	0	0	1	0	0	0	0
-GGT	3	10	2	0	3	2	0	1	2
-GGC	2	1	0	0	1	1	0	0	0
-GGA	7	34	6	0	6	14	2	4	20
-GGG	0	1	0	0	0	0	0	0	1
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009373267.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	49	3	34	1	17	2	9	0	7	2	2	1	9	0	3	0	5	0	4	2	1	0	2	0	4	0	0	0	2	0	56	2	27	1	4	1	0	1	35	2	15	0	0	0	7	0	2	0	3	0	1	1	3	0	0	0	4	1	3	2	7	0	1	0
+1	COX1	YP_009373268.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	29	9	43	1	21	5	11	0	16	2	1	0	14	0	12	0	8	0	8	7	10	0	14	2	9	0	0	0	9	0	57	2	33	0	14	3	11	0	21	3	5	1	1	0	10	0	6	1	15	0	16	4	6	0	14	1	9	0	10	1	34	1	0	0
+2	COX2	YP_009373269.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	13	1	20	1	6	0	5	0	10	0	1	1	6	0	5	0	0	0	5	3	2	0	5	0	9	0	4	0	3	0	33	2	8	2	10	0	1	0	19	4	4	0	3	0	3	0	5	0	2	0	2	1	3	0	8	0	9	0	2	0	6	0	0	0
+3	ATP8	YP_009373270.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	7	1	2	0	0	0	0	0	3	0	0	0	3	0	2	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	9	0	4	0	0	1	0	0	11	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009373271.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	21	5	30	0	14	1	1	0	5	0	0	0	5	0	5	0	2	1	7	1	2	0	6	0	3	0	1	0	2	0	27	3	9	1	10	1	5	0	16	2	3	0	1	0	9	0	4	0	2	0	3	0	2	0	0	1	3	1	3	1	6	0	1	0
+5	COX3	YP_009373272.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	21	5	20	1	6	1	3	0	11	2	2	1	13	0	4	0	2	0	4	1	3	0	11	3	6	0	1	1	2	0	28	4	10	1	9	1	9	0	12	1	5	0	1	1	3	0	5	0	7	0	9	0	3	0	4	0	8	0	2	1	14	0	1	0
+6	ND3	YP_009373273.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	13	1	15	0	2	0	7	0	1	0	1	1	2	0	3	0	0	0	3	1	1	0	2	0	1	0	0	0	2	0	17	4	8	0	1	0	3	0	8	1	5	0	0	0	1	0	0	0	2	0	1	0	1	0	3	0	4	0	0	0	2	0	0	1
+7	ND6	YP_009373277.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	23	1	23	0	6	1	4	0	6	3	0	1	2	0	4	0	0	0	1	1	0	0	1	0	3	0	0	0	1	0	24	1	21	2	4	1	0	0	15	2	6	0	1	0	3	0	3	0	3	0	0	0	1	0	0	0	3	0	1	0	4	0	1	0
+8	CYTB	YP_009373278.1	Graphium leechi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Graphium	27	8	45	0	8	0	9	0	19	2	3	0	12	0	5	2	4	0	11	4	7	0	6	2	7	1	0	0	7	0	50	6	13	1	11	3	10	0	23	3	10	0	1	0	1	0	9	0	2	0	5	3	8	0	7	1	4	0	2	0	20	1	1	0

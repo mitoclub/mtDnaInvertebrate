@@ -1,65 +1,12 @@
-	YP_009114084.1|rps3	YP_009114085.1|rpl16	YP_009114086.1|cox1	YP_009114087.1|cox2	YP_009114088.1|cox3	YP_009114089.1|ymf39	YP_009114090.1|cob	YP_009114106.1|orf43	YP_009114107.1|orf44	YP_009114108.1|rpl20	YP_009114109.1|nad4L
-TTT	15	5	43	9	22	11	23	17	9	5	5
-TTC	1	2	6	3	6	1	7	1	2	0	0
-TTA	12	9	37	15	18	21	27	12	6	7	11
-TTG	5	3	7	2	4	2	10	6	5	0	2
-TCT	5	7	14	8	9	7	8	4	4	1	5
-TCC	2	3	2	2	0	1	0	3	0	0	0
-TCA	6	2	8	1	2	5	6	4	1	2	1
-TCG	3	2	2	2	2	0	0	3	2	1	2
-TAT	5	4	17	6	7	3	12	10	6	0	3
-TAC	4	2	4	6	4	0	7	6	3	0	1
-TGT	1	2	3	2	4	2	2	1	5	1	0
-TGC	2	0	1	2	0	2	1	2	0	0	0
-TGA	0	0	7	4	6	0	5	4	1	0	0
-TGG	4	1	8	4	6	2	7	1	0	0	1
-CTT	7	3	7	4	6	4	8	7	7	0	3
-CTC	4	0	1	0	1	0	0	0	1	0	0
-CTA	3	1	5	1	4	4	5	1	4	3	3
-CTG	0	1	3	3	0	3	0	0	1	1	0
-CCT	4	2	16	8	4	1	13	4	3	1	0
-CCC	0	1	6	1	1	0	4	0	1	0	0
-CCA	3	0	6	3	3	0	2	6	1	0	0
-CCG	0	0	2	0	1	1	1	1	0	0	0
-CAT	2	2	14	6	11	1	14	2	2	1	1
-CAC	1	2	4	3	2	1	2	1	1	0	0
-CAA	7	5	7	4	6	8	5	11	11	2	2
-CAG	3	0	1	4	1	1	1	1	2	0	1
-CGT	1	1	4	2	5	1	2	1	2	3	1
-CGC	0	1	0	0	0	0	1	1	2	0	0
-CGA	1	0	0	0	0	0	0	1	1	0	0
-CGG	0	0	0	0	0	1	0	3	2	0	0
-ATT	8	12	25	16	11	8	29	9	10	1	8
-ATC	2	1	2	1	3	1	3	0	3	1	0
-ATA	10	4	15	11	6	8	11	4	8	3	6
-ATG	3	4	28	7	6	2	11	4	5	1	7
-ACT	5	1	10	5	9	2	5	7	5	2	0
-ACC	1	1	5	0	2	0	2	2	1	0	0
-ACA	3	6	16	6	4	8	4	6	8	2	4
-ACG	2	0	4	1	2	0	1	4	0	1	0
-AAT	16	6	15	9	2	12	6	9	12	2	5
-AAC	2	4	5	4	2	6	6	3	7	1	0
-AAA	20	14	9	5	4	13	7	17	18	8	2
-AAG	3	6	1	0	0	2	0	5	5	3	0
-AGT	8	4	8	8	6	1	8	7	1	1	3
-AGC	1	2	2	0	1	1	1	1	5	0	2
-AGA	0	1	6	2	2	1	7	3	1	2	1
-AGG	3	1	1	2	0	3	1	2	2	0	0
-GTT	7	1	11	11	14	5	12	6	7	3	3
-GTC	1	0	4	0	2	0	2	0	1	0	0
-GTA	5	3	14	9	10	6	17	5	8	0	3
-GTG	2	1	7	3	0	1	2	3	2	3	2
-GCT	2	3	22	5	7	2	13	2	4	0	2
-GCC	1	0	1	2	2	1	3	0	2	0	0
-GCA	2	0	13	6	8	2	12	0	5	2	2
-GCG	0	0	3	2	2	1	0	4	0	0	0
-GAT	3	1	9	10	3	1	10	5	4	1	1
-GAC	1	0	5	4	2	2	2	2	3	0	1
-GAA	7	2	7	11	5	6	5	8	5	2	2
-GAG	0	1	2	2	2	1	1	8	1	1	1
-GGT	5	5	23	6	9	5	12	4	8	2	3
-GGC	0	0	8	1	2	0	1	1	3	2	1
-GGA	2	1	15	2	3	0	8	3	0	0	0
-GGG	1	2	4	1	6	1	5	1	1	0	0
-TAA	1	1	1	0	1	0	1	1	0	0	0
-TAG	0	0	0	1	0	1	0	0	1	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	rps3	YP_009114084.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	15	1	12	5	5	2	6	3	5	4	1	2	0	4	7	4	3	0	4	0	3	0	2	1	7	3	1	0	1	0	8	2	10	3	5	1	3	2	16	2	20	3	8	1	0	3	7	1	5	2	2	1	2	0	3	1	7	0	5	0	2	1	1	0
+1	rpl16	YP_009114085.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	5	2	9	3	7	3	2	2	4	2	2	0	0	1	3	0	1	1	2	1	0	0	2	2	5	0	1	1	0	0	12	1	4	4	1	1	6	0	6	4	14	6	4	2	1	1	1	0	3	1	3	0	0	0	1	0	2	1	5	0	1	2	1	0
+2	cox1	YP_009114086.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	43	6	37	7	14	2	8	2	17	4	3	1	7	8	7	1	5	3	16	6	6	2	14	4	7	1	4	0	0	0	25	2	15	28	10	5	16	4	15	5	9	1	8	2	6	1	11	4	14	7	22	1	13	3	9	5	7	2	23	8	15	4	1	0
+3	cox2	YP_009114087.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	9	3	15	2	8	2	1	2	6	6	2	2	4	4	4	0	1	3	8	1	3	0	6	3	4	4	2	0	0	0	16	1	11	7	5	0	6	1	9	4	5	0	8	0	2	2	11	0	9	3	5	2	6	2	10	4	11	2	6	1	2	1	0	1
+4	cox3	YP_009114088.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	22	6	18	4	9	0	2	2	7	4	4	0	6	6	6	1	4	0	4	1	3	1	11	2	6	1	5	0	0	0	11	3	6	6	9	2	4	2	2	2	4	0	6	1	2	0	14	2	10	0	7	2	8	2	3	2	5	2	9	2	3	6	1	0
+5	ymf39	YP_009114089.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	11	1	21	2	7	1	5	0	3	0	2	2	0	2	4	0	4	3	1	0	0	1	1	1	8	1	1	0	0	1	8	1	8	2	2	0	8	0	12	6	13	2	1	1	1	3	5	0	6	1	2	1	2	1	1	2	6	1	5	0	0	1	0	1
+6	cob	YP_009114090.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	23	7	27	10	8	0	6	0	12	7	2	1	5	7	8	0	5	0	13	4	2	1	14	2	5	1	2	1	0	0	29	3	11	11	5	2	4	1	6	6	7	0	8	1	7	1	12	2	17	2	13	3	12	0	10	2	5	1	12	1	8	5	1	0
+7	orf43	YP_009114106.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	17	1	12	6	4	3	4	3	10	6	1	2	4	1	7	0	1	0	4	0	6	1	2	1	11	1	1	1	1	3	9	0	4	4	7	2	6	4	9	3	17	5	7	1	3	2	6	0	5	3	2	0	0	4	5	2	8	8	4	1	3	1	1	0
+8	orf44	YP_009114107.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	9	2	6	5	4	0	1	2	6	3	5	0	1	0	7	1	4	1	3	1	1	0	2	1	11	2	2	2	1	2	10	3	8	5	5	1	8	0	12	7	18	5	1	5	1	2	7	1	8	2	4	2	5	0	4	3	5	1	8	3	0	1	0	1
+9	rpl20	YP_009114108.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	5	0	7	0	1	0	2	1	0	0	1	0	0	0	0	0	3	1	1	0	0	0	1	0	2	0	3	0	0	0	1	1	3	1	2	0	2	1	2	1	8	3	1	0	2	0	3	0	0	3	0	0	2	0	1	0	2	1	2	2	0	0	0	1
+10	nad4L	YP_009114109.1	Palmaria palmata	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	5	0	11	2	5	0	1	2	3	1	0	0	0	1	3	0	3	0	0	0	0	0	1	0	2	1	1	0	0	0	8	0	6	7	0	0	4	0	5	0	2	0	3	2	1	0	3	0	3	2	2	0	2	0	1	1	2	1	3	1	0	0	0	1

@@ -1,65 +1,13 @@
-	YP_514697.1|ND5	YP_514698.1|ND1	YP_514699.1|ND2	YP_514700.1|COX1	YP_514701.1|COX2	YP_514702.1|ATP8	YP_514703.1|ATP6	YP_514704.1|COX3	YP_514705.1|ND3	YP_514706.1|ND4L	YP_514707.1|ND4	YP_514709.1|CYTB
-TTT	35	13	15	30	7	2	12	22	6	1	30	25
-TTC	15	8	5	14	2	0	1	6	3	1	6	10
-TTA	22	16	20	15	8	3	15	9	6	11	33	9
-TTG	1	0	2	3	1	0	3	0	1	0	0	1
-TCT	14	9	9	16	5	1	10	4	2	4	8	7
-TCC	10	3	5	5	4	0	1	2	3	1	4	11
-TCA	16	7	13	7	4	2	7	3	3	4	6	5
-TCG	0	0	1	1	1	0	0	1	0	0	0	0
-TAT	10	5	3	13	4	0	3	3	1	1	7	6
-TAC	8	6	3	5	4	0	1	7	3	0	5	5
-TGT	3	1	0	0	1	0	0	2	1	3	4	1
-TGC	3	3	0	0	2	0	0	0	0	0	2	3
-TGA	8	7	9	16	5	4	4	11	5	1	12	13
-TGG	1	0	0	1	0	1	0	1	0	0	1	0
-CTT	23	16	20	13	4	2	17	12	9	11	20	20
-CTC	11	12	3	10	1	0	4	5	3	2	5	15
-CTA	17	13	21	17	6	4	9	6	7	3	21	10
-CTG	1	2	1	4	3	0	2	1	0	0	0	2
-CCT	5	7	6	9	5	1	5	5	2	1	6	8
-CCC	10	4	4	12	1	2	0	5	0	1	3	5
-CCA	9	11	10	8	7	3	7	3	6	0	11	8
-CCG	2	0	0	0	0	0	1	0	0	0	2	1
-CAT	7	1	2	11	4	2	3	6	0	3	7	4
-CAC	7	2	3	7	4	0	1	9	0	0	2	7
-CAA	16	6	11	7	9	1	9	7	2	2	14	7
-CAG	0	2	0	1	0	0	1	1	0	0	1	0
-CGT	3	2	2	3	4	0	2	2	0	1	4	0
-CGC	2	2	0	0	0	0	0	0	0	0	4	4
-CGA	6	4	1	6	2	0	3	3	2	1	3	4
-CGG	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	40	20	31	31	22	4	17	10	7	4	36	25
-ATC	20	14	12	11	4	0	7	3	4	2	12	8
-ATA	32	10	15	20	10	2	6	6	1	6	26	10
-ATG	1	2	3	7	1	1	3	2	1	1	2	3
-ACT	12	8	9	14	4	2	8	4	0	0	13	5
-ACC	16	9	16	6	4	2	2	7	2	4	14	7
-ACA	18	11	11	14	8	3	6	11	6	2	18	12
-ACG	1	0	0	1	1	0	0	0	0	1	0	1
-AAT	22	5	6	12	4	3	6	2	0	3	7	15
-AAC	11	4	8	6	5	1	3	3	0	1	5	6
-AAA	24	7	11	8	4	4	1	1	1	1	8	9
-AAG	0	0	1	1	0	0	1	1	0	0	1	1
-AGT	4	0	1	1	1	0	3	2	0	1	4	1
-AGC	4	1	1	2	4	0	1	1	1	0	3	1
-GTT	10	5	3	13	10	0	3	6	0	0	3	4
-GTC	6	4	1	4	2	0	3	3	1	1	1	1
-GTA	9	3	2	19	2	0	3	6	0	0	5	8
-GTG	1	0	0	2	0	0	1	1	0	0	0	0
-GCT	13	6	4	15	4	0	6	6	5	0	17	8
-GCC	20	12	16	16	4	0	5	8	4	4	10	15
-GCA	17	8	3	8	8	1	7	9	1	1	12	7
-GCG	1	1	0	1	0	0	1	0	1	0	1	0
-GAT	7	2	1	6	9	0	0	3	2	1	3	4
-GAC	7	2	0	8	2	2	1	2	1	0	3	5
-GAA	10	7	5	11	10	0	4	7	5	1	7	4
-GAG	2	2	1	0	0	0	0	0	1	0	3	0
-GGT	6	1	3	7	4	0	2	5	0	3	4	4
-GGC	11	8	5	8	1	0	4	5	1	2	3	11
-GGA	8	5	6	20	3	0	2	9	3	2	9	14
-GGG	0	1	1	10	0	0	0	2	0	0	2	0
-TAA	1	1	0	0	1	1	0	0	0	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND5	YP_514697.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	35	15	22	1	14	10	16	0	10	8	3	3	8	1	23	11	17	1	5	10	9	2	7	7	16	0	3	2	6	0	40	20	32	1	12	16	18	1	22	11	24	0	4	4	10	6	9	1	13	20	17	1	7	7	10	2	6	11	8	0	1	0	0	0
+1	ND1	YP_514698.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	13	8	16	0	9	3	7	0	5	6	1	3	7	0	16	12	13	2	7	4	11	0	1	2	6	2	2	2	4	0	20	14	10	2	8	9	11	0	5	4	7	0	0	1	5	4	3	0	6	12	8	1	2	2	7	2	1	8	5	1	1	0	0	0
+2	ND2	YP_514699.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	15	5	20	2	9	5	13	1	3	3	0	0	9	0	20	3	21	1	6	4	10	0	2	3	11	0	2	0	1	0	31	12	15	3	9	16	11	0	6	8	11	1	1	1	3	1	2	0	4	16	3	0	1	0	5	1	3	5	6	1	0	0	0	0
+3	COX1	YP_514700.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	30	14	15	3	16	5	7	1	13	5	0	0	16	1	13	10	17	4	9	12	8	0	11	7	7	1	3	0	6	0	31	11	20	7	14	6	14	1	12	6	8	1	1	2	13	4	19	2	15	16	8	1	6	8	11	0	7	8	20	10	0	0	0	1
+4	COX2	YP_514701.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	7	2	8	1	5	4	4	1	4	4	1	2	5	0	4	1	6	3	5	1	7	0	4	4	9	0	4	0	2	0	22	4	10	1	4	4	8	1	4	5	4	0	1	4	10	2	2	0	4	4	8	0	9	2	10	0	4	1	3	0	1	0	0	0
+5	ATP8	YP_514702.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	2	0	3	0	1	0	2	0	0	0	0	0	4	1	2	0	4	0	1	2	3	0	2	0	1	0	0	0	0	0	4	0	2	1	2	2	3	0	3	1	4	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	1	0	0	0
+6	ATP6	YP_514703.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	12	1	15	3	10	1	7	0	3	1	0	0	4	0	17	4	9	2	5	0	7	1	3	1	9	1	2	0	3	0	17	7	6	3	8	2	6	0	6	3	1	1	3	1	3	3	3	1	6	5	7	1	0	1	4	0	2	4	2	0	0	0	0	0
+7	COX3	YP_514704.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	22	6	9	0	4	2	3	1	3	7	2	0	11	1	12	5	6	1	5	5	3	0	6	9	7	1	2	0	3	0	10	3	6	2	4	7	11	0	2	3	1	1	2	1	6	3	6	1	6	8	9	0	3	2	7	0	5	5	9	2	0	0	0	0
+8	ND3	YP_514705.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	6	3	6	1	2	3	3	0	1	3	1	0	5	0	9	3	7	0	2	0	6	0	0	0	2	0	0	0	2	0	7	4	1	1	0	2	6	0	0	0	1	0	0	1	0	1	0	0	5	4	1	1	2	1	5	1	0	1	3	0	0	0	0	0
+9	ND4L	YP_514706.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	1	1	11	0	4	1	4	0	1	0	3	0	1	0	11	2	3	0	1	1	0	0	3	0	2	0	1	0	1	0	4	2	6	1	0	4	2	1	3	1	1	0	1	0	0	1	0	0	0	4	1	0	1	0	1	0	3	2	2	0	1	0	0	0
+10	ND4	YP_514707.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	30	6	33	0	8	4	6	0	7	5	4	2	12	1	20	5	21	0	6	3	11	2	7	2	14	1	4	4	3	1	36	12	26	2	13	14	18	0	7	5	8	1	4	3	3	1	5	0	17	10	12	1	3	3	7	3	4	3	9	2	0	0	0	0
+11	CYTB	YP_514709.1	Mantella madagascariensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Mantellinae, Mantella, madagascariensis group	25	10	9	1	7	11	5	0	6	5	1	3	13	0	20	15	10	2	8	5	8	1	4	7	7	0	0	4	4	0	25	8	10	3	5	7	12	1	15	6	9	1	1	1	4	1	8	0	8	15	7	0	4	5	4	0	4	11	14	0	0	0	1	0

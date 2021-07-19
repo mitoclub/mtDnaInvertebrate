@@ -1,65 +1,13 @@
-	YP_009429087.1|ND1	YP_009429088.1|ND2	YP_009429089.1|COX1	YP_009429090.1|COX2	YP_009429091.1|ATP8	YP_009429092.1|ATP6	YP_009429093.1|COX3	YP_009429094.1|ND3	YP_009429095.1|ND4L	YP_009429096.1|ND4	YP_009429097.1|ND5	YP_009429099.1|CYTB
-TTT	11	11	21	7	1	10	12	6	5	7	20	12
-TTC	7	4	21	2	2	1	12	2	2	10	23	19
-TTA	10	10	10	6	0	9	2	5	6	12	12	9
-TTG	5	0	1	2	0	2	0	0	0	7	2	1
-TCT	1	1	6	2	0	1	2	1	2	4	4	5
-TCC	9	9	10	5	0	3	5	2	2	8	15	10
-TCA	6	5	4	6	0	2	3	2	3	7	11	3
-TCG	0	1	3	0	1	0	0	0	1	1	2	2
-TAT	3	3	6	2	0	1	1	0	0	4	4	6
-TAC	8	4	12	7	1	3	11	2	0	9	6	8
-TGT	0	0	0	1	0	0	0	1	1	0	2	1
-TGC	0	0	1	1	0	0	2	0	2	4	4	2
-TGA	7	9	15	5	5	4	11	4	1	15	7	10
-TGG	1	2	2	0	0	1	1	1	0	4	7	2
-CTT	18	25	12	12	0	20	9	10	7	30	18	16
-CTC	15	15	12	3	1	12	7	8	6	16	28	19
-CTA	13	15	18	4	4	9	9	3	4	22	29	9
-CTG	3	10	9	1	0	3	4	3	1	9	10	8
-CCT	6	5	12	6	2	7	7	1	0	5	11	7
-CCC	14	11	13	5	6	8	4	7	2	18	14	8
-CCA	3	4	3	3	1	1	1	0	0	5	4	6
-CCG	1	0	1	0	0	1	1	1	0	0	2	0
-CAT	2	1	5	3	1	1	8	0	1	5	6	2
-CAC	2	5	14	7	1	3	8	1	3	6	11	10
-CAA	5	17	5	7	2	7	7	2	2	6	9	6
-CAG	2	0	3	1	0	2	2	1	1	5	7	1
-CGT	1	2	3	1	0	2	1	1	0	3	2	1
-CGC	1	0	0	3	0	0	1	1	1	2	1	2
-CGA	4	2	4	2	0	3	2	0	2	5	5	2
-CGG	2	0	1	0	0	1	1	0	0	1	2	3
-ATT	18	11	26	17	4	12	8	7	2	19	28	17
-ATC	8	10	14	5	0	6	7	4	0	14	17	11
-ATA	6	11	12	9	0	2	5	1	0	15	17	4
-ATG	2	3	11	2	1	6	4	1	4	11	8	3
-ACT	4	6	11	3	1	3	3	4	1	5	13	4
-ACC	10	19	12	2	4	7	5	1	5	18	11	11
-ACA	5	17	11	4	2	7	9	2	2	14	26	5
-ACG	0	5	3	0	0	2	3	2	0	1	4	1
-AAT	5	2	3	4	0	4	1	1	0	6	4	8
-AAC	7	6	12	1	2	4	0	0	2	6	21	10
-AAA	6	6	8	3	2	1	2	0	0	7	15	7
-AAG	1	3	0	1	1	0	0	1	0	3	6	2
-AGT	0	1	0	1	0	0	1	0	1	4	5	0
-AGC	3	3	5	2	1	4	3	0	1	6	12	1
-GTT	6	3	15	6	3	4	4	0	1	5	14	8
-GTC	6	0	5	5	0	4	6	3	0	6	5	8
-GTA	5	2	14	3	0	6	5	0	1	7	9	9
-GTG	3	4	7	3	0	0	0	0	0	2	3	1
-GCT	7	5	11	5	1	4	4	2	3	7	6	5
-GCC	22	21	23	6	1	9	12	6	6	15	29	18
-GCA	5	12	12	7	0	7	8	0	4	14	21	10
-GCG	2	1	3	0	1	1	0	0	0	3	2	3
-GAT	0	0	2	3	0	0	0	0	0	0	4	2
-GAC	4	4	12	10	0	1	5	4	2	5	10	9
-GAA	6	4	8	13	1	2	7	5	1	8	12	2
-GAG	5	0	3	2	2	2	3	1	1	4	1	2
-GGT	3	5	4	2	0	2	4	0	1	3	4	5
-GGC	7	7	18	1	0	6	9	4	1	8	9	9
-GGA	5	5	16	3	0	2	4	1	2	6	10	10
-GGG	3	1	8	3	0	2	5	1	2	8	8	3
-TAA	1	0	1	0	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009429087.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	11	7	10	5	1	9	6	0	3	8	0	0	7	1	18	15	13	3	6	14	3	1	2	2	5	2	1	1	4	2	18	8	6	2	4	10	5	0	5	7	6	1	0	3	6	6	5	3	7	22	5	2	0	4	6	5	3	7	5	3	1	0	0	0
+1	ND2	YP_009429088.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	11	4	10	0	1	9	5	1	3	4	0	0	9	2	25	15	15	10	5	11	4	0	1	5	17	0	2	0	2	0	11	10	11	3	6	19	17	5	2	6	6	3	1	3	3	0	2	4	5	21	12	1	0	4	4	0	5	7	5	1	0	0	0	0
+2	COX1	YP_009429089.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	21	21	10	1	6	10	4	3	6	12	0	1	15	2	12	12	18	9	12	13	3	1	5	14	5	3	3	0	4	1	26	14	12	11	11	12	11	3	3	12	8	0	0	5	15	5	14	7	11	23	12	3	2	12	8	3	4	18	16	8	1	0	0	0
+3	COX2	YP_009429090.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	7	2	6	2	2	5	6	0	2	7	1	1	5	0	12	3	4	1	6	5	3	0	3	7	7	1	1	3	2	0	17	5	9	2	3	2	4	0	4	1	3	1	1	2	6	5	3	3	5	6	7	0	3	10	13	2	2	1	3	3	0	0	0	0
+4	ATP8	YP_009429091.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	1	2	0	0	0	0	0	1	0	1	0	0	5	0	0	1	4	0	2	6	1	0	1	1	2	0	0	0	0	0	4	0	0	1	1	4	2	0	0	2	2	1	0	1	3	0	0	0	1	1	0	1	0	0	1	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_009429092.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	10	1	9	2	1	3	2	0	1	3	0	0	4	1	20	12	9	3	7	8	1	1	1	3	7	2	2	0	3	1	12	6	2	6	3	7	7	2	4	4	1	0	0	4	4	4	6	0	4	9	7	1	0	1	2	2	2	6	2	2	1	0	0	0
+6	COX3	YP_009429093.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	12	12	2	0	2	5	3	0	1	11	0	2	11	1	9	7	9	4	7	4	1	1	8	8	7	2	1	1	2	1	8	7	5	4	3	5	9	3	1	0	2	0	1	3	4	6	5	0	4	12	8	0	0	5	7	3	4	9	4	5	0	0	0	0
+7	ND3	YP_009429094.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	6	2	5	0	1	2	2	0	0	2	1	0	4	1	10	8	3	3	1	7	0	1	0	1	2	1	1	1	0	0	7	4	1	1	4	1	2	2	1	0	0	1	0	0	0	3	0	0	2	6	0	0	0	4	5	1	0	4	1	1	0	0	0	0
+8	ND4L	YP_009429095.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	5	2	6	0	2	2	3	1	0	0	1	2	1	0	7	6	4	1	0	2	0	0	1	3	2	1	0	1	2	0	2	0	0	4	1	5	2	0	0	2	0	0	1	1	1	0	1	0	3	6	4	0	0	2	1	1	1	1	2	2	1	0	0	0
+9	ND4	YP_009429096.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	7	10	12	7	4	8	7	1	4	9	0	4	15	4	30	16	22	9	5	18	5	0	5	6	6	5	3	2	5	1	19	14	15	11	5	18	14	1	6	6	7	3	4	6	5	6	7	2	7	15	14	3	0	5	8	4	3	8	6	8	0	0	0	0
+10	ND5	YP_009429097.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	20	23	12	2	4	15	11	2	4	6	2	4	7	7	18	28	29	10	11	14	4	2	6	11	9	7	2	1	5	2	28	17	17	8	13	11	26	4	4	21	15	6	5	12	14	5	9	3	6	29	21	2	4	10	12	1	4	9	10	8	0	1	0	0
+11	CYTB	YP_009429099.1	Percina crypta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Etheostomatinae, Percina, Hadropterus	12	19	9	1	5	10	3	2	6	8	1	2	10	2	16	19	9	8	7	8	6	0	2	10	6	1	1	2	2	3	17	11	4	3	4	11	5	1	8	10	7	2	0	1	8	8	9	1	5	18	10	3	2	9	2	2	5	9	10	3	1	0	0	0

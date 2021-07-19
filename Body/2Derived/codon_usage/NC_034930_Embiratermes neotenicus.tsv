@@ -1,65 +1,10 @@
-	YP_009379230.1|ND2	YP_009379231.1|COX1	YP_009379232.1|COX2	YP_009379233.1|ATP8	YP_009379234.1|ATP6	YP_009379235.1|COX3	YP_009379236.1|ND3	YP_009379240.1|ND6	YP_009379241.1|CYTB
-TTT	6	13	3	0	8	4	3	3	8
-TTC	9	30	8	4	4	19	5	3	19
-TTA	18	15	7	0	12	12	3	3	6
-TTG	1	3	0	0	0	0	0	1	1
-TCT	3	4	0	0	1	1	2	2	0
-TCC	5	2	1	1	0	0	0	0	3
-TCA	12	18	8	1	6	9	6	5	8
-TCG	6	2	1	0	0	0	1	0	1
-TAT	3	10	3	1	3	6	0	4	9
-TAC	8	6	5	1	0	3	1	2	8
-TGT	2	0	1	0	0	0	0	0	1
-TGC	1	2	1	0	0	1	1	1	3
-TGA	8	15	6	3	4	13	3	1	11
-TGG	1	0	0	0	0	0	0	0	1
-CTT	3	10	3	0	2	2	1	0	2
-CTC	3	7	2	0	2	1	0	1	2
-CTA	21	21	10	3	27	14	9	15	33
-CTG	9	3	0	0	1	0	0	4	1
-CCT	0	5	1	1	0	0	1	1	0
-CCC	5	4	3	0	2	1	1	0	5
-CCA	5	15	5	2	8	8	3	4	16
-CCG	1	3	1	0	1	1	0	0	2
-CAT	1	2	3	0	1	6	0	1	1
-CAC	2	14	3	0	5	9	1	2	11
-CAA	5	7	11	3	4	8	1	3	8
-CAG	0	0	1	0	0	0	0	0	0
-CGT	0	0	1	0	1	0	0	0	0
-CGC	0	1	2	0	0	0	0	0	0
-CGA	1	9	3	0	1	4	3	1	6
-CGG	0	0	1	0	1	0	0	0	2
-ATT	20	24	16	4	9	10	7	5	12
-ATC	15	15	7	3	13	7	6	3	17
-ATA	24	26	13	6	12	8	13	24	14
-ATG	2	4	2	0	1	1	0	2	3
-ACT	3	10	0	0	5	6	1	2	3
-ACC	6	5	2	0	5	6	1	0	5
-ACA	19	24	16	6	13	16	8	16	21
-ACG	2	1	0	0	1	0	1	0	2
-AAT	11	5	5	0	7	5	5	5	12
-AAC	10	13	7	4	9	2	0	4	11
-AAA	14	4	3	3	3	4	4	3	10
-AAG	2	5	2	2	2	0	1	1	2
-AGT	3	3	0	0	0	0	0	0	0
-AGC	0	1	2	1	2	1	1	1	1
-AGA	2	10	6	1	13	4	2	8	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	9	1	0	0	2	0	2	1
-GTC	0	5	1	0	2	2	2	2	1
-GTA	13	17	11	0	5	12	2	7	27
-GTG	4	6	2	0	1	1	0	0	0
-GCT	1	5	0	0	0	3	0	0	1
-GCC	9	8	2	0	0	4	0	4	3
-GCA	7	23	8	1	10	11	6	2	20
-GCG	2	1	0	0	0	0	0	0	1
-GAT	0	8	3	0	0	1	1	0	3
-GAC	1	6	7	0	1	4	2	0	9
-GAA	7	9	10	1	7	8	6	4	4
-GAG	3	1	0	0	0	0	0	0	0
-GGT	1	4	1	0	1	0	0	0	2
-GGC	2	1	0	0	0	0	0	1	1
-GGA	8	34	6	0	8	20	3	4	20
-GGG	6	6	1	0	1	0	0	1	0
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009379230.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	6	9	18	1	3	5	12	6	3	8	2	1	8	1	3	3	21	9	0	5	5	1	1	2	5	0	0	0	1	0	20	15	24	2	3	6	19	2	11	10	14	2	3	0	2	0	0	0	13	4	1	9	7	2	0	1	7	3	1	2	8	6	1	0
+1	COX1	YP_009379231.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	13	30	15	3	4	2	18	2	10	6	0	2	15	0	10	7	21	3	5	4	15	3	2	14	7	0	0	1	9	0	24	15	26	4	10	5	24	1	5	13	4	5	3	1	10	0	9	5	17	6	5	8	23	1	8	6	9	1	4	1	34	6	1	0
+2	COX2	YP_009379232.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	3	8	7	0	0	1	8	1	3	5	1	1	6	0	3	2	10	0	1	3	5	1	3	3	11	1	1	2	3	1	16	7	13	2	0	2	16	0	5	7	3	2	0	2	6	0	1	1	11	2	0	2	8	0	3	7	10	0	1	0	6	1	0	0
+3	ATP8	YP_009379233.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	0	4	0	0	0	1	1	0	1	1	0	0	3	0	0	0	3	0	1	0	2	0	0	0	3	0	0	0	0	0	4	3	6	0	0	0	6	0	0	4	3	2	0	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009379234.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	8	4	12	0	1	0	6	0	3	0	0	0	4	0	2	2	27	1	0	2	8	1	1	5	4	0	1	0	1	1	9	13	12	1	5	5	13	1	7	9	3	2	0	2	13	0	0	2	5	1	0	0	10	0	0	1	7	0	1	0	8	1	1	0
+5	COX3	YP_009379235.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	4	19	12	0	1	0	9	0	6	3	0	1	13	0	2	1	14	0	0	1	8	1	6	9	8	0	0	0	4	0	10	7	8	1	6	6	16	0	5	2	4	0	0	1	4	0	2	2	12	1	3	4	11	0	1	4	8	0	0	0	20	0	1	0
+6	ND3	YP_009379236.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	3	5	3	0	2	0	6	1	0	1	0	1	3	0	1	0	9	0	1	1	3	0	0	1	1	0	0	0	3	0	7	6	13	0	1	1	8	1	5	0	4	1	0	1	2	0	0	2	2	0	0	0	6	0	1	2	6	0	0	0	3	0	1	0
+7	ND6	YP_009379240.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	3	3	3	1	2	0	5	0	4	2	0	1	1	0	0	1	15	4	1	0	4	0	1	2	3	0	0	0	1	0	5	3	24	2	2	0	16	0	5	4	3	1	0	1	8	0	2	2	7	0	0	4	2	0	0	0	4	0	0	1	4	1	1	0
+8	CYTB	YP_009379241.1	Embiratermes neotenicus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Syntermitinae, Embiratermes	8	19	6	1	0	3	8	1	9	8	1	3	11	1	2	2	33	1	0	5	16	2	1	11	8	0	0	0	6	2	12	17	14	3	3	5	21	2	12	11	10	2	0	1	3	0	1	1	27	0	1	3	20	1	3	9	4	0	2	1	20	0	1	0

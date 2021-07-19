@@ -1,65 +1,13 @@
-	YP_004347940.1|ND1	YP_004347941.1|ND2	YP_004347942.1|COX1	YP_004347943.1	YP_004347944.1|ATP8	YP_004347945.1|ATP6	YP_004347946.1|COX3	YP_004347947.1|ND3	YP_004347948.1|ND4L	YP_004347949.1|ND4	YP_004347950.1|ND5	YP_004347952.1|CYTB
-TTT	9	4	16	8	0	7	10	3	3	9	13	10
-TTC	11	8	26	3	3	5	15	4	4	6	29	19
-TTA	9	12	5	4	1	9	3	3	2	11	4	9
-TTG	1	2	1	1	0	0	0	0	0	1	0	1
-TCT	2	1	3	1	1	2	4	0	1	4	5	2
-TCC	9	12	12	5	3	3	1	2	6	15	17	9
-TCA	4	5	9	5	0	1	6	2	5	6	12	9
-TCG	1	0	0	0	0	0	0	2	1	0	0	0
-TAT	3	1	6	3	0	2	4	2	0	1	2	3
-TAC	8	6	14	6	0	1	8	1	0	12	7	12
-TGT	0	0	1	1	0	0	1	1	3	1	1	0
-TGC	0	0	0	1	0	0	1	0	0	3	5	3
-TGA	6	11	17	5	5	4	12	4	1	14	12	11
-TGG	2	0	0	0	0	1	0	1	0	4	2	1
-CTT	4	11	9	6	1	12	6	4	8	22	17	12
-CTC	21	21	15	5	1	16	7	15	4	27	30	18
-CTA	25	29	26	8	2	17	12	9	9	38	39	15
-CTG	4	5	6	4	0	3	5	4	1	5	5	2
-CCT	2	3	11	4	1	4	2	1	0	5	10	3
-CCC	9	9	7	6	3	5	5	4	2	14	16	10
-CCA	12	9	10	4	4	8	6	3	0	9	6	7
-CCG	1	0	1	0	0	0	0	1	0	0	2	1
-CAT	1	2	5	5	1	1	5	0	1	6	5	3
-CAC	2	6	14	5	1	2	11	0	3	7	10	11
-CAA	7	14	6	6	3	6	6	3	4	11	14	6
-CAG	0	0	2	2	0	2	1	0	0	0	4	1
-CGT	0	0	1	0	0	0	0	1	0	3	1	1
-CGC	0	1	1	2	0	2	0	1	0	1	3	3
-CGA	6	2	7	4	0	4	5	0	2	6	7	4
-CGG	2	1	0	0	0	0	1	0	0	1	0	0
-ATT	13	13	17	5	0	9	6	4	2	14	28	9
-ATC	13	10	19	10	4	7	7	2	1	21	27	19
-ATA	6	9	12	8	2	8	6	1	2	19	21	7
-ATG	3	5	14	4	1	2	2	1	3	6	8	3
-ACT	4	4	13	3	1	4	4	1	0	6	9	5
-ACC	10	20	9	4	4	5	11	2	3	16	27	14
-ACA	7	24	12	4	0	9	6	6	1	15	19	6
-ACG	1	1	1	0	0	3	0	0	0	0	0	0
-AAT	4	4	6	2	1	1	1	0	1	3	7	4
-AAC	7	8	8	5	1	8	2	1	0	11	18	14
-AAA	6	8	8	2	3	1	2	1	0	9	17	9
-AAG	1	0	0	1	0	0	0	0	0	1	4	0
-AGT	1	3	1	0	0	1	0	0	1	4	2	1
-AGC	3	2	4	4	0	4	3	0	1	4	14	1
-GTT	5	1	10	8	1	2	2	0	0	2	6	7
-GTC	4	3	12	7	1	5	8	4	0	2	9	10
-GTA	7	2	19	4	0	4	5	0	1	6	5	11
-GTG	0	0	1	1	0	1	2	0	1	0	2	0
-GCT	4	4	10	6	0	3	4	1	1	2	10	0
-GCC	18	16	23	9	3	14	8	3	8	23	32	18
-GCA	14	10	14	5	1	5	10	3	3	9	17	12
-GCG	0	1	2	0	0	0	0	0	0	4	0	1
-GAT	0	0	8	6	0	0	0	1	0	1	5	4
-GAC	4	2	7	8	1	1	4	3	1	2	7	6
-GAA	11	4	9	12	0	5	9	4	1	11	8	5
-GAG	0	1	2	0	1	0	1	1	1	2	4	0
-GGT	5	1	9	2	0	2	0	1	1	4	3	3
-GGC	4	9	16	2	0	4	7	2	4	7	9	9
-GGA	5	5	15	4	0	1	7	1	1	10	12	11
-GGG	3	3	7	0	0	1	7	2	0	4	4	3
-TAA	1	0	0	0	1	0	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004347940.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	9	11	9	1	2	9	4	1	3	8	0	0	6	2	4	21	25	4	2	9	12	1	1	2	7	0	0	0	6	2	13	13	6	3	4	10	7	1	4	7	6	1	1	3	5	4	7	0	4	18	14	0	0	4	11	0	5	4	5	3	1	0	0	0
+1	ND2	YP_004347941.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	4	8	12	2	1	12	5	0	1	6	0	0	11	0	11	21	29	5	3	9	9	0	2	6	14	0	0	1	2	1	13	10	9	5	4	20	24	1	4	8	8	0	3	2	1	3	2	0	4	16	10	1	0	2	4	1	1	9	5	3	0	0	0	0
+2	COX1	YP_004347942.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	16	26	5	1	3	12	9	0	6	14	1	0	17	0	9	15	26	6	11	7	10	1	5	14	6	2	1	1	7	0	17	19	12	14	13	9	12	1	6	8	8	0	1	4	10	12	19	1	10	23	14	2	8	7	9	2	9	16	15	7	0	0	0	1
+3	None	YP_004347943.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	8	3	4	1	1	5	5	0	3	6	1	1	5	0	6	5	8	4	4	6	4	0	5	5	6	2	0	2	4	0	5	10	8	4	3	4	4	0	2	5	2	1	0	4	8	7	4	1	6	9	5	0	6	8	12	0	2	2	4	0	0	0	0	0
+4	ATP8	YP_004347944.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	0	3	1	0	1	3	0	0	0	0	0	0	5	0	1	1	2	0	1	3	4	0	1	1	3	0	0	0	0	0	0	4	2	1	1	4	0	0	1	1	3	0	0	0	1	1	0	0	0	3	1	0	0	1	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_004347945.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	7	5	9	0	2	3	1	0	2	1	0	0	4	1	12	16	17	3	4	5	8	0	1	2	6	2	0	2	4	0	9	7	8	2	4	5	9	3	1	8	1	0	1	4	2	5	4	1	3	14	5	0	0	1	5	0	2	4	1	1	0	0	0	0
+6	COX3	YP_004347946.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	10	15	3	0	4	1	6	0	4	8	1	1	12	0	6	7	12	5	2	5	6	0	5	11	6	1	0	0	5	1	6	7	6	2	4	11	6	0	1	2	2	0	0	3	2	8	5	2	4	8	10	0	0	4	9	1	0	7	7	7	0	0	0	0
+7	ND3	YP_004347947.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	3	4	3	0	0	2	2	2	2	1	1	0	4	1	4	15	9	4	1	4	3	1	0	0	3	0	1	1	0	0	4	2	1	1	1	2	6	0	0	1	1	0	0	0	0	4	0	0	1	3	3	0	1	3	4	1	1	2	1	2	0	0	0	0
+8	ND4L	YP_004347948.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	3	4	2	0	1	6	5	1	0	0	3	0	1	0	8	4	9	1	0	2	0	0	1	3	4	0	0	0	2	0	2	1	2	3	0	3	1	0	1	0	0	0	1	1	0	0	1	1	1	8	3	0	0	1	1	1	1	4	1	0	1	0	0	0
+9	ND4	YP_004347949.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	9	6	11	1	4	15	6	0	1	12	1	3	14	4	22	27	38	5	5	14	9	0	6	7	11	0	3	1	6	1	14	21	19	6	6	16	15	0	3	11	9	1	4	4	2	2	6	0	2	23	9	4	1	2	11	2	4	7	10	4	0	0	0	0
+10	ND5	YP_004347950.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	13	29	4	0	5	17	12	0	2	7	1	5	12	2	17	30	39	5	10	16	6	2	5	10	14	4	1	3	7	0	28	27	21	8	9	27	19	0	7	18	17	4	2	14	6	9	5	2	10	32	17	0	5	7	8	4	3	9	12	4	1	0	0	0
+11	CYTB	YP_004347952.1	Chelonodontops pleurospilus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Chelonodontops	10	19	9	1	2	9	9	0	3	12	0	3	11	1	12	18	15	2	3	10	7	1	3	11	6	1	1	3	4	0	9	19	7	3	5	14	6	0	4	14	9	0	1	1	7	10	11	0	0	18	12	1	4	6	5	0	3	9	11	3	1	0	0	0

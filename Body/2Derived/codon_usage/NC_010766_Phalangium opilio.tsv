@@ -1,65 +1,8 @@
-	YP_001936224.1|ND2	YP_001936226.1|COX2	YP_001936227.1|ATP8	YP_001936228.1|ATP6	YP_001936229.1|COX3	YP_001936230.1|ND3	YP_001936234.1|ND6
-TTT	17	9	2	13	18	8	7
-TTC	6	7	0	1	4	4	1
-TTA	26	14	4	21	11	10	15
-TTG	3	0	0	3	2	0	5
-TCT	14	3	1	3	8	3	1
-TCC	4	3	1	0	0	2	2
-TCA	11	8	1	9	5	4	4
-TCG	0	0	0	0	0	0	0
-TAT	7	4	0	1	3	1	4
-TAC	2	3	0	3	3	0	2
-TGT	1	2	0	0	0	1	0
-TGC	0	0	0	0	0	0	0
-TGA	3	6	4	4	11	2	0
-TGG	5	0	0	2	3	0	0
-CTT	4	2	3	6	7	3	3
-CTC	2	0	1	0	3	0	0
-CTA	15	3	3	12	12	6	4
-CTG	1	0	0	1	1	0	1
-CCT	5	6	3	1	4	4	3
-CCC	4	1	0	6	4	1	2
-CCA	2	6	0	2	3	1	2
-CCG	0	0	0	0	0	0	0
-CAT	3	4	1	4	10	2	1
-CAC	0	2	0	2	4	0	1
-CAA	5	6	1	3	7	1	2
-CAG	0	0	0	0	0	1	0
-CGT	0	1	0	1	0	0	0
-CGC	1	0	0	0	0	0	0
-CGA	0	5	0	2	3	1	1
-CGG	0	0	0	0	0	0	0
-ATT	30	17	2	20	22	6	23
-ATC	9	12	0	7	7	5	4
-ATA	31	14	5	13	5	6	11
-ATG	3	1	0	2	2	2	1
-ACT	7	5	2	7	6	3	4
-ACC	3	2	1	3	5	0	3
-ACA	9	10	1	11	10	2	6
-ACG	1	0	0	3	0	0	0
-AAT	13	7	3	14	6	3	2
-AAC	6	7	3	7	3	2	2
-AAA	12	6	7	5	7	5	6
-AAG	4	1	0	1	0	0	1
-AGT	3	1	0	1	3	0	1
-AGC	2	1	0	1	2	0	1
-AGA	8	2	2	2	2	4	4
-AGG	2	0	0	0	0	0	0
-GTT	2	2	0	0	4	2	2
-GTC	1	0	0	0	0	1	0
-GTA	3	2	0	6	6	3	2
-GTG	0	3	0	0	1	1	1
-GCT	9	8	0	5	6	2	1
-GCC	0	0	0	2	3	1	4
-GCA	5	4	0	1	5	0	0
-GCG	0	0	0	0	0	0	0
-GAT	2	7	0	0	2	1	0
-GAC	0	4	0	1	2	0	0
-GAA	3	10	0	4	7	5	4
-GAG	0	0	1	0	0	0	0
-GGT	1	1	0	3	0	0	1
-GGC	0	0	0	2	3	0	1
-GGA	4	2	0	0	7	1	2
-GGG	7	4	0	3	8	2	1
-TAA	0	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_001936224.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	17	6	26	3	14	4	11	0	7	2	1	0	3	5	4	2	15	1	5	4	2	0	3	0	5	0	0	1	0	0	30	9	31	3	7	3	9	1	13	6	12	4	3	2	8	2	2	1	3	0	9	0	5	0	2	0	3	0	1	0	4	7	0	0
+1	COX2	YP_001936226.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	9	7	14	0	3	3	8	0	4	3	2	0	6	0	2	0	3	0	6	1	6	0	4	2	6	0	1	0	5	0	17	12	14	1	5	2	10	0	7	7	6	1	1	1	2	0	2	0	2	3	8	0	4	0	7	4	10	0	1	0	2	4	0	0
+2	ATP8	YP_001936227.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	2	0	4	0	1	1	1	0	0	0	0	0	4	0	3	1	3	0	3	0	0	0	1	0	1	0	0	0	0	0	2	0	5	0	2	1	1	0	3	3	7	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+3	ATP6	YP_001936228.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	13	1	21	3	3	0	9	0	1	3	0	0	4	2	6	0	12	1	1	6	2	0	4	2	3	0	1	0	2	0	20	7	13	2	7	3	11	3	14	7	5	1	1	1	2	0	0	0	6	0	5	2	1	0	0	1	4	0	3	2	0	3	1	0
+4	COX3	YP_001936229.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	18	4	11	2	8	0	5	0	3	3	0	0	11	3	7	3	12	1	4	4	3	0	10	4	7	0	0	0	3	0	22	7	5	2	6	5	10	0	6	3	7	0	3	2	2	0	4	0	6	1	6	3	5	0	2	2	7	0	0	3	7	8	0	0
+5	ND3	YP_001936230.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	8	4	10	0	3	2	4	0	1	0	1	0	2	0	3	0	6	0	4	1	1	0	2	0	1	1	0	0	1	0	6	5	6	2	3	0	2	0	3	2	5	0	0	0	4	0	2	1	3	1	2	1	0	0	1	0	5	0	0	0	1	2	0	0
+6	ND6	YP_001936234.1	Phalangium opilio	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Opiliones, Palpatores, Phalangioidea, Phalangiidae, Phalangium	7	1	15	5	1	2	4	0	4	2	0	0	0	0	3	0	4	1	3	2	2	0	1	1	2	0	0	0	1	0	23	4	11	1	4	3	6	0	2	2	6	1	1	1	4	0	2	0	2	1	1	4	0	0	0	0	4	0	1	1	2	1	1	0

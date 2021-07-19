@@ -1,65 +1,10 @@
-	YP_006234443.1|COX1	YP_006234444.1|COX2	YP_006234445.1|ATP8	YP_006234446.1|ATP6	YP_006234447.1|COX3	YP_006234448.1|ND3	YP_006234452.1|ND6	YP_006234453.1|CYTB	YP_006234455.1|ND2
-TTT	34	9	2	13	18	9	12	21	16
-TTC	9	5	1	5	4	1	5	12	3
-TTA	19	13	2	10	8	10	8	16	25
-TTG	12	1	1	4	2	1	1	6	7
-TCT	12	6	1	5	5	3	8	12	11
-TCC	7	7	0	3	2	3	4	6	7
-TCA	6	2	1	5	8	2	9	7	9
-TCG	4	1	1	0	0	0	0	0	1
-TAT	5	1	2	1	3	0	3	7	6
-TAC	11	7	0	5	5	1	5	8	5
-TGT	1	2	0	1	1	0	0	2	4
-TGC	0	1	0	0	0	1	0	0	1
-TGA	10	3	3	2	6	2	1	4	4
-TGG	3	3	1	2	6	0	0	5	4
-CTT	11	4	2	7	8	1	4	13	8
-CTC	3	3	1	2	1	2	2	2	4
-CTA	16	8	1	13	10	5	7	20	13
-CTG	3	2	1	2	2	4	1	0	7
-CCT	17	6	4	6	4	2	3	13	7
-CCC	4	3	1	6	4	1	3	1	1
-CCA	4	1	0	3	2	1	0	3	2
-CCG	3	4	0	0	1	1	0	2	1
-CAT	6	2	0	3	6	1	0	1	3
-CAC	12	3	0	1	8	0	0	8	4
-CAA	4	8	1	2	3	1	2	8	4
-CAG	3	1	0	2	3	1	1	1	3
-CGT	2	1	0	0	0	1	0	0	2
-CGC	3	1	0	1	1	0	1	2	0
-CGA	2	3	0	0	3	2	0	3	0
-CGG	2	0	0	1	0	0	0	0	0
-ATT	26	9	4	13	7	7	11	22	19
-ATC	11	10	0	4	8	2	1	8	7
-ATA	25	8	3	11	9	0	10	11	8
-ATG	6	0	2	3	1	2	2	5	4
-ACT	10	9	0	5	12	4	3	6	11
-ACC	9	4	0	5	7	3	1	6	2
-ACA	9	2	3	7	3	0	6	12	6
-ACG	3	3	0	1	1	0	1	3	1
-AAT	8	3	2	7	1	0	1	7	2
-AAC	8	4	2	4	4	1	4	5	6
-AAA	4	5	2	4	2	5	3	11	12
-AAG	2	1	2	2	1	1	0	0	0
-AGT	3	1	0	2	3	0	0	3	3
-AGC	4	1	0	1	0	0	2	2	5
-AGA	7	2	0	1	1	0	3	2	4
-AGG	3	1	0	0	1	0	0	1	1
-GTT	16	1	2	6	3	3	4	7	8
-GTC	4	5	1	4	4	0	1	5	5
-GTA	13	2	0	2	12	4	8	11	6
-GTG	5	3	0	7	3	2	5	3	8
-GCT	18	6	2	4	8	5	7	14	15
-GCC	10	6	1	11	6	6	5	6	8
-GCA	7	0	0	2	3	2	3	5	4
-GCG	2	1	0	1	5	1	2	0	1
-GAT	5	3	0	0	3	0	2	2	0
-GAC	12	9	0	2	1	4	1	5	3
-GAA	3	5	0	4	4	3	0	4	2
-GAG	4	3	0	0	5	1	0	2	2
-GGT	18	1	0	2	6	2	0	6	7
-GGC	12	3	0	3	4	0	0	8	3
-GGA	9	1	0	0	5	0	1	5	3
-GGG	8	3	0	0	4	3	1	2	0
-TAA	0	0	1	1	1	0	1	0	0
-TAG	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_006234443.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	34	9	19	12	12	7	6	4	5	11	1	0	10	3	11	3	16	3	17	4	4	3	6	12	4	3	2	3	2	2	26	11	25	6	10	9	9	3	8	8	4	2	3	4	7	3	16	4	13	5	18	10	7	2	5	12	3	4	18	12	9	8	0	0
+1	COX2	YP_006234444.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	9	5	13	1	6	7	2	1	1	7	2	1	3	3	4	3	8	2	6	3	1	4	2	3	8	1	1	1	3	0	9	10	8	0	9	4	2	3	3	4	5	1	1	1	2	1	1	5	2	3	6	6	0	1	3	9	5	3	1	3	1	3	0	0
+2	ATP8	YP_006234445.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	2	1	2	1	1	0	1	1	2	0	0	0	3	1	2	1	1	1	4	1	0	0	0	0	1	0	0	0	0	0	4	0	3	2	0	0	3	0	2	2	2	2	0	0	0	0	2	1	0	0	2	1	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_006234446.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	13	5	10	4	5	3	5	0	1	5	1	0	2	2	7	2	13	2	6	6	3	0	3	1	2	2	0	1	0	1	13	4	11	3	5	5	7	1	7	4	4	2	2	1	1	0	6	4	2	7	4	11	2	1	0	2	4	0	2	3	0	0	1	0
+4	COX3	YP_006234447.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	18	4	8	2	5	2	8	0	3	5	1	0	6	6	8	1	10	2	4	4	2	1	6	8	3	3	0	1	3	0	7	8	9	1	12	7	3	1	1	4	2	1	3	0	1	1	3	4	12	3	8	6	3	5	3	1	4	5	6	4	5	4	1	0
+5	ND3	YP_006234448.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	9	1	10	1	3	3	2	0	0	1	0	1	2	0	1	2	5	4	2	1	1	1	1	0	1	1	1	0	2	0	7	2	0	2	4	3	0	0	0	1	5	1	0	0	0	0	3	0	4	2	5	6	2	1	0	4	3	1	2	0	0	3	0	1
+6	ND6	YP_006234452.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	12	5	8	1	8	4	9	0	3	5	0	0	1	0	4	2	7	1	3	3	0	0	0	0	2	1	0	1	0	0	11	1	10	2	3	1	6	1	1	4	3	0	0	2	3	0	4	1	8	5	7	5	3	2	2	1	0	0	0	0	1	1	1	0
+7	CYTB	YP_006234453.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	21	12	16	6	12	6	7	0	7	8	2	0	4	5	13	2	20	0	13	1	3	2	1	8	8	1	0	2	3	0	22	8	11	5	6	6	12	3	7	5	11	0	3	2	2	1	7	5	11	3	14	6	5	0	2	5	4	2	6	8	5	2	0	0
+8	ND2	YP_006234455.1	Gammarus duebeni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Peracarida, Amphipoda, Senticaudata, Gammarida, Gammaridira, Gammaroidea, Gammaridae, Gammarus	16	3	25	7	11	7	9	1	6	5	4	1	4	4	8	4	13	7	7	1	2	1	3	4	4	3	2	0	0	0	19	7	8	4	11	2	6	1	2	6	12	0	3	5	4	1	8	5	6	8	15	8	4	1	0	3	2	2	7	3	3	0	0	0

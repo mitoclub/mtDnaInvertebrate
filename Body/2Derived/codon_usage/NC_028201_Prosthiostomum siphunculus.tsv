@@ -1,65 +1,13 @@
-	YP_009176384.1|ND6	YP_009176385.1|ND5	YP_009176386.1|ND3	YP_009176387.1|COX3	YP_009176388.1|ND2	YP_009176389.1|ATP6	YP_009176390.1|ND1	YP_009176391.1|CYTB	YP_009176392.1|ND4L	YP_009176393.1|ND4	YP_009176394.1|COX2	YP_009176395.1|COX1
-TTT	10	52	10	11	19	20	21	24	9	25	11	31
-TTC	6	13	2	9	8	4	9	5	3	11	4	14
-TTA	18	51	9	16	20	17	26	33	15	47	18	35
-TTG	1	7	2	3	3	2	3	5	2	4	2	1
-TCT	2	14	3	2	7	5	3	5	4	7	2	7
-TCC	0	0	1	1	1	1	2	2	0	3	4	2
-TCA	7	10	0	1	4	5	6	13	0	10	1	9
-TCG	0	4	0	0	1	0	2	2	0	1	0	0
-TAT	8	16	1	10	9	8	16	18	1	15	6	15
-TAC	2	5	0	5	4	2	4	5	0	4	2	5
-TGT	1	9	0	3	1	1	3	0	1	10	3	1
-TGC	0	1	1	1	1	1	1	0	0	2	0	0
-TGA	3	11	5	9	5	7	6	9	0	11	5	12
-TGG	1	1	1	1	3	1	3	4	0	0	0	4
-CTT	4	4	2	4	9	4	6	3	2	7	2	5
-CTC	3	0	0	1	1	0	2	0	0	0	1	0
-CTA	8	16	3	5	8	6	9	7	6	12	5	12
-CTG	0	2	1	2	2	0	1	2	0	0	1	1
-CCT	1	8	4	2	3	2	2	8	1	6	6	10
-CCC	0	1	0	1	2	0	2	2	0	2	0	1
-CCA	1	4	0	3	2	3	9	8	0	5	4	10
-CCG	0	1	0	0	0	0	0	0	0	0	0	2
-CAT	1	4	0	6	2	3	1	7	0	6	5	17
-CAC	0	6	0	3	1	1	0	3	0	4	1	3
-CAA	0	6	3	2	8	4	3	5	0	4	4	7
-CAG	0	0	0	0	0	1	1	2	0	0	1	1
-CGT	1	3	2	2	1	3	1	4	0	5	0	4
-CGC	1	0	0	0	0	0	0	0	0	2	0	1
-CGA	1	1	3	2	0	0	5	5	1	0	1	4
-CGG	0	2	2	0	2	0	1	1	1	2	2	1
-ATT	7	17	6	7	14	15	7	13	3	11	6	14
-ATC	2	1	0	3	3	0	4	3	1	6	0	3
-ATA	12	28	15	6	36	16	24	24	3	26	15	29
-ATG	1	17	1	7	10	7	6	2	1	18	11	23
-ACT	1	5	1	6	2	5	1	3	0	2	6	9
-ACC	1	1	0	2	0	1	1	2	0	0	0	1
-ACA	3	10	2	2	3	2	6	7	2	3	5	17
-ACG	1	1	0	1	0	1	0	2	0	0	0	2
-AAT	2	9	2	7	6	5	1	7	4	11	6	14
-AAC	3	2	0	1	3	2	1	2	1	5	1	2
-AAA	13	30	1	5	18	6	6	12	4	7	7	4
-AAG	2	16	6	5	10	2	8	5	1	6	8	5
-AGT	1	12	1	1	11	8	3	1	2	10	2	9
-AGC	1	2	0	0	1	0	1	2	1	1	1	1
-AGA	7	15	4	11	7	5	6	4	4	13	8	11
-AGG	2	6	2	3	1	2	2	2	1	2	1	3
-GTT	3	11	2	7	3	1	5	1	2	4	7	8
-GTC	0	1	0	1	1	1	2	3	0	0	0	3
-GTA	3	13	0	13	18	9	7	27	1	16	7	28
-GTG	2	3	0	1	2	1	1	3	1	5	0	4
-GCT	2	7	2	9	4	3	8	11	2	4	1	13
-GCC	0	5	1	1	2	1	6	3	0	1	1	3
-GCA	4	8	1	7	2	2	6	4	4	12	4	14
-GCG	0	1	0	3	0	1	0	0	0	2	2	4
-GAT	2	8	1	2	5	2	3	7	1	5	9	13
-GAC	0	6	2	0	0	1	2	4	0	1	0	1
-GAA	2	9	5	10	8	3	9	7	5	7	15	10
-GAG	1	0	0	1	0	1	1	0	0	2	1	0
-GGT	2	16	4	8	10	8	11	15	1	4	3	22
-GGC	1	2	2	2	4	2	0	4	0	2	3	3
-GGA	2	13	1	5	5	6	7	9	2	12	10	19
-GGG	1	3	0	11	3	1	5	7	3	11	4	11
-TAA	0	0	0	0	0	1	1	1	1	1	1	1
-TAG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND6	YP_009176384.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	10	6	18	1	2	0	7	0	8	2	1	0	3	1	4	3	8	0	1	0	1	0	1	0	0	0	1	1	1	0	7	2	12	1	1	1	3	1	2	3	13	2	1	1	7	2	3	0	3	2	2	0	4	0	2	0	2	1	2	1	2	1	0	1
+1	ND5	YP_009176385.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	52	13	51	7	14	0	10	4	16	5	9	1	11	1	4	0	16	2	8	1	4	1	4	6	6	0	3	0	1	2	17	1	28	17	5	1	10	1	9	2	30	16	12	2	15	6	11	1	13	3	7	5	8	1	8	6	9	0	16	2	13	3	0	0
+2	ND3	YP_009176386.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	10	2	9	2	3	1	0	0	1	0	0	1	5	1	2	0	3	1	4	0	0	0	0	0	3	0	2	0	3	2	6	0	15	1	1	0	2	0	2	0	1	6	1	0	4	2	2	0	0	0	2	1	1	0	1	2	5	0	4	2	1	0	0	1
+3	COX3	YP_009176387.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	11	9	16	3	2	1	1	0	10	5	3	1	9	1	4	1	5	2	2	1	3	0	6	3	2	0	2	0	2	0	7	3	6	7	6	2	2	1	7	1	5	5	1	0	11	3	7	1	13	1	9	1	7	3	2	0	10	1	8	2	5	11	0	0
+4	ND2	YP_009176388.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	19	8	20	3	7	1	4	1	9	4	1	1	5	3	9	1	8	2	3	2	2	0	2	1	8	0	1	0	0	2	14	3	36	10	2	0	3	0	6	3	18	10	11	1	7	1	3	1	18	2	4	2	2	0	5	0	8	0	10	4	5	3	0	0
+5	ATP6	YP_009176389.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	20	4	17	2	5	1	5	0	8	2	1	1	7	1	4	0	6	0	2	0	3	0	3	1	4	1	3	0	0	0	15	0	16	7	5	1	2	1	5	2	6	2	8	0	5	2	1	1	9	1	3	1	2	1	2	1	3	1	8	2	6	1	1	0
+6	ND1	YP_009176390.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	21	9	26	3	3	2	6	2	16	4	3	1	6	3	6	2	9	1	2	2	9	0	1	0	3	1	1	0	5	1	7	4	24	6	1	1	6	0	1	1	6	8	3	1	6	2	5	2	7	1	8	6	6	0	3	2	9	1	11	0	7	5	1	0
+7	CYTB	YP_009176391.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	24	5	33	5	5	2	13	2	18	5	0	0	9	4	3	0	7	2	8	2	8	0	7	3	5	2	4	0	5	1	13	3	24	2	3	2	7	2	7	2	12	5	1	2	4	2	1	3	27	3	11	3	4	0	7	4	7	0	15	4	9	7	1	0
+8	ND4L	YP_009176392.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	9	3	15	2	4	0	0	0	1	0	1	0	0	0	2	0	6	0	1	0	0	0	0	0	0	0	0	0	1	1	3	1	3	1	0	0	2	0	4	1	4	1	2	1	4	1	2	0	1	1	2	0	4	0	1	0	5	0	1	0	2	3	1	0
+9	ND4	YP_009176393.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	25	11	47	4	7	3	10	1	15	4	10	2	11	0	7	0	12	0	6	2	5	0	6	4	4	0	5	2	0	2	11	6	26	18	2	0	3	0	11	5	7	6	10	1	13	2	4	0	16	5	4	1	12	2	5	1	7	2	4	2	12	11	1	0
+10	COX2	YP_009176394.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	11	4	18	2	2	4	1	0	6	2	3	0	5	0	2	1	5	1	6	0	4	0	5	1	4	1	0	0	1	2	6	0	15	11	6	0	5	0	6	1	7	8	2	1	8	1	7	0	7	0	1	1	4	2	9	0	15	1	3	3	10	4	1	0
+11	COX1	YP_009176395.1	Prosthiostomum siphunculus	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Polycladida, Cotylea, Prosthiostomidae, Prosthiostomum	31	14	35	1	7	2	9	0	15	5	1	0	12	4	5	0	12	1	10	1	10	2	17	3	7	1	4	1	4	1	14	3	29	23	9	1	17	2	14	2	4	5	9	1	11	3	8	3	28	4	13	3	14	4	13	1	10	0	22	3	19	11	1	0

@@ -1,65 +1,10 @@
-	YP_009349922.1	YP_009349923.1	YP_009349924.1	YP_009349925.1	YP_009349926.1	YP_009349927.1	YP_009349928.1	YP_009349932.1	YP_009349933.1
-TTT	24	23	8	5	12	13	4	6	16
-TTC	3	21	7	0	5	13	5	8	15
-TTA	28	33	17	6	21	15	5	20	30
-TTG	2	1	0	0	1	0	0	0	0
-TCT	5	5	2	3	3	6	3	2	6
-TCC	5	5	3	1	2	4	2	4	0
-TCA	17	17	8	0	7	7	2	7	8
-TCG	1	0	0	0	0	0	0	0	0
-TAT	9	13	7	1	3	6	0	3	15
-TAC	5	3	1	1	1	5	1	2	5
-TGT	3	0	1	0	2	0	0	2	3
-TGC	0	0	1	0	0	1	2	0	0
-TGA	8	15	6	3	5	12	4	3	11
-TGG	1	0	0	0	0	1	0	1	0
-CTT	9	14	8	3	8	5	7	7	10
-CTC	5	8	4	1	3	5	1	3	8
-CTA	17	15	5	1	10	9	3	4	14
-CTG	1	0	0	0	0	0	0	0	0
-CCT	7	6	4	3	4	4	0	5	9
-CCC	3	5	4	2	2	3	1	2	5
-CCA	3	14	4	0	6	5	4	1	9
-CCG	0	2	0	0	0	0	0	0	0
-CAT	2	8	3	0	3	8	1	1	5
-CAC	1	7	3	1	5	7	1	0	7
-CAA	9	12	7	1	5	7	1	4	9
-CAG	1	0	0	0	0	1	0	0	0
-CGT	0	1	3	0	0	1	1	0	2
-CGC	0	0	1	0	0	0	0	0	2
-CGA	2	6	3	0	2	3	2	1	4
-CGG	0	1	0	0	1	0	0	0	0
-ATT	32	38	23	3	20	22	17	16	37
-ATC	8	10	2	2	5	9	7	9	6
-ATA	23	24	10	4	10	6	7	14	15
-ATG	0	0	1	0	1	1	0	0	1
-ACT	12	16	7	1	9	4	2	7	8
-ACC	5	12	4	2	6	4	3	5	4
-ACA	10	10	5	2	10	11	0	6	12
-ACG	0	0	0	0	0	0	0	0	0
-AAT	15	18	11	1	10	8	3	10	14
-AAC	6	5	7	1	4	3	4	3	11
-AAA	11	6	3	3	2	1	4	4	7
-AAG	1	0	1	0	0	0	0	0	1
-AGT	2	5	0	0	2	1	0	0	0
-AGC	1	0	1	0	1	1	0	1	0
-AGA	7	6	3	1	6	2	3	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	11	2	0	1	2	0	0	7
-GTC	0	2	0	0	0	0	0	0	1
-GTA	1	12	4	0	5	4	2	1	4
-GTG	0	1	0	0	0	0	0	0	0
-GCT	2	8	2	1	4	6	0	0	7
-GCC	4	12	2	0	0	3	3	1	3
-GCA	7	15	4	0	4	6	1	1	9
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	10	7	0	0	2	0	3	3
-GAC	0	5	3	0	1	1	3	0	6
-GAA	5	9	9	0	4	7	5	1	3
-GAG	0	0	0	0	0	0	0	0	0
-GGT	1	13	2	0	2	4	0	0	4
-GGC	1	0	1	0	1	3	1	0	3
-GGA	11	29	4	0	5	12	1	4	15
-GGG	1	2	0	0	1	0	1	0	2
-TAA	1	1	1	0	1	1	1	1	0
-TAG	0	0	0	1	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009349922.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	24	3	28	2	5	5	17	1	9	5	3	0	8	1	9	5	17	1	7	3	3	0	2	1	9	1	0	0	2	0	32	8	23	0	12	5	10	0	15	6	11	1	2	1	7	0	4	0	1	0	2	4	7	0	0	0	5	0	1	1	11	1	1	0
+1	None	YP_009349923.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	23	21	33	1	5	5	17	0	13	3	0	0	15	0	14	8	15	0	6	5	14	2	8	7	12	0	1	0	6	1	38	10	24	0	16	12	10	0	18	5	6	0	5	0	6	0	11	2	12	1	8	12	15	0	10	5	9	0	13	0	29	2	1	0
+2	None	YP_009349924.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	8	7	17	0	2	3	8	0	7	1	1	1	6	0	8	4	5	0	4	4	4	0	3	3	7	0	3	1	3	0	23	2	10	1	7	4	5	0	11	7	3	1	0	1	3	0	2	0	4	0	2	2	4	0	7	3	9	0	2	1	4	0	1	0
+3	None	YP_009349925.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	5	0	6	0	3	1	0	0	1	1	0	0	3	0	3	1	1	0	3	2	0	0	0	1	1	0	0	0	0	0	3	2	4	0	1	2	2	0	1	1	3	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+4	None	YP_009349926.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	12	5	21	1	3	2	7	0	3	1	2	0	5	0	8	3	10	0	4	2	6	0	3	5	5	0	0	0	2	1	20	5	10	1	9	6	10	0	10	4	2	0	2	1	6	0	1	0	5	0	4	0	4	0	0	1	4	0	2	1	5	1	1	0
+5	None	YP_009349927.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	13	13	15	0	6	4	7	0	6	5	0	1	12	1	5	5	9	0	4	3	5	0	8	7	7	1	1	0	3	0	22	9	6	1	4	4	11	0	8	3	1	0	1	1	2	0	2	0	4	0	6	3	6	0	2	1	7	0	4	3	12	0	1	0
+6	None	YP_009349928.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	4	5	5	0	3	2	2	0	0	1	0	2	4	0	7	1	3	0	0	1	4	0	1	1	1	0	1	0	2	0	17	7	7	0	2	3	0	0	3	4	4	0	0	0	3	0	0	0	2	0	0	3	1	0	0	3	5	0	0	1	1	1	1	0
+7	None	YP_009349932.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	6	8	20	0	2	4	7	0	3	2	2	0	3	1	7	3	4	0	5	2	1	0	1	0	4	0	0	0	1	0	16	9	14	0	7	5	6	0	10	3	4	0	0	1	1	0	0	0	1	0	0	1	1	0	3	0	1	0	0	0	4	0	1	0
+8	None	YP_009349933.1	Phryganogryllacris xiai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Stenopelmatoidea, Gryllacrididae, Phryganogryllacris	16	15	30	0	6	0	8	0	15	5	3	0	11	0	10	8	14	0	9	5	9	0	5	7	9	0	2	2	4	0	37	6	15	1	8	4	12	0	14	11	7	1	0	0	3	0	7	1	4	0	7	3	9	0	3	6	3	0	4	3	15	2	0	1

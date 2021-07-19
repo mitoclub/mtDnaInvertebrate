@@ -1,65 +1,10 @@
-	YP_009537168.1|ND2	YP_009537169.1|COX1	YP_009537170.1|COX2	YP_009537171.1|ATP8	YP_009537172.1|ATP6	YP_009537173.1|COX3	YP_009537174.1|ND3	YP_009537178.1|ND6	YP_009537179.1|CYTB
-TTT	25	29	12	2	16	12	12	13	16
-TTC	10	12	5	0	2	12	1	2	16
-TTA	29	30	16	2	12	11	8	10	15
-TTG	9	5	1	0	3	1	0	5	4
-TCT	13	16	9	6	7	8	4	7	11
-TCC	6	4	2	0	2	1	1	2	4
-TCA	9	7	6	1	1	8	3	5	6
-TCG	2	3	0	0	1	0	0	0	0
-TAT	11	12	5	2	4	9	0	3	12
-TAC	3	5	3	0	4	2	2	1	4
-TGT	3	0	2	0	0	1	0	0	3
-TGC	1	0	0	0	0	0	1	0	2
-TGA	5	13	5	3	4	11	3	1	8
-TGG	4	2	1	0	0	2	0	0	4
-CTT	7	14	5	3	10	9	4	5	15
-CTC	4	3	4	0	2	1	1	1	7
-CTA	9	9	3	1	4	3	4	5	14
-CTG	2	1	0	0	0	1	2	2	1
-CCT	10	15	6	2	6	4	2	4	13
-CCC	1	2	3	1	1	2	2	4	5
-CCA	0	10	1	1	0	3	2	1	3
-CCG	0	1	0	0	1	0	0	0	2
-CAT	2	10	3	0	4	9	0	1	4
-CAC	1	8	4	1	0	7	0	0	6
-CAA	7	6	5	0	2	6	0	5	5
-CAG	1	2	1	1	1	1	0	0	1
-CGT	0	5	4	0	1	0	1	0	0
-CGC	0	0	0	0	0	1	0	0	1
-CGA	1	6	2	0	1	3	2	1	5
-CGG	1	0	0	0	0	0	0	0	1
-ATT	22	38	15	5	19	16	10	9	24
-ATC	9	3	5	2	5	6	9	5	13
-ATA	15	19	8	6	10	7	2	11	13
-ATG	6	6	2	0	9	2	0	9	6
-ACT	8	19	7	1	11	10	3	5	10
-ACC	3	2	1	1	3	1	0	4	4
-ACA	2	13	2	0	5	9	3	4	4
-ACG	1	1	2	1	0	2	2	0	0
-AAT	12	14	9	0	5	1	1	7	9
-AAC	6	1	5	0	8	5	1	1	7
-AAA	8	7	4	1	2	1	5	4	9
-AAG	3	1	0	2	2	0	1	2	3
-AGT	5	5	1	2	1	2	0	1	2
-AGC	2	1	1	0	3	2	0	0	1
-AGA	9	7	3	0	4	2	2	1	4
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	18	4	1	0	8	2	7	8
-GTC	2	7	2	0	1	2	2	1	2
-GTA	2	13	8	0	9	6	0	3	7
-GTG	1	0	2	0	4	3	0	0	3
-GCT	6	21	7	1	8	9	3	1	10
-GCC	3	7	0	1	6	7	0	2	7
-GCA	3	8	0	1	2	3	1	0	2
-GCG	2	2	1	0	3	2	0	1	2
-GAT	2	12	8	1	0	3	3	0	8
-GAC	1	4	4	0	1	0	1	0	2
-GAA	3	7	10	0	4	4	1	0	3
-GAG	1	2	2	0	2	3	4	3	2
-GGT	2	11	0	0	1	2	2	0	7
-GGC	1	0	1	0	0	0	1	1	2
-GGA	8	27	2	0	4	11	3	1	10
-GGG	4	8	3	0	0	5	0	1	7
-TAA	1	1	1	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009537168.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	25	10	29	9	13	6	9	2	11	3	3	1	5	4	7	4	9	2	10	1	0	0	2	1	7	1	0	0	1	1	22	9	15	6	8	3	2	1	12	6	8	3	5	2	9	0	4	2	2	1	6	3	3	2	2	1	3	1	2	1	8	4	1	0
+1	COX1	YP_009537169.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	29	12	30	5	16	4	7	3	12	5	0	0	13	2	14	3	9	1	15	2	10	1	10	8	6	2	5	0	6	0	38	3	19	6	19	2	13	1	14	1	7	1	5	1	7	0	18	7	13	0	21	7	8	2	12	4	7	2	11	0	27	8	1	0
+2	COX2	YP_009537170.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	12	5	16	1	9	2	6	0	5	3	2	0	5	1	5	4	3	0	6	3	1	0	3	4	5	1	4	0	2	0	15	5	8	2	7	1	2	2	9	5	4	0	1	1	3	0	4	2	8	2	7	0	0	1	8	4	10	2	0	1	2	3	1	0
+3	ATP8	YP_009537171.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	2	0	2	0	6	0	1	0	2	0	0	0	3	0	3	0	1	0	2	1	1	0	0	1	0	1	0	0	0	0	5	2	6	0	1	1	0	1	0	0	1	2	2	0	0	0	1	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009537172.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	16	2	12	3	7	2	1	1	4	4	0	0	4	0	10	2	4	0	6	1	0	1	4	0	2	1	1	0	1	0	19	5	10	9	11	3	5	0	5	8	2	2	1	3	4	0	0	1	9	4	8	6	2	3	0	1	4	2	1	0	4	0	1	0
+5	COX3	YP_009537173.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	12	12	11	1	8	1	8	0	9	2	1	0	11	2	9	1	3	1	4	2	3	0	9	7	6	1	0	1	3	0	16	6	7	2	10	1	9	2	1	5	1	0	2	2	2	0	8	2	6	3	9	7	3	2	3	0	4	3	2	0	11	5	0	0
+6	ND3	YP_009537174.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	12	1	8	0	4	1	3	0	0	2	0	1	3	0	4	1	4	2	2	2	2	0	0	0	0	0	1	0	2	0	10	9	2	0	3	0	3	2	1	1	5	1	0	0	2	0	2	2	0	0	3	0	1	0	3	1	1	4	2	1	3	0	0	0
+7	ND6	YP_009537178.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	13	2	10	5	7	2	5	0	3	1	0	0	1	0	5	1	5	2	4	4	1	0	1	0	5	0	0	0	1	0	9	5	11	9	5	4	4	0	7	1	4	2	1	0	1	0	7	1	3	0	1	2	0	1	0	0	0	3	0	1	1	1	1	0
+8	CYTB	YP_009537179.1	Semibalanus balanoides	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Sessilia, Archaeobalanidae, Semibalanus	16	16	15	4	11	4	6	0	12	4	3	2	8	4	15	7	14	1	13	5	3	2	4	6	5	1	0	1	5	1	24	13	13	6	10	4	4	0	9	7	9	3	2	1	4	0	8	2	7	3	10	7	2	2	8	2	3	2	7	2	10	7	0	1

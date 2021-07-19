@@ -1,65 +1,13 @@
-	YP_009180259.1|ND1	YP_009180260.1|ND2	YP_009180261.1|COX1	YP_009180262.1|COX2	YP_009180263.1|ATP8	YP_009180264.1|ATP6	YP_009180265.1|COX3	YP_009180266.1|ND3	YP_009180267.1|ND4L	YP_009180268.1|ND4	YP_009180269.1|ND5	YP_009180271.1|CYTB
-TTT	18	10	28	8	2	10	13	9	2	13	36	19
-TTC	2	4	13	1	2	3	9	1	6	5	12	12
-TTA	14	17	16	8	1	11	8	5	7	24	13	5
-TTG	2	7	1	0	1	2	0	3	0	6	6	2
-TCT	7	7	11	2	0	0	3	1	3	8	10	7
-TCC	6	3	8	3	3	5	1	1	2	7	9	11
-TCA	3	5	5	5	2	0	2	4	2	5	6	3
-TCG	1	0	1	0	0	0	0	0	0	1	2	1
-TAT	8	3	13	5	0	2	8	2	0	6	8	7
-TAC	3	4	5	5	0	2	5	1	0	6	7	8
-TGT	0	0	0	1	0	0	1	0	2	2	2	0
-TGC	0	0	1	1	0	0	1	1	1	2	4	3
-TGA	8	7	15	5	4	5	11	4	1	13	13	12
-TGG	0	4	2	0	1	0	1	1	0	4	1	0
-CTT	24	27	20	10	3	24	13	14	5	31	34	31
-CTC	9	11	11	4	0	6	3	1	4	17	15	9
-CTA	15	13	12	6	1	7	6	4	7	16	19	14
-CTG	3	7	5	0	0	3	0	0	2	2	3	2
-CCT	6	9	14	4	1	2	2	4	0	11	12	8
-CCC	13	7	10	5	3	10	8	3	0	12	11	7
-CCA	5	6	4	5	4	5	2	2	1	6	7	6
-CCG	0	1	1	0	0	1	0	0	0	0	1	1
-CAT	1	2	7	2	1	0	8	0	3	4	8	7
-CAC	6	4	13	7	0	3	7	0	1	7	6	6
-CAA	6	10	7	9	2	7	7	3	2	9	14	6
-CAG	1	5	1	1	1	1	1	0	0	1	3	0
-CGT	1	1	2	1	0	0	1	0	0	2	2	1
-CGC	1	1	0	3	0	2	0	2	2	2	1	1
-CGA	6	2	4	2	0	4	3	0	1	6	3	5
-CGG	0	0	2	0	0	0	1	0	0	1	3	1
-ATT	15	13	33	15	3	14	11	7	0	31	41	18
-ATC	7	8	6	4	0	1	5	1	0	3	9	9
-ATA	6	10	17	4	0	10	7	1	4	19	22	8
-ATG	3	3	7	7	1	2	3	1	1	6	9	3
-ACT	4	13	8	2	1	2	6	2	1	15	14	7
-ACC	2	16	8	2	1	6	6	2	2	12	15	7
-ACA	9	12	21	7	4	11	11	2	6	18	25	6
-ACG	2	2	0	0	0	0	1	0	1	2	3	0
-AAT	8	4	7	3	1	5	3	1	0	7	18	7
-AAC	2	7	7	2	2	4	0	0	3	7	11	9
-AAA	5	5	8	4	2	1	2	1	0	6	18	8
-AAG	2	2	0	0	0	0	0	0	0	2	3	2
-AGT	4	2	0	0	0	2	2	0	1	1	5	1
-AGC	2	1	5	3	1	3	2	0	0	5	7	1
-GTT	6	3	11	4	1	10	6	2	1	7	13	9
-GTC	2	3	3	5	2	0	2	2	0	2	6	3
-GTA	9	2	22	8	0	3	8	3	0	8	12	12
-GTG	2	0	3	4	0	2	0	0	0	3	1	0
-GCT	5	9	14	5	0	8	2	2	3	10	18	9
-GCC	9	14	19	7	1	5	11	4	5	14	23	11
-GCA	19	17	15	8	0	6	9	3	6	10	14	13
-GCG	0	0	0	0	0	0	1	0	0	0	0	0
-GAT	1	2	5	4	0	0	1	0	0	1	8	8
-GAC	3	0	9	8	1	1	4	4	2	3	4	2
-GAA	8	4	6	12	0	4	8	3	2	10	8	4
-GAG	3	1	4	1	1	0	1	3	1	1	3	1
-GGT	4	2	9	3	0	4	8	1	1	6	10	3
-GGC	7	8	9	0	0	4	8	4	3	11	6	13
-GGA	5	6	19	4	0	4	6	1	1	10	14	10
-GGG	1	2	10	1	0	0	2	0	0	1	1	1
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009180259.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	18	2	14	2	7	6	3	1	8	3	0	0	8	0	24	9	15	3	6	13	5	0	1	6	6	1	1	1	6	0	15	7	6	3	4	2	9	2	8	2	5	2	4	2	6	2	9	2	5	9	19	0	1	3	8	3	4	7	5	1	1	0	0	0
+1	ND2	YP_009180260.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	10	4	17	7	7	3	5	0	3	4	0	0	7	4	27	11	13	7	9	7	6	1	2	4	10	5	1	1	2	0	13	8	10	3	13	16	12	2	4	7	5	2	2	1	3	3	2	0	9	14	17	0	2	0	4	1	2	8	6	2	0	1	0	0
+2	COX1	YP_009180261.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	28	13	16	1	11	8	5	1	13	5	0	1	15	2	20	11	12	5	14	10	4	1	7	13	7	1	2	0	4	2	33	6	17	7	8	8	21	0	7	7	8	0	0	5	11	3	22	3	14	19	15	0	5	9	6	4	9	9	19	10	1	0	0	0
+3	COX2	YP_009180262.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	8	1	8	0	2	3	5	0	5	5	1	1	5	0	10	4	6	0	4	5	5	0	2	7	9	1	1	3	2	0	15	4	4	7	2	2	7	0	3	2	4	0	0	3	4	5	8	4	5	7	8	0	4	8	12	1	3	0	4	1	0	0	0	0
+4	ATP8	YP_009180263.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	2	2	1	1	0	3	2	0	0	0	0	0	4	1	3	0	1	0	1	3	4	0	1	0	2	1	0	0	0	0	3	0	0	1	1	1	4	0	1	2	2	0	0	1	1	2	0	0	0	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009180264.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	10	3	11	2	0	5	0	0	2	2	0	0	5	0	24	6	7	3	2	10	5	1	0	3	7	1	0	2	4	0	14	1	10	2	2	6	11	0	5	4	1	0	2	3	10	0	3	2	8	5	6	0	0	1	4	0	4	4	4	0	1	0	0	0
+6	COX3	YP_009180265.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	13	9	8	0	3	1	2	0	8	5	1	1	11	1	13	3	6	0	2	8	2	0	8	7	7	1	1	0	3	1	11	5	7	3	6	6	11	1	3	0	2	0	2	2	6	2	8	0	2	11	9	1	1	4	8	1	8	8	6	2	0	0	0	0
+7	ND3	YP_009180266.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	9	1	5	3	1	1	4	0	2	1	0	1	4	1	14	1	4	0	4	3	2	0	0	0	3	0	0	2	0	0	7	1	1	1	2	2	2	0	1	0	1	0	0	0	2	2	3	0	2	4	3	0	0	4	3	3	1	4	1	0	0	0	0	0
+8	ND4L	YP_009180267.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	2	6	7	0	3	2	2	0	0	0	2	1	1	0	5	4	7	2	0	0	1	0	3	1	2	0	0	2	1	0	0	0	4	1	1	2	6	1	0	3	0	0	1	0	1	0	0	0	3	5	6	0	0	2	2	1	1	3	1	0	1	0	0	0
+9	ND4	YP_009180268.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	13	5	24	6	8	7	5	1	6	6	2	2	13	4	31	17	16	2	11	12	6	0	4	7	9	1	2	2	6	1	31	3	19	6	15	12	18	2	7	7	6	2	1	5	7	2	8	3	10	14	10	0	1	3	10	1	6	11	10	1	0	0	0	0
+10	ND5	YP_009180269.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	36	12	13	6	10	9	6	2	8	7	2	4	13	1	34	15	19	3	12	11	7	1	8	6	14	3	2	1	3	3	41	9	22	9	14	15	25	3	18	11	18	3	5	7	13	6	12	1	18	23	14	0	8	4	8	3	10	6	14	1	1	0	0	0
+11	CYTB	YP_009180271.1	Gymnogobius urotaenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	19	12	5	2	7	11	3	1	7	8	0	3	12	0	31	9	14	2	8	7	6	1	7	6	6	0	1	1	5	1	18	9	8	3	7	7	6	0	7	9	8	2	1	1	9	3	12	0	9	11	13	0	8	2	4	1	3	13	10	1	0	0	0	0

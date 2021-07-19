@@ -1,65 +1,10 @@
-	YP_002265588.1|ND2	YP_002265589.1|COX1	YP_002265590.1|COX2	YP_002265591.1|ATP8	YP_002265592.1|ATP6	YP_002265593.1|COX3	YP_002265594.1|ND3	YP_002265598.1|ND6	YP_002265599.1|CYTB
-TTT	6	16	2	1	7	11	6	2	16
-TTC	12	20	12	2	7	13	3	7	15
-TTA	15	21	8	1	7	9	7	9	15
-TTG	0	2	0	0	1	1	0	1	2
-TCT	4	2	2	2	1	0	1	0	2
-TCC	3	4	1	0	1	2	2	1	3
-TCA	16	24	11	2	8	15	5	7	15
-TCG	1	0	0	0	0	0	0	0	0
-TAT	5	5	4	0	3	2	0	1	5
-TAC	5	8	3	1	3	4	1	3	8
-TGT	2	0	2	0	0	0	1	0	1
-TGC	0	0	1	1	1	1	0	0	2
-TGA	10	11	6	3	5	12	3	1	12
-TGG	0	3	0	0	0	1	0	0	0
-CTT	3	2	3	0	3	2	2	3	3
-CTC	2	0	5	0	6	3	2	2	4
-CTA	16	41	11	0	22	11	6	10	21
-CTG	3	3	2	0	1	2	0	2	3
-CCT	2	2	0	1	3	0	0	1	3
-CCC	4	3	4	1	2	1	1	1	3
-CCA	4	21	8	0	8	9	3	5	15
-CCG	0	2	0	0	0	0	0	0	2
-CAT	1	9	1	0	1	7	1	0	4
-CAC	1	6	4	0	4	7	0	1	6
-CAA	11	9	8	1	3	7	2	5	8
-CAG	0	1	0	0	0	0	0	0	1
-CGT	0	0	1	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	1
-CGA	1	9	6	0	2	4	1	1	5
-CGG	0	1	0	0	1	0	1	0	1
-ATT	18	20	9	2	10	17	6	9	18
-ATC	26	26	12	5	9	6	8	8	18
-ATA	33	31	8	3	21	14	8	18	25
-ATG	4	2	2	1	0	1	0	2	1
-ACT	5	5	1	1	4	3	2	1	1
-ACC	6	4	1	0	6	4	1	2	7
-ACA	29	26	12	4	15	12	10	8	21
-ACG	0	1	1	0	0	3	0	4	3
-AAT	11	9	4	2	3	2	0	3	6
-AAC	14	9	7	5	10	6	7	8	9
-AAA	15	9	7	7	4	4	6	7	9
-AAG	1	1	1	0	1	0	0	3	1
-AGT	1	2	0	0	1	0	0	1	0
-AGC	1	3	0	0	2	0	0	1	2
-AGA	5	8	9	1	9	7	2	4	6
-AGG	0	0	0	0	0	0	0	1	0
-GTT	0	3	3	0	2	1	0	1	4
-GTC	1	5	0	0	0	1	0	0	3
-GTA	9	16	9	2	5	13	3	10	12
-GTG	1	6	0	0	0	0	0	1	0
-GCT	0	5	2	0	1	1	0	0	0
-GCC	3	6	0	0	1	0	1	0	7
-GCA	11	19	5	1	3	8	4	2	15
-GCG	1	1	0	0	1	0	0	0	0
-GAT	0	5	5	0	0	3	1	1	4
-GAC	0	10	4	0	1	1	3	0	4
-GAA	5	8	9	2	4	8	3	7	3
-GAG	0	2	0	0	1	1	1	0	1
-GGT	0	3	1	0	0	0	0	0	0
-GGC	0	2	0	0	0	1	0	0	0
-GGA	11	33	5	0	9	17	3	4	12
-GGG	3	5	2	0	1	2	0	2	10
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_002265588.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	6	12	15	0	4	3	16	1	5	5	2	0	10	0	3	2	16	3	2	4	4	0	1	1	11	0	0	0	1	0	18	26	33	4	5	6	29	0	11	14	15	1	1	1	5	0	0	1	9	1	0	3	11	1	0	0	5	0	0	0	11	3	1	0
+1	COX1	YP_002265589.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	16	20	21	2	2	4	24	0	5	8	0	0	11	3	2	0	41	3	2	3	21	2	9	6	9	1	0	0	9	1	20	26	31	2	5	4	26	1	9	9	9	1	2	3	8	0	3	5	16	6	5	6	19	1	5	10	8	2	3	2	33	5	0	0
+2	COX2	YP_002265590.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	2	12	8	0	2	1	11	0	4	3	2	1	6	0	3	5	11	2	0	4	8	0	1	4	8	0	1	0	6	0	9	12	8	2	1	1	12	1	4	7	7	1	0	0	9	0	3	0	9	0	2	0	5	0	5	4	9	0	1	0	5	2	0	0
+3	ATP8	YP_002265591.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	1	2	1	0	2	0	2	0	0	1	0	1	3	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	2	5	3	1	1	0	4	0	2	5	7	0	0	0	1	0	0	0	2	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_002265592.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	7	7	7	1	1	1	8	0	3	3	0	1	5	0	3	6	22	1	3	2	8	0	1	4	3	0	0	0	2	1	10	9	21	0	4	6	15	0	3	10	4	1	1	2	9	0	2	0	5	0	1	1	3	1	0	1	4	1	0	0	9	1	1	0
+5	COX3	YP_002265593.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	11	13	9	1	0	2	15	0	2	4	0	1	12	1	2	3	11	2	0	1	9	0	7	7	7	0	0	0	4	0	17	6	14	1	3	4	12	3	2	6	4	0	0	0	7	0	1	1	13	0	1	0	8	0	3	1	8	1	0	1	17	2	1	0
+6	ND3	YP_002265594.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	6	3	7	0	1	2	5	0	0	1	1	0	3	0	2	2	6	0	0	1	3	0	1	0	2	0	0	0	1	1	6	8	8	0	2	1	10	0	0	7	6	0	0	0	2	0	0	0	3	0	0	1	4	0	1	3	3	1	0	0	3	0	0	0
+7	ND6	YP_002265598.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	2	7	9	1	0	1	7	0	1	3	0	0	1	0	3	2	10	2	1	1	5	0	0	1	5	0	0	0	1	0	9	8	18	2	1	2	8	4	3	8	7	3	1	1	4	1	1	0	10	1	0	0	2	0	1	0	7	0	0	0	4	2	1	0
+8	CYTB	YP_002265599.1	Tetraphalerus bruchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Archostemata, Ommatidae, Tetraphalerus	16	15	15	2	2	3	15	0	5	8	1	2	12	0	3	4	21	3	3	3	15	2	4	6	8	1	0	1	5	1	18	18	25	1	1	7	21	3	6	9	9	1	0	2	6	0	4	3	12	0	0	7	15	0	4	4	3	1	0	0	12	10	0	1

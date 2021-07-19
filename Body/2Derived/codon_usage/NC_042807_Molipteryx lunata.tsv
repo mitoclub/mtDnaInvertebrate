@@ -1,65 +1,10 @@
-	YP_009654771.1	YP_009654772.1	YP_009654773.1	YP_009654774.1	YP_009654775.1	YP_009654776.1	YP_009654777.1	YP_009654781.1	YP_009654782.1
-TTT	14	27	6	3	9	17	5	10	20
-TTC	4	13	5	2	6	6	4	3	6
-TTA	35	31	14	3	18	20	9	14	39
-TTG	5	4	1	0	3	2	0	0	2
-TCT	10	11	1	0	5	5	3	2	4
-TCC	2	3	3	0	3	1	0	3	2
-TCA	11	14	3	0	5	5	5	10	11
-TCG	1	3	0	0	0	0	0	0	0
-TAT	8	10	5	0	3	8	2	6	13
-TAC	6	5	2	1	1	5	0	1	2
-TGT	0	0	2	0	0	2	1	1	3
-TGC	2	1	0	0	1	1	1	0	0
-TGA	9	14	6	4	3	12	3	2	11
-TGG	1	2	0	0	1	0	0	0	1
-CTT	3	8	4	0	3	5	0	0	3
-CTC	4	2	1	0	2	2	0	0	0
-CTA	10	11	9	1	6	3	5	7	13
-CTG	2	2	0	0	0	0	0	0	2
-CCT	4	9	5	2	4	5	1	1	9
-CCC	3	5	1	0	2	0	1	1	4
-CCA	4	11	5	1	3	2	2	1	7
-CCG	0	0	0	0	0	1	0	0	1
-CAT	1	10	6	0	4	11	0	1	6
-CAC	1	6	1	0	1	5	0	1	4
-CAA	5	7	7	1	2	4	1	1	7
-CAG	1	1	0	0	0	1	0	0	0
-CGT	1	1	0	0	0	0	1	0	3
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	5	6	0	2	3	1	0	5
-CGG	0	3	0	0	1	0	0	0	0
-ATT	31	47	16	8	24	20	18	16	29
-ATC	5	9	5	2	4	4	4	11	14
-ATA	35	33	8	3	22	10	12	11	19
-ATG	5	1	4	1	5	3	1	0	1
-ACT	6	13	3	1	9	7	3	2	3
-ACC	4	5	2	0	3	4	1	2	4
-ACA	11	15	7	1	6	8	3	7	16
-ACG	0	1	1	0	0	0	0	0	0
-AAT	16	16	14	5	16	7	2	6	17
-AAC	5	2	7	2	4	0	1	1	8
-AAA	17	8	7	3	3	8	6	9	11
-AAG	1	1	0	2	0	1	0	1	1
-AGT	4	3	2	1	1	2	1	0	1
-AGC	2	2	2	0	0	0	0	1	0
-AGA	7	12	1	1	9	10	1	3	4
-AGG	0	0	0	0	0	0	0	0	0
-GTT	6	9	2	0	2	3	2	4	7
-GTC	1	3	5	0	1	1	1	0	1
-GTA	3	15	7	0	4	8	1	8	9
-GTG	0	2	1	0	0	0	0	0	0
-GCT	1	13	4	0	2	1	1	0	11
-GCC	5	3	2	0	2	3	1	0	1
-GCA	5	9	5	1	4	6	3	3	5
-GCG	0	1	0	0	0	0	0	1	0
-GAT	0	10	9	0	0	2	2	0	4
-GAC	1	4	0	0	1	2	1	0	3
-GAA	3	9	10	3	5	7	5	3	6
-GAG	1	1	1	0	0	1	0	0	0
-GGT	1	9	2	0	3	7	0	2	4
-GGC	1	2	1	0	1	1	0	0	2
-GGA	5	21	4	0	2	8	1	3	15
-GGG	3	13	1	0	2	2	1	0	4
-TAA	1	0	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009654771.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	14	4	35	5	10	2	11	1	8	6	0	2	9	1	3	4	10	2	4	3	4	0	1	1	5	1	1	0	1	0	31	5	35	5	6	4	11	0	16	5	17	1	4	2	7	0	6	1	3	0	1	5	5	0	0	1	3	1	1	1	5	3	1	0
+1	None	YP_009654772.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	27	13	31	4	11	3	14	3	10	5	0	1	14	2	8	2	11	2	9	5	11	0	10	6	7	1	1	0	5	3	47	9	33	1	13	5	15	1	16	2	8	1	3	2	12	0	9	3	15	2	13	3	9	1	10	4	9	1	9	2	21	13	0	0
+2	None	YP_009654773.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	6	5	14	1	1	3	3	0	5	2	2	0	6	0	4	1	9	0	5	1	5	0	6	1	7	0	0	0	6	0	16	5	8	4	3	2	7	1	14	7	7	0	2	2	1	0	2	5	7	1	4	2	5	0	9	0	10	1	2	1	4	1	0	0
+3	None	YP_009654774.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	3	2	3	0	0	0	0	0	0	1	0	0	4	0	0	0	1	0	2	0	1	0	0	0	1	0	0	0	0	0	8	2	3	1	1	0	1	0	5	2	3	2	1	0	1	0	0	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	1	0
+4	None	YP_009654775.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	9	6	18	3	5	3	5	0	3	1	0	1	3	1	3	2	6	0	4	2	3	0	4	1	2	0	0	0	2	1	24	4	22	5	9	3	6	0	16	4	3	0	1	0	9	0	2	1	4	0	2	2	4	0	0	1	5	0	3	1	2	2	1	0
+5	None	YP_009654776.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	17	6	20	2	5	1	5	0	8	5	2	1	12	0	5	2	3	0	5	0	2	1	11	5	4	1	0	0	3	0	20	4	10	3	7	4	8	0	7	0	8	1	2	0	10	0	3	1	8	0	1	3	6	0	2	2	7	1	7	1	8	2	0	0
+6	None	YP_009654777.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	5	4	9	0	3	0	5	0	2	0	1	1	3	0	0	0	5	0	1	1	2	0	0	0	1	0	1	0	1	0	18	4	12	1	3	1	3	0	2	1	6	0	1	0	1	0	2	1	1	0	1	1	3	0	2	1	5	0	0	0	1	1	0	0
+7	None	YP_009654781.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	10	3	14	0	2	3	10	0	6	1	1	0	2	0	0	0	7	0	1	1	1	0	1	1	1	0	0	0	0	0	16	11	11	0	2	2	7	0	6	1	9	1	0	1	3	0	4	0	8	0	0	0	3	1	0	0	3	0	2	0	3	0	1	0
+8	None	YP_009654782.1	Molipteryx lunata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Coreoidea, Coreidae, Coreinae, Molipteryx	20	6	39	2	4	2	11	0	13	2	3	0	11	1	3	0	13	2	9	4	7	1	6	4	7	0	3	0	5	0	29	14	19	1	3	4	16	0	17	8	11	1	1	0	4	0	7	1	9	0	11	1	5	0	4	3	6	0	4	2	15	4	0	1

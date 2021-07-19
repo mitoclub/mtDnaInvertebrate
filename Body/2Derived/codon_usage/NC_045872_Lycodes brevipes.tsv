@@ -1,65 +1,12 @@
-	YP_009727323.1|ND1	YP_009727324.1|ND2	YP_009727325.1|COX1	YP_009727327.1|ATP8	YP_009727328.1|ATP6	YP_009727329.1|COX3	YP_009727330.1|ND3	YP_009727331.1|ND4L	YP_009727332.1|ND4	YP_009727333.1|ND5	YP_009727335.1|CYTB
-TTT	8	9	17	2	5	10	5	2	8	22	11
-TTC	10	3	25	2	5	14	3	4	6	19	18
-TTA	9	5	4	1	7	1	2	4	5	7	6
-TTG	2	0	0	0	2	0	1	0	3	1	1
-TCT	1	3	8	0	0	3	0	2	5	9	6
-TCC	9	8	11	0	2	5	3	4	9	17	11
-TCA	5	4	6	0	1	2	2	1	6	6	5
-TCG	1	0	1	1	0	0	1	1	0	4	2
-TAT	2	2	6	0	2	4	1	0	6	3	7
-TAC	9	5	12	0	2	8	1	0	8	8	8
-TGT	0	0	0	0	0	1	0	1	0	2	1
-TGC	0	0	1	0	0	1	1	2	4	5	2
-TGA	7	7	11	5	3	7	3	1	12	9	8
-TGG	1	4	6	0	2	5	2	0	7	5	5
-CTT	20	14	15	1	14	11	2	3	35	23	14
-CTC	15	29	24	3	15	7	11	9	19	25	15
-CTA	12	16	16	1	12	9	6	6	19	28	16
-CTG	8	17	4	1	7	3	7	3	12	14	8
-CCT	2	1	5	3	5	1	0	0	6	2	1
-CCC	18	17	16	5	10	10	8	2	16	16	14
-CCA	2	4	4	2	2	2	0	0	3	6	5
-CCG	2	1	3	0	0	0	0	0	1	6	1
-CAT	2	3	4	0	1	3	0	1	2	2	3
-CAC	2	4	15	2	4	13	1	4	8	14	9
-CAA	2	9	5	2	9	5	3	3	11	11	4
-CAG	5	6	3	0	0	4	0	0	2	7	3
-CGT	0	0	1	0	0	0	0	1	1	1	0
-CGC	1	2	2	0	3	2	1	0	4	1	4
-CGA	4	0	4	0	2	2	1	1	4	4	3
-CGG	3	2	1	0	1	1	0	0	2	3	1
-ATT	6	7	25	0	9	6	5	0	17	19	10
-ATC	12	6	14	2	7	7	3	1	15	28	19
-ATA	5	11	11	0	2	5	0	2	10	13	4
-ATG	4	6	12	1	7	3	2	2	18	14	4
-ACT	2	4	2	2	1	1	2	0	2	5	4
-ACC	11	27	14	1	10	12	3	4	23	29	8
-ACA	4	12	16	1	10	9	2	4	14	14	6
-ACG	2	3	4	1	2	2	1	0	2	7	3
-AAT	3	5	6	0	4	1	0	0	2	11	3
-AAC	8	5	9	2	5	0	1	1	9	17	16
-AAA	4	5	7	2	0	2	0	0	4	13	6
-AAG	3	3	1	1	1	0	1	0	5	7	3
-AGT	2	0	0	0	0	1	0	0	2	1	0
-AGC	2	4	5	1	3	2	0	3	9	12	1
-GTT	7	2	11	0	4	7	1	1	7	8	7
-GTC	5	3	11	2	4	4	2	0	6	11	12
-GTA	6	5	12	0	3	3	0	1	9	9	3
-GTG	6	2	8	1	1	2	1	0	0	2	4
-GCT	6	3	9	1	2	2	2	3	4	8	3
-GCC	22	24	20	1	13	15	6	9	16	31	16
-GCA	8	10	11	1	6	7	2	2	14	13	13
-GCG	1	0	6	1	0	1	1	1	5	4	0
-GAT	1	0	5	0	0	0	0	0	0	4	3
-GAC	3	3	9	1	1	5	4	1	5	8	6
-GAA	4	2	3	0	3	2	2	2	4	7	4
-GAG	7	2	8	2	1	7	4	0	7	5	0
-GGT	1	0	5	0	1	2	1	0	2	4	3
-GGC	11	9	17	0	5	5	2	4	16	14	14
-GGA	5	4	16	0	3	5	3	1	4	6	7
-GGG	1	6	9	0	3	9	0	1	5	8	6
-TAA	1	0	1	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009727323.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	8	10	9	2	1	9	5	1	2	9	0	0	7	1	20	15	12	8	2	18	2	2	2	2	2	5	0	1	4	3	6	12	5	4	2	11	4	2	3	8	4	3	2	2	7	5	6	6	6	22	8	1	1	3	4	7	1	11	5	1	1	0	0	0
+1	ND2	YP_009727324.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	9	3	5	0	3	8	4	0	2	5	0	0	7	4	14	29	16	17	1	17	4	1	3	4	9	6	0	2	0	2	7	6	11	6	4	27	12	3	5	5	5	3	0	4	2	3	5	2	3	24	10	0	0	3	2	2	0	9	4	6	0	0	0	0
+2	COX1	YP_009727325.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	17	25	4	0	8	11	6	1	6	12	0	1	11	6	15	24	16	4	5	16	4	3	4	15	5	3	1	2	4	1	25	14	11	12	2	14	16	4	6	9	7	1	0	5	11	11	12	8	9	20	11	6	5	9	3	8	5	17	16	9	1	0	0	0
+3	ATP8	YP_009727327.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	2	2	1	0	0	0	0	1	0	0	0	0	5	0	1	3	1	1	3	5	2	0	0	2	2	0	0	0	0	0	0	2	0	1	2	1	1	1	0	2	2	1	0	1	0	2	0	1	1	1	1	1	0	1	0	2	0	0	0	0	1	0	0	0
+4	ATP6	YP_009727328.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	5	5	7	2	0	2	1	0	2	2	0	0	3	2	14	15	12	7	5	10	2	0	1	4	9	0	0	3	2	1	9	7	2	7	1	10	10	2	4	5	0	1	0	3	4	4	3	1	2	13	6	0	0	1	3	1	1	5	3	3	1	0	0	0
+5	COX3	YP_009727329.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	10	14	1	0	3	5	2	0	4	8	1	1	7	5	11	7	9	3	1	10	2	0	3	13	5	4	0	2	2	1	6	7	5	3	1	12	9	2	1	0	2	0	1	2	7	4	3	2	2	15	7	1	0	5	2	7	2	5	5	9	0	0	0	0
+6	ND3	YP_009727330.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	5	3	2	1	0	3	2	1	1	1	0	1	3	2	2	11	6	7	0	8	0	0	0	1	3	0	0	1	1	0	5	3	0	2	2	3	2	1	0	1	0	1	0	0	1	2	0	1	2	6	2	1	0	4	2	4	1	2	3	0	0	0	0	0
+7	ND4L	YP_009727331.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	2	4	4	0	2	4	1	1	0	0	1	2	1	0	3	9	6	3	0	2	0	0	1	4	3	0	1	0	1	0	0	1	2	2	0	4	4	0	0	1	0	0	0	3	1	0	1	0	3	9	2	1	0	1	2	0	0	4	1	1	1	0	0	0
+8	ND4	YP_009727332.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	8	6	5	3	5	9	6	0	6	8	0	4	12	7	35	19	19	12	6	16	3	1	2	8	11	2	1	4	4	2	17	15	10	18	2	23	14	2	2	9	4	5	2	9	7	6	9	0	4	16	14	5	0	5	4	7	2	16	4	5	0	0	0	0
+9	ND5	YP_009727333.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	22	19	7	1	9	17	6	4	3	8	2	5	9	5	23	25	28	14	2	16	6	6	2	14	11	7	1	1	4	3	19	28	13	14	5	29	14	7	11	17	13	7	1	12	8	11	9	2	8	31	13	4	4	8	7	5	4	14	6	8	0	1	0	0
+10	CYTB	YP_009727335.1	Lycodes brevipes	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Zoarcales, Zoarcidae, Lycodinae, Lycodes	11	18	6	1	6	11	5	2	7	8	1	2	8	5	14	15	16	8	1	14	5	1	3	9	4	3	0	4	3	1	10	19	4	4	4	8	6	3	3	16	6	3	0	1	7	12	3	4	3	16	13	0	3	6	4	0	3	14	7	6	0	0	0	0

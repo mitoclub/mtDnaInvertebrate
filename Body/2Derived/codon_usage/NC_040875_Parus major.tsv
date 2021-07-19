@@ -1,65 +1,13 @@
-	YP_009555219.1|ND1	YP_009555220.1|ND2	YP_009555221.1|COX1	YP_009555222.1|COX2	YP_009555223.1|ATP8	YP_009555224.1|ATP6	YP_009555225.1|COX3	YP_009555226.1|ND3	YP_009555227.1|ND4L	YP_009555228.1|ND4	YP_009555229.1|ND5	YP_009555230.1|CYTB
-TTT	2	1	5	1	2	0	4	3	0	2	2	3
-TTC	17	13	38	8	2	10	21	5	5	13	33	25
-TTA	3	1	2	2	1	1	1	3	2	6	6	1
-TTG	0	0	0	0	0	0	0	0	0	0	0	0
-TCT	2	1	4	0	1	2	1	0	4	1	3	1
-TCC	10	12	12	7	1	6	8	4	2	18	26	15
-TCA	6	6	9	10	2	4	5	2	3	10	14	7
-TCG	1	2	0	0	0	1	0	0	0	0	0	0
-TAT	3	2	2	0	0	1	1	0	1	2	1	0
-TAC	12	4	15	8	0	2	10	2	1	12	12	12
-TGT	0	0	0	0	0	0	0	0	0	0	0	1
-TGC	3	2	1	3	0	0	1	1	4	3	6	3
-TGA	9	9	17	5	5	4	12	5	0	12	12	10
-TGG	0	1	0	0	0	0	0	0	1	0	0	1
-CTT	4	4	3	3	0	3	1	2	0	4	7	5
-CTC	19	19	15	12	2	25	9	5	2	36	31	16
-CTA	31	38	37	12	2	30	18	15	17	48	58	43
-CTG	7	5	5	1	1	2	2	2	1	2	2	0
-CCT	2	1	3	3	1	3	2	1	0	3	3	4
-CCC	11	11	14	3	5	7	7	3	2	17	18	13
-CCA	10	9	12	7	3	5	4	2	1	8	10	8
-CCG	2	1	0	0	0	0	0	1	0	0	0	0
-CAT	0	0	1	0	0	0	2	0	1	2	2	2
-CAC	2	10	18	9	0	3	13	0	5	13	9	10
-CAA	5	6	8	7	2	6	7	3	2	12	17	8
-CAG	1	3	0	0	0	2	1	0	0	1	2	0
-CGT	3	0	2	1	0	0	0	0	0	1	0	2
-CGC	2	2	2	1	0	2	3	1	0	4	2	2
-CGA	3	2	4	4	0	3	2	1	1	6	6	4
-CGG	0	0	1	0	0	0	0	0	1	0	0	0
-ATT	4	4	7	1	1	4	0	4	1	7	9	4
-ATC	20	22	33	14	2	15	14	5	3	38	47	31
-ATA	9	14	15	6	0	7	6	3	6	21	20	6
-ATG	1	4	8	3	2	1	1	1	1	7	4	1
-ACT	2	7	1	1	0	0	1	2	1	2	6	3
-ACC	10	24	20	9	8	12	12	5	4	23	31	13
-ACA	7	18	14	6	4	11	6	2	3	13	25	10
-ACG	0	0	2	0	0	0	1	0	0	0	0	0
-AAT	1	1	3	1	0	1	2	1	1	1	2	0
-AAC	12	10	13	4	3	9	3	2	1	15	24	20
-AAA	7	12	8	4	2	4	3	1	1	10	21	9
-AAG	0	1	1	0	0	0	1	0	0	0	0	1
-AGT	1	1	0	0	0	0	0	0	0	0	2	0
-AGC	4	4	3	5	2	4	4	1	3	10	8	1
-GTT	2	0	2	1	0	0	2	0	0	1	1	4
-GTC	7	4	12	9	0	2	9	0	0	5	8	7
-GTA	6	3	21	6	1	4	5	2	2	3	12	6
-GTG	1	2	2	1	0	1	1	0	0	0	0	1
-GCT	3	0	2	2	0	2	6	2	0	1	3	3
-GCC	19	18	30	11	0	10	12	6	7	25	34	18
-GCA	9	12	16	3	0	4	5	2	1	11	12	7
-GCG	0	1	1	0	0	0	1	0	0	0	1	0
-GAT	2	0	6	0	0	0	2	0	0	0	0	1
-GAC	2	3	9	13	0	2	2	4	1	3	8	7
-GAA	11	3	9	11	0	4	8	7	2	8	11	7
-GAG	0	1	1	1	0	0	0	0	0	2	1	0
-GGT	3	1	3	0	0	0	1	0	0	1	2	1
-GGC	7	7	18	2	0	5	10	4	3	10	12	11
-GGA	4	3	24	5	0	3	7	1	0	6	17	11
-GGG	1	1	2	1	0	0	1	0	1	0	2	1
-TAA	0	0	0	1	1	1	0	1	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009555219.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	2	17	3	0	2	10	6	1	3	12	0	3	9	0	4	19	31	7	2	11	10	2	0	2	5	1	3	2	3	0	4	20	9	1	2	10	7	0	1	12	7	0	1	4	2	7	6	1	3	19	9	0	2	2	11	0	3	7	4	1	0	0	1	0
+1	ND2	YP_009555220.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	1	13	1	0	1	12	6	2	2	4	0	2	9	1	4	19	38	5	1	11	9	1	0	10	6	3	0	2	2	0	4	22	14	4	7	24	18	0	1	10	12	1	1	4	0	4	3	2	0	18	12	1	0	3	3	1	1	7	3	1	0	0	0	0
+2	COX1	YP_009555221.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	5	38	2	0	4	12	9	0	2	15	0	1	17	0	3	15	37	5	3	14	12	0	1	18	8	0	2	2	4	1	7	33	15	8	1	20	14	2	3	13	8	1	0	3	2	12	21	2	2	30	16	1	6	9	9	1	3	18	24	2	0	0	0	1
+3	COX2	YP_009555222.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	1	8	2	0	0	7	10	0	0	8	0	3	5	0	3	12	12	1	3	3	7	0	0	9	7	0	1	1	4	0	1	14	6	3	1	9	6	0	1	4	4	0	0	5	1	9	6	1	2	11	3	0	0	13	11	1	0	2	5	1	1	0	0	0
+4	ATP8	YP_009555223.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	2	2	1	0	1	1	2	0	0	0	0	0	5	0	0	2	2	1	1	5	3	0	0	0	2	0	0	0	0	0	1	2	0	2	0	8	4	0	0	3	2	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009555224.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	0	10	1	0	2	6	4	1	1	2	0	0	4	0	3	25	30	2	3	7	5	0	0	3	6	2	0	2	3	0	4	15	7	1	0	12	11	0	1	9	4	0	0	4	0	2	4	1	2	10	4	0	0	2	4	0	0	5	3	0	1	0	0	0
+6	COX3	YP_009555225.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	4	21	1	0	1	8	5	0	1	10	0	1	12	0	1	9	18	2	2	7	4	0	2	13	7	1	0	3	2	0	0	14	6	1	1	12	6	1	2	3	3	1	0	4	2	9	5	1	6	12	5	1	2	2	8	0	1	10	7	1	0	0	0	0
+7	ND3	YP_009555226.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	3	5	3	0	0	4	2	0	0	2	0	1	5	0	2	5	15	2	1	3	2	1	0	0	3	0	0	1	1	0	4	5	3	1	2	5	2	0	1	2	1	0	0	1	0	0	2	0	2	6	2	0	0	4	7	0	0	4	1	0	1	0	0	0
+8	ND4L	YP_009555227.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	0	5	2	0	4	2	3	0	1	1	0	4	0	1	0	2	17	1	0	2	1	0	1	5	2	0	0	0	1	1	1	3	6	1	1	4	3	0	1	1	1	0	0	3	0	0	2	0	0	7	1	0	0	1	2	0	0	3	0	1	1	0	0	0
+9	ND4	YP_009555228.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	2	13	6	0	1	18	10	0	2	12	0	3	12	0	4	36	48	2	3	17	8	0	2	13	12	1	1	4	6	0	7	38	21	7	2	23	13	0	1	15	10	0	0	10	1	5	3	0	1	25	11	0	0	3	8	2	1	10	6	0	0	0	0	0
+10	ND5	YP_009555229.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	2	33	6	0	3	26	14	0	1	12	0	6	12	0	7	31	58	2	3	18	10	0	2	9	17	2	0	2	6	0	9	47	20	4	6	31	25	0	2	24	21	0	2	8	1	8	12	0	3	34	12	1	0	8	11	1	2	12	17	2	0	0	1	0
+11	CYTB	YP_009555230.1	Parus major	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Paridae, Parus	3	25	1	0	1	15	7	0	0	12	1	3	10	1	5	16	43	0	4	13	8	0	2	10	8	0	2	2	4	0	4	31	6	1	3	13	10	0	0	20	9	1	0	1	4	7	6	1	3	18	7	0	1	7	7	0	1	11	11	1	0	0	0	0

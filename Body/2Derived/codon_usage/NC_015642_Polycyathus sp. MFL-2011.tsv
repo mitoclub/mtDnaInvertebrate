@@ -1,65 +1,14 @@
-	YP_004581278.1|ND5	YP_004581279.1|ND1	YP_004581280.1|CYTB	YP_004581281.1|ND2	YP_004581282.1|ND6	YP_004581283.1|ATP6	YP_004581284.1|ND4	YP_004581285.1|COX3	YP_004581286.1|COX2	YP_004581287.1|ND4L	YP_004581288.1|ND3	YP_004581289.1|ATP8	YP_004581290.1|COX1
-TTT	77	37	51	52	27	30	71	33	17	7	22	17	49
-TTC	2	1	0	1	2	1	2	1	0	1	1	0	4
-TTA	65	26	47	30	17	24	40	24	14	10	9	3	41
-TTG	15	7	6	6	0	3	10	3	10	5	5	2	9
-TCT	28	11	14	21	9	9	19	9	9	6	4	1	22
-TCC	1	0	0	0	0	0	0	1	0	1	0	0	0
-TCA	4	3	5	3	1	2	1	2	3	0	2	0	3
-TCG	0	1	0	0	0	0	1	0	0	0	0	1	1
-TAT	23	12	19	15	5	9	13	9	7	5	3	3	23
-TAC	0	0	0	1	0	0	2	1	1	0	0	0	1
-TGT	10	3	5	7	2	2	4	4	3	0	3	1	1
-TGC	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	7	5	6	2	0	3	5	5	3	0	3	1	10
-TGG	3	3	3	2	4	0	5	6	3	1	1	0	5
-CTT	25	11	8	22	10	8	25	5	6	1	1	0	15
-CTC	0	0	0	0	0	0	2	0	0	0	0	0	0
-CTA	2	1	2	2	1	0	1	1	0	1	0	0	0
-CTG	0	0	0	0	1	1	0	0	0	0	0	0	0
-CCT	10	9	12	8	4	5	10	5	3	0	3	1	12
-CCC	1	0	1	0	1	1	0	1	0	0	0	0	1
-CCA	2	4	2	0	1	1	6	2	5	0	2	1	7
-CCG	2	1	0	2	0	0	1	2	2	0	0	0	3
-CAT	10	2	11	2	1	4	6	12	6	1	0	0	14
-CAC	0	0	0	0	0	0	2	0	0	0	0	0	2
-CAA	12	5	8	4	5	2	7	8	4	1	0	2	5
-CAG	0	1	0	0	0	1	1	1	1	0	0	1	0
-CGT	1	3	3	0	0	1	6	2	2	1	1	0	1
-CGC	0	0	0	0	0	0	0	0	1	0	0	0	0
-CGA	4	3	4	2	0	0	5	1	0	3	1	1	5
-CGG	1	0	1	1	0	1	0	0	1	0	1	0	0
-ATT	41	24	20	28	13	25	33	8	16	9	6	2	38
-ATC	2	0	0	0	0	0	0	1	1	0	1	0	0
-ATA	8	4	6	11	4	3	6	5	5	5	2	2	9
-ATG	18	10	9	4	7	5	10	5	5	4	2	3	21
-ACT	12	2	7	4	4	2	4	8	5	1	2	1	11
-ACC	1	0	0	0	0	2	0	0	0	0	0	0	1
-ACA	6	3	2	5	4	6	9	2	3	2	0	2	12
-ACG	5	1	1	0	1	1	2	2	2	0	0	0	2
-AAT	14	8	15	7	6	5	11	2	4	0	1	4	18
-AAC	1	0	3	1	1	1	1	1	1	1	0	0	0
-AAA	20	8	8	15	2	6	13	4	8	3	1	7	11
-AAG	1	1	0	1	0	1	3	0	1	0	2	0	1
-AGT	10	7	6	10	3	4	8	6	1	2	2	0	8
-AGC	0	0	0	0	0	0	2	0	0	1	0	0	0
-AGA	5	2	1	2	2	2	3	0	0	0	0	1	4
-AGG	0	0	0	0	0	0	0	0	3	0	0	1	0
-GTT	30	26	26	24	14	10	30	18	19	7	5	1	26
-GTC	1	1	0	1	0	2	1	0	1	0	0	1	5
-GTA	6	0	3	7	4	4	8	3	2	2	2	0	7
-GTG	9	3	1	0	1	1	4	3	4	1	1	0	2
-GCT	15	9	7	10	2	6	12	9	4	2	3	0	17
-GCC	2	1	1	1	1	1	1	1	0	1	0	1	4
-GCA	11	12	9	5	3	5	6	9	5	2	1	0	6
-GCG	4	5	0	2	2	3	4	1	2	0	1	0	8
-GAT	14	4	10	2	5	3	7	3	11	1	1	1	13
-GAC	0	0	0	0	0	1	0	0	2	0	1	0	4
-GAA	9	7	3	9	7	3	10	7	8	2	3	2	7
-GAG	3	2	2	0	1	2	5	1	6	2	4	0	2
-GGT	9	8	10	10	2	5	17	7	5	2	4	0	17
-GGC	2	0	1	0	0	0	1	2	0	1	1	0	2
-GGA	23	13	10	12	4	5	13	8	3	1	2	0	17
-GGG	16	5	10	9	2	3	10	5	7	3	3	1	17
-TAA	0	1	1	1	1	1	0	1	0	1	1	1	1
-TAG	1	0	0	0	0	0	1	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	YP_004581278.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	77	2	65	15	28	1	4	0	23	0	10	0	7	3	25	0	2	0	10	1	2	2	10	0	12	0	1	0	4	1	41	2	8	18	12	1	6	5	14	1	20	1	10	0	5	0	30	1	6	9	15	2	11	4	14	0	9	3	9	2	23	16	0	1
+1	ND1	YP_004581279.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	37	1	26	7	11	0	3	1	12	0	3	0	5	3	11	0	1	0	9	0	4	1	2	0	5	1	3	0	3	0	24	0	4	10	2	0	3	1	8	0	8	1	7	0	2	0	26	1	0	3	9	1	12	5	4	0	7	2	8	0	13	5	1	0
+2	CYTB	YP_004581280.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	51	0	47	6	14	0	5	0	19	0	5	0	6	3	8	0	2	0	12	1	2	0	11	0	8	0	3	0	4	1	20	0	6	9	7	0	2	1	15	3	8	0	6	0	1	0	26	0	3	1	7	1	9	0	10	0	3	2	10	1	10	10	1	0
+3	ND2	YP_004581281.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	52	1	30	6	21	0	3	0	15	1	7	0	2	2	22	0	2	0	8	0	0	2	2	0	4	0	0	0	2	1	28	0	11	4	4	0	5	0	7	1	15	1	10	0	2	0	24	1	7	0	10	1	5	2	2	0	9	0	10	0	12	9	1	0
+4	ND6	YP_004581282.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	27	2	17	0	9	0	1	0	5	0	2	0	0	4	10	0	1	1	4	1	1	0	1	0	5	0	0	0	0	0	13	0	4	7	4	0	4	1	6	1	2	0	3	0	2	0	14	0	4	1	2	1	3	2	5	0	7	1	2	0	4	2	1	0
+5	ATP6	YP_004581283.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	30	1	24	3	9	0	2	0	9	0	2	0	3	0	8	0	0	1	5	1	1	0	4	0	2	1	1	0	0	1	25	0	3	5	2	2	6	1	5	1	6	1	4	0	2	0	10	2	4	1	6	1	5	3	3	1	3	2	5	0	5	3	1	0
+6	ND4	YP_004581284.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	71	2	40	10	19	0	1	1	13	2	4	0	5	5	25	2	1	0	10	0	6	1	6	2	7	1	6	0	5	0	33	0	6	10	4	0	9	2	11	1	13	3	8	2	3	0	30	1	8	4	12	1	6	4	7	0	10	5	17	1	13	10	0	1
+7	COX3	YP_004581285.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	33	1	24	3	9	1	2	0	9	1	4	0	5	6	5	0	1	0	5	1	2	2	12	0	8	1	2	0	1	0	8	1	5	5	8	0	2	2	2	1	4	0	6	0	0	0	18	0	3	3	9	1	9	1	3	0	7	1	7	2	8	5	1	0
+8	COX2	YP_004581286.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	17	0	14	10	9	0	3	0	7	1	3	0	3	3	6	0	0	0	3	0	5	2	6	0	4	1	2	1	0	1	16	1	5	5	5	0	3	2	4	1	8	1	1	0	0	3	19	1	2	4	4	0	5	2	11	2	8	6	5	0	3	7	0	1
+9	ND4L	YP_004581287.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	7	1	10	5	6	1	0	0	5	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	1	0	1	0	3	0	9	0	5	4	1	0	2	0	0	1	3	0	2	1	0	0	7	0	2	1	2	1	2	0	1	0	2	2	2	1	1	3	1	0
+10	ND3	YP_004581288.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	22	1	9	5	4	0	2	0	3	0	3	0	3	1	1	0	0	0	3	0	2	0	0	0	0	0	1	0	1	1	6	1	2	2	2	0	0	0	1	0	1	2	2	0	0	0	5	0	2	1	3	0	1	1	1	1	3	4	4	1	2	3	1	0
+11	ATP8	YP_004581289.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	17	0	3	2	1	0	0	1	3	0	1	0	1	0	0	0	0	0	1	0	1	0	0	0	2	1	0	0	1	0	2	0	2	3	1	0	2	0	4	0	7	0	0	0	1	1	1	1	0	0	0	1	0	0	1	0	2	0	0	0	0	1	1	0
+12	COX1	YP_004581290.1	Polycyathus sp. MFL-2011	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Polycyathus	49	4	41	9	22	0	3	1	23	1	1	0	10	5	15	0	0	0	12	1	7	3	14	2	5	0	1	0	5	0	38	0	9	21	11	1	12	2	18	0	11	1	8	0	4	0	26	5	7	2	17	4	6	8	13	4	7	2	17	2	17	17	1	0

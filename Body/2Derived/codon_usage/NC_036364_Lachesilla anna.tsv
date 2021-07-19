@@ -1,65 +1,10 @@
-	YP_009443887.1|ND2	YP_009443888.1|COX1	YP_009443889.1|COX2	YP_009443890.1|ATP8	YP_009443891.1|ATP6	YP_009443892.1|COX3	YP_009443894.1|ND3	YP_009443897.1|ND6	YP_009443898.1|CYTB
-TTT	28	29	9	7	11	21	11	25	28
-TTC	10	15	3	1	10	8	2	4	6
-TTA	25	32	16	6	25	18	9	18	35
-TTG	7	4	2	1	4	2	1	0	3
-TCT	22	14	12	2	12	6	3	7	10
-TCC	8	7	3	2	3	6	1	2	3
-TCA	7	7	4	0	5	5	3	4	9
-TCG	0	2	0	0	2	1	0	1	1
-TAT	6	11	6	1	6	3	1	6	9
-TAC	1	7	2	0	2	2	1	0	4
-TGT	0	1	2	0	0	0	2	0	4
-TGC	0	0	0	0	0	0	1	2	0
-TGA	5	11	6	3	3	8	3	2	10
-TGG	4	4	0	0	1	4	0	0	1
-CTT	9	13	7	0	4	7	4	4	10
-CTC	4	5	3	0	2	3	0	0	1
-CTA	16	10	5	1	8	2	1	6	4
-CTG	3	3	0	0	2	1	1	0	1
-CCT	4	14	4	2	5	5	1	5	10
-CCC	2	6	0	1	1	1	1	0	3
-CCA	1	5	6	1	3	3	1	0	4
-CCG	0	1	0	0	0	1	1	0	2
-CAT	1	13	3	0	5	7	1	0	8
-CAC	0	1	2	0	0	5	0	0	3
-CAA	10	9	7	1	3	9	2	2	8
-CAG	0	0	0	0	0	0	0	1	0
-CGT	1	1	1	0	0	0	2	0	1
-CGC	0	0	2	0	0	0	0	0	0
-CGA	0	8	3	0	2	1	1	2	4
-CGG	0	0	0	0	1	2	0	0	2
-ATT	32	36	16	4	21	20	16	16	33
-ATC	3	14	8	1	5	4	6	1	10
-ATA	16	22	7	2	9	11	2	13	13
-ATG	0	3	3	0	0	1	0	0	3
-ACT	10	12	2	4	3	2	2	4	7
-ACC	4	4	3	2	6	3	2	4	10
-ACA	8	16	10	1	7	12	2	3	12
-ACG	1	1	0	0	0	0	0	1	1
-AAT	18	10	8	1	10	7	6	9	13
-AAC	9	9	7	2	7	6	2	2	6
-AAA	10	8	4	5	3	2	5	7	10
-AAG	1	2	1	0	0	1	0	0	0
-AGT	1	2	1	0	0	0	0	0	0
-AGC	0	0	1	0	1	0	0	0	0
-AGA	3	12	2	0	6	3	1	1	2
-AGG	0	0	0	0	0	0	0	1	0
-GTT	2	17	5	0	4	1	1	2	7
-GTC	3	5	3	0	1	2	0	0	4
-GTA	5	8	1	0	2	8	3	4	9
-GTG	0	0	2	0	0	2	0	2	1
-GCT	7	12	2	0	4	8	1	2	7
-GCC	1	7	4	0	2	4	0	0	6
-GCA	5	8	3	0	1	6	2	0	4
-GCG	1	2	0	0	0	0	0	0	0
-GAT	0	8	8	0	0	2	3	0	8
-GAC	0	5	0	0	1	2	1	0	2
-GAA	3	10	11	0	3	6	4	3	2
-GAG	1	1	1	0	1	1	1	0	0
-GGT	0	7	2	0	2	4	1	2	5
-GGC	1	4	1	0	1	2	0	1	2
-GGA	7	24	3	0	4	7	2	1	7
-GGG	4	8	1	0	1	3	0	0	12
-TAA	0	0	1	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009443887.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	28	10	25	7	22	8	7	0	6	1	0	0	5	4	9	4	16	3	4	2	1	0	1	0	10	0	1	0	0	0	32	3	16	0	10	4	8	1	18	9	10	1	1	0	3	0	2	3	5	0	7	1	5	1	0	0	3	1	0	1	7	4	0	0
+1	COX1	YP_009443888.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	29	15	32	4	14	7	7	2	11	7	1	0	11	4	13	5	10	3	14	6	5	1	13	1	9	0	1	0	8	0	36	14	22	3	12	4	16	1	10	9	8	2	2	0	12	0	17	5	8	0	12	7	8	2	8	5	10	1	7	4	24	8	0	0
+2	COX2	YP_009443889.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	9	3	16	2	12	3	4	0	6	2	2	0	6	0	7	3	5	0	4	0	6	0	3	2	7	0	1	2	3	0	16	8	7	3	2	3	10	0	8	7	4	1	1	1	2	0	5	3	1	2	2	4	3	0	8	0	11	1	2	1	3	1	1	0
+3	ATP8	YP_009443890.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	7	1	6	1	2	2	0	0	1	0	0	0	3	0	0	0	1	0	2	1	1	0	0	0	1	0	0	0	0	0	4	1	2	0	4	2	1	0	1	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009443891.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	11	10	25	4	12	3	5	2	6	2	0	0	3	1	4	2	8	2	5	1	3	0	5	0	3	0	0	0	2	1	21	5	9	0	3	6	7	0	10	7	3	0	0	1	6	0	4	1	2	0	4	2	1	0	0	1	3	1	2	1	4	1	1	0
+5	COX3	YP_009443892.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	21	8	18	2	6	6	5	1	3	2	0	0	8	4	7	3	2	1	5	1	3	1	7	5	9	0	0	0	1	2	20	4	11	1	2	3	12	0	7	6	2	1	0	0	3	0	1	2	8	2	8	4	6	0	2	2	6	1	4	2	7	3	0	0
+6	ND3	YP_009443894.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	11	2	9	1	3	1	3	0	1	1	2	1	3	0	4	0	1	1	1	1	1	1	1	0	2	0	2	0	1	0	16	6	2	0	2	2	2	0	6	2	5	0	0	0	1	0	1	0	3	0	1	0	2	0	3	1	4	1	1	0	2	0	0	0
+7	ND6	YP_009443897.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	25	4	18	0	7	2	4	1	6	0	0	2	2	0	4	0	6	0	5	0	0	0	0	0	2	1	0	0	2	0	16	1	13	0	4	4	3	1	9	2	7	0	0	0	1	1	2	0	4	2	2	0	0	0	0	0	3	0	2	1	1	0	1	0
+8	CYTB	YP_009443898.1	Lachesilla anna	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Psocodea, Psocoptera, Psocomorpha, Homilopsocidea, Lachesilloidea, Lachesillidae, Lachesilla	28	6	35	3	10	3	9	1	9	4	4	0	10	1	10	1	4	1	10	3	4	2	8	3	8	0	1	0	4	2	33	10	13	3	7	10	12	1	13	6	10	0	0	0	2	0	7	4	9	1	7	6	4	0	8	2	2	0	5	2	7	12	0	0

@@ -1,65 +1,10 @@
-	YP_009500662.1|ND2	YP_009500663.1|COX1	YP_009500664.1|COX2	YP_009500665.1|ATP8	YP_009500666.1|ATP6	YP_009500667.1|COX3	YP_009500668.1|ND3	YP_009500672.1|ND6	YP_009500673.1|CYTB
-TTT	37	35	13	5	19	20	14	12	30
-TTC	5	6	2	1	2	5	1	1	4
-TTA	41	52	24	6	35	16	16	33	36
-TTG	3	0	0	0	0	0	0	0	0
-TCT	13	13	9	2	9	6	5	1	8
-TCC	2	3	0	0	0	1	1	0	2
-TCA	8	18	5	0	6	3	3	11	5
-TCG	0	0	0	0	1	0	0	0	0
-TAT	13	17	8	2	7	11	2	8	20
-TAC	1	2	1	0	1	2	0	1	2
-TGT	2	2	2	1	0	0	2	1	1
-TGC	0	0	0	0	0	2	0	0	2
-TGA	9	14	6	3	5	13	3	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	4	7	1	0	2	8	1	0	7
-CTC	0	2	0	0	0	0	1	0	2
-CTA	3	4	2	0	2	2	0	0	6
-CTG	0	0	0	0	0	0	0	0	0
-CCT	5	14	6	0	5	7	4	2	10
-CCC	2	5	0	0	2	0	0	0	1
-CCA	0	6	4	2	3	3	0	0	11
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	16	3	0	6	12	2	0	8
-CAC	0	0	2	0	0	2	0	1	0
-CAA	5	8	7	1	4	6	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	2	0	1	0	0	1	0
-CGC	0	0	0	0	1	0	0	0	0
-CGA	2	8	5	0	1	3	2	0	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	52	50	31	7	28	28	17	11	47
-ATC	2	2	1	0	0	3	2	8	3
-ATA	31	30	12	8	13	11	9	26	26
-ATG	1	1	1	0	1	1	0	0	0
-ACT	4	12	8	0	8	7	2	5	13
-ACC	1	3	0	0	2	3	1	0	1
-ACA	6	16	2	0	5	9	2	3	8
-ACG	0	0	0	0	0	0	0	0	0
-AAT	32	19	20	12	16	13	4	19	24
-AAC	3	4	3	0	2	0	2	2	3
-AAA	15	7	4	5	3	6	6	6	11
-AAG	0	0	0	0	0	0	0	0	0
-AGT	2	1	2	0	3	3	0	0	0
-AGC	0	1	0	0	0	0	0	0	0
-AGA	6	7	2	0	7	5	1	2	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	6	0	0	0	3	1	1	4
-GTC	0	1	0	0	0	0	0	0	0
-GTA	1	18	7	0	5	9	1	5	8
-GTG	0	0	0	0	1	0	0	0	0
-GCT	3	18	4	0	2	4	1	1	3
-GCC	0	2	1	0	1	1	0	1	1
-GCA	3	9	2	0	3	6	0	0	9
-GCG	0	0	0	0	0	0	0	0	1
-GAT	0	11	8	0	1	4	2	1	6
-GAC	0	4	1	0	0	0	1	0	1
-GAA	5	9	8	0	4	7	4	3	5
-GAG	0	0	0	0	0	0	0	0	0
-GGT	3	7	2	0	1	2	0	2	5
-GGC	0	0	0	0	0	1	0	0	0
-GGA	7	37	6	0	7	11	3	3	17
-GGG	1	2	1	0	0	3	0	0	3
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009500662.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	37	5	41	3	13	2	8	0	13	1	2	0	9	0	4	0	3	0	5	2	0	0	1	0	5	0	0	0	2	0	52	2	31	1	4	1	6	0	32	3	15	0	2	0	6	0	3	0	1	0	3	0	3	0	0	0	5	0	3	0	7	1	1	0
+1	COX1	YP_009500663.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	35	6	52	0	13	3	18	0	17	2	2	0	14	0	7	2	4	0	14	5	6	0	16	0	8	0	1	0	8	0	50	2	30	1	12	3	16	0	19	4	7	0	1	1	7	0	6	1	18	0	18	2	9	0	11	4	9	0	7	0	37	2	0	0
+2	COX2	YP_009500664.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	13	2	24	0	9	0	5	0	8	1	2	0	6	0	1	0	2	0	6	0	4	0	3	2	7	0	2	0	5	0	31	1	12	1	8	0	2	0	20	3	4	0	2	0	2	0	0	0	7	0	4	1	2	0	8	1	8	0	2	0	6	1	0	0
+3	ATP8	YP_009500665.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	5	1	6	0	2	0	0	0	2	0	1	0	3	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	7	0	8	0	0	0	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009500666.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	19	2	35	0	9	0	6	1	7	1	0	0	5	0	2	0	2	0	5	2	3	0	6	0	4	0	1	1	1	0	28	0	13	1	8	2	5	0	16	2	3	0	3	0	7	0	0	0	5	1	2	1	3	0	1	0	4	0	1	0	7	0	1	0
+5	COX3	YP_009500667.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	20	5	16	0	6	1	3	0	11	2	0	2	13	0	8	0	2	0	7	0	3	0	12	2	6	0	0	0	3	0	28	3	11	1	7	3	9	0	13	0	6	0	3	0	5	0	3	0	9	0	4	1	6	0	4	0	7	0	2	1	11	3	1	0
+6	ND3	YP_009500668.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	14	1	16	0	5	1	3	0	2	0	2	0	3	0	1	1	0	0	4	0	0	0	2	0	1	0	0	0	2	0	17	2	9	0	2	1	2	0	4	2	6	0	0	0	1	0	1	0	1	0	1	0	0	0	2	1	4	0	0	0	3	0	1	0
+7	ND6	YP_009500672.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	12	1	33	0	1	0	11	0	8	1	1	0	2	0	0	0	0	0	2	0	0	0	0	1	3	0	1	0	0	0	11	8	26	0	5	0	3	0	19	2	6	0	0	0	2	0	1	0	5	0	1	1	0	0	1	0	3	0	2	0	3	0	1	0
+8	CYTB	YP_009500673.1	Prismosticta fenestrata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismosticta	30	4	36	0	8	2	5	0	20	2	1	2	12	0	7	2	6	0	10	1	11	0	8	0	8	0	0	0	7	0	47	3	26	0	13	1	8	0	24	3	11	0	0	0	3	0	4	0	8	0	3	1	9	1	6	1	5	0	5	0	17	3	1	0

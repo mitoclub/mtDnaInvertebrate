@@ -1,65 +1,10 @@
-	YP_001789002.1|ND2	YP_001789003.1|COX1	YP_001789004.1|COX2	YP_001789005.1|ATP8	YP_001789006.1|ATP6	YP_001789007.1|COX3	YP_001789008.1|ND3	YP_001789012.1|ND6	YP_001789013.1|CYTB
-TTT	45	35	12	5	20	22	11	20	31
-TTC	4	3	2	0	0	3	2	1	6
-TTA	36	55	23	4	35	23	13	34	54
-TTG	0	0	0	0	0	0	1	0	0
-TCT	11	15	4	1	8	2	2	4	6
-TCC	2	0	2	0	1	1	2	0	1
-TCA	15	18	7	1	4	6	6	6	4
-TCG	0	0	0	0	0	0	0	0	0
-TAT	9	18	8	2	8	8	1	9	18
-TAC	3	1	1	0	2	3	0	1	0
-TGT	2	1	2	0	0	3	2	1	1
-TGC	0	0	0	0	0	0	0	0	2
-TGA	9	14	6	3	5	12	3	2	11
-TGG	0	0	0	0	0	1	0	0	1
-CTT	5	3	2	0	1	1	0	1	4
-CTC	0	0	0	0	0	0	0	0	0
-CTA	1	4	2	1	2	2	2	0	2
-CTG	0	0	1	0	0	0	1	0	0
-CCT	7	16	5	0	7	4	1	2	11
-CCC	0	3	1	0	0	1	1	0	4
-CCA	1	6	4	2	2	5	2	0	6
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	15	6	0	4	8	2	2	8
-CAC	1	1	0	0	2	7	0	0	1
-CAA	4	9	7	2	4	6	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	1	0	0	1	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	9	6	0	3	2	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	45	53	33	9	26	29	21	17	44
-ATC	8	6	1	0	3	2	3	1	7
-ATA	32	27	9	6	12	11	9	20	15
-ATG	0	2	1	0	1	1	0	0	1
-ACT	2	16	8	0	8	7	0	2	12
-ACC	1	1	1	0	2	2	0	0	2
-ACA	5	13	3	0	5	9	2	5	11
-ACG	0	0	0	0	0	0	0	1	0
-AAT	29	21	20	13	18	10	5	19	23
-AAC	3	4	4	1	2	2	1	4	6
-AAA	16	7	4	4	3	6	7	5	11
-AAG	1	0	0	0	0	0	0	0	0
-AGT	0	2	0	0	3	1	0	0	1
-AGC	0	0	0	0	0	1	0	0	0
-AGA	8	9	4	0	8	5	1	1	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	6	3	0	2	7	0	3	2
-GTC	0	1	0	0	0	0	0	0	0
-GTA	1	17	3	0	3	7	2	3	8
-GTG	0	0	0	0	1	0	0	0	1
-GCT	6	16	5	0	3	6	0	1	9
-GCC	0	4	0	0	3	1	1	0	2
-GCA	2	9	0	0	1	4	1	1	5
-GCG	0	0	1	0	0	0	0	0	0
-GAT	0	14	6	0	0	4	1	2	6
-GAC	0	1	2	0	1	1	2	0	2
-GAA	5	9	8	0	4	7	4	3	4
-GAG	0	0	1	0	0	0	0	0	0
-GGT	3	8	4	0	3	3	0	1	5
-GGC	0	0	1	0	1	0	0	0	0
-GGA	9	29	2	0	4	14	2	4	16
-GGG	0	9	1	0	0	1	0	0	2
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_001789002.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	45	4	36	0	11	2	15	0	9	3	2	0	9	0	5	0	1	0	7	0	1	0	0	1	4	0	0	0	2	0	45	8	32	0	2	1	5	0	29	3	16	1	0	0	8	0	0	0	1	0	6	0	2	0	0	0	5	0	3	0	9	0	1	0
+1	COX1	YP_001789003.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	35	3	55	0	15	0	18	0	18	1	1	0	14	0	3	0	4	0	16	3	6	0	15	1	9	0	0	0	9	0	53	6	27	2	16	1	13	0	21	4	7	0	2	0	9	0	6	1	17	0	16	4	9	0	14	1	9	0	8	0	29	9	0	0
+2	COX2	YP_001789004.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	12	2	23	0	4	2	7	0	8	1	2	0	6	0	2	0	2	1	5	1	4	0	6	0	7	0	1	0	6	0	33	1	9	1	8	1	3	0	20	4	4	0	0	0	4	0	3	0	3	0	5	0	0	1	6	2	8	1	4	1	2	1	0	0
+3	ATP8	YP_001789005.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	5	0	4	0	1	0	1	0	2	0	0	0	3	0	0	0	1	0	0	0	2	0	0	0	2	0	0	0	0	0	9	0	6	0	0	0	0	0	13	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_001789006.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	20	0	35	0	8	1	4	0	8	2	0	0	5	0	1	0	2	0	7	0	2	0	4	2	4	0	0	0	3	0	26	3	12	1	8	2	5	0	18	2	3	0	3	0	8	0	2	0	3	1	3	3	1	0	0	1	4	0	3	1	4	0	1	0
+5	COX3	YP_001789007.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	22	3	23	0	2	1	6	0	8	3	3	0	12	1	1	0	2	0	4	1	5	0	8	7	6	0	1	0	2	0	29	2	11	1	7	2	9	0	10	2	6	0	1	1	5	0	7	0	7	0	6	1	4	0	4	1	7	0	3	0	14	1	1	0
+6	ND3	YP_001789008.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	11	2	13	1	2	2	6	0	1	0	2	0	3	0	0	0	2	1	1	1	2	0	2	0	1	0	0	0	2	0	21	3	9	0	0	0	2	0	5	1	7	0	0	0	1	0	0	0	2	0	0	1	1	0	1	2	4	0	0	0	2	0	1	0
+7	ND6	YP_001789012.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	20	1	34	0	4	0	6	0	9	1	1	0	2	0	1	0	0	0	2	0	0	0	2	0	2	0	0	0	1	0	17	1	20	0	2	0	5	1	19	4	5	0	0	0	1	0	3	0	3	0	1	0	1	0	2	0	3	0	1	0	4	0	1	0
+8	CYTB	YP_001789013.1	Phthonandria atrilineata	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Geometroidea, Geometridae, Ennominae, Phthonandria	31	6	54	0	6	1	4	0	18	0	1	2	11	1	4	0	2	0	11	4	6	0	8	1	8	0	0	0	7	0	44	7	15	1	12	2	11	0	23	6	11	0	1	0	2	0	2	0	8	1	9	2	5	0	6	2	4	0	5	0	16	2	1	0

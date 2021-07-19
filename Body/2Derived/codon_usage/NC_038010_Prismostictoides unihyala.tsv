@@ -1,65 +1,10 @@
-	YP_009497823.1|ND2	YP_009497824.1|COX1	YP_009497825.1|COX2	YP_009497826.1|ATP8	YP_009497827.1|ATP6	YP_009497828.1|COX3	YP_009497829.1|ND3	YP_009497833.1|ND6	YP_009497834.1|CYTB
-TTT	43	33	14	6	20	22	15	14	32
-TTC	5	7	1	0	2	6	1	2	1
-TTA	41	43	24	5	32	17	13	23	40
-TTG	0	3	0	0	0	1	0	0	1
-TCT	11	19	8	1	5	5	4	4	9
-TCC	3	5	3	0	1	3	1	1	1
-TCA	11	12	3	0	5	2	2	7	7
-TCG	0	0	0	0	1	0	0	0	0
-TAT	12	14	8	5	5	11	1	5	19
-TAC	2	7	1	0	2	1	0	2	2
-TGT	1	1	2	0	1	3	2	0	2
-TGC	1	0	0	0	0	0	0	1	1
-TGA	9	14	5	3	4	13	3	2	12
-TGG	0	0	0	0	1	0	0	0	0
-CTT	4	7	3	0	3	3	0	1	2
-CTC	1	2	0	0	1	3	0	0	1
-CTA	6	7	2	0	4	2	3	3	10
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	14	5	1	10	2	2	0	11
-CCC	3	5	0	0	0	3	1	1	2
-CCA	1	5	5	1	1	4	0	1	8
-CCG	0	1	0	0	0	0	1	0	0
-CAT	1	11	5	0	6	9	2	0	7
-CAC	0	5	0	0	1	5	0	1	1
-CAA	4	9	7	1	3	6	2	3	7
-CAG	0	0	0	0	0	0	0	0	1
-CGT	0	2	2	0	0	1	0	0	2
-CGC	0	0	1	0	0	0	0	0	0
-CGA	2	7	4	0	3	3	2	1	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	54	54	30	6	25	23	20	16	44
-ATC	2	2	4	0	4	2	2	6	9
-ATA	23	28	8	6	10	12	7	23	23
-ATG	0	2	1	0	1	1	0	1	1
-ACT	5	9	5	0	11	11	2	7	7
-ACC	1	5	1	0	3	2	0	1	6
-ACA	5	16	4	0	4	5	2	3	9
-ACG	0	1	0	0	0	0	0	0	0
-AAT	28	17	21	10	17	13	6	19	18
-AAC	8	5	2	1	2	0	1	3	6
-AAA	14	6	4	5	3	5	5	6	12
-AAG	1	0	0	0	0	0	0	0	0
-AGT	1	2	1	0	2	4	1	0	0
-AGC	0	1	1	0	1	0	0	0	0
-AGA	6	7	3	0	7	4	1	3	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	10	2	1	3	3	2	2	4
-GTC	0	0	0	0	0	1	0	1	1
-GTA	1	11	5	0	3	10	2	3	6
-GTG	0	1	0	0	0	0	0	1	1
-GCT	3	18	5	0	3	6	1	0	5
-GCC	1	4	0	0	0	2	1	0	1
-GCA	2	7	2	0	2	5	0	1	8
-GCG	0	1	0	0	0	0	0	0	1
-GAT	0	14	7	1	1	3	2	0	7
-GAC	0	1	1	0	0	1	1	0	1
-GAA	5	9	9	0	4	7	4	3	3
-GAG	0	0	1	0	0	0	0	0	0
-GGT	3	7	0	0	2	5	0	1	2
-GGC	0	2	0	0	0	1	0	0	0
-GGA	7	32	5	0	6	9	1	3	18
-GGG	2	5	2	0	0	2	1	1	3
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009497823.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	43	5	41	0	11	3	11	0	12	2	1	1	9	0	4	1	6	0	3	3	1	0	1	0	4	0	0	0	2	0	54	2	23	0	5	1	5	0	28	8	14	1	1	0	6	0	1	0	1	0	3	1	2	0	0	0	5	0	3	0	7	2	1	0
+1	COX1	YP_009497824.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	33	7	43	3	19	5	12	0	14	7	1	0	14	0	7	2	7	0	14	5	5	1	11	5	9	0	2	0	7	0	54	2	28	2	9	5	16	1	17	5	6	0	2	1	7	0	10	0	11	1	18	4	7	1	14	1	9	0	7	2	32	5	0	0
+2	COX2	YP_009497825.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	14	1	24	0	8	3	3	0	8	1	2	0	5	0	3	0	2	0	5	0	5	0	5	0	7	0	2	1	4	0	30	4	8	1	5	1	4	0	21	2	4	0	1	1	3	0	2	0	5	0	5	0	2	0	7	1	9	1	0	0	5	2	0	0
+3	ATP8	YP_009497826.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	6	0	5	0	1	0	0	0	5	0	0	0	3	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	6	0	6	0	0	0	0	0	10	1	5	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009497827.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	20	2	32	0	5	1	5	1	5	2	1	0	4	1	3	1	4	0	10	0	1	0	6	1	3	0	0	0	3	0	25	4	10	1	11	3	4	0	17	2	3	0	2	1	7	0	3	0	3	0	3	0	2	0	1	0	4	0	2	0	6	0	1	0
+5	COX3	YP_009497828.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	22	6	17	1	5	3	2	0	11	1	3	0	13	0	3	3	2	0	2	3	4	0	9	5	6	0	1	0	3	0	23	2	12	1	11	2	5	0	13	0	5	0	4	0	4	0	3	1	10	0	6	2	5	0	3	1	7	0	5	1	9	2	1	0
+6	ND3	YP_009497829.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	15	1	13	0	4	1	2	0	1	0	2	0	3	0	0	0	3	0	2	1	0	1	2	0	2	0	0	0	2	0	20	2	7	0	2	0	2	0	6	1	5	0	1	0	1	0	2	0	2	0	1	1	0	0	2	1	4	0	0	0	1	1	1	0
+7	ND6	YP_009497833.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	14	2	23	0	4	1	7	0	5	2	0	1	2	0	1	0	3	0	0	1	1	0	0	1	3	0	0	0	1	0	16	6	23	1	7	1	3	0	19	3	6	0	0	0	3	0	2	1	3	1	0	0	1	0	0	0	3	0	1	0	3	1	1	0
+8	CYTB	YP_009497834.1	Prismostictoides unihyala	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Bombycoidea, Endromidae, Prismostictoides	32	1	40	1	9	1	7	0	19	2	2	1	12	0	2	1	10	0	11	2	8	0	7	1	7	1	2	0	5	0	44	9	23	1	7	6	9	0	18	6	12	0	0	0	3	0	4	1	6	1	5	1	8	1	7	1	3	0	2	0	18	3	1	0

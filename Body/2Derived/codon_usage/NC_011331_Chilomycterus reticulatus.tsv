@@ -1,65 +1,13 @@
-	YP_002265627.1|ND1	YP_002265628.1|ND2	YP_002265629.1|COX1	YP_002265630.1|COX2	YP_002265631.1|ATP8	YP_002265632.1|ATP6	YP_002265633.1|COX3	YP_002265634.1|ND3	YP_002265635.1|ND4L	YP_002265636.1|ND4	YP_002265637.1|ND5	YP_002265639.1|CYTB
-TTT	5	2	15	3	0	5	4	2	1	4	9	4
-TTC	15	10	26	4	4	9	21	6	4	11	29	24
-TTA	2	7	2	0	1	2	1	2	0	11	14	4
-TTG	1	1	1	1	0	2	0	1	1	4	0	0
-TCT	2	2	7	3	0	2	1	0	4	2	4	2
-TCC	5	9	10	5	2	2	5	2	4	16	16	14
-TCA	5	4	7	4	1	1	3	4	2	4	8	6
-TCG	3	2	2	1	0	0	0	0	0	0	2	0
-TAT	3	0	4	2	0	0	5	1	0	1	2	5
-TAC	6	7	14	7	0	3	7	1	0	13	6	10
-TGT	0	0	0	1	0	0	0	0	1	2	1	1
-TGC	0	0	1	1	0	0	2	1	2	2	5	2
-TGA	5	11	16	5	5	5	12	5	1	14	13	12
-TGG	3	0	1	0	0	0	0	0	0	5	2	1
-CTT	7	9	15	9	0	14	4	9	7	19	8	8
-CTC	19	32	19	5	3	12	12	7	8	32	33	18
-CTA	26	28	21	14	2	22	15	8	8	26	32	30
-CTG	4	2	6	3	1	5	1	2	2	8	7	2
-CCT	3	2	7	1	3	3	1	2	0	3	10	2
-CCC	16	13	14	9	4	7	7	3	2	17	18	10
-CCA	2	8	6	4	2	7	4	2	0	6	8	7
-CCG	3	1	2	0	0	0	0	1	0	1	1	1
-CAT	3	1	4	5	0	1	4	1	0	1	0	2
-CAC	4	7	15	5	1	2	11	0	4	11	18	10
-CAA	6	12	7	7	2	7	6	2	3	9	12	6
-CAG	0	1	0	1	0	2	2	0	0	1	4	0
-CGT	1	0	3	2	0	1	0	0	0	1	1	0
-CGC	2	1	0	0	0	0	1	0	0	5	6	3
-CGA	4	3	6	4	0	5	5	2	3	5	3	5
-CGG	1	0	0	0	0	0	0	0	0	0	0	0
-ATT	13	7	24	10	2	6	6	5	0	15	24	16
-ATC	14	18	16	10	1	10	9	6	1	22	35	15
-ATA	10	9	14	9	0	4	7	2	2	18	18	6
-ATG	5	5	10	2	1	4	1	1	3	5	12	3
-ACT	4	6	4	1	1	6	2	0	3	8	9	1
-ACC	9	29	12	3	2	13	8	4	4	18	33	12
-ACA	3	10	16	7	2	6	11	4	3	18	22	12
-ACG	3	1	4	0	0	0	1	0	0	3	0	0
-AAT	4	3	4	1	1	1	0	1	0	2	6	1
-AAC	7	5	11	4	1	8	2	0	3	10	29	17
-AAA	7	7	8	3	3	1	2	0	0	9	20	9
-AAG	0	1	0	1	0	0	0	1	0	1	0	0
-AGT	1	0	0	1	0	1	0	0	1	3	2	0
-AGC	3	6	6	2	1	3	2	0	1	4	12	1
-GTT	3	1	7	3	0	3	2	0	0	3	0	0
-GTC	8	2	10	6	1	6	6	2	0	5	12	12
-GTA	3	1	18	5	1	3	6	1	1	5	6	9
-GTG	4	0	6	1	0	1	1	0	0	0	0	2
-GCT	2	3	6	3	1	2	4	3	1	4	8	3
-GCC	19	18	20	5	2	11	10	5	5	20	24	17
-GCA	14	11	18	10	1	4	10	1	5	9	16	12
-GCG	0	5	2	0	0	0	0	0	0	1	0	1
-GAT	1	0	3	2	0	1	0	0	0	0	4	2
-GAC	3	1	11	11	0	0	5	4	1	4	7	9
-GAA	9	5	9	15	3	4	10	4	2	8	11	4
-GAG	2	1	2	0	0	0	0	2	0	4	1	1
-GGT	1	1	8	1	0	0	3	0	0	1	4	1
-GGC	8	8	20	1	0	4	12	4	3	14	11	14
-GGA	6	7	14	7	0	5	6	2	2	8	12	9
-GGG	2	2	4	0	0	1	1	0	0	4	2	2
-TAA	1	0	0	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002265627.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	5	15	2	1	2	5	5	3	3	6	0	0	5	3	7	19	26	4	3	16	2	3	3	4	6	0	1	2	4	1	13	14	10	5	4	9	3	3	4	7	7	0	1	3	3	8	3	4	2	19	14	0	1	3	9	2	1	8	6	2	1	0	0	0
+1	ND2	YP_002265628.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	2	10	7	1	2	9	4	2	0	7	0	0	11	0	9	32	28	2	2	13	8	1	1	7	12	1	0	1	3	0	7	18	9	5	6	29	10	1	3	5	7	1	0	6	1	2	1	0	3	18	11	5	0	1	5	1	1	8	7	2	0	0	0	0
+2	COX1	YP_002265629.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	15	26	2	1	7	10	7	2	4	14	0	1	16	1	15	19	21	6	7	14	6	2	4	15	7	0	3	0	6	0	24	16	14	10	4	12	16	4	4	11	8	0	0	6	7	10	18	6	6	20	18	2	3	11	9	2	8	20	14	4	0	0	1	0
+3	COX2	YP_002265630.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	3	4	0	1	3	5	4	1	2	7	1	1	5	0	9	5	14	3	1	9	4	0	5	5	7	1	2	0	4	0	10	10	9	2	1	3	7	0	1	4	3	1	1	2	3	6	5	1	3	5	10	0	2	11	15	0	1	1	7	0	0	0	0	0
+4	ATP8	YP_002265631.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	0	4	1	0	0	2	1	0	0	0	0	0	5	0	0	3	2	1	3	4	2	0	0	1	2	0	0	0	0	0	2	1	0	1	1	2	2	0	1	1	3	0	0	1	0	1	1	0	1	2	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002265632.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	5	9	2	2	2	2	1	0	0	3	0	0	5	0	14	12	22	5	3	7	7	0	1	2	7	2	1	0	5	0	6	10	4	4	6	13	6	0	1	8	1	0	1	3	3	6	3	1	2	11	4	0	1	0	4	0	0	4	5	1	0	0	0	0
+6	COX3	YP_002265633.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	4	21	1	0	1	5	3	0	5	7	0	2	12	0	4	12	15	1	1	7	4	0	4	11	6	2	0	1	5	0	6	9	7	1	2	8	11	1	0	2	2	0	0	2	2	6	6	1	4	10	10	0	0	5	10	0	3	12	6	1	0	0	0	0
+7	ND3	YP_002265634.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	2	6	2	1	0	2	4	0	1	1	0	1	5	0	9	7	8	2	2	3	2	1	1	0	2	0	0	0	2	0	5	6	2	1	0	4	4	0	1	0	0	1	0	0	0	2	1	0	3	5	1	0	0	4	4	2	0	4	2	0	0	0	0	0
+8	ND4L	YP_002265635.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	1	4	0	1	4	4	2	0	0	0	1	2	1	0	7	8	8	2	0	2	0	0	0	4	3	0	0	0	3	0	0	1	2	3	3	4	3	0	0	3	0	0	1	1	0	0	1	0	1	5	5	0	0	1	2	0	0	3	2	0	1	0	0	0
+9	ND4	YP_002265636.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	4	11	11	4	2	16	4	0	1	13	2	2	14	5	19	32	26	8	3	17	6	1	1	11	9	1	1	5	5	0	15	22	18	5	8	18	18	3	2	10	9	1	3	4	3	5	5	0	4	20	9	1	0	4	8	4	1	14	8	4	0	0	0	0
+10	ND5	YP_002265637.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	9	29	14	0	4	16	8	2	2	6	1	5	13	2	8	33	32	7	10	18	8	1	0	18	12	4	1	6	3	0	24	35	18	12	9	33	22	0	6	29	20	0	2	12	0	12	6	0	8	24	16	0	4	7	11	1	4	11	12	2	1	0	0	0
+11	CYTB	YP_002265639.1	Chilomycterus reticulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Diodontidae, Chilomycterus	4	24	4	0	2	14	6	0	5	10	1	2	12	1	8	18	30	2	2	10	7	1	2	10	6	0	0	3	5	0	16	15	6	3	1	12	12	0	1	17	9	0	0	1	0	12	9	2	3	17	12	1	2	9	4	1	1	14	9	2	0	0	0	0

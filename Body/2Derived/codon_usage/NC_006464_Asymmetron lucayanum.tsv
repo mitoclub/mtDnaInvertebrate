@@ -1,65 +1,13 @@
-	YP_145505.1|COX1	YP_145506.1|COX3	YP_145507.1|ND3	YP_145508.1|COX2	YP_145509.1|ATP8	YP_145510.1|ATP6	YP_145511.1|ND4L	YP_145512.1|ND4	YP_145513.1|ND6	YP_145515.1|CYTB	YP_145516.1|ND1	YP_145517.1|ND2
-TTT	23	16	4	4	6	8	3	11	6	22	18	13
-TTC	22	7	5	2	2	3	1	11	7	13	10	6
-TTA	23	14	10	16	0	19	11	19	9	18	21	32
-TTG	3	3	2	0	1	3	1	4	3	0	5	3
-TCT	14	5	0	5	0	1	1	5	1	5	5	10
-TCC	5	3	2	2	1	4	3	8	4	10	12	4
-TCA	10	3	3	2	0	3	2	5	2	1	2	6
-TCG	1	0	1	0	1	1	0	1	1	0	0	2
-TAT	10	6	2	5	1	3	1	12	2	8	5	6
-TAC	7	6	3	7	1	1	2	11	7	8	8	3
-TGT	1	1	0	3	0	0	2	4	1	1	2	2
-TGC	0	2	1	2	0	1	0	3	0	2	0	0
-TGA	17	13	1	4	3	7	0	9	1	7	3	8
-TGG	2	1	2	1	0	1	0	5	1	4	3	2
-CTT	14	6	7	6	0	8	5	24	7	10	8	13
-CTC	5	4	5	3	1	8	3	11	7	12	10	9
-CTA	14	5	4	3	0	11	4	22	6	17	14	11
-CTG	1	0	1	0	1	2	2	5	0	3	2	5
-CCT	7	3	3	3	2	8	0	2	2	8	7	5
-CCC	6	3	3	4	0	3	0	7	3	7	4	3
-CCA	11	4	1	3	4	2	2	5	1	6	5	2
-CCG	1	0	0	1	0	0	0	1	0	1	1	2
-CAT	9	6	0	4	0	2	1	4	0	6	1	5
-CAC	12	8	0	2	1	3	1	4	1	8	1	3
-CAA	2	5	1	5	3	6	1	8	3	9	6	7
-CAG	2	1	0	1	0	1	0	3	1	0	1	4
-CGT	4	2	0	0	0	2	0	1	0	2	2	2
-CGC	0	0	1	4	0	2	0	4	2	0	0	1
-CGA	6	2	1	2	1	1	1	5	1	2	2	0
-CGG	1	2	0	0	0	0	0	0	0	3	3	1
-ATT	32	8	6	12	4	15	4	23	11	12	14	23
-ATC	9	7	3	4	0	1	1	12	3	13	8	9
-ATA	19	3	1	10	2	9	4	18	11	7	7	10
-ATG	6	2	2	2	0	3	2	6	3	4	3	3
-ACT	13	7	1	4	2	3	2	3	5	3	2	6
-ACC	4	4	2	4	0	5	2	10	4	6	2	4
-ACA	15	8	2	12	3	6	1	15	2	12	3	5
-ACG	3	4	0	1	0	2	0	1	1	0	1	1
-AAT	10	0	4	1	1	5	1	7	3	14	5	3
-AAC	4	4	1	2	1	6	1	7	2	6	5	7
-AAA	7	0	2	3	2	0	0	9	2	6	8	4
-AAG	3	0	0	0	0	1	0	0	0	1	0	3
-AGT	1	1	0	2	3	4	2	4	2	2	3	7
-AGC	5	3	1	2	1	3	1	6	1	2	6	4
-AGA	0	0	1	0	0	1	1	7	0	2	2	2
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	12	7	2	7	2	4	2	10	2	14	6	5
-GTC	7	4	1	3	0	1	0	4	0	7	5	4
-GTA	16	11	2	12	1	6	1	7	4	9	10	12
-GTG	4	3	0	1	1	0	0	2	3	2	1	5
-GCT	14	7	0	3	1	7	1	9	4	5	6	3
-GCC	10	5	1	5	0	8	5	9	6	5	5	4
-GCA	15	11	5	8	1	6	3	20	7	10	13	14
-GCG	3	0	1	0	0	0	1	0	0	3	1	2
-GAT	12	2	0	8	1	1	0	2	3	6	3	0
-GAC	2	2	3	8	0	1	2	4	0	2	2	1
-GAA	9	7	4	10	1	4	1	6	2	4	8	5
-GAG	2	1	2	3	1	0	1	2	2	2	4	1
-GGT	8	4	2	5	0	2	0	8	3	5	4	9
-GGC	9	7	2	1	0	3	3	15	1	10	10	6
-GGA	21	6	1	1	0	4	2	6	1	8	3	8
-GGG	7	3	2	2	0	3	0	6	0	5	3	6
-TAA	1	1	0	0	1	0	0	1	1	0	0	1
-TAG	0	0	1	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_145505.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	23	22	23	3	14	5	10	1	10	7	1	0	17	2	14	5	14	1	7	6	11	1	9	12	2	2	4	0	6	1	32	9	19	6	13	4	15	3	10	4	7	3	1	5	0	0	12	7	16	4	14	10	15	3	12	2	9	2	8	9	21	7	1	0
+1	COX3	YP_145506.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	16	7	14	3	5	3	3	0	6	6	1	2	13	1	6	4	5	0	3	3	4	0	6	8	5	1	2	0	2	2	8	7	3	2	7	4	8	4	0	4	0	0	1	3	0	0	7	4	11	3	7	5	11	0	2	2	7	1	4	7	6	3	1	0
+2	ND3	YP_145507.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	4	5	10	2	0	2	3	1	2	3	0	1	1	2	7	5	4	1	3	3	1	0	0	0	1	0	0	1	1	0	6	3	1	2	1	2	2	0	4	1	2	0	0	1	1	0	2	1	2	0	0	1	5	1	0	3	4	2	2	2	1	2	0	1
+3	COX2	YP_145508.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	4	2	16	0	5	2	2	0	5	7	3	2	4	1	6	3	3	0	3	4	3	1	4	2	5	1	0	4	2	0	12	4	10	2	4	4	12	1	1	2	3	0	2	2	0	0	7	3	12	1	3	5	8	0	8	8	10	3	5	1	1	2	0	0
+4	ATP8	YP_145509.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	6	2	0	1	0	1	0	1	1	1	0	0	3	0	0	1	0	1	2	0	4	0	0	1	3	0	0	0	1	0	4	0	2	0	2	0	3	0	1	1	2	0	3	1	0	0	2	0	1	1	1	0	1	0	1	0	1	1	0	0	0	0	1	0
+5	ATP6	YP_145510.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	8	3	19	3	1	4	3	1	3	1	0	1	7	1	8	8	11	2	8	3	2	0	2	3	6	1	2	2	1	0	15	1	9	3	3	5	6	2	5	6	0	1	4	3	1	0	4	1	6	0	7	8	6	0	1	1	4	0	2	3	4	3	0	0
+6	ND4L	YP_145511.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	3	1	11	1	1	3	2	0	1	2	2	0	0	0	5	3	4	2	0	0	2	0	1	1	1	0	0	0	1	0	4	1	4	2	2	2	1	0	1	1	0	0	2	1	1	0	2	0	1	0	1	5	3	1	0	2	1	1	0	3	2	0	0	0
+7	ND4	YP_145512.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	11	11	19	4	5	8	5	1	12	11	4	3	9	5	24	11	22	5	2	7	5	1	4	4	8	3	1	4	5	0	23	12	18	6	3	10	15	1	7	7	9	0	4	6	7	0	10	4	7	2	9	9	20	0	2	4	6	2	8	15	6	6	1	0
+8	ND6	YP_145513.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	6	7	9	3	1	4	2	1	2	7	1	0	1	1	7	7	6	0	2	3	1	0	0	1	3	1	0	2	1	0	11	3	11	3	5	4	2	1	3	2	2	0	2	1	0	0	2	0	4	3	4	6	7	0	3	0	2	2	3	1	1	0	1	0
+9	CYTB	YP_145515.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	22	13	18	0	5	10	1	0	8	8	1	2	7	4	10	12	17	3	8	7	6	1	6	8	9	0	2	0	2	3	12	13	7	4	3	6	12	0	14	6	6	1	2	2	2	0	14	7	9	2	5	5	10	3	6	2	4	2	5	10	8	5	0	1
+10	ND1	YP_145516.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	18	10	21	5	5	12	2	0	5	8	2	0	3	3	8	10	14	2	7	4	5	1	1	1	6	1	2	0	2	3	14	8	7	3	2	2	3	1	5	5	8	0	3	6	2	0	6	5	10	1	6	5	13	1	3	2	8	4	4	10	3	3	0	0
+11	ND2	YP_145517.1	Asymmetron lucayanum	Eukaryota, Metazoa, Chordata, Cephalochordata, Branchiostomidae, Asymmetron	13	6	32	3	10	4	6	2	6	3	2	0	8	2	13	9	11	5	5	3	2	2	5	3	7	4	2	1	0	1	23	9	10	3	6	4	5	1	3	7	4	3	7	4	2	0	5	4	12	5	3	4	14	2	0	1	5	1	9	6	8	6	1	0

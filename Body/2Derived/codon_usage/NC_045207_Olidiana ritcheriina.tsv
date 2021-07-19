@@ -1,65 +1,10 @@
-	YP_009710875.1|ND2	YP_009710876.1|COX1	YP_009710877.1|COX2	YP_009710878.1|ATP8	YP_009710879.1|ATP6	YP_009710880.1|COX3	YP_009710881.1|ND3	YP_009710885.1|ND6	YP_009710886.1|CYTB
-TTT	7	24	4	1	9	11	6	9	17
-TTC	4	17	1	0	4	10	4	3	11
-TTA	27	40	16	3	15	18	4	13	34
-TTG	3	0	0	0	0	0	0	1	0
-TCT	8	15	0	0	4	4	2	1	3
-TCC	0	4	2	1	3	0	0	1	4
-TCA	21	26	12	1	10	16	6	8	15
-TCG	1	0	0	0	1	0	1	0	0
-TAT	5	8	12	1	4	4	6	3	12
-TAC	3	7	1	0	1	4	1	1	6
-TGT	1	0	2	0	0	1	1	0	1
-TGC	0	0	0	0	0	0	0	0	1
-TGA	8	15	6	4	4	12	3	1	10
-TGG	0	0	0	0	0	0	0	0	2
-CTT	5	8	4	1	4	2	1	0	3
-CTC	1	1	0	0	0	0	0	0	1
-CTA	7	10	3	0	8	5	1	7	5
-CTG	0	0	0	0	0	1	0	0	1
-CCT	4	6	2	0	4	2	1	2	10
-CCC	0	3	2	0	1	0	0	1	1
-CCA	1	15	6	2	5	6	2	2	10
-CCG	0	0	0	0	0	0	0	0	1
-CAT	1	10	3	0	4	8	2	1	8
-CAC	0	5	2	1	0	3	0	0	1
-CAA	5	6	10	1	1	6	1	3	5
-CAG	0	1	1	0	0	0	0	0	0
-CGT	0	1	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	4	0	2	3	1	1	5
-CGG	0	0	0	0	0	0	0	0	1
-ATT	42	40	27	5	26	28	19	17	33
-ATC	5	6	3	0	1	3	6	2	8
-ATA	52	44	25	12	31	22	16	27	46
-ATG	4	3	0	0	1	1	0	2	3
-ACT	3	4	2	1	5	4	0	3	8
-ACC	2	1	1	1	1	2	1	2	1
-ACA	15	27	9	3	8	18	7	5	12
-ACG	0	0	0	0	0	0	0	0	0
-AAT	18	20	14	2	12	5	2	6	19
-AAC	3	8	2	1	3	3	0	2	4
-AAA	23	10	8	6	8	6	8	11	9
-AAG	0	2	1	0	0	2	0	1	1
-AGT	0	1	1	0	0	1	1	0	2
-AGC	1	0	0	0	0	0	0	0	0
-AGA	6	8	1	1	7	4	1	5	1
-AGG	0	0	0	0	0	0	0	0	1
-GTT	4	5	2	0	0	4	1	1	1
-GTC	0	0	0	0	0	0	0	0	1
-GTA	8	20	3	0	5	2	2	4	9
-GTG	0	0	0	0	1	1	0	0	0
-GCT	1	7	2	0	3	1	0	0	3
-GCC	0	3	1	0	2	2	0	0	1
-GCA	6	9	4	0	3	6	2	2	9
-GCG	0	0	0	0	0	1	0	0	0
-GAT	0	13	7	0	0	2	2	2	7
-GAC	1	1	2	0	1	2	0	0	1
-GAA	4	7	10	1	4	8	3	3	2
-GAG	2	1	0	0	0	0	0	1	0
-GGT	1	11	2	0	2	3	1	0	5
-GGC	0	2	1	0	0	1	0	0	2
-GGA	3	21	4	0	5	11	2	4	10
-GGG	2	8	0	0	1	0	0	0	6
-TAA	1	1	0	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009710875.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	7	4	27	3	8	0	21	1	5	3	1	0	8	0	5	1	7	0	4	0	1	0	1	0	5	0	0	0	0	0	42	5	52	4	3	2	15	0	18	3	23	0	0	1	6	0	4	0	8	0	1	0	6	0	0	1	4	2	1	0	3	2	1	0
+1	COX1	YP_009710876.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	24	17	40	0	15	4	26	0	8	7	0	0	15	0	8	1	10	0	6	3	15	0	10	5	6	1	1	0	7	0	40	6	44	3	4	1	27	0	20	8	10	2	1	0	8	0	5	0	20	0	7	3	9	0	13	1	7	1	11	2	21	8	1	0
+2	COX2	YP_009710877.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	4	1	16	0	0	2	12	0	12	1	2	0	6	0	4	0	3	0	2	2	6	0	3	2	10	1	0	0	4	0	27	3	25	0	2	1	9	0	14	2	8	1	1	0	1	0	2	0	3	0	2	1	4	0	7	2	10	0	2	1	4	0	0	0
+3	ATP8	YP_009710878.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	1	0	3	0	0	1	1	0	1	0	0	0	4	0	1	0	0	0	0	0	2	0	0	1	1	0	0	0	0	0	5	0	12	0	1	1	3	0	2	1	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009710879.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	9	4	15	0	4	3	10	1	4	1	0	0	4	0	4	0	8	0	4	1	5	0	4	0	1	0	0	0	2	0	26	1	31	1	5	1	8	0	12	3	8	0	0	0	7	0	0	0	5	1	3	2	3	0	0	1	4	0	2	0	5	1	1	0
+5	COX3	YP_009710880.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	11	10	18	0	4	0	16	0	4	4	1	0	12	0	2	0	5	1	2	0	6	0	8	3	6	0	0	0	3	0	28	3	22	1	4	2	18	0	5	3	6	2	1	0	4	0	4	0	2	1	1	2	6	1	2	2	8	0	3	1	11	0	0	0
+6	ND3	YP_009710881.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	6	4	4	0	2	0	6	1	6	1	1	0	3	0	1	0	1	0	1	0	2	0	2	0	1	0	0	0	1	0	19	6	16	0	0	1	7	0	2	0	8	0	1	0	1	0	1	0	2	0	0	0	2	0	2	0	3	0	1	0	2	0	0	1
+7	ND6	YP_009710885.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	9	3	13	1	1	1	8	0	3	1	0	0	1	0	0	0	7	0	2	1	2	0	1	0	3	0	0	0	1	0	17	2	27	2	3	2	5	0	6	2	11	1	0	0	5	0	1	0	4	0	0	0	2	0	2	0	3	1	0	0	4	0	1	0
+8	CYTB	YP_009710886.1	Olidiana ritcheriina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Membracoidea, Cicadellidae, Coelidiinae, Olidiana	17	11	34	0	3	4	15	0	12	6	1	1	10	2	3	1	5	1	10	1	10	1	8	1	5	0	0	0	5	1	33	8	46	3	8	1	12	0	19	4	9	1	2	0	1	1	1	1	9	0	3	1	9	0	7	1	2	0	5	2	10	6	1	0

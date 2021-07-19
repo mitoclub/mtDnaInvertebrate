@@ -1,65 +1,10 @@
-	YP_001974605.1|ND2	YP_001974606.1|COX1	YP_001974607.1|COX2	YP_001974608.1|ATP8	YP_001974609.1|ATP6	YP_001974610.1|COX3	YP_001974611.1|ND3	YP_001974615.1|ND6	YP_001974616.1|CYTB
-TTT	36	43	17	4	15	32	15	13	33
-TTC	4	4	1	0	4	3	1	1	5
-TTA	49	53	18	7	36	29	14	24	38
-TTG	1	0	0	0	0	0	0	1	0
-TCT	7	11	9	0	7	8	1	3	6
-TCC	0	1	0	0	0	0	0	0	0
-TCA	20	30	11	1	8	13	3	3	17
-TCG	0	0	0	0	0	0	0	0	0
-TAT	20	20	13	2	9	15	11	11	24
-TAC	0	0	0	0	1	0	0	0	1
-TGT	0	2	4	1	0	2	2	1	1
-TGC	1	0	0	0	0	0	0	0	0
-TGA	5	14	7	3	4	8	2	0	12
-TGG	0	0	0	1	0	0	0	0	0
-CTT	2	4	1	0	0	2	2	3	3
-CTC	0	0	0	0	0	0	0	0	0
-CTA	2	3	1	2	4	2	1	1	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	10	2	0	3	4	2	1	9
-CCC	0	0	1	0	0	0	0	0	0
-CCA	1	15	6	1	6	4	3	1	8
-CCG	1	0	0	0	1	0	0	0	0
-CAT	0	16	5	0	3	9	0	1	10
-CAC	0	1	0	0	0	0	0	0	0
-CAA	3	8	5	0	3	2	0	3	6
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	2	0	2	0	0	0	2
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	8	3	0	1	3	0	1	2
-CGG	0	0	0	0	0	0	0	0	0
-ATT	53	61	34	8	36	37	22	30	53
-ATC	4	4	1	0	1	2	1	3	3
-ATA	26	40	21	7	24	20	11	21	37
-ATG	0	0	0	0	3	1	0	1	1
-ACT	6	9	6	0	5	4	2	2	4
-ACC	0	1	0	0	0	0	0	0	1
-ACA	8	14	5	0	3	5	2	6	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	36	28	17	4	17	20	9	22	31
-AAC	0	2	1	0	1	1	2	1	2
-AAA	18	16	9	8	7	7	7	18	17
-AAG	1	0	0	0	0	0	0	0	0
-AGT	1	2	2	0	0	1	1	1	1
-AGC	0	0	0	0	0	0	0	0	0
-AGA	6	8	1	0	7	5	0	3	2
-AGG	0	0	0	0	0	1	0	0	0
-GTT	6	11	1	0	0	2	0	0	2
-GTC	0	0	0	0	0	0	0	0	0
-GTA	1	8	0	0	4	2	0	0	4
-GTG	0	0	1	0	0	0	0	0	0
-GCT	1	7	0	0	2	0	0	0	3
-GCC	0	2	0	0	0	0	0	0	0
-GCA	2	6	1	0	1	0	0	0	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	13	7	0	1	3	1	0	6
-GAC	0	1	1	0	0	0	0	0	0
-GAA	3	7	9	0	5	6	3	0	3
-GAG	0	0	0	0	0	0	0	0	0
-GGT	0	9	1	0	0	1	0	0	7
-GGC	0	0	0	0	0	0	0	0	0
-GGA	2	26	5	0	1	6	1	1	9
-GGG	0	1	0	0	0	0	0	0	0
-TAA	1	1	0	0	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_001974605.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	36	4	49	1	7	0	20	0	20	0	0	1	5	0	2	0	2	0	2	0	1	1	0	0	3	0	0	0	0	0	53	4	26	0	6	0	8	0	36	0	18	1	1	0	6	0	6	0	1	0	1	0	2	0	0	0	3	0	0	0	2	0	1	0
+1	COX1	YP_001974606.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	43	4	53	0	11	1	30	0	20	0	2	0	14	0	4	0	3	0	10	0	15	0	16	1	8	0	0	0	8	0	61	4	40	0	9	1	14	0	28	2	16	0	2	0	8	0	11	0	8	0	7	2	6	0	13	1	7	0	9	0	26	1	1	0
+2	COX2	YP_001974607.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	17	1	18	0	9	0	11	0	13	0	4	0	7	0	1	0	1	0	2	1	6	0	5	0	5	0	2	0	3	0	34	1	21	0	6	0	5	0	17	1	9	0	2	0	1	0	1	0	0	1	0	0	1	0	7	1	9	0	1	0	5	0	0	0
+3	ATP8	YP_001974608.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	4	0	7	0	0	0	1	0	2	0	1	0	3	1	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	8	0	7	0	0	0	0	0	4	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	ATP6	YP_001974609.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	15	4	36	0	7	0	8	0	9	1	0	0	4	0	0	0	4	0	3	0	6	1	3	0	3	0	2	0	1	0	36	1	24	3	5	0	3	0	17	1	7	0	0	0	7	0	0	0	4	0	2	0	1	0	1	0	5	0	0	0	1	0	1	0
+5	COX3	YP_001974610.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	32	3	29	0	8	0	13	0	15	0	2	0	8	0	2	0	2	0	4	0	4	0	9	0	2	0	0	0	3	0	37	2	20	1	4	0	5	0	20	1	7	0	1	0	5	1	2	0	2	0	0	0	0	0	3	0	6	0	1	0	6	0	1	0
+6	ND3	YP_001974611.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	15	1	14	0	1	0	3	0	11	0	2	0	2	0	2	0	1	0	2	0	3	0	0	0	0	0	0	0	0	0	22	1	11	0	2	0	2	0	9	2	7	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	0	1	0	1	0
+7	ND6	YP_001974615.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	13	1	24	1	3	0	3	0	11	0	1	0	0	0	3	0	1	0	1	0	1	0	1	0	3	0	0	0	1	0	30	3	21	1	2	0	6	0	22	1	18	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+8	CYTB	YP_001974616.1	Bombus ignitus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Apoidea, Apidae, Bombus, Bombus	33	5	38	0	6	0	17	0	24	1	1	0	12	0	3	0	3	0	9	0	8	0	10	0	6	0	2	0	2	0	53	3	37	1	4	1	9	0	31	2	17	0	1	0	2	0	2	0	4	0	3	0	6	0	6	0	3	0	7	0	9	0	0	0

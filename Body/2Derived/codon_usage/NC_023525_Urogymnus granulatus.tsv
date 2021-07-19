@@ -1,65 +1,13 @@
-	YP_009003704.1|ND1	YP_009003705.1|ND2	YP_009003706.1|COX1	YP_009003707.1|COX2	YP_009003708.1|ATP8	YP_009003709.1|ATP6	YP_009003710.1|COX3	YP_009003711.1|ND3	YP_009003712.1|ND4L	YP_009003713.1|ND4	YP_009003714.1|ND5	YP_009003716.1|CYTB
-TTT	11	9	22	7	2	11	12	4	5	10	15	17
-TTC	9	4	18	2	4	6	10	4	0	10	26	13
-TTA	15	15	14	7	2	6	10	9	5	12	25	10
-TTG	1	2	3	0	0	1	0	1	2	1	3	2
-TCT	1	2	12	4	0	1	1	1	3	4	10	4
-TCC	5	8	2	6	1	1	4	1	6	11	12	7
-TCA	10	17	11	3	0	4	4	1	4	8	18	10
-TCG	0	1	0	0	0	0	0	2	0	0	1	0
-TAT	8	7	15	6	1	2	10	2	0	14	9	8
-TAC	4	0	5	3	0	2	2	0	0	3	5	7
-TGT	0	0	1	1	0	0	3	1	2	2	5	2
-TGC	0	0	0	1	0	0	0	0	2	2	1	1
-TGA	8	10	16	5	4	5	12	3	1	17	12	12
-TGG	0	0	1	0	1	0	0	2	0	1	1	1
-CTT	7	16	15	5	2	17	11	7	3	23	22	17
-CTC	15	18	11	3	1	7	4	7	5	21	16	13
-CTA	27	25	14	11	1	17	8	10	6	30	39	23
-CTG	3	0	4	1	0	0	0	1	0	2	3	0
-CCT	6	1	6	1	0	7	1	0	3	13	5	5
-CCC	4	6	6	3	4	3	3	2	0	6	6	7
-CCA	11	12	15	9	5	4	7	5	0	11	18	9
-CCG	1	0	2	0	0	1	1	1	0	0	0	0
-CAT	4	1	17	6	0	2	13	0	2	5	6	7
-CAC	2	6	4	4	1	1	3	0	1	5	8	4
-CAA	6	12	9	10	2	9	9	2	1	13	19	7
-CAG	1	0	1	0	0	0	1	0	0	0	2	0
-CGT	0	0	2	1	0	1	1	1	1	1	2	2
-CGC	1	1	1	3	0	0	0	1	1	2	2	3
-CGA	7	3	3	2	0	4	4	0	0	7	3	3
-CGG	0	0	2	0	0	0	0	0	0	0	1	0
-ATT	18	17	28	17	1	17	10	3	3	31	33	27
-ATC	11	20	16	5	1	7	8	5	5	16	28	16
-ATA	11	16	23	5	3	10	7	1	6	20	30	8
-ATG	2	1	3	5	2	2	1	1	2	3	2	1
-ACT	5	8	10	2	0	5	4	0	3	12	10	2
-ACC	12	17	7	4	1	7	6	4	1	14	20	15
-ACA	10	18	17	7	4	12	11	4	2	16	27	10
-ACG	0	0	2	0	0	0	0	0	0	0	0	0
-AAT	4	3	8	3	4	2	0	0	0	11	14	9
-AAC	8	10	6	3	2	7	2	2	4	7	20	12
-AAA	7	8	8	4	4	2	1	1	1	12	22	9
-AAG	0	1	0	0	0	0	1	0	0	1	2	0
-AGT	2	4	0	2	1	1	1	2	1	3	3	0
-AGC	0	1	4	1	0	4	2	0	1	4	9	1
-GTT	4	1	10	7	0	5	8	1	0	2	3	7
-GTC	5	2	11	6	0	3	2	1	0	2	3	1
-GTA	4	0	15	6	0	1	5	1	0	5	6	5
-GTG	0	0	3	1	0	1	0	0	1	1	0	0
-GCT	6	6	13	2	0	5	8	0	2	8	11	6
-GCC	13	9	14	3	0	3	8	4	5	9	15	10
-GCA	6	8	16	8	0	8	7	3	1	13	13	8
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	1	0	6	4	0	0	3	1	0	1	4	8
-GAC	2	0	8	7	0	1	2	2	1	3	7	1
-GAA	9	5	9	15	0	1	8	6	2	11	11	6
-GAG	1	0	2	1	0	3	1	0	0	0	0	0
-GGT	5	3	19	4	1	3	11	2	0	5	12	9
-GGC	3	5	11	0	0	0	1	2	3	6	8	7
-GGA	6	8	13	4	0	5	7	2	1	9	6	7
-GGG	2	1	3	0	0	0	2	0	0	1	1	1
-TAA	1	0	1	0	1	1	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009003704.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	11	9	15	1	1	5	10	0	8	4	0	0	8	0	7	15	27	3	6	4	11	1	4	2	6	1	0	1	7	0	18	11	11	2	5	12	10	0	4	8	7	0	2	0	4	5	4	0	6	13	6	0	1	2	9	1	5	3	6	2	1	0	0	0
+1	ND2	YP_009003705.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	9	4	15	2	2	8	17	1	7	0	0	0	10	0	16	18	25	0	1	6	12	0	1	6	12	0	0	1	3	0	17	20	16	1	8	17	18	0	3	10	8	1	4	1	1	2	0	0	6	9	8	0	0	0	5	0	3	5	8	1	0	0	0	0
+2	COX1	YP_009003706.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	22	18	14	3	12	2	11	0	15	5	1	0	16	1	15	11	14	4	6	6	15	2	17	4	9	1	2	1	3	2	28	16	23	3	10	7	17	2	8	6	8	0	0	4	10	11	15	3	13	14	16	1	6	8	9	2	19	11	13	3	1	0	0	0
+3	COX2	YP_009003707.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	7	2	7	0	4	6	3	0	6	3	1	1	5	0	5	3	11	1	1	3	9	0	6	4	10	0	1	3	2	0	17	5	5	5	2	4	7	0	3	3	4	0	2	1	7	6	6	1	2	3	8	0	4	7	15	1	4	0	4	0	0	0	0	0
+4	ATP8	YP_009003708.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	2	4	2	0	0	1	0	0	1	0	0	0	4	1	2	1	1	0	0	4	5	0	0	1	2	0	0	0	0	0	1	1	3	2	0	1	4	0	4	2	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+5	ATP6	YP_009003709.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	11	6	6	1	1	1	4	0	2	2	0	0	5	0	17	7	17	0	7	3	4	1	2	1	9	0	1	0	4	0	17	7	10	2	5	7	12	0	2	7	2	0	1	4	5	3	1	1	5	3	8	0	0	1	1	3	3	0	5	0	1	0	0	0
+6	COX3	YP_009003710.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	12	10	10	0	1	4	4	0	10	2	3	0	12	0	11	4	8	0	1	3	7	1	13	3	9	1	1	0	4	0	10	8	7	1	4	6	11	0	0	2	1	1	1	2	8	2	5	0	8	8	7	0	3	2	8	1	11	1	7	2	1	0	0	0
+7	ND3	YP_009003711.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	4	4	9	1	1	1	1	2	2	0	1	0	3	2	7	7	10	1	0	2	5	1	0	0	2	0	1	1	0	0	3	5	1	1	0	4	4	0	0	2	1	0	2	0	1	1	1	0	0	4	3	0	1	2	6	0	2	2	2	0	1	0	0	0
+8	ND4L	YP_009003712.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	5	0	5	2	3	6	4	0	0	0	2	2	1	0	3	5	6	0	3	0	0	0	2	1	1	0	1	1	0	0	3	5	6	2	3	1	2	0	0	4	1	0	1	1	0	0	0	1	2	5	1	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009003713.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	10	10	12	1	4	11	8	0	14	3	2	2	17	1	23	21	30	2	13	6	11	0	5	5	13	0	1	2	7	0	31	16	20	3	12	14	16	0	11	7	12	1	3	4	2	2	5	1	8	9	13	0	1	3	11	0	5	6	9	1	0	0	0	0
+10	ND5	YP_009003714.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	15	26	25	3	10	12	18	1	9	5	5	1	12	1	22	16	39	3	5	6	18	0	6	8	19	2	2	2	3	1	33	28	30	2	10	20	27	0	14	20	22	2	3	9	3	3	6	0	11	15	13	0	4	7	11	0	12	8	6	1	1	0	0	0
+11	CYTB	YP_009003716.1	Urogymnus granulatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Batoidea, Myliobatiformes, Dasyatidae, Urogymnus	17	13	10	2	4	7	10	0	8	7	2	1	12	1	17	13	23	0	5	7	9	0	7	4	7	0	2	3	3	0	27	16	8	1	2	15	10	0	9	12	9	0	0	1	7	1	5	0	6	10	8	0	8	1	6	0	9	7	7	1	1	0	0	0

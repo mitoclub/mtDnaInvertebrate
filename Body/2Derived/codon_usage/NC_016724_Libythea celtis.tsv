@@ -1,65 +1,10 @@
-	YP_005089274.1|ND2	YP_005089275.1|COX1	YP_005089276.1|COX2	YP_005089277.1|ATP8	YP_005089278.1|ATP6	YP_005089279.1|COX3	YP_005089280.1|ND3	YP_005089284.1|ND6	YP_005089285.1|CYTB
-TTT	50	36	15	8	22	23	11	25	37
-TTC	3	4	2	2	2	3	1	2	2
-TTA	45	50	24	1	32	23	12	25	48
-TTG	1	0	0	0	0	0	0	0	0
-TCT	16	17	3	0	8	6	3	4	7
-TCC	2	2	2	0	0	1	0	0	0
-TCA	12	16	5	2	6	5	7	8	6
-TCG	0	0	0	0	0	0	0	0	0
-TAT	10	16	8	3	6	11	1	7	15
-TAC	1	2	1	0	0	0	1	0	2
-TGT	3	0	2	0	0	0	1	1	2
-TGC	0	0	0	0	0	2	1	0	1
-TGA	9	14	6	3	5	13	3	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	4	9	2	0	5	3	3	1	3
-CTC	0	1	0	0	0	0	0	0	0
-CTA	2	3	3	0	0	3	2	1	2
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	16	4	0	9	3	3	0	10
-CCC	4	2	0	0	0	0	0	0	3
-CCA	1	8	5	2	0	7	1	2	9
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	14	5	0	5	12	2	0	8
-CAC	0	2	0	0	1	3	0	1	0
-CAA	3	8	8	1	4	6	1	2	8
-CAG	1	0	0	0	0	0	0	0	0
-CGT	2	0	0	0	1	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	9	7	0	2	4	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	46	55	32	7	29	25	20	22	52
-ATC	4	1	1	1	2	1	1	0	1
-ATA	27	32	7	7	9	9	8	17	17
-ATG	0	0	1	0	1	1	0	1	1
-ACT	3	19	6	0	12	5	5	3	6
-ACC	0	1	0	0	1	0	0	0	0
-ACA	4	9	5	0	5	16	0	7	17
-ACG	0	0	0	0	0	0	0	0	0
-AAT	30	24	21	11	20	13	6	17	28
-AAC	3	0	2	1	0	3	0	1	1
-AAA	16	6	4	5	2	2	6	5	10
-AAG	0	1	0	0	0	0	0	0	1
-AGT	3	6	2	0	3	1	0	2	0
-AGC	0	0	1	0	0	0	0	0	0
-AGA	3	5	4	0	7	4	1	1	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	7	2	0	5	9	1	1	5
-GTC	0	1	0	0	0	0	0	0	1
-GTA	0	16	5	0	2	6	3	5	7
-GTG	0	0	0	0	0	0	0	0	0
-GCT	4	15	4	0	1	3	0	0	7
-GCC	1	1	0	0	0	2	0	0	2
-GCA	2	13	3	0	4	5	2	2	8
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	15	9	1	1	4	3	2	7
-GAC	0	0	1	0	0	0	0	0	0
-GAA	4	9	8	0	4	7	4	3	3
-GAG	0	0	0	0	0	0	0	0	1
-GGT	2	9	2	0	0	2	0	0	1
-GGC	0	0	0	0	0	0	0	0	0
-GGA	9	34	5	0	9	16	2	4	20
-GGG	1	2	0	0	0	0	0	1	2
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_005089274.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	50	3	45	1	16	2	12	0	10	1	3	0	9	0	4	0	2	0	3	4	1	0	1	0	3	1	2	0	0	0	46	4	27	0	3	0	4	0	30	3	16	0	3	0	3	0	1	0	0	0	4	1	2	0	1	0	4	0	2	0	9	1	1	0
+1	COX1	YP_005089275.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	36	4	50	0	17	2	16	0	16	2	0	0	14	0	9	1	3	0	16	2	8	0	14	2	8	0	0	0	9	0	55	1	32	0	19	1	9	0	24	0	6	1	6	0	5	0	7	1	16	0	15	1	13	0	15	0	9	0	9	0	34	2	0	0
+2	COX2	YP_005089276.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	15	2	24	0	3	2	5	0	8	1	2	0	6	0	2	0	3	0	4	0	5	0	5	0	8	0	0	0	7	0	32	1	7	1	6	0	5	0	21	2	4	0	2	1	4	0	2	0	5	0	4	0	3	0	9	1	8	0	2	0	5	0	0	0
+3	ATP8	YP_005089277.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	8	2	1	0	0	0	2	0	3	0	0	0	3	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	7	1	7	0	0	0	0	0	11	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_005089278.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	22	2	32	0	8	0	6	0	6	0	0	0	5	0	5	0	0	0	9	0	0	0	5	1	4	0	1	0	2	0	29	2	9	1	12	1	5	0	20	0	2	0	3	0	7	0	5	0	2	0	1	0	4	0	1	0	4	0	0	0	9	0	1	0
+5	COX3	YP_005089279.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	23	3	23	0	6	1	5	0	11	0	0	2	13	0	3	0	3	0	3	0	7	0	12	3	6	0	0	0	4	0	25	1	9	1	5	0	16	0	13	3	2	0	1	0	4	0	9	0	6	0	3	2	5	0	4	0	7	0	2	0	16	0	1	0
+6	ND3	YP_005089280.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	11	1	12	0	3	0	7	0	1	1	1	1	3	0	3	0	2	0	3	0	1	0	2	0	1	0	0	0	2	0	20	1	8	0	5	0	0	0	6	0	6	0	0	0	1	0	1	0	3	0	0	0	2	0	3	0	4	0	0	0	2	0	1	0
+7	ND6	YP_005089284.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	25	2	25	0	4	0	8	0	7	0	1	0	2	0	1	0	1	0	0	0	2	0	0	1	2	0	0	0	1	0	22	0	17	1	3	0	7	0	17	1	5	0	2	0	1	0	1	0	5	0	0	0	2	0	2	0	3	0	0	0	4	1	1	0
+8	CYTB	YP_005089285.1	Libythea celtis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Libytheinae, Libythea	37	2	48	0	7	0	6	0	15	2	2	1	12	0	3	0	2	0	10	3	9	0	8	0	8	0	0	0	7	0	52	1	17	1	6	0	17	0	28	1	10	1	0	0	2	0	5	1	7	0	7	2	8	0	7	0	3	1	1	0	20	2	1	0

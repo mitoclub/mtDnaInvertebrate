@@ -1,65 +1,10 @@
-	YP_009305219.1|ND2	YP_009305220.1|COX1	YP_009305221.1|COX2	YP_009305222.1|ATP8	YP_009305223.1|ATP6	YP_009305224.1|COX3	YP_009305225.1|ND3	YP_009305229.1|ND6	YP_009305230.1|CYTB
-TTT	39	29	12	4	18	21	8	16	21
-TTC	8	10	4	1	3	6	5	1	12
-TTA	37	42	15	3	17	19	10	12	34
-TTG	0	0	1	0	1	0	0	0	0
-TCT	10	17	1	0	4	3	3	7	4
-TCC	6	7	5	2	1	4	2	2	5
-TCA	19	12	6	1	5	3	6	5	7
-TCG	0	0	0	0	0	0	0	0	1
-TAT	9	13	6	2	4	7	1	6	11
-TAC	5	5	2	0	2	4	0	4	6
-TGT	3	0	0	0	0	2	1	2	2
-TGC	0	0	2	0	0	0	0	0	1
-TGA	10	14	6	3	5	13	3	2	11
-TGG	0	0	0	0	0	0	0	0	0
-CTT	4	11	3	0	6	6	2	6	9
-CTC	3	6	1	0	2	2	1	4	1
-CTA	10	8	5	0	7	3	4	9	12
-CTG	0	0	0	0	0	0	1	0	0
-CCT	1	8	4	1	4	5	1	0	5
-CCC	3	9	3	1	4	3	0	2	6
-CCA	3	7	4	1	4	2	3	0	11
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	12	4	0	1	5	1	0	5
-CAC	0	4	1	0	5	9	1	0	3
-CAA	5	9	7	1	4	6	1	1	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	1	2	0	1	0	0	0	0
-CGC	0	0	1	0	0	1	0	0	0
-CGA	1	8	4	0	2	3	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	43	50	28	9	19	23	14	18	37
-ATC	9	5	1	0	9	6	5	4	15
-ATA	22	26	11	7	18	8	10	23	20
-ATG	0	0	2	1	1	1	0	0	1
-ACT	2	14	5	0	5	6	2	2	11
-ACC	2	3	2	0	2	4	1	2	8
-ACA	2	14	4	0	11	9	3	3	8
-ACG	0	0	0	0	0	0	0	0	0
-AAT	26	19	16	9	13	13	5	17	21
-AAC	6	2	8	2	7	4	2	3	6
-AAA	14	5	4	4	2	3	5	8	9
-AAG	0	1	1	0	0	1	0	0	1
-AGT	3	2	4	0	1	3	1	1	1
-AGC	0	1	1	0	0	0	0	0	0
-AGA	6	8	1	0	7	3	0	0	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	10	6	0	3	2	0	0	5
-GTC	0	2	1	0	1	2	1	1	2
-GTA	1	12	2	0	3	6	0	3	5
-GTG	0	1	0	0	0	1	0	1	0
-GCT	3	18	4	0	0	5	1	3	8
-GCC	1	5	1	0	0	0	2	0	1
-GCA	2	9	2	0	7	5	0	1	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	13	5	0	0	3	1	1	5
-GAC	0	2	3	0	1	1	2	0	2
-GAA	4	9	9	0	5	5	3	1	4
-GAG	0	0	0	0	0	1	1	0	0
-GGT	5	8	1	0	1	0	0	0	5
-GGC	1	0	1	0	1	0	0	0	0
-GGA	5	36	4	0	7	18	2	5	17
-GGG	1	2	1	0	1	1	0	0	1
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009305219.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	39	8	37	0	10	6	19	0	9	5	3	0	10	0	4	3	10	0	1	3	3	0	1	0	5	0	1	0	1	0	43	9	22	0	2	2	2	0	26	6	14	0	3	0	6	0	1	0	1	0	3	1	2	0	0	0	4	0	5	1	5	1	1	0
+1	COX1	YP_009305220.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	29	10	42	0	17	7	12	0	13	5	0	0	14	0	11	6	8	0	8	9	7	1	12	4	9	0	1	0	8	0	50	5	26	0	14	3	14	0	19	2	5	1	2	1	8	0	10	2	12	1	18	5	9	0	13	2	9	0	8	0	36	2	0	0
+2	COX2	YP_009305221.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	12	4	15	1	1	5	6	0	6	2	0	2	6	0	3	1	5	0	4	3	4	0	4	1	7	0	2	1	4	0	28	1	11	2	5	2	4	0	16	8	4	1	4	1	1	0	6	1	2	0	4	1	2	0	5	3	9	0	1	1	4	1	0	0
+3	ATP8	YP_009305222.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	4	1	3	0	0	2	1	0	2	0	0	0	3	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	9	0	7	1	0	0	0	0	9	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009305223.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	18	3	17	1	4	1	5	0	4	2	0	0	5	0	6	2	7	0	4	4	4	0	1	5	4	0	1	0	2	0	19	9	18	1	5	2	11	0	13	7	2	0	1	0	7	0	3	1	3	0	0	0	7	0	0	1	5	0	1	1	7	1	1	0
+5	COX3	YP_009305224.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	21	6	19	0	3	4	3	0	7	4	2	0	13	0	6	2	3	0	5	3	2	0	5	9	6	0	0	1	3	0	23	6	8	1	6	4	9	0	13	4	3	1	3	0	3	0	2	2	6	1	5	0	5	0	3	1	5	1	0	0	18	1	1	0
+6	ND3	YP_009305225.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	8	5	10	0	3	2	6	0	1	0	1	0	3	0	2	1	4	1	1	0	3	0	1	1	1	0	0	0	2	0	14	5	10	0	2	1	3	0	5	2	5	0	1	0	0	0	0	1	0	0	1	2	0	0	1	2	3	1	0	0	2	0	0	0
+7	ND6	YP_009305229.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	16	1	12	0	7	2	5	0	6	4	2	0	2	0	6	4	9	0	0	2	0	0	0	0	1	0	0	0	1	0	18	4	23	0	2	2	3	0	17	3	8	0	1	0	0	0	0	1	3	1	3	0	1	0	1	0	1	0	0	0	5	0	1	0
+8	CYTB	YP_009305230.1	Scirpophaga incertulas	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Pyraloidea, Crambidae, Schoenobiinae, Scirpophaga	21	12	34	0	4	5	7	1	11	6	2	1	11	0	9	1	12	0	5	6	11	0	5	3	8	0	0	0	7	0	37	15	20	1	11	8	8	0	21	6	9	1	1	0	3	0	5	2	5	0	8	1	6	0	5	2	4	0	5	0	17	1	1	0

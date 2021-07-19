@@ -1,65 +1,20 @@
-	YP_009307004.1|rps3	YP_009307005.1	YP_009307006.1	YP_009307007.1|nad2	YP_009307008.1|nad3	YP_009307009.1|atp9	YP_009307010.1|cox2	YP_009307011.1|nad4L	YP_009307012.1|nad5	YP_009307013.1|cob	YP_009307014.1	YP_009307015.1|cox1	YP_009307016.1	YP_009307017.1|nad1	YP_009307018.1|nad4	YP_009307019.1|atp8	YP_009307020.1|atp6	YP_009307021.1|cox3	YP_009307022.1|nad6
-TTT	15	9	13	23	13	1	8	3	32	13	11	18	11	18	32	4	13	14	10
-TTC	3	2	3	18	6	3	7	2	28	20	3	26	2	14	12	1	12	13	1
-TTA	41	21	24	68	10	9	22	9	65	46	20	56	30	55	59	6	40	29	30
-TTG	3	4	5	7	0	0	1	1	6	0	0	2	2	0	3	1	2	0	1
-TCT	16	5	6	21	1	1	5	3	21	6	12	4	12	10	18	1	3	10	8
-TCC	0	0	0	1	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0
-TCA	10	2	5	9	2	4	10	1	13	3	3	15	9	6	6	1	9	4	3
-TCG	0	0	0	0	0	0	0	0	0	0	1	1	1	2	1	0	0	0	1
-TAT	26	7	14	25	7	1	8	3	23	12	16	8	26	13	20	2	5	9	13
-TAC	3	3	1	7	1	0	5	1	10	9	3	11	6	6	7	2	4	4	2
-TGT	0	3	2	2	1	0	4	0	7	0	1	3	3	3	4	0	1	2	1
-TGC	0	1	1	1	0	0	0	0	1	1	0	0	2	0	0	0	0	0	0
-TGA	4	1	4	4	0	0	6	0	7	7	1	13	2	5	3	0	1	8	3
-TGG	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
-CTT	5	3	7	4	5	0	3	3	7	2	4	5	6	2	1	0	3	1	1
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
-CTA	0	1	4	8	2	0	1	2	4	3	0	8	6	6	8	0	1	4	3
-CTG	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
-CCT	3	3	10	10	2	1	7	0	18	13	4	20	11	6	9	1	4	8	3
-CCC	1	1	0	1	0	0	0	0	0	1	1	0	0	1	1	0	1	0	0
-CCA	1	1	2	1	1	0	5	0	2	6	0	8	2	3	2	2	2	1	0
-CCG	0	0	2	0	0	0	0	0	0	1	0	0	0	2	0	0	0	1	1
-CAT	4	1	2	3	3	0	5	0	5	3	3	5	9	0	1	0	4	11	2
-CAC	0	0	0	3	0	0	3	0	6	7	0	8	2	1	3	0	2	3	1
-CAA	4	4	4	10	4	2	6	1	10	8	6	9	10	7	7	1	8	4	4
-CAG	0	0	1	1	0	0	0	0	1	1	1	1	0	1	0	0	0	0	0
-CGT	5	0	1	1	0	0	0	0	3	2	3	0	1	1	0	2	0	0	1
-CGC	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-ATT	14	12	21	19	4	0	3	4	16	7	9	13	16	17	8	1	3	6	12
-ATC	0	2	2	5	2	1	2	3	5	4	2	8	3	2	2	0	1	3	2
-ATA	31	7	9	53	11	4	23	12	57	31	15	24	20	24	49	6	26	11	26
-ATG	5	4	8	11	1	1	7	3	21	14	6	22	5	11	12	3	4	6	6
-ACT	7	8	18	19	2	1	5	1	15	8	3	10	17	9	15	0	2	7	4
-ACC	1	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
-ACA	6	4	3	18	1	1	4	2	21	8	11	18	7	5	14	1	13	14	11
-ACG	1	0	1	0	0	0	0	0	2	0	1	0	2	0	2	0	0	0	1
-AAT	48	19	20	22	5	0	9	3	22	14	26	9	33	10	10	2	9	6	18
-AAC	5	1	5	6	3	2	3	0	10	8	5	11	9	3	8	0	9	3	3
-AAA	58	16	11	24	7	2	7	2	18	9	26	10	38	6	14	2	4	3	6
-AAG	11	1	4	0	0	0	0	0	2	0	7	0	3	1	1	0	0	0	0
-AGT	10	9	14	19	5	1	2	3	25	12	9	21	12	12	18	0	5	4	13
-AGC	2	1	0	8	1	0	1	0	7	1	2	1	1	2	1	0	2	3	0
-AGA	19	1	1	6	3	1	5	3	6	8	9	11	10	8	8	1	5	4	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
-GTT	4	9	8	11	0	3	8	1	22	16	8	12	6	8	5	1	5	7	4
-GTC	1	0	0	2	0	0	1	0	2	0	1	0	0	2	2	0	2	0	0
-GTA	14	3	10	22	7	3	7	5	26	12	2	21	11	14	30	4	9	14	8
-GTG	0	1	3	2	2	0	1	0	6	4	0	2	1	3	3	0	0	1	1
-GCT	6	8	16	15	4	6	4	5	22	17	8	24	11	14	16	2	9	9	3
-GCC	0	2	2	1	1	0	1	0	3	2	1	4	2	5	0	0	0	1	1
-GCA	4	6	5	9	2	1	7	2	10	8	1	12	3	8	9	0	7	6	6
-GCG	1	2	0	1	0	1	1	0	0	1	0	0	0	3	1	0	0	0	1
-GAT	12	5	7	13	1	0	7	1	13	8	9	9	8	4	11	0	2	5	5
-GAC	1	1	3	1	1	0	6	1	4	2	1	4	0	3	2	0	2	2	0
-GAA	11	2	4	12	6	2	14	3	13	7	14	6	19	11	14	1	5	5	3
-GAG	0	0	1	1	0	0	2	0	1	0	1	1	4	2	0	0	1	1	3
-GGT	7	7	14	19	6	2	5	2	25	12	6	22	11	10	22	0	9	14	2
-GGC	3	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
-GGA	5	6	4	7	4	8	7	4	18	10	5	28	3	8	9	0	10	6	7
-GGG	1	0	5	2	0	1	1	0	6	1	2	4	1	2	0	0	0	1	1
-TAA	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	rps3	YP_009307004.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	15	3	41	3	16	0	10	0	26	3	0	0	4	1	5	0	0	1	3	1	1	0	4	0	4	0	5	1	0	0	14	0	31	5	7	1	6	1	48	5	58	11	10	2	19	0	4	1	14	0	6	0	4	1	12	1	11	0	7	3	5	1	1	0
+1	None	YP_009307005.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	9	2	21	4	5	0	2	0	7	3	3	1	1	0	3	0	1	0	3	1	1	0	1	0	4	0	0	0	0	0	12	2	7	4	8	0	4	0	19	1	16	1	9	1	1	0	9	0	3	1	8	2	6	2	5	1	2	0	7	0	6	0	1	0
+2	None	YP_009307006.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	13	3	24	5	6	0	5	0	14	1	2	1	4	0	7	0	4	0	10	0	2	2	2	0	4	1	1	0	0	0	21	2	9	8	18	0	3	1	20	5	11	4	14	0	1	0	8	0	10	3	16	2	5	0	7	3	4	1	14	1	4	5	1	0
+3	nad2	YP_009307007.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	23	18	68	7	21	1	9	0	25	7	2	1	4	1	4	0	8	0	10	1	1	0	3	3	10	1	1	0	0	0	19	5	53	11	19	1	18	0	22	6	24	0	19	8	6	0	11	2	22	2	15	1	9	1	13	1	12	1	19	1	7	2	1	0
+4	nad3	YP_009307008.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	13	6	10	0	1	0	2	0	7	1	1	0	0	0	5	0	2	0	2	0	1	0	3	0	4	0	0	0	0	0	4	2	11	1	2	0	1	0	5	3	7	0	5	1	3	0	0	0	7	2	4	1	2	0	1	1	6	0	6	0	4	0	1	0
+5	atp9	YP_009307009.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	1	3	9	0	1	0	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	1	4	1	1	0	1	0	0	2	2	0	1	0	1	0	3	0	3	0	6	0	1	1	0	0	2	0	2	0	8	1	0	1
+6	cox2	YP_009307010.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	8	7	22	1	5	0	10	0	8	5	4	0	6	0	3	0	1	0	7	0	5	0	5	3	6	0	0	0	0	0	3	2	23	7	5	0	4	0	9	3	7	0	2	1	5	0	8	1	7	1	4	1	7	1	7	6	14	2	5	0	7	1	1	0
+7	nad4L	YP_009307011.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	3	2	9	1	3	0	1	0	3	1	0	0	0	0	3	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	4	3	12	3	1	0	2	0	3	0	2	0	3	0	3	0	1	0	5	0	5	0	2	0	1	1	3	0	2	0	4	0	1	0
+8	nad5	YP_009307012.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	32	28	65	6	21	1	13	0	23	10	7	1	7	1	7	0	4	0	18	0	2	0	5	6	10	1	3	0	0	0	16	5	57	21	15	0	21	2	22	10	18	2	25	7	6	0	22	2	26	6	22	3	10	0	13	4	13	1	25	0	18	6	1	0
+9	cob	YP_009307013.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	13	20	46	0	6	0	3	0	12	9	0	1	7	0	2	0	3	1	13	1	6	1	3	7	8	1	2	0	0	0	7	4	31	14	8	0	8	0	14	8	9	0	12	1	8	0	16	0	12	4	17	2	8	1	8	2	7	0	12	0	10	1	1	0
+10	None	YP_009307014.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	11	3	20	0	12	2	3	1	16	3	1	0	1	0	4	0	0	0	4	1	0	0	3	0	6	1	3	0	0	0	9	2	15	6	3	1	11	1	26	5	26	7	9	2	9	0	8	1	2	0	8	1	1	0	9	1	14	1	6	0	5	2	1	0
+11	cox1	YP_009307015.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	18	26	56	2	4	0	15	1	8	11	3	0	13	0	5	0	8	0	20	0	8	0	5	8	9	1	0	0	0	0	13	8	24	22	10	0	18	0	9	11	10	0	21	1	11	0	12	0	21	2	24	4	12	0	9	4	6	1	22	0	28	4	1	0
+12	None	YP_009307016.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	11	2	30	2	12	0	9	1	26	6	3	2	2	1	6	2	6	1	11	0	2	0	9	2	10	0	1	2	0	1	16	3	20	5	17	1	7	2	33	9	38	3	12	1	10	1	6	0	11	1	11	2	3	0	8	0	19	4	11	0	3	1	1	0
+13	nad1	YP_009307017.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	18	14	55	0	10	0	6	2	13	6	3	0	5	0	2	0	6	0	6	1	3	2	0	1	7	1	1	0	0	0	17	2	24	11	9	0	5	0	10	3	6	1	12	2	8	0	8	2	14	3	14	5	8	3	4	3	11	2	10	0	8	2	1	0
+14	nad4	YP_009307018.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	32	12	59	3	18	1	6	1	20	7	4	0	3	0	1	0	8	1	9	1	2	0	1	3	7	0	0	0	0	0	8	2	49	12	15	0	14	2	10	8	14	1	18	1	8	0	5	2	30	3	16	0	9	1	11	2	14	0	22	0	9	0	1	0
+15	atp8	YP_009307019.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	4	1	6	1	1	0	1	0	2	2	0	0	0	0	0	0	0	0	1	0	2	0	0	0	1	0	2	0	0	0	1	0	6	3	0	0	1	0	2	0	2	0	0	0	1	0	1	0	4	0	2	0	0	0	0	0	1	0	0	0	0	0	1	0
+16	atp6	YP_009307020.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	13	12	40	2	3	0	9	0	5	4	1	0	1	0	3	0	1	0	4	1	2	0	4	2	8	0	0	0	0	0	3	1	26	4	2	0	13	0	9	9	4	0	5	2	5	0	5	2	9	0	9	0	7	0	2	2	5	1	9	0	10	0	1	0
+17	cox3	YP_009307021.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	14	13	29	0	10	0	4	0	9	4	2	0	8	0	1	0	4	0	8	0	1	1	11	3	4	0	0	0	0	0	6	3	11	6	7	0	14	0	6	3	3	0	4	3	4	0	7	0	14	1	9	1	6	0	5	2	5	1	14	1	6	1	1	0
+18	nad6	YP_009307022.1	Tolypocladium ophioglossoides	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Tolypocladium	10	1	30	1	8	0	3	1	13	2	1	0	3	0	1	0	3	0	3	0	0	1	2	1	4	0	1	0	0	0	12	2	26	6	4	0	11	1	18	3	6	0	13	0	1	1	4	0	8	1	3	1	6	1	5	0	3	3	2	1	7	1	1	0

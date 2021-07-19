@@ -1,65 +1,13 @@
-	YP_009515648.1|ND1	YP_009515649.1|ND2	YP_009515650.1|COX1	YP_009515651.1|COX2	YP_009515652.1|ATP8	YP_009515653.1|ATP6	YP_009515654.1|COX3	YP_009515655.1|ND3	YP_009515656.1|ND4L	YP_009515657.1|ND4	YP_009515658.1|ND5	YP_009515660.1|CYTB
-TTT	22	12	31	6	3	12	16	3	5	27	30	17
-TTC	4	2	11	3	1	1	9	5	2	7	11	19
-TTA	12	15	11	5	4	14	7	5	5	22	19	6
-TTG	0	4	0	0	0	1	0	0	0	1	1	0
-TCT	6	11	6	4	1	4	3	0	2	6	11	3
-TCC	2	2	2	1	0	2	3	4	0	7	13	3
-TCA	11	16	19	10	5	6	4	3	3	18	22	13
-TCG	3	0	2	0	0	2	0	1	1	1	1	0
-TAT	6	4	10	5	0	1	9	2	0	10	8	6
-TAC	4	3	8	3	0	2	1	2	0	4	4	8
-TGT	0	1	0	0	0	0	0	0	3	4	3	0
-TGC	1	0	0	2	0	0	2	1	0	2	4	3
-TGA	8	9	17	4	4	4	12	5	1	11	10	10
-TGG	0	1	0	1	1	1	0	0	0	1	1	1
-CTT	13	16	19	10	1	16	10	10	7	16	30	12
-CTC	9	8	12	4	1	8	6	3	2	16	12	22
-CTA	13	18	16	5	0	14	5	4	5	21	25	13
-CTG	3	0	4	1	0	0	3	2	1	5	3	1
-CCT	5	2	5	3	1	2	0	2	1	4	2	0
-CCC	2	2	6	3	3	3	5	2	0	5	6	10
-CCA	14	11	15	7	2	9	8	5	1	12	13	14
-CCG	0	2	1	1	1	0	0	0	0	1	5	0
-CAT	1	3	8	4	1	1	4	0	2	4	7	1
-CAC	1	2	11	3	0	2	10	0	2	4	10	10
-CAA	9	9	6	8	2	8	8	2	0	10	14	7
-CAG	0	0	1	0	0	0	1	0	0	1	2	1
-CGT	1	0	1	4	0	1	0	0	0	4	0	1
-CGC	2	1	2	0	0	2	2	0	1	4	2	4
-CGA	5	3	6	1	0	2	3	2	2	4	7	3
-CGG	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	22	33	35	18	3	14	14	6	7	34	57	18
-ATC	9	5	6	6	3	6	2	4	1	4	12	18
-ATA	17	18	16	10	0	6	9	4	7	24	19	6
-ATG	0	4	10	1	1	5	2	1	2	3	4	3
-ACT	6	7	13	6	2	8	3	1	0	12	11	4
-ACC	5	15	5	6	2	4	8	3	4	10	19	6
-ACA	11	16	19	6	2	11	9	2	5	15	19	13
-ACG	0	0	1	0	0	2	0	0	0	0	1	1
-AAT	4	5	15	5	1	4	2	0	1	6	10	11
-AAC	5	5	3	4	2	4	3	1	3	9	14	8
-AAA	7	13	9	3	3	2	2	1	1	6	18	9
-AAG	0	0	0	0	0	1	0	0	0	2	2	1
-AGT	1	2	2	3	0	0	1	1	0	1	4	2
-AGC	1	2	3	3	1	3	2	0	0	5	5	1
-GTT	5	5	20	5	0	3	4	0	0	5	10	5
-GTC	3	1	6	3	0	3	6	3	0	3	3	2
-GTA	6	4	13	3	0	4	5	0	0	5	9	8
-GTG	2	0	2	1	0	0	0	0	0	1	1	2
-GCT	4	6	13	3	0	2	10	3	4	12	13	5
-GCC	13	14	20	6	1	6	8	3	5	17	24	21
-GCA	12	10	6	7	0	6	6	3	1	11	17	8
-GCG	0	0	1	0	0	0	0	0	0	1	2	0
-GAT	2	0	7	6	1	0	2	1	1	2	4	6
-GAC	2	2	7	7	1	1	4	2	0	3	9	4
-GAA	8	5	7	9	0	3	7	3	2	7	7	4
-GAG	1	0	4	0	0	1	0	3	0	3	3	0
-GGT	4	4	11	2	0	1	7	1	3	2	3	7
-GGC	2	5	9	2	0	3	4	4	0	4	13	10
-GGA	7	5	16	4	0	4	9	0	1	11	8	6
-GGG	2	2	8	1	0	2	1	0	0	3	4	3
-TAA	0	0	0	0	1	0	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009515648.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	22	4	12	0	6	2	11	3	6	4	0	1	8	0	13	9	13	3	5	2	14	0	1	1	9	0	1	2	5	0	22	9	17	0	6	5	11	0	4	5	7	0	1	1	5	3	6	2	4	13	12	0	2	2	8	1	4	2	7	2	0	0	0	0
+1	ND2	YP_009515649.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	12	2	15	4	11	2	16	0	4	3	1	0	9	1	16	8	18	0	2	2	11	2	3	2	9	0	0	1	3	0	33	5	18	4	7	15	16	0	5	5	13	0	2	2	5	1	4	0	6	14	10	0	0	2	5	0	4	5	5	2	0	0	0	0
+2	COX1	YP_009515650.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	31	11	11	0	6	2	19	2	10	8	0	0	17	0	19	12	16	4	5	6	15	1	8	11	6	1	1	2	6	0	35	6	16	10	13	5	19	1	15	3	9	0	2	3	20	6	13	2	13	20	6	1	7	7	7	4	11	9	16	8	0	0	0	1
+3	COX2	YP_009515651.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	6	3	5	0	4	1	10	0	5	3	0	2	4	1	10	4	5	1	3	3	7	1	4	3	8	0	4	0	1	1	18	6	10	1	6	6	6	0	5	4	3	0	3	3	5	3	3	1	3	6	7	0	6	7	9	0	2	2	4	1	0	0	0	0
+4	ATP8	YP_009515652.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	3	1	4	0	1	0	5	0	0	0	0	0	4	1	1	1	0	0	1	3	2	1	1	0	2	0	0	0	0	0	3	3	0	1	2	2	2	0	1	2	3	0	0	1	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009515653.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	12	1	14	1	4	2	6	2	1	2	0	0	4	1	16	8	14	0	2	3	9	0	1	2	8	0	1	2	2	0	14	6	6	5	8	4	11	2	4	4	2	1	0	3	3	3	4	0	2	6	6	0	0	1	3	1	1	3	4	2	0	0	0	0
+6	COX3	YP_009515654.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	16	9	7	0	3	3	4	0	9	1	0	2	12	0	10	6	5	3	0	5	8	0	4	10	8	1	0	2	3	0	14	2	9	2	3	8	9	0	2	3	2	0	1	2	4	6	5	0	10	8	6	0	2	4	7	0	7	4	9	1	0	0	0	0
+7	ND3	YP_009515655.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	3	5	5	0	0	4	3	1	2	2	0	1	5	0	10	3	4	2	2	2	5	0	0	0	2	0	0	0	2	0	6	4	4	1	1	3	2	0	0	1	1	0	1	0	0	3	0	0	3	3	3	0	1	2	3	3	1	4	0	0	0	0	0	0
+8	ND4L	YP_009515656.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	5	2	5	0	2	0	3	1	0	0	3	0	1	0	7	2	5	1	1	0	1	0	2	2	0	0	0	1	2	0	7	1	7	2	0	4	5	0	1	3	1	0	0	0	0	0	0	0	4	5	1	0	1	0	2	0	3	0	1	0	1	0	0	0
+9	ND4	YP_009515657.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	27	7	22	1	6	7	18	1	10	4	4	2	11	1	16	16	21	5	4	5	12	1	4	4	10	1	4	4	4	0	34	4	24	3	12	10	15	0	6	9	6	2	1	5	5	3	5	1	12	17	11	1	2	3	7	3	2	4	11	3	0	0	0	0
+10	ND5	YP_009515658.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	30	11	19	1	11	13	22	1	8	4	3	4	10	1	30	12	25	3	2	6	13	5	7	10	14	2	0	2	7	0	57	12	19	4	11	19	19	1	10	14	18	2	4	5	10	3	9	1	13	24	17	2	4	9	7	3	3	13	8	4	0	0	0	1
+11	CYTB	YP_009515660.1	Kaloula verrucosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	17	19	6	0	3	3	13	0	6	8	0	3	10	1	12	22	13	1	0	10	14	0	1	10	7	1	1	4	3	0	18	18	6	3	4	6	13	1	11	8	9	1	2	1	5	2	8	2	5	21	8	0	6	4	4	0	7	10	6	3	1	0	0	0

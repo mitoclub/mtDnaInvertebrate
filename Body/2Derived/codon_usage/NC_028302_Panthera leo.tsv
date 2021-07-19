@@ -1,65 +1,13 @@
-	YP_009178307.1|ND1	YP_009178308.1|ND2	YP_009178309.1|COX1	YP_009178310.1|COX2	YP_009178311.1|ATP8	YP_009178312.1|ATP6	YP_009178313.1|COX3	YP_009178314.1|ND3	YP_009178315.1|ND4L	YP_009178316.1|ND4	YP_009178317.1|ND5	YP_009178319.1|CYTB
-TTT	5	4	25	4	2	7	8	4	1	4	20	8
-TTC	15	8	17	3	1	5	14	4	4	11	25	18
-TTA	4	6	10	5	3	11	7	3	5	13	11	11
-TTG	0	0	6	2	0	1	1	0	0	2	4	2
-TCT	3	3	7	3	1	4	1	1	0	5	9	3
-TCC	7	9	5	5	0	1	7	3	5	6	13	8
-TCA	6	11	12	7	5	5	7	1	3	15	13	13
-TCG	0	2	3	0	1	0	2	0	0	0	5	0
-TAT	4	2	9	8	1	0	7	1	2	5	12	7
-TAC	9	8	10	3	1	2	6	2	2	13	8	8
-TGT	1	0	1	0	0	0	1	1	1	2	2	1
-TGC	0	1	0	2	0	0	1	0	2	1	2	3
-TGA	7	10	13	5	3	3	9	3	0	10	9	9
-TGG	2	0	4	0	0	0	3	1	0	3	3	3
-CTT	7	5	9	3	1	5	3	3	0	10	11	8
-CTC	10	7	4	5	0	4	6	4	3	19	24	10
-CTA	29	30	26	14	3	13	11	14	10	37	35	23
-CTG	4	3	6	5	0	9	5	2	3	11	5	4
-CCT	3	1	12	3	4	3	1	2	0	4	5	5
-CCC	10	12	8	5	1	6	4	4	1	11	8	10
-CCA	9	5	7	5	3	4	6	1	0	6	12	8
-CCG	0	2	1	0	0	0	0	0	0	0	1	1
-CAT	1	0	8	1	0	1	6	0	2	2	5	5
-CAC	2	4	10	6	1	7	10	0	0	7	11	8
-CAA	6	7	5	6	4	8	7	3	2	10	17	5
-CAG	0	2	1	1	1	1	0	0	0	1	3	1
-CGT	1	0	1	0	0	0	1	1	0	0	1	0
-CGC	1	1	1	1	0	2	1	0	0	2	3	2
-CGA	5	4	6	5	0	2	2	0	1	8	4	6
-CGG	1	0	0	0	0	0	1	0	0	0	1	1
-ATT	8	12	25	12	5	15	9	5	2	20	20	15
-ATC	21	24	7	7	2	7	6	2	3	22	34	25
-ATA	18	40	23	8	3	7	7	6	7	27	36	9
-ATG	1	0	11	6	1	4	3	0	6	7	3	4
-ACT	2	3	16	7	0	6	2	1	1	8	11	4
-ACC	11	16	7	3	2	10	11	3	2	9	19	10
-ACA	14	21	13	6	3	7	8	5	3	20	17	10
-ACG	0	0	3	2	1	0	2	0	0	2	3	0
-AAT	2	2	13	2	1	5	1	2	3	6	10	6
-AAC	9	12	4	3	0	7	5	2	3	16	21	8
-AAA	7	14	8	2	7	4	3	4	0	12	20	9
-AAG	0	1	1	3	0	0	0	0	0	1	5	0
-AGT	2	0	1	3	0	0	1	1	0	2	5	1
-AGC	2	1	2	3	1	3	4	1	1	8	9	1
-GTT	3	3	6	1	0	1	5	0	1	0	5	3
-GTC	3	2	11	4	0	6	4	0	1	6	6	5
-GTA	7	5	16	5	0	6	6	3	4	9	9	11
-GTG	1	1	8	3	0	2	1	0	1	1	0	0
-GCT	7	3	14	2	1	6	5	1	2	7	3	2
-GCC	12	9	11	3	0	9	6	6	1	18	24	12
-GCA	10	8	15	2	1	0	3	4	2	10	15	8
-GCG	0	0	0	0	0	2	0	0	1	1	0	1
-GAT	0	2	8	4	1	0	2	1	0	0	5	5
-GAC	3	0	7	5	0	1	1	1	1	3	5	7
-GAA	9	6	9	10	1	3	8	5	1	6	8	5
-GAG	2	1	1	5	1	0	0	1	1	2	3	1
-GGT	2	1	9	4	0	2	4	0	1	2	5	2
-GGC	2	6	11	2	0	1	5	0	2	7	5	10
-GGA	6	7	18	3	0	8	8	3	1	7	16	13
-GGG	2	0	9	0	0	0	3	0	0	2	2	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009178307.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	5	15	4	0	3	7	6	0	4	9	1	0	7	2	7	10	29	4	3	10	9	0	1	2	6	0	1	1	5	1	8	21	18	1	2	11	14	0	2	9	7	0	2	2	3	3	7	1	7	12	10	0	0	3	9	2	2	2	6	2	0	0	0	0
+1	ND2	YP_009178308.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	8	6	0	3	9	11	2	2	8	0	1	10	0	5	7	30	3	1	12	5	2	0	4	7	2	0	1	4	0	12	24	40	0	3	16	21	0	2	12	14	1	0	1	3	2	5	1	3	9	8	0	2	0	6	1	1	6	7	0	0	0	0	0
+2	COX1	YP_009178309.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	25	17	10	6	7	5	12	3	9	10	1	0	13	4	9	4	26	6	12	8	7	1	8	10	5	1	1	1	6	0	25	7	23	11	16	7	13	3	13	4	8	1	1	2	6	11	16	8	14	11	15	0	8	7	9	1	9	11	18	9	1	0	0	0
+3	COX2	YP_009178310.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	3	5	2	3	5	7	0	8	3	0	2	5	0	3	5	14	5	3	5	5	0	1	6	6	1	0	1	5	0	12	7	8	6	7	3	6	2	2	3	2	3	3	3	1	4	5	3	2	3	2	0	4	5	10	5	4	2	3	0	1	0	0	0
+4	ATP8	YP_009178311.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	2	1	3	0	1	0	5	1	1	1	0	0	3	0	1	0	3	0	4	1	3	0	0	1	4	1	0	0	0	0	5	2	3	1	0	2	3	1	1	0	7	0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009178312.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	7	5	11	1	4	1	5	0	0	2	0	0	3	0	5	4	13	9	3	6	4	0	1	7	8	1	0	2	2	0	15	7	7	4	6	10	7	0	5	7	4	0	0	3	1	6	6	2	6	9	0	2	0	1	3	0	2	1	8	0	1	0	0	0
+6	COX3	YP_009178313.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	8	14	7	1	1	7	7	2	7	6	1	1	9	3	3	6	11	5	1	4	6	0	6	10	7	0	1	1	2	1	9	6	7	3	2	11	8	2	1	5	3	0	1	4	5	4	6	1	5	6	3	0	2	1	8	0	4	5	8	3	0	0	0	0
+7	ND3	YP_009178314.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	4	3	0	1	3	1	0	1	2	1	0	3	1	3	4	14	2	2	4	1	0	0	0	3	0	1	0	0	0	5	2	6	0	1	3	5	0	2	2	4	0	1	1	0	0	3	0	1	6	4	0	1	1	5	1	0	0	3	0	0	0	0	0
+8	ND4L	YP_009178315.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	1	4	5	0	0	5	3	0	2	2	1	2	0	0	0	3	10	3	0	1	0	0	2	0	2	0	0	0	1	0	2	3	7	6	1	2	3	0	3	3	0	0	0	1	1	1	4	1	2	1	2	1	0	1	1	1	1	2	1	0	1	0	0	0
+9	ND4	YP_009178316.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	4	11	13	2	5	6	15	0	5	13	2	1	10	3	10	19	37	11	4	11	6	0	2	7	10	1	0	2	8	0	20	22	27	7	8	9	20	2	6	16	12	1	2	8	0	6	9	1	7	18	10	1	0	3	6	2	2	7	7	2	0	0	0	0
+10	ND5	YP_009178317.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	20	25	11	4	9	13	13	5	12	8	2	2	9	3	11	24	35	5	5	8	12	1	5	11	17	3	1	3	4	1	20	34	36	3	11	19	17	3	10	21	20	5	5	9	5	6	9	0	3	24	15	0	5	5	8	3	5	5	16	2	1	0	0	0
+11	CYTB	YP_009178319.1	Panthera leo	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Felidae, Pantherinae, Panthera	8	18	11	2	3	8	13	0	7	8	1	3	9	3	8	10	23	4	5	10	8	1	5	8	5	1	0	2	6	1	15	25	9	4	4	10	10	0	6	8	9	0	1	1	3	5	11	0	2	12	8	1	5	7	5	1	2	10	13	1	0	0	1	0

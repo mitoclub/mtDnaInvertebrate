@@ -1,65 +1,10 @@
-	YP_009433705.1|atp1	YP_009433706.1|atp9	YP_009433720.1|ccmFC	YP_009433721.1|nad4	YP_009433722.1|ccmC	YP_009433726.1|rps2	YP_009433729.1|cox1	YP_009433732.1|mttB	YP_009433737.1|nad7
-TTT	7	4	16	22	10	13	29	14	8
-TTC	7	2	16	20	7	6	20	10	7
-TTA	18	2	10	22	8	7	20	6	9
-TTG	9	4	15	9	6	7	5	9	4
-TCT	5	1	7	9	11	13	6	5	6
-TCC	5	1	9	11	2	10	3	5	7
-TCA	8	5	7	5	4	6	8	4	12
-TCG	5	1	4	1	3	4	3	6	3
-TAT	15	1	6	16	3	9	13	6	8
-TAC	2	0	3	2	2	1	5	4	4
-TGT	4	0	5	4	0	5	1	2	7
-TGC	1	0	3	5	0	1	1	5	1
-TGG	0	0	5	6	4	2	14	6	4
-CTT	8	0	7	16	7	6	10	5	8
-CTC	4	2	7	3	1	5	7	4	2
-CTA	5	0	5	16	1	4	10	3	2
-CTG	5	1	8	7	3	5	6	1	1
-CCT	6	0	9	13	8	3	8	6	13
-CCC	5	0	13	8	5	2	5	7	1
-CCA	12	2	8	3	8	6	10	5	6
-CCG	0	0	2	4	2	1	6	5	2
-CAT	1	2	13	10	5	8	16	3	12
-CAC	3	0	3	1	0	2	1	1	3
-CAA	22	1	8	8	6	7	6	7	16
-CAG	4	0	2	3	0	3	2	2	1
-CGT	7	0	8	2	6	6	6	6	9
-CGC	7	0	3	1	1	2	1	1	1
-CGA	7	2	6	4	2	3	4	1	10
-CGG	0	0	4	3	5	2	1	2	2
-ATT	22	5	12	24	11	12	17	10	8
-ATC	7	1	3	12	6	9	14	11	8
-ATA	5	1	8	11	8	8	13	5	5
-ATG	12	3	15	17	6	6	22	5	14
-ACT	11	0	9	12	3	3	12	3	11
-ACC	4	1	2	8	4	4	10	3	5
-ACA	8	1	2	6	8	3	12	7	2
-ACG	2	0	7	2	2	4	2	5	2
-AAT	10	1	13	8	2	13	11	5	7
-AAC	7	1	2	3	4	3	5	0	3
-AAA	19	3	11	8	3	15	7	4	9
-AAG	4	1	10	5	3	12	2	2	3
-AGT	7	1	7	7	3	4	9	4	6
-AGC	5	0	7	9	3	5	7	2	0
-AGA	9	0	8	9	0	10	2	2	9
-AGG	2	0	6	0	1	2	0	3	2
-GTT	10	1	5	15	5	4	17	9	5
-GTC	10	2	6	2	2	5	3	2	5
-GTA	4	0	2	7	3	2	10	5	10
-GTG	16	1	6	12	2	3	9	4	8
-GCT	18	9	9	7	9	9	13	4	10
-GCC	14	5	5	10	0	3	8	2	6
-GCA	12	1	4	4	2	6	12	5	10
-GCG	7	1	2	5	4	9	4	0	1
-GAT	18	0	7	7	3	13	9	1	18
-GAC	6	0	6	3	0	7	4	2	4
-GAA	28	2	16	10	8	12	7	9	16
-GAG	8	0	4	4	0	8	2	7	10
-GGT	10	4	10	12	6	1	16	5	10
-GGC	8	1	5	4	0	5	7	2	4
-GGA	15	3	9	13	6	5	19	1	10
-GGG	9	0	8	5	3	6	12	1	4
-TAA	0	0	0	0	0	0	1	0	0
-TAG	0	0	0	0	1	1	0	1	1
-TGA	1	1	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	atp1	YP_009433705.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	7	7	18	9	5	5	8	5	15	2	4	1	0	8	4	5	5	6	5	12	0	1	3	22	4	7	7	7	0	22	7	5	12	11	4	8	2	10	7	19	4	7	5	9	2	10	10	4	16	18	14	12	7	18	6	28	8	10	8	15	9	0	0	1
+1	atp9	YP_009433706.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	4	2	2	4	1	1	5	1	1	0	0	0	0	0	2	0	1	0	0	2	0	2	0	1	0	0	0	2	0	5	1	1	3	0	1	1	0	1	1	3	1	1	0	0	0	1	2	0	1	9	5	1	1	0	0	2	0	4	1	3	0	0	0	1
+2	ccmFC	YP_009433720.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	16	16	10	15	7	9	7	4	6	3	5	3	5	7	7	5	8	9	13	8	2	13	3	8	2	8	3	6	4	12	3	8	15	9	2	2	7	13	2	11	10	7	7	8	6	5	6	2	6	9	5	4	2	7	6	16	4	10	5	9	8	0	0	0
+3	nad4	YP_009433721.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	22	20	22	9	9	11	5	1	16	2	4	5	6	16	3	16	7	13	8	3	4	10	1	8	3	2	1	4	3	24	12	11	17	12	8	6	2	8	3	8	5	7	9	9	0	15	2	7	12	7	10	4	5	7	3	10	4	12	4	13	5	0	0	1
+4	ccmC	YP_009433722.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	10	7	8	6	11	2	4	3	3	2	0	0	4	7	1	1	3	8	5	8	2	5	0	6	0	6	1	2	5	11	6	8	6	3	4	8	2	2	4	3	3	3	3	0	1	5	2	3	2	9	0	2	4	3	0	8	0	6	0	6	3	0	1	0
+5	rps2	YP_009433726.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	13	6	7	7	13	10	6	4	9	1	5	1	2	6	5	4	5	3	2	6	1	8	2	7	3	6	2	3	2	12	9	8	6	3	4	3	4	13	3	15	12	4	5	10	2	4	5	2	3	9	3	6	9	13	7	12	8	1	5	5	6	0	1	0
+6	cox1	YP_009433729.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	29	20	20	5	6	3	8	3	13	5	1	1	14	10	7	10	6	8	5	10	6	16	1	6	2	6	1	4	1	17	14	13	22	12	10	12	2	11	5	7	2	9	7	2	0	17	3	10	9	13	8	12	4	9	4	7	2	16	7	19	12	1	0	0
+7	mttB	YP_009433732.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	14	10	6	9	5	5	4	6	6	4	2	5	6	5	4	3	1	6	7	5	5	3	1	7	2	6	1	1	2	10	11	5	5	3	3	7	5	5	0	4	2	4	2	2	3	9	2	5	4	4	2	5	0	1	2	9	7	5	2	1	1	0	1	0
+8	nad7	YP_009433737.1	Triticum aestivum	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, Liliopsida, Poales, Poaceae, BOP clade, Pooideae, Triticodae, Triticeae, Triticinae, Triticum	8	7	9	4	6	7	12	3	8	4	7	1	4	8	2	2	1	13	1	6	2	12	3	16	1	9	1	10	2	8	8	5	14	11	5	2	2	7	3	9	3	6	0	9	2	5	5	10	8	10	6	10	1	18	4	16	10	10	4	10	4	0	1	0

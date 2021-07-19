@@ -1,65 +1,13 @@
-	YP_626394.2|ND1	YP_626395.1|ND2	YP_626396.1|COX1	YP_626397.1|COX2	YP_626398.1|ATP8	YP_626399.1|ATP6	YP_626400.1|COX3	YP_626401.1|ND3	YP_626402.1|ND4L	YP_626403.1|ND4	YP_626404.1|ND5	YP_626406.1|CYTB
-TTT	6	5	16	3	0	5	7	3	1	7	10	6
-TTC	16	11	27	4	3	7	15	6	6	8	33	23
-TTA	6	10	12	5	1	9	8	4	7	18	4	8
-TTG	0	0	1	2	0	1	0	2	0	0	3	1
-TCT	6	7	11	4	1	4	3	1	2	7	7	3
-TCC	4	6	6	4	0	4	4	0	2	9	9	2
-TCA	11	13	9	8	6	5	11	2	3	9	22	13
-TCG	0	0	1	0	1	0	1	0	0	2	1	1
-TAT	5	4	9	5	1	2	7	2	0	7	3	6
-TAC	8	6	9	4	0	0	5	1	1	9	11	10
-TGT	1	0	1	1	0	0	0	0	0	2	1	2
-TGC	0	0	0	2	0	0	2	1	3	2	8	1
-TGA	9	8	17	5	3	3	11	3	0	12	11	11
-TGG	0	0	0	0	0	0	1	1	0	1	2	0
-CTT	9	12	15	6	3	6	3	4	1	14	12	6
-CTC	7	8	5	3	1	7	5	1	2	14	15	12
-CTA	30	26	22	14	3	17	15	8	6	29	45	22
-CTG	3	3	4	3	2	2	2	2	3	8	5	1
-CCT	3	3	4	4	2	5	2	1	1	3	4	0
-CCC	3	7	1	2	1	2	1	2	3	6	8	6
-CCA	16	11	21	8	3	6	7	5	0	13	17	16
-CCG	0	0	2	0	0	0	0	0	0	1	0	0
-CAT	2	0	5	2	1	2	7	0	1	1	2	3
-CAC	2	5	14	4	0	6	9	1	2	8	9	9
-CAA	5	7	3	6	3	7	6	2	1	11	12	5
-CAG	2	2	3	0	1	0	1	0	0	0	0	1
-CGT	0	0	2	1	0	2	2	0	0	0	2	0
-CGC	1	1	1	2	0	2	0	0	0	1	0	1
-CGA	7	2	4	2	0	1	3	1	1	8	6	7
-CGG	0	0	1	1	0	0	0	0	0	0	1	0
-ATT	12	19	19	6	4	15	8	7	6	24	18	16
-ATC	11	18	19	14	1	13	7	2	3	25	44	25
-ATA	15	29	19	14	2	10	6	6	4	27	28	13
-ATG	3	3	12	1	2	3	3	1	2	7	5	3
-ACT	1	6	7	6	3	6	4	5	1	4	11	4
-ACC	9	11	8	2	1	4	5	0	2	10	19	5
-ACA	12	16	23	7	4	12	10	5	3	25	27	20
-ACG	0	0	0	0	1	0	1	0	1	0	0	0
-AAT	3	4	10	1	0	3	1	0	1	6	6	4
-AAC	12	19	7	7	3	4	7	4	4	24	27	12
-AAA	7	10	9	4	6	6	4	4	1	14	19	9
-AAG	0	0	1	1	0	0	0	0	0	0	5	0
-AGT	2	0	1	1	0	1	1	0	0	0	1	0
-AGC	1	4	2	3	0	3	2	2	0	8	9	0
-GTT	1	2	11	1	0	1	4	0	0	1	4	3
-GTC	5	2	9	4	2	3	4	0	2	5	6	8
-GTA	9	5	16	7	0	4	8	4	4	6	9	10
-GTG	2	0	2	0	0	2	1	0	0	4	2	0
-GCT	6	2	10	4	0	3	1	3	4	4	9	6
-GCC	11	9	18	3	0	10	5	5	4	18	24	11
-GCA	8	6	12	2	0	3	7	2	3	7	18	10
-GCG	0	1	1	0	0	0	1	1	0	0	0	0
-GAT	0	0	6	3	0	1	1	0	0	0	3	5
-GAC	3	3	11	9	1	0	3	2	1	3	9	9
-GAA	8	5	7	12	1	3	7	5	2	8	7	6
-GAG	3	1	2	2	0	0	0	1	0	2	2	0
-GGT	2	0	6	1	0	2	0	0	0	2	2	6
-GGC	3	2	10	3	0	5	7	2	2	4	10	7
-GGA	6	9	23	2	0	4	13	1	1	8	14	9
-GGG	1	1	7	2	0	0	2	0	1	3	2	3
-TAA	0	1	1	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_626394.2	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	6	16	6	0	6	4	11	0	5	8	1	0	9	0	9	7	30	3	3	3	16	0	2	2	5	2	0	1	7	0	12	11	15	3	1	9	12	0	3	12	7	0	2	1	1	5	9	2	6	11	8	0	0	3	8	3	2	3	6	1	0	0	0	0
+1	ND2	YP_626395.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	5	11	10	0	7	6	13	0	4	6	0	0	8	0	12	8	26	3	3	7	11	0	0	5	7	2	0	1	2	0	19	18	29	3	6	11	16	0	4	19	10	0	0	4	2	2	5	0	2	9	6	1	0	3	5	1	0	2	9	1	1	0	0	0
+2	COX1	YP_626396.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	16	27	12	1	11	6	9	1	9	9	1	0	17	0	15	5	22	4	4	1	21	2	5	14	3	3	2	1	4	1	19	19	19	12	7	8	23	0	10	7	9	1	1	2	11	9	16	2	10	18	12	1	6	11	7	2	6	10	23	7	1	0	0	0
+3	COX2	YP_626397.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	3	4	5	2	4	4	8	0	5	4	1	2	5	0	6	3	14	3	4	2	8	0	2	4	6	0	1	2	2	1	6	14	14	1	6	2	7	0	1	7	4	1	1	3	1	4	7	0	4	3	2	0	3	9	12	2	1	3	2	2	1	0	0	0
+4	ATP8	YP_626398.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	0	3	1	0	1	0	6	1	1	0	0	0	3	0	3	1	3	2	2	1	3	0	1	0	3	1	0	0	0	0	4	1	2	2	3	1	4	1	0	3	6	0	0	0	0	2	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_626399.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	5	7	9	1	4	4	5	0	2	0	0	0	3	0	6	7	17	2	5	2	6	0	2	6	7	0	2	2	1	0	15	13	10	3	6	4	12	0	3	4	6	0	1	3	1	3	4	2	3	10	3	0	1	0	3	0	2	5	4	0	1	0	0	0
+6	COX3	YP_626400.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	7	15	8	0	3	4	11	1	7	5	0	2	11	1	3	5	15	2	2	1	7	0	7	9	6	1	2	0	3	0	8	7	6	3	4	5	10	1	1	7	4	0	1	2	4	4	8	1	1	5	7	1	1	3	7	0	0	7	13	2	0	0	0	0
+7	ND3	YP_626401.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	3	6	4	2	1	0	2	0	2	1	0	1	3	1	4	1	8	2	1	2	5	0	0	1	2	0	0	0	1	0	7	2	6	1	5	0	5	0	0	4	4	0	0	2	0	0	4	0	3	5	2	1	0	2	5	1	0	2	1	0	1	0	0	0
+8	ND4L	YP_626402.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	1	6	7	0	2	2	3	0	0	1	0	3	0	0	1	2	6	3	1	3	0	0	1	2	1	0	0	0	1	0	6	3	4	2	1	2	3	1	1	4	1	0	0	0	0	2	4	0	4	4	3	0	0	1	2	0	0	2	1	1	1	0	0	0
+9	ND4	YP_626403.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	7	8	18	0	7	9	9	2	7	9	2	2	12	1	14	14	29	8	3	6	13	1	1	8	11	0	0	1	8	0	24	25	27	7	4	10	25	0	6	24	14	0	0	8	1	5	6	4	4	18	7	0	0	3	8	2	2	4	8	3	0	0	0	0
+10	ND5	YP_626404.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	10	33	4	3	7	9	22	1	3	11	1	8	11	2	12	15	45	5	4	8	17	0	2	9	12	0	2	0	6	1	18	44	28	5	11	19	27	0	6	27	19	5	1	9	4	6	9	2	9	24	18	0	3	9	7	2	2	10	14	2	1	0	0	0
+11	CYTB	YP_626406.1	Microtus levis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Microtus	6	23	8	1	3	2	13	1	6	10	2	1	11	0	6	12	22	1	0	6	16	0	3	9	5	1	0	1	7	0	16	25	13	3	4	5	20	0	4	12	9	0	0	0	3	8	10	0	6	11	10	0	5	9	6	0	6	7	9	3	1	0	0	0

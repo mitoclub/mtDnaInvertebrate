@@ -1,65 +1,10 @@
-	YP_009185931.1|ND2	YP_009185932.1|COX1	YP_009185933.1|COX2	YP_009185934.1|ATP8	YP_009185935.1|ATP6	YP_009185936.1|COX3	YP_009185937.1|ND3	YP_009185941.1|ND6	YP_009185942.1|CYTB
-TTT	27	33	12	6	14	24	13	16	27
-TTC	9	8	2	0	2	2	1	2	3
-TTA	38	45	18	4	28	23	16	24	48
-TTG	3	4	1	0	1	0	1	0	0
-TCT	6	11	6	2	5	9	4	9	6
-TCC	1	2	0	0	0	0	0	0	0
-TCA	19	17	9	1	7	3	3	3	8
-TCG	0	2	0	0	0	0	0	0	1
-TAT	7	12	11	4	5	8	2	8	14
-TAC	3	7	2	0	0	2	0	1	4
-TGT	2	0	2	0	1	1	1	0	2
-TGC	1	0	0	0	0	0	0	0	1
-TGA	9	11	6	3	6	13	2	1	10
-TGG	0	3	0	0	0	0	0	0	2
-CTT	3	16	5	0	7	5	0	1	4
-CTC	3	0	0	0	0	1	0	0	0
-CTA	4	0	2	0	3	1	0	2	2
-CTG	0	0	0	0	0	0	0	0	0
-CCT	1	17	9	1	7	9	2	2	15
-CCC	5	2	0	0	1	0	1	0	2
-CCA	2	7	2	2	3	0	1	1	5
-CCG	0	1	0	0	0	0	0	0	0
-CAT	2	11	5	0	5	16	1	1	8
-CAC	1	4	0	0	0	0	0	0	2
-CAA	4	6	6	1	3	6	2	2	7
-CAG	1	2	1	0	0	0	0	0	0
-CGT	0	1	0	0	2	1	0	1	1
-CGC	0	0	0	0	0	0	0	0	1
-CGA	2	8	7	0	1	2	2	0	4
-CGG	0	0	0	0	0	1	0	0	1
-ATT	37	45	26	9	25	23	17	30	45
-ATC	10	4	2	0	1	1	0	0	3
-ATA	24	27	12	4	16	14	5	15	12
-ATG	6	5	1	1	1	1	1	0	1
-ACT	4	21	1	2	9	10	3	4	10
-ACC	2	1	1	0	0	0	0	0	1
-ACA	9	9	10	0	4	8	0	0	9
-ACG	0	0	0	0	1	0	0	0	0
-AAT	22	16	8	5	14	12	4	13	25
-AAC	7	2	2	0	1	0	0	0	2
-AAA	10	7	6	5	3	2	6	6	9
-AAG	2	1	1	0	0	2	0	0	1
-AGT	4	2	1	0	0	2	0	1	0
-AGC	0	2	0	0	0	0	0	0	0
-AGA	4	10	6	0	12	6	2	3	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	16	4	0	6	7	0	1	13
-GTC	0	0	0	0	0	0	0	0	0
-GTA	3	14	5	0	5	4	2	2	8
-GTG	0	1	0	0	0	1	0	0	0
-GCT	7	18	7	1	6	8	2	1	14
-GCC	1	0	0	0	1	0	0	1	1
-GCA	4	15	2	0	1	2	3	0	8
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	12	7	0	0	2	3	1	7
-GAC	0	2	1	0	1	3	0	0	2
-GAA	6	9	11	0	4	7	4	2	3
-GAG	0	0	0	0	0	1	0	0	0
-GGT	1	10	4	0	2	4	0	1	2
-GGC	1	0	0	0	0	2	0	1	0
-GGA	11	34	3	0	8	13	3	3	20
-GGG	0	1	1	0	1	0	0	0	1
-TAA	1	1	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009185931.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	27	9	38	3	6	1	19	0	7	3	2	1	9	0	3	3	4	0	1	5	2	0	2	1	4	1	0	0	2	0	37	10	24	6	4	2	9	0	22	7	10	2	4	0	4	0	1	0	3	0	7	1	4	0	0	0	6	0	1	1	11	0	1	0
+1	COX1	YP_009185932.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	33	8	45	4	11	2	17	2	12	7	0	0	11	3	16	0	0	0	17	2	7	1	11	4	6	2	1	0	8	0	45	4	27	5	21	1	9	0	16	2	7	1	2	2	10	0	16	0	14	1	18	0	15	0	12	2	9	0	10	0	34	1	1	0
+2	COX2	YP_009185933.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	12	2	18	1	6	0	9	0	11	2	2	0	6	0	5	0	2	0	9	0	2	0	5	0	6	1	0	0	7	0	26	2	12	1	1	1	10	0	8	2	6	1	1	0	6	0	4	0	5	0	7	0	2	0	7	1	11	0	4	0	3	1	0	0
+3	ATP8	YP_009185934.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	6	0	4	0	2	0	1	0	4	0	0	0	3	0	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0	0	9	0	4	1	2	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009185935.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	14	2	28	1	5	0	7	0	5	0	1	0	6	0	7	0	3	0	7	1	3	0	5	0	3	0	2	0	1	0	25	1	16	1	9	0	4	1	14	1	3	0	0	0	12	0	6	0	5	0	6	1	1	0	0	1	4	0	2	0	8	1	1	0
+5	COX3	YP_009185936.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	24	2	23	0	9	0	3	0	8	2	1	0	13	0	5	1	1	0	9	0	0	0	16	0	6	0	1	0	2	1	23	1	14	1	10	0	8	0	12	0	2	2	2	0	6	0	7	0	4	1	8	0	2	0	2	3	7	1	4	2	13	0	0	0
+6	ND3	YP_009185937.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	13	1	16	1	4	0	3	0	2	0	1	0	2	0	0	0	0	0	2	1	1	0	1	0	2	0	0	0	2	0	17	0	5	1	3	0	0	0	4	0	6	0	0	0	2	0	0	0	2	0	2	0	3	0	3	0	4	0	0	0	3	0	0	1
+7	ND6	YP_009185941.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	16	2	24	0	9	0	3	0	8	1	0	0	1	0	1	0	2	0	2	0	1	0	1	0	2	0	1	0	0	0	30	0	15	0	4	0	0	0	13	0	6	0	1	0	3	0	1	0	2	0	1	1	0	0	1	0	2	0	1	1	3	0	1	0
+8	CYTB	YP_009185942.1	Rugilus geniculatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Staphyliniformia, Staphylinidae, Paederinae, Rugilus	27	3	48	0	6	0	8	1	14	4	2	1	10	2	4	0	2	0	15	2	5	0	8	2	7	0	1	1	4	1	45	3	12	1	10	1	9	0	25	2	9	1	0	0	5	0	13	0	8	0	14	1	8	0	7	2	3	0	2	0	20	1	0	1

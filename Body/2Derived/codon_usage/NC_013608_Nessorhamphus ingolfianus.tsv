@@ -1,65 +1,13 @@
-	YP_003345086.1|ND1	YP_003345087.1|ND2	YP_003345088.1|COX1	YP_003345089.1|COX2	YP_003345090.1|ATP8	YP_003345091.1|ATP6	YP_003345092.1|COX3	YP_003345093.1|ND3	YP_003345094.1|ND4L	YP_003345095.1|ND4	YP_003345096.1|ND5	YP_003345097.1|CYTB
-TTT	6	3	19	4	2	6	8	5	3	8	13	13
-TTC	10	7	24	4	2	6	17	4	5	5	25	17
-TTA	11	8	8	6	1	10	8	5	6	20	15	18
-TTG	0	0	2	0	0	0	0	0	1	1	0	1
-TCT	3	1	7	1	0	0	3	1	0	7	3	3
-TCC	7	6	7	6	1	2	2	1	6	6	6	5
-TCA	8	7	8	4	1	1	6	7	3	10	16	11
-TCG	1	0	0	0	0	0	0	0	0	0	1	0
-TAT	5	3	12	5	0	2	1	0	1	6	3	6
-TAC	8	5	8	5	0	1	10	2	0	8	9	8
-TGT	0	0	0	0	0	0	1	1	1	1	3	1
-TGC	0	1	1	2	0	0	1	1	2	4	4	2
-TGA	7	10	17	5	5	5	12	5	1	16	14	12
-TGG	1	1	3	0	0	0	0	0	0	4	0	1
-CTT	8	9	8	9	0	11	4	4	1	13	7	8
-CTC	7	8	11	1	0	11	4	5	6	19	14	21
-CTA	36	33	28	8	2	18	14	7	7	33	41	18
-CTG	0	4	7	1	0	5	0	1	0	5	7	2
-CCT	1	3	7	5	1	4	0	0	0	1	2	2
-CCC	13	5	7	4	1	7	6	2	2	11	12	5
-CCA	9	12	14	4	5	7	6	8	0	12	17	15
-CCG	0	0	2	1	1	0	0	0	0	1	0	0
-CAT	1	0	6	5	1	1	3	0	0	2	1	6
-CAC	2	7	13	5	1	3	12	0	5	9	10	7
-CAA	5	10	6	8	2	7	10	3	2	11	21	5
-CAG	0	3	0	1	0	2	0	1	0	0	2	0
-CGT	0	1	1	0	0	2	0	0	0	0	1	0
-CGC	1	0	2	2	0	2	0	1	0	1	1	0
-CGA	6	3	6	4	0	2	5	1	1	10	6	8
-CGG	1	0	0	0	0	0	0	0	1	0	1	1
-ATT	15	15	20	10	1	10	11	8	2	30	29	8
-ATC	10	8	17	8	2	5	4	4	1	11	27	11
-ATA	8	32	14	12	2	12	8	3	4	24	27	15
-ATG	3	6	9	2	1	2	1	1	2	3	9	3
-ACT	3	5	11	3	0	4	0	1	1	4	9	1
-ACC	7	12	9	2	2	5	9	3	1	17	23	5
-ACA	11	30	15	6	2	9	13	1	3	20	28	14
-ACG	0	3	1	1	0	2	0	0	0	3	4	0
-AAT	3	2	10	2	1	6	1	0	0	4	14	2
-AAC	12	9	7	3	3	3	1	3	2	10	20	15
-AAA	8	10	11	2	3	2	3	2	2	13	21	7
-AAG	0	1	1	0	1	0	0	0	0	0	0	1
-AGT	0	2	1	0	0	0	1	0	1	2	1	0
-AGC	2	3	3	4	1	4	2	0	1	4	12	3
-GTT	1	1	8	3	2	3	3	2	0	3	5	8
-GTC	5	0	11	9	0	5	5	0	0	3	6	5
-GTA	10	6	23	7	0	7	10	2	2	8	14	10
-GTG	0	0	2	3	0	0	0	0	0	1	1	3
-GCT	1	4	11	3	0	1	4	1	0	3	3	4
-GCC	21	17	19	5	2	7	9	3	10	17	24	9
-GCA	11	8	16	9	1	10	8	2	4	10	26	14
-GCG	0	0	2	0	1	0	0	0	0	1	1	0
-GAT	1	0	4	2	0	0	0	0	0	0	2	4
-GAC	4	0	12	11	1	1	5	3	1	5	12	9
-GAA	10	5	9	12	1	4	9	6	2	10	9	6
-GAG	1	1	2	1	1	0	0	0	0	2	2	0
-GGT	3	0	9	0	1	3	2	1	0	2	2	2
-GGC	4	5	14	4	0	1	6	0	1	9	12	7
-GGA	11	12	21	3	0	5	12	3	2	16	12	13
-GGG	0	1	5	3	0	1	1	2	2	1	3	4
-TAA	1	0	0	0	1	0	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003345086.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	6	10	11	0	3	7	8	1	5	8	0	0	7	1	8	7	36	0	1	13	9	0	1	2	5	0	0	1	6	1	15	10	8	3	3	7	11	0	3	12	8	0	0	2	1	5	10	0	1	21	11	0	1	4	10	1	3	4	11	0	1	0	0	0
+1	ND2	YP_003345087.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	3	7	8	0	1	6	7	0	3	5	0	1	10	1	9	8	33	4	3	5	12	0	0	7	10	3	1	0	3	0	15	8	32	6	5	12	30	3	2	9	10	1	2	3	1	0	6	0	4	17	8	0	0	0	5	1	0	5	12	1	0	0	0	0
+2	COX1	YP_003345088.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	19	24	8	2	7	7	8	0	12	8	0	1	17	3	8	11	28	7	7	7	14	2	6	13	6	0	1	2	6	0	20	17	14	9	11	9	15	1	10	7	11	1	1	3	8	11	23	2	11	19	16	2	4	12	9	2	9	14	21	5	0	0	0	1
+3	COX2	YP_003345089.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	4	4	6	0	1	6	4	0	5	5	0	2	5	0	9	1	8	1	5	4	4	1	5	5	8	1	0	2	4	0	10	8	12	2	3	2	6	1	2	3	2	0	0	4	3	9	7	3	3	5	9	0	2	11	12	1	0	4	3	3	0	0	0	0
+4	ATP8	YP_003345090.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	2	2	1	0	0	1	1	0	0	0	0	0	5	0	0	0	2	0	1	1	5	1	1	1	2	0	0	0	0	0	1	2	2	1	0	2	2	0	1	3	3	1	0	1	2	0	0	0	0	2	1	1	0	1	1	1	1	0	0	0	1	0	0	0
+5	ATP6	YP_003345091.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	6	6	10	0	0	2	1	0	2	1	0	0	5	0	11	11	18	5	4	7	7	0	1	3	7	2	2	2	2	0	10	5	12	2	4	5	9	2	6	3	2	0	0	4	3	5	7	0	1	7	10	0	0	1	4	0	3	1	5	1	0	0	0	0
+6	COX3	YP_003345092.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	8	17	8	0	3	2	6	0	1	10	1	1	12	0	4	4	14	0	0	6	6	0	3	12	10	0	0	0	5	0	11	4	8	1	0	9	13	0	1	1	3	0	1	2	3	5	10	0	4	9	8	0	0	5	9	0	2	6	12	1	0	0	0	0
+7	ND3	YP_003345093.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	5	4	5	0	1	1	7	0	0	2	1	1	5	0	4	5	7	1	0	2	8	0	0	0	3	1	0	1	1	0	8	4	3	1	1	3	1	0	0	3	2	0	0	0	2	0	2	0	1	3	2	0	0	3	6	0	1	0	3	2	0	0	0	0
+8	ND4L	YP_003345094.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	3	5	6	1	0	6	3	0	1	0	1	2	1	0	1	6	7	0	0	2	0	0	0	5	2	0	0	0	1	1	2	1	4	2	1	1	3	0	0	2	2	0	1	1	0	0	2	0	0	10	4	0	0	1	2	0	0	1	2	2	1	0	0	0
+9	ND4	YP_003345095.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	8	5	20	1	7	6	10	0	6	8	1	4	16	4	13	19	33	5	1	11	12	1	2	9	11	0	0	1	10	0	30	11	24	3	4	17	20	3	4	10	13	0	2	4	3	3	8	1	3	17	10	1	0	5	10	2	2	9	16	1	0	0	0	0
+10	ND5	YP_003345096.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	13	25	15	0	3	6	16	1	3	9	3	4	14	0	7	14	41	7	2	12	17	0	1	10	21	2	1	1	6	1	29	27	27	9	9	23	28	4	14	20	21	0	1	12	5	6	14	1	3	24	26	1	2	12	9	2	2	12	12	3	1	0	0	0
+11	CYTB	YP_003345097.1	Nessorhamphus ingolfianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Anguilliformes, Derichthyidae, Nessorhamphus	13	17	18	1	3	5	11	0	6	8	1	2	12	1	8	21	18	2	2	5	15	0	6	7	5	0	0	0	8	1	8	11	15	3	1	5	14	0	2	15	7	1	0	3	8	5	10	3	4	9	14	0	4	9	6	0	2	7	13	4	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_002519407.1|ND1	YP_002519408.1|ND2	YP_002519409.1|COX1	YP_002519410.1|COX2	YP_002519411.1|ATP8	YP_002519412.1|ATP6	YP_002519413.1|COX3	YP_002519414.1|ND3	YP_002519415.1|ND4L	YP_002519416.1|ND4	YP_002519417.1|ND5	YP_002519419.1|CYTB
-TTT	9	4	17	3	2	8	8	5	4	9	22	9
-TTC	7	6	25	6	1	3	15	4	4	7	21	21
-TTA	12	12	13	8	2	6	3	6	4	17	13	10
-TTG	0	0	2	0	0	1	1	0	0	3	1	1
-TCT	1	1	6	1	0	1	3	0	0	7	3	4
-TCC	7	6	6	4	0	4	4	5	2	8	14	9
-TCA	11	8	12	4	1	1	4	1	3	7	15	9
-TCG	0	1	1	2	1	0	0	0	1	0	0	0
-TAT	5	4	9	6	0	1	4	1	0	8	3	6
-TAC	7	4	8	3	0	4	8	2	0	6	9	8
-TGT	0	0	1	0	0	0	0	0	0	1	4	1
-TGC	0	1	1	2	0	0	2	1	3	4	2	2
-TGA	6	10	16	5	4	4	10	5	0	17	13	12
-TGG	2	1	1	0	1	1	2	0	1	3	1	1
-CTT	6	11	7	4	0	8	9	4	4	14	18	9
-CTC	10	11	13	4	1	12	8	8	4	19	14	10
-CTA	30	27	21	11	1	18	10	8	7	26	34	25
-CTG	4	6	7	1	0	2	1	0	3	8	8	6
-CCT	4	2	3	3	2	2	0	0	0	3	4	1
-CCC	5	6	4	5	4	4	4	3	1	8	9	5
-CCA	13	11	18	6	3	10	8	5	1	15	16	13
-CCG	2	0	3	0	0	1	0	0	0	2	1	2
-CAT	1	0	5	4	1	2	5	0	0	3	4	1
-CAC	4	6	14	6	1	1	11	0	4	9	12	11
-CAA	4	13	6	8	2	8	8	2	3	10	17	4
-CAG	3	1	2	0	0	0	1	1	0	2	2	2
-CGT	0	1	0	2	0	1	0	1	1	0	0	1
-CGC	1	0	2	0	0	2	1	0	1	3	0	0
-CGA	5	3	6	4	0	3	4	1	1	8	9	7
-CGG	2	0	0	0	0	0	0	0	0	0	1	0
-ATT	15	15	23	15	4	17	7	7	1	18	30	14
-ATC	8	7	13	3	1	8	8	2	1	20	26	17
-ATA	7	12	14	7	1	8	3	1	5	22	25	8
-ATG	3	7	9	5	1	2	5	1	1	4	7	3
-ACT	4	6	4	1	2	2	2	0	2	2	4	2
-ACC	7	21	9	6	1	7	4	2	2	19	26	7
-ACA	11	21	23	5	0	7	14	4	3	22	25	11
-ACG	1	2	2	0	0	1	1	0	0	1	1	1
-AAT	4	4	8	3	2	3	0	0	1	1	11	4
-AAC	8	6	9	2	2	7	1	3	1	11	15	13
-AAA	7	8	7	4	2	1	1	1	0	9	20	9
-AAG	0	1	1	0	0	0	1	0	0	1	3	0
-AGT	0	3	1	0	0	0	0	0	0	3	1	0
-AGC	2	2	3	4	1	4	3	0	2	2	11	1
-GTT	3	3	12	6	1	6	2	1	1	4	7	4
-GTC	5	1	11	5	0	5	6	2	0	9	7	9
-GTA	10	3	18	7	1	4	9	0	1	8	9	11
-GTG	1	0	4	2	0	2	0	3	0	1	4	1
-GCT	3	2	7	3	1	4	1	1	2	3	6	1
-GCC	19	21	16	7	1	7	10	4	7	16	32	15
-GCA	11	21	21	5	3	8	10	4	6	11	15	16
-GCG	1	0	1	2	0	0	2	0	0	3	0	0
-GAT	1	1	3	3	0	0	2	2	0	1	6	3
-GAC	3	2	11	9	1	1	3	2	1	2	9	8
-GAA	9	5	8	10	2	3	9	4	2	6	8	7
-GAG	2	0	2	5	1	1	1	2	1	5	3	1
-GGT	4	0	8	0	0	1	3	2	0	0	1	1
-GGC	2	3	10	1	0	3	5	1	2	9	9	5
-GGA	8	11	22	7	0	6	11	4	3	12	17	17
-GGG	4	4	7	1	0	1	3	0	1	8	4	1
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002519407.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	9	7	12	0	1	7	11	0	5	7	0	0	6	2	6	10	30	4	4	5	13	2	1	4	4	3	0	1	5	2	15	8	7	3	4	7	11	1	4	8	7	0	0	2	3	5	10	1	3	19	11	1	1	3	9	2	4	2	8	4	1	0	0	0
+1	ND2	YP_002519408.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	4	6	12	0	1	6	8	1	4	4	0	1	10	1	11	11	27	6	2	6	11	0	0	6	13	1	1	0	3	0	15	7	12	7	6	21	21	2	4	6	8	1	3	2	3	1	3	0	2	21	21	0	1	2	5	0	0	3	11	4	0	0	0	0
+2	COX1	YP_002519409.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	17	25	13	2	6	6	12	1	9	8	1	1	16	1	7	13	21	7	3	4	18	3	5	14	6	2	0	2	6	0	23	13	14	9	4	9	23	2	8	9	7	1	1	3	12	11	18	4	7	16	21	1	3	11	8	2	8	10	22	7	1	0	0	0
+3	COX2	YP_002519410.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	3	6	8	0	1	4	4	2	6	3	0	2	5	0	4	4	11	1	3	5	6	0	4	6	8	0	2	0	4	0	15	3	7	5	1	6	5	0	3	2	4	0	0	4	6	5	7	2	3	7	5	2	3	9	10	5	0	1	7	1	0	0	0	0
+4	ATP8	YP_002519411.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	2	1	2	0	0	0	1	1	0	0	0	0	4	1	0	1	1	0	2	4	3	0	1	1	2	0	0	0	0	0	4	1	1	1	2	1	0	0	2	2	2	0	0	1	1	0	1	0	1	1	3	0	0	1	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_002519412.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	8	3	6	1	1	4	1	0	1	4	0	0	4	1	8	12	18	2	2	4	10	1	2	1	8	0	1	2	3	0	17	8	8	2	2	7	7	1	3	7	1	0	0	4	6	5	4	2	4	7	8	0	0	1	3	1	1	3	6	1	1	0	0	0
+6	COX3	YP_002519413.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	8	15	3	1	3	4	4	0	4	8	0	2	10	2	9	8	10	1	0	4	8	0	5	11	8	1	0	1	4	0	7	8	3	5	2	4	14	1	0	1	1	1	0	3	2	6	9	0	1	10	10	2	2	3	9	1	3	5	11	3	0	0	0	0
+7	ND3	YP_002519414.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	5	4	6	0	0	5	1	0	1	2	0	1	5	0	4	8	8	0	0	3	5	0	0	0	2	1	1	0	1	0	7	2	1	1	0	2	4	0	0	3	1	0	0	0	1	2	0	3	1	4	4	0	2	2	4	2	2	1	4	0	0	0	0	0
+8	ND4L	YP_002519415.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	4	4	4	0	0	2	3	1	0	0	0	3	0	1	4	4	7	3	0	1	1	0	0	4	3	0	1	1	1	0	1	1	5	1	2	2	3	0	1	1	0	0	0	2	1	0	1	0	2	7	6	0	0	1	2	1	0	2	3	1	1	0	0	0
+9	ND4	YP_002519416.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	9	7	17	3	7	8	7	0	8	6	1	4	17	3	14	19	26	8	3	8	15	2	3	9	10	2	0	3	8	0	18	20	22	4	2	19	22	1	1	11	9	1	3	2	4	9	8	1	3	16	11	3	1	2	6	5	0	9	12	8	0	0	0	0
+10	ND5	YP_002519417.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	22	21	13	1	3	14	15	0	3	9	4	2	13	1	18	14	34	8	4	9	16	1	4	12	17	2	0	0	9	1	30	26	25	7	4	26	25	1	11	15	20	3	1	11	7	7	9	4	6	32	15	0	6	9	8	3	1	9	17	4	1	0	0	0
+11	CYTB	YP_002519419.1	Sinogastromyzon puliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Sinogastromyzon	9	21	10	1	4	9	9	0	6	8	1	2	12	1	9	10	25	6	1	5	13	2	1	11	4	2	1	0	7	0	14	17	8	3	2	7	11	1	4	13	9	0	0	1	4	9	11	1	1	15	16	0	3	8	7	1	1	5	17	1	0	0	0	0

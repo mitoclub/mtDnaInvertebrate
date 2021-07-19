@@ -1,65 +1,13 @@
-	YP_913341.1|ND1	YP_913342.1|ND2	YP_913343.1|COX1	YP_913344.1|COX2	YP_913345.1|ATP8	YP_913346.1|ATP6	YP_913347.1|COX3	YP_913348.1|ND3	YP_913349.1|ND4L	YP_913350.1|ND4	YP_913351.1|ND5	YP_913353.1|CYTB
-TTT	10	4	21	2	2	10	10	7	5	9	13	12
-TTC	7	5	21	7	1	4	13	2	3	7	28	16
-TTA	12	14	6	6	2	11	2	7	5	10	16	16
-TTG	1	4	1	1	0	2	0	0	0	4	3	2
-TCT	3	2	9	2	1	0	1	1	1	6	8	4
-TCC	3	8	1	6	0	2	5	4	3	7	11	7
-TCA	13	8	15	5	2	1	4	2	2	14	9	10
-TCG	0	0	1	0	0	1	1	0	0	1	2	2
-TAT	9	4	12	7	0	3	3	1	0	5	7	5
-TAC	2	4	6	2	0	0	8	1	0	9	6	10
-TGT	1	1	0	1	0	0	1	0	1	4	2	0
-TGC	1	0	1	1	0	0	1	1	2	1	3	3
-TGA	7	10	15	5	5	5	9	5	1	16	11	11
-TGG	1	1	2	0	0	0	3	0	0	4	3	1
-CTT	12	12	19	7	0	18	8	3	4	17	23	12
-CTC	6	4	7	0	1	4	5	4	3	10	7	4
-CTA	21	26	20	12	1	9	15	10	10	35	31	25
-CTG	9	5	8	1	0	4	3	1	1	7	9	2
-CCT	5	2	6	1	0	3	5	1	1	3	7	4
-CCC	8	7	6	3	4	4	4	3	0	11	6	4
-CCA	11	9	14	9	4	11	2	3	1	14	13	11
-CCG	0	1	2	1	0	0	1	1	0	0	4	1
-CAT	0	0	6	4	2	1	2	0	3	5	3	2
-CAC	5	6	12	6	0	2	14	1	1	7	9	10
-CAA	6	11	8	7	1	6	9	3	3	9	12	5
-CAG	1	3	0	1	0	2	0	0	0	3	6	1
-CGT	3	0	2	1	0	1	2	0	0	0	0	0
-CGC	0	0	1	1	0	0	1	0	1	0	1	1
-CGA	4	2	4	3	0	5	1	1	1	8	8	7
-CGG	1	2	1	1	0	0	1	1	1	3	3	0
-ATT	17	21	28	15	4	15	7	7	2	30	32	17
-ATC	4	7	9	4	2	4	8	0	0	13	23	12
-ATA	7	17	19	8	1	4	5	1	4	22	23	9
-ATG	4	4	6	5	1	6	2	2	1	6	13	5
-ACT	3	7	10	1	3	4	3	0	3	1	7	4
-ACC	5	17	3	4	0	4	5	5	1	13	23	8
-ACA	11	18	19	5	1	11	11	4	4	17	22	10
-ACG	0	1	3	1	0	0	4	0	0	3	3	1
-AAT	8	8	8	1	2	6	1	2	1	4	20	7
-AAC	5	2	8	3	2	4	0	1	1	8	11	10
-AAA	6	4	7	3	4	1	2	0	0	9	21	9
-AAG	1	4	1	1	0	0	0	1	0	2	3	1
-AGT	0	2	0	2	1	0	1	0	1	3	4	0
-AGC	3	8	4	2	0	4	2	0	3	2	10	1
-GTT	3	3	14	6	0	3	6	3	0	6	11	8
-GTC	2	1	3	3	0	4	2	1	0	1	6	6
-GTA	14	5	20	7	0	8	8	2	2	9	9	6
-GTG	2	1	7	3	1	5	1	0	0	2	3	4
-GCT	3	6	8	3	0	3	6	0	2	6	5	5
-GCC	17	17	22	7	1	8	7	1	4	16	23	12
-GCA	13	14	17	5	1	8	8	6	6	14	16	14
-GCG	0	0	2	1	0	1	1	0	1	2	4	1
-GAT	2	1	5	3	0	0	3	1	0	0	5	5
-GAC	2	2	10	10	1	1	2	3	1	3	9	7
-GAA	9	4	9	11	3	3	5	5	2	10	10	3
-GAG	2	1	2	4	0	1	5	1	1	1	1	2
-GGT	1	0	13	2	0	2	2	0	1	3	2	3
-GGC	5	2	6	4	0	3	5	2	1	7	5	4
-GGA	10	9	16	2	0	4	11	5	3	12	16	12
-GGG	3	7	10	1	0	1	4	0	0	6	8	6
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_913341.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	10	7	12	1	3	3	13	0	9	2	1	1	7	1	12	6	21	9	5	8	11	0	0	5	6	1	3	0	4	1	17	4	7	4	3	5	11	0	8	5	6	1	0	3	3	2	14	2	3	17	13	0	2	2	9	2	1	5	10	3	0	1	0	0
+1	ND2	YP_913342.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	4	5	14	4	2	8	8	0	4	4	1	0	10	1	12	4	26	5	2	7	9	1	0	6	11	3	0	0	2	2	21	7	17	4	7	17	18	1	8	2	4	4	2	8	3	1	5	1	6	17	14	0	1	2	4	1	0	2	9	7	0	1	0	0
+2	COX1	YP_913343.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	21	21	6	1	9	1	15	1	12	6	0	1	15	2	19	7	20	8	6	6	14	2	6	12	8	0	2	1	4	1	28	9	19	6	10	3	19	3	8	8	7	1	0	4	14	3	20	7	8	22	17	2	5	10	9	2	13	6	16	10	1	0	0	0
+3	COX2	YP_913344.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	2	7	6	1	2	6	5	0	7	2	1	1	5	0	7	0	12	1	1	3	9	1	4	6	7	1	1	1	3	1	15	4	8	5	1	4	5	1	1	3	3	1	2	2	6	3	7	3	3	7	5	1	3	10	11	4	2	4	2	1	0	0	0	0
+4	ATP8	YP_913345.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	2	1	2	0	1	0	2	0	0	0	0	0	5	0	0	1	1	0	0	4	4	0	2	0	1	0	0	0	0	0	4	2	1	1	3	0	1	0	2	2	4	0	1	0	0	0	0	1	0	1	1	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_913346.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	10	4	11	2	0	2	1	1	3	0	0	0	5	0	18	4	9	4	3	4	11	0	1	2	6	2	1	0	5	0	15	4	4	6	4	4	11	0	6	4	1	0	0	4	3	4	8	5	3	8	8	1	0	1	3	1	2	3	4	1	1	0	0	0
+6	COX3	YP_913347.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	10	13	2	0	1	5	4	1	3	8	1	1	9	3	8	5	15	3	5	4	2	1	2	14	9	0	2	1	1	1	7	8	5	2	3	5	11	4	1	0	2	0	1	2	6	2	8	1	6	7	8	1	3	2	5	5	2	5	11	4	0	0	0	0
+7	ND3	YP_913348.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	7	2	7	0	1	4	2	0	1	1	0	1	5	0	3	4	10	1	1	3	3	1	0	1	3	0	0	0	1	1	7	0	1	2	0	5	4	0	2	1	0	1	0	0	3	1	2	0	0	1	6	0	1	3	5	1	0	2	5	0	0	0	0	0
+8	ND4L	YP_913349.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	5	3	5	0	1	3	2	0	0	0	1	2	1	0	4	3	10	1	1	0	1	0	3	1	3	0	0	1	1	1	2	0	4	1	3	1	4	0	1	1	0	0	1	3	0	0	2	0	2	4	6	1	0	1	2	1	1	1	3	0	1	0	0	0
+9	ND4	YP_913350.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	9	7	10	4	6	7	14	1	5	9	4	1	16	4	17	10	35	7	3	11	14	0	5	7	9	3	0	0	8	3	30	13	22	6	1	13	17	3	4	8	9	2	3	2	6	1	9	2	6	16	14	2	0	3	10	1	3	7	12	6	0	0	0	0
+10	ND5	YP_913351.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	13	28	16	3	8	11	9	2	7	6	2	3	11	3	23	7	31	9	7	6	13	4	3	9	12	6	0	1	8	3	32	23	23	13	7	23	22	3	20	11	21	3	4	10	11	6	9	3	5	23	16	4	5	9	10	1	2	5	16	8	1	0	0	0
+11	CYTB	YP_913353.1	Gnathopogon elongatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gnathopogon	12	16	16	2	4	7	10	2	5	10	0	3	11	1	12	4	25	2	4	4	11	1	2	10	5	1	0	1	7	0	17	12	9	5	4	8	10	1	7	10	9	1	0	1	8	6	6	4	5	12	14	1	5	7	3	2	3	4	12	6	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_025724.1|COX1	YP_025725.1|COX2	YP_025726.1|ATP8	YP_025727.1|ATP6	YP_025728.1|COX3	YP_025729.1|ND3	YP_025733.1|ND6	YP_025734.1|CYTB	YP_025736.1|ND2
-TTT	34	14	3	14	22	11	14	32	27
-TTC	10	3	1	8	5	2	0	7	8
-TTA	32	14	3	18	15	11	14	27	32
-TTG	5	0	0	3	1	0	1	3	0
-TCT	16	8	0	6	10	5	5	8	12
-TCC	6	4	2	2	3	1	2	4	12
-TCA	10	9	4	9	4	4	5	9	13
-TCG	1	0	0	0	0	0	0	0	1
-TAT	10	7	4	3	4	2	6	9	9
-TAC	2	0	2	1	4	1	2	4	2
-TGT	0	1	0	0	3	1	0	0	2
-TGC	0	1	0	0	0	0	0	0	0
-TGA	13	5	3	2	10	2	4	8	6
-TGG	2	1	0	0	2	0	0	2	3
-CTT	12	3	1	5	7	3	1	7	10
-CTC	1	4	0	0	1	0	1	6	2
-CTA	15	4	2	8	11	2	3	10	9
-CTG	0	3	0	1	0	0	0	2	3
-CCT	18	2	2	7	8	1	5	5	5
-CCC	4	6	1	0	0	1	1	7	1
-CCA	5	5	0	2	2	5	2	10	4
-CCG	0	1	0	0	0	0	0	1	2
-CAT	16	3	1	2	11	0	0	10	4
-CAC	4	1	1	1	1	0	1	3	0
-CAA	7	7	0	4	9	1	3	8	7
-CAG	1	1	1	0	0	0	1	0	0
-CGT	4	3	0	0	1	0	0	1	0
-CGC	0	0	0	0	0	0	0	2	0
-CGA	5	2	0	3	1	2	0	3	1
-CGG	1	1	0	0	1	0	0	0	1
-ATT	48	22	7	25	16	16	16	29	31
-ATC	5	2	0	2	6	3	6	9	14
-ATA	28	8	2	19	9	10	14	19	19
-ATG	3	1	0	3	0	1	4	3	3
-ACT	16	5	0	6	6	1	7	8	5
-ACC	1	0	0	4	3	2	1	4	4
-ACA	16	5	1	5	10	1	3	5	5
-ACG	0	0	1	1	0	0	0	1	0
-AAT	17	6	1	10	5	3	3	14	16
-AAC	3	3	2	2	2	0	1	4	2
-AAA	6	6	1	3	5	2	3	7	10
-AAG	1	0	1	2	1	1	0	1	1
-AGT	3	0	0	2	1	0	0	0	2
-AGC	0	1	0	2	0	0	0	1	2
-AGA	5	3	0	4	6	2	2	10	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	12	4	1	4	5	1	3	9	4
-GTC	1	2	0	2	1	0	0	5	0
-GTA	11	6	0	3	7	1	4	7	2
-GTG	3	0	0	1	0	0	0	0	1
-GCT	17	3	0	4	6	1	2	8	1
-GCC	6	1	1	2	2	0	0	3	2
-GCA	7	2	0	6	5	0	0	5	5
-GCG	2	1	0	0	1	0	0	0	0
-GAT	12	6	0	1	2	2	0	5	0
-GAC	2	2	0	0	1	0	0	0	0
-GAA	7	11	0	3	4	4	1	4	3
-GAG	1	1	0	1	2	0	0	2	0
-GGT	5	0	0	0	1	1	1	4	1
-GGC	4	0	0	0	1	0	0	1	1
-GGA	23	5	0	1	6	0	1	13	4
-GGG	11	3	0	3	7	2	0	4	3
-TAA	1	0	1	0	0	0	1	1	1
-TAG	0	0	0	0	1	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_025724.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	34	10	32	5	16	6	10	1	10	2	0	0	13	2	12	1	15	0	18	4	5	0	16	4	7	1	4	0	5	1	48	5	28	3	16	1	16	0	17	3	6	1	3	0	5	0	12	1	11	3	17	6	7	2	12	2	7	1	5	4	23	11	1	0
+1	COX2	YP_025725.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	14	3	14	0	8	4	9	0	7	0	1	1	5	1	3	4	4	3	2	6	5	1	3	1	7	1	3	0	2	1	22	2	8	1	5	0	5	0	6	3	6	0	0	1	3	0	4	2	6	0	3	1	2	1	6	2	11	1	0	0	5	3	0	0
+2	ATP8	YP_025726.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	3	1	3	0	0	2	4	0	4	2	0	0	3	0	1	0	2	0	2	1	0	0	1	1	0	1	0	0	0	0	7	0	2	0	0	0	1	1	1	2	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_025727.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	14	8	18	3	6	2	9	0	3	1	0	0	2	0	5	0	8	1	7	0	2	0	2	1	4	0	0	0	3	0	25	2	19	3	6	4	5	1	10	2	3	2	2	2	4	0	4	2	3	1	4	2	6	0	1	0	3	1	0	0	1	3	0	0
+4	COX3	YP_025728.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	22	5	15	1	10	3	4	0	4	4	3	0	10	2	7	1	11	0	8	0	2	0	11	1	9	0	1	0	1	1	16	6	9	0	6	3	10	0	5	2	5	1	1	0	6	0	5	1	7	0	6	2	5	1	2	1	4	2	1	1	6	7	0	1
+5	ND3	YP_025729.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	11	2	11	0	5	1	4	0	2	1	1	0	2	0	3	0	2	0	1	1	5	0	0	0	1	0	0	0	2	0	16	3	10	1	1	2	1	0	3	0	2	1	0	0	2	0	1	0	1	0	1	0	0	0	2	0	4	0	1	0	0	2	0	1
+6	ND6	YP_025733.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	14	0	14	1	5	2	5	0	6	2	0	0	4	0	1	1	3	0	5	1	2	0	0	1	3	1	0	0	0	0	16	6	14	4	7	1	3	0	3	1	3	0	0	0	2	0	3	0	4	0	2	0	0	0	0	0	1	0	1	0	1	0	1	0
+7	CYTB	YP_025734.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	32	7	27	3	8	4	9	0	9	4	0	0	8	2	7	6	10	2	5	7	10	1	10	3	8	0	1	2	3	0	29	9	19	3	8	4	5	1	14	4	7	1	0	1	10	0	9	5	7	0	8	3	5	0	5	0	4	2	4	1	13	4	1	0
+8	ND2	YP_025736.1	Songthela hangzhouensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Mesothelae, Liphistiidae, Songthela	27	8	32	0	12	12	13	1	9	2	2	0	6	3	10	2	9	3	5	1	4	2	4	0	7	0	0	0	1	1	31	14	19	3	5	4	5	0	16	2	10	1	2	2	3	0	4	0	2	1	1	2	5	0	0	0	3	0	1	1	4	3	1	0

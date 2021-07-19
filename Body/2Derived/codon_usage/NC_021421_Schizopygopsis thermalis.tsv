@@ -1,65 +1,13 @@
-	YP_008081217.1	YP_008081218.1	YP_008081219.1	YP_008081220.1	YP_008081221.1	YP_008081222.1	YP_008081223.1	YP_008081224.1	YP_008081225.1	YP_008081226.1	YP_008081227.1	YP_008081229.1
-TTT	11	5	20	3	0	7	12	4	5	12	21	16
-TTC	8	4	21	6	3	3	13	5	3	6	20	16
-TTA	6	4	12	7	4	10	9	9	2	20	9	5
-TTG	3	6	2	1	2	4	0	0	2	7	7	2
-TCT	4	5	7	4	0	1	2	0	1	3	8	4
-TCC	7	4	7	5	2	0	2	3	3	8	4	6
-TCA	5	5	12	3	0	4	5	2	2	12	11	7
-TCG	4	1	2	2	0	0	1	0	0	2	4	2
-TAT	8	3	12	8	0	5	4	1	0	9	5	9
-TAC	4	5	6	2	0	0	6	1	0	5	6	5
-TGT	0	1	0	1	0	0	0	0	2	2	1	1
-TGC	0	0	1	1	0	1	2	1	1	3	3	2
-TGA	7	7	15	4	5	4	10	2	0	14	9	9
-TGG	1	4	2	1	0	0	2	3	1	6	4	3
-CTT	15	15	23	7	1	11	4	2	2	16	26	10
-CTC	9	12	5	1	0	4	6	5	5	17	17	7
-CTA	21	17	19	8	0	17	11	7	9	20	26	26
-CTG	4	9	4	4	0	4	2	2	3	3	6	11
-CCT	3	4	8	1	1	2	2	1	0	9	12	1
-CCC	15	8	4	4	1	5	5	0	1	4	6	4
-CCA	4	6	11	9	4	8	4	6	1	12	7	15
-CCG	2	1	5	0	1	1	2	1	0	1	1	2
-CAT	1	5	8	3	1	2	12	0	2	4	5	5
-CAC	3	3	11	6	1	1	4	0	2	7	9	7
-CAA	6	10	8	8	1	9	7	1	2	12	12	4
-CAG	1	2	0	0	0	0	2	2	1	3	6	1
-CGT	0	1	2	1	0	1	1	2	0	0	1	0
-CGC	0	1	1	2	0	0	1	0	1	2	1	2
-CGA	4	1	2	2	0	4	2	0	2	7	6	5
-CGG	4	1	3	1	0	0	1	0	0	2	2	1
-ATT	10	16	26	13	2	16	8	7	2	32	34	20
-ATC	14	6	11	5	1	5	6	1	0	5	19	9
-ATA	5	10	16	9	1	6	5	2	3	14	20	6
-ATG	6	10	7	3	1	4	3	2	2	15	12	7
-ACT	4	9	6	4	1	5	4	2	3	7	12	4
-ACC	6	21	8	4	1	3	7	3	3	11	22	9
-ACA	7	12	19	3	1	10	10	3	2	12	22	7
-ACG	1	5	2	0	1	1	2	0	1	2	5	1
-AAT	7	2	5	3	1	5	0	1	1	4	13	6
-AAC	5	5	10	3	3	4	1	1	0	6	15	11
-AAA	5	6	7	3	3	1	2	0	0	7	15	5
-AAG	2	3	1	1	0	0	0	1	0	2	8	4
-AGT	2	4	0	1	0	0	0	0	0	1	2	1
-AGC	2	4	6	2	0	4	3	0	4	5	9	1
-GTT	6	5	11	6	1	7	5	1	1	4	15	5
-GTC	1	1	7	4	2	0	2	2	0	3	4	7
-GTA	11	4	17	9	1	10	8	0	1	13	9	12
-GTG	2	6	9	1	0	3	2	2	0	2	4	4
-GCT	7	5	14	0	1	3	5	2	4	7	7	5
-GCC	17	18	19	7	0	9	9	4	2	15	28	11
-GCA	10	16	11	7	1	7	7	4	5	13	14	15
-GCG	1	4	1	1	0	0	1	0	1	6	5	0
-GAT	3	1	5	3	0	1	1	1	1	1	5	5
-GAC	1	2	9	9	0	0	5	4	0	3	8	5
-GAA	9	4	9	13	3	3	7	6	3	7	9	6
-GAG	2	1	2	2	0	1	2	1	0	4	3	1
-GGT	3	1	8	1	1	1	0	1	2	6	2	6
-GGC	2	9	11	2	1	4	6	1	1	8	8	8
-GGA	5	6	19	4	0	5	10	3	3	8	14	7
-GGG	8	2	7	2	0	1	6	1	0	9	9	4
-TAA	0	0	1	0	0	1	0	0	1	0	1	0
-TAG	1	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_008081217.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	11	8	6	3	4	7	5	4	8	4	0	0	7	1	15	9	21	4	3	15	4	2	1	3	6	1	0	0	4	4	10	14	5	6	4	6	7	1	7	5	5	2	2	2	6	1	11	2	7	17	10	1	3	1	9	2	3	2	5	8	0	1	0	0
+1	None	YP_008081218.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	5	4	4	6	5	4	5	1	3	5	1	0	7	4	15	12	17	9	4	8	6	1	5	3	10	2	1	1	1	1	16	6	10	10	9	21	12	5	2	5	6	3	4	4	5	1	4	6	5	18	16	4	1	2	4	1	1	9	6	2	0	0	0	0
+2	None	YP_008081219.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	20	21	12	2	7	7	12	2	12	6	0	1	15	2	23	5	19	4	8	4	11	5	8	11	8	0	2	1	2	3	26	11	16	7	6	8	19	2	5	10	7	1	0	6	11	7	17	9	14	19	11	1	5	9	9	2	8	11	19	7	1	0	0	0
+3	None	YP_008081220.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	3	6	7	1	4	5	3	2	8	2	1	1	4	1	7	1	8	4	1	4	9	0	3	6	8	0	1	2	2	1	13	5	9	3	4	4	3	0	3	3	3	1	1	2	6	4	9	1	0	7	7	1	3	9	13	2	1	2	4	2	0	0	0	0
+4	None	YP_008081221.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	0	3	4	2	0	2	0	0	0	0	0	0	5	0	1	0	0	0	1	1	4	1	1	1	1	0	0	0	0	0	2	1	1	1	1	1	1	1	1	3	3	0	0	0	1	2	1	0	1	0	1	0	0	0	3	0	1	1	0	0	0	1	0	0
+5	None	YP_008081222.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	7	3	10	4	1	0	4	0	5	0	0	1	4	0	11	4	17	4	2	5	8	1	2	1	9	0	1	0	4	0	16	5	6	4	5	3	10	1	5	4	1	0	0	4	7	0	10	3	3	9	7	0	1	0	3	1	1	4	5	1	1	0	0	0
+6	None	YP_008081223.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	12	13	9	0	2	2	5	1	4	6	0	2	10	2	4	6	11	2	2	5	4	2	12	4	7	2	1	1	2	1	8	6	5	3	4	7	10	2	0	1	2	0	0	3	5	2	8	2	5	9	7	1	1	5	7	2	0	6	10	6	0	0	0	0
+7	None	YP_008081224.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	4	5	9	0	0	3	2	0	1	1	0	1	2	3	2	5	7	2	1	0	6	1	0	0	1	2	2	0	0	0	7	1	2	2	2	3	3	0	1	1	0	1	0	0	1	2	0	2	2	4	4	0	1	4	6	1	1	1	3	1	0	0	0	0
+8	None	YP_008081225.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	5	3	2	2	1	3	2	0	0	0	2	1	0	1	2	5	9	3	0	1	1	0	2	2	2	1	0	1	2	0	2	0	3	2	3	3	2	1	1	0	0	0	0	4	1	0	1	0	4	2	5	1	1	0	3	0	2	1	3	0	1	0	0	0
+9	None	YP_008081226.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	12	6	20	7	3	8	12	2	9	5	2	3	14	6	16	17	20	3	9	4	12	1	4	7	12	3	0	2	7	2	32	5	14	15	7	11	12	2	4	6	7	2	1	5	4	3	13	2	7	15	13	6	1	3	7	4	6	8	8	9	0	0	0	0
+10	None	YP_008081227.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	21	20	9	7	8	4	11	4	5	6	1	3	9	4	26	17	26	6	12	6	7	1	5	9	12	6	1	1	6	2	34	19	20	12	12	22	22	5	13	15	15	8	2	9	15	4	9	4	7	28	14	5	5	8	9	3	2	8	14	9	1	0	0	0
+11	None	YP_008081229.1	Schizopygopsis thermalis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Schizopygopsis	16	16	5	2	4	6	7	2	9	5	1	2	9	3	10	7	26	11	1	4	15	2	5	7	4	1	0	2	5	1	20	9	6	7	4	9	7	1	6	11	5	4	1	1	5	7	12	4	5	11	15	0	5	5	6	1	6	8	7	4	0	0	0	0

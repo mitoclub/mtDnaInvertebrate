@@ -1,65 +1,13 @@
-	YP_009311099.1|ND1	YP_009311100.1|ND2	YP_009311101.1|COX1	YP_009311102.1|COX2	YP_009311103.1|ATP8	YP_009311104.1|ATP6	YP_009311105.1|COX3	YP_009311106.1|ND3	YP_009311107.1|ND4L	YP_009311108.1|ND4	YP_009311109.1|ND5	YP_009311111.1|CYTB
-TTT	7	2	18	4	1	6	7	3	6	9	17	11
-TTC	10	10	22	4	2	6	15	6	2	8	24	21
-TTA	18	18	14	8	3	8	6	9	4	23	16	14
-TTG	1	2	3	0	0	2	0	1	0	1	0	1
-TCT	2	1	6	5	0	0	1	1	2	5	3	0
-TCC	2	6	7	4	2	3	4	4	3	5	9	9
-TCA	13	6	14	3	0	1	7	1	1	11	15	11
-TCG	1	1	0	1	0	1	0	0	0	1	1	0
-TAT	10	2	13	7	0	3	3	2	0	8	4	2
-TAC	2	6	6	2	0	2	9	0	0	6	9	12
-TGT	0	1	0	0	0	0	1	0	0	1	3	1
-TGC	0	0	1	2	0	0	1	1	3	4	2	2
-TGA	8	9	13	5	5	4	12	5	0	18	12	13
-TGG	0	2	4	0	0	1	0	0	1	1	1	0
-CTT	8	5	13	5	0	8	5	2	3	13	14	3
-CTC	8	10	12	0	0	5	5	1	1	9	14	7
-CTA	22	27	21	16	2	19	14	10	14	36	40	28
-CTG	5	1	1	0	0	5	3	2	1	8	9	5
-CCT	5	4	6	0	1	0	3	0	2	1	4	4
-CCC	7	6	6	3	1	4	3	3	0	8	7	5
-CCA	12	10	14	10	6	12	6	5	0	17	16	11
-CCG	0	0	2	1	0	1	1	0	0	0	0	1
-CAT	2	2	4	4	1	2	7	0	1	3	3	2
-CAC	3	4	15	6	1	1	9	1	3	9	11	10
-CAA	6	14	7	7	1	7	8	3	3	10	16	6
-CAG	1	0	1	1	0	1	1	0	0	5	2	0
-CGT	0	0	1	0	0	0	1	0	0	0	1	1
-CGC	1	1	0	2	0	1	0	0	2	3	2	1
-CGA	6	3	6	4	0	5	4	2	1	8	7	5
-CGG	1	0	1	0	0	0	0	0	0	0	0	1
-ATT	12	22	29	12	3	16	10	6	1	26	39	17
-ATC	9	4	9	4	3	7	5	2	0	14	21	17
-ATA	10	20	14	9	0	8	8	3	5	20	32	10
-ATG	1	1	9	3	1	2	1	1	1	7	5	2
-ACT	2	8	4	6	2	3	1	0	2	5	11	3
-ACC	12	22	12	1	2	4	5	5	2	13	18	10
-ACA	10	22	17	4	1	13	15	3	5	21	26	11
-ACG	0	1	2	0	0	0	0	0	0	0	1	0
-AAT	5	4	10	3	2	6	0	1	0	5	9	7
-AAC	7	7	5	3	1	4	1	1	2	7	20	10
-AAA	7	9	8	4	3	1	2	1	0	9	22	9
-AAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGT	1	2	1	0	1	0	0	0	0	1	2	0
-AGC	2	4	4	3	0	4	3	1	2	5	9	1
-GTT	3	2	7	6	0	3	4	1	1	6	7	5
-GTC	3	0	3	4	0	0	4	1	0	1	5	3
-GTA	10	4	25	10	2	9	7	1	1	8	10	9
-GTG	4	0	8	2	0	4	1	2	0	3	1	4
-GCT	2	3	6	4	1	5	2	1	1	7	8	4
-GCC	16	16	23	4	0	6	11	3	7	14	23	8
-GCA	14	17	16	7	1	8	9	4	5	13	19	20
-GCG	0	1	2	1	0	0	0	0	0	1	2	0
-GAT	1	2	6	2	0	0	0	3	0	0	5	2
-GAC	3	1	8	10	2	1	5	1	1	3	8	9
-GAA	7	5	9	13	1	4	9	5	2	9	12	7
-GAG	4	0	2	2	1	0	1	1	1	2	0	0
-GGT	1	0	11	3	0	0	0	1	1	2	3	3
-GGC	3	3	7	2	1	3	4	1	1	8	9	7
-GGA	8	12	17	4	0	8	13	5	4	15	17	13
-GGG	6	3	11	0	0	0	4	0	0	4	2	2
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311099.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	7	10	18	1	2	2	13	1	10	2	0	0	8	0	8	8	22	5	5	7	12	0	2	3	6	1	0	1	6	1	12	9	10	1	2	12	10	0	5	7	7	0	1	2	3	3	10	4	2	16	14	0	1	3	7	4	1	3	8	6	1	0	0	0
+1	ND2	YP_009311100.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	2	10	18	2	1	6	6	1	2	6	1	0	9	2	5	10	27	1	4	6	10	0	2	4	14	0	0	1	3	0	22	4	20	1	8	22	22	1	4	7	9	0	2	4	2	0	4	0	3	16	17	1	2	1	5	0	0	3	12	3	0	0	0	0
+2	COX1	YP_009311101.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	18	22	14	3	6	7	14	0	13	6	0	1	13	4	13	12	21	1	6	6	14	2	4	15	7	1	1	0	6	1	29	9	14	9	4	12	17	2	10	5	8	0	1	4	7	3	25	8	6	23	16	2	6	8	9	2	11	7	17	11	1	0	0	0
+3	COX2	YP_009311102.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	4	4	8	0	5	4	3	1	7	2	0	2	5	0	5	0	16	0	0	3	10	1	4	6	7	1	0	2	4	0	12	4	9	3	6	1	4	0	3	3	4	0	0	3	6	4	10	2	4	4	7	1	2	10	13	2	3	2	4	0	0	0	0	0
+4	ATP8	YP_009311103.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	1	2	3	0	0	2	0	0	0	0	0	0	5	0	0	0	2	0	1	1	6	0	1	1	1	0	0	0	0	0	3	3	0	1	2	2	1	0	2	1	3	0	1	0	0	0	2	0	1	0	1	0	0	2	1	1	0	1	0	0	1	0	0	0
+5	ATP6	YP_009311104.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	6	6	8	2	0	3	1	1	3	2	0	0	4	1	8	5	19	5	0	4	12	1	2	1	7	1	0	1	5	0	16	7	8	2	3	4	13	0	6	4	1	0	0	4	3	0	9	4	5	6	8	0	0	1	4	0	0	3	8	0	0	0	0	0
+6	COX3	YP_009311105.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	7	15	6	0	1	4	7	0	3	9	1	1	12	0	5	5	14	3	3	3	6	1	7	9	8	1	1	0	4	0	10	5	8	1	1	5	15	0	0	1	2	0	0	3	4	4	7	1	2	11	9	0	0	5	9	1	0	4	13	4	0	0	0	0
+7	ND3	YP_009311106.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	3	6	9	1	1	4	1	0	2	0	0	1	5	0	2	1	10	2	0	3	5	0	0	1	3	0	0	0	2	0	6	2	3	1	0	5	3	0	1	1	1	0	0	1	1	1	1	2	1	3	4	0	3	1	5	1	1	1	5	0	0	0	0	0
+8	ND4L	YP_009311107.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	6	2	4	0	2	3	1	0	0	0	0	3	0	1	3	1	14	1	2	0	0	0	1	3	3	0	0	2	1	0	1	0	5	1	2	2	5	0	0	2	0	0	0	2	1	0	1	0	1	7	5	0	0	1	2	1	1	1	4	0	1	0	0	0
+9	ND4	YP_009311108.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	9	8	23	1	5	5	11	1	8	6	1	4	18	1	13	9	36	8	1	8	17	0	3	9	10	5	0	3	8	0	26	14	20	7	5	13	21	0	5	7	9	0	1	5	6	1	8	3	7	14	13	1	0	3	9	2	2	8	15	4	0	0	0	0
+10	ND5	YP_009311109.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	17	24	16	0	3	9	15	1	4	9	3	2	12	1	14	14	40	9	4	7	16	0	3	11	16	2	1	2	7	0	39	21	32	5	11	18	26	1	9	20	22	1	2	9	7	5	10	1	8	23	19	2	5	8	12	0	3	9	17	2	1	0	0	0
+11	CYTB	YP_009311111.1	Epalzeorhynchos bicolor	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Epalzeorhynchos	11	21	14	1	0	9	11	0	2	12	1	2	13	0	3	7	28	5	4	5	11	1	2	10	6	0	1	1	5	1	17	17	10	2	3	10	11	0	7	10	9	0	0	1	5	3	9	4	4	8	20	0	2	9	7	0	3	7	13	2	0	0	0	0

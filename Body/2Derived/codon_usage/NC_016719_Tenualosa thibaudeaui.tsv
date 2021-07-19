@@ -1,65 +1,13 @@
-	YP_005089209.1|ND1	YP_005089210.1|ND2	YP_005089211.1|COX1	YP_005089212.1|COX2	YP_005089213.1|ATP8	YP_005089214.1|ATP6	YP_005089215.1|COX3	YP_005089216.1|ND3	YP_005089217.1|ND4L	YP_005089218.1|ND4	YP_005089219.1|ND5	YP_005089221.1|CYTB
-TTT	10	7	23	2	3	6	11	5	3	10	18	13
-TTC	8	4	20	6	2	3	13	2	3	8	19	18
-TTA	4	4	4	5	0	6	4	1	0	15	6	4
-TTG	4	1	5	4	1	2	2	0	1	4	4	6
-TCT	4	2	6	3	0	2	5	1	2	3	6	6
-TCC	8	6	11	4	1	2	2	4	4	11	17	8
-TCA	4	7	9	5	0	3	3	1	1	7	9	5
-TCG	2	1	3	1	0	1	1	1	0	4	0	3
-TAT	4	2	4	4	0	2	6	2	0	3	5	2
-TAC	9	5	14	5	0	3	5	0	0	10	6	12
-TGT	0	0	0	0	0	0	0	0	1	3	3	1
-TGC	1	3	1	2	0	0	2	1	2	1	4	2
-TGA	8	10	12	5	5	4	9	4	1	15	11	10
-TGG	0	1	5	0	0	1	3	1	0	5	3	2
-CTT	9	9	11	7	1	15	5	6	7	18	16	10
-CTC	13	14	13	4	1	9	9	5	1	14	15	10
-CTA	20	21	17	6	0	20	8	10	13	27	26	17
-CTG	10	14	12	4	1	4	5	7	2	10	19	11
-CCT	4	3	8	2	0	1	1	1	0	9	8	3
-CCC	14	11	15	6	6	6	4	6	0	11	12	10
-CCA	4	4	4	5	2	8	4	1	2	7	9	6
-CCG	1	1	1	1	1	1	3	0	0	2	1	2
-CAT	2	3	8	3	0	2	4	0	3	2	4	3
-CAC	2	8	11	7	1	3	12	0	1	9	10	9
-CAA	4	10	7	8	2	4	7	1	3	8	14	4
-CAG	2	3	2	0	0	4	1	2	0	2	7	2
-CGT	0	0	2	0	0	0	1	0	0	1	2	2
-CGC	3	1	0	1	0	1	0	0	1	3	2	2
-CGA	3	1	2	4	0	3	3	1	2	6	5	2
-CGG	2	4	4	1	0	2	1	1	0	2	2	2
-ATT	11	16	19	11	1	11	8	4	0	23	28	9
-ATC	12	8	18	6	2	9	5	5	0	17	23	18
-ATA	9	10	8	8	0	7	4	2	3	11	15	5
-ATG	3	7	15	6	2	4	2	2	3	10	16	4
-ACT	0	4	8	2	1	5	9	2	2	6	13	3
-ACC	9	15	11	3	1	4	9	1	1	18	29	8
-ACA	8	11	9	2	1	7	7	4	6	12	18	9
-ACG	3	7	8	2	0	1	1	0	1	3	5	1
-AAT	2	3	6	1	2	1	0	1	1	3	2	3
-AAC	7	3	8	3	1	6	1	1	1	7	20	16
-AAA	5	5	5	2	2	1	0	0	0	6	15	3
-AAG	2	4	3	2	1	0	2	1	0	4	5	6
-AGT	1	0	0	1	0	0	1	0	0	2	3	0
-AGC	3	7	5	2	1	5	3	2	2	6	12	1
-GTT	4	5	9	4	0	3	6	1	0	1	11	9
-GTC	3	3	12	7	2	4	6	1	1	7	7	7
-GTA	6	9	17	3	2	5	4	2	1	7	9	8
-GTG	6	3	6	5	0	2	3	0	1	5	5	6
-GCT	5	7	8	3	1	4	2	2	3	6	8	6
-GCC	16	20	19	7	3	5	8	4	4	17	31	15
-GCA	10	13	15	6	1	4	8	2	6	12	12	9
-GCG	5	4	1	1	0	3	2	0	0	3	4	2
-GAT	1	0	3	2	0	0	2	2	0	0	4	4
-GAC	3	2	11	12	0	1	3	1	1	4	12	6
-GAA	5	3	6	11	2	5	4	4	2	6	7	4
-GAG	6	2	5	4	0	0	5	2	1	5	2	4
-GGT	2	2	4	0	0	0	1	1	0	4	1	2
-GGC	3	6	12	2	0	1	5	0	3	9	13	5
-GGA	6	5	17	6	2	7	10	5	1	9	16	14
-GGG	9	5	14	1	0	4	6	0	1	7	6	6
-TAA	0	1	1	0	1	1	1	0	1	0	0	0
-TAG	1	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_005089209.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	10	8	4	4	4	8	4	2	4	9	0	1	8	0	9	13	20	10	4	14	4	1	2	2	4	2	0	3	3	2	11	12	9	3	0	9	8	3	2	7	5	2	1	3	4	3	6	6	5	16	10	5	1	3	5	6	2	3	6	9	0	1	0	0
+1	ND2	YP_005089210.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	7	4	4	1	2	6	7	1	2	5	0	3	10	1	9	14	21	14	3	11	4	1	3	8	10	3	0	1	1	4	16	8	10	7	4	15	11	7	3	3	5	4	0	7	5	3	9	3	7	20	13	4	0	2	3	2	2	6	5	5	1	0	0	0
+2	COX1	YP_005089211.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	23	20	4	5	6	11	9	3	4	14	0	1	12	5	11	13	17	12	8	15	4	1	8	11	7	2	2	0	2	4	19	18	8	15	8	11	9	8	6	8	5	3	0	5	9	12	17	6	8	19	15	1	3	11	6	5	4	12	17	14	1	0	0	0
+3	COX2	YP_005089212.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	2	6	5	4	3	4	5	1	4	5	0	2	5	0	7	4	6	4	2	6	5	1	3	7	8	0	0	1	4	1	11	6	8	6	2	3	2	2	1	3	2	2	1	2	4	7	3	5	3	7	6	1	2	12	11	4	0	2	6	1	0	0	0	0
+4	ATP8	YP_005089213.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	3	2	0	1	0	1	0	0	0	0	0	0	5	0	1	1	0	1	0	6	2	1	0	1	2	0	0	0	0	0	1	2	0	2	1	1	1	0	2	1	2	1	0	1	0	2	2	0	1	3	1	0	0	0	2	0	0	0	2	0	1	0	0	0
+5	ATP6	YP_005089214.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	6	3	6	2	2	2	3	1	2	3	0	0	4	1	15	9	20	4	1	6	8	1	2	3	4	4	0	1	3	2	11	9	7	4	5	4	7	1	1	6	1	0	0	5	3	4	5	2	4	5	4	3	0	1	5	0	0	1	7	4	1	0	0	0
+6	COX3	YP_005089215.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	11	13	4	2	5	2	3	1	6	5	0	2	9	3	5	9	8	5	1	4	4	3	4	12	7	1	1	0	3	1	8	5	4	2	9	9	7	1	0	1	0	2	1	3	6	6	4	3	2	8	8	2	2	3	4	5	1	5	10	6	1	0	0	0
+7	ND3	YP_005089216.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	5	2	1	0	1	4	1	1	2	0	0	1	4	1	6	5	10	7	1	6	1	0	0	0	1	2	0	0	1	1	4	5	2	2	2	1	4	0	1	1	0	1	0	2	1	1	2	0	2	4	2	0	2	1	4	2	1	0	5	0	0	1	0	0
+8	ND4L	YP_005089217.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	3	3	0	1	2	4	1	0	0	0	1	2	1	0	7	1	13	2	0	0	2	0	3	1	3	0	0	1	2	0	0	0	3	3	2	1	6	1	1	1	0	0	0	2	0	1	1	1	3	4	6	0	0	1	2	1	0	3	1	1	1	0	0	0
+9	ND4	YP_005089218.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	10	8	15	4	3	11	7	4	3	10	3	1	15	5	18	14	27	10	9	11	7	2	2	9	8	2	1	3	6	2	23	17	11	10	6	18	12	3	3	7	6	4	2	6	1	7	7	5	6	17	12	3	0	4	6	5	4	9	9	7	0	0	0	0
+10	ND5	YP_005089219.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	18	19	6	4	6	17	9	0	5	6	3	4	11	3	16	15	26	19	8	12	9	1	4	10	14	7	2	2	5	2	28	23	15	16	13	29	18	5	2	20	15	5	3	12	11	7	9	5	8	31	12	4	4	12	7	2	1	13	16	6	0	0	1	0
+11	CYTB	YP_005089221.1	Tenualosa thibaudeaui	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Tenualosa	13	18	4	6	6	8	5	3	2	12	1	2	10	2	10	10	17	11	3	10	6	2	3	9	4	2	2	2	2	2	9	18	5	4	3	8	9	1	3	16	3	6	0	1	9	7	8	6	6	15	9	2	4	6	4	4	2	5	14	6	0	0	0	0

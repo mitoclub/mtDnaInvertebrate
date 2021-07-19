@@ -1,65 +1,13 @@
-	YP_009132339.1|ND1	YP_009132340.1|ND2	YP_009132341.1|COX1	YP_009132342.1|COX2	YP_009132343.1|ATP8	YP_009132344.1|ATP6	YP_009132345.1|COX3	YP_009132346.1|ND3	YP_009132347.1|ND4L	YP_009132348.1|ND4	YP_009132349.1|ND5	YP_009132351.1|CYTB
-TTT	5	6	16	5	1	5	11	4	4	10	12	10
-TTC	13	6	26	4	3	5	14	4	3	6	28	22
-TTA	6	12	5	6	1	10	4	7	3	3	13	10
-TTG	2	2	1	0	0	0	1	1	2	2	4	1
-TCT	5	4	6	2	0	0	4	3	2	4	10	2
-TCC	6	10	10	5	2	2	3	3	3	10	9	11
-TCA	5	5	7	3	0	2	3	1	2	8	11	9
-TCG	1	0	3	2	0	0	0	0	1	0	1	0
-TAT	0	1	6	5	0	0	5	0	0	2	4	4
-TAC	11	6	12	4	0	4	5	2	0	11	8	11
-TGT	0	0	0	0	0	0	1	0	1	0	2	0
-TGC	0	0	1	2	0	0	1	1	2	4	5	3
-TGA	7	9	17	4	5	5	11	4	1	15	10	11
-TGG	1	2	0	1	0	0	1	1	0	4	4	1
-CTT	21	25	14	10	0	9	10	7	2	41	28	11
-CTC	15	19	17	4	1	16	5	5	8	22	15	18
-CTA	13	13	16	6	3	14	10	5	8	20	23	17
-CTG	9	9	10	1	0	4	1	3	1	7	10	2
-CCT	5	7	5	1	4	4	5	1	1	5	6	3
-CCC	13	8	16	9	3	11	7	6	1	18	16	15
-CCA	4	4	7	3	1	2	0	1	0	6	3	2
-CCG	2	2	0	1	1	0	0	0	0	0	2	1
-CAT	1	2	6	3	0	1	6	1	3	3	2	2
-CAC	3	5	13	6	1	3	10	0	1	9	15	10
-CAA	6	14	4	7	2	7	7	3	3	9	16	7
-CAG	1	1	3	1	1	2	2	0	0	0	3	0
-CGT	0	1	2	0	0	1	0	0	1	1	3	1
-CGC	1	2	0	3	0	3	0	1	0	3	3	1
-CGA	5	1	5	4	0	2	4	1	2	5	3	6
-CGG	2	0	1	0	0	0	1	0	0	2	1	0
-ATT	12	11	22	14	1	9	7	6	1	16	22	14
-ATC	12	6	17	9	3	5	4	2	0	17	27	17
-ATA	6	7	7	8	1	5	5	0	2	11	15	6
-ATG	3	4	16	3	1	6	3	2	3	17	11	3
-ACT	3	7	9	3	1	5	2	2	0	8	10	2
-ACC	10	20	9	1	2	9	11	3	7	15	31	11
-ACA	6	14	18	4	1	9	12	2	1	13	20	8
-ACG	1	3	0	0	1	1	0	0	0	2	2	0
-AAT	6	3	7	1	1	2	1	1	0	2	5	4
-AAC	6	7	8	5	1	5	0	0	1	9	21	13
-AAA	6	8	8	4	3	0	2	1	0	7	16	7
-AAG	1	0	0	0	0	1	0	0	0	2	3	2
-AGT	1	0	1	0	0	1	1	0	0	4	3	0
-AGC	2	4	4	4	1	4	2	0	3	7	15	2
-GTT	7	2	11	5	0	7	3	2	1	3	10	10
-GTC	5	3	8	5	1	5	8	2	1	4	12	5
-GTA	4	3	20	5	1	4	4	1	0	7	7	7
-GTG	3	1	5	2	0	1	3	1	0	4	1	1
-GCT	8	11	11	5	1	7	3	0	2	5	11	4
-GCC	16	20	26	5	1	8	13	8	8	24	32	18
-GCA	8	12	6	8	1	4	8	2	3	9	13	11
-GCG	2	0	2	1	1	0	0	0	1	2	0	1
-GAT	0	1	5	4	0	0	0	1	0	0	3	5
-GAC	4	2	9	9	0	1	5	3	1	3	10	5
-GAA	9	4	8	12	2	4	8	3	2	10	8	4
-GAG	2	0	3	2	1	0	2	3	0	3	4	0
-GGT	1	1	15	2	0	3	4	1	1	5	7	4
-GGC	8	6	9	3	0	6	11	2	3	9	9	15
-GGA	6	8	8	4	0	3	3	2	2	5	9	7
-GGG	3	4	15	0	0	0	4	1	0	7	5	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009132339.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	5	13	6	2	5	6	5	1	0	11	0	0	7	1	21	15	13	9	5	13	4	2	1	3	6	1	0	1	5	2	12	12	6	3	3	10	6	1	6	6	6	1	1	2	7	5	4	3	8	16	8	2	0	4	9	2	1	8	6	3	1	0	0	0
+1	ND2	YP_009132340.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	6	6	12	2	4	10	5	0	1	6	0	0	9	2	25	19	13	9	7	8	4	2	2	5	14	1	1	2	1	0	11	6	7	4	7	20	14	3	3	7	8	0	0	4	2	3	3	1	11	20	12	0	1	2	4	0	1	6	8	4	0	0	0	0
+2	COX1	YP_009132341.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	16	26	5	1	6	10	7	3	6	12	0	1	17	0	14	17	16	10	5	16	7	0	6	13	4	3	2	0	5	1	22	17	7	16	9	9	18	0	7	8	8	0	1	4	11	8	20	5	11	26	6	2	5	9	8	3	15	9	8	15	1	0	0	0
+3	COX2	YP_009132342.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	5	4	6	0	2	5	3	2	5	4	0	2	4	1	10	4	6	1	1	9	3	1	3	6	7	1	0	3	4	0	14	9	8	3	3	1	4	0	1	5	4	0	0	4	5	5	5	2	5	5	8	1	4	9	12	2	2	3	4	0	0	0	0	0
+4	ATP8	YP_009132343.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	1	3	1	0	0	2	0	0	0	0	0	0	5	0	0	1	3	0	4	3	1	1	0	1	2	1	0	0	0	0	1	3	1	1	1	2	1	1	1	1	3	0	0	1	0	1	1	0	1	1	1	1	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009132344.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	5	5	10	0	0	2	2	0	0	4	0	0	5	0	9	16	14	4	4	11	2	0	1	3	7	2	1	3	2	0	9	5	5	6	5	9	9	1	2	5	0	1	1	4	7	5	4	1	7	8	4	0	0	1	4	0	3	6	3	0	1	0	0	0
+6	COX3	YP_009132345.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	11	14	4	1	4	3	3	0	5	5	1	1	11	1	10	5	10	1	5	7	0	0	6	10	7	2	0	0	4	1	7	4	5	3	2	11	12	0	1	0	2	0	1	2	3	8	4	3	3	13	8	0	0	5	8	2	4	11	3	4	0	0	0	0
+7	ND3	YP_009132346.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	4	4	7	1	3	3	1	0	0	2	0	1	4	1	7	5	5	3	1	6	1	0	1	0	3	0	0	1	1	0	6	2	0	2	2	3	2	0	1	0	1	0	0	0	2	2	1	1	0	8	2	0	1	3	3	3	1	2	2	1	0	0	0	0
+8	ND4L	YP_009132347.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	4	3	3	2	2	3	2	1	0	0	1	2	1	0	2	8	8	1	1	1	0	0	3	1	3	0	1	0	2	0	1	0	2	3	0	7	1	0	0	1	0	0	0	3	1	1	0	0	2	8	3	1	0	1	2	0	1	3	2	0	1	0	0	0
+9	ND4	YP_009132348.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	10	6	3	2	4	10	8	0	2	11	0	4	15	4	41	22	20	7	5	18	6	0	3	9	9	0	1	3	5	2	16	17	11	17	8	15	13	2	2	9	7	2	4	7	3	4	7	4	5	24	9	2	0	3	10	3	5	9	5	7	0	0	0	0
+10	ND5	YP_009132349.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	12	28	13	4	10	9	11	1	4	8	2	5	10	4	28	15	23	10	6	16	3	2	2	15	16	3	3	3	3	1	22	27	15	11	10	31	20	2	5	21	16	3	3	15	10	12	7	1	11	32	13	0	3	10	8	4	7	9	9	5	1	0	0	0
+11	CYTB	YP_009132351.1	Hexagrammos lagocephalus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Cottioidei, Hexagrammales, Hexagrammidae, Hexagrammos	10	22	10	1	2	11	9	0	4	11	0	3	11	1	11	18	17	2	3	15	2	1	2	10	7	0	1	1	6	0	14	17	6	3	2	11	8	0	4	13	7	2	0	2	10	5	7	1	4	18	11	1	5	5	4	0	4	15	7	3	0	0	0	0

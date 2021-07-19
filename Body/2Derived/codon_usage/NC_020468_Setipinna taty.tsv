@@ -1,65 +1,13 @@
-	YP_007517161.1|ND1	YP_007517162.1|ND2	YP_007517163.1|COX1	YP_007517164.1|COX2	YP_007517165.1|ATP8	YP_007517166.1|ATP6	YP_007517167.1|COX3	YP_007517168.1|ND3	YP_007517169.1|ND4L	YP_007517170.1|ND4	YP_007517171.1|ND5	YP_007517173.1|CYTB
-TTT	13	5	17	6	3	8	10	3	2	7	19	8
-TTC	7	4	24	2	0	4	15	4	5	10	21	22
-TTA	16	15	16	9	2	11	6	12	6	13	13	18
-TTG	1	0	1	1	0	0	1	0	1	3	2	2
-TCT	3	2	5	2	2	1	0	1	1	6	4	5
-TCC	6	5	3	6	0	0	4	2	1	8	9	6
-TCA	8	8	10	5	1	2	7	3	3	9	19	10
-TCG	0	0	3	0	0	0	0	0	0	2	0	0
-TAT	4	2	6	4	0	2	2	1	0	6	4	3
-TAC	7	4	13	5	1	3	9	1	0	7	8	11
-TGT	0	2	0	1	0	0	0	0	1	2	2	1
-TGC	0	2	1	1	0	0	2	1	2	3	4	2
-TGA	7	11	14	5	5	5	12	3	1	20	14	13
-TGG	1	0	3	0	0	0	0	2	0	1	0	0
-CTT	5	10	14	4	2	9	3	5	4	18	16	9
-CTC	9	13	12	4	2	10	8	5	3	29	20	9
-CTA	27	26	17	10	1	17	12	5	6	24	33	18
-CTG	1	3	2	1	0	1	1	1	0	10	4	4
-CCT	7	5	6	4	4	4	5	1	0	6	7	2
-CCC	11	7	10	8	2	3	3	3	0	11	9	8
-CCA	5	8	12	2	2	9	4	4	3	8	12	11
-CCG	1	0	0	0	0	1	0	0	0	1	0	0
-CAT	0	2	8	2	0	3	1	0	1	2	6	2
-CAC	3	7	11	8	1	0	15	0	3	9	8	10
-CAA	5	13	6	8	1	9	8	4	2	10	16	5
-CAG	1	1	1	0	0	1	0	0	1	0	2	1
-CGT	1	0	1	2	0	0	0	0	0	2	1	1
-CGC	0	2	1	1	0	4	1	1	1	3	1	0
-CGA	7	2	6	3	0	2	4	1	1	4	7	7
-CGG	0	0	0	0	0	0	0	0	1	2	0	0
-ATT	13	21	22	13	3	15	6	2	2	15	37	12
-ATC	9	9	19	7	1	7	8	6	0	19	20	18
-ATA	8	13	18	9	2	8	5	3	5	14	29	9
-ATG	3	3	4	3	1	3	1	1	2	9	1	2
-ACT	3	4	7	2	2	7	5	2	1	3	16	5
-ACC	15	30	10	6	0	8	8	2	4	21	22	8
-ACA	6	17	19	1	0	8	13	3	5	13	29	8
-ACG	1	0	0	1	0	0	0	0	0	1	2	0
-AAT	2	3	7	1	0	3	2	2	2	4	7	4
-AAC	9	9	7	5	3	6	0	1	1	9	22	16
-AAA	7	8	8	4	3	0	2	2	0	10	22	8
-AAG	0	1	1	0	0	1	0	0	0	2	0	0
-AGT	0	0	1	2	0	0	2	0	0	1	1	0
-AGC	5	4	4	1	1	5	1	0	2	7	11	1
-GTT	5	2	10	4	1	1	4	2	0	1	3	3
-GTC	2	3	4	4	0	5	5	0	1	6	5	5
-GTA	11	4	23	10	1	5	7	2	2	3	11	14
-GTG	1	0	6	1	0	2	1	1	1	1	3	2
-GCT	6	5	9	4	1	2	3	1	1	5	8	3
-GCC	13	16	13	5	2	4	6	4	7	23	23	11
-GCA	17	16	25	5	0	13	12	2	4	12	18	20
-GCG	0	0	2	1	0	0	0	0	0	2	2	0
-GAT	2	0	4	3	0	0	1	2	0	1	7	4
-GAC	2	1	10	10	0	1	4	1	1	4	6	7
-GAA	10	4	10	14	4	4	6	6	1	8	12	4
-GAG	1	0	1	1	0	0	3	1	1	3	1	2
-GGT	2	1	8	1	0	2	2	0	1	4	2	2
-GGC	4	2	8	3	0	4	10	3	2	18	9	6
-GGA	10	12	24	5	0	3	7	2	2	4	18	15
-GGG	1	1	7	0	1	1	4	2	1	1	3	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007517161.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	13	7	16	1	3	6	8	0	4	7	0	0	7	1	5	9	27	1	7	11	5	1	0	3	5	1	1	0	7	0	13	9	8	3	3	15	6	1	2	9	7	0	0	5	5	2	11	1	6	13	17	0	2	2	10	1	2	4	10	1	1	0	0	0
+1	ND2	YP_007517162.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	5	4	15	0	2	5	8	0	2	4	2	2	11	0	10	13	26	3	5	7	8	0	2	7	13	1	0	2	2	0	21	9	13	3	4	30	17	0	3	9	8	1	0	4	2	3	4	0	5	16	16	0	0	1	4	0	1	2	12	1	0	0	0	0
+2	COX1	YP_007517163.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	17	24	16	1	5	3	10	3	6	13	0	1	14	3	14	12	17	2	6	10	12	0	8	11	6	1	1	1	6	0	22	19	18	4	7	10	19	0	7	7	8	1	1	4	10	4	23	6	9	13	25	2	4	10	10	1	8	8	24	7	1	0	0	0
+3	COX2	YP_007517164.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	6	2	9	1	2	6	5	0	4	5	1	1	5	0	4	4	10	1	4	8	2	0	2	8	8	0	2	1	3	0	13	7	9	3	2	6	1	1	1	5	4	0	2	1	4	4	10	1	4	5	5	1	3	10	14	1	1	3	5	0	0	0	0	0
+4	ATP8	YP_007517165.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	3	0	2	0	2	0	1	0	0	1	0	0	5	0	2	2	1	0	4	2	2	0	0	1	1	0	0	0	0	0	3	1	2	1	2	0	0	0	0	3	3	0	0	1	1	0	1	0	1	2	0	0	0	0	4	0	0	0	0	1	1	0	0	0
+5	ATP6	YP_007517166.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	8	4	11	0	1	0	2	0	2	3	0	0	5	0	9	10	17	1	4	3	9	1	3	0	9	1	0	4	2	0	15	7	8	3	7	8	8	0	3	6	0	1	0	5	1	5	5	2	2	4	13	0	0	1	4	0	2	4	3	1	1	0	0	0
+6	COX3	YP_007517167.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	10	15	6	1	0	4	7	0	2	9	0	2	12	0	3	8	12	1	5	3	4	0	1	15	8	0	0	1	4	0	6	8	5	1	5	8	13	0	2	0	2	0	2	1	4	5	7	1	3	6	12	0	1	4	6	3	2	10	7	4	0	0	0	0
+7	ND3	YP_007517168.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	3	4	12	0	1	2	3	0	1	1	0	1	3	2	5	5	5	1	1	3	4	0	0	0	4	0	0	1	1	0	2	6	3	1	2	2	3	0	2	1	2	0	0	0	2	0	2	1	1	4	2	0	2	1	6	1	0	3	2	2	0	0	0	0
+8	ND4L	YP_007517169.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	2	5	6	1	1	1	3	0	0	0	1	2	1	0	4	3	6	0	0	0	3	0	1	3	2	1	0	1	1	1	2	0	5	2	1	4	5	0	2	1	0	0	0	2	0	1	2	1	1	7	4	0	0	1	1	1	1	2	2	1	1	0	0	0
+9	ND4	YP_007517170.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	7	10	13	3	6	8	9	2	6	7	2	3	20	1	18	29	24	10	6	11	8	1	2	9	10	0	2	3	4	2	15	19	14	9	3	21	13	1	4	9	10	2	1	7	1	6	3	1	5	23	12	2	1	4	8	3	4	18	4	1	0	0	0	0
+10	ND5	YP_007517171.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	19	21	13	2	4	9	19	0	4	8	2	4	14	0	16	20	33	4	7	9	12	0	6	8	16	2	1	1	7	0	37	20	29	1	16	22	29	2	7	22	22	0	1	11	3	5	11	3	8	23	18	2	7	6	12	1	2	9	18	3	1	0	0	0
+11	CYTB	YP_007517173.1	Setipinna taty	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Engraulidae, Coilinae, Setipinna	8	22	18	2	5	6	10	0	3	11	1	2	13	0	9	9	18	4	2	8	11	0	2	10	5	1	1	0	7	0	12	18	9	2	5	8	8	0	4	16	8	0	0	1	3	5	14	2	3	11	20	0	4	7	4	2	2	6	15	3	0	0	0	0

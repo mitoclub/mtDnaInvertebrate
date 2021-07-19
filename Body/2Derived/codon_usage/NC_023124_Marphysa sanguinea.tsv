@@ -1,65 +1,14 @@
-	YP_008965280.1|COX1	YP_008965281.1|COX2	YP_008965282.1|ATP8	YP_008965283.1|COX3	YP_008965284.1|ND6	YP_008965285.1|CYTB	YP_008965286.1|ATP6	YP_008965287.1|ND5	YP_008965288.1|ND4L	YP_008965289.1|ND4	YP_008965290.1|ND1	YP_008965291.1|ND2	YP_008965292.1|ND3
-TTT	25	5	1	9	5	13	8	17	1	17	11	8	6
-TTC	17	5	1	13	5	17	10	20	1	21	14	9	4
-TTA	3	4	0	3	7	10	8	15	5	20	7	17	4
-TTG	0	0	0	1	0	1	0	1	2	1	1	1	0
-TCT	9	4	0	6	4	7	4	9	4	16	6	10	3
-TCC	6	9	3	1	4	7	8	21	3	18	6	10	3
-TCA	13	5	1	7	5	3	8	25	1	13	11	11	4
-TCG	1	0	1	0	0	1	0	0	1	3	0	0	0
-TAT	8	5	0	2	1	6	3	2	0	7	8	5	0
-TAC	7	2	0	9	1	11	7	6	0	8	5	11	0
-TGT	0	1	0	2	0	2	3	1	2	2	1	1	0
-TGC	0	1	0	1	0	0	1	1	2	2	2	0	1
-TGA	15	6	4	13	1	14	5	11	0	12	5	4	2
-TGG	0	0	1	0	1	1	0	0	0	0	0	1	0
-CTT	17	9	2	8	6	10	5	25	5	11	8	10	7
-CTC	18	4	2	12	10	15	9	24	7	18	8	11	7
-CTA	24	9	4	8	7	23	15	49	6	27	28	24	9
-CTG	2	1	0	1	3	4	1	1	0	3	2	2	1
-CCT	4	2	1	3	0	2	5	5	1	7	5	4	2
-CCC	5	4	3	2	2	4	7	11	0	5	3	6	1
-CCA	17	6	2	6	8	14	5	15	2	14	7	6	3
-CCG	2	0	1	1	0	1	1	0	0	0	0	1	0
-CAT	7	2	1	6	1	3	3	8	1	6	0	1	1
-CAC	13	3	1	8	0	10	1	5	0	2	1	2	1
-CAA	7	9	2	5	3	10	4	14	1	4	6	10	0
-CAG	0	0	0	0	1	0	0	1	0	1	0	0	0
-CGT	3	1	0	2	0	1	0	2	0	0	1	0	1
-CGC	0	1	0	0	1	2	0	0	1	1	5	0	0
-CGA	10	4	0	3	0	7	3	4	1	2	2	0	3
-CGG	0	1	0	1	0	0	0	0	0	0	0	0	0
-ATT	24	15	1	9	7	18	9	20	2	21	12	10	8
-ATC	18	11	2	9	10	15	12	33	2	24	14	24	2
-ATA	23	9	2	4	11	12	10	36	8	22	20	15	3
-ATG	6	2	1	2	1	1	3	3	1	7	2	7	2
-ACT	12	4	0	3	5	4	4	5	4	3	6	4	2
-ACC	10	4	3	10	7	10	3	19	5	8	6	7	1
-ACA	12	7	3	6	1	12	5	19	0	8	12	12	0
-ACG	0	0	0	0	0	0	0	0	1	3	1	0	0
-AAT	7	3	0	0	1	8	0	6	2	10	3	8	1
-AAC	7	6	0	3	4	11	5	14	1	12	6	6	3
-AAA	6	7	5	1	4	4	6	16	5	12	7	9	3
-AAG	1	0	0	1	0	1	0	1	0	0	0	1	0
-AGT	1	0	0	1	1	1	0	3	0	1	1	2	0
-AGC	0	0	0	2	0	1	1	1	1	7	2	3	0
-AGA	7	2	0	3	4	2	5	7	1	6	4	7	3
-AGG	1	0	0	0	0	0	3	0	0	0	2	2	0
-GTT	10	1	0	3	1	3	1	3	1	4	2	2	0
-GTC	5	1	1	5	1	3	2	4	0	1	1	1	2
-GTA	18	5	0	11	5	10	6	5	0	3	7	4	4
-GTG	2	2	0	0	1	0	0	0	0	0	0	0	0
-GCT	13	4	2	4	1	1	6	5	5	8	2	12	1
-GCC	13	10	2	9	4	13	7	17	3	11	10	4	2
-GCA	10	1	0	8	5	10	6	21	2	12	11	8	5
-GCG	1	0	0	1	0	0	0	0	0	1	1	2	0
-GAT	4	4	0	2	1	2	2	4	0	2	2	1	0
-GAC	11	5	0	3	0	4	2	6	1	0	1	0	4
-GAA	9	9	0	6	1	6	3	4	2	5	8	3	5
-GAG	0	2	0	1	1	1	0	1	0	1	2	1	0
-GGT	5	4	0	5	0	1	1	6	1	2	1	0	0
-GGC	15	4	0	4	1	5	0	7	0	6	0	3	2
-GGA	25	3	0	10	2	16	6	11	2	6	10	9	1
-GGG	1	0	0	0	0	4	1	1	1	2	0	1	0
-TAA	0	0	1	1	0	1	0	0	1	0	0	1	0
-TAG	0	0	0	0	0	0	1	0	0	1	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_008965280.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	25	17	3	0	9	6	13	1	8	7	0	0	15	0	17	18	24	2	4	5	17	2	7	13	7	0	3	0	10	0	24	18	23	6	12	10	12	0	7	7	6	1	1	0	7	1	10	5	18	2	13	13	10	1	4	11	9	0	5	15	25	1	0	0
+1	COX2	YP_008965281.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	5	5	4	0	4	9	5	0	5	2	1	1	6	0	9	4	9	1	2	4	6	0	2	3	9	0	1	1	4	1	15	11	9	2	4	4	7	0	3	6	7	0	0	0	2	0	1	1	5	2	4	10	1	0	4	5	9	2	4	4	3	0	0	0
+2	ATP8	YP_008965282.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	1	1	0	0	0	3	1	1	0	0	0	0	4	1	2	2	4	0	1	3	2	1	1	1	2	0	0	0	0	0	1	2	2	1	0	3	3	0	0	0	5	0	0	0	0	0	0	1	0	0	2	2	0	0	0	0	0	0	0	0	0	0	1	0
+3	COX3	YP_008965283.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	9	13	3	1	6	1	7	0	2	9	2	1	13	0	8	12	8	1	3	2	6	1	6	8	5	0	2	0	3	1	9	9	4	2	3	10	6	0	0	3	1	1	1	2	3	0	3	5	11	0	4	9	8	1	2	3	6	1	5	4	10	0	1	0
+4	ND6	YP_008965284.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	5	5	7	0	4	4	5	0	1	1	0	0	1	1	6	10	7	3	0	2	8	0	1	0	3	1	0	1	0	0	7	10	11	1	5	7	1	0	1	4	4	0	1	0	4	0	1	1	5	1	1	4	5	0	1	0	1	1	0	1	2	0	0	0
+5	CYTB	YP_008965285.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	13	17	10	1	7	7	3	1	6	11	2	0	14	1	10	15	23	4	2	4	14	1	3	10	10	0	1	2	7	0	18	15	12	1	4	10	12	0	8	11	4	1	1	1	2	0	3	3	10	0	1	13	10	0	2	4	6	1	1	5	16	4	1	0
+6	ATP6	YP_008965286.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	8	10	8	0	4	8	8	0	3	7	3	1	5	0	5	9	15	1	5	7	5	1	3	1	4	0	0	0	3	0	9	12	10	3	4	3	5	0	0	5	6	0	0	1	5	3	1	2	6	0	6	7	6	0	2	2	3	0	1	0	6	1	0	1
+7	ND5	YP_008965287.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	17	20	15	1	9	21	25	0	2	6	1	1	11	0	25	24	49	1	5	11	15	0	8	5	14	1	2	0	4	0	20	33	36	3	5	19	19	0	6	14	16	1	3	1	7	0	3	4	5	0	5	17	21	0	4	6	4	1	6	7	11	1	0	0
+8	ND4L	YP_008965288.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	1	1	5	2	4	3	1	1	0	0	2	2	0	0	5	7	6	0	1	0	2	0	1	0	1	0	0	1	1	0	2	2	8	1	4	5	0	1	2	1	5	0	0	1	1	0	1	0	0	0	5	3	2	0	0	1	2	0	1	0	2	1	1	0
+9	ND4	YP_008965289.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	17	21	20	1	16	18	13	3	7	8	2	2	12	0	11	18	27	3	7	5	14	0	6	2	4	1	0	1	2	0	21	24	22	7	3	8	8	3	10	12	12	0	1	7	6	0	4	1	3	0	8	11	12	1	2	0	5	1	2	6	6	2	0	1
+10	ND1	YP_008965290.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	11	14	7	1	6	6	11	0	8	5	1	2	5	0	8	8	28	2	5	3	7	0	0	1	6	0	1	5	2	0	12	14	20	2	6	6	12	1	3	6	7	0	1	2	4	2	2	1	7	0	2	10	11	1	2	1	8	2	1	0	10	0	0	1
+11	ND2	YP_008965291.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	8	9	17	1	10	10	11	0	5	11	1	0	4	1	10	11	24	2	4	6	6	1	1	2	10	0	0	0	0	0	10	24	15	7	4	7	12	0	8	6	9	1	2	3	7	2	2	1	4	0	12	4	8	2	1	0	3	1	0	3	9	1	1	0
+12	ND3	YP_008965292.1	Marphysa sanguinea	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Eunicida, Eunicidae, Marphysa	6	4	4	0	3	3	4	0	0	0	0	1	2	0	7	7	9	1	2	1	3	0	1	1	0	0	1	0	3	0	8	2	3	2	2	1	0	0	1	3	3	0	0	0	3	0	0	2	4	0	1	2	5	0	0	4	5	0	0	2	1	0	0	1

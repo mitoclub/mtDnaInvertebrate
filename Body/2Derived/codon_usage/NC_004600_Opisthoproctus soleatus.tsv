@@ -1,65 +1,13 @@
-	NP_795846.1|ND1	NP_795847.1|ND2	NP_795848.1|COX1	NP_795849.1|COX2	NP_795850.1|ATP8	NP_795851.1|ATP6	NP_795852.1|COX3	NP_795853.1|ND3	NP_795854.1|ND4L	NP_795855.1|ND4	NP_795856.1|ND5	NP_795858.1|CYTB
-TTT	7	10	18	7	1	9	13	5	4	12	21	15
-TTC	11	4	25	2	2	4	10	4	3	4	24	13
-TTA	4	6	15	3	0	12	8	3	3	13	18	5
-TTG	2	0	4	1	0	1	2	0	1	3	1	1
-TCT	2	5	4	5	0	1	3	0	2	8	8	11
-TCC	9	13	13	6	1	2	4	5	3	12	16	8
-TCA	6	1	6	3	0	0	3	1	2	2	5	3
-TCG	0	1	2	0	0	0	1	0	0	0	1	0
-TAT	6	3	3	6	0	2	2	0	0	7	6	5
-TAC	7	3	14	3	1	1	12	2	1	8	5	12
-TGT	0	1	0	1	0	0	0	0	2	1	4	2
-TGC	1	0	1	2	0	0	1	1	1	5	4	1
-TGA	6	9	11	4	5	3	9	3	0	10	9	11
-TGG	2	2	6	1	0	2	3	2	1	9	5	1
-CTT	24	31	16	7	0	14	7	7	6	35	30	15
-CTC	19	28	19	8	2	16	11	10	11	22	39	29
-CTA	7	14	6	6	3	11	2	3	2	10	13	9
-CTG	8	5	3	3	2	3	4	4	1	11	9	1
-CCT	8	5	11	3	4	7	2	5	2	9	7	5
-CCC	14	14	15	10	6	7	8	3	0	16	25	15
-CCA	3	1	1	0	1	2	2	0	0	4	2	1
-CCG	0	0	1	1	0	1	0	0	0	0	1	1
-CAT	1	1	4	4	0	2	6	0	2	6	4	4
-CAC	2	6	15	5	1	2	10	0	3	6	12	8
-CAA	5	8	5	8	2	7	10	1	2	8	14	5
-CAG	3	3	3	0	1	2	0	2	0	2	3	1
-CGT	1	0	1	2	0	0	0	0	1	1	2	0
-CGC	3	3	2	1	0	4	2	2	2	5	3	2
-CGA	4	2	3	3	0	1	3	0	0	3	3	6
-CGG	0	0	2	0	0	1	1	1	0	2	1	0
-ATT	17	9	28	7	2	9	10	3	0	17	23	19
-ATC	11	13	12	14	0	9	6	4	1	15	15	18
-ATA	7	9	17	7	0	5	4	1	3	17	18	9
-ATG	2	3	7	5	1	4	3	2	2	10	6	3
-ACT	3	11	8	2	1	3	5	1	4	9	13	5
-ACC	12	24	15	4	1	14	11	6	4	26	23	17
-ACA	5	6	13	5	1	5	6	1	2	10	15	1
-ACG	0	2	2	0	0	0	0	0	0	1	3	2
-AAT	2	6	6	1	2	1	0	1	0	1	9	2
-AAC	8	3	8	5	1	8	1	0	1	5	19	16
-AAA	7	7	6	4	3	0	1	0	0	9	18	7
-AAG	0	2	2	1	0	1	1	1	0	2	2	1
-AGT	2	1	2	2	0	1	1	0	0	3	4	2
-AGC	3	5	4	1	1	4	2	0	3	8	9	1
-GTT	4	2	12	3	0	4	7	2	1	2	10	6
-GTC	5	1	12	5	3	4	6	0	0	4	10	5
-GTA	2	2	11	6	2	1	2	3	2	4	10	6
-GTG	5	0	6	3	0	2	0	1	0	2	2	1
-GCT	10	6	12	2	0	8	5	3	2	8	12	4
-GCC	18	21	24	7	1	10	11	7	6	20	29	16
-GCA	3	11	7	4	1	3	7	0	3	8	9	5
-GCG	0	0	2	1	0	0	0	0	0	4	2	1
-GAT	1	2	5	3	1	0	2	1	0	1	7	2
-GAC	3	0	9	10	1	1	3	3	1	3	7	9
-GAA	6	5	6	13	0	3	4	6	3	12	10	5
-GAG	4	1	5	1	1	1	4	0	0	0	1	0
-GGT	3	2	5	3	0	3	3	0	0	6	5	4
-GGC	7	10	21	3	0	3	12	3	1	8	13	12
-GGA	6	4	10	1	0	3	2	0	3	5	8	5
-GGG	3	2	10	2	0	0	3	3	1	6	4	4
-TAA	1	0	1	0	1	0	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_795846.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	7	11	4	2	2	9	6	0	6	7	0	1	6	2	24	19	7	8	8	14	3	0	1	2	5	3	1	3	4	0	17	11	7	2	3	12	5	0	2	8	7	0	2	3	4	5	2	5	10	18	3	0	1	3	6	4	3	7	6	3	1	0	0	0
+1	ND2	NP_795847.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	10	4	6	0	5	13	1	1	3	3	1	0	9	2	31	28	14	5	5	14	1	0	1	6	8	3	0	3	2	0	9	13	9	3	11	24	6	2	6	3	7	2	1	5	2	1	2	0	6	21	11	0	2	0	5	1	2	10	4	2	0	0	0	0
+2	COX1	NP_795848.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	18	25	15	4	4	13	6	2	3	14	0	1	11	6	16	19	6	3	11	15	1	1	4	15	5	3	1	2	3	2	28	12	17	7	8	15	13	2	6	8	6	2	2	4	12	12	11	6	12	24	7	2	5	9	6	5	5	21	10	10	1	0	0	0
+3	COX2	NP_795849.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	7	2	3	1	5	6	3	0	6	3	1	2	4	1	7	8	6	3	3	10	0	1	4	5	8	0	2	1	3	0	7	14	7	5	2	4	5	0	1	5	4	1	2	1	3	5	6	3	2	7	4	1	3	10	13	1	3	3	1	2	0	0	0	0
+4	ATP8	NP_795850.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	1	2	0	0	0	1	0	0	0	1	0	0	5	0	0	2	3	2	4	6	1	0	0	1	2	1	0	0	0	0	2	0	0	1	1	1	1	0	2	1	3	0	0	1	0	3	2	0	0	1	1	0	1	1	0	1	0	0	0	0	1	0	0	0
+5	ATP6	NP_795851.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	9	4	12	1	1	2	0	0	2	1	0	0	3	2	14	16	11	3	7	7	2	1	2	2	7	2	0	4	1	1	9	9	5	4	3	14	5	0	1	8	0	1	1	4	4	4	1	2	8	10	3	0	0	1	3	1	3	3	3	0	0	0	0	0
+6	COX3	NP_795852.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	13	10	8	2	3	4	3	1	2	12	0	1	9	3	7	11	2	4	2	8	2	0	6	10	10	0	0	2	3	1	10	6	4	3	5	11	6	0	0	1	1	1	1	2	7	6	2	0	5	11	7	0	2	3	4	4	3	12	2	3	0	0	0	0
+7	ND3	NP_795853.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	5	4	3	0	0	5	1	0	0	2	0	1	3	2	7	10	3	4	5	3	0	0	0	0	1	2	0	2	0	1	3	4	1	2	1	6	1	0	1	0	0	1	0	0	2	0	3	1	3	7	0	0	1	3	6	0	0	3	0	3	1	0	0	0
+8	ND4L	NP_795854.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	4	3	3	1	2	3	2	0	0	1	2	1	0	1	6	11	2	1	2	0	0	0	2	3	2	0	1	2	0	0	0	1	3	2	4	4	2	0	0	1	0	0	0	3	1	0	2	0	2	6	3	0	0	1	3	0	0	1	3	1	1	0	0	0
+9	ND4	NP_795855.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	12	4	13	3	8	12	2	0	7	8	1	5	10	9	35	22	10	11	9	16	4	0	6	6	8	2	1	5	3	2	17	15	17	10	9	26	10	1	1	5	9	2	3	8	2	4	4	2	8	20	8	4	1	3	12	0	6	8	5	6	0	0	0	0
+10	ND5	NP_795856.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	21	24	18	1	8	16	5	1	6	5	4	4	9	5	30	39	13	9	7	25	2	1	4	12	14	3	2	3	3	1	23	15	18	6	13	23	15	3	9	19	18	2	4	9	10	10	10	2	12	29	9	2	7	7	10	1	5	13	8	4	1	0	0	0
+11	CYTB	NP_795858.1	Opisthoproctus soleatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Protacanthopterygii, Opisthoproctidae, Opisthoproctus	15	13	5	1	11	8	3	0	5	12	2	1	11	1	15	29	9	1	5	15	1	1	4	8	5	1	0	2	6	0	19	18	9	3	5	17	1	2	2	16	7	1	2	1	6	5	6	1	4	16	5	1	2	9	5	0	4	12	5	4	1	0	0	0

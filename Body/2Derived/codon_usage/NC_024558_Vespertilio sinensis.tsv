@@ -1,65 +1,13 @@
-	YP_009048528.1|ND1	YP_009048529.1|ND2	YP_009048530.1|COX1	YP_009048531.1|COX2	YP_009048532.1|ATP8	YP_009048533.1|ATP6	YP_009048534.1|COX3	YP_009048535.1|ND3	YP_009048536.1|ND4L	YP_009048537.1|ND4	YP_009048538.1|ND5	YP_009048540.1|CYTB
-TTT	11	6	24	3	2	7	11	7	1	7	23	18
-TTC	9	5	18	4	0	6	12	2	2	8	20	11
-TTA	14	23	24	13	2	12	6	7	3	33	27	13
-TTG	1	2	5	2	1	3	1	1	1	7	2	2
-TCT	3	3	11	7	1	4	5	2	1	9	14	7
-TCC	1	8	7	3	1	1	4	2	2	8	12	7
-TCA	10	12	9	3	3	2	7	2	6	5	15	6
-TCG	2	2	2	0	0	0	0	0	1	2	0	1
-TAT	8	5	11	7	1	2	9	3	2	11	6	11
-TAC	6	7	8	3	2	0	3	0	1	11	10	5
-TGT	0	0	1	2	0	0	0	1	0	0	2	1
-TGC	1	0	0	0	1	0	1	0	3	5	2	3
-TGA	6	8	14	4	2	2	11	4	0	10	10	11
-TGG	3	2	3	1	1	1	1	0	0	3	2	1
-CTT	5	11	12	4	1	5	6	3	1	6	12	8
-CTC	5	5	10	3	0	5	2	1	4	6	13	6
-CTA	27	17	6	11	2	12	15	13	12	30	30	20
-CTG	5	1	5	2	2	3	4	3	4	4	5	5
-CCT	2	0	12	5	2	3	2	1	0	4	6	2
-CCC	6	10	11	4	3	5	4	3	0	12	12	8
-CCA	12	9	5	3	1	3	5	2	1	7	7	13
-CCG	2	0	1	1	0	1	1	0	0	2	0	0
-CAT	2	1	9	3	1	3	7	0	2	4	4	5
-CAC	0	5	10	4	2	4	9	1	0	5	7	7
-CAA	7	8	4	7	3	6	4	2	1	13	13	8
-CAG	0	0	2	0	1	1	3	0	0	1	3	0
-CGT	0	0	0	1	0	1	0	0	0	1	0	0
-CGC	0	0	2	1	0	3	2	1	0	0	4	2
-CGA	5	3	5	4	0	1	3	0	1	7	3	5
-CGG	2	0	1	0	0	0	0	0	0	1	1	1
-ATT	19	30	31	9	5	22	10	5	5	29	41	21
-ATC	6	11	6	10	3	7	5	4	1	15	18	15
-ATA	17	33	23	9	1	11	10	7	8	34	38	16
-ATG	1	2	6	5	1	4	2	0	1	5	8	2
-ACT	7	3	10	5	2	3	6	2	1	7	10	4
-ACC	7	12	9	2	4	10	2	2	3	13	15	9
-ACA	12	22	14	11	2	9	13	2	3	16	27	9
-ACG	0	1	3	0	1	1	1	0	0	0	2	0
-AAT	7	8	13	3	1	4	1	1	3	11	13	9
-AAC	7	9	4	4	2	3	5	3	3	7	18	9
-AAA	5	11	7	3	6	5	1	3	1	12	22	7
-AAG	2	1	2	1	0	1	0	1	0	0	2	2
-AGT	1	0	1	4	0	5	2	0	0	5	6	1
-AGC	2	2	3	2	0	2	4	2	0	6	7	2
-GTT	5	4	8	3	1	2	5	0	2	3	6	3
-GTC	4	2	4	4	0	1	1	1	1	2	4	4
-GTA	8	2	25	4	0	6	8	0	3	5	5	12
-GTG	0	1	2	2	0	0	1	1	1	3	1	3
-GCT	4	2	18	2	0	5	5	1	0	7	12	3
-GCC	9	7	12	4	0	8	6	4	1	16	19	9
-GCA	13	9	8	2	0	6	2	4	5	10	13	12
-GCG	1	0	3	1	0	0	1	0	0	1	0	0
-GAT	0	0	8	9	0	2	1	0	0	1	3	4
-GAC	3	2	6	1	0	0	2	2	1	2	7	7
-GAA	6	5	8	10	2	2	6	4	0	6	11	3
-GAG	4	0	2	4	1	1	2	2	2	2	4	2
-GGT	0	2	12	1	0	3	1	1	1	7	2	3
-GGC	7	4	10	3	0	2	14	0	2	6	10	6
-GGA	6	7	14	3	0	3	5	2	1	5	16	13
-GGG	0	2	10	1	0	2	1	0	0	1	1	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009048528.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	11	9	14	1	3	1	10	2	8	6	0	1	6	3	5	5	27	5	2	6	12	2	2	0	7	0	0	0	5	2	19	6	17	1	7	7	12	0	7	7	5	2	1	2	5	4	8	0	4	9	13	1	0	3	6	4	0	7	6	0	0	0	0	0
+1	ND2	YP_009048529.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	6	5	23	2	3	8	12	2	5	7	0	0	8	2	11	5	17	1	0	10	9	0	1	5	8	0	0	0	3	0	30	11	33	2	3	12	22	1	8	9	11	1	0	2	4	2	2	1	2	7	9	0	0	2	5	0	2	4	7	2	0	0	0	0
+2	COX1	YP_009048530.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	24	18	24	5	11	7	9	2	11	8	1	0	14	3	12	10	6	5	12	11	5	1	9	10	4	2	0	2	5	1	31	6	23	6	10	9	14	3	13	4	7	2	1	3	8	4	25	2	18	12	8	3	8	6	8	2	12	10	14	10	1	0	0	0
+3	COX2	YP_009048531.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	3	4	13	2	7	3	3	0	7	3	2	0	4	1	4	3	11	2	5	4	3	1	3	4	7	0	1	1	4	0	9	10	9	5	5	2	11	0	3	4	3	1	4	2	3	4	4	2	2	4	2	1	9	1	10	4	1	3	3	1	1	0	0	0
+4	ATP8	YP_009048532.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	2	0	2	1	1	1	3	0	1	2	0	1	2	1	1	0	2	2	2	3	1	0	1	2	3	1	0	0	0	0	5	3	1	1	2	4	2	1	1	2	6	0	0	0	1	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009048533.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	7	6	12	3	4	1	2	0	2	0	0	0	2	1	5	5	12	3	3	5	3	1	3	4	6	1	1	3	1	0	22	7	11	4	3	10	9	1	4	3	5	1	5	2	2	1	6	0	5	8	6	0	2	0	2	1	3	2	3	2	1	0	0	0
+6	COX3	YP_009048534.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	11	12	6	1	5	4	7	0	9	3	0	1	11	1	6	2	15	4	2	4	5	1	7	9	4	3	0	2	3	0	10	5	10	2	6	2	13	1	1	5	1	0	2	4	5	1	8	1	5	6	2	1	1	2	6	2	1	14	5	1	0	0	0	0
+7	ND3	YP_009048535.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	7	2	7	1	2	2	2	0	3	0	1	0	4	0	3	1	13	3	1	3	2	0	0	1	2	0	0	1	0	0	5	4	7	0	2	2	2	0	1	3	3	1	0	2	0	1	0	1	1	4	4	0	0	2	4	2	1	0	2	0	0	0	0	0
+8	ND4L	YP_009048536.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	1	2	3	1	1	2	6	1	2	1	0	3	0	0	1	4	12	4	0	0	1	0	2	0	1	0	0	0	1	0	5	1	8	1	1	3	3	0	3	3	1	0	0	0	2	1	3	1	0	1	5	0	0	1	0	2	1	2	1	0	1	0	0	0
+9	ND4	YP_009048537.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	7	8	33	7	9	8	5	2	11	11	0	5	10	3	6	6	30	4	4	12	7	2	4	5	13	1	1	0	7	1	29	15	34	5	7	13	16	0	11	7	12	0	5	6	3	2	5	3	7	16	10	1	1	2	6	2	7	6	5	1	0	0	0	0
+10	ND5	YP_009048538.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	23	20	27	2	14	12	15	0	6	10	2	2	10	2	12	13	30	5	6	12	7	0	4	7	13	3	0	4	3	1	41	18	38	8	10	15	27	2	13	18	22	2	6	7	6	4	5	1	12	19	13	0	3	7	11	4	2	10	16	1	1	0	0	0
+11	CYTB	YP_009048540.1	Vespertilio sinensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Vespertilionidae, Vespertilio	18	11	13	2	7	7	6	1	11	5	1	3	11	1	8	6	20	5	2	8	13	0	5	7	8	0	0	2	5	1	21	15	16	2	4	9	9	0	9	9	7	2	1	2	3	4	12	3	3	9	12	0	4	7	3	2	3	6	13	2	0	0	1	0

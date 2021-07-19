@@ -1,65 +1,13 @@
-	YP_009685829.1|ND1	YP_009685830.1|ND2	YP_009685831.1|COX1	YP_009685832.1|COX2	YP_009685833.1|ATP8	YP_009685834.1|ATP6	YP_009685835.1|COX3	YP_009685836.1|ND3	YP_009685837.1|ND4L	YP_009685838.1|ND4	YP_009685839.1|ND5	YP_009685841.1|CYTB
-TTT	15	11	28	7	4	10	15	5	5	14	32	14
-TTC	5	4	14	2	1	3	10	3	2	9	15	17
-TTA	26	40	30	10	2	32	14	11	11	43	43	17
-TTG	3	2	4	0	0	3	2	0	3	5	4	1
-TCT	9	2	12	6	1	3	5	3	2	12	10	6
-TCC	3	4	2	4	1	2	3	1	3	5	4	2
-TCA	5	12	8	6	1	3	4	4	4	13	21	12
-TCG	2	2	3	0	0	1	1	0	0	1	0	1
-TAT	8	5	11	6	0	3	5	4	0	8	6	7
-TAC	3	3	7	3	0	2	6	0	0	7	7	9
-TGT	0	0	1	2	0	0	2	1	2	1	5	3
-TGC	0	1	0	0	0	1	0	0	1	3	2	0
-TGA	5	11	14	5	4	4	11	5	1	12	13	10
-TGG	3	0	3	0	1	1	1	0	0	5	2	1
-CTT	9	14	11	14	0	11	10	8	6	15	17	15
-CTC	6	2	3	1	1	3	0	1	1	7	6	7
-CTA	10	11	11	6	1	8	4	6	4	13	17	14
-CTG	2	0	1	0	0	0	1	0	0	5	6	0
-CCT	9	6	12	7	2	8	7	2	1	14	13	11
-CCC	2	5	7	4	3	2	2	3	0	6	6	8
-CCA	7	7	7	2	1	4	4	2	0	3	6	3
-CCG	3	0	2	0	2	1	0	2	0	0	0	0
-CAT	2	5	13	7	2	2	6	1	2	6	8	7
-CAC	1	4	6	4	0	1	10	0	1	3	2	6
-CAA	8	12	6	8	2	6	8	1	2	10	19	5
-CAG	0	0	4	0	0	1	1	0	0	0	0	1
-CGT	0	0	4	0	0	4	1	0	0	1	2	2
-CGC	1	0	1	0	0	0	1	0	0	2	1	1
-CGA	6	4	2	4	0	1	2	2	3	7	5	5
-CGG	1	0	1	1	0	0	1	0	0	1	0	0
-ATT	21	22	28	18	4	15	13	10	4	33	34	27
-ATC	6	9	17	5	2	3	5	3	0	14	23	12
-ATA	12	16	21	11	2	12	9	2	2	25	23	16
-ATG	3	2	5	1	1	1	1	2	2	5	4	2
-ACT	10	9	10	4	2	8	5	1	5	11	15	5
-ACC	2	8	6	3	1	3	6	3	2	8	7	2
-ACA	7	21	19	5	1	6	7	0	2	16	30	14
-ACG	0	1	2	1	0	1	0	0	0	1	1	2
-AAT	7	7	8	5	2	7	2	1	1	9	16	13
-AAC	6	9	6	1	2	3	0	3	3	4	16	7
-AAA	6	10	8	4	2	3	2	1	0	8	21	10
-AAG	1	0	0	0	0	0	0	0	0	2	3	0
-AGT	3	1	3	3	0	3	2	0	1	6	2	1
-AGC	2	3	1	1	0	2	1	0	0	4	8	1
-GTT	6	1	11	6	0	8	2	3	2	9	10	4
-GTC	1	3	6	1	0	1	1	0	0	0	2	3
-GTA	9	4	17	5	0	3	9	0	0	5	14	11
-GTG	1	1	2	2	1	0	2	0	0	0	1	2
-GCT	6	9	14	4	0	4	7	4	2	14	12	9
-GCC	6	8	10	1	2	3	9	1	5	4	11	3
-GCA	16	9	19	5	2	5	6	3	4	11	21	9
-GCG	1	1	2	1	0	1	0	0	0	2	0	1
-GAT	3	1	8	9	0	0	5	1	2	3	11	5
-GAC	1	0	6	3	1	0	0	1	0	2	3	6
-GAA	9	5	10	11	1	3	6	6	2	8	10	6
-GAG	1	0	2	3	0	2	3	0	0	2	2	0
-GGT	4	12	21	5	0	5	5	3	1	4	13	6
-GGC	4	1	5	0	0	1	5	1	2	7	5	7
-GGA	6	3	10	3	0	3	9	2	2	7	9	6
-GGG	2	0	10	0	0	1	2	0	0	5	4	4
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009685829.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	15	5	26	3	9	3	5	2	8	3	0	0	5	3	9	6	10	2	9	2	7	3	2	1	8	0	0	1	6	1	21	6	12	3	10	2	7	0	7	6	6	1	3	2	6	1	9	1	6	6	16	1	3	1	9	1	4	4	6	2	1	0	0	0
+1	ND2	YP_009685830.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	11	4	40	2	2	4	12	2	5	3	0	1	11	0	14	2	11	0	6	5	7	0	5	4	12	0	0	0	4	0	22	9	16	2	9	8	21	1	7	9	10	0	1	3	1	3	4	1	9	8	9	1	1	0	5	0	12	1	3	0	0	0	0	0
+2	COX1	YP_009685831.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	28	14	30	4	12	2	8	3	11	7	1	0	14	3	11	3	11	1	12	7	7	2	13	6	6	4	4	1	2	1	28	17	21	5	10	6	19	2	8	6	8	0	3	1	11	6	17	2	14	10	19	2	8	6	10	2	21	5	10	10	1	0	0	0
+3	COX2	YP_009685832.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	7	2	10	0	6	4	6	0	6	3	2	0	5	0	14	1	6	0	7	4	2	0	7	4	8	0	0	0	4	1	18	5	11	1	4	3	5	1	5	1	4	0	3	1	6	1	5	2	4	1	5	1	9	3	11	3	5	0	3	0	0	0	0	0
+4	ATP8	YP_009685833.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	4	1	2	0	1	1	1	0	0	0	0	0	4	1	0	1	1	0	2	3	1	2	2	0	2	0	0	0	0	0	4	2	2	1	2	1	1	0	2	2	2	0	0	0	0	0	0	1	0	2	2	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009685834.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	10	3	32	3	3	2	3	1	3	2	0	1	4	1	11	3	8	0	8	2	4	1	2	1	6	1	4	0	1	0	15	3	12	1	8	3	6	1	7	3	3	0	3	2	8	1	3	0	4	3	5	1	0	0	3	2	5	1	3	1	1	0	0	0
+6	COX3	YP_009685835.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	15	10	14	2	5	3	4	1	5	6	2	0	11	1	10	0	4	1	7	2	4	0	6	10	8	1	1	1	2	1	13	5	9	1	5	6	7	0	2	0	2	0	2	1	2	1	9	2	7	9	6	0	5	0	6	3	5	5	9	2	0	0	0	0
+7	ND3	YP_009685836.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	5	3	11	0	3	1	4	0	4	0	1	0	5	0	8	1	6	0	2	3	2	2	1	0	1	0	0	0	2	0	10	3	2	2	1	3	0	0	1	3	1	0	0	0	3	0	0	0	4	1	3	0	1	1	6	0	3	1	2	0	0	0	0	0
+8	ND4L	YP_009685837.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	5	2	11	3	2	3	4	0	0	0	2	1	1	0	6	1	4	0	1	0	0	0	2	1	2	0	0	0	3	0	4	0	2	2	5	2	2	0	1	3	0	0	1	0	2	0	0	0	2	5	4	0	2	0	2	0	1	2	2	0	1	0	0	0
+9	ND4	YP_009685838.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	14	9	43	5	12	5	13	1	8	7	1	3	12	5	15	7	13	5	14	6	3	0	6	3	10	0	1	2	7	1	33	14	25	5	11	8	16	1	9	4	8	2	6	4	9	0	5	0	14	4	11	2	3	2	8	2	4	7	7	5	0	0	0	0
+10	ND5	YP_009685839.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	32	15	43	4	10	4	21	0	6	7	5	2	13	2	17	6	17	6	13	6	6	0	8	2	19	0	2	1	5	0	34	23	23	4	15	7	30	1	16	16	21	3	2	8	10	2	14	1	12	11	21	0	11	3	10	2	13	5	9	4	1	0	0	0
+11	CYTB	YP_009685841.1	Fundulopanchax filamentosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Atherinomorphae, Cyprinodontiformes, Nothobranchiidae, Fundulopanchax	14	17	17	1	6	2	12	1	7	9	3	0	10	1	15	7	14	0	11	8	3	0	7	6	5	1	2	1	5	0	27	12	16	2	5	2	14	2	13	7	10	0	1	1	4	3	11	2	9	3	9	1	5	6	6	0	6	7	6	4	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_008238994.1|COX1	YP_008238995.1|COX2	YP_008238996.1|ATP8	YP_008238997.1|ATP6	YP_008238998.1|COX3	YP_008238999.1|ND3	YP_008239003.1|ND6	YP_008239004.1|CYTB	YP_008239006.1|ND2
-TTT	24	7	6	15	18	7	13	28	29
-TTC	15	8	3	5	8	5	6	10	11
-TTA	20	10	1	16	13	9	12	22	18
-TTG	4	4	0	7	0	1	4	6	4
-TCT	18	6	2	7	10	4	12	10	27
-TCC	9	7	1	5	2	2	9	5	6
-TCA	6	3	0	2	3	1	1	2	5
-TCG	0	0	0	2	0	2	1	2	1
-TAT	11	6	2	3	6	2	2	9	5
-TAC	6	3	2	2	5	2	3	5	8
-TGT	0	2	0	0	1	1	1	2	0
-TGC	0	0	0	0	1	0	0	1	0
-TGA	13	6	2	4	11	2	0	9	4
-TGG	2	0	0	2	2	1	2	3	3
-CTT	19	6	4	10	9	9	8	9	22
-CTC	4	3	1	1	3	0	2	2	13
-CTA	12	4	1	8	3	1	6	9	10
-CTG	3	0	0	1	2	1	0	2	1
-CCT	16	5	2	9	8	2	4	14	12
-CCC	8	1	1	2	0	1	1	2	1
-CCA	3	5	1	0	2	0	2	6	2
-CCG	0	0	0	0	0	1	1	1	1
-CAT	12	3	1	5	6	0	2	11	3
-CAC	6	2	0	2	8	0	0	2	2
-CAA	5	3	1	4	6	1	1	4	4
-CAG	3	5	1	1	2	0	0	5	2
-CGT	3	1	0	1	3	0	0	2	1
-CGC	2	2	0	2	0	0	1	0	0
-CGA	4	3	0	0	0	2	1	4	0
-CGG	0	1	0	0	1	1	0	1	1
-ATT	27	17	3	14	15	7	11	26	24
-ATC	17	6	0	6	5	6	8	12	9
-ATA	24	9	3	9	9	3	5	8	14
-ATG	6	2	1	1	3	1	1	5	3
-ACT	14	8	1	9	10	3	9	12	5
-ACC	8	2	0	2	3	4	2	2	8
-ACA	6	2	1	5	8	1	1	7	2
-ACG	2	0	0	1	1	0	0	1	0
-AAT	10	4	3	5	3	0	2	7	6
-AAC	8	8	0	3	2	2	0	10	4
-AAA	3	1	3	3	2	3	1	6	7
-AAG	4	1	0	1	1	1	1	1	3
-AGT	5	0	0	1	1	0	2	2	1
-AGC	0	3	0	1	1	0	0	1	1
-AGA	2	2	1	4	4	1	0	2	1
-AGG	3	1	1	2	0	0	1	1	1
-GTT	16	9	0	5	5	2	6	16	7
-GTC	6	2	0	3	2	3	3	3	2
-GTA	11	3	0	4	8	2	7	6	1
-GTG	2	1	0	1	2	0	0	0	1
-GCT	23	3	0	9	4	3	0	16	13
-GCC	8	3	1	2	6	1	4	7	4
-GCA	6	4	0	2	3	2	0	5	3
-GCG	3	0	0	0	2	1	0	0	1
-GAT	9	8	0	0	2	1	2	8	1
-GAC	6	4	0	0	2	2	0	3	3
-GAA	7	5	0	5	6	4	1	2	2
-GAG	2	6	1	0	1	1	0	0	1
-GGT	25	2	1	3	6	2	1	4	4
-GGC	6	2	0	2	4	0	2	2	3
-GGA	8	4	0	5	5	2	1	10	5
-GGG	6	1	0	0	4	0	1	5	0
-TAA	0	0	1	1	0	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_008238994.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	24	15	20	4	18	9	6	0	11	6	0	0	13	2	19	4	12	3	16	8	3	0	12	6	5	3	3	2	4	0	27	17	24	6	14	8	6	2	10	8	3	4	5	0	2	3	16	6	11	2	23	8	6	3	9	6	7	2	25	6	8	6	0	0
+1	COX2	YP_008238995.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	7	8	10	4	6	7	3	0	6	3	2	0	6	0	6	3	4	0	5	1	5	0	3	2	3	5	1	2	3	1	17	6	9	2	8	2	2	0	4	8	1	1	0	3	2	1	9	2	3	1	3	3	4	0	8	4	5	6	2	2	4	1	0	0
+2	ATP8	YP_008238996.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	6	3	1	0	2	1	0	0	2	2	0	0	2	0	4	1	1	0	2	1	1	0	1	0	1	1	0	0	0	0	3	0	3	1	1	0	1	0	3	0	3	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	1	0
+3	ATP6	YP_008238997.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	15	5	16	7	7	5	2	2	3	2	0	0	4	2	10	1	8	1	9	2	0	0	5	2	4	1	1	2	0	0	14	6	9	1	9	2	5	1	5	3	3	1	1	1	4	2	5	3	4	1	9	2	2	0	0	0	5	0	3	2	5	0	1	0
+4	COX3	YP_008238998.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	18	8	13	0	10	2	3	0	6	5	1	1	11	2	9	3	3	2	8	0	2	0	6	8	6	2	3	0	0	1	15	5	9	3	10	3	8	1	3	2	2	1	1	1	4	0	5	2	8	2	4	6	3	2	2	2	6	1	6	4	5	4	0	0
+5	ND3	YP_008238999.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	7	5	9	1	4	2	1	2	2	2	1	0	2	1	9	0	1	1	2	1	0	1	0	0	1	0	0	0	2	1	7	6	3	1	3	4	1	0	0	2	3	1	0	0	1	0	2	3	2	0	3	1	2	1	1	2	4	1	2	0	2	0	1	0
+6	ND6	YP_008239003.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	13	6	12	4	12	9	1	1	2	3	1	0	0	2	8	2	6	0	4	1	2	1	2	0	1	0	0	1	1	0	11	8	5	1	9	2	1	0	2	0	1	1	2	0	0	1	6	3	7	0	0	4	0	0	2	0	1	0	1	2	1	1	1	0
+7	CYTB	YP_008239004.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	28	10	22	6	10	5	2	2	9	5	2	1	9	3	9	2	9	2	14	2	6	1	11	2	4	5	2	0	4	1	26	12	8	5	12	2	7	1	7	10	6	1	2	1	2	1	16	3	6	0	16	7	5	0	8	3	2	0	4	2	10	5	0	0
+8	ND2	YP_008239006.1	Pachygrapsus crassipes	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Brachyura, Eubrachyura, Grapsoidea, Grapsidae, Pachygrapsus	29	11	18	4	27	6	5	1	5	8	0	0	4	3	22	13	10	1	12	1	2	1	3	2	4	2	1	0	0	1	24	9	14	3	5	8	2	0	6	4	7	3	1	1	1	1	7	2	1	1	13	4	3	1	1	3	2	1	4	3	5	0	1	0

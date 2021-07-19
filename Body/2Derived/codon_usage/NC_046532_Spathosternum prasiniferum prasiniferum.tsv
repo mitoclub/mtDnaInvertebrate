@@ -1,65 +1,10 @@
-	YP_009740576.1|ND2	YP_009740577.1|COX1	YP_009740578.1|COX2	YP_009740579.1|ATP8	YP_009740580.1|ATP6	YP_009740581.1|COX3	YP_009740582.1|ND3	YP_009740586.1|ND6	YP_009740587.1|CYTB
-TTT	15	29	10	6	14	22	7	16	25
-TTC	4	9	3	2	7	6	3	2	7
-TTA	22	34	13	5	23	20	6	11	30
-TTG	4	0	2	0	0	0	0	1	2
-TCT	4	11	2	1	2	3	1	3	3
-TCC	2	4	1	1	1	0	0	0	1
-TCA	27	14	10	2	12	7	6	9	10
-TCG	0	0	1	0	0	0	1	0	0
-TAT	7	11	5	0	3	7	1	4	8
-TAC	4	5	2	0	1	3	0	0	8
-TGT	2	1	2	0	0	0	1	0	5
-TGC	0	0	0	0	0	1	0	0	0
-TGA	8	15	6	3	5	13	3	2	12
-TGG	2	0	0	0	0	1	0	0	0
-CTT	5	9	5	0	7	5	2	6	4
-CTC	2	1	2	0	0	0	1	0	1
-CTA	14	15	6	2	6	8	5	5	6
-CTG	2	0	0	0	0	0	0	0	1
-CCT	2	6	3	0	2	5	1	1	6
-CCC	2	3	0	0	0	0	0	2	1
-CCA	7	16	5	2	6	6	4	1	15
-CCG	0	1	1	0	1	0	0	0	0
-CAT	2	11	4	0	4	10	1	0	7
-CAC	0	3	2	0	2	3	0	1	5
-CAA	8	10	5	3	3	8	2	4	8
-CAG	1	0	0	0	0	0	0	0	0
-CGT	1	1	2	0	0	1	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	6	0	3	3	3	0	8
-CGG	0	0	0	0	0	0	0	0	0
-ATT	31	46	16	4	12	15	14	20	38
-ATC	9	5	2	1	7	4	5	1	8
-ATA	29	30	11	3	18	11	8	22	16
-ATG	5	1	1	0	1	1	0	1	2
-ACT	2	7	4	0	3	4	0	7	3
-ACC	6	3	0	1	2	1	0	1	4
-ACA	14	28	14	2	17	17	7	6	15
-ACG	2	0	0	0	0	0	0	1	0
-AAT	5	15	11	3	12	6	1	10	22
-AAC	8	5	2	1	4	1	0	2	3
-AAA	14	5	5	6	2	2	5	7	8
-AAG	0	1	0	1	0	0	0	0	1
-AGT	0	1	1	0	1	0	0	1	0
-AGC	0	0	0	0	0	0	1	0	0
-AGA	16	11	4	1	7	6	4	4	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	10	15	4	0	5	7	0	5	9
-GTC	1	1	0	0	0	0	0	0	0
-GTA	3	14	11	0	5	8	7	2	16
-GTG	1	1	0	0	0	0	0	0	0
-GCT	3	8	4	0	2	1	2	0	7
-GCC	1	4	1	0	1	1	0	0	2
-GCA	8	22	7	1	8	15	3	3	11
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	13	11	0	1	4	2	1	5
-GAC	1	3	1	0	0	0	1	0	3
-GAA	8	9	9	2	4	7	4	5	5
-GAG	1	1	0	0	0	0	1	0	1
-GGT	2	7	1	0	0	4	0	0	3
-GGC	0	0	0	0	0	0	0	0	0
-GGA	7	37	8	0	10	15	4	5	20
-GGG	5	4	1	0	1	1	0	1	1
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009740576.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	15	4	22	4	4	2	27	0	7	4	2	0	8	2	5	2	14	2	2	2	7	0	2	0	8	1	1	0	1	0	31	9	29	5	2	6	14	2	5	8	14	0	0	0	16	0	10	1	3	1	3	1	8	0	0	1	8	1	2	0	7	5	1	0
+1	COX1	YP_009740577.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	29	9	34	0	11	4	14	0	11	5	1	0	15	0	9	1	15	0	6	3	16	1	11	3	10	0	1	0	7	0	46	5	30	1	7	3	28	0	15	5	5	1	1	0	11	0	15	1	14	1	8	4	22	0	13	3	9	1	7	0	37	4	0	0
+2	COX2	YP_009740578.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	10	3	13	2	2	1	10	1	5	2	2	0	6	0	5	2	6	0	3	0	5	1	4	2	5	0	2	0	6	0	16	2	11	1	4	0	14	0	11	2	5	0	1	0	4	0	4	0	11	0	4	1	7	0	11	1	9	0	1	0	8	1	1	0
+3	ATP8	YP_009740579.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	6	2	5	0	1	1	2	0	0	0	0	0	3	0	0	0	2	0	0	0	2	0	0	0	3	0	0	0	0	0	4	1	3	0	0	1	2	0	3	1	6	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009740580.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	14	7	23	0	2	1	12	0	3	1	0	0	5	0	7	0	6	0	2	0	6	1	4	2	3	0	0	0	3	0	12	7	18	1	3	2	17	0	12	4	2	0	1	0	7	0	5	0	5	0	2	1	8	0	1	0	4	0	0	0	10	1	1	0
+5	COX3	YP_009740581.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	22	6	20	0	3	0	7	0	7	3	0	1	13	1	5	0	8	0	5	0	6	0	10	3	8	0	1	0	3	0	15	4	11	1	4	1	17	0	6	1	2	0	0	0	6	0	7	0	8	0	1	1	15	0	4	0	7	0	4	0	15	1	1	0
+6	ND3	YP_009740582.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	7	3	6	0	1	0	6	1	1	0	1	0	3	0	2	1	5	0	1	0	4	0	1	0	2	0	0	0	3	0	14	5	8	0	0	0	7	0	1	0	5	0	0	1	4	0	0	0	7	0	2	0	3	0	2	1	4	1	0	0	4	0	1	0
+7	ND6	YP_009740586.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	16	2	11	1	3	0	9	0	4	0	0	0	2	0	6	0	5	0	1	2	1	0	0	1	4	0	1	0	0	0	20	1	22	1	7	1	6	1	10	2	7	0	1	0	4	0	5	0	2	0	0	0	3	0	1	0	5	0	0	0	5	1	1	0
+8	CYTB	YP_009740587.1	Spathosternum prasiniferum prasiniferum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Acridoidea, Acrididae, Spathosterninae, Spathosternum	25	7	30	2	3	1	10	0	8	8	5	0	12	0	4	1	6	1	6	1	15	0	7	5	8	0	0	0	8	0	38	8	16	2	3	4	15	0	22	3	8	1	0	0	3	0	9	0	16	0	7	2	11	0	5	3	5	1	3	0	20	1	1	0

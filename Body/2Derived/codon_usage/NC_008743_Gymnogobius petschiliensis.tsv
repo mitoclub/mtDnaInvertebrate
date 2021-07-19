@@ -1,65 +1,13 @@
-	YP_961317.1|ND1	YP_961318.1|ND2	YP_961319.1|COX1	YP_961320.1|COX2	YP_961321.1|ATP8	YP_961322.1|ATP6	YP_961323.1|COX3	YP_961324.1|ND3	YP_961325.1|ND4L	YP_961326.1|ND4	YP_961327.1|ND5	YP_961329.1|CYTB
-TTT	16	9	29	8	2	9	11	9	3	13	37	20
-TTC	3	4	11	1	2	4	11	1	5	6	10	11
-TTA	11	16	17	7	1	10	8	6	6	22	13	5
-TTG	4	10	0	1	1	3	0	1	0	8	6	1
-TCT	7	6	12	2	0	1	3	1	3	7	10	7
-TCC	6	4	6	3	3	4	1	1	2	7	9	10
-TCA	3	5	5	5	2	0	2	4	1	5	7	4
-TCG	1	0	2	0	0	0	0	0	1	1	2	1
-TAT	7	2	13	5	0	2	6	2	0	4	8	8
-TAC	4	5	5	5	0	2	7	1	0	8	9	7
-TGT	0	0	0	1	0	0	1	0	1	3	2	0
-TGC	0	0	1	1	0	0	1	1	2	2	4	3
-TGA	4	6	14	5	4	4	11	4	1	13	12	10
-TGG	4	5	3	0	1	1	1	1	0	4	2	2
-CTT	23	29	22	9	3	23	12	11	5	33	33	30
-CTC	13	12	9	4	0	8	4	4	4	16	16	8
-CTA	13	9	10	7	1	7	6	4	8	14	14	12
-CTG	5	8	8	0	0	2	0	1	2	2	9	5
-CCT	5	11	15	5	1	2	2	4	0	10	11	10
-CCC	13	6	9	4	3	10	8	3	0	12	10	6
-CCA	4	5	3	5	4	6	2	1	1	7	8	7
-CCG	2	1	2	0	0	0	0	1	0	0	3	1
-CAT	2	2	7	2	1	0	8	0	3	2	7	8
-CAC	4	4	12	7	0	3	7	0	1	9	8	5
-CAA	4	12	6	10	2	7	7	3	2	9	12	5
-CAG	3	3	2	0	1	1	1	0	0	1	3	1
-CGT	1	1	3	2	0	0	1	0	0	2	2	1
-CGC	1	1	0	2	0	2	0	2	2	2	1	1
-CGA	6	2	4	2	0	3	4	0	1	6	2	4
-CGG	0	0	2	0	0	1	0	0	0	1	4	2
-ATT	15	16	33	14	2	13	13	6	0	31	38	21
-ATC	7	4	6	5	0	2	5	2	0	3	9	7
-ATA	4	6	17	3	0	9	7	1	4	20	16	7
-ATG	5	4	7	7	1	3	3	1	1	6	12	4
-ACT	5	12	8	2	1	2	4	2	1	15	10	7
-ACC	1	16	8	2	0	6	6	1	2	11	18	8
-ACA	9	13	20	7	4	10	12	3	4	18	24	5
-ACG	2	2	1	0	0	1	0	0	3	2	2	0
-AAT	8	5	6	3	1	5	3	1	0	8	20	5
-AAC	1	6	8	2	2	4	0	0	3	5	11	11
-AAA	4	4	8	4	2	1	1	1	0	8	16	8
-AAG	4	3	0	0	0	0	1	0	0	0	5	2
-AGT	3	2	0	0	0	2	2	0	1	2	6	1
-AGC	3	1	5	3	1	3	2	0	0	6	10	1
-GTT	7	3	11	5	3	10	5	3	1	7	14	8
-GTC	0	5	3	4	1	0	3	2	0	3	6	3
-GTA	9	2	23	9	0	2	8	3	0	5	8	8
-GTG	3	0	2	4	0	2	0	0	0	4	4	4
-GCT	6	8	14	5	0	8	2	2	3	10	20	8
-GCC	9	15	19	7	2	5	11	4	5	14	20	12
-GCA	16	15	15	7	0	7	10	2	6	10	13	13
-GCG	2	2	0	1	0	0	0	0	0	0	1	0
-GAT	1	2	4	4	0	1	1	0	0	1	10	9
-GAC	3	1	10	8	1	0	4	4	2	3	3	1
-GAA	7	4	8	12	0	4	7	4	2	8	8	4
-GAG	4	1	2	1	1	0	2	2	1	3	2	1
-GGT	3	3	9	2	0	4	8	1	1	8	9	4
-GGC	9	8	9	1	0	4	8	4	3	9	7	11
-GGA	2	5	19	4	0	4	6	0	1	8	13	9
-GGG	3	2	10	1	0	0	2	1	0	3	3	3
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_961317.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	16	3	11	4	7	6	3	1	7	4	0	0	4	4	23	13	13	5	5	13	4	2	2	4	4	3	1	1	6	0	15	7	4	5	5	1	9	2	8	1	4	4	3	3	7	0	9	3	6	9	16	2	1	3	7	4	3	9	2	3	1	0	0	0
+1	ND2	YP_961318.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	9	4	16	10	6	4	5	0	2	5	0	0	6	5	29	12	9	8	11	6	5	1	2	4	12	3	1	1	2	0	16	4	6	4	12	16	13	2	5	6	4	3	2	1	3	5	2	0	8	15	15	2	2	1	4	1	3	8	5	2	0	1	0	0
+2	COX1	YP_961319.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	29	11	17	0	12	6	5	2	13	5	0	1	14	3	22	9	10	8	15	9	3	2	7	12	6	2	3	0	4	2	33	6	17	7	8	8	20	1	6	8	8	0	0	5	11	3	23	2	14	19	15	0	4	10	8	2	9	9	19	10	1	0	0	0
+3	COX2	YP_961320.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	8	1	7	1	2	3	5	0	5	5	1	1	5	0	9	4	7	0	5	4	5	0	2	7	10	0	2	2	2	0	14	5	3	7	2	2	7	0	3	2	4	0	0	3	5	4	9	4	5	7	7	1	4	8	12	1	2	1	4	1	0	0	0	0
+4	ATP8	YP_961321.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	2	2	1	1	0	3	2	0	0	0	0	0	4	1	3	0	1	0	1	3	4	0	1	0	2	1	0	0	0	0	2	0	0	1	1	0	4	0	1	2	2	0	0	1	3	1	0	0	0	2	0	0	0	1	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_961322.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	9	4	10	3	1	4	0	0	2	2	0	0	4	1	23	8	7	2	2	10	6	0	0	3	7	1	0	2	3	1	13	2	9	3	2	6	10	1	5	4	1	0	2	3	10	0	2	2	8	5	7	0	1	0	4	0	4	4	4	0	1	0	0	0
+6	COX3	YP_961323.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	11	11	8	0	3	1	2	0	6	7	1	1	11	1	12	4	6	0	2	8	2	0	8	7	7	1	1	0	4	0	13	5	7	3	4	6	12	0	3	0	1	1	2	2	5	3	8	0	2	11	10	0	1	4	7	2	8	8	6	2	0	0	0	0
+7	ND3	YP_961324.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	9	1	6	1	1	1	4	0	2	1	0	1	4	1	11	4	4	1	4	3	1	1	0	0	3	0	0	2	0	0	6	2	1	1	2	1	3	0	1	0	1	0	0	0	3	2	3	0	2	4	2	0	0	4	4	2	1	4	0	1	0	1	0	0
+8	ND4L	YP_961325.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	3	5	6	0	3	2	1	1	0	0	1	2	1	0	5	4	8	2	0	0	1	0	3	1	2	0	0	2	1	0	0	0	4	1	1	2	4	3	0	3	0	0	1	0	1	0	0	0	3	5	6	0	0	2	2	1	1	3	1	0	1	0	0	0
+9	ND4	YP_961326.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	13	6	22	8	7	7	5	1	4	8	3	2	13	4	33	16	14	2	10	12	7	0	2	9	9	1	2	2	6	1	31	3	20	6	15	11	18	2	8	5	8	0	2	6	7	3	5	4	10	14	10	0	1	3	8	3	8	9	8	3	0	0	0	0
+10	ND5	YP_961327.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	37	10	13	6	10	9	7	2	8	9	2	4	12	2	33	16	14	9	11	10	8	3	7	8	12	3	2	1	2	4	38	9	16	12	10	18	24	2	20	11	16	5	6	10	14	6	8	4	20	20	13	1	10	3	8	2	9	7	13	3	1	0	0	0
+11	CYTB	YP_961329.1	Gymnogobius petschiliensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Gobionellinae, Gymnogobius	20	11	5	1	7	10	4	1	8	7	0	3	10	2	30	8	12	5	10	6	7	1	8	5	5	1	1	1	4	2	21	7	7	4	7	8	5	0	5	11	8	2	1	1	8	3	8	4	8	12	13	0	9	1	4	1	4	11	9	3	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_009503085.1|ND1	YP_009503086.1|ND2	YP_009503087.1|COX1	YP_009503088.1|COX2	YP_009503089.1|ATP8	YP_009503090.1|ATP6	YP_009503091.1|COX3	YP_009503092.1|ND3	YP_009503093.1|ND4L	YP_009503094.1|ND4	YP_009503095.1|ND5	YP_009503097.1|CYTB
-TTT	6	5	20	2	2	6	8	1	2	5	11	5
-TTC	17	7	22	4	3	5	14	6	4	13	26	20
-TTA	8	7	17	3	2	6	6	7	1	18	15	15
-TTG	1	2	2	0	0	4	0	2	2	1	2	1
-TCT	5	2	5	2	2	0	2	0	2	2	6	3
-TCC	6	12	7	8	0	4	9	2	5	10	15	7
-TCA	12	14	16	4	1	5	6	5	2	24	19	16
-TCG	1	1	2	0	1	2	0	0	0	1	3	0
-TAT	5	2	10	6	1	0	5	0	1	7	9	4
-TAC	6	7	10	5	0	3	7	5	2	14	11	10
-TGT	0	0	1	1	0	0	1	0	2	0	0	0
-TGC	3	0	0	2	0	0	0	1	1	6	4	3
-TGA	9	9	17	4	3	2	11	4	0	11	12	11
-TGG	0	1	0	1	0	1	1	0	0	1	0	1
-CTT	4	5	8	8	2	3	2	0	1	11	11	6
-CTC	12	15	6	5	0	5	4	4	1	11	13	6
-CTA	26	32	17	15	2	25	18	9	12	46	48	22
-CTG	1	3	9	2	0	3	3	2	5	3	7	2
-CCT	3	3	9	1	4	5	1	0	0	2	4	2
-CCC	6	10	7	4	2	6	8	2	0	10	12	9
-CCA	9	5	10	8	3	1	2	3	1	6	10	12
-CCG	1	1	2	1	0	1	0	1	0	1	0	1
-CAT	1	0	4	3	0	1	8	0	1	3	2	3
-CAC	1	6	12	4	0	5	8	0	2	7	11	8
-CAA	7	10	7	7	3	6	9	4	0	11	15	6
-CAG	0	0	0	1	0	1	0	0	0	0	2	0
-CGT	1	0	2	0	0	0	3	0	0	0	1	0
-CGC	1	1	1	1	0	0	0	1	1	1	2	0
-CGA	5	2	5	5	0	4	2	0	0	8	6	7
-CGG	1	0	0	0	0	0	0	0	0	1	0	1
-ATT	9	6	23	8	3	7	9	5	4	22	24	16
-ATC	14	24	17	12	3	14	6	4	3	15	40	30
-ATA	19	28	25	11	1	10	8	7	7	30	30	12
-ATG	4	8	5	3	1	2	1	1	1	7	5	4
-ACT	5	6	5	4	2	3	3	1	3	6	9	1
-ACC	11	12	4	5	6	9	6	3	2	20	22	4
-ACA	14	14	24	7	3	12	14	2	1	17	24	20
-ACG	0	0	3	1	1	0	3	0	0	0	2	1
-AAT	3	6	8	2	1	4	1	1	0	7	6	5
-AAC	9	17	10	2	2	6	6	4	3	11	32	12
-AAA	7	11	9	4	7	7	1	3	2	13	18	9
-AAG	1	0	0	0	0	0	0	0	0	0	1	1
-AGT	0	0	0	1	0	0	1	0	0	2	1	0
-AGC	1	3	3	2	0	5	3	1	1	9	8	3
-GTT	2	3	2	3	1	3	1	0	1	1	2	4
-GTC	3	2	8	3	0	2	5	2	2	1	2	6
-GTA	7	5	25	8	1	7	12	0	5	10	12	3
-GTG	0	0	2	0	0	1	0	0	0	0	1	0
-GCT	1	2	9	2	0	7	2	1	2	4	2	1
-GCC	14	11	14	7	0	8	6	5	2	9	20	12
-GCA	10	6	18	3	0	2	4	3	2	12	16	12
-GCG	0	1	0	0	0	0	0	1	0	0	0	0
-GAT	0	0	6	3	1	0	2	0	0	1	2	5
-GAC	3	2	9	8	1	1	2	2	1	2	8	7
-GAA	10	4	9	8	2	3	7	5	2	7	10	5
-GAG	1	0	1	5	0	0	0	1	0	2	1	1
-GGT	1	2	11	1	0	3	3	0	2	1	4	3
-GGC	5	4	4	3	0	2	5	0	0	6	5	8
-GGA	5	6	27	3	0	4	8	4	3	8	19	11
-GGG	1	2	5	1	0	0	4	0	1	2	0	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009503085.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	6	17	8	1	5	6	12	1	5	6	0	3	9	0	4	12	26	1	3	6	9	1	1	1	7	0	1	1	5	1	9	14	19	4	5	11	14	0	3	9	7	1	0	1	2	3	7	0	1	14	10	0	0	3	10	1	1	5	5	1	0	0	0	0
+1	ND2	YP_009503086.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	5	7	7	2	2	12	14	1	2	7	0	0	9	1	5	15	32	3	3	10	5	1	0	6	10	0	0	1	2	0	6	24	28	8	6	12	14	0	6	17	11	0	0	3	3	2	5	0	2	11	6	1	0	2	4	0	2	4	6	2	0	0	0	0
+2	COX1	YP_009503087.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	20	22	17	2	5	7	16	2	10	10	1	0	17	0	8	6	17	9	9	7	10	2	4	12	7	0	2	1	5	0	23	17	25	5	5	4	24	3	8	10	9	0	0	3	2	8	25	2	9	14	18	0	6	9	9	1	11	4	27	5	1	0	0	0
+3	COX2	YP_009503088.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	2	4	3	0	2	8	4	0	6	5	1	2	4	1	8	5	15	2	1	4	8	1	3	4	7	1	0	1	5	0	8	12	11	3	4	5	7	1	2	2	4	0	1	2	3	3	8	0	2	7	3	0	3	8	8	5	1	3	3	1	1	0	0	0
+4	ATP8	YP_009503089.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	2	3	2	0	2	0	1	1	1	0	0	0	3	0	2	0	2	0	4	2	3	0	0	0	3	0	0	0	0	0	3	3	1	1	2	6	3	1	1	2	7	0	0	0	1	0	1	0	0	0	0	0	1	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009503090.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	6	5	6	4	0	4	5	2	0	3	0	0	2	1	3	5	25	3	5	6	1	1	1	5	6	1	0	0	4	0	7	14	10	2	3	9	12	0	4	6	7	0	0	5	3	2	7	1	7	8	2	0	0	1	3	0	3	2	4	0	1	0	0	0
+6	COX3	YP_009503091.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	8	14	6	0	2	9	6	0	5	7	1	0	11	1	2	4	18	3	1	8	2	0	8	8	9	0	3	0	2	0	9	6	8	1	3	6	14	3	1	6	1	0	1	3	1	5	12	0	2	6	4	0	2	2	7	0	3	5	8	4	0	0	0	0
+7	ND3	YP_009503092.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	1	6	7	2	0	2	5	0	0	5	0	1	4	0	0	4	9	2	0	2	3	1	0	0	4	0	0	1	0	0	5	4	7	1	1	3	2	0	1	4	3	0	0	1	0	2	0	0	1	5	3	1	0	2	5	1	0	0	4	0	0	0	0	0
+8	ND4L	YP_009503093.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	2	4	1	2	2	5	2	0	1	2	2	1	0	0	1	1	12	5	0	0	1	0	1	2	0	0	0	1	0	0	4	3	7	1	3	2	1	0	0	3	2	0	0	1	1	2	5	0	2	2	2	0	0	1	2	0	2	0	3	1	1	0	0	0
+9	ND4	YP_009503094.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	5	13	18	1	2	10	24	1	7	14	0	6	11	1	11	11	46	3	2	10	6	1	3	7	11	0	0	1	8	1	22	15	30	7	6	20	17	0	7	11	13	0	2	9	1	1	10	0	4	9	12	0	1	2	7	2	1	6	8	2	0	0	0	0
+10	ND5	YP_009503095.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	11	26	15	2	6	15	19	3	9	11	0	4	12	0	11	13	48	7	4	12	10	0	2	11	15	2	1	2	6	0	24	40	30	5	9	22	24	2	6	32	18	1	1	8	2	2	12	1	2	20	16	0	2	8	10	1	4	5	19	0	1	0	0	0
+11	CYTB	YP_009503097.1	Anomalurus derbianus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Anomaluromorpha, Anomaluridae, Anomalurus	5	20	15	1	3	7	16	0	4	10	0	3	11	1	6	6	22	2	2	9	12	1	3	8	6	0	0	0	7	1	16	30	12	4	1	4	20	1	5	12	9	1	0	3	4	6	3	0	1	12	12	0	5	7	5	1	3	8	11	2	0	0	1	0

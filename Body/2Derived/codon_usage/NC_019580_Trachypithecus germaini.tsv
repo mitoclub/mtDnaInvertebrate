@@ -1,65 +1,13 @@
-	YP_007024904.1|ND1	YP_007024905.1|ND2	YP_007024906.1|COX1	YP_007024907.1|COX2	YP_007024908.1|ATP8	YP_007024909.1|ATP6	YP_007024910.1|COX3	YP_007024911.1|ND3	YP_007024912.1|ND4L	YP_007024913.1|ND4	YP_007024914.1|ND5	YP_007024916.1|CYTB
-TTT	9	10	22	7	2	9	9	6	3	11	24	12
-TTC	11	5	19	3	0	4	12	2	1	10	15	11
-TTA	9	14	13	9	5	10	8	5	5	17	22	7
-TTG	1	1	0	0	0	1	2	0	0	2	1	1
-TCT	3	9	9	3	2	2	3	0	1	7	7	5
-TCC	6	6	7	2	1	3	5	2	0	13	10	12
-TCA	12	8	13	5	1	1	6	2	6	11	14	7
-TCG	0	1	0	0	0	1	0	0	0	1	0	0
-TAT	8	6	16	5	2	1	6	1	4	12	11	10
-TAC	4	5	4	4	2	1	8	2	0	3	5	4
-TGT	0	0	0	1	0	0	0	0	0	1	2	0
-TGC	1	1	1	1	0	0	1	1	3	2	4	3
-TGA	9	10	15	4	2	1	11	3	0	11	9	11
-TGG	0	1	1	0	1	1	1	1	0	2	3	0
-CTT	11	9	11	4	1	6	6	2	3	18	18	9
-CTC	12	9	5	4	0	7	6	3	3	15	17	17
-CTA	24	27	27	15	5	21	12	14	11	32	40	29
-CTG	3	1	6	0	0	4	0	2	1	3	4	2
-CCT	7	5	11	3	4	5	3	3	1	4	3	3
-CCC	8	7	9	4	2	3	4	2	2	15	13	8
-CCA	5	6	9	8	2	5	6	2	0	3	12	15
-CCG	0	1	0	1	0	0	0	0	0	0	0	0
-CAT	1	1	6	1	1	5	4	0	1	5	8	5
-CAC	3	3	13	5	1	2	13	0	2	8	10	6
-CAA	3	11	7	7	6	7	8	2	1	9	15	8
-CAG	3	0	0	0	1	1	0	0	0	0	3	1
-CGT	1	1	1	1	0	0	2	0	1	0	2	1
-CGC	1	1	4	1	0	2	1	1	0	2	2	2
-CGA	5	1	3	4	0	2	2	0	0	7	4	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	15	25	31	18	4	15	9	8	5	27	35	20
-ATC	8	11	9	6	1	6	8	3	4	12	26	17
-ATA	14	25	26	8	5	4	10	7	10	35	34	16
-ATG	2	2	4	2	2	7	3	0	1	6	3	1
-ACT	9	7	6	8	0	5	9	2	0	8	19	5
-ACC	8	18	10	2	2	9	4	4	1	14	24	13
-ACA	12	20	16	10	1	12	10	3	0	20	19	11
-ACG	2	0	1	0	1	1	0	0	0	0	1	2
-AAT	8	14	12	3	4	6	4	2	4	14	15	11
-AAC	5	8	6	5	2	5	2	3	1	10	19	9
-AAA	6	12	11	3	4	5	3	3	0	9	18	9
-AAG	1	0	0	1	0	0	0	1	0	0	2	0
-AGT	0	1	0	1	0	3	1	0	0	5	6	1
-AGC	2	3	3	2	0	2	3	0	2	7	5	2
-GTT	4	2	6	4	0	4	4	0	1	4	5	1
-GTC	3	1	10	4	0	1	6	1	1	2	2	3
-GTA	3	3	19	4	0	7	4	2	2	7	6	6
-GTG	1	0	0	1	0	0	0	0	1	1	1	0
-GCT	3	2	13	4	0	6	5	5	3	5	5	1
-GCC	14	9	15	5	0	6	3	1	3	12	16	9
-GCA	11	5	13	3	1	4	5	2	3	9	14	13
-GCG	0	1	1	0	0	2	0	0	0	0	0	0
-GAT	1	0	7	5	0	1	3	1	1	1	4	5
-GAC	2	0	8	4	0	0	0	3	0	1	9	4
-GAA	8	6	5	8	0	2	7	5	1	10	9	4
-GAG	3	0	3	3	0	1	0	0	1	0	0	0
-GGT	0	4	14	3	0	1	2	1	2	3	6	6
-GGC	6	4	10	2	0	3	8	0	1	8	9	9
-GGA	7	4	15	3	0	1	6	1	0	3	10	7
-GGG	0	0	8	3	0	2	3	1	1	2	1	0
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	1	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007024904.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	9	11	9	1	3	6	12	0	8	4	0	1	9	0	11	12	24	3	7	8	5	0	1	3	3	3	1	1	5	0	15	8	14	2	9	8	12	2	8	5	6	1	0	2	4	3	3	1	3	14	11	0	1	2	8	3	0	6	7	0	0	0	0	0
+1	ND2	YP_007024905.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	10	5	14	1	9	6	8	1	6	5	0	1	10	1	9	9	27	1	5	7	6	1	1	3	11	0	1	1	1	0	25	11	25	2	7	18	20	0	14	8	12	0	1	3	2	1	3	0	2	9	5	1	0	0	6	0	4	4	4	0	0	0	0	0
+2	COX1	YP_007024906.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	22	19	13	0	9	7	13	0	16	4	0	1	15	1	11	5	27	6	11	9	9	0	6	13	7	0	1	4	3	0	31	9	26	4	6	10	16	1	12	6	11	0	0	3	6	10	19	0	13	15	13	1	7	8	5	3	14	10	15	8	1	0	0	0
+3	COX2	YP_007024907.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	7	3	9	0	3	2	5	0	5	4	1	1	4	0	4	4	15	0	3	4	8	1	1	5	7	0	1	1	4	0	18	6	8	2	8	2	10	0	3	5	3	1	1	2	4	4	4	1	4	5	3	0	5	4	8	3	3	2	3	3	0	1	0	0
+4	ATP8	YP_007024908.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	2	0	5	0	2	1	1	0	2	2	0	0	2	1	1	0	5	0	4	2	2	0	1	1	6	1	0	0	0	0	4	1	5	2	0	2	1	1	4	2	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007024909.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	9	4	10	1	2	3	1	1	1	1	0	0	1	1	6	7	21	4	5	3	5	0	5	2	7	1	0	2	2	0	15	6	4	7	5	9	12	1	6	5	5	0	3	2	4	1	7	0	6	6	4	2	1	0	2	1	1	3	1	2	1	0	0	0
+6	COX3	YP_007024910.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	9	12	8	2	3	5	6	0	6	8	0	1	11	1	6	6	12	0	3	4	6	0	4	13	8	0	2	1	2	0	9	8	10	3	9	4	10	0	4	2	3	0	1	3	4	6	4	0	5	3	5	0	3	0	7	0	2	8	6	3	0	0	0	0
+7	ND3	YP_007024911.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	6	2	5	0	0	2	2	0	1	2	0	1	3	1	2	3	14	2	3	2	2	0	0	0	2	0	0	1	0	0	8	3	7	0	2	4	3	0	2	3	3	1	0	0	0	1	2	0	5	1	2	0	1	3	5	0	1	0	1	1	0	0	0	0
+8	ND4L	YP_007024912.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	3	1	5	0	1	0	6	0	4	0	0	3	0	0	3	3	11	1	1	2	0	0	1	2	1	0	1	0	0	0	5	4	10	1	0	1	0	0	4	1	0	0	0	2	1	1	2	1	3	3	3	0	1	0	1	1	2	1	0	1	1	0	0	0
+9	ND4	YP_007024913.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	11	10	17	2	7	13	11	1	12	3	1	2	11	2	18	15	32	3	4	15	3	0	5	8	9	0	0	2	7	0	27	12	35	6	8	14	20	0	14	10	9	0	5	7	4	2	7	1	5	12	9	0	1	1	10	0	3	8	3	2	0	0	0	0
+10	ND5	YP_007024914.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	24	15	22	1	7	10	14	0	11	5	2	4	9	3	18	17	40	4	3	13	12	0	8	10	15	3	2	2	4	0	35	26	34	3	19	24	19	1	15	19	18	2	6	5	5	2	6	1	5	16	14	0	4	9	9	0	6	9	10	1	1	0	0	0
+11	CYTB	YP_007024916.1	Trachypithecus germaini	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Catarrhini, Cercopithecidae, Colobinae, Trachypithecus	12	11	7	1	5	12	7	0	10	4	0	3	11	0	9	17	29	2	3	8	15	0	5	6	8	1	1	2	4	0	20	17	16	1	5	13	11	2	11	9	9	0	1	2	1	3	6	0	1	9	13	0	5	4	4	0	6	9	7	0	0	0	0	0

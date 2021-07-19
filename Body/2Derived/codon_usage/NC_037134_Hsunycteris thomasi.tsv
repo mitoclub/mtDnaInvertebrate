@@ -1,65 +1,13 @@
-	YP_009466900.1|ND1	YP_009466901.1|ND2	YP_009466902.1|COX1	YP_009466903.1|COX2	YP_009466904.1|ATP8	YP_009466905.1|ATP6	YP_009466906.1|COX3	YP_009466907.1|ND3	YP_009466908.1|ND4L	YP_009466909.1|ND4	YP_009466910.1|ND5	YP_009466912.1|CYTB
-TTT	10	7	19	5	2	7	12	3	1	11	21	11
-TTC	6	5	23	1	0	5	10	5	2	10	28	15
-TTA	15	24	18	7	2	11	10	6	5	21	20	13
-TTG	1	2	0	1	0	0	1	0	1	2	0	0
-TCT	6	4	12	11	1	4	7	3	4	8	8	2
-TCC	4	10	7	3	2	3	3	1	3	7	11	8
-TCA	7	7	9	5	3	2	6	2	1	6	19	10
-TCG	0	0	0	0	1	0	0	0	0	0	0	0
-TAT	8	8	11	7	2	1	9	1	2	5	13	11
-TAC	4	3	8	3	2	2	3	2	2	9	3	6
-TGT	1	0	1	1	0	0	1	0	1	2	2	0
-TGC	0	0	0	2	0	0	1	1	2	1	2	4
-TGA	8	8	16	5	3	3	12	4	0	11	11	12
-TGG	2	2	1	0	0	0	0	0	0	3	1	0
-CTT	9	7	12	9	2	9	7	7	5	17	19	8
-CTC	5	5	2	3	0	4	7	3	7	12	13	13
-CTA	24	19	24	11	2	19	9	9	6	40	44	21
-CTG	5	0	3	0	1	1	1	0	1	3	3	4
-CCT	9	4	16	2	2	5	4	3	0	8	15	2
-CCC	3	6	4	3	2	6	1	2	1	10	7	8
-CCA	10	10	8	5	2	2	7	2	0	8	9	14
-CCG	0	0	1	1	0	0	0	0	0	0	0	0
-CAT	2	4	6	6	0	4	7	0	1	8	4	5
-CAC	1	2	12	2	1	3	9	0	1	4	7	7
-CAA	6	9	6	6	3	8	7	4	2	10	17	7
-CAG	0	0	0	0	0	0	0	0	0	0	0	0
-CGT	1	0	1	2	0	0	0	1	0	2	0	1
-CGC	2	3	1	2	0	0	2	0	0	1	3	2
-CGA	5	0	6	1	0	4	2	0	0	7	6	5
-CGG	0	0	0	1	0	0	1	0	1	0	0	0
-ATT	15	26	22	16	5	17	7	6	2	32	38	15
-ATC	5	14	16	3	3	10	8	1	2	9	22	13
-ATA	21	29	23	13	1	12	7	4	10	31	36	12
-ATG	2	4	7	4	1	1	2	0	3	2	5	3
-ACT	7	10	11	7	2	10	3	4	3	11	14	3
-ACC	10	13	5	4	3	2	9	1	2	15	19	13
-ACA	10	22	20	8	6	9	11	4	4	17	18	8
-ACG	1	0	1	0	1	0	0	0	0	3	0	1
-AAT	7	9	10	4	1	5	4	3	4	11	18	5
-AAC	6	8	7	1	1	5	2	2	0	8	15	10
-AAA	5	11	9	3	6	4	4	2	0	9	18	9
-AAG	2	0	0	1	0	0	0	0	0	2	3	0
-AGT	1	1	1	0	0	2	1	1	0	6	6	2
-AGC	1	3	2	4	0	3	2	1	1	5	5	3
-GTT	2	3	10	2	0	4	4	0	0	5	3	7
-GTC	3	2	6	3	0	0	4	0	0	2	2	4
-GTA	10	7	22	5	1	5	7	2	4	7	10	17
-GTG	0	0	1	1	0	0	1	0	1	1	1	0
-GCT	7	4	17	6	0	7	6	4	0	6	3	7
-GCC	11	7	11	0	0	4	4	4	0	9	13	7
-GCA	10	6	14	3	0	8	4	3	6	12	22	10
-GCG	0	0	1	1	0	0	0	2	0	0	1	0
-GAT	3	1	9	9	1	1	2	2	0	1	6	3
-GAC	0	0	5	3	0	0	2	0	1	2	3	8
-GAA	11	4	8	12	1	3	6	6	2	9	7	5
-GAG	0	0	2	1	1	0	1	1	0	0	4	1
-GGT	1	2	16	1	0	3	5	1	0	4	5	4
-GGC	4	1	9	3	0	0	6	1	1	3	6	5
-GGA	6	8	17	4	0	6	7	1	3	7	16	12
-GGG	3	3	5	0	0	2	3	0	0	4	1	3
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009466900.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	10	6	15	1	6	4	7	0	8	4	1	0	8	2	9	5	24	5	9	3	10	0	2	1	6	0	1	2	5	0	15	5	21	2	7	10	10	1	7	6	5	2	1	1	2	3	10	0	7	11	10	0	3	0	11	0	1	4	6	3	0	0	0	0
+1	ND2	YP_009466901.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	7	5	24	2	4	10	7	0	8	3	0	0	8	2	7	5	19	0	4	6	10	0	4	2	9	0	0	3	0	0	26	14	29	4	10	13	22	0	9	8	11	0	1	3	3	2	7	0	4	7	6	0	1	0	4	0	2	1	8	3	0	0	0	0
+2	COX1	YP_009466902.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	19	23	18	0	12	7	9	0	11	8	1	0	16	1	12	2	24	3	16	4	8	1	6	12	6	0	1	1	6	0	22	16	23	7	11	5	20	1	10	7	9	0	1	2	10	6	22	1	17	11	14	1	9	5	8	2	16	9	17	5	1	0	0	0
+3	COX2	YP_009466903.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	5	1	7	1	11	3	5	0	7	3	1	2	5	0	9	3	11	0	2	3	5	1	6	2	6	0	2	2	1	1	16	3	13	4	7	4	8	0	4	1	3	1	0	4	2	3	5	1	6	0	3	1	9	3	12	1	1	3	4	0	1	0	0	0
+4	ATP8	YP_009466904.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	2	0	2	0	1	2	3	1	2	2	0	0	3	0	2	0	2	1	2	2	2	0	0	1	3	0	0	0	0	0	5	3	1	1	2	3	6	1	1	1	6	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009466905.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	7	5	11	0	4	3	2	0	1	2	0	0	3	0	9	4	19	1	5	6	2	0	4	3	8	0	0	0	4	0	17	10	12	1	10	2	9	0	5	5	4	0	2	3	4	0	5	0	7	4	8	0	1	0	3	0	3	0	6	2	1	0	0	0
+6	COX3	YP_009466906.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	12	10	10	1	7	3	6	0	9	3	1	1	12	0	7	7	9	1	4	1	7	0	7	9	7	0	0	2	2	1	7	8	7	2	3	9	11	0	4	2	4	0	1	2	4	4	7	1	6	4	4	0	2	2	6	1	5	6	7	3	0	0	0	0
+7	ND3	YP_009466907.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	3	5	6	0	3	1	2	0	1	2	0	1	4	0	7	3	9	0	3	2	2	0	0	0	4	0	1	0	0	0	6	1	4	0	4	1	4	0	3	2	2	0	1	1	0	0	2	0	4	4	3	2	2	0	6	1	1	1	1	0	1	0	0	0
+8	ND4L	YP_009466908.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	1	2	5	1	4	3	1	0	2	2	1	2	0	0	5	7	6	1	0	1	0	0	1	1	2	0	0	0	0	1	2	2	10	3	3	2	4	0	4	0	0	0	0	1	0	0	4	1	0	0	6	0	0	1	2	0	0	1	3	0	1	0	0	0
+9	ND4	YP_009466909.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	11	10	21	2	8	7	6	0	5	9	2	1	11	3	17	12	40	3	8	10	8	0	8	4	10	0	2	1	7	0	32	9	31	2	11	15	17	3	11	8	9	2	6	5	5	2	7	1	6	9	12	0	1	2	9	0	4	3	7	4	0	0	0	0
+10	ND5	YP_009466910.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	21	28	20	0	8	11	19	0	13	3	2	2	11	1	19	13	44	3	15	7	9	0	4	7	17	0	0	3	6	0	38	22	36	5	14	19	18	0	18	15	18	3	6	5	3	2	10	1	3	13	22	1	6	3	7	4	5	6	16	1	1	0	0	0
+11	CYTB	YP_009466912.1	Hsunycteris thomasi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Phyllostomidae, Lonchophyllinae, Hsunycteris	11	15	13	0	2	8	10	0	11	6	0	4	12	0	8	13	21	4	2	8	14	0	5	7	7	0	1	2	5	0	15	13	12	3	3	13	8	1	5	10	9	0	2	3	7	4	17	0	7	7	10	0	3	8	5	1	4	5	12	3	0	0	1	0

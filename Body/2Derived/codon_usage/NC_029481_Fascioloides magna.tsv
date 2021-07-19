@@ -1,65 +1,13 @@
-	YP_009236157.1|COX3	YP_009236158.1|CYTB	YP_009236159.1|ND4L	YP_009236160.1|ND4	YP_009236161.1|ATP6	YP_009236162.1|ND2	YP_009236163.1|ND1	YP_009236164.1|ND3	YP_009236165.1|COX1	YP_009236166.1|COX2	YP_009236167.1|ND6	YP_009236168.1|ND5
-TTT	21	34	5	37	18	35	31	18	39	10	16	52
-TTC	1	4	4	4	4	2	1	2	3	1	5	3
-TTA	6	13	5	26	9	10	6	4	17	4	8	20
-TTG	17	37	11	37	10	30	34	17	40	6	9	63
-TCT	9	15	0	24	2	20	9	4	23	6	8	26
-TCC	0	0	0	0	0	2	0	0	1	2	0	0
-TCA	0	4	0	0	0	2	0	0	0	1	2	0
-TCG	1	3	1	3	2	2	3	2	4	1	0	7
-TAT	11	17	0	22	8	9	15	6	19	11	6	23
-TAC	1	2	0	0	1	2	0	1	2	1	2	0
-TGT	9	8	3	17	5	10	11	3	7	8	5	19
-TGC	0	0	0	3	0	1	0	0	0	0	3	1
-TGA	2	1	0	2	2	2	1	1	6	3	0	2
-TGG	6	9	2	12	3	10	13	2	16	2	1	18
-CTT	6	4	2	9	3	10	5	1	11	2	7	10
-CTC	1	0	0	0	2	1	0	0	0	0	0	1
-CTA	0	1	0	2	0	1	1	1	0	2	0	2
-CTG	3	4	2	7	2	2	1	0	5	0	1	2
-CCT	4	7	0	8	7	3	6	1	15	2	5	4
-CCC	0	0	0	2	0	2	0	0	1	0	1	1
-CCA	0	2	0	0	0	0	0	0	4	1	0	1
-CCG	1	5	0	1	0	1	0	0	2	5	0	1
-CAT	5	7	0	4	3	2	2	1	16	3	1	4
-CAC	1	1	0	1	0	0	0	0	0	2	1	0
-CAA	0	2	1	0	0	0	0	0	0	0	0	2
-CAG	1	3	1	2	0	1	4	2	3	6	0	3
-CGT	1	5	2	4	2	0	7	2	7	1	0	4
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	1	1	1	1	1	0	0	0	1	1
-CGG	0	2	0	4	3	0	1	3	3	3	0	5
-ATT	7	12	7	12	8	6	8	1	26	6	5	14
-ATC	2	1	0	5	0	1	1	0	5	4	0	2
-ATA	6	5	2	6	3	6	2	0	9	3	2	6
-ATG	3	14	1	10	5	8	9	2	22	9	1	14
-ACT	6	5	3	5	1	0	5	1	9	4	0	7
-ACC	1	0	0	0	0	1	0	0	2	0	0	0
-ACA	1	1	0	1	1	1	0	0	2	2	0	0
-ACG	2	3	2	2	1	1	3	1	4	5	1	1
-AAT	1	7	2	3	1	3	5	3	14	4	0	5
-AAC	0	1	0	0	1	0	1	0	0	0	0	0
-AAA	1	0	1	1	1	1	2	1	3	4	2	2
-AAG	5	9	0	7	1	5	7	1	3	4	1	7
-AGT	3	7	1	8	3	8	9	1	14	3	2	17
-AGC	0	1	0	1	0	1	0	0	2	1	1	1
-AGA	1	1	1	3	1	2	3	0	0	1	3	4
-AGG	2	6	0	12	2	5	5	3	5	0	6	10
-GTT	12	25	5	24	11	26	24	11	30	16	11	41
-GTC	0	4	0	1	3	1	1	0	1	0	1	1
-GTA	3	7	1	4	2	7	3	1	9	1	7	3
-GTG	12	14	7	20	6	4	13	6	14	9	7	25
-GCT	6	5	1	12	8	5	9	0	17	3	1	12
-GCC	0	0	0	1	0	0	1	0	0	0	1	1
-GCA	0	2	0	1	1	0	0	0	1	1	0	1
-GCG	2	5	0	1	2	1	2	0	4	3	2	3
-GAT	8	8	2	7	3	3	4	2	15	8	1	12
-GAC	0	0	0	0	0	0	0	0	0	2	0	0
-GAA	4	0	0	4	1	1	1	1	0	4	1	0
-GAG	2	6	3	6	2	2	8	4	5	8	0	8
-GGT	9	9	6	11	4	14	6	3	26	5	6	26
-GGC	0	2	0	2	4	1	1	0	1	0	1	0
-GGA	1	6	0	6	4	1	2	0	3	3	1	4
-GGG	7	14	5	18	5	13	13	5	24	4	4	20
-TAA	1	0	0	0	1	0	0	1	0	0	0	0
-TAG	0	1	1	1	0	1	1	0	1	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009236157.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	21	1	6	17	9	0	0	1	11	1	9	0	2	6	6	1	0	3	4	0	0	1	5	1	0	1	1	0	0	0	7	2	6	3	6	1	1	2	1	0	1	5	3	0	1	2	12	0	3	12	6	0	0	2	8	0	4	2	9	0	1	7	1	0
+1	CYTB	YP_009236158.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	34	4	13	37	15	0	4	3	17	2	8	0	1	9	4	0	1	4	7	0	2	5	7	1	2	3	5	0	0	2	12	1	5	14	5	0	1	3	7	1	0	9	7	1	1	6	25	4	7	14	5	0	2	5	8	0	0	6	9	2	6	14	0	1
+2	ND4L	YP_009236159.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	5	4	5	11	0	0	0	1	0	0	3	0	0	2	2	0	0	2	0	0	0	0	0	0	1	1	2	0	1	0	7	0	2	1	3	0	0	2	2	0	1	0	1	0	1	0	5	0	1	7	1	0	0	0	2	0	0	3	6	0	0	5	0	1
+3	ND4	YP_009236160.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	37	4	26	37	24	0	0	3	22	0	17	3	2	12	9	0	2	7	8	2	0	1	4	1	0	2	4	0	1	4	12	5	6	10	5	0	1	2	3	0	1	7	8	1	3	12	24	1	4	20	12	1	1	1	7	0	4	6	11	2	6	18	0	1
+4	ATP6	YP_009236161.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	18	4	9	10	2	0	0	2	8	1	5	0	2	3	3	2	0	2	7	0	0	0	3	0	0	0	2	0	1	3	8	0	3	5	1	0	1	1	1	1	1	1	3	0	1	2	11	3	2	6	8	0	1	2	3	0	1	2	4	4	4	5	1	0
+5	ND2	YP_009236162.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	35	2	10	30	20	2	2	2	9	2	10	1	2	10	10	1	1	2	3	2	0	1	2	0	0	1	0	0	1	0	6	1	6	8	0	1	1	1	3	0	1	5	8	1	2	5	26	1	7	4	5	0	0	1	3	0	1	2	14	1	1	13	0	1
+6	ND1	YP_009236163.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	31	1	6	34	9	0	0	3	15	0	11	0	1	13	5	0	1	1	6	0	0	0	2	0	0	4	7	0	1	1	8	1	2	9	5	0	0	3	5	1	2	7	9	0	3	5	24	1	3	13	9	1	0	2	4	0	1	8	6	1	2	13	0	1
+7	ND3	YP_009236164.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	18	2	4	17	4	0	0	2	6	1	3	0	1	2	1	0	1	0	1	0	0	0	1	0	0	2	2	0	0	3	1	0	0	2	1	0	0	1	3	0	1	1	1	0	0	3	11	0	1	6	0	0	0	0	2	0	1	4	3	0	0	5	1	0
+8	COX1	YP_009236165.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	39	3	17	40	23	1	0	4	19	2	7	0	6	16	11	0	0	5	15	1	4	2	16	0	0	3	7	0	0	3	26	5	9	22	9	2	2	4	14	0	3	3	14	2	0	5	30	1	9	14	17	0	1	4	15	0	0	5	26	1	3	24	0	1
+9	COX2	YP_009236166.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	10	1	4	6	6	2	1	1	11	1	8	0	3	2	2	0	2	0	2	0	1	5	3	2	0	6	1	0	0	3	6	4	3	9	4	0	2	5	4	0	4	4	3	1	1	0	16	0	1	9	3	0	1	3	8	2	4	8	5	0	3	4	0	1
+10	ND6	YP_009236167.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	16	5	8	9	8	0	2	0	6	2	5	3	0	1	7	0	0	1	5	1	0	0	1	1	0	0	0	0	1	0	5	0	2	1	0	0	0	1	0	0	2	1	2	1	3	6	11	1	7	7	1	1	0	2	1	0	1	0	6	1	1	4	0	1
+11	ND5	YP_009236168.1	Fascioloides magna	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Echinostomata, Echinostomatoidea, Fasciolidae, Fascioloides	52	3	20	63	26	0	0	7	23	0	19	1	2	18	10	1	2	2	4	1	1	1	4	0	2	3	4	0	1	5	14	2	6	14	7	0	0	1	5	0	2	7	17	1	4	10	41	1	3	25	12	1	1	3	12	0	0	8	26	0	4	20	0	0

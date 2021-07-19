@@ -1,65 +1,14 @@
-	YP_009539747.1|COX1	YP_009539748.1|ATP6	YP_009539749.1|ND4L	YP_009539750.1|ND3	YP_009539751.1|ND5	YP_009539752.1|ND2	YP_009539753.1|ATP8	YP_009539754.1|ND4	YP_009539755.1|COX2	YP_009539756.1|ND6	YP_009539757.1|COX3	YP_009539758.1|CYTB	YP_009539759.1|ND1
-TTT	46	33	7	14	32	26	4	30	16	11	19	30	29
-TTC	6	2	1	0	7	2	0	5	2	1	1	3	2
-TTA	37	25	11	8	40	25	4	34	9	13	12	24	18
-TTG	15	12	1	2	17	14	0	12	4	4	8	9	10
-TCT	15	13	1	2	19	6	1	14	18	3	5	6	8
-TCC	1	1	1	1	1	1	0	0	1	0	1	0	0
-TCA	10	7	1	0	9	9	1	6	3	0	4	4	2
-TCG	1	2	0	0	0	0	1	5	0	0	1	1	1
-TAT	15	15	1	4	8	9	2	8	17	7	11	24	10
-TAC	3	5	1	0	3	4	0	3	1	0	3	1	1
-TGT	2	5	2	5	11	5	0	7	8	6	10	11	4
-TGC	0	0	1	0	1	1	0	3	0	0	0	3	1
-TGA	11	11	0	3	9	5	1	5	4	3	8	8	6
-TGG	8	4	1	0	0	3	2	9	2	1	8	7	1
-CTT	13	4	0	3	9	6	1	7	7	1	3	4	6
-CTC	0	0	0	0	3	0	0	0	1	1	0	1	0
-CTA	1	4	0	1	5	6	0	4	2	0	0	3	1
-CTG	1	2	0	1	1	0	0	1	1	0	1	0	3
-CCT	17	2	0	4	6	3	0	4	9	2	5	13	4
-CCC	0	2	0	0	1	1	0	1	1	0	2	1	0
-CCA	9	2	1	0	6	5	0	4	6	1	0	6	4
-CCG	4	2	0	1	2	1	0	2	4	2	2	3	3
-CAT	20	2	1	1	6	0	0	4	4	1	8	11	1
-CAC	2	0	0	0	2	1	0	1	1	0	2	3	0
-CAA	5	3	0	0	2	3	1	4	2	0	5	5	1
-CAG	2	3	0	2	2	1	0	3	0	1	4	4	3
-CGT	6	3	0	1	3	2	1	2	3	0	6	3	2
-CGC	1	0	0	0	0	0	0	0	0	0	1	1	1
-CGA	4	4	0	1	4	1	0	1	1	0	2	1	3
-CGG	1	3	0	0	0	0	1	2	1	0	4	5	2
-ATT	25	17	6	5	32	15	3	25	18	7	7	24	21
-ATC	5	0	1	0	4	5	0	4	4	0	2	2	3
-ATA	18	23	7	2	32	17	2	24	8	12	10	12	10
-ATG	11	4	1	2	12	8	1	8	3	0	9	4	5
-ACT	11	5	1	1	13	3	2	5	8	0	4	7	8
-ACC	3	0	0	0	1	0	0	0	0	1	2	1	0
-ACA	7	5	0	0	3	4	0	2	1	2	3	3	4
-ACG	2	2	0	2	4	0	0	0	1	1	2	3	0
-AAT	16	13	1	2	9	4	0	2	12	4	9	13	7
-AAC	0	7	0	1	1	4	0	0	2	1	2	1	2
-AAA	12	14	3	3	11	5	0	8	9	8	8	7	6
-AAG	4	7	2	2	10	4	2	3	7	1	6	3	2
-AGT	3	16	3	1	18	5	1	7	6	3	2	1	2
-AGC	0	1	1	0	0	1	0	3	2	1	0	0	0
-AGA	5	10	5	1	15	7	1	19	4	6	4	7	2
-AGG	9	8	1	1	9	4	0	14	7	2	9	5	6
-GTT	19	10	8	3	24	14	1	16	11	16	17	12	7
-GTC	1	2	0	1	3	0	0	6	0	0	1	4	0
-GTA	16	18	3	5	26	13	2	11	6	8	9	9	9
-GTG	8	11	2	3	7	4	0	6	3	5	6	13	8
-GCT	19	8	3	7	14	5	0	14	8	3	7	7	10
-GCC	2	1	0	0	2	0	0	3	3	0	2	2	2
-GCA	10	9	1	3	12	9	1	10	1	7	9	6	8
-GCG	6	4	1	1	7	0	0	6	1	5	1	4	2
-GAT	11	21	0	1	11	1	0	7	17	3	2	10	4
-GAC	4	3	0	0	3	0	0	0	1	1	0	0	2
-GAA	4	17	4	2	6	3	0	8	14	2	8	4	5
-GAG	6	15	1	4	10	2	0	6	7	1	2	5	5
-GGT	20	10	2	1	9	6	1	16	7	5	9	10	6
-GGC	3	1	1	0	3	4	0	0	0	2	1	3	2
-GGA	19	6	1	6	12	8	0	14	4	5	6	11	3
-GGG	12	10	2	3	21	10	0	9	7	3	9	11	7
-TAA	1	1	1	1	0	0	1	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	1	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009539747.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	46	6	37	15	15	1	10	1	15	3	2	0	11	8	13	0	1	1	17	0	9	4	20	2	5	2	6	1	4	1	25	5	18	11	11	3	7	2	16	0	12	4	3	0	5	9	19	1	16	8	19	2	10	6	11	4	4	6	20	3	19	12	1	0
+1	ATP6	YP_009539748.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	33	2	25	12	13	1	7	2	15	5	5	0	11	4	4	0	4	2	2	2	2	2	2	0	3	3	3	0	4	3	17	0	23	4	5	0	5	2	13	7	14	7	16	1	10	8	10	2	18	11	8	1	9	4	21	3	17	15	10	1	6	10	1	0
+2	ND4L	YP_009539749.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	7	1	11	1	1	1	1	0	1	1	2	1	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	6	1	7	1	1	0	0	0	1	0	3	2	3	1	5	1	8	0	3	2	3	0	1	1	0	0	4	1	2	1	1	2	1	0
+3	ND3	YP_009539750.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	14	0	8	2	2	1	0	0	4	0	5	0	3	0	3	0	1	1	4	0	0	1	1	0	0	2	1	0	1	0	5	0	2	2	1	0	0	2	2	1	3	2	1	0	1	1	3	1	5	3	7	0	3	1	1	0	2	4	1	0	6	3	1	0
+4	ND5	YP_009539751.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	32	7	40	17	19	1	9	0	8	3	11	1	9	0	9	3	5	1	6	1	6	2	6	2	2	2	3	0	4	0	32	4	32	12	13	1	3	4	9	1	11	10	18	0	15	9	24	3	26	7	14	2	12	7	11	3	6	10	9	3	12	21	0	0
+5	ND2	YP_009539752.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	26	2	25	14	6	1	9	0	9	4	5	1	5	3	6	0	6	0	3	1	5	1	0	1	3	1	2	0	1	0	15	5	17	8	3	0	4	0	4	4	5	4	5	1	7	4	14	0	13	4	5	0	9	0	1	0	3	2	6	4	8	10	0	0
+6	ATP8	YP_009539753.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	4	0	4	0	1	0	1	1	2	0	0	0	1	2	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	3	0	2	1	2	0	0	0	0	0	0	2	1	0	1	0	1	0	2	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+7	ND4	YP_009539754.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	30	5	34	12	14	0	6	5	8	3	7	3	5	9	7	0	4	1	4	1	4	2	4	1	4	3	2	0	1	2	25	4	24	8	5	0	2	0	2	0	8	3	7	3	19	14	16	6	11	6	14	3	10	6	7	0	8	6	16	0	14	9	1	0
+8	COX2	YP_009539755.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	16	2	9	4	18	1	3	0	17	1	8	0	4	2	7	1	2	1	9	1	6	4	4	1	2	0	3	0	1	1	18	4	8	3	8	0	1	1	12	2	9	7	6	2	4	7	11	0	6	3	8	3	1	1	17	1	14	7	7	0	4	7	1	0
+9	ND6	YP_009539756.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	11	1	13	4	3	0	0	0	7	0	6	0	3	1	1	1	0	0	2	0	1	2	1	0	0	1	0	0	0	0	7	0	12	0	0	1	2	1	4	1	8	1	3	1	6	2	16	0	8	5	3	0	7	5	3	1	2	1	5	2	5	3	0	1
+10	COX3	YP_009539757.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	19	1	12	8	5	1	4	1	11	3	10	0	8	8	3	0	0	1	5	2	0	2	8	2	5	4	6	1	2	4	7	2	10	9	4	2	3	2	9	2	8	6	2	0	4	9	17	1	9	6	7	2	9	1	2	0	8	2	9	1	6	9	0	1
+11	CYTB	YP_009539758.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	30	3	24	9	6	0	4	1	24	1	11	3	8	7	4	1	3	0	13	1	6	3	11	3	5	4	3	1	1	5	24	2	12	4	7	1	3	3	13	1	7	3	1	0	7	5	12	4	9	13	7	2	6	4	10	0	4	5	10	3	11	11	1	0
+12	ND1	YP_009539759.1	Tridacna derasa	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Cardioidea, Tridacnidae, Tridacna	29	2	18	10	8	0	2	1	10	1	4	1	6	1	6	0	1	3	4	0	4	3	1	0	1	3	2	1	3	2	21	3	10	5	8	0	4	0	7	2	6	2	2	0	2	6	7	0	9	8	10	2	8	2	4	2	5	5	6	2	3	7	1	0

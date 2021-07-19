@@ -1,65 +1,10 @@
-	YP_007474960.1|ND2	YP_007474961.1|COX1	YP_007474962.1|COX2	YP_007474963.1|ATP8	YP_007474964.1|ATP6	YP_007474965.1|COX3	YP_007474966.1|ND3	YP_007474970.1|ND6	YP_007474971.1|CYTB
-TTT	10	24	10	4	13	14	4	8	21
-TTC	11	14	1	4	8	13	7	2	11
-TTA	18	31	16	2	28	15	9	17	32
-TTG	4	0	0	0	0	1	0	1	1
-TCT	3	4	2	2	1	2	0	2	3
-TCC	5	4	2	0	1	1	2	0	1
-TCA	23	23	12	2	10	9	6	5	9
-TCG	2	0	0	0	0	0	0	0	0
-TAT	6	7	7	0	3	7	1	3	12
-TAC	4	9	2	0	1	1	0	3	6
-TGT	2	1	2	0	0	0	1	0	3
-TGC	0	0	0	0	0	1	0	0	1
-TGA	9	13	6	3	5	14	3	2	12
-TGG	1	2	0	0	0	0	0	0	0
-CTT	6	10	4	1	4	4	2	4	5
-CTC	2	2	0	0	0	0	1	2	2
-CTA	13	13	8	1	4	11	7	4	5
-CTG	3	2	1	0	0	1	0	1	1
-CCT	2	7	3	0	3	3	2	2	7
-CCC	1	3	0	0	0	0	0	0	0
-CCA	7	15	6	3	8	7	3	1	14
-CCG	1	1	0	0	0	0	0	0	1
-CAT	2	9	2	0	3	11	0	1	9
-CAC	0	5	4	0	3	3	0	0	3
-CAA	11	11	5	2	3	9	2	4	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	2	0	0	1	0	1	2
-CGC	1	0	0	0	0	0	0	0	0
-CGA	1	8	6	0	3	3	3	0	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	27	44	20	3	18	18	10	19	39
-ATC	11	7	2	1	8	3	7	5	5
-ATA	27	31	9	6	14	8	6	20	15
-ATG	7	0	1	0	2	1	0	0	3
-ACT	1	7	5	0	4	1	1	5	4
-ACC	3	6	3	0	1	1	3	2	1
-ACA	16	22	11	4	14	16	2	8	16
-ACG	0	0	0	0	0	0	0	0	0
-AAT	14	12	4	2	13	6	2	12	17
-AAC	8	7	3	2	3	2	1	2	7
-AAA	10	4	4	5	3	1	5	7	9
-AAG	1	3	1	1	0	0	0	1	1
-AGT	1	4	0	0	0	0	0	1	1
-AGC	1	2	0	0	0	0	0	0	0
-AGA	11	6	6	2	9	7	4	5	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	7	11	3	0	2	3	2	2	10
-GTC	1	0	1	0	0	0	1	0	3
-GTA	7	18	10	0	4	14	1	2	14
-GTG	0	1	0	0	0	0	0	1	0
-GCT	2	6	2	0	3	4	1	1	7
-GCC	5	4	1	0	3	0	1	3	3
-GCA	8	26	6	1	6	17	5	2	10
-GCG	1	0	0	0	0	0	0	0	0
-GAT	0	8	12	0	1	4	1	2	7
-GAC	0	8	2	0	0	0	2	1	2
-GAA	10	9	9	2	4	7	5	3	5
-GAG	0	0	0	0	0	0	0	0	0
-GGT	1	7	1	0	2	1	0	1	4
-GGC	0	0	1	0	1	0	0	0	1
-GGA	9	36	7	0	9	18	3	4	17
-GGG	3	4	2	0	0	0	1	1	1
-TAA	0	0	1	1	1	1	0	1	0
-TAG	1	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007474960.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	10	11	18	4	3	5	23	2	6	4	2	0	9	1	6	2	13	3	2	1	7	1	2	0	11	0	0	1	1	0	27	11	27	7	1	3	16	0	14	8	10	1	1	1	11	0	7	1	7	0	2	5	8	1	0	0	10	0	1	0	9	3	0	1
+1	COX1	YP_007474961.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	24	14	31	0	4	4	23	0	7	9	1	0	13	2	10	2	13	2	7	3	15	1	9	5	11	0	0	0	8	0	44	7	31	0	7	6	22	0	12	7	4	3	4	2	6	0	11	0	18	1	6	4	26	0	8	8	9	0	7	0	36	4	0	0
+2	COX2	YP_007474962.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	10	1	16	0	2	2	12	0	7	2	2	0	6	0	4	0	8	1	3	0	6	0	2	4	5	0	2	0	6	0	20	2	9	1	5	3	11	0	4	3	4	1	0	0	6	0	3	1	10	0	2	1	6	0	12	2	9	0	1	1	7	2	1	0
+3	ATP8	YP_007474963.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	4	4	2	0	2	0	2	0	0	0	0	0	3	0	1	0	1	0	0	0	3	0	0	0	2	0	0	0	0	0	3	1	6	0	0	0	4	0	2	2	5	1	0	0	2	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_007474964.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	13	8	28	0	1	1	10	0	3	1	0	0	5	0	4	0	4	0	3	0	8	0	3	3	3	0	0	0	3	0	18	8	14	2	4	1	14	0	13	3	3	0	0	0	9	0	2	0	4	0	3	3	6	0	1	0	4	0	2	1	9	0	1	0
+5	COX3	YP_007474965.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	14	13	15	1	2	1	9	0	7	1	0	1	14	0	4	0	11	1	3	0	7	0	11	3	9	0	1	0	3	0	18	3	8	1	1	1	16	0	6	2	1	0	0	0	7	0	3	0	14	0	4	0	17	0	4	0	7	0	1	0	18	0	1	0
+6	ND3	YP_007474966.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	4	7	9	0	0	2	6	0	1	0	1	0	3	0	2	1	7	0	2	0	3	0	0	0	2	0	0	0	3	0	10	7	6	0	1	3	2	0	2	1	5	0	0	0	4	0	2	1	1	0	1	1	5	0	1	2	5	0	0	0	3	1	0	1
+7	ND6	YP_007474970.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	8	2	17	1	2	0	5	0	3	3	0	0	2	0	4	2	4	1	2	0	1	0	1	0	4	0	1	0	0	0	19	5	20	0	5	2	8	0	12	2	7	1	1	0	5	0	2	0	2	1	1	3	2	0	2	1	3	0	1	0	4	1	1	0
+8	CYTB	YP_007474971.1	Filchnerella helanshanensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Caelifera, Acrididea, Acridomorpha, Pamphagoidea, Pamphagidae, Prionotropisinae, Filchnerella	21	11	32	1	3	1	9	0	12	6	3	1	12	0	5	2	5	1	7	0	14	1	9	3	8	0	2	0	6	0	39	5	15	3	4	1	16	0	17	7	9	1	1	0	3	0	10	3	14	0	7	3	10	0	7	2	5	0	4	1	17	1	0	1

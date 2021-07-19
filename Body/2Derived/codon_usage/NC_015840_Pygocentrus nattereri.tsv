@@ -1,65 +1,13 @@
-	YP_004734425.1|ND1	YP_004734426.1|ND2	YP_004734427.1|COX1	YP_004734428.1|COX2	YP_004734429.1|ATP8	YP_004734430.1|ATP6	YP_004734431.1|COX3	YP_004734432.1|ND3	YP_004734433.1|ND4L	YP_004734434.1|ND4	YP_004734435.1|ND5	YP_004734437.1|CYTB
-TTT	9	3	17	3	2	6	10	2	3	12	8	3
-TTC	9	8	25	6	2	8	13	6	4	6	33	27
-TTA	5	3	4	4	0	4	1	1	3	6	9	0
-TTG	0	0	0	0	0	2	0	1	0	0	0	0
-TCT	0	1	8	1	0	0	0	0	0	1	2	3
-TCC	7	4	11	8	1	2	3	2	3	14	16	11
-TCA	11	8	5	3	0	1	6	1	1	3	9	9
-TCG	0	0	0	0	0	0	0	1	1	0	3	1
-TAT	4	2	5	2	0	2	3	1	0	5	1	5
-TAC	8	5	13	7	1	2	9	1	0	9	12	9
-TGT	0	0	0	0	0	0	0	0	1	2	3	0
-TGC	0	1	1	2	0	0	2	1	2	3	3	3
-TGA	8	10	16	5	5	4	10	5	0	15	13	12
-TGG	0	1	2	0	0	1	2	0	1	5	1	0
-CTT	11	9	14	7	3	7	4	4	1	11	17	15
-CTC	20	28	16	7	0	16	7	10	8	26	26	21
-CTA	25	30	23	7	3	19	20	14	9	37	40	26
-CTG	3	3	5	2	1	3	1	0	3	8	6	2
-CCT	1	2	4	1	1	3	1	1	0	1	1	2
-CCC	14	15	12	5	4	6	7	5	2	16	20	9
-CCA	9	4	10	8	4	8	4	2	0	9	8	10
-CCG	0	0	2	0	0	0	0	1	0	0	1	0
-CAT	1	0	1	2	0	1	0	0	0	1	0	2
-CAC	3	10	18	9	1	3	16	0	4	10	13	10
-CAA	6	11	7	7	0	8	8	3	3	12	16	7
-CAG	1	1	1	1	1	1	1	0	0	2	3	0
-CGT	0	0	0	1	0	0	0	0	0	0	0	0
-CGC	1	1	1	2	0	3	1	1	1	3	1	1
-CGA	6	3	7	3	0	3	3	1	2	8	9	6
-CGG	1	0	1	0	0	0	1	0	0	0	0	0
-ATT	7	8	20	8	2	10	9	8	1	19	21	7
-ATC	17	14	21	9	1	8	5	1	0	20	28	25
-ATA	7	10	16	6	0	5	5	2	2	18	22	7
-ATG	4	3	10	7	1	5	3	1	3	7	7	2
-ACT	1	4	4	2	1	1	1	1	0	2	3	1
-ACC	10	26	12	4	2	11	9	1	2	25	33	11
-ACA	9	22	18	4	4	7	14	5	4	19	27	8
-ACG	1	0	2	0	0	3	0	1	0	2	0	1
-AAT	2	1	2	0	1	3	0	1	0	5	7	2
-AAC	9	8	12	6	2	7	1	2	2	6	18	17
-AAA	7	9	8	4	4	1	2	1	0	10	19	8
-AAG	0	0	0	0	0	0	0	0	0	0	2	1
-AGT	1	0	2	1	0	0	1	0	0	0	1	0
-AGC	1	6	3	2	1	5	2	0	2	7	14	1
-GTT	2	2	11	3	0	3	5	1	1	4	5	3
-GTC	4	2	12	8	1	7	6	0	0	5	6	5
-GTA	11	3	12	8	1	0	5	1	1	5	8	10
-GTG	1	0	3	1	0	4	0	0	0	0	3	2
-GCT	3	3	7	1	0	2	4	1	2	7	4	4
-GCC	19	19	24	13	2	12	13	5	10	21	37	17
-GCA	12	19	13	4	0	4	7	5	5	8	16	12
-GCG	0	0	4	1	0	1	0	0	1	1	0	0
-GAT	0	0	2	0	0	0	2	0	0	0	4	3
-GAC	4	2	12	12	0	1	3	3	1	5	10	8
-GAA	11	5	8	13	2	4	8	5	1	7	10	6
-GAG	0	0	4	1	1	0	2	1	2	3	2	0
-GGT	0	0	7	1	0	0	4	0	0	1	2	3
-GGC	8	9	10	1	0	5	9	3	2	12	11	9
-GGA	8	7	17	6	0	5	6	3	3	13	16	12
-GGG	2	3	13	1	0	0	2	0	1	3	2	1
-TAA	1	0	0	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004734425.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	9	9	5	0	0	7	11	0	4	8	0	0	8	0	11	20	25	3	1	14	9	0	1	3	6	1	0	1	6	1	7	17	7	4	1	10	9	1	2	9	7	0	1	1	2	4	11	1	3	19	12	0	0	4	11	0	0	8	8	2	1	0	0	0
+1	ND2	YP_004734426.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	3	8	3	0	1	4	8	0	2	5	0	1	10	1	9	28	30	3	2	15	4	0	0	10	11	1	0	1	3	0	8	14	10	3	4	26	22	0	1	8	9	0	0	6	2	2	3	0	3	19	19	0	0	2	5	0	0	9	7	3	0	0	0	0
+2	COX1	YP_004734427.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	17	25	4	0	8	11	5	0	5	13	0	1	16	2	14	16	23	5	4	12	10	2	1	18	7	1	0	1	7	1	20	21	16	10	4	12	18	2	2	12	8	0	2	3	11	12	12	3	7	24	13	4	2	12	8	4	7	10	17	13	0	0	0	1
+3	COX2	YP_004734428.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	3	6	4	0	1	8	3	0	2	7	0	2	5	0	7	7	7	2	1	5	8	0	2	9	7	1	1	2	3	0	8	9	6	7	2	4	4	0	0	6	4	0	1	2	3	8	8	1	1	13	4	1	0	12	13	1	1	1	6	1	0	0	0	0
+4	ATP8	YP_004734429.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	2	2	0	0	0	1	0	0	0	1	0	0	5	0	3	0	3	1	1	4	4	0	0	1	0	1	0	0	0	0	2	1	0	1	1	2	4	0	1	2	4	0	0	1	0	1	1	0	0	2	0	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_004734430.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	6	8	4	2	0	2	1	0	2	2	0	0	4	1	7	16	19	3	3	6	8	0	1	3	8	1	0	3	3	0	10	8	5	5	1	11	7	3	3	7	1	0	0	5	3	7	0	4	2	12	4	1	0	1	4	0	0	5	5	0	0	0	0	0
+6	COX3	YP_004734431.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	10	13	1	0	0	3	6	0	3	9	0	2	10	2	4	7	20	1	1	7	4	0	0	16	8	1	0	1	3	1	9	5	5	3	1	9	14	0	0	1	2	0	1	2	5	6	5	0	4	13	7	0	2	3	8	2	4	9	6	2	0	0	0	0
+7	ND3	YP_004734432.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	2	6	1	1	0	2	1	1	1	1	0	1	5	0	4	10	14	0	1	5	2	1	0	0	3	0	0	1	1	0	8	1	2	1	1	1	5	1	1	2	1	0	0	0	1	0	1	0	1	5	5	0	0	3	5	1	0	3	3	0	0	0	0	0
+8	ND4L	YP_004734433.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	3	4	3	0	0	3	1	1	0	0	1	2	0	1	1	8	9	3	0	2	0	0	0	4	3	0	0	1	2	0	1	0	2	3	0	2	4	0	0	2	0	0	0	2	1	0	1	0	2	10	5	1	0	1	1	2	0	2	3	1	1	0	0	0
+9	ND4	YP_004734434.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	12	6	6	0	1	14	3	0	5	9	2	3	15	5	11	26	37	8	1	16	9	0	1	10	12	2	0	3	8	0	19	20	18	7	2	25	19	2	5	6	10	0	0	7	4	5	5	0	7	21	8	1	0	5	7	3	1	12	13	3	0	0	0	0
+10	ND5	YP_004734435.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	8	33	9	0	2	16	9	3	1	12	3	3	13	1	17	26	40	6	1	20	8	1	0	13	16	3	0	1	9	0	21	28	22	7	3	33	27	0	7	18	19	2	1	14	5	6	8	3	4	37	16	0	4	10	10	2	2	11	16	2	1	0	0	0
+11	CYTB	YP_004734437.1	Pygocentrus nattereri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Pygocentrus	3	27	0	0	3	11	9	1	5	9	0	3	12	0	15	21	26	2	2	9	10	0	2	10	7	0	0	1	6	0	7	25	7	2	1	11	8	1	2	17	8	1	0	1	3	5	10	2	4	17	12	0	3	8	6	0	3	9	12	1	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_009186419.1|COX1	YP_009186420.1|COX2	YP_009186421.1|ATP8	YP_009186422.1|ATP6	YP_009186423.1|COX3	YP_009186424.1|ND3	YP_009186428.1|ND6	YP_009186429.1|CYTB	YP_009186431.1|ND2
-TTT	21	8	6	8	17	7	11	17	16
-TTC	23	5	2	5	8	4	14	16	11
-TTA	16	12	1	17	11	9	10	21	25
-TTG	2	1	1	0	1	1	2	3	4
-TCT	6	6	0	6	6	3	2	7	12
-TCC	7	4	0	8	4	2	7	6	6
-TCA	19	6	0	8	6	6	10	8	10
-TCG	1	1	0	1	0	2	3	0	4
-TAT	9	3	1	6	7	1	3	11	7
-TAC	6	4	0	1	3	0	1	5	3
-TGT	0	1	0	0	2	2	0	1	3
-TGC	0	1	0	0	2	0	0	3	2
-TGA	14	5	3	5	8	3	1	9	6
-TGG	1	1	0	2	5	1	0	2	1
-CTT	10	1	2	6	7	8	4	5	6
-CTC	5	3	0	9	3	2	4	2	6
-CTA	22	8	2	8	8	2	7	20	17
-CTG	4	2	0	0	0	1	1	2	4
-CCT	9	5	3	3	2	1	1	2	3
-CCC	5	1	1	1	0	1	0	4	3
-CCA	12	4	2	7	6	2	2	14	6
-CCG	3	0	0	0	0	0	1	3	2
-CAT	12	6	0	2	4	1	1	6	1
-CAC	6	0	0	5	10	0	2	5	2
-CAA	6	6	4	4	5	1	3	8	6
-CAG	1	3	1	2	2	0	1	0	2
-CGT	3	2	0	0	0	0	1	1	0
-CGC	0	2	1	0	0	0	1	1	1
-CGA	7	3	0	3	3	2	0	4	1
-CGG	0	0	0	0	1	0	0	2	0
-ATT	37	16	3	13	17	10	13	28	25
-ATC	6	3	1	9	2	9	7	9	12
-ATA	26	9	3	7	6	2	8	14	15
-ATG	2	1	1	8	1	0	0	2	5
-ACT	7	4	0	9	10	2	5	4	4
-ACC	5	6	0	4	3	1	1	4	4
-ACA	19	5	1	4	9	3	5	13	11
-ACG	2	1	0	0	0	0	0	2	2
-AAT	7	4	1	3	2	1	2	8	5
-AAC	8	5	2	4	2	1	0	5	9
-AAA	6	1	4	1	2	3	4	6	5
-AAG	2	1	0	1	1	2	0	0	7
-AGT	2	0	1	2	1	0	1	2	1
-AGC	1	0	0	1	0	0	1	0	1
-AGA	4	7	2	6	5	0	1	5	6
-AGG	1	0	0	1	2	0	0	0	0
-GTT	4	5	1	5	9	2	3	13	3
-GTC	6	5	1	2	0	0	2	3	5
-GTA	23	8	0	4	7	2	5	8	3
-GTG	6	1	0	1	1	0	2	0	0
-GCT	10	2	1	5	9	1	2	7	9
-GCC	14	4	0	1	3	1	2	6	3
-GCA	12	5	0	3	5	2	3	8	8
-GCG	1	1	0	0	2	0	0	2	0
-GAT	9	5	0	0	4	3	1	6	0
-GAC	7	7	0	0	0	0	2	5	1
-GAA	6	8	0	5	10	5	1	4	5
-GAG	1	2	0	1	0	0	1	0	1
-GGT	18	2	0	2	7	0	2	5	3
-GGC	3	2	0	0	1	0	0	2	2
-GGA	25	3	0	5	11	4	4	17	7
-GGG	1	2	0	1	0	1	0	2	1
-TAA	0	0	1	1	0	0	1	0	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009186419.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	21	23	16	2	6	7	19	1	9	6	0	0	14	1	10	5	22	4	9	5	12	3	12	6	6	1	3	0	7	0	37	6	26	2	7	5	19	2	7	8	6	2	2	1	4	1	4	6	23	6	10	14	12	1	9	7	6	1	18	3	25	1	0	0
+1	COX2	YP_009186420.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	8	5	12	1	6	4	6	1	3	4	1	1	5	1	1	3	8	2	5	1	4	0	6	0	6	3	2	2	3	0	16	3	9	1	4	6	5	1	4	5	1	1	0	0	7	0	5	5	8	1	2	4	5	1	5	7	8	2	2	2	3	2	0	0
+2	ATP8	YP_009186421.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	6	2	1	1	0	0	0	0	1	0	0	0	3	0	2	0	2	0	3	1	2	0	0	0	4	1	0	1	0	0	3	1	3	1	0	0	1	0	1	2	4	0	1	0	2	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_009186422.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	8	5	17	0	6	8	8	1	6	1	0	0	5	2	6	9	8	0	3	1	7	0	2	5	4	2	0	0	3	0	13	9	7	8	9	4	4	0	3	4	1	1	2	1	6	1	5	2	4	1	5	1	3	0	0	0	5	1	2	0	5	1	1	0
+4	COX3	YP_009186423.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	17	8	11	1	6	4	6	0	7	3	2	2	8	5	7	3	8	0	2	0	6	0	4	10	5	2	0	0	3	1	17	2	6	1	10	3	9	0	2	2	2	1	1	0	5	2	9	0	7	1	9	3	5	2	4	0	10	0	7	1	11	0	0	0
+5	ND3	YP_009186424.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	7	4	9	1	3	2	6	2	1	0	2	0	3	1	8	2	2	1	1	1	2	0	1	0	1	0	0	0	2	0	10	9	2	0	2	1	3	0	1	1	3	2	0	0	0	0	2	0	2	0	1	1	2	0	3	0	5	0	0	0	4	1	0	0
+6	ND6	YP_009186428.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	11	14	10	2	2	7	10	3	3	1	0	0	1	0	4	4	7	1	1	0	2	1	1	2	3	1	1	1	0	0	13	7	8	0	5	1	5	0	2	0	4	0	1	1	1	0	3	2	5	2	2	2	3	0	1	2	1	1	2	0	4	0	1	0
+7	CYTB	YP_009186429.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	17	16	21	3	7	6	8	0	11	5	1	3	9	2	5	2	20	2	2	4	14	3	6	5	8	0	1	1	4	2	28	9	14	2	4	4	13	2	8	5	6	0	2	0	5	0	13	3	8	0	7	6	8	2	6	5	4	0	5	2	17	2	0	0
+8	ND2	YP_009186431.1	Panulirus versicolor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	16	11	25	4	12	6	10	4	7	3	3	2	6	1	6	6	17	4	3	3	6	2	1	2	6	2	0	1	1	0	25	12	15	5	4	4	11	2	5	9	5	7	1	1	6	0	3	5	3	0	9	3	8	0	0	1	5	1	3	2	7	1	1	0

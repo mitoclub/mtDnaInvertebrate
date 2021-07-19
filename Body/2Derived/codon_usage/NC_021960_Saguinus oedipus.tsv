@@ -1,65 +1,13 @@
-	YP_008379138.1|ND1	YP_008379139.1|ND2	YP_008379140.1|COX1	YP_008379141.1|COX2	YP_008379142.1|ATP8	YP_008379143.1|ATP6	YP_008379144.1|COX3	YP_008379145.1|ND3	YP_008379146.1|ND4L	YP_008379147.1|ND4	YP_008379148.1|ND5	YP_008379150.1|CYTB
-TTT	8	3	18	5	2	3	8	2	4	7	20	9
-TTC	11	7	25	6	3	5	15	7	1	11	25	16
-TTA	7	12	12	6	1	6	4	3	5	20	15	6
-TTG	0	1	1	1	2	1	0	0	0	3	2	1
-TCT	4	5	8	3	1	5	3	0	0	6	9	8
-TCC	5	10	6	5	0	6	6	2	2	8	5	6
-TCA	14	15	17	4	4	2	6	0	4	14	27	10
-TCG	0	0	0	1	0	0	0	0	0	1	2	0
-TAT	7	1	8	5	1	3	2	2	4	2	7	5
-TAC	6	8	11	9	0	1	13	1	2	13	11	10
-TGT	1	0	1	0	0	0	1	0	2	2	2	1
-TGC	0	0	0	2	0	0	0	1	1	3	2	1
-TGA	7	11	15	5	3	2	11	3	0	10	10	9
-TGG	2	0	1	0	0	1	1	1	0	3	2	3
-CTT	4	7	9	6	0	8	7	4	2	10	19	10
-CTC	12	11	5	3	0	7	6	1	2	14	6	11
-CTA	32	29	27	14	3	21	13	11	9	40	33	26
-CTG	2	3	7	1	0	2	0	6	4	6	7	6
-CCT	6	4	10	3	2	3	2	2	0	3	7	1
-CCC	8	10	9	3	1	5	5	1	2	10	8	7
-CCA	6	9	8	6	3	5	4	2	0	10	11	14
-CCG	0	0	1	0	1	1	0	1	0	1	2	1
-CAT	2	2	6	0	0	1	4	0	2	2	2	4
-CAC	1	5	13	6	2	4	11	2	0	8	12	7
-CAA	7	8	6	8	3	8	9	3	2	8	18	8
-CAG	0	0	1	0	1	1	1	0	0	1	0	0
-CGT	0	0	0	2	0	0	0	0	0	0	2	0
-CGC	2	2	3	1	0	0	2	0	0	2	4	2
-CGA	5	1	5	3	0	4	3	0	1	8	2	3
-CGG	0	0	0	0	0	0	0	0	0	0	0	2
-ATT	9	18	16	9	2	16	5	2	4	20	24	7
-ATC	13	19	25	12	4	14	8	6	5	15	30	28
-ATA	13	30	26	11	3	10	8	3	10	34	33	9
-ATG	5	4	3	1	2	2	2	1	2	5	9	7
-ACT	7	5	11	4	2	6	9	2	1	6	4	6
-ACC	8	13	11	3	2	8	7	7	0	16	25	12
-ACA	16	18	16	11	4	9	12	6	0	15	30	17
-ACG	1	0	0	0	0	0	0	0	0	1	3	1
-AAT	5	5	8	2	3	3	1	3	2	5	11	4
-AAC	9	13	9	4	1	8	2	3	3	13	21	9
-AAA	6	12	10	4	6	3	1	3	0	9	14	10
-AAG	0	0	1	0	1	2	1	0	0	3	4	1
-AGT	1	2	2	0	0	0	1	0	0	0	5	1
-AGC	1	3	3	4	0	2	3	1	1	9	10	3
-GTT	1	1	9	1	0	2	3	2	1	5	5	3
-GTC	3	0	4	3	0	1	3	0	1	1	5	8
-GTA	5	5	17	5	2	6	4	3	3	13	6	3
-GTG	1	1	4	0	1	1	3	0	1	1	4	0
-GCT	6	3	10	3	0	2	4	2	1	3	9	4
-GCC	8	8	13	9	0	5	9	3	4	16	16	9
-GCA	14	5	14	3	0	6	4	2	3	10	14	11
-GCG	1	0	1	0	0	1	1	0	0	0	1	0
-GAT	3	0	6	3	0	1	2	0	1	2	4	3
-GAC	0	0	9	7	0	1	3	3	0	3	6	8
-GAA	9	4	7	13	0	2	6	3	1	5	8	4
-GAG	2	0	4	1	0	0	2	2	1	3	3	1
-GGT	3	1	5	2	0	0	0	0	0	3	4	4
-GGC	5	3	15	3	0	4	8	0	2	8	9	11
-GGA	3	7	17	2	0	3	9	2	1	5	9	7
-GGG	1	1	9	1	0	3	3	1	1	3	3	1
-TAA	0	0	0	0	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008379138.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	8	11	7	0	4	5	14	0	7	6	1	0	7	2	4	12	32	2	6	8	6	0	2	1	7	0	0	2	5	0	9	13	13	5	7	8	16	1	5	9	6	0	1	1	1	3	5	1	6	8	14	1	3	0	9	2	3	5	3	1	0	0	0	0
+1	ND2	YP_008379139.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	3	7	12	1	5	10	15	0	1	8	0	0	11	0	7	11	29	3	4	10	9	0	2	5	8	0	0	2	1	0	18	19	30	4	5	13	18	0	5	13	12	0	2	3	1	0	5	1	3	8	5	0	0	0	4	0	1	3	7	1	0	0	0	0
+2	COX1	YP_008379140.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	18	25	12	1	8	6	17	0	8	11	1	0	15	1	9	5	27	7	10	9	8	1	6	13	6	1	0	3	5	0	16	25	26	3	11	11	16	0	8	9	10	1	2	3	9	4	17	4	10	13	14	1	6	9	7	4	5	15	17	9	0	0	0	1
+3	COX2	YP_008379141.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	5	6	6	1	3	5	4	1	5	9	0	2	5	0	6	3	14	1	3	3	6	0	0	6	8	0	2	1	3	0	9	12	11	1	4	3	11	0	2	4	4	0	0	4	1	3	5	0	3	9	3	0	3	7	13	1	2	3	2	1	0	0	0	0
+4	ATP8	YP_008379142.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	2	3	1	2	1	0	4	0	1	0	0	0	3	0	0	0	3	0	2	1	3	1	0	2	3	1	0	0	0	0	2	4	3	2	2	2	4	0	3	1	6	1	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008379143.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	3	5	6	1	5	6	2	0	3	1	0	0	2	1	8	7	21	2	3	5	5	1	1	4	8	1	0	0	4	0	16	14	10	2	6	8	9	0	3	8	3	2	0	2	2	1	6	1	2	5	6	1	1	1	2	0	0	4	3	3	1	0	0	0
+6	COX3	YP_008379144.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	8	15	4	0	3	6	6	0	2	13	1	0	11	1	7	6	13	0	2	5	4	0	4	11	9	1	0	2	3	0	5	8	8	2	9	7	12	0	1	2	1	1	1	3	3	3	4	3	4	9	4	1	2	3	6	2	0	8	9	3	0	0	0	0
+7	ND3	YP_008379145.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	2	7	3	0	0	2	0	0	2	1	0	1	3	1	4	1	11	6	2	1	2	1	0	2	3	0	0	0	0	0	2	6	3	1	2	7	6	0	3	3	3	0	0	1	2	0	3	0	2	3	2	0	0	3	3	2	0	0	2	1	0	0	0	0
+8	ND4L	YP_008379146.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	4	1	5	0	0	2	4	0	4	2	2	1	0	0	2	2	9	4	0	2	0	0	2	0	2	0	0	0	1	0	4	5	10	2	1	0	0	0	2	3	0	0	0	1	1	1	3	1	1	4	3	0	1	0	1	1	0	2	1	1	1	0	0	0
+9	ND4	YP_008379147.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	7	11	20	3	6	8	14	1	2	13	2	3	10	3	10	14	40	6	3	10	10	1	2	8	8	1	0	2	8	0	20	15	34	5	6	16	15	1	5	13	9	3	0	9	5	1	13	1	3	16	10	0	2	3	5	3	3	8	5	3	0	0	0	0
+10	ND5	YP_008379148.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	20	25	15	2	9	5	27	2	7	11	2	2	10	2	19	6	33	7	7	8	11	2	2	12	18	0	2	4	2	0	24	30	33	9	4	25	30	3	11	21	14	4	5	10	5	5	6	4	9	16	14	1	4	6	8	3	4	9	9	3	1	0	0	0
+11	CYTB	YP_008379150.1	Saguinus oedipus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Haplorrhini, Platyrrhini, Cebidae, Callitrichinae, Saguinus	9	16	6	1	8	6	10	0	5	10	1	1	9	3	10	11	26	6	1	7	14	1	4	7	8	0	0	2	3	2	7	28	9	7	6	12	17	1	4	9	10	1	1	3	3	8	3	0	4	9	11	0	3	8	4	1	4	11	7	1	1	0	0	0

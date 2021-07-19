@@ -1,65 +1,13 @@
-	YP_001122913.2|ND1	YP_001122914.1|ND2	YP_001122915.1|COX1	YP_001122916.1|COX2	YP_001122917.1|ATP8	YP_001122918.1|ATP6	YP_001122919.1|COX3	YP_001122920.1|ND3	YP_001122921.1|ND4L	YP_001122922.1|ND4	YP_001122923.1|ND5	YP_001122925.1|CYTB
-TTT	20	10	21	2	2	9	14	2	2	22	21	15
-TTC	6	6	23	6	1	8	15	7	3	11	18	17
-TTA	7	9	9	5	4	11	2	0	4	14	10	5
-TTG	1	0	0	1	0	2	1	0	1	1	2	1
-TCT	4	8	9	2	0	3	1	2	2	9	10	10
-TCC	14	10	9	5	0	7	1	4	2	10	17	8
-TCA	5	11	8	3	0	4	6	1	2	9	9	8
-TCG	1	0	3	1	0	0	0	0	0	1	0	0
-TAT	7	2	7	4	1	2	5	0	0	9	12	2
-TAC	4	3	11	4	0	1	5	3	0	4	7	10
-TGT	0	0	0	0	0	0	1	0	1	2	2	0
-TGC	2	0	0	2	0	0	1	1	2	2	6	3
-TGA	7	7	14	4	2	4	12	4	0	11	7	10
-TGG	0	3	3	1	0	1	1	1	1	2	2	1
-CTT	11	17	18	8	1	13	6	6	6	14	26	14
-CTC	24	21	9	6	3	6	11	8	6	29	24	20
-CTA	15	21	15	6	4	14	6	7	3	22	18	12
-CTG	3	5	13	0	0	7	2	3	2	6	11	6
-CCT	6	2	10	2	2	1	3	1	0	3	6	5
-CCC	7	9	7	3	2	4	7	2	3	6	12	7
-CCA	10	6	7	9	2	10	5	5	0	11	6	11
-CCG	0	2	2	0	0	0	0	1	0	1	1	0
-CAT	1	1	7	3	1	1	3	0	1	4	6	2
-CAC	4	6	12	6	2	4	11	0	2	6	9	9
-CAA	7	7	6	7	2	5	8	2	2	10	14	6
-CAG	2	0	0	0	1	2	1	0	0	2	3	0
-CGT	1	1	3	2	0	0	1	0	0	1	2	1
-CGC	2	0	3	0	0	3	3	1	2	4	4	3
-CGA	4	3	2	3	0	2	1	1	0	6	5	3
-CGG	1	0	0	0	0	0	0	0	0	1	0	1
-ATT	14	27	21	20	1	11	11	8	4	27	40	19
-ATC	11	7	19	4	2	4	4	5	0	12	14	20
-ATA	6	11	14	5	0	2	4	2	7	20	20	4
-ATG	4	3	11	7	2	4	4	1	4	2	8	5
-ACT	4	10	7	4	2	9	1	3	2	5	11	1
-ACC	11	15	13	6	0	8	12	2	2	18	18	9
-ACA	6	13	19	4	1	6	8	0	2	12	18	11
-ACG	0	1	0	0	0	0	0	0	0	2	0	0
-AAT	6	4	10	4	2	2	2	0	2	5	12	6
-AAC	2	8	7	4	2	7	2	0	2	9	10	14
-AAA	7	10	7	3	2	2	2	1	1	8	20	8
-AAG	0	1	1	1	1	1	0	0	0	2	2	3
-AGT	1	0	0	2	1	0	0	0	0	1	5	1
-AGC	2	4	4	4	1	4	3	1	1	6	6	0
-GTT	5	6	12	5	0	3	4	2	1	5	17	3
-GTC	6	3	9	2	0	7	6	1	0	4	5	9
-GTA	3	1	15	7	1	3	7	2	3	5	6	2
-GTG	0	0	2	0	0	0	0	0	0	0	1	1
-GCT	6	3	6	4	0	2	11	1	0	8	11	3
-GCC	16	18	25	8	0	10	10	7	6	21	33	21
-GCA	5	6	7	7	2	5	4	0	1	10	15	7
-GCG	1	1	3	0	0	1	0	0	0	3	1	1
-GAT	3	1	4	3	0	0	1	1	1	2	8	3
-GAC	1	0	10	10	2	1	4	3	0	3	8	7
-GAA	7	6	9	10	1	4	8	4	1	10	8	3
-GAG	2	0	2	1	0	0	0	2	1	0	2	1
-GGT	3	4	6	2	0	2	4	0	2	4	3	4
-GGC	7	7	14	4	1	2	11	3	1	8	17	12
-GGA	3	4	17	3	0	2	1	2	3	5	5	10
-GGG	2	1	7	0	0	1	4	0	0	3	4	2
-TAA	0	0	1	0	0	0	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	1	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001122913.2	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	20	6	7	1	4	14	5	1	7	4	0	2	7	0	11	24	15	3	6	7	10	0	1	4	7	2	1	2	4	1	14	11	6	4	4	11	6	0	6	2	7	0	1	2	5	6	3	0	6	16	5	1	3	1	7	2	3	7	3	2	0	0	0	0
+1	ND2	YP_001122914.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	10	6	9	0	8	10	11	0	2	3	0	0	7	3	17	21	21	5	2	9	6	2	1	6	7	0	1	0	3	0	27	7	11	3	10	15	13	1	4	8	10	1	0	4	6	3	1	0	3	18	6	1	1	0	6	0	4	7	4	1	0	0	0	0
+2	COX1	YP_001122915.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	21	23	9	0	9	9	8	3	7	11	0	0	14	3	18	9	15	13	10	7	7	2	7	12	6	0	3	3	2	0	21	19	14	11	7	13	19	0	10	7	7	1	0	4	12	9	15	2	6	25	7	3	4	10	9	2	6	14	17	7	1	0	0	0
+3	COX2	YP_001122916.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	6	5	1	2	5	3	1	4	4	0	2	4	1	8	6	6	0	2	3	9	0	3	6	7	0	2	0	3	0	20	4	5	7	4	6	4	0	4	4	3	1	2	4	5	2	7	0	4	8	7	0	3	10	10	1	2	4	3	0	0	0	0	0
+4	ATP8	YP_001122917.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	1	4	0	0	0	0	0	1	0	0	0	2	0	1	3	4	0	2	2	2	0	1	2	2	1	0	0	0	0	1	2	0	2	2	0	1	0	2	2	2	1	1	1	0	0	1	0	0	0	2	0	0	2	1	0	0	1	0	0	0	0	1	0
+5	ATP6	YP_001122918.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	9	8	11	2	3	7	4	0	2	1	0	0	4	1	13	6	14	7	1	4	10	0	1	4	5	2	0	3	2	0	11	4	2	4	9	8	6	0	2	7	2	1	0	4	3	7	3	0	2	10	5	1	0	1	4	0	2	2	2	1	0	0	0	0
+6	COX3	YP_001122919.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	14	15	2	1	1	1	6	0	5	5	1	1	12	1	6	11	6	2	3	7	5	0	3	11	8	1	1	3	1	0	11	4	4	4	1	12	8	0	2	2	2	0	0	3	4	6	7	0	11	10	4	0	1	4	8	0	4	11	1	4	0	0	0	0
+7	ND3	YP_001122920.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	7	0	0	2	4	1	0	0	3	0	1	4	1	6	8	7	3	1	2	5	1	0	0	2	0	0	1	1	0	8	5	2	1	3	2	0	0	0	0	1	0	0	1	2	1	2	0	1	7	0	0	1	3	4	2	0	3	2	0	0	0	0	0
+8	ND4L	YP_001122921.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	3	4	1	2	2	2	0	0	0	1	2	0	1	6	6	3	2	0	3	0	0	1	2	2	0	0	2	0	0	4	0	7	4	2	2	2	0	2	2	1	0	0	1	1	0	3	0	0	6	1	0	1	0	1	1	2	1	3	0	1	0	0	0
+9	ND4	YP_001122922.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	22	11	14	1	9	10	9	1	9	4	2	2	11	2	14	29	22	6	3	6	11	1	4	6	10	2	1	4	6	1	27	12	20	2	5	18	12	2	5	9	8	2	1	6	5	4	5	0	8	21	10	3	2	3	10	0	4	8	5	3	0	0	0	0
+10	ND5	YP_001122923.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	21	18	10	2	10	17	9	0	12	7	2	6	7	2	26	24	18	11	6	12	6	1	6	9	14	3	2	4	5	0	40	14	20	8	11	18	18	0	12	10	20	2	5	6	17	5	6	1	11	33	15	1	8	8	8	2	3	17	5	4	0	0	0	0
+11	CYTB	YP_001122925.1	Pelophylax plancyi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	15	17	5	1	10	8	8	0	2	10	0	3	10	1	14	20	12	6	5	7	11	0	2	9	6	0	1	3	3	1	19	20	4	5	1	9	11	0	6	14	8	3	1	0	3	9	2	1	3	21	7	1	3	7	3	1	4	12	10	2	1	0	0	0

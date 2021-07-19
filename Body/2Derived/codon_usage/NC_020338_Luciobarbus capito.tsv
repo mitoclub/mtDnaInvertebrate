@@ -1,65 +1,13 @@
-	YP_007475080.1|ND1	YP_007475081.1|ND2	YP_007475082.1|COX1	YP_007475083.1|COX2	YP_007475084.1|ATP8	YP_007475085.1|ATP6	YP_007475086.1|COX3	YP_007475087.1|ND3	YP_007475088.1|ND4L	YP_007475089.1|ND4	YP_007475090.1|ND5	YP_007475092.1|CYTB
-TTT	7	3	16	2	1	8	10	2	5	6	13	8
-TTC	10	5	24	7	2	4	12	7	3	11	29	20
-TTA	11	6	8	7	4	2	6	6	5	8	7	7
-TTG	0	0	0	0	0	1	0	1	0	5	1	1
-TCT	2	1	7	5	0	0	2	0	1	5	3	4
-TCC	4	7	5	6	2	2	3	3	2	7	8	5
-TCA	10	6	13	2	1	3	6	1	3	12	17	9
-TCG	2	2	3	0	0	0	0	1	0	0	0	2
-TAT	2	5	9	3	0	2	4	1	0	5	4	4
-TAC	10	3	10	6	0	3	8	1	0	9	7	11
-TGT	0	0	0	0	0	0	1	0	0	0	4	0
-TGC	0	1	1	2	0	0	1	1	3	5	1	3
-TGA	7	11	16	5	5	4	12	5	1	19	12	11
-TGG	1	0	1	0	0	1	0	0	0	1	1	2
-CTT	5	10	13	5	0	7	3	0	0	10	14	6
-CTC	14	2	9	1	0	8	6	5	5	20	18	10
-CTA	27	36	28	12	0	23	14	10	10	36	41	31
-CTG	6	10	5	4	0	6	3	3	3	8	10	8
-CCT	1	1	4	1	1	0	1	1	2	1	3	0
-CCC	9	4	10	3	1	3	4	4	0	7	8	5
-CCA	13	12	14	9	6	12	7	3	0	18	15	16
-CCG	2	2	1	1	0	1	1	0	0	1	0	0
-CAT	0	0	2	2	0	1	1	0	1	2	2	2
-CAC	6	6	17	8	2	2	15	1	3	10	11	10
-CAA	6	13	7	8	1	7	9	3	3	11	20	6
-CAG	1	1	1	0	0	1	0	0	0	3	2	0
-CGT	0	0	2	1	0	0	1	0	1	0	0	1
-CGC	1	1	0	2	0	0	1	1	0	2	2	1
-CGA	5	1	6	3	0	6	2	0	2	8	7	6
-CGG	2	2	0	0	0	0	1	1	0	1	0	0
-ATT	12	14	20	12	3	10	7	4	1	20	30	17
-ATC	11	9	18	5	2	12	9	3	1	17	21	14
-ATA	7	14	18	5	1	8	8	2	4	17	32	8
-ATG	3	4	6	7	1	3	1	2	1	11	5	4
-ACT	1	2	5	4	3	1	2	2	2	5	4	1
-ACC	10	26	8	4	2	4	7	3	2	14	24	9
-ACA	9	22	21	5	0	13	10	5	3	20	29	11
-ACG	2	1	1	0	0	2	2	0	1	2	2	1
-AAT	4	2	4	2	1	1	0	0	0	4	7	3
-AAC	9	6	11	4	1	9	1	3	2	8	23	14
-AAA	7	9	8	4	3	1	2	1	0	8	19	9
-AAG	0	0	0	0	0	0	0	0	0	1	3	0
-AGT	0	0	2	1	2	2	0	0	0	1	3	0
-AGC	4	8	3	2	0	2	3	0	3	5	8	2
-GTT	1	2	7	3	0	6	2	1	1	2	10	2
-GTC	5	8	8	7	0	2	4	3	0	5	7	9
-GTA	12	6	18	9	2	6	8	1	1	8	11	8
-GTG	1	0	10	1	0	4	2	0	0	4	4	3
-GCT	2	2	8	2	0	1	5	1	1	5	6	6
-GCC	19	17	23	5	1	10	11	2	6	15	24	9
-GCA	11	16	12	7	1	7	7	5	6	11	16	18
-GCG	1	2	2	0	0	0	0	0	0	3	2	1
-GAT	0	0	3	3	0	0	0	0	0	0	6	3
-GAC	4	4	11	9	1	1	5	4	1	3	8	7
-GAA	9	4	10	15	3	4	9	7	2	7	11	7
-GAG	2	1	1	0	0	0	1	0	1	4	2	0
-GGT	0	0	7	1	0	0	1	0	1	2	0	1
-GGC	3	2	6	1	1	3	5	3	2	6	8	9
-GGA	11	15	22	6	0	7	13	2	3	13	17	13
-GGG	4	1	11	1	0	1	2	1	0	8	5	2
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007475080.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	7	10	11	0	2	4	10	2	2	10	0	0	7	1	5	14	27	6	1	9	13	2	0	6	6	1	0	1	5	2	12	11	7	3	1	10	9	2	4	9	7	0	0	4	1	5	12	1	2	19	11	1	0	4	9	2	0	3	11	4	1	0	0	0
+1	ND2	YP_007475081.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	3	5	6	0	1	7	6	2	5	3	0	1	11	0	10	2	36	10	1	4	12	2	0	6	13	1	0	1	1	2	14	9	14	4	2	26	22	1	2	6	9	0	0	8	2	8	6	0	2	17	16	2	0	4	4	1	0	2	15	1	0	0	0	0
+2	COX1	YP_007475082.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	16	24	8	0	7	5	13	3	9	10	0	1	16	1	13	9	28	5	4	10	14	1	2	17	7	1	2	0	6	0	20	18	18	6	5	8	21	1	4	11	8	0	2	3	7	8	18	10	8	23	12	2	3	11	10	1	7	6	22	11	1	0	0	0
+3	COX2	YP_007475083.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	2	7	7	0	5	6	2	0	3	6	0	2	5	0	5	1	12	4	1	3	9	1	2	8	8	0	1	2	3	0	12	5	5	7	4	4	5	0	2	4	4	0	1	2	3	7	9	1	2	5	7	0	3	9	15	0	1	1	6	1	0	0	0	0
+4	ATP8	YP_007475084.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	1	2	4	0	0	2	1	0	0	0	0	0	5	0	0	0	0	0	1	1	6	0	0	2	1	0	0	0	0	0	3	2	1	1	3	2	0	0	1	1	3	0	2	0	0	0	2	0	0	1	1	0	0	1	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_007475085.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	8	4	2	1	0	2	3	0	2	3	0	0	4	1	7	8	23	6	0	3	12	1	1	2	7	1	0	0	6	0	10	12	8	3	1	4	13	2	1	9	1	0	2	2	6	2	6	4	1	10	7	0	0	1	4	0	0	3	7	1	1	0	0	0
+6	COX3	YP_007475086.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	10	12	6	0	2	3	6	0	4	8	1	1	12	0	3	6	14	3	1	4	7	1	1	15	9	0	1	1	2	1	7	9	8	1	2	7	10	2	0	1	2	0	0	3	2	4	8	2	5	11	7	0	0	5	9	1	1	5	13	2	0	0	0	0
+7	ND3	YP_007475087.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	2	7	6	1	0	3	1	1	1	1	0	1	5	0	0	5	10	3	1	4	3	0	0	1	3	0	0	1	0	1	4	3	2	2	2	3	5	0	0	3	1	0	0	0	1	3	1	0	1	2	5	0	0	4	7	0	0	3	2	1	0	0	0	0
+8	ND4L	YP_007475088.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	5	3	5	0	1	2	3	0	0	0	0	3	1	0	0	5	10	3	2	0	0	0	1	3	3	0	1	0	2	0	1	1	4	1	2	2	3	1	0	2	0	0	0	3	1	0	1	0	1	6	6	0	0	1	2	1	1	2	3	0	1	0	0	0
+9	ND4	YP_007475089.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	6	11	8	5	5	7	12	0	5	9	0	5	19	1	10	20	36	8	1	7	18	1	2	10	11	3	0	2	8	1	20	17	17	11	5	14	20	2	4	8	8	1	1	5	2	5	8	4	5	15	11	3	0	3	7	4	2	6	13	8	0	0	0	0
+10	ND5	YP_007475090.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	13	29	7	1	3	8	17	0	4	7	4	1	12	1	14	18	41	10	3	8	15	0	2	11	20	2	0	2	7	0	30	21	32	5	4	24	29	2	7	23	19	3	3	8	10	7	11	4	6	24	16	2	6	8	11	2	0	8	17	5	1	0	0	0
+11	CYTB	YP_007475092.1	Luciobarbus capito	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciobarbus	8	20	7	1	4	5	9	2	4	11	0	3	11	2	6	10	31	8	0	5	16	0	2	10	6	0	1	1	6	0	17	14	8	4	1	9	11	1	3	14	9	0	0	2	2	9	8	3	6	9	18	1	3	7	7	0	1	9	13	2	0	0	0	0

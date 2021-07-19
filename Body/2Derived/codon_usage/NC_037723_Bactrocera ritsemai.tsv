@@ -1,65 +1,10 @@
-	YP_009485325.1|ND2	YP_009485326.1|COX1	YP_009485327.1|COX2	YP_009485328.1|ATP8	YP_009485329.1|ATP6	YP_009485330.1|COX3	YP_009485331.1|ND3	YP_009485335.1|ND6	YP_009485336.1|CYTB
-TTT	26	21	8	2	11	16	6	7	11
-TTC	10	18	6	2	6	10	3	4	18
-TTA	27	26	11	4	18	21	7	13	29
-TTG	1	1	0	1	1	0	0	1	1
-TCT	11	10	2	0	6	6	5	3	4
-TCC	3	4	0	1	3	2	1	1	1
-TCA	13	15	6	4	7	8	7	8	6
-TCG	1	1	0	0	2	0	0	0	0
-TAT	5	10	3	1	5	5	0	5	11
-TAC	6	7	4	1	1	5	1	3	8
-TGT	2	0	1	0	2	0	2	1	3
-TGC	0	0	1	0	0	1	0	1	0
-TGA	7	14	6	3	6	11	3	1	13
-TGG	2	1	0	0	0	2	0	0	0
-CTT	6	11	6	0	8	2	2	3	3
-CTC	2	2	4	0	3	1	1	3	3
-CTA	17	22	8	0	12	7	4	12	21
-CTG	3	3	0	0	0	0	0	2	0
-CCT	2	6	3	3	2	3	0	1	4
-CCC	5	10	4	1	4	3	2	3	9
-CCA	2	10	6	0	3	5	2	1	10
-CCG	0	0	0	0	2	0	0	0	0
-CAT	2	5	4	1	3	6	1	1	3
-CAC	2	12	4	0	5	10	0	1	8
-CAA	9	10	7	1	4	8	1	7	7
-CAG	0	1	0	0	0	0	0	0	1
-CGT	0	1	1	0	0	0	1	0	2
-CGC	0	1	1	0	0	1	0	0	0
-CGA	2	8	3	0	3	3	2	1	5
-CGG	0	0	2	0	0	0	0	0	1
-ATT	22	35	12	5	13	11	19	14	38
-ATC	10	7	5	1	5	8	7	4	8
-ATA	24	25	12	3	7	6	5	18	7
-ATG	2	2	2	0	3	1	0	0	1
-ACT	10	6	8	1	5	5	0	7	5
-ACC	0	6	1	0	2	5	2	1	2
-ACA	12	19	9	1	12	8	4	7	11
-ACG	1	1	1	0	0	2	0	0	2
-AAT	18	11	12	2	9	4	4	5	13
-AAC	10	8	3	0	2	3	0	6	12
-AAA	10	4	1	5	2	2	4	6	7
-AAG	1	1	2	0	0	0	0	0	1
-AGT	4	2	0	2	2	0	1	0	0
-AGC	2	5	1	1	1	2	0	0	1
-AGA	1	3	4	0	4	2	1	2	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	14	3	0	3	6	0	1	3
-GTC	1	2	2	1	2	3	0	1	2
-GTA	1	21	8	1	7	7	4	5	19
-GTG	1	2	1	1	0	1	0	0	1
-GCT	2	9	2	1	4	4	3	2	10
-GCC	8	14	4	1	3	4	0	0	4
-GCA	11	13	4	1	5	7	1	3	10
-GCG	0	1	0	0	0	2	1	0	0
-GAT	1	6	3	0	0	3	0	1	2
-GAC	0	9	7	0	1	2	3	0	8
-GAA	5	8	8	0	4	6	4	3	3
-GAG	0	1	1	0	0	1	0	0	0
-GGT	3	9	4	1	1	1	0	1	2
-GGC	3	2	1	0	1	2	0	0	2
-GGA	4	28	6	0	8	17	1	2	18
-GGG	2	7	0	0	2	1	2	2	2
-TAA	1	0	1	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009485325.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	26	10	27	1	11	3	13	1	5	6	2	0	7	2	6	2	17	3	2	5	2	0	2	2	9	0	0	0	2	0	22	10	24	2	10	0	12	1	18	10	10	1	4	2	1	0	5	1	1	1	2	8	11	0	1	0	5	0	3	3	4	2	1	0
+1	COX1	YP_009485326.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	21	18	26	1	10	4	15	1	10	7	0	0	14	1	11	2	22	3	6	10	10	0	5	12	10	1	1	1	8	0	35	7	25	2	6	6	19	1	11	8	4	1	2	5	3	0	14	2	21	2	9	14	13	1	6	9	8	1	9	2	28	7	0	0
+2	COX2	YP_009485327.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	8	6	11	0	2	0	6	0	3	4	1	1	6	0	6	4	8	0	3	4	6	0	4	4	7	0	1	1	3	2	12	5	12	2	8	1	9	1	12	3	1	2	0	1	4	0	3	2	8	1	2	4	4	0	3	7	8	1	4	1	6	0	1	0
+3	ATP8	YP_009485328.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	2	2	4	1	0	1	4	0	1	1	0	0	3	0	0	0	0	0	3	1	0	0	1	0	1	0	0	0	0	0	5	1	3	0	1	0	1	0	2	0	5	0	2	1	0	0	0	1	1	1	1	1	1	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_009485329.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	11	6	18	1	6	3	7	2	5	1	2	0	6	0	8	3	12	0	2	4	3	2	3	5	4	0	0	0	3	0	13	5	7	3	5	2	12	0	9	2	2	0	2	1	4	0	3	2	7	0	4	3	5	0	0	1	4	0	1	1	8	2	1	0
+5	COX3	YP_009485330.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	16	10	21	0	6	2	8	0	5	5	0	1	11	2	2	1	7	0	3	3	5	0	6	10	8	0	0	1	3	0	11	8	6	1	5	5	8	2	4	3	2	0	0	2	2	0	6	3	7	1	4	4	7	2	3	2	6	1	1	2	17	1	1	0
+6	ND3	YP_009485331.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	6	3	7	0	5	1	7	0	0	1	2	0	3	0	2	1	4	0	0	2	2	0	1	0	1	0	1	0	2	0	19	7	5	0	0	2	4	0	4	0	4	0	1	0	1	0	0	0	4	0	3	0	1	1	0	3	4	0	0	0	1	2	0	1
+7	ND6	YP_009485335.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	7	4	13	1	3	1	8	0	5	3	1	1	1	0	3	3	12	2	1	3	1	0	1	1	7	0	0	0	1	0	14	4	18	0	7	1	7	0	5	6	6	0	0	0	2	0	1	1	5	0	2	0	3	0	1	0	3	0	1	0	2	2	1	0
+8	CYTB	YP_009485336.1	Bactrocera ritsemai	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Bactrocera, Bactrocera	11	18	29	1	4	1	6	0	11	8	3	0	13	0	3	3	21	0	4	9	10	0	3	8	7	1	2	0	5	1	38	8	7	1	5	2	11	2	13	12	7	1	0	1	2	0	3	2	19	1	10	4	10	0	2	8	3	0	2	2	18	2	0	1

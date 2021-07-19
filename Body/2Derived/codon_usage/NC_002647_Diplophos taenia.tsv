@@ -1,65 +1,13 @@
-	NP_073651.1|ND1	NP_073652.1|ND2	NP_073653.1|COX1	NP_073654.1|COX2	NP_073655.1|ATP8	NP_073656.1|ATP6	NP_073657.1|COX3	NP_073658.1|ND3	NP_073659.1|ND4L	NP_073660.1|ND4	NP_073661.1|ND5	NP_073663.1|CYTB
-TTT	5	5	12	3	1	6	9	3	1	8	19	11
-TTC	15	7	30	5	3	4	17	5	6	6	23	21
-TTA	2	3	3	1	2	4	1	1	2	5	3	3
-TTG	6	7	0	1	2	2	0	1	1	4	4	3
-TCT	2	3	4	3	1	1	2	0	1	4	12	8
-TCC	9	15	11	6	0	0	4	6	5	13	13	7
-TCA	1	3	6	3	0	1	5	0	3	3	4	7
-TCG	3	1	2	1	1	1	1	0	0	8	4	2
-TAT	4	5	7	3	0	1	2	1	0	2	4	5
-TAC	6	2	11	6	0	2	10	1	1	12	6	9
-TGT	0	2	1	0	0	1	0	0	2	1	1	2
-TGC	0	1	0	2	0	0	2	1	1	6	4	1
-TGA	4	6	7	2	4	5	8	2	0	9	7	7
-TGG	4	6	10	3	1	0	4	3	1	11	7	6
-CTT	12	22	22	5	0	17	13	5	4	16	33	15
-CTC	18	29	16	12	1	20	15	12	9	42	36	19
-CTA	11	9	15	4	2	9	2	4	3	14	14	13
-CTG	14	9	8	4	0	6	2	2	3	16	11	6
-CCT	4	5	7	5	2	4	2	3	0	10	8	1
-CCC	11	13	15	5	5	9	4	3	2	11	13	15
-CCA	5	1	2	3	2	2	5	1	0	6	7	1
-CCG	4	2	4	1	0	2	1	1	0	2	5	4
-CAT	1	2	2	4	0	0	4	0	0	2	3	2
-CAC	3	6	17	6	2	4	12	0	5	10	9	10
-CAA	4	6	4	5	1	5	6	1	2	4	11	4
-CAG	3	4	4	3	0	3	3	2	0	8	6	2
-CGT	2	1	0	1	0	0	0	1	0	2	0	0
-CGC	1	0	1	2	0	1	2	0	0	3	5	0
-CGA	3	2	4	2	0	1	1	0	3	3	2	6
-CGG	2	2	3	1	0	4	2	1	0	4	4	2
-ATT	13	6	20	13	3	10	7	5	1	17	22	13
-ATC	9	10	20	6	2	7	6	1	0	12	17	16
-ATA	4	5	10	6	0	2	3	1	3	9	6	2
-ATG	7	6	14	5	1	3	4	2	2	12	14	8
-ACT	4	8	5	3	4	4	1	3	1	8	13	0
-ACC	11	17	18	2	0	10	8	3	3	17	31	14
-ACA	2	3	9	1	0	3	9	2	1	6	9	4
-ACG	3	3	6	2	0	3	2	0	1	2	3	3
-AAT	3	2	4	3	0	3	0	0	0	3	9	4
-AAC	8	4	10	2	2	5	1	3	1	7	22	12
-AAA	5	3	8	2	3	0	1	0	0	5	6	4
-AAG	2	7	1	3	0	1	2	1	0	6	13	5
-AGT	1	0	2	0	1	1	0	1	1	1	2	0
-AGC	4	4	3	3	0	4	3	1	2	6	12	3
-GTT	3	6	12	4	0	5	3	0	1	5	10	9
-GTC	7	8	9	10	1	5	8	2	0	6	13	8
-GTA	4	1	11	5	0	2	1	1	0	4	5	0
-GTG	5	3	8	2	0	3	4	3	0	3	7	8
-GCT	1	9	11	7	1	4	4	0	1	4	8	4
-GCC	31	25	22	5	1	12	14	8	10	22	40	16
-GCA	4	7	12	3	1	5	4	3	3	3	7	7
-GCG	4	0	3	5	0	3	3	1	2	13	5	4
-GAT	0	1	5	5	0	0	1	1	0	2	2	3
-GAC	4	2	10	8	0	1	4	2	1	2	11	8
-GAA	8	0	7	5	1	3	3	5	1	4	4	3
-GAG	3	5	5	9	2	1	4	1	2	7	10	4
-GGT	0	6	4	1	0	0	6	0	0	2	3	3
-GGC	7	8	10	2	0	7	8	3	5	10	15	8
-GGA	4	5	11	3	1	2	3	1	0	7	6	8
-GGG	4	5	22	3	0	3	5	2	1	10	9	7
-TAA	0	0	0	0	1	1	0	0	1	0	0	0
-TAG	1	1	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_073651.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	5	15	2	6	2	9	1	3	4	6	0	0	4	4	12	18	11	14	4	11	5	4	1	3	4	3	2	1	3	2	13	9	4	7	4	11	2	3	3	8	5	2	1	4	3	7	4	5	1	31	4	4	0	4	8	3	0	7	4	4	0	1	0	0
+1	ND2	NP_073652.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	5	7	3	7	3	15	3	1	5	2	2	1	6	6	22	29	9	9	5	13	1	2	2	6	6	4	1	0	2	2	6	10	5	6	8	17	3	3	2	4	3	7	0	4	6	8	1	3	9	25	7	0	1	2	0	5	6	8	5	5	0	1	0	0
+2	COX1	NP_073653.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	12	30	3	0	4	11	6	2	7	11	1	0	7	10	22	16	15	8	7	15	2	4	2	17	4	4	0	1	4	3	20	20	10	14	5	18	9	6	4	10	8	1	2	3	12	9	11	8	11	22	12	3	5	10	7	5	4	10	11	22	0	0	0	1
+3	COX2	NP_073654.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	3	5	1	1	3	6	3	1	3	6	0	2	2	3	5	12	4	4	5	5	3	1	4	6	5	3	1	2	2	1	13	6	6	5	3	2	1	2	3	2	2	3	0	3	4	10	5	2	7	5	3	5	5	8	5	9	1	2	3	3	0	0	0	0
+4	ATP8	NP_073655.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	1	3	2	2	1	0	0	1	0	0	0	0	4	1	0	1	2	0	2	5	2	0	0	2	1	0	0	0	0	0	3	2	0	1	4	0	0	0	0	2	3	0	1	0	0	1	0	0	1	1	1	0	0	0	1	2	0	0	1	0	1	0	0	0
+5	ATP6	NP_073656.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	6	4	4	2	1	0	1	1	1	2	1	0	5	0	17	20	9	6	4	9	2	2	0	4	5	3	0	1	1	4	10	7	2	3	4	10	3	3	3	5	0	1	1	4	5	5	2	3	4	12	5	3	0	1	3	1	0	7	2	3	1	0	0	0
+6	COX3	NP_073657.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	9	17	1	0	2	4	5	1	2	10	0	2	8	4	13	15	2	2	2	4	5	1	4	12	6	3	0	2	1	2	7	6	3	4	1	8	9	2	0	1	1	2	0	3	3	8	1	4	4	14	4	3	1	4	3	4	6	8	3	5	0	0	0	0
+7	ND3	NP_073658.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	3	5	1	1	0	6	0	0	1	1	0	1	2	3	5	12	4	2	3	3	1	1	0	0	1	2	1	0	0	1	5	1	1	2	3	3	2	0	0	3	0	1	1	1	0	2	1	3	0	8	3	1	1	2	5	1	0	3	1	2	0	0	0	0
+8	ND4L	NP_073659.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	1	6	2	1	1	5	3	0	0	1	2	1	0	1	4	9	3	3	0	2	0	0	0	5	2	0	0	0	3	0	1	0	3	2	1	3	1	1	0	1	0	0	1	2	1	0	0	0	1	10	3	2	0	1	1	2	0	5	0	1	1	0	0	0
+9	ND4	NP_073660.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	8	6	5	4	4	13	3	8	2	12	1	6	9	11	16	42	14	16	10	11	6	2	2	10	4	8	2	3	3	4	17	12	9	12	8	17	6	2	3	7	5	6	1	6	5	6	4	3	4	22	3	13	2	2	4	7	2	10	7	10	0	0	0	0
+10	ND5	NP_073661.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	19	23	3	4	12	13	4	4	4	6	1	4	7	7	33	36	14	11	8	13	7	5	3	9	11	6	0	5	2	4	22	17	6	14	13	31	9	3	9	22	6	13	2	12	10	13	5	7	8	40	7	5	2	11	4	10	3	15	6	9	0	1	0	0
+11	CYTB	NP_073663.1	Diplophos taenia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Stomiiformes, Diplophidae, Diplophos	11	21	3	3	8	7	7	2	5	9	2	1	7	6	15	19	13	6	1	15	1	4	2	10	4	2	0	0	6	2	13	16	2	8	0	14	4	3	4	12	4	5	0	3	9	8	0	8	4	16	7	4	3	8	3	4	3	8	8	7	0	0	0	0

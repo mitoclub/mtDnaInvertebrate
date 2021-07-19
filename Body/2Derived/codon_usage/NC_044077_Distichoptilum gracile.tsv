@@ -1,65 +1,11 @@
-	YP_009679264.1|COX1	YP_009679265.1|ND1	YP_009679266.1|CYTB	YP_009679267.1|ND6	YP_009679268.1|ND3	YP_009679269.1|ND4L	YP_009679270.1|MutS	YP_009679271.1|ND2	YP_009679272.1|ND5	YP_009679273.1|ND4
-TTT	27	10	21	5	8	3	22	12	21	21
-TTC	21	9	8	7	5	0	9	4	12	14
-TTA	35	25	34	14	14	15	69	50	58	48
-TTG	8	5	8	3	0	1	16	16	12	9
-TCT	15	9	8	4	2	3	34	11	19	11
-TCC	2	1	3	3	1	1	9	2	4	1
-TCA	5	4	4	2	2	1	8	6	5	6
-TCG	2	5	0	1	0	0	10	5	3	3
-TAT	16	12	12	8	5	3	40	13	28	17
-TAC	6	3	10	1	0	1	6	5	5	2
-TGT	1	3	4	0	1	1	12	8	9	7
-TGC	0	1	1	0	0	0	4	1	1	0
-TGA	0	0	0	0	0	0	1	0	0	0
-TGG	15	6	10	1	4	0	13	7	11	8
-CTT	3	8	5	3	2	4	26	11	10	9
-CTC	0	1	4	1	0	1	5	1	0	2
-CTA	16	8	4	6	4	0	14	14	16	8
-CTG	3	3	2	0	0	1	6	3	2	3
-CCT	13	9	8	6	2	0	28	8	8	8
-CCC	6	2	8	0	3	0	8	5	5	4
-CCA	4	2	3	1	0	0	8	4	7	7
-CCG	3	1	1	1	1	0	4	0	1	1
-CAT	13	1	11	2	0	0	13	8	7	7
-CAC	4	1	0	2	0	0	7	0	3	2
-CAA	6	2	7	3	1	1	30	7	11	8
-CAG	3	4	0	4	0	0	13	3	0	3
-CGT	2	0	1	1	0	3	6	2	6	2
-CGC	0	0	1	0	0	0	3	0	1	1
-CGA	0	2	1	0	0	1	11	2	2	2
-CGG	2	1	1	0	0	0	2	0	0	2
-ATT	21	14	18	6	4	10	42	16	25	17
-ATC	7	8	4	3	2	4	11	12	7	9
-ATA	17	13	16	12	6	1	30	27	26	43
-ATG	23	13	12	6	4	5	14	14	18	13
-ACT	16	5	6	2	1	2	24	7	17	12
-ACC	7	2	4	2	1	0	2	0	4	1
-ACA	9	0	4	2	1	1	12	13	16	11
-ACG	0	1	0	0	0	1	4	2	0	2
-AAT	11	7	13	8	3	3	44	8	11	5
-AAC	6	1	4	2	1	1	12	2	4	3
-AAA	3	6	5	2	3	0	37	10	7	3
-AAG	4	2	5	1	0	0	21	4	8	5
-AGT	11	6	7	6	0	0	19	6	10	12
-AGC	4	3	3	3	1	1	8	5	10	2
-AGA	6	4	5	2	1	2	14	4	7	9
-AGG	1	0	0	1	0	0	6	0	3	1
-GTT	8	8	14	8	6	4	22	4	10	12
-GTC	4	3	4	1	0	2	5	3	7	2
-GTA	13	9	9	8	1	1	18	12	19	12
-GTG	7	4	6	3	1	1	5	7	8	7
-GCT	23	18	12	7	0	4	21	20	18	19
-GCC	5	6	7	3	0	3	8	8	10	2
-GCA	9	12	0	0	1	1	13	11	14	10
-GCG	2	1	2	1	1	1	3	3	3	4
-GAT	13	4	3	3	4	0	31	3	13	3
-GAC	3	1	8	1	0	0	12	2	1	2
-GAA	5	8	3	2	4	0	31	7	7	8
-GAG	3	2	4	1	4	3	28	3	6	9
-GGT	15	11	4	0	0	5	18	9	11	6
-GGC	3	2	5	1	2	0	6	5	9	6
-GGA	18	8	9	6	3	1	13	11	15	12
-GGG	13	6	10	2	7	0	15	14	14	4
-TAA	1	0	0	0	1	1	1	0	0	1
-TAG	0	1	1	1	0	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009679264.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	27	21	35	8	15	2	5	2	16	6	1	0	0	15	3	0	16	3	13	6	4	3	13	4	6	3	2	0	0	2	21	7	17	23	16	7	9	0	11	6	3	4	11	4	6	1	8	4	13	7	23	5	9	2	13	3	5	3	15	3	18	13	1	0
+1	ND1	YP_009679265.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	10	9	25	5	9	1	4	5	12	3	3	1	0	6	8	1	8	3	9	2	2	1	1	1	2	4	0	0	2	1	14	8	13	13	5	2	0	1	7	1	6	2	6	3	4	0	8	3	9	4	18	6	12	1	4	1	8	2	11	2	8	6	0	1
+2	CYTB	YP_009679266.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	21	8	34	8	8	3	4	0	12	10	4	1	0	10	5	4	4	2	8	8	3	1	11	0	7	0	1	1	1	1	18	4	16	12	6	4	4	0	13	4	5	5	7	3	5	0	14	4	9	6	12	7	0	2	3	8	3	4	4	5	9	10	0	1
+3	ND6	YP_009679267.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	5	7	14	3	4	3	2	1	8	1	0	0	0	1	3	1	6	0	6	0	1	1	2	2	3	4	1	0	0	0	6	3	12	6	2	2	2	0	8	2	2	1	6	3	2	1	8	1	8	3	7	3	0	1	3	1	2	1	0	1	6	2	0	1
+4	ND3	YP_009679268.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	8	5	14	0	2	1	2	0	5	0	1	0	0	4	2	0	4	0	2	3	0	1	0	0	1	0	0	0	0	0	4	2	6	4	1	1	1	0	3	1	3	0	0	1	1	0	6	0	1	1	0	0	1	1	4	0	4	4	0	2	3	7	1	0
+5	ND4L	YP_009679269.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	3	0	15	1	3	1	1	0	3	1	1	0	0	0	4	1	0	1	0	0	0	0	0	0	1	0	3	0	1	0	10	4	1	5	2	0	1	1	3	1	0	0	0	1	2	0	4	2	1	1	4	3	1	1	0	0	0	3	5	0	1	0	1	0
+6	MutS	YP_009679270.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	22	9	69	16	34	9	8	10	40	6	12	4	1	13	26	5	14	6	28	8	8	4	13	7	30	13	6	3	11	2	42	11	30	14	24	2	12	4	44	12	37	21	19	8	14	6	22	5	18	5	21	8	13	3	31	12	31	28	18	6	13	15	1	0
+7	ND2	YP_009679271.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	12	4	50	16	11	2	6	5	13	5	8	1	0	7	11	1	14	3	8	5	4	0	8	0	7	3	2	0	2	0	16	12	27	14	7	0	13	2	8	2	10	4	6	5	4	0	4	3	12	7	20	8	11	3	3	2	7	3	9	5	11	14	0	1
+8	ND5	YP_009679272.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	21	12	58	12	19	4	5	3	28	5	9	1	0	11	10	0	16	2	8	5	7	1	7	3	11	0	6	1	2	0	25	7	26	18	17	4	16	0	11	4	7	8	10	10	7	3	10	7	19	8	18	10	14	3	13	1	7	6	11	9	15	14	0	1
+9	ND4	YP_009679273.1	Distichoptilum gracile	Eukaryota, Metazoa, Cnidaria, Anthozoa, Octocorallia, Pennatulacea, Sessiliflorae, Protoptilidae, Distichoptilum	21	14	48	9	11	1	6	3	17	2	7	0	0	8	9	2	8	3	8	4	7	1	7	2	8	3	2	1	2	2	17	9	43	13	12	1	11	2	5	3	3	5	12	2	9	1	12	2	12	7	19	2	10	4	3	2	8	9	6	6	12	4	1	0

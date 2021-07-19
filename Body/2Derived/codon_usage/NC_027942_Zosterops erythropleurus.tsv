@@ -1,65 +1,13 @@
-	YP_009166289.1|ND1	YP_009166290.1|ND2	YP_009166291.1|COX1	YP_009166292.1|COX2	YP_009166293.1|ATP8	YP_009166294.1|ATP6	YP_009166295.1|COX3	YP_009166296.1|ND3	YP_009166297.1|ND4L	YP_009166298.1|ND4	YP_009166299.1|ND5	YP_009166300.1|CYTB
-TTT	6	3	11	2	2	5	5	2	4	2	11	7
-TTC	13	11	33	7	1	6	20	6	1	12	22	23
-TTA	7	6	2	0	0	2	4	4	4	7	11	8
-TTG	1	0	0	0	0	0	1	0	0	0	0	0
-TCT	2	4	3	2	2	1	3	1	0	6	3	5
-TCC	8	12	10	6	1	7	4	3	4	8	17	3
-TCA	8	7	11	7	3	4	3	1	5	12	19	13
-TCG	0	1	0	0	0	0	0	0	0	1	0	0
-TAT	1	2	6	1	0	0	4	0	0	2	2	3
-TAC	14	4	11	6	1	3	8	2	2	12	13	9
-TGT	0	1	0	0	0	0	0	1	1	1	1	1
-TGC	3	1	1	3	0	0	1	0	2	3	6	3
-TGA	7	10	17	5	5	4	12	4	1	11	12	11
-TGG	1	0	0	0	0	0	0	1	0	1	0	0
-CTT	13	7	4	6	2	5	3	4	2	6	12	7
-CTC	13	12	9	4	0	19	8	8	3	20	21	9
-CTA	34	32	41	20	3	30	14	11	11	55	55	39
-CTG	1	5	6	0	1	6	1	0	1	5	9	2
-CCT	4	4	5	1	3	6	2	0	1	6	4	4
-CCC	6	8	9	2	0	2	4	2	1	8	6	7
-CCA	10	10	15	10	5	7	8	5	2	16	21	13
-CCG	5	1	1	0	0	0	0	0	0	0	0	0
-CAT	2	4	6	3	0	2	3	0	0	4	3	2
-CAC	0	6	13	5	0	1	12	0	6	10	8	10
-CAA	5	9	9	7	1	6	6	4	3	11	17	7
-CAG	1	0	0	1	1	2	1	0	0	2	1	0
-CGT	2	0	1	1	0	0	0	1	0	2	1	2
-CGC	2	1	1	0	0	1	1	0	1	1	3	1
-CGA	4	3	6	5	0	4	4	1	1	9	4	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	7	11	17	4	1	4	7	1	1	17	17	4
-ATC	17	19	25	11	2	14	10	8	2	27	33	26
-ATA	9	14	14	6	1	6	6	5	4	27	23	2
-ATG	2	3	8	4	1	2	2	1	2	4	3	3
-ACT	5	9	9	4	1	2	6	1	5	10	13	2
-ACC	5	17	12	5	4	9	6	6	4	18	29	12
-ACA	10	22	16	7	5	12	9	4	2	13	28	11
-ACG	0	1	0	0	0	0	0	0	0	0	1	1
-AAT	2	2	0	3	3	1	0	0	0	4	5	2
-AAC	10	10	15	4	2	8	2	4	2	11	22	19
-AAA	5	11	9	2	2	3	4	0	0	10	19	8
-AAG	2	2	0	2	0	0	0	1	0	0	1	2
-AGT	0	0	0	0	0	3	0	0	1	2	0	0
-AGC	6	4	4	4	0	2	5	1	2	9	9	1
-GTT	1	0	6	3	0	1	2	0	1	1	0	2
-GTC	1	5	6	10	0	2	5	0	1	4	7	7
-GTA	9	3	23	4	1	5	6	1	0	4	12	14
-GTG	0	2	3	0	0	0	3	0	0	0	1	1
-GCT	5	5	7	7	0	1	6	0	1	9	8	7
-GCC	11	14	21	7	1	12	9	5	7	18	26	15
-GCA	15	9	18	5	0	2	8	3	0	8	13	8
-GCG	0	0	0	1	0	0	0	0	0	1	1	0
-GAT	0	0	2	3	0	0	1	1	0	1	4	2
-GAC	5	2	13	9	0	2	5	2	1	2	4	6
-GAA	8	4	10	11	0	5	6	6	2	8	9	6
-GAG	3	0	0	0	0	0	1	0	0	1	2	1
-GGT	1	0	9	1	0	0	2	0	2	2	5	1
-GGC	3	7	12	1	0	4	6	2	1	7	10	14
-GGA	9	6	23	5	0	3	12	3	1	7	17	8
-GGG	1	0	3	0	0	1	0	0	0	1	1	1
-TAA	0	1	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009166289.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	6	13	7	1	2	8	8	0	1	14	0	3	7	1	13	13	34	1	4	6	10	5	2	0	5	1	2	2	4	0	7	17	9	2	5	5	10	0	2	10	5	2	0	6	1	1	9	0	5	11	15	0	0	5	8	3	1	3	9	1	0	0	1	0
+1	ND2	YP_009166290.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	3	11	6	0	4	12	7	1	2	4	1	1	10	0	7	12	32	5	4	8	10	1	4	6	9	0	0	1	3	0	11	19	14	3	9	17	22	1	2	10	11	2	0	4	0	5	3	2	5	14	9	0	0	2	4	0	0	7	6	0	1	0	0	0
+2	COX1	YP_009166291.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	11	33	2	0	3	10	11	0	6	11	0	1	17	0	4	9	41	6	5	9	15	1	6	13	9	0	1	1	6	0	17	25	14	8	9	12	16	0	0	15	9	0	0	4	6	6	23	3	7	21	18	0	2	13	10	0	9	12	23	3	0	0	0	1
+3	COX2	YP_009166292.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	2	7	0	0	2	6	7	0	1	6	0	3	5	0	6	4	20	0	1	2	10	0	3	5	7	1	1	0	5	0	4	11	6	4	4	5	7	0	3	4	2	2	0	4	3	10	4	0	7	7	5	1	3	9	11	0	1	1	5	0	1	0	0	0
+4	ATP8	YP_009166293.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	2	1	0	0	2	1	3	0	0	1	0	0	5	0	2	0	3	1	3	0	5	0	0	0	1	1	0	0	0	0	1	2	1	1	1	4	5	0	3	2	2	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009166294.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	5	6	2	0	1	7	4	0	0	3	0	0	4	0	5	19	30	6	6	2	7	0	2	1	6	2	0	1	4	0	4	14	6	2	2	9	12	0	1	8	3	0	3	2	1	2	5	0	1	12	2	0	0	2	5	0	0	4	3	1	1	0	0	0
+6	COX3	YP_009166295.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	5	20	4	1	3	4	3	0	4	8	0	1	12	0	3	8	14	1	2	4	8	0	3	12	6	1	0	1	4	0	7	10	6	2	6	6	9	0	0	2	4	0	0	5	2	5	6	3	6	9	8	0	1	5	6	1	2	6	12	0	0	0	0	0
+7	ND3	YP_009166296.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	2	6	4	0	1	3	1	0	0	2	1	0	4	1	4	8	11	0	0	2	5	0	0	0	4	0	1	0	1	0	1	8	5	1	1	6	4	0	0	4	0	1	0	1	0	0	1	0	0	5	3	0	1	2	6	0	0	2	3	0	0	0	0	0
+8	ND4L	YP_009166297.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	4	1	4	0	0	4	5	0	0	2	1	2	1	0	2	3	11	1	1	1	2	0	0	6	3	0	0	1	1	0	1	2	4	2	5	4	2	0	0	2	0	0	1	2	1	1	0	0	1	7	0	0	0	1	2	0	2	1	1	0	1	0	0	0
+9	ND4	YP_009166298.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	2	12	7	0	6	8	12	1	2	12	1	3	11	1	6	20	55	5	6	8	16	0	4	10	11	2	2	1	9	0	17	27	27	4	10	18	13	0	4	11	10	0	2	9	1	4	4	0	9	18	8	1	1	2	8	1	2	7	7	1	0	0	0	0
+10	ND5	YP_009166299.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	11	22	11	0	3	17	19	0	2	13	1	6	12	0	12	21	55	9	4	6	21	0	3	8	17	1	1	3	4	0	17	33	23	3	13	29	28	1	5	22	19	1	0	9	0	7	12	1	8	26	13	1	4	4	9	2	5	10	17	1	0	0	1	0
+11	CYTB	YP_009166300.1	Zosterops erythropleurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Zosteropidae, Zosterops	7	23	8	0	5	3	13	0	3	9	1	3	11	0	7	9	39	2	4	7	13	0	2	10	7	0	2	1	5	0	4	26	2	3	2	12	11	1	2	19	8	2	0	1	2	7	14	1	7	15	8	0	2	6	6	1	1	14	8	1	1	0	0	0

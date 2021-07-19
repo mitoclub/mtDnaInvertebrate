@@ -1,65 +1,13 @@
-	YP_009387878.1|ND1	YP_009387879.1|ND2	YP_009387880.1|COX1	YP_009387881.1|COX2	YP_009387882.1|ATP8	YP_009387883.1|ATP6	YP_009387884.1|COX3	YP_009387885.1|ND3	YP_009387886.1|ND4L	YP_009387887.1|ND4	YP_009387888.1|ND5	YP_009387890.1|CYTB
-TTT	15	10	28	5	3	11	17	4	3	15	30	21
-TTC	6	4	13	3	2	5	8	4	3	5	17	15
-TTA	17	25	28	14	2	24	9	11	8	39	40	22
-TTG	1	2	3	2	0	2	1	1	0	1	4	1
-TCT	3	6	11	3	0	1	3	3	2	2	5	8
-TCC	3	8	5	5	1	2	1	1	6	11	16	4
-TCA	14	8	9	4	2	1	6	2	3	13	16	8
-TCG	0	0	1	0	0	0	0	0	0	0	0	0
-TAT	8	3	11	7	0	3	8	0	0	8	8	7
-TAC	5	4	7	4	0	1	4	1	1	6	8	8
-TGT	0	1	1	2	0	0	1	0	2	1	4	0
-TGC	0	1	0	0	0	0	0	1	2	3	1	3
-TGA	6	9	17	4	5	5	10	5	1	19	13	12
-TGG	2	1	0	1	0	0	2	0	0	1	1	0
-CTT	16	15	16	5	3	13	8	4	4	29	27	17
-CTC	9	10	9	2	0	4	8	8	4	14	7	6
-CTA	15	19	8	4	1	7	6	3	4	13	19	13
-CTG	2	0	0	1	0	2	0	0	1	0	3	0
-CCT	3	5	10	2	2	3	2	3	1	5	6	7
-CCC	9	2	3	5	3	7	3	1	0	3	7	5
-CCA	11	11	15	7	4	5	8	5	1	14	15	9
-CCG	0	1	1	0	0	0	0	0	0	1	1	0
-CAT	4	2	11	3	1	2	7	0	1	5	8	5
-CAC	0	5	8	6	0	1	9	0	1	5	6	6
-CAA	6	9	5	10	1	8	6	2	1	12	23	8
-CAG	1	2	4	0	0	1	3	0	0	0	1	0
-CGT	1	0	2	2	0	0	1	1	0	2	2	1
-CGC	1	1	0	1	0	0	0	1	0	2	3	2
-CGA	6	3	7	2	0	5	3	0	3	7	4	5
-CGG	0	0	0	1	0	0	1	0	0	0	0	0
-ATT	23	27	30	15	3	19	8	10	7	42	44	34
-ATC	10	9	12	3	1	3	5	2	0	7	24	14
-ATA	13	16	21	10	2	9	5	1	4	19	17	5
-ATG	1	3	3	3	1	1	4	1	2	7	8	2
-ACT	6	6	11	4	0	7	5	0	1	8	10	10
-ACC	12	21	11	4	1	6	4	2	2	11	23	6
-ACA	7	14	15	6	2	11	10	1	3	14	15	9
-ACG	0	0	1	0	0	0	0	1	0	1	1	1
-AAT	3	8	9	3	2	8	1	4	2	7	24	14
-AAC	8	9	7	2	1	3	1	1	2	9	10	10
-AAA	7	10	8	4	6	1	2	1	0	12	25	9
-AAG	0	0	0	1	0	0	0	0	0	0	0	0
-AGT	2	0	3	1	1	0	1	1	0	3	4	1
-AGC	2	4	1	2	0	4	2	0	3	6	7	0
-GTT	5	2	14	10	0	4	8	1	1	4	3	5
-GTC	3	2	7	3	0	1	2	1	0	0	2	2
-GTA	1	3	14	5	1	7	8	1	0	6	5	8
-GTG	2	1	3	0	0	0	1	0	1	0	2	0
-GCT	5	9	11	4	1	7	7	2	3	10	13	5
-GCC	10	7	15	4	0	3	11	1	2	10	15	9
-GCA	9	7	20	7	0	6	6	7	4	12	10	4
-GCG	0	0	0	0	0	0	0	1	1	0	0	1
-GAT	3	0	10	8	1	1	2	3	1	5	10	5
-GAC	0	0	4	3	0	0	3	1	0	1	4	3
-GAA	10	5	11	14	2	4	6	4	1	10	8	5
-GAG	0	1	0	1	0	0	3	2	1	0	2	1
-GGT	3	6	15	1	0	2	5	2	2	5	6	8
-GGC	7	5	5	3	0	4	5	2	1	6	5	4
-GGA	7	3	19	3	0	3	10	1	2	8	15	11
-GGG	2	3	5	1	0	0	1	1	0	1	2	2
-TAA	0	0	1	0	1	1	1	0	1	0	1	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009387878.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	15	6	17	1	3	3	14	0	8	5	0	0	6	2	16	9	15	2	3	9	11	0	4	0	6	1	1	1	6	0	23	10	13	1	6	12	7	0	3	8	7	0	2	2	5	3	1	2	5	10	9	0	3	0	10	0	3	7	7	2	0	1	0	0
+1	ND2	YP_009387879.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	10	4	25	2	6	8	8	0	3	4	1	1	9	1	15	10	19	0	5	2	11	1	2	5	9	2	0	1	3	0	27	9	16	3	6	21	14	0	8	9	10	0	0	4	2	2	3	1	9	7	7	0	0	0	5	1	6	5	3	3	0	0	0	0
+2	COX1	YP_009387880.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	28	13	28	3	11	5	9	1	11	7	1	0	17	0	16	9	8	0	10	3	15	1	11	8	5	4	2	0	7	0	30	12	21	3	11	11	15	1	9	7	8	0	3	1	14	7	14	3	11	15	20	0	10	4	11	0	15	5	19	5	1	0	0	0
+3	COX2	YP_009387881.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	5	3	14	2	3	5	4	0	7	4	2	0	4	1	5	2	4	1	2	5	7	0	3	6	10	0	2	1	2	1	15	3	10	3	4	4	6	0	3	2	4	1	1	2	10	3	5	0	4	4	7	0	8	3	14	1	1	3	3	1	0	0	0	0
+4	ATP8	YP_009387882.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	3	2	2	0	0	1	2	0	0	0	0	0	5	0	3	0	1	0	2	3	4	0	1	0	1	0	0	0	0	0	3	1	2	1	0	1	2	0	2	1	6	0	1	0	0	0	1	0	1	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009387883.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	11	5	24	2	1	2	1	0	3	1	0	0	5	0	13	4	7	2	3	7	5	0	2	1	8	1	0	0	5	0	19	3	9	1	7	6	11	0	8	3	1	0	0	4	4	1	7	0	7	3	6	0	1	0	4	0	2	4	3	0	1	0	0	0
+6	COX3	YP_009387884.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	17	8	9	1	3	1	6	0	8	4	1	0	10	2	8	8	6	0	2	3	8	0	7	9	6	3	1	0	3	1	8	5	5	4	5	4	10	0	1	1	2	0	1	2	8	2	8	1	7	11	6	0	2	3	6	3	5	5	10	1	1	0	0	0
+7	ND3	YP_009387885.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	4	4	11	1	3	1	2	0	0	1	0	1	5	0	4	8	3	0	3	1	5	0	0	0	2	0	1	1	0	0	10	2	1	1	0	2	1	1	4	1	1	0	1	0	1	1	1	0	2	1	7	1	3	1	4	2	2	2	1	1	0	0	0	0
+8	ND4L	YP_009387886.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	3	3	8	0	2	6	3	0	0	1	2	2	1	0	4	4	4	1	1	0	1	0	1	1	1	0	0	0	3	0	7	0	4	2	1	2	3	0	2	2	0	0	0	3	1	0	0	1	3	2	4	1	1	0	1	1	2	1	2	0	1	0	0	0
+9	ND4	YP_009387887.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	15	5	39	1	2	11	13	0	8	6	1	3	19	1	29	14	13	0	5	3	14	1	5	5	12	0	2	2	7	0	42	7	19	7	8	11	14	1	7	9	12	0	3	6	4	0	6	0	10	10	12	0	5	1	10	0	5	6	8	1	0	0	0	0
+10	ND5	YP_009387888.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	30	17	40	4	5	16	16	0	8	8	4	1	13	1	27	7	19	3	6	7	15	1	8	6	23	1	2	3	4	0	44	24	17	8	10	23	15	1	24	10	25	0	4	7	3	2	5	2	13	15	10	0	10	4	8	2	6	5	15	2	1	0	0	0
+11	CYTB	YP_009387890.1	Squatina squatina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Squalimorphii, Squatiniformes, Squatinidae, Squatina	21	15	22	1	8	4	8	0	7	8	0	3	12	0	17	6	13	0	7	5	9	0	5	6	8	0	1	2	5	0	34	14	5	2	10	6	9	1	14	10	9	0	1	0	5	2	8	0	5	9	4	1	5	3	5	1	8	4	11	2	1	0	0	0

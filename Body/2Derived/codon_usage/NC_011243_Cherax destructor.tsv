@@ -1,65 +1,10 @@
-	YP_022764.1|COX1	YP_022765.1|COX2	YP_022766.1|ATP8	YP_022767.1|ATP6	YP_022768.1|COX3	YP_022769.1|ND3	YP_022771.1|ND6	YP_022772.1|ND2	YP_022775.1|CYTB
-TTT	24	8	3	9	14	7	7	12	14
-TTC	20	3	3	6	13	4	6	11	23
-TTA	12	9	4	11	7	2	10	16	17
-TTG	2	0	0	3	1	3	3	2	3
-TCT	5	4	0	9	5	3	3	11	5
-TCC	10	5	0	2	3	2	11	16	8
-TCA	14	6	0	1	8	3	7	11	7
-TCG	4	4	1	1	1	3	1	8	6
-TAT	11	6	1	2	5	3	2	6	10
-TAC	5	3	1	2	6	2	4	7	6
-TGT	0	2	1	0	0	0	1	0	1
-TGC	0	0	0	0	2	1	0	1	2
-TGA	13	5	3	3	10	3	0	4	8
-TGG	4	1	0	3	3	0	2	4	2
-CTT	6	9	5	5	6	2	3	9	13
-CTC	11	5	1	7	9	6	8	19	7
-CTA	23	8	0	17	2	3	8	9	15
-CTG	4	0	1	8	1	4	3	4	5
-CCT	4	1	1	4	6	2	2	5	10
-CCC	10	4	2	4	4	1	7	5	6
-CCA	6	2	0	1	0	0	2	1	5
-CCG	9	4	0	3	0	2	2	4	2
-CAT	8	0	0	1	6	0	0	2	5
-CAC	9	5	1	5	9	0	3	3	8
-CAA	6	4	3	2	5	0	1	8	6
-CAG	4	3	0	2	2	0	0	3	2
-CGT	1	1	0	0	1	0	0	0	1
-CGC	1	3	0	0	1	0	0	0	0
-CGA	6	1	0	2	3	2	0	2	3
-CGG	2	2	0	1	0	1	1	0	3
-ATT	25	14	1	11	12	7	8	20	20
-ATC	17	16	2	8	13	8	10	15	19
-ATA	22	4	1	11	7	3	6	8	6
-ATG	5	3	1	2	1	0	1	5	3
-ACT	6	1	1	3	5	2	3	2	5
-ACC	11	4	3	6	9	1	4	9	5
-ACA	14	5	1	4	2	4	3	8	7
-ACG	5	0	0	2	2	1	2	0	4
-AAT	9	8	2	7	2	1	5	6	4
-AAC	4	7	0	3	4	1	3	3	11
-AAA	7	2	5	4	2	4	3	5	7
-AAG	0	0	0	0	1	1	0	5	0
-AGT	2	0	0	1	1	0	1	0	1
-AGC	0	1	0	0	0	0	0	0	0
-AGA	7	4	1	5	6	0	3	4	1
-AGG	2	0	0	2	2	0	2	1	1
-GTT	7	1	0	2	1	0	2	3	3
-GTC	10	4	0	4	3	0	0	3	4
-GTA	13	2	0	2	5	4	6	6	8
-GTG	6	2	0	3	3	0	3	5	3
-GCT	4	3	0	2	3	3	0	1	5
-GCC	16	4	1	4	7	2	3	12	10
-GCA	11	5	0	5	5	1	0	6	8
-GCG	3	0	0	3	2	1	1	6	3
-GAT	8	8	0	0	3	1	0	1	3
-GAC	8	3	0	0	2	2	1	0	9
-GAA	5	10	1	4	6	4	0	3	2
-GAG	3	1	0	1	2	1	1	2	1
-GGT	8	4	0	1	0	0	1	1	2
-GGC	9	3	0	3	4	1	0	2	3
-GGA	15	1	1	2	6	2	1	1	10
-GGG	15	3	0	5	8	3	5	8	7
-TAA	0	1	1	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_022764.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	24	20	12	2	5	10	14	4	11	5	0	0	13	4	6	11	23	4	4	10	6	9	8	9	6	4	1	1	6	2	25	17	22	5	6	11	14	5	9	4	7	0	2	0	7	2	7	10	13	6	4	16	11	3	8	8	5	3	8	9	15	15	0	0
+1	COX2	YP_022765.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	8	3	9	0	4	5	6	4	6	3	2	0	5	1	9	5	8	0	1	4	2	4	0	5	4	3	1	3	1	2	14	16	4	3	1	4	5	0	8	7	2	0	0	1	4	0	1	4	2	2	3	4	5	0	8	3	10	1	4	3	1	3	1	0
+2	ATP8	YP_022766.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	3	3	4	0	0	0	0	1	1	1	1	0	3	0	5	1	0	1	1	2	0	0	0	1	3	0	0	0	0	0	1	2	1	1	1	3	1	0	2	0	5	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0
+3	ATP6	YP_022767.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	9	6	11	3	9	2	1	1	2	2	0	0	3	3	5	7	17	8	4	4	1	3	1	5	2	2	0	0	2	1	11	8	11	2	3	6	4	2	7	3	4	0	1	0	5	2	2	4	2	3	2	4	5	3	0	0	4	1	1	3	2	5	1	0
+4	COX3	YP_022768.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	14	13	7	1	5	3	8	1	5	6	0	2	10	3	6	9	2	1	6	4	0	0	6	9	5	2	1	1	3	0	12	13	7	1	5	9	2	2	2	4	2	1	1	0	6	2	1	3	5	3	3	7	5	2	3	2	6	2	0	4	6	8	1	0
+5	ND3	YP_022769.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	7	4	2	3	3	2	3	3	3	2	0	1	3	0	2	6	3	4	2	1	0	2	0	0	0	0	0	0	2	1	7	8	3	0	2	1	4	1	1	1	4	1	0	0	0	0	0	0	4	0	3	2	1	1	1	2	4	1	0	1	2	3	0	0
+6	ND6	YP_022771.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	7	6	10	3	3	11	7	1	2	4	1	0	0	2	3	8	8	3	2	7	2	2	0	3	1	0	0	0	0	1	8	10	6	1	3	4	3	2	5	3	3	0	1	0	3	2	2	0	6	3	0	3	0	1	0	1	0	1	1	0	1	5	1	0
+7	ND2	YP_022772.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	12	11	16	2	11	16	11	8	6	7	0	1	4	4	9	19	9	4	5	5	1	4	2	3	8	3	0	0	2	0	20	15	8	5	2	9	8	0	6	3	5	5	0	0	4	1	3	3	6	5	1	12	6	6	1	0	3	2	1	2	1	8	1	0
+8	CYTB	YP_022775.1	Cherax destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Cherax	14	23	17	3	5	8	7	6	10	6	1	2	8	2	13	7	15	5	10	6	5	2	5	8	6	2	1	0	3	3	20	19	6	3	5	5	7	4	4	11	7	0	1	0	1	1	3	4	8	3	5	10	8	3	3	9	2	1	2	3	10	7	0	0

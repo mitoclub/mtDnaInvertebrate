@@ -1,65 +1,12 @@
-	YP_003412085.1|cox2	YP_003412086.1|cox3	YP_003412087.1|cob	YP_003412093.1|ORF107	YP_003412098.1|ORF124_2	YP_003412102.1|ORF125_1	YP_003412108.1|ORF111_1	YP_003412112.1|ORF147	YP_003412115.1|atp6	YP_003412117.1|ORF125_2	YP_003412118.1|ORF123
-TTT	1	0	0	2	6	8	6	7	5	4	3
-TTC	0	0	0	0	2	2	4	1	3	2	4
-TTA	0	0	0	3	3	1	5	3	2	1	1
-TTG	0	0	0	1	7	4	6	4	5	1	3
-TCT	0	1	0	1	1	1	0	6	2	0	2
-TCC	0	0	0	0	1	3	0	1	0	0	2
-TCA	0	0	0	1	4	0	2	1	1	1	3
-TCG	0	0	1	2	0	3	1	1	0	2	2
-TAT	1	0	0	1	4	2	2	2	3	3	1
-TAC	0	0	0	0	1	1	1	2	0	2	2
-TGT	0	0	0	1	2	1	2	1	0	1	0
-TGC	0	0	0	1	3	7	1	4	1	1	0
-TGG	2	0	0	0	1	1	4	3	1	1	0
-CTT	0	0	2	3	7	5	1	1	1	5	8
-CTC	0	0	0	2	2	3	3	0	0	1	3
-CTA	1	0	0	2	3	0	1	3	4	1	2
-CTG	0	0	0	0	4	1	1	5	0	0	1
-CCT	1	0	0	0	1	2	1	2	1	1	0
-CCC	0	0	0	2	3	2	2	2	0	1	4
-CCA	1	0	0	2	3	3	1	4	4	0	2
-CCG	0	0	0	0	1	5	1	2	1	3	2
-CAT	0	0	0	2	1	0	2	5	1	1	3
-CAC	0	0	0	1	1	0	3	0	1	1	3
-CAA	0	0	0	2	0	0	3	4	2	3	4
-CAG	0	0	0	3	2	1	3	1	0	1	3
-CGT	1	0	0	3	0	5	0	1	0	0	0
-CGC	0	0	0	1	1	2	1	0	0	6	2
-CGA	0	0	1	0	1	1	0	2	0	2	2
-CGG	0	0	0	2	0	5	1	1	0	6	0
-ATT	1	0	1	0	3	0	1	3	5	0	2
-ATC	0	0	0	1	0	1	2	4	2	0	0
-ATA	0	0	0	1	1	1	2	1	1	0	0
-ATG	1	1	0	4	2	1	2	4	2	2	3
-ACT	0	0	0	1	2	0	2	1	1	1	3
-ACC	0	0	0	1	2	0	3	1	1	1	0
-ACA	1	0	0	2	1	0	0	1	0	1	2
-ACG	0	0	1	2	0	1	1	2	1	3	0
-AAT	0	0	0	2	1	1	0	3	3	0	1
-AAC	1	0	0	2	1	2	1	5	3	0	3
-AAA	1	0	1	7	3	2	4	5	0	1	6
-AAG	0	0	0	3	6	4	1	9	0	3	3
-AGT	0	1	0	1	1	0	4	3	2	5	0
-AGC	0	0	0	3	2	3	4	3	0	5	6
-AGA	0	0	1	1	4	1	1	2	0	2	0
-AGG	0	0	0	3	0	2	1	1	0	4	3
-GTT	0	0	0	2	0	0	1	1	1	2	3
-GTC	0	1	0	1	0	2	0	0	1	0	0
-GTA	0	0	0	0	1	1	0	1	2	2	1
-GTG	0	0	0	2	1	2	0	1	3	0	1
-GCT	2	0	0	0	2	3	6	5	2	3	2
-GCC	1	0	0	1	0	3	2	2	0	7	2
-GCA	0	0	1	2	2	0	0	5	1	1	3
-GCG	0	0	0	2	5	1	0	0	0	4	3
-GAT	1	0	0	2	0	3	0	2	1	1	1
-GAC	0	0	0	4	3	1	0	0	0	2	1
-GAA	1	0	0	6	4	3	6	2	3	3	5
-GAG	0	0	0	3	1	3	4	1	0	8	0
-GGT	0	0	0	0	0	0	2	2	0	2	2
-GGC	0	0	0	2	2	5	2	1	0	8	1
-GGA	0	0	0	4	5	1	1	3	3	2	2
-GGG	0	0	0	4	4	9	0	4	0	1	2
-TAA	1	1	1	0	0	0	0	1	1	1	0
-TAG	0	0	0	1	1	1	0	0	0	0	0
-TGA	0	0	0	0	0	0	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox2	YP_003412085.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	1	0	0	0	0	0	0	0	1	0	0	0	2	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	2	1	0	0	1	0	1	0	0	0	0	0	1	0	0
+1	cox3	YP_003412086.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+2	cob	YP_003412087.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+3	ORF107	YP_003412093.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	2	0	3	1	1	0	1	2	1	0	1	1	0	3	2	2	0	0	2	2	0	2	1	2	3	3	1	0	2	0	1	1	4	1	1	2	2	2	2	7	3	1	3	1	3	2	1	0	2	0	1	2	2	2	4	6	3	0	2	4	4	0	1	0
+4	ORF124_2	YP_003412098.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	6	2	3	7	1	1	4	0	4	1	2	3	1	7	2	3	4	1	3	3	1	1	1	0	2	0	1	1	0	3	0	1	2	2	2	1	0	1	1	3	6	1	2	4	0	0	0	1	1	2	0	2	5	0	3	4	1	0	2	5	4	0	1	0
+5	ORF125_1	YP_003412102.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	8	2	1	4	1	3	0	3	2	1	1	7	1	5	3	0	1	2	2	3	5	0	0	0	1	5	2	1	5	0	1	1	1	0	0	0	1	1	2	2	4	0	3	1	2	0	2	1	2	3	3	0	1	3	1	3	3	0	5	1	9	0	1	0
+6	ORF111_1	YP_003412108.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	6	4	5	6	0	0	2	1	2	1	2	1	4	1	3	1	1	1	2	1	1	2	3	3	3	0	1	0	1	1	2	2	2	2	3	0	1	0	1	4	1	4	4	1	1	1	0	0	0	6	2	0	0	0	0	6	4	2	2	1	0	0	0	1
+7	ORF147	YP_003412112.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	7	1	3	4	6	1	1	1	2	2	1	4	3	1	0	3	5	2	2	4	2	5	0	4	1	1	0	2	1	3	4	1	4	1	1	1	2	3	5	5	9	3	3	2	1	1	0	1	1	5	2	5	0	2	0	2	1	2	1	3	4	1	0	0
+8	atp6	YP_003412115.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	5	3	2	5	2	0	1	0	3	0	0	1	1	1	0	4	0	1	0	4	1	1	1	2	0	0	0	0	0	5	2	1	2	1	1	0	1	3	3	0	0	2	0	0	0	1	1	2	3	2	0	1	0	1	0	3	0	0	0	3	0	1	0	0
+9	ORF125_2	YP_003412117.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	4	2	1	1	0	0	1	2	3	2	1	1	1	5	1	1	0	1	1	0	3	1	1	3	1	0	6	2	6	0	0	0	2	1	1	1	3	0	0	1	3	5	5	2	4	2	0	2	0	3	7	1	4	1	2	3	8	2	8	2	1	1	0	0
+10	ORF123	YP_003412118.1	Phaeoceros laevis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Anthocerotophyta, Anthocerotopsida, Notothylidae, Notothyladales, Notothyladaceae, Phaeoceros	3	4	1	3	2	2	3	2	1	2	0	0	0	8	3	2	1	0	4	2	2	3	3	4	3	0	2	2	0	2	0	0	3	3	0	2	0	1	3	6	3	0	6	0	3	3	0	1	1	2	2	3	3	1	1	5	0	2	1	2	2	0	0	1

@@ -1,65 +1,10 @@
-	NP_775065.1|ND2	NP_775066.1|COX1	NP_775067.1|COX2	NP_775068.1|ATP8	NP_775069.1|ATP6	NP_775070.1|COX3	NP_775071.1|ND3	NP_775075.1|ND6	NP_775076.1|CYTB
-TTT	15	30	11	5	11	19	13	11	21
-TTC	8	12	4	2	6	7	1	5	7
-TTA	35	31	16	4	15	12	7	15	33
-TTG	1	6	2	0	3	2	0	6	2
-TCT	4	6	7	2	5	6	2	2	5
-TCC	4	2	1	0	1	0	1	2	2
-TCA	10	14	4	1	7	3	2	3	6
-TCG	1	2	0	0	0	0	0	1	0
-TAT	8	10	5	1	3	6	3	3	13
-TAC	2	6	2	0	2	2	1	4	6
-TGT	2	0	1	0	0	1	1	1	2
-TGC	1	0	1	0	0	1	0	1	2
-TGA	10	14	6	3	5	13	4	3	10
-TGG	1	1	0	0	0	0	0	0	2
-CTT	9	17	6	2	8	6	4	6	15
-CTC	5	2	7	0	3	5	0	2	2
-CTA	12	10	4	0	12	10	5	7	9
-CTG	2	2	1	0	1	0	1	1	3
-CCT	3	13	6	1	6	6	3	1	12
-CCC	4	6	1	0	3	1	1	1	2
-CCA	3	6	3	0	3	3	1	1	7
-CCG	0	1	0	0	0	0	0	0	1
-CAT	2	13	4	0	5	8	0	0	7
-CAC	0	6	2	1	1	7	1	2	6
-CAA	7	7	10	1	7	9	1	3	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	1	2	0	1	0	1	0	0
-CGC	0	1	3	0	0	1	0	0	1
-CGA	2	8	2	0	2	2	2	1	6
-CGG	0	1	0	0	0	1	0	0	1
-ATT	35	35	18	5	10	16	13	11	22
-ATC	16	11	2	3	4	5	0	1	9
-ATA	17	17	5	1	14	6	5	14	16
-ATG	0	5	1	0	2	3	1	2	1
-ACT	7	12	2	1	6	7	1	6	8
-ACC	0	5	3	1	5	3	0	1	4
-ACA	8	18	3	0	7	7	2	3	8
-ACG	1	1	2	0	0	2	0	1	0
-AAT	20	12	12	4	3	5	0	6	13
-AAC	10	4	3	3	9	3	1	3	7
-AAA	10	3	1	3	2	1	5	6	4
-AAG	0	2	2	0	0	2	0	0	2
-AGT	4	6	3	1	2	1	1	4	3
-AGC	2	0	2	0	4	1	1	1	0
-AGA	13	7	1	1	5	5	3	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	12	4	0	4	3	2	4	6
-GTC	1	2	3	0	2	1	0	0	3
-GTA	5	13	5	0	6	6	2	9	15
-GTG	1	6	4	0	0	1	0	0	1
-GCT	8	14	5	0	6	6	4	1	11
-GCC	2	10	1	1	2	7	2	0	7
-GCA	5	14	4	0	3	5	2	1	2
-GCG	0	1	0	0	1	1	0	0	1
-GAT	0	9	6	0	0	2	2	1	7
-GAC	0	7	4	0	1	2	3	0	3
-GAA	2	8	8	1	3	7	5	2	5
-GAG	2	0	2	1	1	2	1	1	0
-GGT	1	4	2	0	3	6	2	0	7
-GGC	2	3	0	0	1	1	0	2	4
-GGA	7	36	7	0	5	11	2	2	12
-GGG	2	8	0	0	2	3	1	1	4
-TAA	1	1	1	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	NP_775065.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	15	8	35	1	4	4	10	1	8	2	2	1	10	1	9	5	12	2	3	4	3	0	2	0	7	0	1	0	2	0	35	16	17	0	7	0	8	1	20	10	10	0	4	2	13	0	0	1	5	1	8	2	5	0	0	0	2	2	1	2	7	2	1	0
+1	COX1	NP_775066.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	30	12	31	6	6	2	14	2	10	6	0	0	14	1	17	2	10	2	13	6	6	1	13	6	7	0	1	1	8	1	35	11	17	5	12	5	18	1	12	4	3	2	6	0	7	0	12	2	13	6	14	10	14	1	9	7	8	0	4	3	36	8	1	0
+2	COX2	NP_775067.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	11	4	16	2	7	1	4	0	5	2	1	1	6	0	6	7	4	1	6	1	3	0	4	2	10	0	2	3	2	0	18	2	5	1	2	3	3	2	12	3	1	2	3	2	1	0	4	3	5	4	5	1	4	0	6	4	8	2	2	0	7	0	1	0
+3	ATP8	NP_775068.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	5	2	4	0	2	0	1	0	1	0	0	0	3	0	2	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	5	3	1	0	1	1	0	0	4	3	3	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0
+4	ATP6	NP_775069.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	11	6	15	3	5	1	7	0	3	2	0	0	5	0	8	3	12	1	6	3	3	0	5	1	7	0	1	0	2	0	10	4	14	2	6	5	7	0	3	9	2	0	2	4	5	0	4	2	6	0	6	2	3	1	0	1	3	1	3	1	5	2	1	0
+5	COX3	NP_775070.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	19	7	12	2	6	0	3	0	6	2	1	1	13	0	6	5	10	0	6	1	3	0	8	7	9	0	0	1	2	1	16	5	6	3	7	3	7	2	5	3	1	2	1	1	5	0	3	1	6	1	6	7	5	1	2	2	7	2	6	1	11	3	0	0
+6	ND3	NP_775071.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	13	1	7	0	2	1	2	0	3	1	1	0	4	0	4	0	5	1	3	1	1	0	0	1	1	0	1	0	2	0	13	0	5	1	1	0	2	0	0	1	5	0	1	1	3	0	2	0	2	0	4	2	2	0	2	3	5	1	2	0	2	1	0	1
+7	ND6	NP_775075.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	11	5	15	6	2	2	3	1	3	4	1	1	3	0	6	2	7	1	1	1	1	0	0	2	3	0	0	0	1	0	11	1	14	2	6	1	3	1	6	3	6	0	4	1	1	0	4	0	9	0	1	0	1	0	1	0	2	1	0	2	2	1	1	0
+8	CYTB	NP_775076.1	Triops cancriformis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Triops	21	7	33	2	5	2	6	0	13	6	2	2	10	2	15	2	9	3	12	2	7	1	7	6	7	0	0	1	6	1	22	9	16	1	8	4	8	0	13	7	4	2	3	0	3	0	6	3	15	1	11	7	2	1	7	3	5	0	7	4	12	4	1	0

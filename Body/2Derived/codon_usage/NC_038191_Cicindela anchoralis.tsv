@@ -1,65 +1,10 @@
-	YP_009503510.1|ND2	YP_009503511.1|COX1	YP_009503512.1|COX2	YP_009503513.1|ATP8	YP_009503514.1|ATP6	YP_009503515.1|COX3	YP_009503516.1|ND3	YP_009503520.1|ND6	YP_009503521.1|CYTB
-TTT	15	29	14	5	15	16	6	9	23
-TTC	15	12	2	1	6	12	5	6	11
-TTA	15	21	17	2	16	13	5	20	23
-TTG	3	1	1	0	0	2	0	0	1
-TCT	7	12	3	0	1	4	3	5	1
-TCC	7	7	3	1	3	1	0	1	2
-TCA	15	15	6	2	13	6	3	8	9
-TCG	0	0	1	0	0	1	1	0	0
-TAT	8	12	7	3	4	9	1	5	14
-TAC	2	5	1	2	1	1	0	0	6
-TGT	0	0	3	0	2	0	1	0	3
-TGC	2	0	0	0	0	1	0	0	0
-TGA	8	12	5	3	5	12	3	1	11
-TGG	0	2	1	0	0	2	0	0	1
-CTT	12	20	7	0	9	10	3	1	10
-CTC	6	2	0	0	1	3	0	0	6
-CTA	12	17	5	1	9	2	8	9	12
-CTG	2	2	0	0	2	1	0	0	0
-CCT	0	14	2	1	2	2	1	0	9
-CCC	3	2	1	0	1	3	1	3	4
-CCA	5	9	8	2	9	5	2	1	8
-CCG	0	1	0	0	0	0	0	1	1
-CAT	2	9	5	1	5	11	1	0	6
-CAC	3	6	0	0	1	4	0	1	5
-CAA	6	10	6	1	3	5	2	4	8
-CAG	1	1	1	0	1	2	0	0	0
-CGT	0	1	3	0	1	1	1	0	1
-CGC	0	0	0	0	1	0	0	0	2
-CGA	2	7	3	0	1	2	1	1	4
-CGG	0	1	1	0	0	1	0	0	0
-ATT	32	40	18	8	17	13	11	22	32
-ATC	15	5	4	0	3	5	6	1	7
-ATA	26	30	10	4	15	8	11	22	19
-ATG	7	2	2	0	1	2	3	2	4
-ACT	3	11	6	0	8	6	1	3	7
-ACC	4	5	3	1	5	4	0	1	3
-ACA	8	14	6	1	2	13	2	6	11
-ACG	2	0	0	0	1	1	0	0	1
-AAT	16	16	9	4	12	7	5	16	19
-AAC	6	1	5	0	2	2	1	1	3
-AAA	13	2	4	6	1	1	5	5	8
-AAG	1	3	2	0	2	0	0	0	2
-AGT	2	4	3	1	1	2	2	0	3
-AGC	3	2	1	0	1	0	0	0	0
-AGA	9	7	2	0	7	2	0	2	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	15	4	1	4	5	2	2	9
-GTC	0	3	0	0	1	1	0	0	1
-GTA	3	16	8	0	7	9	3	3	11
-GTG	0	2	1	0	0	3	0	0	1
-GCT	3	14	3	0	3	7	4	0	11
-GCC	5	7	2	0	3	1	2	2	3
-GCA	4	10	2	1	1	5	1	1	5
-GCG	0	2	0	0	1	1	0	0	0
-GAT	1	12	5	0	1	1	2	1	7
-GAC	0	4	5	0	0	3	1	0	1
-GAA	6	8	8	0	2	7	4	3	2
-GAG	2	0	0	0	2	0	0	0	1
-GGT	3	15	2	0	2	2	1	1	6
-GGC	1	0	1	0	2	2	0	0	0
-GGA	8	18	4	0	4	8	1	4	12
-GGG	2	15	3	0	1	9	1	0	6
-TAA	1	1	0	0	1	1	0	1	0
-TAG	0	0	0	1	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009503510.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	15	15	15	3	7	7	15	0	8	2	0	2	8	0	12	6	12	2	0	3	5	0	2	3	6	1	0	0	2	0	32	15	26	7	3	4	8	2	16	6	13	1	2	3	9	0	3	0	3	0	3	5	4	0	1	0	6	2	3	1	8	2	1	0
+1	COX1	YP_009503511.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	29	12	21	1	12	7	15	0	12	5	0	0	12	2	20	2	17	2	14	2	9	1	9	6	10	1	1	0	7	1	40	5	30	2	11	5	14	0	16	1	2	3	4	2	7	0	15	3	16	2	14	7	10	2	12	4	8	0	15	0	18	15	1	0
+2	COX2	YP_009503512.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	14	2	17	1	3	3	6	1	7	1	3	0	5	1	7	0	5	0	2	1	8	0	5	0	6	1	3	0	3	1	18	4	10	2	6	3	6	0	9	5	4	2	3	1	2	0	4	0	8	1	3	2	2	0	5	5	8	0	2	1	4	3	0	0
+3	ATP8	YP_009503513.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	5	1	2	0	0	1	2	0	3	2	0	0	3	0	0	0	1	0	1	0	2	0	1	0	1	0	0	0	0	0	8	0	4	0	0	1	1	0	4	0	6	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+4	ATP6	YP_009503514.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	15	6	16	0	1	3	13	0	4	1	2	0	5	0	9	1	9	2	2	1	9	0	5	1	3	1	1	1	1	0	17	3	15	1	8	5	2	1	12	2	1	2	1	1	7	0	4	1	7	0	3	3	1	1	1	0	2	2	2	2	4	1	1	0
+5	COX3	YP_009503515.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	16	12	13	2	4	1	6	1	9	1	0	1	12	2	10	3	2	1	2	3	5	0	11	4	5	2	1	0	2	1	13	5	8	2	6	4	13	1	7	2	1	0	2	0	2	0	5	1	9	3	7	1	5	1	1	3	7	0	2	2	8	9	1	0
+6	ND3	YP_009503516.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	6	5	5	0	3	0	3	1	1	0	1	0	3	0	3	0	8	0	1	1	2	0	1	0	2	0	1	0	1	0	11	6	11	3	1	0	2	0	5	1	5	0	2	0	0	0	2	0	3	0	4	2	1	0	2	1	4	0	1	0	1	1	0	1
+7	ND6	YP_009503520.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	9	6	20	0	5	1	8	0	5	0	0	0	1	0	1	0	9	0	0	3	1	1	0	1	4	0	0	0	1	0	22	1	22	2	3	1	6	0	16	1	5	0	0	0	2	0	2	0	3	0	0	2	1	0	1	0	3	0	1	0	4	0	1	0
+8	CYTB	YP_009503521.1	Cicindela anchoralis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Cicindelinae, Cicindelini, Cicindela, Abroscelis	23	11	23	1	1	2	9	0	14	6	3	0	11	1	10	6	12	0	9	4	8	1	6	5	8	0	1	2	4	0	32	7	19	4	7	3	11	1	19	3	8	2	3	0	2	0	9	1	11	1	11	3	5	0	7	1	2	1	6	0	12	6	0	1

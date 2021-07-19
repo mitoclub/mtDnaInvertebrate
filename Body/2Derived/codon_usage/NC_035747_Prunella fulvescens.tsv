@@ -1,65 +1,13 @@
-	YP_009421681.1|ND1	YP_009421682.1|ND2	YP_009421683.1|COX1	YP_009421684.1|COX2	YP_009421685.1|ATP8	YP_009421686.1|ATP6	YP_009421687.1|COX3	YP_009421688.1|ND3	YP_009421689.1|ND4L	YP_009421690.1|ND4	YP_009421691.1|ND5	YP_009421692.1|CYTB
-TTT	2	4	7	1	3	3	5	1	2	3	7	4
-TTC	16	8	36	7	1	8	17	9	3	11	29	23
-TTA	5	7	3	0	0	7	1	5	3	9	5	5
-TTG	0	1	0	0	0	0	0	1	0	0	0	0
-TCT	2	5	2	3	0	2	4	1	0	2	6	2
-TCC	8	8	10	5	1	5	2	2	8	14	16	7
-TCA	7	8	10	7	3	2	6	3	3	13	16	12
-TCG	1	2	3	0	0	3	0	0	0	0	0	2
-TAT	6	3	2	2	0	0	0	0	0	2	1	1
-TAC	9	4	15	5	0	3	11	2	3	14	12	11
-TGT	0	0	0	1	0	0	1	1	1	0	0	1
-TGC	3	1	1	2	0	0	1	0	2	3	6	3
-TGA	8	7	17	5	5	4	12	5	1	11	11	11
-TGG	0	3	0	0	0	0	0	0	0	1	1	0
-CTT	10	12	3	5	2	2	2	0	0	8	6	4
-CTC	11	10	11	9	1	14	8	8	3	26	26	12
-CTA	35	31	34	14	3	35	21	15	10	44	57	43
-CTG	8	5	11	3	0	4	1	1	3	8	8	4
-CCT	2	1	7	1	4	2	1	1	0	2	4	5
-CCC	6	9	8	4	4	4	2	3	2	13	10	9
-CCA	15	12	13	7	2	9	9	3	0	12	15	8
-CCG	1	0	2	0	0	0	1	0	0	0	1	1
-CAT	1	1	4	0	0	0	3	0	3	1	3	1
-CAC	1	9	15	8	0	3	12	0	3	11	9	11
-CAA	6	9	9	6	1	8	7	4	2	12	18	7
-CAG	0	1	0	0	1	0	1	0	0	2	1	1
-CGT	1	1	3	1	0	0	0	1	0	0	0	1
-CGC	1	0	0	2	0	2	1	0	0	2	2	2
-CGA	6	2	5	2	0	2	5	1	2	9	5	5
-CGG	0	1	0	1	0	1	0	0	0	0	1	0
-ATT	13	8	15	2	1	5	6	3	0	9	18	5
-ATC	11	21	24	10	2	12	8	6	4	32	40	27
-ATA	6	12	15	7	2	6	5	4	6	22	22	4
-ATG	5	6	7	5	2	1	2	0	1	6	4	3
-ACT	3	6	12	4	1	4	4	1	3	7	12	4
-ACC	6	23	9	5	6	5	8	5	2	17	29	5
-ACA	9	14	16	7	1	14	9	1	2	16	22	15
-ACG	0	2	2	0	0	1	0	0	0	0	1	2
-AAT	3	7	0	1	1	1	0	1	0	1	6	3
-AAC	10	5	15	7	3	9	5	2	2	15	21	16
-AAA	7	12	8	4	1	4	3	1	0	10	17	9
-AAG	0	2	1	0	1	0	1	0	0	0	3	1
-AGT	1	1	0	1	0	0	0	0	0	2	2	0
-AGC	4	2	4	4	1	4	4	1	4	7	10	1
-GTT	1	1	5	4	0	2	1	1	1	1	2	0
-GTC	4	2	10	10	1	2	7	0	1	5	6	9
-GTA	8	5	17	6	1	3	6	1	1	5	11	11
-GTG	2	3	8	1	0	1	2	0	0	3	2	1
-GCT	4	9	8	1	0	1	6	1	2	8	6	4
-GCC	11	8	18	11	0	9	14	4	7	18	31	16
-GCA	14	12	17	4	0	6	5	3	0	12	10	8
-GCG	2	1	2	0	0	0	0	0	0	0	0	0
-GAT	0	1	5	2	0	0	1	0	0	0	2	1
-GAC	4	1	10	10	0	2	3	3	1	2	7	8
-GAA	8	4	9	11	0	4	6	5	2	8	12	6
-GAG	3	0	1	1	0	0	2	1	1	2	0	1
-GGT	1	0	10	0	0	1	1	1	0	3	2	1
-GGC	6	6	8	1	0	4	5	1	3	7	14	10
-GGA	6	6	20	6	0	3	12	2	1	6	13	10
-GGG	2	1	9	1	0	0	1	1	0	2	4	3
-TAA	0	0	0	1	1	0	0	1	1	0	0	1
-TAG	0	0	0	0	0	1	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009421681.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	2	16	5	0	2	8	7	1	6	9	0	3	8	0	10	11	35	8	2	6	15	1	1	1	6	0	1	1	6	0	13	11	6	5	3	6	9	0	3	10	7	0	1	4	1	4	8	2	4	11	14	2	0	4	8	3	1	6	6	2	0	0	0	1
+1	ND2	YP_009421682.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	4	8	7	1	5	8	8	2	3	4	0	1	7	3	12	10	31	5	1	9	12	0	1	9	9	1	1	0	2	1	8	21	12	6	6	23	14	2	7	5	12	2	1	2	1	2	5	3	9	8	12	1	1	1	4	0	0	6	6	1	0	0	0	0
+2	COX1	YP_009421683.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	7	36	3	0	2	10	10	3	2	15	0	1	17	0	3	11	34	11	7	8	13	2	4	15	9	0	3	0	5	0	15	24	15	7	12	9	16	2	0	15	8	1	0	4	5	10	17	8	8	18	17	2	5	10	9	1	10	8	20	9	0	0	0	1
+3	COX2	YP_009421684.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	1	7	0	0	3	5	7	0	2	5	1	2	5	0	5	9	14	3	1	4	7	0	0	8	6	0	1	2	2	1	2	10	7	5	4	5	7	0	1	7	4	0	1	4	4	10	6	1	1	11	4	0	2	10	11	1	0	1	6	1	1	0	0	0
+4	ATP8	YP_009421685.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	3	1	0	0	0	1	3	0	0	0	0	0	5	0	2	1	3	0	4	4	2	0	0	0	1	1	0	0	0	0	1	2	2	2	1	6	1	0	1	3	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009421686.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	3	8	7	0	2	5	2	3	0	3	0	0	4	0	2	14	35	4	2	4	9	0	0	3	8	0	0	2	2	1	5	12	6	1	4	5	14	1	1	9	4	0	0	4	2	2	3	1	1	9	6	0	0	2	4	0	1	4	3	0	0	1	0	0
+6	COX3	YP_009421687.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	5	17	1	0	4	2	6	0	0	11	1	1	12	0	2	8	21	1	1	2	9	1	3	12	7	1	0	1	5	0	6	8	5	2	4	8	9	0	0	5	3	1	0	4	1	7	6	2	6	14	5	0	1	3	6	2	1	5	12	1	0	0	0	0
+7	ND3	YP_009421688.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	1	9	5	1	1	2	3	0	0	2	1	0	5	0	0	8	15	1	1	3	3	0	0	0	4	0	1	0	1	0	3	6	4	0	1	5	1	0	1	2	1	0	0	1	1	0	1	0	1	4	3	0	0	3	5	1	1	1	2	1	1	0	0	0
+8	ND4L	YP_009421689.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	2	3	3	0	0	8	3	0	0	3	1	2	1	0	0	3	10	3	0	2	0	0	3	3	2	0	0	0	2	0	0	4	6	1	3	2	2	0	0	2	0	0	0	4	1	1	1	0	2	7	0	0	0	1	2	1	0	3	1	0	1	0	0	0
+9	ND4	YP_009421690.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	3	11	9	0	2	14	13	0	2	14	0	3	11	1	8	26	44	8	2	13	12	0	1	11	12	2	0	2	9	0	9	32	22	6	7	17	16	0	1	15	10	0	2	7	1	5	5	3	8	18	12	0	0	2	8	2	3	7	6	2	0	0	0	0
+10	ND5	YP_009421691.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	7	29	5	0	6	16	16	0	1	12	0	6	11	1	6	26	57	8	4	10	15	1	3	9	18	1	0	2	5	1	18	40	22	4	12	29	22	1	6	21	17	3	2	10	2	6	11	2	6	31	10	0	2	7	12	0	2	14	13	4	0	0	1	0
+11	CYTB	YP_009421692.1	Prunella fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Passeridae, Prunella	4	23	5	0	2	7	12	2	1	11	1	3	11	0	4	12	43	4	5	9	8	1	1	11	7	1	1	2	5	0	5	27	4	3	4	5	15	2	3	16	9	1	0	1	0	9	11	1	4	16	8	0	1	8	6	1	1	10	10	3	1	0	0	0

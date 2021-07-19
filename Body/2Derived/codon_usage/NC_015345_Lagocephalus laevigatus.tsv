@@ -1,65 +1,13 @@
-	YP_004347561.1|ND1	YP_004347562.1|ND2	YP_004347563.1|COX1	YP_004347564.1	YP_004347565.1|ATP8	YP_004347566.1|ATP6	YP_004347567.1|COX3	YP_004347568.1|ND3	YP_004347569.1|ND4L	YP_004347570.1|ND4	YP_004347571.1|ND5	YP_004347573.1|CYTB
-TTT	10	7	18	3	3	4	7	5	4	8	21	8
-TTC	10	7	24	6	1	3	17	3	3	9	21	22
-TTA	8	10	5	4	0	6	2	2	2	13	12	4
-TTG	0	2	1	0	0	2	1	2	0	0	4	1
-TCT	3	3	3	2	0	3	2	0	2	7	6	5
-TCC	11	6	9	7	2	3	2	4	3	12	12	8
-TCA	7	8	9	5	0	0	6	3	4	4	11	7
-TCG	0	0	2	0	0	0	0	0	1	1	0	0
-TAT	9	3	7	4	0	2	1	1	0	6	6	3
-TAC	1	3	11	5	0	3	9	2	0	8	4	11
-TGT	0	0	1	0	0	0	2	0	1	1	2	2
-TGC	0	0	0	2	0	0	0	1	2	3	6	1
-TGA	5	10	15	4	5	4	12	3	1	17	12	11
-TGG	3	1	2	1	0	1	1	2	0	1	1	1
-CTT	19	21	10	9	3	15	6	7	3	30	23	12
-CTC	15	16	19	6	1	15	6	12	9	25	22	13
-CTA	17	19	19	8	1	16	17	5	7	23	26	22
-CTG	6	6	8	2	0	5	2	4	4	5	9	7
-CCT	4	6	6	0	2	3	1	1	1	5	4	5
-CCC	12	9	11	6	3	4	9	4	1	10	14	11
-CCA	7	8	10	7	4	8	3	4	0	11	8	3
-CCG	1	1	2	0	0	0	0	0	0	1	2	2
-CAT	0	2	5	4	0	1	8	0	3	3	6	4
-CAC	5	6	14	6	1	2	8	0	2	8	9	9
-CAA	7	11	5	8	3	6	4	2	2	7	17	6
-CAG	0	2	2	0	0	2	2	1	0	3	1	0
-CGT	0	0	2	1	0	0	0	0	0	1	1	1
-CGC	1	0	2	2	0	0	2	1	0	4	3	2
-CGA	7	4	5	3	0	4	4	1	3	4	6	6
-CGG	0	0	1	0	0	1	0	0	0	2	0	0
-ATT	14	14	24	11	1	18	10	5	2	21	30	15
-ATC	9	6	15	8	3	5	7	3	0	16	32	16
-ATA	11	17	18	8	3	5	6	2	3	16	19	6
-ATG	2	4	8	3	1	4	3	1	2	8	8	2
-ACT	2	12	4	4	1	4	2	3	0	3	6	1
-ACC	10	12	14	1	1	10	9	3	4	16	34	13
-ACA	7	15	13	4	0	4	9	2	3	20	17	9
-ACG	0	0	3	0	0	1	0	0	0	1	3	0
-AAT	5	6	5	5	1	3	0	1	1	2	10	10
-AAC	6	5	9	2	1	7	2	0	2	6	22	9
-AAA	7	10	9	4	2	1	3	1	0	7	19	5
-AAG	0	0	0	0	1	0	0	0	0	4	2	4
-AGT	1	2	0	2	0	0	0	0	0	4	3	1
-AGC	1	2	5	2	2	4	3	0	1	9	5	2
-GTT	4	3	17	8	2	4	6	1	0	4	8	6
-GTC	5	1	7	6	0	2	3	0	1	4	2	12
-GTA	6	3	13	5	0	3	6	1	1	6	11	6
-GTG	1	2	5	1	0	0	2	0	0	0	1	1
-GCT	2	4	8	3	2	6	6	3	2	5	10	6
-GCC	17	27	25	7	3	10	5	4	7	28	36	16
-GCA	13	8	13	7	1	9	10	1	3	6	15	11
-GCG	1	0	2	0	0	0	0	0	0	0	0	1
-GAT	1	2	5	3	0	0	1	2	0	0	4	3
-GAC	3	0	10	10	0	1	4	2	1	2	8	6
-GAA	10	3	6	10	1	4	9	3	2	14	10	5
-GAG	1	2	4	3	0	0	0	2	0	2	3	0
-GGT	1	1	10	1	0	1	4	1	1	3	3	3
-GGC	6	7	13	3	0	6	8	4	1	13	15	8
-GGA	6	6	18	3	0	1	5	1	2	6	7	12
-GGG	4	3	5	1	0	1	4	0	1	2	3	2
-TAA	1	0	1	0	1	0	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004347561.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	10	10	8	0	3	11	7	0	9	1	0	0	5	3	19	15	17	6	4	12	7	1	0	5	7	0	0	1	7	0	14	9	11	2	2	10	7	0	5	6	7	0	1	1	4	5	6	1	2	17	13	1	1	3	10	1	1	6	6	4	1	0	0	0
+1	ND2	YP_004347562.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	7	7	10	2	3	6	8	0	3	3	0	0	10	1	21	16	19	6	6	9	8	1	2	6	11	2	0	0	4	0	14	6	17	4	12	12	15	0	6	5	10	0	2	2	3	1	3	2	4	27	8	0	2	0	3	2	1	7	6	3	0	0	0	0
+2	COX1	YP_004347563.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	18	24	5	1	3	9	9	2	7	11	1	0	15	2	10	19	19	8	6	11	10	2	5	14	5	2	2	2	5	1	24	15	18	8	4	14	13	3	5	9	9	0	0	5	17	7	13	5	8	25	13	2	5	10	6	4	10	13	18	5	1	0	0	0
+3	None	YP_004347564.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	3	6	4	0	2	7	5	0	4	5	0	2	4	1	9	6	8	2	0	6	7	0	4	6	8	0	1	2	3	0	11	8	8	3	4	1	4	0	5	2	4	0	2	2	8	6	5	1	3	7	7	0	3	10	10	3	1	3	3	1	0	0	0	0
+4	ATP8	YP_004347565.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	3	1	0	0	0	2	0	0	0	0	0	0	5	0	3	1	1	0	2	3	4	0	0	1	3	0	0	0	0	0	1	3	3	1	1	1	0	0	1	1	2	1	0	2	2	0	0	0	2	3	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004347566.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	4	3	6	2	3	3	0	0	2	3	0	0	4	1	15	15	16	5	3	4	8	0	1	2	6	2	0	0	4	1	18	5	5	4	4	10	4	1	3	7	1	0	0	4	4	2	3	0	6	10	9	0	0	1	4	0	1	6	1	1	0	0	0	0
+6	COX3	YP_004347567.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	7	17	2	1	2	2	6	0	1	9	2	0	12	1	6	6	17	2	1	9	3	0	8	8	4	2	0	2	4	0	10	7	6	3	2	9	9	0	0	2	3	0	0	3	6	3	6	2	6	5	10	0	1	4	9	0	4	8	5	4	0	0	0	0
+7	ND3	YP_004347568.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	5	3	2	2	0	4	3	0	1	2	0	1	3	2	7	12	5	4	1	4	4	0	0	0	2	1	0	1	1	0	5	3	2	1	3	3	2	0	1	0	1	0	0	0	1	0	1	0	3	4	1	0	2	2	3	2	1	4	1	0	0	0	0	0
+8	ND4L	YP_004347569.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	4	3	2	0	2	3	4	1	0	0	1	2	1	0	3	9	7	4	1	1	0	0	3	2	2	0	0	0	3	0	2	0	3	2	0	4	3	0	1	2	0	0	0	1	0	1	1	0	2	7	3	0	0	1	2	0	1	1	2	1	1	0	0	0
+9	ND4	YP_004347570.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	8	9	13	0	7	12	4	1	6	8	1	3	17	1	30	25	23	5	5	10	11	1	3	8	7	3	1	4	4	2	21	16	16	8	3	16	20	1	2	6	7	4	4	9	4	4	6	0	5	28	6	0	0	2	14	2	3	13	6	2	0	0	0	0
+10	ND5	YP_004347571.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	21	21	12	4	6	12	11	0	6	4	2	6	12	1	23	22	26	9	4	14	8	2	6	9	17	1	1	3	6	0	30	32	19	8	6	34	17	3	10	22	19	2	3	5	8	2	11	1	10	36	15	0	4	8	10	3	3	15	7	3	1	0	0	0
+11	CYTB	YP_004347573.1	Lagocephalus laevigatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Lagocephalus	8	22	4	1	5	8	7	0	3	11	2	1	11	1	12	13	22	7	5	11	3	2	4	9	6	0	1	2	6	0	15	16	6	2	1	13	9	0	10	9	5	4	1	2	6	12	6	1	6	16	11	1	3	6	5	0	3	8	12	2	1	0	0	0

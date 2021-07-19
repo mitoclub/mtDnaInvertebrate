@@ -1,65 +1,13 @@
-	NP_659376.1|ND1	NP_659377.1|ND2	NP_659378.1|COX1	NP_659379.1|COX2	NP_659380.1|ATP8	NP_659381.1|ATP6	NP_659382.3|COX3	NP_659383.3|ND3	NP_659384.1|ND4L	NP_659385.3|ND4	NP_659386.1|ND5	NP_659388.1|CYTB
-TTT	7	4	17	2	1	4	11	4	2	4	17	5
-TTC	12	6	26	5	2	8	16	4	2	15	22	19
-TTA	13	12	11	3	1	6	0	8	4	13	11	9
-TTG	3	0	3	1	1	0	0	1	1	1	1	0
-TCT	0	2	7	2	1	3	3	1	0	2	5	2
-TCC	3	6	2	1	1	2	3	1	2	9	13	2
-TCA	15	15	19	7	3	5	11	3	6	16	20	16
-TCG	0	1	0	0	0	0	1	0	1	0	0	1
-TAT	4	3	6	3	1	0	4	1	2	9	7	6
-TAC	6	5	12	6	1	2	6	2	2	8	13	10
-TGT	0	1	0	1	0	0	1	0	0	2	3	0
-TGC	1	2	1	1	0	0	1	1	3	0	2	4
-TGA	8	10	17	4	3	2	12	4	0	11	9	10
-TGG	1	0	0	1	0	1	0	0	0	0	3	0
-CTT	3	4	7	3	0	3	5	2	3	9	9	0
-CTC	3	10	5	5	1	3	5	3	2	10	12	8
-CTA	32	34	28	22	5	25	21	13	12	59	48	42
-CTG	3	2	3	3	0	3	2	0	1	7	6	1
-CCT	4	4	10	2	3	3	1	0	0	0	1	3
-CCC	5	4	1	2	0	0	3	1	0	2	4	4
-CCA	12	12	17	9	4	11	6	5	1	21	20	15
-CCG	0	0	0	0	0	0	0	1	0	0	2	0
-CAT	2	1	10	2	0	3	4	0	1	2	2	6
-CAC	3	4	8	6	2	4	11	0	0	9	12	8
-CAA	7	13	6	5	5	5	5	4	2	10	21	7
-CAG	0	0	0	1	1	2	2	0	0	1	1	0
-CGT	1	0	4	0	0	1	1	0	0	2	1	1
-CGC	2	2	2	2	0	2	2	0	0	1	1	2
-CGA	5	1	2	3	1	2	2	1	1	7	6	6
-CGG	0	0	0	1	0	0	0	0	0	0	0	0
-ATT	10	16	18	7	2	12	8	4	2	18	27	9
-ATC	12	20	20	12	2	14	5	5	1	25	28	30
-ATA	13	38	29	10	2	15	8	3	11	33	42	14
-ATG	6	3	2	4	2	5	2	0	1	4	5	2
-ACT	3	7	8	5	2	5	2	3	1	6	9	3
-ACC	5	6	9	3	0	5	4	2	1	12	18	8
-ACA	17	17	19	13	9	10	13	2	5	20	31	16
-ACG	0	2	2	0	1	2	1	1	0	0	0	0
-AAT	4	7	4	1	0	2	5	3	2	4	10	5
-AAC	8	9	13	3	1	9	4	3	3	11	24	9
-AAA	7	10	9	4	5	3	1	3	0	13	18	9
-AAG	1	1	0	1	0	1	1	0	0	1	1	0
-AGT	0	1	1	0	0	0	1	0	2	3	2	1
-AGC	2	2	2	4	0	3	3	1	0	7	10	2
-GTT	2	3	6	5	0	0	2	0	0	2	3	2
-GTC	0	2	6	1	1	2	2	0	1	1	3	5
-GTA	13	5	29	4	0	6	9	3	6	7	13	11
-GTG	0	1	0	2	0	0	2	0	0	1	1	1
-GCT	6	5	7	0	0	2	2	0	2	6	7	5
-GCC	10	4	10	7	0	7	8	5	2	6	14	7
-GCA	17	10	21	3	0	8	7	3	3	17	21	11
-GCG	1	1	0	0	0	0	1	0	0	0	0	0
-GAT	2	1	6	3	1	1	1	0	0	2	3	5
-GAC	1	0	10	9	1	0	2	2	1	2	8	6
-GAA	9	3	9	12	1	3	8	6	2	9	8	6
-GAG	2	1	1	2	0	0	0	1	0	1	2	0
-GGT	0	2	9	0	0	0	0	0	1	1	3	3
-GGC	2	5	12	2	0	3	4	0	1	9	4	9
-GGA	7	6	22	7	0	7	15	5	1	7	13	12
-GGG	3	1	5	0	0	1	1	0	1	1	6	1
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	1	0	1	0	0	0	0	0	0	0	1
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_659376.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	7	12	13	3	0	3	15	0	4	6	0	1	8	1	3	3	32	3	4	5	12	0	2	3	7	0	1	2	5	0	10	12	13	6	3	5	17	0	4	8	7	1	0	2	2	0	13	0	6	10	17	1	2	1	9	2	0	2	7	3	1	0	0	0
+1	ND2	NP_659377.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	4	6	12	0	2	6	15	1	3	5	1	2	10	0	4	10	34	2	4	4	12	0	1	4	13	0	0	2	1	0	16	20	38	3	7	6	17	2	7	9	10	1	1	2	3	2	5	1	5	4	10	1	1	0	3	1	2	5	6	1	0	1	0	0
+2	COX1	NP_659378.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	17	26	11	3	7	2	19	0	6	12	0	1	17	0	7	5	28	3	10	1	17	0	10	8	6	0	4	2	2	0	18	20	29	2	8	9	19	2	4	13	9	0	1	2	6	6	29	0	7	10	21	0	6	10	9	1	9	12	22	5	1	0	0	0
+3	COX2	NP_659379.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	2	5	3	1	2	1	7	0	3	6	1	1	4	1	3	5	22	3	2	2	9	0	2	6	5	1	0	2	3	1	7	12	10	4	5	3	13	0	1	3	4	1	0	4	5	1	4	2	0	7	3	0	3	9	12	2	0	2	7	0	0	1	0	0
+4	ATP8	NP_659380.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	1	2	1	1	1	1	3	0	1	1	0	0	3	0	0	1	5	0	3	0	4	0	0	2	5	1	0	0	1	0	2	2	2	2	2	0	9	1	0	1	5	0	0	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_659381.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	4	8	6	0	3	2	5	0	0	2	0	0	2	1	3	3	25	3	3	0	11	0	3	4	5	2	1	2	2	0	12	14	15	5	5	5	10	2	2	9	3	1	0	3	0	2	6	0	2	7	8	0	1	0	3	0	0	3	7	1	1	0	0	0
+6	COX3	NP_659382.3	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	11	16	0	0	3	3	11	1	4	6	1	1	12	0	5	5	21	2	1	3	6	0	4	11	5	2	1	2	2	0	8	5	8	2	2	4	13	1	5	4	1	1	1	3	2	2	9	2	2	8	7	1	1	2	8	0	0	4	15	1	0	0	0	0
+7	ND3	NP_659383.3	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	4	4	8	1	1	1	3	0	1	2	0	1	4	0	2	3	13	0	0	1	5	1	0	0	4	0	0	0	1	0	4	5	3	0	3	2	2	1	3	3	3	0	0	1	0	0	3	0	0	5	3	0	0	2	6	1	0	0	5	0	0	0	0	0
+8	ND4L	NP_659384.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	2	2	4	1	0	2	6	1	2	2	0	3	0	0	3	2	12	1	0	0	1	0	1	0	2	0	0	0	1	0	2	1	11	1	1	1	5	0	2	3	0	0	2	0	0	1	6	0	2	2	3	0	0	1	2	0	1	1	1	1	1	0	0	0
+9	ND4	NP_659385.3	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	4	15	13	1	2	9	16	0	9	8	2	0	11	0	9	10	59	7	0	2	21	0	2	9	10	1	2	1	7	0	18	25	33	4	6	12	20	0	4	11	13	1	3	7	2	1	7	1	6	6	17	0	2	2	9	1	1	9	7	1	0	0	0	0
+10	ND5	NP_659386.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	17	22	11	1	5	13	20	0	7	13	3	2	9	3	9	12	48	6	1	4	20	2	2	12	21	1	1	1	6	0	27	28	42	5	9	18	31	0	10	24	18	1	2	10	3	3	13	1	7	14	21	0	3	8	8	2	3	4	13	6	1	0	0	0
+11	CYTB	NP_659388.1	Tamandua tetradactyla	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Vermilingua, Myrmecophagidae, Tamandua	5	19	9	0	2	2	16	1	6	10	0	4	10	0	0	8	42	1	3	4	15	0	6	8	7	0	1	2	6	0	9	30	14	2	3	8	16	0	5	9	9	0	1	2	2	5	11	1	5	7	11	0	5	6	6	0	3	9	12	1	0	1	0	0

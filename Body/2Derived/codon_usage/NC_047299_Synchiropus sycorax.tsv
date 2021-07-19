@@ -1,65 +1,13 @@
-	YP_009764045.1|ND1	YP_009764046.1|ND2	YP_009764047.1|COX1	YP_009764048.1|COX2	YP_009764049.1|ATP8	YP_009764050.1|ATP6	YP_009764051.1|COX3	YP_009764052.1|ND3	YP_009764053.1|ND4L	YP_009764054.1|ND4	YP_009764055.1|ND5	YP_009764057.1|CYTB
-TTT	13	10	20	5	4	12	10	4	4	9	26	12
-TTC	11	5	22	5	1	4	11	5	3	11	13	18
-TTA	13	15	19	6	0	12	6	10	3	23	17	11
-TTG	2	5	2	1	2	1	3	1	2	3	5	1
-TCT	8	8	8	3	2	1	3	2	3	7	13	7
-TCC	4	4	9	3	0	3	2	2	3	5	11	8
-TCA	9	6	4	5	0	1	5	3	3	9	13	6
-TCG	1	1	2	0	0	1	0	1	1	1	1	2
-TAT	7	1	9	4	0	1	4	2	0	4	5	3
-TAC	7	6	10	4	0	3	7	1	1	11	9	12
-TGT	0	1	0	1	0	0	1	0	2	2	3	2
-TGC	0	1	1	2	0	0	3	1	1	6	5	1
-TGA	5	8	15	4	4	3	11	2	1	10	10	11
-TGG	4	3	2	1	1	2	1	2	0	5	4	1
-CTT	16	12	21	11	2	13	12	5	4	24	24	14
-CTC	5	9	4	3	1	5	1	4	5	19	10	8
-CTA	22	18	10	8	2	12	8	5	9	21	32	14
-CTG	3	8	6	1	0	8	5	1	3	10	13	9
-CCT	9	7	9	3	2	11	7	2	1	11	16	7
-CCC	8	5	8	6	1	1	3	3	0	9	5	6
-CCA	6	8	11	5	5	3	4	3	0	6	8	6
-CCG	1	0	0	0	0	0	0	0	0	2	0	2
-CAT	2	5	9	3	0	1	3	0	1	3	2	4
-CAC	2	2	9	7	1	3	13	0	2	8	9	7
-CAA	4	7	7	9	1	6	6	3	2	6	12	6
-CAG	3	1	2	0	0	2	1	0	0	4	4	1
-CGT	0	0	1	1	0	0	1	0	0	0	2	1
-CGC	1	0	1	1	0	2	1	1	2	3	3	3
-CGA	5	3	5	4	0	3	3	1	0	7	5	4
-CGG	3	1	1	0	0	1	0	0	0	1	0	0
-ATT	12	18	28	11	2	11	9	5	1	19	29	13
-ATC	10	11	9	6	4	9	7	4	0	15	23	14
-ATA	9	15	21	9	1	4	6	3	2	13	20	6
-ATG	8	3	5	4	1	4	2	2	3	9	9	4
-ACT	4	9	12	2	3	4	5	1	3	3	12	5
-ACC	7	16	6	4	2	4	5	3	3	14	19	7
-ACA	3	11	14	4	2	11	10	3	0	18	12	8
-ACG	2	1	4	0	0	1	1	0	1	1	1	0
-AAT	4	5	6	2	3	2	1	1	1	8	7	7
-AAC	7	3	9	3	0	7	2	0	2	7	21	12
-AAA	7	7	8	2	3	2	1	0	1	7	17	8
-AAG	1	3	1	2	1	0	0	1	0	2	4	1
-AGT	0	1	0	0	0	1	1	0	2	2	6	0
-AGC	7	6	4	3	0	5	2	0	1	8	7	1
-GTT	8	4	12	4	0	2	3	0	0	5	5	8
-GTC	6	4	13	5	0	5	7	1	2	4	5	5
-GTA	9	6	14	11	0	5	6	1	0	5	17	15
-GTG	4	2	3	2	1	0	0	2	0	1	2	3
-GCT	8	8	14	3	0	1	4	2	4	11	18	7
-GCC	15	16	13	6	1	8	11	3	4	17	26	11
-GCA	16	9	17	5	0	8	7	5	4	12	16	15
-GCG	0	3	3	0	0	0	0	0	0	0	0	1
-GAT	1	2	8	4	0	0	4	0	0	1	6	7
-GAC	3	1	6	9	0	1	2	4	1	5	9	4
-GAA	8	6	7	10	0	5	6	2	2	7	6	3
-GAG	4	0	4	4	0	1	1	4	0	1	5	1
-GGT	3	2	15	2	0	3	5	2	1	12	8	2
-GGC	7	5	14	1	0	5	9	1	4	4	9	10
-GGA	4	6	12	3	1	2	7	0	0	2	9	12
-GGG	5	5	5	2	0	1	2	2	0	5	4	3
-TAA	0	0	0	0	0	1	1	0	1	1	1	0
-TAG	1	0	1	1	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009764045.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	13	11	13	2	8	4	9	1	7	7	0	0	5	4	16	5	22	3	9	8	6	1	2	2	4	3	0	1	5	3	12	10	9	8	4	7	3	2	4	7	7	1	0	7	8	6	9	4	8	15	16	0	1	3	8	4	3	7	4	5	0	1	0	0
+1	ND2	YP_009764046.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	10	5	15	5	8	4	6	1	1	6	1	1	8	3	12	9	18	8	7	5	8	0	5	2	7	1	0	0	3	1	18	11	15	3	9	16	11	1	5	3	7	3	1	6	4	4	6	2	8	16	9	3	2	1	6	0	2	5	6	5	0	0	0	0
+2	COX1	YP_009764047.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	20	22	19	2	8	9	4	2	9	10	0	1	15	2	21	4	10	6	9	8	11	0	9	9	7	2	1	1	5	1	28	9	21	5	12	6	14	4	6	9	8	1	0	4	12	13	14	3	14	13	17	3	8	6	7	4	15	14	12	5	0	1	0	0
+3	COX2	YP_009764048.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	5	5	6	1	3	3	5	0	4	4	1	2	4	1	11	3	8	1	3	6	5	0	3	7	9	0	1	1	4	0	11	6	9	4	2	4	4	0	2	3	2	2	0	3	4	5	11	2	3	6	5	0	4	9	10	4	2	1	3	2	0	1	0	0
+4	ATP8	YP_009764049.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	4	1	0	2	2	0	0	0	0	0	0	0	4	1	2	1	2	0	2	1	5	0	0	1	1	0	0	0	0	0	2	4	1	1	3	2	2	0	3	0	3	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+5	ATP6	YP_009764050.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	12	4	12	1	1	3	1	1	1	3	0	0	3	2	13	5	12	8	11	1	3	0	1	3	6	2	0	2	3	1	11	9	4	4	4	4	11	1	2	7	2	0	1	5	2	5	5	0	1	8	8	0	0	1	5	1	3	5	2	1	1	0	0	0
+6	COX3	YP_009764051.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	10	11	6	3	3	2	5	0	4	7	1	3	11	1	12	1	8	5	7	3	4	0	3	13	6	1	1	1	3	0	9	7	6	2	5	5	10	1	1	2	1	0	1	2	3	7	6	0	4	11	7	0	4	2	6	1	5	9	7	2	1	0	0	0
+7	ND3	YP_009764052.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	4	5	10	1	2	2	3	1	2	1	0	1	2	2	5	4	5	1	2	3	3	0	0	0	3	0	0	1	1	0	5	4	3	2	1	3	3	0	1	0	0	1	0	0	0	1	1	2	2	3	5	0	0	4	2	4	2	1	0	2	0	0	0	0
+8	ND4L	YP_009764053.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	4	3	3	2	3	3	3	1	0	1	2	1	1	0	4	5	9	3	1	0	0	0	1	2	2	0	0	2	0	0	1	0	2	3	3	3	0	1	1	2	1	0	2	1	0	2	0	0	4	4	4	0	0	1	2	0	1	4	0	0	1	0	0	0
+9	ND4	YP_009764054.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	9	11	23	3	7	5	9	1	4	11	2	6	10	5	24	19	21	10	11	9	6	2	3	8	6	4	0	3	7	1	19	15	13	9	3	14	18	1	8	7	7	2	2	8	5	4	5	1	11	17	12	0	1	5	7	1	12	4	2	5	1	0	0	0
+10	ND5	YP_009764055.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	26	13	17	5	13	11	13	1	5	9	3	5	10	4	24	10	32	13	16	5	8	0	2	9	12	4	2	3	5	0	29	23	20	9	12	19	12	1	7	21	17	4	6	7	5	5	17	2	18	26	16	0	6	9	6	5	8	9	9	4	1	0	0	0
+11	CYTB	YP_009764057.1	Synchiropus sycorax	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Callionymoidei, Callionymidae, Synchiropus	12	18	11	1	7	8	6	2	3	12	2	1	11	1	14	8	14	9	7	6	6	2	4	7	6	1	1	3	4	0	13	14	6	4	5	7	8	0	7	12	8	1	0	1	8	5	15	3	7	11	15	1	7	4	3	1	2	10	12	3	0	0	0	0

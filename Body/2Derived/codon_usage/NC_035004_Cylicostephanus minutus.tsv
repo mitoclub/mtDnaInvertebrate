@@ -1,65 +1,13 @@
-	YP_009383832.1|ND1	YP_009383833.1|ATP6	YP_009383834.1|ND2	YP_009383835.1|CYTB	YP_009383836.1|COX3	YP_009383837.1|ND4	YP_009383838.1|COX1	YP_009383839.1|COX2	YP_009383840.1|ND3	YP_009383841.1|ND5	YP_009383842.1|ND6	YP_009383843.1|ND4L
-TTT	40	29	42	37	35	64	46	17	18	75	21	15
-TTC	0	0	3	1	1	2	1	0	0	0	1	0
-TTA	30	18	36	31	23	42	50	25	17	72	19	3
-TTG	12	5	17	13	6	12	16	7	2	16	8	3
-TCT	7	1	5	3	8	8	9	3	3	8	4	1
-TCC	0	0	0	0	1	2	0	0	0	1	0	0
-TCA	6	6	2	5	3	15	14	6	0	2	1	1
-TCG	2	0	1	1	0	0	3	1	0	3	2	0
-TAT	15	11	8	23	12	19	23	16	2	28	10	2
-TAC	2	1	0	1	1	1	2	0	1	1	0	1
-TGT	1	4	1	2	3	5	6	8	0	4	2	2
-TGC	0	0	0	0	0	0	0	1	0	0	0	0
-TGA	2	2	6	10	7	3	10	4	2	5	2	1
-TGG	0	0	1	3	1	2	2	1	1	2	0	0
-CTT	0	0	0	2	3	1	0	0	0	0	0	0
-CTC	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	0	2	1	1	4	1	1	0	4	1	2
-CTG	2	0	1	1	2	1	2	0	0	0	0	0
-CCT	2	1	2	5	1	1	7	3	0	2	1	0
-CCC	1	0	1	3	2	1	2	1	0	3	0	0
-CCA	2	2	2	4	1	6	8	4	0	0	1	0
-CCG	3	0	0	2	1	0	2	0	0	3	0	0
-CAT	2	1	1	5	10	3	13	4	1	4	0	1
-CAC	0	0	0	2	3	1	4	0	0	1	0	0
-CAA	4	3	6	4	0	3	1	3	0	4	0	1
-CAG	1	0	1	0	1	0	4	3	1	3	0	0
-CGT	7	2	0	3	1	1	6	3	0	0	0	1
-CGC	0	0	0	0	0	0	0	0	0	1	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	1	0
-CGG	0	1	0	0	0	1	1	0	0	2	0	0
-ATT	23	15	20	30	18	41	36	12	8	31	12	10
-ATC	2	0	1	0	0	0	0	0	1	1	0	0
-ATA	16	7	15	16	7	26	17	9	4	31	8	7
-ATG	1	7	12	7	2	6	11	2	5	6	3	6
-ACT	3	8	7	6	5	6	9	4	0	12	0	1
-ACC	0	0	0	2	1	2	1	0	0	0	1	0
-ACA	2	3	4	8	1	4	12	3	0	7	0	0
-ACG	1	1	0	2	1	2	7	0	0	3	0	0
-AAT	5	7	16	14	8	16	19	15	4	29	8	0
-AAC	1	0	0	0	1	3	1	0	0	2	1	0
-AAA	5	7	10	11	3	11	10	4	4	16	3	2
-AAG	4	1	3	3	3	2	3	3	1	4	1	1
-AGT	8	8	6	8	7	5	15	9	2	15	7	2
-AGC	0	0	2	2	0	1	1	0	0	3	0	0
-AGA	10	5	4	7	9	11	12	4	4	18	3	2
-AGG	3	0	2	4	1	4	7	2	0	7	4	0
-GTT	11	10	12	16	10	12	22	7	2	15	7	2
-GTC	0	0	0	3	0	1	0	0	1	1	0	0
-GTA	6	5	6	12	5	10	13	7	9	17	4	1
-GTG	6	4	4	3	6	4	8	3	1	6	1	0
-GCT	9	2	1	9	5	7	9	1	3	7	1	1
-GCC	1	0	0	1	0	4	1	1	0	4	0	0
-GCA	2	1	1	6	3	4	6	3	1	3	0	0
-GCG	0	1	2	5	0	0	6	0	0	2	0	0
-GAT	5	2	0	6	5	3	12	9	2	10	1	1
-GAC	0	0	0	0	1	0	2	1	1	0	0	0
-GAA	4	8	4	7	3	4	3	5	2	5	0	1
-GAG	8	1	1	1	4	4	4	4	1	2	0	1
-GGT	11	6	3	11	8	10	27	6	2	21	3	3
-GGC	0	0	0	3	0	1	1	0	0	0	0	1
-GGA	2	2	6	2	4	1	9	1	4	4	0	1
-GGG	0	1	1	3	7	6	8	5	1	1	2	0
-TAA	0	1	1	1	0	1	1	1	1	1	1	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND1	YP_009383832.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	40	0	30	12	7	0	6	2	15	2	1	0	2	0	0	0	0	2	2	1	2	3	2	0	4	1	7	0	0	0	23	2	16	1	3	0	2	1	5	1	5	4	8	0	10	3	11	0	6	6	9	1	2	0	5	0	4	8	11	0	2	0	0	1
+1	ATP6	YP_009383833.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	29	0	18	5	1	0	6	0	11	1	4	0	2	0	0	0	0	0	1	0	2	0	1	0	3	0	2	0	0	1	15	0	7	7	8	0	3	1	7	0	7	1	8	0	5	0	10	0	5	4	2	0	1	1	2	0	8	1	6	0	2	1	1	0
+2	ND2	YP_009383834.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	42	3	36	17	5	0	2	1	8	0	1	0	6	1	0	0	2	1	2	1	2	0	1	0	6	1	0	0	0	0	20	1	15	12	7	0	4	0	16	0	10	3	6	2	4	2	12	0	6	4	1	0	1	2	0	0	4	1	3	0	6	1	1	0
+3	CYTB	YP_009383835.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	37	1	31	13	3	0	5	1	23	1	2	0	10	3	2	0	1	1	5	3	4	2	5	2	4	0	3	0	0	0	30	0	16	7	6	2	8	2	14	0	11	3	8	2	7	4	16	3	12	3	9	1	6	5	6	0	7	1	11	3	2	3	1	0
+4	COX3	YP_009383836.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	35	1	23	6	8	1	3	0	12	1	3	0	7	1	3	0	1	2	1	2	1	1	10	3	0	1	1	0	0	0	18	0	7	2	5	1	1	1	8	1	3	3	7	0	9	1	10	0	5	6	5	0	3	0	5	1	3	4	8	0	4	7	0	0
+5	ND4	YP_009383837.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	64	2	42	12	8	2	15	0	19	1	5	0	3	2	1	0	4	1	1	1	6	0	3	1	3	0	1	0	0	1	41	0	26	6	6	2	4	2	16	3	11	2	5	1	11	4	12	1	10	4	7	4	4	0	3	0	4	4	10	1	1	6	1	0
+6	COX1	YP_009383838.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	46	1	50	16	9	0	14	3	23	2	6	0	10	2	0	0	1	2	7	2	8	2	13	4	1	4	6	0	0	1	36	0	17	11	9	1	12	7	19	1	10	3	15	1	12	7	22	0	13	8	9	1	6	6	12	2	3	4	27	1	9	8	1	0
+7	COX2	YP_009383839.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	17	0	25	7	3	0	6	1	16	0	8	1	4	1	0	0	1	0	3	1	4	0	4	0	3	3	3	0	0	0	12	0	9	2	4	0	3	0	15	0	4	3	9	0	4	2	7	0	7	3	1	1	3	0	9	1	5	4	6	0	1	5	1	0
+8	ND3	YP_009383840.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	18	0	17	2	3	0	0	0	2	1	0	0	2	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	8	1	4	5	0	0	0	0	4	0	4	1	2	0	4	0	2	1	9	1	3	0	1	0	2	1	2	1	2	0	4	1	1	0
+9	ND5	YP_009383841.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	75	0	72	16	8	1	2	3	28	1	4	0	5	2	0	0	4	0	2	3	0	3	4	1	4	3	0	1	0	2	31	1	31	6	12	0	7	3	29	2	16	4	15	3	18	7	15	1	17	6	7	4	3	2	10	0	5	2	21	0	4	1	1	0
+10	ND6	YP_009383842.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	21	1	19	8	4	0	1	2	10	0	2	0	2	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	12	0	8	3	0	1	0	0	8	1	3	1	7	0	3	4	7	0	4	1	1	0	0	0	1	0	0	0	3	0	0	2	1	0
+11	ND4L	YP_009383843.1	Cylicostephanus minutus	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Strongylida, Strongyloidea, Strongylidae, Cyathostominae, Cylicostephanus	15	0	3	3	1	0	1	0	2	1	2	0	1	0	0	0	2	0	0	0	0	0	1	0	1	0	1	0	0	0	10	0	7	6	1	0	0	0	0	0	2	1	2	0	2	0	2	0	1	0	1	0	0	0	1	0	1	1	3	1	1	0	1	0

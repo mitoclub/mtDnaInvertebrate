@@ -1,65 +1,13 @@
-	YP_009024438.1|ND1	YP_009024439.1|ND2	YP_009024440.1|COX1	YP_009024441.1|COX2	YP_009024442.1|ATP8	YP_009024443.1|ATP6	YP_009024444.1|COX3	YP_009024445.1|ND3	YP_009024446.1|ND4L	YP_009024447.1|ND4	YP_009024448.1|ND5	YP_009024449.1|CYTB
-TTT	5	3	13	1	1	3	7	3	2	1	8	5
-TTC	12	9	30	7	3	4	17	6	6	13	21	24
-TTA	10	12	6	2	0	7	0	1	3	13	8	7
-TTG	1	0	1	0	0	0	0	0	0	2	1	0
-TCT	4	3	3	2	1	1	5	0	1	3	3	5
-TCC	8	14	9	8	0	7	2	3	4	11	14	10
-TCA	9	15	11	6	1	3	7	3	3	17	15	11
-TCG	0	0	0	1	0	2	1	0	0	0	1	0
-TAT	4	3	6	2	0	2	0	0	0	4	2	1
-TAC	10	2	11	7	0	2	9	2	1	10	11	12
-TGT	0	0	0	0	0	0	0	1	1	1	1	0
-TGC	1	1	1	3	0	0	1	0	2	3	6	4
-TGA	7	8	16	3	5	4	11	5	1	11	11	9
-TGG	1	2	1	2	0	0	1	0	0	1	1	2
-CTT	5	8	9	5	1	7	6	5	4	7	14	4
-CTC	18	24	15	9	3	18	7	6	2	31	37	25
-CTA	25	18	23	11	3	26	18	12	9	41	44	24
-CTG	7	4	8	3	0	4	2	0	0	4	3	2
-CCT	6	3	6	1	2	1	0	0	0	4	4	1
-CCC	8	7	10	6	3	5	4	2	3	11	14	12
-CCA	11	11	12	5	3	13	7	5	2	15	14	11
-CCG	0	0	3	1	0	0	0	0	0	0	1	1
-CAT	1	1	1	1	0	0	6	0	1	2	1	2
-CAC	1	10	18	7	0	4	11	0	5	15	12	11
-CAA	4	10	8	9	2	7	7	4	2	10	15	7
-CAG	1	0	1	0	0	1	0	0	0	1	1	1
-CGT	1	1	0	0	0	0	1	0	0	0	0	1
-CGC	2	0	3	3	0	2	0	0	1	2	2	3
-CGA	5	1	5	2	0	4	4	2	1	8	6	4
-CGG	0	1	0	0	0	0	0	0	0	0	0	0
-ATT	7	8	14	11	1	8	5	2	0	11	12	5
-ATC	18	26	28	7	1	10	11	4	5	28	46	29
-ATA	9	13	18	9	1	7	8	3	4	21	22	7
-ATG	5	6	6	2	2	3	1	1	2	5	3	1
-ACT	2	4	7	5	3	4	2	3	2	4	10	4
-ACC	14	17	19	6	5	9	9	4	4	24	37	12
-ACA	9	23	15	3	5	7	9	8	3	19	31	10
-ACG	0	0	0	1	0	0	0	0	0	0	1	0
-AAT	3	2	3	1	0	0	1	0	1	2	3	2
-AAC	7	11	12	3	5	8	3	2	2	11	22	19
-AAA	6	11	9	4	3	3	3	1	0	11	22	9
-AAG	1	1	0	1	0	0	1	0	0	0	1	1
-AGT	1	1	0	0	0	0	2	0	0	0	2	0
-AGC	7	4	3	2	0	4	3	1	4	11	6	1
-GTT	2	0	5	0	0	2	2	0	0	1	0	0
-GTC	5	3	11	4	0	2	4	1	0	4	8	4
-GTA	2	3	17	9	0	3	5	2	2	6	4	10
-GTG	2	1	2	1	0	0	2	0	0	0	1	2
-GCT	4	2	8	2	0	2	2	0	1	1	6	5
-GCC	21	9	22	9	0	11	11	7	4	17	30	15
-GCA	4	12	14	5	0	4	11	3	3	12	13	7
-GCG	0	0	1	0	0	0	0	0	0	1	1	1
-GAT	1	0	1	6	0	0	1	0	0	0	0	0
-GAC	3	1	14	8	0	1	4	3	1	2	8	6
-GAA	6	5	9	12	0	3	8	5	3	9	11	6
-GAG	5	0	1	1	0	1	0	1	0	1	3	1
-GGT	4	1	3	1	0	1	4	1	0	2	3	1
-GGC	3	7	19	1	0	2	4	3	2	8	17	15
-GGA	1	4	23	6	0	4	9	1	1	5	10	7
-GGG	5	0	2	0	0	1	2	0	0	2	2	1
-TAA	0	0	0	1	1	1	0	1	1	0	1	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009024438.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	5	12	10	1	4	8	9	0	4	10	0	1	7	1	5	18	25	7	6	8	11	0	1	1	4	1	1	2	5	0	7	18	9	5	2	14	9	0	3	7	6	1	1	7	2	5	2	2	4	21	4	0	1	3	6	5	4	3	1	5	0	1	0	0
+1	ND2	YP_009024439.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	3	9	12	0	3	14	15	0	3	2	0	1	8	2	8	24	18	4	3	7	11	0	1	10	10	0	1	0	1	1	8	26	13	6	4	17	23	0	2	11	11	1	1	4	0	3	3	1	2	9	12	0	0	1	5	0	1	7	4	0	0	0	0	0
+2	COX1	YP_009024440.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	13	30	6	1	3	9	11	0	6	11	0	1	16	1	9	15	23	8	6	10	12	3	1	18	8	1	0	3	5	0	14	28	18	6	7	19	15	0	3	12	9	0	0	3	5	11	17	2	8	22	14	1	1	14	9	1	3	19	23	2	0	0	0	1
+3	COX2	YP_009024441.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	1	7	2	0	2	8	6	1	2	7	0	3	3	2	5	9	11	3	1	6	5	1	1	7	9	0	0	3	2	0	11	7	9	2	5	6	3	1	1	3	4	1	0	2	0	4	9	1	2	9	5	0	6	8	12	1	1	1	6	0	1	0	0	0
+4	ATP8	YP_009024442.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	1	3	0	0	1	0	1	0	0	0	0	0	5	0	1	3	3	0	2	3	3	0	0	0	2	0	0	0	0	0	1	1	1	2	3	5	5	0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009024443.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	3	4	7	0	1	7	3	2	2	2	0	0	4	0	7	18	26	4	1	5	13	0	0	4	7	1	0	2	4	0	8	10	7	3	4	9	7	0	0	8	3	0	0	4	2	2	3	0	2	11	4	0	0	1	3	1	1	2	4	1	1	0	0	0
+6	COX3	YP_009024444.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	7	17	0	0	5	2	7	1	0	9	0	1	11	1	6	7	18	2	0	4	7	0	6	11	7	0	1	0	4	0	5	11	8	1	2	9	9	0	1	3	3	1	2	3	2	4	5	2	2	11	11	0	1	4	8	0	4	4	9	2	0	0	0	0
+7	ND3	YP_009024445.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	3	6	1	0	0	3	3	0	0	2	1	0	5	0	5	6	12	0	0	2	5	0	0	0	4	0	0	0	2	0	2	4	3	1	3	4	8	0	0	2	1	0	0	1	0	1	2	0	0	7	3	0	0	3	5	1	1	3	1	0	1	0	0	0
+8	ND4L	YP_009024446.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	2	6	3	0	1	4	3	0	0	1	1	2	1	0	4	2	9	0	0	3	2	0	1	5	2	0	0	1	1	0	0	5	4	2	2	4	3	0	1	2	0	0	0	4	0	0	2	0	1	4	3	0	0	1	3	0	0	2	1	0	1	0	0	0
+9	ND4	YP_009024447.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	1	13	13	2	3	11	17	0	4	10	1	3	11	1	7	31	41	4	4	11	15	0	2	15	10	1	0	2	8	0	11	28	21	5	4	24	19	0	2	11	11	0	0	11	1	4	6	0	1	17	12	1	0	2	9	1	2	8	5	2	0	0	0	0
+10	ND5	YP_009024448.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	8	21	8	1	3	14	15	1	2	11	1	6	11	1	14	37	44	3	4	14	14	1	1	12	15	1	0	2	6	0	12	46	22	3	10	37	31	1	3	22	22	1	2	6	0	8	4	1	6	30	13	1	0	8	11	3	3	17	10	2	1	0	0	0
+11	CYTB	YP_009024449.1	Tetraogallus tibetanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Tetraogallus	5	24	7	0	5	10	11	0	1	12	0	4	9	2	4	25	24	2	1	12	11	1	2	11	7	1	1	3	4	0	5	29	7	1	4	12	10	0	2	19	9	1	0	1	0	4	10	2	5	15	7	1	0	6	6	1	1	15	7	1	1	0	0	0

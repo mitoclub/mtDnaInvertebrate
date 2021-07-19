@@ -1,65 +1,9 @@
-	YP_002640601.1|COX2	YP_002640602.1|COX3	YP_002640603.1|COB	YP_002640604.1|COX1	YP_002640605.1|AI2	YP_002640606.1|ATP8	YP_002640607.1|ATP6	YP_002640608.1|OLI1
-TTT	11	9	18	20	29	4	14	0
-TTC	1	6	18	24	10	2	7	6
-TTA	28	37	42	67	81	13	47	12
-TTG	0	0	0	0	6	0	0	0
-TCT	4	4	8	12	23	2	7	1
-TCC	1	0	0	1	5	0	0	0
-TCA	6	11	16	26	16	1	8	4
-TCG	0	0	0	0	3	0	0	0
-TAT	14	15	19	21	33	2	11	1
-TAC	0	1	3	4	5	1	0	0
-TGT	3	2	4	1	20	0	3	1
-TGC	1	0	0	0	2	0	0	0
-TGA	5	9	7	10	5	0	5	0
-TGG	0	0	0	0	1	0	0	0
-CTT	0	0	1	2	1	0	0	0
-CTC	0	0	0	0	0	0	0	0
-CTA	0	3	3	1	0	1	4	1
-CTG	0	0	0	0	0	0	0	0
-CCT	5	4	8	10	14	1	6	2
-CCC	1	0	0	3	2	0	0	0
-CCA	6	5	11	12	6	2	2	0
-CCG	1	0	0	0	0	0	0	0
-CAT	5	14	13	13	25	0	3	0
-CAC	0	1	0	1	4	0	1	0
-CAA	8	4	5	8	13	3	5	1
-CAG	1	0	1	2	2	0	0	0
-CGT	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0
-ATT	24	15	28	38	57	3	31	7
-ATC	2	5	7	10	7	1	7	2
-ATA	2	1	2	0	18	1	2	0
-ATG	4	10	16	22	21	3	8	3
-ACT	6	10	7	10	13	1	9	0
-ACC	0	0	0	0	6	0	0	0
-ACA	10	6	6	17	14	0	5	2
-ACG	0	0	0	1	6	0	0	0
-AAT	9	8	18	22	64	1	12	1
-AAC	1	1	1	3	11	0	2	1
-AAA	7	2	7	10	64	1	5	2
-AAG	0	0	0	0	8	0	0	0
-AGT	2	4	4	3	18	0	4	0
-AGC	0	0	0	0	3	0	0	0
-AGA	6	7	11	9	40	2	4	1
-AGG	0	0	0	0	4	0	0	0
-GTT	9	7	15	11	22	1	6	3
-GTC	1	0	1	1	2	0	0	0
-GTA	10	17	22	27	22	1	5	3
-GTG	1	0	2	1	5	0	0	0
-GCT	7	12	9	19	16	0	11	5
-GCC	0	1	0	3	3	0	1	0
-GCA	7	7	13	23	7	0	0	5
-GCG	0	0	1	1	1	0	0	0
-GAT	14	3	7	12	31	0	4	1
-GAC	1	1	1	1	3	0	0	0
-GAA	14	8	4	9	25	0	3	1
-GAG	1	0	1	0	6	0	1	0
-GGT	6	16	19	29	26	1	13	8
-GGC	1	0	0	0	0	0	0	0
-GGA	5	3	5	12	17	0	3	2
-GGG	0	0	1	2	8	0	0	0
-TAA	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_002640601.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	11	1	28	0	4	1	6	0	14	0	3	1	5	0	0	0	0	0	5	1	6	1	5	0	8	1	0	0	0	0	24	2	2	4	6	0	10	0	9	1	7	0	2	0	6	0	9	1	10	1	7	0	7	0	14	1	14	1	6	1	5	0	1	0
+1	COX3	YP_002640602.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	9	6	37	0	4	0	11	0	15	1	2	0	9	0	0	0	3	0	4	0	5	0	14	1	4	0	0	0	0	0	15	5	1	10	10	0	6	0	8	1	2	0	4	0	7	0	7	0	17	0	12	1	7	0	3	1	8	0	16	0	3	0	1	0
+2	COB	YP_002640603.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	18	18	42	0	8	0	16	0	19	3	4	0	7	0	1	0	3	0	8	0	11	0	13	0	5	1	0	0	0	0	28	7	2	16	7	0	6	0	18	1	7	0	4	0	11	0	15	1	22	2	9	0	13	1	7	1	4	1	19	0	5	1	1	0
+3	COX1	YP_002640604.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	20	24	67	0	12	1	26	0	21	4	1	0	10	0	2	0	1	0	10	3	12	0	13	1	8	2	0	0	0	0	38	10	0	22	10	0	17	1	22	3	10	0	3	0	9	0	11	1	27	1	19	3	23	1	12	1	9	0	29	0	12	2	1	0
+4	AI2	YP_002640605.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	29	10	81	6	23	5	16	3	33	5	20	2	5	1	1	0	0	0	14	2	6	0	25	4	13	2	0	0	0	0	57	7	18	21	13	6	14	6	64	11	64	8	18	3	40	4	22	2	22	5	16	3	7	1	31	3	25	6	26	0	17	8	1	0
+5	ATP8	YP_002640606.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	4	2	13	0	2	0	1	0	2	1	0	0	0	0	0	0	1	0	1	0	2	0	0	0	3	0	0	0	0	0	3	1	1	3	1	0	0	0	1	0	1	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+6	ATP6	YP_002640607.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	14	7	47	0	7	0	8	0	11	0	3	0	5	0	0	0	4	0	6	0	2	0	3	1	5	0	0	0	0	0	31	7	2	8	9	0	5	0	12	2	5	0	4	0	4	0	6	0	5	0	11	1	0	0	4	0	3	1	13	0	3	0	1	0
+7	OLI1	YP_002640608.1	Saccharomyces pastorianus Weihenstephan 34/70	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	0	6	12	0	1	0	4	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0	0	0	7	2	0	3	0	0	2	0	1	1	2	0	0	0	1	0	3	0	3	0	5	0	5	0	1	0	1	0	8	0	2	0	1	0

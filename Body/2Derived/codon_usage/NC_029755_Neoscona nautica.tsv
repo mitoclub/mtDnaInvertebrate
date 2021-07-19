@@ -1,65 +1,10 @@
-	YP_009240912.1|ND2	YP_009240913.1|COX1	YP_009240914.1|COX2	YP_009240915.1|ATP8	YP_009240916.1|ATP6	YP_009240917.1|COX3	YP_009240918.1|ND3	YP_009240922.1|ND6	YP_009240923.1|CYTB
-TTT	26	46	16	1	22	32	13	14	40
-TTC	3	1	0	0	1	1	1	0	2
-TTA	34	49	17	5	27	26	23	19	48
-TTG	3	7	3	0	2	1	0	3	0
-TCT	6	21	9	0	11	9	6	2	15
-TCC	0	0	0	0	0	0	1	0	0
-TCA	6	8	7	1	4	6	2	0	5
-TCG	0	0	0	0	0	1	0	0	0
-TAT	20	18	10	1	12	6	8	9	21
-TAC	0	1	0	0	0	1	0	0	1
-TGT	5	3	3	1	1	0	1	0	2
-TGC	0	0	0	0	0	0	0	0	0
-TGA	11	12	5	3	2	12	1	3	11
-TGG	2	2	1	0	1	2	0	1	1
-CTT	3	1	2	0	2	2	0	1	1
-CTC	0	0	0	0	0	1	0	0	0
-CTA	1	2	0	0	0	1	0	0	0
-CTG	0	1	0	0	0	0	0	0	0
-CCT	4	18	2	2	2	6	2	2	12
-CCC	0	1	0	0	0	0	0	0	0
-CCA	1	5	4	0	5	2	0	0	4
-CCG	0	0	2	0	0	0	0	0	0
-CAT	2	14	5	0	4	11	0	0	7
-CAC	0	0	0	0	0	0	0	0	2
-CAA	4	7	5	1	4	5	0	1	6
-CAG	0	1	3	0	0	0	0	0	2
-CGT	3	1	3	0	0	2	0	0	3
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	3	0	3	0	1	1	5
-CGG	0	1	0	0	0	1	1	0	0
-ATT	34	44	22	7	21	14	13	18	32
-ATC	1	0	0	1	0	0	1	0	0
-ATA	44	33	20	8	17	19	9	25	27
-ATG	1	2	0	2	0	1	0	0	3
-ACT	2	15	5	1	4	7	1	1	9
-ACC	0	0	0	0	0	0	0	0	0
-ACA	1	6	1	0	2	3	1	1	4
-ACG	0	1	1	0	0	0	0	0	0
-AAT	18	18	12	6	8	6	3	4	16
-AAC	0	1	0	0	0	0	0	0	0
-AAA	10	5	3	3	5	6	4	2	5
-AAG	0	5	1	0	0	0	1	0	2
-AGT	5	2	1	0	3	3	1	3	3
-AGC	1	0	0	0	0	0	0	0	1
-AGA	13	7	7	4	12	10	1	9	7
-AGG	0	1	0	1	0	1	0	1	1
-GTT	4	10	5	0	7	10	3	6	9
-GTC	0	0	0	0	0	0	0	0	1
-GTA	13	31	9	0	8	14	1	6	14
-GTG	0	0	0	0	0	1	0	1	0
-GCT	2	16	3	1	9	2	2	1	8
-GCC	0	2	0	0	1	0	0	0	1
-GCA	3	10	1	0	2	5	0	0	2
-GCG	1	2	0	0	0	0	0	0	0
-GAT	6	12	7	0	2	4	3	2	10
-GAC	0	2	0	0	0	0	0	0	0
-GAA	5	10	9	2	5	8	5	2	8
-GAG	0	0	2	1	0	0	0	1	0
-GGT	7	14	6	0	6	5	1	2	5
-GGC	0	1	0	0	0	0	0	0	0
-GGA	9	30	5	0	5	12	2	3	15
-GGG	2	4	1	0	0	2	0	0	4
-TAA	1	1	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009240912.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	26	3	34	3	6	0	6	0	20	0	5	0	11	2	3	0	1	0	4	0	1	0	2	0	4	0	3	0	0	0	34	1	44	1	2	0	1	0	18	0	10	0	5	1	13	0	4	0	13	0	2	0	3	1	6	0	5	0	7	0	9	2	1	0
+1	COX1	YP_009240913.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	46	1	49	7	21	0	8	0	18	1	3	0	12	2	1	0	2	1	18	1	5	0	14	0	7	1	1	0	7	1	44	0	33	2	15	0	6	1	18	1	5	5	2	0	7	1	10	0	31	0	16	2	10	2	12	2	10	0	14	1	30	4	1	0
+2	COX2	YP_009240914.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	16	0	17	3	9	0	7	0	10	0	3	0	5	1	2	0	0	0	2	0	4	2	5	0	5	3	3	0	3	0	22	0	20	0	5	0	1	1	12	0	3	1	1	0	7	0	5	0	9	0	3	0	1	0	7	0	9	2	6	0	5	1	1	0
+3	ATP8	YP_009240915.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	1	0	5	0	0	0	1	0	1	0	1	0	3	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	7	1	8	2	1	0	0	0	6	0	3	0	0	0	4	1	0	0	0	0	1	0	0	0	0	0	2	1	0	0	0	0	1	0
+4	ATP6	YP_009240916.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	22	1	27	2	11	0	4	0	12	0	1	0	2	1	2	0	0	0	2	0	5	0	4	0	4	0	0	0	3	0	21	0	17	0	4	0	2	0	8	0	5	0	3	0	12	0	7	0	8	0	9	1	2	0	2	0	5	0	6	0	5	0	1	0
+5	COX3	YP_009240917.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	32	1	26	1	9	0	6	1	6	1	0	0	12	2	2	1	1	0	6	0	2	0	11	0	5	0	2	0	0	1	14	0	19	1	7	0	3	0	6	0	6	0	3	0	10	1	10	0	14	1	2	0	5	0	4	0	8	0	5	0	12	2	1	0
+6	ND3	YP_009240918.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	13	1	23	0	6	1	2	0	8	0	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	1	13	1	9	0	1	0	1	0	3	0	4	1	1	0	1	0	3	0	1	0	2	0	0	0	3	0	5	0	1	0	2	0	1	0
+7	ND6	YP_009240922.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	14	0	19	3	2	0	0	0	9	0	0	0	3	1	1	0	0	0	2	0	0	0	0	0	1	0	0	0	1	0	18	0	25	0	1	0	1	0	4	0	2	0	3	0	9	1	6	0	6	1	1	0	0	0	2	0	2	1	2	0	3	0	1	0
+8	CYTB	YP_009240923.1	Neoscona nautica	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Araneae, Araneomorphae, Entelegynae, Araneoidea, Araneidae, Neoscona	40	2	48	0	15	0	5	0	21	1	2	0	11	1	1	0	0	0	12	0	4	0	7	2	6	2	3	0	5	0	32	0	27	3	9	0	4	0	16	0	5	2	3	1	7	1	9	1	14	0	8	1	2	0	10	0	8	0	5	0	15	4	0	1

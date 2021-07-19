@@ -1,65 +1,13 @@
-	YP_003162759.1|ND1	YP_003162760.1|ND2	YP_003162761.1|COX1	YP_003162762.1|COX2	YP_003162763.1|ATP8	YP_003162764.1|ATP6	YP_003162765.1|COX3	YP_003162766.1|ND3	YP_003162767.1|ND4L	YP_003162768.1|ND4	YP_003162769.1|ND5	YP_003162771.1|CYTB
-TTT	10	7	18	5	3	5	16	6	3	12	21	10
-TTC	9	10	24	4	1	7	6	2	3	5	17	19
-TTA	9	18	14	5	2	13	6	5	4	19	19	9
-TTG	4	2	2	0	0	2	0	1	4	6	6	5
-TCT	8	4	6	2	3	1	0	1	1	4	7	7
-TCC	5	8	11	5	0	4	6	2	4	6	12	9
-TCA	3	4	5	2	0	3	4	3	4	11	9	5
-TCG	3	1	1	1	0	0	0	2	1	3	0	0
-TAT	5	7	10	7	1	2	7	3	1	9	5	5
-TAC	7	7	8	1	0	2	3	1	0	4	8	9
-TGT	0	0	0	2	0	0	0	1	2	4	1	2
-TGC	0	3	1	0	0	0	2	0	1	1	5	1
-TGA	6	4	11	5	5	6	9	5	1	7	12	10
-TGG	1	5	6	0	0	0	3	0	0	11	2	2
-CTT	19	16	11	11	2	20	7	6	4	34	25	19
-CTC	12	23	17	4	0	9	7	5	4	20	15	17
-CTA	14	16	14	7	2	6	7	6	6	16	26	12
-CTG	3	7	8	3	1	3	5	2	2	6	7	3
-CCT	9	11	10	6	3	8	7	2	0	8	12	7
-CCC	11	12	11	8	1	8	6	6	2	16	14	7
-CCA	4	2	5	0	2	3	1	0	0	5	6	5
-CCG	0	1	2	0	2	1	0	0	0	1	2	2
-CAT	1	3	12	3	1	1	6	0	1	4	7	4
-CAC	3	2	7	7	1	3	9	0	3	7	7	8
-CAA	5	3	2	4	2	6	7	3	2	9	14	5
-CAG	2	8	4	3	0	4	2	0	1	0	3	1
-CGT	0	0	2	2	0	0	1	0	0	1	2	1
-CGC	0	0	3	2	0	1	1	0	1	4	4	1
-CGA	5	3	3	1	0	4	1	1	1	4	3	4
-CGG	3	0	0	1	0	0	2	1	1	2	1	2
-ATT	17	22	30	17	1	18	10	2	1	21	31	13
-ATC	7	7	9	4	2	4	6	7	0	11	14	15
-ATA	4	6	15	8	1	4	5	3	2	12	16	4
-ATG	4	9	11	2	0	4	1	1	2	12	11	3
-ACT	4	5	8	3	1	1	3	0	0	7	15	4
-ACC	7	11	10	4	3	6	8	1	2	16	17	17
-ACA	8	9	16	5	1	10	12	4	1	16	21	3
-ACG	2	3	2	1	1	1	1	0	0	3	5	1
-AAT	5	7	6	2	1	3	1	0	0	3	13	6
-AAC	5	5	10	3	1	5	1	1	2	6	12	11
-AAA	2	8	5	4	3	2	2	1	0	5	12	7
-AAG	5	4	3	0	0	0	0	0	0	4	9	2
-AGT	1	2	1	2	1	2	1	0	0	4	6	0
-AGC	4	4	3	2	0	3	2	1	1	7	11	1
-GTT	6	6	9	7	1	5	6	2	2	8	12	10
-GTC	8	4	9	5	1	2	6	3	1	5	7	8
-GTA	4	4	18	2	0	3	5	1	1	4	10	6
-GTG	2	3	3	2	0	3	1	0	0	0	6	2
-GCT	7	7	17	2	2	5	2	3	4	6	10	5
-GCC	15	20	16	10	2	8	16	5	8	19	28	11
-GCA	10	7	13	5	0	4	5	2	2	10	15	14
-GCG	4	2	3	0	0	2	0	0	3	1	4	4
-GAT	1	2	7	2	0	0	3	1	0	3	4	6
-GAC	3	4	7	11	0	1	2	2	2	2	8	5
-GAA	6	5	10	12	0	3	7	2	1	10	7	5
-GAG	5	2	1	4	1	1	2	4	1	1	6	0
-GGT	1	4	13	1	0	4	2	2	1	8	8	3
-GGC	3	4	8	7	0	2	11	2	3	7	9	15
-GGA	6	6	19	2	0	1	5	2	1	9	10	6
-GGG	7	0	6	0	0	2	4	0	0	1	3	2
-TAA	0	1	1	0	1	1	1	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003162759.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	10	9	9	4	8	5	3	3	5	7	0	0	6	1	19	12	14	3	9	11	4	0	1	3	5	2	0	0	5	3	17	7	4	4	4	7	8	2	5	5	2	5	1	4	6	8	4	2	7	15	10	4	1	3	6	5	1	3	6	7	0	1	0	0
+1	ND2	YP_003162760.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	7	10	18	2	4	8	4	1	7	7	0	3	4	5	16	23	16	7	11	12	2	1	3	2	3	8	0	0	3	0	22	7	6	9	5	11	9	3	7	5	8	4	2	4	6	4	4	3	7	20	7	2	2	4	5	2	4	4	6	0	1	0	0	0
+2	COX1	YP_003162761.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	18	24	14	2	6	11	5	1	10	8	0	1	11	6	11	17	14	8	10	11	5	2	12	7	2	4	2	3	3	0	30	9	15	11	8	10	16	2	6	10	5	3	1	3	9	9	18	3	17	16	13	3	7	7	10	1	13	8	19	6	1	0	0	0
+3	COX2	YP_003162762.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	5	4	5	0	2	5	2	1	7	1	2	0	5	0	11	4	7	3	6	8	0	0	3	7	4	3	2	2	1	1	17	4	8	2	3	4	5	1	2	3	4	0	2	2	7	5	2	2	2	10	5	0	2	11	12	4	1	7	2	0	0	0	0	0
+4	ATP8	YP_003162763.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	3	1	2	0	3	0	0	0	1	0	0	0	5	0	2	0	2	1	3	1	2	2	1	1	2	0	0	0	0	0	1	2	1	0	1	3	1	1	1	1	3	0	1	0	1	1	0	0	2	2	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_003162764.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	5	7	13	2	1	4	3	0	2	2	0	0	6	0	20	9	6	3	8	8	3	1	1	3	6	4	0	1	4	0	18	4	4	4	1	6	10	1	3	5	2	0	2	3	5	2	3	3	5	8	4	2	0	1	3	1	4	2	1	2	1	0	0	0
+6	COX3	YP_003162765.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	16	6	6	0	0	6	4	0	7	3	0	2	9	3	7	7	7	5	7	6	1	0	6	9	7	2	1	1	1	2	10	6	5	1	3	8	12	1	1	1	2	0	1	2	6	6	5	1	2	16	5	0	3	2	7	2	2	11	5	4	1	0	0	0
+7	ND3	YP_003162766.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	6	2	5	1	1	2	3	2	3	1	1	0	5	0	6	5	6	2	2	6	0	0	0	0	3	0	0	0	1	1	2	7	3	1	0	1	4	0	0	1	1	0	0	1	2	3	1	0	3	5	2	0	1	2	2	4	2	2	2	0	0	0	0	0
+8	ND4L	YP_003162767.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	3	3	4	4	1	4	4	1	1	0	2	1	1	0	4	4	6	2	0	2	0	0	1	3	2	1	0	1	1	1	1	0	2	2	0	2	1	0	0	2	0	0	0	1	2	1	1	0	4	8	2	3	0	2	1	1	1	3	1	0	1	0	0	0
+9	ND4	YP_003162768.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	12	5	19	6	4	6	11	3	9	4	4	1	7	11	34	20	16	6	8	16	5	1	4	7	9	0	1	4	4	2	21	11	12	12	7	16	16	3	3	6	5	4	4	7	8	5	4	0	6	19	10	1	3	2	10	1	8	7	9	1	0	0	0	0
+10	ND5	YP_003162769.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	21	17	19	6	7	12	9	0	5	8	1	5	12	2	25	15	26	7	12	14	6	2	7	7	14	3	2	4	3	1	31	14	16	11	15	17	21	5	13	12	12	9	6	11	12	7	10	6	10	28	15	4	4	8	7	6	8	9	10	3	1	0	0	0
+11	CYTB	YP_003162771.1	Scophthalmus maximus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Scophthalmidae, Scophthalmus	10	19	9	5	7	9	5	0	5	9	2	1	10	2	19	17	12	3	7	7	5	2	4	8	5	1	1	1	4	2	13	15	4	3	4	17	3	1	6	11	7	2	0	1	10	8	6	2	5	11	14	4	6	5	5	0	3	15	6	2	0	0	0	0

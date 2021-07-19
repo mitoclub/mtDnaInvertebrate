@@ -1,65 +1,13 @@
-	YP_004465141.1|ND1	YP_004465142.1|ND2	YP_004465143.1|COX1	YP_004465144.1|COX2	YP_004465145.1|ATP8	YP_004465146.1|ATP6	YP_004465147.1|COX3	YP_004465148.1|ND3	YP_004465149.1|ND4L	YP_004465150.1|ND4	YP_004465151.1|ND5	YP_004465153.1|CYTB
-TTT	8	10	29	6	2	5	7	6	3	12	24	11
-TTC	12	3	13	5	0	5	14	2	3	6	26	18
-TTA	13	15	14	7	1	16	6	4	10	13	20	18
-TTG	5	2	2	1	0	0	1	4	1	1	5	3
-TCT	2	3	7	4	0	0	3	1	3	2	7	4
-TCC	3	5	4	5	1	2	4	0	2	12	6	7
-TCA	12	6	12	3	1	2	4	6	3	9	13	5
-TCG	1	3	0	0	0	0	0	1	0	2	5	3
-TAT	9	3	9	4	0	2	7	1	0	7	4	6
-TAC	5	4	9	6	1	3	4	2	0	5	15	10
-TGT	0	1	0	0	0	0	0	1	1	2	2	0
-TGC	0	0	1	2	0	0	2	0	2	3	5	3
-TGA	7	9	13	4	5	4	10	4	1	16	12	10
-TGG	1	2	4	1	0	1	2	1	0	4	3	2
-CTT	7	7	19	5	2	7	10	6	3	13	12	10
-CTC	7	5	12	4	2	6	4	4	2	12	12	6
-CTA	19	21	14	8	2	12	10	6	7	30	33	20
-CTG	6	10	4	0	1	9	2	0	1	9	5	5
-CCT	5	3	5	4	1	4	2	2	0	2	4	4
-CCC	10	4	7	3	2	4	3	1	1	9	5	8
-CCA	8	11	14	6	2	10	7	4	1	17	12	10
-CCG	0	0	2	0	1	0	0	0	0	1	2	0
-CAT	1	2	7	1	1	2	4	1	2	5	4	2
-CAC	3	4	11	7	0	2	12	0	2	6	11	10
-CAA	4	11	6	7	1	5	8	3	1	10	18	5
-CAG	3	5	1	0	0	3	0	0	1	3	2	1
-CGT	1	1	1	1	0	0	2	0	0	0	2	2
-CGC	0	0	2	1	1	1	0	0	0	1	1	1
-CGA	5	2	5	3	0	5	3	2	1	6	8	3
-CGG	2	0	1	1	0	1	0	0	1	4	2	2
-ATT	17	21	30	15	1	15	10	6	1	29	17	20
-ATC	10	11	6	6	0	7	3	4	1	14	25	11
-ATA	14	9	17	10	1	5	8	1	3	20	26	7
-ATG	3	8	6	2	1	3	3	1	4	11	9	4
-ACT	2	9	5	6	2	6	3	1	1	6	10	5
-ACC	4	12	9	2	2	6	7	3	4	19	14	8
-ACA	9	16	22	5	3	13	12	6	5	14	23	9
-ACG	1	5	3	2	0	2	2	0	0	2	4	3
-AAT	4	2	5	3	1	3	1	1	1	5	3	3
-AAC	7	10	10	4	2	4	1	2	2	7	12	15
-AAA	5	7	7	4	1	0	1	1	1	7	20	8
-AAG	2	2	2	1	1	1	1	0	0	2	3	1
-AGT	3	1	2	1	0	1	1	0	0	1	4	0
-AGC	3	5	3	2	0	5	2	0	1	9	5	1
-GTT	5	7	11	4	2	6	5	0	0	4	11	10
-GTC	2	4	3	4	1	2	2	1	1	3	7	7
-GTA	8	2	26	10	0	4	10	3	1	9	11	8
-GTG	2	1	3	0	1	1	2	0	0	3	4	3
-GCT	5	9	19	4	0	2	9	2	2	9	12	3
-GCC	19	11	14	2	3	6	4	2	2	8	22	3
-GCA	9	15	11	7	1	12	6	5	5	15	21	16
-GCG	2	3	2	1	0	0	1	0	1	1	3	2
-GAT	1	0	5	4	1	2	1	1	0	1	4	4
-GAC	2	2	9	7	0	0	4	1	1	2	7	7
-GAA	5	4	9	15	2	1	9	6	3	5	9	6
-GAG	5	1	1	1	0	2	0	1	0	5	4	1
-GGT	3	3	9	0	1	0	1	0	0	3	3	5
-GGC	1	4	10	2	0	1	6	2	0	5	6	2
-GGA	9	6	19	7	0	6	13	3	6	13	20	15
-GGG	3	6	8	0	0	0	2	1	0	6	3	4
-TAA	1	0	1	0	1	0	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004465141.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	8	12	13	5	2	3	12	1	9	5	0	0	7	1	7	7	19	6	5	10	8	0	1	3	4	3	1	0	5	2	17	10	14	3	2	4	9	1	4	7	5	2	3	3	5	2	8	2	5	19	9	2	1	2	5	5	3	1	9	3	1	0	0	0
+1	ND2	YP_004465142.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	10	3	15	2	3	5	6	3	3	4	1	0	9	2	7	5	21	10	3	4	11	0	2	4	11	5	1	0	2	0	21	11	9	8	9	12	16	5	2	10	7	2	1	5	7	4	2	1	9	11	15	3	0	2	4	1	3	4	6	6	0	0	0	0
+2	COX1	YP_004465143.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	29	13	14	2	7	4	12	0	9	9	0	1	13	4	19	12	14	4	5	7	14	2	7	11	6	1	1	2	5	1	30	6	17	6	5	9	22	3	5	10	7	2	2	3	11	3	26	3	19	14	11	2	5	9	9	1	9	10	19	8	1	0	0	0
+3	COX2	YP_004465144.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	6	5	7	1	4	5	3	0	4	6	0	2	4	1	5	4	8	0	4	3	6	0	1	7	7	0	1	1	3	1	15	6	10	2	6	2	5	2	3	4	4	1	1	2	4	4	10	0	4	2	7	1	4	7	15	1	0	2	7	0	0	0	0	0
+4	ATP8	YP_004465145.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	2	0	1	0	0	1	1	0	0	1	0	0	5	0	2	2	2	1	1	2	2	1	1	0	1	0	0	1	0	0	1	0	1	1	2	2	3	0	1	2	1	1	0	0	2	1	0	1	0	3	1	0	1	0	2	0	1	0	0	0	1	0	0	0
+5	ATP6	YP_004465146.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	5	5	16	0	0	2	2	0	2	3	0	0	4	1	7	6	12	9	4	4	10	0	2	2	5	3	0	1	5	1	15	7	5	3	6	6	13	2	3	4	0	1	1	5	6	2	4	1	2	6	12	0	2	0	1	2	0	1	6	0	0	0	0	0
+6	COX3	YP_004465147.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	7	14	6	1	3	4	4	0	7	4	0	2	10	2	10	4	10	2	2	3	7	0	4	12	8	0	2	0	3	0	10	3	8	3	3	7	12	2	1	1	1	1	1	2	5	2	10	2	9	4	6	1	1	4	9	0	1	6	13	2	0	0	0	0
+7	ND3	YP_004465148.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	6	2	4	4	1	0	6	1	1	2	1	0	4	1	6	4	6	0	2	1	4	0	1	0	3	0	0	0	2	0	6	4	1	1	1	3	6	0	1	2	1	0	0	0	0	1	3	0	2	2	5	0	1	1	6	1	0	2	3	1	0	0	0	0
+8	ND4L	YP_004465149.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	3	3	10	1	3	2	3	0	0	0	1	2	1	0	3	2	7	1	0	1	1	0	2	2	1	1	0	0	1	1	1	1	3	4	1	4	5	0	1	2	1	0	0	1	0	1	1	0	2	2	5	1	0	1	3	0	0	0	6	0	1	0	0	0
+9	ND4	YP_004465150.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	12	6	13	1	2	12	9	2	7	5	2	3	16	4	13	12	30	9	2	9	17	1	5	6	10	3	0	1	6	4	29	14	20	11	6	19	14	2	5	7	7	2	1	9	4	3	9	3	9	8	15	1	1	2	5	5	3	5	13	6	0	0	0	0
+10	ND5	YP_004465151.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	24	26	20	5	7	6	13	5	4	15	2	5	12	3	12	12	33	5	4	5	12	2	4	11	18	2	2	1	8	2	17	25	26	9	10	14	23	4	3	12	20	3	4	5	11	7	11	4	12	22	21	3	4	7	9	4	3	6	20	3	0	0	0	1
+11	CYTB	YP_004465153.1	Luciosoma bleekeri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Luciosoma	11	18	18	3	4	7	5	3	6	10	0	3	10	2	10	6	20	5	4	8	10	0	2	10	5	1	2	1	3	2	20	11	7	4	5	8	9	3	3	15	8	1	0	1	10	7	8	3	3	3	16	2	4	7	6	1	5	2	15	4	0	0	0	0

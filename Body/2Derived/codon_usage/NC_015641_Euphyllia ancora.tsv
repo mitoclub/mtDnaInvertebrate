@@ -1,65 +1,14 @@
-	YP_004581265.1|ND5	YP_004581266.1|ND1	YP_004581267.1|CYTB	YP_004581268.1|ND2	YP_004581269.1|ND6	YP_004581270.1|ATP6	YP_004581271.1|ND4	YP_004581272.1|COX3	YP_004581273.1|COX2	YP_004581274.1|ND4L	YP_004581275.1|ND3	YP_004581276.1|ATP8	YP_004581277.1|COX1
-TTT	44	24	36	21	22	20	41	31	13	6	19	7	57
-TTC	3	1	2	2	0	1	6	1	0	0	1	0	8
-TTA	47	18	21	29	10	20	34	15	16	10	9	9	38
-TTG	25	15	21	17	8	10	19	3	12	3	4	3	24
-TCT	31	8	10	10	3	4	7	9	8	3	5	0	19
-TCC	4	1	3	5	0	1	5	1	0	0	0	1	2
-TCA	2	1	4	9	2	4	1	2	3	2	1	0	8
-TCG	4	6	2	4	1	1	8	5	1	0	1	1	4
-TAT	22	13	18	13	3	7	18	9	11	4	4	2	33
-TAC	4	1	3	1	2	0	1	0	0	1	0	0	6
-TGT	5	2	2	5	1	1	4	5	2	0	2	1	5
-TGC	1	0	2	0	0	0	1	1	1	0	0	0	2
-TGA	5	3	7	2	3	1	4	7	2	0	2	3	6
-TGG	8	4	4	5	2	2	6	4	4	1	2	1	15
-CTT	12	6	10	12	2	2	16	3	3	3	5	2	7
-CTC	2	1	2	1	2	2	0	1	1	0	0	0	6
-CTA	7	8	3	3	3	6	7	3	0	0	0	1	6
-CTG	2	1	3	3	0	1	5	6	0	0	0	0	6
-CCT	9	6	9	4	3	2	7	5	6	0	1	0	11
-CCC	0	1	3	1	3	2	4	4	0	0	2	1	10
-CCA	4	2	6	0	0	2	3	2	1	0	1	1	7
-CCG	3	6	1	3	1	1	5	0	4	0	2	0	7
-CAT	11	3	9	5	2	5	4	10	5	1	0	0	13
-CAC	0	0	1	0	1	0	5	1	2	0	0	1	8
-CAA	10	3	4	7	4	3	7	7	4	1	2	2	9
-CAG	4	3	2	0	0	1	1	0	2	0	0	0	3
-CGT	3	1	2	0	0	1	4	1	0	0	1	1	1
-CGC	0	0	3	0	0	0	0	0	0	0	0	0	2
-CGA	4	3	1	1	2	0	2	0	1	1	2	1	3
-CGG	1	1	1	1	2	1	3	0	1	1	0	0	2
-ATT	30	11	10	15	13	10	24	8	13	10	6	4	33
-ATC	3	6	2	2	3	3	4	3	2	2	0	0	4
-ATA	18	9	11	9	9	7	13	5	9	8	3	2	24
-ATG	18	10	11	9	7	7	17	3	6	3	1	4	30
-ACT	16	7	2	4	6	5	9	12	2	0	0	4	16
-ACC	3	1	2	2	2	1	2	0	1	0	1	0	6
-ACA	6	4	4	4	2	3	5	1	4	3	0	0	12
-ACG	3	0	5	3	0	1	0	1	2	0	0	1	11
-AAT	12	6	11	6	3	5	10	4	6	1	1	1	22
-AAC	3	1	4	2	1	1	1	2	2	1	1	0	4
-AAA	13	9	4	8	2	2	9	4	5	0	3	6	13
-AAG	5	2	2	4	1	4	5	0	2	2	0	1	8
-AGT	7	9	8	7	4	4	6	5	2	1	1	0	13
-AGC	5	1	1	5	0	1	4	0	0	0	0	0	2
-AGA	5	2	4	2	2	0	5	3	4	1	0	1	10
-AGG	4	1	0	2	0	2	1	1	1	1	0	0	1
-GTT	38	20	14	18	6	13	27	12	13	4	4	2	23
-GTC	3	2	5	5	1	1	4	4	2	0	2	0	10
-GTA	4	5	5	7	2	3	5	2	4	0	0	2	6
-GTG	15	11	17	10	7	11	12	8	6	4	3	0	14
-GCT	15	12	8	14	5	9	8	7	4	3	2	0	23
-GCC	11	3	3	8	2	3	9	2	2	1	0	0	13
-GCA	5	2	4	1	4	5	5	3	2	1	1	0	12
-GCG	8	11	2	8	6	5	10	2	6	3	1	0	8
-GAT	13	4	8	2	3	5	3	3	12	1	1	0	17
-GAC	3	0	0	1	1	0	5	0	3	0	1	1	8
-GAA	6	7	5	2	3	2	7	2	11	4	2	1	10
-GAG	7	4	5	5	2	2	10	7	4	0	6	1	16
-GGT	11	2	6	9	2	3	12	7	7	3	4	1	16
-GGC	10	4	1	0	3	4	5	1	1	1	1	0	10
-GGA	6	3	6	5	4	2	6	5	4	1	3	0	15
-GGG	28	16	19	22	9	7	20	9	2	3	4	2	28
-TAA	0	1	1	1	1	0	1	0	0	1	0	1	1
-TAG	1	0	0	0	0	1	0	1	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	YP_004581265.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	44	3	47	25	31	4	2	4	22	4	5	1	5	8	12	2	7	2	9	0	4	3	11	0	10	4	3	0	4	1	30	3	18	18	16	3	6	3	12	3	13	5	7	5	5	4	38	3	4	15	15	11	5	8	13	3	6	7	11	10	6	28	0	1
+1	ND1	YP_004581266.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	24	1	18	15	8	1	1	6	13	1	2	0	3	4	6	1	8	1	6	1	2	6	3	0	3	3	1	0	3	1	11	6	9	10	7	1	4	0	6	1	9	2	9	1	2	1	20	2	5	11	12	3	2	11	4	0	7	4	2	4	3	16	1	0
+2	CYTB	YP_004581267.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	36	2	21	21	10	3	4	2	18	3	2	2	7	4	10	2	3	3	9	3	6	1	9	1	4	2	2	3	1	1	10	2	11	11	2	2	4	5	11	4	4	2	8	1	4	0	14	5	5	17	8	3	4	2	8	0	5	5	6	1	6	19	1	0
+3	ND2	YP_004581268.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	21	2	29	17	10	5	9	4	13	1	5	0	2	5	12	1	3	3	4	1	0	3	5	0	7	0	0	0	1	1	15	2	9	9	4	2	4	3	6	2	8	4	7	5	2	2	18	5	7	10	14	8	1	8	2	1	2	5	9	0	5	22	1	0
+4	ND6	YP_004581269.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	22	0	10	8	3	0	2	1	3	2	1	0	3	2	2	2	3	0	3	3	0	1	2	1	4	0	0	0	2	2	13	3	9	7	6	2	2	0	3	1	2	1	4	0	2	0	6	1	2	7	5	2	4	6	3	1	3	2	2	3	4	9	1	0
+5	ATP6	YP_004581270.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	20	1	20	10	4	1	4	1	7	0	1	0	1	2	2	2	6	1	2	2	2	1	5	0	3	1	1	0	0	1	10	3	7	7	5	1	3	1	5	1	2	4	4	1	0	2	13	1	3	11	9	3	5	5	5	0	2	2	3	4	2	7	0	1
+6	ND4	YP_004581271.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	41	6	34	19	7	5	1	8	18	1	4	1	4	6	16	0	7	5	7	4	3	5	4	5	7	1	4	0	2	3	24	4	13	17	9	2	5	0	10	1	9	5	6	4	5	1	27	4	5	12	8	9	5	10	3	5	7	10	12	5	6	20	1	0
+7	COX3	YP_004581272.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	31	1	15	3	9	1	2	5	9	0	5	1	7	4	3	1	3	6	5	4	2	0	10	1	7	0	1	0	0	0	8	3	5	3	12	0	1	1	4	2	4	0	5	0	3	1	12	4	2	8	7	2	3	2	3	0	2	7	7	1	5	9	0	1
+8	COX2	YP_004581273.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	13	0	16	12	8	0	3	1	11	0	2	1	2	4	3	1	0	0	6	0	1	4	5	2	4	2	0	0	1	1	13	2	9	6	2	1	4	2	6	2	5	2	2	0	4	1	13	2	4	6	4	2	2	6	12	3	11	4	7	1	4	2	0	1
+9	ND4L	YP_004581274.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	6	0	10	3	3	0	2	0	4	1	0	0	0	1	3	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	10	2	8	3	0	0	3	0	1	1	0	2	1	0	1	1	4	0	0	4	3	1	1	3	1	0	4	0	3	1	1	3	1	0
+10	ND3	YP_004581275.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	19	1	9	4	5	0	1	1	4	0	2	0	2	2	5	0	0	0	1	2	1	2	0	0	2	0	1	0	2	0	6	0	3	1	0	1	0	0	1	1	3	0	1	0	0	0	4	2	0	3	2	0	1	1	1	1	2	6	4	1	3	4	0	1
+11	ATP8	YP_004581276.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	7	0	9	3	0	1	0	1	2	0	1	0	3	1	2	0	1	0	0	1	1	0	0	1	2	0	1	0	1	0	4	0	2	4	4	0	0	1	1	0	6	1	0	0	1	0	2	0	2	0	0	0	0	0	0	1	1	1	1	0	0	2	1	0
+12	COX1	YP_004581277.1	Euphyllia ancora	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Scleractinia, Caryophylliina, Caryophylliidae, Euphyllia	57	8	38	24	19	2	8	4	33	6	5	2	6	15	7	6	6	6	11	10	7	7	13	8	9	3	1	2	3	2	33	4	24	30	16	6	12	11	22	4	13	8	13	2	10	1	23	10	6	14	23	13	12	8	17	8	10	16	16	10	15	28	1	0

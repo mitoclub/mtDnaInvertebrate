@@ -1,65 +1,13 @@
-	YP_008082699.1|ND1	YP_008082700.1|ND2	YP_008082701.1|COX1	YP_008082702.1|COX2	YP_008082703.1|ATP8	YP_008082704.1|ATP6	YP_008082705.1|COX3	YP_008082706.1|ND3	YP_008082707.1|ND4L	YP_008082708.1|ND4	YP_008082709.1|ND5	YP_008082711.1|CYTB
-TTT	8	9	26	5	1	8	14	3	5	13	22	13
-TTC	9	4	16	5	1	6	10	5	1	3	14	15
-TTA	20	22	28	16	5	13	11	10	11	39	36	16
-TTG	4	2	1	1	0	3	0	1	1	3	2	0
-TCT	3	8	7	1	0	4	4	2	1	5	10	2
-TCC	2	6	7	1	0	2	0	1	4	7	8	3
-TCA	12	17	14	11	0	1	7	4	4	11	24	16
-TCG	2	0	0	0	1	0	1	1	0	0	1	1
-TAT	6	3	5	7	0	2	5	2	1	4	7	7
-TAC	5	4	13	2	1	1	6	0	0	8	7	8
-TGT	0	0	1	1	0	0	1	0	2	1	2	1
-TGC	0	1	0	1	0	0	1	1	1	3	4	2
-TGA	7	9	16	5	5	5	10	4	1	14	9	10
-TGG	1	2	1	0	0	0	2	1	0	5	6	3
-CTT	8	7	6	4	0	6	6	4	5	11	12	12
-CTC	4	3	7	3	0	5	2	3	1	10	10	6
-CTA	23	20	19	5	2	20	9	9	4	30	28	16
-CTG	2	6	1	0	0	2	2	1	0	3	1	4
-CCT	9	5	13	4	4	9	4	1	2	8	11	6
-CCC	3	3	5	3	2	3	1	4	0	8	8	7
-CCA	8	10	9	7	0	4	4	2	0	10	6	8
-CCG	4	0	1	0	2	1	3	1	1	1	1	1
-CAT	2	3	6	5	1	1	8	0	1	5	4	6
-CAC	3	5	13	3	1	3	8	0	3	9	8	5
-CAA	5	11	8	9	2	8	7	3	3	11	13	6
-CAG	2	0	0	0	0	0	1	0	0	0	2	0
-CGT	0	0	1	1	0	2	0	1	1	1	0	0
-CGC	0	0	0	0	0	0	0	0	2	0	2	0
-CGA	6	4	7	5	0	3	4	1	0	9	6	7
-CGG	1	0	0	0	0	0	1	0	0	1	2	1
-ATT	15	18	25	12	3	13	12	3	2	19	35	17
-ATC	14	15	15	7	1	9	8	3	1	17	16	14
-ATA	13	20	21	9	2	11	7	4	5	31	41	10
-ATG	2	5	4	1	1	3	1	1	1	3	4	4
-ACT	3	8	12	4	3	1	2	1	3	8	8	3
-ACC	6	10	5	1	1	5	7	2	1	11	17	9
-ACA	14	19	16	7	2	14	12	4	4	21	29	8
-ACG	0	0	1	0	0	0	0	0	0	0	1	0
-AAT	4	3	8	1	3	4	2	0	0	6	13	11
-AAC	9	11	9	4	1	6	0	3	2	11	21	10
-AAA	8	11	8	4	2	2	1	1	0	10	23	10
-AAG	0	0	0	0	1	0	1	0	0	1	1	0
-AGT	2	3	3	1	0	2	1	0	1	1	4	0
-AGC	1	3	2	2	0	2	2	0	2	6	9	0
-GTT	6	1	10	4	0	5	8	1	1	3	13	6
-GTC	0	1	5	2	0	0	2	1	0	2	6	3
-GTA	7	4	23	9	1	5	6	4	0	4	6	11
-GTG	0	1	3	5	0	2	0	0	2	0	3	4
-GCT	3	7	16	4	1	5	5	1	5	8	15	8
-GCC	7	6	9	1	0	3	7	4	2	9	16	9
-GCA	18	9	18	11	2	9	7	3	3	15	10	16
-GCG	1	1	1	0	0	0	2	0	0	1	2	2
-GAT	1	1	8	5	0	0	4	1	0	3	6	6
-GAC	2	1	6	8	0	1	1	2	1	1	3	5
-GAA	8	5	11	14	2	4	10	4	2	11	8	5
-GAG	3	1	0	1	0	0	0	2	0	0	5	0
-GGT	4	4	18	2	0	2	6	0	0	6	6	3
-GGC	2	5	4	1	1	2	2	1	0	5	3	6
-GGA	10	6	20	5	0	4	11	4	3	9	13	15
-GGG	2	3	5	0	0	1	2	1	2	5	8	3
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008082699.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	8	9	20	4	3	2	12	2	6	5	0	0	7	1	8	4	23	2	9	3	8	4	2	3	5	2	0	0	6	1	15	14	13	2	3	6	14	0	4	9	8	0	2	1	6	0	7	0	3	7	18	1	1	2	8	3	4	2	10	2	1	0	0	0
+1	ND2	YP_008082700.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	9	4	22	2	8	6	17	0	3	4	0	1	9	2	7	3	20	6	5	3	10	0	3	5	11	0	0	0	4	0	18	15	20	5	8	10	19	0	3	11	11	0	3	3	1	1	4	1	7	6	9	1	1	1	5	1	4	5	6	3	0	0	0	0
+2	COX1	YP_008082701.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	26	16	28	1	7	7	14	0	5	13	1	0	16	1	6	7	19	1	13	5	9	1	6	13	8	0	1	0	7	0	25	15	21	4	12	5	16	1	8	9	8	0	3	2	10	5	23	3	16	9	18	1	8	6	11	0	18	4	20	5	1	0	0	0
+3	COX2	YP_008082702.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	5	5	16	1	1	1	11	0	7	2	1	1	5	0	4	3	5	0	4	3	7	0	5	3	9	0	1	0	5	0	12	7	9	1	4	1	7	0	1	4	4	0	1	2	4	2	9	5	4	1	11	0	5	8	14	1	2	1	5	0	0	0	0	0
+4	ATP8	YP_008082703.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	1	1	5	0	0	0	0	1	0	1	0	0	5	0	0	0	2	0	4	2	0	2	1	1	2	0	0	0	0	0	3	1	2	1	3	1	2	0	3	1	2	1	0	0	0	0	1	0	1	0	2	0	0	0	2	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_008082704.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	8	6	13	3	4	2	1	0	2	1	0	0	5	0	6	5	20	2	9	3	4	1	1	3	8	0	2	0	3	0	13	9	11	3	1	5	14	0	4	6	2	0	2	2	5	0	5	2	5	3	9	0	0	1	4	0	2	2	4	1	0	0	0	0
+6	COX3	YP_008082705.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	14	10	11	0	4	0	7	1	5	6	1	1	10	2	6	2	9	2	4	1	4	3	8	8	7	1	0	0	4	1	12	8	7	1	2	7	12	0	2	0	1	1	1	2	8	2	6	0	5	7	7	2	4	1	10	0	6	2	11	2	0	0	0	0
+7	ND3	YP_008082706.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	3	5	10	1	2	1	4	1	2	0	0	1	4	1	4	3	9	1	1	4	2	1	0	0	3	0	1	0	1	0	3	3	4	1	1	2	4	0	0	3	1	0	0	0	1	1	4	0	1	4	3	0	1	2	4	2	0	1	4	1	0	0	0	0
+8	ND4L	YP_008082707.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	5	1	11	1	1	4	4	0	1	0	2	1	1	0	5	1	4	0	2	0	0	1	1	3	3	0	1	2	0	0	2	1	5	1	3	1	4	0	0	2	0	0	1	2	1	0	0	2	5	2	3	0	0	1	2	0	0	0	3	2	1	0	0	0
+9	ND4	YP_008082708.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	13	3	39	3	5	7	11	0	4	8	1	3	14	5	11	10	30	3	8	8	10	1	5	9	11	0	1	0	9	1	19	17	31	3	8	11	21	0	6	11	10	1	1	6	3	2	4	0	8	9	15	1	3	1	11	0	6	5	9	5	0	0	0	0
+10	ND5	YP_008082709.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	22	14	36	2	10	8	24	1	7	7	2	4	9	6	12	10	28	1	11	8	6	1	4	8	13	2	0	2	6	2	35	16	41	4	8	17	29	1	13	21	23	1	4	9	13	6	6	3	15	16	10	2	6	3	8	5	6	3	13	8	1	0	0	0
+11	CYTB	YP_008082711.1	Hippocampus histrix	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Syngnathiaria, Syngnathiformes, Syngnathoidei, Syngnathidae, Hippocampus	13	15	16	0	2	3	16	1	7	8	1	2	10	3	12	6	16	4	6	7	8	1	6	5	6	0	0	0	7	1	17	14	10	4	3	9	8	0	11	10	10	0	0	0	6	3	11	4	8	9	16	2	6	5	5	0	3	6	15	3	0	0	0	0

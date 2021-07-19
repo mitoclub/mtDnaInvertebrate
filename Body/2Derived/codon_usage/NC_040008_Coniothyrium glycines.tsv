@@ -1,65 +1,19 @@
-	YP_009543488.1	YP_009543489.1|atp6	YP_009543490.1	YP_009543491.1|cox1	YP_009543492.1	YP_009543493.1	YP_009543494.1	YP_009543495.1	YP_009543496.1	YP_009543497.1	YP_009543498.1|cox2	YP_009543499.1	YP_009543500.1	YP_009543501.1	YP_009543502.1|rps3	YP_009543519.1|orf1407	YP_009543521.1|nad6	YP_009543522.1|orf208
-TTT	29	17	12	34	22	20	11	18	20	14	9	7	24	26	28	34	9	11
-TTC	6	8	2	22	1	6	2	4	1	2	6	2	5	3	2	19	2	1
-TTA	26	32	24	65	33	12	12	25	14	12	25	13	32	43	22	72	29	6
-TTG	6	1	2	3	4	3	4	2	4	4	1	2	3	7	6	10	3	7
-TCT	15	8	13	16	25	11	5	16	6	8	9	6	19	10	15	42	8	7
-TCC	3	0	1	0	2	1	3	5	2	1	1	1	0	2	2	9	1	2
-TCA	8	4	7	13	11	5	7	12	5	3	5	5	6	9	7	27	1	5
-TCG	0	2	0	0	1	1	2	3	0	0	0	1	2	1	3	7	0	0
-TAT	27	5	16	10	28	8	11	17	23	11	5	19	15	18	17	58	11	10
-TAC	6	4	2	16	9	2	3	12	2	4	6	5	7	8	4	21	1	2
-TGT	8	2	4	3	1	3	3	2	4	4	4	2	4	4	0	8	2	2
-TGC	0	0	0	0	0	0	3	1	1	0	0	0	1	1	1	1	0	1
-TGA	8	1	1	13	3	6	4	3	4	2	6	0	2	1	5	16	2	1
-TGG	3	0	2	0	0	1	4	2	0	1	0	0	0	1	1	2	0	0
-CTT	10	4	4	14	9	5	5	5	8	2	4	8	5	6	7	27	1	0
-CTC	3	0	0	0	0	0	0	3	1	2	0	1	1	1	0	4	0	1
-CTA	13	4	7	5	2	4	10	6	5	2	3	3	3	7	7	20	3	3
-CTG	2	0	0	1	3	1	0	3	3	0	0	2	2	0	1	2	0	0
-CCT	14	4	4	19	7	7	5	9	2	4	9	5	11	10	4	24	3	1
-CCC	3	0	2	0	1	0	0	1	1	0	0	1	0	0	1	3	0	1
-CCA	6	4	1	13	3	3	2	0	2	2	3	1	4	5	3	11	0	3
-CCG	1	1	0	0	0	0	1	0	1	1	0	0	0	2	0	2	0	0
-CAT	8	5	6	14	6	6	5	10	3	6	3	6	3	6	7	26	2	3
-CAC	5	1	0	5	2	0	4	2	2	0	3	0	5	2	0	2	0	2
-CAA	11	7	8	9	15	8	8	9	7	6	8	10	10	5	5	33	0	3
-CAG	6	0	1	3	2	0	4	2	0	0	0	0	1	1	1	7	0	2
-CGT	6	1	3	3	9	0	13	2	1	1	0	2	6	3	5	4	0	4
-CGC	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
-CGA	1	0	0	0	3	0	0	0	1	0	0	0	0	1	2	2	0	0
-CGG	1	0	0	0	0	0	0	2	1	0	0	0	0	0	0	3	0	0
-ATT	36	12	10	25	16	12	11	13	12	10	11	11	7	19	22	53	10	12
-ATC	3	3	5	6	1	1	2	4	0	2	7	1	0	1	3	14	1	0
-ATA	22	16	21	31	27	13	7	24	15	10	4	10	18	24	27	60	21	8
-ATG	16	5	6	16	9	3	5	7	7	3	5	6	2	5	10	23	6	5
-ACT	19	6	10	17	14	9	13	14	5	6	3	12	8	12	5	41	3	5
-ACC	4	0	0	2	4	1	2	2	0	3	0	2	2	2	5	6	1	0
-ACA	14	8	10	15	9	6	3	7	8	7	5	7	10	9	7	38	5	8
-ACG	2	0	0	2	2	0	0	0	0	0	0	1	2	4	1	8	2	0
-AAT	38	12	18	17	36	20	20	27	25	26	6	13	25	29	29	76	14	8
-AAC	19	5	6	11	15	8	6	12	13	5	2	4	6	6	14	29	0	6
-AAA	42	7	35	21	57	21	14	27	25	22	5	39	29	52	57	97	6	12
-AAG	11	0	4	4	10	4	2	12	2	11	1	4	15	7	6	37	0	9
-AGT	15	8	3	22	18	6	9	11	5	8	8	12	10	13	17	48	7	3
-AGC	4	3	5	2	2	0	2	0	1	2	1	0	3	2	7	2	0	1
-AGA	14	3	10	11	7	10	4	12	16	6	6	6	9	15	21	33	1	6
-AGG	5	0	3	0	3	1	0	1	0	0	0	0	0	0	1	2	0	0
-GTT	16	7	8	23	15	11	6	14	11	2	9	5	7	11	5	19	6	1
-GTC	1	1	1	0	0	0	1	3	1	1	0	1	2	1	0	1	1	0
-GTA	9	4	8	23	14	9	12	10	8	5	8	2	10	11	9	22	6	2
-GTG	2	1	0	3	0	2	2	1	0	0	0	1	2	1	2	8	2	0
-GCT	12	12	2	29	10	2	12	9	5	2	10	5	7	4	3	14	3	4
-GCC	2	0	1	4	1	1	1	1	1	2	0	0	0	1	3	1	0	0
-GCA	9	4	2	12	7	4	5	7	1	5	5	1	6	4	3	8	0	4
-GCG	1	1	0	4	1	1	2	0	3	1	0	0	2	1	1	5	2	2
-GAT	32	3	14	26	24	12	7	12	13	3	14	11	15	22	5	97	1	1
-GAC	11	0	1	5	10	0	3	0	8	6	1	2	3	6	3	16	2	4
-GAA	29	5	11	16	38	16	7	21	15	12	13	12	12	19	7	80	4	14
-GAG	16	1	5	3	4	3	6	5	4	5	3	4	4	4	6	24	1	5
-GGT	18	6	9	31	22	7	13	11	6	8	9	13	6	12	6	27	8	4
-GGC	0	0	1	0	3	0	4	0	1	0	0	1	1	1	0	0	0	1
-GGA	10	7	1	17	3	8	4	3	4	8	3	5	7	5	0	16	3	2
-GGG	2	2	4	8	2	2	2	5	1	1	1	1	0	2	2	6	1	3
-TAA	1	0	0	0	1	1	0	1	1	1	1	1	0	1	1	1	0	1
-TAG	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009543488.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	29	6	26	6	15	3	8	0	27	6	8	0	8	3	10	3	13	2	14	3	6	1	8	5	11	6	6	0	1	1	36	3	22	16	19	4	14	2	38	19	42	11	15	4	14	5	16	1	9	2	12	2	9	1	32	11	29	16	18	0	10	2	1	0
+1	atp6	YP_009543489.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	17	8	32	1	8	0	4	2	5	4	2	0	1	0	4	0	4	0	4	0	4	1	5	1	7	0	1	0	0	0	12	3	16	5	6	0	8	0	12	5	7	0	8	3	3	0	7	1	4	1	12	0	4	1	3	0	5	1	6	0	7	2	0	1
+2	None	YP_009543490.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	12	2	24	2	13	1	7	0	16	2	4	0	1	2	4	0	7	0	4	2	1	0	6	0	8	1	3	0	0	0	10	5	21	6	10	0	10	0	18	6	35	4	3	5	10	3	8	1	8	0	2	1	2	0	14	1	11	5	9	1	1	4	0	1
+3	cox1	YP_009543491.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	34	22	65	3	16	0	13	0	10	16	3	0	13	0	14	0	5	1	19	0	13	0	14	5	9	3	3	0	0	0	25	6	31	16	17	2	15	2	17	11	21	4	22	2	11	0	23	0	23	3	29	4	12	4	26	5	16	3	31	0	17	8	0	0
+4	None	YP_009543492.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	22	1	33	4	25	2	11	1	28	9	1	0	3	0	9	0	2	3	7	1	3	0	6	2	15	2	9	0	3	0	16	1	27	9	14	4	9	2	36	15	57	10	18	2	7	3	15	0	14	0	10	1	7	1	24	10	38	4	22	3	3	2	1	0
+5	None	YP_009543493.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	20	6	12	3	11	1	5	1	8	2	3	0	6	1	5	0	4	1	7	0	3	0	6	0	8	0	0	0	0	0	12	1	13	3	9	1	6	0	20	8	21	4	6	0	10	1	11	0	9	2	2	1	4	1	12	0	16	3	7	0	8	2	1	0
+6	None	YP_009543494.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	11	2	12	4	5	3	7	2	11	3	3	3	4	4	5	0	10	0	5	0	2	1	5	4	8	4	13	2	0	0	11	2	7	5	13	2	3	0	20	6	14	2	9	2	4	0	6	1	12	2	12	1	5	2	7	3	7	6	13	4	4	2	0	1
+7	None	YP_009543495.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	18	4	25	2	16	5	12	3	17	12	2	1	3	2	5	3	6	3	9	1	0	0	10	2	9	2	2	0	0	2	13	4	24	7	14	2	7	0	27	12	27	12	11	0	12	1	14	3	10	1	9	1	7	0	12	0	21	5	11	0	3	5	1	0
+8	None	YP_009543496.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	20	1	14	4	6	2	5	0	23	2	4	1	4	0	8	1	5	3	2	1	2	1	3	2	7	0	1	0	1	1	12	0	15	7	5	0	8	0	25	13	25	2	5	1	16	0	11	1	8	0	5	1	1	3	13	8	15	4	6	1	4	1	1	0
+9	None	YP_009543497.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	14	2	12	4	8	1	3	0	11	4	4	0	2	1	2	2	2	0	4	0	2	1	6	0	6	0	1	0	0	0	10	2	10	3	6	3	7	0	26	5	22	11	8	2	6	0	2	1	5	0	2	2	5	1	3	6	12	5	8	0	8	1	1	0
+10	cox2	YP_009543498.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	9	6	25	1	9	1	5	0	5	6	4	0	6	0	4	0	3	0	9	0	3	0	3	3	8	0	0	0	0	0	11	7	4	5	3	0	5	0	6	2	5	1	8	1	6	0	9	0	8	0	10	0	5	0	14	1	13	3	9	0	3	1	1	0
+11	None	YP_009543499.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	7	2	13	2	6	1	5	1	19	5	2	0	0	0	8	1	3	2	5	1	1	0	6	0	10	0	2	0	0	0	11	1	10	6	12	2	7	1	13	4	39	4	12	0	6	0	5	1	2	1	5	0	1	0	11	2	12	4	13	1	5	1	1	0
+12	None	YP_009543500.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	24	5	32	3	19	0	6	2	15	7	4	1	2	0	5	1	3	2	11	0	4	0	3	5	10	1	6	0	0	0	7	0	18	2	8	2	10	2	25	6	29	15	10	3	9	0	7	2	10	2	7	0	6	2	15	3	12	4	6	1	7	0	0	1
+13	None	YP_009543501.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	26	3	43	7	10	2	9	1	18	8	4	1	1	1	6	1	7	0	10	0	5	2	6	2	5	1	3	0	1	0	19	1	24	5	12	2	9	4	29	6	52	7	13	2	15	0	11	1	11	1	4	1	4	1	22	6	19	4	12	1	5	2	1	0
+14	rps3	YP_009543502.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	28	2	22	6	15	2	7	3	17	4	0	1	5	1	7	0	7	1	4	1	3	0	7	0	5	1	5	0	2	0	22	3	27	10	5	5	7	1	29	14	57	6	17	7	21	1	5	0	9	2	3	3	3	1	5	3	7	6	6	0	0	2	1	0
+15	orf1407	YP_009543519.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	34	19	72	10	42	9	27	7	58	21	8	1	16	2	27	4	20	2	24	3	11	2	26	2	33	7	4	0	2	3	53	14	60	23	41	6	38	8	76	29	97	37	48	2	33	2	19	1	22	8	14	1	8	5	97	16	80	24	27	0	16	6	1	0
+16	nad6	YP_009543521.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	9	2	29	3	8	1	1	0	11	1	2	0	2	0	1	0	3	0	3	0	0	0	2	0	0	0	0	0	0	0	10	1	21	6	3	1	5	2	14	0	6	0	7	0	1	0	6	1	6	2	3	0	0	2	1	2	4	1	8	0	3	1	0	1
+17	orf208	YP_009543522.1	Coniothyrium glycines	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Coniothyriaceae, Coniothyrium	11	1	6	7	7	2	5	0	10	2	2	1	1	0	0	1	3	0	1	1	3	0	3	2	3	2	4	0	0	0	12	0	8	5	5	0	8	0	8	6	12	9	3	1	6	0	1	0	2	0	4	0	4	2	1	4	14	5	4	1	2	3	1	0

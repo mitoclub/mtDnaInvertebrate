@@ -1,65 +1,13 @@
-	YP_004935492.1|ND1	YP_004935493.1|ND2	YP_004935494.1|COX1	YP_004935495.1|COX2	YP_004935496.1|ATP8	YP_004935497.1|ATP6	YP_004935498.1|COX3	YP_004935499.1|ND3	YP_004935500.1|ND4L	YP_004935501.1|ND4	YP_004935502.1|ND5	YP_004935504.1|CYTB
-TTT	8	4	17	3	2	6	6	3	4	5	12	4
-TTC	14	11	26	3	1	6	19	7	3	9	32	26
-TTA	7	11	12	4	2	10	4	4	5	9	16	6
-TTG	0	0	0	1	0	0	0	1	0	1	1	1
-TCT	4	1	7	4	0	3	5	0	2	6	6	2
-TCC	4	15	7	8	3	4	3	0	1	11	13	4
-TCA	9	10	13	6	3	5	8	4	5	12	23	13
-TCG	2	0	0	0	1	0	1	0	0	0	0	1
-TAT	3	3	4	2	1	1	3	1	0	1	5	6
-TAC	10	6	14	7	0	1	7	2	2	13	9	10
-TGT	0	0	0	0	0	0	1	0	0	1	1	1
-TGC	1	0	1	2	0	0	1	1	3	2	7	2
-TGA	8	8	16	5	3	3	11	3	0	11	13	10
-TGG	1	0	1	0	0	0	1	1	0	2	0	1
-CTT	8	9	11	8	3	6	4	3	0	12	9	8
-CTC	7	11	12	6	1	5	8	5	1	13	11	9
-CTA	30	27	24	13	3	23	16	9	10	48	43	27
-CTG	3	7	0	1	1	1	2	1	2	4	6	0
-CCT	4	4	5	3	2	5	4	1	2	0	2	3
-CCC	8	7	3	3	1	2	1	3	2	9	9	4
-CCA	11	9	19	8	3	5	6	4	0	13	16	13
-CCG	0	0	1	0	0	0	0	0	0	0	0	1
-CAT	3	0	6	1	0	2	5	0	0	3	3	2
-CAC	2	7	14	5	1	6	11	1	2	8	8	10
-CAA	6	8	5	6	5	6	7	1	2	10	11	6
-CAG	0	1	1	0	0	1	0	1	0	1	2	0
-CGT	0	0	0	2	0	0	1	1	0	1	0	0
-CGC	0	0	2	0	0	2	2	0	0	0	4	1
-CGA	6	2	6	4	0	3	2	0	1	8	5	7
-CGG	2	1	0	0	0	0	0	0	0	0	0	0
-ATT	8	18	22	7	1	18	9	3	4	23	21	15
-ATC	18	23	15	12	5	10	7	5	4	28	45	29
-ATA	16	26	23	12	3	11	7	6	7	25	29	13
-ATG	2	3	8	3	1	2	1	1	1	7	3	2
-ACT	4	2	8	4	1	6	3	0	2	1	6	2
-ACC	8	12	7	3	2	3	10	2	3	12	26	6
-ACA	10	16	21	6	5	11	8	5	2	19	30	18
-ACG	0	1	1	2	1	1	0	0	1	2	0	0
-AAT	3	5	10	1	1	3	1	2	0	3	7	3
-AAC	11	18	6	7	2	4	8	4	5	22	25	14
-AAA	7	12	9	5	5	6	2	3	1	13	21	9
-AAG	0	1	1	0	0	0	1	0	0	0	2	0
-AGT	0	0	0	0	0	0	0	0	0	4	0	0
-AGC	4	1	3	4	0	4	3	1	0	9	10	0
-GTT	1	0	7	4	0	2	5	0	0	3	4	6
-GTC	3	3	10	4	1	4	3	2	1	4	2	7
-GTA	10	2	20	3	0	4	7	3	4	7	10	7
-GTG	1	0	2	2	0	0	0	0	0	0	1	0
-GCT	1	2	11	2	0	0	2	3	3	6	8	4
-GCC	14	13	16	4	0	12	7	4	3	19	18	13
-GCA	10	6	14	2	0	3	6	3	3	8	17	9
-GCG	0	0	1	1	0	0	0	0	0	0	0	0
-GAT	1	1	6	5	1	0	1	1	0	0	4	7
-GAC	2	0	10	7	0	1	3	1	1	3	9	6
-GAA	11	5	9	11	2	2	6	5	0	7	8	6
-GAG	0	1	1	3	0	1	1	1	2	3	2	0
-GGT	2	0	6	1	0	2	1	0	0	1	3	1
-GGC	3	2	16	0	0	4	8	2	1	3	12	12
-GGA	6	8	18	6	0	5	10	1	2	12	12	8
-GGG	1	1	6	1	0	1	2	0	1	2	1	5
-TAA	0	1	1	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004935492.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	8	14	7	0	4	4	9	2	3	10	0	1	8	1	8	7	30	3	4	8	11	0	3	2	6	0	0	0	6	2	8	18	16	2	4	8	10	0	3	11	7	0	0	4	1	3	10	1	1	14	10	0	1	2	11	0	2	3	6	1	0	0	0	0
+1	ND2	YP_004935493.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	4	11	11	0	1	15	10	0	3	6	0	0	8	0	9	11	27	7	4	7	9	0	0	7	8	1	0	0	2	1	18	23	26	3	2	12	16	1	5	18	12	1	0	1	0	3	2	0	2	13	6	0	1	0	5	1	0	2	8	1	1	0	0	0
+2	COX1	YP_004935494.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	17	26	12	0	7	7	13	0	4	14	0	1	16	1	11	12	24	0	5	3	19	1	6	14	5	1	0	2	6	0	22	15	23	8	8	7	21	1	10	6	9	1	0	3	7	10	20	2	11	16	14	1	6	10	9	1	6	16	18	6	1	0	0	0
+3	COX2	YP_004935495.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	3	3	4	1	4	8	6	0	2	7	0	2	5	0	8	6	13	1	3	3	8	0	1	5	6	0	2	0	4	0	7	12	12	3	4	3	6	2	1	7	5	0	0	4	4	4	3	2	2	4	2	1	5	7	11	3	1	0	6	1	1	0	0	0
+4	ATP8	YP_004935496.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	2	1	2	0	0	3	3	1	1	0	0	0	3	0	3	1	3	1	2	1	3	0	0	1	5	0	0	0	0	0	1	5	3	1	1	2	5	1	1	2	5	0	0	0	0	1	0	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004935497.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	6	6	10	0	3	4	5	0	1	1	0	0	3	0	6	5	23	1	5	2	5	0	2	6	6	1	0	2	3	0	18	10	11	2	6	3	11	1	3	4	6	0	0	4	2	4	4	0	0	12	3	0	0	1	2	1	2	4	5	1	1	0	0	0
+6	COX3	YP_004935498.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	6	19	4	0	5	3	8	1	3	7	1	1	11	1	4	8	16	2	4	1	6	0	5	11	7	0	1	2	2	0	9	7	7	1	3	10	8	0	1	8	2	1	0	3	5	3	7	0	2	7	6	0	1	3	6	1	1	8	10	2	0	0	0	0
+7	ND3	YP_004935499.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	3	7	4	1	0	0	4	0	1	2	0	1	3	1	3	5	9	1	1	3	4	0	0	1	1	1	1	0	0	0	3	5	6	1	0	2	5	0	2	4	3	0	0	1	0	2	3	0	3	4	3	0	1	1	5	1	0	2	1	0	1	0	0	0
+8	ND4L	YP_004935500.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	4	3	5	0	2	1	5	0	0	2	0	3	0	0	0	1	10	2	2	2	0	0	0	2	2	0	0	0	1	0	4	4	7	1	2	3	2	1	0	5	1	0	0	0	0	1	4	0	3	3	3	0	0	1	0	2	0	1	2	1	1	0	0	0
+9	ND4	YP_004935501.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	5	9	9	1	6	11	12	0	1	13	1	2	11	2	12	13	48	4	0	9	13	0	3	8	10	1	1	0	8	0	23	28	25	7	1	12	19	2	3	22	13	0	4	9	3	4	7	0	6	19	8	0	0	3	7	3	1	3	12	2	0	0	0	0
+10	ND5	YP_004935502.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	12	32	16	1	6	13	23	0	5	9	1	7	13	0	9	11	43	6	2	9	16	0	3	8	11	2	0	4	5	0	21	45	29	3	6	26	30	0	7	25	21	2	0	10	4	2	10	1	8	18	17	0	4	9	8	2	3	12	12	1	1	0	0	0
+11	CYTB	YP_004935504.1	Myodes regulus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Cricetidae, Arvicolinae, Myodes	4	26	6	1	2	4	13	1	6	10	1	2	10	1	8	9	27	0	3	4	13	1	2	10	6	0	0	1	7	0	15	29	13	2	2	6	18	0	3	14	9	0	0	0	6	7	7	0	4	13	9	0	7	6	6	0	1	12	8	5	1	0	0	0

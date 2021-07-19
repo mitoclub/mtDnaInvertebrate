@@ -1,65 +1,13 @@
-	YP_659564.1|ND1	YP_659565.1|ND2	YP_659566.1|COX1	YP_659567.1|COX2	YP_659568.1|ATP8	YP_659569.1|ATP6	YP_659570.1|COX3	YP_659571.1|ND3	YP_659572.1|ND4L	YP_659573.1|ND4	YP_659574.1|ND5	YP_659576.1|CYTB
-TTT	13	8	19	6	1	5	11	5	3	13	15	8
-TTC	9	8	23	7	2	9	17	3	6	5	23	24
-TTA	10	15	11	7	1	5	2	2	4	11	15	3
-TTG	2	1	1	0	1	1	1	0	1	3	1	1
-TCT	3	6	9	2	3	2	1	2	3	5	11	5
-TCC	7	7	10	3	1	4	6	3	2	13	16	5
-TCA	13	8	9	5	0	3	5	2	2	7	9	8
-TCG	0	2	1	0	0	0	0	0	2	1	1	0
-TAT	6	3	8	2	0	1	5	0	0	4	3	4
-TAC	3	7	9	6	0	2	3	3	0	8	11	9
-TGT	0	1	0	0	1	0	0	1	1	0	3	0
-TGC	0	2	2	2	0	0	1	0	3	4	4	3
-TGA	6	10	16	4	5	5	12	4	1	9	12	11
-TGG	2	0	1	1	0	0	0	1	0	8	1	0
-CTT	10	12	12	13	2	19	7	6	3	32	32	17
-CTC	20	12	15	4	3	7	9	7	6	17	26	17
-CTA	16	17	23	8	2	18	10	12	5	19	29	18
-CTG	2	7	4	1	1	5	2	1	2	9	7	8
-CCT	3	6	6	1	3	1	3	1	1	7	5	7
-CCC	13	5	13	9	3	8	5	3	1	17	20	12
-CCA	5	3	9	3	2	7	4	3	0	3	4	4
-CCG	3	1	1	0	0	1	1	1	0	0	1	0
-CAT	0	1	6	3	0	2	5	1	3	4	3	4
-CAC	1	6	13	4	1	3	13	0	1	7	10	8
-CAA	5	9	7	6	2	5	7	2	1	11	17	4
-CAG	1	0	1	0	0	1	1	0	0	1	4	2
-CGT	2	1	1	1	0	0	1	0	0	2	1	1
-CGC	2	2	0	3	0	2	3	1	0	2	1	2
-CGA	3	1	7	2	1	4	2	0	0	6	7	5
-CGG	1	0	2	0	0	0	0	1	2	1	1	0
-ATT	10	25	17	12	1	8	4	2	0	25	24	6
-ATC	9	10	17	6	0	8	7	6	1	15	26	17
-ATA	9	16	13	9	1	3	5	1	2	20	19	10
-ATG	4	4	10	2	1	4	4	1	0	7	7	1
-ACT	6	6	6	5	0	5	5	0	0	7	16	8
-ACC	7	9	12	2	4	5	6	2	5	13	16	11
-ACA	8	15	11	6	1	10	15	2	5	15	16	10
-ACG	0	0	0	0	0	0	0	1	0	1	2	0
-AAT	2	6	9	2	1	2	1	0	1	6	10	7
-AAC	7	4	5	2	1	7	0	2	1	6	14	10
-AAA	8	9	7	3	0	1	1	1	3	9	21	7
-AAG	0	0	1	2	0	0	0	0	0	2	1	2
-AGT	3	2	0	1	0	1	1	0	0	1	5	0
-AGC	1	4	5	3	0	4	2	0	1	7	10	3
-GTT	7	3	11	4	3	2	10	1	1	7	13	10
-GTC	4	1	11	7	0	6	4	1	0	6	6	5
-GTA	7	6	14	4	1	3	6	3	0	5	7	10
-GTG	2	3	7	0	0	1	0	0	2	1	2	4
-GCT	3	5	8	2	0	1	3	2	3	9	3	4
-GCC	20	19	28	5	1	13	6	8	9	17	28	16
-GCA	12	11	14	11	1	6	10	2	3	10	17	6
-GCG	1	0	1	0	0	1	0	0	0	2	1	1
-GAT	1	0	5	4	0	0	0	1	0	0	1	6
-GAC	4	3	10	12	0	0	5	5	2	2	11	5
-GAA	9	6	6	12	2	5	6	2	2	9	8	5
-GAG	2	1	3	1	1	1	4	3	0	3	2	0
-GGT	0	2	13	1	0	1	0	0	1	6	2	4
-GGC	5	11	12	2	0	3	12	3	0	10	17	13
-GGA	7	5	14	1	0	3	6	2	2	7	8	6
-GGG	4	2	6	4	0	3	1	0	1	3	6	2
-TAA	1	0	0	0	1	0	0	0	1	0	0	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	1	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_659564.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	13	9	10	2	3	7	13	0	6	3	0	0	6	2	10	20	16	2	3	13	5	3	0	1	5	1	2	2	3	1	10	9	9	4	6	7	8	0	2	7	8	0	3	1	7	4	7	2	3	20	12	1	1	4	9	2	0	5	7	4	1	0	0	0
+1	ND2	YP_659565.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	8	8	15	1	6	7	8	2	3	7	1	2	10	0	12	12	17	7	6	5	3	1	1	6	9	0	1	2	1	0	25	10	16	4	6	9	15	0	6	4	9	0	2	4	3	1	6	3	5	19	11	0	0	3	6	1	2	11	5	2	0	1	0	0
+2	COX1	YP_659566.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	19	23	11	1	9	10	9	1	8	9	0	2	16	1	12	15	23	4	6	13	9	1	6	13	7	1	1	0	7	2	17	17	13	10	6	12	11	0	9	5	7	1	0	5	11	11	14	7	8	28	14	1	5	10	6	3	13	12	14	6	0	0	1	0
+3	COX2	YP_659567.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	6	7	7	0	2	3	5	0	2	6	0	2	4	1	13	4	8	1	1	9	3	0	3	4	6	0	1	3	2	0	12	6	9	2	5	2	6	0	2	2	3	2	1	3	4	7	4	0	2	5	11	0	4	12	12	1	1	2	1	4	0	0	0	0
+4	ATP8	YP_659568.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	1	2	1	1	3	1	0	0	0	0	1	0	5	0	2	3	2	1	3	3	2	0	0	1	2	0	0	0	1	0	1	0	1	1	0	4	1	0	1	1	0	0	0	0	3	0	1	0	0	1	1	0	0	0	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_659569.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	5	9	5	1	2	4	3	0	1	2	0	0	5	0	19	7	18	5	1	8	7	1	2	3	5	1	0	2	4	0	8	8	3	4	5	5	10	0	2	7	1	0	1	4	2	6	3	1	1	13	6	1	0	0	5	1	1	3	3	3	0	0	0	0
+6	COX3	YP_659570.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	11	17	2	1	1	6	5	0	5	3	0	1	12	0	7	9	10	2	3	5	4	1	5	13	7	1	1	3	2	0	4	7	5	4	5	6	15	0	1	0	1	0	1	2	10	4	6	0	3	6	10	0	0	5	6	4	0	12	6	1	0	0	0	0
+7	ND3	YP_659571.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	5	3	2	0	2	3	2	0	0	3	1	0	4	1	6	7	12	1	1	3	3	1	1	0	2	0	0	1	0	1	2	6	1	1	0	2	2	1	0	2	1	0	0	0	1	1	3	0	2	8	2	0	1	5	2	3	0	3	2	0	0	0	0	0
+8	ND4L	YP_659572.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	3	6	4	1	3	2	2	2	0	0	1	3	1	0	3	6	5	2	1	1	0	0	3	1	1	0	0	0	0	2	0	1	2	0	0	5	5	0	1	1	3	0	0	1	1	0	0	2	3	9	3	0	0	2	2	0	1	0	2	1	1	0	0	0
+9	ND4	YP_659573.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	13	5	11	3	5	13	7	1	4	8	0	4	9	8	32	17	19	9	7	17	3	0	4	7	11	1	2	2	6	1	25	15	20	7	7	13	15	1	6	6	9	2	1	7	7	6	5	1	9	17	10	2	0	2	9	3	6	10	7	3	0	0	0	0
+10	ND5	YP_659574.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	15	23	15	1	11	16	9	1	3	11	3	4	12	1	32	26	29	7	5	20	4	1	3	10	17	4	1	1	7	1	24	26	19	7	16	16	16	2	10	14	21	1	5	10	13	6	7	2	3	28	17	1	1	11	8	2	2	17	8	6	0	0	1	0
+11	CYTB	YP_659576.1	Ventrifossa garmani	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Zeiogadaria, Gadariae, Gadiformes, Macrouroidei, Macrouridae, Macrourinae, Ventrifossa	8	24	3	1	5	5	8	0	4	9	0	3	11	0	17	17	18	8	7	12	4	0	4	8	4	2	1	2	5	0	6	17	10	1	8	11	10	0	7	10	7	2	0	3	10	5	10	4	4	16	6	1	6	5	5	0	4	13	6	2	0	0	1	0

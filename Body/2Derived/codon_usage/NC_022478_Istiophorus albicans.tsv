@@ -1,65 +1,13 @@
-	YP_008593366.1|ND1	YP_008593367.1|ND2	YP_008593368.1|COX1	YP_008593369.1|COX2	YP_008593370.1|ATP8	YP_008593371.1|ATP6	YP_008593372.1|COX3	YP_008593373.1|ND3	YP_008593374.1|ND4L	YP_008593375.1|ND4	YP_008593376.1|ND5	YP_008593378.1|CYTB
-TTT	6	5	13	5	2	3	7	4	3	6	8	7
-TTC	12	9	29	5	2	9	14	5	4	11	32	23
-TTA	6	10	2	4	2	7	3	3	4	14	9	6
-TTG	0	1	0	0	0	1	1	0	1	1	0	0
-TCT	5	0	8	2	2	0	1	3	2	7	7	4
-TCC	9	11	8	4	1	2	5	4	3	13	13	8
-TCA	3	8	6	4	0	2	6	0	3	5	13	7
-TCG	0	2	2	1	0	0	0	0	0	0	0	1
-TAT	4	4	6	3	0	2	0	1	0	5	7	4
-TAC	7	3	12	5	1	3	9	1	1	9	4	10
-TGT	0	0	0	0	0	0	0	1	1	0	1	0
-TGC	0	0	1	2	0	0	2	0	2	4	5	3
-TGA	7	9	17	5	4	5	12	3	0	11	11	13
-TGG	1	2	0	0	1	0	0	2	1	8	3	0
-CTT	18	15	19	9	1	16	12	5	2	20	26	11
-CTC	17	25	11	7	0	13	5	12	8	33	29	24
-CTA	21	21	25	6	2	19	10	5	5	21	30	19
-CTG	2	7	5	2	0	1	1	2	4	7	9	3
-CCT	10	5	7	4	3	5	6	2	2	1	13	8
-CCC	10	12	6	7	6	6	4	5	0	17	13	10
-CCA	4	4	13	3	1	6	3	1	0	7	5	2
-CCG	0	1	1	0	0	0	1	0	0	2	2	1
-CAT	1	2	2	4	0	0	2	0	1	4	2	5
-CAC	3	5	17	6	2	4	16	1	3	7	14	7
-CAA	7	11	5	8	1	8	8	3	3	10	18	2
-CAG	0	2	2	0	0	1	0	0	0	0	0	4
-CGT	2	1	3	1	0	0	1	0	0	1	1	0
-CGC	1	0	0	1	0	2	1	0	2	3	3	0
-CGA	5	3	5	4	0	4	4	2	1	6	6	6
-CGG	0	0	1	0	0	0	0	0	0	1	0	2
-ATT	12	11	21	16	1	8	5	4	1	19	22	12
-ATC	13	10	20	8	2	9	8	7	0	16	24	13
-ATA	4	6	3	5	0	3	3	1	2	16	16	3
-ATG	4	5	21	6	1	5	3	1	3	11	13	6
-ACT	4	8	4	2	0	0	4	1	3	2	8	4
-ACC	11	19	12	4	3	10	7	4	4	29	23	14
-ACA	6	18	17	5	2	11	8	3	1	10	23	5
-ACG	0	1	2	0	0	0	2	0	0	0	4	2
-AAT	4	4	4	3	1	2	0	0	0	2	9	5
-AAC	8	7	11	2	2	8	1	1	1	9	19	14
-AAA	7	8	8	4	3	1	3	1	0	8	19	9
-AAG	0	1	0	0	0	0	0	0	0	2	1	0
-AGT	1	1	0	0	0	0	1	0	1	0	4	0
-AGC	1	2	5	3	1	4	4	0	2	9	11	0
-GTT	7	3	12	6	0	5	3	1	1	3	8	3
-GTC	8	3	12	4	1	4	12	2	0	5	11	14
-GTA	5	2	16	5	1	3	4	0	1	4	6	5
-GTG	0	0	3	1	0	1	1	0	0	2	2	4
-GCT	3	12	15	5	2	6	6	2	0	5	4	5
-GCC	18	14	26	5	0	9	12	5	8	18	28	18
-GCA	13	10	8	6	1	3	6	2	4	11	18	10
-GCG	0	0	0	0	0	0	1	0	1	1	0	0
-GAT	1	1	5	4	0	0	1	0	0	0	5	2
-GAC	3	2	9	10	0	1	4	4	2	5	6	9
-GAA	9	4	8	12	3	4	6	6	2	12	10	4
-GAG	2	0	2	3	0	0	2	0	0	0	3	1
-GGT	2	4	12	2	0	2	6	1	0	3	6	6
-GGC	9	8	12	0	0	6	7	1	4	16	15	15
-GGA	7	4	18	6	0	3	5	4	1	5	8	5
-GGG	1	2	4	1	0	0	2	0	0	3	2	2
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008593366.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	6	12	6	0	5	9	3	0	4	7	0	0	7	1	18	17	21	2	10	10	4	0	1	3	7	0	2	1	5	0	12	13	4	4	4	11	6	0	4	8	7	0	1	1	7	8	5	0	3	18	13	0	1	3	9	2	2	9	7	1	1	0	0	0
+1	ND2	YP_008593367.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	5	9	10	1	0	11	8	2	4	3	0	0	9	2	15	25	21	7	5	12	4	1	2	5	11	2	1	0	3	0	11	10	6	5	8	19	18	1	4	7	8	1	1	2	3	3	2	0	12	14	10	0	1	2	4	0	4	8	4	2	0	0	0	0
+2	COX1	YP_008593368.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	13	29	2	0	8	8	6	2	6	12	0	1	17	0	19	11	25	5	7	6	13	1	2	17	5	2	3	0	5	1	21	20	3	21	4	12	17	2	4	11	8	0	0	5	12	12	16	3	15	26	8	0	5	9	8	2	12	12	18	4	1	0	0	0
+3	COX2	YP_008593369.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	5	5	4	0	2	4	4	1	3	5	0	2	5	0	9	7	6	2	4	7	3	0	4	6	8	0	1	1	4	0	16	8	5	6	2	4	5	0	3	2	4	0	0	3	6	4	5	1	5	5	6	0	4	10	12	3	2	0	6	1	0	0	0	0
+4	ATP8	YP_008593370.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	2	2	2	0	2	1	0	0	0	1	0	0	4	1	1	0	2	0	3	6	1	0	0	2	1	0	0	0	0	0	1	2	0	1	0	3	2	0	1	2	3	0	0	1	0	1	1	0	2	0	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008593371.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	3	9	7	1	0	2	2	0	2	3	0	0	5	0	16	13	19	1	5	6	6	0	0	4	8	1	0	2	4	0	8	9	3	5	0	10	11	0	2	8	1	0	0	4	5	4	3	1	6	9	3	0	0	1	4	0	2	6	3	0	0	0	0	0
+6	COX3	YP_008593372.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	7	14	3	1	1	5	6	0	0	9	0	2	12	0	12	5	10	1	6	4	3	1	2	16	8	0	1	1	4	0	5	8	3	3	4	7	8	2	0	1	3	0	1	4	3	12	4	1	6	12	6	1	1	4	6	2	6	7	5	2	0	0	0	0
+7	ND3	YP_008593373.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	4	5	3	0	3	4	0	0	1	1	1	0	3	2	5	12	5	2	2	5	1	0	0	1	3	0	0	0	2	0	4	7	1	1	1	4	3	0	0	1	1	0	0	0	1	2	0	0	2	5	2	0	0	4	6	0	1	1	4	0	0	0	0	0
+8	ND4L	YP_008593374.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	3	4	4	1	2	3	3	0	0	1	1	2	0	1	2	8	5	4	2	0	0	0	1	3	3	0	0	2	1	0	1	0	2	3	3	4	1	0	0	1	0	0	1	2	1	0	1	0	0	8	4	1	0	2	2	0	0	4	1	0	1	0	0	0
+9	ND4	YP_008593375.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	6	11	14	1	7	13	5	0	5	9	0	4	11	8	20	33	21	7	1	17	7	2	4	7	10	0	1	3	6	1	19	16	16	11	2	29	10	0	2	9	8	2	0	9	3	5	4	2	5	18	11	1	0	5	12	0	3	16	5	3	0	0	0	0
+10	ND5	YP_008593376.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	8	32	9	0	7	13	13	0	7	4	1	5	11	3	26	29	30	9	13	13	5	2	2	14	18	0	1	3	6	0	22	24	16	13	8	23	23	4	9	19	19	1	4	11	8	11	6	2	4	28	18	0	5	6	10	3	6	15	8	2	1	0	0	0
+11	CYTB	YP_008593378.1	Istiophorus albicans	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Istiophoriformes, Istiophorus	7	23	6	0	4	8	7	1	4	10	0	3	13	0	11	24	19	3	8	10	2	1	5	7	2	4	0	0	6	2	12	13	3	6	4	14	5	2	5	14	9	0	0	0	3	14	5	4	5	18	10	0	2	9	4	1	6	15	5	2	0	0	0	0

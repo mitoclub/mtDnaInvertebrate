@@ -1,65 +1,13 @@
-	YP_009111948.1|ND1	YP_009111949.1|ND2	YP_009111950.1|COX1	YP_009111951.1|COX2	YP_009111952.1|ATP8	YP_009111953.1|ATP6	YP_009111954.1|COX3	YP_009111955.1|ND3	YP_009111956.1|ND4L	YP_009111957.1|ND4	YP_009111958.1|ND5	YP_009111959.1|CYTB
-TTT	7	3	6	1	0	3	3	0	0	0	9	4
-TTC	13	11	36	7	2	5	20	8	4	14	22	25
-TTA	7	9	11	2	2	10	4	1	4	16	8	3
-TTG	2	2	1	0	0	0	0	0	0	0	0	1
-TCT	4	4	3	3	1	0	2	2	0	4	6	3
-TCC	16	11	9	7	1	3	8	4	4	7	14	7
-TCA	3	11	12	7	2	4	4	1	6	15	17	12
-TCG	0	0	0	0	0	0	0	0	0	0	0	0
-TAT	5	4	7	3	1	0	2	1	1	3	1	1
-TAC	7	4	11	5	0	3	7	1	1	10	12	13
-TGT	1	0	0	1	0	0	0	1	1	0	2	0
-TGC	2	1	1	2	0	1	1	0	2	3	3	4
-TGA	8	9	16	5	5	4	10	5	1	12	12	11
-TGG	1	1	0	0	0	0	2	0	0	0	0	0
-CTT	12	7	7	3	2	11	5	1	1	14	11	6
-CTC	8	11	9	7	2	12	10	7	3	17	30	21
-CTA	30	32	29	16	2	27	14	17	12	52	55	32
-CTG	5	4	4	3	0	2	2	0	0	1	2	1
-CCT	3	4	6	3	3	2	1	1	1	1	4	4
-CCC	11	8	6	5	2	5	7	4	1	12	10	11
-CCA	11	8	18	5	3	8	4	3	1	14	17	10
-CCG	0	1	1	0	0	1	0	0	0	2	0	0
-CAT	1	1	5	3	0	1	3	0	2	7	3	2
-CAC	1	8	14	6	0	3	14	0	4	9	9	10
-CAA	5	9	9	8	2	8	8	4	2	14	18	7
-CAG	0	0	0	0	0	0	0	0	0	1	1	1
-CGT	1	1	0	0	0	0	0	0	1	1	1	1
-CGC	3	1	1	1	0	3	0	2	0	3	4	3
-CGA	4	1	8	4	0	2	5	1	1	7	4	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	10	10	11	3	0	2	0	5	0	13	17	6
-ATC	14	18	28	16	3	16	14	8	4	25	34	26
-ATA	8	14	25	9	2	11	8	3	7	22	27	8
-ATG	4	4	2	1	1	1	1	0	1	1	3	2
-ACT	7	9	8	1	4	6	1	1	0	12	8	6
-ACC	8	16	17	6	5	6	5	3	2	25	41	11
-ACA	7	22	15	7	2	16	13	5	4	20	26	13
-ACG	1	1	0	0	0	0	0	0	0	0	4	0
-AAT	3	2	3	1	0	2	2	1	1	3	5	2
-AAC	9	12	12	4	3	8	4	2	2	11	22	18
-AAA	7	13	7	4	4	2	3	1	0	9	22	8
-AAG	0	2	1	0	0	1	1	0	0	1	0	2
-AGT	1	1	0	1	0	0	0	0	1	1	1	0
-AGC	5	3	3	2	0	4	5	0	4	9	14	1
-GTT	2	1	2	4	0	1	1	0	0	1	2	1
-GTC	1	3	16	5	0	3	7	0	0	1	2	3
-GTA	10	5	16	6	0	2	5	1	1	4	6	11
-GTG	0	0	1	0	0	0	0	0	0	0	0	0
-GCT	13	8	16	2	0	4	1	0	1	4	14	6
-GCC	6	10	19	5	0	5	8	4	7	16	18	13
-GCA	11	9	12	7	1	5	13	4	3	11	10	7
-GCG	0	0	0	1	0	0	1	0	0	0	1	0
-GAT	1	0	3	4	0	0	2	0	1	0	1	3
-GAC	3	1	12	8	0	1	2	3	0	3	8	4
-GAA	8	5	10	11	0	4	6	6	1	9	10	7
-GAG	3	0	0	4	0	0	2	0	2	0	0	0
-GGT	3	2	12	1	0	1	2	2	1	4	5	3
-GGC	3	1	10	2	0	3	7	1	0	6	11	10
-GGA	6	7	20	4	0	4	10	2	2	9	16	11
-GGG	0	1	5	1	0	1	1	0	0	0	1	1
-TAA	0	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	1	0	0	0	0	0	1	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009111948.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	7	13	7	2	4	16	3	0	5	7	1	2	8	1	12	8	30	5	3	11	11	0	1	1	5	0	1	3	4	0	10	14	8	4	7	8	7	1	3	9	7	0	1	5	2	1	10	0	13	6	11	0	1	3	8	3	3	3	6	0	0	0	1	0
+1	ND2	YP_009111949.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	3	11	9	2	4	11	11	0	4	4	0	1	9	1	7	11	32	4	4	8	8	1	1	8	9	0	1	1	1	0	10	18	14	4	9	16	22	1	2	12	13	2	1	3	1	3	5	0	8	10	9	0	0	1	5	0	2	1	7	1	0	1	0	0
+2	COX1	YP_009111950.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	6	36	11	1	3	9	12	0	7	11	0	1	16	0	7	9	29	4	6	6	18	1	5	14	9	0	0	1	8	0	11	28	25	2	8	17	15	0	3	12	7	1	0	3	2	16	16	1	16	19	12	0	3	12	10	0	12	10	20	5	0	0	0	1
+3	COX2	YP_009111951.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	1	7	2	0	3	7	7	0	3	5	1	2	5	0	3	7	16	3	3	5	5	0	3	6	8	0	0	1	4	0	3	16	9	1	1	6	7	0	1	4	4	0	1	2	4	5	6	0	2	5	7	1	4	8	11	4	1	2	4	1	1	0	0	0
+4	ATP8	YP_009111952.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	0	2	2	0	1	1	2	0	1	0	0	0	5	0	2	2	2	0	3	2	3	0	0	0	2	0	0	0	0	0	0	3	2	1	4	5	2	0	0	3	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009111953.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	3	5	10	0	0	3	4	0	0	3	0	1	4	0	11	12	27	2	2	5	8	1	1	3	8	0	0	3	2	0	2	16	11	1	6	6	16	0	2	8	2	1	0	4	1	3	2	0	4	5	5	0	0	1	4	0	1	3	4	1	1	0	0	0
+6	COX3	YP_009111954.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	3	20	4	0	2	8	4	0	2	7	0	1	10	2	5	10	14	2	1	7	4	0	3	14	8	0	0	0	5	0	0	14	8	1	1	5	13	0	2	4	3	1	0	5	1	7	5	0	1	8	13	1	2	2	6	2	2	7	10	1	0	0	0	0
+7	ND3	YP_009111955.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	0	8	1	0	2	4	1	0	1	1	1	0	5	0	1	7	17	0	1	4	3	0	0	0	4	0	0	2	1	0	5	8	3	0	1	3	5	0	1	2	1	0	0	0	0	0	1	0	0	4	4	0	0	3	6	0	2	1	2	0	0	1	0	0
+8	ND4L	YP_009111956.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	0	4	4	0	0	4	6	0	1	1	1	2	1	0	1	3	12	0	1	1	1	0	2	4	2	0	1	0	1	0	0	4	7	1	0	2	4	0	1	2	0	0	1	4	0	0	1	0	1	7	3	0	1	0	1	2	1	0	2	0	1	0	0	0
+9	ND4	YP_009111957.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	0	14	16	0	4	7	15	0	3	10	0	3	12	0	14	17	52	1	1	12	14	2	7	9	14	1	1	3	7	0	13	25	22	1	12	25	20	0	3	11	9	1	1	9	1	1	4	0	4	16	11	0	0	3	9	0	4	6	9	0	0	0	0	0
+10	ND5	YP_009111958.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	9	22	8	0	6	14	17	0	1	12	2	3	12	0	11	30	55	2	4	10	17	0	3	9	18	1	1	4	4	0	17	34	27	3	8	41	26	4	5	22	22	0	1	14	2	2	6	0	14	18	10	1	1	8	10	0	5	11	16	1	0	0	1	0
+11	CYTB	YP_009111959.1	Butorides striata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Pelecaniformes, Ardeidae, Butorides	4	25	3	1	3	7	12	0	1	13	0	4	11	0	6	21	32	1	4	11	10	0	2	10	7	1	1	3	4	0	6	26	8	2	6	11	13	0	2	18	8	2	0	1	1	3	11	0	6	13	7	0	3	4	7	0	3	10	11	1	1	0	0	0

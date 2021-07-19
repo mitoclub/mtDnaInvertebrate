@@ -1,65 +1,12 @@
-	YP_009241340.1|ND1	YP_009241341.1|ND2	YP_009241343.1|COX2	YP_009241344.1|ATP8	YP_009241345.1|ATP6	YP_009241346.1|COX3	YP_009241347.1|ND3	YP_009241348.1|ND4L	YP_009241349.1|ND4	YP_009241350.1|ND5	YP_009241352.1|CYTB
-TTT	12	5	5	3	10	9	1	4	10	16	18
-TTC	10	7	5	0	6	11	8	3	11	23	14
-TTA	13	15	9	1	13	9	3	4	16	21	16
-TTG	2	1	2	0	1	1	0	3	0	3	1
-TCT	8	4	4	1	1	5	4	2	8	10	4
-TCC	2	9	2	1	2	2	0	0	8	5	3
-TCA	13	9	7	0	3	7	2	3	11	12	9
-TCG	2	0	0	0	0	0	0	0	1	3	1
-TAT	5	2	4	0	4	4	1	0	5	3	7
-TAC	2	6	5	2	2	5	1	0	10	10	7
-TGT	4	1	0	0	3	8	0	1	1	1	1
-TGC	1	3	2	0	0	3	1	5	6	4	2
-TGA	4	7	5	4	4	5	5	1	15	14	12
-TGG	2	1	0	1	0	1	0	1	1	2	0
-CTT	5	12	10	2	15	7	3	3	10	25	10
-CTC	5	6	0	0	5	4	4	5	11	9	3
-CTA	24	23	7	1	11	12	10	4	32	25	25
-CTG	3	6	1	0	2	1	5	1	9	5	6
-CCT	4	6	2	0	4	1	2	1	8	8	2
-CCC	5	7	4	1	2	2	2	1	4	6	3
-CCA	7	12	8	4	8	5	3	3	15	12	17
-CCG	5	1	1	0	1	1	1	1	0	2	1
-CAT	3	2	3	1	1	2	0	2	7	8	1
-CAC	4	4	5	2	2	9	1	0	8	11	11
-CAA	8	11	6	2	6	5	3	4	9	15	6
-CAG	1	1	1	0	1	1	0	1	1	3	0
-CGT	5	0	0	0	1	1	0	1	5	3	0
-CGC	3	1	1	0	0	1	0	2	1	2	1
-CGA	9	5	5	0	8	7	2	0	8	8	6
-CGG	0	0	0	0	1	0	0	0	1	0	1
-ATT	12	13	13	6	14	9	1	2	22	28	21
-ATC	7	11	8	3	2	3	9	1	14	31	7
-ATA	8	11	9	1	9	9	1	3	19	23	11
-ATG	3	7	2	1	2	2	1	2	3	4	2
-ACT	5	10	2	2	6	7	0	1	10	9	3
-ACC	3	14	5	0	6	1	4	4	11	22	6
-ACA	8	18	4	0	5	8	5	3	9	28	15
-ACG	1	1	1	0	5	0	0	0	4	3	1
-AAT	4	5	3	2	4	0	1	1	7	11	8
-AAC	2	3	3	4	4	1	2	1	5	19	11
-AAA	4	6	5	2	3	2	1	1	9	16	8
-AAG	3	0	0	0	0	0	0	0	1	4	2
-AGT	2	6	0	0	1	2	0	1	5	5	0
-AGC	6	4	2	0	3	2	0	0	4	7	1
-GTT	7	4	5	0	5	9	1	0	6	8	10
-GTC	3	3	2	0	0	9	0	1	7	6	3
-GTA	16	2	8	2	8	11	2	2	10	15	14
-GTG	0	1	2	1	4	0	1	0	2	0	4
-GCT	6	10	6	0	3	8	1	2	8	6	6
-GCC	14	12	4	2	5	9	3	3	8	22	6
-GCA	14	12	3	0	8	3	4	5	16	19	11
-GCG	1	2	1	0	1	1	0	0	1	1	1
-GAT	2	1	2	0	1	6	1	0	3	6	5
-GAC	1	2	10	1	0	3	3	3	1	7	5
-GAA	4	5	15	1	3	6	5	0	7	7	5
-GAG	2	0	1	0	0	3	1	0	3	2	1
-GGT	1	2	1	0	2	3	2	1	2	3	2
-GGC	2	5	2	0	0	3	0	1	8	6	3
-GGA	10	10	7	0	7	9	5	3	14	21	16
-GGG	2	1	0	0	0	3	0	1	9	3	4
-TAA	1	0	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009241340.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	12	10	13	2	8	2	13	2	5	2	4	1	4	2	5	5	24	3	4	5	7	5	3	4	8	1	5	3	9	0	12	7	8	3	5	3	8	1	4	2	4	3	2	6	7	3	16	0	6	14	14	1	2	1	4	2	1	2	10	2	1	0	0	0
+1	ND2	YP_009241341.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	5	7	15	1	4	9	9	0	2	6	1	3	7	1	12	6	23	6	6	7	12	1	2	4	11	1	0	1	5	0	13	11	11	7	10	14	18	1	5	3	6	0	6	4	4	3	2	1	10	12	12	2	1	2	5	0	2	5	10	1	0	0	0	0
+2	COX2	YP_009241343.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	5	5	9	2	4	2	7	0	4	5	0	2	5	0	10	0	7	1	2	4	8	1	3	5	6	1	0	1	5	0	13	8	9	2	2	5	4	1	3	3	5	0	0	2	5	2	8	2	6	4	3	1	2	10	15	1	1	2	7	0	0	0	0	0
+3	ATP8	YP_009241344.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	3	0	1	0	1	1	0	0	0	2	0	0	4	1	2	0	1	0	0	1	4	0	1	2	2	0	0	0	0	0	6	3	1	1	2	0	0	0	2	4	2	0	0	0	0	0	2	1	0	2	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+4	ATP6	YP_009241345.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	10	6	13	1	1	2	3	0	4	2	3	0	4	0	15	5	11	2	4	2	8	1	1	2	6	1	1	0	8	1	14	2	9	2	6	6	5	5	4	4	3	0	1	3	5	0	8	4	3	5	8	1	1	0	3	0	2	0	7	0	0	1	0	0
+5	COX3	YP_009241346.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	9	11	9	1	5	2	7	0	4	5	8	3	5	1	7	4	12	1	1	2	5	1	2	9	5	1	1	1	7	0	9	3	9	2	7	1	8	0	0	1	2	0	2	2	9	9	11	0	8	9	3	1	6	3	6	3	3	3	9	3	0	0	0	0
+6	ND3	YP_009241347.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	1	8	3	0	4	0	2	0	1	1	0	1	5	0	3	4	10	5	2	2	3	1	0	1	3	0	0	0	2	0	1	9	1	1	0	4	5	0	1	2	1	0	0	0	1	0	2	1	1	3	4	0	1	3	5	1	2	0	5	0	0	0	0	0
+7	ND4L	YP_009241348.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	4	3	4	3	2	0	3	0	0	0	1	5	1	1	3	5	4	1	1	1	3	1	2	0	4	1	1	2	0	0	2	1	3	2	1	4	3	0	1	1	1	0	1	0	0	1	2	0	2	3	5	0	0	3	0	0	1	1	3	1	1	0	0	0
+8	ND4	YP_009241349.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	10	11	16	0	8	8	11	1	5	10	1	6	15	1	10	11	32	9	8	4	15	0	7	8	9	1	5	1	8	1	22	14	19	3	10	11	9	4	7	5	9	1	5	4	6	7	10	2	8	8	16	1	3	1	7	3	2	8	14	9	0	0	0	0
+9	ND5	YP_009241350.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	16	23	21	3	10	5	12	3	3	10	1	4	14	2	25	9	25	5	8	6	12	2	8	11	15	3	3	2	8	0	28	31	23	4	9	22	28	3	11	19	16	4	5	7	8	6	15	0	6	22	19	1	6	7	7	2	3	6	21	3	1	0	0	0
+10	CYTB	YP_009241352.1	Danio albolineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Danio	18	14	16	1	4	3	9	1	7	7	1	2	12	0	10	3	25	6	2	3	17	1	1	11	6	0	0	1	6	1	21	7	11	2	3	6	15	1	8	11	8	2	0	1	10	3	14	4	6	6	11	1	5	5	5	1	2	3	16	4	0	0	0	0

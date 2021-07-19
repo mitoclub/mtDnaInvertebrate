@@ -1,65 +1,10 @@
-	YP_026040.1|ND2	YP_026041.1|COX1	YP_026042.1|COX2	YP_026043.1|ATP8	YP_026044.1|ATP6	YP_026045.1|COX3	YP_026046.1|ND3	YP_026050.1|ND6	YP_026051.1|CYTB
-TTT	4	13	4	0	6	16	5	3	13
-TTC	9	25	6	2	5	9	5	7	18
-TTA	17	19	7	1	14	17	13	17	24
-TTG	2	2	1	0	0	1	3	0	0
-TCT	4	2	0	0	6	5	2	0	0
-TCC	5	4	0	0	0	2	1	2	2
-TCA	19	25	16	2	8	12	3	8	21
-TCG	4	1	0	0	2	3	0	0	2
-TAT	2	5	2	1	4	3	2	2	3
-TAC	6	6	4	0	0	2	0	0	10
-TGT	1	0	1	0	0	1	0	0	0
-TGC	3	0	1	0	0	0	1	0	1
-TGA	6	14	5	3	3	12	2	1	8
-TGG	2	0	1	0	0	2	1	0	4
-CTT	4	4	0	0	4	2	1	1	2
-CTC	1	3	0	0	0	1	0	0	2
-CTA	28	34	11	4	13	8	5	4	17
-CTG	1	1	1	1	3	0	0	1	1
-CCT	1	2	0	0	0	0	0	1	5
-CCC	2	2	1	0	2	2	3	2	5
-CCA	12	23	10	2	10	9	3	6	14
-CCG	2	4	0	0	2	0	0	1	0
-CAT	0	5	0	0	2	7	1	1	6
-CAC	3	12	5	0	1	4	1	2	8
-CAA	4	9	9	1	6	5	2	3	5
-CAG	1	0	1	1	0	2	0	0	1
-CGT	0	0	0	0	1	2	0	0	0
-CGC	0	1	0	0	0	0	0	0	2
-CGA	2	7	5	0	1	0	1	1	4
-CGG	0	0	0	0	1	2	0	0	1
-ATT	14	19	6	0	12	16	9	11	17
-ATC	14	22	18	1	9	4	6	7	15
-ATA	37	40	21	3	24	17	12	21	33
-ATG	3	5	4	2	0	0	0	6	5
-ACT	1	3	0	0	5	3	0	2	3
-ACC	8	7	4	0	5	3	0	2	6
-ACA	28	29	15	3	16	9	4	9	16
-ACG	3	1	2	0	2	1	1	1	1
-AAT	1	9	2	1	4	9	3	4	13
-AAC	11	12	10	1	9	0	3	0	11
-AAA	16	9	10	10	3	5	5	6	10
-AAG	0	2	0	4	4	1	0	1	2
-AGT	0	2	0	0	0	1	0	1	0
-AGC	0	0	0	0	1	2	0	4	0
-AGA	5	7	2	1	9	4	0	4	5
-AGG	1	0	0	0	0	2	0	1	0
-GTT	1	1	0	0	2	4	0	2	2
-GTC	1	6	0	0	0	1	0	1	0
-GTA	4	22	6	2	6	10	4	5	12
-GTG	0	1	1	1	1	1	1	0	0
-GCT	1	1	0	0	2	3	1	0	4
-GCC	0	4	3	1	1	1	2	2	4
-GCA	10	18	6	0	4	3	0	5	12
-GCG	3	0	0	0	0	1	0	0	0
-GAT	0	4	2	0	1	3	1	2	2
-GAC	0	9	7	0	0	2	0	0	5
-GAA	5	11	10	2	6	5	5	3	4
-GAG	2	1	1	0	0	4	1	0	0
-GGT	1	4	0	0	0	6	0	2	0
-GGC	2	1	1	0	0	0	2	1	3
-GGA	11	35	4	0	2	9	2	0	12
-GGG	1	5	1	0	1	3	0	0	2
-TAA	0	0	0	1	0	0	0	1	0
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_026040.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	4	9	17	2	4	5	19	4	2	6	1	3	6	2	4	1	28	1	1	2	12	2	0	3	4	1	0	0	2	0	14	14	37	3	1	8	28	3	1	11	16	0	0	0	5	1	1	1	4	0	1	0	10	3	0	0	5	2	1	2	11	1	0	0
+1	COX1	YP_026041.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	13	25	19	2	2	4	25	1	5	6	0	0	14	0	4	3	34	1	2	2	23	4	5	12	9	0	0	1	7	0	19	22	40	5	3	7	29	1	9	12	9	2	2	0	7	0	1	6	22	1	1	4	18	0	4	9	11	1	4	1	35	5	0	0
+2	COX2	YP_026042.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	4	6	7	1	0	0	16	0	2	4	1	1	5	1	0	0	11	1	0	1	10	0	0	5	9	1	0	0	5	0	6	18	21	4	0	4	15	2	2	10	10	0	0	0	2	0	0	0	6	1	0	3	6	0	2	7	10	1	0	1	4	1	0	0
+3	ATP8	YP_026043.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	0	2	1	0	0	0	2	0	1	0	0	0	3	0	0	0	4	1	0	0	2	0	0	0	1	1	0	0	0	0	0	1	3	2	0	0	3	0	1	1	10	4	0	0	1	0	0	0	2	1	0	1	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_026044.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	6	5	14	0	6	0	8	2	4	0	0	0	3	0	4	0	13	3	0	2	10	2	2	1	6	0	1	0	1	1	12	9	24	0	5	5	16	2	4	9	3	4	0	1	9	0	2	0	6	1	2	1	4	0	1	0	6	0	0	0	2	1	0	0
+5	COX3	YP_026045.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	16	9	17	1	5	2	12	3	3	2	1	0	12	2	2	1	8	0	0	2	9	0	7	4	5	2	2	0	0	2	16	4	17	0	3	3	9	1	9	0	5	1	1	2	4	2	4	1	10	1	3	1	3	1	3	2	5	4	6	0	9	3	0	0
+6	ND3	YP_026046.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	5	5	13	3	2	1	3	0	2	0	0	1	2	1	1	0	5	0	0	3	3	0	1	1	2	0	0	0	1	0	9	6	12	0	0	0	4	1	3	3	5	0	0	0	0	0	0	0	4	1	1	2	0	0	1	0	5	1	0	2	2	0	0	1
+7	ND6	YP_026050.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	3	7	17	0	0	2	8	0	2	0	0	0	1	0	1	0	4	1	1	2	6	1	1	2	3	0	0	0	1	0	11	7	21	6	2	2	9	1	4	0	6	1	1	4	4	1	2	1	5	0	0	2	5	0	2	0	3	0	2	1	0	0	1	0
+8	CYTB	YP_026051.1	Xibalbanus tulumensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Remipedia, Nectiopoda, Speleonectidae, Xibalbanus	13	18	24	0	0	2	21	2	3	10	0	1	8	4	2	2	17	1	5	5	14	0	6	8	5	1	0	2	4	1	17	15	33	5	3	6	16	1	13	11	10	2	0	0	5	0	2	0	12	0	4	4	12	0	2	5	4	0	0	3	12	2	0	0

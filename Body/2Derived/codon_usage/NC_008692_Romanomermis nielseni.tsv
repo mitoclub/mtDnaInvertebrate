@@ -1,65 +1,7 @@
-	YP_918958.1|COX2	YP_918959.1|ND4L	YP_918962.1|ND5	YP_918963.1|ATP6	YP_918965.1|CYTB	YP_918966.1|COX1
-TTT	17	16	75	25	32	44
-TTC	3	0	4	4	3	2
-TTA	24	13	56	30	45	51
-TTG	0	2	7	2	5	7
-TCT	10	0	8	8	12	19
-TCC	0	0	2	0	2	1
-TCA	4	2	7	1	6	7
-TCG	0	0	2	0	0	0
-TAT	6	2	24	4	14	14
-TAC	4	1	9	1	5	4
-TGT	1	1	3	1	0	2
-TGC	1	0	1	1	0	1
-TGA	7	0	4	4	11	12
-TGG	2	0	2	1	3	2
-CTT	5	1	4	3	10	12
-CTC	0	0	3	0	0	1
-CTA	2	2	8	2	9	14
-CTG	0	0	2	1	1	3
-CCT	6	0	5	5	7	15
-CCC	0	0	1	0	1	1
-CCA	2	0	0	1	1	3
-CCG	1	0	1	0	1	0
-CAT	2	0	2	2	5	13
-CAC	2	0	1	0	3	6
-CAA	3	1	4	4	7	1
-CAG	2	0	0	1	1	1
-CGT	1	0	2	0	1	4
-CGC	0	0	0	0	0	0
-CGA	1	0	0	1	0	1
-CGG	1	0	0	1	0	3
-ATT	14	12	43	18	35	45
-ATC	3	1	6	2	7	5
-ATA	11	7	47	11	22	26
-ATG	4	0	1	1	2	5
-ACT	7	2	16	1	7	13
-ACC	0	0	2	0	3	2
-ACA	1	0	3	0	0	6
-ACG	1	0	0	0	2	0
-AAT	7	6	27	7	17	20
-AAC	5	1	2	2	4	6
-AAA	9	1	34	6	12	5
-AAG	1	1	3	1	0	3
-AGT	1	3	8	0	5	5
-AGC	1	1	2	1	0	6
-AGA	4	1	15	4	7	15
-AGG	3	0	3	3	2	4
-GTT	7	3	4	2	11	14
-GTC	1	0	6	1	0	1
-GTA	0	2	3	6	5	6
-GTG	1	0	0	2	2	5
-GCT	4	2	7	2	2	9
-GCC	1	0	2	0	1	0
-GCA	3	0	2	2	6	6
-GCG	0	0	0	0	0	0
-GAT	4	0	2	0	2	12
-GAC	1	0	1	0	2	1
-GAA	5	4	6	3	5	5
-GAG	4	0	1	1	1	4
-GGT	4	0	6	3	6	9
-GGC	0	0	0	0	1	5
-GGA	5	0	3	1	5	18
-GGG	2	0	1	0	4	7
-TAA	1	1	1	1	1	1
-TAG	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_918958.1	Romanomermis nielseni	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Mermithida, Mermithoidea, Mermithidae, Romanomermis	17	3	24	0	10	0	4	0	6	4	1	1	7	2	5	0	2	0	6	0	2	1	2	2	3	2	1	0	1	1	14	3	11	4	7	0	1	1	7	5	9	1	1	1	4	3	7	1	0	1	4	1	3	0	4	1	5	4	4	0	5	2	1	0
+1	ND4L	YP_918959.1	Romanomermis nielseni	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Mermithida, Mermithoidea, Mermithidae, Romanomermis	16	0	13	2	0	0	2	0	2	1	1	0	0	0	1	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	12	1	7	0	2	0	0	0	6	1	1	1	3	1	1	0	3	0	2	0	2	0	0	0	0	0	4	0	0	0	0	0	1	0
+2	ND5	YP_918962.1	Romanomermis nielseni	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Mermithida, Mermithoidea, Mermithidae, Romanomermis	75	4	56	7	8	2	7	2	24	9	3	1	4	2	4	3	8	2	5	1	0	1	2	1	4	0	2	0	0	0	43	6	47	1	16	2	3	0	27	2	34	3	8	2	15	3	4	6	3	0	7	2	2	0	2	1	6	1	6	0	3	1	1	0
+3	ATP6	YP_918963.1	Romanomermis nielseni	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Mermithida, Mermithoidea, Mermithidae, Romanomermis	25	4	30	2	8	0	1	0	4	1	1	1	4	1	3	0	2	1	5	0	1	0	2	0	4	1	0	0	1	1	18	2	11	1	1	0	0	0	7	2	6	1	0	1	4	3	2	1	6	2	2	0	2	0	0	0	3	1	3	0	1	0	1	0
+4	CYTB	YP_918965.1	Romanomermis nielseni	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Mermithida, Mermithoidea, Mermithidae, Romanomermis	32	3	45	5	12	2	6	0	14	5	0	0	11	3	10	0	9	1	7	1	1	1	5	3	7	1	1	0	0	0	35	7	22	2	7	3	0	2	17	4	12	0	5	0	7	2	11	0	5	2	2	1	6	0	2	2	5	1	6	1	5	4	1	0
+5	COX1	YP_918966.1	Romanomermis nielseni	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Mermithida, Mermithoidea, Mermithidae, Romanomermis	44	2	51	7	19	1	7	0	14	4	2	1	12	2	12	1	14	3	15	1	3	0	13	6	1	1	4	0	1	3	45	5	26	5	13	2	6	0	20	6	5	3	5	6	15	4	14	1	6	5	9	0	6	0	12	1	5	4	9	5	18	7	1	0

@@ -1,65 +1,12 @@
-	YP_009183458.1|ND1	YP_009183459.1|ND2	YP_009183460.1|COX1	YP_009183461.1|COX2	YP_009183462.1|ATP8	YP_009183463.1|ATP6	YP_009183464.1|COX3	YP_009183465.1|ND3	YP_009183466.1|ND4L	YP_009183468.1|ND5	YP_009183470.1|CYTB
-TTT	10	4	14	5	1	6	5	5	2	22	8
-TTC	8	7	26	4	3	6	19	3	5	18	24
-TTA	10	6	8	1	2	7	4	1	3	9	3
-TTG	6	5	0	0	0	0	1	0	0	8	1
-TCT	5	3	5	1	1	1	4	0	2	12	9
-TCC	5	6	10	6	2	0	5	5	3	10	6
-TCA	4	6	8	4	0	2	2	2	3	7	4
-TCG	2	4	1	1	0	1	0	0	1	2	3
-TAT	5	2	5	2	0	0	1	1	0	2	2
-TAC	7	5	14	7	0	4	11	1	0	9	12
-TGT	0	0	0	1	0	0	0	0	3	2	2
-TGC	1	0	2	1	0	0	2	1	0	5	1
-TGA	3	6	16	5	5	4	11	3	1	8	8
-TGG	5	5	1	0	0	1	1	2	0	6	4
-CTT	15	17	21	9	0	20	12	4	4	29	22
-CTC	10	18	17	6	0	15	6	12	7	27	19
-CTA	14	20	14	8	2	12	4	6	7	14	11
-CTG	10	13	6	4	0	5	5	1	3	7	4
-CCT	8	5	11	6	3	8	1	5	0	13	9
-CCC	8	12	11	6	3	5	8	3	2	9	9
-CCA	5	5	4	2	3	3	1	1	0	4	1
-CCG	3	0	2	0	0	0	2	0	0	5	2
-CAT	0	0	4	2	0	1	3	0	1	2	1
-CAC	4	7	14	8	2	2	13	1	3	12	10
-CAA	2	6	6	8	0	5	6	3	2	13	6
-CAG	5	9	2	0	1	4	2	0	1	9	1
-CGT	3	3	3	0	0	0	1	0	0	0	0
-CGC	1	0	0	2	0	3	0	0	2	3	1
-CGA	2	0	4	4	0	3	2	2	1	3	6
-CGG	2	1	2	0	0	0	2	0	0	4	1
-ATT	12	12	24	13	2	11	8	5	2	25	13
-ATC	10	6	18	5	1	7	6	5	0	23	12
-ATA	5	4	4	7	1	5	1	3	3	10	3
-ATG	4	9	19	5	1	4	6	1	1	21	5
-ACT	3	16	6	3	1	5	4	1	1	13	6
-ACC	4	21	13	5	4	6	9	4	5	25	11
-ACA	6	5	15	1	2	8	11	2	2	13	3
-ACG	5	3	2	0	0	1	1	3	0	7	1
-AAT	4	5	8	4	2	3	0	0	1	6	4
-AAC	8	3	6	2	1	5	2	1	0	23	14
-AAA	6	5	6	2	3	1	1	0	0	12	6
-AAG	1	4	2	2	1	0	1	1	0	7	3
-AGT	0	1	0	1	0	0	0	0	2	3	1
-AGC	2	4	5	2	1	5	3	0	1	10	1
-GTT	4	6	11	5	1	4	4	4	1	7	10
-GTC	11	2	5	5	0	5	9	1	1	12	12
-GTA	3	1	20	10	1	4	4	0	0	5	6
-GTG	2	2	4	1	0	0	0	0	0	4	4
-GCT	9	7	12	3	1	4	3	0	3	15	5
-GCC	16	19	20	6	0	12	11	7	6	24	9
-GCA	9	8	14	7	3	2	6	0	2	10	9
-GCG	4	4	0	1	0	1	0	0	1	6	7
-GAT	1	0	5	2	0	0	0	1	0	3	2
-GAC	3	1	9	11	0	1	5	3	2	10	10
-GAA	4	3	9	13	1	3	7	4	1	5	1
-GAG	7	2	3	1	0	1	3	2	1	8	3
-GGT	2	2	16	2	0	1	4	0	1	2	6
-GGC	7	9	14	2	0	5	8	5	3	19	9
-GGA	3	6	8	4	0	4	5	1	1	5	5
-GGG	6	3	10	1	0	1	5	0	1	5	9
-TAA	0	0	0	1	1	1	0	0	1	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009183458.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	10	8	10	6	5	5	4	2	5	7	0	1	3	5	15	10	14	10	8	8	5	3	0	4	2	5	3	1	2	2	12	10	5	4	3	4	6	5	4	8	6	1	0	2	4	11	3	2	9	16	9	4	1	3	4	7	2	7	3	6	0	1	0	0
+1	ND2	YP_009183459.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	4	7	6	5	3	6	6	4	2	5	0	0	6	5	17	18	20	13	5	12	5	0	0	7	6	9	3	0	0	1	12	6	4	9	16	21	5	3	5	3	5	4	1	4	6	2	1	2	7	19	8	4	0	1	3	2	2	9	6	3	0	0	0	0
+2	COX1	YP_009183460.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	14	26	8	0	5	10	8	1	5	14	0	2	16	1	21	17	14	6	11	11	4	2	4	14	6	2	3	0	4	2	24	18	4	19	6	13	15	2	8	6	6	2	0	5	11	5	20	4	12	20	14	0	5	9	9	3	16	14	8	10	0	0	0	1
+3	COX2	YP_009183461.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	5	4	1	0	1	6	4	1	2	7	1	1	5	0	9	6	8	4	6	6	2	0	2	8	8	0	0	2	4	0	13	5	7	5	3	5	1	0	4	2	2	2	1	2	5	5	10	1	3	6	7	1	2	11	13	1	2	2	4	1	1	0	0	0
+4	ATP8	YP_009183462.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	1	3	2	0	1	2	0	0	0	0	0	0	5	0	0	0	2	0	3	3	3	0	0	2	0	1	0	0	0	0	2	1	1	1	1	4	2	0	2	1	3	1	0	1	1	0	1	0	1	0	3	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009183463.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	6	6	7	0	1	0	2	1	0	4	0	0	4	1	20	15	12	5	8	5	3	0	1	2	5	4	0	3	3	0	11	7	5	4	5	6	8	1	3	5	1	0	0	5	4	5	4	0	4	12	2	1	0	1	3	1	1	5	4	1	1	0	0	0
+6	COX3	YP_009183464.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	5	19	4	1	4	5	2	0	1	11	0	2	11	1	12	6	4	5	1	8	1	2	3	13	6	2	1	0	2	2	8	6	1	6	4	9	11	1	0	2	1	1	0	3	4	9	4	0	3	11	6	0	0	5	7	3	4	8	5	5	0	0	0	0
+7	ND3	YP_009183465.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	5	3	1	0	0	5	2	0	1	1	0	1	3	2	4	12	6	1	5	3	1	0	0	1	3	0	0	0	2	0	5	5	3	1	1	4	2	3	0	1	0	1	0	0	4	1	0	0	0	7	0	0	1	3	4	2	0	5	1	0	0	0	0	0
+8	ND4L	YP_009183466.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	2	5	3	0	2	3	3	1	0	0	3	0	1	0	4	7	7	3	0	2	0	0	1	3	2	1	0	2	1	0	2	0	3	1	1	5	2	0	1	0	0	0	2	1	1	1	0	0	3	6	2	1	0	2	1	1	1	3	1	1	1	0	0	0
+9	ND5	YP_009183468.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	22	18	9	8	12	10	7	2	2	9	2	5	8	6	29	27	14	7	13	9	4	5	2	12	13	9	0	3	3	4	25	23	10	21	13	25	13	7	6	23	12	7	3	10	7	12	5	4	15	24	10	6	3	10	5	8	2	19	5	5	1	0	0	0
+10	CYTB	YP_009183470.1	Ammodytes dubius	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Uranoscopiformes, Ammodytidae, Ammodytes	8	24	3	1	9	6	4	3	2	12	2	1	8	4	22	19	11	4	9	9	1	2	1	10	6	1	0	1	6	1	13	12	3	5	6	11	3	1	4	14	6	3	1	1	10	12	6	4	5	9	9	7	2	10	1	3	6	9	5	9	0	0	0	0

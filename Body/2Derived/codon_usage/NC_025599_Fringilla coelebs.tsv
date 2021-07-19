@@ -1,65 +1,11 @@
-	YP_009107680.1|ND1	YP_009107681.1|ND2	YP_009107682.1|COX1	YP_009107683.1|COX2	YP_009107684.1|ATP8	YP_009107685.1|ATP6	YP_009107686.1|COX3	YP_009107687.1|ND3	YP_009107688.1|ND4L	YP_009107690.1|ND5
-TTT	4	3	10	1	2	1	3	0	1	3
-TTC	15	9	33	7	2	10	20	8	4	36
-TTA	6	8	5	0	1	3	1	2	3	5
-TTG	0	0	0	1	0	0	0	0	0	0
-TCT	2	5	2	2	0	0	2	1	3	4
-TCC	11	12	10	8	2	7	8	5	3	19
-TCA	5	7	12	6	1	4	3	1	3	19
-TCG	1	1	0	0	0	0	0	0	0	0
-TAT	6	0	2	0	0	0	2	0	0	2
-TAC	9	7	15	7	0	3	9	2	3	10
-TGT	0	0	0	0	0	0	0	0	0	1
-TGC	3	1	1	3	0	0	1	1	3	6
-TGA	8	10	17	5	5	4	12	5	1	12
-TGG	0	0	0	0	0	0	0	0	0	0
-CTT	6	11	8	5	0	3	0	2	0	6
-CTC	12	18	12	10	2	16	12	6	2	20
-CTA	31	25	32	11	3	37	17	17	13	65
-CTG	9	4	6	4	0	3	4	2	1	3
-CCT	4	3	4	3	3	1	4	0	0	7
-CCC	13	6	12	1	3	8	5	4	2	10
-CCA	6	12	14	8	5	6	5	4	1	11
-CCG	2	0	0	0	0	0	0	0	0	0
-CAT	0	3	1	2	0	1	3	0	0	4
-CAC	2	7	18	7	0	2	13	0	7	10
-CAA	5	8	9	5	2	8	7	4	2	15
-CAG	1	2	0	1	0	0	0	0	0	3
-CGT	0	0	2	1	0	0	1	0	0	1
-CGC	3	2	0	2	0	1	2	1	0	2
-CGA	5	2	6	2	0	3	3	1	2	4
-CGG	0	0	0	1	0	1	0	0	0	1
-ATT	7	13	7	3	1	4	4	1	0	7
-ATC	17	21	30	11	3	13	11	9	5	50
-ATA	8	13	15	7	1	6	6	5	6	28
-ATG	3	5	7	4	2	3	1	0	1	3
-ACT	1	7	8	2	3	0	2	3	2	10
-ACC	10	18	12	8	2	11	9	5	3	35
-ACA	8	13	18	6	3	14	7	1	2	20
-ACG	0	0	1	0	0	0	0	0	0	1
-AAT	0	0	4	1	1	1	1	0	0	2
-AAC	14	12	11	5	2	9	3	3	2	23
-AAA	7	12	9	4	1	4	4	1	0	19
-AAG	0	2	0	0	1	0	0	0	0	1
-AGT	1	0	0	0	0	0	1	0	0	0
-AGC	5	5	4	6	2	4	4	1	3	10
-GTT	1	2	8	6	0	2	1	0	0	3
-GTC	6	6	9	6	0	3	7	0	1	7
-GTA	9	1	21	6	0	2	8	1	1	6
-GTG	0	1	4	0	1	1	0	0	0	1
-GCT	2	5	8	3	0	1	3	0	0	4
-GCC	14	13	20	8	1	10	14	6	8	28
-GCA	11	13	17	5	0	3	7	0	3	14
-GCG	4	0	0	0	0	0	0	0	0	0
-GAT	0	0	2	3	0	1	2	0	0	1
-GAC	4	2	13	10	0	1	2	3	1	8
-GAA	6	4	10	12	0	4	7	6	2	12
-GAG	5	0	0	0	0	0	1	0	0	0
-GGT	3	0	3	1	0	1	1	0	0	1
-GGC	3	5	14	1	0	5	1	1	2	12
-GGA	6	6	28	5	0	2	15	4	2	17
-GGG	1	1	2	1	0	0	2	0	0	3
-TAA	0	0	0	1	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	1
-AGG	0	0	1	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009107680.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	4	15	6	0	2	11	5	1	6	9	0	3	8	0	6	12	31	9	4	13	6	2	0	2	5	1	0	3	5	0	7	17	8	3	1	10	8	0	0	14	7	0	1	5	1	6	9	0	2	14	11	4	0	4	6	5	3	3	6	1	0	0	1	0
+1	ND2	YP_009107681.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	3	9	8	0	5	12	7	1	0	7	0	1	10	0	11	18	25	4	3	6	12	0	3	7	8	2	0	2	2	0	13	21	13	5	7	18	13	0	0	12	12	2	0	5	2	6	1	1	5	13	13	0	0	2	4	0	0	5	6	1	0	0	0	0
+2	COX1	YP_009107682.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	10	33	5	0	2	10	12	0	2	15	0	1	17	0	8	12	32	6	4	12	14	0	1	18	9	0	2	0	6	0	7	30	15	7	8	12	18	1	4	11	9	0	0	4	8	9	21	4	8	20	17	0	2	13	10	0	3	14	28	2	0	0	0	1
+3	COX2	YP_009107683.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	1	7	0	1	2	8	6	0	0	7	0	3	5	0	5	10	11	4	3	1	8	0	2	7	5	1	1	2	2	1	3	11	7	4	2	8	6	0	1	5	4	0	0	6	6	6	6	0	3	8	5	0	3	10	12	0	1	1	5	1	1	0	0	0
+4	ATP8	YP_009107684.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	2	2	1	0	0	2	1	0	0	0	0	0	5	0	0	2	3	0	3	3	5	0	0	0	2	0	0	0	0	0	1	3	1	2	3	2	3	0	1	2	1	1	0	2	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009107685.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	1	10	3	0	0	7	4	0	0	3	0	0	4	0	3	16	37	3	1	8	6	0	1	2	8	0	0	1	3	1	4	13	6	3	0	11	14	0	1	9	4	0	0	4	2	3	2	1	1	10	3	0	1	1	4	0	1	5	2	0	1	0	0	0
+6	COX3	YP_009107686.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	3	20	1	0	2	8	3	0	2	9	0	1	12	0	0	12	17	4	4	5	5	0	3	13	7	0	1	2	3	0	4	11	6	1	2	9	7	0	1	3	4	0	1	4	1	7	8	0	3	14	7	0	2	2	7	1	1	1	15	2	0	0	0	0
+7	ND3	YP_009107687.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	0	8	2	0	1	5	1	0	0	2	0	1	5	0	2	6	17	2	0	4	4	0	0	0	4	0	0	1	1	0	1	9	5	0	3	5	1	0	0	3	1	0	0	1	0	0	1	0	0	6	0	0	0	3	6	0	0	1	4	0	1	0	0	0
+8	ND4L	YP_009107688.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	1	4	3	0	3	3	3	0	0	3	0	3	1	0	0	2	13	1	0	2	1	0	0	7	2	0	0	0	2	0	0	5	6	1	2	3	2	0	0	2	0	0	0	3	0	1	1	0	0	8	3	0	0	1	2	0	0	2	2	0	1	0	0	0
+9	ND5	YP_009107690.1	Fringilla coelebs	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Fringillinae, Fringilla	3	36	5	0	4	19	19	0	2	10	1	6	12	0	6	20	65	3	7	10	11	0	4	10	15	3	1	2	4	1	7	50	28	3	10	35	20	1	2	23	19	1	0	10	3	7	6	1	4	28	14	0	1	8	12	0	1	12	17	3	0	0	1	0

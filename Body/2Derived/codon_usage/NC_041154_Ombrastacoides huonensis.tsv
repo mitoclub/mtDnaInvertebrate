@@ -1,65 +1,10 @@
-	YP_009564024.1|COX1	YP_009564025.1|COX2	YP_009564026.1|ATP8	YP_009564027.1|ATP6	YP_009564028.1|COX3	YP_009564029.1|ND3	YP_009564030.1|ND6	YP_009564033.1|ND2	YP_009564034.1|CYTB
-TTT	35	13	6	16	17	9	12	22	26
-TTC	10	2	3	2	10	4	4	11	10
-TTA	16	8	3	14	9	8	8	17	21
-TTG	1	0	1	2	1	0	0	4	3
-TCT	14	12	1	8	4	5	9	20	7
-TCC	9	5	1	3	5	4	6	16	7
-TCA	4	5	1	5	5	1	3	5	7
-TCG	1	0	0	0	0	1	1	4	0
-TAT	9	7	1	3	3	2	4	6	11
-TAC	6	4	0	1	9	0	3	7	5
-TGT	0	2	0	0	0	0	1	1	1
-TGC	0	1	0	0	2	1	0	0	2
-TGA	11	6	1	3	6	0	1	5	8
-TGG	5	0	2	4	7	4	0	4	3
-CTT	15	11	2	12	11	8	15	24	20
-CTC	11	3	1	5	1	5	7	10	8
-CTA	12	8	1	9	8	3	9	11	7
-CTG	5	0	0	3	4	0	3	2	4
-CCT	16	4	4	5	1	3	3	7	10
-CCC	10	3	3	5	6	3	6	6	10
-CCA	2	3	0	0	2	0	2	2	2
-CCG	1	1	0	1	0	0	1	0	2
-CAT	9	3	0	5	7	0	0	2	11
-CAC	8	2	0	3	7	0	1	1	2
-CAA	3	5	1	2	6	0	1	7	6
-CAG	6	2	1	2	2	0	1	0	2
-CGT	1	1	0	0	0	0	0	0	0
-CGC	4	4	0	2	3	1	0	1	2
-CGA	3	1	0	0	2	2	0	1	4
-CGG	2	1	0	1	0	0	1	0	2
-ATT	26	15	2	15	14	7	10	17	19
-ATC	18	9	0	4	6	4	7	7	11
-ATA	19	4	3	5	5	2	3	9	4
-ATG	9	5	1	4	1	0	1	3	3
-ACT	14	10	0	4	12	1	3	8	7
-ACC	10	5	0	4	6	1	5	6	8
-ACA	8	0	0	4	5	0	3	0	4
-ACG	3	0	0	0	0	1	0	0	0
-AAT	7	3	1	5	3	0	3	4	10
-AAC	8	7	2	3	2	0	1	6	6
-AAA	5	2	3	2	2	3	4	5	3
-AAG	4	0	0	0	1	2	0	4	3
-AGT	0	0	0	1	0	1	0	0	1
-AGC	1	3	1	5	2	3	3	4	0
-AGA	3	2	1	3	5	0	2	2	3
-AGG	4	2	0	2	2	0	4	6	1
-GTT	13	5	0	2	6	1	6	7	7
-GTC	8	1	0	3	1	0	3	1	10
-GTA	8	1	0	4	4	1	1	0	7
-GTG	5	1	0	1	0	0	0	0	2
-GCT	9	2	1	8	4	4	2	9	12
-GCC	12	3	1	7	6	7	3	14	13
-GCA	16	6	0	3	4	2	2	4	6
-GCG	2	0	0	2	3	0	0	3	0
-GAT	4	6	0	0	2	2	1	0	4
-GAC	12	5	0	0	3	2	0	0	5
-GAA	4	6	0	3	5	3	0	5	1
-GAG	4	3	1	2	2	2	1	0	2
-GGT	2	0	1	0	0	1	0	1	2
-GGC	6	4	1	2	6	1	1	4	5
-GGA	17	3	0	4	6	0	3	1	4
-GGG	21	4	0	6	6	2	0	10	13
-TAA	0	0	1	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009564024.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	35	10	16	1	14	9	4	1	9	6	0	0	11	5	15	11	12	5	16	10	2	1	9	8	3	6	1	4	3	2	26	18	19	9	14	10	8	3	7	8	5	4	0	1	3	4	13	8	8	5	9	12	16	2	4	12	4	4	2	6	17	21	0	0
+1	COX2	YP_009564025.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	13	2	8	0	12	5	5	0	7	4	2	1	6	0	11	3	8	0	4	3	3	1	3	2	5	2	1	4	1	1	15	9	4	5	10	5	0	0	3	7	2	0	0	3	2	2	5	1	1	1	2	3	6	0	6	5	6	3	0	4	3	4	0	0
+2	ATP8	YP_009564026.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	6	3	3	1	1	1	1	0	1	0	0	0	1	2	2	1	1	0	4	3	0	0	0	0	1	1	0	0	0	0	2	0	3	1	0	0	0	0	1	2	3	0	0	1	1	0	0	0	0	0	1	1	0	0	0	0	0	1	1	1	0	0	1	0
+3	ATP6	YP_009564027.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	16	2	14	2	8	3	5	0	3	1	0	0	3	4	12	5	9	3	5	5	0	1	5	3	2	2	0	2	0	1	15	4	5	4	4	4	4	0	5	3	2	0	1	5	3	2	2	3	4	1	8	7	3	2	0	0	3	2	0	2	4	6	1	0
+4	COX3	YP_009564028.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	17	10	9	1	4	5	5	0	3	9	0	2	6	7	11	1	8	4	1	6	2	0	7	7	6	2	0	3	2	0	14	6	5	1	12	6	5	0	3	2	2	1	0	2	5	2	6	1	4	0	4	6	4	3	2	3	5	2	0	6	6	6	1	0
+5	ND3	YP_009564029.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	9	4	8	0	5	4	1	1	2	0	0	1	0	4	8	5	3	0	3	3	0	0	0	0	0	0	0	1	2	0	7	4	2	0	1	1	0	1	0	0	3	2	1	3	0	0	1	0	1	0	4	7	2	0	2	2	3	2	1	1	0	2	0	0
+6	ND6	YP_009564030.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	12	4	8	0	9	6	3	1	4	3	1	0	1	0	15	7	9	3	3	6	2	1	0	1	1	1	0	0	0	1	10	7	3	1	3	5	3	0	3	1	4	0	0	3	2	4	6	3	1	0	2	3	2	0	1	0	0	1	0	1	3	0	0	1
+7	ND2	YP_009564033.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	22	11	17	4	20	16	5	4	6	7	1	0	5	4	24	10	11	2	7	6	2	0	2	1	7	0	0	1	1	0	17	7	9	3	8	6	0	0	4	6	5	4	0	4	2	6	7	1	0	0	9	14	4	3	0	0	5	0	1	4	1	10	1	0
+8	CYTB	YP_009564034.1	Ombrastacoides huonensis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Astacidea, Parastacoidea, Parastacidae, Ombrastacoides	26	10	21	3	7	7	7	0	11	5	1	2	8	3	20	8	7	4	10	10	2	2	11	2	6	2	0	2	4	2	19	11	4	3	7	8	4	0	10	6	3	3	1	0	3	1	7	10	7	2	12	13	6	0	4	5	1	2	2	5	4	13	1	0

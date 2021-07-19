@@ -1,65 +1,10 @@
-	YP_009142241.1|ND2	YP_009142242.1|COX1	YP_009142243.1|COX2	YP_009142244.1|ATP8	YP_009142245.1|ATP6	YP_009142246.1|COX3	YP_009142247.1|ND3	YP_009142251.1|ND6	YP_009142252.1|CYTB
-TTT	38	41	11	2	20	20	11	15	30
-TTC	5	9	5	2	4	9	1	4	6
-TTA	24	27	12	2	17	15	5	23	30
-TTG	0	0	0	0	0	0	0	0	1
-TCT	13	14	5	2	8	13	4	5	11
-TCC	4	9	5	0	2	1	2	0	2
-TCA	15	17	3	3	9	7	2	10	7
-TCG	0	0	0	0	0	0	0	0	1
-TAT	9	14	6	3	3	7	4	7	11
-TAC	3	6	3	0	4	4	3	0	8
-TGT	1	0	2	0	1	2	0	2	1
-TGC	0	0	0	0	0	0	2	1	1
-TGA	4	15	6	2	5	13	3	1	11
-TGG	0	0	0	0	0	0	0	0	2
-CTT	14	10	6	1	11	3	4	7	12
-CTC	1	3	1	1	4	3	3	2	6
-CTA	10	15	4	3	7	5	4	8	6
-CTG	0	0	0	0	0	0	0	0	0
-CCT	5	12	5	1	9	6	3	2	6
-CCC	1	5	0	0	0	0	2	2	5
-CCA	2	10	6	2	0	2	3	3	6
-CCG	0	0	0	0	0	0	0	0	0
-CAT	2	14	5	0	2	7	1	0	7
-CAC	1	5	0	0	2	4	0	1	2
-CAA	5	6	9	2	3	3	4	3	9
-CAG	0	0	0	0	0	0	0	1	0
-CGT	0	1	1	0	1	2	0	0	0
-CGC	0	0	0	0	1	0	0	0	0
-CGA	0	6	5	0	0	1	1	1	3
-CGG	0	0	0	0	0	0	0	0	1
-ATT	40	50	26	5	24	28	19	16	44
-ATC	9	19	7	5	2	12	2	6	10
-ATA	32	32	15	2	17	17	6	14	22
-ATG	1	1	0	0	3	1	1	3	1
-ACT	8	15	7	4	5	6	2	2	13
-ACC	6	3	1	0	4	1	0	1	2
-ACA	7	10	11	1	5	8	1	4	6
-ACG	0	0	0	1	0	0	0	0	0
-AAT	22	21	13	3	17	13	4	11	22
-AAC	6	2	1	0	1	2	1	3	4
-AAA	18	9	8	7	8	9	3	6	12
-AAG	0	1	0	0	0	0	0	1	1
-AGT	2	0	0	1	2	0	0	2	2
-AGC	0	0	0	0	0	1	0	1	0
-AGA	4	8	4	0	3	6	0	1	3
-AGG	1	0	0	0	0	1	0	1	0
-GTT	6	5	1	0	1	1	3	1	1
-GTC	1	3	1	0	2	1	0	1	1
-GTA	0	8	3	0	1	4	1	0	6
-GTG	0	0	0	0	0	0	0	0	0
-GCT	3	9	5	0	2	4	1	3	5
-GCC	2	1	0	0	0	1	1	0	2
-GCA	0	12	1	0	2	1	0	0	4
-GCG	0	0	0	0	0	0	0	0	0
-GAT	4	9	7	0	0	4	2	0	4
-GAC	0	4	2	0	1	0	0	0	2
-GAA	3	7	7	0	4	4	5	1	6
-GAG	0	0	0	0	0	1	0	0	1
-GGT	0	9	3	0	1	0	0	0	1
-GGC	2	5	1	0	0	2	0	0	4
-GGA	1	25	2	0	2	6	2	2	8
-GGG	0	4	0	0	1	0	0	0	8
-TAA	1	1	1	1	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009142241.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	38	5	24	0	13	4	15	0	9	3	1	0	4	0	14	1	10	0	5	1	2	0	2	1	5	0	0	0	0	0	40	9	32	1	8	6	7	0	22	6	18	0	2	0	4	1	6	1	0	0	3	2	0	0	4	0	3	0	0	2	1	0	1	0
+1	COX1	YP_009142242.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	41	9	27	0	14	9	17	0	14	6	0	0	15	0	10	3	15	0	12	5	10	0	14	5	6	0	1	0	6	0	50	19	32	1	15	3	10	0	21	2	9	1	0	0	8	0	5	3	8	0	9	1	12	0	9	4	7	0	9	5	25	4	1	0
+2	COX2	YP_009142243.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	11	5	12	0	5	5	3	0	6	3	2	0	6	0	6	1	4	0	5	0	6	0	5	0	9	0	1	0	5	0	26	7	15	0	7	1	11	0	13	1	8	0	0	0	4	0	1	1	3	0	5	0	1	0	7	2	7	0	3	1	2	0	1	0
+3	ATP8	YP_009142244.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	2	2	2	0	2	0	3	0	3	0	0	0	2	0	1	1	3	0	1	0	2	0	0	0	2	0	0	0	0	0	5	5	2	0	4	0	1	1	3	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009142245.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	20	4	17	0	8	2	9	0	3	4	1	0	5	0	11	4	7	0	9	0	0	0	2	2	3	0	1	1	0	0	24	2	17	3	5	4	5	0	17	1	8	0	2	0	3	0	1	2	1	0	2	0	2	0	0	1	4	0	1	0	2	1	1	0
+5	COX3	YP_009142246.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	20	9	15	0	13	1	7	0	7	4	2	0	13	0	3	3	5	0	6	0	2	0	7	4	3	0	2	0	1	0	28	12	17	1	6	1	8	0	13	2	9	0	0	1	6	1	1	1	4	0	4	1	1	0	4	0	4	1	0	2	6	0	0	0
+6	ND3	YP_009142247.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	11	1	5	0	4	2	2	0	4	3	0	2	3	0	4	3	4	0	3	2	3	0	1	0	4	0	0	0	1	0	19	2	6	1	2	0	1	0	4	1	3	0	0	0	0	0	3	0	1	0	1	1	0	0	2	0	5	0	0	0	2	0	1	0
+7	ND6	YP_009142251.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	15	4	23	0	5	0	10	0	7	0	2	1	1	0	7	2	8	0	2	2	3	0	0	1	3	1	0	0	1	0	16	6	14	3	2	1	4	0	11	3	6	1	2	1	1	1	1	1	0	0	3	0	0	0	0	0	1	0	0	0	2	0	1	0
+8	CYTB	YP_009142252.1	Vespa mandarinia	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Vespa	30	6	30	1	11	2	7	1	11	8	1	1	11	2	12	6	6	0	6	5	6	0	7	2	9	0	0	0	3	1	44	10	22	1	13	2	6	0	22	4	12	1	2	0	3	0	1	1	6	0	5	2	4	0	4	2	6	1	1	4	8	8	1	0

@@ -1,65 +1,14 @@
-	YP_009162045.1|ND2	YP_009162046.1|ND3	YP_009162047.1|COX1	YP_009162048.1|COX2	YP_009162049.1|CYTB	YP_009162050.1|ATP6	YP_009162051.1|ND4L	YP_009162052.1|ND4	YP_009162053.1|ND1	YP_009162054.1|ATP8	YP_009162055.1|COX3	YP_009162056.1|ND5	YP_009162057.1|ND6
-TTT	7	9	24	5	11	5	3	8	13	1	14	12	6
-TTC	7	3	17	3	15	11	0	9	7	1	9	17	1
-TTA	27	7	24	4	20	13	9	24	12	4	9	29	11
-TTG	0	0	0	0	1	0	0	1	0	0	2	0	0
-TCT	9	4	11	8	4	8	5	8	4	3	6	15	5
-TCC	8	3	10	4	4	6	2	13	12	4	2	18	2
-TCA	20	5	11	7	12	5	3	17	10	0	6	16	3
-TCG	1	1	2	0	0	0	0	3	0	0	0	0	0
-TAT	5	0	7	6	10	4	1	8	5	1	4	5	3
-TAC	7	0	9	6	6	1	0	6	8	0	6	6	1
-TGT	1	1	0	2	1	2	1	1	0	0	2	5	0
-TGC	2	1	1	1	1	2	1	0	2	0	0	0	0
-TGA	7	3	12	6	9	2	0	7	6	2	9	8	3
-TGG	2	0	4	1	4	0	0	3	0	0	4	2	0
-CTT	15	2	9	5	9	11	5	9	5	1	8	19	9
-CTC	6	1	2	3	4	3	1	8	6	4	5	9	4
-CTA	14	6	26	15	14	10	6	30	25	2	12	42	10
-CTG	0	0	5	0	3	0	0	3	0	0	0	4	1
-CCT	10	1	11	6	6	5	1	5	6	1	6	8	4
-CCC	6	2	9	4	8	4	1	4	2	2	2	9	3
-CCA	4	3	6	2	8	5	0	7	5	4	1	11	3
-CCG	1	0	1	0	0	0	0	1	0	0	0	1	1
-CAT	4	2	12	4	6	2	2	5	1	0	9	5	2
-CAC	3	0	7	4	10	2	0	3	0	3	5	5	1
-CAA	3	3	6	7	3	2	1	4	4	1	3	14	2
-CAG	1	0	0	2	0	1	0	1	2	0	0	2	0
-CGT	0	0	1	1	1	2	0	0	3	0	1	1	0
-CGC	1	0	4	0	2	0	0	1	0	1	1	0	0
-CGA	0	3	4	3	5	1	1	4	5	0	2	2	1
-CGG	0	0	1	1	0	0	0	0	0	0	0	1	0
-ATT	21	7	28	7	13	13	6	22	18	2	13	29	13
-ATC	10	9	12	11	17	6	5	17	6	1	7	20	6
-ATA	33	6	30	12	20	20	9	52	29	3	8	47	13
-ATG	3	2	2	3	4	2	3	3	2	2	1	1	5
-ACT	4	2	13	2	9	10	2	13	9	0	5	18	8
-ACC	7	2	4	1	6	6	1	5	9	0	3	15	4
-ACA	5	2	16	8	12	7	3	14	7	2	15	22	4
-ACG	1	0	0	0	0	0	0	1	0	0	0	1	0
-AAT	7	0	10	5	13	5	3	15	9	2	3	16	4
-AAC	7	3	9	5	9	1	2	8	4	1	3	8	4
-AAA	9	1	6	5	8	5	0	11	7	2	4	23	3
-AAG	0	1	2	0	2	1	0	0	1	0	1	2	0
-AGT	1	1	2	0	0	2	1	2	1	0	1	4	0
-AGC	0	0	0	1	0	2	0	0	1	0	1	2	0
-AGA	8	1	6	3	6	4	3	16	8	0	7	7	2
-AGG	0	0	1	1	1	0	0	1	0	0	1	0	0
-GTT	3	1	10	5	3	2	0	4	2	0	3	4	2
-GTC	0	0	3	2	3	1	0	2	4	0	3	2	0
-GTA	8	2	16	8	14	8	2	8	10	0	8	9	3
-GTG	1	0	3	0	1	0	0	0	1	1	1	1	1
-GCT	4	1	17	6	7	6	1	6	3	0	3	13	2
-GCC	2	2	8	2	9	3	3	12	6	1	3	5	1
-GCA	10	1	10	4	8	6	1	10	5	0	8	12	1
-GCG	0	1	1	0	1	0	1	0	0	0	0	1	0
-GAT	0	2	6	6	4	2	1	2	0	0	2	6	0
-GAC	0	1	8	6	2	0	1	0	3	0	2	2	0
-GAA	2	6	8	5	5	3	2	5	8	0	8	4	0
-GAG	0	0	1	6	1	1	0	2	2	0	0	0	0
-GGT	0	0	8	0	2	0	2	1	0	0	5	1	1
-GGC	2	0	7	3	1	0	0	4	0	0	1	1	2
-GGA	5	3	21	4	13	4	3	7	6	0	7	14	1
-GGG	3	0	7	1	7	1	0	3	2	0	5	5	0
-TAA	1	1	1	1	0	1	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009162045.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	7	7	27	0	9	8	20	1	5	7	1	2	7	2	15	6	14	0	10	6	4	1	4	3	3	1	0	1	0	0	21	10	33	3	4	7	5	1	7	7	9	0	1	0	8	0	3	0	8	1	4	2	10	0	0	0	2	0	0	2	5	3	1	0
+1	ND3	YP_009162046.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	9	3	7	0	4	3	5	1	0	0	1	1	3	0	2	1	6	0	1	2	3	0	2	0	3	0	0	0	3	0	7	9	6	2	2	2	2	0	0	3	1	1	1	0	1	0	1	0	2	0	1	2	1	1	2	1	6	0	0	0	3	0	1	0
+2	COX1	YP_009162047.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	24	17	24	0	11	10	11	2	7	9	0	1	12	4	9	2	26	5	11	9	6	1	12	7	6	0	1	4	4	1	28	12	30	2	13	4	16	0	10	9	6	2	2	0	6	1	10	3	16	3	17	8	10	1	6	8	8	1	8	7	21	7	1	0
+3	COX2	YP_009162048.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	5	3	4	0	8	4	7	0	6	6	2	1	6	1	5	3	15	0	6	4	2	0	4	4	7	2	1	0	3	1	7	11	12	3	2	1	8	0	5	5	5	0	0	1	3	1	5	2	8	0	6	2	4	0	6	6	5	6	0	3	4	1	1	0
+4	CYTB	YP_009162049.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	11	15	20	1	4	4	12	0	10	6	1	1	9	4	9	4	14	3	6	8	8	0	6	10	3	0	1	2	5	0	13	17	20	4	9	6	12	0	13	9	8	2	0	0	6	1	3	3	14	1	7	9	8	1	4	2	5	1	2	1	13	7	0	0
+5	ATP6	YP_009162050.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	5	11	13	0	8	6	5	0	4	1	2	2	2	0	11	3	10	0	5	4	5	0	2	2	2	1	2	0	1	0	13	6	20	2	10	6	7	0	5	1	5	1	2	2	4	0	2	1	8	0	6	3	6	0	2	0	3	1	0	0	4	1	1	0
+6	ND4L	YP_009162051.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	3	0	9	0	5	2	3	0	1	0	1	1	0	0	5	1	6	0	1	1	0	0	2	0	1	0	0	0	1	0	6	5	9	3	2	1	3	0	3	2	0	0	1	0	3	0	0	0	2	0	1	3	1	1	1	1	2	0	2	0	3	0	1	0
+7	ND4	YP_009162052.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	8	9	24	1	8	13	17	3	8	6	1	0	7	3	9	8	30	3	5	4	7	1	5	3	4	1	0	1	4	0	22	17	52	3	13	5	14	1	15	8	11	0	2	0	16	1	4	2	8	0	6	12	10	0	2	0	5	2	1	4	7	3	1	0
+8	ND1	YP_009162053.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	13	7	12	0	4	12	10	0	5	8	0	2	6	0	5	6	25	0	6	2	5	0	1	0	4	2	3	0	5	0	18	6	29	2	9	9	7	0	9	4	7	1	1	1	8	0	2	4	10	1	3	6	5	0	0	3	8	2	0	0	6	2	1	0
+9	ATP8	YP_009162054.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	1	1	4	0	3	4	0	0	1	0	0	0	2	0	1	4	2	0	1	2	4	0	0	3	1	0	0	1	0	0	2	1	3	2	0	0	2	0	2	1	2	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+10	COX3	YP_009162055.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	14	9	9	2	6	2	6	0	4	6	2	0	9	4	8	5	12	0	6	2	1	0	9	5	3	0	1	1	2	0	13	7	8	1	5	3	15	0	3	3	4	1	1	1	7	1	3	3	8	1	3	3	8	0	2	2	8	0	5	1	7	5	1	0
+11	ND5	YP_009162056.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	12	17	29	0	15	18	16	0	5	6	5	0	8	2	19	9	42	4	8	9	11	1	5	5	14	2	1	0	2	1	29	20	47	1	18	15	22	1	16	8	23	2	4	2	7	0	4	2	9	1	13	5	12	1	6	2	4	0	1	1	14	5	1	0
+12	ND6	YP_009162057.1	Ramisyllis multicaudata	Eukaryota, Metazoa, Lophotrochozoa, Annelida, Polychaeta, Palpata, Aciculata, Phyllodocida, Syllidae, Ramisyllis	6	1	11	0	5	2	3	0	3	1	0	0	3	0	9	4	10	1	4	3	3	1	2	1	2	0	0	0	1	0	13	6	13	5	8	4	4	0	4	4	3	0	0	0	2	0	2	0	3	1	2	1	1	0	0	0	0	0	1	2	1	0	0	1

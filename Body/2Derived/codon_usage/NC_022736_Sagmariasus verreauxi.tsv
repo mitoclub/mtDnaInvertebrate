@@ -1,65 +1,10 @@
-	YP_008758511.1|COX1	YP_008758512.1|COX2	YP_008758513.1|ATP8	YP_008758514.1|ATP6	YP_008758515.1|COX3	YP_008758516.1|ND3	YP_008758520.1|ND6	YP_008758521.1|CYTB	YP_008758523.1|ND2
-TTT	23	10	4	11	18	10	14	20	17
-TTC	19	5	0	4	8	2	4	13	14
-TTA	13	12	5	11	12	4	13	21	19
-TTG	5	1	0	7	4	5	4	3	4
-TCT	10	5	0	11	9	5	3	7	11
-TCC	5	4	1	3	4	1	3	2	13
-TCA	11	6	1	3	3	5	9	6	7
-TCG	5	0	0	0	2	0	2	2	0
-TAT	7	1	1	2	4	2	3	8	3
-TAC	8	6	0	2	6	0	1	10	5
-TGT	0	0	1	0	0	0	0	2	1
-TGC	0	2	1	0	3	2	0	2	1
-TGA	14	6	2	4	9	1	1	9	7
-TGG	1	0	1	2	4	1	0	2	0
-CTT	11	4	0	12	9	3	8	12	8
-CTC	7	1	1	3	4	1	4	3	9
-CTA	17	7	0	5	5	3	5	10	21
-CTG	4	2	0	3	2	3	1	2	3
-CCT	14	4	3	4	3	0	5	12	6
-CCC	5	4	0	4	3	4	1	4	7
-CCA	7	2	0	3	3	0	1	7	4
-CCG	2	0	2	0	0	0	1	2	1
-CAT	7	3	0	1	5	0	3	3	1
-CAC	11	4	0	6	10	1	1	11	3
-CAA	6	4	1	5	5	0	2	5	10
-CAG	1	4	1	1	1	0	1	2	1
-CGT	1	0	0	2	2	0	0	1	0
-CGC	2	1	0	0	1	1	1	0	2
-CGA	6	5	0	1	1	2	1	6	1
-CGG	1	1	0	0	0	0	0	1	0
-ATT	29	9	4	15	12	12	9	25	17
-ATC	12	10	1	5	4	5	5	9	14
-ATA	22	7	3	9	5	2	4	10	4
-ATG	7	2	1	3	1	0	4	7	3
-ACT	14	4	1	8	10	3	7	13	8
-ACC	5	4	0	3	5	2	5	1	7
-ACA	13	5	0	5	1	1	3	10	7
-ACG	1	0	0	1	1	0	0	0	0
-AAT	7	4	2	4	5	3	2	8	7
-AAC	7	4	0	4	1	1	1	8	4
-AAA	5	0	5	3	1	2	3	6	7
-AAG	2	2	0	0	0	1	0	0	3
-AGT	0	1	0	2	0	0	1	1	2
-AGC	4	1	1	0	2	0	0	1	2
-AGA	5	4	1	9	4	1	3	0	3
-AGG	1	2	0	1	2	1	0	3	3
-GTT	20	4	2	8	4	2	3	10	6
-GTC	5	6	0	4	3	0	2	4	2
-GTA	16	8	0	3	11	4	7	12	4
-GTG	3	2	1	2	0	0	2	0	0
-GCT	19	7	1	5	6	4	3	13	11
-GCC	11	2	0	5	6	2	2	6	10
-GCA	7	5	1	2	10	1	2	4	10
-GCG	2	1	0	1	0	0	1	3	2
-GAT	7	6	2	0	1	3	1	6	0
-GAC	9	7	0	0	2	1	2	4	1
-GAA	7	8	1	4	7	3	1	2	3
-GAG	1	2	0	1	1	2	1	1	2
-GGT	3	0	0	0	3	2	0	5	0
-GGC	13	4	0	2	3	0	2	4	2
-GGA	24	2	0	4	10	3	0	13	6
-GGG	8	2	0	2	2	0	3	2	3
-TAA	0	0	1	1	0	0	1	0	1
-TAG	0	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_008758511.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	23	19	13	5	10	5	11	5	7	8	0	0	14	1	11	7	17	4	14	5	7	2	7	11	6	1	1	2	6	1	29	12	22	7	14	5	13	1	7	7	5	2	0	4	5	1	20	5	16	3	19	11	7	2	7	9	7	1	3	13	24	8	0	0
+1	COX2	YP_008758512.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	10	5	12	1	5	4	6	0	1	6	0	2	6	0	4	1	7	2	4	4	2	0	3	4	4	4	0	1	5	1	9	10	7	2	4	4	5	0	4	4	0	2	1	1	4	2	4	6	8	2	7	2	5	1	6	7	8	2	0	4	2	2	0	0
+2	ATP8	YP_008758513.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	4	0	5	0	0	1	1	0	1	0	1	1	2	1	0	1	0	0	3	0	0	2	0	0	1	1	0	0	0	0	4	1	3	1	1	0	0	0	2	0	5	0	0	1	1	0	2	0	0	1	1	0	1	0	2	0	1	0	0	0	0	0	1	0
+3	ATP6	YP_008758514.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	11	4	11	7	11	3	3	0	2	2	0	0	4	2	12	3	5	3	4	4	3	0	1	6	5	1	2	0	1	0	15	5	9	3	8	3	5	1	4	4	3	0	2	0	9	1	8	4	3	2	5	5	2	1	0	0	4	1	0	2	4	2	1	0
+4	COX3	YP_008758515.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	18	8	12	4	9	4	3	2	4	6	0	3	9	4	9	4	5	2	3	3	3	0	5	10	5	1	2	1	1	0	12	4	5	1	10	5	1	1	5	1	1	0	0	2	4	2	4	3	11	0	6	6	10	0	1	2	7	1	3	3	10	2	0	1
+5	ND3	YP_008758516.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	10	2	4	5	5	1	5	0	2	0	0	2	1	1	3	1	3	3	0	4	0	0	0	1	0	0	0	1	2	0	12	5	2	0	3	2	1	0	3	1	2	1	0	0	1	1	2	0	4	0	4	2	1	0	3	1	3	2	2	0	3	0	0	0
+6	ND6	YP_008758520.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	14	4	13	4	3	3	9	2	3	1	0	0	1	0	8	4	5	1	5	1	1	1	3	1	2	1	0	1	1	0	9	5	4	4	7	5	3	0	2	1	3	0	1	0	3	0	3	2	7	2	3	2	2	1	1	2	1	1	0	2	0	3	1	0
+7	CYTB	YP_008758521.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	20	13	21	3	7	2	6	2	8	10	2	2	9	2	12	3	10	2	12	4	7	2	3	11	5	2	1	0	6	1	25	9	10	7	13	1	10	0	8	8	6	0	1	1	0	3	10	4	12	0	13	6	4	3	6	4	2	1	5	4	13	2	0	0
+8	ND2	YP_008758523.1	Sagmariasus verreauxi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Sagmariasus	17	14	19	4	11	13	7	0	3	5	1	1	7	0	8	9	21	3	6	7	4	1	1	3	10	1	0	2	1	0	17	14	4	3	8	7	7	0	7	4	7	3	2	2	3	3	6	2	4	0	11	10	10	2	0	1	3	2	0	2	6	3	1	0

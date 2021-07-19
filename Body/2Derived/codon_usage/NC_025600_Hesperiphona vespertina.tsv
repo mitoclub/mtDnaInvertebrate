@@ -1,65 +1,12 @@
-	YP_009107693.1|ND1	YP_009107694.1|ND2	YP_009107695.1|COX1	YP_009107696.1|COX2	YP_009107697.1|ATP8	YP_009107698.1|ATP6	YP_009107699.1|COX3	YP_009107700.1|ND3	YP_009107701.1|ND4L	YP_009107702.1|ND4	YP_009107703.1|ND5
-TTT	8	0	12	1	2	0	3	3	2	3	3
-TTC	12	13	31	8	2	10	20	5	3	11	34
-TTA	10	5	3	1	0	3	3	3	1	10	7
-TTG	1	0	0	0	0	0	0	0	0	1	0
-TCT	7	8	6	3	1	3	5	3	2	3	4
-TCC	4	10	10	8	1	4	5	4	5	11	21
-TCA	6	8	9	6	2	3	3	1	3	13	14
-TCG	2	0	0	0	0	1	0	0	0	0	1
-TAT	6	3	2	1	0	0	1	1	0	2	2
-TAC	8	4	15	6	0	3	10	1	3	11	10
-TGT	0	0	0	1	0	0	0	1	1	0	1
-TGC	3	1	1	2	0	0	1	0	3	3	5
-TGA	6	10	17	4	5	4	11	4	1	11	12
-TGG	2	0	0	1	0	0	1	1	0	1	0
-CTT	9	7	2	2	0	4	2	1	0	9	8
-CTC	18	17	12	9	2	18	3	9	1	18	34
-CTA	21	26	41	16	1	36	25	16	17	52	49
-CTG	7	10	5	2	2	2	0	0	0	7	3
-CCT	2	4	6	1	1	3	2	0	0	2	4
-CCC	13	7	8	5	5	4	7	2	1	13	14
-CCA	9	12	16	6	6	8	3	5	2	12	9
-CCG	1	0	0	0	0	0	1	0	0	0	0
-CAT	0	4	3	1	0	1	1	0	1	4	1
-CAC	2	5	16	8	0	2	15	0	5	10	13
-CAA	6	8	9	6	2	7	7	3	2	12	16
-CAG	0	2	0	0	0	1	0	0	0	2	0
-CGT	1	0	2	2	0	0	0	0	0	0	0
-CGC	2	2	0	1	0	1	1	0	0	2	0
-CGA	5	1	6	3	0	4	5	2	2	9	8
-CGG	0	1	0	0	0	0	0	0	0	0	0
-ATT	7	7	10	3	3	6	2	0	2	11	13
-ATC	15	29	29	10	3	12	14	8	3	31	44
-ATA	10	13	18	12	1	6	6	5	5	24	27
-ATG	2	4	4	1	2	2	1	1	2	4	1
-ACT	3	10	4	4	1	1	3	0	0	6	11
-ACC	6	15	15	4	4	8	9	5	5	18	39
-ACA	8	13	18	6	2	15	8	2	2	16	21
-ACG	0	1	2	0	0	0	0	0	0	2	0
-AAT	3	4	2	0	1	0	0	0	0	2	3
-AAC	10	8	13	7	2	9	4	3	2	15	25
-AAA	6	13	9	4	2	4	5	1	1	10	20
-AAG	2	1	0	0	0	0	0	0	0	0	0
-AGT	3	0	1	0	0	0	1	0	0	1	0
-AGC	3	6	3	5	0	4	3	1	3	8	9
-GTT	1	0	5	5	0	0	0	0	0	0	1
-GTC	5	3	9	6	0	1	6	0	1	4	6
-GTA	9	2	21	7	1	8	7	1	1	5	10
-GTG	2	2	5	0	0	0	2	0	0	0	1
-GCT	4	1	5	3	1	0	4	1	1	3	9
-GCC	14	16	24	10	0	11	13	6	6	25	22
-GCA	10	12	15	3	0	3	7	2	2	11	16
-GCG	3	0	0	0	0	0	0	0	0	2	0
-GAT	0	0	2	4	0	0	1	0	0	0	2
-GAC	4	1	13	9	0	3	3	3	1	2	7
-GAA	9	3	9	12	0	4	7	6	2	10	12
-GAG	2	2	1	0	0	0	1	1	0	0	0
-GGT	1	2	6	1	0	1	0	0	0	1	2
-GGC	4	4	18	1	0	4	7	3	4	8	11
-GGA	4	6	23	6	0	3	11	2	0	8	15
-GGG	4	0	0	0	0	0	1	0	0	0	5
-TAA	0	0	0	1	1	1	0	1	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009107693.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	8	12	10	1	7	4	6	2	6	8	0	3	6	2	9	18	21	7	2	13	9	1	0	2	6	0	1	2	5	0	7	15	10	2	3	6	8	0	3	10	6	2	3	3	1	5	9	2	4	14	10	3	0	4	9	2	1	4	4	4	0	0	1	0
+1	ND2	YP_009107694.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	0	13	5	0	8	10	8	0	3	4	0	1	10	0	7	17	26	10	4	7	12	0	4	5	8	2	0	2	1	1	7	29	13	4	10	15	13	1	4	8	13	1	0	6	0	3	2	2	1	16	12	0	0	1	3	2	2	4	6	0	0	0	0	0
+2	COX1	YP_009107695.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	12	31	3	0	6	10	9	0	2	15	0	1	17	0	2	12	41	5	6	8	16	0	3	16	9	0	2	0	6	0	10	29	18	4	4	15	18	2	2	13	9	0	1	3	5	9	21	5	5	24	15	0	2	13	9	1	6	18	23	0	0	0	0	1
+3	COX2	YP_009107696.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	1	8	1	0	3	8	6	0	1	6	1	2	4	1	2	9	16	2	1	5	6	0	1	8	6	0	2	1	3	0	3	10	12	1	4	4	6	0	0	7	4	0	0	5	5	6	7	0	3	10	3	0	4	9	12	0	1	1	6	0	1	0	0	0
+4	ATP8	YP_009107697.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	2	2	0	0	1	1	2	0	0	0	0	0	5	0	0	2	1	2	1	5	6	0	0	0	2	0	0	0	0	0	3	3	1	2	1	4	2	0	1	2	2	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009107698.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	0	10	3	0	3	4	3	1	0	3	0	0	4	0	4	18	36	2	3	4	8	0	1	2	7	1	0	1	4	0	6	12	6	2	1	8	15	0	0	9	4	0	0	4	0	1	8	0	0	11	3	0	0	3	4	0	1	4	3	0	1	0	0	0
+6	COX3	YP_009107699.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	3	20	3	0	5	5	3	0	1	10	0	1	11	1	2	3	25	0	2	7	3	1	1	15	7	0	0	1	5	0	2	14	6	1	3	9	8	0	0	4	5	0	1	3	0	6	7	2	4	13	7	0	1	3	7	1	0	7	11	1	0	0	0	0
+7	ND3	YP_009107700.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	3	5	3	0	3	4	1	0	1	1	1	0	4	1	1	9	16	0	0	2	5	0	0	0	3	0	0	0	2	0	0	8	5	1	0	5	2	0	0	3	1	0	0	1	0	0	1	0	1	6	2	0	0	3	6	1	0	3	2	0	1	0	0	0
+8	ND4L	YP_009107701.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	2	3	1	0	2	5	3	0	0	3	1	3	1	0	0	1	17	0	0	1	2	0	1	5	2	0	0	0	2	0	2	3	5	2	0	5	2	0	0	2	1	0	0	3	0	1	1	0	1	6	2	0	0	1	2	0	0	4	0	0	1	0	0	0
+9	ND4	YP_009107702.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	3	11	10	1	3	11	13	0	2	11	0	3	11	1	9	18	52	7	2	13	12	0	4	10	12	2	0	2	9	0	11	31	24	4	6	18	16	2	2	15	10	0	1	8	0	4	5	0	3	25	11	2	0	2	10	0	1	8	8	0	0	0	0	0
+10	ND5	YP_009107703.1	Hesperiphona vespertina	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Hesperiphona	3	34	7	0	4	21	14	1	2	10	1	5	12	0	8	34	49	3	4	14	9	0	1	13	16	0	0	0	8	0	13	44	27	1	11	39	21	0	3	25	20	0	0	9	1	6	10	1	9	22	16	0	2	7	12	0	2	11	15	5	0	0	1	0

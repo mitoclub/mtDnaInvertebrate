@@ -1,65 +1,9 @@
-	YP_009073495.1|COX1	YP_009073496.1|ND1	YP_009073497.1|ND4	YP_009073498.1|CYTB	YP_009073499.1|ND2	YP_009073501.1|COX3	YP_009073502.1|ND6	YP_009073503.1|COX2
-TTT	27	14	32	30	19	19	6	10
-TTC	11	3	6	5	11	3	1	1
-TTA	34	24	35	35	24	17	12	17
-TTG	2	3	9	3	2	2	5	3
-TCT	9	7	6	6	9	7	4	6
-TCC	4	2	5	2	2	4	3	1
-TCA	7	2	8	4	9	4	3	5
-TCG	1	0	1	0	1	0	0	1
-TAT	12	12	11	15	10	7	6	6
-TAC	4	6	7	2	3	6	5	1
-TGT	3	0	2	1	2	0	0	3
-TGC	0	0	1	1	0	0	1	0
-TGA	12	5	6	6	5	10	1	5
-TGG	5	1	1	6	3	4	1	2
-CTT	12	8	6	7	7	10	4	8
-CTC	2	4	2	1	4	2	1	2
-CTA	12	9	10	6	6	4	4	4
-CTG	1	1	1	2	2	0	2	0
-CCT	7	5	8	12	6	1	3	6
-CCC	6	4	6	3	2	2	1	0
-CCA	13	2	5	3	4	3	1	5
-CCG	0	0	2	1	0	1	0	1
-CAT	9	2	1	7	2	11	0	1
-CAC	9	2	4	3	2	1	0	5
-CAA	4	5	8	6	8	5	3	6
-CAG	1	0	0	0	0	0	0	2
-CGT	4	3	1	1	0	3	1	1
-CGC	0	1	1	2	0	0	0	2
-CGA	4	2	0	3	1	0	0	1
-CGG	0	1	0	0	0	0	0	2
-ATT	38	27	47	29	38	11	14	15
-ATC	10	6	10	7	2	2	3	3
-ATA	32	26	36	14	31	14	15	9
-ATG	1	3	6	0	3	0	0	1
-ACT	12	8	11	9	8	7	3	3
-ACC	8	3	4	4	4	4	3	4
-ACA	12	5	6	6	7	7	8	3
-ACG	3	1	0	0	1	0	1	0
-AAT	11	8	19	15	11	4	6	8
-AAC	3	6	4	8	4	2	2	0
-AAA	11	9	13	9	12	3	5	5
-AAG	1	0	1	2	2	0	0	0
-AGT	5	0	2	1	7	2	2	3
-AGC	1	3	3	0	0	0	0	0
-AGA	13	12	7	11	8	10	4	6
-AGG	5	1	4	2	0	1	2	0
-GTT	19	5	6	5	3	6	3	10
-GTC	1	2	1	1	0	1	0	0
-GTA	10	8	6	14	5	7	3	5
-GTG	3	5	3	3	3	2	0	1
-GCT	22	6	11	6	3	5	2	5
-GCC	9	4	8	3	2	5	2	0
-GCA	4	7	5	5	5	5	1	3
-GCG	2	1	0	3	1	2	1	2
-GAT	13	5	0	3	0	5	0	4
-GAC	4	0	1	3	2	0	0	2
-GAA	7	7	6	3	8	8	2	9
-GAG	0	1	5	1	1	2	0	3
-GGT	8	4	2	8	2	10	2	3
-GGC	7	2	1	3	0	3	1	0
-GGA	16	2	5	9	3	8	3	4
-GGG	10	2	4	3	2	1	1	2
-TAA	1	1	0	1	1	0	1	1
-TAG	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009073495.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	27	11	34	2	9	4	7	1	12	4	3	0	12	5	12	2	12	1	7	6	13	0	9	9	4	1	4	0	4	0	38	10	32	1	12	8	12	3	11	3	11	1	5	1	13	5	19	1	10	3	22	9	4	2	13	4	7	0	8	7	16	10	1	0
+1	ND1	YP_009073496.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	14	3	24	3	7	2	2	0	12	6	0	0	5	1	8	4	9	1	5	4	2	0	2	2	5	0	3	1	2	1	27	6	26	3	8	3	5	1	8	6	9	0	0	3	12	1	5	2	8	5	6	4	7	1	5	0	7	1	4	2	2	2	1	0
+2	ND4	YP_009073497.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	32	6	35	9	6	5	8	1	11	7	2	1	6	1	6	2	10	1	8	6	5	2	1	4	8	0	1	1	0	0	47	10	36	6	11	4	6	0	19	4	13	1	2	3	7	4	6	1	6	3	11	8	5	0	0	1	6	5	2	1	5	4	0	1
+3	CYTB	YP_009073498.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	30	5	35	3	6	2	4	0	15	2	1	1	6	6	7	1	6	2	12	3	3	1	7	3	6	0	1	2	3	0	29	7	14	0	9	4	6	0	15	8	9	2	1	0	11	2	5	1	14	3	6	3	5	3	3	3	3	1	8	3	9	3	1	0
+4	ND2	YP_009073499.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	19	11	24	2	9	2	9	1	10	3	2	0	5	3	7	4	6	2	6	2	4	0	2	2	8	0	0	0	1	0	38	2	31	3	8	4	7	1	11	4	12	2	7	0	8	0	3	0	5	3	3	2	5	1	0	2	8	1	2	0	3	2	1	0
+5	COX3	YP_009073501.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	19	3	17	2	7	4	4	0	7	6	0	0	10	4	10	2	4	0	1	2	3	1	11	1	5	0	3	0	0	0	11	2	14	0	7	4	7	0	4	2	3	0	2	0	10	1	6	1	7	2	5	5	5	2	5	0	8	2	10	3	8	1	0	0
+6	ND6	YP_009073502.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	6	1	12	5	4	3	3	0	6	5	0	1	1	1	4	1	4	2	3	1	1	0	0	0	3	0	1	0	0	0	14	3	15	0	3	3	8	1	6	2	5	0	2	0	4	2	3	0	3	0	2	2	1	1	0	0	2	0	2	1	3	1	1	0
+7	COX2	YP_009073503.1	Lernaea cyprinacea	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Copepoda, Cyclopoida, Lernaeidae, Lernaea	10	1	17	3	6	1	5	1	6	1	3	0	5	2	8	2	4	0	6	0	5	1	1	5	6	2	1	2	1	2	15	3	9	1	3	4	3	0	8	0	5	0	3	0	6	0	10	0	5	1	5	0	3	2	4	2	9	3	3	0	4	2	1	0

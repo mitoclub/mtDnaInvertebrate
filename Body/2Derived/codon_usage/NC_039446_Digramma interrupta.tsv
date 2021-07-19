@@ -1,65 +1,13 @@
-	YP_009517324.1|COX3	YP_009517325.1|CYTB	YP_009517326.1|ND4L	YP_009517327.1|ND4	YP_009517328.1|ATP6	YP_009517329.1|ND2	YP_009517330.1|ND1	YP_009517331.1|ND3	YP_009517332.1|COX1	YP_009517333.1|COX2	YP_009517334.1|ND6	YP_009517335.1|ND5
-TTT	21	24	7	50	20	36	27	20	52	11	16	39
-TTC	4	8	2	13	1	4	6	0	5	4	1	9
-TTA	15	27	13	36	12	22	20	12	44	8	19	35
-TTG	10	9	3	17	4	14	15	5	13	4	4	14
-TCT	6	10	2	14	3	10	5	6	12	5	3	17
-TCC	1	1	1	3	0	2	2	1	2	1	1	6
-TCA	3	9	2	10	3	7	4	0	15	4	1	9
-TCG	1	4	0	1	0	0	0	1	3	1	0	0
-TAT	7	18	1	19	8	16	11	6	17	9	13	26
-TAC	3	8	1	7	6	6	8	1	4	2	4	8
-TGT	5	5	2	12	7	10	9	2	15	6	5	17
-TGC	2	2	0	3	0	3	5	0	0	0	4	3
-TGA	3	7	0	6	2	4	2	2	6	2	1	9
-TGG	7	5	1	5	2	8	6	2	11	2	1	5
-CTT	6	8	0	10	0	7	7	1	7	1	3	10
-CTC	0	2	0	4	1	2	0	1	1	2	0	4
-CTA	4	2	5	6	6	3	3	2	5	1	2	15
-CTG	4	2	0	4	0	2	0	0	3	3	1	8
-CCT	3	7	0	4	2	3	3	2	13	3	2	3
-CCC	1	3	0	4	1	0	1	0	1	1	0	0
-CCA	0	2	0	3	4	1	2	0	6	0	0	3
-CCG	0	1	0	2	1	1	0	0	0	3	0	0
-CAT	4	8	1	3	0	2	2	0	8	5	0	6
-CAC	2	0	0	2	2	0	0	0	6	0	2	2
-CAA	1	2	0	1	1	1	2	0	1	3	0	1
-CAG	0	2	0	0	0	1	1	0	2	1	0	3
-CGT	1	6	0	2	5	2	6	1	6	2	0	4
-CGC	0	0	0	2	1	0	1	0	1	0	1	1
-CGA	0	2	0	0	0	0	0	0	1	1	0	0
-CGG	0	0	2	1	0	0	1	0	1	0	0	1
-ATT	9	15	6	16	9	11	16	3	27	6	3	26
-ATC	2	0	1	2	3	2	2	0	2	2	0	3
-ATA	6	12	4	12	5	10	7	3	16	6	4	18
-ATG	3	12	3	4	3	4	8	2	19	5	8	12
-ACT	3	12	2	5	2	5	3	3	9	6	1	9
-ACC	1	2	0	3	2	1	1	0	3	0	0	4
-ACA	2	4	2	1	0	2	3	0	8	2	3	10
-ACG	0	0	0	2	0	0	0	0	0	0	1	2
-AAT	4	8	2	6	2	2	3	7	12	3	2	7
-AAC	2	0	1	3	1	0	1	0	2	1	2	4
-AAA	3	2	1	1	3	3	2	1	10	5	0	4
-AAG	1	9	0	5	0	6	7	2	6	5	1	10
-AGT	4	10	1	9	8	10	10	3	10	3	7	13
-AGC	1	1	0	4	0	0	0	1	4	0	3	5
-AGA	3	0	1	5	1	3	3	2	3	0	0	9
-AGG	1	0	0	4	1	2	3	1	3	0	2	5
-GTT	12	18	6	9	12	15	18	3	25	13	9	18
-GTC	0	5	0	3	1	1	1	2	3	2	1	7
-GTA	7	8	3	10	4	7	4	1	7	5	2	14
-GTG	4	14	2	11	5	5	3	3	10	7	4	9
-GCT	8	10	1	8	3	5	8	2	8	2	2	9
-GCC	1	1	0	0	1	1	2	0	4	0	0	1
-GCA	1	2	0	3	0	2	3	0	5	1	0	8
-GCG	0	0	0	1	2	1	0	0	1	1	0	1
-GAT	3	8	2	4	1	3	4	1	10	8	0	6
-GAC	1	1	0	1	0	2	0	0	4	1	0	4
-GAA	2	2	2	3	1	4	6	3	1	2	1	3
-GAG	3	6	1	6	1	4	3	1	4	3	1	3
-GGT	9	14	2	16	6	5	14	6	35	6	7	17
-GGC	2	3	0	6	0	2	2	0	3	1	1	4
-GGA	1	1	0	2	0	4	1	1	0	2	0	6
-GGG	1	4	0	7	0	3	9	2	6	6	3	13
-TAA	0	1	1	0	1	0	0	0	0	1	0	1
-TAG	0	0	0	1	0	1	1	1	1	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009517324.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	21	4	15	10	6	1	3	1	7	3	5	2	3	7	6	0	4	4	3	1	0	0	4	2	1	0	1	0	0	0	9	2	6	3	3	1	2	0	4	2	3	1	4	1	3	1	12	0	7	4	8	1	1	0	3	1	2	3	9	2	1	1	0	0
+1	CYTB	YP_009517325.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	24	8	27	9	10	1	9	4	18	8	5	2	7	5	8	2	2	2	7	3	2	1	8	0	2	2	6	0	2	0	15	0	12	12	12	2	4	0	8	0	2	9	10	1	0	0	18	5	8	14	10	1	2	0	8	1	2	6	14	3	1	4	1	0
+2	ND4L	YP_009517326.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	7	2	13	3	2	1	2	0	1	1	2	0	0	1	0	0	5	0	0	0	0	0	1	0	0	0	0	0	0	2	6	1	4	3	2	0	2	0	2	1	1	0	1	0	1	0	6	0	3	2	1	0	0	0	2	0	2	1	2	0	0	0	1	0
+3	ND4	YP_009517327.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	50	13	36	17	14	3	10	1	19	7	12	3	6	5	10	4	6	4	4	4	3	2	3	2	1	0	2	2	0	1	16	2	12	4	5	3	1	2	6	3	1	5	9	4	5	4	9	3	10	11	8	0	3	1	4	1	3	6	16	6	2	7	0	1
+4	ATP6	YP_009517328.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	20	1	12	4	3	0	3	0	8	6	7	0	2	2	0	1	6	0	2	1	4	1	0	2	1	0	5	1	0	0	9	3	5	3	2	2	0	0	2	1	3	0	8	0	1	1	12	1	4	5	3	1	0	2	1	0	1	1	6	0	0	0	1	0
+5	ND2	YP_009517329.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	36	4	22	14	10	2	7	0	16	6	10	3	4	8	7	2	3	2	3	0	1	1	2	0	1	1	2	0	0	0	11	2	10	4	5	1	2	0	2	0	3	6	10	0	3	2	15	1	7	5	5	1	2	1	3	2	4	4	5	2	4	3	0	1
+6	ND1	YP_009517330.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	27	6	20	15	5	2	4	0	11	8	9	5	2	6	7	0	3	0	3	1	2	0	2	0	2	1	6	1	0	1	16	2	7	8	3	1	3	0	3	1	2	7	10	0	3	3	18	1	4	3	8	2	3	0	4	0	6	3	14	2	1	9	0	1
+7	ND3	YP_009517331.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	20	0	12	5	6	1	0	1	6	1	2	0	2	2	1	1	2	0	2	0	0	0	0	0	0	0	1	0	0	0	3	0	3	2	3	0	0	0	7	0	1	2	3	1	2	1	3	2	1	3	2	0	0	0	1	0	3	1	6	0	1	2	0	1
+8	COX1	YP_009517332.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	52	5	44	13	12	2	15	3	17	4	15	0	6	11	7	1	5	3	13	1	6	0	8	6	1	2	6	1	1	1	27	2	16	19	9	3	8	0	12	2	10	6	10	4	3	3	25	3	7	10	8	4	5	1	10	4	1	4	35	3	0	6	0	1
+9	COX2	YP_009517333.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	11	4	8	4	5	1	4	1	9	2	6	0	2	2	1	2	1	3	3	1	0	3	5	0	3	1	2	0	1	0	6	2	6	5	6	0	2	0	3	1	5	5	3	0	0	0	13	2	5	7	2	0	1	1	8	1	2	3	6	1	2	6	1	0
+10	ND6	YP_009517334.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	16	1	19	4	3	1	1	0	13	4	5	4	1	1	3	0	2	1	2	0	0	0	0	2	0	0	0	1	0	0	3	0	4	8	1	0	3	1	2	2	0	1	7	3	0	2	9	1	2	4	2	0	0	0	0	0	1	1	7	1	0	3	0	1
+11	ND5	YP_009517335.1	Digramma interrupta	Eukaryota, Metazoa, Platyhelminthes, Cestoda, Eucestoda, Diphyllobothriidea, Diphyllobothriidae, Digramma	39	9	35	14	17	6	9	0	26	8	17	3	9	5	10	4	15	8	3	0	3	0	6	2	1	3	4	1	0	1	26	3	18	12	9	4	10	2	7	4	4	10	13	5	9	5	18	7	14	9	9	1	8	1	6	4	3	3	17	4	6	13	1	0

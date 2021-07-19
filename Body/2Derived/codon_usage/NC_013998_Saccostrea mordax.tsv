@@ -1,65 +1,13 @@
-	YP_003541110.1|COX1	YP_003541111.1|COX3	YP_003541112.1|CYTB	YP_003541113.1|COX2	YP_003541114.1|ND3	YP_003541115.1|ND1	YP_003541116.1|ND4L	YP_003541117.1|ND5	YP_003541118.1|ND6	YP_003541119.1|ND4	YP_003541120.1|ATP6	YP_003541121.1|ND2
-TTT	50	21	25	13	9	27	3	25	8	30	17	31
-TTC	7	2	1	1	2	7	2	10	6	6	4	4
-TTA	22	10	24	13	7	16	9	31	8	23	17	14
-TTG	15	7	8	5	3	4	2	13	5	12	3	10
-TCT	15	7	10	9	4	20	3	33	4	13	8	9
-TCC	3	3	2	1	1	1	1	4	2	0	0	1
-TCA	12	5	4	3	3	3	1	13	2	7	9	1
-TCG	2	3	0	1	0	0	2	1	0	1	1	1
-TAT	10	11	11	8	5	7	7	11	2	15	8	15
-TAC	5	2	8	2	0	2	1	5	3	1	1	2
-TGT	4	4	3	8	1	4	3	9	3	7	1	7
-TGC	0	2	0	0	2	4	0	2	1	6	1	4
-TGA	11	9	9	7	2	6	0	8	2	8	4	6
-TGG	6	4	4	3	3	5	0	4	1	6	2	4
-CTT	12	7	8	2	1	9	0	12	5	12	3	10
-CTC	4	1	1	2	0	3	0	2	0	2	0	0
-CTA	5	4	8	1	1	5	1	10	2	9	5	5
-CTG	3	3	2	1	3	4	3	4	2	2	2	3
-CCT	14	3	9	5	2	5	0	5	1	11	5	8
-CCC	1	1	3	1	0	0	1	2	3	0	0	1
-CCA	6	2	3	4	4	4	1	4	2	6	2	2
-CCG	6	3	4	1	0	1	0	1	0	2	2	1
-CAT	17	8	5	4	2	1	0	3	1	5	1	0
-CAC	6	2	4	1	0	0	1	4	0	2	2	2
-CAA	4	4	4	3	1	4	0	2	0	5	3	1
-CAG	1	0	3	5	0	0	0	4	2	2	1	1
-CGT	6	4	3	4	1	2	0	3	3	4	0	1
-CGC	2	0	0	0	0	1	0	1	0	1	0	0
-CGA	5	4	3	1	0	2	1	1	0	2	2	0
-CGG	1	0	1	2	0	2	0	2	0	1	2	1
-ATT	29	20	21	9	8	21	5	23	10	26	13	18
-ATC	3	2	4	0	0	2	0	6	0	6	2	3
-ATA	19	3	12	9	4	7	2	24	2	13	5	11
-ATG	15	4	7	5	2	2	3	12	4	15	6	7
-ACT	14	10	12	5	1	4	1	15	3	12	3	5
-ACC	4	0	2	2	0	0	0	2	0	1	0	4
-ACA	11	4	4	4	1	4	0	4	1	3	5	7
-ACG	2	0	2	1	0	1	0	1	0	2	0	0
-AAT	13	4	8	3	2	6	1	6	3	6	1	13
-AAC	5	1	5	0	0	2	1	4	0	0	1	2
-AAA	10	9	15	2	3	6	1	5	1	8	9	3
-AAG	7	0	1	3	1	1	0	8	3	4	6	8
-AGT	5	4	4	0	0	4	1	6	2	8	3	7
-AGC	0	0	0	0	0	0	0	3	0	3	0	1
-AGA	6	1	7	5	0	7	3	13	1	7	6	5
-AGG	5	2	3	2	0	6	1	11	5	8	3	2
-GTT	13	6	6	11	5	14	4	19	10	18	12	14
-GTC	3	0	2	0	0	2	0	5	1	1	3	3
-GTA	14	6	15	10	5	9	4	22	5	15	6	13
-GTG	16	8	9	8	4	8	3	12	4	6	5	4
-GCT	19	13	15	7	2	14	1	30	5	13	4	10
-GCC	5	2	1	1	0	1	1	0	1	3	1	0
-GCA	6	2	11	1	0	7	5	10	2	8	3	7
-GCG	3	0	2	0	0	2	1	4	0	3	0	1
-GAT	10	5	7	5	5	5	0	12	2	7	3	5
-GAC	6	2	2	1	0	1	0	2	0	1	0	1
-GAA	2	5	3	4	5	8	4	10	6	9	2	1
-GAG	6	2	5	10	2	2	1	8	1	5	2	2
-GGT	12	3	8	3	2	5	1	16	5	15	4	4
-GGC	2	2	2	1	1	2	1	4	1	3	0	2
-GGA	13	11	19	4	1	6	5	18	3	11	4	10
-GGG	18	5	6	4	6	7	1	12	6	8	7	6
-TAA	1	0	1	1	1	1	1	1	1	1	1	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_003541110.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	50	7	22	15	15	3	12	2	10	5	4	0	11	6	12	4	5	3	14	1	6	6	17	6	4	1	6	2	5	1	29	3	19	15	14	4	11	2	13	5	10	7	5	0	6	5	13	3	14	16	19	5	6	3	10	6	2	6	12	2	13	18	1	0
+1	COX3	YP_003541111.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	21	2	10	7	7	3	5	3	11	2	4	2	9	4	7	1	4	3	3	1	2	3	8	2	4	0	4	0	4	0	20	2	3	4	10	0	4	0	4	1	9	0	4	0	1	2	6	0	6	8	13	2	2	0	5	2	5	2	3	2	11	5	0	1
+2	CYTB	YP_003541112.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	25	1	24	8	10	2	4	0	11	8	3	0	9	4	8	1	8	2	9	3	3	4	5	4	4	3	3	0	3	1	21	4	12	7	12	2	4	2	8	5	15	1	4	0	7	3	6	2	15	9	15	1	11	2	7	2	3	5	8	2	19	6	1	0
+3	COX2	YP_003541113.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	13	1	13	5	9	1	3	1	8	2	8	0	7	3	2	2	1	1	5	1	4	1	4	1	3	5	4	0	1	2	9	0	9	5	5	2	4	1	3	0	2	3	0	0	5	2	11	0	10	8	7	1	1	0	5	1	4	10	3	1	4	4	1	0
+4	ND3	YP_003541114.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	9	2	7	3	4	1	3	0	5	0	1	2	2	3	1	0	1	3	2	0	4	0	2	0	1	0	1	0	0	0	8	0	4	2	1	0	1	0	2	0	3	1	0	0	0	0	5	0	5	4	2	0	0	0	5	0	5	2	2	1	1	6	1	0
+5	ND1	YP_003541115.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	27	7	16	4	20	1	3	0	7	2	4	4	6	5	9	3	5	4	5	0	4	1	1	0	4	0	2	1	2	2	21	2	7	2	4	0	4	1	6	2	6	1	4	0	7	6	14	2	9	8	14	1	7	2	5	1	8	2	5	2	6	7	1	0
+6	ND4L	YP_003541116.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	3	2	9	2	3	1	1	2	7	1	3	0	0	0	0	0	1	3	0	1	1	0	0	1	0	0	0	0	1	0	5	0	2	3	1	0	0	0	1	1	1	0	1	0	3	1	4	0	4	3	1	1	5	1	0	0	4	1	1	1	5	1	1	0
+7	ND5	YP_003541117.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	25	10	31	13	33	4	13	1	11	5	9	2	8	4	12	2	10	4	5	2	4	1	3	4	2	4	3	1	1	2	23	6	24	12	15	2	4	1	6	4	5	8	6	3	13	11	19	5	22	12	30	0	10	4	12	2	10	8	16	4	18	12	1	0
+8	ND6	YP_003541118.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	8	6	8	5	4	2	2	0	2	3	3	1	2	1	5	0	2	2	1	3	2	0	1	0	0	2	3	0	0	0	10	0	2	4	3	0	1	0	3	0	1	3	2	0	1	5	10	1	5	4	5	1	2	0	2	0	6	1	5	1	3	6	1	0
+9	ND4	YP_003541119.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	30	6	23	12	13	0	7	1	15	1	7	6	8	6	12	2	9	2	11	0	6	2	5	2	5	2	4	1	2	1	26	6	13	15	12	1	3	2	6	0	8	4	8	3	7	8	18	1	15	6	13	3	8	3	7	1	9	5	15	3	11	8	1	0
+10	ATP6	YP_003541120.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	17	4	17	3	8	0	9	1	8	1	1	1	4	2	3	0	5	2	5	0	2	2	1	2	3	1	0	0	2	2	13	2	5	6	3	0	5	0	1	1	9	6	3	0	6	3	12	3	6	5	4	1	3	0	3	0	2	2	4	0	4	7	1	0
+11	ND2	YP_003541121.1	Saccostrea mordax	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Ostreoida, Ostreoidea, Ostreidae, Saccostrea	31	4	14	10	9	1	1	1	15	2	7	4	6	4	10	0	5	3	8	1	2	1	0	2	1	1	1	0	0	1	18	3	11	7	5	4	7	0	13	2	3	8	7	1	5	2	14	3	13	4	10	0	7	1	5	1	1	2	4	2	10	6	1	0

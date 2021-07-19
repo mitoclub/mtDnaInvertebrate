@@ -1,65 +1,10 @@
-	YP_009441981.1|ND2	YP_009441982.1|COX1	YP_009441983.1|COX2	YP_009441984.1|ATP8	YP_009441985.1|ATP6	YP_009441986.1|COX3	YP_009441987.1|ND3	YP_009441991.1|ND6	YP_009441992.1|CYTB
-TTT	24	28	11	3	16	22	10	9	26
-TTC	2	12	0	1	1	5	0	4	9
-TTA	30	28	18	5	27	23	11	17	28
-TTG	1	3	0	0	1	1	0	0	3
-TCT	11	10	8	2	11	3	2	3	11
-TCC	3	2	3	0	1	0	1	1	1
-TCA	11	12	2	1	5	8	2	5	6
-TCG	0	0	0	0	0	0	0	0	0
-TAT	7	9	9	4	4	9	1	7	9
-TAC	6	7	1	1	0	3	0	0	7
-TGT	1	1	1	1	0	1	1	0	3
-TGC	0	0	1	0	0	0	1	0	1
-TGA	7	13	5	3	3	12	1	1	11
-TGG	1	0	0	0	1	1	0	0	0
-CTT	12	13	9	1	8	9	2	4	10
-CTC	2	6	1	0	1	1	0	0	2
-CTA	14	9	3	1	7	5	6	5	9
-CTG	4	1	1	1	0	0	0	0	0
-CCT	2	7	4	1	3	2	2	1	6
-CCC	3	10	0	0	2	3	0	2	6
-CCA	5	9	5	2	6	4	2	3	8
-CCG	1	1	0	0	1	0	0	0	0
-CAT	2	8	5	0	3	9	2	0	9
-CAC	1	7	1	0	1	4	0	1	1
-CAA	5	9	9	2	3	7	1	4	8
-CAG	0	0	0	1	0	0	0	0	0
-CGT	0	3	3	0	0	1	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	4	4	0	3	2	2	0	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	31	42	26	4	16	13	22	23	33
-ATC	5	8	5	2	2	5	0	2	11
-ATA	27	30	9	4	16	9	9	25	16
-ATG	2	2	0	0	2	1	0	0	1
-ACT	12	7	11	3	8	7	6	7	7
-ACC	4	6	1	0	2	3	1	1	6
-ACA	7	20	7	0	9	10	3	7	12
-ACG	2	0	0	0	0	0	0	0	0
-AAT	14	12	9	0	12	9	4	8	19
-AAC	8	6	8	1	2	4	1	1	4
-AAA	12	8	6	4	4	4	7	12	13
-AAG	1	1	0	0	1	1	0	0	1
-AGT	1	3	0	0	1	0	0	1	0
-AGC	0	0	0	0	1	0	0	1	0
-AGA	10	13	4	1	11	10	1	1	7
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	8	1	0	3	2	1	1	5
-GTC	1	3	1	0	2	0	0	0	1
-GTA	5	15	6	0	1	6	1	2	9
-GTG	0	1	0	0	0	0	0	0	0
-GCT	4	12	3	0	5	4	1	0	8
-GCC	9	2	0	1	3	4	0	1	3
-GCA	2	21	1	0	2	4	0	0	8
-GCG	0	0	0	0	0	0	1	0	0
-GAT	0	10	8	0	1	3	2	1	5
-GAC	1	5	0	0	0	1	1	0	1
-GAA	2	9	8	0	4	7	4	4	6
-GAG	2	0	1	0	0	1	0	0	0
-GGT	1	10	2	0	0	3	0	1	5
-GGC	0	6	0	0	0	2	1	0	1
-GGA	9	23	5	1	7	13	2	3	14
-GGG	1	5	1	0	1	1	0	0	2
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009441981.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	24	2	30	1	11	3	11	0	7	6	1	0	7	1	12	2	14	4	2	3	5	1	2	1	5	0	0	0	2	0	31	5	27	2	12	4	7	2	14	8	12	1	1	0	10	0	1	1	5	0	4	9	2	0	0	1	2	2	1	0	9	1	1	0
+1	COX1	YP_009441982.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	28	12	28	3	10	2	12	0	9	7	1	0	13	0	13	6	9	1	7	10	9	1	8	7	9	0	3	0	4	0	42	8	30	2	7	6	20	0	12	6	8	1	3	0	13	0	8	3	15	1	12	2	21	0	10	5	9	0	10	6	23	5	0	0
+2	COX2	YP_009441983.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	11	0	18	0	8	3	2	0	9	1	1	1	5	0	9	1	3	1	4	0	5	0	5	1	9	0	3	0	4	0	26	5	9	0	11	1	7	0	9	8	6	0	0	0	4	0	1	1	6	0	3	0	1	0	8	0	8	1	2	0	5	1	0	0
+3	ATP8	YP_009441984.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	3	1	5	0	2	0	1	0	4	1	1	0	3	0	1	0	1	1	1	0	2	0	0	0	2	1	0	0	0	0	4	2	4	0	3	0	0	0	0	1	4	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+4	ATP6	YP_009441985.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	16	1	27	1	11	1	5	0	4	0	0	0	3	1	8	1	7	0	3	2	6	1	3	1	3	0	0	0	3	0	16	2	16	2	8	2	9	0	12	2	4	1	1	1	11	0	3	2	1	0	5	3	2	0	1	0	4	0	0	0	7	1	1	0
+5	COX3	YP_009441986.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	22	5	23	1	3	0	8	0	9	3	1	0	12	1	9	1	5	0	2	3	4	0	9	4	7	0	1	0	2	0	13	5	9	1	7	3	10	0	9	4	4	1	0	0	10	0	2	0	6	0	4	4	4	0	3	1	7	1	3	2	13	1	1	0
+6	ND3	YP_009441987.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	10	0	11	0	2	1	2	0	1	0	1	1	1	0	2	0	6	0	2	0	2	0	2	0	1	0	0	0	2	0	22	0	9	0	6	1	3	0	4	1	7	0	0	0	1	0	1	0	1	0	1	0	0	1	2	1	4	0	0	1	2	0	1	0
+7	ND6	YP_009441991.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	9	4	17	0	3	1	5	0	7	0	0	0	1	0	4	0	5	0	1	2	3	0	0	1	4	0	1	0	0	0	23	2	25	0	7	1	7	0	8	1	12	0	1	1	1	0	1	0	2	0	0	1	0	0	1	0	4	0	1	0	3	0	1	0
+8	CYTB	YP_009441992.1	Trypodendron signatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Scolytinae, Trypodendron	26	9	28	3	11	1	6	0	9	7	3	1	11	0	10	2	9	0	6	6	8	0	9	1	8	0	0	0	5	0	33	11	16	1	7	6	12	0	19	4	13	1	0	0	7	0	5	1	9	0	8	3	8	0	5	1	6	0	5	1	14	2	1	0

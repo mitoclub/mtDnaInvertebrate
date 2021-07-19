@@ -1,65 +1,13 @@
-	YP_002791198.1|ND1	YP_002791199.1|ND2	YP_002791200.1|COX1	YP_002791201.1|COX2	YP_002791202.1|ATP8	YP_002791203.1|ATP6	YP_002791204.1|COX3	YP_002791205.1|ND3	YP_002791206.1|ND4L	YP_002791207.1|ND4	YP_002791208.1|ND5	YP_002791210.1|CYTB
-TTT	11	6	22	8	0	4	13	4	3	7	8	9
-TTC	4	5	15	2	0	5	9	3	1	6	13	17
-TTA	16	10	14	6	3	7	8	5	7	21	14	11
-TTG	0	1	0	1	1	1	0	1	0	2	2	1
-TCT	0	5	5	2	0	0	1	0	0	7	8	7
-TCC	5	2	2	2	0	3	2	0	0	5	11	6
-TCA	9	15	20	10	0	3	10	2	2	12	21	11
-TCG	1	0	1	0	0	0	0	0	0	0	3	0
-TAT	4	4	8	2	0	2	5	1	0	5	7	7
-TAC	7	3	9	7	0	3	6	1	1	8	9	5
-TGT	1	0	1	0	1	1	2	0	1	0	2	1
-TGC	2	1	1	2	0	0	0	1	2	6	4	1
-TGA	6	8	16	4	5	1	13	5	0	7	11	10
-TGG	1	1	0	1	0	1	0	0	0	1	1	0
-CTT	7	7	13	4	0	9	4	2	1	8	10	12
-CTC	6	5	5	1	0	5	2	5	2	9	9	5
-CTA	28	20	31	19	3	23	14	12	7	37	45	27
-CTG	1	3	4	1	1	2	2	0	0	4	5	3
-CCT	3	3	6	2	1	0	1	0	0	2	0	2
-CCC	5	3	4	1	0	3	3	2	0	9	3	4
-CCA	12	11	18	9	4	10	5	7	2	15	16	16
-CCG	0	1	1	1	0	0	0	0	0	1	0	1
-CAT	0	3	3	1	0	2	3	1	1	1	2	6
-CAC	1	3	15	7	0	2	10	0	2	7	10	5
-CAA	12	13	6	8	1	7	7	3	1	16	21	8
-CAG	0	0	0	0	0	1	0	0	0	1	0	0
-CGT	0	0	2	1	0	0	2	0	0	1	0	0
-CGC	1	1	1	0	0	1	0	1	0	0	1	0
-CGA	7	3	7	5	0	3	4	0	1	7	6	8
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	14	24	26	14	2	15	7	6	4	19	31	17
-ATC	8	19	14	3	3	7	6	10	2	23	24	17
-ATA	23	31	30	11	7	14	13	2	5	39	53	14
-ATG	2	3	7	3	0	2	4	0	4	8	5	3
-ACT	6	8	5	3	1	1	6	0	3	2	12	8
-ACC	17	13	12	7	2	11	9	4	4	19	32	10
-ACA	16	32	22	6	3	21	12	9	14	29	29	24
-ACG	0	1	1	1	0	0	2	1	0	1	1	0
-AAT	5	3	7	3	2	0	2	1	1	3	10	6
-AAC	6	11	11	4	3	7	7	2	5	11	26	17
-AAA	9	13	14	5	5	6	6	2	3	15	30	9
-AAG	0	1	0	2	0	0	0	0	0	0	1	0
-AGT	0	0	2	2	0	2	0	0	0	1	3	1
-AGC	4	4	4	0	0	2	3	1	3	7	3	0
-GTT	3	2	8	2	1	0	3	0	1	1	3	3
-GTC	1	2	6	4	0	1	3	0	1	3	5	3
-GTA	7	1	11	5	1	5	8	1	1	7	5	7
-GTG	0	1	2	0	0	0	0	0	0	0	0	0
-GCT	2	5	8	3	0	4	2	1	0	5	6	6
-GCC	8	9	8	3	2	9	6	2	0	13	20	7
-GCA	10	7	23	6	1	3	7	4	3	13	21	10
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	0	1	9	4	0	1	4	2	0	0	2	2
-GAC	3	1	6	7	0	0	1	1	1	4	8	3
-GAA	11	4	5	13	0	6	4	5	2	6	7	6
-GAG	1	0	1	1	0	0	1	0	0	0	1	0
-GGT	2	0	2	1	0	0	1	0	0	0	2	0
-GGC	5	7	6	1	0	0	4	0	1	4	7	12
-GGA	7	6	29	5	0	7	14	3	3	9	11	8
-GGG	1	0	6	1	0	0	0	1	0	3	1	1
-TAA	0	0	0	1	1	0	0	1	1	1	1	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002791198.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	11	4	16	0	0	5	9	1	4	7	1	2	6	1	7	6	28	1	3	5	12	0	0	1	12	0	0	1	7	0	14	8	23	2	6	17	16	0	5	6	9	0	0	4	3	1	7	0	2	8	10	0	0	3	11	1	2	5	7	1	0	1	0	0
+1	ND2	YP_002791199.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	6	5	10	1	5	2	15	0	4	3	0	1	8	1	7	5	20	3	3	3	11	1	3	3	13	0	0	1	3	0	24	19	31	3	8	13	32	1	3	11	13	1	0	4	2	2	1	1	5	9	7	0	1	1	4	0	0	7	6	0	0	0	0	0
+2	COX1	YP_002791200.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	22	15	14	0	5	2	20	1	8	9	1	1	16	0	13	5	31	4	6	4	18	1	3	15	6	0	2	1	7	0	26	14	30	7	5	12	22	1	7	11	14	0	2	4	8	6	11	2	8	8	23	0	9	6	5	1	2	6	29	6	0	0	0	1
+3	COX2	YP_002791201.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	8	2	6	1	2	2	10	0	2	7	0	2	4	1	4	1	19	1	2	1	9	1	1	7	8	0	1	0	5	0	14	3	11	3	3	7	6	1	3	4	5	2	2	0	2	4	5	0	3	3	6	0	4	7	13	1	1	1	5	1	1	0	0	0
+4	ATP8	YP_002791202.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	0	0	3	1	0	0	0	0	0	0	1	0	5	0	0	0	3	1	1	0	4	0	0	0	1	0	0	0	0	0	2	3	7	0	1	2	3	0	2	3	5	0	0	0	1	0	1	0	0	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002791203.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	4	5	7	1	0	3	3	0	2	3	1	0	1	1	9	5	23	2	0	3	10	0	2	2	7	1	0	1	3	0	15	7	14	2	1	11	21	0	0	7	6	0	2	2	0	1	5	0	4	9	3	0	1	0	6	0	0	0	7	0	0	0	0	0
+6	COX3	YP_002791204.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	13	9	8	0	1	2	10	0	5	6	2	0	13	0	4	2	14	2	1	3	5	0	3	10	7	0	2	0	4	0	7	6	13	4	6	9	12	2	2	7	6	0	0	3	3	3	8	0	2	6	7	0	4	1	4	1	1	4	14	0	0	0	0	0
+7	ND3	YP_002791205.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	4	3	5	1	0	0	2	0	1	1	0	1	5	0	2	5	12	0	0	2	7	0	1	0	3	0	0	1	0	0	6	10	2	0	0	4	9	1	1	2	2	0	0	1	0	0	1	0	1	2	4	0	2	1	5	0	0	0	3	1	1	0	0	0
+8	ND4L	YP_002791206.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	3	1	7	0	0	0	2	0	0	1	1	2	0	0	1	2	7	0	0	0	2	0	1	2	1	0	0	0	1	0	4	2	5	4	3	4	14	0	1	5	3	0	0	3	1	1	1	0	0	0	3	0	0	1	2	0	0	1	3	0	1	0	0	0
+9	ND4	YP_002791207.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	7	6	21	2	7	5	12	0	5	8	0	6	7	1	8	9	37	4	2	9	15	1	1	7	16	1	1	0	7	0	19	23	39	8	2	19	29	1	3	11	15	0	1	7	1	3	7	0	5	13	13	0	0	4	6	0	0	4	9	3	1	0	0	0
+10	ND5	YP_002791208.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	8	13	14	2	8	11	21	3	7	9	2	4	11	1	10	9	45	5	0	3	16	0	2	10	21	0	0	1	6	0	31	24	53	5	12	32	29	1	10	26	30	1	3	3	3	5	5	0	6	20	21	0	2	8	7	1	2	7	11	1	1	0	0	0
+11	CYTB	YP_002791210.1	Chamaeleo monachus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Chamaeleo	9	17	11	1	7	6	11	0	7	5	1	1	10	0	12	5	27	3	2	4	16	1	6	5	8	0	0	0	8	0	17	17	14	3	8	10	24	0	6	17	9	0	1	0	3	3	7	0	6	7	10	0	2	3	6	0	0	12	8	1	1	0	0	0

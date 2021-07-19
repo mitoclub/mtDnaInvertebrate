@@ -1,65 +1,32 @@
-	YP_009316192.1|rps2	YP_009316193.1|ccmB	YP_009316194.1|ccmC	YP_009316195.1|ccmFN	YP_009316196.1|ccmFC	YP_009316197.1|rps4	YP_009316202.1|rpl10	YP_009316203.1|nad5	YP_009316204.1|nad4	YP_009316205.1|nad2	YP_009316206.1|rps12	YP_009316207.1|rps7	YP_009316209.1|nad6	YP_009316210.1|cox2	YP_009316211.1|cox3	YP_009316212.1|nad1	YP_009316213.1|cob	YP_009316214.1|nad9	YP_009316215.1|atp1	YP_009316216.1|nad3	YP_009316217.1|nad7	YP_009316218.1|rpL2	YP_009316219.1|rps19	YP_009316220.1|rps3	YP_009316221.1|rpL16	YP_009316222.1|rpL5	YP_009316223.1|rps14	YP_009316224.1|rpL6	YP_009316225.1|rps13	YP_009316226.1|rps11	YP_009316227.1|atp9
-TTT	12	14	21	48	48	6	8	61	36	38	0	11	15	12	19	23	26	13	10	15	14	20	4	26	4	10	2	5	3	0	6
-TTC	2	2	4	15	12	4	0	16	18	13	0	1	3	1	7	5	6	1	4	1	5	8	1	7	1	4	2	1	1	1	1
-TTA	12	12	15	23	17	8	10	41	35	33	3	10	13	13	10	20	20	9	25	6	23	11	0	16	2	7	5	3	9	3	7
-TTG	6	8	6	21	16	4	6	13	8	8	4	5	10	7	8	9	8	1	11	6	5	7	3	13	2	10	1	1	2	1	3
-TCT	9	5	8	15	9	3	3	14	12	15	3	3	4	5	8	11	5	3	9	7	8	13	6	17	1	2	8	2	0	1	2
-TCC	2	0	5	6	7	3	0	8	7	2	0	1	0	2	2	1	2	0	1	1	2	6	1	5	0	1	2	0	0	2	0
-TCA	2	2	2	12	10	2	4	11	3	4	1	5	1	4	2	2	5	4	11	1	5	6	2	12	3	3	1	0	1	4	1
-TCG	3	1	0	5	2	1	1	3	1	2	2	3	1	0	0	2	5	3	3	1	0	6	1	3	0	3	2	0	1	3	1
-TAT	6	4	8	16	12	7	4	25	19	23	1	5	7	10	8	13	18	10	16	3	13	4	2	19	1	3	2	3	4	3	1
-TAC	2	1	1	5	1	0	4	3	1	4	2	1	1	1	3	0	4	1	2	2	2	1	0	5	0	4	0	1	0	0	0
-TGT	5	7	3	8	10	4	5	7	4	9	2	4	0	3	0	4	3	2	2	1	8	2	1	5	2	2	3	4	3	0	0
-TGC	0	1	1	5	1	0	0	6	3	3	1	2	0	1	1	0	3	0	3	1	1	3	2	3	0	0	0	1	0	1	0
-TGG	2	5	9	20	9	2	2	9	8	4	0	4	1	8	10	9	12	6	0	4	4	11	3	8	3	1	2	0	0	1	0
-CTT	3	12	4	11	14	7	5	14	14	10	0	2	6	2	6	8	14	0	8	1	8	11	0	8	0	1	1	1	1	1	0
-CTC	1	2	2	7	1	0	2	5	3	1	0	1	0	0	0	2	1	0	0	1	0	3	0	2	0	1	1	0	0	0	0
-CTA	1	3	3	12	7	4	3	6	6	15	0	2	1	3	6	9	6	2	4	3	2	3	0	2	1	2	2	2	0	2	1
-CTG	1	1	2	7	5	1	0	2	3	3	1	2	0	0	0	2	0	1	3	1	1	0	0	4	0	0	0	0	0	1	0
-CCT	2	2	3	10	5	5	1	9	11	9	3	2	1	4	6	8	10	6	9	3	11	10	3	5	1	0	2	3	0	1	0
-CCC	3	2	0	6	3	1	2	4	5	1	2	0	0	2	2	5	4	0	3	0	1	5	1	4	1	1	0	0	2	1	0
-CCA	3	1	4	3	5	0	6	4	3	5	2	3	3	5	2	3	7	3	5	1	3	4	0	5	0	3	1	1	0	2	1
-CCG	2	0	2	1	3	0	0	2	0	1	1	0	0	2	0	1	3	0	1	0	2	1	0	4	0	3	0	0	1	0	0
-CAT	6	6	4	14	13	2	3	12	6	4	4	8	2	8	12	0	10	5	3	0	11	12	1	6	1	4	1	3	2	2	1
-CAC	2	0	0	2	0	0	2	2	1	0	0	0	1	1	2	0	3	0	2	0	2	2	0	8	0	0	0	0	0	1	0
-CAA	10	8	8	13	8	13	12	6	14	9	7	6	3	5	6	5	7	8	26	0	17	13	4	23	6	9	2	6	8	2	1
-CAG	3	1	3	3	5	4	3	3	1	0	0	1	1	3	0	1	1	1	7	0	2	6	0	3	0	0	1	0	1	1	0
-CGT	1	1	3	6	4	2	0	5	1	4	5	9	2	2	2	4	5	6	13	1	8	8	1	12	4	2	4	0	2	3	0
-CGC	2	0	2	5	6	0	0	1	1	1	2	0	0	2	2	0	0	3	1	0	1	4	0	4	0	0	2	1	2	2	0
-CGA	4	0	2	7	3	4	4	9	4	0	5	2	1	2	0	3	3	3	6	1	11	10	2	6	1	5	5	2	4	4	1
-CGG	0	0	0	7	1	0	1	1	1	0	1	1	0	1	2	0	0	0	1	0	0	5	1	4	0	1	0	0	0	0	0
-ATT	13	8	17	21	20	9	5	39	33	28	5	8	15	19	15	17	23	6	30	6	14	10	5	25	4	8	2	5	9	9	5
-ATC	3	1	7	8	3	1	2	5	7	11	0	2	2	3	1	7	3	0	6	2	4	2	1	7	2	0	0	2	3	0	2
-ATA	9	8	8	11	13	9	6	19	15	14	5	6	7	6	5	11	14	7	8	4	6	12	1	11	2	9	2	3	2	1	1
-ATG	7	4	7	9	11	3	2	26	18	16	2	5	7	9	9	13	9	2	9	2	17	8	2	11	3	5	3	1	2	1	3
-ACT	2	5	2	15	8	5	6	23	11	13	2	3	7	8	3	2	4	2	12	0	10	7	1	4	0	5	0	3	6	5	0
-ACC	3	3	5	5	5	2	1	8	8	5	1	1	2	1	7	0	2	3	6	1	6	2	0	6	2	1	0	0	0	5	1
-ACA	5	2	5	7	6	2	3	8	7	7	4	1	4	4	2	3	5	3	8	0	3	8	3	9	2	3	3	0	0	2	1
-ACG	1	0	0	0	3	1	1	4	2	1	1	1	1	0	3	0	3	0	0	1	0	3	0	5	0	2	0	1	0	0	0
-AAT	19	3	6	31	14	9	7	16	10	10	5	12	8	6	3	8	13	6	11	1	9	20	0	18	3	9	3	2	8	4	1
-AAC	1	1	3	6	5	1	3	4	3	3	0	1	1	1	0	0	4	1	5	1	2	3	1	9	0	1	3	1	2	0	1
-AAA	16	4	8	36	31	22	11	15	13	15	11	18	7	7	3	6	7	9	22	1	14	22	12	36	5	13	7	13	5	8	1
-AAG	1	1	0	8	5	4	3	6	2	2	3	5	1	0	1	3	2	1	7	3	2	10	4	7	1	2	2	1	3	5	1
-AGT	4	4	5	11	6	3	3	13	10	14	1	2	4	5	2	8	11	6	7	2	6	4	0	5	3	1	1	3	3	1	1
-AGC	1	2	8	10	3	1	1	8	7	5	0	7	1	1	2	0	4	0	7	0	0	6	0	10	2	3	0	1	0	0	0
-AGA	3	0	2	6	15	5	1	2	8	3	5	7	2	2	0	2	3	1	3	1	6	13	3	10	4	3	5	0	3	1	0
-AGG	2	0	0	6	4	2	1	2	0	0	0	1	0	0	0	1	1	1	1	0	1	5	0	8	0	0	0	0	1	0	0
-GTT	2	3	2	11	10	4	2	15	13	14	3	4	12	6	6	11	11	5	15	3	11	8	1	7	2	6	3	4	3	3	2
-GTC	1	0	1	4	2	2	1	6	4	3	0	3	3	1	4	1	2	3	1	2	1	1	1	7	1	1	0	1	0	0	0
-GTA	5	2	5	8	3	1	1	16	12	8	3	2	8	11	6	14	10	1	15	2	11	8	2	4	2	3	1	1	2	2	1
-GTG	2	1	4	4	4	1	0	4	5	3	1	2	2	0	5	3	9	3	11	0	3	5	1	4	2	0	1	0	2	0	0
-GCT	4	2	6	15	10	0	3	28	10	19	2	6	7	9	15	15	20	2	26	4	13	16	3	12	4	2	2	1	3	3	8
-GCC	2	0	2	4	2	2	3	10	7	6	2	5	2	0	2	2	3	1	6	1	4	7	0	4	1	1	0	3	0	1	3
-GCA	4	0	5	12	6	2	2	15	6	15	0	5	1	3	5	8	7	1	14	2	7	7	1	6	4	3	1	1	2	3	3
-GCG	1	0	0	6	2	0	1	2	3	1	1	3	0	2	0	3	2	1	6	0	2	4	0	10	3	0	0	0	1	1	2
-GAT	8	3	1	10	8	6	2	14	7	8	3	6	5	9	4	5	7	9	18	6	17	10	1	15	2	5	1	1	3	3	0
-GAC	1	1	3	2	5	3	0	6	1	2	0	1	1	8	1	2	3	3	6	0	2	7	0	4	0	1	0	0	1	0	0
-GAA	6	5	3	13	14	4	5	9	10	10	1	7	5	9	7	9	6	7	21	4	19	13	2	15	5	5	4	4	3	4	2
-GAG	0	0	0	9	6	1	3	6	4	4	2	1	1	3	0	1	1	5	7	2	7	6	1	8	1	5	1	1	0	0	0
-GGT	0	6	7	9	9	2	3	19	13	12	4	3	4	5	11	13	9	3	14	3	8	11	4	6	4	2	2	1	4	5	4
-GGC	3	2	1	7	4	0	2	6	1	2	3	3	1	0	1	3	6	1	1	1	5	9	1	9	0	1	1	1	1	0	0
-GGA	5	3	1	8	10	1	2	17	14	12	3	2	2	5	13	6	8	2	23	2	11	15	2	4	3	2	0	4	3	6	4
-GGG	0	0	3	6	0	0	2	3	2	2	1	3	1	1	3	1	3	0	3	0	2	6	1	3	1	2	0	2	0	2	0
-TAA	0	0	1	0	0	1	0	1	0	1	0	1	0	1	1	1	0	1	1	1	0	0	0	1	1	0	0	1	0	1	1
-TAG	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0	0	0	0
-TGA	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	rps2	YP_009316192.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	12	2	12	6	9	2	2	3	6	2	5	0	2	3	1	1	1	2	3	3	2	6	2	10	3	1	2	4	0	13	3	9	7	2	3	5	1	19	1	16	1	4	1	3	2	2	1	5	2	4	2	4	1	8	1	6	0	0	3	5	0	0	1	0
+1	ccmB	YP_009316193.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	14	2	12	8	5	0	2	1	4	1	7	1	5	12	2	3	1	2	2	1	0	6	0	8	1	1	0	0	0	8	1	8	4	5	3	2	0	3	1	4	1	4	2	0	0	3	0	2	1	2	0	0	0	3	1	5	0	6	2	3	0	0	1	0
+2	ccmC	YP_009316194.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	21	4	15	6	8	5	2	0	8	1	3	1	9	4	2	3	2	3	0	4	2	4	0	8	3	3	2	2	0	17	7	8	7	2	5	5	0	6	3	8	0	5	8	2	0	2	1	5	4	6	2	5	0	1	3	3	0	7	1	1	3	1	0	0
+3	ccmFN	YP_009316195.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	48	15	23	21	15	6	12	5	16	5	8	5	20	11	7	12	7	10	6	3	1	14	2	13	3	6	5	7	7	21	8	11	9	15	5	7	0	31	6	36	8	11	10	6	6	11	4	8	4	15	4	12	6	10	2	13	9	9	7	8	6	0	1	0
+4	ccmFC	YP_009316196.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	48	12	17	16	9	7	10	2	12	1	10	1	9	14	1	7	5	5	3	5	3	13	0	8	5	4	6	3	1	20	3	13	11	8	5	6	3	14	5	31	5	6	3	15	4	10	2	3	4	10	2	6	2	8	5	14	6	9	4	10	0	0	0	1
+5	rps4	YP_009316197.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	6	4	8	4	3	3	2	1	7	0	4	0	2	7	0	4	1	5	1	0	0	2	0	13	4	2	0	4	0	9	1	9	3	5	2	2	1	9	1	22	4	3	1	5	2	4	2	1	1	0	2	2	0	6	3	4	1	2	0	1	0	1	0	0
+6	rpl10	YP_009316202.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	8	0	10	6	3	0	4	1	4	4	5	0	2	5	2	3	0	1	2	6	0	3	2	12	3	0	0	4	1	5	2	6	2	6	1	3	1	7	3	11	3	3	1	1	1	2	1	1	0	3	3	2	1	2	0	5	3	3	2	2	2	0	1	0
+7	nad5	YP_009316203.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	61	16	41	13	14	8	11	3	25	3	7	6	9	14	5	6	2	9	4	4	2	12	2	6	3	5	1	9	1	39	5	19	26	23	8	8	4	16	4	15	6	13	8	2	2	15	6	16	4	28	10	15	2	14	6	9	6	19	6	17	3	1	0	0
+8	nad4	YP_009316204.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	36	18	35	8	12	7	3	1	19	1	4	3	8	14	3	6	3	11	5	3	0	6	1	14	1	1	1	4	1	33	7	15	18	11	8	7	2	10	3	13	2	10	7	8	0	13	4	12	5	10	7	6	3	7	1	10	4	13	1	14	2	0	0	1
+9	nad2	YP_009316205.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	38	13	33	8	15	2	4	2	23	4	9	3	4	10	1	15	3	9	1	5	1	4	0	9	0	4	1	0	0	28	11	14	16	13	5	7	1	10	3	15	2	14	5	3	0	14	3	8	3	19	6	15	1	8	2	10	4	12	2	12	2	1	0	0
+10	rps12	YP_009316206.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	0	0	3	4	3	0	1	2	1	2	2	1	0	0	0	0	1	3	2	2	1	4	0	7	0	5	2	5	1	5	0	5	2	2	1	4	1	5	0	11	3	1	0	5	0	3	0	3	1	2	2	0	1	3	0	1	2	4	3	3	1	0	0	1
+11	rps7	YP_009316207.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	11	1	10	5	3	1	5	3	5	1	4	2	4	2	1	2	2	2	0	3	0	8	0	6	1	9	0	2	1	8	2	6	5	3	1	1	1	12	1	18	5	2	7	7	1	4	3	2	2	6	5	5	3	6	1	7	1	3	3	2	3	1	0	0
+12	nad6	YP_009316209.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	15	3	13	10	4	0	1	1	7	1	0	0	1	6	0	1	0	1	0	3	0	2	1	3	1	2	0	1	0	15	2	7	7	7	2	4	1	8	1	7	1	4	1	2	0	12	3	8	2	7	2	1	0	5	1	5	1	4	1	2	1	0	0	1
+13	cox2	YP_009316210.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	12	1	13	7	5	2	4	0	10	1	3	1	8	2	0	3	0	4	2	5	2	8	1	5	3	2	2	2	1	19	3	6	9	8	1	4	0	6	1	7	0	5	1	2	0	6	1	11	0	9	0	3	2	9	8	9	3	5	0	5	1	1	0	0
+14	cox3	YP_009316211.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	19	7	10	8	8	2	2	0	8	3	0	1	10	6	0	6	0	6	2	2	0	12	2	6	0	2	2	0	2	15	1	5	9	3	7	2	3	3	0	3	1	2	2	0	0	6	4	6	5	15	2	5	0	4	1	7	0	11	1	13	3	1	0	0
+15	nad1	YP_009316212.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	23	5	20	9	11	1	2	2	13	0	4	0	9	8	2	9	2	8	5	3	1	0	0	5	1	4	0	3	0	17	7	11	13	2	0	3	0	8	0	6	3	8	0	2	1	11	1	14	3	15	2	8	3	5	2	9	1	13	3	6	1	1	0	0
+16	cob	YP_009316213.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	26	6	20	8	5	2	5	5	18	4	3	3	12	14	1	6	0	10	4	7	3	10	3	7	1	5	0	3	0	23	3	14	9	4	2	5	3	13	4	7	2	11	4	3	1	11	2	10	9	20	3	7	2	7	3	6	1	9	6	8	3	0	0	1
+17	nad9	YP_009316214.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	13	1	9	1	3	0	4	3	10	1	2	0	6	0	0	2	1	6	0	3	0	5	0	8	1	6	3	3	0	6	0	7	2	2	3	3	0	6	1	9	1	6	0	1	1	5	3	1	3	2	1	1	1	9	3	7	5	3	1	2	0	1	0	0
+18	atp1	YP_009316215.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	10	4	25	11	9	1	11	3	16	2	2	3	0	8	0	4	3	9	3	5	1	3	2	26	7	13	1	6	1	30	6	8	9	12	6	8	0	11	5	22	7	7	7	3	1	15	1	15	11	26	6	14	6	18	6	21	7	14	1	23	3	1	0	0
+19	nad3	YP_009316216.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	15	1	6	6	7	1	1	1	3	2	1	1	4	1	1	3	1	3	0	1	0	0	0	0	0	1	0	1	0	6	2	4	2	0	1	0	1	1	1	1	3	2	0	1	0	3	2	2	0	4	1	2	0	6	0	4	2	3	1	2	0	1	0	0
+20	nad7	YP_009316217.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	14	5	23	5	8	2	5	0	13	2	8	1	4	8	0	2	1	11	1	3	2	11	2	17	2	8	1	11	0	14	4	6	17	10	6	3	0	9	2	14	2	6	0	6	1	11	1	11	3	13	4	7	2	17	2	19	7	8	5	11	2	0	1	0
+21	rpL2	YP_009316218.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	20	8	11	7	13	6	6	6	4	1	2	3	11	11	3	3	0	10	5	4	1	12	2	13	6	8	4	10	5	10	2	12	8	7	2	8	3	20	3	22	10	4	6	13	5	8	1	8	5	16	7	7	4	10	7	13	6	11	9	15	6	0	1	0
+22	rps19	YP_009316219.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	4	1	0	3	6	1	2	1	2	0	1	2	3	0	0	0	0	3	1	0	0	1	0	4	0	1	0	2	1	5	1	1	2	1	0	3	0	0	1	12	4	0	0	3	0	1	1	2	1	3	0	1	0	1	0	2	1	4	1	2	1	0	1	0
+23	rps3	YP_009316220.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	26	7	16	13	17	5	12	3	19	5	5	3	8	8	2	2	4	5	4	5	4	6	8	23	3	12	4	6	4	25	7	11	11	4	6	9	5	18	9	36	7	5	10	10	8	7	7	4	4	12	4	6	10	15	4	15	8	6	9	4	3	1	0	0
+24	rpL16	YP_009316221.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	4	1	2	2	1	0	3	0	1	0	2	0	3	0	0	1	0	1	1	0	0	1	0	6	0	4	0	1	0	4	2	2	3	0	2	2	0	3	0	5	1	3	2	4	0	2	1	2	2	4	1	4	3	2	0	5	1	4	0	3	1	1	0	0
+25	rpL5	YP_009316222.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	10	4	7	10	2	1	3	3	3	4	2	0	1	1	1	2	0	0	1	3	3	4	0	9	0	2	0	5	1	8	0	9	5	5	1	3	2	9	1	13	2	1	3	3	0	6	1	3	0	2	1	3	0	5	1	5	5	2	1	2	2	0	1	0
+26	rps14	YP_009316223.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	2	2	5	1	8	2	1	2	2	0	3	0	2	1	1	2	0	2	0	1	0	1	0	2	1	4	2	5	0	2	0	2	3	0	0	3	0	3	3	7	2	1	0	5	0	3	0	1	1	2	0	1	0	1	0	4	1	2	1	0	0	0	1	0
+27	rpL6	YP_009316224.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	5	1	3	1	2	0	0	0	3	1	4	1	0	1	0	2	0	3	0	1	0	3	0	6	0	0	1	2	0	5	2	3	1	3	0	0	1	2	1	13	1	3	1	0	0	4	1	1	0	1	3	1	0	1	0	4	1	1	1	4	2	1	0	0
+28	rps13	YP_009316225.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	3	1	9	2	0	0	1	1	4	0	3	0	0	1	0	0	0	0	2	0	1	2	0	8	1	2	2	4	0	9	3	2	2	6	0	0	0	8	2	5	3	3	0	3	1	3	0	2	2	3	0	2	1	3	1	3	0	4	1	3	0	0	0	1
+29	rps11	YP_009316226.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	0	1	3	1	1	2	4	3	3	0	0	1	1	1	0	2	1	1	1	2	0	2	1	2	1	3	2	4	0	9	0	1	1	5	5	2	0	4	0	8	5	1	0	1	0	3	0	2	0	3	1	3	1	3	0	4	0	5	0	6	2	1	0	0
+30	atp9	YP_009316227.1	Orthotrichum obtusifolium	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Bryophyta, Bryophytina, Bryopsida, Bryidae, Bryanae, Orthotrichales, Orthotrichaceae, Orthotrichum	6	1	7	3	2	0	1	1	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	1	0	5	2	1	3	0	1	1	0	1	1	1	1	1	0	0	0	2	0	1	0	8	3	3	2	0	0	2	0	4	0	4	0	1	0	0

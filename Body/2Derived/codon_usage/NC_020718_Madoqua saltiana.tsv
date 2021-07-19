@@ -1,65 +1,13 @@
-	YP_007626290.1|ND1	YP_007626291.1|ND2	YP_007626292.1|COX1	YP_007626293.1|COX2	YP_007626294.1|ATP8	YP_007626295.1|ATP6	YP_007626296.1|COX3	YP_007626297.1|ND3	YP_007626298.1|ND4L	YP_007626299.1|ND4	YP_007626300.1|ND5	YP_007626302.1|CYTB
-TTT	12	7	19	4	3	9	13	6	2	13	27	9
-TTC	9	7	23	1	1	4	11	3	2	12	18	16
-TTA	8	6	15	13	2	12	3	2	6	16	16	5
-TTG	2	1	1	0	1	0	0	1	1	1	0	0
-TCT	2	4	8	1	0	2	4	0	3	6	10	0
-TCC	6	10	7	7	0	3	4	1	3	13	11	7
-TCA	11	12	11	6	4	3	6	2	3	6	12	12
-TCG	0	1	1	2	0	1	1	1	0	1	1	0
-TAT	7	5	11	7	3	1	8	1	1	5	11	8
-TAC	4	3	8	3	0	1	3	2	3	10	9	7
-TGT	0	0	0	1	0	0	0	0	1	1	2	1
-TGC	1	0	1	1	0	0	2	1	2	2	3	3
-TGA	7	8	14	5	3	3	11	3	0	13	11	12
-TGG	2	2	3	0	0	0	1	1	0	0	1	0
-CTT	5	7	4	2	2	10	10	6	3	13	10	5
-CTC	10	8	11	2	1	4	4	3	1	15	19	18
-CTA	29	28	26	15	5	18	11	13	9	42	40	27
-CTG	1	5	3	2	1	1	4	1	2	7	5	3
-CCT	2	2	6	1	2	5	4	0	0	5	5	3
-CCC	9	5	13	4	1	4	4	3	1	8	12	4
-CCA	11	11	8	8	2	5	5	3	0	8	8	15
-CCG	0	0	1	0	1	0	0	0	0	0	2	0
-CAT	1	1	4	4	1	2	6	0	1	5	0	1
-CAC	3	4	13	4	0	4	10	0	1	6	11	11
-CAA	6	11	6	5	3	7	5	3	2	10	16	6
-CAG	1	0	0	1	0	2	2	0	0	1	2	0
-CGT	0	0	1	0	0	0	1	0	0	0	1	0
-CGC	2	0	1	2	0	2	1	1	0	4	2	0
-CGA	6	3	6	4	0	2	3	0	1	5	4	8
-CGG	0	0	0	0	0	0	0	0	0	1	1	0
-ATT	18	24	25	12	5	16	7	3	2	23	35	20
-ATC	12	9	13	8	0	7	8	1	3	18	28	17
-ATA	13	36	29	12	2	10	8	6	10	26	37	12
-ATG	4	4	4	4	1	2	1	0	2	9	6	4
-ACT	1	10	10	7	0	2	3	1	1	6	6	4
-ACC	5	13	8	0	1	6	10	3	2	10	21	4
-ACA	14	18	19	11	6	11	8	7	1	17	25	16
-ACG	1	0	1	0	2	3	3	1	2	6	2	2
-AAT	3	9	9	3	1	4	5	2	2	5	12	3
-AAC	9	9	10	2	2	7	3	3	3	16	23	15
-AAA	7	9	9	5	6	4	2	3	0	9	21	8
-AAG	0	2	0	1	0	0	0	0	0	2	2	1
-AGT	1	1	3	1	0	1	0	0	0	5	3	1
-AGC	3	1	0	4	0	5	4	2	1	9	9	2
-GTT	3	1	11	0	0	3	3	1	1	3	4	4
-GTC	2	6	5	3	1	2	8	1	0	3	5	11
-GTA	10	5	18	8	0	5	3	2	4	7	6	5
-GTG	1	2	3	0	0	0	1	0	2	1	0	1
-GCT	3	1	7	2	0	6	1	3	0	1	5	2
-GCC	8	8	13	1	0	6	10	5	3	11	17	6
-GCA	16	8	19	5	0	5	5	2	4	14	19	18
-GCG	1	0	1	0	0	1	0	1	0	0	0	0
-GAT	2	1	4	7	0	0	2	0	1	1	5	2
-GAC	1	0	12	3	1	1	1	2	0	3	5	9
-GAA	10	5	9	10	2	3	6	5	2	5	10	5
-GAG	1	0	0	5	0	0	2	1	0	3	1	1
-GGT	2	2	9	1	0	1	4	0	0	2	3	4
-GGC	2	2	8	1	0	4	9	0	1	8	9	5
-GGA	5	9	25	3	0	4	6	3	2	6	16	15
-GGG	3	1	5	3	0	2	1	0	1	1	1	1
-TAA	0	0	1	1	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007626290.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	12	9	8	2	2	6	11	0	7	4	0	1	7	2	5	10	29	1	2	9	11	0	1	3	6	1	0	2	6	0	18	12	13	4	1	5	14	1	3	9	7	0	1	3	3	2	10	1	3	8	16	1	2	1	10	1	2	2	5	3	0	0	0	0
+1	ND2	YP_007626291.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	7	7	6	1	4	10	12	1	5	3	0	0	8	2	7	8	28	5	2	5	11	0	1	4	11	0	0	0	3	0	24	9	36	4	10	13	18	0	9	9	9	2	1	1	1	6	5	2	1	8	8	0	1	0	5	0	2	2	9	1	0	0	0	0
+2	COX1	YP_007626292.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	19	23	15	1	8	7	11	1	11	8	0	1	14	3	4	11	26	3	6	13	8	1	4	13	6	0	1	1	6	0	25	13	29	4	10	8	19	1	9	10	9	0	3	0	11	5	18	3	7	13	19	1	4	12	9	0	9	8	25	5	1	0	0	0
+3	COX2	YP_007626293.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	4	1	13	0	1	7	6	2	7	3	1	1	5	0	2	2	15	2	1	4	8	0	4	4	5	1	0	2	4	0	12	8	12	4	7	0	11	0	3	2	5	1	1	4	0	3	8	0	2	1	5	0	7	3	10	5	1	1	3	3	1	0	0	0
+4	ATP8	YP_007626294.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	3	1	2	1	0	0	4	0	3	0	0	0	3	0	2	1	5	1	2	1	2	1	1	0	3	0	0	0	0	0	5	0	2	1	0	1	6	2	1	2	6	0	0	0	0	1	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_007626295.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	9	4	12	0	2	3	3	1	1	1	0	0	3	0	10	4	18	1	5	4	5	0	2	4	7	2	0	2	2	0	16	7	10	2	2	6	11	3	4	7	4	0	1	5	3	2	5	0	6	6	5	1	0	1	3	0	1	4	4	2	1	0	0	0
+6	COX3	YP_007626296.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	13	11	3	0	4	4	6	1	8	3	0	2	11	1	10	4	11	4	4	4	5	0	6	10	5	2	1	1	3	0	7	8	8	1	3	10	8	3	5	3	2	0	0	4	3	8	3	1	1	10	5	0	2	1	6	2	4	9	6	1	0	0	0	0
+7	ND3	YP_007626297.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	6	3	2	1	0	1	2	1	1	2	0	1	3	1	6	3	13	1	0	3	3	0	0	0	3	0	0	1	0	0	3	1	6	0	1	3	7	1	2	3	3	0	0	2	1	1	2	0	3	5	2	1	0	2	5	1	0	0	3	0	0	0	0	0
+8	ND4L	YP_007626298.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	2	2	6	1	3	3	3	0	1	3	1	2	0	0	3	1	9	2	0	1	0	0	1	1	2	0	0	0	1	0	2	3	10	2	1	2	1	2	2	3	0	0	0	1	1	0	4	2	0	3	4	0	1	0	2	0	0	1	2	1	1	0	0	0
+9	ND4	YP_007626299.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	13	12	16	1	6	13	6	1	5	10	1	2	13	0	13	15	42	7	5	8	8	0	5	6	10	1	0	4	5	1	23	18	26	9	6	10	17	6	5	16	9	2	5	9	3	3	7	1	1	11	14	0	1	3	5	3	2	8	6	1	0	0	0	0
+10	ND5	YP_007626300.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	27	18	16	0	10	11	12	1	11	9	2	3	11	1	10	19	40	5	5	12	8	2	0	11	16	2	1	2	4	1	35	28	37	6	6	21	25	2	12	23	21	2	3	9	4	5	6	0	5	17	19	0	5	5	10	1	3	9	16	1	1	0	0	0
+11	CYTB	YP_007626302.1	Madoqua saltiana	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Antilopinae, Madoqua	9	16	5	0	0	7	12	0	8	7	1	3	12	0	5	18	27	3	3	4	15	0	1	11	6	0	0	0	8	0	20	17	12	4	4	4	16	2	3	15	8	1	1	2	4	11	5	1	2	6	18	0	2	9	5	1	4	5	15	1	0	0	1	0

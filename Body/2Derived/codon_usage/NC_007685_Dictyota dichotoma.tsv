@@ -1,65 +1,33 @@
-	YP_448676.1|rps10	YP_448677.1|rps8	YP_448678.1|rpl6	YP_448679.1|rps2	YP_448680.1|rps4	YP_448681.1|nad1	YP_448683.1|orf37	YP_448684.1|rps12	YP_448685.1|rps7	YP_448686.1|nad4L	YP_448687.1|rpl14	YP_448688.1|rpl5	YP_448689.1|atp9	YP_448695.1|rps13	YP_448696.1|rps11	YP_448697.1|cox3	YP_448698.1|atp6	YP_448699.1|nad2	YP_448700.1|cox1	YP_448701.1|atp8	YP_448702.1|nad9	YP_448703.1|cob	YP_448704.1|rpl31	YP_448705.1|cox2	YP_448706.1|nad4	YP_448707.1|nad5	YP_448708.1	YP_448709.1|nad6	YP_448710.1|nad11	YP_448711.1|nad3	YP_448712.1|rps14	YP_448713.1|nad7
-TTT	6	5	7	8	14	22	5	2	12	7	3	13	5	4	3	28	20	54	44	13	13	32	5	15	46	52	10	27	10	13	3	14
-TTC	0	1	1	2	4	3	0	0	3	0	0	3	1	2	1	2	3	3	5	0	3	3	1	2	2	11	0	4	1	3	0	3
-TTA	7	13	10	14	13	26	0	6	15	7	8	10	9	3	6	18	24	33	23	5	8	23	1	16	39	37	5	28	8	12	7	19
-TTG	4	6	5	6	4	16	1	6	5	6	2	8	2	4	6	8	11	28	20	5	6	8	1	12	21	31	2	11	5	5	2	10
-TCT	3	3	3	4	5	7	0	3	7	6	2	5	0	3	2	8	7	19	17	4	3	8	4	9	15	15	0	6	6	2	3	2
-TCC	1	0	2	1	2	2	0	0	1	0	1	0	1	2	2	1	0	3	1	1	0	2	0	1	5	5	1	1	1	2	2	3
-TCA	1	0	3	2	4	4	0	2	3	2	2	1	1	2	2	1	2	6	6	2	0	3	1	6	7	9	0	6	3	1	1	3
-TCG	1	2	2	3	3	3	1	1	0	2	2	1	0	3	2	4	2	9	6	0	2	2	0	4	2	11	0	4	2	1	0	5
-TAT	2	5	5	8	9	10	0	3	8	3	0	6	0	3	2	8	6	24	12	1	4	23	0	8	14	23	4	13	1	9	2	10
-TAC	0	1	2	2	5	2	0	0	2	1	1	0	1	4	1	1	3	1	7	0	4	7	0	3	4	6	0	7	1	0	0	7
-TGT	2	2	4	6	8	4	0	3	1	1	1	5	0	4	2	1	0	6	1	0	4	0	2	4	4	16	1	7	12	1	1	5
-TGC	1	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0	2	3	1	0	2	1	0	2	0	5	0	2	0	0	0	1
-TGG	1	1	0	3	5	8	0	1	2	0	3	1	0	0	0	12	4	9	13	1	4	14	1	7	10	10	1	0	3	4	3	4
-CTT	1	2	1	0	1	5	0	1	2	3	2	2	1	3	3	1	2	20	12	3	4	5	0	4	7	17	3	8	1	2	1	5
-CTC	0	0	1	1	2	1	1	0	0	0	0	1	0	0	1	1	2	2	5	0	0	0	1	0	3	6	0	1	0	0	0	0
-CTA	2	1	3	1	3	3	0	1	1	0	1	3	0	0	1	2	2	8	5	0	0	2	1	1	6	10	0	4	1	0	0	5
-CTG	0	0	2	1	1	2	0	0	2	1	0	4	2	0	0	0	0	1	1	0	3	3	3	2	7	2	0	2	0	0	0	3
-CCT	3	0	1	2	2	5	0	2	0	1	0	2	0	0	0	2	2	3	9	0	2	7	1	7	4	6	0	1	3	2	0	7
-CCC	0	0	4	0	3	4	0	1	0	0	0	0	0	0	1	2	2	2	4	1	1	4	1	4	2	3	0	1	2	0	1	4
-CCA	0	2	0	1	2	1	0	3	3	0	1	3	1	1	1	4	3	3	4	1	3	5	0	1	8	7	0	1	1	0	0	2
-CCG	1	0	2	3	2	6	0	2	1	0	0	1	0	0	0	2	3	4	8	0	3	3	1	3	1	4	0	1	2	2	1	5
-CAT	1	4	2	2	2	2	0	2	2	0	1	3	0	2	2	10	6	3	11	1	5	8	0	4	6	10	0	1	1	1	0	9
-CAC	0	0	3	1	1	0	0	0	1	0	1	1	0	0	0	3	0	1	6	0	2	3	2	2	2	2	0	2	2	0	2	5
-CAA	1	3	2	1	2	4	0	2	6	3	5	4	1	3	2	6	4	4	7	1	4	2	1	4	6	11	2	2	3	0	5	13
-CAG	4	1	1	0	2	2	0	2	3	0	1	1	0	1	0	0	1	0	1	1	1	2	0	2	3	2	1	3	2	1	1	4
-CGT	2	1	4	4	8	5	0	7	7	2	5	5	1	5	6	1	2	4	7	1	7	3	1	4	3	8	0	3	2	0	3	10
-CGC	3	1	0	0	2	0	1	1	1	0	1	1	0	2	0	1	0	0	0	1	1	0	0	0	1	2	0	1	1	0	1	1
-CGA	0	0	1	0	2	1	0	3	1	0	1	1	0	1	4	2	0	1	3	1	2	1	0	0	1	2	0	0	2	0	4	2
-CGG	0	1	1	1	2	2	1	2	1	0	1	0	0	3	1	1	0	1	1	0	1	3	0	1	1	3	0	0	0	0	0	6
-ATT	5	4	4	10	7	18	5	5	11	12	5	5	3	4	6	8	12	21	22	4	5	15	3	13	21	22	3	14	5	6	6	17
-ATC	0	0	0	0	2	4	0	0	1	0	1	0	2	2	3	4	4	7	5	1	1	4	1	3	3	6	1	1	1	2	0	4
-ATA	4	2	7	5	5	7	2	1	3	5	2	4	1	6	4	7	9	5	14	1	3	14	0	11	17	20	0	7	5	1	1	8
-ATG	1	2	3	1	5	11	0	1	2	4	1	5	3	2	2	7	7	6	23	1	3	12	1	10	12	18	1	7	6	3	1	14
-ACT	2	1	2	0	3	4	0	3	0	2	1	5	2	0	5	10	7	6	9	2	3	6	0	2	8	5	1	3	5	1	2	7
-ACC	0	0	0	1	0	1	0	0	0	0	1	2	0	2	1	0	2	4	6	0	2	3	1	3	4	7	0	0	1	0	3	2
-ACA	1	4	2	0	3	4	0	2	1	1	2	0	0	2	2	5	2	4	6	2	3	1	1	1	5	11	0	6	3	0	0	3
-ACG	0	2	0	1	2	1	0	1	3	0	0	3	2	0	1	0	2	7	8	0	1	4	0	3	4	4	0	0	2	0	0	3
-AAT	5	3	6	16	12	9	4	6	9	3	2	4	1	3	4	4	4	12	15	2	9	17	4	10	12	18	2	6	8	1	3	12
-AAC	2	0	2	5	4	2	3	0	4	0	3	4	0	0	2	0	0	3	3	1	1	4	1	1	1	2	0	3	1	0	0	6
-AAA	6	2	15	8	21	5	3	12	13	1	14	9	2	3	11	2	3	11	7	4	5	4	4	8	9	10	4	3	6	3	6	16
-AAG	4	5	2	6	6	1	1	6	9	0	1	3	0	3	5	1	0	3	1	3	3	2	3	3	1	6	1	5	3	0	4	3
-AGT	0	4	3	7	7	9	1	3	4	2	3	1	0	3	7	2	9	13	7	2	5	6	3	7	12	13	1	4	2	3	2	5
-AGC	1	2	1	2	1	0	0	1	1	0	0	2	0	0	0	2	1	2	2	0	2	3	0	1	3	2	0	1	0	2	1	2
-AGA	1	1	0	1	2	1	1	1	4	1	4	2	1	2	2	1	1	1	0	1	1	2	1	2	1	0	0	0	1	2	2	3
-AGG	1	0	3	1	3	0	0	1	1	1	1	2	0	2	1	1	0	0	0	0	1	1	0	1	4	4	0	1	4	0	3	2
-GTT	11	6	9	9	9	13	5	6	8	4	11	5	4	2	6	13	22	27	18	6	13	16	4	12	23	31	3	13	13	6	2	14
-GTC	0	3	2	3	0	3	0	1	0	0	3	1	0	1	0	4	1	6	3	0	1	3	2	3	3	3	0	3	3	0	0	2
-GTA	2	1	4	4	2	8	1	3	2	2	2	5	0	1	2	3	4	13	3	1	2	10	0	11	14	8	0	4	5	1	2	8
-GTG	0	2	2	3	1	6	0	0	0	0	2	0	1	0	0	2	3	4	10	0	2	2	1	2	10	8	2	3	2	1	3	6
-GCT	0	3	1	2	2	10	0	1	0	2	4	2	7	0	2	12	7	15	18	1	2	16	0	6	17	19	0	6	2	4	0	9
-GCC	0	1	0	0	1	4	0	1	0	1	0	0	1	0	0	3	1	8	9	1	0	4	0	1	4	11	1	1	4	1	1	2
-GCA	1	1	1	0	0	6	0	1	3	1	4	1	4	0	0	3	6	3	3	0	1	5	0	1	7	6	0	3	2	1	3	4
-GCG	0	1	0	2	0	2	0	0	1	2	0	0	2	3	2	3	2	4	8	0	0	2	0	1	2	10	1	1	0	2	2	7
-GAT	2	4	3	4	9	6	0	2	7	3	3	7	1	4	3	3	4	8	12	3	4	9	0	11	7	15	0	10	2	5	1	15
-GAC	0	1	1	3	1	1	0	0	2	0	0	1	0	0	2	2	0	2	1	1	3	2	1	4	1	2	0	2	5	1	1	3
-GAA	1	3	3	2	5	8	1	2	4	2	2	2	1	1	4	4	2	7	4	1	8	3	2	9	10	8	0	5	9	4	1	14
-GAG	2	1	2	3	1	2	0	0	3	0	0	3	1	4	0	6	3	5	1	2	7	3	1	6	2	7	0	3	4	3	0	12
-GGT	2	5	8	6	6	13	0	5	8	4	4	4	6	5	6	14	12	15	32	1	4	23	0	9	16	33	2	6	11	2	2	18
-GGC	0	0	2	1	0	0	0	2	0	1	3	0	0	2	2	2	2	7	4	0	1	1	0	4	2	8	1	1	1	0	0	0
-GGA	0	0	1	1	1	6	0	1	2	0	1	1	2	2	0	4	2	1	8	0	1	2	0	1	5	7	0	1	4	1	1	2
-GGG	3	4	1	4	3	6	0	2	1	1	3	2	2	1	1	6	3	10	7	2	3	8	4	6	10	12	0	3	4	2	2	8
-TAA	1	0	1	1	0	1	1	0	1	0	1	1	1	1	0	0	1	1	1	1	0	0	0	0	1	1	0	1	0	1	1	1
-TAG	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
-TGA	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	rps10	YP_448676.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	6	0	7	4	3	1	1	1	2	0	2	1	1	1	0	2	0	3	0	0	1	1	0	1	4	2	3	0	0	5	0	4	1	2	0	1	0	5	2	6	4	0	1	1	1	11	0	2	0	0	0	1	0	2	0	1	2	2	0	0	3	1	0	0
+1	rps8	YP_448677.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	5	1	13	6	3	0	0	2	5	1	2	0	1	2	0	1	0	0	0	2	0	4	0	3	1	1	1	0	1	4	0	2	2	1	0	4	2	3	0	2	5	4	2	1	0	6	3	1	2	3	1	1	1	4	1	3	1	5	0	0	4	0	0	1
+2	rpl6	YP_448678.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	7	1	10	5	3	2	3	2	5	2	4	1	0	1	1	3	2	1	4	0	2	2	3	2	1	4	0	1	1	4	0	7	3	2	0	2	0	6	2	15	2	3	1	0	3	9	2	4	2	1	0	1	0	3	1	3	2	8	2	1	1	1	0	0
+3	rps2	YP_448679.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	8	2	14	6	4	1	2	3	8	2	6	0	3	0	1	1	1	2	0	1	3	2	1	1	0	4	0	0	1	10	0	5	1	0	1	0	1	16	5	8	6	7	2	1	1	9	3	4	3	2	0	0	2	4	3	2	3	6	1	1	4	1	0	0
+4	rps4	YP_448680.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	14	4	13	4	5	2	4	3	9	5	8	0	5	1	2	3	1	2	3	2	2	2	1	2	2	8	2	2	2	7	2	5	5	3	0	3	2	12	4	21	6	7	1	2	3	9	0	2	1	2	1	0	0	9	1	5	1	6	0	1	3	0	1	0
+5	nad1	YP_448681.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	22	3	26	16	7	2	4	3	10	2	4	1	8	5	1	3	2	5	4	1	6	2	0	4	2	5	0	1	2	18	4	7	11	4	1	4	1	9	2	5	1	9	0	1	0	13	3	8	6	10	4	6	2	6	1	8	2	13	0	6	6	1	0	0
+6	orf37	YP_448683.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	5	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	5	0	2	0	0	0	0	0	4	3	3	1	1	0	1	0	5	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+7	rps12	YP_448684.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	2	0	6	6	3	0	2	1	3	0	3	0	1	1	0	1	0	2	1	3	2	2	0	2	2	7	1	3	2	5	0	1	1	3	0	2	1	6	0	12	6	3	1	1	1	6	1	3	0	1	1	1	0	2	0	2	0	5	2	1	2	0	1	0
+8	rps7	YP_448685.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	12	3	15	5	7	1	3	0	8	2	1	0	2	2	0	1	2	0	0	3	1	2	1	6	3	7	1	1	1	11	1	3	2	0	0	1	3	9	4	13	9	4	1	4	1	8	0	2	0	0	0	3	1	7	2	4	3	8	0	2	1	1	0	0
+9	nad4L	YP_448686.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	7	0	7	6	6	0	2	2	3	1	1	0	0	3	0	0	1	1	0	0	0	0	0	3	0	2	0	0	0	12	0	5	4	2	0	1	0	3	0	1	0	2	0	1	1	4	0	2	0	2	1	1	2	3	0	2	0	4	1	0	1	0	0	1
+10	rpl14	YP_448687.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	3	0	8	2	2	1	2	2	0	1	1	0	3	2	0	1	0	0	0	1	0	1	1	5	1	5	1	1	1	5	1	2	1	1	1	2	0	2	3	14	1	3	0	4	1	11	3	2	2	4	0	4	0	3	0	2	0	4	3	1	3	1	0	0
+11	rpl5	YP_448688.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	13	3	10	8	5	0	1	1	6	0	5	1	1	2	1	3	4	2	0	3	1	3	1	4	1	5	1	1	0	5	0	4	5	5	2	0	3	4	4	9	3	1	2	2	2	5	1	5	0	2	0	1	0	7	1	2	3	4	0	1	2	1	0	0
+12	atp9	YP_448689.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	5	1	9	2	0	1	1	0	0	1	0	0	0	1	0	0	2	0	0	1	0	0	0	1	0	1	0	0	0	3	2	1	3	2	0	0	2	1	0	2	0	0	0	1	0	4	0	0	1	7	1	4	2	1	0	1	1	6	0	2	2	1	0	0
+13	rps13	YP_448695.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	4	2	3	4	3	2	2	3	3	4	4	0	0	3	0	0	0	0	0	1	0	2	0	3	1	5	2	1	3	4	2	6	2	0	2	2	0	3	0	3	3	3	0	2	2	2	1	1	0	0	0	0	3	4	0	1	4	5	2	2	1	1	0	0
+14	rps11	YP_448696.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	3	1	6	6	2	2	2	2	2	1	2	1	0	3	1	1	0	0	1	1	0	2	0	2	0	6	0	4	1	6	3	4	2	5	1	2	1	4	2	11	5	7	0	2	1	6	0	2	0	2	0	0	2	3	2	4	0	6	2	0	1	0	1	0
+15	cox3	YP_448697.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	28	2	18	8	8	1	1	4	8	1	1	0	12	1	1	2	0	2	2	4	2	10	3	6	0	1	1	2	1	8	4	7	7	10	0	5	0	4	0	2	1	2	2	1	1	13	4	3	2	12	3	3	3	3	2	4	6	14	2	4	6	0	0	1
+16	atp6	YP_448698.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	20	3	24	11	7	0	2	2	6	3	0	2	4	2	2	2	0	2	2	3	3	6	0	4	1	2	0	0	0	12	4	9	7	7	2	2	2	4	0	3	0	9	1	1	0	22	1	4	3	7	1	6	2	4	0	2	3	12	2	2	3	1	0	0
+17	nad2	YP_448699.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	54	3	33	28	19	3	6	9	24	1	6	3	9	20	2	8	1	3	2	3	4	3	1	4	0	4	0	1	1	21	7	5	6	6	4	4	7	12	3	11	3	13	2	1	0	27	6	13	4	15	8	3	4	8	2	7	5	15	7	1	10	1	0	0
+18	cox1	YP_448700.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	44	5	23	20	17	1	6	6	12	7	1	1	13	12	5	5	1	9	4	4	8	11	6	7	1	7	0	3	1	22	5	14	23	9	6	6	8	15	3	7	1	7	2	0	0	18	3	3	10	18	9	3	8	12	1	4	1	32	4	8	7	1	0	0
+19	atp8	YP_448701.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	13	0	5	5	4	1	2	0	1	0	0	0	1	3	0	0	0	0	1	1	0	1	0	1	1	1	1	1	0	4	1	1	1	2	0	2	0	2	1	4	3	2	0	1	0	6	0	1	0	1	1	0	0	3	1	1	2	1	0	0	2	1	0	0
+20	nad9	YP_448702.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	13	3	8	6	3	0	0	2	4	4	4	2	4	4	0	0	3	2	1	3	3	5	2	4	1	7	1	2	1	5	1	3	3	3	2	3	1	9	1	5	3	5	2	1	1	13	1	2	2	2	0	1	0	4	3	8	7	4	1	1	3	0	0	1
+21	cob	YP_448703.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	32	3	23	8	8	2	3	2	23	7	0	1	14	5	0	2	3	7	4	5	3	8	3	2	2	3	0	1	3	15	4	14	12	6	3	1	4	17	4	4	2	6	3	2	1	16	3	10	2	16	4	5	2	9	2	3	3	23	1	2	8	0	0	1
+22	rpl31	YP_448704.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	5	1	1	1	4	0	1	0	0	0	2	0	1	0	1	1	3	1	1	0	1	0	2	1	0	1	0	0	0	3	1	0	1	0	1	1	0	4	1	4	3	3	0	1	0	4	2	0	1	0	0	0	0	0	1	2	1	0	0	0	4	0	1	0
+23	cox2	YP_448705.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	15	2	16	12	9	1	6	4	8	3	4	2	7	4	0	1	2	7	4	1	3	4	2	4	2	4	0	0	1	13	3	11	10	2	3	1	3	10	1	8	3	7	1	2	1	12	3	11	2	6	1	1	1	11	4	9	6	9	4	1	6	0	1	0
+24	nad4	YP_448706.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	46	2	39	21	15	5	7	2	14	4	4	0	10	7	3	6	7	4	2	8	1	6	2	6	3	3	1	1	1	21	3	17	12	8	4	5	4	12	1	9	1	12	3	1	4	23	3	14	10	17	4	7	2	7	1	10	2	16	2	5	10	1	0	0
+25	nad5	YP_448707.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	52	11	37	31	15	5	9	11	23	6	16	5	10	17	6	10	2	6	3	7	4	10	2	11	2	8	2	2	3	22	6	20	18	5	7	11	4	18	2	10	6	13	2	0	4	31	3	8	8	19	11	6	10	15	2	8	7	33	8	7	12	1	0	0
+26	None	YP_448708.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	10	0	5	2	0	1	0	0	4	0	1	0	1	3	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	3	1	0	1	1	0	0	0	2	0	4	1	1	0	0	0	3	0	0	2	0	1	0	1	0	0	0	0	2	1	0	0	0	0	1
+27	nad6	YP_448709.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	27	4	28	11	6	1	6	4	13	7	7	2	0	8	1	4	2	1	1	1	1	1	2	2	3	3	1	0	0	14	1	7	7	3	0	6	0	6	3	3	5	4	1	0	1	13	3	4	3	6	1	3	1	10	2	5	3	6	1	1	3	1	0	0
+28	nad11	YP_448710.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	10	1	8	5	6	1	3	2	1	1	12	0	3	1	0	1	0	3	2	1	2	1	2	3	2	2	1	2	0	5	1	5	6	5	1	3	2	8	1	6	3	2	0	1	4	13	3	5	2	2	4	2	0	2	5	9	4	11	1	4	4	0	0	1
+29	nad3	YP_448711.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	13	3	12	5	2	2	1	1	9	0	1	0	4	2	0	0	0	2	0	0	2	1	0	0	1	0	0	0	0	6	2	1	3	1	0	0	0	1	0	3	0	3	2	2	0	6	0	1	1	4	1	1	2	5	1	4	3	2	0	1	2	1	0	0
+30	rps14	YP_448712.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	3	0	7	2	3	2	1	0	2	0	1	0	3	1	0	0	0	0	1	0	1	0	2	5	1	3	1	4	0	6	0	1	1	2	3	0	0	3	0	6	4	2	1	2	3	2	0	2	3	0	1	3	2	1	1	1	0	2	0	1	2	1	0	0
+31	nad7	YP_448713.1	Dictyota dichotoma	Eukaryota, Stramenopiles, PX clade, Phaeophyceae, Dictyotales, Dictyotaceae, Dictyota	14	3	19	10	2	3	3	5	10	7	5	1	4	5	0	5	3	7	4	2	5	9	5	13	4	10	1	2	6	17	4	8	14	7	2	3	3	12	6	16	3	5	2	3	2	14	2	8	6	9	2	4	7	15	3	14	12	18	0	2	8	1	0	0

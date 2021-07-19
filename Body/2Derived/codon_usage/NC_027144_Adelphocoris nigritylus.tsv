@@ -1,65 +1,10 @@
-	YP_009141030.1|ND2	YP_009141031.1|COX1	YP_009141032.1|COX2	YP_009141033.1|ATP8	YP_009141034.1|ATP6	YP_009141035.1|COX3	YP_009141036.1|ND3	YP_009141040.1|ND6	YP_009141041.1|CYTB
-TTT	11	24	5	1	10	18	7	4	16
-TTC	2	15	3	3	2	7	2	6	10
-TTA	23	36	9	2	20	13	9	21	38
-TTG	0	0	0	0	0	0	0	0	0
-TCT	3	3	4	0	2	1	0	2	2
-TCC	1	3	1	0	0	2	0	1	0
-TCA	17	24	10	2	7	8	8	4	12
-TCG	1	0	1	0	0	0	0	0	0
-TAT	12	12	6	3	9	9	0	6	13
-TAC	4	3	2	2	1	3	1	1	3
-TGT	2	0	1	1	0	3	2	0	2
-TGC	0	0	1	0	0	0	0	0	0
-TGA	8	16	6	4	4	12	3	3	12
-TGG	1	0	0	0	0	0	0	0	0
-CTT	1	2	3	0	3	5	0	1	2
-CTC	0	1	0	0	1	0	0	0	1
-CTA	7	10	10	0	10	4	4	2	11
-CTG	1	2	1	0	0	0	0	0	0
-CCT	3	6	2	1	0	3	1	1	6
-CCC	1	4	1	1	2	0	0	0	6
-CCA	5	15	8	0	8	5	3	2	11
-CCG	0	2	0	0	0	0	0	0	0
-CAT	3	10	3	0	3	13	0	1	8
-CAC	1	5	2	0	0	2	1	0	2
-CAA	6	8	6	1	3	4	1	1	7
-CAG	0	0	1	0	0	2	0	0	0
-CGT	1	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	1	0
-CGA	0	9	6	0	2	3	2	0	7
-CGG	0	0	0	0	1	0	0	0	0
-ATT	28	32	16	5	15	25	13	13	30
-ATC	6	24	6	1	7	8	6	3	13
-ATA	80	38	27	9	35	18	14	35	33
-ATG	2	2	3	1	2	1	0	2	1
-ACT	3	6	5	0	3	6	1	2	5
-ACC	4	6	1	0	2	2	1	0	2
-ACA	15	18	6	3	9	11	5	6	10
-ACG	0	0	0	0	0	0	0	0	0
-AAT	17	19	12	1	15	5	2	11	19
-AAC	7	2	6	1	4	3	1	1	9
-AAA	16	9	9	8	5	7	8	9	13
-AAG	0	0	0	0	0	2	0	0	0
-AGT	0	1	1	0	2	1	1	0	0
-AGC	1	0	0	0	0	0	0	0	1
-AGA	8	13	3	0	9	8	3	6	8
-AGG	1	0	0	0	0	1	0	0	1
-GTT	0	3	1	0	3	3	0	0	5
-GTC	0	1	0	0	0	0	0	0	1
-GTA	4	26	6	1	4	6	4	4	7
-GTG	0	0	0	0	0	0	0	0	0
-GCT	2	6	0	0	5	1	1	0	7
-GCC	1	1	1	0	1	0	1	1	0
-GCA	4	24	3	0	3	8	1	2	8
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	9	6	0	0	4	3	1	5
-GAC	0	5	1	0	1	0	0	0	3
-GAA	8	11	11	1	4	6	5	5	5
-GAG	0	0	1	0	1	0	0	0	0
-GGT	0	7	0	0	1	6	1	2	2
-GGC	1	2	0	0	0	0	0	0	0
-GGA	7	29	7	0	7	10	2	2	19
-GGG	1	7	2	0	1	2	0	0	1
-TAA	1	0	0	0	1	0	0	1	1
-TAG	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009141030.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	11	2	23	0	3	1	17	1	12	4	2	0	8	1	1	0	7	1	3	1	5	0	3	1	6	0	1	0	0	0	28	6	80	2	3	4	15	0	17	7	16	0	0	1	8	1	0	0	4	0	2	1	4	0	1	0	8	0	0	1	7	1	1	0
+1	COX1	YP_009141031.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	24	15	36	0	3	3	24	0	12	3	0	0	16	0	2	1	10	2	6	4	15	2	10	5	8	0	0	0	9	0	32	24	38	2	6	6	18	0	19	2	9	0	1	0	13	0	3	1	26	0	6	1	24	0	9	5	11	0	7	2	29	7	0	0
+2	COX2	YP_009141032.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	5	3	9	0	4	1	10	1	6	2	1	1	6	0	3	0	10	1	2	1	8	0	3	2	6	1	0	0	6	0	16	6	27	3	5	1	6	0	12	6	9	0	1	0	3	0	1	0	6	0	0	1	3	0	6	1	11	1	0	0	7	2	0	0
+3	ATP8	YP_009141033.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	1	3	2	0	0	0	2	0	3	2	1	0	4	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	5	1	9	1	0	0	3	0	1	1	8	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+4	ATP6	YP_009141034.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	10	2	20	0	2	0	7	0	9	1	0	0	4	0	3	1	10	0	0	2	8	0	3	0	3	0	0	0	2	1	15	7	35	2	3	2	9	0	15	4	5	0	2	0	9	0	3	0	4	0	5	1	3	0	0	1	4	1	1	0	7	1	1	0
+5	COX3	YP_009141035.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	18	7	13	0	1	2	8	0	9	3	3	0	12	0	5	0	4	0	3	0	5	0	13	2	4	2	0	0	3	0	25	8	18	1	6	2	11	0	5	3	7	2	1	0	8	1	3	0	6	0	1	0	8	0	4	0	6	0	6	0	10	2	0	0
+6	ND3	YP_009141036.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	7	2	9	0	0	0	8	0	0	1	2	0	3	0	0	0	4	0	1	0	3	0	0	1	1	0	0	0	2	0	13	6	14	0	1	1	5	0	2	1	8	0	1	0	3	0	0	0	4	0	1	1	1	0	3	0	5	0	1	0	2	0	0	0
+7	ND6	YP_009141040.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	4	6	21	0	2	1	4	0	6	1	0	0	3	0	1	0	2	0	1	0	2	0	1	0	1	0	0	1	0	0	13	3	35	2	2	0	6	0	11	1	9	0	0	0	6	0	0	0	4	0	0	1	2	0	1	0	5	0	2	0	2	0	1	0
+8	CYTB	YP_009141041.1	Adelphocoris nigritylus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Miridae, Mirini, Adelphocoris	16	10	38	0	2	0	12	0	13	3	2	0	12	0	2	1	11	0	6	6	11	0	8	2	7	0	0	0	7	0	30	13	33	1	5	2	10	0	19	9	13	0	0	1	8	1	5	1	7	0	7	0	8	0	5	3	5	0	2	0	19	1	1	0

@@ -1,65 +1,10 @@
-	YP_009434619.1|ND2	YP_009434620.1|COX1	YP_009434621.1|COX2	YP_009434622.1|ATP8	YP_009434623.1|ATP6	YP_009434624.1|COX3	YP_009434625.1|ND3	YP_009434629.1|ND6	YP_009434630.1|CYTB
-TTT	37	42	11	6	16	20	10	23	34
-TTC	2	2	2	1	0	4	1	1	3
-TTA	41	55	23	7	40	27	16	23	41
-TTG	1	1	1	0	0	1	0	1	1
-TCT	18	16	6	1	10	8	4	5	11
-TCC	1	2	1	0	1	3	2	0	0
-TCA	13	19	10	1	5	9	4	2	7
-TCG	0	0	0	0	0	0	0	0	1
-TAT	8	13	5	3	7	10	2	5	15
-TAC	4	2	1	1	2	3	2	2	2
-TGT	4	0	2	0	1	1	1	0	3
-TGC	0	0	0	1	0	0	0	0	0
-TGA	8	12	6	3	5	14	4	4	12
-TGG	2	2	0	0	0	0	0	0	0
-CTT	3	9	3	0	1	2	2	2	5
-CTC	0	0	0	0	0	0	1	0	0
-CTA	2	4	2	0	1	2	4	1	7
-CTG	0	0	0	0	0	0	0	0	0
-CCT	5	13	5	1	7	3	2	1	10
-CCC	0	3	0	0	0	0	0	1	0
-CCA	3	11	4	1	2	5	2	1	11
-CCG	0	1	0	0	0	0	0	0	0
-CAT	2	12	4	0	5	12	2	1	6
-CAC	0	4	1	0	0	2	0	0	4
-CAA	4	7	8	2	4	6	2	1	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	2	1	0	0	3	0	0	1
-CGC	0	1	1	0	1	0	0	0	0
-CGA	2	4	5	0	2	1	1	1	6
-CGG	0	2	0	0	0	0	0	0	0
-ATT	47	53	29	6	16	23	15	24	40
-ATC	6	1	3	1	4	4	7	0	10
-ATA	32	29	11	3	20	12	7	19	14
-ATG	2	1	1	0	1	2	0	0	2
-ACT	3	16	2	1	10	8	1	7	4
-ACC	2	1	1	0	0	0	0	1	3
-ACA	3	12	4	1	4	7	2	3	9
-ACG	0	0	1	0	0	0	0	0	0
-AAT	27	18	23	4	17	11	1	16	20
-AAC	4	2	1	0	0	1	3	2	7
-AAA	13	6	5	6	2	2	2	6	12
-AAG	0	0	0	0	0	0	0	1	0
-AGT	4	0	0	0	2	3	0	2	1
-AGC	0	1	1	0	0	0	0	0	0
-AGA	6	10	6	0	7	4	2	3	2
-AGG	0	1	0	0	1	0	1	0	0
-GTT	1	11	3	1	3	3	0	0	7
-GTC	0	0	0	0	0	1	0	0	1
-GTA	1	16	3	1	4	5	0	3	5
-GTG	0	0	1	0	1	0	0	0	0
-GCT	5	13	1	0	5	6	2	0	10
-GCC	4	6	1	1	0	0	0	0	1
-GCA	0	6	3	0	2	4	0	0	6
-GCG	0	1	0	0	0	0	0	0	0
-GAT	1	13	7	0	1	2	1	2	8
-GAC	1	1	1	0	0	2	2	1	0
-GAA	4	9	8	0	4	7	2	0	3
-GAG	0	0	0	0	0	0	2	0	0
-GGT	3	9	2	0	2	3	1	1	4
-GGC	3	0	1	0	0	0	2	0	2
-GGA	5	29	3	0	5	10	1	5	16
-GGG	0	7	2	0	3	4	0	0	3
-TAA	1	1	1	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009434619.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	37	2	41	1	18	1	13	0	8	4	4	0	8	2	3	0	2	0	5	0	3	0	2	0	4	0	0	0	2	0	47	6	32	2	3	2	3	0	27	4	13	0	4	0	6	0	1	0	1	0	5	4	0	0	1	1	4	0	3	3	5	0	1	0
+1	COX1	YP_009434620.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	42	2	55	1	16	2	19	0	13	2	0	0	12	2	9	0	4	0	13	3	11	1	12	4	7	0	2	1	4	2	53	1	29	1	16	1	12	0	18	2	6	0	0	1	10	1	11	0	16	0	13	6	6	1	13	1	9	0	9	0	29	7	1	0
+2	COX2	YP_009434621.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	11	2	23	1	6	1	10	0	5	1	2	0	6	0	3	0	2	0	5	0	4	0	4	1	8	0	1	1	5	0	29	3	11	1	2	1	4	1	23	1	5	0	0	1	6	0	3	0	3	1	1	1	3	0	7	1	8	0	2	1	3	2	1	0
+3	ATP8	YP_009434622.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	6	1	7	0	1	0	1	0	3	1	0	1	3	0	0	0	0	0	1	0	1	0	0	0	2	0	0	0	0	0	6	1	3	0	1	0	1	0	4	0	6	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009434623.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	16	0	40	0	10	1	5	0	7	2	1	0	5	0	1	0	1	0	7	0	2	0	5	0	4	0	0	1	2	0	16	4	20	1	10	0	4	0	17	0	2	0	2	0	7	1	3	0	4	1	5	0	2	0	1	0	4	0	2	0	5	3	1	0
+5	COX3	YP_009434624.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	20	4	27	1	8	3	9	0	10	3	1	0	14	0	2	0	2	0	3	0	5	0	12	2	6	0	3	0	1	0	23	4	12	2	8	0	7	0	11	1	2	0	3	0	4	0	3	1	5	0	6	0	4	0	2	2	7	0	3	0	10	4	1	0
+6	ND3	YP_009434625.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	10	1	16	0	4	2	4	0	2	2	1	0	4	0	2	1	4	0	2	0	2	0	2	0	2	0	0	0	1	0	15	7	7	0	1	0	2	0	1	3	2	0	0	0	2	1	0	0	0	0	2	0	0	0	1	2	2	2	1	2	1	0	0	1
+7	ND6	YP_009434629.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	23	1	23	1	5	0	2	0	5	2	0	0	4	0	2	0	1	0	1	1	1	0	1	0	1	0	0	0	1	0	24	0	19	0	7	1	3	0	16	2	6	1	2	0	3	0	0	0	3	0	0	0	0	0	2	1	0	0	1	0	5	0	1	0
+8	CYTB	YP_009434630.1	Dorcadia ioffi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Siphonaptera, Vermipsyllidae, Dorcadia	34	3	41	1	11	0	7	1	15	2	3	0	12	0	5	0	7	0	10	0	11	0	6	4	7	0	1	0	6	0	40	10	14	2	4	3	9	0	20	7	12	0	1	0	2	0	7	1	5	0	10	1	6	0	8	0	3	0	4	2	16	3	1	0

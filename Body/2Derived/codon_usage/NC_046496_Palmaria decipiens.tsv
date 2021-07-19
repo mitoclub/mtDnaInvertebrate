@@ -1,65 +1,10 @@
-	YP_009739207.1|rps3	YP_009739208.1|rpl16	YP_009739209.1|cox1	YP_009739210.1|cox2	YP_009739211.1|cox3	YP_009739212.1|ymf39	YP_009739213.1|cob	YP_009739229.1|rpl20	YP_009739230.1|nad4L
-TTT	12	5	37	12	19	6	22	5	5
-TTC	3	3	11	3	9	5	8	4	0
-TTA	9	11	37	12	16	14	28	8	8
-TTG	6	3	7	5	3	4	8	0	4
-TCT	9	5	16	8	9	8	8	2	5
-TCC	0	0	1	1	1	1	1	0	0
-TCA	7	4	7	3	4	4	5	2	2
-TCG	0	2	2	3	1	2	0	0	1
-TAT	6	3	15	8	2	1	12	0	3
-TAC	3	3	6	4	8	1	7	0	1
-TGT	2	1	4	2	3	4	3	2	0
-TGC	1	0	0	3	1	0	0	0	0
-TGA	2	0	11	6	6	0	7	0	1
-TGG	2	1	4	2	6	1	5	1	0
-CTT	7	5	8	5	4	7	6	0	3
-CTC	4	0	1	0	2	1	2	0	0
-CTA	5	1	5	1	9	7	5	4	4
-CTG	1	0	2	2	0	2	2	1	0
-CCT	5	3	16	8	3	1	13	1	0
-CCC	0	0	2	0	2	0	2	0	0
-CCA	2	0	11	2	3	2	3	0	0
-CCG	0	0	0	1	1	0	2	0	0
-CAT	3	1	13	5	8	4	11	1	1
-CAC	0	3	5	4	5	0	5	1	0
-CAA	6	4	6	5	6	7	6	3	3
-CAG	4	1	2	4	1	2	0	0	0
-CGT	1	2	4	1	3	1	3	1	1
-CGC	1	2	0	0	2	0	0	0	0
-CGA	1	0	0	0	0	1	0	0	0
-CGG	0	0	0	1	0	0	0	1	0
-ATT	6	7	17	12	10	6	28	3	6
-ATC	1	3	10	4	2	4	5	0	1
-ATA	7	5	16	9	4	6	10	1	7
-ATG	2	3	28	8	6	3	12	2	7
-ACT	6	3	13	7	8	3	6	2	0
-ACC	3	1	1	0	1	1	1	0	0
-ACA	2	3	19	6	7	7	6	0	4
-ACG	3	0	1	0	2	1	1	2	0
-AAT	14	7	14	11	3	11	6	2	3
-AAC	5	2	7	5	1	3	6	1	2
-AAA	17	16	8	4	3	17	4	13	2
-AAG	3	5	1	1	0	1	3	4	0
-AGT	7	6	11	5	5	3	8	0	2
-AGC	1	2	0	2	2	1	1	1	3
-AGA	4	1	5	4	2	1	5	1	1
-AGG	1	1	2	0	1	1	2	0	0
-GTT	6	2	13	10	17	4	11	1	2
-GTC	3	1	2	2	0	0	2	0	1
-GTA	6	2	13	11	11	3	16	1	3
-GTG	1	0	9	1	0	2	2	1	2
-GCT	2	2	21	5	10	1	13	0	2
-GCC	1	0	1	2	0	0	0	0	0
-GCA	4	2	13	9	5	3	9	1	1
-GCG	1	0	5	1	3	0	5	2	1
-GAT	1	0	12	6	5	2	7	0	2
-GAC	2	1	1	8	0	1	5	0	0
-GAA	6	2	4	10	5	7	4	3	2
-GAG	1	2	5	3	2	1	2	0	1
-GGT	4	4	28	7	11	3	12	3	4
-GGC	1	0	3	1	4	0	3	0	0
-GGA	3	2	12	1	3	2	8	1	0
-GGG	1	0	7	2	2	1	3	0	0
-TAA	1	1	1	1	1	1	1	0	0
-TAG	0	0	0	0	0	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	rps3	YP_009739207.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	12	3	9	6	9	0	7	0	6	3	2	1	2	2	7	4	5	1	5	0	2	0	3	0	6	4	1	1	1	0	6	1	7	2	6	3	2	3	14	5	17	3	7	1	4	1	6	3	6	1	2	1	4	1	1	2	6	1	4	1	3	1	1	0
+1	rpl16	YP_009739208.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	5	3	11	3	5	0	4	2	3	3	1	0	0	1	5	0	1	0	3	0	0	0	1	3	4	1	2	2	0	0	7	3	5	3	3	1	3	0	7	2	16	5	6	2	1	1	2	1	2	0	2	0	2	0	0	1	2	2	4	0	2	0	1	0
+2	cox1	YP_009739209.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	37	11	37	7	16	1	7	2	15	6	4	0	11	4	8	1	5	2	16	2	11	0	13	5	6	2	4	0	0	0	17	10	16	28	13	1	19	1	14	7	8	1	11	0	5	2	13	2	13	9	21	1	13	5	12	1	4	5	28	3	12	7	1	0
+3	cox2	YP_009739210.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	12	3	12	5	8	1	3	3	8	4	2	3	6	2	5	0	1	2	8	0	2	1	5	4	5	4	1	0	0	1	12	4	9	8	7	0	6	0	11	5	4	1	5	2	4	0	10	2	11	1	5	2	9	1	6	8	10	3	7	1	1	2	1	0
+4	cox3	YP_009739211.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	19	9	16	3	9	1	4	1	2	8	3	1	6	6	4	2	9	0	3	2	3	1	8	5	6	1	3	2	0	0	10	2	4	6	8	1	7	2	3	1	3	0	5	2	2	1	17	0	11	0	10	0	5	3	5	0	5	2	11	4	3	2	1	0
+5	ymf39	YP_009739212.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	6	5	14	4	8	1	4	2	1	1	4	0	0	1	7	1	7	2	1	0	2	0	4	0	7	2	1	0	1	0	6	4	6	3	3	1	7	1	11	3	17	1	3	1	1	1	4	0	3	2	1	0	3	0	2	1	7	1	3	0	2	1	1	0
+6	cob	YP_009739213.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	22	8	28	8	8	1	5	0	12	7	3	0	7	5	6	2	5	2	13	2	3	2	11	5	6	0	3	0	0	0	28	5	10	12	6	1	6	1	6	6	4	3	8	1	5	2	11	2	16	2	13	0	9	5	7	5	4	2	12	3	8	3	1	0
+7	rpl20	YP_009739229.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	5	4	8	0	2	0	2	0	0	0	2	0	0	1	0	0	4	1	1	0	0	0	1	1	3	0	1	0	0	1	3	0	1	2	2	0	0	2	2	1	13	4	0	1	1	0	1	0	1	1	0	0	1	2	0	0	3	0	3	0	1	0	0	1
+8	nad4L	YP_009739230.1	Palmaria decipiens	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Palmariales, Palmariaceae, Palmaria	5	0	8	4	5	0	2	1	3	1	0	0	1	0	3	0	4	0	0	0	0	0	1	0	3	0	1	0	0	0	6	1	7	7	0	0	4	0	3	2	2	0	2	3	1	0	2	1	3	2	2	0	1	1	2	0	2	1	4	0	0	0	0	1

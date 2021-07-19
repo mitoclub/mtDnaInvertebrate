@@ -1,65 +1,10 @@
-	YP_009350494.1|ND2	YP_009350495.1|COX1	YP_009350496.1|COX2	YP_009350497.1|ATP8	YP_009350498.1|ATP6	YP_009350499.1|COX3	YP_009350500.1|ND3	YP_009350504.1|ND6	YP_009350505.1|CYTB
-TTT	3	19	2	0	3	8	1	3	8
-TTC	11	25	8	4	8	15	7	3	20
-TTA	12	11	5	1	9	6	4	5	9
-TTG	6	3	0	0	2	0	0	0	0
-TCT	3	3	1	0	1	0	0	0	0
-TCC	7	2	2	0	0	1	4	0	0
-TCA	18	20	6	1	7	9	7	5	12
-TCG	0	1	1	0	0	1	0	0	0
-TAT	5	7	4	0	1	4	0	4	6
-TAC	7	8	4	2	3	5	1	2	10
-TGT	2	1	1	0	0	1	1	0	1
-TGC	1	1	1	0	0	0	0	1	3
-TGA	10	13	5	3	4	13	3	1	11
-TGG	0	2	0	0	0	0	0	0	1
-CTT	3	4	4	0	3	4	1	1	3
-CTC	3	5	2	0	3	1	0	3	2
-CTA	21	33	10	1	24	19	10	12	29
-CTG	6	0	0	1	2	2	0	1	1
-CCT	0	6	1	1	0	1	1	0	3
-CCC	5	5	2	0	2	4	2	1	4
-CCA	6	16	7	2	8	4	1	3	12
-CCG	1	0	0	0	0	1	1	1	4
-CAT	0	4	1	0	2	6	0	1	1
-CAC	2	12	5	0	4	9	1	2	10
-CAA	5	7	13	3	4	7	1	3	8
-CAG	0	0	0	0	0	1	0	0	0
-CGT	0	0	0	0	1	1	0	0	0
-CGC	0	2	0	0	0	0	0	0	0
-CGA	1	6	7	0	2	3	3	1	8
-CGG	0	2	0	0	0	0	0	0	0
-ATT	16	24	9	4	10	6	4	5	11
-ATC	14	16	13	1	12	10	13	7	19
-ATA	21	31	13	9	14	6	11	29	15
-ATG	4	2	0	0	0	0	1	3	2
-ACT	5	9	2	0	4	4	2	2	2
-ACC	11	5	1	0	6	4	2	3	6
-ACA	16	25	11	3	14	18	3	16	23
-ACG	1	1	1	0	1	2	0	0	0
-AAT	8	3	1	0	9	2	2	4	8
-AAC	16	15	8	7	8	5	3	4	15
-AAA	13	4	1	4	4	4	5	4	8
-AAG	4	5	4	1	1	0	0	1	4
-AGT	2	3	0	0	2	1	0	1	0
-AGC	0	4	2	0	1	0	0	0	1
-AGA	4	7	7	0	9	3	3	7	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	6	3	0	3	2	0	1	2
-GTC	0	7	0	0	0	3	0	0	2
-GTA	13	20	11	0	5	10	2	7	21
-GTG	6	3	3	0	0	2	0	0	2
-GCT	1	5	1	0	1	2	0	0	1
-GCC	8	10	1	1	1	2	0	0	7
-GCA	13	22	10	1	9	14	5	3	18
-GCG	0	0	0	0	0	0	0	1	1
-GAT	2	6	4	0	1	1	0	0	4
-GAC	0	8	7	0	0	4	3	0	6
-GAA	6	9	9	2	6	7	5	5	5
-GAG	3	1	1	0	1	1	1	0	0
-GGT	2	6	3	0	1	1	0	0	2
-GGC	1	1	0	0	1	1	1	1	0
-GGA	8	34	3	0	7	17	1	3	19
-GGG	5	4	1	0	1	2	1	2	2
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009350494.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	3	11	12	6	3	7	18	0	5	7	2	1	10	0	3	3	21	6	0	5	6	1	0	2	5	0	0	0	1	0	16	14	21	4	5	11	16	1	8	16	13	4	2	0	4	0	2	0	13	6	1	8	13	0	2	0	6	3	2	1	8	5	1	0
+1	COX1	YP_009350495.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	19	25	11	3	3	2	20	1	7	8	1	1	13	2	4	5	33	0	6	5	16	0	4	12	7	0	0	2	6	2	24	16	31	2	9	5	25	1	3	15	4	5	3	4	7	0	6	7	20	3	5	10	22	0	6	8	9	1	6	1	34	4	1	0
+2	COX2	YP_009350496.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	2	8	5	0	1	2	6	1	4	4	1	1	5	0	4	2	10	0	1	2	7	0	1	5	13	0	0	0	7	0	9	13	13	0	2	1	11	1	1	8	1	4	0	2	7	0	3	0	11	3	1	1	10	0	4	7	9	1	3	0	3	1	0	0
+3	ATP8	YP_009350497.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	0	4	1	0	0	0	1	0	0	2	0	0	3	0	0	0	1	1	1	0	2	0	0	0	3	0	0	0	0	0	4	1	9	0	0	0	3	0	0	7	4	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_009350498.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	3	8	9	2	1	0	7	0	1	3	0	0	4	0	3	3	24	2	0	2	8	0	2	4	4	0	1	0	2	0	10	12	14	0	4	6	14	1	9	8	4	1	2	1	9	0	3	0	5	0	1	1	9	0	1	0	6	1	1	1	7	1	1	0
+5	COX3	YP_009350499.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	8	15	6	0	0	1	9	1	4	5	1	0	13	0	4	1	19	2	1	4	4	1	6	9	7	1	1	0	3	0	6	10	6	0	4	4	18	2	2	5	4	0	1	0	3	0	2	3	10	2	2	2	14	0	1	4	7	1	1	1	17	2	1	0
+6	ND3	YP_009350500.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	1	7	4	0	0	4	7	0	0	1	1	0	3	0	1	0	10	0	1	2	1	1	0	1	1	0	0	0	3	0	4	13	11	1	2	2	3	0	2	3	5	0	0	0	3	0	0	0	2	0	0	0	5	0	0	3	5	1	0	1	1	1	1	0
+7	ND6	YP_009350504.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	3	3	5	0	0	0	5	0	4	2	0	1	1	0	1	3	12	1	0	1	3	1	1	2	3	0	0	0	1	0	5	7	29	3	2	3	16	0	4	4	4	1	1	0	7	0	1	0	7	0	0	0	3	1	0	0	5	0	0	1	3	2	1	0
+8	CYTB	YP_009350505.1	Termes fatalis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termitidae, Termitinae, Termes group, Termes	8	20	9	0	0	0	12	0	6	10	1	3	11	1	3	2	29	1	3	4	12	4	1	10	8	0	0	0	8	0	11	19	15	2	2	6	23	0	8	15	8	4	0	1	5	0	2	2	21	2	1	7	18	1	4	6	5	0	2	0	19	2	1	0

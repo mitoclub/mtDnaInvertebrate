@@ -1,65 +1,10 @@
-	YP_009590071.1|ND2	YP_009590072.1|COX1	YP_009590073.1|COX2	YP_009590074.1|ATP8	YP_009590075.1|ATP6	YP_009590076.1|COX3	YP_009590077.1|ND3	YP_009590081.1|ND6	YP_009590082.1|CYTB
-TTT	30	37	17	6	18	27	12	16	23
-TTC	3	8	0	1	4	3	0	1	7
-TTA	30	42	23	5	30	18	14	19	40
-TTG	10	12	2	1	5	4	2	3	7
-TCT	7	13	7	3	5	6	2	4	2
-TCC	3	0	1	0	1	1	1	0	2
-TCA	14	18	4	1	11	8	5	7	13
-TCG	2	4	2	0	0	2	0	0	1
-TAT	16	13	7	2	7	8	4	7	19
-TAC	3	2	1	0	0	1	0	0	3
-TGT	6	2	3	1	2	4	2	1	5
-TGC	1	0	0	0	2	0	0	0	0
-TGA	3	12	6	3	1	10	2	1	10
-TGG	5	3	0	0	2	1	0	0	2
-CTT	2	4	3	0	3	1	1	1	4
-CTC	0	0	0	0	2	0	0	1	0
-CTA	6	3	1	1	3	2	0	0	1
-CTG	4	1	0	0	0	0	0	0	1
-CCT	2	11	6	0	5	6	3	1	7
-CCC	1	3	0	0	0	0	0	0	1
-CCA	4	7	4	3	3	3	1	1	11
-CCG	0	3	0	0	0	0	0	1	1
-CAT	1	14	5	1	4	12	1	1	9
-CAC	0	3	0	0	0	2	1	0	1
-CAA	3	5	8	1	2	5	0	1	4
-CAG	1	1	0	0	0	0	0	0	0
-CGT	0	3	2	0	2	3	1	0	0
-CGC	0	0	0	0	0	0	0	0	2
-CGA	2	5	5	0	1	0	1	1	5
-CGG	0	1	0	0	0	0	0	0	0
-ATT	34	54	25	7	18	24	15	22	33
-ATC	0	2	0	0	0	2	3	2	7
-ATA	23	21	12	4	12	15	7	20	15
-ATG	13	6	2	1	5	4	3	3	3
-ACT	3	13	6	1	5	5	3	2	6
-ACC	2	2	0	0	1	0	1	0	2
-ACA	3	9	4	0	8	8	1	4	8
-ACG	0	2	0	0	0	1	0	0	0
-AAT	17	16	16	5	15	4	4	10	26
-AAC	3	2	0	0	1	1	0	0	2
-AAA	11	6	4	2	1	3	3	10	9
-AAG	1	2	0	0	0	0	0	0	2
-AGT	3	1	0	0	3	2	0	0	1
-AGC	0	1	0	0	0	0	0	0	0
-AGA	5	14	5	0	9	9	1	5	2
-AGG	1	0	0	0	0	0	0	0	0
-GTT	9	18	5	1	7	8	4	4	14
-GTC	0	4	2	0	0	0	0	0	2
-GTA	5	6	4	0	4	6	3	2	5
-GTG	6	6	1	0	0	2	2	0	3
-GCT	2	10	4	0	2	2	0	0	7
-GCC	0	4	0	0	0	1	0	2	0
-GCA	2	11	3	0	2	2	1	0	11
-GCG	0	1	0	0	0	0	0	0	2
-GAT	2	14	9	1	1	5	4	2	9
-GAC	0	2	0	0	0	0	0	0	1
-GAA	1	4	10	0	6	8	3	1	4
-GAG	1	4	1	0	0	0	3	1	0
-GGT	6	11	3	0	2	6	0	0	3
-GGC	0	2	0	0	0	0	1	0	0
-GGA	7	27	1	0	5	14	0	5	15
-GGG	4	7	2	0	1	0	1	0	5
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009590071.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	30	3	30	10	7	3	14	2	16	3	6	1	3	5	2	0	6	4	2	1	4	0	1	0	3	1	0	0	2	0	34	0	23	13	3	2	3	0	17	3	11	1	3	0	5	1	9	0	5	6	2	0	2	0	2	0	1	1	6	0	7	4	1	0
+1	COX1	YP_009590072.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	37	8	42	12	13	0	18	4	13	2	2	0	12	3	4	0	3	1	11	3	7	3	14	3	5	1	3	0	5	1	54	2	21	6	13	2	9	2	16	2	6	2	1	1	14	0	18	4	6	6	10	4	11	1	14	2	4	4	11	2	27	7	1	0
+2	COX2	YP_009590073.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	17	0	23	2	7	1	4	2	7	1	3	0	6	0	3	0	1	0	6	0	4	0	5	0	8	0	2	0	5	0	25	0	12	2	6	0	4	0	16	0	4	0	0	0	5	0	5	2	4	1	4	0	3	0	9	0	10	1	3	0	1	2	0	0
+3	ATP8	YP_009590074.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	6	1	5	1	3	0	1	0	2	0	1	0	3	0	0	0	1	0	0	0	3	0	1	0	1	0	0	0	0	0	7	0	4	1	1	0	0	0	5	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009590075.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	18	4	30	5	5	1	11	0	7	0	2	2	1	2	3	2	3	0	5	0	3	0	4	0	2	0	2	0	1	0	18	0	12	5	5	1	8	0	15	1	1	0	3	0	9	0	7	0	4	0	2	0	2	0	1	0	6	0	2	0	5	1	1	0
+5	COX3	YP_009590076.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	27	3	18	4	6	1	8	2	8	1	4	0	10	1	1	0	2	0	6	0	3	0	12	2	5	0	3	0	0	0	24	2	15	4	5	0	8	1	4	1	3	0	2	0	9	0	8	0	6	2	2	1	2	0	5	0	8	0	6	0	14	0	1	0
+6	ND3	YP_009590077.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	12	0	14	2	2	1	5	0	4	0	2	0	2	0	1	0	0	0	3	0	1	0	1	1	0	0	1	0	1	0	15	3	7	3	3	1	1	0	4	0	3	0	0	0	1	0	4	0	3	2	0	0	1	0	4	0	3	3	0	1	0	1	1	0
+7	ND6	YP_009590081.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	16	1	19	3	4	0	7	0	7	0	1	0	1	0	1	1	0	0	1	0	1	1	1	0	1	0	0	0	1	0	22	2	20	3	2	0	4	0	10	0	10	0	0	0	5	0	4	0	2	0	0	2	0	0	2	0	1	1	0	0	5	0	1	0
+8	CYTB	YP_009590082.1	Magicicada tredecim	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Auchenorrhyncha, Cicadoidea, Cicadidae, Cicadettinae, Lamotialnini, Magicicada, decim group	23	7	40	7	2	2	13	1	19	3	5	0	10	2	4	0	1	1	7	1	11	1	9	1	4	0	0	2	5	0	33	7	15	3	6	2	8	0	26	2	9	2	1	0	2	0	14	2	5	3	7	0	11	2	9	1	4	0	3	0	15	5	0	1

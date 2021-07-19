@@ -1,65 +1,13 @@
-	YP_009414286.1|ND1	YP_009414287.1|ND2	YP_009414288.1|COX1	YP_009414289.1|COX2	YP_009414290.1|ATP8	YP_009414291.1|ATP6	YP_009414292.1|COX3	YP_009414293.1|ND3	YP_009414294.1|ND4L	YP_009414295.1|ND4	YP_009414296.1|ND5	YP_009414298.1|CYTB
-TTT	5	4	18	4	4	6	6	2	4	11	22	14
-TTC	13	9	24	2	0	6	17	5	1	10	22	16
-TTA	15	21	17	10	3	14	5	7	9	24	22	13
-TTG	0	1	3	0	1	1	1	1	1	0	1	0
-TCT	4	6	7	6	0	5	1	1	2	3	9	6
-TCC	7	6	7	2	0	3	8	1	4	13	20	9
-TCA	8	8	12	8	5	5	7	2	1	16	13	7
-TCG	1	1	1	0	1	0	1	0	0	0	1	0
-TAT	7	1	9	8	2	1	6	3	1	10	9	7
-TAC	7	7	11	2	1	1	5	1	1	6	6	6
-TGT	1	0	1	1	0	0	0	1	1	0	2	1
-TGC	1	1	0	3	0	0	2	0	2	4	3	2
-TGA	9	9	17	5	3	3	11	4	0	12	10	12
-TGG	0	1	0	0	0	0	1	0	0	1	2	0
-CTT	4	7	8	7	1	9	7	5	3	12	10	8
-CTC	11	11	8	4	0	3	10	4	5	20	15	9
-CTA	25	20	17	12	4	15	13	10	7	31	39	22
-CTG	1	2	2	1	1	0	0	1	0	4	2	2
-CCT	6	4	13	2	3	4	5	0	1	5	6	3
-CCC	6	5	7	4	2	7	4	4	0	6	6	8
-CCA	10	10	8	5	1	2	2	3	1	7	10	11
-CCG	0	1	1	1	0	0	0	0	0	0	0	0
-CAT	2	1	7	2	2	3	5	0	0	6	5	4
-CAC	1	3	11	5	0	4	10	0	1	4	10	7
-CAA	6	10	5	4	3	7	7	3	3	9	18	7
-CAG	0	1	1	2	0	1	0	0	0	1	0	0
-CGT	0	0	3	2	0	0	0	0	0	0	3	0
-CGC	1	0	2	2	0	2	2	1	1	3	0	1
-CGA	6	3	2	2	0	3	3	0	0	7	5	7
-CGG	1	0	1	0	0	0	0	0	0	0	0	0
-ATT	19	27	33	10	5	16	9	6	5	19	33	24
-ATC	11	17	7	7	2	15	7	3	3	24	33	17
-ATA	19	29	28	13	2	12	8	4	9	32	38	16
-ATG	1	1	5	2	1	1	2	0	1	2	2	2
-ACT	4	5	8	5	1	8	4	1	1	9	9	6
-ACC	6	12	8	7	2	6	6	2	3	12	14	9
-ACA	12	24	19	5	3	7	12	3	3	22	27	13
-ACG	0	0	0	1	1	1	0	0	0	1	3	0
-AAT	5	11	11	2	3	4	3	3	3	17	14	7
-AAC	8	11	5	2	1	5	3	2	3	7	25	7
-AAA	6	13	8	4	5	5	2	4	0	12	19	10
-AAG	1	0	1	0	1	0	0	0	0	0	4	0
-AGT	1	0	2	2	1	1	2	0	1	4	0	2
-AGC	1	2	2	2	0	2	3	1	0	6	8	4
-GTT	0	0	8	5	0	2	4	0	0	3	1	4
-GTC	4	1	4	3	0	1	3	0	0	1	5	3
-GTA	7	2	24	7	1	7	5	4	3	8	13	7
-GTG	0	1	2	0	0	0	0	0	0	0	1	2
-GCT	5	1	11	2	0	2	4	1	0	5	7	2
-GCC	14	12	11	5	0	8	6	4	5	7	15	8
-GCA	10	7	19	3	0	4	6	5	2	12	13	13
-GCG	0	0	2	0	0	0	0	0	0	1	0	0
-GAT	1	0	9	6	1	0	4	2	0	1	5	5
-GAC	2	0	6	4	0	1	0	1	1	3	4	6
-GAA	10	4	8	14	1	3	8	6	2	9	11	6
-GAG	1	0	2	2	0	0	0	1	0	0	0	0
-GGT	1	1	10	2	0	2	4	1	0	4	4	4
-GGC	4	3	10	3	0	2	11	0	3	4	11	8
-GGA	7	9	22	3	0	6	5	2	1	9	11	12
-GGG	0	1	5	0	0	0	1	0	0	0	2	0
-TAA	0	0	1	1	0	1	0	1	1	0	1	0
-TAG	0	1	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009414286.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	5	13	15	0	4	7	8	1	7	7	1	1	9	0	4	11	25	1	6	6	10	0	2	1	6	0	0	1	6	1	19	11	19	1	4	6	12	0	5	8	6	1	1	1	0	4	7	0	5	14	10	0	1	2	10	1	1	4	7	0	0	0	0	0
+1	ND2	YP_009414287.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	4	9	21	1	6	6	8	1	1	7	0	1	9	1	7	11	20	2	4	5	10	1	1	3	10	1	0	0	3	0	27	17	29	1	5	12	24	0	11	11	13	0	0	2	0	1	2	1	1	12	7	0	0	0	4	0	1	3	9	1	0	1	0	0
+2	COX1	YP_009414288.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	18	24	17	3	7	7	12	1	9	11	1	0	17	0	8	8	17	2	13	7	8	1	7	11	5	1	3	2	2	1	33	7	28	5	8	8	19	0	11	5	8	1	2	2	8	4	24	2	11	11	19	2	9	6	8	2	10	10	22	5	1	0	0	0
+3	COX2	YP_009414289.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	4	2	10	0	6	2	8	0	8	2	1	3	5	0	7	4	12	1	2	4	5	1	2	5	4	2	2	2	2	0	10	7	13	2	5	7	5	1	2	2	4	0	2	2	5	3	7	0	2	5	3	0	6	4	14	2	2	3	3	0	1	0	0	0
+4	ATP8	YP_009414290.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	4	0	3	1	0	0	5	1	2	1	0	0	3	0	1	0	4	1	3	2	1	0	2	0	3	0	0	0	0	0	5	2	2	1	1	2	3	1	3	1	5	1	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_009414291.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	6	6	14	1	5	3	5	0	1	1	0	0	3	0	9	3	15	0	4	7	2	0	3	4	7	1	0	2	3	0	16	15	12	1	8	6	7	1	4	5	5	0	1	2	2	1	7	0	2	8	4	0	0	1	3	0	2	2	6	0	1	0	0	0
+6	COX3	YP_009414292.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	6	17	5	1	1	8	7	1	6	5	0	2	11	1	7	10	13	0	5	4	2	0	5	10	7	0	0	2	3	0	9	7	8	2	4	6	12	0	3	3	2	0	2	3	4	3	5	0	4	6	6	0	4	0	8	0	4	11	5	1	0	0	0	0
+7	ND3	YP_009414293.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	2	5	7	1	1	1	2	0	3	1	1	0	4	0	5	4	10	1	0	4	3	0	0	0	3	0	0	1	0	0	6	3	4	0	1	2	3	0	3	2	4	0	0	1	0	0	4	0	1	4	5	0	2	1	6	1	1	0	2	0	1	0	0	0
+8	ND4L	YP_009414294.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	4	1	9	1	2	4	1	0	1	1	1	2	0	0	3	5	7	0	1	0	1	0	0	1	3	0	0	1	0	0	5	3	9	1	1	3	3	0	3	3	0	0	1	0	0	0	3	0	0	5	2	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009414295.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	11	10	24	0	3	13	16	0	10	6	0	4	12	1	12	20	31	4	5	6	7	0	6	4	9	1	0	3	7	0	19	24	32	2	9	12	22	1	17	7	12	0	4	6	3	1	8	0	5	7	12	1	1	3	9	0	4	4	9	0	0	0	0	0
+10	ND5	YP_009414296.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	22	22	22	1	9	20	13	1	9	6	2	3	10	2	10	15	39	2	6	6	10	0	5	10	18	0	3	0	5	0	33	33	38	2	9	14	27	3	14	25	19	4	0	8	1	5	13	1	7	15	13	0	5	4	11	0	4	11	11	2	1	0	0	0
+11	CYTB	YP_009414298.1	Cheirogaleus sibreei	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Cheirogaleidae, Cheirogaleus	14	16	13	0	6	9	7	0	7	6	1	2	12	0	8	9	22	2	3	8	11	0	4	7	7	0	0	1	7	0	24	17	16	2	6	9	13	0	7	7	10	0	2	4	4	3	7	2	2	8	13	0	5	6	6	0	4	8	12	0	0	0	1	0

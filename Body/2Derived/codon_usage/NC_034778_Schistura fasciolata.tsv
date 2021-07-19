@@ -1,65 +1,13 @@
-	YP_009370083.1|ND1	YP_009370084.1|ND2	YP_009370085.1|COX1	YP_009370086.1|COX2	YP_009370087.1|ATP8	YP_009370088.1|ATP6	YP_009370089.1|COX3	YP_009370090.1|ND3	YP_009370091.1|ND4L	YP_009370092.1|ND4	YP_009370093.1|ND5	YP_009370095.1|CYTB
-TTT	8	6	19	4	2	9	9	3	4	5	16	11
-TTC	9	3	23	5	1	4	14	6	4	11	23	18
-TTA	12	13	14	7	4	13	6	6	4	24	16	14
-TTG	1	0	1	0	0	1	1	0	2	2	1	1
-TCT	4	1	8	1	0	0	3	0	1	3	5	4
-TCC	5	10	4	8	1	1	6	4	2	13	8	8
-TCA	8	7	12	4	1	3	3	0	3	7	19	7
-TCG	1	0	1	0	0	0	0	1	0	0	0	2
-TAT	5	4	12	4	0	3	6	1	0	5	3	7
-TAC	7	4	6	5	0	2	6	1	0	10	8	7
-TGT	0	0	0	1	0	0	1	0	2	0	2	1
-TGC	0	1	1	1	0	0	1	1	1	5	4	3
-TGA	7	9	17	5	4	5	12	5	1	15	13	13
-TGG	1	2	0	0	1	0	0	0	0	5	1	0
-CTT	5	11	11	16	0	8	7	3	1	13	13	7
-CTC	7	7	10	0	0	7	4	4	3	15	18	5
-CTA	32	32	20	5	1	13	12	12	11	30	33	27
-CTG	5	2	6	0	1	3	3	1	1	3	7	5
-CCT	1	3	6	2	2	1	3	1	0	3	3	2
-CCC	12	4	8	5	2	5	3	1	1	7	13	5
-CCA	10	11	13	5	3	11	6	6	1	18	14	14
-CCG	1	1	1	2	0	0	0	0	0	0	2	0
-CAT	1	0	4	1	1	1	7	1	0	5	4	2
-CAC	4	6	15	9	2	2	9	0	4	6	10	10
-CAA	4	11	8	6	2	7	9	3	3	13	16	6
-CAG	3	2	1	2	0	1	0	0	0	0	2	0
-CGT	1	0	1	0	0	0	0	0	0	1	0	0
-CGC	2	0	2	2	0	2	2	1	1	1	0	1
-CGA	4	4	4	4	0	4	3	0	1	8	10	6
-CGG	1	0	1	0	0	0	0	1	1	1	0	1
-ATT	14	19	29	12	2	14	4	6	1	28	33	13
-ATC	8	10	8	5	1	9	11	1	0	14	22	17
-ATA	13	17	15	9	1	8	6	2	3	18	24	10
-ATG	1	2	8	3	2	2	2	1	5	9	10	1
-ACT	4	4	6	0	2	2	0	1	0	5	9	3
-ACC	6	18	10	4	1	6	6	2	6	18	24	7
-ACA	11	22	17	7	0	9	11	4	1	19	29	10
-ACG	0	2	5	0	0	3	4	0	0	0	1	3
-AAT	5	3	9	3	1	6	0	0	0	3	8	6
-AAC	7	6	6	3	2	2	1	3	2	10	19	11
-AAA	7	10	8	4	3	1	2	1	0	7	21	9
-AAG	0	0	0	0	0	0	0	0	0	3	1	0
-AGT	1	0	1	0	0	1	0	0	1	0	1	0
-AGC	2	3	4	3	0	5	3	0	1	5	13	1
-GTT	2	3	13	6	0	6	5	1	1	4	6	4
-GTC	7	1	6	4	0	5	4	2	0	4	6	5
-GTA	6	3	19	10	2	6	6	2	1	6	11	17
-GTG	3	1	6	1	0	0	1	1	0	0	3	1
-GCT	2	6	6	2	1	4	4	3	1	3	6	4
-GCC	18	17	23	7	2	8	7	4	8	19	27	12
-GCA	13	20	15	4	2	8	11	2	6	12	19	15
-GCG	0	0	3	3	0	0	0	1	0	1	0	1
-GAT	4	1	4	3	0	0	2	2	0	0	6	2
-GAC	0	2	10	9	2	1	3	2	1	3	7	9
-GAA	10	3	6	13	1	2	9	4	1	9	10	6
-GAG	1	3	4	2	2	2	1	2	2	2	1	1
-GGT	2	1	8	1	0	3	0	1	1	3	5	1
-GGC	4	6	11	0	0	2	7	1	2	5	6	4
-GGA	8	8	20	6	0	4	9	4	2	15	16	17
-GGG	4	3	7	2	0	2	6	1	0	6	4	3
-TAA	1	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009370083.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	8	9	12	1	4	5	8	1	5	7	0	0	7	1	5	7	32	5	1	12	10	1	1	4	4	3	1	2	4	1	14	8	13	1	4	6	11	0	5	7	7	0	1	2	2	7	6	3	2	18	13	0	4	0	10	1	2	4	8	4	1	0	0	0
+1	ND2	YP_009370084.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	6	3	13	0	1	10	7	0	4	4	0	1	9	2	11	7	32	2	3	4	11	1	0	6	11	2	0	0	4	0	19	10	17	2	4	18	22	2	3	6	10	0	0	3	3	1	3	1	6	17	20	0	1	2	3	3	1	6	8	3	0	0	0	0
+2	COX1	YP_009370085.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	19	23	14	1	8	4	12	1	12	6	0	1	17	0	11	10	20	6	6	8	13	1	4	15	8	1	1	2	4	1	29	8	15	8	6	10	17	5	9	6	8	0	1	4	13	6	19	6	6	23	15	3	4	10	6	4	8	11	20	7	0	1	0	0
+3	COX2	YP_009370086.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	4	5	7	0	1	8	4	0	4	5	1	1	5	0	16	0	5	0	2	5	5	2	1	9	6	2	0	2	4	0	12	5	9	3	0	4	7	0	3	3	4	0	0	3	6	4	10	1	2	7	4	3	3	9	13	2	1	0	6	2	0	0	0	0
+4	ATP8	YP_009370087.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	2	1	4	0	0	1	1	0	0	0	0	0	4	1	0	0	1	1	2	2	3	0	1	2	2	0	0	0	0	0	2	1	1	2	2	1	0	0	1	2	3	0	0	0	0	0	2	0	1	2	2	0	0	2	1	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_009370088.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	9	4	13	1	0	1	3	0	3	2	0	0	5	0	8	7	13	3	1	5	11	0	1	2	7	1	0	2	4	0	14	9	8	2	2	6	9	3	6	2	1	0	1	5	6	5	6	0	4	8	8	0	0	1	2	2	3	2	4	2	1	0	0	0
+6	COX3	YP_009370089.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	9	14	6	1	3	6	3	0	6	6	1	1	12	0	7	4	12	3	3	3	6	0	7	9	9	0	0	2	3	0	4	11	6	2	0	6	11	4	0	1	2	0	0	3	5	4	6	1	4	7	11	0	2	3	9	1	0	7	9	6	0	0	0	0
+7	ND3	YP_009370090.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	3	6	6	0	0	4	0	1	1	1	0	1	5	0	3	4	12	1	1	1	6	0	1	0	3	0	0	1	0	1	6	1	2	1	1	2	4	0	0	3	1	0	0	0	1	2	2	1	3	4	2	1	2	2	4	2	1	1	4	1	0	0	0	0
+8	ND4L	YP_009370091.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	4	4	4	2	1	2	3	0	0	0	2	1	1	0	1	3	11	1	0	1	1	0	0	4	3	0	0	1	1	1	1	0	3	5	0	6	1	0	0	2	0	0	1	1	1	0	1	0	1	8	6	0	0	1	1	2	1	2	2	0	1	0	0	0
+9	ND4	YP_009370092.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	5	11	24	2	3	13	7	0	5	10	0	5	15	5	13	15	30	3	3	7	18	0	5	6	13	0	1	1	8	1	28	14	18	9	5	18	19	0	3	10	7	3	0	5	4	4	6	0	3	19	12	1	0	3	9	2	3	5	15	6	0	0	0	0
+10	ND5	YP_009370093.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	16	23	16	1	5	8	19	0	3	8	2	4	13	1	13	18	33	7	3	13	14	2	4	10	16	2	0	0	10	0	33	22	24	10	9	24	29	1	8	19	21	1	1	13	6	6	11	3	6	27	19	0	6	7	10	1	5	6	16	4	1	0	0	0
+11	CYTB	YP_009370095.1	Schistura fasciolata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Nemacheilidae, Schistura	11	18	14	1	4	8	7	2	7	7	1	3	13	0	7	5	27	5	2	5	14	0	2	10	6	0	0	1	6	1	13	17	10	1	3	7	10	3	6	11	9	0	0	1	4	5	17	1	4	12	15	1	2	9	6	1	1	4	17	3	0	0	0	0

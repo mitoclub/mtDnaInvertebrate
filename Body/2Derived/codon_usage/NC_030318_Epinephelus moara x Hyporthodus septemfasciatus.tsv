@@ -1,65 +1,13 @@
-	YP_009256962.1	YP_009256963.1	YP_009256964.1	YP_009256965.1	YP_009256966.1	YP_009256967.1	YP_009256968.1	YP_009256969.1	YP_009256970.1	YP_009256971.1	YP_009256972.1	YP_009256974.1
-TTT	6	5	16	5	2	9	9	4	4	6	19	11
-TTC	13	7	26	4	4	3	15	4	2	11	27	19
-TTA	11	17	11	5	1	12	4	7	1	15	13	8
-TTG	1	2	0	0	0	0	2	1	1	2	3	1
-TCT	1	3	11	2	1	2	4	0	0	9	8	6
-TCC	8	8	3	6	0	2	3	5	6	6	13	8
-TCA	7	5	8	4	0	1	6	1	1	8	12	5
-TCG	0	0	1	0	0	1	0	1	0	0	1	3
-TAT	1	3	5	2	0	2	4	0	0	3	3	3
-TAC	11	4	13	7	1	3	8	2	0	10	7	11
-TGT	0	0	0	1	0	0	0	0	2	1	2	0
-TGC	0	1	1	1	0	0	2	1	2	3	5	3
-TGA	6	9	16	5	5	3	10	5	1	17	13	13
-TGG	2	2	1	0	0	0	2	0	0	2	1	0
-CTT	15	13	22	9	0	6	8	2	3	20	20	13
-CTC	13	18	10	2	4	11	6	9	7	27	25	16
-CTA	21	26	12	11	3	20	9	7	10	32	30	19
-CTG	2	3	6	1	0	7	2	4	2	3	5	5
-CCT	6	3	9	0	4	4	2	3	1	3	10	5
-CCC	12	13	7	6	4	5	9	3	1	18	16	9
-CCA	5	6	10	8	1	5	1	2	0	6	5	7
-CCG	1	0	3	0	0	0	0	0	0	0	1	0
-CAT	2	0	3	3	0	0	5	1	1	2	3	3
-CAC	2	6	17	7	1	5	11	0	4	12	11	9
-CAA	8	14	6	9	2	7	8	1	2	8	14	5
-CAG	0	2	1	0	0	1	1	1	1	1	3	1
-CGT	0	0	4	1	0	0	0	0	0	0	0	2
-CGC	2	1	1	2	0	2	0	0	1	5	4	2
-CGA	6	3	4	3	0	3	5	2	1	5	8	3
-CGG	0	0	0	0	0	1	0	0	0	1	0	2
-ATT	7	12	24	10	0	7	11	3	1	14	25	21
-ATC	18	10	20	9	1	11	5	5	1	19	24	10
-ATA	6	12	13	8	0	6	6	1	2	20	27	7
-ATG	2	2	11	3	1	1	1	1	2	4	3	2
-ACT	5	4	6	2	0	5	1	1	2	6	8	4
-ACC	10	22	11	2	2	7	4	3	3	18	27	8
-ACA	8	23	19	7	2	10	17	3	3	16	15	7
-ACG	0	1	1	0	1	1	0	0	0	0	4	1
-AAT	5	5	6	1	1	3	0	1	0	3	4	7
-AAC	7	5	8	4	0	9	1	1	3	8	20	11
-AAA	7	9	8	3	3	0	2	1	0	10	19	8
-AAG	0	0	0	1	2	1	0	0	0	0	2	1
-AGT	0	0	0	0	0	2	0	0	0	0	3	0
-AGC	2	5	5	3	0	2	3	0	2	8	13	2
-GTT	5	2	6	7	1	2	6	1	0	7	7	5
-GTC	5	1	9	5	0	3	5	3	1	2	5	10
-GTA	5	2	22	7	2	6	6	0	1	4	13	6
-GTG	0	2	2	2	1	3	0	0	1	4	1	0
-GCT	5	4	8	2	0	5	4	3	3	5	9	5
-GCC	17	15	24	8	2	6	9	7	6	15	26	18
-GCA	14	11	14	6	0	7	8	0	5	14	20	13
-GCG	1	2	1	0	0	1	0	0	0	2	0	0
-GAT	0	0	3	5	0	0	1	2	0	0	2	5
-GAC	4	2	11	9	1	1	4	3	1	6	10	6
-GAA	7	4	8	13	0	4	8	4	2	8	12	6
-GAG	4	1	3	0	1	0	2	1	0	2	0	0
-GGT	1	2	11	3	0	2	4	1	0	5	5	3
-GGC	6	9	15	3	1	3	10	1	4	9	13	8
-GGA	8	3	16	3	0	3	6	4	1	10	9	12
-GGG	3	4	4	0	0	1	1	0	0	5	4	2
-TAA	1	0	1	0	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009256962.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	6	13	11	1	1	8	7	0	1	11	0	0	6	2	15	13	21	2	6	12	5	1	2	2	8	0	0	2	6	0	7	18	6	2	5	10	8	0	5	7	7	0	0	2	5	5	5	0	5	17	14	1	0	4	7	4	1	6	8	3	1	0	0	0
+1	None	YP_009256963.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	5	7	17	2	3	8	5	0	3	4	0	1	9	2	13	18	26	3	3	13	6	0	0	6	14	2	0	1	3	0	12	10	12	2	4	22	23	1	5	5	9	0	0	5	2	1	2	2	4	15	11	2	0	2	4	1	2	9	3	4	0	0	0	0
+2	None	YP_009256964.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	16	26	11	0	11	3	8	1	5	13	0	1	16	1	22	10	12	6	9	7	10	3	3	17	6	1	4	1	4	0	24	20	13	11	6	11	19	1	6	8	8	0	0	5	6	9	22	2	8	24	14	1	3	11	8	3	11	15	16	4	1	0	0	0
+3	None	YP_009256965.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	5	4	5	0	2	6	4	0	2	7	1	1	5	0	9	2	11	1	0	6	8	0	3	7	9	0	1	2	3	0	10	9	8	3	2	2	7	0	1	4	3	1	0	3	7	5	7	2	2	8	6	0	5	9	13	0	3	3	3	0	0	0	0	0
+4	None	YP_009256966.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	2	4	1	0	1	0	0	0	0	1	0	0	5	0	0	4	3	0	4	4	1	0	0	1	2	0	0	0	0	0	0	1	0	1	0	2	2	1	1	0	3	2	0	0	1	0	2	1	0	2	0	0	0	1	0	1	0	1	0	0	1	0	0	0
+5	None	YP_009256967.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	9	3	12	0	2	2	1	1	2	3	0	0	3	0	6	11	20	7	4	5	5	0	0	5	7	1	0	2	3	1	7	11	6	1	5	7	10	1	3	9	0	1	2	2	2	3	6	3	5	6	7	1	0	1	4	0	2	3	3	1	1	0	0	0
+6	None	YP_009256968.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	9	15	4	2	4	3	6	0	4	8	0	2	10	2	8	6	9	2	2	9	1	0	5	11	8	1	0	0	5	0	11	5	6	1	1	4	17	0	0	1	2	0	0	3	6	5	6	0	4	9	8	0	1	4	8	2	4	10	6	1	0	0	0	0
+7	None	YP_009256969.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	4	4	7	1	0	5	1	1	0	2	0	1	5	0	2	9	7	4	3	3	2	0	1	0	1	1	0	0	2	0	3	5	1	1	1	3	3	0	1	1	1	0	0	0	1	3	0	0	3	7	0	0	2	3	4	1	1	1	4	0	0	0	0	0
+8	None	YP_009256970.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	4	2	1	1	0	6	1	0	0	0	2	2	1	0	3	7	10	2	1	1	0	0	1	4	2	1	0	1	1	0	1	1	2	2	2	3	3	0	0	3	0	0	0	2	0	1	1	1	3	6	5	0	0	1	2	0	0	4	1	0	1	0	0	0
+9	None	YP_009256971.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	6	11	15	2	9	6	8	0	3	10	1	3	17	2	20	27	32	3	3	18	6	0	2	12	8	1	0	5	5	1	14	19	20	4	6	18	16	0	3	8	10	0	0	8	7	2	4	4	5	15	14	2	0	6	8	2	5	9	10	5	0	0	0	0
+10	None	YP_009256972.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	19	27	13	3	8	13	12	1	3	7	2	5	13	1	20	25	30	5	10	16	5	1	3	11	14	3	0	4	8	0	25	24	27	3	8	27	15	4	4	20	19	2	3	13	7	5	13	1	9	26	20	0	2	10	12	0	5	13	9	4	0	1	0	0
+11	None	YP_009256974.1	Epinephelus moara x Hyporthodus septemfasciatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Serranoidei, Serranidae, Epinephelinae, Epinephelini, Epinephelini intergeneric hybrids	11	19	8	1	6	8	5	3	3	11	0	3	13	0	13	16	19	5	5	9	7	0	3	9	5	1	2	2	3	2	21	10	7	2	4	8	7	1	7	11	8	1	0	2	5	10	6	0	5	18	13	0	5	6	6	0	3	8	12	2	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_009502267.1|ND2	YP_009502268.1|COX1	YP_009502269.1|COX2	YP_009502270.1|ATP8	YP_009502271.1|ATP6	YP_009502272.1|COX3	YP_009502273.1|ND3	YP_009502277.1|ND6	YP_009502278.1|CYTB
-TTT	28	30	11	6	13	22	9	11	27
-TTC	5	13	3	0	6	7	5	5	7
-TTA	33	34	10	4	27	15	9	15	32
-TTG	1	4	0	0	1	2	0	1	3
-TCT	13	21	6	0	8	8	3	7	12
-TCC	9	5	2	1	2	3	4	2	4
-TCA	10	8	8	2	8	5	2	6	6
-TCG	1	0	1	0	0	1	1	0	0
-TAT	5	6	8	0	3	6	0	1	8
-TAC	6	10	1	1	2	5	0	3	9
-TGT	0	0	1	0	1	1	1	2	0
-TGC	0	0	2	1	0	0	1	1	1
-TGA	9	12	6	2	5	13	3	2	12
-TGG	0	2	0	0	0	0	0	0	1
-CTT	4	12	7	1	8	5	1	6	13
-CTC	3	2	2	1	2	1	0	2	1
-CTA	9	14	4	0	5	4	3	4	10
-CTG	1	1	1	0	0	0	0	1	3
-CCT	5	10	6	2	7	7	1	2	6
-CCC	5	7	2	0	2	0	3	2	6
-CCA	3	7	4	1	4	3	1	2	10
-CCG	1	0	0	0	0	1	0	1	1
-CAT	2	7	2	0	1	11	1	1	5
-CAC	0	8	3	0	2	3	1	1	4
-CAA	4	8	6	2	3	4	1	3	10
-CAG	2	0	0	0	0	0	0	0	0
-CGT	0	2	0	0	2	0	0	0	0
-CGC	0	1	0	0	0	1	0	0	0
-CGA	0	4	2	0	0	2	2	2	5
-CGG	0	1	2	0	0	0	0	0	0
-ATT	32	56	27	5	15	20	16	19	32
-ATC	11	6	3	2	1	4	4	2	12
-ATA	22	30	13	3	22	14	10	12	15
-ATG	2	4	0	0	2	2	0	0	2
-ACT	9	17	3	2	5	4	2	3	5
-ACC	1	2	4	1	3	3	1	2	2
-ACA	7	12	5	3	6	9	2	4	8
-ACG	0	0	0	0	0	1	0	0	0
-AAT	11	14	11	1	10	9	4	6	12
-AAC	4	8	3	0	4	4	1	3	9
-AAA	17	8	7	6	5	7	6	9	10
-AAG	3	1	1	0	1	1	0	0	1
-AGT	4	7	1	0	2	2	0	0	2
-AGC	0	1	1	0	0	0	0	0	0
-AGA	8	7	5	0	5	8	2	3	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	9	2	0	5	7	1	4	7
-GTC	1	3	0	0	0	1	0	0	0
-GTA	5	9	5	0	4	8	3	1	11
-GTG	1	1	1	0	0	1	0	0	0
-GCT	4	13	2	0	7	2	1	0	9
-GCC	1	3	2	1	2	0	0	0	3
-GCA	3	11	1	0	2	1	0	1	4
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	7	7	0	0	3	2	2	6
-GAC	0	5	3	0	1	1	1	0	2
-GAA	5	8	7	1	4	5	4	3	4
-GAG	1	0	1	0	0	0	1	0	0
-GGT	1	4	1	1	2	3	0	0	2
-GGC	1	0	0	0	1	0	0	0	0
-GGA	7	30	4	0	3	7	3	2	16
-GGG	0	5	1	0	0	2	0	2	5
-TAA	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009502267.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	28	5	33	1	13	9	10	1	5	6	0	0	9	0	4	3	9	1	5	5	3	1	2	0	4	2	0	0	0	0	32	11	22	2	9	1	7	0	11	4	17	3	4	0	8	0	2	1	5	1	4	1	3	0	1	0	5	1	1	1	7	0	1	0
+1	COX1	YP_009502268.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	30	13	34	4	21	5	8	0	6	10	0	0	12	2	12	2	14	1	10	7	7	0	7	8	8	0	2	1	4	1	56	6	30	4	17	2	12	0	14	8	8	1	7	1	7	0	9	3	9	1	13	3	11	0	7	5	8	0	4	0	30	5	1	0
+2	COX2	YP_009502269.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	11	3	10	0	6	2	8	1	8	1	1	2	6	0	7	2	4	1	6	2	4	0	2	3	6	0	0	0	2	2	27	3	13	0	3	4	5	0	11	3	7	1	1	1	5	0	2	0	5	1	2	2	1	0	7	3	7	1	1	0	4	1	0	0
+3	ATP8	YP_009502270.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	6	0	4	0	0	1	2	0	0	1	0	1	2	0	1	1	0	0	2	0	1	0	0	0	2	0	0	0	0	0	5	2	3	0	2	1	3	0	1	0	6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0
+4	ATP6	YP_009502271.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	13	6	27	1	8	2	8	0	3	2	1	0	5	0	8	2	5	0	7	2	4	0	1	2	3	0	2	0	0	0	15	1	22	2	5	3	6	0	10	4	5	1	2	0	5	0	5	0	4	0	7	2	2	0	0	1	4	0	2	1	3	0	1	0
+5	COX3	YP_009502272.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	22	7	15	2	8	3	5	1	6	5	1	0	13	0	5	1	4	0	7	0	3	1	11	3	4	0	0	1	2	0	20	4	14	2	4	3	9	1	9	4	7	1	2	0	8	0	7	1	8	1	2	0	1	0	3	1	5	0	3	0	7	2	1	0
+6	ND3	YP_009502273.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	9	5	9	0	3	4	2	1	0	0	1	1	3	0	1	0	3	0	1	3	1	0	1	1	1	0	0	0	2	0	16	4	10	0	2	1	2	0	4	1	6	0	0	0	2	0	1	0	3	0	1	0	0	0	2	1	4	1	0	0	3	0	1	0
+7	ND6	YP_009502277.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	11	5	15	1	7	2	6	0	1	3	2	1	2	0	6	2	4	1	2	2	2	1	1	1	3	0	0	0	2	0	19	2	12	0	3	2	4	0	6	3	9	0	0	0	3	0	4	0	1	0	0	0	1	0	2	0	3	0	0	0	2	2	1	0
+8	CYTB	YP_009502278.1	Cacopsylla pyri	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Sternorrhyncha, Psylloidea, Psyllidae, Psyllinae, Cacopsylla	27	7	32	3	12	4	6	0	8	9	0	1	12	1	13	1	10	3	6	6	10	1	5	4	10	0	0	0	5	0	32	12	15	2	5	2	8	0	12	9	10	1	2	0	5	0	7	0	11	0	9	3	4	0	6	2	4	0	2	0	16	5	1	0

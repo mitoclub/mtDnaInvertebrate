@@ -1,65 +1,13 @@
-	NP_066194.2|ND5	NP_066195.2|COX3	NP_066196.2|CYTB	NP_066197.2|ND4L	NP_066198.2|ND4	NP_066199.2|ATP6	NP_066200.2|ND2	NP_066201.2|ND1	NP_066202.2|ND3	NP_066203.3|COX1	NP_066204.2|COX2	NP_066364.2|ND6
-TTT	64	23	31	3	34	28	36	26	21	42	11	31
-TTC	2	3	0	1	4	0	2	0	1	1	1	1
-TTA	41	14	19	13	38	11	21	22	8	29	14	9
-TTG	31	21	26	4	17	9	14	18	2	32	5	5
-TCT	24	4	10	0	16	4	6	8	2	27	4	2
-TCC	0	0	0	0	0	1	1	1	0	0	1	1
-TCA	4	2	4	3	5	1	6	3	1	4	1	4
-TCG	3	0	0	1	1	0	2	0	0	5	0	0
-TAT	39	9	27	3	27	7	18	22	13	25	12	10
-TAC	2	0	2	0	1	2	0	2	0	1	2	3
-TGT	15	8	5	4	13	4	8	5	2	14	6	5
-TGC	1	0	0	0	1	1	0	0	0	0	1	2
-TGA	7	5	9	0	8	1	9	6	3	12	4	1
-TGG	4	4	4	0	4	2	6	4	1	6	1	0
-CTT	4	1	8	3	6	1	5	1	1	7	3	1
-CTC	0	0	0	0	1	0	0	0	0	0	0	0
-CTA	1	0	1	0	5	0	0	1	0	2	1	1
-CTG	0	0	1	1	0	2	3	0	0	1	1	0
-CCT	1	2	6	0	4	0	4	0	1	11	4	1
-CCC	1	0	0	0	0	0	0	0	0	0	0	0
-CCA	3	2	6	0	4	4	2	2	0	6	4	0
-CCG	0	2	0	0	2	3	0	2	0	3	1	0
-CAT	4	4	7	0	3	1	0	2	1	11	4	0
-CAC	0	1	1	2	2	1	0	0	0	4	0	0
-CAA	2	2	3	1	0	1	1	1	0	2	2	0
-CAG	3	0	1	1	1	0	3	1	0	0	1	0
-CGT	5	2	5	1	4	3	1	6	0	8	3	1
-CGC	0	0	0	0	0	0	0	1	1	0	2	0
-CGA	1	1	2	0	0	1	0	0	0	0	1	0
-CGG	2	0	0	0	1	0	0	0	1	0	1	1
-ATT	23	12	26	5	25	7	20	17	4	14	9	6
-ATC	0	1	1	0	1	3	1	1	0	0	1	0
-ATA	16	13	13	5	28	11	9	13	4	23	9	6
-ATG	18	7	15	5	13	6	4	7	8	21	10	8
-ACT	10	9	7	0	7	1	5	7	2	12	2	2
-ACC	0	0	0	0	0	0	1	0	1	1	0	1
-ACA	2	1	2	0	3	0	1	1	0	4	4	0
-ACG	1	0	2	0	2	0	0	0	0	0	0	1
-AAT	17	5	4	0	3	2	6	5	6	11	8	0
-AAC	0	0	0	0	0	0	0	1	0	0	0	0
-AAA	8	1	8	3	6	1	1	3	1	6	6	4
-AAG	7	2	5	0	7	4	7	9	2	6	3	0
-AGT	23	6	13	2	14	2	15	8	1	15	2	6
-AGC	0	0	0	0	1	1	1	1	0	0	0	0
-AGA	5	2	4	2	3	1	3	6	1	4	3	6
-AGG	4	2	4	0	7	3	1	3	1	3	2	4
-GTT	40	9	29	10	18	10	20	14	12	29	14	10
-GTC	3	1	2	1	3	3	0	1	0	1	2	1
-GTA	13	4	7	1	10	6	7	8	0	10	1	3
-GTG	10	3	6	0	5	3	4	3	1	9	3	1
-GCT	8	6	6	2	9	3	5	11	0	12	2	1
-GCC	1	0	1	0	1	1	1	0	0	0	0	0
-GCA	1	1	0	0	1	2	1	3	0	3	0	0
-GCG	0	1	1	0	0	0	0	0	0	1	0	0
-GAT	13	4	12	1	12	2	3	6	3	13	7	1
-GAC	1	0	1	0	0	0	1	1	1	1	2	0
-GAA	2	2	2	0	3	1	0	4	2	3	4	1
-GAG	3	2	3	2	4	3	2	5	2	3	5	3
-GGT	26	6	11	5	26	5	12	18	7	38	9	5
-GGC	1	1	1	0	1	0	1	0	0	0	1	0
-GGA	3	3	3	2	4	0	2	3	0	5	1	2
-GGG	5	0	4	0	5	3	2	3	1	7	1	1
-TAA	0	0	0	1	0	1	0	0	0	0	1	0
-TAG	1	1	1	0	1	0	1	1	1	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	NP_066194.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	64	2	41	31	24	0	4	3	39	2	15	1	7	4	4	0	1	0	1	1	3	0	4	0	2	3	5	0	1	2	23	0	16	18	10	0	2	1	17	0	8	7	23	0	5	4	40	3	13	10	8	1	1	0	13	1	2	3	26	1	3	5	0	1
+1	COX3	NP_066195.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	23	3	14	21	4	0	2	0	9	0	8	0	5	4	1	0	0	0	2	0	2	2	4	1	2	0	2	0	1	0	12	1	13	7	9	0	1	0	5	0	1	2	6	0	2	2	9	1	4	3	6	0	1	1	4	0	2	2	6	1	3	0	0	1
+2	CYTB	NP_066196.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	31	0	19	26	10	0	4	0	27	2	5	0	9	4	8	0	1	1	6	0	6	0	7	1	3	1	5	0	2	0	26	1	13	15	7	0	2	2	4	0	8	5	13	0	4	4	29	2	7	6	6	1	0	1	12	1	2	3	11	1	3	4	0	1
+3	ND4L	NP_066197.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	3	1	13	4	0	0	3	1	3	0	4	0	0	0	3	0	0	1	0	0	0	0	0	2	1	1	1	0	0	0	5	0	5	5	0	0	0	0	0	0	3	0	2	0	2	0	10	1	1	0	2	0	0	0	1	0	0	2	5	0	2	0	1	0
+4	ND4	NP_066198.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	34	4	38	17	16	0	5	1	27	1	13	1	8	4	6	1	5	0	4	0	4	2	3	2	0	1	4	0	0	1	25	1	28	13	7	0	3	2	3	0	6	7	14	1	3	7	18	3	10	5	9	1	1	0	12	0	3	4	26	1	4	5	0	1
+5	ATP6	NP_066199.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	28	0	11	9	4	1	1	0	7	2	4	1	1	2	1	0	0	2	0	0	4	3	1	1	1	0	3	0	1	0	7	3	11	6	1	0	0	0	2	0	1	4	2	1	1	3	10	3	6	3	3	1	2	0	2	0	1	3	5	0	0	3	1	0
+6	ND2	NP_066200.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	36	2	21	14	6	1	6	2	18	0	8	0	9	6	5	0	0	3	4	0	2	0	0	0	1	3	1	0	0	0	20	1	9	4	5	1	1	0	6	0	1	7	15	1	3	1	20	0	7	4	5	1	1	0	3	1	0	2	12	1	2	2	0	1
+7	ND1	NP_066201.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	26	0	22	18	8	1	3	0	22	2	5	0	6	4	1	0	1	0	0	0	2	2	2	0	1	1	6	1	0	0	17	1	13	7	7	0	1	0	5	1	3	9	8	1	6	3	14	1	8	3	11	0	3	0	6	1	4	5	18	0	3	3	0	1
+8	ND3	NP_066202.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	21	1	8	2	2	0	1	0	13	0	2	0	3	1	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	4	0	4	8	2	1	0	0	6	0	1	2	1	0	1	1	12	0	0	1	0	0	0	0	3	1	2	2	7	0	0	1	0	1
+9	COX1	NP_066203.3	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	42	1	29	32	27	0	4	5	25	1	14	0	12	6	7	0	2	1	11	0	6	3	11	4	2	0	8	0	0	0	14	0	23	21	12	1	4	0	11	0	6	6	15	0	4	3	29	1	10	9	12	0	3	1	13	1	3	3	38	0	5	7	0	1
+10	COX2	NP_066204.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	11	1	14	5	4	1	1	0	12	2	6	1	4	1	3	0	1	1	4	0	4	1	4	0	2	1	3	2	1	1	9	1	9	10	2	0	4	0	8	0	6	3	2	0	3	2	14	2	1	3	2	0	0	0	7	2	4	5	9	1	1	1	1	0
+11	ND6	NP_066364.2	Schistosoma japonicum	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Strigeidida, Schistosomatoidea, Schistosomatidae, Schistosoma	31	1	9	5	2	1	4	0	10	3	5	2	1	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	6	0	6	8	2	1	0	1	0	0	4	0	6	0	6	4	10	1	3	1	1	0	0	0	1	0	1	3	5	0	2	1	0	1

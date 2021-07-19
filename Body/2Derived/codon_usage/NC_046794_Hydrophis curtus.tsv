@@ -1,65 +1,13 @@
-	YP_009747577.1|ND1	YP_009747578.1|ND2	YP_009747579.1|COX1	YP_009747580.1|COX2	YP_009747581.1|ATP8	YP_009747582.1|ATP6	YP_009747583.1|COX3	YP_009747584.1|ND3	YP_009747585.1|ND4L	YP_009747586.1|ND4	YP_009747587.1|ND5	YP_009747589.1|CYTB
-TTT	10	7	18	4	1	4	4	2	2	6	18	12
-TTC	6	2	24	4	1	2	13	4	2	13	14	18
-TTA	15	9	13	7	1	11	4	5	4	19	17	10
-TTG	1	1	4	0	0	1	5	2	0	1	0	1
-TCT	5	3	4	5	0	3	2	0	1	4	10	7
-TCC	11	5	12	1	0	1	3	1	2	6	9	5
-TCA	9	12	9	9	0	5	6	2	2	11	25	16
-TCG	1	0	4	1	0	0	2	1	1	1	1	0
-TAT	1	3	7	2	1	2	2	1	0	5	4	5
-TAC	7	3	13	4	0	1	9	2	2	8	5	8
-TGT	1	0	2	2	0	1	0	0	2	1	2	0
-TGC	2	1	2	1	1	0	1	1	0	3	2	2
-TGA	6	9	16	5	3	2	11	3	0	5	5	8
-TGG	2	1	3	0	0	1	2	0	0	5	5	4
-CTT	10	6	13	8	2	9	7	7	6	19	21	7
-CTC	9	5	6	2	0	7	0	2	1	8	5	6
-CTA	21	26	21	10	4	25	12	5	7	34	30	20
-CTG	3	5	6	3	0	2	4	2	0	7	5	2
-CCT	5	1	6	1	0	3	2	1	0	4	3	4
-CCC	6	5	9	4	1	3	3	0	1	4	5	4
-CCA	12	10	12	7	3	7	5	4	1	13	18	15
-CCG	0	1	5	1	0	0	0	2	0	3	1	0
-CAT	2	4	8	5	0	2	4	0	1	3	3	2
-CAC	1	9	10	3	2	4	12	0	0	9	11	10
-CAA	7	6	9	11	1	4	5	0	3	13	11	7
-CAG	1	0	1	1	2	2	2	2	0	4	3	0
-CGT	1	0	2	0	0	2	1	0	0	2	1	0
-CGC	1	0	1	2	0	1	0	0	0	2	0	1
-CGA	4	4	5	3	0	1	3	1	2	5	6	4
-CGG	1	0	1	1	0	0	0	0	0	0	1	1
-ATT	11	12	24	7	2	7	5	5	3	18	28	18
-ATC	12	21	23	5	4	11	9	9	3	19	33	23
-ATA	21	29	24	8	4	11	14	4	3	23	40	9
-ATG	2	2	7	5	1	3	2	0	6	4	11	8
-ACT	5	6	6	3	2	8	3	4	3	3	15	5
-ACC	14	23	14	8	1	9	14	4	2	20	21	18
-ACA	11	30	17	9	4	12	12	9	8	33	32	16
-ACG	0	1	2	0	0	2	0	0	0	1	0	0
-AAT	7	2	9	3	1	5	2	2	0	3	8	5
-AAC	8	8	10	4	2	5	2	3	4	10	23	18
-AAA	8	13	11	2	5	4	5	2	2	11	20	8
-AAG	0	0	1	0	0	2	0	0	0	1	5	0
-AGT	0	0	2	0	0	2	1	0	0	1	4	0
-AGC	0	5	4	3	1	4	4	2	2	6	4	2
-GTT	2	2	5	4	0	4	6	1	2	2	4	2
-GTC	3	1	7	4	1	1	3	1	1	2	9	2
-GTA	2	4	10	4	0	1	7	1	5	7	3	6
-GTG	1	1	7	2	0	1	2	0	0	1	1	3
-GCT	3	6	5	4	0	3	2	1	1	7	10	3
-GCC	7	13	18	2	2	8	6	2	2	17	19	4
-GCA	7	8	13	11	0	5	3	1	3	12	12	11
-GCG	1	0	0	0	0	0	3	0	0	0	1	1
-GAT	2	1	7	2	0	0	1	1	0	1	4	2
-GAC	1	0	7	6	0	0	3	2	1	2	7	4
-GAA	10	6	8	10	1	4	7	4	2	8	11	4
-GAG	1	0	1	6	0	2	2	1	0	0	1	1
-GGT	5	1	9	1	0	2	6	1	2	2	6	3
-GGC	2	3	12	4	0	1	2	3	0	4	6	5
-GGA	5	1	15	4	0	2	3	1	0	4	5	5
-GGG	5	4	9	0	0	1	8	0	1	5	5	7
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009747577.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	10	6	15	1	5	11	9	1	1	7	1	2	6	2	10	9	21	3	5	6	12	0	2	1	7	1	1	1	4	1	11	12	21	2	5	14	11	0	7	8	8	0	0	0	2	3	2	1	3	7	7	1	2	1	10	1	5	2	5	5	0	0	0	0
+1	ND2	YP_009747578.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	7	2	9	1	3	5	12	0	3	3	0	1	9	1	6	5	26	5	1	5	10	1	4	9	6	0	0	0	4	0	12	21	29	2	6	23	30	1	2	8	13	0	0	5	2	1	4	1	6	13	8	0	1	0	6	0	1	3	1	4	0	0	0	0
+2	COX1	YP_009747579.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	18	24	13	4	4	12	9	4	7	13	2	2	16	3	13	6	21	6	6	9	12	5	8	10	9	1	2	1	5	1	24	23	24	7	6	14	17	2	9	10	11	1	2	4	5	7	10	7	5	18	13	0	7	7	8	1	9	12	15	9	0	0	1	0
+3	COX2	YP_009747580.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	4	4	7	0	5	1	9	1	2	4	2	1	5	0	8	2	10	3	1	4	7	1	5	3	11	1	0	2	3	1	7	5	8	5	3	8	9	0	3	4	2	0	0	3	4	4	4	2	4	2	11	0	2	6	10	6	1	4	4	0	0	0	0	0
+4	ATP8	YP_009747581.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	1	1	1	0	0	0	0	0	1	0	0	1	3	0	2	0	4	0	0	1	3	0	0	2	1	2	0	0	0	0	2	4	4	1	2	1	4	0	1	2	5	0	0	1	0	1	0	0	0	2	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009747582.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	4	2	11	1	3	1	5	0	2	1	1	0	2	1	9	7	25	2	3	3	7	0	2	4	4	2	2	1	1	0	7	11	11	3	8	9	12	2	5	5	4	2	2	4	4	1	1	1	3	8	5	0	0	0	4	2	2	1	2	1	1	0	0	0
+6	COX3	YP_009747583.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	4	13	4	5	2	3	6	2	2	9	0	1	11	2	7	0	12	4	2	3	5	0	4	12	5	2	1	0	3	0	5	9	14	2	3	14	12	0	2	2	5	0	1	4	6	3	7	2	2	6	3	3	1	3	7	2	6	2	3	8	0	0	0	0
+7	ND3	YP_009747584.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	2	4	5	2	0	1	2	1	1	2	0	1	3	0	7	2	5	2	1	0	4	2	0	0	0	2	0	0	1	0	5	9	4	0	4	4	9	0	2	3	2	0	0	2	1	1	1	0	1	2	1	0	1	2	4	1	1	3	1	0	0	0	0	0
+8	ND4L	YP_009747585.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	2	2	4	0	1	2	2	1	0	2	2	0	0	0	6	1	7	0	0	1	1	0	1	0	3	0	0	0	2	0	3	3	3	6	3	2	8	0	0	4	2	0	0	2	2	1	5	0	1	2	3	0	0	1	2	0	2	0	0	1	1	0	0	0
+9	ND4	YP_009747586.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	6	13	19	1	4	6	11	1	5	8	1	3	5	5	19	8	34	7	4	4	13	3	3	9	13	4	2	2	5	0	18	19	23	4	3	20	33	1	3	10	11	1	1	6	2	2	7	1	7	17	12	0	1	2	8	0	2	4	4	5	0	0	0	0
+10	ND5	YP_009747587.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	18	14	17	0	10	9	25	1	4	5	2	2	5	5	21	5	30	5	3	5	18	1	3	11	11	3	1	0	6	1	28	33	40	11	15	21	32	0	8	23	20	5	4	4	4	9	3	1	10	19	12	1	4	7	11	1	6	6	5	5	1	0	0	0
+11	CYTB	YP_009747589.1	Hydrophis curtus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Hydrophiidae, Hydrophis	12	18	10	1	7	5	16	0	5	8	0	2	8	4	7	6	20	2	4	4	15	0	2	10	7	0	0	1	4	1	18	23	9	8	5	18	16	0	5	18	8	0	0	2	2	2	6	3	3	4	11	1	2	4	4	1	3	5	5	7	0	0	0	0

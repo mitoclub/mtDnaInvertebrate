@@ -1,65 +1,10 @@
-	YP_214888.1|ND2	YP_214889.1|COX1	YP_214890.1|COX2	YP_214891.1|ATP8	YP_214892.1|ATP6	YP_214893.1|COX3	YP_214894.1|ND3	YP_214898.1|ND6	YP_214899.1|CYTB
-TTT	45	40	20	8	21	30	17	22	40
-TTC	3	1	1	0	0	3	0	5	5
-TTA	10	10	6	0	11	8	7	9	23
-TTG	33	37	12	3	18	21	9	8	14
-TCT	21	26	10	2	6	9	4	5	18
-TCC	0	3	0	0	0	1	0	0	1
-TCA	1	1	1	0	1	0	0	2	2
-TCG	3	2	1	1	2	0	0	0	0
-TAT	13	16	8	4	5	11	3	6	10
-TAC	0	2	0	0	0	0	0	0	2
-TGT	4	3	5	0	2	5	3	2	4
-TGC	0	0	0	0	0	0	0	0	0
-TGA	4	4	2	2	3	5	1	2	6
-TGG	5	10	5	3	4	7	3	1	7
-CTT	11	11	4	2	8	4	4	6	15
-CTC	1	0	0	0	0	0	1	0	3
-CTA	1	0	0	0	1	2	0	1	6
-CTG	2	2	1	0	5	2	1	1	3
-CCT	6	19	7	2	7	7	2	3	11
-CCC	1	2	1	0	0	0	0	0	0
-CCA	1	0	1	0	0	1	0	2	7
-CCG	2	3	0	0	1	0	0	0	1
-CAT	3	17	6	0	4	12	0	1	9
-CAC	0	3	0	0	0	2	0	1	2
-CAA	0	1	2	1	0	0	0	0	3
-CAG	5	3	4	0	1	3	1	1	2
-CGT	2	6	4	0	2	3	1	0	5
-CGC	0	0	0	0	0	1	0	1	1
-CGA	0	3	2	0	1	1	0	1	2
-CGG	0	2	1	0	1	0	0	0	2
-ATT	13	35	17	0	12	9	5	5	23
-ATC	1	1	0	0	0	0	0	1	2
-ATA	1	5	0	0	2	2	1	4	3
-ATG	7	25	10	1	9	4	1	0	2
-ACT	1	20	6	0	6	6	0	1	10
-ACC	0	2	1	0	0	1	0	0	1
-ACA	0	1	0	0	1	0	0	1	2
-ACG	1	1	3	0	2	2	0	0	1
-AAT	5	13	6	0	6	3	0	1	7
-AAC	0	1	0	0	1	0	0	0	6
-AAA	0	1	0	0	0	1	1	1	6
-AAG	5	3	0	2	1	2	3	2	2
-AGT	3	8	3	1	6	7	0	2	4
-AGC	1	0	0	0	0	2	1	0	0
-AGA	5	4	1	1	1	3	0	0	3
-AGG	3	2	3	0	1	3	2	1	1
-GTT	30	30	13	6	23	18	9	12	17
-GTC	1	1	1	0	0	0	0	1	0
-GTA	4	4	2	0	4	4	0	4	7
-GTG	6	11	9	2	6	4	7	5	6
-GCT	10	33	7	3	11	9	1	5	11
-GCC	1	1	0	0	1	0	1	1	2
-GCA	2	2	0	0	0	1	2	2	3
-GCG	1	4	1	0	2	1	0	1	0
-GAT	1	15	11	1	1	3	2	0	4
-GAC	0	1	0	0	0	1	1	0	5
-GAA	2	2	4	1	0	2	0	3	2
-GAG	2	6	8	0	5	6	8	2	3
-GGT	14	13	3	2	3	10	4	3	8
-GGC	2	5	1	0	0	2	1	1	1
-GGA	5	10	2	2	4	1	2	1	9
-GGG	16	23	8	1	9	15	4	4	11
-TAA	0	0	0	0	0	0	0	0	0
-TAG	0	1	0	1	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_214888.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	45	3	10	33	21	0	1	3	13	0	4	0	4	5	11	1	1	2	6	1	1	2	3	0	0	5	2	0	0	0	13	1	1	7	1	0	0	1	5	0	0	5	3	1	5	3	30	1	4	6	10	1	2	1	1	0	2	2	14	2	5	16	0	0
+1	COX1	YP_214889.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	40	1	10	37	26	3	1	2	16	2	3	0	4	10	11	0	0	2	19	2	0	3	17	3	1	3	6	0	3	2	35	1	5	25	20	2	1	1	13	1	1	3	8	0	4	2	30	1	4	11	33	1	2	4	15	1	2	6	13	5	10	23	0	1
+2	COX2	YP_214890.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	20	1	6	12	10	0	1	1	8	0	5	0	2	5	4	0	0	1	7	1	1	0	6	0	2	4	4	0	2	1	17	0	0	10	6	1	0	3	6	0	0	0	3	0	1	3	13	1	2	9	7	0	0	1	11	0	4	8	3	1	2	8	0	0
+3	ATP8	YP_214891.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	8	0	0	3	2	0	0	1	4	0	0	0	2	3	2	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	1	0	1	0	6	0	0	2	3	0	0	0	1	0	1	0	2	0	2	1	0	1
+4	ATP6	YP_214892.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	21	0	11	18	6	0	1	2	5	0	2	0	3	4	8	0	1	5	7	0	0	1	4	0	0	1	2	0	1	1	12	0	2	9	6	0	1	2	6	1	0	1	6	0	1	1	23	0	4	6	11	1	0	2	1	0	0	5	3	0	4	9	0	1
+5	COX3	YP_214893.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	30	3	8	21	9	1	0	0	11	0	5	0	5	7	4	0	2	2	7	0	1	0	12	2	0	3	3	1	1	0	9	0	2	4	6	1	0	2	3	0	1	2	7	2	3	3	18	0	4	4	9	0	1	1	3	1	2	6	10	2	1	15	0	0
+6	ND3	YP_214894.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	17	0	7	9	4	0	0	0	3	0	3	0	1	3	4	1	0	1	2	0	0	0	0	0	0	1	1	0	0	0	5	0	1	1	0	0	0	0	0	0	1	3	0	1	0	2	9	0	0	7	1	1	2	0	2	1	0	8	4	1	2	4	0	0
+7	ND6	YP_214898.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	22	5	9	8	5	0	2	0	6	0	2	0	2	1	6	0	1	1	3	0	2	0	1	1	0	1	0	1	1	0	5	1	4	0	1	0	1	0	1	0	1	2	2	0	0	1	12	1	4	5	5	1	2	1	0	0	3	2	3	1	1	4	0	0
+8	CYTB	YP_214899.1	Centruroides limpidus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Scorpiones, Buthida, Buthoidea, Buthidae, Centruroides	40	5	23	14	18	1	2	0	10	2	4	0	6	7	15	3	6	3	11	0	7	1	9	2	3	2	5	1	2	2	23	2	3	2	10	1	2	1	7	6	6	2	4	0	3	1	17	0	7	6	11	2	3	0	4	5	2	3	8	1	9	11	0	0

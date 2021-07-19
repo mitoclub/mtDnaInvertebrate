@@ -1,65 +1,13 @@
-	NP_818878.1|ND1	NP_818879.1|ND2	NP_818880.1|COX1	NP_818881.1|COX2	NP_818882.1|ATP8	NP_818883.1|ATP6	NP_818884.1|COX3	NP_818885.1|ND3	NP_818886.1|ND4L	NP_818887.1|ND4	NP_818888.1|ND5	NP_818890.1|CYTB
-TTT	13	7	27	4	1	6	12	4	2	10	12	8
-TTC	7	10	16	5	3	4	11	5	4	9	21	21
-TTA	15	8	17	8	2	10	7	3	2	16	15	7
-TTG	1	1	1	1	0	1	0	0	0	4	2	0
-TCT	5	1	6	0	2	1	1	0	0	4	9	3
-TCC	8	7	11	10	1	0	5	4	3	12	13	11
-TCA	7	9	6	3	1	3	5	1	4	3	15	9
-TCG	0	1	1	0	0	0	0	1	0	1	1	1
-TAT	7	2	7	2	0	4	6	1	0	3	2	4
-TAC	4	5	10	7	0	0	6	1	1	8	10	11
-TGT	0	1	0	0	0	0	0	1	0	3	1	0
-TGC	0	0	1	2	0	0	2	1	3	2	6	3
-TGA	5	11	12	5	5	5	8	4	1	19	11	13
-TGG	3	0	5	0	0	0	4	1	0	1	3	1
-CTT	7	21	13	4	1	9	5	5	5	14	27	13
-CTC	14	23	17	7	1	15	9	12	7	17	27	20
-CTA	23	21	12	3	4	15	8	10	6	30	26	13
-CTG	3	3	3	4	0	5	3	2	4	5	9	10
-CCT	2	1	10	2	0	2	2	3	1	7	2	4
-CCC	15	7	12	6	4	8	8	3	0	12	18	9
-CCA	7	10	6	6	5	7	2	2	1	8	11	6
-CCG	1	1	1	0	0	0	0	0	0	1	1	2
-CAT	2	1	3	5	0	2	2	1	2	1	1	3
-CAC	2	8	16	5	2	1	14	0	3	11	10	9
-CAA	7	12	6	6	0	7	6	3	2	13	18	6
-CAG	0	0	2	2	1	2	4	1	1	0	2	1
-CGT	0	1	0	0	0	0	1	0	0	2	1	0
-CGC	1	1	1	3	0	1	0	0	2	4	4	1
-CGA	6	2	5	3	0	5	3	1	0	5	5	6
-CGG	1	0	2	0	0	0	1	1	0	0	0	0
-ATT	13	14	22	10	2	13	8	4	0	22	26	21
-ATC	13	9	18	10	2	9	9	2	0	20	24	18
-ATA	6	12	16	8	1	6	7	2	3	20	24	5
-ATG	6	3	9	4	1	4	1	1	2	9	9	3
-ACT	1	6	6	3	0	2	2	0	0	3	10	3
-ACC	13	17	13	3	0	11	8	4	7	20	29	9
-ACA	5	25	17	3	0	10	13	3	2	20	18	7
-ACG	1	1	0	0	0	1	0	0	0	1	1	0
-AAT	1	6	9	4	1	4	0	0	0	5	12	5
-AAC	10	6	6	3	3	5	2	2	2	7	18	15
-AAA	7	9	8	3	4	1	2	1	0	9	22	9
-AAG	0	0	0	1	0	1	0	0	0	1	1	0
-AGT	0	0	1	3	0	1	1	0	0	1	1	0
-AGC	4	4	3	0	0	5	3	1	0	8	9	1
-GTT	2	0	15	6	0	1	2	1	1	3	8	3
-GTC	4	2	11	6	1	3	8	1	0	5	6	5
-GTA	7	4	12	5	1	5	3	0	2	4	3	5
-GTG	0	1	3	2	1	0	1	0	0	0	1	4
-GCT	5	5	11	3	1	3	5	1	0	9	6	4
-GCC	15	16	19	7	0	7	11	3	12	14	32	16
-GCA	11	11	14	7	0	9	7	3	3	13	15	12
-GCG	1	0	1	1	0	0	0	0	0	1	0	0
-GAT	0	0	1	5	0	0	2	1	0	1	4	3
-GAC	4	0	14	6	1	1	2	2	1	2	7	7
-GAA	10	5	8	14	3	4	7	6	2	9	8	6
-GAG	1	1	2	1	0	0	1	0	1	2	3	0
-GGT	2	3	5	3	0	1	3	1	0	2	0	3
-GGC	8	6	20	2	0	3	7	1	3	10	18	9
-GGA	4	6	7	2	0	4	5	3	3	9	9	9
-GGG	3	1	15	2	0	0	6	1	0	5	4	3
-TAA	1	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_818878.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	13	7	15	1	5	8	7	0	7	4	0	0	5	3	7	14	23	3	2	15	7	1	2	2	7	0	0	1	6	1	13	13	6	6	1	13	5	1	1	10	7	0	0	4	2	4	7	0	5	15	11	1	0	4	10	1	2	8	4	3	1	0	0	0
+1	ND2	NP_818879.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	7	10	8	1	1	7	9	1	2	5	1	0	11	0	21	23	21	3	1	7	10	1	1	8	12	0	1	1	2	0	14	9	12	3	6	17	25	1	6	6	9	0	0	4	0	2	4	1	5	16	11	0	0	0	5	1	3	6	6	1	0	0	0	0
+2	COX1	NP_818880.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	27	16	17	1	6	11	6	1	7	10	0	1	12	5	13	17	12	3	10	12	6	1	3	16	6	2	0	1	5	2	22	18	16	9	6	13	17	0	9	6	8	0	1	3	15	11	12	3	11	19	14	1	1	14	8	2	5	20	7	15	0	0	0	0
+3	COX2	NP_818881.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	4	5	8	1	0	10	3	0	2	7	0	2	5	0	4	7	3	4	2	6	6	0	5	5	6	2	0	3	3	0	10	10	8	4	3	3	3	0	4	3	3	1	3	0	6	6	5	2	3	7	7	1	5	6	14	1	3	2	2	2	0	0	0	0
+4	ATP8	NP_818882.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	1	3	2	0	2	1	1	0	0	0	0	0	5	0	1	1	4	0	0	4	5	0	0	2	0	1	0	0	0	0	2	2	1	1	0	0	0	0	1	3	4	0	0	0	0	1	1	1	1	0	0	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_818883.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	6	4	10	1	1	0	3	0	4	0	0	0	5	0	9	15	15	5	2	8	7	0	2	1	7	2	0	1	5	0	13	9	6	4	2	11	10	1	4	5	1	1	1	5	1	3	5	0	3	7	9	0	0	1	4	0	1	3	4	0	1	0	0	0
+6	COX3	NP_818884.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	12	11	7	0	1	5	5	0	6	6	0	2	8	4	5	9	8	3	2	8	2	0	2	14	6	4	1	0	3	1	8	9	7	1	2	8	13	0	0	2	2	0	1	3	2	8	3	1	5	11	7	0	2	2	7	1	3	7	5	6	0	0	0	0
+7	ND3	NP_818885.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	4	5	3	0	0	4	1	1	1	1	1	1	4	1	5	12	10	2	3	3	2	0	1	0	3	1	0	0	1	1	4	2	2	1	0	4	3	0	0	2	1	0	0	1	1	1	0	0	1	3	3	0	1	2	6	0	1	1	3	1	0	0	0	0
+8	ND4L	NP_818886.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	2	4	2	0	0	3	4	0	0	1	0	3	1	0	5	7	6	4	1	0	1	0	2	3	2	1	0	2	0	0	0	0	3	2	0	7	2	0	0	2	0	0	0	0	1	0	2	0	0	12	3	0	0	1	2	1	0	3	3	0	1	0	0	0
+9	ND4	NP_818887.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	10	9	16	4	4	12	3	1	3	8	3	2	19	1	14	17	30	5	7	12	8	1	1	11	13	0	2	4	5	0	22	20	20	9	3	20	20	1	5	7	9	1	1	8	3	5	4	0	9	14	13	1	1	2	9	2	2	10	9	5	0	0	0	0
+10	ND5	NP_818888.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	12	21	15	2	9	13	15	1	2	10	1	6	11	3	27	27	26	9	2	18	11	1	1	10	18	2	1	4	5	0	26	24	24	9	10	29	18	1	12	18	22	1	1	9	8	6	3	1	6	32	15	0	4	7	8	3	0	18	9	4	1	0	0	0
+11	CYTB	NP_818890.1	Phenacogrammus interruptus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Characiformes, Characoidei, Alestidae, Phenacogrammus	8	21	7	0	3	11	9	1	4	11	0	3	13	1	13	20	13	10	4	9	6	2	3	9	6	1	0	1	6	0	21	18	5	3	3	9	7	0	5	15	9	0	0	1	3	5	5	4	4	16	12	0	3	7	6	0	3	9	9	3	0	0	0	0

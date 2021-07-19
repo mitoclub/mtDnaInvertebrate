@@ -1,65 +1,10 @@
-	YP_009349870.1|ND2	YP_009349871.1|COX1	YP_009349872.1|COX2	YP_009349873.1|ATP8	YP_009349874.1|ATP6	YP_009349875.1|COX3	YP_009349876.1|ND3	YP_009349880.1|ND6	YP_009349881.1|CYTB
-TTT	15	25	9	5	12	15	7	6	19
-TTC	14	14	6	0	5	8	4	5	12
-TTA	28	35	14	6	29	16	11	20	30
-TTG	2	2	2	0	1	2	0	0	1
-TCT	8	5	5	1	5	2	6	5	6
-TCC	3	2	1	0	2	3	1	1	0
-TCA	15	18	3	4	5	5	2	8	6
-TCG	2	0	0	0	0	0	0	0	0
-TAT	6	13	5	1	5	7	0	8	16
-TAC	6	6	3	1	1	4	0	1	3
-TGT	2	0	2	0	2	0	1	0	1
-TGC	1	1	0	0	0	1	0	0	2
-TGA	10	14	5	3	5	12	4	1	11
-TGG	0	1	0	0	0	1	0	0	1
-CTT	14	10	8	0	5	2	7	7	8
-CTC	3	4	1	0	1	2	0	1	1
-CTA	16	17	4	1	4	10	3	8	13
-CTG	1	0	0	0	0	0	1	0	0
-CCT	4	11	3	1	7	6	2	0	11
-CCC	3	3	0	1	1	1	1	2	4
-CCA	5	11	8	2	5	6	1	2	6
-CCG	0	2	0	0	0	0	0	0	1
-CAT	4	8	4	1	4	4	1	1	7
-CAC	0	7	2	0	2	11	0	0	6
-CAA	8	11	8	1	3	8	1	4	8
-CAG	0	0	0	0	1	0	0	0	0
-CGT	0	2	1	0	0	1	2	0	3
-CGC	0	0	1	0	0	0	0	1	1
-CGA	2	6	5	0	3	3	1	0	4
-CGG	0	0	0	0	0	0	0	0	0
-ATT	31	40	23	1	18	19	12	22	35
-ATC	9	6	3	3	1	5	2	6	4
-ATA	20	26	13	5	14	10	11	8	15
-ATG	3	0	1	1	1	1	0	0	1
-ACT	9	13	8	0	8	10	2	2	8
-ACC	11	9	6	0	2	6	0	4	1
-ACA	7	12	3	3	12	11	3	7	16
-ACG	0	0	0	0	0	0	0	0	1
-AAT	16	13	11	2	12	4	3	14	17
-AAC	2	7	4	0	2	1	0	4	7
-AAA	11	4	5	2	0	0	5	4	5
-AAG	2	3	0	0	2	1	0	0	1
-AGT	0	4	0	1	3	2	0	0	0
-AGC	0	1	0	0	1	0	0	1	1
-AGA	6	6	6	1	4	8	3	4	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	11	4	1	2	4	1	3	8
-GTC	1	0	2	0	0	0	0	0	0
-GTA	4	19	4	0	5	8	1	4	14
-GTG	1	0	0	0	1	0	1	0	0
-GCT	5	15	7	0	5	4	1	1	9
-GCC	3	8	1	2	3	1	3	0	4
-GCA	5	18	3	0	5	7	2	2	8
-GCG	0	0	0	0	0	0	0	0	1
-GAT	2	12	8	0	1	3	2	0	6
-GAC	0	3	2	0	0	1	1	2	4
-GAA	6	10	9	3	4	5	5	1	4
-GAG	2	0	0	0	0	2	0	0	0
-GGT	7	14	2	0	2	8	2	2	5
-GGC	0	3	0	0	1	0	0	1	2
-GGA	6	27	3	0	7	11	1	1	11
-GGG	2	1	2	0	0	0	0	0	6
-TAA	1	0	0	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009349870.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	15	14	28	2	8	3	15	2	6	6	2	1	10	0	14	3	16	1	4	3	5	0	4	0	8	0	0	0	2	0	31	9	20	3	9	11	7	0	16	2	11	2	0	0	6	0	0	1	4	1	5	3	5	0	2	0	6	2	7	0	6	2	1	0
+1	COX1	YP_009349871.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	25	14	35	2	5	2	18	0	13	6	0	1	14	1	10	4	17	0	11	3	11	2	8	7	11	0	2	0	6	0	40	6	26	0	13	9	12	0	13	7	4	3	4	1	6	0	11	0	19	0	15	8	18	0	12	3	10	0	14	3	27	1	0	0
+2	COX2	YP_009349872.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	9	6	14	2	5	1	3	0	5	3	2	0	5	0	8	1	4	0	3	0	8	0	4	2	8	0	1	1	5	0	23	3	13	1	8	6	3	0	11	4	5	0	0	0	6	0	4	2	4	0	7	1	3	0	8	2	9	0	2	0	3	2	0	0
+3	ATP8	YP_009349873.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	5	0	6	0	1	0	4	0	1	1	0	0	3	0	0	0	1	0	1	1	2	0	1	0	1	0	0	0	0	0	1	3	5	1	0	0	3	0	2	0	2	0	1	0	1	0	1	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	1	0
+4	ATP6	YP_009349874.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	12	5	29	1	5	2	5	0	5	1	2	0	5	0	5	1	4	0	7	1	5	0	4	2	3	1	0	0	3	0	18	1	14	1	8	2	12	0	12	2	0	2	3	1	4	0	2	0	5	1	5	3	5	0	1	0	4	0	2	1	7	0	1	0
+5	COX3	YP_009349875.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	15	8	16	2	2	3	5	0	7	4	0	1	12	1	2	2	10	0	6	1	6	0	4	11	8	0	1	0	3	0	19	5	10	1	10	6	11	0	4	1	0	1	2	0	8	0	4	0	8	0	4	1	7	0	3	1	5	2	8	0	11	0	0	0
+6	ND3	YP_009349876.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	7	4	11	0	6	1	2	0	0	0	1	0	4	0	7	0	3	1	2	1	1	0	1	0	1	0	2	0	1	0	12	2	11	0	2	0	3	0	3	0	5	0	0	0	3	0	1	0	1	1	1	3	2	0	2	1	5	0	2	0	1	0	1	0
+7	ND6	YP_009349880.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	6	5	20	0	5	1	8	0	8	1	0	0	1	0	7	1	8	0	0	2	2	0	1	0	4	0	0	1	0	0	22	6	8	0	2	4	7	0	14	4	4	0	0	1	4	0	3	0	4	0	1	0	2	0	0	2	1	0	2	1	1	0	1	0
+8	CYTB	YP_009349881.1	Pseudorhynchus crassiceps	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Orthoptera, Ensifera, Tettigoniidea, Tettigonioidea, Tettigoniidae, Conocephalinae, Copiphorini, Pseudorhynchus	19	12	30	1	6	0	6	0	16	3	1	2	11	1	8	1	13	0	11	4	6	1	7	6	8	0	3	1	4	0	35	4	15	1	8	1	16	1	17	7	5	1	0	1	3	0	8	0	14	0	9	4	8	1	6	4	4	0	5	2	11	6	0	1

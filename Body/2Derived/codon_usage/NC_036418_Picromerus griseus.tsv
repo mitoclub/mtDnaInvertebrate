@@ -1,65 +1,10 @@
-	YP_009445564.1|ND2	YP_009445565.1|COX1	YP_009445566.1|COX2	YP_009445567.1|ATP8	YP_009445568.1|ATP6	YP_009445569.1|COX3	YP_009445570.1|ND3	YP_009445574.1|ND6	YP_009445575.1|CYTB
-TTT	10	27	5	3	10	10	5	4	14
-TTC	7	13	2	1	5	12	3	4	14
-TTA	26	34	12	2	24	14	2	13	25
-TTG	8	2	0	0	2	2	2	2	3
-TCT	4	5	2	0	3	2	2	10	4
-TCC	5	5	1	1	3	1	1	0	7
-TCA	7	18	8	1	8	5	4	3	10
-TCG	1	1	0	0	0	0	0	0	0
-TAT	8	7	5	2	3	9	0	8	10
-TAC	4	8	3	1	2	5	1	1	6
-TGT	2	0	2	0	0	4	2	0	3
-TGC	1	0	0	0	0	0	0	0	0
-TGA	6	13	6	4	3	10	3	0	12
-TGG	3	2	0	0	1	2	1	0	0
-CTT	4	1	2	0	2	1	2	2	4
-CTC	0	3	2	0	0	1	0	2	3
-CTA	4	14	5	2	12	9	4	6	16
-CTG	2	1	2	0	3	1	0	1	5
-CCT	3	16	4	0	3	4	2	1	16
-CCC	2	4	3	1	3	3	2	1	4
-CCA	3	2	3	0	2	1	0	0	2
-CCG	0	5	0	0	2	0	0	0	0
-CAT	3	9	6	0	4	12	1	0	5
-CAC	2	6	0	0	3	4	0	1	5
-CAA	5	6	6	0	4	3	1	2	6
-CAG	1	2	1	0	0	0	0	0	0
-CGT	1	0	1	0	1	0	0	1	0
-CGC	0	2	0	0	0	0	0	0	0
-CGA	0	6	6	0	2	3	2	0	7
-CGG	1	1	0	0	0	0	0	0	1
-ATT	35	50	15	5	15	16	14	18	28
-ATC	11	8	12	2	4	6	6	8	9
-ATA	28	27	13	6	17	17	12	12	17
-ATG	7	5	2	1	1	1	1	7	5
-ACT	2	14	2	0	3	6	6	4	8
-ACC	4	3	5	0	2	4	1	1	4
-ACA	6	14	9	3	10	8	2	5	10
-ACG	0	0	0	0	0	1	0	0	1
-AAT	17	8	9	6	8	5	2	8	13
-AAC	4	9	7	3	7	3	0	1	7
-AAA	14	7	3	4	2	9	5	6	10
-AAG	1	2	2	0	0	0	1	1	3
-AGT	11	3	2	0	1	2	1	0	1
-AGC	0	2	0	0	0	1	0	1	0
-AGA	11	14	5	0	11	4	3	4	6
-AGG	0	0	0	0	1	0	1	0	0
-GTT	7	12	3	0	2	4	1	0	5
-GTC	1	4	1	0	1	0	2	1	2
-GTA	6	11	6	0	6	13	2	5	7
-GTG	0	4	5	0	1	2	0	0	2
-GCT	4	16	1	0	3	3	0	2	8
-GCC	5	7	0	0	5	3	2	1	4
-GCA	6	6	9	0	5	4	2	1	6
-GCG	0	0	0	0	0	0	1	0	0
-GAT	2	10	10	0	1	3	3	0	6
-GAC	0	4	1	0	0	1	0	1	1
-GAA	3	9	7	1	2	8	4	3	8
-GAG	2	3	3	0	2	1	1	0	0
-GGT	4	3	2	0	2	5	1	1	3
-GGC	0	2	0	0	0	0	0	1	2
-GGA	5	34	4	0	6	11	1	2	13
-GGG	1	8	3	0	1	3	2	1	8
-TAA	1	0	0	1	1	1	1	0	1
-TAG	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009445564.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	10	7	26	8	4	5	7	1	8	4	2	1	6	3	4	0	4	2	3	2	3	0	3	2	5	1	1	0	0	1	35	11	28	7	2	4	6	0	17	4	14	1	11	0	11	0	7	1	6	0	4	5	6	0	2	0	3	2	4	0	5	1	1	0
+1	COX1	YP_009445565.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	27	13	34	2	5	5	18	1	7	8	0	0	13	2	1	3	14	1	16	4	2	5	9	6	6	2	0	2	6	1	50	8	27	5	14	3	14	0	8	9	7	2	3	2	14	0	12	4	11	4	16	7	6	0	10	4	9	3	3	2	34	8	0	0
+2	COX2	YP_009445566.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	5	2	12	0	2	1	8	0	5	3	2	0	6	0	2	2	5	2	4	3	3	0	6	0	6	1	1	0	6	0	15	12	13	2	2	5	9	0	9	7	3	2	2	0	5	0	3	1	6	5	1	0	9	0	10	1	7	3	2	0	4	3	0	0
+3	ATP8	YP_009445567.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	3	1	2	0	0	1	1	0	2	1	0	0	4	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	5	2	6	1	0	0	3	0	6	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009445568.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	10	5	24	2	3	3	8	0	3	2	0	0	3	1	2	0	12	3	3	3	2	2	4	3	4	0	1	0	2	0	15	4	17	1	3	2	10	0	8	7	2	0	1	0	11	1	2	1	6	1	3	5	5	0	1	0	2	2	2	0	6	1	1	0
+5	COX3	YP_009445569.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	10	12	14	2	2	1	5	0	9	5	4	0	10	2	1	1	9	1	4	3	1	0	12	4	3	0	0	0	3	0	16	6	17	1	6	4	8	1	5	3	9	0	2	1	4	0	4	0	13	2	3	3	4	0	3	1	8	1	5	0	11	3	1	0
+6	ND3	YP_009445570.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	5	3	2	2	2	1	4	0	0	1	2	0	3	1	2	0	4	0	2	2	0	0	1	0	1	0	0	0	2	0	14	6	12	1	6	1	2	0	2	0	5	1	1	0	3	1	1	2	2	0	0	2	2	1	3	0	4	1	1	0	1	2	1	0
+7	ND6	YP_009445574.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	4	4	13	2	10	0	3	0	8	1	0	0	0	0	2	2	6	1	1	1	0	0	0	1	2	0	1	0	0	0	18	8	12	7	4	1	5	0	8	1	6	1	0	1	4	0	0	1	5	0	2	1	1	0	0	1	3	0	1	1	2	1	0	1
+8	CYTB	YP_009445575.1	Picromerus griseus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Pentatomomorpha, Pentatomoidea, Pentatomidae, Asopinae, Picromerus	14	14	25	3	4	7	10	0	10	6	3	0	12	0	4	3	16	5	16	4	2	0	5	5	6	0	0	0	7	1	28	9	17	5	8	4	10	1	13	7	10	3	1	0	6	0	5	2	7	2	8	4	6	0	6	1	8	0	3	2	13	8	1	0

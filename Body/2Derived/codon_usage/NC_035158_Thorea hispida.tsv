@@ -1,65 +1,12 @@
-	YP_009389213.1|ymf16	YP_009389214.1|rps12	YP_009389215.1|rpl20	YP_009389216.1|nad4L	YP_009389217.1|rps3	YP_009389218.1|rpl16	YP_009389219.1|cox1	YP_009389220.1|cox2	YP_009389221.1|cox3	YP_009389222.1|ymf39	YP_009389223.1|cob
-TTT	34	2	5	3	13	6	46	12	25	16	27
-TTC	4	0	2	1	2	1	1	2	0	3	7
-TTA	31	6	2	14	18	14	33	20	21	20	28
-TTG	5	2	0	1	2	2	9	2	3	2	5
-TCT	8	5	0	4	8	8	12	3	5	5	4
-TCC	0	1	1	1	0	2	1	2	2	0	1
-TCA	3	1	1	3	6	3	12	4	4	4	7
-TCG	1	0	0	1	2	1	5	4	2	1	3
-TAT	18	3	4	4	10	4	22	9	10	8	19
-TAC	1	4	1	0	4	0	1	1	0	0	3
-TGT	2	2	0	0	3	1	5	4	4	2	4
-TGC	0	1	0	0	0	0	0	1	0	0	1
-TGA	3	0	2	0	4	1	14	7	11	1	10
-TGG	0	0	0	0	1	1	1	1	1	2	2
-CTT	4	1	7	4	5	4	13	5	3	8	5
-CTC	0	0	1	0	1	1	1	0	2	0	1
-CTA	2	1	0	1	1	1	4	2	8	4	8
-CTG	0	0	0	0	1	1	1	0	0	1	3
-CCT	5	2	0	0	3	1	13	4	5	0	7
-CCC	1	1	0	0	1	0	2	2	1	0	3
-CCA	1	2	1	0	0	1	8	5	2	0	7
-CCG	0	2	0	0	0	0	4	1	2	1	2
-CAT	0	3	2	1	2	3	13	8	12	4	11
-CAC	1	0	0	0	1	0	4	1	1	0	2
-CAA	7	5	1	2	2	3	5	4	5	9	7
-CAG	1	1	0	0	0	0	3	3	1	1	2
-CGT	0	5	2	0	1	1	4	3	2	3	3
-CGC	0	0	0	0	2	0	0	0	1	0	0
-CGA	2	2	1	1	3	2	2	1	1	0	5
-CGG	1	0	0	0	0	0	1	0	0	0	0
-ATT	19	7	1	9	11	12	34	12	15	10	37
-ATC	4	2	3	1	0	1	8	2	1	2	4
-ATA	15	5	7	2	10	6	18	13	11	10	14
-ATG	2	2	3	6	2	3	19	6	5	5	13
-ACT	3	2	2	1	7	6	10	7	8	1	6
-ACC	4	2	2	0	0	4	4	1	2	0	2
-ACA	4	3	0	1	6	4	10	7	8	5	7
-ACG	4	0	0	0	1	0	5	1	0	0	3
-AAT	12	6	4	6	19	6	16	13	2	15	14
-AAC	2	2	3	1	6	1	6	3	1	5	5
-AAA	7	12	12	1	20	19	6	7	4	17	8
-AAG	2	5	1	0	2	1	2	0	2	5	0
-AGT	6	1	2	2	5	4	12	5	9	3	10
-AGC	2	0	1	0	2	1	2	2	1	0	2
-AGA	2	4	3	2	2	1	2	1	1	1	3
-AGG	0	2	0	0	1	0	0	0	1	1	1
-GTT	12	7	2	6	10	5	18	11	10	5	15
-GTC	3	0	0	1	0	0	5	2	2	1	0
-GTA	4	2	1	4	5	3	6	10	4	6	6
-GTG	5	1	0	0	2	1	3	1	1	1	2
-GCT	4	1	2	7	2	0	11	7	10	1	11
-GCC	1	0	0	0	1	0	3	0	0	0	0
-GCA	3	0	1	0	2	0	12	4	5	1	5
-GCG	1	2	0	1	1	0	5	0	3	1	4
-GAT	1	2	0	2	1	2	10	11	5	2	4
-GAC	0	0	0	0	0	0	3	0	1	0	3
-GAA	3	2	2	3	2	3	4	10	5	6	3
-GAG	1	0	0	0	1	1	4	2	1	3	4
-GGT	1	5	0	2	5	3	19	7	10	2	10
-GGC	0	1	0	0	0	0	5	0	1	0	1
-GGA	0	3	1	1	1	5	16	2	4	0	10
-GGG	1	0	0	1	2	0	8	1	5	0	3
-TAA	0	1	1	1	1	1	1	0	1	1	1
-TAG	1	0	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ymf16	YP_009389213.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	34	4	31	5	8	0	3	1	18	1	2	0	3	0	4	0	2	0	5	1	1	0	0	1	7	1	0	0	2	1	19	4	15	2	3	4	4	4	12	2	7	2	6	2	2	0	12	3	4	5	4	1	3	1	1	0	3	1	1	0	0	1	0	1
+1	rps12	YP_009389214.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	2	0	6	2	5	1	1	0	3	4	2	1	0	0	1	0	1	0	2	1	2	2	3	0	5	1	5	0	2	0	7	2	5	2	2	2	3	0	6	2	12	5	1	0	4	2	7	0	2	1	1	0	0	2	2	0	2	0	5	1	3	0	1	0
+2	rpl20	YP_009389215.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	5	2	2	0	0	1	1	0	4	1	0	0	2	0	7	1	0	0	0	0	1	0	2	0	1	0	2	0	1	0	1	3	7	3	2	2	0	0	4	3	12	1	2	1	3	0	2	0	1	0	2	0	1	0	0	0	2	0	0	0	1	0	1	0
+3	nad4L	YP_009389216.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	3	1	14	1	4	1	3	1	4	0	0	0	0	0	4	0	1	0	0	0	0	0	1	0	2	0	0	0	1	0	9	1	2	6	1	0	1	0	6	1	1	0	2	0	2	0	6	1	4	0	7	0	0	1	2	0	3	0	2	0	1	1	1	0
+4	rps3	YP_009389217.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	13	2	18	2	8	0	6	2	10	4	3	0	4	1	5	1	1	1	3	1	0	0	2	1	2	0	1	2	3	0	11	0	10	2	7	0	6	1	19	6	20	2	5	2	2	1	10	0	5	2	2	1	2	1	1	0	2	1	5	0	1	2	1	0
+5	rpl16	YP_009389218.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	6	1	14	2	8	2	3	1	4	0	1	0	1	1	4	1	1	1	1	0	1	0	3	0	3	0	1	0	2	0	12	1	6	3	6	4	4	0	6	1	19	1	4	1	1	0	5	0	3	1	0	0	0	0	2	0	3	1	3	0	5	0	1	0
+6	cox1	YP_009389219.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	46	1	33	9	12	1	12	5	22	1	5	0	14	1	13	1	4	1	13	2	8	4	13	4	5	3	4	0	2	1	34	8	18	19	10	4	10	5	16	6	6	2	12	2	2	0	18	5	6	3	11	3	12	5	10	3	4	4	19	5	16	8	1	0
+7	cox2	YP_009389220.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	12	2	20	2	3	2	4	4	9	1	4	1	7	1	5	0	2	0	4	2	5	1	8	1	4	3	3	0	1	0	12	2	13	6	7	1	7	1	13	3	7	0	5	2	1	0	11	2	10	1	7	0	4	0	11	0	10	2	7	0	2	1	0	1
+8	cox3	YP_009389221.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	25	0	21	3	5	2	4	2	10	0	4	0	11	1	3	2	8	0	5	1	2	2	12	1	5	1	2	1	1	0	15	1	11	5	8	2	8	0	2	1	4	2	9	1	1	1	10	2	4	1	10	0	5	3	5	1	5	1	10	1	4	5	1	0
+9	ymf39	YP_009389222.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	16	3	20	2	5	0	4	1	8	0	2	0	1	2	8	0	4	1	0	0	0	1	4	0	9	1	3	0	0	0	10	2	10	5	1	0	5	0	15	5	17	5	3	0	1	1	5	1	6	1	1	0	1	1	2	0	6	3	2	0	0	0	1	0
+10	cob	YP_009389223.1	Thorea hispida	Eukaryota, Rhodophyta, Florideophyceae, Nemaliophycidae, Thoreales, Thoreaceae, Thorea	27	7	28	5	4	1	7	3	19	3	4	1	10	2	5	1	8	3	7	3	7	2	11	2	7	2	3	0	5	0	37	4	14	13	6	2	7	3	14	5	8	0	10	2	3	1	15	0	6	2	11	0	5	4	4	3	3	4	10	1	10	3	1	0

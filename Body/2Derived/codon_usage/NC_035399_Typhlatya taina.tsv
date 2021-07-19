@@ -1,65 +1,10 @@
-	YP_009406902.1|COX1	YP_009406903.1|COX2	YP_009406904.1|ATP8	YP_009406905.1|ATP6	YP_009406906.1|COX3	YP_009406907.1|ND3	YP_009406911.1|ND6	YP_009406912.1|CYTB	YP_009406914.1|ND2
-TTT	27	8	4	13	12	8	8	19	16
-TTC	13	8	2	2	12	4	7	15	7
-TTA	17	8	3	21	10	8	18	16	30
-TTG	3	0	0	1	1	0	2	0	0
-TCT	9	4	1	3	4	3	3	3	9
-TCC	7	3	0	2	3	0	6	6	19
-TCA	11	9	2	6	7	4	4	10	16
-TCG	0	0	0	2	1	1	0	0	0
-TAT	7	5	0	3	7	2	5	8	5
-TAC	8	2	1	0	3	1	1	7	3
-TGT	0	1	1	0	1	1	1	1	0
-TGC	0	1	0	0	1	2	0	1	0
-TGA	13	6	4	6	10	3	1	11	5
-TGG	2	0	0	0	3	0	0	0	2
-CTT	17	7	1	15	9	3	5	15	17
-CTC	10	5	1	3	7	4	3	9	10
-CTA	15	8	3	6	6	3	7	14	13
-CTG	0	0	0	0	0	0	0	0	0
-CCT	5	0	3	4	3	2	2	4	6
-CCC	4	0	1	3	3	0	1	3	4
-CCA	16	11	2	5	3	3	3	16	6
-CCG	2	0	0	1	0	0	1	0	0
-CAT	6	2	1	4	6	1	2	7	6
-CAC	12	2	0	2	10	0	2	6	0
-CAA	8	8	1	4	8	1	1	9	10
-CAG	1	0	0	0	1	0	0	1	1
-CGT	1	1	0	0	0	1	0	3	1
-CGC	1	2	0	1	0	0	1	0	0
-CGA	8	3	0	2	4	2	0	4	2
-CGG	0	1	0	0	0	0	0	0	0
-ATT	31	14	4	15	8	12	16	23	27
-ATC	15	9	1	5	6	4	5	13	9
-ATA	22	7	4	12	7	3	11	15	21
-ATG	3	1	0	2	3	0	1	3	2
-ACT	6	4	1	7	9	2	5	8	6
-ACC	7	4	0	5	3	0	4	5	4
-ACA	22	7	0	10	11	5	9	15	6
-ACG	1	0	0	0	0	0	1	0	0
-AAT	7	6	1	7	3	3	3	8	7
-AAC	11	2	2	4	2	0	1	8	5
-AAA	8	6	3	1	4	3	4	7	13
-AAG	0	0	1	1	0	1	0	1	0
-AGT	0	0	0	0	1	0	0	1	0
-AGC	0	1	0	1	0	0	1	0	0
-AGA	10	8	0	10	3	1	4	2	3
-AGG	2	0	1	1	2	0	1	1	2
-GTT	12	2	0	1	8	4	5	9	3
-GTC	3	2	0	2	4	0	0	4	2
-GTA	21	7	0	3	4	3	2	8	3
-GTG	0	1	0	1	1	0	1	1	0
-GCT	12	2	1	2	9	3	0	7	7
-GCC	17	3	0	4	6	2	3	4	6
-GCA	9	6	0	5	3	2	3	11	4
-GCG	0	1	0	0	0	0	1	1	1
-GAT	7	7	0	0	3	0	1	3	0
-GAC	7	4	0	1	2	3	0	7	0
-GAA	8	8	2	3	6	5	2	1	4
-GAG	0	1	0	1	1	1	0	1	0
-GGT	7	1	0	0	5	0	0	0	2
-GGC	6	3	0	1	5	0	2	2	2
-GGA	27	6	0	8	7	3	1	17	6
-GGG	6	1	0	2	1	1	0	4	1
-TAA	1	0	1	1	1	1	1	0	1
-TAG	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009406902.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	27	13	17	3	9	7	11	0	7	8	0	0	13	2	17	10	15	0	5	4	16	2	6	12	8	1	1	1	8	0	31	15	22	3	6	7	22	1	7	11	8	0	0	0	10	2	12	3	21	0	12	17	9	0	7	7	8	0	7	6	27	6	1	0
+1	COX2	YP_009406903.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	8	8	8	0	4	3	9	0	5	2	1	1	6	0	7	5	8	0	0	0	11	0	2	2	8	0	1	2	3	1	14	9	7	1	4	4	7	0	6	2	6	0	0	1	8	0	2	2	7	1	2	3	6	1	7	4	8	1	1	3	6	1	0	0
+2	ATP8	YP_009406904.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	4	2	3	0	1	0	2	0	0	1	1	0	4	0	1	1	3	0	3	1	2	0	1	0	1	0	0	0	0	0	4	1	4	0	1	0	0	0	1	2	3	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	1	0
+3	ATP6	YP_009406905.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	13	2	21	1	3	2	6	2	3	0	0	0	6	0	15	3	6	0	4	3	5	1	4	2	4	0	0	1	2	0	15	5	12	2	7	5	10	0	7	4	1	1	0	1	10	1	1	2	3	1	2	4	5	0	0	1	3	1	0	1	8	2	1	0
+4	COX3	YP_009406906.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	12	12	10	1	4	3	7	1	7	3	1	1	10	3	9	7	6	0	3	3	3	0	6	10	8	1	0	0	4	0	8	6	7	3	9	3	11	0	3	2	4	0	1	0	3	2	8	4	4	1	9	6	3	0	3	2	6	1	5	5	7	1	1	0
+5	ND3	YP_009406907.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	8	4	8	0	3	0	4	1	2	1	1	2	3	0	3	4	3	0	2	0	3	0	1	0	1	0	1	0	2	0	12	4	3	0	2	0	5	0	3	0	3	1	0	0	1	0	4	0	3	0	3	2	2	0	0	3	5	1	0	0	3	1	1	0
+6	ND6	YP_009406911.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	8	7	18	2	3	6	4	0	5	1	1	0	1	0	5	3	7	0	2	1	3	1	2	2	1	0	0	1	0	0	16	5	11	1	5	4	9	1	3	1	4	0	0	1	4	1	5	0	2	1	0	3	3	1	1	0	2	0	0	2	1	0	1	0
+7	CYTB	YP_009406912.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	19	15	16	0	3	6	10	0	8	7	1	1	11	0	15	9	14	0	4	3	16	0	7	6	9	1	3	0	4	0	23	13	15	3	8	5	15	0	8	8	7	1	1	0	2	1	9	4	8	1	7	4	11	1	3	7	1	1	0	2	17	4	0	1
+8	ND2	YP_009406914.1	Typhlatya taina	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Atyoidea, Atyidae, Typhlatya	16	7	30	0	9	19	16	0	5	3	0	0	5	2	17	10	13	0	6	4	6	0	6	0	10	1	1	0	2	0	27	9	21	2	6	4	6	0	7	5	13	0	0	0	3	2	3	2	3	0	7	6	4	1	0	0	4	0	2	2	6	1	1	0

@@ -1,65 +1,14 @@
-	YP_003208288.1|COX1	YP_003208289.1|COX3	YP_003208290.1|ND4L	YP_003208291.1|ND2	YP_003208292.1|COX2	YP_003208293.1|ND6	YP_003208294.1|CYTB	YP_003208295.1|ATP6	YP_003208296.1|ND4	YP_003208297.1|ND3	YP_003208298.1|ND1	YP_003208299.1|ATP8	YP_003208300.1|ND5
-TTT	34	22	6	22	12	13	25	16	28	8	28	6	49
-TTC	9	5	1	8	5	1	4	5	11	4	3	0	5
-TTA	27	10	10	26	10	11	16	14	34	9	20	1	22
-TTG	19	4	4	18	8	5	14	8	24	6	13	2	36
-TCT	14	5	1	14	12	1	15	9	15	3	6	0	17
-TCC	2	3	0	3	4	2	1	3	6	0	4	0	3
-TCA	5	1	0	4	0	1	3	2	6	1	2	0	5
-TCG	0	1	0	1	1	1	0	0	1	1	4	0	2
-TAT	14	10	1	7	12	6	15	3	13	1	12	2	10
-TAC	5	4	0	5	4	1	3	1	5	1	3	0	6
-TGT	3	5	1	6	4	2	5	5	9	3	7	0	7
-TGC	0	0	0	3	1	0	1	3	5	1	0	0	3
-TGA	9	7	0	5	7	5	5	4	9	4	4	2	9
-TGG	8	8	1	6	8	2	6	5	10	0	3	3	7
-CTT	11	4	4	7	4	2	11	4	11	1	4	0	24
-CTC	2	2	0	4	1	2	2	1	1	0	0	0	0
-CTA	7	3	0	5	4	1	6	4	7	2	3	1	9
-CTG	2	1	3	1	2	1	1	1	3	2	1	0	5
-CCT	20	7	0	5	8	5	12	1	6	5	5	2	6
-CCC	1	1	0	3	5	1	3	1	2	0	1	0	1
-CCA	3	0	0	0	0	0	3	0	2	0	3	0	2
-CCG	1	0	0	0	1	0	2	0	3	0	1	0	0
-CAT	12	8	1	2	8	1	8	1	4	0	0	1	6
-CAC	6	4	0	0	0	0	2	1	1	0	0	0	0
-CAA	3	0	0	1	0	0	3	0	2	0	1	0	4
-CAG	4	4	0	3	6	0	3	2	3	0	3	0	4
-CGT	7	2	1	2	6	1	4	2	2	0	1	0	5
-CGC	2	1	2	0	2	1	0	0	0	1	0	0	0
-CGA	2	3	0	0	2	0	3	1	1	0	4	0	2
-CGG	2	3	0	1	3	0	0	0	1	2	2	0	1
-ATT	30	9	6	17	9	11	20	14	20	4	15	1	24
-ATC	2	4	0	1	1	0	5	0	4	0	4	0	4
-ATA	16	6	3	8	10	5	6	8	13	1	14	1	14
-ATG	12	9	0	9	5	3	10	4	12	3	5	2	9
-ACT	15	9	0	4	5	2	7	4	6	1	6	0	3
-ACC	3	1	0	1	0	0	1	2	1	0	1	0	1
-ACA	4	6	0	2	2	0	3	1	1	0	0	0	6
-ACG	3	1	0	1	2	0	0	0	0	1	1	1	3
-AAT	11	3	0	4	8	5	11	5	6	1	2	3	12
-AAC	3	0	0	1	2	1	4	1	1	1	3	0	2
-AAA	3	1	1	3	7	3	4	1	2	2	5	0	8
-AAG	6	2	1	3	11	0	4	4	6	1	4	1	7
-AGT	7	1	2	6	4	3	3	10	7	3	3	0	10
-AGC	5	1	3	4	1	0	3	2	4	1	1	0	4
-AGA	5	0	3	11	6	3	6	4	6	0	3	1	15
-AGG	6	3	2	6	4	4	2	5	9	0	3	0	14
-GTT	21	14	7	15	14	8	21	14	17	6	21	0	16
-GTC	4	4	1	5	4	2	4	4	5	3	6	0	4
-GTA	8	7	3	7	7	3	13	8	11	2	8	2	26
-GTG	11	9	2	12	5	11	10	6	13	3	10	2	17
-GCT	16	5	3	5	8	1	9	3	10	0	9	0	10
-GCC	3	3	0	2	0	1	2	2	2	0	0	0	5
-GCA	9	1	2	2	0	0	3	1	4	3	5	0	4
-GCG	6	2	0	1	1	1	1	0	5	2	2	0	9
-GAT	7	2	1	2	11	3	8	1	6	2	3	1	14
-GAC	5	2	0	0	2	0	0	1	0	1	2	0	1
-GAA	5	3	2	1	8	3	2	0	6	4	2	1	6
-GAG	4	2	2	3	9	1	4	1	2	3	7	0	4
-GGT	19	7	4	13	8	3	9	10	17	1	7	1	20
-GGC	1	2	2	4	2	4	2	4	4	2	5	0	4
-GGA	10	7	3	13	6	3	11	3	5	4	4	0	18
-GGG	23	11	4	17	7	10	16	9	19	3	13	0	12
-TAA	0	1	1	1	1	0	0	0	1	1	0	1	0
-TAG	1	0	0	0	0	1	0	1	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_003208288.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	34	9	27	19	14	2	5	0	14	5	3	0	9	8	11	2	7	2	20	1	3	1	12	6	3	4	7	2	2	2	30	2	16	12	15	3	4	3	11	3	3	6	7	5	5	6	21	4	8	11	16	3	9	6	7	5	5	4	19	1	10	23	0	1
+1	COX3	YP_003208289.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	22	5	10	4	5	3	1	1	10	4	5	0	7	8	4	2	3	1	7	1	0	0	8	4	0	4	2	1	3	3	9	4	6	9	9	1	6	1	3	0	1	2	1	1	0	3	14	4	7	9	5	3	1	2	2	2	3	2	7	2	7	11	1	0
+2	ND4L	YP_003208290.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	6	1	10	4	1	0	0	0	1	0	1	0	0	1	4	0	0	3	0	0	0	0	1	0	0	0	1	2	0	0	6	0	3	0	0	0	0	0	0	0	1	1	2	3	3	2	7	1	3	2	3	0	2	0	1	0	2	2	4	2	3	4	1	0
+3	ND2	YP_003208291.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	22	8	26	18	14	3	4	1	7	5	6	3	5	6	7	4	5	1	5	3	0	0	2	0	1	3	2	0	0	1	17	1	8	9	4	1	2	1	4	1	3	3	6	4	11	6	15	5	7	12	5	2	2	1	2	0	1	3	13	4	13	17	1	0
+4	COX2	YP_003208292.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	12	5	10	8	12	4	0	1	12	4	4	1	7	8	4	1	4	2	8	5	0	1	8	0	0	6	6	2	2	3	9	1	10	5	5	0	2	2	8	2	7	11	4	1	6	4	14	4	7	5	8	0	0	1	11	2	8	9	8	2	6	7	1	0
+5	ND6	YP_003208293.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	13	1	11	5	1	2	1	1	6	1	2	0	5	2	2	2	1	1	5	1	0	0	1	0	0	0	1	1	0	0	11	0	5	3	2	0	0	0	5	1	3	0	3	0	3	4	8	2	3	11	1	1	0	1	3	0	3	1	3	4	3	10	0	1
+6	CYTB	YP_003208294.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	25	4	16	14	15	1	3	0	15	3	5	1	5	6	11	2	6	1	12	3	3	2	8	2	3	3	4	0	3	0	20	5	6	10	7	1	3	0	11	4	4	4	3	3	6	2	21	4	13	10	9	2	3	1	8	0	2	4	9	2	11	16	0	0
+7	ATP6	YP_003208295.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	16	5	14	8	9	3	2	0	3	1	5	3	4	5	4	1	4	1	1	1	0	0	1	1	0	2	2	0	1	0	14	0	8	4	4	2	1	0	5	1	1	4	10	2	4	5	14	4	8	6	3	2	1	0	1	1	0	1	10	4	3	9	0	1
+8	ND4	YP_003208296.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	28	11	34	24	15	6	6	1	13	5	9	5	9	10	11	1	7	3	6	2	2	3	4	1	2	3	2	0	1	1	20	4	13	12	6	1	1	0	6	1	2	6	7	4	6	9	17	5	11	13	10	2	4	5	6	0	6	2	17	4	5	19	1	0
+9	ND3	YP_003208297.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	8	4	9	6	3	0	1	1	1	1	3	1	4	0	1	0	2	2	5	0	0	0	0	0	0	0	0	1	0	2	4	0	1	3	1	0	0	1	1	1	2	1	3	1	0	0	6	3	2	3	0	0	3	2	2	1	4	3	1	2	4	3	1	0
+10	ND1	YP_003208298.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	28	3	20	13	6	4	2	4	12	3	7	0	4	3	4	0	3	1	5	1	3	1	0	0	1	3	1	0	4	2	15	4	14	5	6	1	0	1	2	3	5	4	3	1	3	3	21	6	8	10	9	0	5	2	3	2	2	7	7	5	4	13	0	1
+11	ATP8	YP_003208299.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	6	0	1	2	0	0	0	0	2	0	0	0	2	3	0	0	1	0	2	0	0	0	1	0	0	0	0	0	0	0	1	0	1	2	0	0	0	1	3	0	0	1	0	0	1	0	0	0	2	2	0	0	0	0	1	0	1	0	1	0	0	0	1	0
+12	ND5	YP_003208300.1	Lucinella divaricata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Lucinoida, Lucinoidea, Lucinidae, Lucinella	49	5	22	36	17	3	5	2	10	6	7	3	9	7	24	0	9	5	6	1	2	0	6	0	4	4	5	0	2	1	24	4	14	9	3	1	6	3	12	2	8	7	10	4	15	14	16	4	26	17	10	5	4	9	14	1	6	4	20	4	18	12	0	1

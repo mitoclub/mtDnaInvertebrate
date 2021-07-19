@@ -1,65 +1,13 @@
-	YP_009235254.1|ND1	YP_009235255.1|ND2	YP_009235256.1|COX1	YP_009235257.1|COX2	YP_009235258.1|ATP8	YP_009235259.1|ATP6	YP_009235260.1|COX3	YP_009235261.1|ND3	YP_009235262.1|ND4L	YP_009235263.1|ND4	YP_009235264.1|ND5	YP_009235266.1|CYTB
-TTT	6	3	13	1	0	3	2	1	1	6	10	10
-TTC	11	8	27	7	3	8	20	8	7	11	30	21
-TTA	7	9	13	11	4	6	8	8	5	21	16	12
-TTG	1	0	0	0	0	1	0	0	0	1	2	0
-TCT	1	0	8	1	1	0	1	0	2	5	1	1
-TCC	3	8	3	6	1	1	5	4	3	5	8	7
-TCA	13	6	15	6	0	4	6	0	1	14	18	12
-TCG	1	0	1	0	0	0	0	1	0	0	0	0
-TAT	7	1	11	5	0	2	3	2	0	2	3	5
-TAC	5	7	8	4	0	3	9	0	0	12	9	9
-TGT	0	0	0	1	0	0	1	1	2	1	2	1
-TGC	0	1	1	1	0	0	1	0	1	4	3	2
-TGA	7	11	17	4	5	4	12	5	1	19	13	13
-TGG	1	0	0	1	0	1	0	0	0	1	0	0
-CTT	3	7	15	3	0	9	4	2	0	7	11	6
-CTC	9	4	13	2	0	7	5	4	4	18	17	6
-CTA	38	36	22	10	1	22	13	10	12	37	47	34
-CTG	4	6	1	2	0	2	3	2	2	3	1	3
-CCT	5	1	7	1	0	1	0	3	0	1	3	3
-CCC	6	4	5	4	2	3	5	2	1	10	6	3
-CCA	12	14	15	9	6	12	8	3	1	16	16	14
-CCG	1	0	1	0	0	1	0	0	0	0	1	1
-CAT	1	0	3	3	1	0	5	1	1	3	4	0
-CAC	4	7	16	7	1	3	11	0	3	9	11	12
-CAA	6	13	8	8	1	8	7	3	3	12	18	5
-CAG	1	1	0	0	0	0	2	0	0	2	0	1
-CGT	0	1	0	1	0	1	0	0	0	1	0	2
-CGC	1	0	2	2	0	0	1	1	3	2	1	2
-CGA	7	3	5	3	0	5	3	1	0	8	9	4
-CGG	0	0	1	0	0	0	1	0	0	0	0	0
-ATT	6	16	25	10	3	16	5	4	2	23	26	14
-ATC	15	14	13	6	2	8	10	5	0	15	34	20
-ATA	9	16	16	8	0	6	7	2	4	21	27	11
-ATG	2	1	8	4	1	3	1	1	1	5	3	2
-ACT	2	4	11	4	2	2	2	2	1	4	5	4
-ACC	9	29	4	5	2	4	3	3	3	14	23	8
-ACA	11	23	19	3	1	14	16	4	5	23	31	10
-ACG	0	0	1	0	0	0	0	0	0	1	2	1
-AAT	5	2	6	1	1	3	0	0	1	2	2	7
-AAC	7	7	9	5	2	7	1	3	1	10	26	10
-AAA	7	9	8	4	2	1	2	1	0	9	22	9
-AAG	0	0	0	0	1	0	0	0	0	0	2	0
-AGT	1	1	0	1	1	0	0	0	1	0	2	0
-AGC	3	6	5	2	0	4	3	0	2	6	8	1
-GTT	1	1	9	7	1	3	4	1	0	3	5	3
-GTC	3	1	6	5	0	4	6	0	1	4	8	3
-GTA	14	3	24	9	2	9	5	3	1	12	12	15
-GTG	2	0	4	1	0	1	1	1	0	1	0	0
-GCT	4	2	10	1	1	2	3	0	1	2	6	3
-GCC	15	15	21	7	0	7	11	3	4	13	24	10
-GCA	14	19	15	7	1	10	9	4	7	18	20	17
-GCG	0	1	0	1	0	0	0	0	0	0	1	0
-GAT	1	2	2	4	1	0	2	1	0	0	2	1
-GAC	3	2	12	8	0	1	3	3	1	3	13	10
-GAA	11	5	9	13	3	4	9	6	3	8	11	6
-GAG	0	0	2	2	0	0	1	0	0	3	1	1
-GGT	2	0	10	0	0	1	1	1	1	2	2	2
-GGC	3	2	8	4	1	1	3	3	0	7	7	6
-GGA	11	15	23	5	0	5	17	2	5	16	21	16
-GGG	2	1	5	0	0	4	0	1	0	4	1	1
-TAA	1	0	1	0	1	0	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009235254.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	6	11	7	1	1	3	13	1	7	5	0	0	7	1	3	9	38	4	5	6	12	1	1	4	6	1	0	1	7	0	6	15	9	2	2	9	11	0	5	7	7	0	1	3	1	3	14	2	4	15	14	0	1	3	11	0	2	3	11	2	1	0	0	0
+1	ND2	YP_009235255.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	3	8	9	0	0	8	6	0	1	7	0	1	11	0	7	4	36	6	1	4	14	0	0	7	13	1	1	0	3	0	16	14	16	1	4	29	23	0	2	7	9	0	1	6	1	1	3	0	2	15	19	1	2	2	5	0	0	2	15	1	0	0	0	0
+2	COX1	YP_009235256.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	13	27	13	0	8	3	15	1	11	8	0	1	17	0	15	13	22	1	7	5	15	1	3	16	8	0	0	2	5	1	25	13	16	8	11	4	19	1	6	9	8	0	0	5	9	6	24	4	10	21	15	0	2	12	9	2	10	8	23	5	1	0	0	0
+3	COX2	YP_009235257.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	1	7	11	0	1	6	6	0	5	4	1	1	4	1	3	2	10	2	1	4	9	0	3	7	8	0	1	2	3	0	10	6	8	4	4	5	3	0	1	5	4	0	1	2	7	5	9	1	1	7	7	1	4	8	13	2	0	4	5	0	0	0	0	0
+4	ATP8	YP_009235258.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	0	3	4	0	1	1	0	0	0	0	0	0	5	0	0	0	1	0	0	2	6	0	1	1	1	0	0	0	0	0	3	2	0	1	2	2	1	0	1	2	2	1	1	0	1	0	2	0	1	0	1	0	1	0	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009235259.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	3	8	6	1	0	1	4	0	2	3	0	0	4	1	9	7	22	2	1	3	12	1	0	3	8	0	1	0	5	0	16	8	6	3	2	4	14	0	3	7	1	0	0	4	3	4	9	1	2	7	10	0	0	1	4	0	1	1	5	4	0	0	0	0
+6	COX3	YP_009235260.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	2	20	8	0	1	5	6	0	3	9	1	1	12	0	4	5	13	3	0	5	8	0	5	11	7	2	0	1	3	1	5	10	7	1	2	3	16	0	0	1	2	0	0	3	4	6	5	1	3	11	9	0	2	3	9	1	1	3	17	0	1	0	0	0
+7	ND3	YP_009235261.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	1	8	8	0	0	4	0	1	2	0	1	0	5	0	2	4	10	2	3	2	3	0	1	0	3	0	0	1	1	0	4	5	2	1	2	3	4	0	0	3	1	0	0	0	1	0	3	1	0	3	4	0	1	3	6	0	1	3	2	1	0	0	0	0
+8	ND4L	YP_009235262.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	1	7	5	0	2	3	1	0	0	0	2	1	1	0	0	4	12	2	0	1	1	0	1	3	3	0	0	3	0	0	2	0	4	1	1	3	5	0	1	1	0	0	1	2	0	1	1	0	1	4	7	0	0	1	3	0	1	0	5	0	1	0	0	0
+9	ND4	YP_009235263.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	6	11	21	1	5	5	14	0	2	12	1	4	19	1	7	18	37	3	1	10	16	0	3	9	12	2	1	2	8	0	23	15	21	5	4	14	23	1	2	10	9	0	0	6	3	4	12	1	2	13	18	0	0	3	8	3	2	7	16	4	0	0	0	0
+10	ND5	YP_009235264.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	10	30	16	2	1	8	18	0	3	9	2	3	13	0	11	17	47	1	3	6	16	1	4	11	18	0	0	1	9	0	26	34	27	3	5	23	31	2	2	26	22	2	2	8	5	8	12	0	6	24	20	1	2	13	11	1	2	7	21	1	1	0	0	0
+11	CYTB	YP_009235266.1	Labeo pangusia	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Labeo	10	21	12	0	1	7	12	0	5	9	1	2	13	0	6	6	34	3	3	3	14	1	0	12	5	1	2	2	4	0	14	20	11	2	4	8	10	1	7	10	9	0	0	1	3	3	15	0	3	10	17	0	1	10	6	1	2	6	16	1	0	0	0	0

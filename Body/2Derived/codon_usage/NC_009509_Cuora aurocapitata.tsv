@@ -1,65 +1,13 @@
-	YP_001260486.1|ND1	YP_001260487.1|ND2	YP_001260488.1|COX1	YP_001260489.1|COX2	YP_001260490.1|ATP8	YP_001260491.1|ATP6	YP_001260492.1|COX3	YP_001260493.1|ND3	YP_001260494.1|ND4L	YP_001260495.1|ND4	YP_001260496.1|ND5	YP_001260498.1|CYTB
-TTT	10	3	19	4	0	5	7	4	3	7	12	5
-TTC	12	8	21	6	1	3	14	1	2	12	21	21
-TTA	11	8	18	8	2	18	19	4	5	17	22	12
-TTG	0	2	2	2	0	1	1	0	1	1	2	0
-TCT	2	6	8	1	1	3	2	2	1	5	7	5
-TCC	8	9	7	4	3	2	1	2	5	5	11	7
-TCA	15	7	13	6	1	4	6	3	5	14	17	15
-TCG	1	1	0	0	0	0	0	2	1	0	2	0
-TAT	1	1	6	7	1	0	5	1	0	5	7	5
-TAC	11	5	13	4	1	3	6	3	0	7	8	12
-TGT	0	1	0	1	0	0	1	0	0	2	2	1
-TGC	1	1	1	1	0	1	1	0	4	6	3	2
-TGA	8	11	17	4	5	4	12	4	0	11	12	10
-TGG	0	0	0	0	0	0	0	0	1	3	0	0
-CTT	7	3	7	4	0	6	2	4	6	12	12	10
-CTC	10	6	9	2	1	8	5	0	0	5	15	13
-CTA	27	34	21	6	3	19	7	6	11	44	35	19
-CTG	2	0	2	3	1	4	0	1	0	6	7	2
-CCT	3	2	6	2	1	3	2	6	0	3	3	3
-CCC	6	6	5	2	0	0	2	4	1	6	9	11
-CCA	14	11	12	9	3	10	8	1	1	16	19	12
-CCG	1	0	3	1	2	1	1	0	0	2	1	0
-CAT	0	5	7	4	0	0	7	3	1	3	3	6
-CAC	3	3	13	8	0	3	9	2	4	8	12	5
-CAA	6	15	8	7	2	8	8	0	4	12	12	7
-CAG	0	1	1	0	0	1	0	0	0	1	2	2
-CGT	0	0	2	0	0	1	0	0	0	2	2	1
-CGC	1	0	2	2	0	0	0	1	0	1	3	1
-CGA	5	4	3	2	0	4	5	1	0	7	4	5
-CGG	1	0	1	2	0	0	0	1	1	1	2	0
-ATT	9	13	20	10	3	9	9	8	3	17	24	7
-ATC	15	18	21	8	2	12	6	3	2	19	40	23
-ATA	19	28	28	15	2	13	9	4	7	35	36	11
-ATG	3	2	4	2	1	1	2	5	2	4	2	1
-ACT	5	7	9	5	2	3	2	5	1	12	15	8
-ACC	8	15	14	6	1	9	7	2	4	14	20	16
-ACA	8	24	13	4	2	14	13	4	1	21	27	11
-ACG	0	2	0	0	0	1	1	0	0	0	5	1
-AAT	3	4	5	3	3	6	1	5	0	3	6	4
-AAC	11	5	9	4	4	4	4	5	2	11	27	16
-AAA	7	10	9	5	3	3	2	3	0	11	23	8
-AAG	1	1	0	0	0	0	0	0	0	1	2	1
-AGT	0	2	1	0	0	0	1	1	0	2	2	0
-AGC	1	5	3	4	0	3	4	7	2	3	7	2
-GTT	1	1	11	3	0	2	1	0	0	0	2	0
-GTC	2	2	2	1	0	2	2	0	0	3	4	3
-GTA	8	4	19	11	0	5	10	0	2	6	8	10
-GTG	0	0	3	2	0	0	2	0	0	0	1	0
-GCT	7	3	12	4	1	4	4	0	4	10	6	6
-GCC	10	15	14	3	0	7	9	2	3	15	17	11
-GCA	8	11	16	6	1	2	9	1	1	13	14	5
-GCG	0	0	3	0	0	0	0	0	0	0	0	0
-GAT	1	0	5	4	1	1	3	1	0	0	2	5
-GAC	3	2	10	5	1	0	2	0	0	2	6	6
-GAA	11	6	9	12	0	2	7	1	3	12	8	5
-GAG	0	0	1	1	0	2	0	0	0	0	2	0
-GGT	0	0	9	1	0	2	5	0	0	3	3	3
-GGC	7	5	13	0	0	0	4	0	2	6	11	8
-GGA	7	6	16	5	0	7	7	0	2	8	11	12
-GGG	2	2	9	2	0	1	3	2	1	6	2	3
-TAA	0	0	0	1	1	1	1	0	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	1	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001260486.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	10	12	11	0	2	8	15	1	1	11	0	1	8	0	7	10	27	2	3	6	14	1	0	3	6	0	0	1	5	1	9	15	19	3	5	8	8	0	3	11	7	1	0	1	1	2	8	0	7	10	8	0	1	3	11	0	0	7	7	2	0	0	0	0
+1	ND2	YP_001260487.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	3	8	8	2	6	9	7	1	1	5	1	1	11	0	3	6	34	0	2	6	11	0	5	3	15	1	0	0	4	0	13	18	28	2	7	15	24	2	4	5	10	1	2	5	1	2	4	0	3	15	11	0	0	2	6	0	0	5	6	2	0	0	0	0
+2	COX1	YP_001260488.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	19	21	18	2	8	7	13	0	6	13	0	1	17	0	7	9	21	2	6	5	12	3	7	13	8	1	2	2	3	1	20	21	28	4	9	14	13	0	5	9	9	0	1	3	11	2	19	3	12	14	16	3	5	10	9	1	9	13	16	9	0	0	0	1
+3	COX2	YP_001260489.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	4	6	8	2	1	4	6	0	7	4	1	1	4	0	4	2	6	3	2	2	9	1	4	8	7	0	0	2	2	2	10	8	15	2	5	6	4	0	3	4	5	0	0	4	3	1	11	2	4	3	6	0	4	5	12	1	1	0	5	2	1	0	0	0
+4	ATP8	YP_001260490.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	0	1	2	0	1	3	1	0	1	1	0	0	5	0	0	1	3	1	1	0	3	2	0	0	2	0	0	0	0	0	3	2	2	1	2	1	2	0	3	4	3	0	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_001260491.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	5	3	18	1	3	2	4	0	0	3	0	1	4	0	6	8	19	4	3	0	10	1	0	3	8	1	1	0	4	0	9	12	13	1	3	9	14	1	6	4	3	0	0	3	2	2	5	0	4	7	2	0	1	0	2	2	2	0	7	1	1	0	0	0
+6	COX3	YP_001260492.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	7	14	19	1	2	1	6	0	5	6	1	1	12	0	2	5	7	0	2	2	8	1	7	9	8	0	0	0	5	0	9	6	9	2	2	7	13	1	1	4	2	0	1	4	1	2	10	2	4	9	9	0	3	2	7	0	5	4	7	3	1	0	0	0
+7	ND3	YP_001260493.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	4	1	4	0	2	2	3	2	1	3	0	0	4	0	4	0	6	1	6	4	1	0	3	2	0	0	0	1	1	1	8	3	4	5	5	2	4	0	5	5	3	0	1	7	0	0	0	0	0	2	1	0	1	0	1	0	0	0	0	2	0	0	1	0
+8	ND4L	YP_001260494.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	3	2	5	1	1	5	5	1	0	0	0	4	0	1	6	0	11	0	0	1	1	0	1	4	4	0	0	0	0	1	3	2	7	2	1	4	1	0	0	2	0	0	0	2	0	0	2	0	4	3	1	0	0	0	3	0	0	2	2	1	1	0	0	0
+9	ND4	YP_001260495.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	7	12	17	1	5	5	14	0	5	7	2	6	11	3	12	5	44	6	3	6	16	2	3	8	12	1	2	1	7	1	17	19	35	4	12	14	21	0	3	11	11	1	2	3	0	3	6	0	10	15	13	0	0	2	12	0	3	6	8	6	1	0	0	0
+10	ND5	YP_001260496.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	12	21	22	2	7	11	17	2	7	8	2	3	12	0	12	15	35	7	3	9	19	1	3	12	12	2	2	3	4	2	24	40	36	2	15	20	27	5	6	27	23	2	2	7	2	4	8	1	6	17	14	0	2	6	8	2	3	11	11	2	1	0	0	0
+11	CYTB	YP_001260498.1	Cuora aurocapitata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Cryptodira, Durocryptodira, Testudinoidea, Geoemydidae, Geoemydinae, Cuora	5	21	12	0	5	7	15	0	5	12	1	2	10	0	10	13	19	2	3	11	12	0	6	5	7	2	1	1	5	0	7	23	11	1	8	16	11	1	4	16	8	1	0	2	0	3	10	0	6	11	5	0	5	6	5	0	3	8	12	3	1	0	0	0

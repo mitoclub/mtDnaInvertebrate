@@ -1,65 +1,13 @@
-	YP_009122437.1|ND1	YP_009122438.1|ND2	YP_009122439.1|COX1	YP_009122440.1|COX2	YP_009122441.1|ATP8	YP_009122442.1|ATP6	YP_009122443.1|COX3	YP_009122444.1|ND3	YP_009122445.1|ND4L	YP_009122446.1|ND4	YP_009122447.1|ND5	YP_009122449.1|CYTB
-TTT	9	8	22	4	3	8	8	2	4	8	21	13
-TTC	10	2	20	5	0	3	16	6	3	9	22	18
-TTA	14	9	11	4	2	8	5	7	6	19	21	9
-TTG	1	1	1	0	1	0	0	0	0	2	2	0
-TCT	3	3	6	1	1	1	4	1	1	4	11	5
-TCC	9	8	6	7	0	4	4	5	3	10	11	10
-TCA	6	10	7	4	0	0	3	1	4	5	5	6
-TCG	0	0	4	0	0	0	0	0	0	2	1	0
-TAT	5	3	9	5	1	3	3	1	0	9	6	6
-TAC	6	4	9	4	0	2	9	1	0	5	5	8
-TGT	0	0	0	1	0	0	0	0	1	0	1	1
-TGC	0	0	1	1	0	0	2	1	2	4	5	2
-TGA	5	11	15	5	5	4	11	4	1	15	10	12
-TGG	3	0	2	0	0	1	1	1	0	4	4	1
-CTT	14	37	19	12	0	23	12	7	8	25	25	13
-CTC	10	10	11	5	1	12	6	2	3	18	16	17
-CTA	21	21	19	6	1	13	6	11	6	29	28	17
-CTG	2	4	2	1	0	1	3	1	1	5	6	5
-CCT	11	5	12	7	4	9	4	0	0	5	10	5
-CCC	7	9	10	4	3	6	9	6	1	13	15	11
-CCA	6	6	7	3	2	2	0	2	1	10	3	5
-CCG	0	1	0	0	0	0	0	0	0	0	1	0
-CAT	0	1	7	3	0	3	7	0	2	2	9	3
-CAC	4	6	12	7	1	1	9	1	2	9	10	9
-CAA	4	15	5	7	2	7	6	3	3	10	17	6
-CAG	3	1	3	1	0	2	3	0	0	0	0	0
-CGT	2	1	2	3	0	0	1	0	0	3	2	0
-CGC	2	0	1	1	0	2	0	2	1	2	1	1
-CGA	3	2	4	2	0	4	4	0	2	6	5	7
-CGG	1	1	1	0	0	0	0	0	0	0	2	0
-ATT	19	20	31	18	4	8	8	6	2	22	33	19
-ATC	9	1	12	2	0	8	8	2	0	10	13	12
-ATA	5	10	14	9	0	7	6	1	0	22	21	5
-ATG	4	4	9	2	1	2	3	1	4	6	4	2
-ACT	4	10	10	3	0	3	3	2	1	7	8	6
-ACC	9	18	10	3	2	8	5	2	5	13	29	10
-ACA	5	12	13	4	5	10	12	2	2	12	19	6
-ACG	0	1	2	0	0	0	0	0	0	3	5	0
-AAT	7	7	6	3	0	3	1	1	1	5	15	6
-AAC	5	3	9	2	3	5	0	0	1	5	14	13
-AAA	7	9	8	4	3	1	2	1	0	10	20	7
-AAG	0	0	0	0	0	0	0	0	0	0	0	2
-AGT	1	0	2	0	0	0	0	0	0	6	4	0
-AGC	2	3	3	3	1	4	3	0	2	6	9	1
-GTT	7	2	12	9	0	5	3	4	1	4	11	7
-GTC	4	2	6	4	2	4	6	0	0	6	7	8
-GTA	2	2	21	3	0	3	3	1	1	7	12	8
-GTG	5	1	2	3	0	1	2	0	0	0	2	2
-GCT	8	8	12	2	0	2	5	2	1	7	6	7
-GCC	14	16	24	6	3	12	10	7	8	15	31	15
-GCA	12	15	11	9	0	5	8	3	5	17	18	11
-GCG	1	0	3	1	0	0	0	0	0	0	1	0
-GAT	2	1	2	5	0	0	2	1	1	0	6	4
-GAC	2	2	12	8	0	1	3	3	1	7	6	6
-GAA	5	3	10	11	2	3	8	6	1	9	8	4
-GAG	6	1	1	4	1	1	2	0	1	1	4	1
-GGT	5	4	12	2	0	2	9	1	1	6	6	7
-GGC	5	8	13	2	0	3	4	4	2	5	14	8
-GGA	6	6	14	4	0	5	7	1	1	8	9	10
-GGG	2	0	7	1	0	2	2	0	1	8	2	3
-TAA	1	0	1	0	0	1	0	0	0	0	1	0
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009122437.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	9	10	14	1	3	9	6	0	5	6	0	0	5	3	14	10	21	2	11	7	6	0	0	4	4	3	2	2	3	1	19	9	5	4	4	9	5	0	7	5	7	0	1	2	7	4	2	5	8	14	12	1	2	2	5	6	5	5	6	2	1	0	0	0
+1	ND2	YP_009122438.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	8	2	9	1	3	8	10	0	3	4	0	0	11	0	37	10	21	4	5	9	6	1	1	6	15	1	1	0	2	1	20	1	10	4	10	18	12	1	7	3	9	0	0	3	2	2	2	1	8	16	15	0	1	2	3	1	4	8	6	0	0	0	0	0
+2	COX1	YP_009122439.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	22	20	11	1	6	6	7	4	9	9	0	1	15	2	19	11	19	2	12	10	7	0	7	12	5	3	2	1	4	1	31	12	14	9	10	10	13	2	6	9	8	0	2	3	12	6	21	2	12	24	11	3	2	12	10	1	12	13	14	7	1	0	0	0
+3	COX2	YP_009122440.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	4	5	4	0	1	7	4	0	5	4	1	1	5	0	12	5	6	1	7	4	3	0	3	7	7	1	3	1	2	0	18	2	9	2	3	3	4	0	3	2	4	0	0	3	9	4	3	3	2	6	9	1	5	8	11	4	2	2	4	1	0	0	0	0
+4	ATP8	YP_009122441.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	3	0	2	1	1	0	0	0	1	0	0	0	5	0	0	1	1	0	4	3	2	0	0	1	2	0	0	0	0	0	4	0	0	1	0	2	5	0	0	3	3	0	0	1	0	2	0	0	0	3	0	0	0	0	2	1	0	0	0	0	0	0	0	0
+5	ATP6	YP_009122442.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	8	3	8	0	1	4	0	0	3	2	0	0	4	1	23	12	13	1	9	6	2	0	3	1	7	2	0	2	4	0	8	8	7	2	3	8	10	0	3	5	1	0	0	4	5	4	3	1	2	12	5	0	0	1	3	1	2	3	5	2	1	0	0	0
+6	COX3	YP_009122443.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	8	16	5	0	4	4	3	0	3	9	0	2	11	1	12	6	6	3	4	9	0	0	7	9	6	3	1	0	4	0	8	8	6	3	3	5	12	0	1	0	2	0	0	3	3	6	3	2	5	10	8	0	2	3	8	2	9	4	7	2	0	0	0	0
+7	ND3	YP_009122444.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	2	6	7	0	1	5	1	0	1	1	0	1	4	1	7	2	11	1	0	6	2	0	0	1	3	0	0	2	0	0	6	2	1	1	2	2	2	0	1	0	1	0	0	0	4	0	1	0	2	7	3	0	1	3	6	0	1	4	1	0	0	1	0	0
+8	ND4L	YP_009122445.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	4	3	6	0	1	3	4	0	0	0	1	2	1	0	8	3	6	1	0	1	1	0	2	2	3	0	0	1	2	0	2	0	0	4	1	5	2	0	1	1	0	0	0	2	1	0	1	0	1	8	5	0	1	1	1	1	1	2	1	1	0	0	0	0
+9	ND4	YP_009122446.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	8	9	19	2	4	10	5	2	9	5	0	4	15	4	25	18	29	5	5	13	10	0	2	9	10	0	3	2	6	0	22	10	22	6	7	13	12	3	5	5	10	0	6	6	4	6	7	0	7	15	17	0	0	7	9	1	6	5	8	8	0	0	0	0
+10	ND5	YP_009122447.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	21	22	21	2	11	11	5	1	6	5	1	5	10	4	25	16	28	6	10	15	3	1	9	10	17	0	2	1	5	2	33	13	21	4	8	29	19	5	15	14	20	0	4	9	11	7	12	2	6	31	18	1	6	6	8	4	6	14	9	2	1	0	0	0
+11	CYTB	YP_009122449.1	Sander lucioperca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Perciformes, Percoidei, Percidae, Luciopercinae, Sander	13	18	9	0	5	10	6	0	6	8	1	2	12	1	13	17	17	5	5	11	5	0	3	9	6	0	0	1	7	0	19	12	5	2	6	10	6	0	6	13	7	2	0	1	7	8	8	2	7	15	11	0	4	6	4	1	7	8	10	3	0	0	0	0

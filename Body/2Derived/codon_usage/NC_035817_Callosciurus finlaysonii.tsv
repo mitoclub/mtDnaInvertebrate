@@ -1,65 +1,13 @@
-	YP_009424320.1|ND1	YP_009424321.1|ND2	YP_009424322.1|COX1	YP_009424323.1|COX2	YP_009424324.1|ATP8	YP_009424325.1|ATP6	YP_009424326.1|COX3	YP_009424327.1|ND3	YP_009424328.1|ND4L	YP_009424329.1|ND4	YP_009424330.1|ND5	YP_009424332.1|CYTB
-TTT	9	3	18	5	3	7	12	6	1	6	19	12
-TTC	14	10	24	2	1	6	11	2	3	14	27	16
-TTA	12	6	12	7	2	9	4	5	6	18	9	6
-TTG	2	3	1	1	1	2	1	1	0	0	2	1
-TCT	9	3	8	4	2	5	5	1	4	6	19	5
-TCC	4	8	7	6	1	2	3	2	0	10	15	10
-TCA	7	15	12	7	4	3	7	2	4	19	14	5
-TCG	0	1	1	0	0	0	2	0	0	2	1	1
-TAT	5	0	11	7	1	1	5	1	3	8	11	7
-TAC	4	7	8	4	1	1	5	2	2	7	14	8
-TGT	0	0	0	0	0	0	0	1	0	1	1	2
-TGC	2	0	1	2	0	0	2	0	3	2	3	2
-TGA	8	10	16	5	3	2	12	4	0	10	11	12
-TGG	1	0	1	0	0	1	0	0	0	2	1	0
-CTT	6	13	8	11	1	5	7	6	3	19	21	12
-CTC	11	10	9	4	1	7	4	9	3	13	21	14
-CTA	24	23	22	11	4	17	16	5	6	34	39	27
-CTG	3	3	8	1	0	3	1	1	2	5	2	2
-CCT	5	5	14	4	3	7	1	1	1	9	9	9
-CCC	10	7	10	3	5	3	6	3	1	9	13	11
-CCA	7	9	4	7	0	5	3	2	0	5	4	2
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	0	1	9	3	0	2	10	1	0	4	5	4
-CAC	2	3	9	4	2	5	7	0	2	6	6	9
-CAA	7	9	5	4	2	8	6	2	2	9	14	4
-CAG	1	0	1	1	1	0	1	0	0	1	2	2
-CGT	0	1	2	2	0	1	2	0	0	3	1	0
-CGC	1	0	1	0	0	1	1	0	0	0	3	4
-CGA	6	2	5	3	0	3	1	1	1	6	5	3
-CGG	0	0	0	1	0	0	1	0	0	1	0	1
-ATT	12	17	22	7	3	16	13	6	6	28	30	14
-ATC	13	22	13	11	3	13	4	4	5	22	26	27
-ATA	18	35	26	11	2	13	9	7	7	26	35	13
-ATG	5	1	6	2	1	1	2	0	3	8	2	1
-ACT	2	4	11	9	2	4	5	3	2	5	13	7
-ACC	12	17	12	2	1	5	7	2	1	6	13	5
-ACA	13	13	12	5	3	12	8	2	1	19	18	10
-ACG	0	0	1	1	1	0	0	0	0	0	3	1
-AAT	6	5	8	3	1	5	2	1	1	3	12	2
-AAC	6	16	8	2	2	6	6	3	4	15	22	13
-AAA	7	12	9	5	5	3	1	1	0	10	20	7
-AAG	1	1	0	0	0	1	0	2	0	2	3	3
-AGT	1	1	1	1	0	1	1	0	0	2	5	2
-AGC	1	3	2	4	0	2	4	1	1	9	3	2
-GTT	5	2	8	5	0	2	3	0	0	2	4	2
-GTC	3	1	9	4	0	3	6	1	1	6	5	10
-GTA	1	4	24	3	0	3	7	3	5	4	6	5
-GTG	0	0	1	0	0	0	0	0	0	0	2	1
-GCT	3	3	15	3	0	3	5	1	2	6	6	8
-GCC	13	11	12	2	1	7	8	3	4	14	17	8
-GCA	8	6	12	3	1	5	1	4	1	11	17	5
-GCG	2	1	1	0	0	0	2	0	0	0	1	1
-GAT	0	0	9	5	0	1	3	3	0	2	6	6
-GAC	3	1	7	7	2	0	0	0	1	3	7	5
-GAA	9	5	6	13	1	3	7	6	2	7	8	5
-GAG	1	0	4	2	0	0	1	0	0	1	2	1
-GGT	2	0	7	0	0	1	1	0	0	2	2	2
-GGC	5	5	9	5	0	5	10	3	1	4	11	11
-GGA	5	9	23	2	0	3	8	1	2	13	12	10
-GGG	1	0	8	1	0	2	1	0	1	0	2	1
-TAA	1	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009424320.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	9	14	12	2	9	4	7	0	5	4	0	2	8	1	6	11	24	3	5	10	7	0	0	2	7	1	0	1	6	0	12	13	18	5	2	12	13	0	6	6	7	1	1	1	5	3	1	0	3	13	8	2	0	3	9	1	2	5	5	1	1	0	0	0
+1	ND2	YP_009424321.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	3	10	6	3	3	8	15	1	0	7	0	0	10	0	13	10	23	3	5	7	9	0	1	3	9	0	1	0	2	0	17	22	35	1	4	17	13	0	5	16	12	1	1	3	2	1	4	0	3	11	6	1	0	1	5	0	0	5	9	0	0	0	0	0
+2	COX1	YP_009424322.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	18	24	12	1	8	7	12	1	11	8	0	1	16	1	8	9	22	8	14	10	4	0	9	9	5	1	2	1	5	0	22	13	26	6	11	12	12	1	8	8	9	0	1	2	8	9	24	1	15	12	12	1	9	7	6	4	7	9	23	8	1	0	0	0
+3	COX2	YP_009424323.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	5	2	7	1	4	6	7	0	7	4	0	2	5	0	11	4	11	1	4	3	7	0	3	4	4	1	2	0	3	1	7	11	11	2	9	2	5	1	3	2	5	0	1	4	5	4	3	0	3	2	3	0	5	7	13	2	0	5	2	1	1	0	0	0
+4	ATP8	YP_009424324.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	3	1	2	1	2	1	4	0	1	1	0	0	3	0	1	1	4	0	3	5	0	0	0	2	2	1	0	0	0	0	3	3	2	1	2	1	3	1	1	2	5	0	0	0	0	0	0	0	0	1	1	0	0	2	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009424325.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	7	6	9	2	5	2	3	0	1	1	0	0	2	1	5	7	17	3	7	3	5	0	2	5	8	0	1	1	3	0	16	13	13	1	4	5	12	0	5	6	3	1	1	2	2	3	3	0	3	7	5	0	1	0	3	0	1	5	3	2	1	0	0	0
+6	COX3	YP_009424326.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	12	11	4	1	5	3	7	2	5	5	0	2	12	0	7	4	16	1	1	6	3	0	10	7	6	1	2	1	1	1	13	4	9	2	5	7	8	0	2	6	1	0	1	4	3	6	7	0	5	8	1	2	3	0	7	1	1	10	8	1	0	0	0	0
+7	ND3	YP_009424327.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	6	2	5	1	1	2	2	0	1	2	1	0	4	0	6	9	5	1	1	3	2	0	1	0	2	0	0	0	1	0	6	4	7	0	3	2	2	0	1	3	1	2	0	1	0	1	3	0	1	3	4	0	3	0	6	0	0	3	1	0	1	0	0	0
+8	ND4L	YP_009424328.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	1	3	6	0	4	0	4	0	3	2	0	3	0	0	3	3	6	2	1	1	0	0	0	2	2	0	0	0	1	0	6	5	7	3	2	1	1	0	1	4	0	0	0	1	0	1	5	0	2	4	1	0	0	1	2	0	0	1	2	1	1	0	0	0
+9	ND4	YP_009424329.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	6	14	18	0	6	10	19	2	8	7	1	2	10	2	19	13	34	5	9	9	5	0	4	6	9	1	3	0	6	1	28	22	26	8	5	6	19	0	3	15	10	2	2	9	2	6	4	0	6	14	11	0	2	3	7	1	2	4	13	0	0	0	0	0
+10	ND5	YP_009424330.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	19	27	9	2	19	15	14	1	11	14	1	3	11	1	21	21	39	2	9	13	4	0	5	6	14	2	1	3	5	0	30	26	35	2	13	13	18	3	12	22	20	3	5	3	4	5	6	2	6	17	17	1	6	7	8	2	2	11	12	2	1	0	0	0
+11	CYTB	YP_009424332.1	Callosciurus finlaysonii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Sciuromorpha, Sciuridae, Callosciurinae, Callosciurini, Callosciurus	12	16	6	1	5	10	5	1	7	8	2	2	12	0	12	14	27	2	9	11	2	0	4	9	4	2	0	4	3	1	14	27	13	1	7	5	10	1	2	13	7	3	2	2	2	10	5	1	8	8	5	1	6	5	5	1	2	11	10	1	0	0	1	0

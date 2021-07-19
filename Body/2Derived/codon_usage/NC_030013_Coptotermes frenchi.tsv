@@ -1,65 +1,10 @@
-	YP_009250441.1|ND2	YP_009250442.1|COX1	YP_009250443.1|COX2	YP_009250444.1|ATP8	YP_009250445.1|ATP6	YP_009250446.1|COX3	YP_009250447.1|ND3	YP_009250451.1|ND6	YP_009250452.1|CYTB
-TTT	5	13	1	0	4	2	2	1	2
-TTC	10	31	9	4	9	22	6	5	24
-TTA	10	3	4	0	5	2	2	1	1
-TTG	0	1	0	0	0	1	0	0	0
-TCT	4	0	0	0	1	0	0	0	0
-TCC	4	5	1	1	0	1	0	1	3
-TCA	19	24	9	0	5	9	10	7	10
-TCG	1	0	0	0	0	1	0	0	0
-TAT	1	3	2	0	2	4	1	1	3
-TAC	10	12	5	2	1	5	1	5	14
-TGT	0	0	0	0	0	1	0	0	1
-TGC	3	2	2	0	0	0	1	1	3
-TGA	6	14	5	3	4	13	2	1	11
-TGG	3	1	1	0	0	0	1	0	1
-CTT	1	7	1	0	3	0	0	1	1
-CTC	4	2	1	0	5	4	1	3	5
-CTA	28	45	17	4	29	23	12	15	38
-CTG	4	0	0	0	1	1	0	0	3
-CCT	1	3	1	1	1	0	0	0	1
-CCC	3	5	3	0	2	4	1	0	4
-CCA	9	18	8	2	8	6	3	4	18
-CCG	0	1	0	0	0	0	1	1	0
-CAT	0	5	1	0	0	0	1	1	1
-CAC	3	10	6	0	6	14	0	2	10
-CAA	6	10	10	2	4	9	0	4	6
-CAG	0	0	0	0	0	0	1	0	2
-CGT	0	1	0	0	0	0	0	0	0
-CGC	0	0	1	0	0	0	0	0	0
-CGA	1	8	7	0	3	4	3	1	8
-CGG	0	0	0	0	0	0	0	0	0
-ATT	11	14	11	0	5	6	6	4	7
-ATC	19	29	10	3	16	11	6	9	20
-ATA	26	24	15	8	11	7	8	27	21
-ATG	7	5	1	0	4	1	0	3	1
-ACT	2	2	1	0	3	4	1	0	0
-ACC	10	7	5	3	5	6	3	3	7
-ACA	15	27	12	6	14	14	7	17	23
-ACG	4	0	2	0	1	1	0	0	1
-AAT	6	2	3	2	9	3	4	3	2
-AAC	12	19	6	5	10	6	0	7	20
-AAA	14	4	5	3	4	3	5	5	11
-AAG	3	5	1	0	1	0	0	0	2
-AGT	2	2	0	0	0	0	0	0	0
-AGC	1	0	0	0	1	3	1	1	2
-AGA	8	11	9	0	12	4	4	5	3
-AGG	2	0	0	0	0	1	0	1	0
-GTT	3	7	0	0	0	1	0	0	2
-GTC	3	4	5	1	2	2	0	0	3
-GTA	11	21	6	0	7	12	4	5	16
-GTG	4	0	0	0	0	0	0	0	1
-GCT	1	3	1	0	2	0	0	0	0
-GCC	3	7	2	0	1	6	0	1	5
-GCA	15	30	8	1	6	13	7	5	22
-GCG	0	0	1	0	2	0	0	0	0
-GAT	0	3	2	0	0	1	0	0	2
-GAC	2	11	7	0	1	3	3	2	8
-GAA	8	8	11	1	6	7	5	3	4
-GAG	0	2	1	0	0	1	1	1	0
-GGT	3	6	1	0	1	0	0	0	1
-GGC	3	1	0	0	0	0	0	0	0
-GGA	9	33	5	0	8	20	3	5	23
-GGG	2	4	2	0	1	0	0	1	0
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009250441.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	5	10	10	0	4	4	19	1	1	10	0	3	6	3	1	4	28	4	1	3	9	0	0	3	6	0	0	0	1	0	11	19	26	7	2	10	15	4	6	12	14	3	2	1	8	2	3	3	11	4	1	3	15	0	0	2	8	0	3	3	9	2	1	0
+1	COX1	YP_009250442.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	13	31	3	1	0	5	24	0	3	12	0	2	14	1	7	2	45	0	3	5	18	1	5	10	10	0	1	0	8	0	14	29	24	5	2	7	27	0	2	19	4	5	2	0	11	0	7	4	21	0	3	7	30	0	3	11	8	2	6	1	33	4	1	0
+2	COX2	YP_009250443.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	1	9	4	0	0	1	9	0	2	5	0	2	5	1	1	1	17	0	1	3	8	0	1	6	10	0	0	1	7	0	11	10	15	1	1	5	12	2	3	6	5	1	0	0	9	0	0	5	6	0	1	2	8	1	2	7	11	1	1	0	5	2	0	0
+3	ATP8	YP_009250444.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	0	4	0	0	0	1	0	0	0	2	0	0	3	0	0	0	4	0	1	0	2	0	0	0	2	0	0	0	0	0	0	3	8	0	0	3	6	0	2	5	3	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009250445.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	4	9	5	0	1	0	5	0	2	1	0	0	4	0	3	5	29	1	1	2	8	0	0	6	4	0	0	0	3	0	5	16	11	4	3	5	14	1	9	10	4	1	0	1	12	0	0	2	7	0	2	1	6	2	0	1	6	0	1	0	8	1	1	0
+5	COX3	YP_009250446.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	2	22	2	1	0	1	9	1	4	5	1	0	13	0	0	4	23	1	0	4	6	0	0	14	9	0	0	0	4	0	6	11	7	1	4	6	14	1	3	6	3	0	0	3	4	1	1	2	12	0	0	6	13	0	1	3	7	1	0	0	20	0	1	0
+6	ND3	YP_009250447.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	2	6	2	0	0	0	10	0	1	1	0	1	2	1	0	1	12	0	0	1	3	1	1	0	0	1	0	0	3	0	6	6	8	0	1	3	7	0	4	0	5	0	0	1	4	0	0	0	4	0	0	0	7	0	0	3	5	1	0	0	3	0	1	0
+7	ND6	YP_009250451.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	1	5	1	0	0	1	7	0	1	5	0	1	1	0	1	3	15	0	0	0	4	1	1	2	4	0	0	0	1	0	4	9	27	3	0	3	17	0	3	7	5	0	0	1	5	1	0	0	5	0	0	1	5	0	0	2	3	1	0	0	5	1	1	0
+8	CYTB	YP_009250452.1	Coptotermes frenchi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Coptotermes	2	24	1	0	0	3	10	0	3	14	1	3	11	1	1	5	38	3	1	4	18	0	1	10	6	2	0	0	8	0	7	20	21	1	0	7	23	1	2	20	11	2	0	2	3	0	2	3	16	1	0	5	22	0	2	8	4	0	1	0	23	0	0	1

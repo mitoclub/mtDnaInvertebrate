@@ -1,65 +1,7 @@
-	YP_003934236.1|COX1	YP_003934237.1|COX2	YP_003934238.1|COX3	YP_003934239.1|ATP6	YP_003934241.1|ND6	YP_003934242.1|ND4
-TTT	45	14	28	31	17	55
-TTC	8	4	8	6	4	7
-TTA	38	12	20	25	17	54
-TTG	5	4	3	8	8	8
-TCT	17	12	12	10	7	13
-TCC	4	3	5	1	3	4
-TCA	5	5	3	1	2	7
-TCG	1	1	0	1	0	1
-TAT	11	6	5	4	3	8
-TAC	5	4	1	3	2	5
-TGT	2	4	1	0	1	2
-TGC	0	0	0	0	0	1
-TGA	12	5	11	2	4	5
-TGG	1	1	5	2	0	2
-CTT	14	8	9	7	2	9
-CTC	0	1	0	0	1	2
-CTA	5	0	2	0	1	8
-CTG	1	0	0	2	0	3
-CCT	14	5	4	3	2	8
-CCC	3	0	1	0	0	0
-CCA	3	2	1	1	0	2
-CCG	1	0	0	0	0	1
-CAT	11	4	1	1	0	4
-CAC	6	0	8	4	1	2
-CAA	4	7	4	3	5	7
-CAG	0	0	0	0	0	1
-CGT	2	1	0	0	0	0
-CGC	0	0	0	0	0	0
-CGA	6	0	0	2	0	0
-CGG	1	0	0	0	0	1
-ATT	41	13	20	20	23	40
-ATC	8	3	2	4	2	3
-ATA	18	12	7	6	5	17
-ATG	5	4	3	5	2	5
-ACT	12	3	4	2	3	6
-ACC	5	0	2	2	0	3
-ACA	12	2	3	4	0	3
-ACG	1	0	0	0	0	0
-AAT	18	15	7	9	7	14
-AAC	6	10	1	5	3	6
-AAA	8	14	5	12	11	16
-AAG	3	2	2	4	1	3
-AGT	2	6	1	1	0	7
-AGC	1	0	1	1	0	1
-AGA	21	7	8	8	6	22
-AGG	3	1	6	2	2	6
-GTT	13	9	10	11	6	17
-GTC	0	0	0	0	0	1
-GTA	14	3	4	0	0	7
-GTG	3	1	1	0	0	0
-GCT	14	1	2	3	0	7
-GCC	1	0	0	0	0	3
-GCA	6	3	3	0	0	2
-GCG	0	0	0	0	0	0
-GAT	10	7	3	0	0	4
-GAC	2	1	1	0	0	1
-GAA	11	12	14	6	3	7
-GAG	2	4	2	3	1	3
-GGT	15	5	3	1	0	6
-GGC	1	0	0	1	0	3
-GGA	22	3	10	5	3	9
-GGG	11	2	6	1	1	7
-TAA	1	1	0	1	1	1
-TAG	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_003934236.1	Symsagittifera roscoffensis	Eukaryota, Metazoa, Xenacoelomorpha, Acoelomorpha, Acoela, Sagittiferidae, Symsagittifera	45	8	38	5	17	4	5	1	11	5	2	0	12	1	14	0	5	1	14	3	3	1	11	6	4	0	2	0	6	1	41	8	18	5	12	5	12	1	18	6	8	3	2	1	21	3	13	0	14	3	14	1	6	0	10	2	11	2	15	1	22	11	1	0
+1	COX2	YP_003934237.1	Symsagittifera roscoffensis	Eukaryota, Metazoa, Xenacoelomorpha, Acoelomorpha, Acoela, Sagittiferidae, Symsagittifera	14	4	12	4	12	3	5	1	6	4	4	0	5	1	8	1	0	0	5	0	2	0	4	0	7	0	1	0	0	0	13	3	12	4	3	0	2	0	15	10	14	2	6	0	7	1	9	0	3	1	1	0	3	0	7	1	12	4	5	0	3	2	1	0
+2	COX3	YP_003934238.1	Symsagittifera roscoffensis	Eukaryota, Metazoa, Xenacoelomorpha, Acoelomorpha, Acoela, Sagittiferidae, Symsagittifera	28	8	20	3	12	5	3	0	5	1	1	0	11	5	9	0	2	0	4	1	1	0	1	8	4	0	0	0	0	0	20	2	7	3	4	2	3	0	7	1	5	2	1	1	8	6	10	0	4	1	2	0	3	0	3	1	14	2	3	0	10	6	0	1
+3	ATP6	YP_003934239.1	Symsagittifera roscoffensis	Eukaryota, Metazoa, Xenacoelomorpha, Acoelomorpha, Acoela, Sagittiferidae, Symsagittifera	31	6	25	8	10	1	1	1	4	3	0	0	2	2	7	0	0	2	3	0	1	0	1	4	3	0	0	0	2	0	20	4	6	5	2	2	4	0	9	5	12	4	1	1	8	2	11	0	0	0	3	0	0	0	0	0	6	3	1	1	5	1	1	0
+4	ND6	YP_003934241.1	Symsagittifera roscoffensis	Eukaryota, Metazoa, Xenacoelomorpha, Acoelomorpha, Acoela, Sagittiferidae, Symsagittifera	17	4	17	8	7	3	2	0	3	2	1	0	4	0	2	1	1	0	2	0	0	0	0	1	5	0	0	0	0	0	23	2	5	2	3	0	0	0	7	3	11	1	0	0	6	2	6	0	0	0	0	0	0	0	0	0	3	1	0	0	3	1	1	0
+5	ND4	YP_003934242.1	Symsagittifera roscoffensis	Eukaryota, Metazoa, Xenacoelomorpha, Acoelomorpha, Acoela, Sagittiferidae, Symsagittifera	55	7	54	8	13	4	7	1	8	5	2	1	5	2	9	2	8	3	8	0	2	1	4	2	7	1	0	0	0	1	40	3	17	5	6	3	3	0	14	6	16	3	7	1	22	6	17	1	7	0	7	3	2	0	4	1	7	3	6	3	9	7	1	0

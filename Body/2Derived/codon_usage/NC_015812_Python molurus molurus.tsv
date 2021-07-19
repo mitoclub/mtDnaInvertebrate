@@ -1,65 +1,13 @@
-	YP_004733485.1|ND1	YP_004733486.1|ND2	YP_004733487.1|COX1	YP_004733488.1|COX2	YP_004733489.1|ATP8	YP_004733490.1|ATP6	YP_004733491.1|COX3	YP_004733492.1|ND3	YP_004733493.1|ND4L	YP_004733494.1|ND4	YP_004733495.1|ND5	YP_004733497.1|CYTB
-TTT	2	1	14	2	0	2	5	1	1	3	8	7
-TTC	16	8	28	7	1	12	16	4	3	15	24	26
-TTA	9	8	8	3	2	9	3	3	2	10	14	6
-TTG	0	0	1	1	1	0	1	1	0	1	0	1
-TCT	2	2	5	1	0	4	0	0	0	2	4	2
-TCC	9	14	6	4	1	2	4	2	2	7	9	5
-TCA	13	11	15	5	1	7	8	4	3	12	15	15
-TCG	0	1	2	0	0	0	0	0	0	0	4	0
-TAT	4	1	6	3	1	2	3	0	0	9	3	3
-TAC	6	4	14	5	1	3	7	3	1	13	8	11
-TGT	0	0	2	2	0	0	1	0	0	1	1	0
-TGC	1	1	1	0	0	1	0	0	2	3	3	2
-TGA	7	10	18	5	5	2	12	3	0	4	7	9
-TGG	1	0	1	0	0	1	0	0	0	4	3	3
-CTT	4	5	7	3	1	5	3	3	1	9	14	5
-CTC	10	13	6	6	3	4	8	5	6	22	11	10
-CTA	31	33	34	15	2	25	17	9	11	34	46	24
-CTG	2	2	5	0	2	4	4	2	0	5	3	3
-CCT	0	1	4	1	0	0	2	1	0	3	4	2
-CCC	4	5	7	3	0	3	4	2	1	9	6	6
-CCA	20	11	19	9	2	9	5	6	1	14	17	16
-CCG	0	3	3	1	0	0	0	0	0	1	1	0
-CAT	0	5	1	3	0	1	2	0	1	2	4	1
-CAC	2	4	17	4	0	2	13	1	3	9	11	13
-CAA	9	5	6	10	1	5	7	2	1	13	15	7
-CAG	0	1	2	1	1	1	0	0	0	3	3	1
-CGT	0	0	3	1	0	1	2	0	0	1	2	1
-CGC	1	0	1	1	0	0	1	0	0	3	1	2
-CGA	6	4	5	4	0	3	1	1	1	5	5	3
-CGG	0	0	0	0	0	1	0	0	0	0	2	0
-ATT	6	8	13	5	2	6	4	7	6	13	23	10
-ATC	18	17	29	8	5	10	8	9	5	25	40	25
-ATA	21	26	28	4	0	18	8	6	7	29	35	13
-ATG	4	3	4	4	1	1	1	0	2	4	2	3
-ACT	4	6	7	3	2	3	0	1	3	4	8	3
-ACC	12	17	13	7	2	9	12	4	2	27	37	15
-ACA	18	39	23	11	3	12	14	2	8	14	39	16
-ACG	0	1	2	1	0	2	2	0	0	5	1	2
-AAT	2	2	6	1	0	2	0	0	0	5	13	6
-AAC	13	9	12	7	2	10	6	4	3	12	21	14
-AAA	8	11	9	2	4	3	5	2	3	13	23	5
-AAG	0	1	2	0	0	0	0	0	0	0	4	2
-AGT	0	1	2	0	0	0	0	2	0	0	1	0
-AGC	0	3	4	1	0	5	3	0	1	5	7	2
-GTT	0	0	7	3	0	0	3	1	0	1	1	0
-GTC	4	1	10	3	1	5	10	2	1	3	1	4
-GTA	3	3	15	12	2	5	6	1	2	5	5	6
-GTG	0	0	3	3	0	0	2	0	1	3	1	0
-GCT	1	1	5	2	0	2	1	0	0	7	4	2
-GCC	10	12	13	13	1	7	6	1	1	12	15	10
-GCA	8	11	18	5	0	3	7	3	3	15	16	10
-GCG	0	0	0	0	0	0	0	0	0	0	1	0
-GAT	1	2	6	4	1	0	1	2	0	0	2	3
-GAC	2	1	7	5	3	0	3	3	1	3	6	5
-GAA	10	4	7	14	1	6	7	4	1	9	10	5
-GAG	0	1	2	2	0	0	2	0	1	0	2	2
-GGT	2	1	4	0	0	1	2	0	1	2	3	2
-GGC	10	4	18	4	0	5	9	2	2	9	14	7
-GGA	4	3	19	5	0	2	8	4	2	6	11	10
-GGG	1	2	4	0	0	0	2	1	0	3	3	4
-TAA	0	1	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	1	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004733485.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	2	16	9	0	2	9	13	0	4	6	0	1	7	1	4	10	31	2	0	4	20	0	0	2	9	0	0	1	6	0	6	18	21	4	4	12	18	0	2	13	8	0	0	0	0	4	3	0	1	10	8	0	1	2	10	0	2	10	4	1	0	0	0	0
+1	ND2	YP_004733486.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	1	8	8	0	2	14	11	1	1	4	0	1	10	0	5	13	33	2	1	5	11	3	5	4	5	1	0	0	4	0	8	17	26	3	6	17	39	1	2	9	11	1	1	3	0	1	3	0	1	12	11	0	2	1	4	1	1	4	3	2	1	0	0	0
+2	COX1	YP_004733487.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	14	28	8	1	5	6	15	2	6	14	2	1	18	1	7	6	34	5	4	7	19	3	1	17	6	2	3	1	5	0	13	29	28	4	7	13	23	2	6	12	9	2	2	4	7	10	15	3	5	13	18	0	6	7	7	2	4	18	19	4	0	0	1	0
+3	COX2	YP_004733488.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	2	7	3	1	1	4	5	0	3	5	2	0	5	0	3	6	15	0	1	3	9	1	3	4	10	1	1	1	4	0	5	8	4	4	3	7	11	1	1	7	2	0	0	1	3	3	12	3	2	13	5	0	4	5	14	2	0	4	5	0	0	0	0	0
+4	ATP8	YP_004733489.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	0	1	2	1	0	1	1	0	1	1	0	0	5	0	1	3	2	2	0	0	2	0	0	0	1	1	0	0	0	0	2	5	0	1	2	2	3	0	0	2	4	0	0	0	0	1	2	0	0	1	0	0	1	3	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004733490.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	2	12	9	0	4	2	7	0	2	3	0	1	2	1	5	4	25	4	0	3	9	0	1	2	5	1	1	0	3	1	6	10	18	1	3	9	12	2	2	10	3	0	0	5	0	5	5	0	2	7	3	0	0	0	6	0	1	5	2	0	1	0	0	0
+6	COX3	YP_004733491.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	5	16	3	1	0	4	8	0	3	7	1	0	12	0	3	8	17	4	2	4	5	0	2	13	7	0	2	1	1	0	4	8	8	1	0	12	14	2	0	6	5	0	0	3	3	10	6	2	1	6	7	0	1	3	7	2	2	9	8	2	0	0	0	0
+7	ND3	YP_004733492.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	1	4	3	1	0	2	4	0	0	3	0	0	3	0	3	5	9	2	1	2	6	0	0	1	2	0	0	0	1	0	7	9	6	0	1	4	2	0	0	4	2	0	2	0	1	2	1	0	0	1	3	0	2	3	4	0	0	2	4	1	0	0	0	0
+8	ND4L	YP_004733493.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	1	3	2	0	0	2	3	0	0	1	0	2	0	0	1	6	11	0	0	1	1	0	1	3	1	0	0	0	1	0	6	5	7	2	3	2	8	0	0	3	3	0	0	1	0	1	2	1	0	1	3	0	0	1	1	1	1	2	2	0	1	0	0	0
+9	ND4	YP_004733494.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	3	15	10	1	2	7	12	0	9	13	1	3	4	4	9	22	34	5	3	9	14	1	2	9	13	3	1	3	5	0	13	25	29	4	4	27	14	5	5	12	13	0	0	5	1	3	5	3	7	12	15	0	0	3	9	0	2	9	6	3	0	0	1	0
+10	ND5	YP_004733495.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	8	24	14	0	4	9	15	4	3	8	1	3	7	3	14	11	46	3	4	6	17	1	4	11	15	3	2	1	5	2	23	40	35	2	8	37	39	1	13	21	23	4	1	7	1	1	5	1	4	15	16	1	2	6	10	2	3	14	11	3	1	0	0	0
+11	CYTB	YP_004733497.1	Python molurus molurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Henophidia, Pythonidae, Python	7	26	6	1	2	5	15	0	3	11	0	2	9	3	5	10	24	3	2	6	16	0	1	13	7	1	1	2	3	0	10	25	13	3	3	15	16	2	6	14	5	2	0	2	0	4	6	0	2	10	10	0	3	5	5	2	2	7	10	4	0	0	0	0

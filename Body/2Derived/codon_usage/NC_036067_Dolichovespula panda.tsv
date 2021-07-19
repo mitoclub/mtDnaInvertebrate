@@ -1,65 +1,9 @@
-	YP_009434632.1|ND2	YP_009434633.1|COX1	YP_009434635.1|ATP8	YP_009434636.1|ATP6	YP_009434637.1|COX3	YP_009434638.1|ND3	YP_009434642.1|ND6	YP_009434643.1|CYTB
-TTT	44	48	5	20	30	11	23	41
-TTC	5	1	1	5	1	2	1	1
-TTA	44	55	10	23	27	15	23	39
-TTG	1	0	0	0	0	0	1	0
-TCT	9	15	1	5	8	1	5	8
-TCC	0	0	0	0	1	0	1	0
-TCA	25	22	2	13	11	7	9	11
-TCG	0	0	0	0	0	0	0	0
-TAT	15	18	1	6	13	2	6	17
-TAC	0	0	0	0	2	1	1	1
-TGT	2	0	0	1	2	2	2	4
-TGC	0	0	0	0	0	0	0	0
-TGA	5	16	2	5	11	4	2	13
-TGG	0	0	0	0	0	0	0	0
-CTT	8	2	1	10	3	4	2	2
-CTC	0	0	0	0	0	1	0	0
-CTA	6	2	0	7	2	0	6	2
-CTG	1	0	0	0	0	0	0	0
-CCT	2	18	0	4	3	3	1	12
-CCC	1	1	0	0	0	0	1	0
-CCA	3	4	2	5	5	4	1	7
-CCG	0	0	0	0	0	0	0	0
-CAT	2	15	0	4	12	2	1	8
-CAC	2	0	0	0	0	0	0	1
-CAA	4	7	1	3	3	4	5	7
-CAG	0	0	0	0	0	0	0	0
-CGT	0	0	0	1	0	0	0	0
-CGC	0	0	0	0	0	0	0	0
-CGA	0	7	0	1	3	1	1	4
-CGG	0	0	0	0	0	0	0	0
-ATT	48	57	7	20	29	22	34	55
-ATC	3	0	0	5	0	3	3	0
-ATA	30	40	2	18	20	8	29	28
-ATG	0	1	0	1	1	0	2	0
-ACT	7	14	0	5	6	2	2	9
-ACC	0	0	0	0	0	0	0	0
-ACA	6	18	0	8	8	1	6	7
-ACG	0	0	0	0	0	0	0	0
-AAT	26	26	5	16	11	7	16	26
-AAC	7	0	0	3	1	1	4	3
-AAA	23	14	10	8	8	5	12	13
-AAG	0	0	0	0	0	0	0	0
-AGT	0	2	2	0	3	0	0	0
-AGC	0	0	0	0	0	0	0	0
-AGA	6	8	0	5	5	0	5	3
-AGG	0	0	0	0	0	0	0	0
-GTT	0	11	0	2	6	0	1	4
-GTC	0	0	0	0	0	0	0	0
-GTA	0	10	1	3	2	0	1	4
-GTG	0	0	0	0	1	0	0	0
-GCT	0	8	0	4	2	2	0	7
-GCC	0	0	0	1	0	0	0	0
-GCA	2	8	0	0	2	0	0	4
-GCG	0	0	0	0	0	0	0	0
-GAT	2	12	0	0	4	1	1	3
-GAC	1	1	0	1	0	0	0	1
-GAA	7	7	0	4	5	6	2	7
-GAG	0	0	0	0	0	0	0	0
-GGT	0	8	0	2	0	0	0	1
-GGC	0	0	0	0	0	0	0	0
-GGA	2	34	0	2	12	2	2	19
-GGG	0	1	0	0	0	0	0	1
-TAA	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009434632.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	44	5	44	1	9	0	25	0	15	0	2	0	5	0	8	0	6	1	2	1	3	0	2	2	4	0	0	0	0	0	48	3	30	0	7	0	6	0	26	7	23	0	0	0	6	0	0	0	0	0	0	0	2	0	2	1	7	0	0	0	2	0	1	0
+1	COX1	YP_009434633.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	48	1	55	0	15	0	22	0	18	0	0	0	16	0	2	0	2	0	18	1	4	0	15	0	7	0	0	0	7	0	57	0	40	1	14	0	18	0	26	0	14	0	2	0	8	0	11	0	10	0	8	0	8	0	12	1	7	0	8	0	34	1	1	0
+2	ATP8	YP_009434635.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	5	1	10	0	1	0	2	0	1	0	0	0	2	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	7	0	2	0	0	0	0	0	5	0	10	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_009434636.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	20	5	23	0	5	0	13	0	6	0	1	0	5	0	10	0	7	0	4	0	5	0	4	0	3	0	1	0	1	0	20	5	18	1	5	0	8	0	16	3	8	0	0	0	5	0	2	0	3	0	4	1	0	0	0	1	4	0	2	0	2	0	1	0
+4	COX3	YP_009434637.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	30	1	27	0	8	1	11	0	13	2	2	0	11	0	3	0	2	0	3	0	5	0	12	0	3	0	0	0	3	0	29	0	20	1	6	0	8	0	11	1	8	0	3	0	5	0	6	0	2	1	2	0	2	0	4	0	5	0	0	0	12	0	1	0
+5	ND3	YP_009434638.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	11	2	15	0	1	0	7	0	2	1	2	0	4	0	4	1	0	0	3	0	4	0	2	0	4	0	0	0	1	0	22	3	8	0	2	0	1	0	7	1	5	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	6	0	0	0	2	0	1	0
+6	ND6	YP_009434642.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	23	1	23	1	5	1	9	0	6	1	2	0	2	0	2	0	6	0	1	1	1	0	1	0	5	0	0	0	1	0	34	3	29	2	2	0	6	0	16	4	12	0	0	0	5	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	2	0	1	0
+7	CYTB	YP_009434643.1	Dolichovespula panda	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Hymenoptera, Apocrita, Aculeata, Vespoidea, Vespidae, Vespinae, Dolichovespula	41	1	39	0	8	0	11	0	17	1	4	0	13	0	2	0	2	0	12	0	7	0	8	1	7	0	0	0	4	0	55	0	28	0	9	0	7	0	26	3	13	0	0	0	3	0	4	0	4	0	7	0	4	0	3	1	7	0	1	0	19	1	1	0

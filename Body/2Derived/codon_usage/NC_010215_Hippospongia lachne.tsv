@@ -1,65 +1,13 @@
-	YP_001648643.1|ATP9	YP_001648644.1|COX1	YP_001648645.1|ND1	YP_001648647.1|ND4	YP_001648648.1|ND6	YP_001648649.1|ND3	YP_001648650.1|ND4L	YP_001648651.1|COX2	YP_001648652.1|ATP8	YP_001648653.1|ATP6	YP_001648654.1|COX3	YP_001648656.1|ND5
-TTT	5	43	23	40	15	11	2	11	4	22	21	39
-TTC	1	10	6	8	2	0	0	1	1	1	0	1
-TTA	7	30	18	39	12	8	12	17	3	16	18	43
-TTG	4	22	20	30	13	7	5	14	2	14	9	28
-TCT	1	17	10	12	1	3	2	6	0	6	6	14
-TCC	0	3	3	2	0	0	2	1	0	1	1	4
-TCA	0	5	1	1	2	1	0	0	0	0	0	3
-TCG	1	2	2	2	4	0	0	2	0	0	3	3
-TAT	1	17	9	27	6	7	1	10	8	7	16	32
-TAC	2	2	1	2	0	0	1	1	1	1	2	3
-TGT	1	2	3	12	2	2	1	4	0	3	5	10
-TGC	0	0	1	3	1	2	1	0	1	1	0	2
-TGA	0	3	3	4	1	4	1	1	0	1	2	7
-TGG	0	16	5	7	1	1	0	4	1	4	11	15
-CTT	0	1	6	11	4	1	0	0	0	0	3	5
-CTC	0	1	0	0	1	0	1	0	0	1	2	2
-CTA	0	3	2	2	0	0	0	4	0	1	2	7
-CTG	0	2	4	3	2	1	1	2	0	1	0	5
-CCT	1	5	6	4	1	2	0	4	0	1	2	5
-CCC	0	2	2	4	0	2	0	1	0	3	1	2
-CCA	0	9	0	2	0	0	0	1	0	0	2	2
-CCG	0	9	3	2	0	0	0	5	2	1	1	5
-CAT	0	12	2	5	0	0	1	4	0	3	7	9
-CAC	0	2	0	0	0	0	0	1	0	0	1	0
-CAA	1	7	6	5	1	0	0	4	0	1	1	4
-CAG	1	1	1	3	1	1	0	2	1	1	1	4
-CGT	1	2	1	2	0	0	3	0	1	1	2	6
-CGC	0	0	1	0	0	0	0	0	0	0	0	1
-CGA	0	2	2	1	0	0	0	0	0	1	1	4
-CGG	0	4	3	9	1	1	2	2	0	3	4	2
-ATT	5	15	14	22	5	7	9	12	4	20	7	17
-ATC	0	6	2	3	2	2	1	0	0	1	1	5
-ATA	2	17	4	11	5	2	3	5	4	8	7	20
-ATG	5	26	9	10	7	2	3	9	2	10	8	24
-ACT	2	17	3	5	0	1	0	1	0	5	3	13
-ACC	0	3	1	1	1	0	0	0	0	0	2	0
-ACA	1	5	1	5	0	0	0	0	2	1	2	3
-ACG	0	4	0	1	0	0	0	2	0	1	1	3
-AAT	1	14	5	10	5	0	0	7	2	2	3	10
-AAC	0	0	1	0	0	0	2	1	0	3	0	3
-AAA	1	5	4	6	2	1	0	4	2	2	3	14
-AAG	0	4	3	6	3	2	0	2	1	1	2	8
-AGT	2	9	9	9	4	2	3	7	3	8	5	15
-AGC	1	3	0	2	0	0	1	1	1	0	1	2
-AGA	1	0	1	2	1	0	2	2	0	2	0	3
-AGG	0	5	3	3	2	1	0	3	1	1	3	4
-GTT	2	17	15	20	10	6	6	11	1	9	11	27
-GTC	0	6	4	7	3	1	3	3	0	4	5	3
-GTA	0	14	6	8	7	3	6	12	2	6	8	19
-GTG	0	15	6	9	4	6	1	9	1	8	7	17
-GCT	4	4	7	8	4	1	0	1	1	2	1	10
-GCC	2	9	4	6	0	2	0	1	0	2	2	5
-GCA	4	5	5	4	1	0	1	2	0	3	4	6
-GCG	3	9	3	5	4	0	2	4	1	6	7	12
-GAT	1	17	5	6	1	2	1	6	3	1	6	9
-GAC	0	1	0	1	1	1	0	0	0	2	2	2
-GAA	1	1	7	5	5	3	2	10	3	4	3	11
-GAG	1	11	6	11	4	6	1	10	5	3	3	11
-GGT	2	11	3	5	4	2	4	6	0	1	6	19
-GGC	1	8	6	8	5	1	0	3	2	2	5	5
-GGA	2	12	4	6	2	2	2	5	1	4	1	17
-GGG	6	27	16	22	6	6	9	12	4	18	17	39
-TAA	0	1	0	1	1	1	1	1	1	1	1	1
-TAG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ATP9	YP_001648643.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	5	1	7	4	1	0	0	1	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0	5	0	2	5	2	0	1	0	1	0	1	0	2	1	1	0	2	0	0	0	4	2	4	3	1	0	1	1	2	1	2	6	0	1
+1	COX1	YP_001648644.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	43	10	30	22	17	3	5	2	17	2	2	0	3	16	1	1	3	2	5	2	9	9	12	2	7	1	2	0	2	4	15	6	17	26	17	3	5	4	14	0	5	4	9	3	0	5	17	6	14	15	4	9	5	9	17	1	1	11	11	8	12	27	1	0
+2	ND1	YP_001648645.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	23	6	18	20	10	3	1	2	9	1	3	1	3	5	6	0	2	4	6	2	0	3	2	0	6	1	1	1	2	3	14	2	4	9	3	1	1	0	5	1	4	3	9	0	1	3	15	4	6	6	7	4	5	3	5	0	7	6	3	6	4	16	0	1
+3	ND4	YP_001648647.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	40	8	39	30	12	2	1	2	27	2	12	3	4	7	11	0	2	3	4	4	2	2	5	0	5	3	2	0	1	9	22	3	11	10	5	1	5	1	10	0	6	6	9	2	2	3	20	7	8	9	8	6	4	5	6	1	5	11	5	8	6	22	1	0
+4	ND6	YP_001648648.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	15	2	12	13	1	0	2	4	6	0	2	1	1	1	4	1	0	2	1	0	0	0	0	0	1	1	0	0	0	1	5	2	5	7	0	1	0	0	5	0	2	3	4	0	1	2	10	3	7	4	4	0	1	4	1	1	5	4	4	5	2	6	1	0
+5	ND3	YP_001648649.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	11	0	8	7	3	0	1	0	7	0	2	2	4	1	1	0	0	1	2	2	0	0	0	0	0	1	0	0	0	1	7	2	2	2	1	0	0	0	0	0	1	2	2	0	0	1	6	1	3	6	1	2	0	0	2	1	3	6	2	1	2	6	1	0
+6	ND4L	YP_001648650.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	2	0	12	5	2	2	0	0	1	1	1	1	1	0	0	1	0	1	0	0	0	0	1	0	0	0	3	0	0	2	9	1	3	3	0	0	0	0	0	2	0	0	3	1	2	0	6	3	6	1	0	0	1	2	1	0	2	1	4	0	2	9	1	0
+7	COX2	YP_001648651.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	11	1	17	14	6	1	0	2	10	1	4	0	1	4	0	0	4	2	4	1	1	5	4	1	4	2	0	0	0	2	12	0	5	9	1	0	0	2	7	1	4	2	7	1	2	3	11	3	12	9	1	1	2	4	6	0	10	10	6	3	5	12	1	0
+8	ATP8	YP_001648652.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	4	1	3	2	0	0	0	0	8	1	0	1	0	1	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	0	4	0	4	2	0	0	2	0	2	0	2	1	3	1	0	1	1	0	2	1	1	0	0	1	3	0	3	5	0	2	1	4	1	0
+9	ATP6	YP_001648653.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	22	1	16	14	6	1	0	0	7	1	3	1	1	4	0	1	1	1	1	3	0	1	3	0	1	1	1	0	1	3	20	1	8	10	5	0	1	1	2	3	2	1	8	0	2	1	9	4	6	8	2	2	3	6	1	2	4	3	1	2	4	18	1	0
+10	COX3	YP_001648654.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	21	0	18	9	6	1	0	3	16	2	5	0	2	11	3	2	2	0	2	1	2	1	7	1	1	1	2	0	1	4	7	1	7	8	3	2	2	1	3	0	3	2	5	1	0	3	11	5	8	7	1	2	4	7	6	2	3	3	6	5	1	17	1	0
+11	ND5	YP_001648656.1	Hippospongia lachne	Eukaryota, Metazoa, Porifera, Demospongiae, Keratosa, Dictyoceratida, Spongiidae, Hippospongia	39	1	43	28	14	4	3	3	32	3	10	2	7	15	5	2	7	5	5	2	2	5	9	0	4	4	6	1	4	2	17	5	20	24	13	0	3	3	10	3	14	8	15	2	3	4	27	3	19	17	10	5	6	12	9	2	11	11	19	5	17	39	1	0

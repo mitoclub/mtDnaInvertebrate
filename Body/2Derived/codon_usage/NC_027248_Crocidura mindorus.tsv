@@ -1,65 +1,13 @@
-	YP_009144282.1|ND1	YP_009144283.1|ND2	YP_009144284.1|COX1	YP_009144285.1|COX2	YP_009144286.1|ATP8	YP_009144287.1|ATP6	YP_009144288.1|COX3	YP_009144289.1|ND3	YP_009144290.1|ND4L	YP_009144291.1|ND4	YP_009144292.1|ND5	YP_009144294.1|CYTB
-TTT	10	10	27	4	4	8	14	7	4	11	23	10
-TTC	9	4	15	2	1	4	9	2	1	8	19	18
-TTA	19	28	17	14	5	16	11	10	10	37	41	14
-TTG	1	1	3	1	0	1	1	0	0	1	1	1
-TCT	7	5	10	9	3	4	3	2	3	7	10	3
-TCC	4	10	9	1	0	1	2	1	1	12	3	7
-TCA	14	12	13	4	2	3	9	2	4	6	18	10
-TCG	0	0	0	0	2	0	1	0	0	0	1	0
-TAT	8	7	16	8	2	3	4	2	2	8	16	9
-TAC	5	3	4	2	0	0	8	1	1	8	6	4
-TGT	0	0	1	1	0	0	1	1	2	1	2	1
-TGC	1	0	1	1	0	0	0	0	1	3	2	3
-TGA	10	10	17	5	3	3	12	4	0	11	11	12
-TGG	0	0	0	0	0	0	0	0	0	2	1	0
-CTT	9	11	6	7	2	8	5	9	2	21	14	10
-CTC	12	8	7	1	1	5	5	1	2	10	10	9
-CTA	16	14	20	9	1	10	10	4	8	27	35	19
-CTG	1	0	2	0	0	1	1	1	1	0	4	0
-CCT	6	6	14	5	4	8	3	2	0	7	6	5
-CCC	7	4	7	5	1	3	4	2	0	5	5	6
-CCA	8	7	7	3	2	3	2	2	1	8	12	11
-CCG	0	0	0	0	0	0	2	0	0	0	2	0
-CAT	2	2	12	5	0	5	9	1	1	5	3	5
-CAC	3	2	5	1	0	1	8	0	1	5	9	7
-CAA	6	10	7	6	5	9	7	2	2	12	15	6
-CAG	0	0	0	0	0	0	0	1	0	0	1	1
-CGT	0	0	1	1	0	0	1	0	0	4	3	0
-CGC	3	2	1	4	0	0	1	1	0	2	2	1
-CGA	3	1	6	1	0	4	3	0	1	3	4	7
-CGG	2	0	0	0	0	0	0	0	0	1	0	0
-ATT	19	27	28	13	4	21	10	6	2	30	34	18
-ATC	8	13	13	7	2	5	5	3	1	14	23	19
-ATA	13	35	24	11	3	14	8	7	9	27	34	19
-ATG	3	0	6	2	1	2	2	1	1	2	2	3
-ACT	4	6	17	8	3	7	4	2	1	10	14	6
-ACC	4	15	2	5	0	9	4	0	0	11	16	8
-ACA	7	18	17	7	3	11	9	4	4	23	22	9
-ACG	0	0	0	0	1	0	0	0	1	0	2	1
-AAT	8	8	11	6	1	7	5	3	3	13	19	10
-AAC	4	11	5	1	1	3	3	3	1	10	14	8
-AAA	6	10	9	5	6	4	3	2	0	9	21	7
-AAG	1	1	0	1	1	1	1	0	0	2	1	2
-AGT	1	1	2	1	0	2	2	2	1	2	7	1
-AGC	3	3	2	3	0	2	2	0	0	7	7	3
-GTT	4	1	13	2	0	1	4	0	2	4	8	1
-GTC	2	0	8	5	0	2	5	0	3	1	1	8
-GTA	10	6	15	6	0	4	8	1	3	9	6	8
-GTG	1	0	2	0	0	0	0	0	0	0	2	0
-GCT	6	3	20	4	0	3	5	2	1	6	12	7
-GCC	8	7	10	1	0	7	6	7	4	17	16	9
-GCA	13	5	12	6	0	6	6	3	5	5	15	11
-GCG	0	0	1	1	0	0	0	0	0	0	1	0
-GAT	1	0	9	8	0	1	2	2	1	2	4	4
-GAC	2	0	5	3	1	0	1	0	0	3	5	7
-GAA	10	4	9	12	2	3	7	6	2	9	13	6
-GAG	1	1	1	1	0	0	1	0	0	1	0	0
-GGT	4	3	15	2	0	2	8	1	2	5	8	4
-GGC	3	6	9	4	0	3	4	1	0	4	10	7
-GGA	6	5	18	2	0	4	9	1	2	7	9	12
-GGG	0	1	4	0	0	2	1	0	1	1	1	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009144282.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	10	9	19	1	7	4	14	0	8	5	0	1	10	0	9	12	16	1	6	7	8	0	2	3	6	0	0	3	3	2	19	8	13	3	4	4	7	0	8	4	6	1	1	3	4	2	10	1	6	8	13	0	1	2	10	1	4	3	6	0	0	0	0	0
+1	ND2	YP_009144283.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	10	4	28	1	5	10	12	0	7	3	0	0	10	0	11	8	14	0	6	4	7	0	2	2	10	0	0	2	1	0	27	13	35	0	6	15	18	0	8	11	10	1	1	3	1	0	6	0	3	7	5	0	0	0	4	1	3	6	5	1	0	1	0	0
+2	COX1	YP_009144284.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	27	15	17	3	10	9	13	0	16	4	1	1	17	0	6	7	20	2	14	7	7	0	12	5	7	0	1	1	6	0	28	13	24	6	17	2	17	0	11	5	9	0	2	2	13	8	15	2	20	10	12	1	9	5	9	1	15	9	18	4	1	0	0	0
+3	COX2	YP_009144285.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	4	2	14	1	9	1	4	0	8	2	1	1	5	0	7	1	9	0	5	5	3	0	5	1	6	0	1	4	1	0	13	7	11	2	8	5	7	0	6	1	5	1	1	3	2	5	6	0	4	1	6	1	8	3	12	1	2	4	2	0	1	0	0	0
+4	ATP8	YP_009144286.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	4	1	5	0	3	0	2	2	2	0	0	0	3	0	2	1	1	0	4	1	2	0	0	0	5	0	0	0	0	0	4	2	3	1	3	0	3	1	1	1	6	1	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009144287.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	8	4	16	1	4	1	3	0	3	0	0	0	3	0	8	5	10	1	8	3	3	0	5	1	9	0	0	0	4	0	21	5	14	2	7	9	11	0	7	3	4	1	2	2	1	2	4	0	3	7	6	0	1	0	3	0	2	3	4	2	1	0	0	0
+6	COX3	YP_009144288.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	14	9	11	1	3	2	9	1	4	8	1	0	12	0	5	5	10	1	3	4	2	2	9	8	7	0	1	1	3	0	10	5	8	2	4	4	9	0	5	3	3	1	2	2	4	5	8	0	5	6	6	0	2	1	7	1	8	4	9	1	0	0	0	0
+7	ND3	YP_009144289.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	7	2	10	0	2	1	2	0	2	1	1	0	4	0	9	1	4	1	2	2	2	0	1	0	2	1	0	1	0	0	6	3	7	1	2	0	4	0	3	3	2	0	2	0	0	0	1	0	2	7	3	0	2	0	6	0	1	1	1	0	0	0	0	0
+8	ND4L	YP_009144290.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	4	1	10	0	3	1	4	0	2	1	2	1	0	0	2	2	8	1	0	0	1	0	1	1	2	0	0	0	1	0	2	1	9	1	1	0	4	1	3	1	0	0	1	0	2	3	3	0	1	4	5	0	1	0	2	0	2	0	2	1	1	0	0	0
+9	ND4	YP_009144291.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	11	8	37	1	7	12	6	0	8	8	1	3	11	2	21	10	27	0	7	5	8	0	5	5	12	0	4	2	3	1	30	14	27	2	10	11	23	0	13	10	9	2	2	7	4	1	9	0	6	17	5	0	2	3	9	1	5	4	7	1	0	0	0	0
+10	ND5	YP_009144292.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	23	19	41	1	10	3	18	1	16	6	2	2	11	1	14	10	35	4	6	5	12	2	3	9	15	1	3	2	4	0	34	23	34	2	14	16	22	2	19	14	21	1	7	7	8	1	6	2	12	16	15	1	4	5	13	0	8	10	9	1	1	0	0	0
+11	CYTB	YP_009144294.1	Crocidura mindorus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Insectivora, Soricidae, Crocidurinae, Crocidura	10	18	14	1	3	7	10	0	9	4	1	3	12	0	10	9	19	0	5	6	11	0	5	7	6	1	0	1	7	0	18	19	19	3	6	8	9	1	10	8	7	2	1	3	1	8	8	0	7	9	11	0	4	7	6	0	4	7	12	2	0	0	1	0

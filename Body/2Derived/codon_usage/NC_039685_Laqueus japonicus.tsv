@@ -1,65 +1,14 @@
-	YP_009538310.1|COX1	YP_009527923.1|CYTB	YP_009527924.1|ATP6	YP_009527925.1|ND5	YP_009527926.1|ND6	YP_009527927.1|ND3	YP_009527928.1|ND4L	YP_009527929.1|COX3	YP_009527930.1|ATP8	YP_009527931.1|ND2	YP_009527932.1|COX2	YP_009527933.1|ND1	YP_009527934.1|ND4
-TTT	35	30	19	37	9	18	4	23	3	22	11	19	30
-TTC	9	6	3	4	0	0	0	3	0	5	1	3	4
-TTA	12	13	9	23	10	1	5	10	2	9	8	11	12
-TTG	25	16	10	38	7	7	6	7	2	20	10	18	22
-TCT	17	15	6	23	1	8	2	8	2	11	14	8	24
-TCC	3	1	0	4	2	0	0	0	1	1	2	1	5
-TCA	5	3	1	4	0	0	0	1	0	1	0	5	5
-TCG	1	4	2	6	1	1	1	4	1	0	2	0	7
-TAT	9	10	3	10	5	1	1	4	2	10	6	11	7
-TAC	5	6	3	7	0	1	2	5	0	3	3	5	3
-TGT	2	1	5	10	1	2	3	2	0	4	6	4	4
-TGC	1	1	2	0	3	0	0	0	0	3	0	1	1
-TGA	2	1	1	3	1	1	0	1	0	2	1	2	0
-TGG	14	13	6	10	2	5	0	13	6	6	5	6	10
-CTT	15	6	5	13	4	2	5	5	0	8	3	8	10
-CTC	6	3	1	3	1	1	0	1	0	0	2	0	4
-CTA	3	5	5	6	2	0	3	1	0	2	1	2	6
-CTG	8	8	4	8	3	1	3	3	1	7	8	7	8
-CCT	7	3	2	8	2	2	1	6	0	5	7	8	6
-CCC	8	8	3	6	1	2	0	1	1	1	3	1	5
-CCA	6	8	3	3	0	0	0	1	1	0	2	3	4
-CCG	7	4	2	4	2	3	1	0	0	2	1	3	4
-CAT	9	8	4	4	2	0	0	9	0	1	5	2	6
-CAC	10	2	0	4	0	0	1	5	0	0	1	0	3
-CAA	2	3	0	2	0	0	0	0	0	0	1	2	1
-CAG	6	2	3	10	2	0	0	3	1	6	3	1	6
-CGT	3	1	2	1	1	0	1	1	0	2	2	2	0
-CGC	0	0	1	0	0	0	0	1	0	0	0	0	0
-CGA	2	0	0	5	0	1	0	2	0	1	0	1	3
-CGG	5	6	2	1	0	1	1	2	1	1	4	4	3
-ATT	28	15	8	28	8	9	3	10	2	13	7	12	23
-ATC	1	5	2	4	1	0	0	1	0	5	5	3	3
-ATA	7	5	7	19	3	3	1	3	1	7	3	2	8
-ATG	19	10	7	11	2	3	2	6	1	5	7	14	22
-ACT	14	6	4	8	2	0	0	8	0	3	1	5	8
-ACC	1	1	0	2	1	0	0	3	0	2	1	2	4
-ACA	5	5	1	3	0	0	0	0	0	1	2	2	1
-ACG	4	1	3	3	0	1	0	3	0	3	1	0	0
-AAT	12	7	2	9	1	0	3	2	0	3	4	5	6
-AAC	4	0	2	4	1	0	2	1	0	2	3	0	3
-AAA	0	1	0	3	1	1	0	1	2	2	1	1	7
-AAG	10	5	1	11	2	2	0	1	1	4	1	8	8
-AGT	2	2	2	6	0	1	1	4	3	4	1	4	8
-AGC	1	3	0	1	0	2	0	0	2	0	1	1	1
-AGA	1	8	1	6	3	0	1	1	1	0	0	1	2
-AGG	7	3	2	17	5	1	3	4	2	9	5	5	7
-GTT	28	17	8	35	8	6	2	14	3	18	6	13	27
-GTC	2	5	0	5	1	1	0	3	0	5	1	6	10
-GTA	7	7	5	6	3	0	1	5	1	10	3	3	10
-GTG	10	12	5	20	11	5	6	12	2	10	13	10	11
-GCT	24	5	4	16	9	1	7	8	0	8	8	8	16
-GCC	8	5	1	4	0	2	0	1	0	2	1	9	8
-GCA	3	2	1	4	0	1	0	4	0	1	1	4	1
-GCG	5	4	1	6	2	0	0	2	0	0	2	2	2
-GAT	8	4	2	9	1	2	0	4	1	1	7	2	1
-GAC	6	3	0	1	0	1	0	0	0	1	4	2	4
-GAA	2	1	2	3	2	0	0	2	1	1	3	2	3
-GAG	5	2	2	6	2	5	4	5	0	5	4	8	3
-GGT	5	6	5	8	4	0	0	2	0	5	2	4	3
-GGC	2	4	3	5	2	1	3	4	1	3	3	1	2
-GGA	7	4	5	5	3	1	1	5	2	2	3	0	5
-GGG	37	23	11	32	9	4	6	18	1	21	7	19	22
-TAA	0	0	1	0	0	0	0	1	0	0	0	0	0
-TAG	1	0	0	0	1	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009538310.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	35	9	12	25	17	3	5	1	9	5	2	1	2	14	15	6	3	8	7	8	6	7	9	10	2	6	3	0	2	5	28	1	7	19	14	1	5	4	12	4	0	10	2	1	1	7	28	2	7	10	24	8	3	5	8	6	2	5	5	2	7	37	0	1
+1	CYTB	YP_009527923.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	30	6	13	16	15	1	3	4	10	6	1	1	1	13	6	3	5	8	3	8	8	4	8	2	3	2	1	0	0	6	15	5	5	10	6	1	5	1	7	0	1	5	2	3	8	3	17	5	7	12	5	5	2	4	4	3	1	2	6	4	4	23	0	0
+2	ATP6	YP_009527924.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	19	3	9	10	6	0	1	2	3	3	5	2	1	6	5	1	5	4	2	3	3	2	4	0	0	3	2	1	0	2	8	2	7	7	4	0	1	3	2	2	0	1	2	0	1	2	8	0	5	5	4	1	1	1	2	0	2	2	5	3	5	11	1	0
+3	ND5	YP_009527925.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	37	4	23	38	23	4	4	6	10	7	10	0	3	10	13	3	6	8	8	6	3	4	4	4	2	10	1	0	5	1	28	4	19	11	8	2	3	3	9	4	3	11	6	1	6	17	35	5	6	20	16	4	4	6	9	1	3	6	8	5	5	32	0	0
+4	ND6	YP_009527926.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	9	0	10	7	1	2	0	1	5	0	1	3	1	2	4	1	2	3	2	1	0	2	2	0	0	2	1	0	0	0	8	1	3	2	2	1	0	0	1	1	1	2	0	0	3	5	8	1	3	11	9	0	0	2	1	0	2	2	4	2	3	9	0	1
+5	ND3	YP_009527927.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	18	0	1	7	8	0	0	1	1	1	2	0	1	5	2	1	0	1	2	2	0	3	0	0	0	0	0	0	1	1	9	0	3	3	0	0	0	1	0	0	1	2	1	2	0	1	6	1	0	5	1	2	1	0	2	1	0	5	0	1	1	4	0	0
+6	ND4L	YP_009527928.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	4	0	5	6	2	0	0	1	1	2	3	0	0	0	5	0	3	3	1	0	0	1	0	1	0	0	1	0	0	1	3	0	1	2	0	0	0	0	3	2	0	0	1	0	1	3	2	0	1	6	7	0	0	0	0	0	0	4	0	3	1	6	0	0
+7	COX3	YP_009527929.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	23	3	10	7	8	0	1	4	4	5	2	0	1	13	5	1	1	3	6	1	1	0	9	5	0	3	1	1	2	2	10	1	3	6	8	3	0	3	2	1	1	1	4	0	1	4	14	3	5	12	8	1	4	2	4	0	2	5	2	4	5	18	1	0
+8	ATP8	YP_009527930.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	3	0	2	2	2	1	0	1	2	0	0	0	0	6	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0	1	2	0	1	1	0	0	0	0	0	0	2	1	3	2	1	2	3	0	1	2	0	0	0	0	1	0	1	0	0	1	2	1	0	1
+9	ND2	YP_009527931.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	22	5	9	20	11	1	1	0	10	3	4	3	2	6	8	0	2	7	5	1	0	2	1	0	0	6	2	0	1	1	13	5	7	5	3	2	1	3	3	2	2	4	4	0	0	9	18	5	10	10	8	2	1	0	1	1	1	5	5	3	2	21	0	0
+10	COX2	YP_009527932.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	11	1	8	10	14	2	0	2	6	3	6	0	1	5	3	2	1	8	7	3	2	1	5	1	1	3	2	0	0	4	7	5	3	7	1	1	2	1	4	3	1	1	1	1	0	5	6	1	3	13	8	1	1	2	7	4	3	4	2	3	3	7	0	0
+11	ND1	YP_009527933.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	19	3	11	18	8	1	5	0	11	5	4	1	2	6	8	0	2	7	8	1	3	3	2	0	2	1	2	0	1	4	12	3	2	14	5	2	2	0	5	0	1	8	4	1	1	5	13	6	3	10	8	9	4	2	2	2	2	8	4	1	0	19	0	0
+12	ND4	YP_009527934.1	Laqueus japonicus	Eukaryota, Metazoa, Lophotrochozoa, Brachiopoda, Rhynchonelliformea, Rhynchonellata, Terebratellidina, Laqueoidea, Laqueidae, Laqueus	30	4	12	22	24	5	5	7	7	3	4	1	0	10	10	4	6	8	6	5	4	4	6	3	1	6	0	0	3	3	23	3	8	22	8	4	1	0	6	3	7	8	8	1	2	7	27	10	10	11	16	8	1	2	1	4	3	3	3	2	5	22	0	0

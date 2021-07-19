@@ -1,65 +1,13 @@
-	YP_003667895.1|ND1	YP_003667896.1|ND2	YP_003667897.1|COX1	YP_003667898.1|COX2	YP_003667899.1|ATP8	YP_003667900.1|ATP6	YP_003667901.1|COX3	YP_003667902.1|ND3	YP_003667903.1|ND4L	YP_003667904.1|ND4	YP_003667905.1|ND5	YP_003667907.1|CYTB
-TTT	6	8	26	10	1	5	10	4	3	10	17	17
-TTC	9	7	11	0	0	0	13	3	0	8	10	14
-TTA	21	14	17	8	0	7	8	3	4	21	18	15
-TTG	1	3	3	1	0	0	1	0	0	0	1	1
-TCT	2	1	6	0	1	2	4	0	2	7	7	4
-TCC	3	1	5	3	1	0	1	0	0	2	2	3
-TCA	15	18	17	8	1	5	6	4	3	16	28	12
-TCG	0	0	1	0	0	0	0	0	0	0	2	1
-TAT	8	3	11	4	0	3	5	2	0	5	9	6
-TAC	3	4	5	4	0	1	8	0	1	10	6	6
-TGT	1	0	2	0	0	0	2	1	2	2	2	1
-TGC	2	0	1	2	0	0	2	0	1	2	4	1
-TGA	8	7	15	5	5	2	12	4	0	7	9	10
-TGG	0	1	1	0	0	1	0	0	0	1	1	0
-CTT	12	9	14	4	4	8	9	5	1	13	11	13
-CTC	2	4	5	2	1	4	1	1	1	4	3	3
-CTA	19	19	25	16	3	24	11	11	11	36	39	25
-CTG	0	0	6	2	0	2	2	0	2	3	2	1
-CCT	1	0	1	0	0	2	0	1	0	3	1	3
-CCC	2	3	4	1	0	0	3	0	0	2	1	1
-CCA	14	14	23	13	5	12	6	7	1	18	15	20
-CCG	0	2	1	0	0	1	0	0	0	1	1	1
-CAT	0	0	7	1	0	0	4	0	0	1	5	3
-CAC	0	5	11	7	2	6	7	1	3	9	8	8
-CAA	10	14	6	7	3	8	6	4	0	13	16	7
-CAG	2	0	0	1	0	0	1	0	0	3	1	1
-CGT	1	0	0	1	0	1	1	0	0	1	1	2
-CGC	0	0	0	1	0	0	0	0	0	1	0	0
-CGA	7	4	9	4	0	3	3	1	1	6	6	5
-CGG	0	0	1	0	0	0	0	0	0	0	0	1
-ATT	21	31	29	12	4	12	9	14	8	30	46	25
-ATC	9	8	12	6	0	11	4	4	2	18	14	16
-ATA	23	29	30	13	4	18	14	5	6	49	54	13
-ATG	3	6	7	2	0	3	1	0	2	2	7	3
-ACT	4	7	8	3	4	7	5	1	0	9	8	10
-ACC	5	4	6	3	1	5	3	2	4	8	18	7
-ACA	14	25	27	12	4	16	21	9	11	20	45	20
-ACG	0	0	1	0	0	0	0	1	0	0	2	1
-AAT	5	8	13	3	3	4	3	0	3	5	19	7
-AAC	8	7	8	3	1	5	6	3	4	13	14	16
-AAA	10	14	11	6	4	7	6	2	3	15	34	10
-AAG	0	0	1	1	0	0	0	0	0	1	1	0
-AGT	1	2	3	0	1	0	2	0	0	2	4	0
-AGC	2	2	2	2	0	2	1	1	3	6	5	1
-GTT	1	4	9	2	0	5	1	0	0	1	5	2
-GTC	0	3	5	2	0	0	3	1	0	4	2	2
-GTA	7	6	8	3	0	3	9	0	1	8	10	8
-GTG	4	1	3	1	0	0	0	0	0	0	0	0
-GCT	5	8	7	3	0	3	4	1	0	5	7	8
-GCC	6	6	12	1	0	5	5	1	0	6	17	8
-GCA	13	13	14	9	0	7	8	4	3	17	16	3
-GCG	0	0	1	1	0	0	0	0	0	0	1	0
-GAT	0	0	7	7	0	1	1	1	0	1	4	2
-GAC	4	2	8	5	2	0	3	4	2	2	5	3
-GAA	8	5	5	13	0	7	6	4	2	8	8	5
-GAG	3	0	1	1	0	0	1	0	0	0	5	1
-GGT	4	0	11	1	0	0	1	0	2	1	5	3
-GGC	6	4	8	2	0	3	3	1	0	3	2	6
-GGA	2	9	17	5	0	4	11	4	1	9	9	9
-GGG	1	1	7	0	0	0	4	1	2	2	5	3
-TAA	0	0	0	1	1	1	0	1	1	1	1	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003667895.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	6	9	21	1	2	3	15	0	8	3	1	2	8	0	12	2	19	0	1	2	14	0	0	0	10	2	1	0	7	0	21	9	23	3	4	5	14	0	5	8	10	0	1	2	1	0	7	4	5	6	13	0	0	4	8	3	4	6	2	1	0	1	0	0
+1	ND2	YP_003667896.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	8	7	14	3	1	1	18	0	3	4	0	0	7	1	9	4	19	0	0	3	14	2	0	5	14	0	0	0	4	0	31	8	29	6	7	4	25	0	8	7	14	0	2	2	4	3	6	1	8	6	13	0	0	2	5	0	0	4	9	1	0	0	0	0
+2	COX1	YP_003667897.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	26	11	17	3	6	5	17	1	11	5	2	1	15	1	14	5	25	6	1	4	23	1	7	11	6	0	0	0	9	1	29	12	30	7	8	6	27	1	13	8	11	1	3	2	9	5	8	3	7	12	14	1	7	8	5	1	11	8	17	7	0	0	0	1
+3	COX2	YP_003667898.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	10	0	8	1	0	3	8	0	4	4	0	2	5	0	4	2	16	2	0	1	13	0	1	7	7	1	1	1	4	0	12	6	13	2	3	3	12	0	3	3	6	1	0	2	2	2	3	1	3	1	9	1	7	5	13	1	1	2	5	0	1	0	0	0
+4	ATP8	YP_003667899.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	1	0	0	0	1	1	1	0	0	0	0	0	5	0	4	1	3	0	0	0	5	0	0	2	3	0	0	0	0	0	4	0	4	0	4	1	4	0	3	1	4	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003667900.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	5	0	7	0	2	0	5	0	3	1	0	0	2	1	8	4	24	2	2	0	12	1	0	6	8	0	1	0	3	0	12	11	18	3	7	5	16	0	4	5	7	0	0	2	5	0	3	0	3	5	7	0	1	0	7	0	0	3	4	0	1	0	0	0
+6	COX3	YP_003667901.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	10	13	8	1	4	1	6	0	5	8	2	2	12	0	9	1	11	2	0	3	6	0	4	7	6	1	1	0	3	0	9	4	14	1	5	3	21	0	3	6	6	0	2	1	1	3	9	0	4	5	8	0	1	3	6	1	1	3	11	4	0	0	0	0
+7	ND3	YP_003667902.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	4	3	3	0	0	0	4	0	2	0	1	0	4	0	5	1	11	0	1	0	7	0	0	1	4	0	0	0	1	0	14	4	5	0	1	2	9	1	0	3	2	0	0	1	0	1	0	0	1	1	4	0	1	4	4	0	0	1	4	1	1	0	0	0
+8	ND4L	YP_003667903.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	3	0	4	0	2	0	3	0	0	1	2	1	0	0	1	1	11	2	0	0	1	0	0	3	0	0	0	0	1	0	8	2	6	2	0	4	11	0	3	4	3	0	0	3	0	0	1	0	0	0	3	0	0	2	2	0	2	0	1	2	1	0	0	0
+9	ND4	YP_003667904.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	10	8	21	0	7	2	16	0	5	10	2	2	7	1	13	4	36	3	3	2	18	1	1	9	13	3	1	1	6	0	30	18	49	2	9	8	20	0	5	13	15	1	2	6	1	4	8	0	5	6	17	0	1	2	8	0	1	3	9	2	1	0	0	0
+10	ND5	YP_003667905.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	17	10	18	1	7	2	28	2	9	6	2	4	9	1	11	3	39	2	1	1	15	1	5	8	16	1	1	0	6	0	46	14	54	7	8	18	45	2	19	14	34	1	4	5	5	2	10	0	7	17	16	1	4	5	8	5	5	2	9	5	1	0	0	0
+11	CYTB	YP_003667907.1	Brookesia decaryi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Chamaeleonidae, Brookesia	17	14	15	1	4	3	12	1	6	6	1	1	10	0	13	3	25	1	3	1	20	1	3	8	7	1	2	0	5	1	25	16	13	3	10	7	20	1	7	16	10	0	0	1	2	2	8	0	8	8	3	0	2	3	5	1	3	6	9	3	1	0	0	0

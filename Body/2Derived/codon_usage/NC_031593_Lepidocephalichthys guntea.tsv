@@ -1,65 +1,13 @@
-	YP_009311866.1|ND1	YP_009311867.1|ND2	YP_009311868.1|COX1	YP_009311869.1|COX2	YP_009311870.1|ATP8	YP_009311871.1|ATP6	YP_009311872.1|COX3	YP_009311873.1|ND3	YP_009311874.1|ND4L	YP_009311875.1|ND4	YP_009311876.1|ND5	YP_009311878.1|CYTB
-TTT	16	6	19	4	1	9	9	6	5	7	23	13
-TTC	3	5	23	4	1	4	14	1	3	10	17	18
-TTA	18	14	11	8	4	1	4	7	2	28	19	17
-TTG	0	4	1	0	0	1	0	0	0	1	4	0
-TCT	3	8	11	3	0	3	2	3	3	8	9	6
-TCC	7	7	8	5	0	0	1	0	0	14	11	5
-TCA	8	7	7	2	1	2	6	3	2	6	13	7
-TCG	0	2	0	2	1	0	2	0	0	0	1	2
-TAT	8	3	10	4	0	3	6	2	0	8	8	5
-TAC	4	4	8	5	0	1	5	0	0	7	2	9
-TGT	0	0	0	0	0	0	1	1	2	0	3	2
-TGC	0	1	1	2	0	0	1	1	1	5	3	1
-TGA	8	11	16	5	4	3	11	5	1	17	10	13
-TGG	0	0	1	0	1	2	1	0	0	1	4	0
-CTT	16	20	10	11	2	16	10	8	8	26	29	11
-CTC	9	9	11	3	1	9	6	6	4	10	12	9
-CTA	15	20	22	5	1	13	15	6	9	19	28	20
-CTG	2	4	6	1	0	6	0	1	0	6	4	3
-CCT	8	4	5	3	2	3	2	2	0	4	6	3
-CCC	3	5	4	3	5	2	3	2	1	9	6	5
-CCA	13	10	16	5	2	12	7	4	1	14	15	11
-CCG	0	1	3	3	0	0	0	0	0	0	2	2
-CAT	0	2	5	2	1	1	4	0	1	3	5	2
-CAC	4	4	14	8	1	2	12	0	3	9	10	10
-CAA	7	11	7	8	2	6	8	3	3	11	20	6
-CAG	0	3	0	0	0	2	1	0	0	2	1	0
-CGT	2	0	2	2	0	0	0	0	0	1	2	1
-CGC	1	0	1	3	0	1	1	1	0	2	1	3
-CGA	5	4	6	2	0	5	3	0	3	7	6	4
-CGG	0	0	0	0	0	0	1	1	0	1	0	1
-ATT	15	22	25	15	1	20	11	4	1	24	37	13
-ATC	6	3	18	4	2	3	5	5	0	11	20	18
-ATA	10	11	18	6	0	7	4	1	5	15	21	7
-ATG	3	3	6	5	1	3	4	1	1	7	6	5
-ACT	7	7	8	6	2	4	2	1	1	13	12	2
-ACC	6	20	13	2	1	6	7	3	1	13	22	8
-ACA	7	15	14	3	2	8	12	0	7	14	19	10
-ACG	1	3	1	0	0	1	0	1	0	1	3	1
-AAT	3	4	4	3	1	5	0	0	1	4	11	7
-AAC	10	5	11	3	2	5	1	3	1	8	15	10
-AAA	5	8	7	3	3	0	2	1	0	8	20	8
-AAG	2	0	1	1	0	1	0	0	0	1	2	1
-AGT	1	1	0	0	1	0	1	0	1	1	1	0
-AGC	2	3	5	3	0	4	2	0	2	6	10	1
-GTT	6	6	16	6	1	8	8	4	0	4	8	6
-GTC	6	1	7	5	0	3	5	1	0	5	7	9
-GTA	7	4	13	7	1	5	2	1	2	9	11	6
-GTG	0	1	2	2	0	1	0	1	0	0	1	2
-GCT	8	4	13	6	1	4	2	1	3	7	11	7
-GCC	10	17	17	5	2	8	9	4	7	16	29	14
-GCA	15	13	16	3	0	8	8	4	2	13	16	13
-GCG	1	1	1	2	0	0	3	0	1	2	0	1
-GAT	1	1	3	1	0	0	3	3	0	0	9	7
-GAC	3	2	11	11	1	1	2	1	1	3	4	4
-GAA	9	6	8	14	2	3	8	4	3	8	10	4
-GAG	2	0	3	1	1	1	2	2	0	3	2	2
-GGT	3	0	10	1	0	2	3	1	0	2	2	2
-GGC	7	6	13	6	0	1	9	3	2	13	13	8
-GGA	5	9	15	2	0	7	7	3	4	10	12	10
-GGG	3	3	9	1	0	1	3	0	0	3	4	5
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009311866.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	16	3	18	0	3	7	8	0	8	4	0	0	8	0	16	9	15	2	8	3	13	0	0	4	7	0	2	1	5	0	15	6	10	3	7	6	7	1	3	10	5	2	1	2	6	6	7	0	8	10	15	1	1	3	9	2	3	7	5	3	1	0	0	0
+1	ND2	YP_009311867.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	6	5	14	4	8	7	7	2	3	4	0	1	11	0	20	9	20	4	4	5	10	1	2	4	11	3	0	0	4	0	22	3	11	3	7	20	15	3	4	5	8	0	1	3	6	1	4	1	4	17	13	1	1	2	6	0	0	6	9	3	0	0	0	0
+2	COX1	YP_009311868.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	19	23	11	1	11	8	7	0	10	8	0	1	16	1	10	11	22	6	5	4	16	3	5	14	7	0	2	1	6	0	25	18	18	6	8	13	14	1	4	11	7	1	0	5	16	7	13	2	13	17	16	1	3	11	8	3	10	13	15	9	1	0	0	0
+3	COX2	YP_009311869.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	4	4	8	0	3	5	2	2	4	5	0	2	5	0	11	3	5	1	3	3	5	3	2	8	8	0	2	3	2	0	15	4	6	5	6	2	3	0	3	3	3	1	0	3	6	5	7	2	6	5	3	2	1	11	14	1	1	6	2	1	0	0	0	0
+4	ATP8	YP_009311870.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	1	1	4	0	0	0	1	1	0	0	0	0	4	1	2	1	1	0	2	5	2	0	1	1	2	0	0	0	0	0	1	2	0	1	2	1	2	0	1	2	3	0	1	0	1	0	1	0	1	2	0	0	0	1	2	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009311871.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	9	4	1	1	3	0	2	0	3	1	0	0	3	2	16	9	13	6	3	2	12	0	1	2	6	2	0	1	5	0	20	3	7	3	4	6	8	1	5	5	0	1	0	4	8	3	5	1	4	8	8	0	0	1	3	1	2	1	7	1	0	0	0	0
+6	COX3	YP_009311872.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	9	14	4	0	2	1	6	2	6	5	1	1	11	1	10	6	15	0	2	3	7	0	4	12	8	1	0	1	3	1	11	5	4	4	2	7	12	0	0	1	2	0	1	2	8	5	2	0	2	9	8	3	3	2	8	2	3	9	7	3	0	0	0	0
+7	ND3	YP_009311873.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	6	1	7	0	3	0	3	0	2	0	1	1	5	0	8	6	6	1	2	2	4	0	0	0	3	0	0	1	0	1	4	5	1	1	1	3	0	1	0	3	1	0	0	0	4	1	1	1	1	4	4	0	3	1	4	2	1	3	3	0	0	0	0	0
+8	ND4L	YP_009311874.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	5	3	2	0	3	0	2	0	0	0	2	1	1	0	8	4	9	0	0	1	1	0	1	3	3	0	0	0	3	0	1	0	5	1	1	1	7	0	1	1	0	0	1	2	0	0	2	0	3	7	2	1	0	1	3	0	0	2	4	0	1	0	0	0
+9	ND4	YP_009311875.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	7	10	28	1	8	14	6	0	8	7	0	5	17	1	26	10	19	6	4	9	14	0	3	9	11	2	1	2	7	1	24	11	15	7	13	13	14	1	4	8	8	1	1	6	4	5	9	0	7	16	13	2	0	3	8	3	2	13	10	3	0	0	0	0
+10	ND5	YP_009311876.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	23	17	19	4	9	11	13	1	8	2	3	3	10	4	29	12	28	4	6	6	15	2	5	10	20	1	2	1	6	0	37	20	21	6	12	22	19	3	11	15	20	2	1	10	8	7	11	1	11	29	16	0	9	4	10	2	2	13	12	4	1	0	0	0
+11	CYTB	YP_009311878.1	Lepidocephalichthys guntea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cobitidae, Cobitinae, Lepidocephalichthys	13	18	17	0	6	5	7	2	5	9	2	1	13	0	11	9	20	3	3	5	11	2	2	10	6	0	1	3	4	1	13	18	7	5	2	8	10	1	7	10	8	1	0	1	6	9	6	2	7	14	13	1	7	4	4	2	2	8	10	5	0	0	0	0

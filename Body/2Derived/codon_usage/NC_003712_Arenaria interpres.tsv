@@ -1,65 +1,13 @@
-	NP_620314.1|ND1	NP_620315.1|ND2	NP_620316.1|COX1	NP_620317.1|COX2	NP_620318.1|ATP8	NP_620319.1|ATP6	NP_620320.1|COX3	NP_620321.1|ND3	NP_620322.1|ND4L	NP_620323.1|ND4	NP_620324.2|ND5	NP_620325.1|CYTB
-TTT	5	3	10	3	1	2	5	1	2	1	8	2
-TTC	13	11	32	5	2	8	19	7	3	13	24	28
-TTA	13	6	5	3	1	10	6	1	6	11	15	8
-TTG	2	2	2	0	1	0	0	0	0	0	1	0
-TCT	4	7	3	2	1	2	2	1	2	3	6	2
-TCC	10	5	9	5	1	4	5	3	5	12	13	7
-TCA	7	12	11	10	2	3	8	3	3	10	16	11
-TCG	1	1	0	0	1	0	0	0	0	1	1	1
-TAT	2	3	8	5	0	1	4	1	0	3	3	1
-TAC	13	7	10	3	0	2	6	1	2	12	12	13
-TGT	1	0	0	0	0	0	1	1	1	0	3	1
-TGC	2	1	1	3	0	1	0	0	2	4	2	3
-TGA	6	8	17	4	5	4	11	5	1	12	12	11
-TGG	2	1	0	1	0	0	1	0	0	0	0	0
-CTT	11	10	7	3	1	9	2	0	1	4	11	8
-CTC	12	13	12	10	1	16	7	10	4	22	24	13
-CTA	25	26	33	13	3	25	15	16	10	53	46	33
-CTG	0	6	3	3	0	2	3	0	1	9	4	3
-CCT	3	2	3	6	4	6	2	1	0	2	4	4
-CCC	6	5	10	2	3	5	4	3	1	12	10	9
-CCA	13	13	13	4	2	6	6	3	1	14	15	12
-CCG	1	0	4	1	0	0	0	1	0	0	0	0
-CAT	2	1	7	2	0	3	4	0	1	4	4	1
-CAC	1	8	12	7	0	1	12	0	6	11	6	11
-CAA	4	8	8	7	1	8	8	3	2	11	17	7
-CAG	1	1	1	0	1	0	0	0	0	1	2	1
-CGT	1	0	0	1	0	0	0	1	0	0	0	1
-CGC	3	1	4	1	0	3	1	0	1	3	5	3
-CGA	4	2	4	3	0	2	4	1	0	8	4	4
-CGG	0	0	0	0	0	0	0	0	1	0	0	0
-ATT	11	8	16	8	0	6	5	3	1	16	19	5
-ATC	15	24	24	10	3	10	12	6	1	24	34	25
-ATA	8	17	22	7	1	7	7	4	3	26	28	9
-ATG	4	3	3	3	1	2	2	0	4	2	6	1
-ACT	2	11	15	3	4	8	0	1	2	5	14	3
-ACC	15	15	13	4	6	9	8	4	1	28	35	13
-ACA	7	17	14	6	1	7	9	3	2	13	28	12
-ACG	0	0	1	0	0	0	1	0	1	1	2	0
-AAT	2	3	1	0	1	1	1	0	1	4	5	3
-AAC	10	9	14	5	3	8	3	3	2	15	18	18
-AAA	7	13	8	4	3	3	4	1	0	7	19	9
-AAG	1	1	1	0	0	0	0	0	0	1	2	1
-AGT	2	3	0	0	0	1	0	1	1	3	0	0
-AGC	3	1	3	4	0	4	4	0	3	6	12	1
-GTT	1	0	4	4	0	2	2	0	0	2	3	0
-GTC	2	4	12	5	0	2	6	1	1	5	5	7
-GTA	8	1	18	5	0	2	6	2	2	3	2	8
-GTG	2	1	1	2	0	0	0	0	0	0	2	2
-GCT	8	8	11	3	0	1	2	1	3	6	14	3
-GCC	11	12	23	7	0	12	7	4	4	17	22	14
-GCA	9	13	10	5	1	5	10	5	2	10	11	7
-GCG	1	0	1	0	0	0	3	0	1	0	0	3
-GAT	2	1	6	0	0	0	1	0	0	0	0	0
-GAC	2	0	9	12	0	2	3	3	1	2	8	6
-GAA	6	4	9	13	0	4	7	6	2	9	13	7
-GAG	5	1	1	2	0	0	1	0	0	0	0	0
-GGT	3	3	10	1	0	2	3	0	1	2	1	4
-GGC	4	3	15	2	0	4	7	1	2	6	11	8
-GGA	5	5	18	4	0	1	8	4	1	8	21	13
-GGG	1	2	4	1	0	1	3	0	0	2	1	0
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_620314.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	5	13	13	2	4	10	7	1	2	13	1	2	6	2	11	12	25	0	3	6	13	1	2	1	4	1	1	3	4	0	11	15	8	4	2	15	7	0	2	10	7	1	2	3	1	2	8	2	8	11	9	1	2	2	6	5	3	4	5	1	0	0	0	1
+1	ND2	NP_620315.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	3	11	6	2	7	5	12	1	3	7	0	1	8	1	10	13	26	6	2	5	13	0	1	8	8	1	0	1	2	0	8	24	17	3	11	15	17	0	3	9	13	1	3	1	0	4	1	1	8	12	13	0	1	0	4	1	3	3	5	2	0	1	0	0
+2	COX1	NP_620316.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	10	32	5	2	3	9	11	0	8	10	0	1	17	0	7	12	33	3	3	10	13	4	7	12	8	1	0	4	4	0	16	24	22	3	15	13	14	1	1	14	8	1	0	3	4	12	18	1	11	23	10	1	6	9	9	1	10	15	18	4	0	0	0	1
+3	COX2	NP_620317.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	3	5	3	0	2	5	10	0	5	3	0	3	4	1	3	10	13	3	6	2	4	1	2	7	7	0	1	1	3	0	8	10	7	3	3	4	6	0	0	5	4	0	0	4	4	5	5	2	3	7	5	0	0	12	13	2	1	2	4	1	1	0	0	0
+4	ATP8	NP_620318.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	1	2	1	1	1	1	2	1	0	0	0	0	5	0	1	1	3	0	4	3	2	0	0	0	1	1	0	0	0	0	0	3	1	1	4	6	1	0	1	3	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_620319.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	2	8	10	0	2	4	3	0	1	2	0	1	4	0	9	16	25	2	6	5	6	0	3	1	8	0	0	3	2	0	6	10	7	2	8	9	7	0	1	8	3	0	1	4	2	2	2	0	1	12	5	0	0	2	4	0	2	4	1	1	1	0	0	0
+6	COX3	NP_620320.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	5	19	6	0	2	5	8	0	4	6	1	0	11	1	2	7	15	3	2	4	6	0	4	12	8	0	0	1	4	0	5	12	7	2	0	8	9	1	1	3	4	0	0	4	2	6	6	0	2	7	10	3	1	3	7	1	3	7	8	3	0	0	0	0
+7	ND3	NP_620321.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	1	7	1	0	1	3	3	0	1	1	1	0	5	0	0	10	16	0	1	3	3	1	0	0	3	0	1	0	1	0	3	6	4	0	1	4	3	0	0	3	1	0	1	0	0	1	2	0	1	4	5	0	0	3	6	0	0	1	4	0	1	0	0	0
+8	ND4L	NP_620322.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	2	3	6	0	2	5	3	0	0	2	1	2	1	0	1	4	10	1	0	1	1	0	1	6	2	0	0	1	0	1	1	1	3	4	2	1	2	1	1	2	0	0	1	3	0	1	2	0	3	4	2	1	0	1	2	0	1	2	1	0	1	0	0	0
+9	ND4	NP_620323.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	1	13	11	0	3	12	10	1	3	12	0	4	12	0	4	22	53	9	2	12	14	0	4	11	11	1	0	3	8	0	16	24	26	2	5	28	13	1	4	15	7	1	3	6	2	5	3	0	6	17	10	0	0	2	9	0	2	6	8	2	0	0	0	0
+10	ND5	NP_620324.2	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	8	24	15	1	6	13	16	1	3	12	3	2	12	0	11	24	46	4	4	10	15	0	4	6	17	2	0	5	4	0	19	34	28	6	14	35	28	2	5	18	19	2	0	12	3	5	2	2	14	22	11	0	0	8	13	0	1	11	21	1	0	0	1	0
+11	CYTB	NP_620325.1	Arenaria interpres	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Arenaria	2	28	8	0	2	7	11	1	1	13	1	3	11	0	8	13	33	3	4	9	12	0	1	11	7	1	1	3	4	0	5	25	9	1	3	13	12	0	3	18	9	1	0	1	0	7	8	2	3	14	7	3	0	6	7	0	4	8	13	0	1	0	0	0

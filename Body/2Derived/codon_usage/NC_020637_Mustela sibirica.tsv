@@ -1,65 +1,13 @@
-	YP_007625237.1|ND1	YP_007625238.1|ND2	YP_007625239.1|COX1	YP_007625240.1|COX2	YP_007625241.1|ATP8	YP_007625242.1|ATP6	YP_007625243.1|COX3	YP_007625244.1|ND3	YP_007625245.1|ND4L	YP_007625246.1|ND4	YP_007625247.1|ND5	YP_007625249.1|CYTB
-TTT	6	6	21	1	5	6	12	2	3	5	14	3
-TTC	14	11	21	5	1	6	11	5	2	10	31	24
-TTA	13	17	10	4	3	9	5	4	5	25	13	11
-TTG	1	2	2	1	0	2	1	0	0	2	2	2
-TCT	3	6	8	7	1	4	7	1	1	3	4	4
-TCC	6	2	6	3	0	4	5	3	8	11	7	6
-TCA	9	14	15	4	4	4	5	3	0	10	22	12
-TCG	0	1	1	1	0	0	0	0	0	1	1	0
-TAT	4	2	11	3	2	1	6	1	1	7	7	6
-TAC	8	6	8	8	0	1	7	2	4	10	10	8
-TGT	1	0	1	0	0	0	1	1	0	2	2	1
-TGC	0	0	0	2	0	0	1	0	3	2	3	3
-TGA	8	8	13	5	3	3	8	4	0	12	11	10
-TGG	1	2	4	0	0	0	4	0	0	2	1	2
-CTT	8	5	11	7	0	2	6	2	1	9	15	7
-CTC	4	6	5	3	0	3	3	2	4	14	11	8
-CTA	27	25	26	15	4	20	13	16	10	43	47	28
-CTG	3	2	8	1	0	6	4	2	1	4	5	1
-CCT	4	3	10	4	4	5	2	2	1	4	5	4
-CCC	7	7	5	2	1	5	4	1	0	8	11	8
-CCA	11	10	11	5	3	3	6	3	0	8	7	10
-CCG	0	0	2	2	0	0	0	0	0	1	1	1
-CAT	1	0	7	2	1	1	6	0	0	2	2	4
-CAC	3	5	11	5	0	6	10	0	2	9	12	8
-CAA	5	8	4	7	3	10	7	2	2	10	15	5
-CAG	1	0	2	0	0	0	0	0	0	1	4	1
-CGT	0	0	2	1	0	0	0	0	0	2	0	0
-CGC	3	0	1	1	0	0	1	1	0	3	4	2
-CGA	4	3	4	4	0	4	4	0	1	4	5	6
-CGG	1	0	1	0	0	0	0	0	0	1	0	0
-ATT	12	13	21	8	2	14	1	4	2	15	21	16
-ATC	16	22	18	11	2	12	11	3	5	22	31	32
-ATA	18	38	21	13	2	8	7	6	6	32	37	14
-ATG	2	0	10	4	1	4	1	0	3	6	7	1
-ACT	7	8	12	5	3	6	4	3	1	8	13	3
-ACC	5	8	8	4	1	10	5	1	2	7	20	10
-ACA	12	23	14	8	2	8	16	3	4	19	28	8
-ACG	0	1	3	0	1	0	0	0	0	3	1	0
-AAT	3	3	6	2	0	1	5	3	2	8	7	3
-AAC	9	13	11	4	2	9	1	1	2	13	23	15
-AAA	7	13	9	4	6	4	2	3	0	11	23	8
-AAG	0	0	0	1	1	0	0	0	0	2	3	1
-AGT	0	1	2	3	0	1	0	0	1	3	3	1
-AGC	2	3	2	1	0	3	4	2	0	9	10	2
-GTT	2	0	4	1	0	5	2	0	1	2	3	3
-GTC	6	2	5	3	0	1	6	1	1	2	4	3
-GTA	5	8	22	8	2	3	9	2	5	10	12	8
-GTG	1	0	5	1	1	1	0	0	0	2	1	0
-GCT	6	3	11	2	1	3	4	1	0	8	3	8
-GCC	14	7	9	6	0	7	9	4	3	14	17	9
-GCA	8	9	17	2	1	4	2	7	4	9	17	8
-GCG	1	0	2	1	0	1	0	0	0	1	2	0
-GAT	1	0	5	4	0	0	2	1	1	0	3	1
-GAC	2	0	10	6	1	1	2	1	0	3	9	10
-GAA	9	5	10	11	3	3	7	8	2	8	7	5
-GAG	2	0	0	3	0	0	1	0	0	0	4	1
-GGT	0	0	8	1	0	3	2	1	1	3	4	4
-GGC	4	3	11	3	0	2	5	2	1	3	2	8
-GGA	5	11	14	3	0	6	13	1	1	9	19	10
-GGG	3	2	13	1	0	1	1	0	1	2	3	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007625237.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	6	14	13	1	3	6	9	0	4	8	1	0	8	1	8	4	27	3	4	7	11	0	1	3	5	1	0	3	4	1	12	16	18	2	7	5	12	0	3	9	7	0	0	2	2	6	5	1	6	14	8	1	1	2	9	2	0	4	5	3	0	0	0	0
+1	ND2	YP_007625238.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	6	11	17	2	6	2	14	1	2	6	0	0	8	2	5	6	25	2	3	7	10	0	0	5	8	0	0	0	3	0	13	22	38	0	8	8	23	1	3	13	13	0	1	3	0	2	8	0	3	7	9	0	0	0	5	0	0	3	11	2	0	0	0	0
+2	COX1	YP_007625239.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	21	21	10	2	8	6	15	1	11	8	1	0	13	4	11	5	26	8	10	5	11	2	7	11	4	2	2	1	4	1	21	18	21	10	12	8	14	3	6	11	9	0	2	2	4	5	22	5	11	9	17	2	5	10	10	0	8	11	14	13	1	0	0	0
+3	COX2	YP_007625240.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	1	5	4	1	7	3	4	1	3	8	0	2	5	0	7	3	15	1	4	2	5	2	2	5	7	0	1	1	4	0	8	11	13	4	5	4	8	0	2	4	4	1	3	1	1	3	8	1	2	6	2	1	4	6	11	3	1	3	3	1	1	0	0	0
+4	ATP8	YP_007625241.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	5	1	3	0	1	0	4	0	2	0	0	0	3	0	0	0	4	0	4	1	3	0	1	0	3	0	0	0	0	0	2	2	2	1	3	1	2	1	0	2	6	1	0	0	0	0	2	1	1	0	1	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007625242.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	6	6	9	2	4	4	4	0	1	1	0	0	3	0	2	3	20	6	5	5	3	0	1	6	10	0	0	0	4	0	14	12	8	4	6	10	8	0	1	9	4	0	1	3	5	1	3	1	3	7	4	1	0	1	3	0	3	2	6	1	1	0	0	0
+6	COX3	YP_007625243.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	12	11	5	1	7	5	5	0	6	7	1	1	8	4	6	3	13	4	2	4	6	0	6	10	7	0	0	1	4	0	1	11	7	1	4	5	16	0	5	1	2	0	0	4	2	6	9	0	4	9	2	0	2	2	7	1	2	5	13	1	0	0	0	0
+7	ND3	YP_007625244.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	2	5	4	0	1	3	3	0	1	2	1	0	4	0	2	2	16	2	2	1	3	0	0	0	2	0	0	1	0	0	4	3	6	0	3	1	3	0	3	1	3	0	0	2	0	1	2	0	1	4	7	0	1	1	8	0	1	2	1	0	0	0	0	0
+8	ND4L	YP_007625245.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	3	2	5	0	1	8	0	0	1	4	0	3	0	0	1	4	10	1	1	0	0	0	0	2	2	0	0	0	1	0	2	5	6	3	1	2	4	0	2	2	0	0	1	0	1	1	5	0	0	3	4	0	1	0	2	0	1	1	1	1	1	0	0	0
+9	ND4	YP_007625246.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	5	10	25	2	3	11	10	1	7	10	2	2	12	2	9	14	43	4	4	8	8	1	2	9	10	1	2	3	4	1	15	22	32	6	8	7	19	3	8	13	11	2	3	9	2	2	10	2	8	14	9	1	0	3	8	0	3	3	9	2	0	0	0	0
+10	ND5	YP_007625247.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	14	31	13	2	4	7	22	1	7	10	2	3	11	1	15	11	47	5	5	11	7	1	2	12	15	4	0	4	5	0	21	31	37	7	13	20	28	1	7	23	23	3	3	10	3	4	12	1	3	17	17	2	3	9	7	4	4	2	19	3	1	0	0	0
+11	CYTB	YP_007625249.1	Mustela sibirica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Mustelidae, Mustelinae, Mustela	3	24	11	2	4	6	12	0	6	8	1	3	10	2	7	8	28	1	4	8	10	1	4	8	5	1	0	2	6	0	16	32	14	1	3	10	8	0	3	15	8	1	1	2	3	3	8	0	8	9	8	0	1	10	5	1	4	8	10	2	0	0	1	0

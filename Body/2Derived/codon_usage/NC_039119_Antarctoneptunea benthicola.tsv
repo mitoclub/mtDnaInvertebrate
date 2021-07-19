@@ -1,65 +1,13 @@
-	YP_009509722.1|COX3	YP_009509723.1|ND3	YP_009509724.1|ND2	YP_009509725.1|COX1	YP_009509726.1|COX2	YP_009509727.1|ATP8	YP_009509728.1|ATP6	YP_009509729.1|ND1	YP_009509730.1|ND6	YP_009509731.1|CYTB	YP_009509732.1|ND4L	YP_009509734.1|ND5
-TTT	24	14	19	29	12	3	19	30	12	26	5	33
-TTC	3	0	5	11	1	1	1	3	1	6	0	15
-TTA	16	8	32	35	18	5	16	20	14	32	15	36
-TTG	0	3	11	11	2	1	3	5	1	4	0	6
-TCT	4	4	9	8	3	1	11	9	6	7	2	21
-TCC	0	0	5	1	0	2	1	4	2	2	1	6
-TCA	5	1	7	11	8	1	6	4	3	5	2	12
-TCG	1	1	2	2	2	1	3	4	0	0	0	3
-TAT	8	0	10	11	6	0	5	12	8	12	2	13
-TAC	2	0	4	7	3	0	2	5	2	6	2	3
-TGT	4	0	4	0	2	0	1	4	2	3	1	6
-TGC	0	1	1	1	2	0	0	1	0	0	1	1
-TGA	11	2	8	14	4	5	4	4	1	12	0	7
-TGG	3	1	3	3	2	1	0	3	0	2	0	5
-CTT	7	3	6	6	0	0	9	8	5	9	3	17
-CTC	1	2	3	3	0	0	0	3	4	3	0	15
-CTA	4	2	8	7	4	1	6	11	6	10	5	16
-CTG	3	3	1	5	1	0	3	2	2	1	0	5
-CCT	6	3	4	16	4	1	6	4	2	9	0	5
-CCC	3	0	2	2	2	0	2	3	3	3	0	8
-CCA	1	1	4	1	2	1	2	3	3	7	0	3
-CCG	1	0	0	4	3	0	0	2	0	2	0	6
-CAT	10	1	2	12	4	0	3	0	1	7	1	6
-CAC	2	0	2	7	2	0	1	0	0	6	1	5
-CAA	3	1	5	2	7	1	3	3	3	5	1	12
-CAG	3	0	4	4	0	0	1	2	0	3	0	2
-CGT	1	1	1	2	1	0	2	1	0	0	0	2
-CGC	0	0	0	0	1	0	0	0	1	3	0	1
-CGA	3	3	0	7	3	2	2	5	0	4	0	1
-CGG	1	0	0	3	1	0	0	1	0	1	1	1
-ATT	12	10	23	34	20	5	24	21	16	29	6	36
-ATC	1	2	6	3	1	0	3	2	3	6	1	11
-ATA	5	3	18	15	5	1	7	7	8	9	4	35
-ATG	2	2	8	10	4	1	5	6	4	1	1	6
-ACT	7	1	3	8	4	3	4	4	4	4	1	19
-ACC	3	0	1	4	0	0	0	2	0	3	2	4
-ACA	6	0	5	18	3	1	8	3	2	6	3	13
-ACG	1	0	1	1	2	1	0	0	2	4	0	1
-AAT	4	1	9	15	4	3	5	6	3	10	3	12
-AAC	0	0	3	2	4	1	2	1	0	7	0	13
-AAA	0	3	6	7	5	2	0	9	2	7	2	15
-AAG	1	0	6	2	0	0	1	2	1	0	0	3
-AGT	1	0	8	5	1	1	3	4	2	2	3	6
-AGC	3	1	3	1	0	0	1	2	2	1	0	4
-AGA	3	6	6	2	2	0	8	3	1	1	3	3
-AGG	1	2	4	3	1	0	1	2	0	2	2	5
-GTT	9	4	12	11	5	0	9	11	6	16	5	18
-GTC	0	2	1	4	2	0	2	1	0	1	0	1
-GTA	6	2	6	18	9	1	4	5	5	8	0	7
-GTG	4	0	1	6	6	0	2	1	1	2	0	0
-GCT	10	5	5	21	3	1	2	10	4	10	5	11
-GCC	3	0	0	13	2	0	3	8	1	3	2	12
-GCA	1	2	5	7	4	0	6	7	3	10	2	14
-GCG	5	0	2	5	2	0	1	3	0	3	0	2
-GAT	3	3	3	11	10	0	3	2	1	3	0	9
-GAC	1	1	0	5	1	0	2	2	2	6	1	4
-GAA	6	2	2	7	11	2	3	12	2	7	4	7
-GAG	3	3	2	2	3	0	0	1	0	0	0	0
-GGT	7	1	5	21	3	1	3	8	1	8	0	10
-GGC	1	1	5	3	2	0	1	0	2	3	1	4
-GGA	11	4	12	14	4	1	4	10	4	14	4	8
-GGG	9	1	9	8	5	0	4	2	2	3	0	8
-TAA	1	0	1	1	1	1	1	1	1	1	0	0
-TAG	0	1	0	0	0	0	0	0	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009509722.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	24	3	16	0	4	0	5	1	8	2	4	0	11	3	7	1	4	3	6	3	1	1	10	2	3	3	1	0	3	1	12	1	5	2	7	3	6	1	4	0	0	1	1	3	3	1	9	0	6	4	10	3	1	5	3	1	6	3	7	1	11	9	1	0
+1	ND3	YP_009509723.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	14	0	8	3	4	0	1	1	0	0	0	1	2	1	3	2	2	3	3	0	1	0	1	0	1	0	1	0	3	0	10	2	3	2	1	0	0	0	1	0	3	0	0	1	6	2	4	2	2	0	5	0	2	0	3	1	2	3	1	1	4	1	0	1
+2	ND2	YP_009509724.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	19	5	32	11	9	5	7	2	10	4	4	1	8	3	6	3	8	1	4	2	4	0	2	2	5	4	1	0	0	0	23	6	18	8	3	1	5	1	9	3	6	6	8	3	6	4	12	1	6	1	5	0	5	2	3	0	2	2	5	5	12	9	1	0
+3	COX1	YP_009509725.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	29	11	35	11	8	1	11	2	11	7	0	1	14	3	6	3	7	5	16	2	1	4	12	7	2	4	2	0	7	3	34	3	15	10	8	4	18	1	15	2	7	2	5	1	2	3	11	4	18	6	21	13	7	5	11	5	7	2	21	3	14	8	1	0
+4	COX2	YP_009509726.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	12	1	18	2	3	0	8	2	6	3	2	2	4	2	0	0	4	1	4	2	2	3	4	2	7	0	1	1	3	1	20	1	5	4	4	0	3	2	4	4	5	0	1	0	2	1	5	2	9	6	3	2	4	2	10	1	11	3	3	2	4	5	1	0
+5	ATP8	YP_009509727.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	3	1	5	1	1	2	1	1	0	0	0	0	5	1	0	0	1	0	1	0	1	0	0	0	1	0	0	0	2	0	5	0	1	1	3	0	1	1	3	1	2	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	2	0	1	0	1	0	1	0
+6	ATP6	YP_009509728.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	19	1	16	3	11	1	6	3	5	2	1	0	4	0	9	0	6	3	6	2	2	0	3	1	3	1	2	0	2	0	24	3	7	5	4	0	8	0	5	2	0	1	3	1	8	1	9	2	4	2	2	3	6	1	3	2	3	0	3	1	4	4	1	0
+7	ND1	YP_009509729.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	30	3	20	5	9	4	4	4	12	5	4	1	4	3	8	3	11	2	4	3	3	2	0	0	3	2	1	0	5	1	21	2	7	6	4	2	3	0	6	1	9	2	4	2	3	2	11	1	5	1	10	8	7	3	2	2	12	1	8	0	10	2	1	0
+8	ND6	YP_009509730.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	12	1	14	1	6	2	3	0	8	2	2	0	1	0	5	4	6	2	2	3	3	0	1	0	3	0	0	1	0	0	16	3	8	4	4	0	2	2	3	0	2	1	2	2	1	0	6	0	5	1	4	1	3	0	1	2	2	0	1	2	4	2	1	0
+9	CYTB	YP_009509731.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	26	6	32	4	7	2	5	0	12	6	3	0	12	2	9	3	10	1	9	3	7	2	7	6	5	3	0	3	4	1	29	6	9	1	4	3	6	4	10	7	7	0	2	1	1	2	16	1	8	2	10	3	10	3	3	6	7	0	8	3	14	3	1	0
+10	ND4L	YP_009509732.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	5	0	15	0	2	1	2	0	2	2	1	1	0	0	3	0	5	0	0	0	0	0	1	1	1	0	0	0	0	1	6	1	4	1	1	2	3	0	3	0	2	0	3	0	3	2	5	0	0	0	5	2	2	0	0	1	4	0	0	1	4	0	0	1
+11	ND5	YP_009509734.1	Antarctoneptunea benthicola	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Neogastropoda, Buccinoidea, Buccinidae, Antarctoneptunea	33	15	36	6	21	6	12	3	13	3	6	1	7	5	17	15	16	5	5	8	3	6	6	5	12	2	2	1	1	1	36	11	35	6	19	4	13	1	12	13	15	3	6	4	3	5	18	1	7	0	11	12	14	2	9	4	7	0	10	4	8	8	0	1

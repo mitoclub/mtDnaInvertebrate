@@ -1,65 +1,10 @@
-	YP_009536281.1|ND2	YP_009536282.1|COX1	YP_009536283.1|COX2	YP_009536284.1|ATP8	YP_009536285.1|ATP6	YP_009536286.1|COX3	YP_009536287.1|ND3	YP_009536291.1|ND6	YP_009536292.1|CYTB
-TTT	35	29	9	5	16	18	10	12	25
-TTC	5	12	3	0	2	8	0	4	7
-TTA	49	44	25	3	28	21	14	26	36
-TTG	0	1	0	0	0	0	0	0	0
-TCT	17	13	8	2	8	6	8	4	7
-TCC	0	0	1	0	0	1	2	3	0
-TCA	14	15	4	4	8	8	3	4	4
-TCG	1	1	0	0	0	0	0	0	0
-TAT	14	12	9	2	3	6	0	5	13
-TAC	1	5	1	0	2	4	1	2	4
-TGT	0	0	2	0	0	0	2	1	2
-TGC	0	0	0	0	1	1	0	0	1
-TGA	9	13	6	3	5	13	3	2	13
-TGG	0	1	0	0	0	0	0	0	0
-CTT	6	11	4	1	6	5	2	3	9
-CTC	0	0	0	0	1	0	1	0	1
-CTA	5	7	3	0	5	2	2	4	8
-CTG	0	0	0	0	1	0	0	0	0
-CCT	4	12	6	4	7	2	3	2	13
-CCC	1	1	0	0	1	0	0	0	1
-CCA	3	12	5	1	3	8	1	2	9
-CCG	0	0	0	0	0	0	0	0	0
-CAT	4	14	6	0	5	12	0	0	11
-CAC	0	2	0	0	1	4	1	1	0
-CAA	6	12	7	2	4	7	1	3	6
-CAG	0	0	0	0	0	0	0	0	1
-CGT	1	1	1	0	0	1	1	0	0
-CGC	0	0	0	0	0	0	0	0	1
-CGA	1	8	6	0	3	3	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	26	46	24	6	17	18	20	19	38
-ATC	1	1	2	1	1	3	1	2	6
-ATA	30	25	8	5	13	6	6	17	13
-ATG	2	1	1	0	1	2	0	0	1
-ACT	8	18	6	0	11	13	1	6	10
-ACC	0	3	0	0	0	0	0	1	1
-ACA	11	17	6	0	8	10	6	10	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	22	17	13	4	14	9	4	9	17
-AAC	3	2	3	0	0	0	0	2	6
-AAA	11	5	3	3	2	2	5	8	5
-AAG	1	1	1	0	0	0	0	1	2
-AGT	2	7	2	2	3	1	0	0	1
-AGC	0	1	0	0	1	1	1	0	0
-AGA	5	1	3	0	4	3	0	1	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	10	3	1	2	9	1	3	11
-GTC	0	1	0	0	1	0	0	0	1
-GTA	4	22	9	1	9	8	3	3	15
-GTG	1	0	2	0	0	0	0	0	0
-GCT	10	21	2	1	6	10	0	3	12
-GCC	2	3	1	0	1	2	0	0	1
-GCA	2	13	4	1	5	4	2	0	9
-GCG	0	0	0	0	0	0	0	0	0
-GAT	2	14	9	0	1	4	3	1	7
-GAC	0	1	2	0	0	0	0	1	3
-GAA	4	9	9	1	4	8	4	3	4
-GAG	1	0	0	0	0	0	0	0	0
-GGT	4	8	3	1	2	4	1	0	3
-GGC	0	0	0	0	0	0	0	0	1
-GGA	9	36	6	0	9	14	2	5	20
-GGG	0	2	1	0	0	1	0	0	1
-TAA	1	0	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009536281.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	35	5	49	0	17	0	14	1	14	1	0	0	9	0	6	0	5	0	4	1	3	0	4	0	6	0	1	0	1	0	26	1	30	2	8	0	11	0	22	3	11	1	2	0	5	0	1	0	4	1	10	2	2	0	2	0	4	1	4	0	9	0	1	0
+1	COX1	YP_009536282.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	29	12	44	1	13	0	15	1	12	5	0	0	13	1	11	0	7	0	12	1	12	0	14	2	12	0	1	0	8	0	46	1	25	1	18	3	17	0	17	2	5	1	7	1	1	0	10	1	22	0	21	3	13	0	14	1	9	0	8	0	36	2	0	0
+2	COX2	YP_009536283.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	9	3	25	0	8	1	4	0	9	1	2	0	6	0	4	0	3	0	6	0	5	0	6	0	7	0	1	0	6	0	24	2	8	1	6	0	6	0	13	3	3	1	2	0	3	0	3	0	9	2	2	1	4	0	9	2	9	0	3	0	6	1	0	0
+3	ATP8	YP_009536284.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	5	0	3	0	2	0	4	0	2	0	0	0	3	0	1	0	0	0	4	0	1	0	0	0	2	0	0	0	0	0	6	1	5	0	0	0	0	0	4	0	3	0	2	0	0	0	1	0	1	0	1	0	1	0	0	0	1	0	1	0	0	0	1	0
+4	ATP6	YP_009536285.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	16	2	28	0	8	0	8	0	3	2	0	1	5	0	6	1	5	1	7	1	3	0	5	1	4	0	0	0	3	0	17	1	13	1	11	0	8	0	14	0	2	0	3	1	4	0	2	1	9	0	6	1	5	0	1	0	4	0	2	0	9	0	1	0
+5	COX3	YP_009536286.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	18	8	21	0	6	1	8	0	6	4	0	1	13	0	5	0	2	0	2	0	8	0	12	4	7	0	1	0	3	0	18	3	6	2	13	0	10	0	9	0	2	0	1	1	3	0	9	0	8	0	10	2	4	0	4	0	8	0	4	0	14	1	1	0
+6	ND3	YP_009536287.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	10	0	14	0	8	2	3	0	0	1	2	0	3	0	2	1	2	0	3	0	1	0	0	1	1	0	1	0	2	0	20	1	6	0	1	0	6	0	4	0	5	0	0	1	0	0	1	0	3	0	0	0	2	0	3	0	4	0	1	0	2	0	1	0
+7	ND6	YP_009536291.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	12	4	26	0	4	3	4	0	5	2	1	0	2	0	3	0	4	0	2	0	2	0	0	1	3	0	0	0	1	0	19	2	17	0	6	1	10	0	9	2	8	1	0	0	1	0	3	0	3	0	3	0	0	0	1	1	3	0	0	0	5	0	1	0
+8	CYTB	YP_009536292.1	Sarcophaga dux	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Sarcophagidae, Sarcophaga, Liosarcophaga	25	7	36	0	7	0	4	0	13	4	2	1	13	0	9	1	8	0	13	1	9	0	11	0	6	1	0	1	7	0	38	6	13	1	10	1	9	0	17	6	5	2	1	0	2	0	11	1	15	0	12	1	9	0	7	3	4	0	3	1	20	1	0	1

@@ -1,65 +1,13 @@
-	YP_003331081.1|ND1	YP_003331082.1|ND2	YP_003331083.1|COX1	YP_003331084.1|COX2	YP_003331085.1|ATP8	YP_003331086.1|ATP6	YP_003331087.1|COX3	YP_003331088.1|ND3	YP_003331089.1|ND4L	YP_003331090.1|ND4	YP_003331091.1|ND5	YP_003331093.1|CYTB
-TTT	6	3	21	5	3	6	8	3	2	8	20	5
-TTC	13	5	20	4	2	7	15	5	4	10	21	23
-TTA	11	11	10	5	1	6	4	6	3	10	8	5
-TTG	1	1	3	0	0	3	0	0	0	1	0	0
-TCT	1	2	7	0	1	2	1	1	1	3	10	6
-TCC	12	6	10	6	0	1	4	3	1	13	10	9
-TCA	5	5	9	8	0	0	6	1	4	6	6	3
-TCG	0	1	3	0	0	0	0	0	1	1	1	1
-TAT	4	2	4	4	0	4	1	0	1	8	4	3
-TAC	9	6	14	5	0	1	10	2	0	6	7	13
-TGT	0	1	0	0	0	0	1	1	1	3	2	1
-TGC	0	1	1	2	0	0	2	0	2	2	4	2
-TGA	8	10	15	5	5	3	12	4	1	17	12	13
-TGG	0	1	2	0	0	2	0	1	0	3	2	1
-CTT	9	10	11	10	1	14	3	7	3	18	22	11
-CTC	23	20	20	7	0	9	11	4	6	29	25	17
-CTA	18	31	16	5	3	18	13	8	10	23	33	22
-CTG	2	2	6	1	0	2	3	3	2	8	6	4
-CCT	7	3	6	1	1	3	1	1	0	2	4	3
-CCC	11	13	10	7	5	9	7	6	2	16	15	11
-CCA	4	5	9	3	2	4	5	1	0	6	11	7
-CCG	2	0	3	3	1	2	0	0	0	4	0	1
-CAT	0	0	1	2	0	0	3	0	1	2	2	2
-CAC	4	8	18	8	2	3	13	0	3	9	11	10
-CAA	6	10	7	8	1	8	6	3	3	10	17	6
-CAG	1	3	1	0	0	1	2	0	0	2	4	1
-CGT	0	2	2	3	0	1	0	0	0	1	1	0
-CGC	3	0	2	0	0	1	1	1	2	4	2	0
-CGA	4	2	4	3	0	3	4	1	1	6	3	8
-CGG	1	0	0	0	0	0	0	0	0	0	4	0
-ATT	7	5	20	9	2	7	7	3	1	17	15	8
-ATC	15	15	15	12	2	11	7	4	1	20	30	17
-ATA	7	14	17	9	1	8	5	1	1	18	22	10
-ATG	1	2	8	4	1	3	3	2	4	7	7	1
-ACT	3	5	6	3	0	4	4	0	0	5	8	2
-ACC	9	26	7	4	4	12	9	7	3	14	39	17
-ACA	7	12	15	4	1	7	10	3	3	19	13	9
-ACG	0	0	5	1	0	0	0	0	0	2	3	0
-AAT	2	0	6	1	0	1	0	0	0	5	6	6
-AAC	9	10	9	4	3	7	2	2	2	5	25	11
-AAA	6	8	7	3	3	0	2	1	0	9	17	6
-AAG	1	1	1	1	0	1	0	0	0	1	2	2
-AGT	0	0	1	0	0	0	0	0	0	6	0	0
-AGC	3	5	4	3	1	5	3	0	3	3	12	4
-GTT	0	1	5	3	0	1	3	1	1	3	7	4
-GTC	10	1	18	5	0	4	9	3	0	4	13	15
-GTA	8	8	15	4	0	4	2	2	0	5	5	9
-GTG	4	1	5	3	2	3	3	0	0	2	4	0
-GCT	3	2	9	1	0	4	2	0	2	3	4	0
-GCC	19	27	26	7	2	8	10	7	7	26	39	18
-GCA	10	17	11	6	1	7	7	2	6	10	17	10
-GCG	2	0	0	2	0	0	0	0	0	1	0	2
-GAT	0	1	4	3	0	1	1	2	0	1	5	2
-GAC	4	2	10	10	0	0	4	2	1	3	7	7
-GAA	11	4	7	14	3	3	7	6	1	8	10	6
-GAG	0	1	4	1	0	1	3	0	2	3	2	1
-GGT	4	1	9	1	0	1	2	1	0	4	3	4
-GGC	6	4	13	2	0	5	7	2	1	10	14	8
-GGA	5	6	12	3	1	5	9	1	4	11	9	8
-GGG	3	5	12	2	0	1	4	2	1	4	7	5
-TAA	1	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003331081.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	6	13	11	1	1	12	5	0	4	9	0	0	8	0	9	23	18	2	7	11	4	2	0	4	6	1	0	3	4	1	7	15	7	1	3	9	7	0	2	9	6	1	0	3	0	10	8	4	3	19	10	2	0	4	11	0	4	6	5	3	1	0	0	0
+1	ND2	YP_003331082.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	3	5	11	1	2	6	5	1	2	6	1	1	10	1	10	20	31	2	3	13	5	0	0	8	10	3	2	0	2	0	5	15	14	2	5	26	12	0	0	10	8	1	0	5	1	1	8	1	2	27	17	0	1	2	4	1	1	4	6	5	0	0	0	0
+2	COX1	YP_003331083.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	21	20	10	3	7	10	9	3	4	14	0	1	15	2	11	20	16	6	6	10	9	3	1	18	7	1	2	2	4	0	20	15	17	8	6	7	15	5	6	9	7	1	1	4	5	18	15	5	9	26	11	0	4	10	7	4	9	13	12	12	1	0	0	0
+3	COX2	YP_003331084.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	5	4	5	0	0	6	8	0	4	5	0	2	5	0	10	7	5	1	1	7	3	3	2	8	8	0	3	0	3	0	9	12	9	4	3	4	4	1	1	4	3	1	0	3	3	5	4	3	1	7	6	2	3	10	14	1	1	2	3	2	0	0	0	0
+4	ATP8	YP_003331085.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	3	2	1	0	1	0	0	0	0	0	0	0	5	0	1	0	3	0	1	5	2	1	0	2	1	0	0	0	0	0	2	2	1	1	0	4	1	0	0	3	3	0	0	1	0	0	0	2	0	2	1	0	0	0	3	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_003331086.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	6	7	6	3	2	1	0	0	4	1	0	0	3	2	14	9	18	2	3	9	4	2	0	3	8	1	1	1	3	0	7	11	8	3	4	12	7	0	1	7	0	1	0	5	1	4	4	3	4	8	7	0	1	0	3	1	1	5	5	1	0	0	0	0
+6	COX3	YP_003331087.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	8	15	4	0	1	4	6	0	1	10	1	2	12	0	3	11	13	3	1	7	5	0	3	13	6	2	0	1	4	0	7	7	5	3	4	9	10	0	0	2	2	0	0	3	3	9	2	3	2	10	7	0	1	4	7	3	2	7	9	4	0	0	0	0
+7	ND3	YP_003331088.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	3	5	6	0	1	3	1	0	0	2	1	0	4	1	7	4	8	3	1	6	1	0	0	0	3	0	0	1	1	0	3	4	1	2	0	7	3	0	0	2	1	0	0	0	1	3	2	0	0	7	2	0	2	2	6	0	1	2	1	2	0	0	0	0
+8	ND4L	YP_003331089.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	2	4	3	0	1	1	4	1	1	0	1	2	1	0	3	6	10	2	0	2	0	0	1	3	3	0	0	2	1	0	1	1	1	4	0	3	3	0	0	2	0	0	0	3	1	0	0	0	2	7	6	0	0	1	1	2	0	1	4	1	1	0	0	0
+9	ND4	YP_003331090.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	8	10	10	1	3	13	6	1	8	6	3	2	17	3	18	29	23	8	2	16	6	4	2	9	10	2	1	4	6	0	17	20	18	7	5	14	19	2	5	5	9	1	6	3	3	4	5	2	3	26	10	1	1	3	8	3	4	10	11	4	0	0	0	0
+10	ND5	YP_003331091.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	20	21	8	0	10	10	6	1	4	7	2	4	12	2	22	25	33	6	4	15	11	0	2	11	17	4	1	2	3	4	15	30	22	7	8	39	13	3	6	25	17	2	0	12	7	13	5	4	4	39	17	0	5	7	10	2	3	14	9	7	1	0	0	0
+11	CYTB	YP_003331093.1	Narcetes stomias	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Alepocephali, Alepocephaliformes, Alepocephalidae, Narcetes	5	23	5	0	6	9	3	1	3	13	1	2	13	1	11	17	22	4	3	11	7	1	2	10	6	1	0	0	8	0	8	17	10	1	2	17	9	0	6	11	6	2	0	4	4	15	9	0	0	18	10	2	2	7	6	1	4	8	8	5	0	0	0	0

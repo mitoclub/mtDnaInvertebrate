@@ -1,65 +1,13 @@
-	YP_009109346.1|ND1	YP_009109347.1|ND2	YP_009109348.1|COX1	YP_009109349.1|COX2	YP_009109350.1|ATP8	YP_009109351.1|ATP6	YP_009109352.1|COX3	YP_009109353.1|ND3	YP_009109354.1|ND4L	YP_009109355.1|ND4	YP_009109356.1|ND5	YP_009109358.1|CYTB
-TTT	8	3	22	4	0	4	7	3	2	9	14	10
-TTC	10	8	20	3	0	5	10	2	1	9	16	23
-TTA	12	8	9	3	1	3	3	0	5	8	13	9
-TTG	1	0	1	0	0	1	0	0	1	2	1	0
-TCT	8	5	3	2	0	2	1	2	1	2	8	6
-TCC	8	8	15	4	1	4	2	1	1	9	12	8
-TCA	11	5	9	5	0	7	10	1	3	12	21	11
-TCG	1	1	1	2	0	0	0	0	0	0	2	0
-TAT	4	3	10	2	1	0	5	1	0	7	3	6
-TAC	6	3	10	8	1	5	8	2	1	3	6	8
-TGT	1	0	1	1	0	1	0	1	0	0	0	0
-TGC	1	1	1	2	0	0	1	0	2	4	2	2
-TGA	7	8	17	4	3	1	12	2	0	9	8	11
-TGG	1	1	2	1	0	2	0	1	0	1	1	0
-CTT	4	8	7	5	4	11	4	5	5	9	21	10
-CTC	11	8	9	4	1	12	9	5	1	22	20	12
-CTA	33	22	32	15	4	22	19	10	8	35	32	14
-CTG	1	4	2	2	2	2	0	2	2	12	6	3
-CCT	2	6	4	2	3	1	1	1	0	1	4	4
-CCC	13	6	15	6	0	5	4	2	1	14	12	7
-CCA	4	9	13	4	3	8	6	4	1	7	9	10
-CCG	2	1	2	2	0	0	0	0	0	2	0	0
-CAT	0	3	1	4	0	0	3	0	0	2	6	4
-CAC	2	8	18	5	1	4	11	0	3	10	10	11
-CAA	5	4	5	9	3	5	7	1	2	12	17	6
-CAG	2	2	3	1	0	1	0	1	0	2	4	0
-CGT	0	0	2	0	0	1	0	0	0	0	0	2
-CGC	1	1	3	1	0	0	2	1	0	2	1	1
-CGA	6	3	3	5	0	1	3	0	1	7	5	2
-CGG	0	0	1	0	0	1	0	0	0	0	0	1
-ATT	7	6	18	5	3	7	10	8	2	13	33	16
-ATC	16	25	30	9	0	14	6	8	7	24	33	23
-ATA	18	23	27	7	2	12	9	4	8	32	37	13
-ATG	1	5	5	3	1	2	1	0	1	4	5	2
-ACT	3	4	14	2	1	1	5	2	1	5	12	4
-ACC	11	26	16	6	4	9	11	4	9	22	26	18
-ACA	15	23	13	12	5	9	12	7	3	27	36	16
-ACG	0	5	2	1	0	1	1	1	0	4	0	0
-AAT	2	3	7	2	0	3	1	2	1	3	14	9
-AAC	14	16	11	2	0	7	4	3	2	10	18	11
-AAA	6	11	9	3	4	5	5	2	3	11	21	7
-AAG	2	2	4	0	1	1	0	0	0	0	3	1
-AGT	0	0	0	0	0	3	0	0	2	1	3	0
-AGC	0	5	6	1	0	4	3	2	0	6	8	0
-GTT	1	1	7	3	1	3	1	1	2	1	2	2
-GTC	1	2	10	4	0	2	6	1	2	4	1	4
-GTA	5	2	9	6	1	3	8	1	0	3	5	4
-GTG	1	1	2	2	0	0	2	0	1	0	0	0
-GCT	1	5	2	1	0	2	1	0	0	3	5	3
-GCC	12	10	15	8	2	13	5	3	1	19	18	15
-GCA	5	10	16	9	0	3	9	4	3	11	15	8
-GCG	1	3	2	1	0	0	0	0	1	1	1	0
-GAT	1	0	5	0	0	0	2	1	0	1	4	2
-GAC	2	1	8	9	1	0	3	2	1	2	6	4
-GAA	11	6	7	15	0	7	6	4	2	7	11	6
-GAG	1	0	1	1	0	0	2	1	0	3	1	1
-GGT	1	2	3	2	0	0	1	0	0	2	4	5
-GGC	5	2	12	5	0	2	8	4	1	5	8	10
-GGA	9	4	17	0	0	4	9	1	1	7	7	5
-GGG	3	1	14	3	0	0	2	0	1	2	4	1
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	1	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009109346.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	8	10	12	1	8	8	11	1	4	6	1	1	7	1	4	11	33	1	2	13	4	2	0	2	5	2	0	1	6	0	7	16	18	1	3	11	15	0	2	14	6	2	0	0	1	1	5	1	1	12	5	1	1	2	11	1	1	5	9	3	0	0	0	0
+1	ND2	YP_009109347.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	3	8	8	0	5	8	5	1	3	3	0	1	8	1	8	8	22	4	6	6	9	1	3	8	4	2	0	1	3	0	6	25	23	5	4	26	23	5	3	16	11	2	0	5	1	2	2	1	5	10	10	3	0	1	6	0	2	2	4	1	0	0	0	0
+2	COX1	YP_009109348.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	22	20	9	1	3	15	9	1	10	10	1	1	17	2	7	9	32	2	4	15	13	2	1	18	5	3	2	3	3	1	18	30	27	5	14	16	13	2	7	11	9	4	0	6	7	10	9	2	2	15	16	2	5	8	7	1	3	12	17	14	0	0	1	0
+3	COX2	YP_009109349.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	4	3	3	0	2	4	5	2	2	8	1	2	4	1	5	4	15	2	2	6	4	2	4	5	9	1	0	1	5	0	5	9	7	3	2	6	12	1	2	2	3	0	0	1	3	4	6	2	1	8	9	1	0	9	15	1	2	5	0	3	0	0	0	0
+4	ATP8	YP_009109350.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	0	0	1	0	0	1	0	0	1	1	0	0	3	0	4	1	4	2	3	0	3	0	0	1	3	0	0	0	0	0	3	0	2	1	1	4	5	0	0	0	4	1	0	0	1	0	1	0	0	2	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009109351.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	4	5	3	1	2	4	7	0	0	5	1	0	1	2	11	12	22	2	1	5	8	0	0	4	5	1	1	0	1	1	7	14	12	2	1	9	9	1	3	7	5	1	3	4	3	2	3	0	2	13	3	0	0	0	7	0	0	2	4	0	1	0	0	0
+6	COX3	YP_009109352.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	7	10	3	0	1	2	10	0	5	8	0	1	12	0	4	9	19	0	1	4	6	0	3	11	7	0	0	2	3	0	10	6	9	1	5	11	12	1	1	4	5	0	0	3	1	6	8	2	1	5	9	0	2	3	6	2	1	8	9	2	0	0	0	0
+7	ND3	YP_009109353.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	3	2	0	0	2	1	1	0	1	2	1	0	2	1	5	5	10	2	1	2	4	0	0	0	1	1	0	1	0	0	8	8	4	0	2	4	7	1	2	3	2	0	0	2	1	1	1	0	0	3	4	0	1	2	4	1	0	4	1	0	0	0	0	0
+8	ND4L	YP_009109354.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	2	1	5	1	1	1	3	0	0	1	0	2	0	0	5	1	8	2	0	1	1	0	0	3	2	0	0	0	1	0	2	7	8	1	1	9	3	0	1	2	3	0	2	0	2	2	0	1	0	1	3	1	0	1	2	0	0	1	1	1	1	0	0	0
+9	ND4	YP_009109355.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	9	9	8	2	2	9	12	0	7	3	0	4	9	1	9	22	35	12	1	14	7	2	2	10	12	2	0	2	7	0	13	24	32	4	5	22	27	4	3	10	11	0	1	6	1	4	3	0	3	19	11	1	1	2	7	3	2	5	7	2	0	0	1	0
+10	ND5	YP_009109356.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	14	16	13	1	8	12	21	2	3	6	0	2	8	1	21	20	32	6	4	12	9	0	6	10	17	4	0	1	5	0	33	33	37	5	12	26	36	0	14	18	21	3	3	8	2	1	5	0	5	18	15	1	4	6	11	1	4	8	7	4	1	0	0	0
+11	CYTB	YP_009109358.1	Gloydius saxatilis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Serpentes, Colubroidea, Viperidae, Crotalinae, Gloydius	10	23	9	0	6	8	11	0	6	8	0	2	11	0	10	12	14	3	4	7	10	0	4	11	6	0	2	1	2	1	16	23	13	2	4	18	16	0	9	11	7	1	0	0	2	4	4	0	3	15	8	0	2	4	6	1	5	10	5	1	0	0	0	0

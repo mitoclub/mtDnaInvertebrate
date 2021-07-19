@@ -1,65 +1,13 @@
-	YP_009739231.1|ND1	YP_009739232.1|ND2	YP_009739233.1|COX1	YP_009739234.1|COX2	YP_009739235.1|ATP8	YP_009739236.1|ATP6	YP_009739237.1|COX3	YP_009739238.1|ND3	YP_009739239.1|ND4L	YP_009739240.1|ND4	YP_009739241.1|ND5	YP_009739243.1|CYTB
-TTT	12	4	17	4	1	6	9	5	3	9	15	10
-TTC	7	6	24	5	3	2	14	2	5	7	22	20
-TTA	21	20	18	7	3	17	10	8	9	25	21	20
-TTG	1	0	3	0	0	0	0	1	0	2	1	0
-TCT	1	2	6	2	1	2	2	1	0	2	9	6
-TCC	8	5	7	6	0	0	1	2	2	13	7	11
-TCA	9	5	10	5	1	4	9	3	5	5	14	5
-TCG	0	1	0	0	0	0	0	1	0	0	0	0
-TAT	5	2	7	4	0	3	4	2	0	8	3	4
-TAC	7	6	12	5	0	2	8	1	0	6	7	10
-TGT	0	0	0	2	0	0	0	1	2	0	1	0
-TGC	0	1	1	0	0	0	2	0	1	4	5	3
-TGA	8	11	17	5	4	3	10	5	1	18	15	11
-TGG	0	0	0	0	1	1	2	0	0	3	0	1
-CTT	5	7	10	6	3	4	3	4	0	3	14	5
-CTC	4	6	3	4	0	5	4	3	2	7	13	7
-CTA	26	31	26	11	1	24	15	13	11	44	44	29
-CTG	1	1	1	0	0	2	1	0	1	4	1	2
-CCT	2	2	6	4	2	4	1	3	0	6	7	2
-CCC	8	6	6	5	2	6	5	3	0	8	7	3
-CCA	13	13	16	4	2	5	6	3	2	9	16	16
-CCG	0	0	0	1	0	1	0	0	0	2	0	0
-CAT	1	1	7	5	0	1	7	0	1	7	5	3
-CAC	3	7	12	5	2	2	9	0	2	5	11	9
-CAA	5	16	7	6	2	11	7	1	4	13	15	7
-CAG	2	0	1	2	0	0	2	1	0	0	0	0
-CGT	2	0	1	0	0	0	1	0	0	1	0	0
-CGC	0	0	1	1	0	1	0	2	1	0	1	1
-CGA	6	4	6	5	0	4	2	0	1	10	9	6
-CGG	0	0	0	0	0	0	2	0	0	0	0	0
-ATT	17	21	28	14	1	15	9	3	2	20	35	16
-ATC	8	9	12	4	3	9	5	5	0	21	30	15
-ATA	13	20	22	10	0	5	6	3	3	26	24	10
-ATG	1	2	4	2	1	2	2	1	1	4	3	1
-ACT	1	12	10	4	1	3	5	1	1	3	16	3
-ACC	14	9	6	4	1	7	8	3	3	15	27	9
-ACA	8	25	21	4	2	17	10	3	7	22	22	10
-ACG	1	0	1	0	0	0	0	0	0	2	0	0
-AAT	2	5	8	3	3	5	1	2	0	5	6	3
-AAC	10	7	7	3	1	5	0	1	1	10	23	17
-AAA	7	9	8	4	3	2	2	1	0	11	22	9
-AAG	0	0	0	0	0	0	0	0	0	0	2	0
-AGT	0	0	1	0	1	0	0	0	0	4	1	0
-AGC	2	8	2	3	1	4	3	0	2	2	8	0
-GTT	4	1	9	5	0	1	3	0	1	5	2	5
-GTC	1	1	3	2	1	3	4	1	0	3	2	4
-GTA	11	4	25	14	3	6	9	3	1	10	15	14
-GTG	1	0	4	0	0	0	1	0	0	0	1	1
-GCT	7	8	19	3	0	1	7	2	3	6	10	5
-GCC	18	14	19	7	1	6	4	3	8	11	18	9
-GCA	9	14	9	4	1	11	10	3	3	15	18	15
-GCG	0	1	0	1	0	0	0	0	0	1	1	0
-GAT	2	0	9	5	0	0	1	2	0	2	3	4
-GAC	2	1	6	7	1	1	4	2	1	3	12	7
-GAA	9	4	10	14	2	4	10	6	2	9	11	6
-GAG	2	0	1	1	0	0	0	0	1	1	0	0
-GGT	0	2	12	3	0	1	4	2	1	5	6	6
-GGC	7	6	5	0	0	2	6	2	1	5	6	5
-GGA	9	8	26	4	0	5	10	2	3	16	16	12
-GGG	1	0	4	1	0	2	1	0	0	2	2	2
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009739231.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	12	7	21	1	1	8	9	0	5	7	0	0	8	0	5	4	26	1	2	8	13	0	1	3	5	2	2	0	6	0	17	8	13	1	1	14	8	1	2	10	7	0	0	2	4	1	11	1	7	18	9	0	2	2	9	2	0	7	9	1	0	0	0	0
+1	ND2	YP_009739232.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	4	6	20	0	2	5	5	1	2	6	0	1	11	0	7	6	31	1	2	6	13	0	1	7	16	0	0	0	4	0	21	9	20	2	12	9	25	0	5	7	9	0	0	8	1	1	4	0	8	14	14	1	0	1	4	0	2	6	8	0	0	0	0	0
+2	COX1	YP_009739233.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	17	24	18	3	6	7	10	0	7	12	0	1	17	0	10	3	26	1	6	6	16	0	7	12	7	1	1	1	6	0	28	12	22	4	10	6	21	1	8	7	8	0	1	2	9	3	25	4	19	19	9	0	9	6	10	1	12	5	26	4	1	0	0	0
+3	COX2	YP_009739234.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	4	5	7	0	2	6	5	0	4	5	2	0	5	0	6	4	11	0	4	5	4	1	5	5	6	2	0	1	5	0	14	4	10	2	4	4	4	0	3	3	4	0	0	3	5	2	14	0	3	7	4	1	5	7	14	1	3	0	4	1	0	0	0	0
+4	ATP8	YP_009739235.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	1	3	3	0	1	0	1	0	0	0	0	0	4	1	3	0	1	0	2	2	2	0	0	2	2	0	0	0	0	0	1	3	0	1	1	1	2	0	3	1	3	0	1	1	0	1	3	0	0	1	1	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009739236.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	6	2	17	0	2	0	4	0	3	2	0	0	3	1	4	5	24	2	4	6	5	1	1	2	11	0	0	1	4	0	15	9	5	2	3	7	17	0	5	5	2	0	0	4	1	3	6	0	1	6	11	0	0	1	4	0	1	2	5	2	0	0	0	0
+6	COX3	YP_009739237.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	9	14	10	0	2	1	9	0	4	8	0	2	10	2	3	4	15	1	1	5	6	0	7	9	7	2	1	0	2	2	9	5	6	2	5	8	10	0	1	0	2	0	0	3	3	4	9	1	7	4	10	0	1	4	10	0	4	6	10	1	0	0	0	0
+7	ND3	YP_009739238.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	5	2	8	1	1	2	3	1	2	1	1	0	5	0	4	3	13	0	3	3	3	0	0	0	1	1	0	2	0	0	3	5	3	1	1	3	3	0	2	1	1	0	0	0	0	1	3	0	2	3	3	0	2	2	6	0	2	2	2	0	0	0	0	0
+8	ND4L	YP_009739239.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	3	5	9	0	0	2	5	0	0	0	2	1	1	0	0	2	11	1	0	0	2	0	1	2	4	0	0	1	1	0	2	0	3	1	1	3	7	0	0	1	0	0	0	2	1	0	1	0	3	8	3	0	0	1	2	1	1	1	3	0	1	0	0	0
+9	ND4	YP_009739240.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	9	7	25	2	2	13	5	0	8	6	0	4	18	3	3	7	44	4	6	8	9	2	7	5	13	0	1	0	10	0	20	21	26	4	3	15	22	2	5	10	11	0	4	2	5	3	10	0	6	11	15	1	2	3	9	1	5	5	16	2	0	0	0	0
+10	ND5	YP_009739241.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	15	22	21	1	9	7	14	0	3	7	1	5	15	0	14	13	44	1	7	7	16	0	5	11	15	0	0	1	9	0	35	30	24	3	16	27	22	0	6	23	22	2	1	8	2	2	15	1	10	18	18	1	3	12	11	0	6	6	16	2	1	0	0	0
+11	CYTB	YP_009739243.1	Ailia coila	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Schilbeidae, Ailia	10	20	20	0	6	11	5	0	4	10	0	3	11	1	5	7	29	2	2	3	16	0	3	9	7	0	0	1	6	0	16	15	10	1	3	9	10	0	3	17	9	0	0	0	5	4	14	1	5	9	15	0	4	7	6	0	6	5	12	2	0	0	0	0

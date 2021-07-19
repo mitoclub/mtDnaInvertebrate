@@ -1,65 +1,13 @@
-	YP_007625107.1|ND1	YP_007625108.1|ND2	YP_007625109.1|COX1	YP_007625110.1|COX2	YP_007625111.1|ATP8	YP_007625112.1|ATP6	YP_007625113.1|COX3	YP_007625114.1|ND3	YP_007625115.1|ND4L	YP_007625116.1|ND4	YP_007625117.1|ND5	YP_007625119.1|CYTB
-TTT	12	10	21	4	3	5	10	4	1	5	17	8
-TTC	8	4	21	1	1	7	14	4	3	16	28	17
-TTA	2	6	8	8	2	5	2	2	5	8	6	3
-TTG	3	2	2	1	1	4	0	1	0	0	1	0
-TCT	0	3	3	2	0	3	3	1	1	6	3	5
-TCC	6	10	12	5	0	1	4	0	8	14	16	3
-TCA	12	11	11	9	4	5	8	3	0	8	15	10
-TCG	1	3	1	0	0	0	1	0	0	0	2	1
-TAT	7	2	8	6	1	1	5	1	2	6	10	6
-TAC	4	6	11	4	0	1	6	2	2	10	9	9
-TGT	0	0	0	0	1	0	0	1	0	0	1	1
-TGC	1	0	1	2	0	0	2	0	3	3	4	3
-TGA	9	9	15	4	3	3	10	4	0	10	11	12
-TGG	0	1	2	1	0	0	2	0	0	3	1	0
-CTT	4	4	7	2	2	3	7	3	3	12	14	3
-CTC	12	9	9	4	1	12	8	8	2	14	18	16
-CTA	29	24	26	12	5	15	14	11	10	56	42	29
-CTG	7	8	8	7	1	7	1	2	2	6	8	7
-CCT	3	0	8	0	2	3	1	1	1	2	4	2
-CCC	9	7	9	4	1	3	7	3	0	10	15	7
-CCA	8	11	11	8	2	6	4	2	0	8	7	12
-CCG	2	0	0	1	1	0	0	0	0	0	1	1
-CAT	2	1	3	3	0	0	7	0	0	2	1	0
-CAC	2	4	14	5	2	6	9	0	2	10	12	12
-CAA	7	10	3	6	3	6	6	2	2	10	15	5
-CAG	0	0	3	0	0	3	1	1	0	0	4	1
-CGT	0	0	1	1	0	0	1	0	0	2	0	0
-CGC	1	0	1	0	0	2	2	1	0	2	6	0
-CGA	6	3	6	3	0	1	2	0	1	6	3	8
-CGG	1	0	0	2	0	1	0	0	0	0	0	0
-ATT	14	19	20	4	2	7	8	0	3	19	23	14
-ATC	15	17	17	13	3	14	7	4	2	24	38	25
-ATA	14	35	25	9	1	8	7	7	8	23	31	11
-ATG	5	7	8	8	2	5	3	0	4	8	7	5
-ACT	3	7	5	1	0	3	3	2	1	2	6	2
-ACC	5	12	15	6	2	8	10	5	2	13	17	8
-ACA	11	21	17	8	5	13	9	5	2	19	27	13
-ACG	1	0	1	3	1	0	2	1	1	1	4	3
-AAT	3	4	7	1	2	3	3	0	0	6	12	2
-AAC	9	12	12	4	1	9	4	4	5	16	23	16
-AAA	5	11	7	6	5	3	2	3	0	10	19	8
-AAG	2	2	2	0	1	1	0	0	0	1	3	1
-AGT	2	2	0	1	0	2	0	0	0	1	2	0
-AGC	2	1	3	4	0	3	4	2	1	10	9	3
-GTT	3	4	9	4	0	2	2	0	1	3	2	2
-GTC	4	5	6	2	1	2	6	1	0	3	7	8
-GTA	7	2	17	6	1	7	6	2	3	10	6	7
-GTG	1	0	6	1	0	1	1	1	2	1	1	2
-GCT	0	2	7	2	0	2	3	1	0	4	1	3
-GCC	13	10	14	0	0	9	8	7	2	12	15	8
-GCA	13	7	17	3	0	6	5	2	5	12	23	16
-GCG	2	0	3	3	0	0	0	0	1	1	4	0
-GAT	2	0	4	4	0	1	1	0	0	1	1	3
-GAC	1	0	11	7	1	0	2	2	1	3	9	8
-GAA	9	5	7	12	2	3	7	5	1	8	8	5
-GAG	2	0	2	2	0	0	1	1	1	0	4	1
-GGT	1	0	7	1	0	3	1	0	1	2	1	2
-GGC	5	5	12	2	0	1	7	0	1	8	13	5
-GGA	6	6	19	4	0	6	9	2	2	7	13	15
-GGG	0	3	9	1	0	1	3	1	0	2	1	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007625107.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	12	8	2	3	0	6	12	1	7	4	0	1	9	0	4	12	29	7	3	9	8	2	2	2	7	0	0	1	6	1	14	15	14	5	3	5	11	1	3	9	5	2	2	2	3	4	7	1	0	13	13	2	2	1	9	2	1	5	6	0	0	0	0	0
+1	ND2	YP_007625108.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	10	4	6	2	3	10	11	3	2	6	0	0	9	1	4	9	24	8	0	7	11	0	1	4	10	0	0	0	3	0	19	17	35	7	7	12	21	0	4	12	11	2	2	1	4	5	2	0	2	10	7	0	0	0	5	0	0	5	6	3	0	0	0	0
+2	COX1	YP_007625109.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	21	21	8	2	3	12	11	1	8	11	0	1	15	2	7	9	26	8	8	9	11	0	3	14	3	3	1	1	6	0	20	17	25	8	5	15	17	1	7	12	7	2	0	3	9	6	17	6	7	14	17	3	4	11	7	2	7	12	19	9	1	0	0	0
+3	COX2	YP_007625110.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	4	1	8	1	2	5	9	0	6	4	0	2	4	1	2	4	12	7	0	4	8	1	3	5	6	0	1	0	3	2	4	13	9	8	1	6	8	3	1	4	6	0	1	4	4	2	6	1	2	0	3	3	4	7	12	2	1	2	4	1	1	0	0	0
+4	ATP8	YP_007625111.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	3	1	2	1	0	0	4	0	1	0	1	0	3	0	2	1	5	1	2	1	2	1	0	2	3	0	0	0	0	0	2	3	1	2	0	2	5	1	2	1	5	1	0	0	0	1	1	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007625112.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	5	7	5	4	3	1	5	0	1	1	0	0	3	0	3	12	15	7	3	3	6	0	0	6	6	3	0	2	1	1	7	14	8	5	3	8	13	0	3	9	3	1	2	3	2	2	7	1	2	9	6	0	1	0	3	0	3	1	6	1	1	0	0	0
+6	COX3	YP_007625113.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	10	14	2	0	3	4	8	1	5	6	0	2	10	2	7	8	14	1	1	7	4	0	7	9	6	1	1	2	2	0	8	7	7	3	3	10	9	2	3	4	2	0	0	4	2	6	6	1	3	8	5	0	1	2	7	1	1	7	9	3	0	0	0	0
+7	ND3	YP_007625114.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	4	4	2	1	1	0	3	0	1	2	1	0	4	0	3	8	11	2	1	3	2	0	0	0	2	1	0	1	0	0	0	4	7	0	2	5	5	1	0	4	3	0	0	2	0	1	2	1	1	7	2	0	0	2	5	1	0	0	2	1	0	0	0	0
+8	ND4L	YP_007625115.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	1	3	5	0	1	8	0	0	2	2	0	3	0	0	3	2	10	2	1	0	0	0	0	2	2	0	0	0	1	0	3	2	8	4	1	2	2	1	0	5	0	0	0	1	1	0	3	2	0	2	5	1	0	1	1	1	1	1	2	0	1	0	0	0
+9	ND4	YP_007625116.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	5	16	8	0	6	14	8	0	6	10	0	3	10	3	12	14	56	6	2	10	8	0	2	10	10	0	2	2	6	0	19	24	23	8	2	13	19	1	6	16	10	1	1	10	3	3	10	1	4	12	12	1	1	3	8	0	2	8	7	2	0	0	0	0
+10	ND5	YP_007625117.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	17	28	6	1	3	16	15	2	10	9	1	4	11	1	14	18	42	8	4	15	7	1	1	12	15	4	0	6	3	0	23	38	31	7	6	17	27	4	12	23	19	3	2	9	2	7	6	1	1	15	23	4	1	9	8	4	1	13	13	1	1	0	0	0
+11	CYTB	YP_007625119.1	Damaliscus pygargus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Ruminantia, Pecora, Bovidae, Alcelaphinae, Damaliscus	8	17	3	0	5	3	10	1	6	9	1	3	12	0	3	16	29	7	2	7	12	1	0	12	5	1	0	0	8	0	14	25	11	5	2	8	13	3	2	16	8	1	0	3	2	8	7	2	3	8	16	0	3	8	5	1	2	5	15	2	0	0	1	0

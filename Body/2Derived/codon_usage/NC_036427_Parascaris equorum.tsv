@@ -1,65 +1,13 @@
-	YP_009445828.1|COX1	YP_009445829.1|COX2	YP_009445830.1|ND3	YP_009445831.1|ND5	YP_009445832.1|ND6	YP_009445833.1|ND4L	YP_009445834.1|ND1	YP_009445835.1|ATP6	YP_009445836.1|ND2	YP_009445837.1|CYTB	YP_009445838.1|COX3	YP_009445839.1|ND4
-TTT	49	19	18	82	23	15	42	27	53	52	44	65
-TTC	0	0	0	5	1	0	0	0	2	2	1	4
-TTA	17	11	2	24	9	3	18	8	11	16	11	19
-TTG	51	20	14	47	11	8	23	25	36	29	19	30
-TCT	19	9	6	17	5	1	10	8	8	12	8	20
-TCC	1	1	0	1	0	0	0	1	1	0	0	1
-TCA	1	1	0	3	0	3	2	0	2	0	1	3
-TCG	1	0	0	2	0	0	2	2	1	1	0	1
-TAT	24	14	4	19	9	2	16	10	7	16	6	18
-TAC	2	0	0	1	1	0	1	1	0	2	2	1
-TGT	4	8	2	8	2	2	2	5	4	3	3	4
-TGC	0	0	0	0	0	0	0	0	1	0	1	0
-TGA	2	2	0	6	1	0	1	1	2	4	3	3
-TGG	10	3	3	7	2	1	1	1	6	10	5	4
-CTT	5	5	2	11	2	0	4	0	2	9	5	10
-CTC	0	0	0	0	0	0	0	0	0	0	0	1
-CTA	2	0	0	2	0	0	0	0	1	1	0	1
-CTG	0	0	0	2	1	1	2	2	2	5	1	1
-CCT	15	8	0	8	5	0	7	3	5	10	5	7
-CCC	0	0	0	0	0	0	0	0	0	0	0	4
-CCA	2	0	0	0	0	0	1	0	1	1	0	0
-CCG	3	0	0	0	0	0	0	0	0	1	0	2
-CAT	16	3	1	5	1	0	2	1	1	7	12	6
-CAC	0	0	0	0	0	0	0	0	0	0	0	1
-CAA	3	0	0	2	0	1	3	1	2	1	0	1
-CAG	3	6	1	4	0	0	4	1	3	3	1	1
-CGT	6	3	0	3	1	1	6	3	0	3	1	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	1	0	0	0	0	0	1	0	0	1	0	2
-ATT	33	8	7	23	14	7	17	10	12	27	18	23
-ATC	1	1	0	0	0	0	1	0	1	1	0	3
-ATA	8	1	1	8	1	5	1	5	6	8	1	11
-ATG	20	8	7	20	3	1	10	4	10	7	4	13
-ACT	23	6	0	16	3	0	5	9	3	6	6	6
-ACC	0	0	0	0	1	0	0	0	0	1	2	2
-ACA	2	0	1	1	0	0	2	0	3	1	0	4
-ACG	4	1	0	1	2	0	0	0	0	1	0	0
-AAT	14	12	1	22	4	2	6	3	14	9	8	12
-AAC	0	0	1	2	0	0	0	0	1	1	0	0
-AAA	2	0	1	6	0	1	2	0	3	3	2	5
-AAG	9	7	4	13	3	1	5	4	8	9	4	6
-AGT	20	12	2	11	4	3	8	4	5	9	8	14
-AGC	0	0	0	1	2	0	0	1	0	1	3	1
-AGA	3	1	0	6	0	2	5	2	1	3	2	1
-AGG	8	4	1	11	4	1	3	2	4	5	3	4
-GTT	31	10	8	29	8	6	26	19	28	20	13	18
-GTC	1	0	1	1	1	0	0	0	0	2	2	1
-GTA	4	2	4	9	2	1	5	5	8	8	3	5
-GTG	9	7	5	15	4	2	4	4	4	7	4	6
-GCT	20	2	0	12	4	0	7	3	1	7	7	17
-GCC	0	0	0	2	0	0	1	1	0	2	1	0
-GCA	0	1	0	3	0	0	1	0	0	1	0	0
-GCG	3	1	0	1	1	0	2	1	0	2	2	3
-GAT	14	11	2	12	2	1	4	3	6	7	5	4
-GAC	1	0	1	1	0	0	0	0	0	1	0	1
-GAA	4	2	0	2	1	0	5	5	1	1	3	5
-GAG	4	8	3	6	0	2	7	3	3	7	2	3
-GGT	30	7	5	21	4	1	10	9	4	12	17	9
-GGC	3	1	0	0	0	0	0	0	1	0	0	3
-GGA	5	1	2	6	1	1	2	1	1	3	3	5
-GGG	12	5	1	8	1	2	4	1	2	6	3	13
-TAA	0	0	0	0	0	1	0	1	0	0	0	1
-TAG	1	1	1	0	1	0	1	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009445828.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	49	0	17	51	19	1	1	1	24	2	4	0	2	10	5	0	2	0	15	0	2	3	16	0	3	3	6	0	0	1	33	1	8	20	23	0	2	4	14	0	2	9	20	0	3	8	31	1	4	9	20	0	0	3	14	1	4	4	30	3	5	12	0	1
+1	COX2	YP_009445829.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	19	0	11	20	9	1	1	0	14	0	8	0	2	3	5	0	0	0	8	0	0	0	3	0	0	6	3	0	0	0	8	1	1	8	6	0	0	1	12	0	0	7	12	0	1	4	10	0	2	7	2	0	1	1	11	0	2	8	7	1	1	5	0	1
+2	ND3	YP_009445830.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	18	0	2	14	6	0	0	0	4	0	2	0	0	3	2	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	7	0	1	7	0	0	1	0	1	1	1	4	2	0	0	1	8	1	4	5	0	0	0	0	2	1	0	3	5	0	2	1	0	1
+3	ND5	YP_009445831.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	82	5	24	47	17	1	3	2	19	1	8	0	6	7	11	0	2	2	8	0	0	0	5	0	2	4	3	0	0	0	23	0	8	20	16	0	1	1	22	2	6	13	11	1	6	11	29	1	9	15	12	2	3	1	12	1	2	6	21	0	6	8	0	0
+4	ND6	YP_009445832.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	23	1	9	11	5	0	0	0	9	1	2	0	1	2	2	0	0	1	5	0	0	0	1	0	0	0	1	0	0	0	14	0	1	3	3	1	0	2	4	0	0	3	4	2	0	4	8	1	2	4	4	0	0	1	2	0	1	0	4	0	1	1	0	1
+5	ND4L	YP_009445833.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	15	0	3	8	1	0	3	0	2	0	2	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	7	0	5	1	0	0	0	0	2	0	1	1	3	0	2	1	6	0	1	2	0	0	0	0	1	0	0	2	1	0	1	2	1	0
+6	ND1	YP_009445834.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	42	0	18	23	10	0	2	2	16	1	2	0	1	1	4	0	0	2	7	0	1	0	2	0	3	4	6	0	0	1	17	1	1	10	5	0	2	0	6	0	2	5	8	0	5	3	26	0	5	4	7	1	1	2	4	0	5	7	10	0	2	4	0	1
+7	ATP6	YP_009445835.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	27	0	8	25	8	1	0	2	10	1	5	0	1	1	0	0	0	2	3	0	0	0	1	0	1	1	3	0	0	0	10	0	5	4	9	0	0	0	3	0	0	4	4	1	2	2	19	0	5	4	3	1	0	1	3	0	5	3	9	0	1	1	1	0
+8	ND2	YP_009445836.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	53	2	11	36	8	1	2	1	7	0	4	1	2	6	2	0	1	2	5	0	1	0	1	0	2	3	0	0	0	0	12	1	6	10	3	0	3	0	14	1	3	8	5	0	1	4	28	0	8	4	1	0	0	0	6	0	1	3	4	1	1	2	0	0
+9	CYTB	YP_009445837.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	52	2	16	29	12	0	0	1	16	2	3	0	4	10	9	0	1	5	10	0	1	1	7	0	1	3	3	0	0	1	27	1	8	7	6	1	1	1	9	1	3	9	9	1	3	5	20	2	8	7	7	2	1	2	7	1	1	7	12	0	3	6	0	1
+10	COX3	YP_009445838.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	44	1	11	19	8	0	1	0	6	2	3	1	3	5	5	0	0	1	5	0	0	0	12	0	0	1	1	0	0	0	18	0	1	4	6	2	0	0	8	0	2	4	8	3	2	3	13	2	3	4	7	1	0	2	5	0	3	2	17	0	3	3	0	1
+11	ND4	YP_009445839.1	Parascaris equorum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Parascaris	65	4	19	30	20	1	3	1	18	1	4	0	3	4	10	1	1	1	7	4	0	2	6	1	1	1	1	0	0	2	23	3	11	13	6	2	4	0	12	0	5	6	14	1	1	4	18	1	5	6	17	0	0	3	4	1	5	3	9	3	5	13	1	0

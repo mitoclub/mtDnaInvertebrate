@@ -1,65 +1,13 @@
-	YP_009442807.1|ND1	YP_009442808.1|ND2	YP_009442809.1|COX1	YP_009442810.1|COX2	YP_009442811.1|ATP8	YP_009442812.1|ATP6	YP_009442813.1|COX3	YP_009442814.1|ND3	YP_009442815.1|ND4L	YP_009442816.1|ND4	YP_009442817.1|ND5	YP_009442819.1|CYTB
-TTT	6	4	18	3	1	8	8	3	1	6	17	12
-TTC	12	8	24	4	1	4	14	4	2	10	24	11
-TTA	8	10	14	8	2	13	5	3	2	23	17	13
-TTG	0	1	6	1	1	0	2	0	1	1	0	1
-TCT	1	6	12	5	0	0	4	2	2	7	11	6
-TCC	6	4	2	1	1	1	4	1	3	7	10	8
-TCA	10	11	14	10	5	7	10	2	4	13	18	7
-TCG	0	0	0	0	0	0	0	0	0	2	1	0
-TAT	9	2	9	5	1	0	5	3	3	11	8	6
-TAC	3	8	10	5	1	2	7	1	1	7	10	11
-TGT	0	0	0	1	1	0	0	1	1	3	2	0
-TGC	1	0	1	1	0	0	2	0	2	1	2	4
-TGA	9	10	14	4	3	3	12	4	0	13	12	12
-TGG	0	0	3	1	0	0	0	0	0	0	0	0
-CTT	7	8	6	4	1	4	7	4	6	15	9	6
-CTC	4	1	7	5	1	6	3	3	2	16	16	11
-CTA	35	41	22	10	5	18	17	16	10	31	53	28
-CTG	3	1	7	3	0	1	2	2	1	8	4	4
-CCT	5	4	11	2	3	6	4	1	1	5	5	5
-CCC	9	6	8	5	3	1	1	1	0	7	6	9
-CCA	8	11	8	6	2	4	5	4	0	8	15	9
-CCG	0	0	2	0	0	1	0	0	0	2	0	0
-CAT	2	2	8	5	1	6	6	0	2	6	7	3
-CAC	2	3	10	2	1	2	10	0	0	4	8	10
-CAA	7	9	3	5	2	8	7	3	2	9	19	6
-CAG	0	0	3	1	1	0	0	0	0	1	0	0
-CGT	1	0	1	1	1	0	0	1	1	2	3	0
-CGC	2	1	1	2	0	2	1	0	0	1	4	2
-CGA	4	1	6	4	0	1	4	0	0	7	2	6
-CGG	0	1	0	0	0	1	0	0	0	0	0	0
-ATT	16	15	20	16	4	22	10	10	3	26	24	13
-ATC	10	19	16	3	4	6	6	0	4	21	27	19
-ATA	18	35	28	16	1	13	5	3	12	28	40	11
-ATG	2	2	4	2	2	3	3	1	3	2	3	3
-ACT	2	8	10	9	2	8	5	1	2	6	11	1
-ACC	6	13	6	4	0	5	3	4	1	11	14	8
-ACA	16	20	21	6	5	7	13	3	2	20	25	17
-ACG	1	1	0	0	1	2	0	0	0	1	4	0
-AAT	6	11	7	2	0	4	4	4	2	9	15	7
-AAC	7	8	10	4	0	4	4	1	2	12	20	10
-AAA	7	11	9	5	6	5	3	3	0	13	18	7
-AAG	0	1	0	0	0	0	0	0	0	0	2	1
-AGT	0	0	1	2	0	1	0	1	0	1	3	0
-AGC	2	2	3	2	1	3	4	1	1	9	9	3
-GTT	2	1	12	4	0	1	5	1	1	5	3	5
-GTC	3	1	5	1	0	3	3	0	0	2	5	5
-GTA	9	9	19	7	0	3	7	1	5	8	8	12
-GTG	1	1	2	0	0	1	0	1	0	0	2	1
-GCT	6	3	15	5	0	9	4	1	2	6	8	3
-GCC	9	8	18	0	0	5	9	5	2	9	17	12
-GCA	13	6	7	2	0	6	2	3	2	13	15	8
-GCG	1	0	0	0	0	0	0	0	0	1	0	1
-GAT	1	0	7	5	1	1	2	2	0	3	4	4
-GAC	2	0	7	6	1	1	1	0	1	1	5	7
-GAA	10	5	9	14	0	3	8	7	1	7	11	5
-GAG	0	0	1	0	1	0	0	0	1	1	1	2
-GGT	1	1	6	0	0	1	3	0	1	2	3	1
-GGC	4	3	10	1	0	5	5	1	1	6	8	6
-GGA	9	10	27	6	0	3	11	1	2	9	14	16
-GGG	0	0	4	1	0	2	1	1	0	1	4	1
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009442807.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	6	12	8	0	1	6	10	0	9	3	0	1	9	0	7	4	35	3	5	9	8	0	2	2	7	0	1	2	4	0	16	10	18	2	2	6	16	1	6	7	7	0	0	2	2	3	9	1	6	9	13	1	1	2	10	0	1	4	9	0	0	0	0	0
+1	ND2	YP_009442808.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	4	8	10	1	6	4	11	0	2	8	0	0	10	0	8	1	41	1	4	6	11	0	2	3	9	0	0	1	1	1	15	19	35	2	8	13	20	1	11	8	11	1	0	2	1	1	9	1	3	8	6	0	0	0	5	0	1	3	10	0	0	0	0	0
+2	COX1	YP_009442809.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	18	24	14	6	12	2	14	0	9	10	0	1	14	3	6	7	22	7	11	8	8	2	8	10	3	3	1	1	6	0	20	16	28	4	10	6	21	0	7	10	9	0	1	3	12	5	19	2	15	18	7	0	7	7	9	1	6	10	27	4	1	0	0	0
+3	COX2	YP_009442810.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	3	4	8	1	5	1	10	0	5	5	1	1	4	1	4	5	10	3	2	5	6	0	5	2	5	1	1	2	4	0	16	3	16	2	9	4	6	0	2	4	5	0	2	2	4	1	7	0	5	0	2	0	5	6	14	0	0	1	6	1	1	0	0	0
+4	ATP8	YP_009442811.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	1	1	2	1	0	1	5	0	1	1	1	0	3	0	1	1	5	0	3	3	2	0	1	1	2	1	1	0	0	0	4	4	1	2	2	0	5	1	0	0	6	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009442812.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	8	4	13	0	0	1	7	0	0	2	0	0	3	0	4	6	18	1	6	1	4	1	6	2	8	0	0	2	1	1	22	6	13	3	8	5	7	2	4	4	5	0	1	3	1	3	3	1	9	5	6	0	1	1	3	0	1	5	3	2	1	0	0	0
+6	COX3	YP_009442813.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	8	14	5	2	4	4	10	0	5	7	0	2	12	0	7	3	17	2	4	1	5	0	6	10	7	0	0	1	4	0	10	6	5	3	5	3	13	0	4	4	3	0	0	4	5	3	7	0	4	9	2	0	2	1	8	0	3	5	11	1	0	0	0	0
+7	ND3	YP_009442814.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	3	4	3	0	2	1	2	0	3	1	1	0	4	0	4	3	16	2	1	1	4	0	0	0	3	0	1	0	0	0	10	0	3	1	1	4	3	0	4	1	3	0	1	1	1	0	1	1	1	5	3	0	2	0	7	0	0	1	1	1	1	0	0	0
+8	ND4L	YP_009442815.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	1	2	2	1	2	3	4	0	3	1	1	2	0	0	6	2	10	1	1	0	0	0	2	0	2	0	1	0	0	0	3	4	12	3	2	1	2	0	2	2	0	0	0	1	1	0	5	0	2	2	2	0	0	1	1	1	1	1	2	0	1	0	0	0
+9	ND4	YP_009442816.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	6	10	23	1	7	7	13	2	11	7	3	1	13	0	15	16	31	8	5	7	8	2	6	4	9	1	2	1	7	0	26	21	28	2	6	11	20	1	9	12	13	0	1	9	5	2	8	0	6	9	13	1	3	1	7	1	2	6	9	1	0	0	0	0
+10	ND5	YP_009442817.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	17	24	17	0	11	10	18	1	8	10	2	2	12	0	9	16	53	4	5	6	15	0	7	8	19	0	3	4	2	0	24	27	40	3	11	14	25	4	15	20	18	2	3	9	3	5	8	2	8	17	15	0	4	5	11	1	3	8	14	4	1	0	0	0
+11	CYTB	YP_009442819.1	Tadarida teniotis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Chiroptera, Microchiroptera, Molossidae, Tadarida	12	11	13	1	6	8	7	0	6	11	0	4	12	0	6	11	28	4	5	9	9	0	3	10	6	0	0	2	6	0	13	19	11	3	1	8	17	0	7	10	7	1	0	3	5	5	12	1	3	12	8	1	4	7	5	2	1	6	16	1	0	0	1	0

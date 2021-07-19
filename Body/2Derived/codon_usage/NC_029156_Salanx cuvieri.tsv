@@ -1,65 +1,13 @@
-	YP_009227733.1	YP_009227734.1	YP_009227735.1	YP_009227736.1	YP_009227737.1	YP_009227738.1	YP_009227739.1	YP_009227740.1	YP_009227741.1	YP_009227742.1	YP_009227743.1	YP_009227745.1
-TTT	5	11	15	3	1	4	9	2	2	6	14	7
-TTC	13	6	26	5	3	9	16	6	4	9	28	25
-TTA	4	4	4	1	0	3	3	4	1	9	3	4
-TTG	2	2	2	0	0	0	0	1	0	3	4	1
-TCT	2	8	12	3	2	2	1	0	1	7	17	9
-TCC	11	16	9	6	0	1	5	4	2	13	13	6
-TCA	5	5	2	2	0	0	5	2	3	4	4	6
-TCG	0	2	3	2	1	0	0	1	0	1	2	1
-TAT	3	1	4	2	0	1	2	0	0	5	0	3
-TAC	10	5	15	7	0	2	8	2	1	9	11	9
-TGT	0	0	0	1	0	0	0	0	2	1	3	0
-TGC	1	2	1	1	0	0	2	1	2	4	3	3
-TGA	3	7	12	5	5	5	9	3	0	10	5	11
-TGG	5	5	5	0	0	0	4	2	1	10	9	2
-CTT	14	10	13	6	1	13	6	3	4	24	22	15
-CTC	20	19	19	11	1	20	11	11	5	30	36	16
-CTA	13	12	14	8	2	11	3	4	7	15	21	15
-CTG	10	12	12	2	1	7	7	3	4	14	9	9
-CCT	3	3	5	2	2	4	4	1	0	7	7	8
-CCC	14	11	13	9	2	8	6	3	2	15	19	7
-CCA	5	4	6	3	4	3	2	3	0	4	4	5
-CCG	2	1	4	0	0	2	0	1	0	1	0	1
-CAT	2	1	1	5	0	0	1	0	1	3	2	2
-CAC	1	6	18	5	2	3	16	0	4	8	12	10
-CAA	4	8	5	7	2	7	6	2	2	11	15	5
-CAG	3	3	3	1	0	2	2	1	0	2	4	0
-CGT	1	1	1	0	0	0	0	0	0	0	2	0
-CGC	1	2	2	3	0	4	1	0	2	3	2	3
-CGA	2	0	4	3	0	1	2	2	1	5	4	0
-CGG	4	1	1	0	0	1	2	0	0	3	1	5
-ATT	5	12	22	8	0	6	3	7	0	13	15	13
-ATC	15	11	21	11	3	11	11	3	3	22	29	16
-ATA	3	8	6	6	0	4	4	0	1	11	15	1
-ATG	5	5	17	6	1	6	3	1	4	12	14	8
-ACT	5	5	8	4	1	1	9	3	2	11	11	3
-ACC	9	20	14	2	0	14	8	1	5	14	29	11
-ACA	3	4	12	2	1	8	7	2	1	9	8	4
-ACG	1	4	1	0	0	1	1	0	0	4	6	2
-AAT	1	2	8	1	1	2	1	1	0	2	8	4
-AAC	9	8	7	4	3	6	0	0	1	9	17	13
-AAA	5	6	8	5	1	0	2	0	0	5	11	6
-AAG	2	3	0	0	1	1	0	1	0	4	9	4
-AGT	1	1	1	0	0	0	0	0	2	1	2	0
-AGC	4	3	4	3	1	4	3	1	1	6	14	1
-GTT	6	3	11	3	1	3	3	1	0	5	10	7
-GTC	12	9	7	5	2	8	8	2	1	6	15	6
-GTA	5	1	15	11	2	5	6	2	1	6	3	13
-GTG	2	1	6	1	0	0	1	1	0	1	7	5
-GCT	4	6	13	6	0	5	3	4	2	7	12	6
-GCC	21	23	22	7	4	9	7	7	12	21	30	17
-GCA	8	16	10	3	0	4	10	1	1	10	10	7
-GCG	2	4	1	3	0	0	0	0	0	2	5	1
-GAT	1	0	1	1	0	0	0	2	0	1	1	3
-GAC	3	1	13	12	0	1	5	2	1	3	12	8
-GAA	7	3	9	8	2	3	6	2	3	4	8	3
-GAG	4	1	2	6	1	1	4	4	0	9	3	4
-GGT	0	6	2	1	0	0	2	1	0	3	4	3
-GGC	6	8	15	2	0	6	9	4	1	13	10	12
-GGA	4	5	12	5	1	4	10	0	2	2	8	9
-GGG	8	3	17	1	0	1	2	1	3	8	10	2
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	1	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009227733.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	5	13	4	2	2	11	5	0	3	10	0	1	3	5	14	20	13	10	3	14	5	2	2	1	4	3	1	1	2	4	5	15	3	5	5	9	3	1	1	9	5	2	1	4	6	12	5	2	4	21	8	2	1	3	7	4	0	6	4	8	1	0	0	0
+1	None	YP_009227734.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	11	6	4	2	8	16	5	2	1	5	0	2	7	5	10	19	12	12	3	11	4	1	1	6	8	3	1	2	0	1	12	11	8	5	5	20	4	4	2	8	6	3	1	3	3	9	1	1	6	23	16	4	0	1	3	1	6	8	5	3	0	1	0	0
+2	None	YP_009227735.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	15	26	4	2	12	9	2	3	4	15	0	1	12	5	13	19	14	12	5	13	6	4	1	18	5	3	1	2	4	1	22	21	6	17	8	14	12	1	8	7	8	0	1	4	11	7	15	6	13	22	10	1	1	13	9	2	2	15	12	17	1	0	0	0
+3	None	YP_009227736.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	3	5	1	0	3	6	2	2	2	7	1	1	5	0	6	11	8	2	2	9	3	0	5	5	7	1	0	3	3	0	8	11	6	6	4	2	2	0	1	4	5	0	0	3	3	5	11	1	6	7	3	3	1	12	8	6	1	2	5	1	0	0	0	0
+4	None	YP_009227737.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	1	3	0	0	2	0	0	1	0	0	0	0	5	0	1	1	2	1	2	2	4	0	0	2	2	0	0	0	0	0	0	3	0	1	1	0	1	0	1	3	1	1	0	1	1	2	2	0	0	4	0	0	0	0	2	1	0	0	1	0	1	0	0	0
+5	None	YP_009227738.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	4	9	3	0	2	1	0	0	1	2	0	0	5	0	13	20	11	7	4	8	3	2	0	3	7	2	0	4	1	1	6	11	4	6	1	14	8	1	2	6	0	1	0	4	3	8	5	0	5	9	4	0	0	1	3	1	0	6	4	1	1	0	0	0
+6	None	YP_009227739.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	9	16	3	0	1	5	5	0	2	8	0	2	9	4	6	11	3	7	4	6	2	0	1	16	6	2	0	1	2	2	3	11	4	3	9	8	7	1	1	0	2	0	0	3	3	8	6	1	3	7	10	0	0	5	6	4	2	9	10	2	0	1	0	0
+7	None	YP_009227740.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	2	6	4	1	0	4	2	1	0	2	0	1	3	2	3	11	4	3	1	3	3	1	0	0	2	1	0	0	2	0	7	3	0	1	3	1	2	0	1	0	0	1	0	1	1	2	2	1	4	7	1	0	2	2	2	4	1	4	0	1	0	1	0	0
+8	None	YP_009227741.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	2	4	1	0	1	2	3	0	0	1	2	2	0	1	4	5	7	4	0	2	0	0	1	4	2	0	0	2	1	0	0	3	1	4	2	5	1	0	0	1	0	0	2	1	0	1	1	0	2	12	1	0	0	1	3	0	0	1	2	3	1	0	0	0
+9	None	YP_009227742.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	6	9	9	3	7	13	4	1	5	9	1	4	10	10	24	30	15	14	7	15	4	1	3	8	11	2	0	3	5	3	13	22	11	12	11	14	9	4	2	9	5	4	1	6	5	6	6	1	7	21	10	2	1	3	4	9	3	13	2	8	0	0	0	0
+10	None	YP_009227743.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	14	28	3	4	17	13	4	2	0	11	3	3	5	9	22	36	21	9	7	19	4	0	2	12	15	4	2	2	4	1	15	29	15	14	11	29	8	6	8	17	11	9	2	14	10	15	3	7	12	30	10	5	1	12	8	3	4	10	8	10	1	0	0	0
+11	None	YP_009227745.1	Salanx cuvieri	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Stomiatii, Osmeriformes, Salanx	7	25	4	1	9	6	6	1	3	9	0	3	11	2	15	16	15	9	8	7	5	1	2	10	5	0	0	3	0	5	13	16	1	8	3	11	4	2	4	13	6	4	0	1	7	6	13	5	6	17	7	1	3	8	3	4	3	12	9	2	0	0	0	0

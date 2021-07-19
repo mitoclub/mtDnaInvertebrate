@@ -1,65 +1,8 @@
-	YP_009123605.1|nad6	YP_009123606.1|nad4	YP_009123607.1|cox1	YP_009123608.1|nad1	YP_009123609.1|nad2	YP_009123610.1|nad5	YP_009123611.1|cob
-TTT	5	8	10	6	13	8	3
-TTC	10	30	31	21	31	35	21
-TTA	34	75	64	43	69	64	47
-TTG	0	0	0	0	0	1	0
-TCT	5	14	12	8	9	20	7
-TCC	2	3	5	6	6	8	3
-TCA	2	3	4	2	6	8	2
-TCG	0	0	0	0	0	0	0
-TAT	3	9	7	8	12	12	14
-TAC	4	9	8	4	9	11	11
-TGT	0	4	1	1	1	5	0
-TGC	2	8	2	3	6	9	2
-TGG	1	7	13	5	9	15	12
-CTT	1	6	9	3	3	3	1
-CTC	0	4	7	0	1	5	2
-CTA	0	0	0	0	0	0	0
-CTG	0	0	0	0	0	0	0
-CCT	1	5	2	4	6	4	5
-CCC	1	0	0	0	0	0	0
-CCA	1	14	22	6	4	7	17
-CCG	0	0	0	1	1	0	0
-CAT	1	6	6	1	2	4	3
-CAC	1	4	10	0	3	8	12
-CAA	0	5	8	7	10	11	9
-CAG	0	0	0	0	0	0	0
-CGT	4	6	10	5	6	9	3
-CGC	1	3	2	0	3	2	4
-CGA	0	0	0	1	0	0	0
-CGG	0	0	0	0	0	0	0
-ATT	6	19	21	11	19	22	23
-ATC	4	12	14	7	11	19	11
-ATA	0	0	0	0	0	0	0
-ATG	7	20	26	11	13	24	10
-ACT	2	16	14	4	10	13	18
-ACC	2	6	12	2	3	14	2
-ACA	1	6	4	3	6	5	2
-ACG	0	0	0	0	0	0	0
-AAT	1	4	3	1	3	3	2
-AAC	6	7	11	4	11	8	12
-AAA	0	6	5	6	7	12	6
-AAG	0	1	0	1	2	0	0
-AGT	5	5	5	6	20	16	5
-AGC	1	9	8	7	18	4	9
-AGA	1	1	0	3	2	1	3
-AGG	0	0	0	0	0	0	0
-GTT	2	10	7	5	6	7	6
-GTC	3	4	8	4	5	5	6
-GTA	11	30	25	11	23	35	24
-GTG	0	5	0	0	5	1	1
-GCT	8	23	28	23	15	29	25
-GCC	4	8	12	5	7	12	6
-GCA	3	7	4	4	9	8	1
-GCG	0	1	0	1	1	0	0
-GAT	1	5	8	4	9	14	3
-GAC	0	6	5	3	2	4	3
-GAA	0	0	0	0	0	0	0
-GAG	5	9	6	10	7	10	6
-GGT	6	16	39	18	9	25	22
-GGC	2	4	4	6	7	9	1
-GGA	0	7	9	1	3	9	4
-GGG	0	0	0	0	0	0	0
-TAA	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0
-TGA	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	nad6	YP_009123605.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	5	10	34	0	5	2	2	0	3	4	0	2	1	1	0	0	0	1	1	1	0	1	1	0	0	4	1	0	0	6	4	0	7	2	2	1	0	1	6	0	0	5	1	1	0	2	3	11	0	8	4	3	0	1	0	0	5	6	2	0	0	1	0	0
+1	nad4	YP_009123606.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	8	30	75	0	14	3	3	0	9	9	4	8	7	6	4	0	0	5	0	14	0	6	4	5	0	6	3	0	0	19	12	0	20	16	6	6	0	4	7	6	1	5	9	1	0	10	4	30	5	23	8	7	1	5	6	0	9	16	4	7	0	1	0	0
+2	cox1	YP_009123607.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	10	31	64	0	12	5	4	0	7	8	1	2	13	9	7	0	0	2	0	22	0	6	10	8	0	10	2	0	0	21	14	0	26	14	12	4	0	3	11	5	0	5	8	0	0	7	8	25	0	28	12	4	0	8	5	0	6	39	4	9	0	1	0	0
+3	nad1	YP_009123608.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	6	21	43	0	8	6	2	0	8	4	1	3	5	3	0	0	0	4	0	6	1	1	0	7	0	5	0	1	0	11	7	0	11	4	2	3	0	1	4	6	1	6	7	3	0	5	4	11	0	23	5	4	1	4	3	0	10	18	6	1	0	1	0	0
+4	nad2	YP_009123609.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	13	31	69	0	9	6	6	0	12	9	1	6	9	3	1	0	0	6	0	4	1	2	3	10	0	6	3	0	0	19	11	0	13	10	3	6	0	3	11	7	2	20	18	2	0	6	5	23	5	15	7	9	1	9	2	0	7	9	7	3	0	1	0	0
+5	nad5	YP_009123610.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	8	35	64	1	20	8	8	0	12	11	5	9	15	3	5	0	0	4	0	7	0	4	8	11	0	9	2	0	0	22	19	0	24	13	14	5	0	3	8	12	0	16	4	1	0	7	5	35	1	29	12	8	0	14	4	0	10	25	9	9	0	1	0	0
+6	cob	YP_009123611.1	Chlamydomonas leiostraca	Eukaryota, Viridiplantae, Chlorophyta, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas	3	21	47	0	7	3	2	0	14	11	0	2	12	1	2	0	0	5	0	17	0	3	12	9	0	3	4	0	0	23	11	0	10	18	2	2	0	2	12	6	0	5	9	3	0	6	6	24	1	25	6	1	0	3	3	0	6	22	1	4	0	1	0	0

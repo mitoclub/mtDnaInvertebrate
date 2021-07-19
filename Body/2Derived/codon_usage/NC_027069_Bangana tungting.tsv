@@ -1,65 +1,13 @@
-	YP_009138316.1|ND1	YP_009138317.1|ND2	YP_009138318.1|COX1	YP_009138319.1|COX2	YP_009138320.1|ATP8	YP_009138321.1|ATP6	YP_009138322.1|COX3	YP_009138323.1|ND3	YP_009138324.1|ND4L	YP_009138325.1|ND4	YP_009138326.1|ND5	YP_009138328.1|CYTB
-TTT	9	3	27	8	2	12	15	6	8	16	34	23
-TTC	8	8	14	2	1	1	7	4	0	3	7	9
-TTA	5	8	12	9	4	8	5	6	5	17	10	9
-TTG	0	0	0	0	0	0	0	0	0	2	1	0
-TCT	3	1	8	1	1	0	1	2	1	2	2	2
-TCC	4	6	4	10	1	1	4	2	4	10	11	8
-TCA	11	7	13	2	1	4	6	1	1	11	18	10
-TCG	0	0	1	0	0	0	0	0	0	1	0	0
-TAT	7	3	13	7	0	5	5	1	0	8	9	5
-TAC	5	5	6	2	0	0	7	1	0	6	3	9
-TGT	0	1	0	1	0	0	1	1	2	1	2	0
-TGC	0	0	1	1	0	0	1	0	1	4	3	3
-TGA	8	11	16	5	5	5	12	4	1	16	11	13
-TGG	0	0	1	0	0	0	0	1	0	4	2	0
-CTT	7	5	25	8	0	15	10	1	4	21	22	14
-CTC	10	11	3	0	0	4	1	7	3	11	16	6
-CTA	36	38	22	11	1	16	16	10	9	34	44	32
-CTG	4	2	1	0	0	2	0	1	1	0	0	0
-CCT	2	0	4	0	1	0	0	0	1	1	1	1
-CCC	16	12	15	7	1	11	8	6	1	13	14	10
-CCA	6	8	9	7	6	6	5	2	0	13	12	10
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	0	0	2	1	0	1	3	0	1	1	0	1
-CAC	5	6	17	9	2	2	13	1	3	11	13	11
-CAA	7	14	8	8	1	8	9	3	2	14	20	6
-CAG	0	0	0	0	0	0	0	0	0	0	0	0
-CGT	0	0	1	1	0	0	1	0	1	1	0	1
-CGC	1	2	1	2	0	0	1	1	0	2	1	2
-CGA	7	2	5	3	0	5	2	1	1	8	8	5
-CGG	0	0	1	0	0	1	1	0	1	0	2	0
-ATT	14	13	35	14	5	17	9	9	2	32	43	22
-ATC	9	13	3	3	1	7	7	1	0	7	18	10
-ATA	9	19	18	8	1	9	8	3	5	24	29	10
-ATG	1	1	7	4	1	2	1	1	1	3	2	2
-ACT	2	2	4	2	3	1	1	1	1	0	5	1
-ACC	8	29	9	5	1	4	9	3	4	21	27	12
-ACA	11	22	21	4	0	14	13	4	3	20	26	11
-ACG	0	0	1	0	0	0	0	0	0	0	1	0
-AAT	3	2	5	2	1	4	0	1	1	3	9	2
-AAC	9	8	10	4	2	6	1	2	1	9	22	15
-AAA	7	9	8	4	3	1	2	1	1	9	24	9
-AAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGT	0	0	0	0	1	0	0	0	0	0	0	0
-AGC	4	6	5	3	0	4	3	0	3	6	10	1
-GTT	4	1	18	8	0	6	6	0	1	6	8	5
-GTC	1	3	0	3	0	0	0	1	0	1	1	3
-GTA	12	2	20	8	1	10	8	2	1	9	12	13
-GTG	3	1	5	1	0	0	1	0	0	2	0	1
-GCT	1	2	2	1	1	1	1	0	1	1	2	3
-GCC	20	18	30	7	0	10	15	4	5	19	31	12
-GCA	12	17	13	7	1	8	6	4	7	12	17	15
-GCG	0	0	1	1	0	0	0	0	0	2	2	0
-GAT	0	0	4	1	0	0	2	2	0	0	3	1
-GAC	4	4	10	11	1	1	3	2	1	3	9	10
-GAA	10	5	9	14	3	4	9	6	3	11	12	7
-GAG	1	0	2	1	0	0	1	0	0	0	1	0
-GGT	1	0	9	0	0	1	1	1	1	0	0	2
-GGC	0	3	3	1	1	1	3	1	0	1	5	2
-GGA	4	10	9	3	0	6	9	2	4	6	9	4
-GGG	13	5	25	5	0	3	8	3	1	22	17	17
-TAA	1	0	1	0	1	1	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009138316.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	9	8	5	0	3	4	11	0	7	5	0	0	8	0	7	10	36	4	2	16	6	0	0	5	7	0	0	1	7	0	14	9	9	1	2	8	11	0	3	9	7	0	0	4	4	1	12	3	1	20	12	0	0	4	10	1	1	0	4	13	1	0	0	0
+1	ND2	YP_009138317.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	3	8	8	0	1	6	7	0	3	5	1	0	11	0	5	11	38	2	0	12	8	0	0	6	14	0	0	2	2	0	13	13	19	1	2	29	22	0	2	8	9	0	0	6	1	3	2	1	2	18	17	0	0	4	5	0	0	3	10	5	0	0	0	0
+2	COX1	YP_009138318.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	27	14	12	0	8	4	13	1	13	6	0	1	16	1	25	3	22	1	4	15	9	0	2	17	8	0	1	1	5	1	35	3	18	7	4	9	21	1	5	10	8	0	0	5	18	0	20	5	2	30	13	1	4	10	9	2	9	3	9	25	1	0	0	0
+3	COX2	YP_009138319.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	8	2	9	0	1	10	2	0	7	2	1	1	5	0	8	0	11	0	0	7	7	0	1	9	8	0	1	2	3	0	14	3	8	4	2	5	4	0	2	4	4	0	0	3	8	3	8	1	1	7	7	1	1	11	14	1	0	1	3	5	0	0	0	0
+4	ATP8	YP_009138320.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	2	1	4	0	1	1	1	0	0	0	0	0	5	0	0	0	1	0	1	1	6	0	0	2	1	0	0	0	0	0	5	1	1	1	3	1	0	0	1	2	3	0	1	0	0	0	1	0	1	0	1	0	0	1	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009138321.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	12	1	8	0	0	1	4	0	5	0	0	0	5	0	15	4	16	2	0	11	6	0	1	2	8	0	0	0	5	1	17	7	9	2	1	4	14	0	4	6	1	0	0	4	6	0	10	0	1	10	8	0	0	1	4	0	1	1	6	3	1	0	0	0
+6	COX3	YP_009138322.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	15	7	5	0	1	4	6	0	5	7	1	1	12	0	10	1	16	0	0	8	5	0	3	13	9	0	1	1	2	1	9	7	8	1	1	9	13	0	0	1	2	0	0	3	6	0	8	1	1	15	6	0	2	3	9	1	1	3	9	8	0	0	0	0
+7	ND3	YP_009138323.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	6	4	6	0	2	2	1	0	1	1	1	0	4	1	1	7	10	1	0	6	2	0	0	1	3	0	0	1	1	0	9	1	3	1	1	3	4	0	1	2	1	0	0	0	0	1	2	0	0	4	4	0	2	2	6	0	1	1	2	3	0	0	0	0
+8	ND4L	YP_009138324.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	8	0	5	0	1	4	1	0	0	0	2	1	1	0	4	3	9	1	1	1	0	0	1	3	2	0	1	0	1	1	2	0	5	1	1	4	3	0	1	1	1	0	0	3	1	0	1	0	1	5	7	0	0	1	3	0	1	0	4	1	1	0	0	0
+9	ND4	YP_009138325.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	16	3	17	2	2	10	11	1	8	6	1	4	16	4	21	11	34	0	1	13	13	0	1	11	14	0	1	2	8	0	32	7	24	3	0	21	20	0	3	9	9	0	0	6	6	1	9	2	1	19	12	2	0	3	11	0	0	1	6	22	0	0	0	0
+10	ND5	YP_009138326.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	34	7	10	1	2	11	18	0	9	3	2	3	11	2	22	16	44	0	1	14	12	0	0	13	20	0	0	1	8	2	43	18	29	2	5	27	26	1	9	22	24	0	0	10	8	1	12	0	2	31	17	2	3	9	12	1	0	5	9	17	0	0	1	0
+11	CYTB	YP_009138328.1	Bangana tungting	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Bangana	23	9	9	0	2	8	10	0	5	9	0	3	13	0	14	6	32	0	1	10	10	0	1	11	6	0	1	2	5	0	22	10	10	2	1	12	11	0	2	15	9	0	0	1	5	3	13	1	3	12	15	0	1	10	7	0	2	2	4	17	0	0	0	0

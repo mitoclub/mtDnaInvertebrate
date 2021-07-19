@@ -1,65 +1,10 @@
-	YP_009158231.1	YP_009158232.1	YP_009158233.1	YP_009158234.1	YP_009158235.1	YP_009158236.1	YP_009158237.1	YP_009158241.1	YP_009158242.1
-TTT	39	36	15	6	20	24	17	26	30
-TTC	4	6	0	1	3	4	1	0	3
-TTA	43	51	19	1	26	19	10	23	47
-TTG	0	0	0	0	0	0	0	0	0
-TCT	15	19	7	1	11	4	3	9	9
-TCC	5	3	0	0	2	1	0	0	0
-TCA	9	12	4	1	2	10	7	5	7
-TCG	0	0	0	0	0	0	0	0	0
-TAT	10	16	9	3	7	11	2	10	20
-TAC	2	2	0	0	0	1	0	0	0
-TGT	3	1	2	0	2	2	1	1	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	9	13	6	3	7	13	2	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	9	12	6	0	5	3	4	5	5
-CTC	0	0	0	0	0	0	0	0	1
-CTA	2	3	1	0	3	0	1	2	6
-CTG	0	0	0	0	0	0	0	0	0
-CCT	3	18	6	1	6	6	3	1	20
-CCC	2	1	0	0	1	0	0	0	0
-CCA	2	6	3	0	1	4	1	1	2
-CCG	0	1	0	0	0	0	0	0	0
-CAT	1	15	5	0	6	11	1	2	6
-CAC	0	1	0	0	1	2	1	0	2
-CAA	4	9	7	0	4	6	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	2	4	0	1	2	1	0	1
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	7	3	0	2	2	1	1	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	49	48	33	10	23	28	18	18	50
-ATC	3	5	2	0	5	3	1	2	1
-ATA	26	31	9	6	10	11	10	18	14
-ATG	0	0	1	0	2	1	0	1	1
-ACT	9	18	7	0	11	9	0	4	12
-ACC	0	1	1	0	0	0	1	1	2
-ACA	1	13	3	1	3	7	2	0	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	29	21	25	12	19	10	6	19	24
-AAC	2	2	1	0	0	2	0	0	1
-AAA	13	4	5	4	3	2	5	5	10
-AAG	2	1	0	0	0	1	0	0	1
-AGT	0	2	0	0	2	1	2	1	2
-AGC	0	0	0	0	0	0	0	1	0
-AGA	7	12	3	1	9	3	1	1	3
-AGG	1	0	0	0	0	1	0	0	0
-GTT	4	11	6	0	3	7	2	2	6
-GTC	0	1	0	0	1	1	0	0	0
-GTA	0	12	2	0	4	6	1	4	6
-GTG	0	0	0	0	0	0	0	0	0
-GCT	0	19	4	0	3	6	2	2	10
-GCC	2	2	1	0	0	1	0	0	1
-GCA	4	6	1	0	2	7	0	0	7
-GCG	0	0	0	0	1	0	0	0	0
-GAT	0	14	9	0	1	5	3	0	7
-GAC	0	1	0	0	0	0	0	0	0
-GAA	5	10	8	0	5	8	4	3	5
-GAG	0	0	0	0	1	0	0	0	0
-GGT	6	11	5	0	2	3	1	1	6
-GGC	0	0	0	0	0	0	0	0	0
-GGA	5	30	3	0	5	11	1	3	13
-GGG	1	1	0	0	1	3	0	1	3
-TAA	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009158231.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	39	4	43	0	15	5	9	0	10	2	3	0	9	0	9	0	2	0	3	2	2	0	1	0	4	0	0	0	2	0	49	3	26	0	9	0	1	0	29	2	13	2	0	0	7	1	4	0	0	0	0	2	4	0	0	0	5	0	6	0	5	1	1	0
+1	None	YP_009158232.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	36	6	51	0	19	3	12	0	16	2	1	0	13	0	12	0	3	0	18	1	6	1	15	1	9	0	2	0	7	0	48	5	31	0	18	1	13	0	21	2	4	1	2	0	12	0	11	1	12	0	19	2	6	0	14	1	10	0	11	0	30	1	1	0
+2	None	YP_009158233.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	15	0	19	0	7	0	4	0	9	0	2	0	6	0	6	0	1	0	6	0	3	0	5	0	7	0	4	0	3	0	33	2	9	1	7	1	3	0	25	1	5	0	0	0	3	0	6	0	2	0	4	1	1	0	9	0	8	0	5	0	3	0	1	0
+3	None	YP_009158234.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	6	1	1	0	1	0	1	0	3	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	10	0	6	0	0	0	1	0	12	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	None	YP_009158235.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	20	3	26	0	11	2	2	0	7	0	2	0	7	0	5	0	3	0	6	1	1	0	6	1	4	0	1	0	2	0	23	5	10	2	11	0	3	0	19	0	3	0	2	0	9	0	3	1	4	0	3	0	2	1	1	0	5	1	2	0	5	1	1	0
+5	None	YP_009158236.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	24	4	19	0	4	1	10	0	11	1	2	0	13	0	3	0	0	0	6	0	4	0	11	2	6	0	2	0	2	0	28	3	11	1	9	0	7	0	10	2	2	1	1	0	3	1	7	1	6	0	6	1	7	0	5	0	8	0	3	0	11	3	1	0
+6	None	YP_009158237.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	17	1	10	0	3	0	7	0	2	0	1	0	2	0	4	0	1	0	3	0	1	0	1	1	1	0	1	0	1	0	18	1	10	0	0	1	2	0	6	0	5	0	2	0	1	0	2	0	1	0	2	0	0	0	3	0	4	0	1	0	1	0	1	0
+7	None	YP_009158241.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	26	0	23	0	9	0	5	0	10	0	1	0	2	0	5	0	2	0	1	0	1	0	2	0	2	0	0	0	1	0	18	2	18	1	4	1	0	0	19	0	5	0	1	1	1	0	2	0	4	0	2	0	0	0	0	0	3	0	1	0	3	1	1	0
+8	None	YP_009158242.1	Papilio demoleus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Papilionidae, Papilioninae, Papilio	30	3	47	0	9	0	7	0	20	0	3	0	12	0	5	1	6	0	20	0	2	0	6	2	8	0	1	0	6	0	50	1	14	1	12	2	9	0	24	1	10	1	2	0	3	0	6	0	6	0	10	1	7	0	7	0	5	0	6	0	13	3	1	0

@@ -1,65 +1,12 @@
-	YP_026002.1|ND1	YP_026003.1|ND4L	YP_026004.1|ND4	YP_026005.1|ND5	YP_026006.1|CYTB	YP_026007.1|ND2	YP_026008.1|COX1	YP_026009.1|COX2	YP_026010.1|ATP8	YP_026011.1|ATP6	YP_026012.1|COX3
-TTT	33	9	42	57	28	41	48	14	4	22	25
-TTC	2	2	4	4	3	2	0	1	2	1	1
-TTA	27	15	61	67	40	39	49	20	4	25	15
-TTG	1	1	7	2	4	5	3	2	0	3	2
-TCT	7	1	14	17	12	15	24	9	1	8	7
-TCC	0	0	1	1	0	2	1	0	0	1	0
-TCA	6	1	6	15	10	12	8	6	0	7	8
-TCG	0	0	0	0	1	1	2	0	0	0	0
-TAT	17	4	27	24	15	11	16	12	0	7	11
-TAC	4	0	5	5	0	1	2	1	1	0	1
-TGT	2	4	6	6	2	0	0	1	0	2	3
-TGC	1	0	1	1	0	1	0	2	0	0	0
-TGA	7	0	8	10	12	7	11	7	3	4	12
-TGG	0	0	1	0	0	1	1	0	0	0	0
-CTT	6	2	10	10	4	4	8	6	2	3	2
-CTC	0	0	0	1	0	0	0	1	0	1	0
-CTA	3	2	1	8	4	1	2	1	0	3	2
-CTG	0	0	0	1	0	0	1	0	0	0	0
-CCT	5	0	6	5	12	5	14	7	1	7	5
-CCC	1	0	0	2	2	1	4	0	0	0	0
-CCA	3	0	4	2	9	4	7	3	2	5	1
-CCG	0	0	0	0	2	0	1	0	0	1	0
-CAT	0	2	5	4	11	3	19	6	0	6	11
-CAC	0	0	0	1	0	0	0	0	0	0	2
-CAA	5	0	3	7	3	4	2	4	1	2	7
-CAG	0	0	0	0	1	1	1	1	0	0	0
-CGT	2	1	0	0	4	0	0	2	0	1	1
-CGC	0	0	0	0	0	0	0	2	0	0	0
-CGA	4	1	1	5	3	2	8	3	0	1	1
-CGG	1	0	3	0	1	0	1	0	0	0	0
-ATT	28	13	37	41	43	38	40	18	6	27	27
-ATC	1	0	3	2	3	2	2	1	0	2	1
-ATA	23	7	28	54	26	23	23	10	10	14	20
-ATG	4	0	4	2	2	3	7	2	1	2	1
-ACT	5	1	5	10	7	3	12	7	0	7	6
-ACC	0	0	1	2	0	0	0	0	0	1	1
-ACA	4	1	2	9	4	5	15	3	0	2	7
-ACG	0	0	1	0	0	0	0	1	0	1	1
-AAT	7	3	14	18	20	16	12	7	2	7	7
-AAC	1	0	2	3	2	3	1	2	1	1	1
-AAA	13	2	15	20	10	11	11	7	3	5	8
-AAG	0	0	0	1	1	1	1	0	0	0	0
-AGT	2	0	9	5	1	5	0	1	2	3	1
-AGC	1	0	1	2	0	0	1	0	0	1	1
-AGA	14	5	13	22	5	5	17	6	1	9	7
-AGG	0	0	1	2	1	1	1	0	0	0	0
-GTT	11	3	7	13	7	9	11	5	1	5	9
-GTC	2	1	1	2	0	1	2	0	0	0	1
-GTA	6	1	8	7	8	7	18	8	1	3	7
-GTG	0	0	0	1	4	2	2	1	0	0	2
-GCT	5	1	4	9	7	7	14	4	1	7	4
-GCC	0	0	1	1	1	0	1	0	0	0	0
-GCA	5	1	7	10	6	2	23	4	0	5	7
-GCG	0	0	2	0	2	0	1	0	0	0	0
-GAT	3	2	7	11	8	2	12	8	0	0	3
-GAC	1	0	0	0	0	0	1	1	0	1	2
-GAA	9	3	10	14	6	3	7	9	1	4	7
-GAG	2	0	0	0	0	0	2	2	0	0	0
-GGT	7	0	6	8	9	2	16	3	0	2	2
-GGC	1	0	3	3	1	0	4	0	0	0	2
-GGA	10	4	13	17	5	7	18	3	0	1	7
-GGG	2	1	4	3	6	0	3	0	0	0	2
-TAA	1	1	0	0	1	1	0	0	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND1	YP_026002.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	33	2	27	1	7	0	6	0	17	4	2	1	7	0	6	0	3	0	5	1	3	0	0	0	5	0	2	0	4	1	28	1	23	4	5	0	4	0	7	1	13	0	2	1	14	0	11	2	6	0	5	0	5	0	3	1	9	2	7	1	10	2	1	0
+1	ND4L	YP_026003.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	9	2	15	1	1	0	1	0	4	0	4	0	0	0	2	0	2	0	0	0	0	0	2	0	0	0	1	0	1	0	13	0	7	0	1	0	1	0	3	0	2	0	0	0	5	0	3	1	1	0	1	0	1	0	2	0	3	0	0	0	4	1	1	0
+2	ND4	YP_026004.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	42	4	61	7	14	1	6	0	27	5	6	1	8	1	10	0	1	0	6	0	4	0	5	0	3	0	0	0	1	3	37	3	28	4	5	1	2	1	14	2	15	0	9	1	13	1	7	1	8	0	4	1	7	2	7	0	10	0	6	3	13	4	0	0
+3	ND5	YP_026005.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	57	4	67	2	17	1	15	0	24	5	6	1	10	0	10	1	8	1	5	2	2	0	4	1	7	0	0	0	5	0	41	2	54	2	10	2	9	0	18	3	20	1	5	2	22	2	13	2	7	1	9	1	10	0	11	0	14	0	8	3	17	3	0	0
+4	CYTB	YP_026006.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	28	3	40	4	12	0	10	1	15	0	2	0	12	0	4	0	4	0	12	2	9	2	11	0	3	1	4	0	3	1	43	3	26	2	7	0	4	0	20	2	10	1	1	0	5	1	7	0	8	4	7	1	6	2	8	0	6	0	9	1	5	6	1	0
+5	ND2	YP_026007.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	41	2	39	5	15	2	12	1	11	1	0	1	7	1	4	0	1	0	5	1	4	0	3	0	4	1	0	0	2	0	38	2	23	3	3	0	5	0	16	3	11	1	5	0	5	1	9	1	7	2	7	0	2	0	2	0	3	0	2	0	7	0	1	0
+6	COX1	YP_026008.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	48	0	49	3	24	1	8	2	16	2	0	0	11	1	8	0	2	1	14	4	7	1	19	0	2	1	0	0	8	1	40	2	23	7	12	0	15	0	12	1	11	1	0	1	17	1	11	2	18	2	14	1	23	1	12	1	7	2	16	4	18	3	0	0
+7	COX2	YP_026009.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	14	1	20	2	9	0	6	0	12	1	1	2	7	0	6	1	1	0	7	0	3	0	6	0	4	1	2	2	3	0	18	1	10	2	7	0	3	1	7	2	7	0	1	0	6	0	5	0	8	1	4	0	4	0	8	1	9	2	3	0	3	0	0	0
+8	ATP8	YP_026010.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	4	2	4	0	1	0	0	0	0	1	0	0	3	0	2	0	0	0	1	0	2	0	0	0	1	0	0	0	0	0	6	0	10	1	0	0	0	0	2	1	3	0	2	0	1	0	1	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0
+9	ATP6	YP_026011.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	22	1	25	3	8	1	7	0	7	0	2	0	4	0	3	1	3	0	7	0	5	1	6	0	2	0	1	0	1	0	27	2	14	2	7	1	2	1	7	1	5	0	3	1	9	0	5	0	3	0	7	0	5	0	0	1	4	0	2	0	1	0	0	0
+10	COX3	YP_026012.1	Argulus americanus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Maxillopoda, Branchiura, Arguloida, Argulidae, Argulus	25	1	15	2	7	0	8	0	11	1	3	0	12	0	2	0	2	0	5	0	1	0	11	2	7	0	1	0	1	0	27	1	20	1	6	1	7	1	7	1	8	0	1	1	7	0	9	1	7	2	4	0	7	0	3	2	7	0	2	2	7	2	0	0

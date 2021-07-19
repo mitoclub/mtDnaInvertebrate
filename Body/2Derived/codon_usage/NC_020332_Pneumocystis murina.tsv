@@ -1,65 +1,16 @@
-	YP_007475000.1|cox3	YP_007475001.1|atp9	YP_007475002.1|nad4L	YP_007475003.1|nad5	YP_007475004.1|nad4	YP_007475005.1|cob	YP_007475006.1|nad2	YP_007475007.1|nad3	YP_007475008.1|cox2	YP_007475009.1|nad6	YP_007475010.1|nad1	YP_007475011.1|orf_195	YP_007475012.1|cox1	YP_007475013.1|atp8	YP_007475014.1|atp6
-TTT	15	2	3	36	18	23	25	14	8	4	16	7	29	3	17
-TTC	8	3	1	13	15	9	10	2	3	1	13	3	19	2	8
-TTA	21	11	9	61	64	39	62	13	15	24	33	7	44	4	26
-TTG	1	1	3	10	8	4	8	0	2	2	1	2	3	0	0
-TCT	10	1	3	26	17	13	27	3	9	7	10	7	23	2	11
-TCC	1	0	1	4	4	2	10	3	1	3	4	2	4	0	0
-TCA	6	1	2	6	7	6	8	0	1	3	4	2	6	1	4
-TCG	0	0	0	0	4	2	1	0	1	0	2	0	2	0	3
-TAT	15	2	2	32	24	20	25	8	9	9	15	9	19	4	11
-TAC	1	0	0	1	1	4	2	0	1	2	2	3	3	1	2
-TGT	0	0	2	6	6	1	5	0	2	2	3	1	0	1	0
-TGC	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0
-TGA	0	0	1	0	1	0	1	0	0	0	0	1	0	0	0
-TGG	9	0	0	8	9	9	3	0	7	3	6	1	14	1	3
-CTT	8	0	3	7	10	4	13	1	1	6	6	5	6	2	5
-CTC	8	1	1	9	6	1	5	2	4	0	7	1	6	1	4
-CTA	1	1	0	3	5	7	8	2	4	1	3	2	5	0	3
-CTG	0	0	0	0	4	1	1	0	1	0	3	2	2	0	0
-CCT	3	0	0	9	12	11	6	3	4	2	8	6	15	2	5
-CCC	2	0	0	4	4	4	0	0	5	3	3	0	4	0	2
-CCA	3	1	0	5	5	5	2	1	3	2	5	1	10	1	1
-CCG	1	0	0	1	1	1	1	1	0	0	2	0	3	0	0
-CAT	10	0	2	12	12	13	4	0	7	2	1	3	17	0	4
-CAC	1	0	0	0	0	1	1	1	3	0	0	1	3	0	0
-CAA	3	2	1	7	4	3	13	3	8	2	8	10	9	3	7
-CAG	1	0	1	2	1	1	2	0	1	0	0	3	0	0	0
-CGT	0	0	0	3	0	2	1	0	1	0	1	1	0	0	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-CGA	0	1	2	6	1	6	1	1	3	0	2	1	5	1	1
-CGG	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0
-ATT	14	1	5	26	27	20	21	3	14	9	14	11	18	2	20
-ATC	4	0	1	5	11	3	14	3	6	3	9	6	12	1	5
-ATA	6	4	10	17	26	21	28	4	6	12	16	4	18	1	21
-ATG	6	3	5	23	8	11	6	1	6	7	5	3	24	1	8
-ACT	6	1	1	12	15	5	8	1	5	3	4	6	10	2	8
-ACC	1	0	0	2	2	0	4	0	1	1	3	1	2	0	1
-ACA	6	3	1	8	8	10	13	5	5	3	7	5	18	1	5
-ACG	1	0	0	2	1	2	3	1	0	0	1	1	0	0	1
-AAT	4	2	2	14	10	15	13	5	6	5	7	10	12	1	8
-AAC	0	0	0	0	1	2	4	0	1	1	0	2	3	0	1
-AAA	4	2	1	14	7	6	9	4	7	4	5	13	6	2	5
-AAG	0	0	0	3	0	0	5	0	0	3	1	7	1	1	0
-AGT	10	1	2	18	14	7	22	3	9	3	6	4	11	0	6
-AGC	0	0	0	1	0	1	1	0	0	0	1	2	1	0	0
-AGA	2	0	1	7	10	3	2	2	1	1	4	5	4	0	3
-AGG	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0
-GTT	3	0	1	14	6	10	7	1	4	6	8	2	12	1	7
-GTC	4	1	0	8	2	4	4	0	3	1	3	0	5	1	2
-GTA	7	2	2	13	12	9	10	5	5	6	11	1	12	3	0
-GTG	3	1	1	1	6	3	3	0	7	1	1	0	3	1	1
-GCT	5	2	2	9	8	11	2	0	1	4	11	1	16	0	4
-GCC	1	2	1	3	2	0	0	1	3	1	1	0	4	0	3
-GCA	2	6	1	12	8	8	6	1	4	2	10	1	8	0	0
-GCG	1	3	1	2	1	0	1	0	4	0	0	0	3	0	0
-GAT	4	0	2	12	9	9	9	1	11	4	4	2	13	0	1
-GAC	0	0	0	0	0	1	0	1	5	0	0	2	0	0	0
-GAA	9	1	4	12	7	4	6	3	10	6	12	9	7	0	6
-GAG	2	0	0	1	4	3	4	1	4	0	0	1	1	0	1
-GGT	9	5	2	15	11	8	7	2	4	4	10	1	12	0	5
-GGC	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0
-GGA	14	6	4	21	11	13	19	3	5	4	11	5	36	1	15
-GGG	3	0	1	3	2	2	2	1	2	0	3	2	3	0	0
-TAA	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox3	YP_007475000.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	15	8	21	1	10	1	6	0	15	1	0	1	0	9	8	8	1	0	3	2	3	1	10	1	3	1	0	0	0	0	14	4	6	6	6	1	6	1	4	0	4	0	10	0	2	1	3	4	7	3	5	1	2	1	4	0	9	2	9	0	14	3	1	0
+1	atp9	YP_007475001.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	2	3	11	1	1	0	1	0	2	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	2	0	0	0	1	0	1	0	4	3	1	0	3	0	2	0	2	0	1	0	0	0	0	1	2	1	2	2	6	3	0	0	1	0	5	0	6	0	1	0
+2	nad4L	YP_007475002.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	3	1	9	3	3	1	2	0	2	0	2	0	1	0	3	1	0	0	0	0	0	0	2	0	1	1	0	0	2	0	5	1	10	5	1	0	1	0	2	0	1	0	2	0	1	0	1	0	2	1	2	1	1	1	2	0	4	0	2	0	4	1	1	0
+3	nad5	YP_007475003.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	36	13	61	10	26	4	6	0	32	1	6	1	0	8	7	9	3	0	9	4	5	1	12	0	7	2	3	0	6	1	26	5	17	23	12	2	8	2	14	0	14	3	18	1	7	0	14	8	13	1	9	3	12	2	12	0	12	1	15	0	21	3	1	0
+4	nad4	YP_007475004.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	18	15	64	8	17	4	7	4	24	1	6	0	1	9	10	6	5	4	12	4	5	1	12	0	4	1	0	0	1	0	27	11	26	8	15	2	8	1	10	1	7	0	14	0	10	1	6	2	12	6	8	2	8	1	9	0	7	4	11	0	11	2	1	0
+5	cob	YP_007475005.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	23	9	39	4	13	2	6	2	20	4	1	0	0	9	4	1	7	1	11	4	5	1	13	1	3	1	2	0	6	0	20	3	21	11	5	0	10	2	15	2	6	0	7	1	3	1	10	4	9	3	11	0	8	0	9	1	4	3	8	0	13	2	1	0
+6	nad2	YP_007475006.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	25	10	62	8	27	10	8	1	25	2	5	0	1	3	13	5	8	1	6	0	2	1	4	1	13	2	1	0	1	0	21	14	28	6	8	4	13	3	13	4	9	5	22	1	2	0	7	4	10	3	2	0	6	1	9	0	6	4	7	0	19	2	1	0
+7	nad3	YP_007475007.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	14	2	13	0	3	3	0	0	8	0	0	1	0	0	1	2	2	0	3	0	1	1	0	1	3	0	0	0	1	0	3	3	4	1	1	0	5	1	5	0	4	0	3	0	2	0	1	0	5	0	0	1	1	0	1	1	3	1	2	1	3	1	1	0
+8	cox2	YP_007475008.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	8	3	15	2	9	1	1	1	9	1	2	0	0	7	1	4	4	1	4	5	3	0	7	3	8	1	1	0	3	1	14	6	6	6	5	1	5	0	6	1	7	0	9	0	1	0	4	3	5	7	1	3	4	4	11	5	10	4	4	1	5	2	1	0
+9	nad6	YP_007475009.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	4	1	24	2	7	3	3	0	9	2	2	0	0	3	6	0	1	0	2	3	2	0	2	0	2	0	0	0	0	0	9	3	12	7	3	1	3	0	5	1	4	3	3	0	1	0	6	1	6	1	4	1	2	0	4	0	6	0	4	1	4	0	0	1
+10	nad1	YP_007475010.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	16	13	33	1	10	4	4	2	15	2	3	0	0	6	6	7	3	3	8	3	5	2	1	0	8	0	1	0	2	0	14	9	16	5	4	3	7	1	7	0	5	1	6	1	4	1	8	3	11	1	11	1	10	0	4	0	12	0	10	0	11	3	1	0
+11	orf_195	YP_007475011.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	7	3	7	2	7	2	2	0	9	3	1	0	1	1	5	1	2	2	6	0	1	0	3	1	10	3	1	0	1	1	11	6	4	3	6	1	5	1	10	2	13	7	4	2	5	0	2	0	1	0	1	0	1	0	2	2	9	1	1	1	5	2	0	1
+12	cox1	YP_007475012.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	29	19	44	3	23	4	6	2	19	3	0	0	0	14	6	6	5	2	15	4	10	3	17	3	9	0	0	1	5	0	18	12	18	24	10	2	18	0	12	3	6	1	11	1	4	0	12	5	12	3	16	4	8	3	13	0	7	1	12	0	36	3	1	0
+13	atp8	YP_007475013.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	3	2	4	0	2	0	1	0	4	1	1	0	0	1	2	1	0	0	2	0	1	0	0	0	3	0	0	0	1	0	2	1	1	1	2	0	1	0	1	0	2	1	0	0	0	0	1	1	3	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+14	atp6	YP_007475014.1	Pneumocystis murina	Eukaryota, Fungi, Dikarya, Ascomycota, Taphrinomycotina, Pneumocystidomycetes, Pneumocystidaceae, Pneumocystis	17	8	26	0	11	0	4	3	11	2	0	0	0	3	5	4	3	0	5	2	1	0	4	0	7	0	1	0	1	0	20	5	21	8	8	1	5	1	8	1	5	0	6	0	3	0	7	2	0	1	4	3	0	0	1	0	6	1	5	0	15	0	1	0

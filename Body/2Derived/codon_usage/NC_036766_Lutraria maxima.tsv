@@ -1,65 +1,14 @@
-	YP_009455668.1|COX1	YP_009455669.1|ND6	YP_009455670.1|ND2	YP_009455671.1|COX3	YP_009455672.1|CYTB	YP_009455673.1|ATP8	YP_009455674.1|ND4	YP_009455675.1|ATP6	YP_009455676.1|ND3	YP_009455677.1|ND1	YP_009455678.1|ND5	YP_009455679.1|COX2	YP_009455680.1|ND4L
-TTT	48	16	27	22	38	4	48	19	15	34	59	15	15
-TTC	6	6	2	2	1	0	5	4	1	3	5	2	1
-TTA	29	10	21	13	17	3	22	13	5	13	16	10	4
-TTG	17	11	25	7	13	1	20	9	6	19	48	5	7
-TCT	16	8	13	7	6	0	19	12	2	11	19	8	8
-TCC	0	0	1	1	0	0	0	2	0	1	4	0	0
-TCA	4	1	3	1	5	0	5	5	1	0	3	3	0
-TCG	0	0	2	0	1	0	1	1	0	0	1	4	0
-TAT	16	3	11	16	16	2	11	5	1	12	21	13	1
-TAC	4	1	0	4	3	0	4	0	1	2	1	1	0
-TGT	4	4	7	4	8	2	9	3	3	9	11	5	6
-TGC	0	0	2	0	1	1	4	1	1	0	2	1	0
-TGA	5	1	1	4	5	2	7	4	0	0	4	2	0
-TGG	14	2	7	8	6	1	8	4	1	6	10	2	1
-CTT	10	3	7	1	8	0	11	2	5	6	16	5	2
-CTC	1	0	0	0	1	0	2	1	0	0	1	0	0
-CTA	0	2	7	3	3	0	3	3	0	1	3	1	1
-CTG	1	0	1	1	1	0	2	2	0	3	3	0	1
-CCT	17	2	4	4	18	0	10	2	3	7	7	2	0
-CCC	0	1	1	0	0	0	2	0	0	1	1	2	0
-CCA	3	0	0	2	4	0	3	0	0	0	0	0	0
-CCG	3	1	2	0	1	1	2	0	0	0	2	3	0
-CAT	16	0	2	11	10	0	5	1	1	0	4	2	1
-CAC	4	1	1	0	3	0	0	2	0	0	0	1	0
-CAA	0	1	2	0	0	0	2	0	1	3	3	0	0
-CAG	4	1	2	2	6	0	3	7	0	2	2	1	0
-CGT	7	2	1	1	2	0	1	2	2	2	5	2	1
-CGC	0	0	0	0	0	0	0	0	0	0	2	0	1
-CGA	4	0	0	2	2	0	2	2	1	2	0	0	0
-CGG	3	1	1	3	3	1	2	1	1	5	3	1	1
-ATT	34	9	8	11	24	3	19	13	9	9	25	4	2
-ATC	0	0	2	0	2	0	2	1	0	1	1	1	1
-ATA	11	1	14	3	6	1	21	6	4	5	12	4	2
-ATG	25	3	9	5	8	0	8	6	0	6	15	3	2
-ACT	14	0	3	11	10	1	6	10	0	4	7	3	1
-ACC	1	0	0	4	2	0	1	1	0	2	1	1	0
-ACA	5	0	0	1	1	0	1	3	1	1	3	0	0
-ACG	3	1	0	1	0	0	0	0	0	1	2	0	0
-AAT	14	0	4	4	9	0	8	5	0	6	11	6	1
-AAC	1	0	0	1	3	0	1	0	1	1	1	1	0
-AAA	4	3	1	5	5	1	5	3	1	3	3	5	0
-AAG	7	2	6	10	4	0	6	1	2	4	14	5	1
-AGT	8	2	8	1	4	3	6	0	2	4	14	7	2
-AGC	0	3	3	1	1	1	2	1	1	0	2	0	0
-AGA	9	1	5	2	5	0	6	0	1	3	10	3	2
-AGG	13	5	5	5	6	0	17	5	2	7	14	8	2
-GTT	23	17	32	20	25	4	29	10	3	19	38	17	8
-GTC	0	0	6	2	1	0	3	0	1	2	1	0	0
-GTA	16	3	11	6	8	0	13	10	7	6	13	5	5
-GTG	6	5	4	3	8	0	13	4	1	6	18	2	3
-GCT	28	2	4	8	19	0	8	6	5	10	20	5	0
-GCC	2	0	1	2	0	0	0	0	1	4	3	0	0
-GCA	3	2	1	0	2	0	5	3	0	0	3	0	1
-GCG	4	1	0	1	2	0	1	0	0	4	5	0	1
-GAT	11	2	2	7	9	1	7	2	2	4	15	11	0
-GAC	1	1	0	2	5	0	0	0	1	1	2	1	0
-GAA	2	2	3	2	2	0	3	2	2	0	1	7	0
-GAG	7	2	3	7	3	0	7	5	2	12	8	12	2
-GGT	21	6	18	13	13	2	14	5	5	10	31	11	4
-GGC	1	1	3	1	0	0	0	1	1	1	2	2	0
-GGA	7	0	7	4	4	0	12	3	0	2	3	5	0
-GGG	17	7	14	4	11	1	14	7	2	13	19	6	5
-TAA	0	1	0	0	0	1	0	1	0	1	0	1	1
-TAG	1	0	1	1	1	0	1	0	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009455668.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	48	6	29	17	16	0	4	0	16	4	4	0	5	14	10	1	0	1	17	0	3	3	16	4	0	4	7	0	4	3	34	0	11	25	14	1	5	3	14	1	4	7	8	0	9	13	23	0	16	6	28	2	3	4	11	1	2	7	21	1	7	17	0	1
+1	ND6	YP_009455669.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	16	6	10	11	8	0	1	0	3	1	4	0	1	2	3	0	2	0	2	1	0	1	0	1	1	1	2	0	0	1	9	0	1	3	0	0	0	1	0	0	3	2	2	3	1	5	17	0	3	5	2	0	2	1	2	1	2	2	6	1	0	7	1	0
+2	ND2	YP_009455670.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	27	2	21	25	13	1	3	2	11	0	7	2	1	7	7	0	7	1	4	1	0	2	2	1	2	2	1	0	0	1	8	2	14	9	3	0	0	0	4	0	1	6	8	3	5	5	32	6	11	4	4	1	1	0	2	0	3	3	18	3	7	14	0	1
+3	COX3	YP_009455671.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	22	2	13	7	7	1	1	0	16	4	4	0	4	8	1	0	3	1	4	0	2	0	11	0	0	2	1	0	2	3	11	0	3	5	11	4	1	1	4	1	5	10	1	1	2	5	20	2	6	3	8	2	0	1	7	2	2	7	13	1	4	4	0	1
+4	CYTB	YP_009455672.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	38	1	17	13	6	0	5	1	16	3	8	1	5	6	8	1	3	1	18	0	4	1	10	3	0	6	2	0	2	3	24	2	6	8	10	2	1	0	9	3	5	4	4	1	5	6	25	1	8	8	19	0	2	2	9	5	2	3	13	0	4	11	0	1
+5	ATP8	YP_009455673.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	4	0	3	1	0	0	0	0	2	0	2	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	3	0	1	0	1	0	0	0	0	0	1	0	3	1	0	0	4	0	0	0	0	0	0	0	1	0	0	0	2	0	0	1	1	0
+6	ND4	YP_009455674.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	48	5	22	20	19	0	5	1	11	4	9	4	7	8	11	2	3	2	10	2	3	2	5	0	2	3	1	0	2	2	19	2	21	8	6	1	1	0	8	1	5	6	6	2	6	17	29	3	13	13	8	0	5	1	7	0	3	7	14	0	12	14	0	1
+7	ATP6	YP_009455675.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	19	4	13	9	12	2	5	1	5	0	3	1	4	4	2	1	3	2	2	0	0	0	1	2	0	7	2	0	2	1	13	1	6	6	10	1	3	0	5	0	3	1	0	1	0	5	10	0	10	4	6	0	3	0	2	0	2	5	5	1	3	7	1	0
+8	ND3	YP_009455676.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	15	1	5	6	2	0	1	0	1	1	3	1	0	1	5	0	0	0	3	0	0	0	1	0	1	0	2	0	1	1	9	0	4	0	0	0	1	0	0	1	1	2	2	1	1	2	3	1	7	1	5	1	0	0	2	1	2	2	5	1	0	2	0	1
+9	ND1	YP_009455677.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	34	3	13	19	11	1	0	0	12	2	9	0	0	6	6	0	1	3	7	1	0	0	0	0	3	2	2	0	2	5	9	1	5	6	4	2	1	1	6	1	3	4	4	0	3	7	19	2	6	6	10	4	0	4	4	1	0	12	10	1	2	13	1	0
+10	ND5	YP_009455678.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	59	5	16	48	19	4	3	1	21	1	11	2	4	10	16	1	3	3	7	1	0	2	4	0	3	2	5	2	0	3	25	1	12	15	7	1	3	2	11	1	3	14	14	2	10	14	38	1	13	18	20	3	3	5	15	2	1	8	31	2	3	19	0	1
+11	COX2	YP_009455679.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	15	2	10	5	8	0	3	4	13	1	5	1	2	2	5	0	1	0	2	2	0	3	2	1	0	1	2	0	0	1	4	1	4	3	3	1	0	0	6	1	5	5	7	0	3	8	17	0	5	2	5	0	0	0	11	1	7	12	11	2	5	6	1	0
+12	ND4L	YP_009455680.1	Lutraria maxima	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Heteroconchia, Euheterodonta, Veneroida, Mactroidea, Mactridae, Lutraria	15	1	4	7	8	0	0	0	1	0	6	0	0	1	2	0	1	1	0	0	0	0	1	0	0	0	1	1	0	1	2	1	2	2	1	0	0	0	1	0	0	1	2	0	2	2	8	0	5	3	0	0	1	1	0	0	0	2	4	0	0	5	1	0

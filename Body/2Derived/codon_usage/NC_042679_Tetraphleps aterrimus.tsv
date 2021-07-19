@@ -1,65 +1,10 @@
-	YP_009648548.1	YP_009648549.1	YP_009648550.1	YP_009648551.1	YP_009648552.1	YP_009648553.1	YP_009648554.1	YP_009648558.1	YP_009648559.1
-TTT	12	28	5	1	16	11	3	3	19
-TTC	3	15	5	2	3	12	6	2	6
-TTA	15	31	6	1	22	18	8	11	28
-TTG	1	2	1	0	0	2	0	1	3
-TCT	5	6	3	0	2	6	3	2	6
-TCC	3	1	0	0	2	1	0	0	0
-TCA	11	25	10	1	9	8	4	5	8
-TCG	0	0	0	0	1	0	0	1	1
-TAT	6	10	5	0	3	6	0	3	7
-TAC	6	5	4	2	1	3	2	1	7
-TGT	3	0	1	0	0	2	0	0	1
-TGC	1	0	1	1	0	0	2	0	3
-TGA	9	16	6	3	5	10	3	2	12
-TGG	1	0	0	1	0	3	0	0	1
-CTT	1	2	1	0	6	1	0	0	4
-CTC	0	0	0	0	0	0	0	0	1
-CTA	7	18	8	3	3	4	4	2	8
-CTG	0	0	1	0	0	1	0	0	0
-CCT	3	12	5	2	7	3	1	2	6
-CCC	0	2	0	0	0	1	1	0	2
-CCA	5	11	6	1	2	4	1	1	14
-CCG	0	1	0	0	1	0	1	0	0
-CAT	3	3	2	0	2	11	1	1	6
-CAC	1	12	3	0	2	3	0	1	5
-CAA	7	8	8	1	2	7	1	5	6
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	0	0	1	0	0	0	1
-CGC	0	0	2	0	0	0	0	0	0
-CGA	2	7	5	0	2	2	1	1	6
-CGG	0	1	0	0	0	1	1	0	0
-ATT	30	37	20	6	13	19	13	16	31
-ATC	3	14	4	2	5	4	2	1	8
-ATA	77	40	23	5	28	21	16	34	36
-ATG	2	3	1	2	3	3	0	2	5
-ACT	5	8	6	1	7	3	3	3	6
-ACC	1	0	1	0	1	3	0	2	1
-ACA	12	20	10	6	11	9	6	9	13
-ACG	0	1	0	0	1	2	0	0	2
-AAT	16	13	12	2	11	5	2	9	11
-AAC	14	8	4	0	2	3	1	2	14
-AAA	18	8	4	4	6	5	7	9	11
-AAG	0	1	3	1	0	0	0	0	0
-AGT	2	1	0	0	1	2	1	0	1
-AGC	0	0	0	0	0	1	0	1	0
-AGA	9	10	2	0	8	8	2	6	6
-AGG	0	1	0	0	0	1	0	0	0
-GTT	2	9	2	0	3	2	1	1	4
-GTC	0	0	0	0	0	2	0	0	1
-GTA	7	19	6	0	6	8	4	7	13
-GTG	0	2	3	0	1	1	0	1	0
-GCT	2	7	1	0	5	2	1	0	4
-GCC	0	3	0	0	0	1	0	1	1
-GCA	4	18	6	1	5	4	3	2	10
-GCG	1	1	0	0	0	0	0	0	0
-GAT	0	7	7	0	1	4	2	1	5
-GAC	1	7	1	0	0	1	1	0	3
-GAA	4	10	13	2	4	6	5	5	6
-GAG	0	0	1	0	0	0	0	0	0
-GGT	2	5	1	0	3	2	1	0	2
-GGC	1	0	0	0	0	0	0	0	0
-GGA	6	31	4	0	4	15	3	4	19
-GGG	1	10	3	0	2	4	0	0	2
-TAA	1	0	0	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009648548.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	12	3	15	1	5	3	11	0	6	6	3	1	9	1	1	0	7	0	3	0	5	0	3	1	7	0	0	0	2	0	30	3	77	2	5	1	12	0	16	14	18	0	2	0	9	0	2	0	7	0	2	0	4	1	0	1	4	0	2	1	6	1	1	0
+1	None	YP_009648549.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	28	15	31	2	6	1	25	0	10	5	0	0	16	0	2	0	18	0	12	2	11	1	3	12	8	0	1	0	7	1	37	14	40	3	8	0	20	1	13	8	8	1	1	0	10	1	9	0	19	2	7	3	18	1	7	7	10	0	5	0	31	10	0	0
+2	None	YP_009648550.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	5	5	6	1	3	0	10	0	5	4	1	1	6	0	1	0	8	1	5	0	6	0	2	3	8	0	0	2	5	0	20	4	23	1	6	1	10	0	12	4	4	3	0	0	2	0	2	0	6	3	1	0	6	0	7	1	13	1	1	0	4	3	0	0
+3	None	YP_009648551.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	1	2	1	0	0	0	1	0	0	2	0	1	3	1	0	0	3	0	2	0	1	0	0	0	1	0	0	0	0	0	6	2	5	2	1	0	6	0	2	0	4	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0
+4	None	YP_009648552.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	16	3	22	0	2	2	9	1	3	1	0	0	5	0	6	0	3	0	7	0	2	1	2	2	2	0	1	0	2	0	13	5	28	3	7	1	11	1	11	2	6	0	1	0	8	0	3	0	6	1	5	0	5	0	1	0	4	0	3	0	4	2	0	0
+5	None	YP_009648553.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	11	12	18	2	6	1	8	0	6	3	2	0	10	3	1	0	4	1	3	1	4	0	11	3	7	0	0	0	2	1	19	4	21	3	3	3	9	2	5	3	5	0	2	1	8	1	2	2	8	1	2	1	4	0	4	1	6	0	2	0	15	4	1	0
+6	None	YP_009648554.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	3	6	8	0	3	0	4	0	0	2	0	2	3	0	0	0	4	0	1	1	1	1	1	0	1	0	0	0	1	1	13	2	16	0	3	0	6	0	2	1	7	0	1	0	2	0	1	0	4	0	1	0	3	0	2	1	5	0	1	0	3	0	0	1
+7	None	YP_009648558.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	3	2	11	1	2	0	5	1	3	1	0	0	2	0	0	0	2	0	2	0	1	0	1	1	5	0	0	0	1	0	16	1	34	2	3	2	9	0	9	2	9	0	0	1	6	0	1	0	7	1	0	1	2	0	1	0	5	0	0	0	4	0	1	0
+8	None	YP_009648559.1	Tetraphleps aterrimus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Anthocoridae, Anthocorinae, Tetraphleps	19	6	28	3	6	0	8	1	7	7	1	3	12	1	4	1	8	0	6	2	14	0	6	5	6	0	1	0	6	0	31	8	36	5	6	1	13	2	11	14	11	0	1	0	6	0	4	1	13	0	4	1	10	0	5	3	6	0	2	0	19	2	0	1

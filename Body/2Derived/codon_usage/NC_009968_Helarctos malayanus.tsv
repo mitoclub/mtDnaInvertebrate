@@ -1,65 +1,13 @@
-	YP_001542755.1|ND1	YP_001542756.1|ND2	YP_001542757.1|COX1	YP_001542758.1|COX2	YP_001542759.1|ATP8	YP_001542760.1|ATP6	YP_001542761.1|COX3	YP_001542762.1|ND3	YP_001542763.1|ND4L	YP_001542764.1|ND4	YP_001542765.1|ND5	YP_001542767.1|CYTB
-TTT	7	9	20	4	1	6	10	4	2	9	20	13
-TTC	14	4	22	1	2	6	15	4	3	11	26	15
-TTA	4	5	10	9	2	8	1	4	5	11	11	6
-TTG	0	0	4	0	0	3	1	0	0	5	2	2
-TCT	2	3	11	5	3	4	3	1	1	6	9	3
-TCC	3	11	5	2	0	2	4	2	6	11	12	8
-TCA	11	10	11	7	5	5	11	2	0	6	12	9
-TCG	1	3	1	1	0	0	0	1	0	1	1	3
-TAT	7	4	10	5	1	1	5	2	1	8	11	6
-TAC	5	5	9	6	1	2	6	1	3	9	7	8
-TGT	0	0	1	1	1	0	0	0	1	1	1	0
-TGC	1	0	0	1	0	0	2	1	2	2	3	4
-TGA	9	10	16	4	3	3	9	3	0	10	12	11
-TGG	0	0	1	1	0	0	3	1	0	3	0	1
-CTT	5	4	11	2	2	2	9	3	4	12	15	4
-CTC	10	10	4	6	0	5	2	5	2	16	14	9
-CTA	28	34	18	10	5	15	17	11	9	42	37	33
-CTG	7	2	11	7	1	8	2	4	2	10	6	2
-CCT	5	5	9	4	3	6	1	2	1	6	4	2
-CCC	12	9	9	2	2	4	4	3	0	10	9	11
-CCA	5	8	8	7	1	2	5	1	1	6	12	8
-CCG	0	1	2	0	1	1	1	0	0	0	0	2
-CAT	1	1	7	2	0	3	7	0	2	2	5	3
-CAC	3	5	11	5	0	4	10	0	0	8	11	10
-CAA	4	7	2	7	2	4	7	1	2	10	18	5
-CAG	2	1	4	0	1	4	0	1	0	1	4	1
-CGT	2	0	1	1	0	0	0	0	0	0	0	0
-CGC	1	1	0	0	0	1	1	1	0	1	4	0
-CGA	5	2	6	2	1	3	1	0	1	9	4	7
-CGG	0	0	1	3	0	1	3	0	0	0	0	1
-ATT	11	20	28	11	1	18	8	4	3	14	25	15
-ATC	10	20	11	7	2	7	5	3	2	19	32	26
-ATA	13	24	26	9	2	5	9	7	4	27	32	7
-ATG	6	8	9	6	1	6	2	0	3	8	5	6
-ACT	7	3	13	7	0	7	11	2	1	12	18	3
-ACC	4	6	7	3	1	9	3	1	1	8	15	9
-ACA	11	19	17	7	4	7	8	2	4	16	22	14
-ACG	2	1	1	2	1	1	0	0	0	3	1	1
-AAT	4	9	12	4	0	4	2	1	1	8	16	4
-AAC	9	6	6	1	0	5	3	3	6	11	16	11
-AAA	6	14	9	4	6	3	1	3	0	10	18	7
-AAG	1	0	0	1	2	1	1	0	0	3	5	2
-AGT	0	0	0	1	0	1	3	2	0	6	3	0
-AGC	2	2	3	3	0	4	3	0	0	8	8	2
-GTT	3	3	5	1	1	3	2	1	1	3	4	3
-GTC	7	3	11	3	2	4	5	0	4	3	5	5
-GTA	10	6	13	5	0	5	5	2	6	8	13	8
-GTG	1	1	7	4	1	1	4	0	0	3	1	0
-GCT	8	5	8	2	0	7	1	1	2	6	8	4
-GCC	12	10	14	2	0	5	5	7	3	12	18	11
-GCA	11	10	14	4	1	4	9	5	2	15	18	8
-GCG	0	0	4	1	0	0	1	0	0	1	1	2
-GAT	1	1	6	5	0	1	3	2	1	2	3	0
-GAC	2	1	8	5	1	1	0	1	0	2	8	12
-GAA	9	3	6	10	3	2	4	4	1	5	8	6
-GAG	2	2	4	5	0	1	4	3	1	3	4	0
-GGT	1	1	5	2	0	1	1	1	1	2	0	2
-GGC	4	8	9	3	0	3	6	0	0	6	7	5
-GGA	6	7	19	3	0	4	8	2	3	7	19	17
-GGG	1	0	14	1	0	3	4	0	0	2	3	2
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	1	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001542755.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	7	14	4	0	2	3	11	1	7	5	0	1	9	0	5	10	28	7	5	12	5	0	1	3	4	2	2	1	5	0	11	10	13	6	7	4	11	2	4	9	6	1	0	2	3	7	10	1	8	12	11	0	1	2	9	2	1	4	6	1	0	0	0	0
+1	ND2	YP_001542756.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	9	4	5	0	3	11	10	3	4	5	0	0	10	0	4	10	34	2	5	9	8	1	1	5	7	1	0	1	2	0	20	20	24	8	3	6	19	1	9	6	14	0	0	2	3	3	6	1	5	10	10	0	1	1	3	2	1	8	7	0	0	0	0	0
+2	COX1	YP_001542757.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	20	22	10	4	11	5	11	1	10	9	1	0	16	1	11	4	18	11	9	9	8	2	7	11	2	4	1	0	6	1	28	11	26	9	13	7	17	1	12	6	9	0	0	3	5	11	13	7	8	14	14	4	6	8	6	4	5	9	19	14	1	0	0	0
+3	COX2	YP_001542758.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	4	1	9	0	5	2	7	1	5	6	1	1	4	1	2	6	10	7	4	2	7	0	2	5	7	0	1	0	2	3	11	7	9	6	7	3	7	2	4	1	4	1	1	3	1	3	5	4	2	2	4	1	5	5	10	5	2	3	3	1	0	1	0	0
+4	ATP8	YP_001542759.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	1	2	2	0	3	0	5	0	1	1	1	0	3	0	2	0	5	1	3	2	1	1	0	0	2	1	0	0	1	0	1	2	2	1	0	1	4	1	0	0	6	2	0	0	1	2	0	1	0	0	1	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_001542760.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	6	6	8	3	4	2	5	0	1	2	0	0	3	0	2	5	15	8	6	4	2	1	3	4	4	4	0	1	3	1	18	7	5	6	7	9	7	1	4	5	3	1	1	4	3	4	5	1	7	5	4	0	1	1	2	1	1	3	4	3	1	0	0	0
+6	COX3	YP_001542761.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	10	15	1	1	3	4	11	0	5	6	0	2	9	3	9	2	17	2	1	4	5	1	7	10	7	0	0	1	1	3	8	5	9	2	11	3	8	0	2	3	1	1	3	3	2	5	5	4	1	5	9	1	3	0	4	4	1	6	8	4	0	0	0	0
+7	ND3	YP_001542762.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	4	4	4	0	1	2	2	1	2	1	0	1	3	1	3	5	11	4	2	3	1	0	0	0	1	1	0	1	0	0	4	3	7	0	2	1	2	0	1	3	3	0	2	0	1	0	2	0	1	7	5	0	2	1	4	3	1	0	2	0	0	0	0	0
+8	ND4L	YP_001542763.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	2	3	5	0	1	6	0	0	1	3	1	2	0	0	4	2	9	2	1	0	1	0	2	0	2	0	0	0	1	0	3	2	4	3	1	1	4	0	1	6	0	0	0	0	1	4	6	0	2	3	2	0	1	0	1	1	1	0	3	0	1	0	0	0
+9	ND4	YP_001542764.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	9	11	11	5	6	11	6	1	8	9	1	2	10	3	12	16	42	10	6	10	6	0	2	8	10	1	0	1	9	0	14	19	27	8	12	8	16	3	8	11	10	3	6	8	3	3	8	3	6	12	15	1	2	2	5	3	2	6	7	2	0	0	0	0
+10	ND5	YP_001542765.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	20	26	11	2	9	12	12	1	11	7	1	3	12	0	15	14	37	6	4	9	12	0	5	11	18	4	0	4	4	0	25	32	32	5	18	15	22	1	16	16	18	5	3	8	4	5	13	1	8	18	18	1	3	8	8	4	0	7	19	3	1	0	0	0
+11	CYTB	YP_001542767.1	Helarctos malayanus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Ursidae, Helarctos	13	15	6	2	3	8	9	3	6	8	0	4	11	1	4	9	33	2	2	11	8	2	3	10	5	1	0	0	7	1	15	26	7	6	3	9	14	1	4	11	7	2	0	2	3	5	8	0	4	11	8	2	0	12	6	0	2	5	17	2	0	0	1	0

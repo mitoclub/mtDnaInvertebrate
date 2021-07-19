@@ -1,65 +1,15 @@
-	YP_009310800.1	YP_009310801.1	YP_009310802.1	YP_009310803.1	YP_009310804.1	YP_009310805.1	YP_009310806.1	YP_009310807.1	YP_009310808.1	YP_009310809.1	YP_009310810.1	YP_009310811.1	YP_009310812.1	YP_009310813.1
-TTT	10	15	10	24	20	1	0	0	13	5	19	24	1	9
-TTC	1	2	5	13	24	0	0	0	0	1	2	1	5	0
-TTA	27	40	37	43	68	0	0	0	31	13	47	49	12	36
-TTG	2	1	1	0	0	0	0	0	1	0	0	0	0	0
-TCT	3	8	6	9	15	0	0	0	8	2	9	11	0	5
-TCC	1	1	0	0	1	0	0	0	0	0	0	0	0	0
-TCA	7	3	10	16	24	1	0	1	5	1	7	6	5	1
-TCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TAT	14	32	13	20	23	0	0	0	25	3	9	48	1	26
-TAC	0	2	2	1	2	0	0	0	0	0	2	1	0	0
-TGT	3	6	2	4	1	0	0	0	6	0	1	1	1	1
-TGC	1	1	0	0	0	1	0	0	0	0	0	0	0	0
-TGA	5	10	9	7	10	1	0	0	2	0	5	5	0	3
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	0	6	0	1	1	0	0	0	1	0	2	5	0	3
-CTC	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-CTA	0	6	4	4	5	0	0	0	2	1	5	4	1	1
-CTG	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	7	8	4	11	11	0	0	0	5	1	6	10	2	3
-CCC	0	0	0	0	0	0	0	0	3	0	0	0	0	0
-CCA	6	2	5	8	14	0	0	0	3	2	2	0	0	0
-CCG	0	2	0	0	0	0	0	0	1	0	0	0	0	0
-CAT	5	10	12	13	13	0	0	0	6	0	4	6	0	4
-CAC	0	1	3	0	1	0	0	0	0	0	0	0	0	0
-CAA	9	5	4	6	10	0	0	0	7	3	5	7	1	4
-CAG	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGT	0	0	0	0	0	2	0	0	1	0	0	3	0	0
-CGC	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	25	51	15	28	44	0	0	0	28	4	29	46	7	31
-ATC	1	2	4	10	5	0	0	0	1	0	7	2	2	2
-ATA	6	22	4	1	4	1	0	0	26	2	4	23	0	43
-ATG	2	1	8	16	18	0	0	0	0	2	7	2	3	2
-ACT	7	5	8	6	7	0	0	1	3	0	5	3	0	8
-ACC	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-ACA	7	8	6	7	19	0	1	1	4	1	10	6	2	2
-ACG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	7	76	9	19	20	0	0	0	31	1	14	79	1	122
-AAC	1	2	0	1	5	0	0	0	1	0	0	1	1	1
-AAA	8	53	3	7	10	0	0	0	29	1	5	53	2	39
-AAG	0	2	0	0	0	0	0	1	2	0	0	1	0	0
-AGT	2	10	4	3	3	0	0	0	3	0	3	3	0	8
-AGC	0	2	0	0	0	0	0	0	1	0	0	0	0	0
-AGA	6	8	6	11	9	0	0	0	11	2	4	7	1	4
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	11	5	9	11	10	0	0	0	3	1	4	5	2	5
-GTC	1	1	1	0	0	1	0	0	1	0	0	0	0	0
-GTA	8	9	14	24	28	0	0	0	8	1	6	6	4	2
-GTG	0	1	0	1	0	2	0	0	0	0	0	0	0	0
-GCT	8	5	13	11	19	0	0	0	2	0	8	5	6	0
-GCC	2	1	0	0	0	0	0	0	1	0	0	0	0	0
-GCA	4	2	7	9	23	0	0	0	0	0	3	2	4	0
-GCG	0	1	0	2	2	0	0	0	0	0	0	0	0	0
-GAT	13	20	5	8	11	0	0	0	9	0	4	23	1	7
-GAC	1	0	0	0	2	0	0	0	1	0	0	1	0	0
-GAA	15	17	7	5	8	0	0	0	8	0	4	14	1	3
-GAG	1	0	0	0	1	0	0	0	0	0	0	0	0	0
-GGT	6	9	16	20	24	0	0	0	10	1	14	9	8	6
-GGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGA	6	8	3	5	18	0	0	0	2	0	3	2	2	0
-GGG	0	0	0	0	1	0	0	0	3	0	0	1	0	0
-TAA	1	1	1	1	1	0	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_009310800.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	10	1	27	2	3	1	7	0	14	0	3	1	5	0	0	0	0	1	7	0	6	0	5	0	9	1	0	0	0	0	25	1	6	2	7	0	7	0	7	1	8	0	2	0	6	0	11	1	8	0	8	2	4	0	13	1	15	1	6	0	6	0	1	0
+1	None	YP_009310801.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	15	2	40	1	8	1	3	0	32	2	6	1	10	0	6	0	6	0	8	0	2	2	10	1	5	0	0	0	0	0	51	2	22	1	5	0	8	0	76	2	53	2	10	2	8	0	5	1	9	1	5	1	2	1	20	0	17	0	9	0	8	0	1	0
+2	None	YP_009310802.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	10	5	37	1	6	0	10	0	13	2	2	0	9	0	0	0	4	0	4	0	5	0	12	3	4	0	0	0	0	0	15	4	4	8	8	0	6	0	9	0	3	0	4	0	6	0	9	1	14	0	13	0	7	0	5	0	7	0	16	0	3	0	1	0
+3	None	YP_009310803.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	24	13	43	0	9	0	16	0	20	1	4	0	7	0	1	0	4	0	11	0	8	0	13	0	6	0	0	0	0	0	28	10	1	16	6	0	7	0	19	1	7	0	3	0	11	0	11	0	24	1	11	0	9	2	8	0	5	0	20	0	5	0	1	0
+4	None	YP_009310804.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	20	24	68	0	15	1	24	0	23	2	1	0	10	0	1	0	5	0	11	0	14	0	13	1	10	0	0	0	0	0	44	5	4	18	7	0	19	0	20	5	10	0	3	0	9	0	10	0	28	0	19	0	23	2	11	2	8	1	24	0	18	1	1	0
+5	None	YP_009310805.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	1	0	0	0	0	0	1	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+6	None	YP_009310806.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+7	None	YP_009310807.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+8	None	YP_009310808.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	13	0	31	1	8	0	5	0	25	0	6	0	2	0	1	0	2	0	5	3	3	1	6	0	7	0	1	0	0	0	28	1	26	0	3	0	4	0	31	1	29	2	3	1	11	0	3	1	8	0	2	1	0	0	9	1	8	0	10	0	2	3	1	0
+9	None	YP_009310809.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	5	1	13	0	2	0	1	0	3	0	0	0	0	0	0	0	1	0	1	0	2	0	0	0	3	0	0	0	0	0	4	0	2	2	0	0	1	0	1	0	1	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+10	None	YP_009310810.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	19	2	47	0	9	0	7	0	9	2	1	0	5	0	2	0	5	0	6	0	2	0	4	0	5	0	0	0	0	0	29	7	4	7	5	0	10	0	14	0	5	0	3	0	4	0	4	0	6	0	8	0	3	0	4	0	4	0	14	0	3	0	1	0
+11	None	YP_009310811.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	24	1	49	0	11	0	6	0	48	1	1	0	5	0	5	0	4	0	10	0	0	0	6	0	7	0	3	0	0	0	46	2	23	2	3	1	6	0	79	1	53	1	3	0	7	0	5	0	6	0	5	0	2	0	23	1	14	0	9	0	2	1	1	0
+12	None	YP_009310812.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	1	5	12	0	0	0	5	0	1	0	1	0	0	0	0	0	1	0	2	0	0	0	0	0	1	0	0	0	0	0	7	2	0	3	0	0	2	0	1	1	2	0	0	0	1	0	2	0	4	0	6	0	4	0	1	0	1	0	8	0	2	0	1	0
+13	None	YP_009310813.1	Saccharomyces arboricola	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Saccharomyces	9	0	36	0	5	0	1	0	26	0	1	0	3	0	3	0	1	0	3	0	0	0	4	0	4	0	0	0	0	0	31	2	43	2	8	0	2	0	122	1	39	0	8	0	4	0	5	0	2	0	0	0	0	0	7	0	3	0	6	0	0	0	1	0

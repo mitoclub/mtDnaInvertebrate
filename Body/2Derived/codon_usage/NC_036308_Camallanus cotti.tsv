@@ -1,65 +1,14 @@
-	YP_009442443.1|COX3	YP_009442444.1|ND4	YP_009442445.1|ND2	YP_009442446.1|ND1	YP_009442447.1|ATP6	YP_009442448.1|COX1	YP_009442449.1|COX2	YP_009442450.1|ND3	YP_009442451.1|ND5	YP_009442452.1|CYTB	YP_009442453.1|COX3	YP_009442454.1|ND6	YP_009442455.1|ND4L
-TTT	34	72	48	40	29	45	21	24	101	50	33	35	19
-TTC	4	5	3	3	2	3	0	0	3	3	4	0	0
-TTA	15	25	10	18	9	25	7	7	29	14	15	7	5
-TTG	16	29	28	21	8	30	15	8	40	34	15	15	6
-TCT	10	24	13	12	6	16	9	2	20	13	10	5	1
-TCC	2	0	1	0	0	0	0	0	0	2	2	0	0
-TCA	1	0	1	1	1	2	3	0	1	2	1	0	1
-TCG	1	2	1	0	2	2	2	0	0	0	2	0	0
-TAT	9	32	11	13	14	23	7	4	21	23	10	10	5
-TAC	0	1	1	8	0	2	2	0	2	0	0	0	0
-TGT	7	15	9	5	3	7	8	1	20	3	7	7	4
-TGC	1	0	2	0	0	2	0	0	0	1	1	2	0
-TGA	3	2	3	2	2	6	2	1	4	8	3	2	0
-TGG	4	2	7	3	2	8	3	1	5	7	4	4	0
-CTT	1	3	4	5	4	6	0	2	2	2	2	2	0
-CTC	0	0	0	1	0	2	0	0	0	0	0	0	0
-CTA	0	2	0	1	0	4	1	1	3	1	0	0	0
-CTG	0	4	0	1	2	1	2	0	4	2	0	2	0
-CCT	5	4	2	4	4	14	9	1	7	9	5	2	0
-CCC	0	0	0	1	1	2	0	0	0	0	0	0	0
-CCA	0	1	1	2	0	1	0	0	0	1	0	0	0
-CCG	1	3	0	0	0	1	0	0	0	0	1	0	0
-CAT	8	5	2	1	7	12	4	0	5	6	8	1	0
-CAC	1	0	0	0	1	3	4	0	0	0	1	0	0
-CAA	0	2	0	0	0	1	2	0	1	1	0	0	0
-CAG	1	1	4	4	2	3	1	1	5	3	1	0	0
-CGT	3	2	1	5	5	8	3	0	4	3	3	1	1
-CGC	0	0	0	1	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	1	1	0	0	0	1	0	0	0
-CGG	0	0	0	1	0	0	0	0	0	0	0	0	0
-ATT	14	16	10	15	17	25	15	7	25	24	14	4	6
-ATC	0	1	0	0	1	3	1	0	1	2	0	0	0
-ATA	2	5	7	5	6	11	6	1	11	6	2	2	2
-ATG	9	17	11	9	5	18	5	2	10	10	10	2	5
-ACT	5	4	3	4	7	20	5	0	4	4	5	0	0
-ACC	1	0	1	0	0	1	3	0	2	1	1	0	0
-ACA	2	1	1	0	1	7	0	0	1	0	2	0	0
-ACG	0	0	1	0	0	1	0	1	1	1	0	0	0
-AAT	10	6	5	2	4	16	6	1	11	11	9	3	0
-AAC	0	0	0	0	0	1	0	0	0	0	0	0	0
-AAA	3	3	3	4	3	3	0	0	6	2	2	0	0
-AAG	2	5	1	6	5	4	3	3	5	6	2	1	2
-AGT	7	11	6	10	9	21	5	5	23	12	7	7	3
-AGC	0	0	1	2	1	0	0	0	4	0	0	0	0
-AGA	1	4	2	4	1	8	6	1	4	6	2	3	1
-AGG	5	4	1	2	3	5	1	1	8	6	5	1	1
-GTT	12	25	26	23	13	26	11	16	40	28	12	13	4
-GTC	1	2	0	0	0	2	0	0	2	1	1	0	0
-GTA	5	8	5	3	0	7	2	0	3	3	5	3	0
-GTG	8	13	8	8	6	13	10	4	15	8	7	4	1
-GCT	5	11	1	4	3	17	3	1	7	6	5	1	1
-GCC	1	1	0	1	1	1	0	0	2	1	1	0	0
-GCA	0	1	2	1	0	3	1	0	0	2	0	0	0
-GCG	0	0	0	1	0	2	1	0	1	0	0	0	0
-GAT	6	5	5	4	4	8	12	2	17	7	6	5	1
-GAC	2	0	0	0	1	5	2	0	2	0	2	0	0
-GAA	1	3	0	2	1	2	0	0	0	2	1	0	0
-GAG	6	4	3	7	5	6	6	4	4	5	6	1	2
-GGT	12	16	8	13	11	30	9	6	26	14	12	9	5
-GGC	0	2	1	0	2	4	0	1	3	1	0	0	1
-GGA	3	2	1	3	1	6	3	1	4	3	3	1	0
-GGG	3	4	5	5	6	11	4	1	8	4	3	1	0
-TAA	1	0	0	1	0	0	0	0	0	0	1	1	0
-TAG	0	1	0	0	0	1	0	0	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009442443.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	34	4	15	16	10	2	1	1	9	0	7	1	3	4	1	0	0	0	5	0	0	1	8	1	0	1	3	0	0	0	14	0	2	9	5	1	2	0	10	0	3	2	7	0	1	5	12	1	5	8	5	1	0	0	6	2	1	6	12	0	3	3	1	0
+1	ND4	YP_009442444.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	72	5	25	29	24	0	0	2	32	1	15	0	2	2	3	0	2	4	4	0	1	3	5	0	2	1	2	0	0	0	16	1	5	17	4	0	1	0	6	0	3	5	11	0	4	4	25	2	8	13	11	1	1	0	5	0	3	4	16	2	2	4	0	1
+2	ND2	YP_009442445.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	48	3	10	28	13	1	1	1	11	1	9	2	3	7	4	0	0	0	2	0	1	0	2	0	0	4	1	0	0	0	10	0	7	11	3	1	1	1	5	0	3	1	6	1	2	1	26	0	5	8	1	0	2	0	5	0	0	3	8	1	1	5	0	0
+3	ND1	YP_009442446.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	40	3	18	21	12	0	1	0	13	8	5	0	2	3	5	1	1	1	4	1	2	0	1	0	0	4	5	1	0	1	15	0	5	9	4	0	0	0	2	0	4	6	10	2	4	2	23	0	3	8	4	1	1	1	4	0	2	7	13	0	3	5	1	0
+4	ATP6	YP_009442447.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	29	2	9	8	6	0	1	2	14	0	3	0	2	2	4	0	0	2	4	1	0	0	7	1	0	2	5	0	1	0	17	1	6	5	7	0	1	0	4	0	3	5	9	1	1	3	13	0	0	6	3	1	0	0	4	1	1	5	11	2	1	6	0	0
+5	COX1	YP_009442448.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	45	3	25	30	16	0	2	2	23	2	7	2	6	8	6	2	4	1	14	2	1	1	12	3	1	3	8	0	1	0	25	3	11	18	20	1	7	1	16	1	3	4	21	0	8	5	26	2	7	13	17	1	3	2	8	5	2	6	30	4	6	11	0	1
+6	COX2	YP_009442449.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	21	0	7	15	9	0	3	2	7	2	8	0	2	3	0	0	1	2	9	0	0	0	4	4	2	1	3	0	0	0	15	1	6	5	5	3	0	0	6	0	0	3	5	0	6	1	11	0	2	10	3	0	1	1	12	2	0	6	9	0	3	4	0	0
+7	ND3	YP_009442450.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	24	0	7	8	2	0	0	0	4	0	1	0	1	1	2	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	7	0	1	2	0	0	0	1	1	0	0	3	5	0	1	1	16	0	0	4	1	0	0	0	2	0	0	4	6	1	1	1	0	0
+8	ND5	YP_009442451.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	101	3	29	40	20	0	1	0	21	2	20	0	4	5	2	0	3	4	7	0	0	0	5	0	1	5	4	0	0	0	25	1	11	10	4	2	1	1	11	0	6	5	23	4	4	8	40	2	3	15	7	2	0	1	17	2	0	4	26	3	4	8	0	1
+9	CYTB	YP_009442452.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	50	3	14	34	13	2	2	0	23	0	3	1	8	7	2	0	1	2	9	0	1	0	6	0	1	3	3	0	1	0	24	2	6	10	4	1	0	1	11	0	2	6	12	0	6	6	28	1	3	8	6	1	2	0	7	0	2	5	14	1	3	4	0	0
+10	COX3	YP_009442453.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	33	4	15	15	10	2	1	2	10	0	7	1	3	4	2	0	0	0	5	0	0	1	8	1	0	1	3	0	0	0	14	0	2	10	5	1	2	0	9	0	2	2	7	0	2	5	12	1	5	7	5	1	0	0	6	2	1	6	12	0	3	3	1	0
+11	ND6	YP_009442454.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	35	0	7	15	5	0	0	0	10	0	7	2	2	4	2	0	0	2	2	0	0	0	1	0	0	0	1	0	0	0	4	0	2	2	0	0	0	0	3	0	0	1	7	0	3	1	13	0	3	4	1	0	0	0	5	0	0	1	9	0	1	1	1	0
+12	ND4L	YP_009442455.1	Camallanus cotti	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Spirurida, Spiruromorpha, Camallanoidea, Camallanidae, Camallanus	19	0	5	6	1	0	1	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	6	0	2	5	0	0	0	0	0	0	0	2	3	0	1	1	4	0	0	1	1	0	0	0	1	0	0	2	5	1	0	0	0	1

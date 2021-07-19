@@ -1,65 +1,13 @@
-	YP_008815322.1|ND1	YP_008815323.1|ND2	YP_008815324.1|COX1	YP_008815325.1|COX2	YP_008815326.1|ATP8	YP_008815327.1|ATP6	YP_008815328.1|COX3	YP_008815329.1|ND3	YP_008815330.1|ND4L	YP_008815331.1|ND4	YP_008815332.1|ND5	YP_008815334.1|CYTB
-TTT	9	9	23	3	3	5	8	5	6	12	20	10
-TTC	10	6	17	5	1	8	14	3	0	15	23	26
-TTA	15	26	19	10	5	22	13	8	5	19	31	19
-TTG	1	1	0	0	0	1	0	1	0	0	0	0
-TCT	1	4	10	2	0	2	1	2	4	6	10	4
-TCC	5	4	5	2	0	0	2	3	5	12	11	8
-TCA	12	14	11	10	1	1	5	1	3	11	20	8
-TCG	0	0	0	0	0	0	2	1	0	0	1	0
-TAT	12	5	15	7	0	3	9	1	1	7	8	5
-TAC	1	4	3	3	0	1	4	1	0	7	5	8
-TGT	0	0	1	2	0	0	1	0	3	1	4	2
-TGC	0	1	0	0	0	0	1	1	0	3	1	2
-TGA	7	9	17	5	5	4	12	5	1	20	14	12
-TGG	1	0	0	0	0	1	0	0	0	0	0	0
-CTT	10	14	24	4	1	13	13	6	3	22	20	11
-CTC	14	13	6	4	0	4	2	6	5	20	25	11
-CTA	26	21	15	7	3	13	3	9	6	24	26	20
-CTG	0	2	0	0	0	0	0	1	0	0	2	0
-CCT	7	7	11	5	3	2	4	1	2	3	10	6
-CCC	7	5	4	2	3	2	1	3	0	6	7	4
-CCA	10	10	16	5	3	12	8	4	0	14	13	10
-CCG	0	0	0	0	0	0	0	0	0	0	0	0
-CAT	2	1	10	3	0	2	6	0	1	6	2	6
-CAC	2	4	9	7	1	1	10	0	1	6	12	6
-CAA	7	9	8	9	1	9	8	2	2	13	17	8
-CAG	0	0	2	0	0	0	0	0	0	0	0	0
-CGT	3	1	2	3	0	0	2	1	1	1	1	4
-CGC	2	1	0	0	0	1	0	1	1	1	3	0
-CGA	3	4	7	3	0	4	3	0	0	8	5	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	18	19	36	16	4	18	11	6	2	33	35	24
-ATC	13	15	10	9	1	6	6	3	5	15	31	19
-ATA	14	11	22	11	0	10	7	0	5	22	20	10
-ATG	2	2	3	2	1	1	1	2	2	1	2	2
-ACT	7	13	11	1	3	7	3	2	0	10	12	1
-ACC	6	10	8	5	0	7	7	2	4	12	20	7
-ACA	10	17	15	7	1	10	10	3	2	17	21	10
-ACG	0	1	0	0	0	0	0	1	0	0	0	0
-AAT	5	7	8	5	3	6	1	1	1	7	12	9
-AAC	7	9	7	0	4	4	2	3	3	11	23	12
-AAA	7	10	7	4	4	1	2	1	1	11	26	9
-AAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGT	0	5	1	1	2	1	0	0	1	3	7	0
-AGC	4	1	3	2	1	3	3	0	2	5	5	3
-GTT	3	0	16	4	0	3	7	0	1	2	5	5
-GTC	1	2	2	2	0	1	1	1	0	3	2	4
-GTA	4	3	17	8	0	6	8	1	0	7	8	7
-GTG	0	1	1	0	0	0	1	0	0	0	0	1
-GCT	8	9	12	7	0	5	4	1	3	14	11	10
-GCC	8	8	12	4	0	5	9	3	5	9	14	11
-GCA	9	7	21	5	0	8	10	4	3	8	11	6
-GCG	0	0	0	0	0	0	0	1	0	0	0	0
-GAT	2	1	12	7	0	1	2	2	0	3	7	4
-GAC	1	0	3	4	0	0	3	1	1	1	7	4
-GAA	8	6	10	16	1	4	10	6	1	8	11	6
-GAG	2	0	0	0	0	0	0	0	1	2	0	0
-GGT	4	2	24	6	0	3	6	2	2	4	14	5
-GGC	4	2	3	0	0	1	5	1	2	6	5	4
-GGA	7	11	14	3	0	5	10	3	0	9	8	12
-GGG	3	1	4	0	0	0	0	0	1	0	1	2
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008815322.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	9	10	15	1	1	5	12	0	12	1	0	0	7	1	10	14	26	0	7	7	10	0	2	2	7	0	3	2	3	0	18	13	14	2	7	6	10	0	5	7	7	0	0	4	3	1	4	0	8	8	9	0	2	1	8	2	4	4	7	3	1	0	0	0
+1	ND2	YP_008815323.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	9	6	26	1	4	4	14	0	5	4	0	1	9	0	14	13	21	2	7	5	10	0	1	4	9	0	1	1	4	0	19	15	11	2	13	10	17	1	7	9	10	0	5	1	0	2	3	1	9	8	7	0	1	0	6	0	2	2	11	1	0	0	0	0
+2	COX1	YP_008815324.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	23	17	19	0	10	5	11	0	15	3	1	0	17	0	24	6	15	0	11	4	16	0	10	9	8	2	2	0	7	0	36	10	22	3	11	8	15	0	8	7	7	1	1	3	16	2	17	1	12	12	21	0	12	3	10	0	24	3	14	4	1	0	0	0
+3	COX2	YP_008815325.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	3	5	10	0	2	2	10	0	7	3	2	0	5	0	4	4	7	0	5	2	5	0	3	7	9	0	3	0	3	0	16	9	11	2	1	5	7	0	5	0	4	0	1	2	4	2	8	0	7	4	5	0	7	4	16	0	6	0	3	0	0	0	0	0
+4	ATP8	YP_008815326.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	3	1	5	0	0	0	1	0	0	0	0	0	5	0	1	0	3	0	3	3	3	0	0	1	1	0	0	0	0	0	4	1	0	1	3	0	1	0	3	4	4	0	2	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_008815327.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	5	8	22	1	2	0	1	0	3	1	0	0	4	1	13	4	13	0	2	2	12	0	2	1	9	0	0	1	4	0	18	6	10	1	7	7	10	0	6	4	1	0	1	3	3	1	6	0	5	5	8	0	1	0	4	0	3	1	5	0	1	0	0	0
+6	COX3	YP_008815328.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	8	14	13	0	1	2	5	2	9	4	1	1	12	0	13	2	3	0	4	1	8	0	6	10	8	0	2	0	3	0	11	6	7	1	3	7	10	0	1	2	2	0	0	3	7	1	8	1	4	9	10	0	2	3	10	0	6	5	10	0	1	0	0	0
+7	ND3	YP_008815329.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	5	3	8	1	2	3	1	1	1	1	0	1	5	0	6	6	9	1	1	3	4	0	0	0	2	0	1	1	0	0	6	3	0	2	2	2	3	1	1	3	1	0	0	0	0	1	1	0	1	3	4	1	2	1	6	0	2	1	3	0	0	0	0	0
+8	ND4L	YP_008815330.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	6	0	5	0	4	5	3	0	1	0	3	0	1	0	3	5	6	0	2	0	0	0	1	1	2	0	1	1	0	0	2	5	5	2	0	4	2	0	1	3	1	0	1	2	1	0	0	0	3	5	3	0	0	1	1	1	2	2	0	1	1	0	0	0
+9	ND4	YP_008815331.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	12	15	19	0	6	12	11	0	7	7	1	3	20	0	22	20	24	0	3	6	14	0	6	6	13	0	1	1	8	0	33	15	22	1	10	12	17	0	7	11	11	0	3	5	2	3	7	0	14	9	8	0	3	1	8	2	4	6	9	0	0	0	0	0
+10	ND5	YP_008815332.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	20	23	31	0	10	11	20	1	8	5	4	1	14	0	20	25	26	2	10	7	13	0	2	12	17	0	1	3	5	0	35	31	20	2	12	20	21	0	12	23	26	0	7	5	5	2	8	0	11	14	11	0	7	7	11	0	14	5	8	1	1	0	0	0
+11	CYTB	YP_008815334.1	Prionace glauca	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Prionace	10	26	19	0	4	8	8	0	5	8	2	2	12	0	11	11	20	0	6	4	10	0	6	6	8	0	4	0	4	0	24	19	10	2	1	7	10	0	9	12	9	0	0	3	5	4	7	1	10	11	6	0	4	4	6	0	5	4	12	2	0	0	0	0

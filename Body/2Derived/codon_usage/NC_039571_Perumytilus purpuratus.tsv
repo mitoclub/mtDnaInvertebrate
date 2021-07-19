@@ -1,65 +1,14 @@
-	YP_009521268.1|COX1	YP_009521269.1|ND2	YP_009521270.1|ND4L	YP_009521271.1|ND3	YP_009521272.1|ND4	YP_009521273.1|COX3	YP_009521274.1|ND5	YP_009521275.1|ND6	YP_009521276.1|CYTB	YP_009521277.1|COX2	YP_009521278.1|ATP8	YP_009521279.1|ATP6	YP_009521280.1|ND1
-TTT	42	37	7	13	47	25	44	19	32	9	9	22	35
-TTC	5	1	0	1	3	2	2	2	1	2	0	0	5
-TTA	22	31	6	4	32	9	30	10	24	11	2	13	16
-TTG	29	16	6	10	28	12	28	7	14	4	5	19	10
-TCT	18	12	0	8	8	9	26	3	12	6	2	9	11
-TCC	4	0	2	1	3	0	1	1	0	2	0	0	0
-TCA	2	6	0	1	0	1	4	2	2	2	0	3	4
-TCG	1	2	0	2	3	2	1	0	2	2	0	1	1
-TAT	20	6	1	1	9	11	20	6	21	14	1	5	8
-TAC	4	4	0	1	4	3	4	0	5	2	0	1	2
-TGT	4	9	4	2	14	6	15	9	4	5	3	6	4
-TGC	1	1	1	0	5	2	3	1	0	2	0	1	1
-TGA	9	1	1	0	2	4	6	0	7	6	1	1	3
-TGG	7	8	1	2	4	8	5	1	4	4	2	5	4
-CTT	9	10	4	3	6	8	16	6	7	3	0	11	7
-CTC	0	1	0	0	1	0	3	0	1	0	0	0	0
-CTA	4	4	0	0	5	0	3	3	1	1	0	3	2
-CTG	3	4	0	0	2	1	7	2	1	0	1	0	2
-CCT	16	6	0	3	10	6	10	2	14	8	0	7	7
-CCC	3	0	0	0	1	1	2	1	3	1	0	1	3
-CCA	5	0	0	0	1	1	1	0	3	1	0	0	2
-CCG	2	3	0	0	0	0	0	1	1	1	0	0	0
-CAT	16	3	1	1	6	6	7	4	10	6	0	0	0
-CAC	6	0	0	1	0	0	3	0	3	1	0	2	0
-CAA	0	3	1	0	2	1	5	1	4	2	0	0	2
-CAG	1	1	1	0	2	0	4	0	0	1	0	3	4
-CGT	4	2	1	2	2	6	10	2	6	6	0	2	7
-CGC	2	0	0	0	0	0	0	0	2	0	0	1	1
-CGA	1	0	0	2	2	3	0	0	3	5	0	0	0
-CGG	3	0	1	0	0	2	1	1	0	1	1	2	0
-ATT	24	16	4	9	18	16	35	5	28	16	0	12	17
-ATC	4	0	0	1	3	0	2	0	1	0	0	1	4
-ATA	18	6	3	4	17	4	13	7	6	7	0	5	6
-ATG	15	10	5	0	14	7	23	5	16	3	0	9	11
-ACT	15	2	1	1	3	7	17	0	8	2	0	1	1
-ACC	1	0	0	0	0	2	1	0	1	2	0	1	1
-ACA	9	1	1	0	2	1	2	1	3	2	0	2	1
-ACG	5	1	0	0	1	0	0	0	0	0	0	1	0
-AAT	11	7	3	1	10	10	13	0	11	7	0	8	4
-AAC	6	2	0	1	4	0	1	1	2	5	0	2	0
-AAA	11	9	0	1	4	2	11	3	11	2	1	1	5
-AAG	5	1	1	1	7	0	7	1	1	5	2	2	4
-AGT	12	13	2	4	15	4	10	4	4	10	1	7	4
-AGC	2	2	1	1	4	0	6	0	2	0	0	0	0
-AGA	4	7	2	1	9	5	12	3	6	3	0	6	6
-AGG	5	8	3	1	4	8	15	3	5	1	1	4	7
-GTT	23	16	7	8	31	20	34	10	26	10	0	14	27
-GTC	1	2	1	1	1	1	1	1	0	0	0	0	2
-GTA	14	8	1	3	5	5	10	2	4	7	0	4	6
-GTG	10	7	2	3	10	5	8	9	6	7	3	5	8
-GCT	18	3	2	1	11	5	10	1	9	7	1	6	7
-GCC	1	1	0	0	5	1	4	0	1	0	0	0	2
-GCA	6	4	1	0	1	1	8	0	1	4	0	0	3
-GCG	3	0	3	1	4	0	8	4	2	1	1	1	3
-GAT	10	1	2	3	3	6	15	1	8	7	0	3	4
-GAC	3	0	0	0	2	2	4	0	1	1	0	2	0
-GAA	4	3	0	3	3	4	5	2	5	3	1	1	6
-GAG	4	5	2	4	6	2	7	2	2	7	1	4	6
-GGT	24	13	1	2	16	13	16	1	13	4	1	3	12
-GGC	4	2	0	1	2	2	6	0	1	1	1	1	1
-GGA	6	0	2	0	7	3	11	1	4	1	0	0	4
-GGG	16	7	2	1	10	3	10	3	10	4	0	5	9
-TAA	0	1	1	1	1	1	1	1	0	1	1	1	0
-TAG	1	0	0	0	0	0	0	0	1	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009521268.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	42	5	22	29	18	4	2	1	20	4	4	1	9	7	9	0	4	3	16	3	5	2	16	6	0	1	4	2	1	3	24	4	18	15	15	1	9	5	11	6	11	5	12	2	4	5	23	1	14	10	18	1	6	3	10	3	4	4	24	4	6	16	0	1
+1	ND2	YP_009521269.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	37	1	31	16	12	0	6	2	6	4	9	1	1	8	10	1	4	4	6	0	0	3	3	0	3	1	2	0	0	0	16	0	6	10	2	0	1	1	7	2	9	1	13	2	7	8	16	2	8	7	3	1	4	0	1	0	3	5	13	2	0	7	1	0
+2	ND4L	YP_009521270.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	7	0	6	6	0	2	0	0	1	0	4	1	1	1	4	0	0	0	0	0	0	0	1	0	1	1	1	0	0	1	4	0	3	5	1	0	1	0	3	0	0	1	2	1	2	3	7	1	1	2	2	0	1	3	2	0	0	2	1	0	2	2	1	0
+3	ND3	YP_009521271.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	13	1	4	10	8	1	1	2	1	1	2	0	0	2	3	0	0	0	3	0	0	0	1	1	0	0	2	0	2	0	9	1	4	0	1	0	0	0	1	1	1	1	4	1	1	1	8	1	3	3	1	0	0	1	3	0	3	4	2	1	0	1	1	0
+4	ND4	YP_009521272.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	47	3	32	28	8	3	0	3	9	4	14	5	2	4	6	1	5	2	10	1	1	0	6	0	2	2	2	0	2	0	18	3	17	14	3	0	2	1	10	4	4	7	15	4	9	4	31	1	5	10	11	5	1	4	3	2	3	6	16	2	7	10	1	0
+5	COX3	YP_009521273.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	25	2	9	12	9	0	1	2	11	3	6	2	4	8	8	0	0	1	6	1	1	0	6	0	1	0	6	0	3	2	16	0	4	7	7	2	1	0	10	0	2	0	4	0	5	8	20	1	5	5	5	1	1	0	6	2	4	2	13	2	3	3	1	0
+6	ND5	YP_009521274.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	44	2	30	28	26	1	4	1	20	4	15	3	6	5	16	3	3	7	10	2	1	0	7	3	5	4	10	0	0	1	35	2	13	23	17	1	2	0	13	1	11	7	10	6	12	15	34	1	10	8	10	4	8	8	15	4	5	7	16	6	11	10	1	0
+7	ND6	YP_009521275.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	19	2	10	7	3	1	2	0	6	0	9	1	0	1	6	0	3	2	2	1	0	1	4	0	1	0	2	0	0	1	5	0	7	5	0	0	1	0	0	1	3	1	4	0	3	3	10	1	2	9	1	0	0	4	1	0	2	2	1	0	1	3	1	0
+8	CYTB	YP_009521276.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	32	1	24	14	12	0	2	2	21	5	4	0	7	4	7	1	1	1	14	3	3	1	10	3	4	0	6	2	3	0	28	1	6	16	8	1	3	0	11	2	11	1	4	2	6	5	26	0	4	6	9	1	1	2	8	1	5	2	13	1	4	10	0	1
+9	COX2	YP_009521277.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	9	2	11	4	6	2	2	2	14	2	5	2	6	4	3	0	1	0	8	1	1	1	6	1	2	1	6	0	5	1	16	0	7	3	2	2	2	0	7	5	2	5	10	0	3	1	10	0	7	7	7	0	4	1	7	1	3	7	4	1	1	4	1	0
+10	ATP8	YP_009521278.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	9	0	2	5	2	0	0	0	1	0	3	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	1	0	0	0	3	1	0	0	1	0	0	1	1	1	1	0	0	1	0
+11	ATP6	YP_009521279.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	22	0	13	19	9	0	3	1	5	1	6	1	1	5	11	0	3	0	7	1	0	0	0	2	0	3	2	1	0	2	12	1	5	9	1	1	2	1	8	2	1	2	7	0	6	4	14	0	4	5	6	0	0	1	3	2	1	4	3	1	0	5	1	0
+12	ND1	YP_009521280.1	Perumytilus purpuratus	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Bivalvia, Pteriomorphia, Mytiloida, Mytiloidea, Mytilidae, Brachidontinae, Perumytilus	35	5	16	10	11	0	4	1	8	2	4	1	3	4	7	0	2	2	7	3	2	0	0	0	2	4	7	1	0	0	17	4	6	11	1	1	1	0	4	0	5	4	4	0	6	7	27	2	6	8	7	2	3	3	4	0	6	6	12	1	4	9	0	0

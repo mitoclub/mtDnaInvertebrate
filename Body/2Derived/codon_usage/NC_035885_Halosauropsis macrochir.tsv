@@ -1,65 +1,13 @@
-	YP_009428535.1|ND1	YP_009428536.2|ND2	YP_009428537.1|COX1	YP_009428538.2|COX2	YP_009428539.1|ATP8	YP_009428540.1|ATP6	YP_009428541.1|COX3	YP_009428542.1|ND3	YP_009428543.1|ND4L	YP_009428544.2|ND4	YP_009428545.1|ND5	YP_009428547.2|CYTB
-TTT	9	6	18	5	1	8	14	6	3	8	26	9
-TTC	8	4	25	2	1	6	11	3	4	5	16	20
-TTA	13	16	10	12	4	10	10	1	4	15	21	15
-TTG	1	1	1	0	0	0	0	1	2	2	0	0
-TCT	3	2	8	3	1	0	1	2	1	2	9	2
-TCC	6	5	8	2	0	2	2	2	3	9	7	7
-TCA	8	6	9	6	0	1	7	3	3	8	8	10
-TCG	0	1	0	0	0	0	1	0	0	0	0	1
-TAT	9	5	9	8	0	1	5	1	0	7	5	8
-TAC	4	6	9	2	2	2	7	1	1	7	6	8
-TGT	0	1	1	0	0	0	0	1	2	1	0	2
-TGC	0	0	0	2	0	0	2	1	1	4	6	1
-TGA	7	10	16	4	5	5	12	5	1	19	13	12
-TGG	1	1	1	1	0	0	0	0	0	1	1	0
-CTT	8	5	15	3	0	10	5	8	3	16	12	9
-CTC	10	9	8	4	1	10	1	5	2	14	10	7
-CTA	25	33	26	7	2	19	14	11	12	36	38	20
-CTG	2	4	4	2	0	4	0	2	0	3	6	3
-CCT	5	1	1	2	4	3	3	1	1	5	4	2
-CCC	5	11	12	3	3	5	6	2	1	11	11	5
-CCA	14	7	11	8	2	9	3	4	0	10	13	15
-CCG	0	0	4	1	0	0	0	1	0	0	0	0
-CAT	3	2	4	1	0	3	3	0	2	3	6	4
-CAC	2	3	15	9	1	1	12	0	2	7	7	8
-CAA	6	9	8	8	2	9	7	4	0	12	22	6
-CAG	0	0	0	1	0	0	1	0	0	0	0	0
-CGT	1	2	0	0	0	1	1	0	0	0	0	0
-CGC	0	0	1	2	0	1	1	0	0	0	2	1
-CGA	5	3	7	4	0	4	3	2	4	11	6	7
-CGG	2	0	0	0	0	0	0	0	0	0	1	0
-ATT	16	17	20	11	3	12	8	5	1	29	36	25
-ATC	5	8	15	6	1	5	4	5	1	12	17	9
-ATA	10	21	17	8	2	6	6	2	3	23	29	11
-ATG	0	3	9	5	1	3	2	1	3	8	4	2
-ACT	4	6	9	1	0	4	6	2	0	2	9	2
-ACC	7	19	7	3	0	6	7	2	4	14	21	6
-ACA	11	18	19	5	2	13	8	3	2	17	28	14
-ACG	1	0	0	1	0	0	0	0	0	3	3	0
-AAT	7	6	6	2	2	6	0	1	0	2	11	7
-AAC	3	3	8	4	1	4	1	2	2	12	21	11
-AAA	7	14	9	3	3	1	3	1	1	12	22	8
-AAG	0	0	0	1	0	0	0	0	0	0	0	1
-AGT	0	1	2	1	2	1	1	0	0	1	2	1
-AGC	3	2	3	2	0	3	2	0	2	6	11	1
-GTT	4	2	16	6	1	5	2	0	1	5	5	1
-GTC	3	1	7	2	0	0	4	1	0	5	9	4
-GTA	15	10	17	10	1	10	16	2	2	10	13	22
-GTG	2	0	4	3	0	1	0	0	0	0	2	0
-GCT	5	5	12	3	1	5	6	1	0	3	11	5
-GCC	18	19	17	5	2	5	6	4	9	19	24	15
-GCA	12	11	17	10	0	6	10	2	6	14	22	10
-GCG	0	1	2	0	0	1	0	0	0	1	1	0
-GAT	2	1	6	4	0	0	2	1	1	1	5	1
-GAC	2	1	8	9	0	1	3	2	1	5	8	9
-GAA	11	6	8	13	3	4	10	6	2	12	10	7
-GAG	0	1	4	1	0	0	0	0	0	1	2	0
-GGT	3	1	5	0	0	2	1	0	0	2	2	2
-GGC	0	7	11	2	0	1	8	2	2	6	7	3
-GGA	13	8	24	7	1	8	12	2	2	14	21	18
-GGG	2	2	7	0	0	0	1	2	1	5	1	3
-TAA	0	0	0	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009428535.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	9	8	13	1	3	6	8	0	9	4	0	0	7	1	8	10	25	2	5	5	14	0	3	2	6	0	1	0	5	2	16	5	10	0	4	7	11	1	7	3	7	0	0	3	4	3	15	2	5	18	12	0	2	2	11	0	3	0	13	2	0	1	0	0
+1	ND2	YP_009428536.2	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	6	4	16	1	2	5	6	1	5	6	1	0	10	1	5	9	33	4	1	11	7	0	2	3	9	0	2	0	3	0	17	8	21	3	6	19	18	0	6	3	14	0	1	2	2	1	10	0	5	19	11	1	1	1	6	1	1	7	8	2	0	0	0	0
+2	COX1	YP_009428537.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	18	25	10	1	8	8	9	0	9	9	1	0	16	1	15	8	26	4	1	12	11	4	4	15	8	0	0	1	7	0	20	15	17	9	9	7	19	0	6	8	9	0	2	3	16	7	17	4	12	17	17	2	6	8	8	4	5	11	24	7	0	0	0	1
+3	COX2	YP_009428538.2	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	5	2	12	0	3	2	6	0	8	2	0	2	4	1	3	4	7	2	2	3	8	1	1	9	8	1	0	2	4	0	11	6	8	5	1	3	5	1	2	4	3	1	1	2	6	2	10	3	3	5	10	0	4	9	13	1	0	2	7	0	0	0	0	0
+4	ATP8	YP_009428539.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	1	1	4	0	1	0	0	0	0	2	0	0	5	0	0	1	2	0	4	3	2	0	0	1	2	0	0	0	0	0	3	1	2	1	0	0	2	0	2	1	3	0	2	0	1	0	1	0	1	2	0	0	0	0	3	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_009428540.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	8	6	10	0	0	2	1	0	1	2	0	0	5	0	10	10	19	4	3	5	9	0	3	1	9	0	1	1	4	0	12	5	6	3	4	6	13	0	6	4	1	0	1	3	5	0	10	1	5	5	6	1	0	1	4	0	2	1	8	0	1	0	0	0
+6	COX3	YP_009428541.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	14	11	10	0	1	2	7	1	5	7	0	2	12	0	5	1	14	0	3	6	3	0	3	12	7	1	1	1	3	0	8	4	6	2	6	7	8	0	0	1	3	0	1	2	2	4	16	0	6	6	10	0	2	3	10	0	1	8	12	1	0	0	0	0
+7	ND3	YP_009428542.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	6	3	1	1	2	2	3	0	1	1	1	1	5	0	8	5	11	2	1	2	4	1	0	0	4	0	0	0	2	0	5	5	2	1	2	2	3	0	1	2	1	0	0	0	0	1	2	0	1	4	2	0	1	2	6	0	0	2	2	2	0	0	0	0
+8	ND4L	YP_009428543.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	3	4	4	2	1	3	3	0	0	1	2	1	1	0	3	2	12	0	1	1	0	0	2	2	0	0	0	0	4	0	1	1	3	3	0	4	2	0	0	2	1	0	0	2	1	0	2	0	0	9	6	0	1	1	2	0	0	2	2	1	1	0	0	0
+9	ND4	YP_009428544.2	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	8	5	15	2	2	9	8	0	7	7	1	4	19	1	16	14	36	3	5	11	10	0	3	7	12	0	0	0	11	0	29	12	23	8	2	14	17	3	2	12	12	0	1	6	5	5	10	0	3	19	14	1	1	5	12	1	2	6	14	5	0	0	0	0
+10	ND5	YP_009428545.1	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	26	16	21	0	9	7	8	0	5	6	0	6	13	1	12	10	38	6	4	11	13	0	6	7	22	0	0	2	6	1	36	17	29	4	9	21	28	3	11	21	22	0	2	11	5	9	13	2	11	24	22	1	5	8	10	2	2	7	21	1	1	0	0	0
+11	CYTB	YP_009428547.2	Halosauropsis macrochir	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Notacanthiformes, Halosauridae, Halosauropsis	9	20	15	0	2	7	10	1	8	8	2	1	12	0	9	7	20	3	2	5	15	0	4	8	6	0	0	1	7	0	25	9	11	2	2	6	14	0	7	11	8	1	1	1	1	4	22	0	5	15	10	0	1	9	7	0	2	3	18	3	0	0	0	0

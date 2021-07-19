@@ -1,65 +1,10 @@
-	YP_006503896.1|ND2	YP_006503897.1|COX1	YP_006503898.1|COX2	YP_006503899.1|ATP8	YP_006503900.1|ATP6	YP_006503901.1|COX3	YP_006503902.1|ND3	YP_006503906.1|ND6	YP_006503907.1|CYTB
-TTT	7	20	4	0	4	9	1	2	9
-TTC	13	20	7	5	10	14	7	5	18
-TTA	16	18	8	2	13	10	4	6	3
-TTG	2	2	0	1	1	1	0	0	0
-TCT	3	7	2	0	1	2	0	1	0
-TCC	10	2	1	0	0	2	1	0	2
-TCA	17	18	5	3	8	9	6	8	11
-TCG	1	1	0	0	1	0	1	0	0
-TAT	4	9	4	1	3	4	0	2	5
-TAC	7	6	5	0	4	8	1	3	12
-TGT	1	0	0	0	1	0	0	0	1
-TGC	2	1	2	0	0	1	1	0	2
-TGA	9	13	6	3	4	13	3	2	12
-TGG	0	2	0	0	1	0	0	0	0
-CTT	2	9	3	0	1	3	2	2	4
-CTC	4	1	2	0	3	2	0	2	3
-CTA	18	28	11	1	21	13	9	20	28
-CTG	1	0	2	0	3	0	0	0	1
-CCT	2	3	3	1	1	0	1	0	3
-CCC	2	2	2	1	2	1	0	1	3
-CCA	6	19	5	0	7	8	3	2	17
-CCG	0	3	0	0	0	1	1	0	0
-CAT	0	4	1	0	2	5	0	1	2
-CAC	3	12	6	0	5	9	1	2	9
-CAA	5	11	7	3	4	8	1	4	9
-CAG	1	0	1	0	0	1	0	0	0
-CGT	2	1	1	0	0	0	0	1	1
-CGC	0	1	0	0	0	0	0	0	0
-CGA	1	6	6	0	2	4	3	0	7
-CGG	0	1	0	0	1	0	0	0	0
-ATT	14	18	10	5	9	14	8	4	15
-ATC	14	24	12	2	13	7	7	12	24
-ATA	33	33	12	5	13	12	8	18	20
-ATG	8	1	2	0	1	2	1	0	1
-ACT	5	6	3	1	3	1	1	1	1
-ACC	5	6	4	0	5	3	2	3	6
-ACA	20	24	10	4	10	16	8	10	23
-ACG	1	1	0	1	1	1	0	0	2
-AAT	9	13	4	0	6	3	1	6	12
-AAC	13	5	6	3	8	7	3	5	12
-AAA	11	8	4	3	5	2	3	8	7
-AAG	4	1	0	1	0	0	1	1	2
-AGT	1	1	1	0	2	0	0	0	1
-AGC	1	2	0	0	1	1	0	0	0
-AGA	7	12	6	3	11	6	2	6	5
-AGG	1	0	0	0	0	0	0	0	0
-GTT	4	2	1	0	1	1	0	0	5
-GTC	1	3	2	0	0	2	1	1	1
-GTA	12	23	8	0	8	13	4	4	13
-GTG	2	5	1	0	0	1	0	1	2
-GCT	4	5	1	1	5	2	1	0	1
-GCC	7	6	2	0	2	1	0	4	6
-GCA	3	20	9	0	3	10	6	3	17
-GCG	0	5	0	0	0	0	0	0	1
-GAT	1	6	8	0	1	0	3	0	1
-GAC	1	8	5	0	0	3	0	1	7
-GAA	6	7	10	2	4	6	7	6	6
-GAG	1	3	1	0	1	1	0	0	0
-GGT	0	9	0	0	2	2	0	0	1
-GGC	1	2	2	0	0	3	0	0	1
-GGA	11	21	6	0	7	13	3	6	19
-GGG	2	13	2	0	1	2	1	1	3
-TAA	0	0	0	1	1	0	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006503896.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	7	13	16	2	3	10	17	1	4	7	1	2	9	0	2	4	18	1	2	2	6	0	0	3	5	1	2	0	1	0	14	14	33	8	5	5	20	1	9	13	11	4	1	1	7	1	4	1	12	2	4	7	3	0	1	1	6	1	0	1	11	2	0	0
+1	COX1	YP_006503897.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	20	20	18	2	7	2	18	1	9	6	0	1	13	2	9	1	28	0	3	2	19	3	4	12	11	0	1	1	6	1	18	24	33	1	6	6	24	1	13	5	8	1	1	2	12	0	2	3	23	5	5	6	20	5	6	8	7	3	9	2	21	13	0	0
+2	COX2	YP_006503898.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	4	7	8	0	2	1	5	0	4	5	0	2	6	0	3	2	11	2	3	2	5	0	1	6	7	1	1	0	6	0	10	12	12	2	3	4	10	0	4	6	4	0	1	0	6	0	1	2	8	1	1	2	9	0	8	5	10	1	0	2	6	2	0	0
+3	ATP8	YP_006503899.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	0	5	2	1	0	0	3	0	1	0	0	0	3	0	0	0	1	0	1	1	0	0	0	0	3	0	0	0	0	0	5	2	5	0	1	0	4	1	0	3	3	1	0	0	3	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	1	0
+4	ATP6	YP_006503900.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	4	10	13	1	1	0	8	1	3	4	1	0	4	1	1	3	21	3	1	2	7	0	2	5	4	0	0	0	2	1	9	13	13	1	3	5	10	1	6	8	5	0	2	1	11	0	1	0	8	0	5	2	3	0	1	0	4	1	2	0	7	1	1	0
+5	COX3	YP_006503901.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	9	14	10	1	2	2	9	0	4	8	0	1	13	0	3	2	13	0	0	1	8	1	5	9	8	1	0	0	4	0	14	7	12	2	1	3	16	1	3	7	2	0	0	1	6	0	1	2	13	1	2	1	10	0	0	3	6	1	2	3	13	2	0	0
+6	ND3	YP_006503902.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	1	7	4	0	0	1	6	1	0	1	0	1	3	0	2	0	9	0	1	0	3	1	0	1	1	0	0	0	3	0	8	7	8	1	1	2	8	0	1	3	3	1	0	0	2	0	0	1	4	0	1	0	6	0	3	0	7	0	0	0	3	1	0	0
+7	ND6	YP_006503906.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	2	5	6	0	1	0	8	0	2	3	0	0	2	0	2	2	20	0	0	1	2	0	1	2	4	0	1	0	0	0	4	12	18	0	1	3	10	0	6	5	8	1	0	0	6	0	0	1	4	1	0	4	3	0	0	1	6	0	0	0	6	1	1	0
+8	CYTB	YP_006503907.1	Porotermes adamsoni	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Porotermes	9	18	3	0	0	2	11	0	5	12	1	2	12	0	4	3	28	1	3	3	17	0	2	9	9	0	1	0	7	0	15	24	20	1	1	6	23	2	12	12	7	2	1	0	5	0	5	1	13	2	1	6	17	1	1	7	6	0	1	1	19	3	1	0

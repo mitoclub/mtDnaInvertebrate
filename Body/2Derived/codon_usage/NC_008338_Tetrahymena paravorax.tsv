@@ -1,65 +1,18 @@
-	YP_740772.1|nad7	YP_740773.1|rps14	YP_740774.1|ymf60	YP_740791.1|cob	YP_740792.1|nad5	YP_740793.1|cox2	YP_740794.1|ymf56	YP_740795.1|ymf67	YP_740796.1|ymf68	YP_740797.1|ymf71	YP_740798.1|cox1	YP_740799.1|nad1_a	YP_740800.1|ymf62	YP_740801.1|rpl14	YP_740802.1|ymf70	YP_740803.1|nad4	YP_740804.1|ymf73
-TTT	27	5	18	45	87	35	11	35	61	17	57	33	33	5	10	72	15
-TTC	0	0	0	4	7	1	1	2	4	0	5	1	0	0	0	5	0
-TTA	43	12	17	43	95	53	12	58	86	14	63	28	42	9	14	68	17
-TTG	1	0	1	2	6	1	0	0	2	0	2	1	1	0	0	0	0
-TCT	9	0	3	8	19	15	6	9	14	0	22	5	4	3	2	15	1
-TCC	0	0	0	0	1	1	0	1	0	0	0	1	0	0	0	0	0
-TCA	10	1	0	8	18	16	1	8	11	1	18	8	3	4	2	19	3
-TCG	1	0	0	0	2	1	0	0	1	0	0	0	0	0	0	3	0
-TAT	21	5	7	26	49	27	6	29	45	5	39	14	19	2	8	25	8
-TAC	1	0	2	2	7	4	0	2	5	2	6	5	1	0	1	6	1
-TGT	7	1	1	4	4	5	1	4	4	0	2	4	2	2	1	5	2
-TGC	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	2	1
-TGA	4	1	1	11	11	22	2	8	20	1	17	6	1	2	3	9	0
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	1	0	0	0	3	2	1	0	1	0	0	2	2	0	1	1	0
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	1	2	0	3	5	4	1	2	2	1	6	2	6	0	0	3	0
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	10	0	1	5	3	10	2	0	1	0	8	4	3	1	1	8	0
-CCC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCA	2	0	0	6	8	12	0	4	8	0	17	2	2	3	1	3	2
-CCG	1	0	0	0	1	0	0	0	1	0	1	2	0	0	0	0	0
-CAT	15	3	3	8	5	13	2	5	5	1	21	1	2	2	0	4	2
-CAC	0	0	0	5	3	2	0	0	1	0	5	1	0	0	0	3	1
-CAA	14	3	1	7	11	28	2	9	16	2	11	3	5	1	0	5	3
-CAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGT	0	0	1	0	0	2	0	0	1	0	0	0	0	0	0	1	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	16	7	11	22	47	30	7	51	29	15	44	27	12	9	8	34	3
-ATC	2	0	1	2	4	3	0	1	5	0	1	0	1	0	0	4	0
-ATA	9	6	12	11	46	20	1	21	28	12	17	13	14	3	4	27	17
-ATG	16	1	1	17	15	6	1	1	6	1	32	10	1	2	1	8	6
-ACT	12	0	5	14	21	24	5	14	23	2	22	4	6	5	1	15	5
-ACC	0	0	1	1	2	0	0	0	0	0	3	1	0	0	0	0	0
-ACA	7	1	2	7	15	6	3	10	8	1	18	4	5	1	3	10	3
-ACG	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
-AAT	42	12	27	20	62	64	7	81	48	13	22	10	29	3	6	26	22
-AAC	0	0	2	2	9	6	0	7	8	0	2	0	3	2	0	2	0
-AAA	22	18	26	14	29	45	4	40	38	8	33	5	8	21	7	18	25
-AAG	2	2	1	0	0	1	0	1	0	0	3	1	0	0	0	0	0
-AGT	11	6	8	7	16	5	0	2	4	1	10	7	4	6	2	11	2
-AGC	0	1	0	1	3	1	0	0	2	0	1	0	1	0	1	1	0
-AGA	24	5	6	12	13	30	5	9	20	0	33	6	2	7	2	5	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
-GTT	13	1	1	16	11	13	3	3	10	0	24	12	10	6	1	10	2
-GTC	1	0	0	2	4	0	0	0	0	0	2	0	0	0	0	1	0
-GTA	8	2	3	10	14	13	2	5	8	2	13	7	4	4	0	13	2
-GTG	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0
-GCT	15	2	1	5	11	7	1	8	11	0	19	5	3	0	2	9	0
-GCC	0	0	0	1	1	1	0	0	0	0	3	2	0	0	0	1	0
-GCA	4	0	0	12	13	6	1	1	8	0	10	9	2	3	2	8	1
-GCG	1	0	0	0	1	1	0	1	0	0	2	1	0	0	0	0	0
-GAT	17	0	3	16	16	23	2	4	17	0	17	4	9	1	2	9	0
-GAC	2	0	0	2	1	1	3	2	0	0	0	0	0	1	0	1	1
-GAA	20	1	3	22	14	19	4	3	14	0	10	10	7	2	1	11	10
-GAG	5	0	0	0	0	2	0	0	1	0	2	3	2	0	0	0	0
-GGT	22	3	4	14	14	12	0	3	14	0	25	12	6	5	0	12	1
-GGC	0	0	0	1	2	0	0	0	1	0	0	0	0	0	1	1	0
-GGA	2	0	1	7	12	7	0	1	2	0	14	4	0	2	0	11	0
-GGG	2	0	0	1	2	1	0	0	0	0	2	2	0	1	0	1	0
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	nad7	YP_740772.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	27	0	43	1	9	0	10	1	21	1	7	0	4	0	1	0	1	0	10	0	2	1	15	0	14	0	0	0	0	0	16	2	9	16	12	0	7	0	42	0	22	2	11	0	24	0	13	1	8	0	15	0	4	1	17	2	20	5	22	0	2	2	1	0
+1	rps14	YP_740773.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	5	0	12	0	0	0	1	0	5	0	1	0	1	0	0	0	2	0	0	0	0	0	3	0	3	0	0	0	0	0	7	0	6	1	0	0	1	0	12	0	18	2	6	1	5	0	1	0	2	0	2	0	0	0	0	0	1	0	3	0	0	0	1	0
+2	ymf60	YP_740774.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	18	0	17	1	3	0	0	0	7	2	1	0	1	0	0	0	0	0	1	0	0	0	3	0	1	0	1	0	0	0	11	1	12	1	5	1	2	0	27	2	26	1	8	0	6	0	1	0	3	0	1	0	0	0	3	0	3	0	4	0	1	0	1	0
+3	cob	YP_740791.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	45	4	43	2	8	0	8	0	26	2	4	0	11	0	0	0	3	0	5	0	6	0	8	5	7	0	0	0	0	0	22	2	11	17	14	1	7	0	20	2	14	0	7	1	12	0	16	2	10	0	5	1	12	0	16	2	22	0	14	1	7	1	1	0
+4	nad5	YP_740792.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	87	7	95	6	19	1	18	2	49	7	4	2	11	0	3	0	5	0	3	0	8	1	5	3	11	0	0	0	0	0	47	4	46	15	21	2	15	0	62	9	29	0	16	3	13	0	11	4	14	0	11	1	13	1	16	1	14	0	14	2	12	2	1	0
+5	cox2	YP_740793.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	35	1	53	1	15	1	16	1	27	4	5	1	22	0	2	0	4	0	10	0	12	0	13	2	28	0	2	0	0	0	30	3	20	6	24	0	6	0	64	6	45	1	5	1	30	0	13	0	13	0	7	1	6	1	23	1	19	2	12	0	7	1	1	0
+6	ymf56	YP_740794.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	11	1	12	0	6	0	1	0	6	0	1	0	2	0	1	0	1	0	2	0	0	0	2	0	2	0	0	0	0	0	7	0	1	1	5	0	3	0	7	0	4	0	0	0	5	0	3	0	2	0	1	0	1	0	2	3	4	0	0	0	0	0	1	0
+7	ymf67	YP_740795.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	35	2	58	0	9	1	8	0	29	2	4	0	8	0	0	0	2	0	0	0	4	0	5	0	9	0	0	0	0	0	51	1	21	1	14	0	10	0	81	7	40	1	2	0	9	0	3	0	5	0	8	0	1	1	4	2	3	0	3	0	1	0	1	0
+8	ymf68	YP_740796.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	61	4	86	2	14	0	11	1	45	5	4	0	20	0	1	0	2	0	1	0	8	1	5	1	16	0	1	0	0	0	29	5	28	6	23	0	8	0	48	8	38	0	4	2	20	0	10	0	8	1	11	0	8	0	17	0	14	1	14	1	2	0	1	0
+9	ymf71	YP_740797.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	17	0	14	0	0	0	1	0	5	2	0	0	1	0	0	0	1	0	0	0	0	0	1	0	2	0	0	0	0	0	15	0	12	1	2	0	1	0	13	0	8	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+10	cox1	YP_740798.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	57	5	63	2	22	0	18	0	39	6	2	0	17	0	0	0	6	0	8	0	17	1	21	5	11	0	0	0	0	0	44	1	17	32	22	3	18	0	22	2	33	3	10	1	33	0	24	2	13	3	19	3	10	2	17	0	10	2	25	0	14	2	1	0
+11	nad1_a	YP_740799.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	33	1	28	1	5	1	8	0	14	5	4	1	6	0	2	0	2	0	4	0	2	2	1	1	3	0	0	0	0	0	27	0	13	10	4	1	4	0	10	0	5	1	7	0	6	1	12	0	7	0	5	2	9	1	4	0	10	3	12	0	4	2	1	0
+12	ymf62	YP_740800.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	33	0	42	1	4	0	3	0	19	1	2	0	1	0	2	0	6	0	3	0	2	0	2	0	5	0	0	0	0	0	12	1	14	1	6	0	5	0	29	3	8	0	4	1	2	0	10	0	4	0	3	0	2	0	9	0	7	2	6	0	0	0	1	0
+13	rpl14	YP_740801.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	5	0	9	0	3	0	4	0	2	0	2	0	2	0	0	0	0	0	1	0	3	0	2	0	1	0	0	0	0	0	9	0	3	2	5	0	1	1	3	2	21	0	6	0	7	0	6	0	4	0	0	0	3	0	1	1	2	0	5	0	2	1	1	0
+14	ymf70	YP_740802.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	10	0	14	0	2	0	2	0	8	1	1	0	3	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	8	0	4	1	1	0	3	0	6	0	7	0	2	1	2	1	1	0	0	0	2	0	2	0	2	0	1	0	0	1	0	0	1	0
+15	nad4	YP_740803.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	72	5	68	0	15	0	19	3	25	6	5	2	9	0	1	0	3	0	8	0	3	0	4	3	5	0	1	0	2	0	34	4	27	8	15	0	10	1	26	2	18	0	11	1	5	0	10	1	13	0	9	1	8	0	9	1	11	0	12	1	11	1	1	0
+16	ymf73	YP_740804.1	Tetrahymena paravorax	Eukaryota, Alveolata, Ciliophora, Intramacronucleata, Oligohymenophorea, Hymenostomatida, Tetrahymenina, Tetrahymenidae, Tetrahymena	15	0	17	0	1	0	3	0	8	1	2	1	0	0	0	0	0	0	0	0	2	0	2	1	3	0	1	0	0	0	3	0	17	6	5	0	3	0	22	0	25	0	2	0	1	0	2	0	2	0	0	0	1	0	0	1	10	0	1	0	0	0	1	0

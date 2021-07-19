@@ -1,65 +1,8 @@
-	YP_009058734.1|COX1	YP_009058735.1|ND3	YP_009058742.1|CYTB	YP_009058743.1|ND6	YP_009058744.1|ND4	YP_009058745.1|ND5	YP_009058746.1|ND2
-TTT	45	17	39	19	51	68	44
-TTC	5	6	3	0	5	7	5
-TTA	43	10	37	13	43	54	35
-TTG	3	1	1	3	2	2	4
-TCT	18	1	9	3	6	10	3
-TCC	2	0	0	0	0	1	0
-TCA	15	5	17	2	13	18	8
-TCG	1	0	0	0	0	0	0
-TAT	19	5	11	3	14	17	15
-TAC	2	2	1	2	4	4	2
-TGT	3	1	1	3	1	4	1
-TGC	0	0	2	1	0	1	0
-TGA	11	2	7	2	2	3	5
-TGG	0	0	0	0	0	2	1
-CTT	3	1	1	2	2	6	2
-CTC	0	0	0	0	0	0	0
-CTA	5	2	4	1	1	4	3
-CTG	0	0	0	1	0	0	0
-CCT	9	0	5	1	3	0	2
-CCC	1	0	1	0	1	2	1
-CCA	7	0	5	0	1	2	2
-CCG	0	0	1	0	0	0	0
-CAT	11	0	8	0	3	1	1
-CAC	4	0	2	0	2	1	1
-CAA	4	0	4	1	2	3	2
-CAG	0	0	0	0	0	1	0
-CGT	1	0	0	0	0	1	0
-CGC	0	0	0	0	0	0	0
-CGA	5	1	2	0	2	0	0
-CGG	0	0	0	0	0	0	0
-ATT	56	11	46	17	39	54	36
-ATC	4	2	3	1	5	5	5
-ATA	54	17	30	23	66	66	37
-ATG	2	1	1	4	5	4	4
-ACT	13	2	10	0	2	6	2
-ACC	0	0	1	0	0	1	0
-ACA	15	1	4	1	8	6	4
-ACG	0	0	0	0	0	0	1
-AAT	31	10	16	11	27	46	25
-AAC	5	0	4	2	3	14	8
-AAA	11	2	23	10	24	33	14
-AAG	1	0	0	0	1	3	5
-AGT	5	0	1	0	3	6	2
-AGC	0	0	1	0	0	2	0
-AGA	8	2	8	2	9	13	3
-AGG	0	0	0	0	0	1	0
-GTT	9	0	7	0	3	5	4
-GTC	0	1	0	0	1	2	0
-GTA	10	0	4	2	2	6	2
-GTG	1	1	0	0	0	1	0
-GCT	14	0	4	0	4	4	1
-GCC	0	0	1	0	0	1	0
-GCA	4	0	4	0	5	8	0
-GCG	0	0	0	0	1	0	0
-GAT	7	1	2	1	2	4	0
-GAC	4	0	2	0	0	1	0
-GAA	7	5	4	0	6	9	4
-GAG	0	0	1	0	2	0	1
-GGT	7	1	5	0	2	0	0
-GGC	1	0	1	0	1	0	0
-GGA	25	0	10	2	3	7	0
-GGG	1	0	0	0	2	1	1
-TAA	1	1	1	0	1	1	0
-TAG	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009058734.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	45	5	43	3	18	2	15	1	19	2	3	0	11	0	3	0	5	0	9	1	7	0	11	4	4	0	1	0	5	0	56	4	54	2	13	0	15	0	31	5	11	1	5	0	8	0	9	0	10	1	14	0	4	0	7	4	7	0	7	1	25	1	1	0
+1	ND3	YP_009058735.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	17	6	10	1	1	0	5	0	5	2	1	0	2	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	11	2	17	1	2	0	1	0	10	0	2	0	0	0	2	0	0	1	0	1	0	0	0	0	1	0	5	0	1	0	0	0	1	0
+2	CYTB	YP_009058742.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	39	3	37	1	9	0	17	0	11	1	1	2	7	0	1	0	4	0	5	1	5	1	8	2	4	0	0	0	2	0	46	3	30	1	10	1	4	0	16	4	23	0	1	1	8	0	7	0	4	0	4	1	4	0	2	2	4	1	5	1	10	0	1	0
+3	ND6	YP_009058743.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	19	0	13	3	3	0	2	0	3	2	3	1	2	0	2	0	1	1	1	0	0	0	0	0	1	0	0	0	0	0	17	1	23	4	0	0	1	0	11	2	10	0	0	0	2	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0
+4	ND4	YP_009058744.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	51	5	43	2	6	0	13	0	14	4	1	0	2	0	2	0	1	0	3	1	1	0	3	2	2	0	0	0	2	0	39	5	66	5	2	0	8	0	27	3	24	1	3	0	9	0	3	1	2	0	4	0	5	1	2	0	6	2	2	1	3	2	1	0
+5	ND5	YP_009058745.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	68	7	54	2	10	1	18	0	17	4	4	1	3	2	6	0	4	0	0	2	2	0	1	1	3	1	1	0	0	0	54	5	66	4	6	1	6	0	46	14	33	3	6	2	13	1	5	2	6	1	4	1	8	0	4	1	9	0	0	0	7	1	1	0
+6	ND2	YP_009058746.1	Tetranychus truncatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Eleutherengona, Raphignathae, Tetranychoidea, Tetranychidae, Tetranychus	44	5	35	4	3	0	8	0	15	2	1	0	5	1	2	0	3	0	2	1	2	0	1	1	2	0	0	0	0	0	36	5	37	4	2	0	4	1	25	8	14	5	2	0	3	0	4	0	2	0	1	0	0	0	0	0	4	1	0	0	0	1	0	0

@@ -1,65 +1,10 @@
-	YP_009440935.1|ND2	YP_009440936.1|COX1	YP_009440937.1|COX2	YP_009440938.1|ATP8	YP_009440939.1|ATP6	YP_009440940.1|COX3	YP_009440941.1|ND3	YP_009440945.1|ND6	YP_009440946.1|CYTB
-TTT	17	29	13	5	10	24	7	7	20
-TTC	8	13	2	3	4	5	4	8	8
-TTA	21	26	10	4	18	8	6	14	20
-TTG	1	1	0	0	2	1	0	0	2
-TCT	12	13	7	1	6	1	5	3	7
-TCC	8	2	2	0	1	4	2	4	8
-TCA	9	15	7	2	4	9	4	4	5
-TCG	1	0	0	0	1	0	0	0	0
-TAT	11	12	9	2	4	6	1	4	10
-TAC	3	4	1	0	1	2	2	4	11
-TGT	2	0	2	0	1	1	1	0	3
-TGC	0	0	0	0	0	0	0	1	0
-TGA	8	12	6	3	5	14	2	2	12
-TGG	1	2	0	0	0	0	0	0	0
-CTT	9	16	13	0	16	11	3	2	14
-CTC	3	5	1	0	1	1	2	0	6
-CTA	12	20	5	2	9	7	6	8	9
-CTG	1	0	0	0	1	1	1	0	0
-CCT	3	20	4	3	3	3	1	1	10
-CCC	3	1	1	0	3	1	0	1	2
-CCA	2	4	5	0	6	5	2	3	9
-CCG	0	0	0	0	0	1	1	0	0
-CAT	4	12	5	0	5	12	2	1	7
-CAC	0	4	0	0	1	3	0	0	2
-CAA	8	7	7	1	3	6	1	3	5
-CAG	0	0	1	0	0	0	1	0	1
-CGT	0	2	3	0	0	1	1	1	1
-CGC	0	0	1	0	0	1	0	0	1
-CGA	2	7	1	0	3	2	1	0	4
-CGG	0	0	1	0	0	0	0	0	1
-ATT	39	37	20	5	27	22	15	21	37
-ATC	8	4	7	2	2	5	4	6	9
-ATA	36	27	9	3	11	10	8	14	19
-ATG	1	1	1	0	1	2	0	0	1
-ACT	8	15	3	1	7	7	2	3	6
-ACC	4	10	2	0	5	5	1	0	3
-ACA	6	11	5	2	5	6	1	3	9
-ACG	1	0	1	0	0	0	0	1	1
-AAT	18	16	11	3	10	8	4	9	17
-AAC	6	2	0	1	4	2	0	5	5
-AAA	12	7	8	6	4	2	5	5	12
-AAG	0	2	0	0	0	1	0	1	0
-AGT	0	2	0	0	3	0	1	3	0
-AGC	1	0	0	0	0	1	0	0	1
-AGA	7	15	8	1	6	6	2	2	6
-AGG	1	0	1	0	0	0	0	0	0
-GTT	4	11	5	0	7	2	4	2	7
-GTC	0	6	1	0	1	0	0	1	1
-GTA	6	18	5	0	2	9	1	5	10
-GTG	0	1	0	0	0	0	0	0	2
-GCT	8	17	4	0	3	5	1	4	8
-GCC	2	5	0	1	3	4	0	0	3
-GCA	2	10	6	0	3	5	2	1	10
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	11	7	0	1	2	3	1	5
-GAC	0	4	3	0	0	2	0	1	4
-GAA	7	8	7	0	4	6	4	1	4
-GAG	0	1	1	0	0	1	0	0	0
-GGT	2	3	3	0	2	6	0	1	6
-GGC	2	5	0	0	0	3	0	0	0
-GGA	6	31	4	0	6	10	2	3	16
-GGG	1	4	0	0	1	0	1	1	0
-TAA	1	1	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009440935.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	17	8	21	1	12	8	9	1	11	3	2	0	8	1	9	3	12	1	3	3	2	0	4	0	8	0	0	0	2	0	39	8	36	1	8	4	6	1	18	6	12	0	0	1	7	1	4	0	6	0	8	2	2	0	0	0	7	0	2	2	6	1	1	0
+1	COX1	YP_009440936.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	29	13	26	1	13	2	15	0	12	4	0	0	12	2	16	5	20	0	20	1	4	0	12	4	7	0	2	0	7	0	37	4	27	1	15	10	11	0	16	2	7	2	2	0	15	0	11	6	18	1	17	5	10	0	11	4	8	1	3	5	31	4	1	0
+2	COX2	YP_009440937.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	13	2	10	0	7	2	7	0	9	1	2	0	6	0	13	1	5	0	4	1	5	0	5	0	7	1	3	1	1	1	20	7	9	1	3	2	5	1	11	0	8	0	0	0	8	1	5	1	5	0	4	0	6	0	7	3	7	1	3	0	4	0	0	0
+3	ATP8	YP_009440938.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	5	3	4	0	1	0	2	0	2	0	0	0	3	0	0	0	2	0	3	0	0	0	0	0	1	0	0	0	0	0	5	2	3	0	1	0	2	0	3	1	6	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009440939.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	10	4	18	2	6	1	4	1	4	1	1	0	5	0	16	1	9	1	3	3	6	0	5	1	3	0	0	0	3	0	27	2	11	1	7	5	5	0	10	4	4	0	3	0	6	0	7	1	2	0	3	3	3	0	1	0	4	0	2	0	6	1	1	0
+5	COX3	YP_009440940.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	24	5	8	1	1	4	9	0	6	2	1	0	14	0	11	1	7	1	3	1	5	1	12	3	6	0	1	1	2	0	22	5	10	2	7	5	6	0	8	2	2	1	0	1	6	0	2	0	9	0	5	4	5	0	2	2	6	1	6	3	10	0	1	0
+6	ND3	YP_009440941.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	7	4	6	0	5	2	4	0	1	2	1	0	2	0	3	2	6	1	1	0	2	1	2	0	1	1	1	0	1	0	15	4	8	0	2	1	1	0	4	0	5	0	1	0	2	0	4	0	1	0	1	0	2	0	3	0	4	0	0	0	2	1	0	0
+7	ND6	YP_009440945.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	7	8	14	0	3	4	4	0	4	4	0	1	2	0	2	0	8	0	1	1	3	0	1	0	3	0	1	0	0	0	21	6	14	0	3	0	3	1	9	5	5	1	3	0	2	0	2	1	5	0	4	0	1	0	1	1	1	0	1	0	3	1	1	0
+8	CYTB	YP_009440946.1	Sinodendron yunnanense	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Scarabaeiformia, Lucanidae, Syndesinae, Sinodendron	20	8	20	2	7	8	5	0	10	11	3	0	12	0	14	6	9	0	10	2	9	0	7	2	5	1	1	1	4	1	37	9	19	1	6	3	9	1	17	5	12	0	0	1	6	0	7	1	10	2	8	3	10	0	5	4	4	0	6	0	16	0	0	1

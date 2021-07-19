@@ -1,65 +1,13 @@
-	YP_009184110.1|ND1	YP_009184111.1|ND2	YP_009184112.1|COX1	YP_009184113.1	YP_009184114.1|ATP8	YP_009184115.1|ATP6	YP_009184116.1|COX3	YP_009184117.1|ND3	YP_009184118.1|ND4L	YP_009184119.1|ND4	YP_009184120.1|ND5	YP_009184122.1|CYTB
-TTT	3	2	12	3	1	3	5	0	1	4	12	3
-TTC	15	9	30	5	3	10	19	7	6	11	26	25
-TTA	3	8	4	4	0	3	2	0	1	8	4	2
-TTG	2	4	3	0	0	3	0	0	0	3	1	2
-TCT	0	5	5	1	1	1	2	1	2	2	7	4
-TCC	12	12	7	4	2	2	4	4	6	16	18	9
-TCA	7	14	10	6	0	1	4	3	4	6	9	7
-TCG	0	11	1	0	0	0	1	0	0	1	0	0
-TAT	3	6	3	1	0	2	3	2	0	2	1	1
-TAC	8	17	16	8	0	1	9	1	0	11	8	14
-TGT	0	2	0	0	0	0	0	0	2	1	1	1
-TGC	0	1	1	0	0	0	2	1	1	3	5	2
-TGA	7	5	13	5	5	5	12	3	1	17	11	11
-TGG	1	4	4	1	0	0	0	2	0	2	3	1
-CTT	9	3	11	9	0	9	4	3	4	12	17	10
-CTC	13	7	19	5	4	20	10	17	8	34	26	17
-CTA	24	9	23	10	1	18	15	14	7	38	40	24
-CTG	9	3	3	3	0	3	2	0	3	4	9	3
-CCT	0	12	2	1	1	1	0	2	0	4	5	2
-CCC	11	17	13	8	4	3	6	4	1	12	12	6
-CCA	11	19	13	5	5	13	7	3	1	13	15	12
-CCG	2	3	1	0	0	0	0	0	0	0	2	1
-CAT	0	8	4	3	0	0	3	0	1	3	1	0
-CAC	4	9	15	7	2	3	11	0	3	11	17	13
-CAA	7	13	6	7	3	8	10	3	4	9	14	8
-CAG	0	13	2	0	0	0	2	0	0	0	1	0
-CGT	0	1	2	3	0	1	0	0	0	0	0	2
-CGC	1	4	1	3	0	1	1	2	0	4	2	3
-CGA	8	1	5	4	0	4	5	0	2	6	7	2
-CGG	0	1	1	2	0	0	0	0	0	1	0	1
-ATT	12	3	16	10	0	4	4	1	2	12	15	8
-ATC	17	3	23	10	3	12	10	6	2	25	36	23
-ATA	6	4	15	5	3	10	6	1	2	16	25	8
-ATG	5	4	10	4	1	2	2	1	3	8	3	3
-ACT	3	8	3	5	2	3	3	2	0	3	7	3
-ACC	6	17	15	3	3	8	7	2	4	25	34	15
-ACA	15	7	14	5	0	10	9	2	2	13	24	8
-ACG	0	2	3	0	0	1	0	1	0	1	0	0
-AAT	1	7	3	5	0	2	0	0	0	1	3	1
-AAC	10	12	11	3	2	7	2	1	2	13	26	16
-AAA	6	7	8	6	3	1	1	1	0	7	20	9
-AAG	0	7	0	0	0	1	1	0	0	3	3	0
-AGT	0	0	1	0	0	0	1	0	0	1	1	0
-AGC	3	6	3	3	0	4	3	0	2	6	13	2
-GTT	4	0	7	4	0	3	3	1	1	2	1	6
-GTC	1	0	10	5	1	4	8	1	0	2	8	10
-GTA	8	0	18	6	0	2	4	1	1	6	10	8
-GTG	2	0	5	1	0	3	1	0	0	0	1	1
-GCT	1	5	6	5	0	2	2	2	0	4	6	1
-GCC	19	5	25	6	2	16	9	4	8	21	33	18
-GCA	11	2	15	5	1	2	12	2	3	9	16	10
-GCG	2	2	3	0	0	0	0	0	0	2	1	1
-GAT	0	0	3	4	0	0	0	1	0	1	5	3
-GAC	4	6	12	10	0	1	5	3	1	2	6	8
-GAA	11	5	9	9	0	4	5	4	2	10	9	4
-GAG	2	6	3	0	1	0	4	1	0	3	3	1
-GGT	1	0	7	0	0	0	3	0	0	2	3	0
-GGC	9	3	22	2	1	6	9	2	4	11	13	9
-GGA	4	1	16	4	0	4	4	2	1	11	11	16
-GGG	1	1	3	1	0	0	4	2	0	2	2	0
-TAA	1	0	0	0	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009184110.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	3	15	3	2	0	12	7	0	3	8	0	0	7	1	9	13	24	9	0	11	11	2	0	4	7	0	0	1	8	0	12	17	6	5	3	6	15	0	1	10	6	0	0	3	4	1	8	2	1	19	11	2	0	4	11	2	1	9	4	1	1	0	0	0
+1	ND2	YP_009184111.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	2	9	8	4	5	12	14	11	6	17	2	1	5	4	3	7	9	3	12	17	19	3	8	9	13	13	1	4	1	1	3	3	4	4	8	17	7	2	7	12	7	7	0	6	0	0	0	0	5	5	2	2	0	6	5	6	0	3	1	1	0	0	0	0
+2	COX1	YP_009184112.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	12	30	4	3	5	7	10	1	3	16	0	1	13	4	11	19	23	3	2	13	13	1	4	15	6	2	2	1	5	1	16	23	15	10	3	15	14	3	3	11	8	0	1	3	7	10	18	5	6	25	15	3	3	12	9	3	7	22	16	3	0	0	0	1
+3	None	YP_009184113.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	3	5	4	0	1	4	6	0	1	8	0	0	5	1	9	5	10	3	1	8	5	0	3	7	7	0	3	3	4	2	10	10	5	4	5	3	5	0	5	3	6	0	0	3	4	5	6	1	5	6	5	0	4	10	9	0	0	2	4	1	0	0	0	0
+4	ATP8	YP_009184114.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	1	3	0	0	1	2	0	0	0	0	0	0	5	0	0	4	1	0	1	4	5	0	0	2	3	0	0	0	0	0	0	3	3	1	2	3	0	0	0	2	3	0	0	0	0	1	0	0	0	2	1	0	0	0	0	1	0	1	0	0	1	0	0	0
+5	ATP6	YP_009184115.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	3	10	3	3	1	2	1	0	2	1	0	0	5	0	9	20	18	3	1	3	13	0	0	3	8	0	1	1	4	0	4	12	10	2	3	8	10	1	2	7	1	1	0	4	3	4	2	3	2	16	2	0	0	1	4	0	0	6	4	0	1	0	0	0
+6	COX3	YP_009184116.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	5	19	2	0	2	4	4	1	3	9	0	2	12	0	4	10	15	2	0	6	7	0	3	11	10	2	0	1	5	0	4	10	6	2	3	7	9	0	0	2	1	1	1	3	3	8	4	1	2	9	12	0	0	5	5	4	3	9	4	4	0	0	0	0
+7	ND3	YP_009184117.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	0	7	0	0	1	4	3	0	2	1	0	1	3	2	3	17	14	0	2	4	3	0	0	0	3	0	0	2	0	0	1	6	1	1	2	2	2	1	0	1	1	0	0	0	1	1	1	0	2	4	2	0	1	3	4	1	0	2	2	2	0	0	0	0
+8	ND4L	YP_009184118.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	1	6	1	0	2	6	4	0	0	0	2	1	1	0	4	8	7	3	0	1	1	0	1	3	4	0	0	0	2	0	2	2	2	3	0	4	2	0	0	2	0	0	0	2	1	0	1	0	0	8	3	0	0	1	2	0	0	4	1	0	1	0	0	0
+9	ND4	YP_009184119.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	4	11	8	3	2	16	6	1	2	11	1	3	17	2	12	34	38	4	4	12	13	0	3	11	9	0	0	4	6	1	12	25	16	8	3	25	13	1	1	13	7	3	1	6	2	2	6	0	4	21	9	2	1	2	10	3	2	11	11	2	0	0	0	0
+10	ND5	YP_009184120.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	12	26	4	1	7	18	9	0	1	8	1	5	11	3	17	26	40	9	5	12	15	2	1	17	14	1	0	2	7	0	15	36	25	3	7	34	24	0	3	26	20	3	1	13	1	8	10	1	6	33	16	1	5	6	9	3	3	13	11	2	1	0	0	0
+11	CYTB	YP_009184122.1	Tetraodon lineatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Tetradontoidea, Tetraodontidae, Tetraodon	3	25	2	2	4	9	7	0	1	14	1	2	11	1	10	17	24	3	2	6	12	1	0	13	8	0	2	3	2	1	8	23	8	3	3	15	8	0	1	16	9	0	0	2	6	10	8	1	1	18	10	1	3	8	4	1	0	9	16	0	1	0	0	0

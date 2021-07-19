@@ -1,65 +1,10 @@
-	YP_009517336.1|ND2	YP_009517337.1|COX1	YP_009517338.1|COX2	YP_009517339.1|ATP8	YP_009517340.1|ATP6	YP_009517341.1|COX3	YP_009517342.1|ND3	YP_009517346.1|ND6	YP_009517347.1|CYTB
-TTT	41	30	13	6	19	22	12	20	21
-TTC	7	7	2	0	4	2	3	2	9
-TTA	43	40	21	6	23	22	9	20	38
-TTG	1	0	0	0	0	0	0	0	1
-TCT	15	11	5	2	7	3	4	5	10
-TCC	4	9	2	0	2	2	2	6	2
-TCA	12	13	5	2	6	7	5	1	2
-TCG	0	1	0	0	0	0	0	0	0
-TAT	8	14	9	1	4	7	0	9	16
-TAC	3	6	0	1	0	4	1	3	5
-TGT	1	1	2	0	0	1	2	1	1
-TGC	1	0	0	0	0	0	0	0	2
-TGA	9	14	6	3	5	12	3	1	10
-TGG	0	0	0	0	0	1	0	0	2
-CTT	6	10	4	0	7	3	3	1	9
-CTC	1	0	0	0	0	1	1	2	0
-CTA	1	13	2	0	5	2	0	4	4
-CTG	0	0	0	0	0	1	0	0	0
-CCT	4	12	2	2	3	5	1	0	6
-CCC	3	7	3	0	6	2	2	0	6
-CCA	1	8	6	1	2	3	1	2	10
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	15	5	0	4	12	2	1	6
-CAC	0	1	0	0	2	4	0	0	2
-CAA	4	9	8	2	4	6	1	2	8
-CAG	0	0	1	0	0	0	0	0	0
-CGT	2	1	1	0	1	1	0	0	2
-CGC	0	0	0	0	0	0	0	1	0
-CGA	0	8	6	0	2	3	2	0	4
-CGG	0	0	0	0	0	0	0	0	1
-ATT	36	46	28	10	32	26	18	16	46
-ATC	6	5	1	1	2	2	4	4	6
-ATA	32	29	10	4	12	9	9	23	20
-ATG	2	2	1	0	1	2	0	1	2
-ACT	4	18	6	1	7	8	2	7	10
-ACC	1	5	0	0	1	3	0	0	7
-ACA	6	10	4	0	5	7	4	3	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	29	18	22	7	18	10	4	15	15
-AAC	4	3	2	1	4	3	0	1	9
-AAA	15	5	3	4	2	4	7	8	7
-AAG	0	2	0	0	0	0	0	0	2
-AGT	0	2	0	0	0	0	0	1	1
-AGC	0	0	1	0	0	0	0	0	0
-AGA	7	8	2	0	10	5	1	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	12	3	0	2	4	0	3	4
-GTC	0	2	2	0	0	2	0	0	0
-GTA	1	14	6	0	3	9	1	1	13
-GTG	0	1	0	0	0	0	0	0	0
-GCT	5	12	2	0	5	5	2	1	10
-GCC	2	4	1	0	1	3	0	0	0
-GCA	2	10	5	0	0	4	1	0	6
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	11	7	0	1	3	0	0	6
-GAC	0	4	1	0	0	1	3	1	1
-GAA	4	9	7	0	4	7	5	3	4
-GAG	0	0	1	0	0	0	0	0	1
-GGT	0	6	1	0	0	1	0	0	5
-GGC	1	1	1	0	1	3	0	1	1
-GGA	11	38	6	0	7	13	2	4	14
-GGG	1	2	1	0	1	1	0	0	3
-TAA	1	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009517336.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	41	7	43	1	15	4	12	0	8	3	1	1	9	0	6	1	1	0	4	3	1	0	1	0	4	0	2	0	0	0	36	6	32	2	4	1	6	0	29	4	15	0	0	0	7	0	2	0	1	0	5	2	2	0	0	0	4	0	0	1	11	1	1	0
+1	COX1	YP_009517337.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	30	7	40	0	11	9	13	1	14	6	1	0	14	0	10	0	13	0	12	7	8	0	15	1	9	0	1	0	8	0	46	5	29	2	18	5	10	0	18	3	5	2	2	0	8	0	12	2	14	1	12	4	10	1	11	4	9	0	6	1	38	2	0	0
+2	COX2	YP_009517338.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	13	2	21	0	5	2	5	0	9	0	2	0	6	0	4	0	2	0	2	3	6	0	5	0	8	1	1	0	6	0	28	1	10	1	6	0	4	0	22	2	3	0	0	1	2	0	3	2	6	0	2	1	5	0	7	1	7	1	1	1	6	1	0	0
+3	ATP8	YP_009517339.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	6	0	6	0	2	0	2	0	1	1	0	0	3	0	0	0	0	0	2	0	1	0	0	0	2	0	0	0	0	0	10	1	4	0	1	0	0	0	7	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009517340.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	19	4	23	0	7	2	6	0	4	0	0	0	5	0	7	0	5	0	3	6	2	0	4	2	4	0	1	0	2	0	32	2	12	1	7	1	5	0	18	4	2	0	0	0	10	0	2	0	3	0	5	1	0	0	1	0	4	0	0	1	7	1	1	0
+5	COX3	YP_009517341.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	22	2	22	0	3	2	7	0	7	4	1	0	12	1	3	1	2	1	5	2	3	0	12	4	6	0	1	0	3	0	26	2	9	2	8	3	7	0	10	3	4	0	0	0	5	0	4	2	9	0	5	3	4	0	3	1	7	0	1	3	13	1	1	0
+6	ND3	YP_009517342.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	12	3	9	0	4	2	5	0	0	1	2	0	3	0	3	1	0	0	1	2	1	0	2	0	1	0	0	0	2	0	18	4	9	0	2	0	4	0	4	0	7	0	0	0	1	0	0	0	1	0	2	0	1	0	0	3	5	0	0	0	2	0	1	0
+7	ND6	YP_009517346.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	20	2	20	0	5	6	1	0	9	3	1	0	1	0	1	2	4	0	0	0	2	0	1	0	2	0	0	1	0	0	16	4	23	1	7	0	3	0	15	1	8	0	1	0	1	0	3	0	1	0	1	0	0	0	0	1	3	0	0	1	4	0	1	0
+8	CYTB	YP_009517347.1	Histia rhodope	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Zygaenoidea, Zygaenidae, Chalcosiinae, Histia	21	9	38	1	10	2	2	0	16	5	1	2	10	2	9	0	4	0	6	6	10	0	6	2	8	0	2	0	4	1	46	6	20	2	10	7	9	0	15	9	7	2	1	0	3	0	4	0	13	0	10	0	6	0	6	1	4	1	5	1	14	3	1	0

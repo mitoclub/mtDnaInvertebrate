@@ -1,65 +1,17 @@
-	YP_009565391.1|cox3	YP_009565392.1|atp1	YP_009565393.1|atp9	YP_009565394.1|nad3	YP_009565395.1|rps12	YP_009565396.1|nad2	YP_009565399.1|cob	YP_009565400.1|matR	YP_009565401.1|nad4	YP_009565402.1|nad6	YP_009565404.1|rps7	YP_009565405.1|rps19	YP_009565406.1|rps3	YP_009565413.1|ccmC	YP_009565414.1|ccmFN	YP_009565415.1|mttB
-TTT	17	9	5	9	1	23	22	8	14	6	3	3	20	11	23	10
-TTC	8	5	1	2	0	19	9	17	13	8	3	2	17	7	17	11
-TTA	6	16	5	3	2	19	10	4	11	8	2	0	9	8	10	6
-TTG	6	11	1	4	4	9	9	7	8	9	3	4	11	5	11	9
-TCT	6	9	2	3	1	13	4	5	10	3	0	4	13	12	12	6
-TCC	2	3	2	5	1	9	5	13	5	2	1	1	7	3	7	6
-TCA	3	6	3	2	3	12	3	10	6	2	1	1	8	6	12	4
-TCG	3	4	1	2	3	5	1	14	1	1	0	0	5	3	11	7
-TAT	8	15	1	4	1	19	12	5	11	5	2	0	12	2	9	8
-TAC	3	2	0	1	0	3	3	11	1	2	2	1	7	2	6	4
-TGT	1	4	0	2	2	6	4	2	4	0	1	1	6	0	8	0
-TGC	0	1	0	0	0	2	1	5	3	0	1	1	1	1	7	5
-TGG	12	0	0	3	0	4	12	10	5	4	3	2	5	5	13	6
-CTT	6	9	0	3	0	9	10	12	12	6	3	4	8	9	23	7
-CTC	5	4	0	3	0	5	3	10	0	2	0	0	8	2	4	3
-CTA	5	10	1	1	0	13	10	16	8	2	0	1	5	2	9	3
-CTG	3	5	1	1	1	3	2	11	6	3	2	1	7	3	5	2
-CCT	4	10	0	5	2	9	16	6	11	2	1	1	4	10	16	5
-CCC	2	1	0	0	2	5	3	17	7	1	0	0	4	4	9	5
-CCA	3	9	2	3	2	6	4	6	4	5	2	1	6	5	8	4
-CCG	0	0	0	2	4	3	7	5	2	1	0	2	8	3	4	5
-CAT	12	1	1	0	5	7	14	6	8	4	3	1	7	6	14	3
-CAC	2	4	0	0	1	1	5	15	2	1	0	2	1	0	3	1
-CAA	6	21	2	0	3	10	6	13	7	2	6	1	10	6	7	6
-CAG	0	5	0	0	2	0	3	9	2	1	0	0	2	0	7	1
-CGT	1	7	0	1	4	5	5	5	1	1	5	2	10	5	13	8
-CGC	2	7	0	0	2	2	1	8	2	2	3	1	7	1	6	1
-CGA	2	8	0	1	4	1	1	12	3	3	3	5	9	2	8	1
-CGG	0	0	1	1	3	1	1	11	3	0	0	1	6	4	12	2
-ATT	10	23	5	6	4	28	15	11	22	10	5	3	13	10	14	8
-ATC	7	6	1	4	0	13	4	28	10	3	3	3	12	8	6	10
-ATA	4	5	1	1	4	10	13	18	9	6	5	2	17	6	6	7
-ATG	6	11	3	3	2	16	10	5	12	9	3	2	10	7	13	4
-ACT	4	8	0	0	1	11	5	6	9	6	3	2	3	2	9	3
-ACC	8	5	1	2	0	10	4	8	6	4	2	0	8	6	11	2
-ACA	2	7	1	0	2	5	6	7	5	2	0	0	8	6	7	7
-ACG	2	2	0	1	1	5	1	6	2	4	1	0	4	3	3	6
-AAT	1	10	1	1	4	8	13	8	2	6	3	1	16	2	14	5
-AAC	0	4	1	1	0	0	2	13	2	0	1	2	10	4	7	1
-AAA	3	20	2	2	10	10	6	12	6	2	8	5	32	2	13	4
-AAG	2	4	0	1	2	5	1	26	4	2	5	9	23	3	8	2
-AGT	3	6	1	3	0	9	9	7	4	3	1	2	8	3	8	4
-AGC	0	5	0	0	1	3	6	13	4	1	2	0	4	3	5	1
-AGA	0	10	0	1	7	3	2	10	6	3	4	2	16	2	6	1
-AGG	1	2	0	1	0	4	2	12	0	5	4	1	8	0	5	3
-GTT	7	9	1	2	1	9	11	9	6	9	3	3	5	6	12	9
-GTC	1	12	2	0	2	3	2	10	2	3	3	0	7	2	6	2
-GTA	11	8	0	2	2	5	12	13	5	7	4	2	8	3	6	5
-GTG	3	11	1	1	2	4	9	4	10	2	1	0	7	1	7	4
-GCT	10	20	8	2	3	16	15	5	4	6	8	0	8	11	17	3
-GCC	1	15	4	3	1	13	6	21	6	3	2	0	5	0	10	2
-GCA	8	13	2	2	0	15	4	6	6	1	2	1	7	2	10	6
-GCG	1	7	2	0	1	4	3	14	2	1	1	0	5	3	9	0
-GAT	4	18	0	7	5	10	7	6	5	3	5	2	12	3	11	1
-GAC	1	6	0	0	1	2	3	18	2	3	1	1	11	1	4	3
-GAA	7	25	2	4	5	8	6	19	9	5	5	8	20	7	14	11
-GAG	3	10	0	1	0	3	2	15	3	1	5	2	10	1	7	4
-GGT	11	8	4	4	5	13	10	14	10	4	3	1	9	5	9	5
-GGC	4	4	1	0	2	5	3	9	2	1	1	1	6	2	8	2
-GGA	8	15	3	2	4	12	12	16	6	3	2	3	14	6	13	3
-GGG	4	14	0	0	0	3	4	12	2	1	2	2	12	3	5	0
-TAA	0	0	1	1	0	1	0	0	0	1	1	1	0	0	0	0
-TAG	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1
-TGA	1	1	0	0	1	0	1	0	1	0	0	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	cox3	YP_009565391.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	17	8	6	6	6	2	3	3	8	3	1	0	12	6	5	5	3	4	2	3	0	12	2	6	0	1	2	2	0	10	7	4	6	4	8	2	2	1	0	3	2	3	0	0	1	7	1	11	3	10	1	8	1	4	1	7	3	11	4	8	4	0	0	1
+1	atp1	YP_009565392.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	9	5	16	11	9	3	6	4	15	2	4	1	0	9	4	10	5	10	1	9	0	1	4	21	5	7	7	8	0	23	6	5	11	8	5	7	2	10	4	20	4	6	5	10	2	9	12	8	11	20	15	13	7	18	6	25	10	8	4	15	14	0	0	1
+2	atp9	YP_009565393.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	5	1	5	1	2	2	3	1	1	0	0	0	0	0	0	1	1	0	0	2	0	1	0	2	0	0	0	0	1	5	1	1	3	0	1	1	0	1	1	2	0	1	0	0	0	1	2	0	1	8	4	2	2	0	0	2	0	4	1	3	0	1	0	0
+3	nad3	YP_009565394.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	9	2	3	4	3	5	2	2	4	1	2	0	3	3	3	1	1	5	0	3	2	0	0	0	0	1	0	1	1	6	4	1	3	0	2	0	1	1	1	2	1	3	0	1	1	2	0	2	1	2	3	2	0	7	0	4	1	4	0	2	0	1	0	0
+4	rps12	YP_009565395.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	1	0	2	4	1	1	3	3	1	0	2	0	0	0	0	0	1	2	2	2	4	5	1	3	2	4	2	4	3	4	0	4	2	1	0	2	1	4	0	10	2	0	1	7	0	1	2	2	2	3	1	0	1	5	1	5	0	5	2	4	0	0	0	1
+5	nad2	YP_009565396.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	23	19	19	9	13	9	12	5	19	3	6	2	4	9	5	13	3	9	5	6	3	7	1	10	0	5	2	1	1	28	13	10	16	11	10	5	5	8	0	10	5	9	3	3	4	9	3	5	4	16	13	15	4	10	2	8	3	13	5	12	3	1	0	0
+6	cob	YP_009565399.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	22	9	10	9	4	5	3	1	12	3	4	1	12	10	3	10	2	16	3	4	7	14	5	6	3	5	1	1	1	15	4	13	10	5	4	6	1	13	2	6	1	9	6	2	2	11	2	12	9	15	6	4	3	7	3	6	2	10	3	12	4	0	0	1
+7	matR	YP_009565400.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	8	17	4	7	5	13	10	14	5	11	2	5	10	12	10	16	11	6	17	6	5	6	15	13	9	5	8	12	11	11	28	18	5	6	8	7	6	8	13	12	26	7	13	10	12	9	10	13	4	5	21	6	14	6	18	19	15	14	9	16	12	0	1	0
+8	nad4	YP_009565401.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	14	13	11	8	10	5	6	1	11	1	4	3	5	12	0	8	6	11	7	4	2	8	2	7	2	1	2	3	3	22	10	9	12	9	6	5	2	2	2	6	4	4	4	6	0	6	2	5	10	4	6	6	2	5	2	9	3	10	2	6	2	0	0	1
+9	nad6	YP_009565402.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	6	8	8	9	3	2	2	1	5	2	0	0	4	6	2	2	3	2	1	5	1	4	1	2	1	1	2	3	0	10	3	6	9	6	4	2	4	6	0	2	2	3	1	3	5	9	3	7	2	6	3	1	1	3	3	5	1	4	1	3	1	1	0	0
+10	rps7	YP_009565404.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	3	3	2	3	0	1	1	0	2	2	1	1	3	3	0	0	2	1	0	2	0	3	0	6	0	5	3	3	0	5	3	5	3	3	2	0	1	3	1	8	5	1	2	4	4	3	3	4	1	8	2	2	1	5	1	5	5	3	1	2	2	1	0	0
+11	rps19	YP_009565405.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	3	2	0	4	4	1	1	0	0	1	1	1	2	4	0	1	1	1	0	1	2	1	2	1	0	2	1	5	1	3	3	2	2	2	0	0	0	1	2	5	9	2	0	2	1	3	0	2	0	0	0	1	0	2	1	8	2	1	1	3	2	1	0	0
+12	rps3	YP_009565406.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	20	17	9	11	13	7	8	5	12	7	6	1	5	8	8	5	7	4	4	6	8	7	1	10	2	10	7	9	6	13	12	17	10	3	8	8	4	16	10	32	23	8	4	16	8	5	7	8	7	8	5	7	5	12	11	20	10	9	6	14	12	0	1	0
+13	ccmC	YP_009565413.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	11	7	8	5	12	3	6	3	2	2	0	1	5	9	2	2	3	10	4	5	3	6	0	6	0	5	1	2	4	10	8	6	7	2	6	6	3	2	4	2	3	3	3	2	0	6	2	3	1	11	0	2	3	3	1	7	1	5	2	6	3	0	0	1
+14	ccmFN	YP_009565414.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	23	17	10	11	12	7	12	11	9	6	8	7	13	23	4	9	5	16	9	8	4	14	3	7	7	13	6	8	12	14	6	6	13	9	11	7	3	14	7	13	8	8	5	6	5	12	6	6	7	17	10	10	9	11	4	14	7	9	8	13	5	0	0	1
+15	mttB	YP_009565415.1	Morus notabilis	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Rosales, Moraceae, Morus	10	11	6	9	6	6	4	7	8	4	0	5	6	7	3	3	2	5	5	4	5	3	1	6	1	8	1	1	2	8	10	7	4	3	2	7	6	5	1	4	2	4	1	1	3	9	2	5	4	3	2	6	0	1	3	11	4	5	2	3	0	0	1	0

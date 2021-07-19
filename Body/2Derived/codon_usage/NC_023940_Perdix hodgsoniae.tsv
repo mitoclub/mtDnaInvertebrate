@@ -1,65 +1,13 @@
-	YP_009024451.1|ND1	YP_009024452.1|ND2	YP_009024453.1|COX1	YP_009024454.1|COX2	YP_009024455.1|ATP8	YP_009024456.1|ATP6	YP_009024457.1|COX3	YP_009024458.1|ND3	YP_009024459.1|ND4L	YP_009024460.1|ND4	YP_009024461.1|ND5	YP_009024462.1|CYTB
-TTT	5	1	13	3	1	3	4	2	1	2	7	3
-TTC	14	14	30	6	3	4	20	7	6	11	22	25
-TTA	8	6	2	7	3	6	3	5	3	7	11	4
-TTG	1	0	2	1	0	2	1	0	0	0	1	1
-TCT	5	5	3	1	0	2	2	1	1	5	2	2
-TCC	7	12	9	10	1	6	6	2	4	13	16	11
-TCA	8	12	11	7	1	4	8	3	3	13	20	14
-TCG	0	2	1	0	0	0	0	0	2	1	1	0
-TAT	3	1	3	4	0	0	3	1	1	2	3	0
-TAC	10	5	14	3	0	4	6	1	0	12	7	13
-TGT	0	0	0	1	0	0	0	0	1	1	0	0
-TGC	1	1	1	2	0	0	1	1	3	2	6	3
-TGA	7	8	13	4	5	3	12	5	1	10	10	10
-TGG	1	2	4	1	0	1	0	0	0	2	2	1
-CTT	10	12	8	7	1	11	3	5	2	8	13	11
-CTC	17	14	17	7	3	22	9	9	4	35	41	29
-CTA	24	27	27	8	0	21	15	7	8	43	38	21
-CTG	6	5	7	1	0	0	1	0	2	7	2	2
-CCT	3	3	6	2	2	6	1	0	2	4	3	1
-CCC	14	9	11	9	6	7	2	6	2	11	19	12
-CCA	9	9	11	2	1	7	8	1	1	16	8	12
-CCG	0	0	2	0	0	0	0	0	0	0	2	0
-CAT	0	4	3	5	0	3	3	0	0	1	1	1
-CAC	2	7	16	4	1	2	15	0	6	15	15	12
-CAA	3	9	7	7	2	7	6	4	2	9	18	7
-CAG	2	0	2	0	0	1	0	0	0	2	2	1
-CGT	0	1	1	0	0	0	0	0	0	1	2	1
-CGC	3	1	3	2	0	3	0	0	0	4	1	3
-CGA	4	1	4	3	0	2	4	2	2	4	5	4
-CGG	1	1	0	0	0	0	1	0	0	1	0	0
-ATT	9	8	14	5	2	4	7	1	1	16	19	1
-ATC	15	23	27	11	2	16	10	8	4	25	39	31
-ATA	11	12	17	6	1	7	6	2	4	21	28	6
-ATG	2	4	8	5	1	1	3	1	2	3	2	1
-ACT	4	12	10	1	2	1	2	1	1	5	8	8
-ACC	14	14	14	10	5	10	10	7	3	18	34	10
-ACA	7	19	17	5	3	10	9	6	2	24	25	6
-ACG	0	1	0	0	0	0	0	0	0	1	3	0
-AAT	1	2	4	0	2	1	1	1	0	5	3	6
-AAC	12	10	11	4	2	7	3	1	3	10	22	14
-AAA	5	10	8	5	3	3	3	1	0	11	20	9
-AAG	2	2	1	0	0	0	1	0	0	0	3	1
-AGT	0	0	1	1	0	0	1	1	1	3	1	0
-AGC	7	5	2	2	0	3	4	0	3	7	8	1
-GTT	3	2	6	3	0	1	2	0	1	1	2	3
-GTC	5	3	12	4	0	3	8	0	0	2	4	2
-GTA	2	1	13	9	0	2	3	1	1	3	4	12
-GTG	2	0	2	0	0	0	0	0	0	0	0	0
-GCT	6	3	6	3	0	2	5	2	1	3	9	4
-GCC	18	8	26	6	1	12	8	4	3	18	25	10
-GCA	4	15	11	4	0	2	9	2	4	12	16	13
-GCG	0	1	3	0	0	0	0	1	0	0	0	0
-GAT	2	0	5	2	0	0	1	0	0	0	1	2
-GAC	2	1	10	12	0	2	4	3	1	2	6	5
-GAA	9	6	7	12	0	4	8	6	2	8	10	4
-GAG	2	0	3	1	0	0	0	0	1	1	3	3
-GGT	1	2	6	1	0	0	1	0	0	2	1	1
-GGC	5	6	17	2	0	4	8	2	2	7	13	13
-GGA	3	2	19	3	0	5	9	1	1	7	16	8
-GGG	3	2	5	3	0	0	1	2	0	2	2	2
-TAA	1	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009024451.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	5	14	8	1	5	7	8	0	3	10	0	1	7	1	10	17	24	6	3	14	9	0	0	2	3	2	0	3	4	1	9	15	11	2	4	14	7	0	1	12	5	2	0	7	3	5	2	2	6	18	4	0	2	2	9	2	1	5	3	3	1	0	0	0
+1	ND2	YP_009024452.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	1	14	6	0	5	12	12	2	1	5	0	1	8	2	12	14	27	5	3	9	9	0	4	7	9	0	1	1	1	1	8	23	12	4	12	14	19	1	2	10	10	2	0	5	2	3	1	0	3	8	15	1	0	1	6	0	2	6	2	2	0	0	0	0
+2	COX1	YP_009024453.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	13	30	2	2	3	9	11	1	3	14	0	1	13	4	8	17	27	7	6	11	11	2	3	16	7	2	1	3	4	0	14	27	17	8	10	14	17	0	4	11	8	1	1	2	6	12	13	2	6	26	11	3	5	10	7	3	6	17	19	5	0	0	0	1
+3	COX2	YP_009024454.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	3	6	7	1	1	10	7	0	4	3	1	2	4	1	7	7	8	1	2	9	2	0	5	4	7	0	0	2	3	0	5	11	6	5	1	10	5	0	0	4	5	0	1	2	3	4	9	0	3	6	4	0	2	12	12	1	1	2	3	3	1	0	0	0
+4	ATP8	YP_009024455.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	1	3	3	0	0	1	1	0	0	0	0	0	5	0	1	3	0	0	2	6	1	0	0	1	2	0	0	0	0	0	2	2	1	1	2	5	3	0	2	2	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009024456.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	3	4	6	2	2	6	4	0	0	4	0	0	3	1	11	22	21	0	6	7	7	0	3	2	7	1	0	3	2	0	4	16	7	1	1	10	10	0	1	7	3	0	0	3	1	3	2	0	2	12	2	0	0	2	4	0	0	4	5	0	1	0	0	0
+6	COX3	YP_009024457.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	4	20	3	1	2	6	8	0	3	6	0	1	12	0	3	9	15	1	1	2	8	0	3	15	6	0	0	0	4	1	7	10	6	3	2	10	9	0	1	3	3	1	1	4	2	8	3	0	5	8	9	0	1	4	8	0	1	8	9	1	0	0	0	0
+7	ND3	YP_009024458.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	2	7	5	0	1	2	3	0	1	1	0	1	5	0	5	9	7	0	0	6	1	0	0	0	4	0	0	0	2	0	1	8	2	1	1	7	6	0	1	1	1	0	1	0	0	0	1	0	2	4	2	1	0	3	6	0	0	2	1	2	0	1	0	0
+8	ND4L	YP_009024459.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	1	6	3	0	1	4	3	2	1	0	1	3	1	0	2	4	8	2	2	2	1	0	0	6	2	0	0	0	2	0	1	4	4	2	1	3	2	0	0	3	0	0	1	3	1	0	1	0	1	3	4	0	0	1	2	1	0	2	1	0	1	0	0	0
+9	ND4	YP_009024460.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	2	11	7	0	5	13	13	1	2	12	1	2	10	2	8	35	43	7	4	11	16	0	1	15	9	2	1	4	4	1	16	25	21	3	5	18	24	1	5	10	11	0	3	7	1	2	3	0	3	18	12	0	0	2	8	1	2	7	7	2	0	0	0	0
+10	ND5	YP_009024461.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	7	22	11	1	2	16	20	1	3	7	0	6	10	2	13	41	38	2	3	19	8	2	1	15	18	2	2	1	5	0	19	39	28	2	8	34	25	3	3	22	20	3	1	8	2	4	4	0	9	25	16	0	1	6	10	3	1	13	16	2	1	0	0	0
+11	CYTB	YP_009024462.1	Perdix hodgsoniae	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Perdicinae, Perdix	3	25	4	1	2	11	14	0	0	13	0	3	10	1	11	29	21	2	1	12	12	0	1	12	7	1	1	3	4	0	1	31	6	1	8	10	6	0	6	14	9	1	0	1	3	2	12	0	4	10	13	0	2	5	4	3	1	13	8	2	1	0	0	0

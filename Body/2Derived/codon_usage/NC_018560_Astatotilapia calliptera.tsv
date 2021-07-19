@@ -1,65 +1,13 @@
-	YP_006666207.1|ND1	YP_006666208.1|ND2	YP_006666209.1|COX1	YP_006666210.1|COX2	YP_006666211.1|ATP8	YP_006666212.1|ATP6	YP_006666213.1|COX3	YP_006666214.1|ND3	YP_006666215.1|ND4L	YP_006666216.1|ND4	YP_006666217.1|ND5	YP_006666219.1|CYTB
-TTT	13	7	17	8	0	9	5	2	3	6	19	7
-TTC	6	5	25	3	4	4	18	7	4	10	23	25
-TTA	5	8	5	4	1	9	4	3	2	11	13	7
-TTG	0	1	4	0	0	0	0	1	0	1	0	1
-TCT	3	2	9	2	0	0	0	5	2	2	8	6
-TCC	13	8	10	8	1	2	5	3	5	22	18	12
-TCA	4	9	9	2	0	0	4	0	2	5	10	4
-TCG	0	0	1	0	0	0	0	0	0	0	0	1
-TAT	3	4	10	4	0	1	4	1	0	9	5	5
-TAC	7	4	9	4	1	4	8	1	0	5	7	9
-TGT	0	0	0	0	0	0	1	1	2	1	0	2
-TGC	0	1	1	2	0	0	1	0	1	3	7	1
-TGA	6	11	16	5	5	4	11	5	1	15	13	12
-TGG	2	0	2	0	0	1	1	0	0	3	2	1
-CTT	17	26	15	9	1	11	8	7	9	21	22	11
-CTC	24	21	19	4	1	19	7	8	6	26	30	25
-CTA	19	19	11	8	3	11	15	5	4	27	25	12
-CTG	2	2	5	3	0	4	1	2	3	7	4	4
-CCT	4	8	16	3	1	4	4	2	1	5	7	8
-CCC	10	10	10	5	4	12	6	6	1	14	14	10
-CCA	8	4	5	5	5	1	3	0	0	5	8	2
-CCG	0	0	0	1	0	0	0	0	0	2	2	1
-CAT	0	2	5	4	0	2	4	1	1	5	5	3
-CAC	3	5	14	7	1	2	13	0	3	7	9	9
-CAA	7	14	5	7	2	9	7	3	3	11	13	6
-CAG	0	1	3	1	0	1	0	0	0	0	5	0
-CGT	2	0	1	1	0	0	0	1	0	2	1	1
-CGC	0	4	1	2	0	4	0	1	1	2	4	3
-CGA	5	0	5	1	0	2	4	0	2	5	1	4
-CGG	1	0	1	1	0	0	1	0	0	2	3	0
-ATT	13	17	26	16	2	14	6	6	1	18	29	19
-ATC	9	8	15	7	0	5	9	3	0	16	26	14
-ATA	7	9	17	9	0	5	6	3	3	19	24	6
-ATG	3	2	9	2	1	4	2	2	2	8	6	3
-ACT	4	7	11	3	0	0	4	1	2	9	12	2
-ACC	9	19	10	2	1	12	12	3	4	19	34	11
-ACA	10	19	14	5	4	7	6	4	2	12	13	7
-ACG	1	1	1	0	0	1	0	0	0	2	2	0
-AAT	4	2	9	1	0	1	2	1	1	3	8	1
-AAC	7	7	7	4	2	7	0	0	3	5	23	18
-AAA	6	7	8	3	3	1	2	1	0	8	19	9
-AAG	1	1	1	1	0	1	0	0	0	2	1	0
-AGT	2	2	1	2	1	2	0	0	0	2	3	0
-AGC	2	3	3	2	1	4	3	0	1	7	8	0
-GTT	6	0	11	2	2	2	4	3	1	2	8	7
-GTC	7	3	12	2	1	6	7	0	0	4	8	10
-GTA	4	2	13	6	1	3	6	0	0	5	5	4
-GTG	1	0	5	5	0	1	0	0	0	1	2	1
-GCT	4	10	11	3	1	0	0	5	3	7	9	4
-GCC	17	18	19	7	0	14	11	1	7	19	26	19
-GCA	10	9	15	7	2	6	9	2	4	15	13	10
-GCG	0	0	3	0	0	0	0	0	0	1	0	0
-GAT	1	0	4	3	0	0	1	3	0	1	5	4
-GAC	3	1	11	10	1	1	4	1	1	3	7	7
-GAA	10	5	12	14	1	4	10	6	2	11	11	6
-GAG	1	1	0	1	1	0	0	0	0	1	1	0
-GGT	1	3	6	2	0	3	5	2	1	4	9	0
-GGC	10	12	15	4	0	4	8	3	3	11	12	16
-GGA	6	2	16	1	0	2	8	0	1	7	8	5
-GGG	1	2	10	2	0	1	1	1	0	4	2	5
-TAA	0	0	0	0	1	0	0	0	1	0	0	0
-TAG	1	0	1	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_006666207.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	13	6	5	0	3	13	4	0	3	7	0	0	6	2	17	24	19	2	4	10	8	0	0	3	7	0	2	0	5	1	13	9	7	3	4	9	10	1	4	7	6	1	2	2	6	7	4	1	4	17	10	0	1	3	10	1	1	10	6	1	0	1	0	0
+1	ND2	YP_006666208.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	7	5	8	1	2	8	9	0	4	4	0	1	11	0	26	21	19	2	8	10	4	0	2	5	14	1	0	4	0	0	17	8	9	2	7	19	19	1	2	7	7	1	2	3	0	3	2	0	10	18	9	0	0	1	5	1	3	12	2	2	0	0	0	0
+2	COX1	YP_006666209.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	17	25	5	4	9	10	9	1	10	9	0	1	16	2	15	19	11	5	16	10	5	0	5	14	5	3	1	1	5	1	26	15	17	9	11	10	14	1	9	7	8	1	1	3	11	12	13	5	11	19	15	3	4	11	12	0	6	15	16	10	0	1	0	0
+3	COX2	YP_006666210.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	8	3	4	0	2	8	2	0	4	4	0	2	5	0	9	4	8	3	3	5	5	1	4	7	7	1	1	2	1	1	16	7	9	2	3	2	5	0	1	4	3	1	2	2	2	2	6	5	3	7	7	0	3	10	14	1	2	4	1	2	0	0	0	0
+4	ATP8	YP_006666211.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	0	4	1	0	0	1	0	0	0	1	0	0	5	0	1	1	3	0	1	4	5	0	0	1	2	0	0	0	0	0	2	0	0	1	0	1	4	0	0	2	3	0	1	1	2	1	1	0	1	0	2	0	0	1	1	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_006666212.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	9	4	9	0	0	2	0	0	1	4	0	0	4	1	11	19	11	4	4	12	1	0	2	2	9	1	0	4	2	0	14	5	5	4	0	12	7	1	1	7	1	1	2	4	2	6	3	1	0	14	6	0	0	1	4	0	3	4	2	1	0	0	0	0
+6	COX3	YP_006666213.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	5	18	4	0	0	5	4	0	4	8	1	1	11	1	8	7	15	1	4	6	3	0	4	13	7	0	0	0	4	1	6	9	6	2	4	12	6	0	2	0	2	0	0	3	4	7	6	0	0	11	9	0	1	4	10	0	5	8	8	1	0	0	0	0
+7	ND3	YP_006666214.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	2	7	3	1	5	3	0	0	1	1	1	0	5	0	7	8	5	2	2	6	0	0	1	0	3	0	1	1	0	0	6	3	3	2	1	3	4	0	1	0	1	0	0	0	3	0	0	0	5	1	2	0	3	1	6	0	2	3	0	1	0	0	0	0
+8	ND4L	YP_006666215.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	3	4	2	0	2	5	2	0	0	0	2	1	1	0	9	6	4	3	1	1	0	0	1	3	3	0	0	1	2	0	1	0	3	2	2	4	2	0	1	3	0	0	0	1	1	0	0	0	3	7	4	0	0	1	2	0	1	3	1	0	1	0	0	0
+9	ND4	YP_006666216.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	6	10	11	1	2	22	5	0	9	5	1	3	15	3	21	26	27	7	5	14	5	2	5	7	11	0	2	2	5	2	18	16	19	8	9	19	12	2	3	5	8	2	2	7	2	4	5	1	7	19	15	1	1	3	11	1	4	11	7	4	0	0	0	0
+10	ND5	YP_006666217.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	19	23	13	0	8	18	10	0	5	7	0	7	13	2	22	30	25	4	7	14	8	2	5	9	13	5	1	4	1	3	29	26	24	6	12	34	13	2	8	23	19	1	3	8	8	8	5	2	9	26	13	0	5	7	11	1	9	12	8	2	0	1	0	0
+11	CYTB	YP_006666219.1	Astatotilapia calliptera	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Ovalentaria, Cichlomorphae, Cichliformes, Cichlidae, African cichlids, Pseudocrenilabrinae, Haplochromini, Astatotilapia	7	25	7	1	6	12	4	1	5	9	2	1	12	1	11	25	12	4	8	10	2	1	3	9	6	0	1	3	4	0	19	14	6	3	2	11	7	0	1	18	9	0	0	0	7	10	4	1	4	19	10	0	4	7	6	0	0	16	5	5	0	0	0	0

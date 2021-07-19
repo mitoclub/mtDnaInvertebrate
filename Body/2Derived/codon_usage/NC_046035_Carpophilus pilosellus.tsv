@@ -1,65 +1,10 @@
-	YP_009731694.1|ND2	YP_009731695.1|COX1	YP_009731696.1|COX2	YP_009731697.1|ATP8	YP_009731698.1|ATP6	YP_009731699.1|COX3	YP_009731700.1|ND3	YP_009731704.1|ND6	YP_009731705.1|CYTB
-TTT	20	34	14	5	14	26	10	16	29
-TTC	11	9	3	2	3	2	4	2	4
-TTA	25	35	23	3	27	28	18	21	41
-TTG	2	6	0	0	4	0	0	0	1
-TCT	8	16	8	3	8	6	3	5	7
-TCC	3	5	3	0	1	0	1	3	1
-TCA	12	13	7	0	2	4	3	0	7
-TCG	1	1	0	0	0	0	0	0	0
-TAT	9	13	6	3	3	10	1	12	17
-TAC	5	3	0	1	1	2	0	1	1
-TGT	1	0	1	0	1	1	1	0	3
-TGC	1	0	1	0	0	0	0	0	1
-TGA	8	12	6	3	5	13	2	1	9
-TGG	0	2	0	0	0	0	0	0	1
-CTT	5	12	1	1	9	2	1	0	4
-CTC	1	0	0	0	0	0	1	0	0
-CTA	7	11	3	1	3	1	1	5	3
-CTG	1	0	0	0	0	0	0	0	0
-CCT	1	14	3	0	4	3	2	2	9
-CCC	6	5	3	0	3	1	0	0	3
-CCA	1	5	2	2	5	6	2	1	10
-CCG	1	1	2	0	0	0	0	0	0
-CAT	3	12	6	0	5	11	2	1	8
-CAC	0	3	0	0	0	5	0	0	2
-CAA	9	7	9	2	3	6	1	3	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	3	0	1	3	1	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	9	4	0	2	1	1	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	46	43	28	5	23	26	12	27	43
-ATC	10	2	2	2	1	1	3	2	4
-ATA	24	23	7	3	9	9	5	16	15
-ATG	2	4	1	0	1	1	0	0	2
-ACT	9	17	4	1	9	7	4	4	10
-ACC	6	3	1	0	0	2	0	0	2
-ACA	9	9	3	0	11	9	2	2	11
-ACG	0	2	0	0	0	0	0	0	0
-AAT	22	18	13	2	11	8	6	14	25
-AAC	3	4	0	1	2	1	0	1	1
-AAA	15	8	6	7	4	4	5	10	8
-AAG	0	1	0	0	1	0	0	0	2
-AGT	0	3	2	0	2	2	2	0	0
-AGC	0	0	0	0	0	0	0	0	0
-AGA	9	10	5	2	8	7	1	2	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	18	11	1	7	3	2	0	8
-GTC	0	1	0	0	0	1	0	0	1
-GTA	5	15	3	0	4	8	2	2	10
-GTG	0	3	0	0	0	0	1	0	0
-GCT	2	14	5	0	2	5	2	4	10
-GCC	1	8	0	0	0	1	1	0	3
-GCA	7	9	2	1	5	6	0	1	9
-GCG	0	1	0	0	1	0	0	0	0
-GAT	0	10	7	0	0	6	2	3	10
-GAC	0	4	2	0	1	1	1	0	1
-GAA	9	10	9	0	5	6	4	1	2
-GAG	0	0	1	0	0	0	0	0	0
-GGT	4	12	0	0	3	5	3	1	6
-GGC	2	5	1	0	1	1	0	2	0
-GGA	7	27	7	0	4	8	2	2	14
-GGG	0	1	1	0	2	3	0	0	3
-TAA	1	0	0	0	1	0	0	1	0
-TAG	0	0	0	1	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009731694.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	20	11	25	2	8	3	12	1	9	5	1	1	8	0	5	1	7	1	1	6	1	1	3	0	9	0	0	0	2	0	46	10	24	2	9	6	9	0	22	3	15	0	0	0	9	0	0	0	5	0	2	1	7	0	0	0	9	0	4	2	7	0	1	0
+1	COX1	YP_009731695.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	34	9	35	6	16	5	13	1	13	3	0	0	12	2	12	0	11	0	14	5	5	1	12	3	7	0	0	0	9	0	43	2	23	4	17	3	9	2	18	4	8	1	3	0	10	0	18	1	15	3	14	8	9	1	10	4	10	0	12	5	27	1	0	0
+2	COX2	YP_009731696.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	14	3	23	0	8	3	7	0	6	0	1	1	6	0	1	0	3	0	3	3	2	2	6	0	9	0	3	0	4	0	28	2	7	1	4	1	3	0	13	0	6	0	2	0	5	0	11	0	3	0	5	0	2	0	7	2	9	1	0	1	7	1	0	0
+3	ATP8	YP_009731697.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	5	2	3	0	3	0	0	0	3	1	0	0	3	0	1	0	1	0	0	0	2	0	0	0	2	0	0	0	0	0	5	2	3	0	1	0	0	0	2	1	7	0	0	0	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+4	ATP6	YP_009731698.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	14	3	27	4	8	1	2	0	3	1	1	0	5	0	9	0	3	0	4	3	5	0	5	0	3	0	1	0	2	0	23	1	9	1	9	0	11	0	11	2	4	1	2	0	8	0	7	0	4	0	2	0	5	1	0	1	5	0	3	1	4	2	1	0
+5	COX3	YP_009731699.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	26	2	28	0	6	0	4	0	10	2	1	0	13	0	2	0	1	0	3	1	6	0	11	5	6	0	3	0	1	0	26	1	9	1	7	2	9	0	8	1	4	0	2	0	7	0	3	1	8	0	5	1	6	0	6	1	6	0	5	1	8	3	0	0
+6	ND3	YP_009731700.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	10	4	18	0	3	1	3	0	1	0	1	0	2	0	1	1	1	0	2	0	2	0	2	0	1	0	1	0	1	0	12	3	5	0	4	0	2	0	6	0	5	0	2	0	1	0	2	0	2	1	2	1	0	0	2	1	4	0	3	0	2	0	0	1
+7	ND6	YP_009731704.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	16	2	21	0	5	3	0	0	12	1	0	0	1	0	0	0	5	0	2	0	1	0	1	0	3	0	0	0	1	0	27	2	16	0	4	0	2	0	14	1	10	0	0	0	2	0	0	0	2	0	4	0	1	0	3	0	1	0	1	2	2	0	1	0
+8	CYTB	YP_009731705.1	Carpophilus pilosellus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Nitidulidae, Carpophilinae, Carpophilus	29	4	41	1	7	1	7	0	17	1	3	1	9	1	4	0	3	0	9	3	10	0	8	2	7	0	0	0	7	0	43	4	15	2	10	2	11	0	25	1	8	2	0	0	5	0	8	1	10	0	10	3	9	0	10	1	2	0	6	0	14	3	0	1

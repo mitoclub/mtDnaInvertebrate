@@ -1,65 +1,10 @@
-	YP_009110044.1|COX2	YP_009110045.1|ND1	YP_009110050.1|ND6	YP_009110051.1|CYTB	YP_009110052.1|ATP6	YP_009110053.1|COX3	YP_009110054.1|ATP8	YP_009110055.1|ND3	YP_009110056.1|COX1
-TTT	3	8	5	10	3	3	0	9	25
-TTC	7	9	3	20	8	13	1	5	15
-TTA	12	13	10	17	9	12	3	7	19
-TTG	0	0	0	1	0	1	0	1	1
-TCT	1	2	4	5	1	0	0	3	5
-TCC	7	4	2	5	10	6	1	2	11
-TCA	7	5	4	9	6	6	1	2	15
-TCG	1	1	0	0	0	2	0	0	0
-TAT	1	3	4	7	4	3	0	3	6
-TAC	9	7	7	10	8	7	1	2	11
-TGT	3	1	0	0	0	2	0	1	2
-TGC	0	1	2	0	0	1	0	0	1
-TGA	10	6	3	17	9	10	0	2	13
-TGG	0	0	0	1	1	0	1	0	1
-CTT	3	4	3	8	3	2	3	1	3
-CTC	4	10	4	8	6	3	0	4	10
-CTA	9	30	11	22	23	20	2	12	35
-CTG	0	0	2	0	0	1	0	1	2
-CCT	0	2	1	1	2	2	2	0	7
-CCC	1	1	1	2	1	3	0	1	3
-CCA	10	10	3	13	7	5	1	1	13
-CCG	0	0	0	0	0	0	0	0	0
-CAT	3	0	1	3	1	2	0	0	4
-CAC	1	1	2	7	4	3	1	0	13
-CAA	5	4	1	5	4	4	1	0	5
-CAG	0	1	0	0	0	0	0	0	0
-CGT	0	0	0	0	0	0	0	0	2
-CGC	1	1	0	2	0	0	0	0	1
-CGA	3	7	1	3	3	2	0	2	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	3	16	8	16	7	4	7	6	16
-ATC	12	16	10	15	19	11	0	8	23
-ATA	15	22	10	33	24	18	4	10	39
-ATG	2	2	0	1	1	2	0	1	3
-ACT	3	4	5	7	4	4	0	0	9
-ACC	4	5	3	5	11	6	2	3	9
-ACA	18	12	9	18	22	28	1	2	25
-ACG	0	1	0	0	0	0	0	0	0
-AAT	3	2	5	3	7	3	0	2	7
-AAC	6	11	6	11	19	13	1	2	13
-AAA	6	11	3	11	13	4	4	1	8
-AAG	1	0	2	1	2	1	0	1	0
-AGT	1	1	1	4	3	2	0	2	4
-AGC	1	5	0	3	2	1	1	1	2
-AGA	6	13	5	9	5	14	1	3	9
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	0	1	2	1	0	0	1	9
-GTC	0	3	1	0	1	0	0	0	1
-GTA	7	8	2	5	4	7	1	2	18
-GTG	0	0	0	0	0	0	0	0	2
-GCT	2	2	0	3	1	0	0	2	10
-GCC	0	3	0	3	1	1	0	1	6
-GCA	4	5	3	9	5	6	1	0	8
-GCG	0	0	1	0	0	0	0	1	0
-GAT	1	3	0	5	1	0	0	1	2
-GAC	9	1	0	3	0	4	0	0	8
-GAA	9	9	2	6	6	5	0	4	8
-GAG	0	1	0	0	0	0	0	0	0
-GGT	1	2	0	5	1	3	0	1	5
-GGC	2	2	0	3	1	2	0	0	7
-GGA	6	6	3	12	2	5	0	1	34
-GGG	0	2	0	2	0	1	0	1	0
-TAA	1	1	1	0	1	0	1	1	1
-TAG	0	0	0	1	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_009110044.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	3	7	12	0	1	7	7	1	1	9	3	0	10	0	3	4	9	0	0	1	10	0	3	1	5	0	0	1	3	0	3	12	15	2	3	4	18	0	3	6	6	1	1	1	6	0	2	0	7	0	2	0	4	0	1	9	9	0	1	2	6	0	1	0
+1	ND1	YP_009110045.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	8	9	13	0	2	4	5	1	3	7	1	1	6	0	4	10	30	0	2	1	10	0	0	1	4	1	0	1	7	0	16	16	22	2	4	5	12	1	2	11	11	0	1	5	13	0	0	3	8	0	2	3	5	0	3	1	9	1	2	2	6	2	1	0
+2	ND6	YP_009110050.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	5	3	10	0	4	2	4	0	4	7	0	2	3	0	3	4	11	2	1	1	3	0	1	2	1	0	0	0	1	0	8	10	10	0	5	3	9	0	5	6	3	2	1	0	5	0	1	1	2	0	0	0	3	1	0	0	2	0	0	0	3	0	1	0
+3	CYTB	YP_009110051.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	10	20	17	1	5	5	9	0	7	10	0	0	17	1	8	8	22	0	1	2	13	0	3	7	5	0	0	2	3	0	16	15	33	1	7	5	18	0	3	11	11	1	4	3	9	0	2	0	5	0	3	3	9	0	5	3	6	0	5	3	12	2	0	1
+4	ATP6	YP_009110052.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	3	8	9	0	1	10	6	0	4	8	0	0	9	1	3	6	23	0	2	1	7	0	1	4	4	0	0	0	3	0	7	19	24	1	4	11	22	0	7	19	13	2	3	2	5	0	1	1	4	0	1	1	5	0	1	0	6	0	1	1	2	0	1	0
+5	COX3	YP_009110053.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	3	13	12	1	0	6	6	2	3	7	2	1	10	0	2	3	20	1	2	3	5	0	2	3	4	0	0	0	2	0	4	11	18	2	4	6	28	0	3	13	4	1	2	1	14	0	0	0	7	0	0	1	6	0	0	4	5	0	3	2	5	1	0	1
+6	ATP8	YP_009110054.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	0	1	3	0	0	1	1	0	0	1	0	0	0	1	3	0	2	0	2	0	1	0	0	1	1	0	0	0	0	0	7	0	4	0	0	2	1	0	0	1	4	0	0	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+7	ND3	YP_009110055.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	9	5	7	1	3	2	2	0	3	2	1	0	2	0	1	4	12	1	0	1	1	0	0	0	0	0	0	0	2	0	6	8	10	1	0	3	2	0	2	2	1	1	2	1	3	0	1	0	2	0	2	1	0	1	1	0	4	0	1	0	1	1	1	0
+8	COX1	YP_009110056.1	Trichinella murrelli	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	25	15	19	1	5	11	15	0	6	11	2	1	13	1	3	10	35	2	7	3	13	0	4	13	5	0	2	1	6	0	16	23	39	3	9	9	25	0	7	13	8	0	4	2	9	0	9	1	18	2	10	6	8	0	2	8	8	0	5	7	34	0	1	0

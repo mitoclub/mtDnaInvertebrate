@@ -1,65 +1,13 @@
-	YP_002586803.1|ND1	YP_002586804.1|ND2	YP_002586805.1|COX1	YP_002586806.1|COX2	YP_002586807.1|ATP8	YP_002586808.1|ATP6	YP_002586809.1|COX3	YP_002586810.1|ND3	YP_002586811.1|ND4L	YP_002586812.1|ND4	YP_002586813.1|ND5	YP_002586815.1|CYTB
-TTT	13	14	18	5	3	8	13	7	4	11	22	17
-TTC	6	2	23	3	1	3	13	2	2	5	17	17
-TTA	6	12	16	3	2	11	11	3	2	29	19	14
-TTG	5	7	3	2	0	1	1	0	1	6	1	3
-TCT	3	6	5	3	1	0	5	2	1	6	10	5
-TCC	9	10	8	4	0	3	3	4	3	8	11	4
-TCA	6	5	9	5	1	2	2	2	4	10	7	9
-TCG	1	1	1	1	0	0	1	0	1	1	3	3
-TAT	7	3	11	4	0	2	3	2	0	2	8	7
-TAC	5	3	7	5	0	2	7	1	1	11	3	6
-TGT	0	0	0	0	0	0	0	1	2	2	3	1
-TGC	1	0	1	2	0	0	1	0	1	2	3	2
-TGA	8	7	14	5	5	3	11	5	0	13	10	12
-TGG	0	4	3	0	0	0	1	0	1	5	4	0
-CTT	12	15	24	9	2	23	7	10	9	22	29	11
-CTC	5	11	5	3	1	5	5	4	3	12	12	8
-CTA	24	19	11	8	2	17	6	7	8	25	33	25
-CTG	5	4	3	3	0	1	2	6	1	3	6	1
-CCT	3	3	6	2	3	1	2	3	1	9	11	7
-CCC	11	13	13	6	3	9	5	2	0	12	13	8
-CCA	9	5	7	4	1	6	3	2	1	3	5	6
-CCG	1	1	2	2	0	0	2	0	0	2	1	0
-CAT	0	1	5	2	2	2	4	0	2	4	5	3
-CAC	4	5	13	7	1	4	11	0	2	7	9	9
-CAA	5	12	6	6	3	8	5	3	3	9	12	5
-CAG	2	3	2	2	0	1	3	0	0	2	4	1
-CGT	0	0	0	0	0	1	0	0	0	0	1	3
-CGC	1	1	1	3	0	1	2	0	1	3	4	0
-CGA	7	2	6	3	0	3	2	2	1	7	8	3
-CGG	0	1	2	0	0	1	1	0	1	1	0	2
-ATT	19	25	31	19	1	11	11	7	2	24	27	20
-ATC	13	6	11	4	2	8	4	1	1	12	17	14
-ATA	7	15	12	7	1	6	7	3	2	20	26	8
-ATG	2	5	13	3	1	2	2	1	3	6	10	3
-ACT	6	8	4	2	1	6	4	1	2	13	14	6
-ACC	6	21	13	3	1	10	3	3	4	13	27	8
-ACA	5	9	17	5	1	7	11	3	1	8	14	7
-ACG	2	1	2	2	0	2	2	0	0	3	4	0
-AAT	5	5	7	2	1	2	2	1	0	2	13	6
-AAC	7	5	8	4	2	8	1	1	2	8	21	13
-AAA	5	6	7	3	3	0	3	1	0	8	17	8
-AAG	2	3	1	0	0	1	1	0	0	3	3	1
-AGT	1	1	1	0	0	2	1	0	0	2	3	2
-AGC	4	6	3	6	0	2	3	1	1	6	10	1
-GTT	8	2	19	3	3	2	4	2	0	7	5	7
-GTC	0	0	6	2	0	2	6	1	0	1	5	3
-GTA	5	3	13	10	0	5	7	0	1	3	17	9
-GTG	3	0	3	2	0	1	0	0	0	3	2	2
-GCT	3	7	13	3	0	3	4	1	1	11	12	7
-GCC	19	13	11	4	2	9	12	4	4	19	23	13
-GCA	9	11	23	6	0	3	6	2	8	11	15	7
-GCG	2	1	3	1	0	2	1	0	0	2	2	0
-GAT	2	0	4	1	0	0	0	1	0	2	6	5
-GAC	2	1	10	12	1	1	5	2	2	2	3	6
-GAA	9	4	9	13	3	3	8	6	2	10	12	3
-GAG	2	0	2	2	1	1	0	0	0	3	2	2
-GGT	2	1	7	1	0	1	3	0	0	4	5	4
-GGC	4	7	11	3	0	4	7	2	1	6	8	7
-GGA	9	9	15	3	0	2	7	3	3	12	13	13
-GGG	2	3	12	2	0	3	4	1	2	4	2	3
-TAA	1	0	1	0	1	0	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002586803.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	13	6	6	5	3	9	6	1	7	5	0	1	8	0	12	5	24	5	3	11	9	1	0	4	5	2	0	1	7	0	19	13	7	2	6	6	5	2	5	7	5	2	1	4	8	0	5	3	3	19	9	2	2	2	9	2	2	4	9	2	1	0	0	0
+1	ND2	YP_002586804.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	14	2	12	7	6	10	5	1	3	3	0	0	7	4	15	11	19	4	3	13	5	1	1	5	12	3	0	1	2	1	25	6	15	5	8	21	9	1	5	5	6	3	1	6	2	0	3	0	7	13	11	1	0	1	4	0	1	7	9	3	0	0	0	0
+2	COX1	YP_002586805.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	18	23	16	3	5	8	9	1	11	7	0	1	14	3	24	5	11	3	6	13	7	2	5	13	6	2	0	1	6	2	31	11	12	13	4	13	17	2	7	8	7	1	1	3	19	6	13	3	13	11	23	3	4	10	9	2	7	11	15	12	1	0	0	0
+3	COX2	YP_002586806.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	5	3	3	2	3	4	5	1	4	5	0	2	5	0	9	3	8	3	2	6	4	2	2	7	6	2	0	3	3	0	19	4	7	3	2	3	5	2	2	4	3	0	0	6	3	2	10	2	3	4	6	1	1	12	13	2	1	3	3	2	0	0	0	0
+4	ATP8	YP_002586807.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	3	1	2	0	1	0	1	0	0	0	0	0	5	0	2	1	2	0	3	3	1	0	2	1	3	0	0	0	0	0	1	2	1	1	1	1	1	0	1	2	3	0	0	0	3	0	0	0	0	2	0	0	0	1	3	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_002586808.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	8	3	11	1	0	3	2	0	2	2	0	0	3	0	23	5	17	1	1	9	6	0	2	4	8	1	1	1	3	1	11	8	6	2	6	10	7	2	2	8	0	1	2	2	2	2	5	1	3	9	3	2	0	1	3	1	1	4	2	3	0	0	0	0
+6	COX3	YP_002586809.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	13	13	11	1	5	3	2	1	3	7	0	1	11	1	7	5	6	2	2	5	3	2	4	11	5	3	0	2	2	1	11	4	7	2	4	3	11	2	2	1	3	1	1	3	4	6	7	0	4	12	6	1	0	5	8	0	3	7	7	4	0	0	0	0
+7	ND3	YP_002586810.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	7	2	3	0	2	4	2	0	2	1	1	0	5	0	10	4	7	6	3	2	2	0	0	0	3	0	0	0	2	0	7	1	3	1	1	3	3	0	1	1	1	0	0	1	2	1	0	0	1	4	2	0	1	2	6	0	0	2	3	1	0	0	0	0
+8	ND4L	YP_002586811.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	4	2	2	1	1	3	4	1	0	1	2	1	0	1	9	3	8	1	1	0	1	0	2	2	3	0	0	1	1	1	2	1	2	3	2	4	1	0	0	2	0	0	0	1	0	0	1	0	1	4	8	0	0	2	2	0	0	1	3	2	1	0	0	0
+9	ND4	YP_002586812.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	11	5	29	6	6	8	10	1	2	11	2	2	13	5	22	12	25	3	9	12	3	2	4	7	9	2	0	3	7	1	24	12	20	6	13	13	8	3	2	8	8	3	2	6	7	1	3	3	11	19	11	2	2	2	10	3	4	6	12	4	0	0	0	0
+10	ND5	YP_002586813.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	22	17	19	1	10	11	7	3	8	3	3	3	10	4	29	12	33	6	11	13	5	1	5	9	12	4	1	4	8	0	27	17	26	10	14	27	14	4	13	21	17	3	3	10	5	5	17	2	12	23	15	2	6	3	12	2	5	8	13	2	0	0	1	0
+11	CYTB	YP_002586815.1	Ataxolepis apus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Berycimorphaceae, Beryciformes, Cetomimidae, Ataxolepis	17	17	14	3	5	4	9	3	7	6	1	2	12	0	11	8	25	1	7	8	6	0	3	9	5	1	3	0	3	2	20	14	8	3	6	8	7	0	6	13	8	1	2	1	7	3	9	2	7	13	7	0	5	6	3	2	4	7	13	3	0	0	0	0

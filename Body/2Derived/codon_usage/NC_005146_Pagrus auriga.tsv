@@ -1,65 +1,11 @@
-	NP_937934.1|ND1	NP_937937.1|COX2	NP_937938.1|ATP8	NP_937939.1|ATP6	NP_937940.1|COX3	NP_937941.1|ND3	NP_937942.1|ND4L	NP_937943.1|ND4	NP_937944.1|ND5	NP_937946.1|CYTB
-TTT	10	3	2	12	10	4	3	15	18	15
-TTC	11	7	2	3	14	4	3	7	22	13
-TTA	4	7	0	6	2	1	7	16	9	10
-TTG	2	0	0	1	0	2	1	2	3	0
-TCT	4	4	0	4	2	1	2	7	7	8
-TCC	5	4	0	2	2	5	3	11	9	6
-TCA	7	3	0	3	7	0	4	8	11	5
-TCG	0	1	1	0	0	0	0	1	0	1
-TAT	7	5	0	1	3	3	0	5	5	6
-TAC	5	4	1	3	9	0	0	9	6	9
-TGT	0	1	0	0	0	0	1	1	2	1
-TGC	1	1	0	0	2	1	2	3	4	3
-TGA	7	5	4	4	11	3	1	16	12	12
-TGG	1	0	1	1	1	2	0	3	2	0
-CTT	18	9	2	13	9	12	3	20	23	16
-CTC	11	6	0	18	9	11	7	25	20	16
-CTA	22	5	2	14	6	4	6	24	36	14
-CTG	5	3	1	3	5	0	2	8	9	3
-CCT	4	1	1	6	2	0	0	5	3	7
-CCC	10	8	8	7	5	4	2	11	16	6
-CCA	8	5	1	4	3	2	0	8	9	7
-CCG	1	0	0	0	2	2	0	1	5	1
-CAT	1	4	1	2	5	0	2	5	5	5
-CAC	4	5	0	1	10	0	2	6	10	7
-CAA	4	8	2	8	9	3	3	11	17	5
-CAG	2	0	0	2	0	0	0	0	2	1
-CGT	0	1	0	2	0	0	1	1	1	0
-CGC	1	3	0	2	1	1	1	2	1	2
-CGA	7	1	0	1	3	1	0	7	6	7
-CGG	0	1	0	1	1	0	1	1	1	0
-ATT	14	10	1	13	7	5	2	17	28	17
-ATC	10	8	3	2	8	5	0	14	22	14
-ATA	7	5	1	4	7	1	1	16	27	8
-ATG	4	5	1	6	1	1	3	6	4	1
-ACT	4	0	3	3	5	0	1	13	10	2
-ACC	6	4	2	7	6	4	4	22	25	10
-ACA	10	7	1	5	11	2	1	11	15	10
-ACG	1	0	0	0	1	0	1	0	2	1
-AAT	2	1	0	3	1	0	0	4	12	6
-AAC	8	3	2	5	1	1	1	8	21	12
-AAA	6	5	1	1	2	1	0	7	20	7
-AAG	1	0	2	0	0	0	0	2	2	2
-AGT	1	0	0	0	1	0	0	2	2	0
-AGC	3	3	1	5	2	1	4	4	11	2
-GTT	8	3	0	6	3	1	1	2	8	8
-GTC	4	8	0	7	7	2	0	3	7	7
-GTA	6	7	2	2	5	0	1	7	7	11
-GTG	0	2	0	1	1	0	0	1	2	1
-GCT	5	2	0	5	1	4	0	11	6	5
-GCC	18	9	2	5	10	4	7	19	32	12
-GCA	11	6	1	6	11	0	5	8	21	14
-GCG	0	0	0	0	0	1	1	1	0	2
-GAT	1	5	0	0	2	1	0	0	4	3
-GAC	3	8	0	1	3	3	1	4	8	7
-GAA	8	13	1	4	8	6	2	10	9	2
-GAG	3	2	2	0	2	0	0	2	3	3
-GGT	2	1	0	1	4	0	0	4	7	6
-GGC	4	4	0	6	7	2	3	8	12	11
-GGA	9	4	0	5	10	4	2	8	10	5
-GGG	3	0	0	0	1	1	0	7	1	5
-TAA	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_937934.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	10	11	4	2	4	5	7	0	7	5	0	1	7	1	18	11	22	5	4	10	8	1	1	4	4	2	0	1	7	0	14	10	7	4	4	6	10	1	2	8	6	1	1	3	8	4	6	0	5	18	11	0	1	3	8	3	2	4	9	3	1	0	0	0
+1	COX2	NP_937937.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	3	7	7	0	4	4	3	1	5	4	1	1	5	0	9	6	5	3	1	8	5	0	4	5	8	0	1	3	1	1	10	8	5	5	0	4	7	0	1	3	5	0	0	3	3	8	7	2	2	9	6	0	5	8	13	2	1	4	4	0	0	0	0	0
+2	ATP8	NP_937938.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	2	2	0	0	0	0	0	1	0	1	0	0	4	1	2	0	2	1	1	8	1	0	1	0	2	0	0	0	0	0	1	3	1	1	3	2	1	0	0	2	1	2	0	1	0	0	2	0	0	2	1	0	0	0	1	2	0	0	0	0	1	0	0	0
+3	ATP6	NP_937939.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	12	3	6	1	4	2	3	0	1	3	0	0	4	1	13	18	14	3	6	7	4	0	2	1	8	2	2	2	1	1	13	2	4	6	3	7	5	0	3	5	1	0	0	5	6	7	2	1	5	5	6	0	0	1	4	0	1	6	5	0	1	0	0	0
+4	COX3	NP_937940.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	10	14	2	0	2	2	7	0	3	9	0	2	11	1	9	9	6	5	2	5	3	2	5	10	9	0	0	1	3	1	7	8	7	1	5	6	11	1	1	1	2	0	1	2	3	7	5	1	1	10	11	0	2	3	8	2	4	7	10	1	1	0	0	0
+5	ND3	NP_937941.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	4	4	1	2	1	5	0	0	3	0	0	1	3	2	12	11	4	0	0	4	2	2	0	0	3	0	0	1	1	0	5	5	1	1	0	4	2	0	0	1	1	0	0	1	1	2	0	0	4	4	0	1	1	3	6	0	0	2	4	1	0	1	0	0
+6	ND4L	NP_937942.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	3	3	7	1	2	3	4	0	0	0	1	2	1	0	3	7	6	2	0	2	0	0	2	2	3	0	1	1	0	1	2	0	1	3	1	4	1	1	0	1	0	0	0	4	1	0	1	0	0	7	5	1	0	1	2	0	0	3	2	0	1	0	0	0
+7	ND4	NP_937943.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	15	7	16	2	7	11	8	1	5	9	1	3	16	3	20	25	24	8	5	11	8	1	5	6	11	0	1	2	7	1	17	14	16	6	13	22	11	0	4	8	7	2	2	4	2	3	7	1	11	19	8	1	0	4	10	2	4	8	8	7	0	0	0	0
+8	ND5	NP_937944.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	18	22	9	3	7	9	11	0	5	6	2	4	12	2	23	20	36	9	3	16	9	5	5	10	17	2	1	1	6	1	28	22	27	4	10	25	15	2	12	21	20	2	2	11	8	7	7	2	6	32	21	0	4	8	9	3	7	12	10	1	1	0	0	0
+9	CYTB	NP_937946.1	Pagrus auriga	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagrus	15	13	10	0	8	6	5	1	6	9	1	3	12	0	16	16	14	3	7	6	7	1	5	7	5	1	0	2	7	0	17	14	8	1	2	10	10	1	6	12	7	2	0	2	8	7	11	1	5	12	14	2	3	7	2	3	6	11	5	5	0	0	0	0

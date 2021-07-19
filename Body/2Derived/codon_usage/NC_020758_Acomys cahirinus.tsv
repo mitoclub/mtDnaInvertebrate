@@ -1,65 +1,13 @@
-	YP_007626810.1|ND1	YP_007626811.1|ND2	YP_007626812.1|COX1	YP_007626813.1|COX2	YP_007626814.1|ATP8	YP_007626815.1|ATP6	YP_007626816.1|COX3	YP_007626817.1|ND3	YP_007626818.1|ND4L	YP_007626819.1|ND4	YP_007626820.1|ND5	YP_007626822.1|CYTB
-TTT	8	3	20	7	2	6	5	4	2	5	16	6
-TTC	10	7	22	0	1	7	19	4	4	10	18	21
-TTA	6	7	12	5	2	3	7	0	3	9	16	14
-TTG	0	0	0	0	0	1	1	0	0	0	1	2
-TCT	6	2	7	5	1	2	1	0	1	3	8	5
-TCC	9	10	8	4	2	2	7	2	6	13	18	7
-TCA	10	11	13	7	4	5	10	3	5	15	16	9
-TCG	0	1	1	1	0	0	0	0	0	1	0	0
-TAT	4	0	4	1	2	2	2	2	1	5	8	7
-TAC	10	8	16	8	1	0	8	3	2	9	9	7
-TGT	1	0	0	1	0	0	0	1	0	1	0	0
-TGC	0	0	1	2	0	0	1	0	3	3	6	3
-TGA	8	8	16	5	3	2	12	4	0	11	13	11
-TGG	1	0	1	0	0	1	0	0	0	2	1	0
-CTT	7	3	7	6	1	3	4	4	2	6	8	7
-CTC	6	17	14	6	1	11	6	6	3	16	18	10
-CTA	35	42	20	12	6	25	14	9	10	49	50	26
-CTG	2	0	4	1	0	0	1	2	1	3	8	0
-CCT	0	2	7	1	1	3	1	0	1	3	6	2
-CCC	15	14	13	2	5	8	4	6	2	8	11	11
-CCA	7	7	9	11	1	2	5	0	0	7	12	8
-CCG	1	1	0	0	0	1	0	1	0	1	0	1
-CAT	0	0	2	1	1	2	4	1	0	4	3	2
-CAC	5	8	16	6	1	5	13	1	1	9	13	11
-CAA	5	10	6	5	2	7	6	2	2	10	14	5
-CAG	0	0	0	1	0	0	1	0	0	0	1	1
-CGT	1	0	2	0	0	0	1	0	0	0	0	0
-CGC	0	1	1	4	0	4	1	1	1	1	3	3
-CGA	6	2	5	1	0	1	2	0	0	8	5	5
-CGG	1	0	0	1	0	0	1	0	0	0	1	0
-ATT	9	16	23	7	1	20	6	7	1	22	17	15
-ATC	17	19	20	11	3	10	12	5	5	31	42	24
-ATA	18	29	22	13	1	12	10	6	6	37	33	16
-ATG	3	0	8	2	1	3	1	0	1	2	2	1
-ACT	5	4	7	0	2	2	2	2	1	6	12	3
-ACC	10	13	14	8	2	10	4	1	3	15	34	7
-ACA	6	19	10	7	4	8	15	5	4	20	17	13
-ACG	1	0	2	1	1	1	0	0	0	0	2	0
-AAT	3	2	6	3	2	2	1	1	2	5	10	2
-AAC	9	14	11	4	1	7	6	4	3	18	27	16
-AAA	7	12	9	5	6	5	3	4	1	12	21	11
-AAG	0	0	1	0	0	1	1	0	0	2	1	0
-AGT	1	0	2	1	0	0	0	0	0	0	3	0
-AGC	3	6	1	4	0	5	3	0	1	11	9	3
-GTT	1	1	5	3	0	1	0	0	1	0	2	1
-GTC	2	1	8	0	0	1	4	2	2	4	3	3
-GTA	8	5	19	9	0	6	9	2	2	6	7	14
-GTG	2	1	6	1	0	1	0	0	0	0	2	2
-GCT	2	0	12	4	0	4	2	0	3	3	5	6
-GCC	15	11	17	4	1	6	7	6	1	10	15	7
-GCA	7	9	14	3	2	3	6	3	4	12	16	11
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	0	0	5	6	1	1	1	1	0	0	3	2
-GAC	4	1	10	5	0	1	3	1	1	3	6	8
-GAA	9	5	7	11	2	3	7	4	1	10	8	6
-GAG	2	0	2	2	0	0	0	2	1	0	4	0
-GGT	2	0	4	0	0	2	1	0	0	0	2	2
-GGC	3	3	9	4	0	3	8	2	1	2	7	9
-GGA	5	8	23	4	0	5	8	1	3	10	11	10
-GGG	0	2	10	1	0	0	4	0	0	4	6	4
-TAA	0	0	1	1	1	1	0	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007626810.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	8	10	6	0	6	9	10	0	4	10	1	0	8	1	7	6	35	2	0	15	7	1	0	5	5	0	1	0	6	1	9	17	18	3	5	10	6	1	3	9	7	0	1	3	1	2	8	2	2	15	7	0	0	4	9	2	2	3	5	0	0	0	0	0
+1	ND2	YP_007626811.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	3	7	7	0	2	10	11	1	0	8	0	0	8	0	3	17	42	0	2	14	7	1	0	8	10	0	0	1	2	0	16	19	29	0	4	13	19	0	2	14	12	0	0	6	1	1	5	1	0	11	9	0	0	1	5	0	0	3	8	2	0	0	0	0
+2	COX1	YP_007626812.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	20	22	12	0	7	8	13	1	4	16	0	1	16	1	7	14	20	4	7	13	9	0	2	16	6	0	2	1	5	0	23	20	22	8	7	14	10	2	6	11	9	1	2	1	5	8	19	6	12	17	14	0	5	10	7	2	4	9	23	10	1	0	0	0
+3	COX2	YP_007626813.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	7	0	5	0	5	4	7	1	1	8	1	2	5	0	6	6	12	1	1	2	11	0	1	6	5	1	0	4	1	1	7	11	13	2	0	8	7	1	3	4	5	0	1	4	3	0	9	1	4	4	3	0	6	5	11	2	0	4	4	1	1	0	0	0
+4	ATP8	YP_007626814.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	2	1	2	0	1	2	4	0	2	1	0	0	3	0	1	1	6	0	1	5	1	0	1	1	2	0	0	0	0	0	1	3	1	1	2	2	4	1	2	1	6	0	0	0	0	0	0	0	0	1	2	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007626815.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	6	7	3	1	2	2	5	0	2	0	0	0	2	1	3	11	25	0	3	8	2	1	2	5	7	0	0	4	1	0	20	10	12	3	2	10	8	1	2	7	5	1	0	5	1	1	6	1	4	6	3	0	1	1	3	0	2	3	5	0	1	0	0	0
+6	COX3	YP_007626816.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	5	19	7	1	1	7	10	0	2	8	0	1	12	0	4	6	14	1	1	4	5	0	4	13	6	1	1	1	2	1	6	12	10	1	2	4	15	0	1	6	3	1	0	3	0	4	9	0	2	7	6	0	1	3	7	0	1	8	8	4	0	0	0	0
+7	ND3	YP_007626817.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	4	4	0	0	0	2	3	0	2	3	1	0	4	0	4	6	9	2	0	6	0	1	1	1	2	0	0	1	0	0	7	5	6	0	2	1	5	0	1	4	4	0	0	0	0	2	2	0	0	6	3	0	1	1	4	2	0	2	1	0	1	0	0	0
+8	ND4L	YP_007626818.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	2	4	3	0	1	6	5	0	1	2	0	3	0	0	2	3	10	1	1	2	0	0	0	1	2	0	0	1	0	0	1	5	6	1	1	3	4	0	2	3	1	0	0	1	1	2	2	0	3	1	4	0	0	1	1	1	0	1	3	0	1	0	0	0
+9	ND4	YP_007626819.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	5	10	9	0	3	13	15	1	5	9	1	3	11	2	6	16	49	3	3	8	7	1	4	9	10	0	0	1	8	0	22	31	37	2	6	15	20	0	5	18	12	2	0	11	0	4	6	0	3	10	12	0	0	3	10	0	0	2	10	4	0	0	0	0
+10	ND5	YP_007626820.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	16	18	16	1	8	18	16	0	8	9	0	6	13	1	8	18	50	8	6	11	12	0	3	13	14	1	0	3	5	1	17	42	33	2	12	34	17	2	10	27	21	1	3	9	2	3	7	2	5	15	16	0	3	6	8	4	2	7	11	6	1	0	0	0
+11	CYTB	YP_007626822.1	Acomys cahirinus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Glires, Rodentia, Myomorpha, Muroidea, Muridae, Deomyinae, Acomys	6	21	14	2	5	7	9	0	7	7	0	3	11	0	7	10	26	0	2	11	8	1	2	11	5	1	0	3	5	0	15	24	16	1	3	7	13	0	2	16	11	0	0	3	1	3	14	2	6	7	11	0	2	8	6	0	2	9	10	4	0	0	0	0

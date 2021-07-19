@@ -1,65 +1,12 @@
-	YP_337785.1|ATP6	YP_337786.1|COX3	YP_337787.1|ND3	YP_337788.1|ND4L	YP_337789.1|ND4	YP_337790.1|ND5	YP_337791.1|CYTB	YP_337793.1|ND2	YP_337794.1|ND1	YP_337796.1|COX2	YP_337797.1|ATP8
-TTT	13	18	8	2	17	24	20	11	17	8	1
-TTC	2	12	3	3	5	19	10	8	4	2	1
-TTA	11	9	6	5	30	28	11	22	10	1	1
-TTG	3	0	0	0	2	1	1	0	4	1	0
-TCT	6	5	3	5	23	21	9	12	11	5	2
-TCC	2	0	1	5	14	18	10	7	9	3	2
-TCA	3	4	4	4	15	17	13	7	7	4	0
-TCG	0	0	0	0	1	2	1	0	0	0	0
-TAT	0	5	1	0	7	6	4	5	7	7	0
-TAC	3	2	1	0	4	5	10	3	7	4	0
-TGT	0	2	2	3	3	3	2	1	1	2	0
-TGC	0	0	0	0	0	4	3	1	1	0	0
-TGA	6	13	2	1	13	6	11	10	5	7	4
-TGG	0	0	0	0	2	5	1	2	3	0	0
-CTT	26	10	9	13	35	28	26	29	16	17	4
-CTC	9	5	7	4	14	20	9	14	10	3	2
-CTA	9	4	7	3	18	26	14	13	14	9	2
-CTG	2	0	1	1	1	3	2	1	2	0	0
-CCT	11	4	3	2	16	9	7	12	11	4	3
-CCC	6	6	4	1	7	10	3	10	7	5	4
-CCA	4	2	0	0	2	5	9	2	1	4	2
-CCG	0	0	1	0	1	0	1	0	0	1	0
-CAT	3	7	0	1	7	5	10	2	2	4	0
-CAC	1	6	2	1	4	6	3	5	1	4	2
-CAA	8	8	1	1	9	20	7	9	7	7	1
-CAG	0	1	0	0	0	0	2	0	0	0	0
-CGT	1	1	1	0	6	2	2	1	3	2	1
-CGC	1	1	0	1	1	2	2	1	1	3	1
-CGA	4	4	3	2	4	4	1	1	3	2	0
-CGG	0	0	0	0	0	1	1	1	0	0	0
-ATT	5	11	6	4	23	37	19	18	14	9	4
-ATC	8	4	2	2	12	12	9	6	9	7	1
-ATA	2	3	4	2	12	19	9	11	13	10	0
-ATG	2	5	1	2	5	9	5	4	6	5	1
-ACT	5	8	2	0	14	18	11	21	8	7	3
-ACC	8	7	2	1	12	22	4	6	5	5	4
-ACA	8	9	1	3	10	14	7	10	6	6	0
-ACG	0	0	0	0	0	0	0	1	0	0	0
-AAT	6	1	0	1	7	11	7	5	5	1	2
-AAC	4	4	2	3	6	14	14	10	3	5	2
-AAA	0	1	1	0	8	14	5	6	8	2	0
-AAG	0	0	0	0	1	3	2	0	0	0	0
-AGT	4	3	0	1	5	7	1	0	2	1	0
-AGC	3	1	1	0	1	8	0	3	1	3	0
-AGA	0	0	0	0	0	1	1	1	1	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0
-GTT	5	13	2	2	3	6	7	3	7	5	0
-GTC	1	2	0	1	3	3	5	1	0	2	0
-GTA	2	7	1	0	5	5	6	3	7	1	0
-GTG	1	0	0	0	0	1	0	1	2	1	1
-GCT	7	8	5	6	17	17	8	11	10	6	1
-GCC	2	5	1	3	12	13	7	10	11	11	2
-GCA	10	8	2	1	9	23	11	8	8	0	0
-GCG	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	3	0	0	4	3	2	1	0	8	0
-GAC	0	2	1	1	0	9	5	1	4	5	0
-GAA	1	8	7	1	8	9	5	4	10	15	1
-GAG	1	1	0	1	3	1	1	0	1	0	0
-GGT	1	5	3	0	4	4	5	2	6	2	0
-GGC	4	0	1	2	6	8	7	5	5	2	0
-GGA	2	11	1	2	10	17	10	7	8	2	0
-GGG	1	1	0	1	1	3	4	2	1	0	0
-TAA	1	1	1	1	1	1	0	0	1	1	1
-TAG	0	0	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ATP6	YP_337785.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	13	2	11	3	6	2	3	0	0	3	0	0	6	0	26	9	9	2	11	6	4	0	3	1	8	0	1	1	4	0	5	8	2	2	5	8	8	0	6	4	0	0	4	3	0	0	5	1	2	1	7	2	10	0	1	0	1	1	1	4	2	1	1	0
+1	COX3	YP_337786.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	18	12	9	0	5	0	4	0	5	2	2	0	13	0	10	5	4	0	4	6	2	0	7	6	8	1	1	1	4	0	11	4	3	5	8	7	9	0	1	4	1	0	3	1	0	0	13	2	7	0	8	5	8	0	3	2	8	1	5	0	11	1	1	0
+2	ND3	YP_337787.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	8	3	6	0	3	1	4	0	1	1	2	0	2	0	9	7	7	1	3	4	0	1	0	2	1	0	1	0	3	0	6	2	4	1	2	2	1	0	0	2	1	0	0	1	0	0	2	0	1	0	5	1	2	0	0	1	7	0	3	1	1	0	1	0
+3	ND4L	YP_337788.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	2	3	5	0	5	5	4	0	0	0	3	0	1	0	13	4	3	1	2	1	0	0	1	1	1	0	0	1	2	0	4	2	2	2	0	1	3	0	1	3	0	0	1	0	0	0	2	1	0	0	6	3	1	0	0	1	1	1	0	2	2	1	1	0
+4	ND4	YP_337789.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	17	5	30	2	23	14	15	1	7	4	3	0	13	2	35	14	18	1	16	7	2	1	7	4	9	0	6	1	4	0	23	12	12	5	14	12	10	0	7	6	8	1	5	1	0	0	3	3	5	0	17	12	9	0	4	0	8	3	4	6	10	1	1	0
+5	ND5	YP_337790.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	24	19	28	1	21	18	17	2	6	5	3	4	6	5	28	20	26	3	9	10	5	0	5	6	20	0	2	2	4	1	37	12	19	9	18	22	14	0	11	14	14	3	7	8	1	0	6	3	5	1	17	13	23	0	3	9	9	1	4	8	17	3	1	0
+6	CYTB	YP_337791.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	20	10	11	1	9	10	13	1	4	10	2	3	11	1	26	9	14	2	7	3	9	1	10	3	7	2	2	2	1	1	19	9	9	5	11	4	7	0	7	14	5	2	1	0	1	0	7	5	6	0	8	7	11	0	2	5	5	1	5	7	10	4	0	0
+7	ND2	YP_337793.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	11	8	22	0	12	7	7	0	5	3	1	1	10	2	29	14	13	1	12	10	2	0	2	5	9	0	1	1	1	1	18	6	11	4	21	6	10	1	5	10	6	0	0	3	1	0	3	1	3	1	11	10	8	0	1	1	4	0	2	5	7	2	0	1
+8	ND1	YP_337794.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	17	4	10	4	11	9	7	0	7	7	1	1	5	3	16	10	14	2	11	7	1	0	2	1	7	0	3	1	3	0	14	9	13	6	8	5	6	0	5	3	8	0	2	1	1	0	7	0	7	2	10	11	8	0	0	4	10	1	6	5	8	1	1	0
+9	COX2	YP_337796.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	8	2	1	1	5	3	4	0	7	4	2	0	7	0	17	3	9	0	4	5	4	1	4	4	7	0	2	3	2	0	9	7	10	5	7	5	6	0	1	5	2	0	1	3	0	0	5	2	1	1	6	11	0	0	8	5	15	0	2	2	2	0	1	0
+10	ATP8	YP_337797.1	Saccoglossus kowalevskii	Eukaryota, Metazoa, Hemichordata, Enteropneusta, Harrimaniidae, Saccoglossus	1	1	1	0	2	2	0	0	0	0	0	0	4	0	4	2	2	0	3	4	2	0	0	2	1	0	1	1	0	0	4	1	0	1	3	4	0	0	2	2	0	0	0	0	0	0	0	0	0	1	1	2	0	0	0	0	1	0	0	0	0	0	1	0

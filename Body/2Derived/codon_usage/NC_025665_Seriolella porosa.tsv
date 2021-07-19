@@ -1,65 +1,13 @@
-	YP_009109333.1|ND1	YP_009109334.1|ND2	YP_009109335.1|COX1	YP_009109336.1|COX2	YP_009109337.1|ATP8	YP_009109338.1|ATP6	YP_009109339.1|COX3	YP_009109340.1|ND3	YP_009109341.1|ND4L	YP_009109342.1|ND4	YP_009109343.1|ND5	YP_009109345.1|CYTB
-TTT	8	5	18	3	3	5	9	4	2	7	10	10
-TTC	11	7	24	6	1	8	14	5	5	11	32	20
-TTA	6	5	8	5	1	7	3	7	5	9	7	7
-TTG	1	1	1	1	0	1	0	0	0	0	4	1
-TCT	0	3	7	2	0	0	0	0	0	3	3	3
-TCC	4	1	11	7	1	0	2	3	1	8	13	12
-TCA	13	6	8	4	0	5	8	1	3	5	14	8
-TCG	1	0	1	0	0	0	0	1	1	2	0	1
-TAT	4	0	6	3	0	1	1	1	0	6	3	2
-TAC	8	7	12	6	0	4	11	1	0	8	9	12
-TGT	0	0	1	1	0	0	0	0	0	2	1	0
-TGC	0	1	0	1	0	0	2	1	3	3	6	3
-TGA	6	11	15	4	4	5	8	5	1	18	12	12
-TGG	2	0	3	1	1	0	4	0	0	2	2	1
-CTT	4	8	15	7	1	13	7	6	2	14	17	8
-CTC	12	19	10	6	1	10	6	7	6	16	31	12
-CTA	40	38	24	9	3	15	17	8	8	38	32	27
-CTG	1	2	5	0	0	6	0	1	3	9	0	7
-CCT	5	0	5	3	2	6	2	1	1	4	8	2
-CCC	9	12	11	3	4	6	6	3	1	10	16	8
-CCA	10	9	12	6	3	5	4	4	0	12	7	11
-CCG	0	0	0	2	0	0	0	0	0	1	1	0
-CAT	2	1	6	5	0	0	6	0	1	5	2	1
-CAC	2	8	13	5	2	3	10	0	3	6	10	11
-CAA	6	11	7	6	1	7	9	3	3	13	15	7
-CAG	1	1	1	2	0	2	0	0	0	1	3	0
-CGT	0	0	0	0	0	1	1	1	0	0	0	2
-CGC	1	0	1	3	0	1	0	0	0	3	1	0
-CGA	7	4	7	3	0	4	4	1	3	7	9	5
-CGG	0	0	1	0	0	0	0	0	0	1	0	0
-ATT	7	9	23	11	1	9	7	3	1	15	29	14
-ATC	17	13	18	7	2	11	6	4	0	25	30	18
-ATA	9	9	15	7	0	5	3	2	3	20	24	8
-ATG	1	4	10	5	1	3	5	1	1	8	5	3
-ACT	3	3	5	1	3	2	2	0	0	5	5	0
-ACC	11	25	9	6	1	10	12	2	3	18	25	7
-ACA	6	26	20	3	2	9	9	4	4	20	24	13
-ACG	0	0	1	0	0	0	1	1	1	0	2	0
-AAT	3	2	5	0	1	2	1	3	0	5	6	1
-AAC	8	6	9	5	2	8	0	0	2	7	16	18
-AAA	7	9	7	4	3	1	2	1	0	9	21	9
-AAG	0	0	1	0	1	0	0	0	0	1	1	0
-AGT	0	1	0	1	0	0	1	0	1	2	1	0
-AGC	2	5	5	2	1	5	2	0	1	5	12	1
-GTT	5	4	18	6	0	1	5	1	0	2	7	1
-GTC	2	2	4	6	1	4	7	2	1	6	7	5
-GTA	11	3	14	8	2	7	4	0	3	7	10	11
-GTG	1	1	2	0	0	2	1	1	0	0	3	3
-GCT	6	4	9	1	0	1	6	1	1	7	9	2
-GCC	17	16	18	11	2	10	10	5	10	19	28	19
-GCA	10	20	15	4	1	6	6	6	4	11	16	11
-GCG	1	0	4	1	0	1	1	0	1	0	2	1
-GAT	0	0	2	1	0	0	0	1	0	1	0	3
-GAC	4	2	12	12	0	1	5	2	1	4	17	8
-GAA	9	4	9	13	3	4	9	6	3	9	11	5
-GAG	2	1	3	2	0	0	1	0	0	1	2	1
-GGT	0	1	5	2	0	1	1	2	0	2	3	3
-GGC	5	7	14	1	0	4	11	1	2	11	13	9
-GGA	10	8	18	6	0	5	9	2	1	16	11	11
-GGG	3	3	10	0	0	0	0	1	2	0	4	2
-TAA	1	0	0	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009109333.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	8	11	6	1	0	4	13	1	4	8	0	0	6	2	4	12	40	1	5	9	10	0	2	2	6	1	0	1	7	0	7	17	9	1	3	11	6	0	3	8	7	0	0	2	5	2	11	1	6	17	10	1	0	4	9	2	0	5	10	3	1	0	0	0
+1	ND2	YP_009109334.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	5	7	5	1	3	1	6	0	0	7	0	1	11	0	8	19	38	2	0	12	9	0	1	8	11	1	0	0	4	0	9	13	9	4	3	25	26	0	2	6	9	0	1	5	4	2	3	1	4	16	20	0	0	2	4	1	1	7	8	3	0	0	0	0
+2	COX1	YP_009109335.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	18	24	8	1	7	11	8	1	6	12	1	0	15	3	15	10	24	5	5	11	12	0	6	13	7	1	0	1	7	1	23	18	15	10	5	9	20	1	5	9	7	1	0	5	18	4	14	2	9	18	15	4	2	12	9	3	5	14	18	10	0	0	0	1
+3	COX2	YP_009109336.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	3	6	5	1	2	7	4	0	3	6	1	1	4	1	7	6	9	0	3	3	6	2	5	5	6	2	0	3	3	0	11	7	7	5	1	6	3	0	0	5	4	0	1	2	6	6	8	0	1	11	4	1	1	12	13	2	2	1	6	0	0	0	0	0
+4	ATP8	YP_009109337.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	3	1	1	0	0	1	0	0	0	0	0	0	4	1	1	1	3	0	2	4	3	0	0	2	1	0	0	0	0	0	1	2	0	1	3	1	2	0	1	2	3	1	0	1	0	1	2	0	0	2	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009109338.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	5	8	7	1	0	0	5	0	1	4	0	0	5	0	13	10	15	6	6	6	5	0	0	3	7	2	1	1	4	0	9	11	5	3	2	10	9	0	2	8	1	0	0	5	1	4	7	2	1	10	6	1	0	1	4	0	1	4	5	0	1	0	0	0
+6	COX3	YP_009109339.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	9	14	3	0	0	2	8	0	1	11	0	2	8	4	7	6	17	0	2	6	4	0	6	10	9	0	1	0	4	0	7	6	3	5	2	12	9	1	1	0	2	0	1	2	5	7	4	1	6	10	6	1	0	5	9	1	1	11	9	0	1	0	0	0
+7	ND3	YP_009109340.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	4	5	7	0	0	3	1	1	1	1	0	1	5	0	6	7	8	1	1	3	4	0	0	0	3	0	1	0	1	0	3	4	2	1	0	2	4	1	3	0	1	0	0	0	1	2	0	1	1	5	6	0	1	2	6	0	2	1	2	1	0	0	0	0
+8	ND4L	YP_009109341.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	2	5	5	0	0	1	3	1	0	0	0	3	1	0	2	6	8	3	1	1	0	0	1	3	3	0	0	0	3	0	1	0	3	1	0	3	4	1	0	2	0	0	1	1	0	1	3	0	1	10	4	1	0	1	3	0	0	2	1	2	1	0	0	0
+9	ND4	YP_009109342.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	7	11	9	0	3	8	5	2	6	8	2	3	18	2	14	16	38	9	4	10	12	1	5	6	13	1	0	3	7	1	15	25	20	8	5	18	20	0	5	7	9	1	2	5	2	6	7	0	7	19	11	0	1	4	9	1	2	11	16	0	0	0	0	0
+10	ND5	YP_009109343.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	10	32	7	4	3	13	14	0	3	9	1	6	12	2	17	31	32	0	8	16	7	1	2	10	15	3	0	1	9	0	29	30	24	5	5	25	24	2	6	16	21	1	1	12	7	7	10	3	9	28	16	2	0	17	11	2	3	13	11	4	1	0	0	0
+11	CYTB	YP_009109345.1	Seriolella porosa	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Pelagiaria, Scombriformes, Centrolophidae, Seriolella	10	20	7	1	3	12	8	1	2	12	0	3	12	1	8	12	27	7	2	8	11	0	1	11	7	0	2	0	5	0	14	18	8	3	0	7	13	0	1	18	9	0	0	1	1	5	11	3	2	19	11	1	3	8	5	1	3	9	11	2	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_007625666.1|ND1	YP_007625667.1|ND2	YP_007625668.1|COX1	YP_007625669.1|COX2	YP_007625670.1|ATP8	YP_007625671.1|ATP6	YP_007625672.1|COX3	YP_007625673.1|ND3	YP_007625674.1|ND4L	YP_007625675.1|ND4	YP_007625676.1|ND5	YP_007625678.1|CYTB
-TTT	2	4	20	1	2	4	9	0	2	7	18	4
-TTC	15	7	22	6	1	9	13	7	2	11	25	18
-TTA	4	3	6	4	0	3	3	4	3	16	7	11
-TTG	0	1	6	2	0	1	3	0	1	1	1	0
-TCT	0	2	10	2	1	3	4	0	2	2	6	3
-TCC	6	6	8	4	0	2	7	3	4	10	14	6
-TCA	13	14	10	6	4	4	7	1	2	12	15	13
-TCG	0	0	1	1	0	0	0	2	0	3	1	1
-TAT	0	1	10	5	1	0	5	2	1	3	6	5
-TAC	12	7	9	6	0	2	6	1	3	12	14	11
-TGT	1	0	1	1	0	0	1	1	0	0	2	1
-TGC	0	0	0	1	0	1	1	0	3	3	2	3
-TGA	8	9	12	3	4	3	9	3	0	10	6	12
-TGG	1	1	5	2	0	0	3	1	0	3	5	0
-CTT	5	1	6	4	1	3	2	1	1	11	10	3
-CTC	10	14	10	4	0	6	8	6	4	13	22	11
-CTA	36	36	25	13	5	23	14	14	9	48	41	31
-CTG	3	1	8	7	0	6	3	1	5	6	10	5
-CCT	2	1	9	4	2	2	2	0	1	3	2	1
-CCC	10	13	8	4	5	7	5	3	0	9	10	7
-CCA	7	10	10	6	2	4	4	3	0	8	10	13
-CCG	3	0	1	0	1	0	0	0	0	1	3	2
-CAT	0	1	3	0	0	2	2	0	0	2	1	1
-CAC	5	5	15	7	2	6	14	0	2	8	14	12
-CAA	6	10	3	6	5	7	4	3	2	9	18	6
-CAG	0	0	3	1	0	2	3	0	0	2	1	0
-CGT	0	0	1	0	0	0	0	0	0	1	0	0
-CGC	3	1	1	0	0	1	2	1	0	3	4	0
-CGA	3	2	5	5	0	3	3	0	1	6	3	8
-CGG	2	0	1	1	0	0	0	0	0	0	2	0
-ATT	5	7	23	9	1	8	7	1	4	18	17	14
-ATC	19	26	13	10	6	10	7	4	4	21	38	24
-ATA	16	31	24	10	4	8	10	6	5	23	28	10
-ATG	2	2	8	4	1	6	2	2	3	6	7	4
-ACT	0	4	10	7	0	4	7	1	1	11	10	1
-ACC	11	13	11	5	2	10	7	2	2	12	17	14
-ACA	16	27	17	6	4	10	10	4	2	16	29	18
-ACG	0	0	1	2	1	1	1	0	0	2	2	1
-AAT	3	2	6	0	0	4	0	1	0	7	10	4
-AAC	10	14	10	6	1	6	7	3	6	14	19	12
-AAA	6	15	8	4	6	4	2	3	0	11	22	9
-AAG	1	0	1	1	1	1	1	0	0	3	2	1
-AGT	0	0	1	2	0	0	1	1	0	1	4	0
-AGC	3	2	2	2	1	4	3	1	1	10	14	1
-GTT	0	1	8	1	0	3	2	0	0	2	2	1
-GTC	4	2	6	4	0	4	3	1	2	2	3	7
-GTA	9	3	18	8	0	4	9	1	5	10	13	5
-GTG	2	2	6	1	0	3	2	0	1	1	2	5
-GCT	2	3	6	1	0	9	2	2	0	8	8	3
-GCC	16	9	16	3	0	3	10	5	6	11	21	10
-GCA	10	13	16	1	0	5	0	8	1	16	14	4
-GCG	0	0	1	0	0	0	0	0	0	1	1	0
-GAT	0	0	7	4	0	0	0	1	0	1	3	2
-GAC	3	1	9	6	1	1	3	2	1	3	6	9
-GAA	10	4	6	11	2	3	6	4	1	7	12	4
-GAG	1	1	4	4	0	0	2	2	1	1	2	2
-GGT	0	0	13	2	0	1	1	0	1	0	0	2
-GGC	6	5	13	3	0	4	4	1	2	7	9	9
-GGA	5	7	14	3	0	4	7	1	0	9	15	14
-GGG	1	3	7	1	0	2	8	1	1	2	3	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007625666.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	2	15	4	0	0	6	13	0	0	12	1	0	8	1	5	10	36	3	2	10	7	3	0	5	6	0	0	3	3	2	5	19	16	2	0	11	16	0	3	10	6	1	0	3	0	4	9	2	2	16	10	0	0	3	10	1	0	6	5	1	0	0	0	0
+1	ND2	YP_007625667.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	4	7	3	1	2	6	14	0	1	7	0	0	9	1	1	14	36	1	1	13	10	0	1	5	10	0	0	1	2	0	7	26	31	2	4	13	27	0	2	14	15	0	0	2	1	2	3	2	3	9	13	0	0	1	4	1	0	5	7	3	0	0	0	0
+2	COX1	YP_007625668.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	20	22	6	6	10	8	10	1	10	9	1	0	12	5	6	10	25	8	9	8	10	1	3	15	3	3	1	1	5	1	23	13	24	8	10	11	17	1	6	10	8	1	1	2	8	6	18	6	6	16	16	1	7	9	6	4	13	13	14	7	1	0	0	0
+3	COX2	YP_007625669.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	1	6	4	2	2	4	6	1	5	6	1	1	3	2	4	4	13	7	4	4	6	0	0	7	6	1	0	0	5	1	9	10	10	4	7	5	6	2	0	6	4	1	2	2	1	4	8	1	1	3	1	0	4	6	11	4	2	3	3	1	1	0	0	0
+4	ATP8	YP_007625670.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	2	1	0	0	1	0	4	0	1	0	0	0	4	0	1	0	5	0	2	5	2	1	0	2	5	0	0	0	0	0	1	6	4	1	0	2	4	1	0	1	6	1	0	1	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007625671.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	4	9	3	1	3	2	4	0	0	2	0	1	3	0	3	6	23	6	2	7	4	0	2	6	7	2	0	1	3	0	8	10	8	6	4	10	10	1	4	6	4	1	0	4	3	4	4	3	9	3	5	0	0	1	3	0	1	4	4	2	1	0	0	0
+6	COX3	YP_007625672.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	9	13	3	3	4	7	7	0	5	6	1	1	9	3	2	8	14	3	2	5	4	0	2	14	4	3	0	2	3	0	7	7	10	2	7	7	10	1	0	7	2	1	1	3	2	3	9	2	2	10	0	0	0	3	6	2	1	4	7	8	0	0	0	0
+7	ND3	YP_007625673.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	0	7	4	0	0	3	1	2	2	1	1	0	3	1	1	6	14	1	0	3	3	0	0	0	3	0	0	1	0	0	1	4	6	2	1	2	4	0	1	3	3	0	1	1	0	1	1	0	2	5	8	0	1	2	4	2	0	1	1	1	0	0	0	0
+8	ND4L	YP_007625674.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	2	2	3	1	2	4	2	0	1	3	0	3	0	0	1	4	9	5	1	0	0	0	0	2	2	0	0	0	1	0	4	4	5	3	1	2	2	0	0	6	0	0	0	1	0	2	5	1	0	6	1	0	0	1	1	1	1	2	0	1	1	0	0	0
+9	ND4	YP_007625675.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	7	11	16	1	2	10	12	3	3	12	0	3	10	3	11	13	48	6	3	9	8	1	2	8	9	2	1	3	6	0	18	21	23	6	11	12	16	2	7	14	11	3	1	10	2	2	10	1	8	11	16	1	1	3	7	1	0	7	9	2	0	0	0	0
+10	ND5	YP_007625676.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	18	25	7	1	6	14	15	1	6	14	2	2	6	5	10	22	41	10	2	10	10	3	1	14	18	1	0	4	3	2	17	38	28	7	10	17	29	2	10	19	22	2	4	14	2	3	13	2	8	21	14	1	3	6	12	2	0	9	15	3	1	0	0	0
+11	CYTB	YP_007625678.1	Crocuta crocuta	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Feliformia, Hyaenidae, Crocuta	4	18	11	0	3	6	13	1	5	11	1	3	12	0	3	11	31	5	1	7	13	2	1	12	6	0	0	0	8	0	14	24	10	4	1	14	18	1	4	12	9	1	0	1	1	7	5	5	3	10	4	0	2	9	4	2	2	9	14	1	0	0	1	0

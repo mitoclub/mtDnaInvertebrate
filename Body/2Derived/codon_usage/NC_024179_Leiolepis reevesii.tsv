@@ -1,65 +1,13 @@
-	YP_009034270.1|ND1	YP_009034271.1|ND2	YP_009034272.1|COX1	YP_009034273.1|COX2	YP_009034274.1|ATP8	YP_009034275.1|ATP6	YP_009034276.1|COX3	YP_009034277.1|ND3	YP_009034278.1|ND4L	YP_009034279.1|ND4	YP_009034280.1|ND5	YP_009034282.2|CYTB
-TTT	7	4	20	3	3	3	12	2	1	6	8	15
-TTC	10	4	19	6	0	4	10	5	0	6	14	14
-TTA	8	8	10	6	3	14	9	8	6	22	14	10
-TTG	0	1	2	1	2	2	1	2	2	0	2	1
-TCT	3	1	6	2	0	2	1	0	2	2	7	4
-TCC	3	8	7	6	0	2	2	1	2	10	12	4
-TCA	9	9	13	8	1	3	8	1	5	9	17	17
-TCG	0	0	1	0	0	0	0	0	0	0	2	1
-TAT	4	2	9	2	0	2	4	2	0	5	3	5
-TAC	8	4	7	4	0	1	7	0	2	12	11	7
-TGT	1	1	0	1	0	0	0	0	1	2	1	1
-TGC	2	1	1	3	0	0	1	1	2	2	3	1
-TGA	6	7	16	6	5	3	10	4	0	9	9	9
-TGG	2	3	0	0	0	0	2	1	0	0	1	2
-CTT	7	10	15	5	0	4	1	4	2	12	7	4
-CTC	7	13	4	3	0	8	3	3	4	13	13	12
-CTA	31	30	28	14	1	23	14	10	9	43	51	27
-CTG	2	1	4	0	0	2	2	1	1	2	3	5
-CCT	4	3	4	3	1	1	0	0	0	3	4	2
-CCC	6	4	8	4	2	3	5	2	0	7	7	3
-CCA	11	15	17	6	4	11	7	6	1	16	17	16
-CCG	0	0	0	0	0	1	0	2	0	0	0	2
-CAT	0	2	9	2	0	3	4	0	3	2	2	2
-CAC	2	6	9	7	0	4	11	1	2	7	10	11
-CAA	9	9	10	6	3	4	7	3	2	13	22	7
-CAG	0	1	1	0	0	2	0	0	0	1	2	2
-CGT	0	0	4	0	0	1	1	0	0	1	0	1
-CGC	0	1	0	2	0	1	1	1	0	3	0	1
-CGA	5	3	6	3	0	2	3	0	1	4	7	5
-CGG	3	0	0	1	0	1	0	0	0	1	0	0
-ATT	11	15	15	11	1	9	10	6	6	10	26	17
-ATC	17	16	25	5	1	11	7	6	5	23	28	20
-ATA	19	31	26	7	2	12	12	5	4	33	40	9
-ATG	1	2	5	6	3	2	3	0	1	8	3	5
-ACT	9	4	9	3	1	6	4	1	3	9	11	4
-ACC	15	15	15	7	5	11	8	5	4	15	36	13
-ACA	8	33	18	8	3	13	15	3	5	22	37	10
-ACG	1	0	0	1	0	1	0	0	0	2	0	0
-AAT	3	2	6	3	3	6	1	2	1	8	9	6
-AAC	13	7	12	6	2	4	8	2	3	13	19	13
-AAA	6	11	12	4	3	4	6	2	1	11	25	11
-AAG	1	2	1	0	1	1	1	0	0	1	1	0
-AGT	0	3	1	1	0	1	1	0	0	2	2	1
-AGC	2	1	3	1	0	3	1	1	2	5	9	2
-GTT	2	0	4	2	0	3	0	0	1	3	3	2
-GTC	3	3	7	2	0	5	7	0	0	4	3	2
-GTA	5	3	13	4	0	2	6	2	0	6	5	7
-GTG	0	0	1	2	0	0	0	0	0	0	2	0
-GCT	3	6	9	2	0	4	5	0	2	6	5	6
-GCC	9	11	17	3	0	6	6	2	5	8	24	14
-GCA	17	6	20	10	0	4	7	4	0	16	16	10
-GCG	0	1	0	0	0	0	0	0	0	3	3	0
-GAT	0	0	5	3	1	0	2	0	1	3	2	2
-GAC	3	1	11	7	2	2	1	4	0	1	7	5
-GAA	10	4	6	13	0	3	8	5	2	6	9	5
-GAG	0	1	1	3	0	0	0	0	0	2	1	0
-GGT	1	1	6	0	0	1	2	0	0	1	3	4
-GGC	4	8	11	0	0	2	3	2	1	6	5	6
-GGA	4	6	19	6	0	3	9	2	2	13	7	10
-GGG	7	0	7	2	0	1	2	0	1	1	7	2
-TAA	0	0	0	1	1	0	0	0	1	0	0	0
-TAG	1	0	0	0	0	0	0	0	0	1	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009034270.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	7	10	8	0	3	3	9	0	4	8	1	2	6	2	7	7	31	2	4	6	11	0	0	2	9	0	0	0	5	3	11	17	19	1	9	15	8	1	3	13	6	1	0	2	2	3	5	0	3	9	17	0	0	3	10	0	1	4	4	7	0	1	0	0
+1	ND2	YP_009034271.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	4	4	8	1	1	8	9	0	2	4	1	1	7	3	10	13	30	1	3	4	15	0	2	6	9	1	0	1	3	0	15	16	31	2	4	15	33	0	2	7	11	2	3	1	0	3	3	0	6	11	6	1	0	1	4	1	1	8	6	0	0	0	0	0
+2	COX1	YP_009034272.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	20	19	10	2	6	7	13	1	9	7	0	1	16	0	15	4	28	4	4	8	17	0	9	9	10	1	4	0	6	0	15	25	26	5	9	15	18	0	6	12	12	1	1	3	4	7	13	1	9	17	20	0	5	11	6	1	6	11	19	7	0	0	0	1
+3	COX2	YP_009034273.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	3	6	6	1	2	6	8	0	2	4	1	3	6	0	5	3	14	0	3	4	6	0	2	7	6	0	0	2	3	1	11	5	7	6	3	7	8	1	3	6	4	0	1	1	2	2	4	2	2	3	10	0	3	7	13	3	0	0	6	2	1	0	0	0
+4	ATP8	YP_009034274.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	3	0	3	2	0	0	1	0	0	0	0	0	5	0	0	0	1	0	1	2	4	0	0	0	3	0	0	0	0	0	1	1	2	3	1	5	3	0	3	2	3	1	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009034275.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	3	4	14	2	2	2	3	0	2	1	0	0	3	0	4	8	23	2	1	3	11	1	3	4	4	2	1	1	2	1	9	11	12	2	6	11	13	1	6	4	4	1	1	3	3	5	2	0	4	6	4	0	0	2	3	0	1	2	3	1	0	0	0	0
+6	COX3	YP_009034276.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	12	10	9	1	1	2	8	0	4	7	0	1	10	2	1	3	14	2	0	5	7	0	4	11	7	0	1	1	3	0	10	7	12	3	4	8	15	0	1	8	6	1	1	1	0	7	6	0	5	6	7	0	2	1	8	0	2	3	9	2	0	0	0	0
+7	ND3	YP_009034277.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	2	5	8	2	0	1	1	0	2	0	0	1	4	1	4	3	10	1	0	2	6	2	0	1	3	0	0	1	0	0	6	6	5	0	1	5	3	0	2	2	2	0	0	1	0	0	2	0	0	2	4	0	0	4	5	0	0	2	2	0	0	0	0	0
+8	ND4L	YP_009034278.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	1	0	6	2	2	2	5	0	0	2	1	2	0	0	2	4	9	1	0	0	1	0	3	2	2	0	0	0	1	0	6	5	4	1	3	4	5	0	1	3	1	0	0	2	1	0	0	0	2	5	0	0	1	0	2	0	0	1	2	1	1	0	0	0
+9	ND4	YP_009034279.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	6	6	22	0	2	10	9	0	5	12	2	2	9	0	12	13	43	2	3	7	16	0	2	7	13	1	1	3	4	1	10	23	33	8	9	15	22	2	8	13	11	1	2	5	3	4	6	0	6	8	16	3	3	1	6	2	1	6	13	1	0	1	0	0
+10	ND5	YP_009034280.1	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	8	14	14	2	7	12	17	2	3	11	1	3	9	1	7	13	51	3	4	7	17	0	2	10	22	2	0	0	7	0	26	28	40	3	11	36	37	0	9	19	25	1	2	9	3	3	5	2	5	24	16	3	2	7	9	1	3	5	7	7	0	0	1	0
+11	CYTB	YP_009034282.2	Leiolepis reevesii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Iguania, Acrodonta, Agamidae, Leiolepinae, Leiolepis	15	14	10	1	4	4	17	1	5	7	1	1	9	2	4	12	27	5	2	3	16	2	2	11	7	2	1	1	5	0	17	20	9	5	4	13	10	0	6	13	11	0	1	2	2	2	7	0	6	14	10	0	2	5	5	0	4	6	10	2	0	0	0	0

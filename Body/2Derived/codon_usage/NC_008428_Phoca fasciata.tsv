@@ -1,65 +1,13 @@
-	YP_778851.1|ND1	YP_778852.1|ND2	YP_778853.1|COX1	YP_778854.1|COX2	YP_778855.1|ATP8	YP_778856.1|ATP6	YP_778857.1|COX3	YP_778858.1|ND3	YP_778859.1|ND4L	YP_778860.1|ND4	YP_778861.1|ND5	YP_778863.1|CYTB
-TTT	6	2	16	2	2	4	7	4	2	8	15	9
-TTC	14	10	26	4	2	9	17	4	3	10	26	15
-TTA	7	2	12	9	2	3	2	1	0	11	17	5
-TTG	0	0	1	0	0	1	1	0	1	1	1	1
-TCT	0	3	6	3	1	2	5	2	3	5	3	0
-TCC	6	5	9	2	1	3	4	1	3	11	16	7
-TCA	10	22	12	9	3	5	5	2	2	9	18	14
-TCG	1	0	0	1	1	0	2	1	0	1	1	1
-TAT	1	3	9	6	2	1	6	2	1	10	8	6
-TAC	11	6	10	4	0	1	6	1	3	5	14	10
-TGT	0	0	1	1	0	0	1	1	2	2	2	0
-TGC	1	0	0	1	0	0	1	0	1	2	2	4
-TGA	9	9	16	5	3	3	12	3	0	10	12	12
-TGG	0	1	1	0	0	0	0	1	0	3	0	0
-CTT	4	4	9	4	1	6	5	1	2	12	7	2
-CTC	8	9	4	5	0	7	4	6	4	9	23	9
-CTA	32	36	24	12	8	23	15	16	13	56	41	39
-CTG	4	2	9	4	0	3	3	2	1	6	2	2
-CCT	4	3	11	5	1	7	4	3	1	6	5	1
-CCC	11	7	9	2	2	2	3	1	0	10	7	12
-CCA	6	9	7	5	4	4	5	2	0	6	12	9
-CCG	1	0	1	1	0	0	0	0	0	0	1	0
-CAT	1	1	9	4	2	2	5	1	1	1	2	5
-CAC	3	3	9	4	0	6	11	0	1	8	13	7
-CAA	6	9	6	6	2	8	7	0	2	10	16	5
-CAG	0	0	0	1	1	1	0	1	0	1	2	2
-CGT	0	0	0	0	0	1	0	0	0	0	1	0
-CGC	1	1	1	1	0	0	1	1	0	5	2	0
-CGA	7	2	7	5	0	3	4	0	1	5	6	8
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	9	14	19	9	1	11	6	1	2	14	25	9
-ATC	22	28	17	9	4	16	12	3	3	25	36	32
-ATA	17	33	23	11	2	7	9	6	8	27	40	10
-ATG	2	4	10	6	1	5	4	0	4	9	1	3
-ACT	5	5	12	4	0	8	5	1	1	1	8	1
-ACC	7	11	6	3	1	6	9	5	0	15	25	11
-ACA	11	21	15	9	4	9	8	5	4	21	21	14
-ACG	0	0	5	1	2	0	0	0	0	1	4	0
-AAT	2	4	11	2	0	3	2	0	2	4	8	3
-AAC	11	11	6	4	3	6	5	4	5	16	25	12
-AAA	7	14	8	3	4	3	1	3	0	11	21	7
-AAG	0	1	1	2	2	1	2	0	0	2	2	2
-AGT	0	1	2	1	0	1	2	2	0	1	4	0
-AGC	2	2	1	3	0	3	2	0	0	11	6	4
-GTT	0	2	4	0	0	0	2	1	0	2	4	3
-GTC	3	1	11	3	1	3	2	0	1	2	3	4
-GTA	9	3	23	7	0	5	9	0	5	11	10	12
-GTG	1	1	1	2	0	0	0	1	1	0	1	1
-GCT	6	2	8	2	0	2	1	3	1	1	5	1
-GCC	14	6	13	4	0	10	9	4	5	17	16	11
-GCA	10	11	20	2	0	5	4	6	2	16	16	11
-GCG	0	0	1	1	0	0	0	0	0	0	1	1
-GAT	2	1	6	7	1	2	1	1	0	3	5	2
-GAC	1	0	9	3	0	1	2	2	1	0	4	10
-GAA	10	4	10	12	3	2	8	6	2	5	10	5
-GAG	1	2	0	3	0	1	0	1	0	3	2	0
-GGT	0	0	13	1	0	3	5	0	0	3	1	1
-GGC	2	8	10	2	0	1	6	0	1	5	8	5
-GGA	10	7	16	5	0	6	9	2	3	7	17	18
-GGG	0	1	8	0	0	1	0	1	0	3	2	1
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	1	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_778851.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	6	14	7	0	0	6	10	1	1	11	0	1	9	0	4	8	32	4	4	11	6	1	1	3	6	0	0	1	7	0	9	22	17	2	5	7	11	0	2	11	7	0	0	2	0	3	9	1	6	14	10	0	2	1	10	1	0	2	10	0	0	1	0	0
+1	ND2	YP_778852.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	2	10	2	0	3	5	22	0	3	6	0	0	9	1	4	9	36	2	3	7	9	0	1	3	9	0	0	1	2	0	14	28	33	4	5	11	21	0	4	11	14	1	1	2	2	1	3	1	2	6	11	0	1	0	4	2	0	8	7	1	0	1	0	0
+2	COX1	YP_778853.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	16	26	12	1	6	9	12	0	9	10	1	0	16	1	9	4	24	9	11	9	7	1	9	9	6	0	0	1	7	0	19	17	23	10	12	6	15	5	11	6	8	1	2	1	4	11	23	1	8	13	20	1	6	9	10	0	13	10	16	8	1	0	0	0
+3	COX2	YP_778854.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	2	4	9	0	3	2	9	1	6	4	1	1	5	0	4	5	12	4	5	2	5	1	4	4	6	1	0	1	5	0	9	9	11	6	4	3	9	1	2	4	3	2	1	3	0	3	7	2	2	4	2	1	7	3	12	3	1	2	5	0	1	0	0	0
+4	ATP8	YP_778855.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	2	2	2	0	1	1	3	1	2	0	0	0	3	0	1	0	8	0	1	2	4	0	2	0	2	1	0	0	0	0	1	4	2	1	0	1	4	2	0	3	4	2	0	0	0	1	0	0	0	0	0	0	1	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_778856.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	4	9	3	1	2	3	5	0	1	1	0	0	3	0	6	7	23	3	7	2	4	0	2	6	8	1	1	0	3	0	11	16	7	5	8	6	9	0	3	6	3	1	1	3	0	3	5	0	2	10	5	0	2	1	2	1	3	1	6	1	1	0	0	0
+6	COX3	YP_778857.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	7	17	2	1	5	4	5	2	6	6	1	1	12	0	5	4	15	3	4	3	5	0	5	11	7	0	0	1	4	0	6	12	9	4	5	9	8	0	2	5	1	2	2	2	2	2	9	0	1	9	4	0	1	2	8	0	5	6	9	0	0	0	0	0
+7	ND3	YP_778858.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	4	4	1	0	2	1	2	1	2	1	1	0	3	1	1	6	16	2	3	1	2	0	1	0	0	1	0	1	0	0	1	3	6	0	1	5	5	0	0	4	3	0	2	0	1	0	0	1	3	4	6	0	1	2	6	1	0	0	2	1	0	0	0	0
+8	ND4L	YP_778859.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	2	3	0	1	3	3	2	0	1	3	2	1	0	0	2	4	13	1	1	0	0	0	1	1	2	0	0	0	1	0	2	3	8	4	1	0	4	0	2	5	0	0	0	0	0	1	5	1	1	5	2	0	0	1	2	0	0	1	3	0	1	0	0	0
+9	ND4	YP_778860.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	8	10	11	1	5	11	9	1	10	5	2	2	10	3	12	9	56	6	6	10	6	0	1	8	10	1	0	5	5	0	14	25	27	9	1	15	21	1	4	16	11	2	1	11	2	2	11	0	1	17	16	0	3	0	5	3	3	5	7	3	0	0	0	0
+10	ND5	YP_778861.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	15	26	17	1	3	16	18	1	8	14	2	2	12	0	7	23	41	2	5	7	12	1	2	13	16	2	1	2	6	0	25	36	40	1	8	25	21	4	8	25	21	2	4	6	4	3	10	1	5	16	16	1	5	4	10	2	1	8	17	2	1	0	0	0
+11	CYTB	YP_778863.1	Phoca fasciata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	9	15	5	1	0	7	14	1	6	10	0	4	12	0	2	9	39	2	1	12	9	0	5	7	5	2	0	0	8	0	9	32	10	3	1	11	14	0	3	12	7	2	0	4	3	4	12	1	1	11	11	1	2	10	5	0	1	5	18	1	0	0	1	0

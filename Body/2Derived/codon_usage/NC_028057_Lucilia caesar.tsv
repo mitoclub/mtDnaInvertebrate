@@ -1,65 +1,10 @@
-	YP_009171461.1|ND2	YP_009171462.1|COX1	YP_009171463.1|COX2	YP_009171464.1|ATP8	YP_009171465.1|ATP6	YP_009171466.1|COX3	YP_009171467.1|ND3	YP_009171471.1|ND6	YP_009171472.1|CYTB
-TTT	33	27	12	5	15	13	6	14	26
-TTC	8	13	2	0	3	13	3	1	7
-TTA	46	53	24	3	28	24	15	28	50
-TTG	1	0	0	1	2	0	0	0	0
-TCT	17	8	7	3	8	4	2	5	6
-TCC	2	2	0	0	0	0	2	1	0
-TCA	16	17	6	3	6	11	9	5	4
-TCG	0	0	0	0	0	0	0	0	0
-TAT	12	11	5	2	5	8	0	5	11
-TAC	3	6	5	0	0	2	1	3	6
-TGT	1	0	2	0	1	1	1	0	2
-TGC	0	0	0	0	1	0	0	0	1
-TGA	8	13	6	3	5	12	3	2	13
-TGG	1	0	0	0	0	1	0	0	0
-CTT	3	7	4	0	9	4	4	4	4
-CTC	1	0	0	0	0	0	0	0	0
-CTA	5	5	2	0	2	0	3	6	0
-CTG	0	0	0	0	0	0	0	0	0
-CCT	4	15	6	4	9	4	2	1	13
-CCC	1	0	0	0	0	1	0	0	0
-CCA	3	10	5	0	2	5	2	3	10
-CCG	0	0	0	0	0	0	0	0	0
-CAT	4	12	3	0	6	13	1	1	7
-CAC	0	3	3	0	0	3	0	0	4
-CAA	6	10	7	2	4	7	1	4	7
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	1	1	0	0	1	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	8	6	0	3	3	3	1	8
-CGG	0	0	0	0	0	0	0	0	0
-ATT	30	44	25	7	17	19	21	17	41
-ATC	1	2	2	1	1	1	2	4	1
-ATA	29	22	8	3	13	6	4	14	11
-ATG	0	2	1	0	2	2	0	0	1
-ACT	5	23	6	0	8	14	1	7	9
-ACC	2	0	0	0	1	1	0	1	0
-ACA	8	14	4	2	11	8	4	4	10
-ACG	0	0	0	0	0	1	0	0	0
-AAT	20	17	13	6	13	7	3	11	17
-AAC	3	1	3	0	1	1	1	1	5
-AAA	10	0	2	3	1	1	5	8	5
-AAG	4	5	2	0	1	1	0	1	2
-AGT	2	8	3	0	7	2	1	0	2
-AGC	0	0	0	1	0	1	0	0	0
-AGA	5	1	2	0	1	1	0	2	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	1	14	3	0	5	11	0	3	9
-GTC	0	0	0	0	1	0	0	0	1
-GTA	4	20	10	2	6	8	4	3	20
-GTG	0	0	0	0	0	0	0	0	0
-GCT	9	25	3	1	8	13	1	3	14
-GCC	1	1	0	0	0	0	1	0	2
-GCA	6	10	7	1	2	1	1	1	8
-GCG	0	0	0	0	1	0	0	0	0
-GAT	2	9	8	0	0	3	1	1	8
-GAC	0	5	2	0	1	3	2	0	2
-GAA	5	9	9	0	4	7	4	4	4
-GAG	0	0	0	0	0	0	0	0	0
-GGT	4	4	4	1	3	4	1	2	5
-GGC	0	0	0	0	1	0	0	0	0
-GGA	9	39	6	0	7	16	2	3	17
-GGG	1	3	0	0	0	0	0	0	2
-TAA	1	0	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009171461.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	33	8	46	1	17	2	16	0	12	3	1	0	8	1	3	1	5	0	4	1	3	0	4	0	6	0	1	0	1	0	30	1	29	0	5	2	8	0	20	3	10	4	2	0	5	0	1	0	4	0	9	1	6	0	2	0	5	0	4	0	9	1	1	0
+1	COX1	YP_009171462.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	27	13	53	0	8	2	17	0	11	6	0	0	13	0	7	0	5	0	15	0	10	0	12	3	10	0	1	0	8	0	44	2	22	2	23	0	14	0	17	1	0	5	8	0	1	0	14	0	20	0	25	1	10	0	9	5	9	0	4	0	39	3	0	0
+2	COX2	YP_009171463.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	12	2	24	0	7	0	6	0	5	5	2	0	6	0	4	0	2	0	6	0	5	0	3	3	7	0	1	0	6	0	25	2	8	1	6	0	4	0	13	3	2	2	3	0	2	0	3	0	10	0	3	0	7	0	8	2	9	0	4	0	6	0	0	0
+3	ATP8	YP_009171464.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	5	0	3	1	3	0	3	0	2	0	0	0	3	0	0	0	0	0	4	0	0	0	0	0	2	0	0	0	0	0	7	1	3	0	0	0	2	0	6	0	3	0	0	1	0	0	0	0	2	0	1	0	1	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_009171465.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	15	3	28	2	8	0	6	0	5	0	1	1	5	0	9	0	2	0	9	0	2	0	6	0	4	0	0	0	3	0	17	1	13	2	8	1	11	0	13	1	1	1	7	0	1	0	5	1	6	0	8	0	2	1	0	1	4	0	3	1	7	0	1	0
+5	COX3	YP_009171466.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	13	13	24	0	4	0	11	0	8	2	1	0	12	1	4	0	0	0	4	1	5	0	13	3	7	0	1	0	3	0	19	1	6	2	14	1	8	1	7	1	1	1	2	1	1	0	11	0	8	0	13	0	1	0	3	3	7	0	4	0	16	0	1	0
+6	ND3	YP_009171467.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	6	3	15	0	2	2	9	0	0	1	1	0	3	0	4	0	3	0	2	0	2	0	1	0	1	0	0	0	3	0	21	2	4	0	1	0	4	0	3	1	5	0	1	0	0	0	0	0	4	0	1	1	1	0	1	2	4	0	1	0	2	0	1	0
+7	ND6	YP_009171471.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	14	1	28	0	5	1	5	0	5	3	0	0	2	0	4	0	6	0	1	0	3	0	1	0	4	0	0	0	1	0	17	4	14	0	7	1	4	0	11	1	8	1	0	0	2	0	3	0	3	0	3	0	1	0	1	0	4	0	2	0	3	0	1	0
+8	CYTB	YP_009171472.1	Lucilia caesar	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Oestroidea, Calliphoridae, Luciliinae, Lucilia	26	7	50	0	6	0	4	0	11	6	2	1	13	0	4	0	0	0	13	0	10	0	7	4	7	0	0	0	8	0	41	1	11	1	9	0	10	0	17	5	5	2	2	0	3	0	9	1	20	0	14	2	8	0	8	2	4	0	5	0	17	2	0	1

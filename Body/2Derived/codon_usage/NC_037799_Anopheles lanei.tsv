@@ -1,65 +1,10 @@
-	YP_009487680.1|ND2	YP_009487681.1|COX1	YP_009487682.1|COX2	YP_009487683.1|ATP8	YP_009487684.1|ATP6	YP_009487685.1|COX3	YP_009487686.1|ND3	YP_009487690.1|ND6	YP_009487691.1|CYTB
-TTT	29	36	12	8	15	24	10	19	32
-TTC	2	5	3	0	3	4	0	0	3
-TTA	57	50	23	3	35	21	13	26	49
-TTG	2	0	0	0	2	0	0	0	0
-TCT	13	16	3	1	5	4	4	6	5
-TCC	2	0	1	0	0	0	0	1	0
-TCA	13	11	7	1	7	8	4	4	8
-TCG	0	1	0	0	0	0	0	0	0
-TAT	11	14	6	0	4	11	1	6	15
-TAC	3	3	0	2	1	1	0	0	3
-TGT	2	0	2	1	0	1	2	2	4
-TGC	0	0	0	0	1	0	0	0	0
-TGA	9	15	6	2	5	13	3	1	14
-TGG	0	0	0	1	0	0	0	0	0
-CTT	1	6	3	2	3	1	3	1	3
-CTC	0	0	0	0	0	0	0	0	0
-CTA	5	5	7	1	3	3	2	5	2
-CTG	0	0	0	0	1	1	0	0	0
-CCT	3	18	3	0	6	5	0	1	8
-CCC	2	2	0	0	0	1	0	0	0
-CCA	3	7	8	3	5	3	4	3	12
-CCG	0	1	0	0	0	0	0	0	1
-CAT	1	16	5	1	7	12	1	1	10
-CAC	1	2	1	0	0	4	0	0	2
-CAA	8	9	7	2	5	8	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	1	0	0	1	1	0	0	1
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	8	7	0	2	3	3	1	7
-CGG	0	1	0	0	0	0	0	0	0
-ATT	38	46	22	6	16	21	18	24	39
-ATC	3	0	1	0	0	2	1	1	0
-ATA	26	27	11	2	8	8	10	14	9
-ATG	0	3	1	0	3	1	0	1	2
-ACT	10	22	6	1	10	9	5	7	9
-ACC	0	1	0	0	0	0	0	1	0
-ACA	5	14	10	2	12	16	3	5	8
-ACG	0	0	0	0	0	0	0	0	0
-AAT	28	16	17	5	12	5	5	11	20
-AAC	1	1	0	1	3	2	0	1	5
-AAA	13	3	3	4	2	1	4	8	6
-AAG	1	2	1	0	0	0	0	1	3
-AGT	4	6	1	0	5	1	0	0	3
-AGC	2	0	1	0	0	1	0	0	0
-AGA	3	4	4	0	3	4	1	5	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	4	11	4	2	5	5	0	1	7
-GTC	1	1	0	0	0	0	0	0	0
-GTA	2	18	6	1	7	10	3	4	14
-GTG	0	2	1	0	1	0	0	0	1
-GCT	6	22	4	1	7	6	2	0	12
-GCC	0	3	0	0	1	1	1	0	0
-GCA	4	13	3	0	4	10	1	0	13
-GCG	0	1	0	0	0	0	0	0	1
-GAT	1	11	9	0	1	3	3	1	6
-GAC	0	4	0	0	0	1	0	0	4
-GAA	6	9	9	0	4	7	5	5	4
-GAG	0	0	0	0	0	0	1	0	1
-GGT	0	7	1	0	2	2	1	1	4
-GGC	0	0	0	0	2	0	0	0	1
-GGA	12	36	9	0	6	16	2	3	16
-GGG	2	2	0	0	1	1	0	0	2
-TAA	1	0	0	1	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009487680.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	29	2	57	2	13	2	13	0	11	3	2	0	9	0	1	0	5	0	3	2	3	0	1	1	8	0	1	0	1	0	38	3	26	0	10	0	5	0	28	1	13	1	4	2	3	0	4	1	2	0	6	0	4	0	1	0	6	0	0	0	12	2	1	0
+1	COX1	YP_009487681.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	36	5	50	0	16	0	11	1	14	3	0	0	15	0	6	0	5	0	18	2	7	1	16	2	9	0	1	0	8	1	46	0	27	3	22	1	14	0	16	1	3	2	6	0	4	0	11	1	18	2	22	3	13	1	11	4	9	0	7	0	36	2	0	0
+2	COX2	YP_009487682.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	12	3	23	0	3	1	7	0	6	0	2	0	6	0	3	0	7	0	3	0	8	0	5	1	7	0	0	0	7	0	22	1	11	1	6	0	10	0	17	0	3	1	1	1	4	0	4	0	6	1	4	0	3	0	9	0	9	0	1	0	9	0	0	0
+3	ATP8	YP_009487683.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	8	0	3	0	1	0	1	0	0	2	1	0	2	1	2	0	1	0	0	0	3	0	1	0	2	0	0	0	0	0	6	0	2	0	1	0	2	0	5	1	4	0	0	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009487684.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	15	3	35	2	5	0	7	0	4	1	0	1	5	0	3	0	3	1	6	0	5	0	7	0	5	0	1	0	2	0	16	0	8	3	10	0	12	0	12	3	2	0	5	0	3	0	5	0	7	1	7	1	4	0	1	0	4	0	2	2	6	1	1	0
+5	COX3	YP_009487685.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	24	4	21	0	4	0	8	0	11	1	1	0	13	0	1	0	3	1	5	1	3	0	12	4	8	0	1	0	3	0	21	2	8	1	9	0	16	0	5	2	1	0	1	1	4	0	5	0	10	0	6	1	10	0	3	1	7	0	2	0	16	1	0	0
+6	ND3	YP_009487686.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	10	0	13	0	4	0	4	0	1	0	2	0	3	0	3	0	2	0	0	0	4	0	1	0	1	0	0	0	3	0	18	1	10	0	5	0	3	0	5	0	4	0	0	0	1	0	0	0	3	0	2	1	1	0	3	0	5	1	1	0	2	0	1	0
+7	ND6	YP_009487690.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	19	0	26	0	6	1	4	0	6	0	2	0	1	0	1	0	5	0	1	0	3	0	1	0	3	0	0	0	1	0	24	1	14	1	7	1	5	0	11	1	8	1	0	0	5	0	1	0	4	0	0	0	0	0	1	0	5	0	1	0	3	0	1	0
+8	CYTB	YP_009487691.1	Anopheles lanei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Culicoidea, Culicidae, Anophelinae, Anopheles	32	3	49	0	5	0	8	0	15	3	4	0	14	0	3	0	2	0	8	0	12	1	10	2	8	0	1	0	7	0	39	0	9	2	9	0	8	0	20	5	6	3	3	0	1	0	7	0	14	1	12	0	13	1	6	4	4	1	4	1	16	2	1	0

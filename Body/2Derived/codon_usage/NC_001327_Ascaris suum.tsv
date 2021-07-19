@@ -1,65 +1,12 @@
-	NP_006941.1|ND6	NP_006942.1|ND4L	NP_006943.1|ND1	NP_006944.1|ATP6	NP_006945.2|ND2	NP_006946.1|CYTB	NP_006947.1|COX3	NP_006948.1|ND4	NP_006950.1|COX2	NP_006951.1|ND3	NP_006952.2|ND5
-TTT	26	15	43	24	52	50	40	60	21	18	86
-TTC	2	0	1	0	0	0	0	3	0	0	3
-TTA	5	4	11	8	12	13	11	20	10	5	27
-TTG	13	7	25	21	33	37	18	30	21	11	43
-TCT	6	1	11	5	11	13	12	23	12	5	25
-TCC	0	0	0	0	0	0	0	2	0	0	1
-TCA	0	2	0	1	0	0	0	2	0	0	1
-TCG	1	1	2	1	0	0	0	3	0	0	1
-TAT	8	2	17	14	8	16	8	21	13	4	18
-TAC	2	0	1	0	0	3	2	3	0	0	3
-TGT	2	2	3	5	7	3	4	6	8	2	14
-TGC	0	0	0	0	0	0	0	0	0	0	0
-TGA	0	0	0	1	3	5	3	1	2	0	5
-TGG	3	1	2	1	5	8	5	6	3	3	5
-CTT	0	0	4	3	2	6	5	11	4	2	11
-CTC	0	0	0	0	0	0	0	0	0	0	0
-CTA	1	0	1	0	0	0	1	0	0	0	1
-CTG	0	0	1	1	2	0	0	1	0	0	0
-CCT	4	0	7	2	5	8	4	9	8	0	6
-CCC	0	0	0	0	0	0	0	0	0	0	0
-CCA	0	0	0	0	0	0	1	0	0	0	0
-CCG	0	0	1	1	1	3	0	1	0	0	2
-CAT	1	0	2	1	1	7	12	5	3	1	4
-CAC	0	0	0	0	0	0	0	1	0	0	0
-CAA	0	1	0	1	2	2	1	1	3	0	3
-CAG	0	0	7	2	3	2	0	1	3	1	4
-CGT	0	1	7	3	0	4	1	1	3	0	4
-CGC	0	0	0	0	0	0	0	0	0	0	0
-CGA	1	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	1	0	0	0
-ATT	10	8	23	14	11	17	17	24	7	11	24
-ATC	1	0	0	0	0	2	1	0	2	0	3
-ATA	2	2	2	2	3	3	2	8	2	1	12
-ATG	4	5	12	7	13	12	5	21	7	7	15
-ACT	1	0	7	9	4	8	5	6	7	0	12
-ACC	0	0	0	0	1	0	2	2	0	0	0
-ACA	2	0	1	0	1	0	0	0	0	0	4
-ACG	0	0	0	2	0	1	0	1	0	1	0
-AAT	4	2	5	4	14	9	10	13	10	4	19
-AAC	1	0	1	0	0	1	0	0	0	0	1
-AAA	1	0	2	3	2	3	1	5	0	1	8
-AAG	2	2	5	2	9	9	4	4	7	4	9
-AGT	6	2	7	8	7	12	11	10	16	1	22
-AGC	3	0	1	0	0	0	0	0	0	0	0
-AGA	0	2	3	2	1	1	1	3	0	2	11
-AGG	1	1	4	1	2	3	1	5	4	1	7
-GTT	11	7	19	19	33	37	14	23	11	10	39
-GTC	2	0	0	0	2	2	1	0	0	0	1
-GTA	4	0	4	3	1	4	4	7	2	0	7
-GTG	3	1	5	4	8	10	4	11	6	3	8
-GCT	3	0	10	5	3	12	7	17	4	0	11
-GCC	0	0	0	0	0	1	1	1	0	0	1
-GCA	0	0	1	0	0	1	1	0	0	0	1
-GCG	0	0	0	0	0	0	0	1	0	0	0
-GAT	1	2	4	3	5	7	6	3	12	3	10
-GAC	1	0	0	0	0	1	0	1	0	0	2
-GAA	0	1	2	2	2	2	0	6	5	0	2
-GAG	0	1	10	6	2	6	5	3	4	3	5
-GGT	3	2	13	3	4	14	20	13	9	6	19
-GGC	0	0	1	0	1	1	0	0	0	0	1
-GGA	1	2	0	2	2	2	1	4	2	0	2
-GGG	2	0	2	3	3	4	3	5	1	1	5
-TAA	0	0	0	0	0	0	1	1	0	0	0
-TAG	1	1	1	1	0	1	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND6	NP_006941.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	26	2	5	13	6	0	0	1	8	2	2	0	0	3	0	0	1	0	4	0	0	0	1	0	0	0	0	0	1	0	10	1	2	4	1	0	2	0	4	1	1	2	6	3	0	1	11	2	4	3	3	0	0	0	1	1	0	0	3	0	1	2	0	1
+1	ND4L	NP_006942.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	15	0	4	7	1	0	2	1	2	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	8	0	2	5	0	0	0	0	2	0	0	2	2	0	2	1	7	0	0	1	0	0	0	0	2	0	1	1	2	0	2	0	0	1
+2	ND1	NP_006943.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	43	1	11	25	11	0	0	2	17	1	3	0	0	2	4	0	1	1	7	0	0	1	2	0	0	7	7	0	0	0	23	0	2	12	7	0	1	0	5	1	2	5	7	1	3	4	19	0	4	5	10	0	1	0	4	0	2	10	13	1	0	2	0	1
+3	ATP6	NP_006944.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	24	0	8	21	5	0	1	1	14	0	5	0	1	1	3	0	0	1	2	0	0	1	1	0	1	2	3	0	0	0	14	0	2	7	9	0	0	2	4	0	3	2	8	0	2	1	19	0	3	4	5	0	0	0	3	0	2	6	3	0	2	3	0	1
+4	ND2	NP_006945.2	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	52	0	12	33	11	0	0	0	8	0	7	0	3	5	2	0	0	2	5	0	0	1	1	0	2	3	0	0	0	0	11	0	3	13	4	1	1	0	14	0	2	9	7	0	1	2	33	2	1	8	3	0	0	0	5	0	2	2	4	1	2	3	0	0
+5	CYTB	NP_006946.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	50	0	13	37	13	0	0	0	16	3	3	0	5	8	6	0	0	0	8	0	0	3	7	0	2	2	4	0	0	0	17	2	3	12	8	0	0	1	9	1	3	9	12	0	1	3	37	2	4	10	12	1	1	0	7	1	2	6	14	1	2	4	0	1
+6	COX3	NP_006947.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	40	0	11	18	12	0	0	0	8	2	4	0	3	5	5	0	1	0	4	0	1	0	12	0	1	0	1	0	0	0	17	1	2	5	5	2	0	0	10	0	1	4	11	0	1	1	14	1	4	4	7	1	1	0	6	0	0	5	20	0	1	3	1	0
+7	ND4	NP_006948.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	60	3	20	30	23	2	2	3	21	3	6	0	1	6	11	0	0	1	9	0	0	1	5	1	1	1	1	0	0	1	24	0	8	21	6	2	0	1	13	0	5	4	10	0	3	5	23	0	7	11	17	1	0	1	3	1	6	3	13	0	4	5	1	0
+8	COX2	NP_006950.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	21	0	10	21	12	0	0	0	13	0	8	0	2	3	4	0	0	0	8	0	0	0	3	0	3	3	3	0	0	0	7	2	2	7	7	0	0	0	10	0	0	7	16	0	0	4	11	0	2	6	4	0	0	0	12	0	5	4	9	0	2	1	0	1
+9	ND3	NP_006951.1	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	18	0	5	11	5	0	0	0	4	0	2	0	0	3	2	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	11	0	1	7	0	0	0	1	4	0	1	4	1	0	2	1	10	0	0	3	0	0	0	0	3	0	0	3	6	0	0	1	0	1
+10	ND5	NP_006952.2	Ascaris suum	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Chromadorea, Ascaridida, Ascaridoidea, Ascarididae, Ascaris	86	3	27	43	25	1	1	1	18	3	14	0	5	5	11	0	1	0	6	0	0	2	4	0	3	4	4	0	0	0	24	3	12	15	12	0	4	0	19	1	8	9	22	0	11	7	39	1	7	8	11	1	1	0	10	2	2	5	19	1	2	5	0	0

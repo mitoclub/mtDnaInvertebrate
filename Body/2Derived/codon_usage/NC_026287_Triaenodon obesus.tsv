@@ -1,65 +1,13 @@
-	YP_009117149.1|ND1	YP_009117150.1|ND2	YP_009117151.1|COX1	YP_009117152.1|COX2	YP_009117153.1|ATP8	YP_009117154.1|ATP6	YP_009117155.1|COX3	YP_009117156.1|ND3	YP_009117157.1|ND4L	YP_009117158.1|ND4	YP_009117159.1|ND5	YP_009117161.1|CYTB
-TTT	9	8	24	5	3	6	5	5	3	11	14	13
-TTC	10	5	15	3	1	7	16	3	2	12	27	19
-TTA	22	19	18	9	7	16	12	7	5	16	18	14
-TTG	0	0	1	1	0	1	0	0	0	1	2	0
-TCT	2	2	11	3	0	1	0	2	2	11	8	5
-TCC	3	8	4	2	0	1	3	3	7	10	12	8
-TCA	13	14	13	8	1	2	7	1	3	9	20	9
-TCG	0	1	0	0	0	0	0	1	0	0	0	0
-TAT	8	5	15	6	0	2	8	2	1	6	4	8
-TAC	5	2	3	4	0	2	5	0	0	6	8	5
-TGT	0	0	1	2	0	0	1	1	2	0	1	2
-TGC	0	1	0	0	0	0	1	0	1	4	4	1
-TGA	8	10	17	5	5	5	9	4	1	19	14	13
-TGG	0	0	0	0	0	0	3	1	0	0	0	0
-CTT	5	12	24	2	1	11	12	3	3	26	15	9
-CTC	19	19	7	6	0	6	6	9	6	16	34	16
-CTA	19	30	15	7	1	20	4	11	5	24	35	20
-CTG	1	1	0	0	0	0	0	1	0	0	0	3
-CCT	6	6	11	5	2	2	4	1	1	3	9	4
-CCC	10	7	2	2	3	0	1	2	1	6	10	5
-CCA	8	8	17	6	4	12	8	5	0	15	11	11
-CCG	0	0	1	0	0	1	0	0	0	0	0	0
-CAT	1	2	10	4	1	1	9	0	1	4	3	7
-CAC	3	5	9	6	0	2	7	0	1	11	14	5
-CAA	7	9	9	8	1	9	8	2	2	12	16	7
-CAG	0	0	1	1	0	0	0	0	0	0	1	1
-CGT	3	0	2	3	0	0	2	1	2	0	0	2
-CGC	2	1	0	0	0	1	0	0	0	2	4	2
-CGA	3	3	7	3	0	4	3	1	0	9	5	4
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	15	15	31	15	2	15	8	5	2	26	30	18
-ATC	17	18	12	6	3	10	5	5	5	20	37	25
-ATA	13	12	21	11	1	9	7	0	6	21	23	12
-ATG	1	1	4	2	1	1	1	2	1	2	1	2
-ACT	6	11	10	5	3	5	4	1	0	11	8	3
-ACC	6	14	9	2	0	8	6	1	4	13	20	7
-ACA	11	16	14	6	0	11	12	3	2	18	21	8
-ACG	0	0	0	0	0	0	0	1	0	0	0	0
-AAT	2	1	9	2	4	4	2	2	1	7	9	6
-AAC	10	15	6	2	4	6	1	2	3	10	26	15
-AAA	7	9	8	4	4	1	2	1	1	11	22	8
-AAG	0	1	0	0	0	0	0	0	0	0	3	1
-AGT	1	2	2	2	1	2	1	1	2	2	4	1
-AGC	3	4	2	1	0	2	2	0	1	6	10	2
-GTT	3	1	16	8	0	2	7	0	1	1	4	6
-GTC	2	0	4	3	0	3	3	1	1	5	5	6
-GTA	4	3	18	7	0	5	7	2	0	5	7	5
-GTG	0	0	1	0	0	0	1	0	0	0	0	0
-GCT	5	11	15	5	0	6	6	2	5	12	8	7
-GCC	11	6	10	6	0	7	7	2	3	13	19	12
-GCA	9	7	19	5	0	4	9	4	3	8	11	6
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	2	0	7	5	0	1	3	1	0	2	4	3
-GAC	1	0	8	7	1	0	2	2	1	4	9	6
-GAA	9	6	10	16	1	4	10	6	2	8	10	6
-GAG	1	0	0	0	0	0	0	0	0	2	1	0
-GGT	4	3	18	4	0	2	5	1	1	4	10	4
-GGC	4	3	5	2	0	2	5	1	3	6	9	6
-GGA	9	10	18	3	0	5	10	4	1	9	8	12
-GGG	1	1	4	0	0	0	1	0	0	1	1	1
-TAA	1	0	1	0	1	1	1	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009117149.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	9	10	22	0	2	3	13	0	8	5	0	0	8	0	5	19	19	1	6	10	8	0	1	3	7	0	3	2	3	0	15	17	13	1	6	6	11	0	2	10	7	0	1	3	3	2	4	0	5	11	9	0	2	1	9	1	4	4	9	1	1	0	0	0
+1	ND2	YP_009117150.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	8	5	19	0	2	8	14	1	5	2	0	1	10	0	12	19	30	1	6	7	8	0	2	5	9	0	0	1	3	0	15	18	12	1	11	14	16	0	1	15	9	1	2	4	1	0	3	0	11	6	7	0	0	0	6	0	3	3	10	1	0	0	0	0
+2	COX1	YP_009117151.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	24	15	18	1	11	4	13	0	15	3	1	0	17	0	24	7	15	0	11	2	17	1	10	9	9	1	2	0	7	0	31	12	21	4	10	9	14	0	9	6	8	0	2	2	16	4	18	1	15	10	19	0	7	8	10	0	18	5	18	4	1	0	0	0
+3	COX2	YP_009117152.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	5	3	9	1	3	2	8	0	6	4	2	0	5	0	2	6	7	0	5	2	6	0	4	6	8	1	3	0	3	0	15	6	11	2	5	2	6	0	2	2	4	0	2	1	8	3	7	0	5	6	5	0	5	7	16	0	4	2	3	0	0	0	0	0
+4	ATP8	YP_009117153.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	3	1	7	0	0	0	1	0	0	0	0	0	5	0	1	0	1	0	2	3	4	0	1	0	1	0	0	0	0	0	2	3	1	1	3	0	0	0	4	4	4	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009117154.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	6	7	16	1	1	1	2	0	2	2	0	0	5	0	11	6	20	0	2	0	12	1	1	2	9	0	0	1	4	0	15	10	9	1	5	8	11	0	4	6	1	0	2	2	2	3	5	0	6	7	4	0	1	0	4	0	2	2	5	0	1	0	0	0
+6	COX3	YP_009117155.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	5	16	12	0	0	3	7	0	8	5	1	1	9	3	12	6	4	0	4	1	8	0	9	7	8	0	2	0	3	0	8	5	7	1	4	6	12	0	2	1	2	0	1	2	7	3	7	1	6	7	9	0	3	2	10	0	5	5	10	1	1	0	0	0
+7	ND3	YP_009117156.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	5	3	7	0	2	3	1	1	2	0	1	0	4	1	3	9	11	1	1	2	5	0	0	0	2	0	1	0	1	0	5	5	0	2	1	1	3	1	2	2	1	0	1	0	0	1	2	0	2	2	4	0	1	2	6	0	1	1	4	0	0	0	0	0
+8	ND4L	YP_009117157.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	3	2	5	0	2	7	3	0	1	0	2	1	1	0	3	6	5	0	1	1	0	0	1	1	2	0	2	0	0	0	2	5	6	1	0	4	2	0	1	3	1	0	2	1	1	1	0	0	5	3	3	0	0	1	2	0	1	3	1	0	1	0	0	0
+9	ND4	YP_009117158.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	11	12	16	1	11	10	9	0	6	6	0	4	19	0	26	16	24	0	3	6	15	0	4	11	12	0	0	2	9	0	26	20	21	2	11	13	18	0	7	10	11	0	2	6	1	5	5	0	12	13	8	0	2	4	8	2	4	6	9	1	0	0	0	0
+10	ND5	YP_009117159.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	14	27	18	2	8	12	20	0	4	8	1	4	14	0	15	34	35	0	9	10	11	0	3	14	16	1	0	4	5	0	30	37	23	1	8	20	21	0	9	26	22	3	4	10	4	5	7	0	8	19	11	0	4	9	10	1	10	9	8	1	1	0	0	0
+11	CYTB	YP_009117161.1	Triaenodon obesus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Chondrichthyes, Elasmobranchii, Galeomorphii, Galeoidea, Carcharhiniformes, Carcharhinidae, Triaenodon	13	19	14	0	5	8	9	0	8	5	2	1	13	0	9	16	20	3	4	5	11	0	7	5	7	1	2	2	4	0	18	25	12	2	3	7	8	0	6	15	8	1	1	2	6	6	5	0	7	12	6	0	3	6	6	0	4	6	12	1	0	0	0	0

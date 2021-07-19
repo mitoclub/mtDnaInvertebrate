@@ -1,65 +1,25 @@
-	YP_313618.1|cox3	YP_313619.1|atp8	YP_313620.1|rps5	YP_313621.1|orf1	YP_313622.1|orf2	YP_313623.1|orf3	YP_313624.1|orf4	YP_313625.1|cox1	YP_313626.1|COX1-i1	YP_313627.1|atp9	YP_313628.1|cox2	YP_313629.1|nad4L	YP_313630.1|nad5	YP_313631.1|NAD5-i1	YP_313632.1|NAD5-i2	YP_313633.1|nad2	YP_313634.1|cob	YP_313635.1|COB-i1	YP_313636.1|orf5	YP_313637.1|nad3	YP_313638.1|nad1	YP_313639.1|nad4	YP_313640.1|atp6	YP_313641.1|nad6
-TTT	17	7	14	13	4	15	22	31	22	2	15	6	54	34	15	37	26	9	13	19	28	42	26	10
-TTC	7	1	1	1	0	2	1	16	1	2	0	0	8	2	1	5	4	0	2	0	3	4	2	0
-TTA	38	7	50	15	11	16	29	69	26	7	27	13	94	60	37	93	55	24	17	21	57	76	43	30
-TTG	0	0	1	0	0	0	1	1	1	0	1	1	0	3	3	0	3	1	1	1	1	1	0	0
-TCT	3	0	10	3	1	8	5	11	5	0	1	2	17	10	9	39	8	3	3	4	12	19	4	8
-TCC	0	0	0	0	0	0	1	0	2	0	0	0	0	3	1	0	0	1	0	0	0	1	0	0
-TCA	15	3	14	0	1	3	0	9	6	3	14	3	21	14	6	11	10	5	5	2	9	14	13	7
-TCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-TAT	14	3	24	13	4	8	18	16	14	1	10	3	30	26	24	37	20	18	11	8	16	29	8	10
-TAC	1	0	1	0	0	2	3	5	1	0	1	0	3	3	2	2	2	0	1	0	1	2	1	0
-TGT	3	0	0	3	1	1	3	2	1	0	4	0	4	5	3	4	2	6	5	1	6	3	2	1
-TGC	0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGA	9	1	3	1	1	2	2	15	6	0	6	0	7	10	6	4	7	2	1	1	3	2	1	3
-TGG	0	0	0	0	3	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	1	0	3	3	2	2	2	3	3	1	1	2	2	4	1	3	4	2	2	2	6	5	0	2
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
-CTA	0	0	0	1	3	1	1	4	4	0	0	1	1	1	2	2	0	1	3	0	1	1	1	2
-CTG	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0
-CCT	4	1	1	4	4	1	2	17	4	1	2	0	13	5	2	6	16	2	4	1	11	10	3	1
-CCC	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
-CCA	4	2	1	0	0	1	2	10	0	0	11	0	6	2	4	6	5	4	6	1	2	1	3	1
-CCG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0
-CAT	13	0	4	0	1	1	9	13	6	0	7	0	10	11	3	6	9	2	4	2	1	3	5	1
-CAC	1	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	1	1	0
-CAA	6	2	3	0	1	3	3	11	13	2	11	1	15	21	7	10	9	5	4	4	6	9	7	3
-CAG	0	0	0	0	1	1	1	0	2	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
-CGT	1	0	1	0	0	0	0	2	4	0	0	0	0	0	1	0	1	1	2	0	0	0	2	0
-CGC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	2	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-ATT	4	1	14	11	13	16	13	23	19	2	7	3	31	24	19	33	18	8	7	2	22	24	12	14
-ATC	1	0	1	1	1	2	0	1	0	2	0	0	2	3	3	2	0	1	1	0	1	1	2	1
-ATA	17	3	26	6	3	9	17	17	15	3	24	16	49	41	29	53	23	19	10	10	23	45	22	20
-ATG	4	1	3	2	1	3	5	17	4	1	10	3	20	14	6	13	12	3	10	3	6	11	6	7
-ACT	4	0	8	3	0	6	4	8	13	0	4	2	20	13	4	14	10	10	5	1	8	13	3	4
-ACC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-ACA	13	1	5	3	0	6	5	19	9	4	12	1	18	12	5	15	8	7	4	4	8	11	10	6
-ACG	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	11	3	42	24	13	27	27	20	31	0	10	4	34	41	35	45	18	27	10	9	16	13	14	17
-AAC	0	0	2	0	0	1	0	2	3	1	1	0	1	4	2	0	3	4	1	0	0	1	1	0
-AAA	1	2	66	23	5	8	29	8	34	1	8	2	21	43	35	19	9	36	16	5	6	13	8	5
-AAG	0	0	3	1	0	1	1	0	0	0	0	0	0	3	4	0	1	3	5	0	0	0	1	0
-AGT	7	2	10	4	5	6	5	23	7	0	5	2	21	14	9	20	9	6	4	5	10	17	10	8
-AGC	0	0	1	0	0	1	0	0	2	1	2	0	1	1	2	0	1	1	0	0	0	0	0	0
-AGA	4	1	13	1	0	0	9	9	7	2	7	3	8	10	11	7	9	12	4	1	8	9	1	2
-AGG	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
-GTT	4	1	3	2	5	5	4	21	7	4	3	2	18	10	4	11	17	5	2	3	12	10	3	3
-GTC	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0
-GTA	12	4	11	1	1	6	7	16	4	0	10	1	16	15	6	5	8	5	5	4	11	14	7	11
-GTG	2	1	1	0	1	1	0	0	2	0	0	0	0	0	1	2	0	0	0	0	1	0	1	0
-GCT	4	0	2	2	3	6	4	32	9	7	4	4	20	11	7	10	24	6	8	3	19	16	4	4
-GCC	1	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	0	1	0	0	1	0	0	0
-GCA	6	0	1	0	0	1	1	7	3	2	5	2	9	6	3	3	2	4	5	2	6	9	3	1
-GCG	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0
-GAT	6	0	5	6	4	3	20	14	11	0	13	1	16	15	16	12	13	10	9	3	6	12	4	4
-GAC	0	0	1	0	0	0	4	0	1	0	0	1	0	0	0	0	0	2	1	0	0	0	0	0
-GAA	5	0	13	11	4	1	11	5	9	2	14	3	11	12	12	8	7	19	21	4	10	11	6	3
-GAG	1	0	1	4	0	1	2	1	1	0	0	0	2	4	1	1	1	2	3	0	1	0	0	0
-GGT	18	0	9	3	2	5	3	45	10	9	10	4	40	27	3	24	22	6	5	5	19	28	13	8
-GGC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GGA	6	0	3	1	0	4	4	3	7	3	3	2	8	8	11	3	2	4	3	1	0	4	1	2
-GGG	0	0	0	0	0	2	1	0	1	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0
-TAA	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-TAG	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox3	YP_313618.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	17	7	38	0	3	0	15	0	14	1	3	0	9	0	1	0	0	0	4	1	4	0	13	1	6	0	1	0	0	0	4	1	17	4	4	0	13	0	11	0	1	0	7	0	4	0	4	0	12	2	4	1	6	0	6	0	5	1	18	0	6	0	1	0
+1	atp8	YP_313619.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	7	1	7	0	0	0	3	0	3	0	0	0	1	0	0	0	0	0	1	0	2	0	0	0	2	0	0	0	1	0	1	0	3	1	0	0	1	0	3	0	2	0	2	0	1	0	1	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+2	rps5	YP_313620.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	14	1	50	1	10	0	14	0	24	1	0	0	3	0	3	0	0	0	1	1	1	0	4	1	3	0	1	0	1	0	14	1	26	3	8	0	5	0	42	2	66	3	10	1	13	0	3	0	11	1	2	0	1	1	5	1	13	1	9	0	3	0	1	0
+3	orf1	YP_313621.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	13	1	15	0	3	0	0	0	13	0	3	0	1	0	3	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	11	1	6	2	3	0	3	0	24	0	23	1	4	0	1	0	2	0	1	0	2	0	0	0	6	0	11	4	3	0	1	0	0	1
+4	orf2	YP_313622.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	4	0	11	0	1	0	1	0	4	0	1	4	1	3	2	0	3	0	4	0	0	0	1	0	1	1	0	0	0	0	13	1	3	1	0	0	0	0	13	0	5	0	5	0	0	1	5	0	1	1	3	0	0	0	4	0	4	0	2	0	0	0	1	0
+5	orf3	YP_313623.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	15	2	16	0	8	0	3	0	8	2	1	0	2	0	2	0	1	0	1	0	1	0	1	0	3	1	0	0	0	0	16	2	9	3	6	0	6	0	27	1	8	1	6	1	0	0	5	0	6	1	6	0	1	0	3	0	1	1	5	0	4	2	1	0
+6	orf4	YP_313624.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	22	1	29	1	5	1	0	0	18	3	3	0	2	0	2	0	1	0	2	0	2	0	9	0	3	1	0	0	0	0	13	0	17	5	4	0	5	0	27	0	29	1	5	0	9	0	4	0	7	0	4	0	1	0	20	4	11	2	3	0	4	1	1	0
+7	cox1	YP_313625.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	31	16	69	1	11	0	9	0	16	5	2	0	15	0	3	0	4	0	17	0	10	0	13	1	11	0	2	0	0	0	23	1	17	17	8	0	19	0	20	2	8	0	23	0	9	0	21	0	16	0	32	1	7	0	14	0	5	1	45	0	3	0	1	0
+8	COX1-i1	YP_313626.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	22	1	26	1	5	2	6	0	14	1	1	1	6	1	3	0	4	2	4	0	0	0	6	0	13	2	4	1	0	0	19	0	15	4	13	1	9	1	31	3	34	0	7	2	7	0	7	2	4	2	9	0	3	1	11	1	9	1	10	1	7	1	1	0
+9	atp9	YP_313627.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	2	2	7	0	0	0	3	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	2	2	3	1	0	0	4	0	0	1	1	0	0	1	2	0	4	0	0	0	7	0	2	0	0	0	2	0	9	0	3	0	0	1
+10	cox2	YP_313628.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	15	0	27	1	1	0	14	0	10	1	4	0	6	1	1	0	0	0	2	0	11	0	7	0	11	0	0	0	0	0	7	0	24	10	4	0	12	0	10	1	8	0	5	2	7	0	3	0	10	0	4	0	5	0	13	0	14	0	10	0	3	0	1	0
+11	nad4L	YP_313629.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	6	0	13	1	2	0	3	0	3	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	16	3	2	0	1	0	4	0	2	0	2	0	3	0	2	0	1	0	4	0	2	0	1	1	3	0	4	0	2	1	1	0
+12	nad5	YP_313630.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	54	8	94	0	17	0	21	0	30	3	4	0	7	0	2	0	1	0	13	0	6	0	10	0	15	0	0	0	0	0	31	2	49	20	20	0	18	0	34	1	21	0	21	1	8	0	18	0	16	0	20	1	9	1	16	0	11	2	40	0	8	0	1	0
+13	NAD5-i1	YP_313631.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	34	2	60	3	10	3	14	0	26	3	5	0	10	0	4	1	1	0	5	0	2	0	11	1	21	0	0	0	0	1	24	3	41	14	13	0	12	0	41	4	43	3	14	1	10	2	10	1	15	0	11	1	6	0	15	0	12	4	27	0	8	1	1	0
+14	NAD5-i2	YP_313632.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	15	1	37	3	9	1	6	1	24	2	3	0	6	0	1	1	2	0	2	1	4	0	3	1	7	1	1	0	0	0	19	3	29	6	4	1	5	0	35	2	35	4	9	2	11	0	4	0	6	1	7	1	3	0	16	0	12	1	3	0	11	2	1	0
+15	nad2	YP_313633.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	37	5	93	0	39	0	11	0	37	2	4	0	4	0	3	0	2	0	6	0	6	0	6	0	10	0	0	0	0	0	33	2	53	13	14	0	15	0	45	0	19	0	20	0	7	0	11	0	5	2	10	0	3	0	12	0	8	1	24	0	3	0	1	0
+16	cob	YP_313634.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	26	4	55	3	8	0	10	0	20	2	2	0	7	0	4	0	0	0	16	0	5	1	9	0	9	0	1	0	1	0	18	0	23	12	10	0	8	0	18	3	9	1	9	1	9	0	17	0	8	0	24	0	2	0	13	0	7	1	22	0	2	0	1	0
+17	COB-i1	YP_313635.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	9	0	24	1	3	1	5	0	18	0	6	0	2	0	2	0	1	1	2	0	4	0	2	0	5	0	1	0	1	0	8	1	19	3	10	0	7	0	27	4	36	3	6	1	12	0	5	0	5	0	6	1	4	0	10	2	19	2	6	0	4	0	1	0
+18	orf5	YP_313636.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	13	2	17	1	3	0	5	0	11	1	5	0	1	0	2	0	3	1	4	0	6	1	4	0	4	1	2	0	2	0	7	1	10	10	5	0	4	0	10	1	16	5	4	0	4	0	2	0	5	0	8	0	5	0	9	1	21	3	5	0	3	0	0	1
+19	nad3	YP_313637.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	19	0	21	1	4	0	2	0	8	0	1	0	1	0	2	0	0	0	1	0	1	1	2	0	4	0	0	0	0	0	2	0	10	3	1	0	4	0	9	0	5	0	5	0	1	0	3	0	4	0	3	0	2	1	3	0	4	0	5	0	1	0	1	0
+20	nad1	YP_313638.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	28	3	57	1	12	0	9	0	16	1	6	0	3	0	6	0	1	0	11	0	2	0	1	0	6	0	0	0	0	0	22	1	23	6	8	0	8	0	16	0	6	0	10	0	8	0	12	1	11	1	19	1	6	0	6	0	10	1	19	0	0	0	1	0
+21	nad4	YP_313639.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	42	4	76	1	19	1	14	0	29	2	3	0	2	0	5	0	1	0	10	0	1	1	3	1	9	0	0	0	0	0	24	1	45	11	13	0	11	0	13	1	13	0	17	0	9	0	10	1	14	0	16	0	9	0	12	0	11	0	28	0	4	0	1	0
+22	atp6	YP_313640.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	26	2	43	0	4	0	13	0	8	1	2	0	1	0	0	0	1	0	3	1	3	0	5	1	7	0	2	0	0	0	12	2	22	6	3	0	10	0	14	1	8	1	10	0	1	0	3	0	7	1	4	0	3	0	4	0	6	0	13	0	1	0	1	0
+23	nad6	YP_313641.1	Epidermophyton floccosum	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Onygenales, Arthrodermataceae, Epidermophyton	10	0	30	0	8	0	7	0	10	0	1	0	3	0	2	0	2	0	1	0	1	0	1	0	3	0	0	0	0	0	14	1	20	7	4	0	6	0	17	0	5	0	8	0	2	0	3	0	11	0	4	0	1	0	4	0	3	0	8	0	2	0	1	0

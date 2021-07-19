@@ -1,65 +1,10 @@
-	YP_009251325.1|ND2	YP_009251326.1|COX1	YP_009251327.1|COX2	YP_009251328.1|ATP8	YP_009251329.1|ATP6	YP_009251330.1|COX3	YP_009251331.1|ND3	YP_009251335.1|ND6	YP_009251336.1|CYTB
-TTT	5	7	4	0	3	3	2	1	7
-TTC	18	35	13	6	10	21	8	8	23
-TTA	7	11	2	1	9	11	1	6	5
-TTG	5	0	1	0	0	0	0	0	1
-TCT	2	2	2	0	0	2	2	1	1
-TCC	6	10	4	0	4	3	2	2	6
-TCA	15	15	8	2	8	6	7	8	12
-TCG	2	2	2	1	2	0	0	2	0
-TAT	2	3	1	0	2	1	0	0	0
-TAC	7	12	6	2	2	10	2	8	17
-TGT	0	0	1	0	2	0	0	0	1
-TGC	2	0	2	0	0	1	1	0	3
-TGA	8	11	6	3	5	10	2	2	12
-TGG	2	3	0	0	0	3	0	0	1
-CTT	5	3	4	0	6	3	0	1	6
-CTC	4	10	3	0	4	7	3	1	5
-CTA	16	29	12	3	18	10	9	19	29
-CTG	5	8	2	1	4	2	2	1	4
-CCT	1	6	2	1	1	0	0	2	0
-CCC	3	10	3	0	4	6	2	2	4
-CCA	3	8	7	2	5	5	2	2	15
-CCG	2	0	0	0	1	0	0	0	3
-CAT	1	5	0	0	0	5	0	0	1
-CAC	2	11	6	1	5	8	1	2	9
-CAA	10	8	5	1	3	8	2	2	8
-CAG	1	1	2	1	0	1	0	1	2
-CGT	0	1	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	1	0	0	0
-CGA	2	6	4	0	2	2	2	1	5
-CGG	0	2	3	0	1	1	0	0	1
-ATT	17	17	7	1	5	5	3	8	7
-ATC	21	25	11	1	18	16	16	7	23
-ATA	30	27	9	5	9	10	6	16	19
-ATG	5	6	3	0	5	2	0	1	2
-ACT	2	7	1	0	5	1	0	2	1
-ACC	10	5	3	4	3	10	4	3	9
-ACA	13	16	4	0	10	7	5	13	19
-ACG	3	7	3	1	0	0	0	3	1
-AAT	5	2	0	0	3	3	0	3	4
-AAC	14	19	11	4	12	3	2	5	16
-AAA	14	9	9	3	5	4	4	6	9
-AAG	0	0	0	0	1	0	1	0	3
-AGT	0	1	0	0	2	0	1	0	0
-AGC	3	2	1	2	0	2	0	1	0
-AGA	11	9	5	3	7	8	3	1	3
-AGG	1	1	0	0	1	1	2	0	0
-GTT	1	2	1	0	3	2	0	0	1
-GTC	6	4	3	0	1	4	0	3	2
-GTA	14	23	8	1	9	8	4	4	16
-GTG	2	4	1	0	1	2	0	0	4
-GCT	3	3	2	0	0	2	0	0	0
-GCC	5	6	4	0	5	5	2	4	8
-GCA	6	24	8	1	5	6	4	7	11
-GCG	0	2	1	0	0	1	0	0	1
-GAT	1	4	2	0	1	0	1	1	1
-GAC	0	13	8	0	0	4	2	1	8
-GAA	7	6	8	0	4	8	4	2	3
-GAG	0	2	1	0	0	0	0	0	1
-GGT	0	3	0	0	0	1	0	0	1
-GGC	0	4	1	0	2	0	0	1	5
-GGA	8	33	5	0	4	15	2	3	10
-GGG	2	5	1	0	2	2	1	1	8
-TAA	1	0	0	1	1	0	0	1	0
-TAG	0	1	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009251325.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	5	18	7	5	2	6	15	2	2	7	0	2	8	2	5	4	16	5	1	3	3	2	1	2	10	1	0	0	2	0	17	21	30	5	2	10	13	3	5	14	14	0	0	3	11	1	1	6	14	2	3	5	6	0	1	0	7	0	0	0	8	2	1	0
+1	COX1	YP_009251326.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	7	35	11	0	2	10	15	2	3	12	0	0	11	3	3	10	29	8	6	10	8	0	5	11	8	1	1	0	6	2	17	25	27	6	7	5	16	7	2	19	9	0	1	2	9	1	2	4	23	4	3	6	24	2	4	13	6	2	3	4	33	5	0	1
+2	COX2	YP_009251327.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	4	13	2	1	2	4	8	2	1	6	1	2	6	0	4	3	12	2	2	3	7	0	0	6	5	2	0	0	4	3	7	11	9	3	1	3	4	3	0	11	9	0	0	1	5	0	1	3	8	1	2	4	8	1	2	8	8	1	0	1	5	1	0	0
+3	ATP8	YP_009251328.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	0	6	1	0	0	0	2	1	0	2	0	0	3	0	0	0	3	1	1	0	2	0	0	1	1	1	0	0	0	0	1	1	5	0	0	4	0	1	0	4	3	0	0	2	3	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009251329.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	3	10	9	0	0	4	8	2	2	2	2	0	5	0	6	4	18	4	1	4	5	1	0	5	3	0	0	0	2	1	5	18	9	5	5	3	10	0	3	12	5	1	2	0	7	1	3	1	9	1	0	5	5	0	1	0	4	0	0	2	4	2	1	0
+5	COX3	YP_009251330.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	3	21	11	0	2	3	6	0	1	10	0	1	10	3	3	7	10	2	0	6	5	0	5	8	8	1	0	1	2	1	5	16	10	2	1	10	7	0	3	3	4	0	0	2	8	1	2	4	8	2	2	5	6	1	0	4	8	0	1	0	15	2	0	0
+6	ND3	YP_009251331.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	2	8	1	0	2	2	7	0	0	2	0	1	2	0	0	3	9	2	0	2	2	0	0	1	2	0	0	0	2	0	3	16	6	0	0	4	5	0	0	2	4	1	1	0	3	2	0	0	4	0	0	2	4	0	1	2	4	0	0	0	2	1	0	1
+7	ND6	YP_009251335.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	1	8	6	0	1	2	8	2	0	8	0	0	2	0	1	1	19	1	2	2	2	0	0	2	2	1	0	0	1	0	8	7	16	1	2	3	13	3	3	5	6	0	0	1	1	0	0	3	4	0	0	4	7	0	1	1	2	0	0	1	3	1	1	0
+8	CYTB	YP_009251336.1	Pyrearinus termitilluminans	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Elateriformia, Elateroidea, Elateridae, Agrypninae, Pyrearinus	7	23	5	1	1	6	12	0	0	17	1	3	12	1	6	5	29	4	0	4	15	3	1	9	8	2	0	0	5	1	7	23	19	2	1	9	19	1	4	16	9	3	0	0	3	0	1	2	16	4	0	8	11	1	1	8	3	1	1	5	10	8	0	1

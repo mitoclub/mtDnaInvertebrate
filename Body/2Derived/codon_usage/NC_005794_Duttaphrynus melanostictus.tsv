@@ -1,65 +1,13 @@
-	YP_001604411.1|ND1	YP_001604412.1|ND2	YP_001604413.1|COX1	YP_001604414.1|COX2	YP_001604415.1|ATP8	YP_001604416.1|ATP6	YP_001604417.1|COX3	YP_001604418.1|ND3	YP_001604419.1|ND4L	YP_001604420.1|ND4	YP_001604421.1|ND5	YP_001604423.1|CYTB
-TTT	10	7	25	7	3	10	20	6	5	20	24	18
-TTC	7	9	17	2	0	6	6	3	0	9	16	18
-TTA	12	11	8	7	1	8	9	2	4	20	22	9
-TTG	4	2	2	1	0	3	0	3	1	6	3	0
-TCT	8	7	9	7	3	3	2	2	3	7	7	5
-TCC	8	8	4	2	0	2	2	1	2	10	10	7
-TCA	12	16	14	6	1	3	5	4	5	18	21	9
-TCG	1	0	2	0	0	1	0	0	0	0	3	2
-TAT	6	5	5	3	0	0	7	3	0	5	2	2
-TAC	4	3	12	5	2	3	4	1	1	6	12	11
-TGT	0	0	0	1	0	1	0	0	0	1	4	0
-TGC	2	0	0	1	0	0	2	1	3	3	3	3
-TGA	7	8	13	4	5	4	12	5	2	10	10	8
-TGG	1	2	4	1	0	1	1	0	0	3	1	2
-CTT	10	15	22	6	3	13	11	2	5	15	15	12
-CTC	17	12	11	3	1	11	6	8	5	15	20	14
-CTA	11	23	11	8	2	11	4	7	5	19	20	18
-CTG	6	6	9	2	0	4	0	3	4	10	7	6
-CCT	6	2	12	2	0	4	2	0	0	5	4	2
-CCC	5	9	7	2	1	3	4	4	1	7	9	4
-CCA	10	9	6	9	7	7	5	5	1	9	14	14
-CCG	0	0	2	0	2	1	0	1	0	1	1	2
-CAT	0	0	5	4	0	1	4	0	0	2	1	4
-CAC	2	6	14	3	0	2	10	0	3	7	12	7
-CAA	3	9	4	7	0	6	6	2	1	10	14	3
-CAG	4	2	3	0	1	2	3	0	0	2	2	4
-CGT	0	0	1	2	0	1	2	0	0	0	1	0
-CGC	1	1	2	1	0	1	1	0	0	1	2	3
-CGA	6	0	5	3	0	2	1	0	1	9	7	6
-CGG	1	2	0	0	0	1	1	2	1	1	0	0
-ATT	12	22	27	16	3	10	11	4	4	19	43	16
-ATC	16	12	13	4	0	9	5	4	2	19	24	15
-ATA	10	16	17	5	1	6	8	2	5	16	14	8
-ATG	4	1	10	6	1	1	1	1	4	10	9	4
-ACT	9	6	11	5	0	6	6	2	1	7	12	1
-ACC	9	14	15	4	2	13	5	4	3	15	17	11
-ACA	5	15	14	6	1	7	9	1	2	14	20	10
-ACG	0	2	1	1	0	1	1	0	0	3	2	0
-AAT	2	5	8	4	1	5	0	0	1	3	8	2
-AAC	10	7	8	5	3	5	4	0	3	9	21	20
-AAA	7	9	7	4	4	3	2	1	1	8	19	8
-AAG	0	2	1	1	0	0	0	0	0	3	4	1
-AGT	1	1	1	2	0	0	0	1	0	3	3	0
-AGC	0	5	5	4	0	3	4	1	2	2	9	0
-GTT	5	1	11	6	0	5	7	2	0	6	4	3
-GTC	4	2	10	7	0	3	5	1	1	8	6	3
-GTA	7	3	10	3	1	4	4	3	0	4	11	12
-GTG	0	0	6	1	0	2	0	0	0	1	4	0
-GCT	4	4	10	5	1	3	5	1	1	9	9	10
-GCC	11	16	12	3	1	7	8	4	3	21	20	16
-GCA	9	6	15	6	0	4	11	2	3	6	18	5
-GCG	2	1	3	0	0	1	1	0	0	2	2	3
-GAT	2	0	4	4	0	0	2	0	0	2	3	0
-GAC	2	0	11	8	2	0	2	3	1	2	11	9
-GAA	6	4	4	5	0	3	7	6	2	10	7	4
-GAG	4	2	5	6	0	1	2	0	1	2	3	1
-GGT	3	2	8	1	1	0	2	0	0	4	2	2
-GGC	4	5	9	2	0	4	7	3	5	6	10	9
-GGA	5	5	8	5	0	4	8	0	0	7	8	7
-GGG	3	2	20	1	0	2	4	2	1	2	6	8
-TAA	0	0	1	0	1	1	0	0	1	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001604411.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	10	7	12	4	8	8	12	1	6	4	0	2	7	1	10	17	11	6	6	5	10	0	0	2	3	4	0	1	6	1	12	16	10	4	9	9	5	0	2	10	7	0	1	0	5	4	7	0	4	11	9	2	2	2	6	4	3	4	5	3	0	0	0	0
+1	ND2	YP_001604412.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	7	9	11	2	7	8	16	0	5	3	0	0	8	2	15	12	23	6	2	9	9	0	0	6	9	2	0	1	0	2	22	12	16	1	6	14	15	2	5	7	9	2	1	5	1	2	3	0	4	16	6	1	0	0	4	2	2	5	5	2	0	0	0	0
+2	COX1	YP_001604413.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	25	17	8	2	9	4	14	2	5	12	0	0	13	4	22	11	11	9	12	7	6	2	5	14	4	3	1	2	5	0	27	13	17	10	11	15	14	1	8	8	7	1	1	5	11	10	10	6	10	12	15	3	4	11	4	5	8	9	8	20	1	0	0	0
+3	COX2	YP_001604414.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	7	2	7	1	7	2	6	0	3	5	1	1	4	1	6	3	8	2	2	2	9	0	4	3	7	0	2	1	3	0	16	4	5	6	5	4	6	1	4	5	4	1	2	4	6	7	3	1	5	3	6	0	4	8	5	6	1	2	5	1	0	0	0	0
+4	ATP8	YP_001604415.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	3	0	1	0	3	0	1	0	0	2	0	0	5	0	3	1	2	0	0	1	7	2	0	0	0	1	0	0	0	0	3	0	1	1	0	2	1	0	1	3	4	0	0	0	0	0	1	0	1	1	0	0	0	2	0	0	1	0	0	0	1	0	0	0
+5	ATP6	YP_001604416.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	10	6	8	3	3	2	3	1	0	3	1	0	4	1	13	11	11	4	4	3	7	1	1	2	6	2	1	1	2	1	10	9	6	1	6	13	7	1	5	5	3	0	0	3	5	3	4	2	3	7	4	1	0	0	3	1	0	4	4	2	1	0	0	0
+6	COX3	YP_001604417.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	20	6	9	0	2	2	5	0	7	4	0	2	12	1	11	6	4	0	2	4	5	0	4	10	6	3	2	1	1	1	11	5	8	1	6	5	9	1	0	4	2	0	0	4	7	5	4	0	5	8	11	1	2	2	7	2	2	7	8	4	0	0	0	0
+7	ND3	YP_001604418.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	6	3	2	3	2	1	4	0	3	1	0	1	5	0	2	8	7	3	0	4	5	1	0	0	2	0	0	0	0	2	4	4	2	1	2	4	1	0	0	0	1	0	1	1	2	1	3	0	1	4	2	0	0	3	6	0	0	3	0	2	0	0	0	0
+8	ND4L	YP_001604419.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	5	0	4	1	3	2	5	0	0	1	0	3	2	0	5	5	5	4	0	1	1	0	0	3	1	0	0	0	1	1	4	2	5	4	1	3	2	0	1	3	1	0	0	2	0	1	0	0	1	3	3	0	0	1	2	1	0	5	0	1	1	0	0	0
+9	ND4	YP_001604420.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	20	9	20	6	7	10	18	0	5	6	1	3	10	3	15	15	19	10	5	7	9	1	2	7	10	2	0	1	9	1	19	19	16	10	7	15	14	3	3	9	8	3	3	2	6	8	4	1	9	21	6	2	2	2	10	2	4	6	7	2	1	0	0	0
+10	ND5	YP_001604421.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	24	16	22	3	7	10	21	3	2	12	4	3	10	1	15	20	20	7	4	9	14	1	1	12	14	2	1	2	7	0	43	24	14	9	12	17	20	2	8	21	19	4	3	9	4	6	11	4	9	20	18	2	3	11	7	3	2	10	8	6	0	0	0	0
+11	CYTB	YP_001604423.1	Duttaphrynus melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Hyloidea, Bufonidae, Duttaphrynus	18	18	9	0	5	7	9	2	2	11	0	3	8	2	12	14	18	6	2	4	14	2	4	7	3	4	0	3	6	0	16	15	8	4	1	11	10	0	2	20	8	1	0	0	3	3	12	0	10	16	5	3	0	9	4	1	2	9	7	8	0	0	1	0

@@ -1,65 +1,10 @@
-	YP_009261953.1|ND2	YP_009261954.1|COX1	YP_009261955.1|COX2	YP_009261956.1|ATP8	YP_009261957.1|ATP6	YP_009261958.1|COX3	YP_009261959.1|ND3	YP_009261963.1|ND6	YP_009261964.1|CYTB
-TTT	31	33	10	4	18	21	6	22	27
-TTC	3	3	2	1	2	4	3	2	5
-TTA	42	43	16	7	22	18	15	20	30
-TTG	6	2	0	0	2	1	0	1	0
-TCT	10	16	3	4	7	3	8	3	4
-TCC	2	4	1	0	1	1	0	3	6
-TCA	13	9	7	1	7	8	5	4	3
-TCG	1	1	0	0	0	0	0	0	1
-TAT	10	10	7	1	5	10	2	5	15
-TAC	4	8	3	0	1	2	1	1	3
-TGT	1	0	2	0	1	1	2	0	3
-TGC	2	0	0	0	0	0	0	1	0
-TGA	11	12	6	3	5	11	3	1	13
-TGG	0	3	0	0	0	2	0	0	0
-CTT	8	11	7	0	7	6	3	7	16
-CTC	3	2	1	0	1	1	1	1	1
-CTA	6	8	7	0	8	7	1	3	9
-CTG	0	0	0	0	0	0	0	1	0
-CCT	2	7	6	0	1	3	0	2	8
-CCC	5	9	3	1	5	3	0	2	7
-CCA	4	8	3	4	4	3	4	1	6
-CCG	0	1	0	0	0	0	0	0	1
-CAT	3	11	4	0	5	9	1	0	6
-CAC	1	7	1	0	3	8	0	1	6
-CAA	6	9	7	3	3	7	0	5	8
-CAG	0	0	0	0	1	0	1	0	0
-CGT	0	0	2	0	1	1	0	0	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	9	5	0	2	3	3	1	8
-CGG	0	0	0	0	0	0	0	0	0
-ATT	30	41	23	6	21	16	16	23	31
-ATC	9	7	1	1	2	3	3	1	8
-ATA	23	26	10	1	9	7	10	10	15
-ATG	2	2	1	0	1	1	0	1	1
-ACT	7	16	6	1	6	6	2	4	9
-ACC	5	3	3	0	3	4	0	3	5
-ACA	1	15	7	2	5	13	2	8	9
-ACG	0	0	0	0	0	0	0	0	0
-AAT	23	14	8	5	13	7	2	11	20
-AAC	6	3	4	2	2	0	2	5	2
-AAA	10	5	4	4	2	1	4	5	7
-AAG	1	1	0	0	1	0	0	0	0
-AGT	2	8	3	0	4	3	0	1	1
-AGC	0	0	3	0	1	2	0	1	0
-AGA	4	2	1	0	3	2	0	0	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	8	3	0	3	7	0	1	5
-GTC	2	2	1	0	2	4	0	0	3
-GTA	4	24	9	0	4	5	2	2	11
-GTG	1	0	0	0	1	1	0	0	1
-GCT	3	17	4	0	4	6	2	1	10
-GCC	3	4	3	1	5	4	2	0	6
-GCA	5	16	3	0	2	5	1	1	9
-GCG	0	1	0	0	1	2	0	0	1
-GAT	0	10	9	0	1	2	2	1	5
-GAC	1	5	1	0	0	2	1	0	5
-GAA	8	8	9	1	4	7	4	3	2
-GAG	0	1	0	0	0	0	0	1	0
-GGT	1	5	2	0	1	1	2	1	2
-GGC	1	3	0	0	4	1	0	1	1
-GGA	7	27	7	0	5	10	1	1	19
-GGG	5	11	0	0	3	7	1	2	2
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	1	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009261953.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	31	3	42	6	10	2	13	1	10	4	1	2	11	0	8	3	6	0	2	5	4	0	3	1	6	0	0	0	2	0	30	9	23	2	7	5	1	0	23	6	10	1	2	0	4	0	3	2	4	1	3	3	5	0	0	1	8	0	1	1	7	5	1	0
+1	COX1	YP_009261954.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	33	3	43	2	16	4	9	1	10	8	0	0	12	3	11	2	8	0	7	9	8	1	11	7	9	0	0	0	9	0	41	7	26	2	16	3	15	0	14	3	5	1	8	0	2	0	8	2	24	0	17	4	16	1	10	5	8	1	5	3	27	11	0	1
+2	COX2	YP_009261955.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	10	2	16	0	3	1	7	0	7	3	2	0	6	0	7	1	7	0	6	3	3	0	4	1	7	0	2	0	5	0	23	1	10	1	6	3	7	0	8	4	4	0	3	3	1	0	3	1	9	0	4	3	3	0	9	1	9	0	2	0	7	0	0	0
+3	ATP8	YP_009261956.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	4	1	7	0	4	0	1	0	1	0	0	0	3	0	0	0	0	0	0	1	4	0	0	0	3	0	0	0	0	0	6	1	1	0	1	0	2	0	5	2	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009261957.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	18	2	22	2	7	1	7	0	5	1	1	0	5	0	7	1	8	0	1	5	4	0	5	3	3	1	1	0	2	0	21	2	9	1	6	3	5	0	13	2	2	1	4	1	3	0	3	2	4	1	4	5	2	1	1	0	4	0	1	4	5	3	1	0
+5	COX3	YP_009261958.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	21	4	18	1	3	1	8	0	10	2	1	0	11	2	6	1	7	0	3	3	3	0	9	8	7	0	1	0	3	0	16	3	7	1	6	4	13	0	7	0	1	0	3	2	2	0	7	4	5	1	6	4	5	2	2	2	7	0	1	1	10	7	1	0
+6	ND3	YP_009261959.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	6	3	15	0	8	0	5	0	2	1	2	0	3	0	3	1	1	0	0	0	4	0	1	0	0	1	0	0	3	0	16	3	10	0	2	0	2	0	2	2	4	0	0	0	0	0	0	0	2	0	2	2	1	0	2	1	4	0	2	0	1	1	0	1
+7	ND6	YP_009261963.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	22	2	20	1	3	3	4	0	5	1	0	1	1	0	7	1	3	1	2	2	1	0	0	1	5	0	0	0	1	0	23	1	10	1	4	3	8	0	11	5	5	0	1	1	0	0	1	0	2	0	1	0	1	0	1	0	3	1	1	1	1	2	1	0
+8	CYTB	YP_009261964.1	Tipula cockerelliana	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Nematocera, Tipuloidea, Tipulidae, Tipula	27	5	30	0	4	6	3	1	15	3	3	0	13	0	16	1	9	0	8	7	6	1	6	6	8	0	0	0	8	0	31	8	15	1	9	5	9	0	20	2	7	0	1	0	2	0	5	3	11	1	10	6	9	1	5	5	2	0	2	1	19	2	0	1

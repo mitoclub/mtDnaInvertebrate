@@ -1,65 +1,11 @@
-	YP_009228217.1|ND1	YP_009228218.1|ND2	YP_009228219.1|COX1	YP_009228220.1|COX2	YP_009228221.1|ATP8	YP_009228222.1|ATP6	YP_009228223.1|COX3	YP_009228224.1|ND3	YP_009228226.1|ND4	YP_009228227.1|ND5
-TTT	9	6	24	6	2	9	10	5	8	24
-TTC	6	3	19	3	1	5	13	4	8	19
-TTA	8	11	9	5	1	6	2	8	19	9
-TTG	0	6	4	1	0	0	0	0	4	9
-TCT	6	5	7	3	0	2	1	1	7	9
-TCC	3	6	6	5	0	2	5	3	4	7
-TCA	11	3	10	5	1	0	5	1	9	8
-TCG	2	5	3	0	0	0	0	0	1	6
-TAT	10	6	10	3	0	1	4	0	6	7
-TAC	9	2	8	6	0	2	7	2	8	3
-TGT	0	0	0	1	0	0	0	0	4	1
-TGC	1	1	1	1	0	0	2	1	2	4
-TGA	7	4	13	5	5	2	8	4	13	4
-TGG	2	7	4	0	0	3	4	1	7	10
-CTT	5	12	25	9	0	12	6	6	20	32
-CTC	7	9	4	0	2	9	6	3	7	11
-CTA	29	7	10	8	1	17	14	7	18	20
-CTG	6	23	9	5	0	4	5	2	18	10
-CCT	4	4	6	1	4	1	1	0	5	0
-CCC	11	7	8	4	4	5	6	4	6	13
-CCA	10	3	8	6	1	11	5	4	14	13
-CCG	2	5	6	3	0	1	1	0	4	2
-CAT	1	1	6	4	1	1	2	0	3	3
-CAC	3	5	12	6	1	2	14	1	10	11
-CAA	8	7	5	6	1	5	8	0	9	8
-CAG	1	6	2	2	0	3	1	3	3	8
-CGT	2	1	3	2	0	2	3	0	1	1
-CGC	0	0	2	1	0	0	1	0	2	2
-CGA	4	1	2	3	0	4	0	1	3	2
-CGG	3	3	2	0	0	0	1	1	5	5
-ATT	13	17	29	11	4	13	9	7	23	36
-ATC	6	5	7	6	2	6	7	2	15	12
-ATA	7	7	10	11	0	7	5	3	15	15
-ATG	3	10	14	1	2	3	3	1	12	20
-ACT	6	7	5	3	1	5	4	1	5	8
-ACC	6	13	5	3	1	5	4	4	15	18
-ACA	7	10	17	3	1	12	14	2	17	14
-ACG	1	5	8	1	1	1	1	0	3	12
-AAT	5	6	10	2	2	5	0	0	4	9
-AAC	8	4	6	3	2	5	1	3	5	20
-AAA	6	4	6	4	2	1	2	1	7	13
-AAG	2	4	1	0	1	0	0	0	3	9
-AGT	0	2	1	1	0	0	0	0	2	6
-AGC	4	5	3	3	1	4	2	0	5	9
-GTT	3	7	11	5	0	4	3	2	7	18
-GTC	6	4	7	4	0	2	3	0	4	3
-GTA	10	4	18	11	0	9	6	1	9	10
-GTG	1	2	9	3	1	1	3	1	3	6
-GCT	3	7	12	6	2	4	7	0	7	15
-GCC	14	18	20	5	1	9	6	4	12	25
-GCA	12	16	12	4	0	7	9	5	14	12
-GCG	0	5	4	1	0	0	0	0	2	3
-GAT	1	1	8	4	1	0	1	2	1	7
-GAC	3	2	8	8	0	1	4	2	3	8
-GAA	3	2	4	12	4	4	8	3	4	3
-GAG	6	3	7	3	0	0	2	3	7	8
-GGT	2	4	14	3	0	3	6	0	4	4
-GGC	3	3	8	2	0	2	6	1	7	8
-GGA	9	3	6	3	0	4	9	4	4	11
-GGG	3	9	18	0	0	1	1	2	13	8
-TAA	1	1	1	0	1	1	0	0	0	0
-TAG	0	0	0	0	0	0	0	0	1	1
-AGA	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009228217.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	9	6	8	0	6	3	11	2	10	9	0	1	7	2	5	7	29	6	4	11	10	2	1	3	8	1	2	0	4	3	13	6	7	3	6	6	7	1	5	8	6	2	0	4	3	6	10	1	3	14	12	0	1	3	3	6	2	3	9	3	1	0	0	0
+1	ND2	YP_009228218.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	6	3	11	6	5	6	3	5	6	2	0	1	4	7	12	9	7	23	4	7	3	5	1	5	7	6	1	0	1	3	17	5	7	10	7	13	10	5	6	4	4	4	2	5	7	4	4	2	7	18	16	5	1	2	2	3	4	3	3	9	1	0	0	0
+2	COX1	YP_009228219.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	24	19	9	4	7	6	10	3	10	8	0	1	13	4	25	4	10	9	6	8	8	6	6	12	5	2	3	2	2	2	29	7	10	14	5	5	17	8	10	6	6	1	1	3	11	7	18	9	12	20	12	4	8	8	4	7	14	8	6	18	1	0	0	0
+3	COX2	YP_009228220.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	6	3	5	1	3	5	5	0	3	6	1	1	5	0	9	0	8	5	1	4	6	3	4	6	6	2	2	1	3	0	11	6	11	1	3	3	3	1	2	3	4	0	1	3	5	4	11	3	6	5	4	1	4	8	12	3	3	2	3	0	0	0	0	0
+4	ATP8	YP_009228221.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	2	1	1	0	0	0	1	0	0	0	0	0	5	0	0	2	1	0	4	4	1	0	1	1	1	0	0	0	0	0	4	2	0	2	1	1	1	1	2	2	2	1	0	1	0	0	0	1	2	1	0	0	1	0	4	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009228222.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	9	5	6	0	2	2	0	0	1	2	0	0	2	3	12	9	17	4	1	5	11	1	1	2	5	3	2	0	4	0	13	6	7	3	5	5	12	1	5	5	1	0	0	4	4	2	9	1	4	9	7	0	0	1	4	0	3	2	4	1	1	0	0	0
+6	COX3	YP_009228223.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	10	13	2	0	1	5	5	0	4	7	0	2	8	4	6	6	14	5	1	6	5	1	2	14	8	1	3	1	0	1	9	7	5	3	4	4	14	1	0	1	2	0	0	2	3	3	6	3	7	6	9	0	1	4	8	2	6	6	9	1	0	0	0	0
+7	ND3	YP_009228224.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	5	4	8	0	1	3	1	0	0	2	0	1	4	1	6	3	7	2	0	4	4	0	0	1	0	3	0	0	1	1	7	2	3	1	1	4	2	0	0	3	1	0	0	0	2	0	1	1	0	4	5	0	2	2	3	3	0	1	4	2	0	0	0	0
+8	ND4	YP_009228226.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	8	8	19	4	7	4	9	1	6	8	4	2	13	7	20	7	18	18	5	6	14	4	3	10	9	3	1	2	3	5	23	15	15	12	5	15	17	3	4	5	7	3	2	5	7	4	9	3	7	12	14	2	1	3	4	7	4	7	4	13	0	1	0	0
+9	ND5	YP_009228227.1	Gobiobotia filifer	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gobiobotia	24	19	9	9	9	7	8	6	7	3	1	4	4	10	32	11	20	10	0	13	13	2	3	11	8	8	1	2	2	5	36	12	15	20	8	18	14	12	9	20	13	9	6	9	18	3	10	6	15	25	12	3	7	8	3	8	4	8	11	8	0	1	0	0

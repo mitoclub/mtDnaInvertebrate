@@ -1,65 +1,12 @@
-	YP_009164613.1|ND1	YP_009164614.1|ND2	YP_009164615.1|COX1	YP_009164616.1|COX2	YP_009164617.1|ATP8	YP_009164618.1|ATP6	YP_009164619.1|COX3	YP_009164620.1|ND3	YP_009164621.1|ND4L	YP_009164623.1|ND5	YP_009164624.1|CYTB
-TTT	6	3	6	3	0	2	1	0	1	6	5
-TTC	11	11	34	6	4	4	22	8	4	26	25
-TTA	4	5	7	4	0	10	3	4	1	5	10
-TTG	1	1	1	1	0	0	0	0	0	1	0
-TCT	4	8	4	1	0	1	1	1	3	3	4
-TCC	13	7	11	9	3	2	6	4	4	18	10
-TCA	8	14	8	7	1	4	6	2	4	13	9
-TCG	0	1	0	0	1	0	0	0	0	0	0
-TAT	4	0	4	2	0	2	1	0	0	4	4
-TAC	11	6	12	5	0	2	9	2	1	11	9
-TGT	0	0	0	0	0	0	0	1	1	3	3
-TGC	0	1	1	3	0	0	1	0	3	2	1
-TGA	6	10	15	4	4	4	12	5	1	9	9
-TGG	3	0	2	1	1	0	0	0	0	2	2
-CTT	11	4	8	3	0	6	5	3	1	11	4
-CTC	21	17	11	9	2	19	7	6	5	21	13
-CTA	27	33	32	14	3	20	18	11	12	63	37
-CTG	2	2	5	2	0	5	3	1	1	5	2
-CCT	5	3	5	1	3	4	1	0	0	3	3
-CCC	11	12	8	5	5	6	7	3	1	12	14
-CCA	11	9	17	7	1	7	5	4	2	15	8
-CCG	1	0	1	1	0	1	0	0	0	1	0
-CAT	2	3	7	3	0	0	3	0	1	2	5
-CAC	1	5	13	5	1	3	13	1	2	10	8
-CAA	2	8	9	6	2	8	8	3	3	17	6
-CAG	3	1	1	1	0	0	1	0	1	2	1
-CGT	0	1	2	0	0	1	0	0	0	0	1
-CGC	2	1	1	3	0	2	0	0	1	2	1
-CGA	5	2	4	1	0	2	4	2	2	5	5
-CGG	1	0	1	1	0	0	0	0	0	1	1
-ATT	3	8	8	3	0	4	3	2	0	13	2
-ATC	15	27	29	15	4	14	11	6	3	32	30
-ATA	11	17	19	8	1	9	5	5	4	23	6
-ATG	3	1	4	3	1	1	2	0	2	7	2
-ACT	0	5	5	3	0	4	3	1	0	5	3
-ACC	13	23	16	7	3	11	10	7	1	38	15
-ACA	12	18	19	6	5	11	9	3	5	36	12
-ACG	0	4	2	1	0	0	0	0	1	3	0
-AAT	0	1	3	1	0	1	0	0	0	4	3
-AAC	12	9	13	3	4	8	4	2	3	19	19
-AAA	5	11	7	4	2	3	3	2	0	23	9
-AAG	2	2	2	0	1	1	0	0	0	2	1
-AGT	1	3	0	0	0	0	1	0	1	1	0
-AGC	6	4	3	3	1	3	3	1	3	13	3
-GTT	3	0	5	3	0	1	3	0	0	2	0
-GTC	5	1	12	6	0	4	5	2	1	4	4
-GTA	6	5	18	4	0	4	8	1	2	4	8
-GTG	0	0	3	1	0	1	0	0	0	2	1
-GCT	3	4	10	3	0	3	2	1	0	9	8
-GCC	12	10	20	9	0	11	7	7	5	27	12
-GCA	10	7	15	0	2	3	12	1	4	11	6
-GCG	1	0	0	0	0	1	0	0	0	2	0
-GAT	1	1	1	4	0	0	1	1	0	2	1
-GAC	3	0	14	10	0	1	4	2	1	5	5
-GAA	8	3	7	13	0	3	5	5	2	10	7
-GAG	3	2	3	1	0	1	3	1	1	2	0
-GGT	4	3	6	0	0	1	1	0	0	2	5
-GGC	2	4	11	2	0	4	4	0	2	10	7
-GGA	4	3	19	5	0	2	11	3	2	17	8
-GGG	2	2	11	1	0	2	4	2	0	3	2
-TAA	0	0	0	1	1	1	0	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009164613.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	6	11	4	1	4	13	8	0	4	11	0	0	6	3	11	21	27	2	5	11	11	1	2	1	2	3	0	2	5	1	3	15	11	3	0	13	12	0	0	12	5	2	1	6	3	5	6	0	3	12	10	1	1	3	8	3	4	2	4	2	0	0	0	1
+1	ND2	YP_009164614.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	3	11	5	1	8	7	14	1	0	6	0	1	10	0	4	17	33	2	3	12	9	0	3	5	8	1	1	1	2	0	8	27	17	1	5	23	18	4	1	9	11	2	3	4	0	1	5	0	4	10	7	0	1	0	3	2	3	4	3	2	0	0	0	0
+2	COX1	YP_009164615.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	6	34	7	1	4	11	8	0	4	12	0	1	15	2	8	11	32	5	5	8	17	1	7	13	9	1	2	1	4	1	8	29	19	4	5	16	19	2	3	13	7	2	0	3	5	12	18	3	10	20	15	0	1	14	7	3	6	11	19	11	0	0	0	1
+3	COX2	YP_009164616.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	3	6	4	1	1	9	7	0	2	5	0	3	4	1	3	9	14	2	1	5	7	1	3	5	6	1	0	3	1	1	3	15	8	3	3	7	6	1	1	3	4	0	0	3	3	6	4	1	3	9	0	0	4	10	13	1	0	2	5	1	1	0	0	0
+4	ATP8	YP_009164617.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	0	4	0	0	0	3	1	1	0	0	0	0	4	1	0	2	3	0	3	5	1	0	0	1	2	0	0	0	0	0	0	4	1	1	0	3	5	0	0	4	2	1	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009164618.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	2	4	10	0	1	2	4	0	2	2	0	0	4	0	6	19	20	5	4	6	7	1	0	3	8	0	1	2	2	0	4	14	9	1	4	11	11	0	1	8	3	1	0	3	1	4	4	1	3	11	3	1	0	1	3	1	1	4	2	2	1	0	0	0
+6	COX3	YP_009164619.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	1	22	3	0	1	6	6	0	1	9	0	1	12	0	5	7	18	3	1	7	5	0	3	13	8	1	0	0	4	0	3	11	5	2	3	10	9	0	0	4	3	0	1	3	3	5	8	0	2	7	12	0	1	4	5	3	1	4	11	4	0	0	0	0
+7	ND3	YP_009164620.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	0	8	4	0	1	4	2	0	0	2	1	0	5	0	3	6	11	1	0	3	4	0	0	1	3	0	0	0	2	0	2	6	5	0	1	7	3	0	0	2	2	0	0	1	0	2	1	0	1	7	1	0	1	2	5	1	0	0	3	2	0	0	0	0
+8	ND4L	YP_009164621.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	1	4	1	0	3	4	4	0	0	1	1	3	1	0	1	5	12	1	0	1	2	0	1	2	3	1	0	1	2	0	0	3	4	2	0	1	5	1	0	3	0	0	1	3	0	1	2	0	0	5	4	0	0	1	2	1	0	2	2	0	1	0	0	0
+9	ND5	YP_009164623.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	6	26	5	1	3	18	13	0	4	11	3	2	9	2	11	21	63	5	3	12	15	1	2	10	17	2	0	2	5	1	13	32	23	7	5	38	36	3	4	19	23	2	1	13	2	4	4	2	9	27	11	2	2	5	10	2	2	10	17	3	1	0	0	0
+10	CYTB	YP_009164624.1	Ara militaris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Ara	5	25	10	0	4	10	9	0	4	9	3	1	9	2	4	13	37	2	3	14	8	0	5	8	6	1	1	1	5	1	2	30	6	2	3	15	12	0	3	19	9	1	0	3	0	4	8	1	8	12	6	0	1	5	7	0	5	7	8	2	1	0	0	0

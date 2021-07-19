@@ -1,65 +1,12 @@
-	YP_009660492.1|rps3	YP_009660493.1|rpl16	YP_009660494.1|cox1	YP_009660495.1|cox2	YP_009660496.1|cox3	YP_009660497.1|ymf39	YP_009660498.1|cob	YP_009660513.1|secY	YP_009660514.1|rps12	YP_009660515.1|rpl20	YP_009660516.1|nad4L
-TTT	14	6	38	14	26	10	29	37	2	4	8
-TTC	6	1	8	4	7	2	0	5	1	0	0
-TTA	22	11	40	16	22	23	33	14	3	5	13
-TTG	2	1	4	0	4	3	4	6	1	2	1
-TCT	8	3	8	5	7	5	8	6	2	8	2
-TCC	2	1	4	1	2	0	0	1	0	0	2
-TCA	5	6	12	6	5	5	3	2	4	3	2
-TCG	0	1	0	0	0	1	1	0	2	1	0
-TAT	10	2	13	7	7	6	14	10	4	7	1
-TAC	3	3	10	3	2	4	12	9	3	1	2
-TGT	5	2	2	3	3	2	3	3	1	0	1
-TGC	1	0	1	1	0	0	0	0	0	1	0
-TGA	3	1	14	6	10	0	7	3	0	0	0
-TGG	0	0	1	2	2	0	3	0	0	1	0
-CTT	3	3	7	8	1	3	8	8	4	2	0
-CTC	1	1	3	0	0	2	1	0	0	0	0
-CTA	5	0	8	4	4	8	5	2	1	1	6
-CTG	1	1	0	0	1	0	2	0	0	0	0
-CCT	3	1	17	9	7	2	14	3	5	0	0
-CCC	1	0	2	1	1	0	0	1	1	0	0
-CCA	3	0	8	4	1	1	6	3	4	0	0
-CCG	0	0	2	0	0	0	2	0	0	0	0
-CAT	2	4	16	5	10	2	12	5	2	2	0
-CAC	2	1	2	3	3	0	2	1	1	0	0
-CAA	14	5	10	4	6	7	4	4	8	2	3
-CAG	1	0	1	2	4	2	2	2	0	1	0
-CGT	1	0	7	0	1	1	4	1	5	1	2
-CGC	0	0	0	1	1	0	0	0	0	0	0
-CGA	0	2	1	1	1	0	1	1	2	0	0
-CGG	0	0	0	0	0	0	0	0	0	1	0
-ATT	11	7	29	18	11	12	19	15	5	6	12
-ATC	1	1	4	2	0	2	4	2	1	0	2
-ATA	8	5	16	8	7	9	16	22	2	5	1
-ATG	2	3	23	9	8	2	11	6	3	2	6
-ACT	7	5	8	9	10	3	10	9	3	2	0
-ACC	1	1	2	1	3	1	2	2	1	2	1
-ACA	5	4	19	6	6	2	2	10	0	0	5
-ACG	2	2	4	2	0	0	1	3	1	1	0
-AAT	12	4	13	10	5	14	10	6	4	7	3
-AAC	7	2	7	5	0	4	4	2	4	4	2
-AAA	23	17	8	4	3	20	7	10	18	9	1
-AAG	2	4	0	1	0	2	2	1	1	1	1
-AGT	5	2	8	4	5	1	7	5	0	3	3
-AGC	0	1	3	0	0	0	2	0	0	0	1
-AGA	3	3	2	5	3	1	5	1	2	0	0
-AGG	1	1	0	0	1	0	0	1	1	0	0
-GTT	3	0	19	5	9	3	12	10	8	0	3
-GTC	0	1	2	1	1	1	2	0	1	0	0
-GTA	5	2	15	10	9	4	14	3	4	1	1
-GTG	0	1	3	0	3	0	4	1	0	0	1
-GCT	0	2	17	6	8	1	12	1	3	1	3
-GCC	0	0	2	1	1	1	1	0	0	0	0
-GCA	2	1	14	2	7	1	11	1	1	0	3
-GCG	0	0	7	3	2	0	1	0	0	0	0
-GAT	0	1	12	8	3	0	6	1	1	0	1
-GAC	1	0	2	4	2	0	2	1	2	0	1
-GAA	3	4	9	13	7	6	4	4	3	2	3
-GAG	0	1	0	3	1	1	4	3	0	1	0
-GGT	6	2	22	9	5	4	13	1	1	0	2
-GGC	0	1	4	1	5	1	3	0	0	0	1
-GGA	2	0	15	0	7	0	8	1	6	0	1
-GGG	1	3	4	1	2	0	1	1	1	0	0
-TAA	1	1	1	0	1	1	1	1	0	1	0
-TAG	0	0	0	1	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	rps3	YP_009660492.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	14	6	22	2	8	2	5	0	10	3	5	1	3	0	3	1	5	1	3	1	3	0	2	2	14	1	1	0	0	0	11	1	8	2	7	1	5	2	12	7	23	2	5	0	3	1	3	0	5	0	0	0	2	0	0	1	3	0	6	0	2	1	1	0
+1	rpl16	YP_009660493.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	6	1	11	1	3	1	6	1	2	3	2	0	1	0	3	1	0	1	1	0	0	0	4	1	5	0	0	0	2	0	7	1	5	3	5	1	4	2	4	2	17	4	2	1	3	1	0	1	2	1	2	0	1	0	1	0	4	1	2	1	0	3	1	0
+2	cox1	YP_009660494.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	38	8	40	4	8	4	12	0	13	10	2	1	14	1	7	3	8	0	17	2	8	2	16	2	10	1	7	0	1	0	29	4	16	23	8	2	19	4	13	7	8	0	8	3	2	0	19	2	15	3	17	2	14	7	12	2	9	0	22	4	15	4	1	0
+3	cox2	YP_009660495.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	14	4	16	0	5	1	6	0	7	3	3	1	6	2	8	0	4	0	9	1	4	0	5	3	4	2	0	1	1	0	18	2	8	9	9	1	6	2	10	5	4	1	4	0	5	0	5	1	10	0	6	1	2	3	8	4	13	3	9	1	0	1	0	1
+4	cox3	YP_009660496.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	26	7	22	4	7	2	5	0	7	2	3	0	10	2	1	0	4	1	7	1	1	0	10	3	6	4	1	1	1	0	11	0	7	8	10	3	6	0	5	0	3	0	5	0	3	1	9	1	9	3	8	1	7	2	3	2	7	1	5	5	7	2	1	0
+5	ymf39	YP_009660497.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	10	2	23	3	5	0	5	1	6	4	2	0	0	0	3	2	8	0	2	0	1	0	2	0	7	2	1	0	0	0	12	2	9	2	3	1	2	0	14	4	20	2	1	0	1	0	3	1	4	0	1	1	1	0	0	0	6	1	4	1	0	0	1	0
+6	cob	YP_009660498.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	29	0	33	4	8	0	3	1	14	12	3	0	7	3	8	1	5	2	14	0	6	2	12	2	4	2	4	0	1	0	19	4	16	11	10	2	2	1	10	4	7	2	7	2	5	0	12	2	14	4	12	1	11	1	6	2	4	4	13	3	8	1	1	0
+7	secY	YP_009660513.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	37	5	14	6	6	1	2	0	10	9	3	0	3	0	8	0	2	0	3	1	3	0	5	1	4	2	1	0	1	0	15	2	22	6	9	2	10	3	6	2	10	1	5	0	1	1	10	0	3	1	1	0	1	0	1	1	4	3	1	0	1	1	1	0
+8	rps12	YP_009660514.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	2	1	3	1	2	0	4	2	4	3	1	0	0	0	4	0	1	0	5	1	4	0	2	1	8	0	5	0	2	0	5	1	2	3	3	1	0	1	4	4	18	1	0	0	2	1	8	1	4	0	3	0	1	0	1	2	3	0	1	0	6	1	0	1
+9	rpl20	YP_009660515.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	4	0	5	2	8	0	3	1	7	1	0	1	0	1	2	0	1	0	0	0	0	0	2	0	2	1	1	0	0	1	6	0	5	2	2	2	0	1	7	4	9	1	3	0	0	0	0	0	1	0	1	0	0	0	0	0	2	1	0	0	0	0	1	0
+10	nad4L	YP_009660516.1	Corallina chilensis	Eukaryota, Rhodophyta, Florideophyceae, Corallinophycidae, Corallinales, Corallinaceae, Corallinoideae, Corallina	8	0	13	1	2	2	2	0	1	2	1	0	0	0	0	0	6	0	0	0	0	0	0	0	3	0	2	0	0	0	12	2	1	6	0	1	5	0	3	2	1	1	3	1	0	0	3	0	1	1	3	0	3	0	1	1	3	0	2	1	1	0	0	1

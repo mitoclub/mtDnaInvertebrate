@@ -1,65 +1,13 @@
-	YP_008815864.1|ND1	YP_008815865.1|ND2	YP_008815866.1|COX1	YP_008815867.1|COX2	YP_008815868.1|ATP8	YP_008815869.1|ATP6	YP_008815870.1|COX3	YP_008815871.1|ND3	YP_008815872.1|ND4L	YP_008815873.1|ND4	YP_008815874.1|ND5	YP_008815876.1|CYTB
-TTT	9	4	18	5	2	9	9	4	5	5	16	14
-TTC	8	6	22	4	1	3	14	5	3	11	23	16
-TTA	6	10	10	8	4	11	8	8	4	16	7	11
-TTG	1	3	0	0	1	1	0	0	0	3	2	1
-TCT	2	2	9	5	0	1	3	1	1	4	2	5
-TCC	5	7	4	6	2	0	2	3	3	8	10	5
-TCA	7	3	13	2	1	3	6	1	2	13	13	8
-TCG	4	4	1	0	0	1	0	0	0	0	3	2
-TAT	8	2	5	6	0	4	4	0	0	8	5	3
-TAC	4	6	14	3	0	1	8	2	0	6	6	11
-TGT	0	1	0	0	0	0	1	0	1	0	1	1
-TGC	0	0	1	2	0	0	1	1	2	5	4	2
-TGA	6	9	15	5	5	5	12	5	1	15	8	11
-TGG	2	2	2	0	0	0	0	0	0	5	5	2
-CTT	10	8	17	7	0	6	4	0	2	14	15	7
-CTC	9	4	10	1	0	9	6	6	3	17	19	8
-CTA	24	24	22	8	1	12	10	10	10	26	44	23
-CTG	11	15	5	4	0	7	3	2	3	11	8	11
-CCT	2	3	5	1	0	2	0	1	1	5	7	2
-CCC	11	6	9	3	2	3	5	1	1	6	6	5
-CCA	11	9	13	10	5	9	8	5	0	14	13	12
-CCG	0	1	1	0	0	3	0	1	0	2	2	2
-CAT	2	4	5	3	1	2	6	0	1	4	1	4
-CAC	3	2	14	7	1	1	10	1	3	8	12	7
-CAA	6	11	8	7	1	8	7	3	2	11	16	6
-CAG	1	3	0	1	0	0	2	0	1	3	4	0
-CGT	0	1	1	1	0	0	2	0	1	1	0	1
-CGC	1	0	1	2	0	0	0	2	1	1	1	1
-CGA	4	2	4	3	0	6	3	0	1	7	5	4
-CGG	3	1	2	0	0	0	0	0	0	2	4	2
-ATT	13	14	27	14	5	14	8	8	2	16	28	13
-ATC	11	12	12	4	1	8	9	2	0	22	24	16
-ATA	4	13	15	9	0	6	7	3	5	21	17	9
-ATG	5	3	9	3	1	4	2	1	1	8	16	3
-ACT	1	4	6	4	4	2	3	1	0	3	5	2
-ACC	7	22	8	4	1	3	5	4	5	14	23	12
-ACA	10	18	20	4	0	12	12	4	2	19	23	8
-ACG	0	3	2	0	0	2	2	0	1	4	8	3
-AAT	6	3	10	3	1	5	0	1	1	4	11	7
-AAC	6	4	5	3	1	5	1	2	1	7	19	10
-AAA	7	8	8	3	3	1	0	1	0	8	20	8
-AAG	0	1	0	1	0	0	2	0	0	1	2	1
-AGT	1	1	0	0	1	0	0	0	0	2	2	0
-AGC	3	8	5	3	0	4	3	0	3	6	8	1
-GTT	1	2	8	6	0	4	2	0	1	4	6	6
-GTC	4	5	7	3	0	2	3	1	0	2	7	8
-GTA	11	5	21	11	1	10	9	1	1	9	10	9
-GTG	6	3	6	0	1	2	1	1	0	2	6	3
-GCT	2	3	10	3	1	2	2	0	1	1	7	7
-GCC	19	14	19	4	0	9	12	3	5	19	27	9
-GCA	9	18	14	6	1	8	8	4	7	12	13	14
-GCG	5	4	2	2	0	1	0	0	0	3	5	1
-GAT	2	1	4	2	0	0	1	2	0	0	3	3
-GAC	2	3	10	10	1	1	4	2	1	3	11	8
-GAA	9	4	10	15	2	3	8	6	2	7	10	6
-GAG	2	1	1	0	1	2	2	0	1	4	2	1
-GGT	2	0	7	1	0	1	1	1	1	1	0	2
-GGC	1	4	3	1	1	1	4	1	2	6	9	7
-GGA	10	12	21	6	0	6	12	4	2	14	12	13
-GGG	5	2	15	1	0	2	4	1	1	7	11	3
-TAA	1	0	1	0	0	0	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008815864.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	9	8	6	1	2	5	7	4	8	4	0	0	6	2	10	9	24	11	2	11	11	0	2	3	6	1	0	1	4	3	13	11	4	5	1	7	10	0	6	6	7	0	1	3	1	4	11	6	2	19	9	5	2	2	9	2	2	1	10	5	1	0	0	0
+1	ND2	YP_008815865.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	4	6	10	3	2	7	3	4	2	6	1	0	9	2	8	4	24	15	3	6	9	1	4	2	11	3	1	0	2	1	14	12	13	3	4	22	18	3	3	4	8	1	1	8	2	5	5	3	3	14	18	4	1	3	4	1	0	4	12	2	0	0	0	0
+2	COX1	YP_008815866.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	18	22	10	0	9	4	13	1	5	14	0	1	15	2	17	10	22	5	5	9	13	1	5	14	8	0	1	1	4	2	27	12	15	9	6	8	20	2	10	5	8	0	0	5	8	7	21	6	10	19	14	2	4	10	10	1	7	3	21	15	1	0	0	0
+3	COX2	YP_008815867.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	5	4	8	0	5	6	2	0	6	3	0	2	5	0	7	1	8	4	1	3	10	0	3	7	7	1	1	2	3	0	14	4	9	3	4	4	4	0	3	3	3	1	0	3	6	3	11	0	3	4	6	2	2	10	15	0	1	1	6	1	0	0	0	0
+4	ATP8	YP_008815868.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	2	1	4	1	0	2	1	0	0	0	0	0	5	0	0	0	1	0	0	2	5	0	1	1	1	0	0	0	0	0	5	1	0	1	4	1	0	0	1	1	3	0	1	0	0	0	1	1	1	0	1	0	0	1	2	1	0	1	0	0	0	1	0	0
+5	ATP6	YP_008815869.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	9	3	11	1	1	0	3	1	4	1	0	0	5	0	6	9	12	7	2	3	9	3	2	1	8	0	0	0	6	0	14	8	6	4	2	3	12	2	5	5	1	0	0	4	4	2	10	2	2	9	8	1	0	1	3	2	1	1	6	2	0	0	0	0
+6	COX3	YP_008815870.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	9	14	8	0	3	2	6	0	4	8	1	1	12	0	4	6	10	3	0	5	8	0	6	10	7	2	2	0	3	0	8	9	7	2	3	5	12	2	0	1	0	2	0	3	2	3	9	1	2	12	8	0	1	4	8	2	1	4	12	4	0	0	0	0
+7	ND3	YP_008815871.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	4	5	8	0	1	3	1	0	0	2	0	1	5	0	0	6	10	2	1	1	5	1	0	1	3	0	0	2	0	0	8	2	3	1	1	4	4	0	1	2	1	0	0	0	0	1	1	1	0	3	4	0	2	2	6	0	1	1	4	1	0	0	0	0
+8	ND4L	YP_008815872.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	5	3	4	0	1	3	2	0	0	0	1	2	1	0	2	3	10	3	1	1	0	0	1	3	2	1	1	1	1	0	2	0	5	1	0	5	2	1	1	1	0	0	0	3	1	0	1	0	1	5	7	0	0	1	2	1	1	2	2	1	1	0	0	0
+9	ND4	YP_008815873.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	5	11	16	3	4	8	13	0	8	6	0	5	15	5	14	17	26	11	5	6	14	2	4	8	11	3	1	1	7	2	16	22	21	8	3	14	19	4	4	7	8	1	2	6	4	2	9	2	1	19	12	3	0	3	7	4	1	6	14	7	0	0	0	0
+10	ND5	YP_008815874.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	16	23	7	2	2	10	13	3	5	6	1	4	8	5	15	19	44	8	7	6	13	2	1	12	16	4	0	1	5	4	28	24	17	16	5	23	23	8	11	19	20	2	2	8	6	7	10	6	7	27	13	5	3	11	10	2	0	9	12	11	1	0	0	0
+11	CYTB	YP_008815876.1	Aspiorhynchus laticeps	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Aspiorhynchus	14	16	11	1	5	5	8	2	3	11	1	2	11	2	7	8	23	11	2	5	12	2	4	7	6	0	1	1	4	2	13	16	9	3	2	12	8	3	7	10	8	1	0	1	6	8	9	3	7	9	14	1	3	8	6	1	2	7	13	3	0	0	0	0

@@ -1,65 +1,11 @@
-	YP_254674.1|ND2	YP_254675.1|COX1	YP_254676.1|COX2	YP_254678.1|ND1	YP_254680.1|ND6	YP_254681.1|CYTB	YP_254682.1|ATP8	YP_254683.1|ATP6	YP_254684.1|COX3	YP_254686.1|ND3
-TTT	43	35	10	32	18	28	5	14	20	14
-TTC	6	13	7	8	4	5	2	7	7	4
-TTA	27	25	11	14	6	19	1	22	19	8
-TTG	4	4	2	5	2	6	0	4	2	2
-TCT	6	19	14	8	4	16	3	9	13	5
-TCC	6	5	3	2	2	5	2	3	7	0
-TCA	7	15	8	12	3	13	0	9	8	2
-TCG	0	2	0	2	0	0	0	4	1	0
-TAT	5	8	5	8	1	8	0	3	4	2
-TAC	1	3	0	0	0	1	1	0	1	1
-TGT	0	0	2	4	1	0	0	0	0	1
-TGC	1	0	1	0	0	0	0	0	2	0
-TGA	6	14	5	6	4	7	4	1	8	2
-TGG	1	2	0	3	0	3	0	0	2	1
-CTT	10	17	8	15	3	11	1	2	12	5
-CTC	4	2	1	6	0	3	0	0	2	0
-CTA	4	13	2	7	5	4	0	2	2	2
-CTG	1	0	1	0	0	0	0	3	0	0
-CCT	8	10	2	2	1	11	2	3	5	1
-CCC	2	2	2	2	1	2	0	0	1	1
-CCA	2	9	8	7	3	5	0	5	4	1
-CCG	0	2	0	0	0	2	0	0	0	0
-CAT	2	12	4	2	0	10	0	3	5	0
-CAC	2	6	1	1	0	0	0	0	5	0
-CAA	5	7	7	7	3	4	2	5	5	2
-CAG	1	0	1	0	0	0	0	0	0	1
-CGT	0	1	3	1	0	1	0	2	0	0
-CGC	0	0	0	0	0	0	0	0	0	0
-CGA	0	6	1	4	0	4	0	0	0	0
-CGG	1	2	0	2	0	1	0	0	0	0
-ATT	30	37	25	30	17	34	8	19	17	8
-ATC	5	5	3	2	3	6	0	4	4	1
-ATA	13	23	7	12	16	16	2	7	4	2
-ATG	0	3	2	2	2	6	0	1	4	1
-ACT	8	16	3	9	0	8	0	7	5	2
-ACC	0	4	1	0	1	1	0	1	0	1
-ACA	3	8	1	6	3	3	1	3	3	0
-ACG	0	3	0	0	0	0	0	0	0	0
-AAT	6	15	5	7	7	11	4	6	4	2
-AAC	0	3	2	1	0	0	1	3	0	1
-AAA	15	7	8	9	7	14	5	12	12	5
-AAG	3	2	0	1	1	1	1	1	1	0
-AGT	3	6	1	1	0	4	0	1	2	1
-AGC	0	0	0	2	0	0	0	0	0	0
-AGA	12	8	7	5	4	5	1	5	7	4
-AGG	1	0	0	1	0	0	0	0	0	1
-GTT	8	20	1	3	5	9	0	10	8	2
-GTC	2	3	0	2	0	1	0	1	2	0
-GTA	4	8	3	3	3	4	0	2	5	0
-GTG	2	2	0	2	0	1	0	1	1	0
-GCT	2	18	4	3	1	6	0	2	4	1
-GCC	1	7	3	1	0	3	0	0	3	1
-GCA	0	12	2	3	0	10	1	4	5	0
-GCG	1	0	0	0	0	0	0	0	0	0
-GAT	1	8	6	3	2	7	0	1	3	2
-GAC	0	5	1	0	0	3	0	0	2	0
-GAA	6	6	9	8	3	4	1	6	9	5
-GAG	3	1	2	4	1	2	0	1	1	1
-GGT	3	5	1	0	0	5	0	2	4	1
-GGC	0	0	1	0	0	0	1	1	0	0
-GGA	6	36	9	12	4	16	0	4	11	4
-GGG	1	5	0	1	1	3	0	1	3	0
-TAA	1	1	0	0	1	1	1	1	0	0
-TAG	0	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_254674.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	43	6	27	4	6	6	7	0	5	1	0	1	6	1	10	4	4	1	8	2	2	0	2	2	5	1	0	0	0	1	30	5	13	0	8	0	3	0	6	0	15	3	3	0	12	1	8	2	4	2	2	1	0	1	1	0	6	3	3	0	6	1	1	0
+1	COX1	YP_254675.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	35	13	25	4	19	5	15	2	8	3	0	0	14	2	17	2	13	0	10	2	9	2	12	6	7	0	1	0	6	2	37	5	23	3	16	4	8	3	15	3	7	2	6	0	8	0	20	3	8	2	18	7	12	0	8	5	6	1	5	0	36	5	1	0
+2	COX2	YP_254676.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	10	7	11	2	14	3	8	0	5	0	2	1	5	0	8	1	2	1	2	2	8	0	4	1	7	1	3	0	1	0	25	3	7	2	3	1	1	0	5	2	8	0	1	0	7	0	1	0	3	0	4	3	2	0	6	1	9	2	1	1	9	0	0	0
+3	ND1	YP_254678.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	32	8	14	5	8	2	12	2	8	0	4	0	6	3	15	6	7	0	2	2	7	0	2	1	7	0	1	0	4	2	30	2	12	2	9	0	6	0	7	1	9	1	1	2	5	1	3	2	3	2	3	1	3	0	3	0	8	4	0	0	12	1	0	0
+4	ND6	YP_254680.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	18	4	6	2	4	2	3	0	1	0	1	0	4	0	3	0	5	0	1	1	3	0	0	0	3	0	0	0	0	0	17	3	16	2	0	1	3	0	7	0	7	1	0	0	4	0	5	0	3	0	1	0	0	0	2	0	3	1	0	0	4	1	1	0
+5	CYTB	YP_254681.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	28	5	19	6	16	5	13	0	8	1	0	0	7	3	11	3	4	0	11	2	5	2	10	0	4	0	1	0	4	1	34	6	16	6	8	1	3	0	11	0	14	1	4	0	5	0	9	1	4	1	6	3	10	0	7	3	4	2	5	0	16	3	1	0
+6	ATP8	YP_254682.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	5	2	1	0	3	2	0	0	0	1	0	0	4	0	1	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	8	0	2	0	0	0	1	0	4	1	5	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	0
+7	ATP6	YP_254683.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	14	7	22	4	9	3	9	4	3	0	0	0	1	0	2	0	2	3	3	0	5	0	3	0	5	0	2	0	0	0	19	4	7	1	7	1	3	0	6	3	12	1	1	0	5	0	10	1	2	1	2	0	4	0	1	0	6	1	2	1	4	1	1	0
+8	COX3	YP_254684.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	20	7	19	2	13	7	8	1	4	1	0	2	8	2	12	2	2	0	5	1	4	0	5	5	5	0	0	0	0	0	17	4	4	4	5	0	3	0	4	0	12	1	2	0	7	0	8	2	5	1	4	3	5	0	3	2	9	1	4	0	11	3	0	0
+9	ND3	YP_254686.1	Leptotrombidium pallidum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Acariformes, Trombidiformes, Prostigmata, Anystina, Parasitengona, Trombiculoidea, Trombiculidae, Leptotrombidium	14	4	8	2	5	0	2	0	2	1	1	0	2	1	5	0	2	0	1	1	1	0	0	0	2	1	0	0	0	0	8	1	2	1	2	1	0	0	2	1	5	0	1	0	4	1	2	0	0	0	1	1	0	0	2	0	5	1	1	0	4	0	0	1

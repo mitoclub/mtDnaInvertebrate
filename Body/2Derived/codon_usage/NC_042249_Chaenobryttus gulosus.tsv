@@ -1,65 +1,13 @@
-	YP_009632704.1|ND1	YP_009632705.1|ND2	YP_009632706.1|COX1	YP_009632707.1|COX2	YP_009632708.1|ATP8	YP_009632709.1|ATP6	YP_009632710.1|COX3	YP_009632711.1|ND3	YP_009632712.1|ND4L	YP_009632713.1|ND4	YP_009632714.1|ND5	YP_009632716.1|CYTB
-TTT	8	8	22	3	1	5	10	4	5	7	18	12
-TTC	10	4	21	6	2	6	14	4	2	9	24	18
-TTA	8	13	9	7	1	5	5	3	5	11	19	5
-TTG	2	2	1	0	0	0	1	0	1	1	4	1
-TCT	4	3	6	2	0	2	3	1	2	4	9	1
-TCC	10	10	13	7	1	1	3	3	2	15	12	12
-TCA	4	2	5	3	0	0	3	1	5	2	5	6
-TCG	0	0	1	0	0	0	1	0	1	2	4	2
-TAT	7	4	4	4	0	3	3	1	0	7	3	7
-TAC	4	3	13	5	1	2	9	1	0	6	5	7
-TGT	0	1	0	0	0	0	0	1	1	2	2	0
-TGC	0	1	1	2	0	0	2	1	2	2	4	3
-TGA	6	11	13	4	4	4	11	4	1	12	9	12
-TGG	2	0	4	1	1	1	1	1	0	7	5	1
-CTT	13	21	15	10	2	19	8	4	2	29	21	11
-CTC	17	22	14	4	0	11	9	12	6	32	29	24
-CTA	20	17	15	5	3	16	9	7	10	21	21	17
-CTG	4	5	8	2	0	7	1	1	1	7	6	5
-CCT	7	4	7	3	3	4	4	1	1	4	5	2
-CCC	8	13	14	9	5	8	6	4	1	18	22	14
-CCA	8	5	6	2	2	4	2	1	0	5	4	3
-CCG	1	1	1	0	0	2	0	2	0	0	2	2
-CAT	1	0	5	4	1	3	2	0	0	2	2	2
-CAC	3	7	15	6	1	0	15	1	4	9	16	10
-CAA	6	15	5	7	1	9	6	0	3	9	14	5
-CAG	0	0	3	1	1	0	1	2	0	1	4	1
-CGT	2	0	2	0	0	0	0	0	0	1	2	1
-CGC	2	2	0	3	0	2	1	0	1	3	3	1
-CGA	2	2	5	3	0	3	4	2	2	6	3	5
-CGG	2	0	1	0	0	1	0	0	0	1	1	1
-ATT	13	16	26	15	3	7	8	6	1	21	23	11
-ATC	11	5	15	7	1	11	8	2	0	12	25	17
-ATA	7	8	11	7	0	5	3	0	3	14	19	5
-ATG	3	6	13	4	1	3	4	1	1	12	9	2
-ACT	1	6	8	2	0	2	2	2	2	8	8	0
-ACC	12	22	13	3	4	11	6	3	6	23	27	15
-ACA	7	16	14	4	1	7	11	5	0	11	16	6
-ACG	1	0	1	1	0	1	2	0	2	0	7	2
-AAT	7	3	7	0	1	3	1	0	0	3	6	2
-AAC	4	7	7	5	2	6	1	1	3	10	22	18
-AAA	5	9	8	3	2	1	2	1	0	7	20	7
-AAG	2	0	0	1	0	0	1	0	0	2	1	2
-AGT	0	0	1	0	0	1	0	1	0	0	2	0
-AGC	3	5	4	3	1	5	3	0	1	8	12	1
-GTT	2	5	11	3	1	4	4	3	0	8	9	8
-GTC	5	1	9	5	1	6	8	2	0	4	9	8
-GTA	8	1	16	7	0	2	3	2	1	3	8	8
-GTG	4	0	5	2	0	0	2	0	0	1	0	2
-GCT	4	3	8	2	0	1	2	3	3	4	7	4
-GCC	19	18	18	6	2	10	6	4	7	22	31	17
-GCA	11	13	21	7	2	9	12	0	1	8	17	12
-GCG	1	3	1	3	0	1	2	2	0	4	1	1
-GAT	0	0	7	4	0	0	2	1	0	3	4	1
-GAC	4	2	7	9	0	1	3	3	2	1	9	8
-GAA	9	5	6	15	1	2	7	4	2	4	9	6
-GAG	2	0	5	0	2	2	3	2	0	7	3	0
-GGT	3	2	5	3	0	1	4	1	0	2	5	2
-GGC	4	9	19	1	0	2	9	3	2	13	15	14
-GGA	5	3	14	4	0	2	5	2	1	5	7	6
-GGG	6	4	7	1	0	3	3	0	2	5	3	4
-TAA	1	0	1	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009632704.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	8	10	8	2	4	10	4	0	7	4	0	0	6	2	13	17	20	4	7	8	8	1	1	3	6	0	2	2	2	2	13	11	7	3	1	12	7	1	7	4	5	2	0	3	2	5	8	4	4	19	11	1	0	4	9	2	3	4	5	6	1	0	0	0
+1	ND2	YP_009632705.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	8	4	13	2	3	10	2	0	4	3	1	1	11	0	21	22	17	5	4	13	5	1	0	7	15	0	0	2	2	0	16	5	8	6	6	22	16	0	3	7	9	0	0	5	5	1	1	0	3	18	13	3	0	2	5	0	2	9	3	4	0	0	0	0
+2	COX1	YP_009632706.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	22	21	9	1	6	13	5	1	4	13	0	1	13	4	15	14	15	8	7	14	6	1	5	15	5	3	2	0	5	1	26	15	11	13	8	13	14	1	7	7	8	0	1	4	11	9	16	5	8	18	21	1	7	7	6	5	5	19	14	7	1	0	0	0
+3	COX2	YP_009632707.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	3	6	7	0	2	7	3	0	4	5	0	2	4	1	10	4	5	2	3	9	2	0	4	6	7	1	0	3	3	0	15	7	7	4	2	3	4	1	0	5	3	1	0	3	3	5	7	2	2	6	7	3	4	9	15	0	3	1	4	1	0	0	0	0
+4	ATP8	YP_009632708.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	1	2	1	0	0	1	0	0	0	1	0	0	4	1	2	0	3	0	3	5	2	0	1	1	1	1	0	0	0	0	3	1	0	1	0	4	1	0	1	2	2	0	0	1	1	1	0	0	0	2	2	0	0	0	1	2	0	0	0	0	1	0	0	0
+5	ATP6	YP_009632709.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	5	6	5	0	2	1	0	0	3	2	0	0	4	1	19	11	16	7	4	8	4	2	3	0	9	0	0	2	3	1	7	11	5	3	2	11	7	1	3	6	1	0	1	5	4	6	2	0	1	10	9	1	0	1	2	2	1	2	2	3	1	0	0	0
+6	COX3	YP_009632710.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	10	14	5	1	3	3	3	1	3	9	0	2	11	1	8	9	9	1	4	6	2	0	2	15	6	1	0	1	4	0	8	8	3	4	2	6	11	2	1	1	2	1	0	3	4	8	3	2	2	6	12	2	2	3	7	3	4	9	5	3	0	0	0	0
+7	ND3	YP_009632711.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	4	4	3	0	1	3	1	0	1	1	1	1	4	1	4	12	7	1	1	4	1	2	0	1	0	2	0	0	2	0	6	2	0	1	2	3	5	0	0	1	1	0	1	0	3	2	2	0	3	4	0	2	1	3	4	2	1	3	2	0	0	0	0	0
+8	ND4L	YP_009632712.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	5	2	5	1	2	2	5	1	0	0	1	2	1	0	2	6	10	1	1	1	0	0	0	4	3	0	0	1	2	0	1	0	3	1	2	6	0	2	0	3	0	0	0	1	0	0	1	0	3	7	1	0	0	2	2	0	0	2	1	2	1	0	0	0
+9	ND4	YP_009632713.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	7	9	11	1	4	15	2	2	7	6	2	2	12	7	29	32	21	7	4	18	5	0	2	9	9	1	1	3	6	1	21	12	14	12	8	23	11	0	3	10	7	2	0	8	8	4	3	1	4	22	8	4	3	1	4	7	2	13	5	5	0	0	0	0
+10	ND5	YP_009632714.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	18	24	19	4	9	12	5	4	3	5	2	4	9	5	21	29	21	6	5	22	4	2	2	16	14	4	2	3	3	1	23	25	19	9	8	27	16	7	6	22	20	1	2	12	9	9	8	0	7	31	17	1	4	9	9	3	5	15	7	3	1	0	0	0
+11	CYTB	YP_009632716.1	Chaenobryttus gulosus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Centrarchiformes, Centrarchoidei, Centrarchidae, Chaenobryttus	12	18	5	1	1	12	6	2	7	7	0	3	12	1	11	24	17	5	2	14	3	2	2	10	5	1	1	1	5	1	11	17	5	2	0	15	6	2	2	18	7	2	0	1	8	8	8	2	4	17	12	1	1	8	6	0	2	14	6	4	0	0	0	0

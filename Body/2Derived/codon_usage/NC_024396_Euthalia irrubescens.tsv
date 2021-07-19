@@ -1,65 +1,10 @@
-	YP_009045221.1|ND2	YP_009045222.1|COX1	YP_009045223.1|COX2	YP_009045224.1|ATP8	YP_009045225.1|ATP6	YP_009045226.1|COX3	YP_009045227.1|ND3	YP_009045231.1|ND6	YP_009045232.1|CYTB
-TTT	50	39	16	7	19	23	15	23	36
-TTC	3	2	0	1	2	3	2	4	1
-TTA	45	46	19	3	31	22	14	25	44
-TTG	1	1	0	0	0	0	0	1	0
-TCT	13	14	5	0	7	2	1	4	10
-TCC	1	6	2	0	0	1	0	1	0
-TCA	15	17	6	1	7	5	6	4	6
-TCG	0	0	0	0	0	0	0	0	0
-TAT	13	15	8	4	7	11	1	8	18
-TAC	0	3	0	1	0	1	0	1	0
-TGT	3	1	2	0	0	2	2	0	2
-TGC	0	0	0	0	0	0	0	1	1
-TGA	9	14	6	3	5	13	3	2	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	3	12	7	0	7	4	3	7	5
-CTC	0	0	0	0	0	0	0	1	1
-CTA	0	2	0	0	0	0	0	0	5
-CTG	0	0	0	0	0	0	0	0	0
-CCT	4	14	6	2	6	6	2	2	8
-CCC	2	3	0	0	1	0	0	0	0
-CCA	2	8	4	0	2	4	2	0	13
-CCG	0	0	0	0	0	0	0	0	0
-CAT	1	15	6	0	6	11	2	1	7
-CAC	0	1	0	0	0	4	0	0	1
-CAA	4	9	8	1	4	6	1	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	2	2	0	3	0	0	1	4
-CGC	0	0	0	0	0	1	0	0	0
-CGA	1	7	5	0	0	3	2	0	3
-CGG	0	0	0	0	0	0	0	0	0
-ATT	52	58	33	12	30	29	18	21	56
-ATC	3	1	1	0	1	2	0	1	3
-ATA	22	32	7	3	9	9	9	11	11
-ATG	0	0	1	0	1	2	1	0	1
-ACT	3	14	6	0	10	14	2	4	16
-ACC	3	2	0	0	2	0	0	1	2
-ACA	2	11	4	0	6	8	4	2	7
-ACG	0	1	0	0	0	0	0	0	0
-AAT	29	23	20	13	22	13	7	17	22
-AAC	2	1	4	0	0	1	0	1	4
-AAA	13	4	4	5	2	4	4	6	10
-AAG	0	2	0	0	0	0	0	0	1
-AGT	4	4	3	0	3	2	1	2	0
-AGC	1	1	0	0	0	0	0	0	0
-AGA	2	6	3	0	6	4	0	0	2
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	8	4	0	5	7	1	2	8
-GTC	0	0	0	0	0	1	0	1	0
-GTA	2	15	4	0	2	5	2	2	4
-GTG	0	0	0	0	0	0	0	0	0
-GCT	2	16	6	0	2	6	2	2	14
-GCC	1	3	0	0	0	0	1	0	0
-GCA	4	7	1	0	3	5	0	1	3
-GCG	0	1	0	0	0	0	0	0	0
-GAT	1	15	8	0	1	4	2	1	8
-GAC	0	0	0	0	0	0	1	0	0
-GAA	3	9	8	0	4	7	4	3	3
-GAG	0	0	0	0	0	0	0	1	0
-GGT	3	11	4	0	2	6	0	1	5
-GGC	0	1	0	0	0	2	0	0	1
-GGA	6	33	1	0	6	8	2	3	15
-GGG	2	0	1	0	1	1	0	1	2
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009045221.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	50	3	45	1	13	1	15	0	13	0	3	0	9	0	3	0	0	0	4	2	2	0	1	0	4	0	1	0	1	0	52	3	22	0	3	3	2	0	29	2	13	0	4	1	2	0	5	0	2	0	2	1	4	0	1	0	3	0	3	0	6	2	1	0
+1	COX1	YP_009045222.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	39	2	46	1	14	6	17	0	15	3	1	0	14	0	12	0	2	0	14	3	8	0	15	1	9	0	2	0	7	0	58	1	32	0	14	2	11	1	23	1	4	2	4	1	6	0	8	0	15	0	16	3	7	1	15	0	9	0	11	1	33	0	0	0
+2	COX2	YP_009045223.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	16	0	19	0	5	2	6	0	8	0	2	0	6	0	7	0	0	0	6	0	4	0	6	0	8	0	2	0	5	0	33	1	7	1	6	0	4	0	20	4	4	0	3	0	3	0	4	0	4	0	6	0	1	0	8	0	8	0	4	0	1	1	0	0
+3	ATP8	YP_009045224.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	7	1	3	0	0	0	1	0	4	1	0	0	3	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	12	0	3	0	0	0	0	0	13	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009045225.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	19	2	31	0	7	0	7	0	7	0	0	0	5	0	7	0	0	0	6	1	2	0	6	0	4	0	3	0	0	0	30	1	9	1	10	2	6	0	22	0	2	0	3	0	6	0	5	0	2	0	2	0	3	0	1	0	4	0	2	0	6	1	1	0
+5	COX3	YP_009045226.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	23	3	22	0	2	1	5	0	11	1	2	0	13	0	4	0	0	0	6	0	4	0	11	4	6	0	0	1	3	0	29	2	9	2	14	0	8	0	13	1	4	0	2	0	4	0	7	1	5	0	6	0	5	0	4	0	7	0	6	2	8	1	1	0
+6	ND3	YP_009045227.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	15	2	14	0	1	0	6	0	1	0	2	0	3	0	3	0	0	0	2	0	2	0	2	0	1	0	0	0	2	0	18	0	9	1	2	0	4	0	7	0	4	0	1	0	0	0	1	0	2	0	2	1	0	0	2	1	4	0	0	0	2	0	0	0
+7	ND6	YP_009045231.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	23	4	25	1	4	1	4	0	8	1	0	1	2	0	7	1	0	0	2	0	0	0	1	0	2	0	1	0	0	0	21	1	11	0	4	1	2	0	17	1	6	0	2	0	0	0	2	1	2	0	2	0	1	0	1	0	3	1	1	0	3	1	1	0
+8	CYTB	YP_009045232.1	Euthalia irrubescens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Adoliadini, Euthalia	36	1	44	0	10	0	6	0	18	0	2	1	12	0	5	1	5	0	8	0	13	0	7	1	8	0	4	0	3	0	56	3	11	1	16	2	7	0	22	4	10	1	0	0	2	0	8	0	4	0	14	0	3	0	8	0	3	0	5	1	15	2	1	0

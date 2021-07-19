@@ -1,65 +1,13 @@
-	YP_009054557.1|ND1	YP_009054558.1|ND2	YP_009054559.1|COX1	YP_009054560.1|COX2	YP_009054561.1|ATP8	YP_009054562.1|ATP6	YP_009054563.1|COX3	YP_009054564.1|ND3	YP_009054565.1|ND4L	YP_009054566.1|ND4	YP_009054567.1|ND5	YP_009054569.1|CYTB
-TTT	12	13	27	7	4	8	13	7	3	15	35	17
-TTC	9	2	15	4	1	7	10	2	3	2	10	14
-TTA	16	18	24	8	2	19	12	9	4	24	26	22
-TTG	1	2	3	0	0	3	2	1	0	4	3	2
-TCT	5	7	15	4	1	3	5	1	0	13	9	8
-TCC	4	6	5	4	0	1	3	4	2	4	9	8
-TCA	9	6	5	4	2	2	5	1	6	8	15	6
-TCG	1	0	1	0	0	0	0	0	0	0	2	0
-TAT	8	5	5	5	0	2	4	2	0	8	7	8
-TAC	3	1	14	5	0	1	7	1	0	5	6	7
-TGT	0	0	0	1	0	0	1	1	1	3	4	2
-TGC	0	0	1	1	0	0	0	0	2	2	2	1
-TGA	8	11	13	5	4	4	12	5	0	13	12	11
-TGG	0	0	3	0	1	1	0	0	1	4	2	0
-CTT	14	19	10	9	1	13	8	6	5	21	23	10
-CTC	6	10	4	2	0	4	4	2	1	6	11	8
-CTA	16	21	15	7	2	16	7	5	11	32	22	18
-CTG	5	4	6	0	0	2	1	3	1	3	7	0
-CCT	7	2	14	5	4	6	2	0	2	8	11	5
-CCC	5	10	8	5	2	5	7	4	0	9	8	6
-CCA	11	8	4	3	3	4	3	3	0	9	9	10
-CCG	1	1	2	1	0	1	1	1	0	1	2	0
-CAT	0	3	8	5	0	3	4	0	4	5	4	5
-CAC	3	3	11	4	2	1	12	0	0	6	13	6
-CAA	5	12	4	7	1	9	9	3	3	9	14	7
-CAG	2	1	3	1	0	1	0	0	0	0	1	0
-CGT	1	1	1	2	0	0	1	1	0	2	2	1
-CGC	3	0	0	2	0	1	0	0	2	0	1	0
-CGA	2	4	7	2	0	5	4	1	1	8	6	6
-CGG	2	0	1	0	0	0	0	0	0	1	1	1
-ATT	23	19	29	17	4	13	10	10	5	23	40	26
-ATC	8	7	12	5	1	4	4	2	0	15	19	13
-ATA	6	14	18	7	0	6	6	3	6	22	22	9
-ATG	3	3	8	3	2	2	3	1	1	6	10	4
-ACT	2	13	12	0	1	5	4	2	4	9	17	4
-ACC	4	9	7	3	0	4	3	1	2	9	18	9
-ACA	11	20	16	7	2	11	13	4	2	19	16	7
-ACG	0	1	1	0	0	0	0	0	0	3	3	0
-AAT	5	10	9	4	0	5	1	1	0	8	15	12
-AAC	5	3	5	4	3	5	1	1	4	5	15	8
-AAA	6	7	9	6	4	1	2	1	0	9	18	9
-AAG	1	2	0	0	1	0	0	0	0	1	4	1
-AGT	3	2	1	2	0	1	0	0	1	6	5	1
-AGC	2	3	4	1	0	2	3	0	1	5	9	0
-GTT	5	2	17	5	0	5	8	0	1	4	9	11
-GTC	3	2	1	1	0	4	4	2	0	5	1	1
-GTA	10	4	19	9	0	2	5	1	0	4	10	7
-GTG	2	0	4	3	0	1	1	0	0	2	4	1
-GCT	9	5	11	8	1	6	5	2	3	12	14	6
-GCC	13	13	15	5	3	5	6	2	6	15	25	8
-GCA	11	13	16	5	0	5	10	3	3	12	9	12
-GCG	0	0	3	0	0	1	0	0	0	0	0	1
-GAT	2	1	7	6	1	0	3	2	0	2	7	5
-GAC	2	0	8	6	0	1	2	2	1	2	4	9
-GAA	7	6	10	9	2	5	7	4	2	10	5	4
-GAG	4	0	2	3	0	0	2	2	0	2	5	2
-GGT	4	2	13	1	0	3	6	2	0	6	8	3
-GGC	3	8	8	4	0	1	6	2	3	6	7	8
-GGA	5	7	21	3	0	7	6	3	1	9	12	11
-GGG	6	2	4	0	0	0	3	0	0	4	3	3
-TAA	1	0	0	0	1	1	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009054557.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	12	9	16	1	5	4	9	1	8	3	0	0	8	0	14	6	16	5	7	5	11	1	0	3	5	2	1	3	2	2	23	8	6	3	2	4	11	0	5	5	6	1	3	2	5	3	10	2	9	13	11	0	2	2	7	4	4	3	5	6	1	0	0	0
+1	ND2	YP_009054558.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	13	2	18	2	7	6	6	0	5	1	0	0	11	0	19	10	21	4	2	10	8	1	3	3	12	1	1	0	4	0	19	7	14	3	13	9	20	1	10	3	7	2	2	3	2	2	4	0	5	13	13	0	1	0	6	0	2	8	7	2	0	0	0	0
+2	COX1	YP_009054559.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	27	15	24	3	15	5	5	1	5	14	0	1	13	3	10	4	15	6	14	8	4	2	8	11	4	3	1	0	7	1	29	12	18	8	12	7	16	1	9	5	9	0	1	4	17	1	19	4	11	15	16	3	7	8	10	2	13	8	21	4	0	0	0	1
+3	COX2	YP_009054560.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	7	4	8	0	4	4	4	0	5	5	1	1	5	0	9	2	7	0	5	5	3	1	5	4	7	1	2	2	2	0	17	5	7	3	0	3	7	0	4	4	6	0	2	1	5	1	9	3	8	5	5	0	6	6	9	3	1	4	3	0	0	0	0	0
+4	ATP8	YP_009054561.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	4	1	2	0	1	0	2	0	0	0	0	0	4	1	1	0	2	0	4	2	3	0	0	2	1	0	0	0	0	0	4	1	0	2	1	0	2	0	0	3	4	1	0	0	0	0	0	0	1	3	0	0	1	0	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009054562.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	8	7	19	3	3	1	2	0	2	1	0	0	4	1	13	4	16	2	6	5	4	1	3	1	9	1	0	1	5	0	13	4	6	2	5	4	11	0	5	5	1	0	1	2	5	4	2	1	6	5	5	1	0	1	5	0	3	1	7	0	1	0	0	0
+6	COX3	YP_009054563.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	13	10	12	2	5	3	5	0	4	7	1	0	12	0	8	4	7	1	2	7	3	1	4	12	9	0	1	0	4	0	10	4	6	3	4	3	13	0	1	1	2	0	0	3	8	4	5	1	5	6	10	0	3	2	7	2	6	6	6	3	0	0	0	0
+7	ND3	YP_009054564.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	7	2	9	1	1	4	1	0	2	1	1	0	5	0	6	2	5	3	0	4	3	1	0	0	3	0	1	0	1	0	10	2	3	1	2	1	4	0	1	1	1	0	0	0	0	2	1	0	2	2	3	0	2	2	4	2	2	2	3	0	0	0	0	0
+8	ND4L	YP_009054565.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	3	3	4	0	0	2	6	0	0	0	1	2	0	1	5	1	11	1	2	0	0	0	4	0	3	0	0	2	1	0	5	0	6	1	4	2	2	0	0	4	0	0	1	1	1	0	0	0	3	6	3	0	0	1	2	0	0	3	1	0	1	0	0	0
+9	ND4	YP_009054566.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	15	2	24	4	13	4	8	0	8	5	3	2	13	4	21	6	32	3	8	9	9	1	5	6	9	0	2	0	8	1	23	15	22	6	9	9	19	3	8	5	9	1	6	5	4	5	4	2	12	15	12	0	2	2	10	2	6	6	9	4	0	0	0	0
+10	ND5	YP_009054567.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	35	10	26	3	9	9	15	2	7	6	4	2	12	2	23	11	22	7	11	8	9	2	4	13	14	1	2	1	6	1	40	19	22	10	17	18	16	3	15	15	18	4	5	9	9	1	10	4	14	25	9	0	7	4	5	5	8	7	12	3	1	0	0	0
+11	CYTB	YP_009054569.1	Macropodus ocellatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Anabantaria, Anabantiformes, Anabantoidei, Osphronemidae, Macropodus	17	14	22	2	8	8	6	0	8	7	2	1	11	0	10	8	18	0	5	6	10	0	5	6	7	0	1	0	6	1	26	13	9	4	4	9	7	0	12	8	9	1	1	0	11	1	7	1	6	8	12	1	5	9	4	2	3	8	11	3	0	0	0	0

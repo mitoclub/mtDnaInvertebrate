@@ -1,65 +1,13 @@
-	YP_009144580.1	YP_009144581.1	YP_009144582.1	YP_009144583.1	YP_009144584.1	YP_009144585.1	YP_009144586.1	YP_009144587.1	YP_009144588.1	YP_009144589.1	YP_009144590.1	YP_009144591.1
-TTT	6	3	19	4	2	3	12	3	3	6	8	11
-TTC	13	9	23	4	2	8	13	4	4	9	24	21
-TTA	14	8	9	1	2	7	9	6	0	15	19	7
-TTG	1	2	0	0	0	0	0	1	0	0	3	0
-TCT	7	8	7	2	2	1	2	0	2	4	12	4
-TCC	4	16	12	6	2	6	7	2	0	14	19	12
-TCA	11	6	6	11	1	1	4	2	6	11	13	6
-TCG	0	2	0	0	0	1	0	0	0	0	0	1
-TAT	6	3	6	5	0	0	2	2	0	6	4	6
-TAC	9	6	11	4	2	3	6	0	2	12	10	8
-TGT	1	0	0	1	0	0	1	1	3	1	3	3
-TGC	1	1	1	2	0	0	1	0	1	4	5	1
-TGA	7	8	16	4	5	4	12	5	1	11	11	11
-TGG	1	2	1	1	0	0	0	0	0	1	1	0
-CTT	12	5	8	5	1	4	4	3	0	18	23	10
-CTC	8	11	12	7	0	15	9	8	6	26	25	19
-CTA	26	31	28	13	2	23	10	13	11	33	31	29
-CTG	1	4	2	3	1	3	0	1	1	4	2	2
-CCT	6	4	11	2	3	4	4	2	0	7	6	4
-CCC	9	11	4	5	4	6	2	1	2	8	12	8
-CCA	9	5	18	8	3	6	5	5	2	11	10	13
-CCG	0	1	0	0	0	1	0	0	0	3	0	0
-CAT	2	3	6	2	1	1	7	0	0	2	3	5
-CAC	0	5	14	5	0	2	9	0	7	13	11	9
-CAA	4	8	9	6	2	10	7	3	2	11	13	7
-CAG	2	0	1	1	0	1	0	0	0	0	2	0
-CGT	1	1	0	1	0	2	0	0	0	3	0	1
-CGC	1	0	2	0	0	1	1	0	0	1	2	1
-CGA	6	2	6	4	0	2	4	2	2	6	6	5
-CGG	0	0	0	0	0	0	0	0	0	0	0	1
-ATT	11	14	25	10	2	7	10	3	0	17	22	14
-ATC	13	23	20	10	2	16	11	7	6	23	35	25
-ATA	12	17	21	8	3	9	8	4	3	26	31	3
-ATG	3	4	4	1	1	2	1	1	2	1	4	1
-ACT	4	11	9	3	3	8	5	4	1	10	14	3
-ACC	10	20	15	7	1	14	12	3	5	22	28	17
-ACA	10	13	14	3	0	5	5	2	2	18	20	10
-ACG	0	1	1	0	0	0	1	0	0	1	1	1
-AAT	6	7	5	3	1	2	1	2	1	3	10	5
-AAC	7	6	10	4	2	7	5	2	1	8	23	13
-AAA	7	10	9	4	4	3	2	1	0	11	20	10
-AAG	0	1	0	0	0	1	1	0	0	0	1	0
-AGT	3	0	0	0	0	1	0	0	0	1	2	0
-AGC	2	5	3	2	0	4	3	1	3	10	6	2
-GTT	5	0	10	3	0	1	2	0	0	1	2	2
-GTC	2	2	8	3	0	1	4	0	0	1	1	2
-GTA	5	4	12	7	0	1	8	1	3	3	6	7
-GTG	1	0	2	2	0	1	0	0	0	0	0	0
-GCT	9	5	16	5	0	5	5	1	1	11	12	2
-GCC	8	15	19	5	1	6	6	3	6	12	28	14
-GCA	9	4	9	5	0	5	8	3	1	10	9	6
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	2	1	5	4	0	1	1	1	0	1	2	0
-GAC	2	2	10	8	0	0	3	2	1	1	9	7
-GAA	10	5	9	13	0	4	6	5	2	10	6	6
-GAG	0	0	1	2	0	0	2	1	0	0	1	1
-GGT	2	1	6	2	0	1	1	0	1	4	7	1
-GGC	3	3	14	1	0	1	6	1	1	9	9	5
-GGA	7	7	25	6	0	4	13	4	2	3	14	16
-GGG	1	0	2	0	0	2	0	0	0	1	2	1
-TAA	0	0	0	0	1	1	0	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	None	YP_009144580.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	6	13	14	1	7	4	11	0	6	9	1	1	7	1	12	8	26	1	6	9	9	0	2	0	4	2	1	1	6	0	11	13	12	3	4	10	10	0	6	7	7	0	3	2	5	2	5	1	9	8	9	0	2	2	10	0	2	3	7	1	0	0	1	0
+1	None	YP_009144581.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	3	9	8	2	8	16	6	2	3	6	0	1	8	2	5	11	31	4	4	11	5	1	3	5	8	0	1	0	2	0	14	23	17	4	11	20	13	1	7	6	10	1	0	5	0	2	4	0	5	15	4	0	1	2	5	0	1	3	7	0	0	0	0	0
+2	None	YP_009144582.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	19	23	9	0	7	12	6	0	6	11	0	1	16	1	8	12	28	2	11	4	18	0	6	14	9	1	0	2	6	0	25	20	21	4	9	15	14	1	5	10	9	0	0	3	10	8	12	2	16	19	9	0	5	10	9	1	6	14	25	2	0	0	0	1
+3	None	YP_009144583.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	4	4	1	0	2	6	11	0	5	4	1	2	4	1	5	7	13	3	2	5	8	0	2	5	6	1	1	0	4	0	10	10	8	1	3	7	3	0	3	4	4	0	0	2	3	3	7	2	5	5	5	0	4	8	13	2	2	1	6	0	0	0	0	0
+4	None	YP_009144584.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	2	2	2	0	2	2	1	0	0	2	0	0	5	0	1	0	2	1	3	4	3	0	1	0	2	0	0	0	0	0	2	2	3	1	3	1	0	0	1	2	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	None	YP_009144585.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	3	8	7	0	1	6	1	1	0	3	0	0	4	0	4	15	23	3	4	6	6	1	1	2	10	1	2	1	2	0	7	16	9	2	8	14	5	0	2	7	3	1	1	4	1	1	1	1	5	6	5	0	1	0	4	0	1	1	4	2	1	0	0	0
+6	None	YP_009144586.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	12	13	9	0	2	7	4	0	2	6	1	1	12	0	4	9	10	0	4	2	5	0	7	9	7	0	0	1	4	0	10	11	8	1	5	12	5	1	1	5	2	1	0	3	2	4	8	0	5	6	8	0	1	3	6	2	1	6	13	0	0	0	0	0
+7	None	YP_009144587.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	3	4	6	1	0	2	2	0	2	0	1	0	5	0	3	8	13	1	2	1	5	0	0	0	3	0	0	0	2	0	3	7	4	1	4	3	2	0	2	2	1	0	0	1	0	0	1	0	1	3	3	0	1	2	5	1	0	1	4	0	1	0	0	0
+8	None	YP_009144588.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	3	4	0	0	2	0	6	0	0	2	3	1	1	0	0	6	11	1	0	2	2	0	0	7	2	0	0	0	2	0	0	6	3	2	1	5	2	0	1	1	0	0	0	3	0	0	3	0	1	6	1	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	None	YP_009144589.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	6	9	15	0	4	14	11	0	6	12	1	4	11	1	18	26	33	4	7	8	11	3	2	13	11	0	3	1	6	0	17	23	26	1	10	22	18	1	3	8	11	0	1	10	1	1	3	0	11	12	10	0	1	1	10	0	4	9	3	1	1	0	0	0
+10	None	YP_009144590.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	8	24	19	3	12	19	13	0	4	10	3	5	11	1	23	25	31	2	6	12	10	0	3	11	13	2	0	2	6	0	22	35	31	4	14	28	20	1	10	23	20	1	2	6	2	1	6	0	12	28	9	0	2	9	6	1	7	9	14	2	1	0	0	0
+11	None	YP_009144591.1	Tinamus guttatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Palaeognathae, Tinamiformes, Tinamidae, Tinamus	11	21	7	0	4	12	6	1	6	8	3	1	11	0	10	19	29	2	4	8	13	0	5	9	7	0	1	1	5	1	14	25	3	1	3	17	10	1	5	13	10	0	0	2	2	2	7	0	2	14	6	0	0	7	6	1	1	5	16	1	1	0	0	0

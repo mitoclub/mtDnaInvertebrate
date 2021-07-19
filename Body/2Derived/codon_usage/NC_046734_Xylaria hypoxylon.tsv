@@ -1,65 +1,20 @@
-	YP_009744343.1|ORF298	YP_009744344.1|nad2	YP_009744345.1|nad3	YP_009744346.1|atp9	YP_009744347.1|cox2	YP_009744348.1|ORF765	YP_009744349.1|nad4L	YP_009744350.1|nad5	YP_009744351.1|cob	YP_009744352.1|cox1	YP_009744353.1|nad1	YP_009744354.1|nad4	YP_009744355.1|atp8	YP_009744356.1|atp6	YP_009744357.1|ORF435	YP_009744358.1|ORF581	YP_009744359.1|ORF687	YP_009744360.1|cox3	YP_009744361.1|ORF1059
-TTT	10	42	43	6	14	55	1	46	28	42	24	45	9	11	23	27	32	25	47
-TTC	1	6	12	0	1	9	3	15	11	16	5	7	0	6	5	9	2	4	7
-TTA	14	75	70	11	21	65	5	77	48	82	48	69	6	32	29	41	66	28	58
-TTG	3	6	15	1	2	8	4	3	3	6	5	7	0	0	5	5	1	2	14
-TCT	9	22	17	1	8	18	1	17	18	21	8	25	2	5	13	15	22	9	38
-TCC	0	1	5	0	0	0	0	1	1	2	0	0	0	0	0	5	1	0	6
-TCA	6	9	9	2	8	6	2	12	11	8	3	6	0	2	10	8	11	4	15
-TCG	1	0	3	0	0	3	0	3	0	1	0	1	0	1	2	2	0	1	4
-TAT	21	28	31	2	9	40	3	25	11	25	17	23	2	6	10	26	54	9	38
-TAC	2	1	8	0	3	6	1	6	5	6	3	2	0	3	6	7	3	2	9
-TGT	4	1	7	0	5	3	0	7	1	2	3	3	0	3	4	6	10	1	21
-TGC	1	3	2	0	0	2	0	1	0	0	0	0	0	0	1	0	0	0	4
-TGA	1	5	4	0	6	13	0	8	7	14	4	2	0	2	1	5	4	8	2
-TGG	0	1	0	0	0	2	0	1	1	3	1	0	0	0	2	0	0	0	3
-CTT	5	8	15	0	2	15	4	11	10	12	7	3	1	3	9	7	3	4	9
-CTC	0	0	1	0	0	0	0	0	0	2	1	0	0	0	3	3	0	0	6
-CTA	2	0	8	0	3	10	2	6	3	9	8	2	0	1	8	10	7	1	9
-CTG	1	0	2	0	0	3	0	2	2	1	0	0	0	1	1	1	2	0	0
-CCT	5	11	16	1	9	16	0	17	17	30	13	11	3	7	9	8	10	10	23
-CCC	0	0	2	0	0	3	0	0	2	2	1	0	0	0	0	2	0	0	10
-CCA	3	0	4	0	1	5	0	1	5	6	1	1	0	1	3	2	5	0	12
-CCG	1	1	1	0	2	2	0	0	0	0	2	0	0	0	3	2	1	0	3
-CAT	5	8	16	0	5	4	0	8	10	10	0	2	0	3	7	4	5	9	11
-CAC	0	1	2	0	2	2	0	3	3	2	1	4	0	2	1	4	0	3	3
-CAA	2	9	14	1	5	15	1	8	16	22	4	5	1	4	11	13	10	4	15
-CAG	1	1	4	1	2	5	0	3	0	0	2	1	0	2	4	1	0	2	10
-CGT	3	0	4	0	0	5	0	2	3	3	1	0	2	0	4	2	1	0	7
-CGC	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	7
-CGA	3	1	0	0	0	2	0	0	0	2	0	0	0	1	4	1	1	0	7
-CGG	0	0	1	0	0	1	0	0	0	0	0	0	0	0	2	1	0	0	8
-ATT	9	31	48	4	11	41	8	31	16	28	13	21	0	4	19	25	31	6	20
-ATC	2	1	4	1	1	5	0	5	2	3	1	4	0	0	5	2	5	3	5
-ATA	18	45	36	3	13	31	13	37	31	38	24	36	7	21	18	30	30	10	51
-ATG	3	11	16	2	11	9	3	18	13	26	11	10	2	4	7	6	9	7	16
-ACT	9	17	15	3	9	17	0	26	11	18	8	14	2	4	9	10	15	6	26
-ACC	1	2	5	0	0	3	0	0	0	3	1	1	0	0	0	2	2	1	4
-ACA	2	12	13	1	0	7	3	10	9	16	6	13	2	5	11	7	5	9	11
-ACG	0	1	5	0	0	3	0	0	0	1	1	2	0	0	2	1	1	1	2
-AAT	26	34	44	1	10	51	3	21	33	29	9	14	2	12	26	39	67	6	68
-AAC	4	1	8	0	0	8	1	3	14	13	0	2	0	6	1	13	3	1	13
-AAA	31	22	53	1	4	52	2	17	11	39	6	13	2	5	26	40	68	2	106
-AAG	7	1	13	0	1	14	0	3	3	10	0	1	0	0	15	8	10	1	29
-AGT	10	23	20	0	0	11	2	25	15	28	14	17	0	7	9	11	16	8	28
-AGC	1	3	3	0	4	4	0	1	3	6	2	0	0	1	0	3	0	2	8
-AGA	6	10	8	2	6	15	3	5	14	16	8	9	1	5	2	16	11	4	15
-AGG	1	0	2	0	0	8	0	3	0	2	0	0	0	0	0	1	0	0	7
-GTT	7	15	24	3	12	15	0	16	11	20	11	7	1	4	12	17	15	10	23
-GTC	2	3	7	0	1	2	0	1	1	2	0	0	0	1	1	3	1	1	4
-GTA	6	16	21	2	4	10	3	27	13	24	11	22	1	4	6	10	15	4	16
-GTG	1	4	3	0	1	7	1	4	2	4	6	1	0	1	5	3	1	4	0
-GCT	7	14	24	5	3	10	4	25	16	35	21	11	3	10	6	14	10	11	17
-GCC	3	3	5	0	0	0	0	5	3	5	1	3	0	0	4	1	0	1	1
-GCA	2	7	14	6	7	9	3	4	10	14	6	7	0	4	5	11	1	5	13
-GCG	0	0	9	1	0	2	1	4	4	1	2	1	0	0	0	2	1	1	10
-GAT	9	9	32	0	12	34	2	14	24	24	9	13	0	3	17	26	39	5	57
-GAC	1	2	9	0	1	4	0	0	5	2	1	0	0	1	3	0	3	2	5
-GAA	11	16	29	1	14	31	3	12	17	21	12	13	1	4	15	19	34	6	32
-GAG	4	0	9	0	5	8	0	6	3	8	1	2	0	1	3	10	7	1	24
-GGT	8	17	27	10	7	17	2	27	10	26	10	21	0	7	17	21	27	12	21
-GGC	0	0	2	0	0	2	1	1	0	0	0	1	0	0	1	3	0	1	3
-GGA	1	11	15	0	4	7	3	14	9	25	6	13	0	6	4	6	5	4	12
-GGG	2	2	10	2	1	8	1	5	2	5	5	0	0	0	6	3	4	8	6
-TAA	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1
-TAG	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ORF298	YP_009744343.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	10	1	14	3	9	0	6	1	21	2	4	1	1	0	5	0	2	1	5	0	3	1	5	0	2	1	3	0	3	0	9	2	18	3	9	1	2	0	26	4	31	7	10	1	6	1	7	2	6	1	7	3	2	0	9	1	11	4	8	0	1	2	0	1
+1	nad2	YP_009744344.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	42	6	75	6	22	1	9	0	28	1	1	3	5	1	8	0	0	0	11	0	0	1	8	1	9	1	0	0	1	0	31	1	45	11	17	2	12	1	34	1	22	1	23	3	10	0	15	3	16	4	14	3	7	0	9	2	16	0	17	0	11	2	1	0
+2	nad3	YP_009744345.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	43	12	70	15	17	5	9	3	31	8	7	2	4	0	15	1	8	2	16	2	4	1	16	2	14	4	4	1	0	1	48	4	36	16	15	5	13	5	44	8	53	13	20	3	8	2	24	7	21	3	24	5	14	9	32	9	29	9	27	2	15	10	1	0
+3	atp9	YP_009744346.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	6	0	11	1	1	0	2	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	4	1	3	2	3	0	1	0	1	0	1	0	0	0	2	0	3	0	2	0	5	0	6	1	0	0	1	0	10	0	0	2	1	0
+4	cox2	YP_009744347.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	14	1	21	2	8	0	8	0	9	3	5	0	6	0	2	0	3	0	9	0	1	2	5	2	5	2	0	0	0	0	11	1	13	11	9	0	0	0	10	0	4	1	0	4	6	0	12	1	4	1	3	0	7	0	12	1	14	5	7	0	4	1	1	0
+5	ORF765	YP_009744348.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	55	9	65	8	18	0	6	3	40	6	3	2	13	2	15	0	10	3	16	3	5	2	4	2	15	5	5	2	2	1	41	5	31	9	17	3	7	3	51	8	52	14	11	4	15	8	15	2	10	7	10	0	9	2	34	4	31	8	17	2	7	8	1	0
+6	nad4L	YP_009744349.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	1	3	5	4	1	0	2	0	3	1	0	0	0	0	4	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	8	0	13	3	0	0	3	0	3	1	2	0	2	0	3	0	0	0	3	1	4	0	3	1	2	0	3	0	2	1	3	1	1	0
+7	nad5	YP_009744350.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	46	15	77	3	17	1	12	3	25	6	7	1	8	1	11	0	6	2	17	0	1	0	8	3	8	3	2	0	0	0	31	5	37	18	26	0	10	0	21	3	17	3	25	1	5	3	16	1	27	4	25	5	4	4	14	0	12	6	27	1	14	5	1	0
+8	cob	YP_009744351.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	28	11	48	3	18	1	11	0	11	5	1	0	7	1	10	0	3	2	17	2	5	0	10	3	16	0	3	0	0	0	16	2	31	13	11	0	9	0	33	14	11	3	15	3	14	0	11	1	13	2	16	3	10	4	24	5	17	3	10	0	9	2	1	0
+9	cox1	YP_009744352.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	42	16	82	6	21	2	8	1	25	6	2	0	14	3	12	2	9	1	30	2	6	0	10	2	22	0	3	0	2	0	28	3	38	26	18	3	16	1	29	13	39	10	28	6	16	2	20	2	24	4	35	5	14	1	24	2	21	8	26	0	25	5	1	0
+10	nad1	YP_009744353.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	24	5	48	5	8	0	3	0	17	3	3	0	4	1	7	1	8	0	13	1	1	2	0	1	4	2	1	0	0	0	13	1	24	11	8	1	6	1	9	0	6	0	14	2	8	0	11	0	11	6	21	1	6	2	9	1	12	1	10	0	6	5	1	0
+11	nad4	YP_009744354.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	45	7	69	7	25	0	6	1	23	2	3	0	2	0	3	0	2	0	11	0	1	0	2	4	5	1	0	0	0	0	21	4	36	10	14	1	13	2	14	2	13	1	17	0	9	0	7	0	22	1	11	3	7	1	13	0	13	2	21	1	13	0	0	1
+12	atp8	YP_009744355.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	9	0	6	0	2	0	0	0	2	0	0	0	0	0	1	0	0	0	3	0	0	0	0	0	1	0	2	0	0	0	0	0	7	2	2	0	2	0	2	0	2	0	0	0	1	0	1	0	1	0	3	0	0	0	0	0	1	0	0	0	0	0	1	0
+13	atp6	YP_009744356.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	11	6	32	0	5	0	2	1	6	3	3	0	2	0	3	0	1	1	7	0	1	0	3	2	4	2	0	0	1	0	4	0	21	4	4	0	5	0	12	6	5	0	7	1	5	0	4	1	4	1	10	0	4	0	3	1	4	1	7	0	6	0	1	0
+14	ORF435	YP_009744357.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	23	5	29	5	13	0	10	2	10	6	4	1	1	2	9	3	8	1	9	0	3	3	7	1	11	4	4	0	4	2	19	5	18	7	9	0	11	2	26	1	26	15	9	0	2	0	12	1	6	5	6	4	5	0	17	3	15	3	17	1	4	6	1	0
+15	ORF581	YP_009744358.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	27	9	41	5	15	5	8	2	26	7	6	0	5	0	7	3	10	1	8	2	2	2	4	4	13	1	2	1	1	1	25	2	30	6	10	2	7	1	39	13	40	8	11	3	16	1	17	3	10	3	14	1	11	2	26	0	19	10	21	3	6	3	1	0
+16	ORF687	YP_009744359.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	32	2	66	1	22	1	11	0	54	3	10	0	4	0	3	0	7	2	10	0	5	1	5	0	10	0	1	0	1	0	31	5	30	9	15	2	5	1	67	3	68	10	16	0	11	0	15	1	15	1	10	0	1	1	39	3	34	7	27	0	5	4	0	1
+17	cox3	YP_009744360.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	25	4	28	2	9	0	4	1	9	2	1	0	8	0	4	0	1	0	10	0	0	0	9	3	4	2	0	0	0	0	6	3	10	7	6	1	9	1	6	1	2	1	8	2	4	0	10	1	4	4	11	1	5	1	5	2	6	1	12	1	4	8	1	0
+18	ORF1059	YP_009744361.1	Xylaria hypoxylon	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Xylariomycetidae, Xylariales, Xylariaceae, Xylaria	47	7	58	14	38	6	15	4	38	9	21	4	2	3	9	6	9	0	23	10	12	3	11	3	15	10	7	7	7	8	20	5	51	16	26	4	11	2	68	13	106	29	28	8	15	7	23	4	16	0	17	1	13	10	57	5	32	24	21	3	12	6	1	0

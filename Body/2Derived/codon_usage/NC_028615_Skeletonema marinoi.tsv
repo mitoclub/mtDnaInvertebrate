@@ -1,65 +1,24 @@
-	YP_009186099.1|atp6	YP_009186100.1|nad6	YP_009186101.1|nad2	YP_009186102.1|nad4	YP_009186103.1|rps13	YP_009186104.1|rps10	YP_009186105.1|rps8	YP_009186106.1|rpl6	YP_009186107.1|rps2	YP_009186108.1|rps4	YP_009186110.1|rps12	YP_009186111.1|rps7	YP_009186112.1|rpl14	YP_009186113.1|rpl5	YP_009186114.1|nad1	YP_009186116.1|orf138	YP_009186118.1|rpl2	YP_009186119.1|rps19	YP_009186120.1|rps3	YP_009186121.1|rpl16	YP_009186122.1|atp9	YP_009186123.1|nad4L	YP_009186124.1|nad11
-TTT	26	16	44	48	7	21	6	7	15	20	1	7	8	19	21	5	10	2	24	6	6	5	52
-TTC	5	5	10	9	0	4	0	4	10	7	1	1	0	2	7	3	3	2	2	0	1	1	7
-TTA	27	17	44	51	6	12	7	12	13	19	7	11	2	6	31	12	12	4	23	7	10	16	47
-TTG	7	10	11	17	6	6	1	3	5	2	2	3	0	2	8	5	2	1	3	1	0	2	12
-TCT	7	6	20	18	2	9	2	4	5	7	0	2	3	7	11	4	11	2	11	3	1	2	20
-TCC	0	3	2	2	1	0	0	0	1	0	0	1	0	2	0	0	1	0	1	0	0	0	4
-TCA	4	4	8	6	4	4	3	4	6	5	5	1	4	3	5	1	7	1	5	2	2	1	20
-TCG	0	1	4	2	0	2	1	0	5	2	0	0	1	2	2	1	0	1	2	2	0	0	4
-TAT	5	10	28	13	2	4	3	5	7	13	2	1	0	5	9	5	7	3	11	1	0	3	13
-TAC	2	1	7	9	0	3	2	2	3	3	3	1	0	4	4	4	1	1	2	0	0	2	11
-TGT	3	2	6	4	2	1	1	3	2	1	1	1	1	1	4	1	1	0	2	1	0	0	14
-TGC	0	0	1	0	0	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	6
-TGA	2	1	2	5	0	1	1	0	1	2	0	1	0	0	2	1	0	0	1	2	0	0	5
-TGG	0	1	2	2	0	0	2	0	0	1	0	0	0	0	5	0	2	1	1	0	0	0	1
-CTT	5	5	8	3	0	3	2	3	2	1	0	5	5	4	6	0	2	1	6	0	2	0	14
-CTC	1	0	2	0	0	0	2	2	0	0	0	0	1	0	1	1	0	1	1	0	0	1	1
-CTA	7	1	12	10	2	6	3	4	6	2	3	2	0	5	5	1	1	0	6	3	2	2	12
-CTG	2	0	4	2	1	0	1	0	2	1	0	1	1	3	4	2	1	0	1	0	0	0	2
-CCT	7	3	3	7	0	3	2	1	4	1	2	1	0	2	10	2	6	0	0	3	1	0	13
-CCC	0	1	0	0	0	0	0	1	0	1	2	0	1	0	2	0	0	0	0	1	0	0	1
-CCA	1	1	3	8	3	2	2	2	2	4	1	0	1	3	2	0	2	1	2	0	0	0	6
-CCG	0	0	2	1	1	0	1	1	0	0	1	1	1	0	3	1	1	0	0	1	0	0	0
-CAT	4	2	1	7	2	2	4	4	4	5	1	1	1	0	0	3	5	2	3	1	0	1	14
-CAC	3	0	3	3	0	1	1	1	2	1	1	1	0	2	1	1	3	0	0	0	0	0	5
-CAA	5	2	11	6	4	8	4	5	8	10	2	2	7	7	4	2	3	3	15	5	1	0	21
-CAG	1	2	2	0	0	0	0	1	1	0	0	3	0	2	2	0	1	0	4	0	0	0	4
-CGT	0	1	2	2	4	0	0	0	1	1	1	1	2	0	1	0	2	0	1	1	0	0	5
-CGC	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	2	0	0	2	0	0	1
-CGA	0	0	1	3	1	0	1	2	0	2	1	1	0	0	1	0	1	1	5	2	1	0	3
-CGG	1	0	0	0	0	0	0	0	0	1	0	0	2	0	1	0	0	0	1	1	0	0	1
-ATT	18	12	43	33	10	7	8	15	15	9	2	5	7	8	25	5	13	4	19	9	5	9	32
-ATC	6	5	7	4	1	1	2	4	1	4	2	2	1	2	1	1	3	1	1	2	2	0	2
-ATA	3	7	15	8	3	2	5	4	8	7	2	2	8	10	11	6	3	4	10	5	1	11	22
-ATG	6	5	14	14	2	3	3	3	4	1	2	5	1	1	11	3	4	3	1	2	3	3	8
-ACT	7	8	11	14	3	7	2	5	6	7	4	3	4	4	5	6	9	3	9	3	1	2	11
-ACC	3	2	1	2	1	1	1	3	0	1	1	0	0	1	0	2	2	0	3	1	2	2	4
-ACA	5	1	4	11	2	5	6	3	4	4	1	5	4	3	3	2	4	1	9	3	1	1	20
-ACG	0	2	3	3	0	0	1	1	1	0	0	1	0	2	1	0	2	0	3	1	0	2	2
-AAT	10	5	16	11	6	7	4	8	8	14	6	7	5	4	11	12	17	4	17	2	1	5	48
-AAC	3	2	5	6	2	5	3	3	6	5	3	9	2	3	4	2	4	1	9	1	0	3	28
-AAA	6	5	20	15	14	28	13	26	25	28	18	24	16	19	8	17	28	18	41	18	3	5	60
-AAG	1	2	4	1	1	8	4	5	5	5	4	6	5	8	1	5	10	2	10	1	0	0	9
-AGT	6	5	15	10	2	1	2	1	4	7	2	1	1	1	9	1	5	1	8	0	0	0	15
-AGC	1	2	5	3	0	0	1	2	3	2	0	1	0	3	1	2	2	1	1	2	0	0	10
-AGA	0	1	1	5	2	0	2	2	1	8	5	1	1	1	5	2	6	1	9	3	0	1	11
-AGG	0	0	0	0	0	0	0	1	0	2	1	0	1	0	0	0	4	0	4	1	0	2	1
-GTT	7	12	14	22	2	3	1	5	5	6	4	3	3	5	16	4	6	3	6	4	0	6	15
-GTC	3	3	1	4	0	0	0	3	1	0	1	1	2	0	2	1	3	2	2	0	0	1	3
-GTA	8	5	14	14	1	6	0	1	3	1	2	2	4	3	7	0	5	2	5	2	3	1	14
-GTG	2	0	4	3	0	0	0	2	0	2	2	1	1	0	1	0	3	0	0	1	0	0	3
-GCT	4	4	17	11	2	1	2	3	3	1	1	0	4	1	11	2	6	0	5	5	6	2	6
-GCC	0	0	2	4	0	0	0	0	0	0	0	1	0	1	4	0	1	1	0	1	0	0	2
-GCA	10	0	5	5	2	1	2	3	1	2	1	1	2	1	5	0	3	1	4	4	7	3	10
-GCG	0	2	1	2	0	1	0	0	0	0	1	1	1	0	1	0	1	0	2	1	0	1	2
-GAT	4	4	7	4	1	8	4	3	2	7	1	0	2	2	4	3	3	2	5	1	1	3	16
-GAC	0	1	3	3	0	0	1	0	1	1	1	1	1	3	0	0	3	1	4	0	0	0	11
-GAA	7	3	11	14	4	3	2	4	5	4	1	4	1	5	6	4	6	3	8	3	2	1	20
-GAG	2	2	3	1	0	1	0	2	2	1	1	1	0	1	3	0	1	0	7	0	0	1	11
-GGT	7	3	7	16	3	0	3	2	1	0	3	2	4	1	11	0	8	1	4	6	3	1	8
-GGC	0	1	5	4	1	1	1	0	0	0	3	0	1	1	2	1	2	0	1	1	0	0	5
-GGA	2	1	8	7	1	2	3	4	1	2	4	0	3	1	4	0	12	1	3	2	6	1	11
-GGG	0	1	3	6	1	0	0	1	2	0	1	0	0	1	4	1	3	2	1	5	1	2	10
-TAA	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1
-TAG	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	atp6	YP_009186099.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	26	5	27	7	7	0	4	0	5	2	3	0	2	0	5	1	7	2	7	0	1	0	4	3	5	1	0	0	0	1	18	6	3	6	7	3	5	0	10	3	6	1	6	1	0	0	7	3	8	2	4	0	10	0	4	0	7	2	7	0	2	0	1	0
+1	nad6	YP_009186100.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	16	5	17	10	6	3	4	1	10	1	2	0	1	1	5	0	1	0	3	1	1	0	2	0	2	2	1	0	0	0	12	5	7	5	8	2	1	2	5	2	5	2	5	2	1	0	12	3	5	0	4	0	0	2	4	1	3	2	3	1	1	1	1	0
+2	nad2	YP_009186101.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	44	10	44	11	20	2	8	4	28	7	6	1	2	2	8	2	12	4	3	0	3	2	1	3	11	2	2	0	1	0	43	7	15	14	11	1	4	3	16	5	20	4	15	5	1	0	14	1	14	4	17	2	5	1	7	3	11	3	7	5	8	3	0	1
+3	nad4	YP_009186102.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	48	9	51	17	18	2	6	2	13	9	4	0	5	2	3	0	10	2	7	0	8	1	7	3	6	0	2	0	3	0	33	4	8	14	14	2	11	3	11	6	15	1	10	3	5	0	22	4	14	3	11	4	5	2	4	3	14	1	16	4	7	6	1	0
+4	rps13	YP_009186103.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	7	0	6	6	2	1	4	0	2	0	2	0	0	0	0	0	2	1	0	0	3	1	2	0	4	0	4	0	1	0	10	1	3	2	3	1	2	0	6	2	14	1	2	0	2	0	2	0	1	0	2	0	2	0	1	0	4	0	3	1	1	1	1	0
+5	rps10	YP_009186104.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	21	4	12	6	9	0	4	2	4	3	1	0	1	0	3	0	6	0	3	0	2	0	2	1	8	0	0	0	0	0	7	1	2	3	7	1	5	0	7	5	28	8	1	0	0	0	3	0	6	0	1	0	1	1	8	0	3	1	0	1	2	0	1	0
+6	rps8	YP_009186105.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	6	0	7	1	2	0	3	1	3	2	1	0	1	2	2	2	3	1	2	0	2	1	4	1	4	0	0	0	1	0	8	2	5	3	2	1	6	1	4	3	13	4	2	1	2	0	1	0	0	0	2	0	2	0	4	1	2	0	3	1	3	0	1	0
+7	rpl6	YP_009186106.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	7	4	12	3	4	0	4	0	5	2	3	1	0	0	3	2	4	0	1	1	2	1	4	1	5	1	0	0	2	0	15	4	4	3	5	3	3	1	8	3	26	5	1	2	2	1	5	3	1	2	3	0	3	0	3	0	4	2	2	0	4	1	1	0
+8	rps2	YP_009186107.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	15	10	13	5	5	1	6	5	7	3	2	0	1	0	2	0	6	2	4	0	2	0	4	2	8	1	1	0	0	0	15	1	8	4	6	0	4	1	8	6	25	5	4	3	1	0	5	1	3	0	3	0	1	0	2	1	5	2	1	0	1	2	1	0
+9	rps4	YP_009186108.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	20	7	19	2	7	0	5	2	13	3	1	0	2	1	1	0	2	1	1	1	4	0	5	1	10	0	1	1	2	1	9	4	7	1	7	1	4	0	14	5	28	5	7	2	8	2	6	0	1	2	1	0	2	0	7	1	4	1	0	0	2	0	1	0
+10	rps12	YP_009186110.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	1	1	7	2	0	0	5	0	2	3	1	1	0	0	0	0	3	0	2	2	1	1	1	1	2	0	1	1	1	0	2	2	2	2	4	1	1	0	6	3	18	4	2	0	5	1	4	1	2	2	1	0	1	1	1	1	1	1	3	3	4	1	1	0
+11	rps7	YP_009186111.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	7	1	11	3	2	1	1	0	1	1	1	0	1	0	5	0	2	1	1	0	0	1	1	1	2	3	1	1	1	0	5	2	2	5	3	0	5	1	7	9	24	6	1	1	1	0	3	1	2	1	0	1	1	1	0	1	4	1	2	0	0	0	1	0
+12	rpl14	YP_009186112.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	8	0	2	0	3	0	4	1	0	0	1	0	0	0	5	1	0	1	0	1	1	1	1	0	7	0	2	0	0	2	7	1	8	1	4	0	4	0	5	2	16	5	1	0	1	1	3	2	4	1	4	0	2	1	2	1	1	0	4	1	3	0	1	0
+13	rpl5	YP_009186113.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	19	2	6	2	7	2	3	2	5	4	1	1	0	0	4	0	5	3	2	0	3	0	0	2	7	2	0	0	0	0	8	2	10	1	4	1	3	2	4	3	19	8	1	3	1	0	5	0	3	0	1	1	1	0	2	3	5	1	1	1	1	1	1	0
+14	nad1	YP_009186114.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	21	7	31	8	11	0	5	2	9	4	4	0	2	5	6	1	5	4	10	2	2	3	0	1	4	2	1	0	1	1	25	1	11	11	5	0	3	1	11	4	8	1	9	1	5	0	16	2	7	1	11	4	5	1	4	0	6	3	11	2	4	4	0	1
+15	orf138	YP_009186116.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	5	3	12	5	4	0	1	1	5	4	1	0	1	0	0	1	1	2	2	0	0	1	3	1	2	0	0	1	0	0	5	1	6	3	6	2	2	0	12	2	17	5	1	2	2	0	4	1	0	0	2	0	0	0	3	0	4	0	0	1	0	1	1	0
+16	rpl2	YP_009186118.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	10	3	12	2	11	1	7	0	7	1	1	1	0	2	2	0	1	1	6	0	2	1	5	3	3	1	2	2	1	0	13	3	3	4	9	2	4	2	17	4	28	10	5	2	6	4	6	3	5	3	6	1	3	1	3	3	6	1	8	2	12	3	1	0
+17	rps19	YP_009186119.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	2	2	4	1	2	0	1	1	3	1	0	0	0	1	1	1	0	0	0	0	1	0	2	0	3	0	0	0	1	0	4	1	4	3	3	0	1	0	4	1	18	2	1	1	1	0	3	2	2	0	0	1	1	0	2	1	3	0	1	0	1	2	1	0
+18	rps3	YP_009186120.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	24	2	23	3	11	1	5	2	11	2	2	1	1	1	6	1	6	1	0	0	2	0	3	0	15	4	1	0	5	1	19	1	10	1	9	3	9	3	17	9	41	10	8	1	9	4	6	2	5	0	5	0	4	2	5	4	8	7	4	1	3	1	1	0
+19	rpl16	YP_009186121.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	6	0	7	1	3	0	2	2	1	0	1	0	2	0	0	0	3	0	3	1	0	1	1	0	5	0	1	2	2	1	9	2	5	2	3	1	3	1	2	1	18	1	0	2	3	1	4	0	2	1	5	1	4	1	1	0	3	0	6	1	2	5	0	1
+20	atp9	YP_009186122.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	6	1	10	0	1	0	2	0	0	0	0	0	0	0	2	0	2	0	1	0	0	0	0	0	1	0	0	0	1	0	5	2	1	3	1	2	1	0	1	0	3	0	0	0	0	0	0	0	3	0	6	0	7	0	1	0	2	0	3	0	6	1	1	0
+21	nad4L	YP_009186123.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	5	1	16	2	2	0	1	0	3	2	0	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	9	0	11	3	2	2	1	2	5	3	5	0	0	0	1	2	6	1	1	0	2	0	3	1	3	0	1	1	1	0	1	2	1	0
+22	nad11	YP_009186124.1	Skeletonema marinoi	Eukaryota, Stramenopiles, Bacillariophyta, Coscinodiscophyceae, Thalassiosirophycidae, Thalassiosirales, Skeletonemataceae, Skeletonema, Skeletonema marinoi-dohrnii complex	52	7	47	12	20	4	20	4	13	11	14	6	5	1	14	1	12	2	13	1	6	0	14	5	21	4	5	1	3	1	32	2	22	8	11	4	20	2	48	28	60	9	15	10	11	1	15	3	14	3	6	2	10	2	16	11	20	11	8	5	11	10	1	0

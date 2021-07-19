@@ -1,65 +1,13 @@
-	YP_008854979.1|ND1	YP_008854980.1|ND2	YP_008854981.1|COX1	YP_008854982.1|COX2	YP_008854983.1|ATP8	YP_008854984.1|ATP6	YP_008854985.1|COX3	YP_008854986.1|ND3	YP_008854987.1|ND4L	YP_008854988.1|ND4	YP_008854989.1|ND5	YP_008854991.1|CYTB
-TTT	7	5	19	7	1	6	11	6	5	8	19	8
-TTC	10	6	21	2	3	3	11	3	3	9	22	22
-TTA	7	16	21	14	4	14	6	4	8	26	14	15
-TTG	1	2	4	0	0	0	0	0	0	0	0	0
-TCT	1	2	7	4	0	0	0	2	0	2	1	1
-TCC	3	6	7	4	2	1	4	2	4	7	8	7
-TCA	14	6	12	3	1	2	8	0	1	12	15	12
-TCG	1	0	0	0	0	0	0	0	0	0	1	0
-TAT	8	5	15	6	1	2	7	1	0	11	5	7
-TAC	4	3	4	3	0	4	5	1	0	3	7	7
-TGT	0	0	0	1	0	0	1	0	0	1	1	1
-TGC	0	1	1	1	0	0	0	1	3	4	4	2
-TGA	7	11	15	5	5	5	10	5	1	19	13	11
-TGG	1	0	2	0	0	0	2	0	0	1	0	1
-CTT	6	9	16	3	0	7	4	2	0	8	14	6
-CTC	7	5	5	3	0	10	7	3	4	9	12	5
-CTA	37	28	13	8	1	12	14	15	11	38	53	32
-CTG	2	3	6	1	0	6	3	2	0	7	2	4
-CCT	5	0	3	1	0	2	0	1	1	3	2	1
-CCC	7	2	6	3	1	2	2	2	1	3	11	6
-CCA	11	16	17	8	5	13	9	4	0	20	14	15
-CCG	0	0	2	2	0	1	1	1	0	0	1	0
-CAT	1	2	10	4	0	2	6	1	1	3	2	3
-CAC	4	5	9	7	1	1	11	0	3	9	12	9
-CAA	8	14	7	8	1	8	9	3	3	15	15	7
-CAG	0	0	1	0	0	0	0	0	0	0	3	0
-CGT	0	0	0	0	0	1	0	0	0	1	1	0
-CGC	1	1	1	2	0	0	0	1	3	3	0	1
-CGA	6	3	7	4	0	4	5	1	0	6	9	7
-CGG	1	0	0	0	0	1	0	0	0	1	0	0
-ATT	15	21	21	11	4	15	10	8	2	25	39	18
-ATC	10	11	17	5	1	9	4	1	0	14	19	15
-ATA	13	12	19	9	1	8	9	3	4	25	31	8
-ATG	1	2	4	3	1	3	1	1	1	4	2	1
-ACT	1	6	8	2	0	4	1	2	0	4	9	3
-ACC	8	24	6	8	3	2	5	2	2	10	23	6
-ACA	9	21	23	2	1	14	16	7	6	24	28	14
-ACG	0	0	0	0	0	0	0	0	0	1	1	0
-AAT	6	4	9	2	2	5	1	1	0	3	15	4
-AAC	6	8	7	6	2	5	1	2	1	8	15	12
-AAA	7	10	8	4	3	1	1	1	0	9	23	9
-AAG	0	0	0	0	0	1	0	0	0	0	1	0
-AGT	1	2	0	2	0	0	0	0	0	2	1	1
-AGC	3	3	4	2	1	4	3	0	3	5	8	0
-GTT	3	1	10	8	0	2	4	0	1	3	6	4
-GTC	1	0	2	3	0	4	2	1	0	5	5	4
-GTA	11	5	26	10	1	10	8	3	1	10	9	17
-GTG	3	0	6	1	0	0	1	0	0	0	3	1
-GCT	5	4	10	4	0	2	6	2	1	4	10	3
-GCC	13	15	19	4	2	10	10	3	7	17	19	7
-GCA	14	22	13	6	1	6	6	1	5	16	21	18
-GCG	1	1	2	1	0	0	0	0	1	0	1	0
-GAT	1	2	6	1	1	0	3	1	0	0	4	2
-GAC	3	1	8	9	1	1	2	3	1	2	10	9
-GAA	10	5	8	11	2	4	9	7	2	9	8	6
-GAG	1	0	3	5	0	0	1	0	1	3	3	0
-GGT	0	0	7	1	0	0	1	1	1	2	1	0
-GGC	4	2	9	1	1	3	6	0	3	7	7	9
-GGA	13	15	24	4	0	7	10	4	3	17	20	16
-GGG	1	0	6	1	0	0	4	1	0	2	3	1
-TAA	1	0	1	0	0	0	0	0	1	0	1	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_008854979.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	7	10	7	1	1	3	14	1	8	4	0	0	7	1	6	7	37	2	5	7	11	0	1	4	8	0	0	1	6	1	15	10	13	1	1	8	9	0	6	6	7	0	1	3	3	1	11	3	5	13	14	1	1	3	10	1	0	4	13	1	1	0	0	0
+1	ND2	YP_008854980.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	5	6	16	2	2	6	6	0	5	3	0	1	11	0	9	5	28	3	0	2	16	0	2	5	14	0	0	1	3	0	21	11	12	2	6	24	21	0	4	8	10	0	2	3	1	0	5	0	4	15	22	1	2	1	5	0	0	2	15	0	0	0	0	0
+2	COX1	YP_008854981.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	19	21	21	4	7	7	12	0	15	4	0	1	15	2	16	5	13	6	3	6	17	2	10	9	7	1	0	1	7	0	21	17	19	4	8	6	23	0	9	7	8	0	0	4	10	2	26	6	10	19	13	2	6	8	8	3	7	9	24	6	1	0	0	0
+3	COX2	YP_008854982.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	7	2	14	0	4	4	3	0	6	3	1	1	5	0	3	3	8	1	1	3	8	2	4	7	8	0	0	2	4	0	11	5	9	3	2	8	2	0	2	6	4	0	2	2	8	3	10	1	4	4	6	1	1	9	11	5	1	1	4	1	0	0	0	0
+4	ATP8	YP_008854983.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	1	3	4	0	0	2	1	0	1	0	0	0	5	0	0	0	1	0	0	1	5	0	0	1	1	0	0	0	0	0	4	1	1	1	0	3	1	0	2	2	3	0	0	1	0	0	1	0	0	2	1	0	1	1	2	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_008854984.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	6	3	14	0	0	1	2	0	2	4	0	0	5	0	7	10	12	6	2	2	13	1	2	1	8	0	1	0	4	1	15	9	8	3	4	2	14	0	5	5	1	1	0	4	2	4	10	0	2	10	6	0	0	1	4	0	0	3	7	0	0	0	0	0
+6	COX3	YP_008854985.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	11	11	6	0	0	4	8	0	7	5	1	0	10	2	4	7	14	3	0	2	9	1	6	11	9	0	0	0	5	0	10	4	9	1	1	5	16	0	1	1	1	0	0	3	4	2	8	1	6	10	6	0	3	2	9	1	1	6	10	4	0	0	0	0
+7	ND3	YP_008854986.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	6	3	4	0	2	2	0	0	1	1	0	1	5	0	2	3	15	2	1	2	4	1	1	0	3	0	0	1	1	0	8	1	3	1	2	2	7	0	1	2	1	0	0	0	0	1	3	0	2	3	1	0	1	3	7	0	1	0	4	1	0	0	0	0
+8	ND4L	YP_008854987.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	5	3	8	0	0	4	1	0	0	0	0	3	1	0	0	4	11	0	1	1	0	0	1	3	3	0	0	3	0	0	2	0	4	1	0	2	6	0	0	1	0	0	0	3	1	0	1	0	1	7	5	1	0	1	2	1	1	3	3	0	1	0	0	0
+9	ND4	YP_008854988.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	8	9	26	0	2	7	12	0	11	3	1	4	19	1	8	9	38	7	3	3	20	0	3	9	15	0	1	3	6	1	25	14	25	4	4	10	24	1	3	8	9	0	2	5	3	5	10	0	4	17	16	0	0	2	9	3	2	7	17	2	0	0	0	0
+10	ND5	YP_008854989.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	19	22	14	0	1	8	15	1	5	7	1	4	13	0	14	12	53	2	2	11	14	1	2	12	15	3	1	0	9	0	39	19	31	2	9	23	28	1	15	15	23	1	1	8	6	5	9	3	10	19	21	1	4	10	8	3	1	7	20	3	1	0	0	0
+11	CYTB	YP_008854991.1	Osteochilus schlegelii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Osteochilus	8	22	15	0	1	7	12	0	7	7	1	2	11	1	6	5	32	4	1	6	15	0	3	9	7	0	0	1	7	0	18	15	8	1	3	6	14	0	4	12	9	0	1	0	4	4	17	1	3	7	18	0	2	9	6	0	0	9	16	1	1	0	0	0

@@ -1,65 +1,10 @@
-	YP_006575952.1|ND2	YP_006575953.1|COX1	YP_006575954.1|COX2	YP_006575955.1|ATP8	YP_006575956.1|ATP6	YP_006575957.1|COX3	YP_006575958.1|ND3	YP_006575962.1|ND6	YP_006575963.1|CYTB
-TTT	43	34	15	11	25	24	15	23	33
-TTC	6	3	1	0	1	3	2	3	2
-TTA	42	45	23	2	28	26	10	29	36
-TTG	0	1	0	0	0	0	0	0	0
-TCT	17	20	5	0	4	10	5	5	8
-TCC	4	5	3	0	3	1	0	1	0
-TCA	10	11	5	1	4	4	3	2	6
-TCG	1	0	0	0	0	0	0	0	0
-TAT	10	19	7	3	4	12	2	10	19
-TAC	1	3	0	1	0	0	0	2	3
-TGT	3	0	1	0	0	2	2	1	3
-TGC	0	0	1	0	0	0	0	0	0
-TGA	9	14	6	3	5	13	3	1	12
-TGG	0	0	0	0	0	0	0	0	0
-CTT	5	9	6	0	6	4	3	2	10
-CTC	1	0	1	0	1	0	0	0	1
-CTA	1	6	0	1	1	1	1	1	3
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	16	5	1	3	5	5	1	14
-CCC	2	2	0	0	0	2	0	0	0
-CCA	4	8	4	1	6	3	1	1	8
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	13	4	0	6	12	1	1	7
-CAC	0	2	1	0	0	1	1	0	1
-CAA	4	9	7	1	3	6	1	3	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	2	1	3	0	1	1	0	0	0
-CGC	0	0	0	0	1	1	0	0	0
-CGA	0	8	4	0	1	2	2	1	7
-CGG	0	0	0	0	0	0	0	0	0
-ATT	53	60	32	7	30	26	22	24	57
-ATC	3	1	0	1	2	1	0	2	5
-ATA	28	34	10	5	14	10	4	14	16
-ATG	1	1	1	0	1	1	0	0	1
-ACT	3	16	8	0	9	9	2	5	7
-ACC	0	2	1	0	1	0	0	0	3
-ACA	3	13	1	0	8	9	4	1	13
-ACG	0	1	0	0	0	0	1	0	0
-AAT	32	24	24	7	16	15	5	15	27
-AAC	4	2	4	0	1	1	0	2	2
-AAA	14	6	4	7	7	4	7	8	10
-AAG	0	0	0	0	0	0	0	0	0
-AGT	1	4	2	0	3	0	1	0	1
-AGC	1	0	0	0	0	0	0	0	0
-AGA	4	6	1	0	8	6	0	1	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	10	2	0	0	4	0	1	6
-GTC	0	1	0	0	0	0	0	1	1
-GTA	1	10	4	0	3	6	3	1	4
-GTG	0	0	0	0	0	1	0	0	0
-GCT	4	14	4	0	3	5	2	2	10
-GCC	1	1	0	0	0	1	0	0	0
-GCA	1	10	2	0	3	2	0	0	5
-GCG	0	0	0	0	0	1	0	0	0
-GAT	0	12	8	0	0	3	3	1	7
-GAC	0	2	0	0	1	1	0	0	0
-GAA	4	9	9	0	4	5	3	3	4
-GAG	0	0	0	0	0	1	1	0	0
-GGT	4	12	3	0	1	5	0	2	2
-GGC	0	1	0	0	0	0	0	0	0
-GGA	7	29	4	0	7	11	2	3	16
-GGG	0	3	0	0	0	0	0	0	4
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006575952.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	43	6	42	0	17	4	10	1	10	1	3	0	9	0	5	1	1	0	2	2	4	0	0	0	4	0	2	0	0	0	53	3	28	1	3	0	3	0	32	4	14	0	1	1	4	0	0	0	1	0	4	1	1	0	0	0	4	0	4	0	7	0	1	0
+1	COX1	YP_006575953.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	34	3	45	1	20	5	11	0	19	3	0	0	14	0	9	0	6	0	16	2	8	0	13	2	9	0	1	0	8	0	60	1	34	1	16	2	13	1	24	2	6	0	4	0	6	0	10	1	10	0	14	1	10	0	12	2	9	0	12	1	29	3	0	0
+2	COX2	YP_006575954.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	15	1	23	0	5	3	5	0	7	0	1	1	6	0	6	1	0	0	5	0	4	0	4	1	7	0	3	0	4	0	32	0	10	1	8	1	1	0	24	4	4	0	2	0	1	0	2	0	4	0	4	0	2	0	8	0	9	0	3	0	4	0	0	0
+3	ATP8	YP_006575955.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	11	0	2	0	0	0	1	0	3	1	0	0	3	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	0	7	1	5	0	0	0	0	0	7	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_006575956.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	25	1	28	0	4	3	4	0	4	0	0	0	5	0	6	1	1	0	3	0	6	0	6	0	3	0	1	1	1	0	30	2	14	1	9	1	8	0	16	1	7	0	3	0	8	0	0	0	3	0	3	0	3	0	0	1	4	0	1	0	7	0	1	0
+5	COX3	YP_006575957.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	24	3	26	0	10	1	4	0	12	0	2	0	13	0	4	0	1	0	5	2	3	0	12	1	6	0	1	1	2	0	26	1	10	1	9	0	9	0	15	1	4	0	0	0	6	0	4	0	6	1	5	1	2	1	3	1	5	1	5	0	11	0	1	0
+6	ND3	YP_006575958.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	15	2	10	0	5	0	3	0	2	0	2	0	3	0	3	0	1	0	5	0	1	0	1	1	1	0	0	0	2	0	22	0	4	0	2	0	4	1	5	0	7	0	1	0	0	0	0	0	3	0	2	0	0	0	3	0	3	1	0	0	2	0	0	1
+7	ND6	YP_006575962.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	23	3	29	0	5	1	2	0	10	2	1	0	1	0	2	0	1	0	1	0	1	0	1	0	3	0	0	0	1	0	24	2	14	0	5	0	1	0	15	2	8	0	0	0	1	0	1	1	1	0	2	0	0	0	1	0	3	0	2	0	3	0	1	0
+8	CYTB	YP_006575963.1	Aporia crataegi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Pieridae, Pierinae, Aporia	33	2	36	0	8	0	6	0	19	3	3	0	12	0	10	1	3	0	14	0	8	0	7	1	8	0	0	0	7	0	57	5	16	1	7	3	13	0	27	2	10	0	1	0	1	0	6	1	4	0	10	0	5	0	7	0	4	0	2	0	16	4	1	0

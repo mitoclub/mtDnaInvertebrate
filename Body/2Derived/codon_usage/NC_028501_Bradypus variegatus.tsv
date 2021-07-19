@@ -1,65 +1,13 @@
-	YP_009182338.1|ND1	YP_009182339.1|ND2	YP_009182340.1|COX1	YP_009182341.1|COX2	YP_009182342.1|ATP8	YP_009182343.1|ATP6	YP_009182344.1|COX3	YP_009182345.1|ND3	YP_009182346.1|ND4L	YP_009182347.1|ND4	YP_009182348.1|ND5	YP_009182350.1|CYTB
-TTT	8	5	13	3	2	6	8	3	2	4	13	3
-TTC	12	5	29	5	3	4	16	4	2	10	26	17
-TTA	5	8	9	4	3	3	4	3	1	6	8	3
-TTG	1	0	4	1	1	1	1	0	1	3	1	0
-TCT	3	6	5	0	0	2	5	2	0	2	6	3
-TCC	5	6	8	5	0	3	4	1	4	10	12	7
-TCA	7	11	15	9	2	4	8	5	2	11	12	8
-TCG	2	1	0	1	0	0	0	1	1	3	5	1
-TAT	1	2	5	4	1	0	1	1	0	4	2	0
-TAC	5	7	12	5	0	3	8	3	3	10	11	14
-TGT	0	0	0	1	1	0	1	0	2	0	1	0
-TGC	2	1	1	1	0	0	1	1	1	3	3	5
-TGA	9	10	15	5	2	2	12	4	0	11	11	11
-TGG	0	0	2	0	1	1	0	0	0	2	2	1
-CTT	4	6	3	6	1	3	4	2	2	9	10	1
-CTC	14	14	12	5	2	9	7	6	7	17	26	17
-CTA	32	27	22	12	2	18	13	13	12	49	47	36
-CTG	5	6	10	6	0	7	4	2	2	13	16	6
-CCT	2	1	8	2	2	2	1	1	0	2	1	1
-CCC	7	8	7	5	5	8	4	0	1	13	10	5
-CCA	13	10	12	6	4	5	4	5	1	13	16	15
-CCG	0	0	3	1	1	1	2	0	0	0	3	3
-CAT	0	0	8	1	0	0	2	0	1	1	4	3
-CAC	9	4	11	8	2	6	14	0	2	9	15	12
-CAA	6	11	6	6	3	4	7	3	2	9	18	4
-CAG	1	1	1	1	0	3	0	0	0	3	2	2
-CGT	0	0	1	0	0	1	0	0	0	0	1	0
-CGC	2	2	3	1	0	1	2	0	0	6	6	2
-CGA	4	3	4	3	0	3	3	1	1	2	2	5
-CGG	1	0	0	2	0	0	0	0	0	1	2	0
-ATT	10	8	23	9	0	4	6	2	3	16	12	10
-ATC	15	26	18	12	3	18	9	6	4	26	38	27
-ATA	12	24	21	9	2	11	7	3	5	21	28	12
-ATG	4	5	10	7	1	3	3	0	3	8	1	2
-ACT	2	7	4	4	1	6	5	3	1	6	7	5
-ACC	16	27	16	9	2	11	9	4	4	31	37	15
-ACA	9	22	14	3	5	8	11	5	4	18	19	20
-ACG	2	2	6	2	2	2	0	0	1	3	5	1
-AAT	2	2	3	2	1	4	2	1	0	4	8	3
-AAC	11	12	13	7	0	9	5	4	4	16	26	14
-AAA	8	9	8	3	6	4	3	1	0	11	15	8
-AAG	0	2	1	0	0	0	0	2	0	1	5	1
-AGT	1	0	2	3	0	1	2	0	0	3	1	1
-AGC	2	2	1	0	1	2	3	1	1	7	10	3
-GTT	0	0	4	2	1	1	2	0	0	3	1	0
-GTC	2	2	5	2	1	2	4	1	1	4	5	3
-GTA	7	4	19	3	0	5	7	1	2	2	9	7
-GTG	1	1	6	0	0	2	3	0	0	2	3	1
-GCT	2	1	6	3	0	4	1	1	1	5	2	2
-GCC	12	10	17	5	1	7	9	5	3	10	15	8
-GCA	13	6	16	0	0	8	2	1	2	6	18	9
-GCG	1	0	2	0	1	1	1	0	1	2	2	2
-GAT	1	0	5	2	0	0	2	0	1	0	2	2
-GAC	2	0	10	8	1	0	1	3	0	3	7	8
-GAA	10	5	11	13	0	3	7	4	2	6	9	5
-GAG	1	0	0	2	0	0	1	2	0	1	2	0
-GGT	1	0	6	0	0	0	3	0	2	2	1	2
-GGC	5	5	18	4	0	4	3	1	0	4	11	9
-GGA	4	9	19	3	0	6	14	2	2	11	14	11
-GGG	2	1	4	1	0	0	0	1	1	1	2	3
-TAA	0	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009182338.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	8	12	5	1	3	5	7	2	1	5	0	2	9	0	4	14	32	5	2	7	13	0	0	9	6	1	0	2	4	1	10	15	12	4	2	16	9	2	2	11	8	0	1	2	0	2	7	1	2	12	13	1	1	2	10	1	1	5	4	2	0	0	0	0
+1	ND2	YP_009182339.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	5	5	8	0	6	6	11	1	2	7	0	1	10	0	6	14	27	6	1	8	10	0	0	4	11	1	0	2	3	0	8	26	24	5	7	27	22	2	2	12	9	2	0	2	0	2	4	1	1	10	6	0	0	0	5	0	0	5	9	1	0	0	0	0
+2	COX1	YP_009182340.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	13	29	9	4	5	8	15	0	5	12	0	1	15	2	3	12	22	10	8	7	12	3	8	11	6	1	1	3	4	0	23	18	21	10	4	16	14	6	3	13	8	1	2	1	4	5	19	6	6	17	16	2	5	10	11	0	6	18	19	4	0	0	0	1
+3	COX2	YP_009182341.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	3	5	4	1	0	5	9	1	4	5	1	1	5	0	6	5	12	6	2	5	6	1	1	8	6	1	0	1	3	2	9	12	9	7	4	9	3	2	2	7	3	0	3	0	2	2	3	0	3	5	0	0	2	8	13	2	0	4	3	1	1	0	0	0
+4	ATP8	YP_009182342.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	2	3	3	1	0	0	2	0	1	0	1	0	2	1	1	2	2	0	2	5	4	1	0	2	3	0	0	0	0	0	0	3	2	1	1	2	5	2	1	0	6	0	0	1	1	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009182343.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	6	4	3	1	2	3	4	0	0	3	0	0	2	1	3	9	18	7	2	8	5	1	0	6	4	3	1	1	3	0	4	18	11	3	6	11	8	2	4	9	4	0	1	2	1	2	5	2	4	7	8	1	0	0	3	0	0	4	6	0	1	0	0	0
+6	COX3	YP_009182344.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	8	16	4	1	5	4	8	0	1	8	1	1	12	0	4	7	13	4	1	4	4	2	2	14	7	0	0	2	3	0	6	9	7	3	5	9	11	0	2	5	3	0	2	3	2	4	7	3	1	9	2	1	2	1	7	1	3	3	14	0	0	0	0	0
+7	ND3	YP_009182345.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	3	4	3	0	2	1	5	1	1	3	0	1	4	0	2	6	13	2	1	0	5	0	0	0	3	0	0	0	1	0	2	6	3	0	3	4	5	0	1	4	1	2	0	1	0	1	1	0	1	5	1	0	0	3	4	2	0	1	2	1	0	0	0	0
+8	ND4L	YP_009182346.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	2	2	1	1	0	4	2	1	0	3	2	1	0	0	2	7	12	2	0	1	1	0	1	2	2	0	0	0	1	0	3	4	5	3	1	4	4	1	0	4	0	0	0	1	0	1	2	0	1	3	2	1	1	0	2	0	2	0	2	1	1	0	0	0
+9	ND4	YP_009182347.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	4	10	6	3	2	10	11	3	4	10	0	3	11	2	9	17	49	13	2	13	13	0	1	9	9	3	0	6	2	1	16	26	21	8	6	31	18	3	4	16	11	1	3	7	3	4	2	2	5	10	6	2	0	3	6	1	2	4	11	1	0	0	0	0
+10	ND5	YP_009182348.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	13	26	8	1	6	12	12	5	2	11	1	3	11	2	10	26	47	16	1	10	16	3	4	15	18	2	1	6	2	2	12	38	28	1	7	37	19	5	8	26	15	5	1	10	1	5	9	3	2	15	18	2	2	7	9	2	1	11	14	2	1	0	0	0
+11	CYTB	YP_009182350.1	Bradypus variegatus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Xenarthra, Pilosa, Folivora, Bradypodidae, Bradypus	3	17	3	0	3	7	8	1	0	14	0	5	11	1	1	17	36	6	1	5	15	3	3	12	4	2	0	2	5	0	10	27	12	2	5	15	20	1	3	14	8	1	1	3	0	3	7	1	2	8	9	2	2	8	5	0	2	9	11	3	1	0	0	0

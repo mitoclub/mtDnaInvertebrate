@@ -1,65 +1,13 @@
-	YP_009113976.1|ND1	YP_009113977.1|ND2	YP_009113978.1|COX1	YP_009113979.1|COX2	YP_009113980.1|ATP8	YP_009113981.1|ATP6	YP_009113982.1|COX3	YP_009113983.1|ND3	YP_009113984.1|ND4L	YP_009113985.1|ND4	YP_009113986.1|ND5	YP_009113988.1|CYTB
-TTT	4	4	17	5	0	3	9	1	4	9	13	7
-TTC	16	7	20	3	0	4	15	5	0	9	16	19
-TTA	17	20	14	4	1	13	7	4	6	12	21	7
-TTG	1	0	0	0	0	0	0	0	0	0	1	1
-TCT	2	8	4	3	0	0	2	0	0	5	6	0
-TCC	12	7	7	3	2	4	4	1	3	12	12	9
-TCA	13	10	16	6	0	6	5	6	4	13	20	12
-TCG	0	1	2	0	0	0	0	0	2	0	0	0
-TAT	6	2	7	1	0	0	2	1	0	5	4	3
-TAC	8	5	11	8	1	2	9	1	1	6	18	10
-TGT	1	2	0	0	0	0	0	1	0	2	0	1
-TGC	0	0	1	2	0	0	1	0	3	2	6	3
-TGA	7	11	14	5	5	4	11	5	1	10	11	9
-TGG	1	0	3	0	0	0	1	1	0	2	0	1
-CTT	4	14	12	6	2	9	1	2	5	12	9	7
-CTC	11	4	10	4	0	5	6	3	3	8	15	13
-CTA	26	31	23	13	3	27	15	20	10	53	48	25
-CTG	5	1	2	2	0	0	2	0	1	5	1	7
-CCT	2	2	3	1	0	1	1	2	0	0	1	2
-CCC	11	7	5	4	0	6	3	2	3	10	8	7
-CCA	11	7	22	8	7	11	8	3	0	13	21	15
-CCG	0	0	1	0	0	0	1	0	0	2	0	0
-CAT	0	2	7	4	0	2	4	0	0	1	6	3
-CAC	3	9	10	6	1	1	10	0	4	11	13	9
-CAA	8	13	6	11	3	10	8	1	5	15	17	8
-CAG	0	2	1	1	0	0	0	1	0	1	0	0
-CGT	1	0	1	0	0	2	0	0	0	0	0	0
-CGC	0	0	1	0	0	0	0	0	0	2	2	0
-CGA	6	4	6	4	1	3	5	1	1	8	6	6
-CGG	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	4	11	17	7	1	11	8	4	4	18	24	7
-ATC	13	10	23	11	4	11	6	6	2	23	24	26
-ATA	21	30	30	14	1	15	12	9	4	22	37	18
-ATG	2	3	6	0	1	3	0	1	1	1	2	1
-ACT	3	7	9	4	3	4	5	0	1	9	13	2
-ACC	8	14	13	7	4	10	4	3	9	25	32	10
-ACA	10	17	14	10	1	13	17	3	1	29	28	17
-ACG	1	1	1	0	0	0	0	0	0	0	1	0
-AAT	3	4	8	1	0	4	1	1	0	0	9	4
-AAC	9	11	10	4	4	7	6	5	3	16	12	19
-AAA	7	12	10	4	5	4	5	1	0	9	23	9
-AAG	0	1	0	0	0	0	0	0	0	2	2	1
-AGT	0	4	1	0	0	0	1	0	2	2	1	0
-AGC	2	2	3	4	0	3	4	0	0	7	6	1
-GTT	0	1	2	2	0	0	2	0	0	1	1	0
-GTC	1	1	10	3	0	3	5	1	0	4	0	7
-GTA	9	4	19	8	0	2	8	0	2	5	10	8
-GTG	2	0	3	0	0	1	0	0	0	2	1	1
-GCT	3	3	8	2	0	3	2	2	0	10	7	4
-GCC	9	12	19	3	0	6	9	4	5	11	22	12
-GCA	8	5	11	6	0	2	6	2	1	4	12	5
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	0	0	5	4	0	0	1	1	0	0	0	1
-GAC	4	0	10	7	1	1	2	1	0	3	12	8
-GAA	10	5	10	13	1	4	6	7	2	8	14	5
-GAG	1	0	0	2	0	0	2	0	0	0	0	0
-GGT	1	2	5	0	0	0	0	1	1	3	1	1
-GGC	5	4	6	2	0	5	4	1	1	7	8	9
-GGA	10	6	34	4	0	3	15	0	2	8	12	12
-GGG	0	4	2	1	1	0	0	2	1	2	1	3
-TAA	0	1	0	0	0	1	0	0	1	0	1	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009113976.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	4	16	17	1	2	12	13	0	6	8	1	0	7	1	4	11	26	5	2	11	11	0	0	3	8	0	1	0	6	0	4	13	21	2	3	8	10	1	3	9	7	0	0	2	0	1	9	2	3	9	8	0	0	4	10	1	1	5	10	0	0	0	0	0
+1	ND2	YP_009113977.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	4	7	20	0	8	7	10	1	2	5	2	0	11	0	14	4	31	1	2	7	7	0	2	9	13	2	0	0	4	0	11	10	30	3	7	14	17	1	4	11	12	1	4	2	1	1	4	0	3	12	5	0	0	0	5	0	2	4	6	4	1	0	0	0
+2	COX1	YP_009113978.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	17	20	14	0	4	7	16	2	7	11	0	1	14	3	12	10	23	2	3	5	22	1	7	10	6	1	1	1	6	0	17	23	30	6	9	13	14	1	8	10	10	0	1	3	2	10	19	3	8	19	11	0	5	10	10	0	5	6	34	2	0	0	1	0
+3	COX2	YP_009113979.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	5	3	4	0	3	3	6	0	1	8	0	2	5	0	6	4	13	2	1	4	8	0	4	6	11	1	0	0	4	0	7	11	14	0	4	7	10	0	1	4	4	0	0	4	2	3	8	0	2	3	6	0	4	7	13	2	0	2	4	1	0	0	0	0
+4	ATP8	YP_009113980.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	0	0	1	0	0	2	0	0	0	1	0	0	5	0	2	0	3	0	0	0	7	0	0	1	3	0	0	0	1	0	1	4	1	1	3	4	1	0	0	4	5	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0
+5	ATP6	YP_009113981.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	3	4	13	0	0	4	6	0	0	2	0	0	4	0	9	5	27	0	1	6	11	0	2	1	10	0	2	0	3	0	11	11	15	3	4	10	13	0	4	7	4	0	0	3	0	3	2	1	3	6	2	0	0	1	4	0	0	5	3	0	1	0	0	0
+6	COX3	YP_009113982.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	9	15	7	0	2	4	5	0	2	9	0	1	11	1	1	6	15	2	1	3	8	1	4	10	8	0	0	0	5	0	8	6	12	0	5	4	17	0	1	6	5	0	1	4	2	5	8	0	2	9	6	0	1	2	6	2	0	4	15	0	0	0	0	0
+7	ND3	YP_009113983.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	1	5	4	0	0	1	6	0	1	1	1	0	5	1	2	3	20	0	2	2	3	0	0	0	1	1	0	0	1	0	4	6	9	1	0	3	3	0	1	5	1	0	0	0	0	1	0	0	2	4	2	0	1	1	7	0	1	1	0	2	0	0	0	0
+8	ND4L	YP_009113984.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	4	0	6	0	0	3	4	2	0	1	0	3	1	0	5	3	10	1	0	3	0	0	0	4	5	0	0	0	1	0	4	2	4	1	1	9	1	0	0	3	0	0	2	0	0	0	2	0	0	5	1	0	0	0	2	0	1	1	2	1	1	0	0	0
+9	ND4	YP_009113985.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	9	9	12	0	5	12	13	0	5	6	2	2	10	2	12	8	53	5	0	10	13	2	1	11	15	1	0	2	8	0	18	23	22	1	9	25	29	0	0	16	9	2	2	7	1	4	5	2	10	11	4	0	0	3	8	0	3	7	8	2	0	0	0	0
+10	ND5	YP_009113986.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	13	16	21	1	6	12	20	0	4	18	0	6	11	0	9	15	48	1	1	8	21	0	6	13	17	0	0	2	6	0	24	24	37	2	13	32	28	1	9	12	23	2	1	6	1	0	10	1	7	22	12	0	0	12	14	0	1	8	12	1	1	0	0	0
+11	CYTB	YP_009113988.1	Platemys platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Testudines, Pleurodira, Chelidae, Platemys	7	19	7	1	0	9	12	0	3	10	1	3	9	1	7	13	25	7	2	7	15	0	3	9	8	0	0	0	6	0	7	26	18	1	2	10	17	0	4	19	9	1	0	1	0	7	8	1	4	12	5	0	1	8	5	0	1	9	12	3	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_009257125.1|ND1	YP_009257126.1|ND2	YP_009257127.1|COX1	YP_009257128.1|COX2	YP_009257129.1|ATP8	YP_009257130.1|ATP6	YP_009257131.1|COX3	YP_009257132.1|ND3	YP_009257133.1|ND4L	YP_009257134.1|ND4	YP_009257135.1|ND5	YP_009257137.1|CYTB
-TTT	7	3	20	2	1	6	12	5	1	8	16	11
-TTC	10	6	21	6	3	4	11	2	5	6	25	19
-TTA	9	5	10	4	1	7	2	6	2	7	10	6
-TTG	2	0	2	0	0	1	1	0	0	2	2	2
-TCT	3	1	6	2	0	0	2	1	1	0	5	3
-TCC	8	7	8	8	1	1	4	3	5	14	12	10
-TCA	5	8	9	4	1	1	2	2	0	8	11	7
-TCG	1	0	2	0	0	0	1	0	1	0	1	1
-TAT	2	4	7	4	0	0	4	1	1	7	4	4
-TAC	12	5	12	6	0	3	8	1	0	7	7	9
-TGT	1	1	0	1	0	0	0	0	0	2	2	0
-TGC	0	0	1	1	0	0	2	2	3	4	4	3
-TGA	8	10	15	5	5	5	12	3	1	17	11	11
-TGG	0	1	2	0	0	0	0	2	0	2	3	1
-CTT	5	6	9	4	2	4	7	3	3	10	9	9
-CTC	11	13	8	5	0	16	5	5	8	18	22	18
-CTA	31	30	20	13	3	22	11	11	10	37	44	21
-CTG	3	8	13	2	0	6	5	2	1	12	7	5
-CCT	3	1	5	2	1	2	2	2	1	2	1	1
-CCC	8	10	12	5	5	10	6	4	0	10	15	9
-CCA	12	7	7	6	3	4	3	2	1	13	13	8
-CCG	1	0	4	1	0	1	1	0	0	2	2	3
-CAT	2	1	5	3	2	1	0	0	1	2	4	1
-CAC	3	4	14	7	0	3	14	0	4	7	12	11
-CAA	6	11	6	8	1	9	9	3	3	12	20	7
-CAG	0	3	2	0	0	0	0	0	0	0	2	2
-CGT	0	0	2	0	0	0	0	0	1	1	0	0
-CGC	1	0	2	1	0	3	3	1	0	2	2	0
-CGA	7	4	3	5	0	3	4	1	1	7	5	8
-CGG	0	0	1	0	0	0	0	0	0	1	2	0
-ATT	8	10	22	12	2	9	6	5	1	28	27	10
-ATC	17	18	14	6	1	10	8	4	0	16	30	17
-ATA	11	21	11	7	1	5	6	2	4	18	20	8
-ATG	2	4	13	5	1	4	2	1	2	9	8	3
-ACT	3	7	4	2	1	3	2	0	0	3	8	1
-ACC	11	21	14	2	3	9	10	6	8	21	28	9
-ACA	7	20	15	6	0	7	11	1	2	14	27	12
-ACG	0	1	3	1	1	2	0	0	0	3	0	3
-AAT	3	3	6	2	1	1	1	0	2	1	3	6
-AAC	10	10	8	3	2	9	1	2	0	14	27	15
-AAA	7	10	7	4	3	0	2	1	0	9	22	8
-AAG	0	0	1	0	1	1	0	0	0	1	0	1
-AGT	0	4	0	1	0	1	0	0	0	1	1	0
-AGC	2	3	5	2	1	4	3	0	2	4	13	1
-GTT	2	0	7	2	2	4	2	1	0	3	5	5
-GTC	3	4	10	4	0	3	9	1	0	3	4	6
-GTA	11	3	20	9	0	6	8	0	2	8	9	8
-GTG	1	0	9	5	1	2	0	1	0	2	3	7
-GCT	4	3	8	2	0	3	2	0	1	1	5	3
-GCC	15	19	27	5	0	10	10	5	7	23	32	16
-GCA	12	13	10	7	0	5	11	8	3	12	12	8
-GCG	1	1	3	1	1	1	1	0	0	4	2	0
-GAT	2	0	5	0	0	0	3	1	0	1	2	0
-GAC	2	2	10	12	0	1	2	3	1	2	10	11
-GAA	9	5	7	15	3	4	9	5	3	10	10	3
-GAG	2	1	3	1	0	0	1	1	0	3	1	1
-GGT	3	2	7	0	0	2	0	0	0	1	3	2
-GGC	8	7	17	3	1	5	6	2	2	11	10	9
-GGA	4	5	14	5	0	3	9	1	4	10	14	14
-GGG	3	2	9	1	0	1	5	3	0	4	4	3
-TAA	0	0	1	0	1	1	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009257125.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	7	10	9	2	3	8	5	1	2	12	1	0	8	0	5	11	31	3	3	8	12	1	2	3	6	0	0	1	7	0	8	17	11	2	3	11	7	0	3	10	7	0	0	2	2	3	11	1	4	15	12	1	2	2	9	2	3	8	4	3	0	1	0	0
+1	ND2	YP_009257126.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	3	6	5	0	1	7	8	0	4	5	1	0	10	1	6	13	30	8	1	10	7	0	1	4	11	3	0	0	4	0	10	18	21	4	7	21	20	1	3	10	10	0	4	3	0	4	3	0	3	19	13	1	0	2	5	1	2	7	5	2	0	0	0	0
+2	COX1	YP_009257127.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	20	21	10	2	6	8	9	2	7	12	0	1	15	2	9	8	20	13	5	12	7	4	5	14	6	2	2	2	3	1	22	14	11	13	4	14	15	3	6	8	7	1	0	5	7	10	20	9	8	27	10	3	5	10	7	3	7	17	14	9	1	0	0	0
+3	COX2	YP_009257128.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	2	6	4	0	2	8	4	0	4	6	1	1	5	0	4	5	13	2	2	5	6	1	3	7	8	0	0	1	5	0	12	6	7	5	2	2	6	1	2	3	4	0	1	2	2	4	9	5	2	5	7	1	0	12	15	1	0	3	5	1	0	0	0	0
+4	ATP8	YP_009257129.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	1	3	1	0	0	1	1	0	0	0	0	0	5	0	2	0	3	0	1	5	3	0	2	0	1	0	0	0	0	0	2	1	1	1	1	3	0	1	1	2	3	1	0	1	2	0	0	1	0	0	0	1	0	0	3	0	0	1	0	0	1	0	0	0
+5	ATP6	YP_009257130.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	6	4	7	1	0	1	1	0	0	3	0	0	5	0	4	16	22	6	2	10	4	1	1	3	9	0	0	3	3	0	9	10	5	4	3	9	7	2	1	9	0	1	1	4	4	3	6	2	3	10	5	1	0	1	4	0	2	5	3	1	1	0	0	0
+6	COX3	YP_009257131.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	12	11	2	1	2	4	2	1	4	8	0	2	12	0	7	5	11	5	2	6	3	1	0	14	9	0	0	3	4	0	6	8	6	2	2	10	11	0	1	1	2	0	0	3	2	9	8	0	2	10	11	1	3	2	9	1	0	6	9	5	0	0	0	0
+7	ND3	YP_009257132.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	5	2	6	0	1	3	2	0	1	1	0	2	3	2	3	5	11	2	2	4	2	0	0	0	3	0	0	1	1	0	5	4	2	1	0	6	1	0	0	2	1	0	0	0	1	1	0	1	0	5	8	0	1	3	5	1	0	2	1	3	0	0	0	0
+8	ND4L	YP_009257133.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	1	5	2	0	1	5	0	1	1	0	0	3	1	0	3	8	10	1	1	0	1	0	1	4	3	0	1	0	1	0	1	0	4	2	0	8	2	0	2	0	0	0	0	2	0	0	2	0	1	7	3	0	0	1	3	0	0	2	4	0	1	0	0	0
+9	ND4	YP_009257134.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	8	6	7	2	0	14	8	0	7	7	2	4	17	2	10	18	37	12	2	10	13	2	2	7	12	0	1	2	7	1	28	16	18	9	3	21	14	3	1	14	9	1	1	4	3	3	8	2	1	23	12	4	1	2	10	3	1	11	10	4	0	0	0	0
+10	ND5	YP_009257135.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	16	25	10	2	5	12	11	1	4	7	2	4	11	3	9	22	44	7	1	15	13	2	4	12	20	2	0	2	5	2	27	30	20	8	8	28	27	0	3	27	22	0	1	13	5	4	9	3	5	32	12	2	2	10	10	1	3	10	14	4	1	0	0	0
+11	CYTB	YP_009257137.1	Acipenser fulvescens	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Chondrostei, Acipenseriformes, Acipenseridae, Acipenser	11	19	6	2	3	10	7	1	4	9	0	3	11	1	9	18	21	5	1	9	8	3	1	11	7	2	0	0	8	0	10	17	8	3	1	9	12	3	6	15	8	1	0	1	5	6	8	7	3	16	8	0	0	11	3	1	2	9	14	3	0	0	0	0

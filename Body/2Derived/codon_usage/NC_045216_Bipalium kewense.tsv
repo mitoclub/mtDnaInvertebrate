@@ -1,65 +1,13 @@
-	YP_009711064.1|COX1	YP_009711065.1|ND6	YP_009711066.1|ND5	YP_009711067.1|COX3	YP_009711068.1|ATP6	YP_009711069.1|ND1	YP_009711070.1|COX2	YP_009711071.1|ND3	YP_009711072.1|ND2	YP_009711073.1|CYTB	YP_009711074.1|ND4L	YP_009711075.1|ND4
-TTT	61	25	95	44	40	45	19	21	57	67	17	78
-TTC	1	0	4	1	0	5	2	0	1	0	0	0
-TTA	47	14	66	23	25	19	21	12	33	35	11	39
-TTG	14	2	13	9	8	11	8	10	4	8	5	26
-TCT	21	7	12	8	13	12	9	4	11	11	1	18
-TCC	1	0	0	1	0	0	0	0	0	0	0	1
-TCA	7	2	7	4	1	2	3	1	5	2	0	11
-TCG	2	1	0	0	0	1	1	1	0	2	2	1
-TAT	18	5	27	10	7	15	9	2	12	12	1	24
-TAC	1	0	0	0	0	0	2	0	1	2	0	0
-TGT	4	3	10	3	6	4	5	2	1	4	1	11
-TGC	0	0	0	0	0	1	0	1	0	1	0	0
-TGA	10	1	8	10	4	7	4	4	5	9	1	7
-TGG	5	0	1	1	1	0	0	0	2	1	2	4
-CTT	4	6	1	3	2	1	1	4	3	2	2	6
-CTC	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	0	3	0	0	1	0	0	2	0	0	1
-CTG	0	0	1	0	0	1	0	0	1	0	0	0
-CCT	12	1	4	5	3	5	7	2	5	8	0	6
-CCC	1	0	0	1	0	0	0	0	0	1	0	0
-CCA	5	0	4	0	0	1	2	0	2	8	0	0
-CCG	1	0	0	1	0	1	0	0	0	0	0	1
-CAT	17	0	10	10	4	1	7	0	0	7	2	7
-CAC	1	0	0	0	0	0	0	0	0	0	0	0
-CAA	3	3	5	2	4	2	3	1	5	5	0	2
-CAG	1	0	2	0	0	3	3	1	0	1	0	1
-CGT	6	1	4	3	2	2	2	4	0	6	2	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	3	0	4	0	0	5	1	1	0	4	0	4
-CGG	1	0	0	0	0	0	1	1	0	1	0	0
-ATT	35	15	32	16	16	11	15	7	32	23	7	31
-ATC	0	0	1	1	0	0	0	0	0	0	0	0
-ATA	19	2	12	7	6	12	5	1	10	10	1	18
-ATG	20	5	14	5	4	9	4	1	5	5	4	16
-ACT	16	2	7	4	3	5	4	1	5	5	1	2
-ACC	0	0	0	0	0	0	0	0	0	0	0	0
-ACA	5	0	5	3	1	1	1	1	3	3	0	0
-ACG	1	1	1	0	0	0	0	0	1	0	0	2
-AAT	7	3	15	6	5	3	8	1	9	9	3	13
-AAC	1	0	0	0	0	1	0	0	0	1	0	0
-AAA	12	7	17	4	10	7	8	2	12	10	2	14
-AAG	5	1	11	0	3	6	6	3	5	4	1	8
-AGT	9	2	9	3	4	3	5	0	1	9	3	8
-AGC	1	0	5	0	0	1	1	0	1	0	0	1
-AGA	10	8	20	13	4	11	14	2	5	5	5	17
-AGG	1	1	4	3	3	2	1	1	0	2	0	4
-GTT	22	11	24	14	14	22	11	4	15	18	7	25
-GTC	0	0	0	0	0	0	1	0	1	1	0	0
-GTA	12	4	8	5	6	5	4	3	5	14	1	13
-GTG	2	2	4	3	2	0	1	1	3	5	1	3
-GCT	15	0	13	5	3	7	2	1	4	11	2	11
-GCC	3	0	0	0	0	1	0	0	0	0	0	0
-GCA	3	0	2	0	1	1	0	0	1	0	2	0
-GCG	0	0	0	0	0	1	0	1	0	2	0	0
-GAT	15	1	11	4	2	3	9	3	6	9	1	6
-GAC	0	0	0	0	1	0	0	0	0	0	0	1
-GAA	4	2	3	7	4	7	4	6	1	5	3	7
-GAG	2	0	2	0	0	5	0	1	1	0	0	4
-GGT	23	0	15	7	3	10	1	1	5	10	2	10
-GGC	1	2	0	1	2	0	0	0	0	1	0	1
-GGA	19	6	12	10	5	10	10	1	6	10	1	14
-GGG	7	1	4	2	0	1	0	3	1	4	2	3
-TAA	0	1	1	0	1	1	1	1	1	1	1	1
-TAG	1	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009711064.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	61	1	47	14	21	1	7	2	18	1	4	0	10	5	4	0	0	0	12	1	5	1	17	1	3	1	6	0	3	1	35	0	19	20	16	0	5	1	7	1	12	5	9	1	10	1	22	0	12	2	15	3	3	0	15	0	4	2	23	1	19	7	0	1
+1	ND6	YP_009711065.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	25	0	14	2	7	0	2	1	5	0	3	0	1	0	6	0	0	0	1	0	0	0	0	0	3	0	1	0	0	0	15	0	2	5	2	0	0	1	3	0	7	1	2	0	8	1	11	0	4	2	0	0	0	0	1	0	2	0	0	2	6	1	1	0
+2	ND5	YP_009711066.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	95	4	66	13	12	0	7	0	27	0	10	0	8	1	1	0	3	1	4	0	4	0	10	0	5	2	4	0	4	0	32	1	12	14	7	0	5	1	15	0	17	11	9	5	20	4	24	0	8	4	13	0	2	0	11	0	3	2	15	0	12	4	1	0
+3	COX3	YP_009711067.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	44	1	23	9	8	1	4	0	10	0	3	0	10	1	3	0	0	0	5	1	0	1	10	0	2	0	3	0	0	0	16	1	7	5	4	0	3	0	6	0	4	0	3	0	13	3	14	0	5	3	5	0	0	0	4	0	7	0	7	1	10	2	0	1
+4	ATP6	YP_009711068.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	40	0	25	8	13	0	1	0	7	0	6	0	4	1	2	0	0	0	3	0	0	0	4	0	4	0	2	0	0	0	16	0	6	4	3	0	1	0	5	0	10	3	4	0	4	3	14	0	6	2	3	0	1	0	2	1	4	0	3	2	5	0	1	0
+5	ND1	YP_009711069.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	45	5	19	11	12	0	2	1	15	0	4	1	7	0	1	0	1	1	5	0	1	1	1	0	2	3	2	0	5	0	11	0	12	9	5	0	1	0	3	1	7	6	3	1	11	2	22	0	5	0	7	1	1	1	3	0	7	5	10	0	10	1	1	0
+6	COX2	YP_009711070.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	19	2	21	8	9	0	3	1	9	2	5	0	4	0	1	0	0	0	7	0	2	0	7	0	3	3	2	0	1	1	15	0	5	4	4	0	1	0	8	0	8	6	5	1	14	1	11	1	4	1	2	0	0	0	9	0	4	0	1	0	10	0	1	0
+7	ND3	YP_009711071.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	21	0	12	10	4	0	1	1	2	0	2	1	4	0	4	0	0	0	2	0	0	0	0	0	1	1	4	0	1	1	7	0	1	1	1	0	1	0	1	0	2	3	0	0	2	1	4	0	3	1	1	0	0	1	3	0	6	1	1	0	1	3	1	0
+8	ND2	YP_009711072.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	57	1	33	4	11	0	5	0	12	1	1	0	5	2	3	0	2	1	5	0	2	0	0	0	5	0	0	0	0	0	32	0	10	5	5	0	3	1	9	0	12	5	1	1	5	0	15	1	5	3	4	0	1	0	6	0	1	1	5	0	6	1	1	0
+9	CYTB	YP_009711073.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	67	0	35	8	11	0	2	2	12	2	4	1	9	1	2	0	0	0	8	1	8	0	7	0	5	1	6	0	4	1	23	0	10	5	5	0	3	0	9	1	10	4	9	0	5	2	18	1	14	5	11	0	0	2	9	0	5	0	10	1	10	4	1	0
+10	ND4L	YP_009711074.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	17	0	11	5	1	0	0	2	1	0	1	0	1	2	2	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	7	0	1	4	1	0	0	0	3	0	2	1	3	0	5	0	7	0	1	1	2	0	2	0	1	0	3	0	2	0	1	2	1	0
+11	ND4	YP_009711075.1	Bipalium kewense	Eukaryota, Metazoa, Platyhelminthes, Rhabditophora, Seriata, Tricladida, Continenticola, Geoplanoidea, Geoplanidae, Bipaliinae, Bipalium	78	0	39	26	18	1	11	1	24	0	11	0	7	4	6	0	1	0	6	0	0	1	7	0	2	1	1	0	4	0	31	0	18	16	2	0	0	2	13	0	14	8	8	1	17	4	25	0	13	3	11	0	0	0	6	1	7	4	10	1	14	3	1	0

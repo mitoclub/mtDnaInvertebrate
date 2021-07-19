@@ -1,65 +1,13 @@
-	YP_009092167.1|COX1	YP_009092168.1|COX2	YP_009092169.1|ND6	YP_009092170.1|ND5	YP_009092171.1|COX3	YP_009092172.1|CYTB	YP_009092173.1|ND4L	YP_009092174.1|ND4	YP_009092175.1|ATP6	YP_009092176.1|ND2	YP_009092177.1|ND1	YP_009092178.1|ND3
-TTT	50	15	23	53	25	41	4	38	19	40	33	9
-TTC	7	0	4	5	0	3	0	2	1	3	1	2
-TTA	13	6	2	20	6	11	10	16	4	3	5	3
-TTG	35	13	7	65	16	29	10	36	21	32	34	9
-TCT	20	9	4	24	11	10	2	9	8	14	8	3
-TCC	2	1	0	2	0	1	0	1	0	1	0	0
-TCA	2	0	3	0	1	3	0	3	2	1	1	1
-TCG	3	2	1	5	4	7	0	11	2	8	8	0
-TAT	12	8	9	23	11	19	1	20	7	14	13	7
-TAC	1	3	1	1	0	2	0	0	1	1	1	3
-TGT	9	6	3	18	5	11	2	20	1	6	11	3
-TGC	0	1	0	0	1	0	0	4	0	1	1	2
-TGA	7	2	0	4	2	3	0	7	2	5	3	0
-TGG	17	4	4	16	6	8	1	7	3	12	9	2
-CTT	14	4	6	11	8	9	2	4	5	3	8	4
-CTC	1	2	1	0	0	0	0	1	0	0	0	0
-CTA	1	1	0	0	0	2	1	0	0	0	0	1
-CTG	3	0	2	2	1	2	1	2	1	1	2	0
-CCT	10	2	3	4	4	8	1	6	5	4	3	1
-CCC	3	0	0	0	0	0	0	1	0	0	0	0
-CCA	4	2	0	0	0	0	0	4	0	2	0	0
-CCG	3	3	1	2	1	5	0	0	1	2	2	0
-CAT	16	2	0	4	5	9	0	6	4	2	1	2
-CAC	3	0	1	1	0	0	0	0	0	1	0	1
-CAA	0	1	0	0	0	1	0	1	1	0	0	0
-CAG	1	2	0	3	2	2	0	1	1	1	3	0
-CGT	10	2	2	3	2	4	1	3	2	0	5	2
-CGC	0	0	0	0	0	1	0	0	0	0	1	0
-CGA	2	3	0	2	0	1	1	1	1	0	1	2
-CGG	0	1	0	3	0	1	2	3	2	1	2	0
-ATT	18	7	7	15	7	11	6	11	13	13	6	7
-ATC	1	1	0	1	0	1	0	2	0	1	1	0
-ATA	11	7	0	2	1	5	0	5	1	0	3	1
-ATG	21	3	3	14	3	10	1	13	2	7	8	3
-ACT	13	3	2	7	4	5	2	5	1	3	3	1
-ACC	0	0	0	0	0	1	1	0	0	0	1	0
-ACA	1	0	1	1	0	0	0	2	0	1	0	0
-ACG	1	1	2	1	0	7	0	0	0	3	1	0
-AAT	11	8	2	4	4	7	2	4	2	7	3	3
-AAC	0	0	0	0	0	1	0	0	0	0	0	0
-AAA	3	1	6	1	0	2	1	3	0	2	3	1
-AAG	4	5	1	9	4	7	0	5	0	3	7	3
-AGT	13	4	3	20	2	6	1	13	4	5	9	4
-AGC	0	1	0	0	1	1	0	1	0	1	1	0
-AGA	1	0	1	1	2	3	1	3	0	0	1	1
-AGG	5	3	5	9	4	3	1	4	5	4	2	2
-GTT	26	15	8	34	20	27	11	27	10	21	23	9
-GTC	3	1	1	2	4	4	0	4	1	2	1	1
-GTA	7	2	1	8	4	3	0	9	3	2	5	2
-GTG	22	10	9	23	12	14	7	24	13	19	13	3
-GCT	17	3	2	12	5	12	0	12	3	6	9	3
-GCC	1	2	1	3	1	0	1	0	0	1	0	0
-GCA	6	1	0	2	2	0	0	3	1	2	0	0
-GCG	3	1	2	5	1	2	0	2	1	5	7	2
-GAT	14	11	1	12	3	7	0	4	1	2	6	3
-GAC	0	0	0	2	0	0	1	1	0	0	0	0
-GAA	1	1	1	0	0	2	0	1	0	0	3	0
-GAG	5	6	1	10	8	8	4	8	2	5	8	4
-GGT	29	9	4	20	7	14	6	14	10	12	13	4
-GGC	0	1	0	3	0	0	0	2	1	0	0	1
-GGA	11	1	2	6	1	2	1	2	1	1	1	1
-GGG	14	4	9	20	5	13	1	8	1	4	5	0
-TAA	0	1	0	0	0	0	1	0	0	0	1	0
-TAG	1	0	1	1	1	1	0	1	1	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009092167.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	50	7	13	35	20	2	2	3	12	1	9	0	7	17	14	1	1	3	10	3	4	3	16	3	0	1	10	0	2	0	18	1	11	21	13	0	1	1	11	0	3	4	13	0	1	5	26	3	7	22	17	1	6	3	14	0	1	5	29	0	11	14	0	1
+1	COX2	YP_009092168.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	15	0	6	13	9	1	0	2	8	3	6	1	2	4	4	2	1	0	2	0	2	3	2	0	1	2	2	0	3	1	7	1	7	3	3	0	0	1	8	0	1	5	4	1	0	3	15	1	2	10	3	2	1	1	11	0	1	6	9	1	1	4	1	0
+2	ND6	YP_009092169.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	23	4	2	7	4	0	3	1	9	1	3	0	0	4	6	1	0	2	3	0	0	1	0	1	0	0	2	0	0	0	7	0	0	3	2	0	1	2	2	0	6	1	3	0	1	5	8	1	1	9	2	1	0	2	1	0	1	1	4	0	2	9	0	1
+3	ND5	YP_009092170.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	53	5	20	65	24	2	0	5	23	1	18	0	4	16	11	0	0	2	4	0	0	2	4	1	0	3	3	0	2	3	15	1	2	14	7	0	1	1	4	0	1	9	20	0	1	9	34	2	8	23	12	3	2	5	12	2	0	10	20	3	6	20	0	1
+4	COX3	YP_009092171.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	25	0	6	16	11	0	1	4	11	0	5	1	2	6	8	0	0	1	4	0	0	1	5	0	0	2	2	0	0	0	7	0	1	3	4	0	0	0	4	0	0	4	2	1	2	4	20	4	4	12	5	1	2	1	3	0	0	8	7	0	1	5	0	1
+5	CYTB	YP_009092172.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	41	3	11	29	10	1	3	7	19	2	11	0	3	8	9	0	2	2	8	0	0	5	9	0	1	2	4	1	1	1	11	1	5	10	5	1	0	7	7	1	2	7	6	1	3	3	27	4	3	14	12	0	0	2	7	0	2	8	14	0	2	13	0	1
+6	ND4L	YP_009092173.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	4	0	10	10	2	0	0	0	1	0	2	0	0	1	2	0	1	1	1	0	0	0	0	0	0	0	1	0	1	2	6	0	0	1	2	1	0	0	2	0	1	0	1	0	1	1	11	0	0	7	0	1	0	0	0	1	0	4	6	0	1	1	1	0
+7	ND4	YP_009092174.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	38	2	16	36	9	1	3	11	20	0	20	4	7	7	4	1	0	2	6	1	4	0	6	0	1	1	3	0	1	3	11	2	5	13	5	0	2	0	4	0	3	5	13	1	3	4	27	4	9	24	12	0	3	2	4	1	1	8	14	2	2	8	0	1
+8	ATP6	YP_009092175.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	19	1	4	21	8	0	2	2	7	1	1	0	2	3	5	0	0	1	5	0	0	1	4	0	1	1	2	0	1	2	13	0	1	2	1	0	0	0	2	0	0	0	4	0	0	5	10	1	3	13	3	0	1	1	1	0	0	2	10	1	1	1	0	1
+9	ND2	YP_009092176.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	40	3	3	32	14	1	1	8	14	1	6	1	5	12	3	0	0	1	4	0	2	2	2	1	0	1	0	0	0	1	13	1	0	7	3	0	1	3	7	0	2	3	5	1	0	4	21	2	2	19	6	1	2	5	2	0	0	5	12	0	1	4	0	1
+10	ND1	YP_009092177.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	33	1	5	34	8	0	1	8	13	1	11	1	3	9	8	0	0	2	3	0	0	2	1	0	0	3	5	1	1	2	6	1	3	8	3	1	0	1	3	0	3	7	9	1	1	2	23	1	5	13	9	0	0	7	6	0	3	8	13	0	1	5	1	0
+11	ND3	YP_009092178.1	Dicrocoelium chinensis	Eukaryota, Metazoa, Platyhelminthes, Trematoda, Digenea, Plagiorchiida, Xiphidiata, Plagiorchioidea, Dicrocoeliidae, Dicrocoelium	9	2	3	9	3	0	1	0	7	3	3	2	0	2	4	0	1	0	1	0	0	0	2	1	0	0	2	0	2	0	7	0	1	3	1	0	0	0	3	0	1	3	4	0	1	2	9	1	2	3	3	0	0	2	3	0	0	4	4	1	1	0	0	0

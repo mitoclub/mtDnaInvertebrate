@@ -1,65 +1,10 @@
-	YP_009538323.1|COX1	YP_009526855.1|COX2	YP_009526856.1|ATP8	YP_009526857.1|ATP6	YP_009526858.1|COX3	YP_009526859.1|ND3	YP_009526863.1|ND6	YP_009526864.1|CYTB	YP_009526866.1|ND2
-TTT	19	6	4	7	15	4	5	16	14
-TTC	25	7	1	7	11	8	10	19	13
-TTA	13	5	3	14	8	4	7	16	16
-TTG	3	2	3	2	1	2	1	3	6
-TCT	6	5	1	9	7	4	5	4	12
-TCC	7	2	1	5	3	2	3	7	6
-TCA	13	6	1	4	5	7	14	10	16
-TCG	7	2	1	7	2	2	4	2	5
-TAT	4	2	0	1	1	2	0	7	8
-TAC	12	6	1	3	9	0	4	10	0
-TGT	0	2	1	0	3	2	0	0	0
-TGC	0	0	0	0	1	0	0	4	4
-TGA	13	5	3	5	7	2	1	8	6
-TGG	2	1	0	1	6	2	0	3	1
-CTT	12	1	0	8	5	5	6	7	17
-CTC	5	6	0	5	6	3	4	2	6
-CTA	19	10	1	10	7	6	11	19	12
-CTG	3	3	0	4	2	3	2	5	6
-CCT	5	4	1	3	1	1	0	5	7
-CCC	11	0	0	1	3	2	2	6	4
-CCA	10	1	1	1	3	0	3	9	2
-CCG	2	4	1	7	2	1	1	3	1
-CAT	5	4	0	4	6	0	3	4	1
-CAC	13	2	0	3	9	0	0	6	1
-CAA	5	7	3	6	4	0	2	6	3
-CAG	2	1	1	1	2	0	0	2	6
-CGT	0	1	0	1	0	0	1	1	0
-CGC	0	1	0	0	1	0	1	0	2
-CGA	8	4	0	2	3	2	0	5	1
-CGG	2	1	0	0	0	1	0	2	0
-ATT	29	7	3	12	9	5	9	13	18
-ATC	14	10	1	8	9	9	12	18	20
-ATA	15	5	3	6	4	1	7	8	11
-ATG	13	5	1	7	5	1	3	5	7
-ACT	9	5	0	4	11	3	5	7	7
-ACC	7	2	0	3	3	1	2	3	5
-ACA	12	6	0	4	7	0	5	10	7
-ACG	4	2	0	5	2	0	1	4	3
-AAT	3	1	2	3	0	0	0	4	4
-AAC	12	7	0	3	3	2	3	11	9
-AAA	3	2	4	2	2	3	2	4	8
-AAG	5	1	1	1	2	1	0	2	3
-AGT	1	0	0	2	2	0	0	1	0
-AGC	0	1	0	0	1	0	1	0	2
-AGA	5	6	1	7	3	0	1	2	3
-AGG	2	0	0	2	3	0	0	0	3
-GTT	10	5	0	5	5	4	7	14	6
-GTC	8	7	0	4	2	2	2	7	2
-GTA	12	9	2	2	10	1	4	8	2
-GTG	9	3	0	1	2	0	0	1	0
-GCT	13	5	0	1	1	2	3	9	4
-GCC	9	5	1	6	4	0	1	6	4
-GCA	16	3	0	3	8	2	2	8	4
-GCG	2	1	0	0	1	1	0	1	5
-GAT	6	6	0	0	3	2	1	7	1
-GAC	10	6	1	0	0	2	1	4	1
-GAA	4	10	0	2	9	3	4	3	5
-GAG	3	1	2	3	1	2	0	0	1
-GGT	8	3	2	3	3	1	0	1	1
-GGC	5	2	0	1	4	0	0	2	2
-GGA	27	2	0	2	8	3	4	18	3
-GGG	9	0	0	2	3	1	1	6	6
-TAA	0	0	1	1	0	0	1	0	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009538323.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	19	25	13	3	6	7	13	7	4	12	0	0	13	2	12	5	19	3	5	11	10	2	5	13	5	2	0	0	8	2	29	14	15	13	9	7	12	4	3	12	3	5	1	0	5	2	10	8	12	9	13	9	16	2	6	10	4	3	8	5	27	9	0	0
+1	COX2	YP_009526855.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	6	7	5	2	5	2	6	2	2	6	2	0	5	1	1	6	10	3	4	0	1	4	4	2	7	1	1	1	4	1	7	10	5	5	5	2	6	2	1	7	2	1	0	1	6	0	5	7	9	3	5	5	3	1	6	6	10	1	3	2	2	0	0	0
+2	ATP8	YP_009526856.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	4	1	3	3	1	1	1	1	0	1	1	0	3	0	0	0	1	0	1	0	1	1	0	0	3	1	0	0	0	0	3	1	3	1	0	0	0	0	2	0	4	1	0	0	1	0	0	0	2	0	0	1	0	0	0	1	0	2	2	0	0	0	1	0
+3	ATP6	YP_009526857.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	7	7	14	2	9	5	4	7	1	3	0	0	5	1	8	5	10	4	3	1	1	7	4	3	6	1	1	0	2	0	12	8	6	7	4	3	4	5	3	3	2	1	2	0	7	2	5	4	2	1	1	6	3	0	0	0	2	3	3	1	2	2	1	0
+4	COX3	YP_009526858.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	15	11	8	1	7	3	5	2	1	9	3	1	7	6	5	6	7	2	1	3	3	2	6	9	4	2	0	1	3	0	9	9	4	5	11	3	7	2	0	3	2	2	2	1	3	3	5	2	10	2	1	4	8	1	3	0	9	1	3	4	8	3	0	0
+5	ND3	YP_009526859.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	4	8	4	2	4	2	7	2	2	0	2	0	2	2	5	3	6	3	1	2	0	1	0	0	0	0	0	0	2	1	5	9	1	1	3	1	0	0	0	2	3	1	0	0	0	0	4	2	1	0	2	0	2	1	2	2	3	2	1	0	3	1	0	0
+6	ND6	YP_009526863.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	5	10	7	1	5	3	14	4	0	4	0	0	1	0	6	4	11	2	0	2	3	1	3	0	2	0	1	1	0	0	9	12	7	3	5	2	5	1	0	3	2	0	0	1	1	0	7	2	4	0	3	1	2	0	1	1	4	0	0	0	4	1	1	0
+7	CYTB	YP_009526864.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	16	19	16	3	4	7	10	2	7	10	0	4	8	3	7	2	19	5	5	6	9	3	4	6	6	2	1	0	5	2	13	18	8	5	7	3	10	4	4	11	4	2	1	0	2	0	14	7	8	1	9	6	8	1	7	4	3	0	1	2	18	6	0	0
+8	ND2	YP_009526866.1	Panulirus argus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Achelata, Palinuroidea, Palinuridae, Panulirus	14	13	16	6	12	6	16	5	8	0	0	4	6	1	17	6	12	6	7	4	2	1	1	1	3	6	0	2	1	0	18	20	11	7	7	5	7	3	4	9	8	3	0	2	3	3	6	2	2	0	4	4	4	5	1	1	5	1	1	2	3	6	0	0

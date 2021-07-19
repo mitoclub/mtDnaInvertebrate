@@ -1,65 +1,10 @@
-	YP_009479054.1|ND2	YP_009479055.1|COX1	YP_009479056.1|COX2	YP_009479057.1|ATP8	YP_009479058.1|ATP6	YP_009479059.1|COX3	YP_009479060.1|ND3	YP_009479065.1|ND6	YP_009479066.1|CYTB
-TTT	24	37	15	5	22	27	14	14	28
-TTC	4	9	2	1	1	6	4	2	11
-TTA	24	39	11	6	20	21	11	19	31
-TTG	2	2	2	0	5	4	0	1	5
-TCT	11	9	8	1	8	14	3	4	5
-TCC	4	3	1	0	4	1	2	2	6
-TCA	9	19	11	0	7	7	0	5	16
-TCG	1	1	0	0	0	0	0	0	1
-TAT	5	11	6	0	4	8	3	4	14
-TAC	2	2	0	0	1	1	1	1	2
-TGT	1	1	1	0	1	1	2	1	0
-TGC	0	0	1	0	0	1	0	0	1
-TGA	5	12	4	2	5	9	1	2	6
-TGG	1	2	0	0	1	3	1	0	3
-CTT	4	3	3	0	5	4	0	3	7
-CTC	0	5	0	0	0	0	0	0	1
-CTA	3	9	1	2	3	2	3	2	4
-CTG	2	2	0	0	1	0	0	0	0
-CCT	1	8	2	0	6	6	4	1	7
-CCC	3	4	3	0	0	1	0	0	2
-CCA	2	10	5	2	1	2	2	2	6
-CCG	0	4	0	0	1	0	0	0	1
-CAT	2	10	5	0	4	8	1	1	7
-CAC	0	6	1	0	0	2	0	1	1
-CAA	3	8	7	1	2	5	0	1	8
-CAG	0	0	0	0	0	1	0	0	0
-CGT	0	0	3	0	0	1	0	0	2
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	8	1	0	2	0	1	0	3
-CGG	0	1	0	0	0	2	0	0	0
-ATT	57	52	28	8	29	26	18	15	45
-ATC	8	9	6	1	1	4	0	5	7
-ATA	35	33	17	6	15	8	7	24	21
-ATG	3	1	0	1	5	1	1	2	5
-ACT	6	12	5	1	7	7	0	4	7
-ACC	1	6	1	0	4	0	0	0	3
-ACA	7	14	3	2	0	5	0	2	5
-ACG	0	0	1	0	0	0	0	0	0
-AAT	20	23	8	5	12	10	4	8	17
-AAC	5	2	4	1	1	1	1	2	3
-AAA	19	10	9	4	8	6	7	4	9
-AAG	0	1	0	1	0	0	0	1	1
-AGT	2	1	2	0	4	4	0	0	1
-AGC	1	1	0	0	1	0	0	2	0
-AGA	6	6	4	0	4	3	0	2	2
-AGG	1	0	0	0	0	0	0	0	0
-GTT	2	11	1	0	8	5	3	3	2
-GTC	0	3	0	0	0	0	0	0	0
-GTA	4	9	3	1	4	5	3	1	8
-GTG	0	0	0	0	0	0	0	0	1
-GCT	3	9	3	0	1	6	0	1	8
-GCC	2	6	0	0	2	1	0	0	1
-GCA	1	10	3	0	3	3	0	0	6
-GCG	0	2	1	0	0	0	0	0	0
-GAT	2	5	5	0	1	3	3	0	5
-GAC	0	8	4	0	0	0	0	0	1
-GAA	6	7	9	0	4	8	3	4	4
-GAG	0	1	2	0	0	0	1	0	0
-GGT	0	10	0	0	1	2	0	0	5
-GGC	1	4	2	0	1	2	1	1	0
-GGA	1	24	3	0	1	8	3	1	12
-GGG	1	7	1	0	0	3	0	0	2
-TAA	1	1	1	1	1	1	0	0	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009479054.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	24	4	24	2	11	4	9	1	5	2	1	0	5	1	4	0	3	2	1	3	2	0	2	0	3	0	0	0	1	0	57	8	35	3	6	1	7	0	20	5	19	0	2	1	6	1	2	0	4	0	3	2	1	0	2	0	6	0	0	1	1	1	1	0
+1	COX1	YP_009479055.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	37	9	39	2	9	3	19	1	11	2	1	0	12	2	3	5	9	2	8	4	10	4	10	6	8	0	0	0	8	1	52	9	33	1	12	6	14	0	23	2	10	1	1	1	6	0	11	3	9	0	9	6	10	2	5	8	7	1	10	4	24	7	1	0
+2	COX2	YP_009479056.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	15	2	11	2	8	1	11	0	6	0	1	1	4	0	3	0	1	0	2	3	5	0	5	1	7	0	3	0	1	0	28	6	17	0	5	1	3	1	8	4	9	0	2	0	4	0	1	0	3	0	3	0	3	1	5	4	9	2	0	2	3	1	1	0
+3	ATP8	YP_009479057.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	5	1	6	0	1	0	0	0	0	0	0	0	2	0	0	0	2	0	0	0	2	0	0	0	1	0	0	0	0	0	8	1	6	1	1	0	2	0	5	1	4	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009479058.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	22	1	20	5	8	4	7	0	4	1	1	0	5	1	5	0	3	1	6	0	1	1	4	0	2	0	0	0	2	0	29	1	15	5	7	4	0	0	12	1	8	0	4	1	4	0	8	0	4	0	1	2	3	0	1	0	4	0	1	1	1	0	1	0
+5	COX3	YP_009479059.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	27	6	21	4	14	1	7	0	8	1	1	1	9	3	4	0	2	0	6	1	2	0	8	2	5	1	1	0	0	2	26	4	8	1	7	0	5	0	10	1	6	0	4	0	3	0	5	0	5	0	6	1	3	0	3	0	8	0	2	2	8	3	1	0
+6	ND3	YP_009479060.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	14	4	11	0	3	2	0	0	3	1	2	0	1	1	0	0	3	0	4	0	2	0	1	0	0	0	0	0	1	0	18	0	7	1	0	0	0	0	4	1	7	0	0	0	0	0	3	0	3	0	0	0	0	0	3	0	3	1	0	1	3	0	0	1
+7	ND6	YP_009479065.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	14	2	19	1	4	2	5	0	4	1	1	0	2	0	3	0	2	0	1	0	2	0	1	1	1	0	0	0	0	0	15	5	24	2	4	0	2	0	8	2	4	1	0	2	2	0	3	0	1	0	1	0	0	0	0	0	4	0	0	1	1	0	0	0
+8	CYTB	YP_009479066.1	Haemaphysalis longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Ixodidae, Haemaphysalinae, Haemaphysalis	28	11	31	5	5	6	16	1	14	2	0	1	6	3	7	1	4	0	7	2	6	1	7	1	8	0	2	0	3	0	45	7	21	5	7	3	5	0	17	3	9	1	1	0	2	0	2	0	8	1	8	1	6	0	5	1	4	0	5	0	12	2	0	1

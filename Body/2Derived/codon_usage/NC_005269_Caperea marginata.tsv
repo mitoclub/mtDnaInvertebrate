@@ -1,65 +1,13 @@
-	NP_944620.1|ND1	NP_944621.1|ND2	NP_944622.1|COX1	NP_944623.1|COX2	NP_944624.1|ATP8	NP_944625.1|ATP6	NP_944626.1|COX3	NP_944627.1|ND3	NP_944628.1|ND4L	NP_944629.1|ND4	NP_944630.1|ND5	NP_944632.1|CYTB
-TTT	6	4	13	3	1	7	4	3	1	9	16	6
-TTC	14	10	30	5	3	5	19	6	3	12	28	22
-TTA	11	14	18	8	4	14	7	6	4	21	19	8
-TTG	1	0	0	0	1	0	1	0	1	1	1	0
-TCT	3	2	5	5	0	2	5	1	2	6	7	2
-TCC	6	9	5	1	2	3	2	1	2	11	14	7
-TCA	7	10	19	8	2	4	8	1	2	10	10	8
-TCG	0	1	0	0	0	0	1	0	0	0	1	0
-TAT	6	6	8	4	1	1	6	2	2	7	8	6
-TAC	6	3	10	5	2	1	5	1	1	8	7	9
-TGT	0	0	1	2	0	0	0	0	0	0	2	0
-TGC	1	0	0	0	0	0	2	1	3	3	4	3
-TGA	8	10	18	3	3	3	10	3	0	12	8	11
-TGG	1	0	0	2	0	0	2	1	0	1	4	1
-CTT	4	5	6	7	2	7	6	5	4	16	14	8
-CTC	10	13	5	2	2	8	7	4	4	17	28	8
-CTA	29	28	28	14	3	13	11	14	8	33	38	29
-CTG	2	2	3	3	0	0	1	0	1	8	2	5
-CCT	5	1	12	4	4	3	4	2	1	2	8	6
-CCC	9	10	6	3	1	4	4	2	0	15	13	6
-CCA	8	8	11	6	1	7	3	2	0	6	9	11
-CCG	0	0	0	0	0	0	1	0	0	0	0	0
-CAT	2	2	6	3	0	2	6	0	1	7	4	5
-CAC	2	2	11	4	0	4	11	0	2	6	12	8
-CAA	6	11	4	5	5	8	7	3	2	11	20	5
-CAG	1	1	2	1	0	0	0	0	0	0	1	1
-CGT	1	0	1	0	0	0	0	1	0	1	1	1
-CGC	1	1	2	1	0	2	2	0	0	2	5	1
-CGA	5	3	4	5	0	2	3	0	1	6	2	7
-CGG	1	0	1	0	0	0	0	0	0	1	0	0
-ATT	10	19	16	6	3	17	9	2	5	18	26	12
-ATC	12	13	19	10	0	9	8	4	4	23	32	24
-ATA	20	37	26	14	1	10	10	7	8	30	27	13
-ATG	2	2	6	2	2	3	1	0	1	2	5	3
-ACT	6	5	11	2	2	9	4	2	2	6	15	2
-ACC	8	16	6	8	2	6	7	1	2	13	18	14
-ACA	13	25	20	9	4	12	10	5	2	23	25	14
-ACG	1	1	2	2	1	1	1	0	0	0	0	1
-AAT	8	7	7	1	2	4	5	4	2	8	12	6
-AAC	5	8	12	5	1	8	2	2	4	13	19	10
-AAA	6	11	9	3	4	5	2	2	0	11	20	9
-AAG	1	1	0	2	1	0	1	0	0	0	2	1
-AGT	1	0	2	2	0	2	0	0	1	3	2	1
-AGC	2	3	1	2	0	2	4	2	1	7	9	3
-GTT	1	0	8	1	0	0	2	0	0	5	3	4
-GTC	2	0	10	6	0	2	4	0	2	1	3	6
-GTA	11	4	20	7	0	8	8	1	3	6	9	7
-GTG	0	0	3	0	0	0	0	0	1	0	0	1
-GCT	3	4	12	0	1	0	4	2	4	6	8	3
-GCC	10	10	13	4	1	9	6	7	1	10	20	5
-GCA	13	6	13	3	0	4	4	3	4	12	13	14
-GCG	0	0	0	0	0	1	0	0	0	0	2	2
-GAT	3	1	3	6	0	0	1	0	0	1	2	2
-GAC	1	0	12	5	1	1	2	2	1	3	9	8
-GAA	11	4	7	12	0	4	8	6	2	9	10	5
-GAG	0	0	2	3	0	0	0	0	0	0	2	1
-GGT	3	1	13	1	0	3	2	0	0	3	2	5
-GGC	4	6	13	4	0	2	10	1	2	5	8	12
-GGA	4	7	18	3	0	4	7	3	1	7	15	7
-GGG	1	0	3	0	0	0	1	0	0	2	2	0
-TAA	1	0	0	1	1	1	0	0	1	0	1	0
-TAG	0	1	0	0	0	0	1	0	0	0	0	0
-AGA	0	0	1	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_944620.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	6	14	11	1	3	6	7	0	6	6	0	1	8	1	4	10	29	2	5	9	8	0	2	2	6	1	1	1	5	1	10	12	20	2	6	8	13	1	8	5	6	1	1	2	1	2	11	0	3	10	13	0	3	1	11	0	3	4	4	1	1	0	0	0
+1	ND2	NP_944621.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	4	10	14	0	2	9	10	1	6	3	0	0	10	0	5	13	28	2	1	10	8	0	2	2	11	1	0	1	3	0	19	13	37	2	5	16	25	1	7	8	11	1	0	3	0	0	4	0	4	10	6	0	1	0	4	0	1	6	7	0	0	1	0	0
+2	COX1	NP_944622.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	13	30	18	0	5	5	19	0	8	10	1	0	18	0	6	5	28	3	12	6	11	0	6	11	4	2	1	2	4	1	16	19	26	6	11	6	20	2	7	12	9	0	2	1	8	10	20	3	12	13	13	0	3	12	7	2	13	13	18	3	0	0	1	0
+3	COX2	NP_944623.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	3	5	8	0	5	1	8	0	4	5	2	0	3	2	7	2	14	3	4	3	6	0	3	4	5	1	0	1	5	0	6	10	14	2	2	8	9	2	1	5	3	2	2	2	1	6	7	0	0	4	3	0	6	5	12	3	1	4	3	0	1	0	0	0
+4	ATP8	NP_944624.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	1	3	4	1	0	2	2	0	1	2	0	0	3	0	2	2	3	0	4	1	1	0	0	0	5	0	0	0	0	0	3	0	1	2	2	2	4	1	2	1	4	1	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+5	ATP6	NP_944625.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	7	5	14	0	2	3	4	0	1	1	0	0	3	0	7	8	13	0	3	4	7	0	2	4	8	0	0	2	2	0	17	9	10	3	9	6	12	1	4	8	5	0	2	2	0	2	8	0	0	9	4	1	0	1	4	0	3	2	4	0	1	0	0	0
+6	COX3	NP_944626.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	4	19	7	1	5	2	8	1	6	5	0	2	10	2	6	7	11	1	4	4	3	1	6	11	7	0	0	2	3	0	9	8	10	1	4	7	10	1	5	2	2	1	0	4	2	4	8	0	4	6	4	0	1	2	8	0	2	10	7	1	0	1	0	0
+7	ND3	NP_944627.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	3	6	6	0	1	1	1	0	2	1	0	1	3	1	5	4	14	0	2	2	2	0	0	0	3	0	1	0	0	0	2	4	7	0	2	1	5	0	4	2	2	0	0	2	0	0	1	0	2	7	3	0	0	2	6	0	0	1	3	0	0	0	0	0
+8	ND4L	NP_944628.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	1	3	4	1	2	2	2	0	2	1	0	3	0	0	4	4	8	1	1	0	0	0	1	2	2	0	0	0	1	0	5	4	8	1	2	2	2	0	2	4	0	0	1	1	0	2	3	1	4	1	4	0	0	1	2	0	0	2	1	0	1	0	0	0
+9	ND4	NP_944629.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	9	12	21	1	6	11	10	0	7	8	0	3	12	1	16	17	33	8	2	15	6	0	7	6	11	0	1	2	6	1	18	23	30	2	6	13	23	0	8	13	11	0	3	7	5	1	6	0	6	10	12	0	1	3	9	0	3	5	7	2	0	0	0	0
+10	ND5	NP_944630.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	16	28	19	1	7	14	10	1	8	7	2	4	8	4	14	28	38	2	8	13	9	0	4	12	20	1	1	5	2	0	26	32	27	5	15	18	25	0	12	19	20	2	2	9	3	3	9	0	8	20	13	2	2	9	10	2	2	8	15	2	1	0	0	0
+11	CYTB	NP_944632.1	Caperea marginata	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Cetartiodactyla, Cetacea, Mysticeti, Neobalaenidae, Caperea	6	22	8	0	2	7	8	0	6	9	0	3	11	1	8	8	29	5	6	6	11	0	5	8	5	1	1	1	7	0	12	24	13	3	2	14	14	1	6	10	9	1	1	3	4	6	7	1	3	5	14	2	2	8	5	1	5	12	7	0	0	0	1	0

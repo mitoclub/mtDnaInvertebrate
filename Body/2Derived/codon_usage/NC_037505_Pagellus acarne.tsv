@@ -1,65 +1,12 @@
-	YP_009479491.1|ND1	YP_009479492.1|ND2	YP_009479493.1|COX1	YP_009479494.1|COX2	YP_009479495.1|ATP8	YP_009479496.1|ATP6	YP_009479497.1|COX3	YP_009479498.1|ND3	YP_009479499.1|ND4L	YP_009479500.1|ND4	YP_009479503.1|CYTB
-TTT	11	11	17	9	2	9	13	3	4	7	11
-TTC	7	4	25	1	2	3	12	5	3	9	16
-TTA	11	8	8	5	0	6	3	1	2	13	6
-TTG	3	3	1	2	1	0	1	1	0	4	1
-TCT	6	6	9	3	0	2	2	1	0	5	5
-TCC	7	9	5	7	2	3	5	6	7	13	13
-TCA	4	5	9	4	0	2	5	1	2	4	1
-TCG	1	1	2	0	0	1	1	0	1	0	2
-TAT	6	4	6	4	0	3	4	1	0	9	3
-TAC	7	3	12	6	0	1	7	2	0	5	12
-TGT	0	1	0	0	0	0	0	0	2	0	2
-TGC	0	0	1	2	0	0	2	1	1	4	2
-TGA	7	10	15	5	5	4	12	5	0	16	12
-TGG	1	1	2	0	0	1	0	0	1	3	0
-CTT	18	22	18	8	1	13	12	8	2	21	18
-CTC	15	22	13	6	1	20	6	12	11	34	17
-CTA	14	15	10	6	2	14	7	6	10	21	12
-CTG	4	4	11	2	1	6	1	1	0	7	6
-CCT	5	2	8	0	3	2	5	1	0	7	7
-CCC	12	9	7	6	3	7	3	4	2	14	7
-CCA	5	8	8	8	2	6	4	3	0	5	6
-CCG	2	2	5	0	0	1	1	0	0	2	1
-CAT	2	2	7	3	0	1	3	0	0	3	4
-CAC	3	6	13	6	1	3	12	0	4	8	8
-CAA	5	11	2	7	1	8	7	2	3	8	7
-CAG	1	2	5	1	1	1	1	1	0	2	0
-CGT	1	4	3	1	0	0	1	0	1	1	2
-CGC	1	0	1	5	0	2	0	1	0	3	0
-CGA	6	0	2	0	0	4	3	1	2	6	4
-CGG	0	0	2	0	0	0	1	0	0	1	2
-ATT	15	15	28	10	1	9	7	4	1	20	16
-ATC	9	11	15	9	2	8	9	4	0	11	14
-ATA	4	9	12	4	0	7	5	0	3	15	5
-ATG	4	2	13	7	1	3	2	2	1	8	4
-ACT	6	8	9	1	2	3	2	2	2	5	2
-ACC	6	17	12	2	2	5	8	2	4	17	14
-ACA	4	9	14	4	3	7	12	3	2	12	7
-ACG	2	1	1	1	0	1	1	0	0	4	0
-AAT	4	3	4	2	1	4	1	0	0	5	8
-AAC	7	6	10	2	1	5	1	1	1	6	10
-AAA	5	7	10	5	2	0	2	0	0	9	9
-AAG	2	1	0	0	0	1	0	1	0	1	0
-AGT	1	0	1	0	0	3	1	0	1	2	0
-AGC	2	4	4	3	1	2	2	1	3	7	2
-GTT	6	6	13	6	0	4	5	2	1	5	9
-GTC	10	4	10	5	1	5	7	3	2	10	9
-GTA	2	0	13	3	2	4	3	0	0	4	9
-GTG	2	0	4	4	0	0	2	1	0	1	0
-GCT	4	7	10	7	0	1	2	2	3	11	5
-GCC	19	24	21	6	2	9	9	2	3	19	8
-GCA	12	13	15	4	1	5	9	2	5	10	19
-GCG	0	2	1	1	0	0	0	1	0	0	0
-GAT	1	0	2	6	1	0	2	0	0	1	1
-GAC	3	1	12	7	0	1	5	4	1	2	8
-GAA	10	4	11	14	1	4	6	3	2	10	5
-GAG	1	0	1	1	1	0	2	3	0	3	1
-GGT	2	1	7	3	0	1	0	0	3	2	3
-GGC	5	8	14	4	0	5	8	2	1	10	7
-GGA	5	8	19	2	1	5	7	3	1	8	13
-GGG	6	2	8	0	0	2	7	1	0	7	5
-TAA	1	0	0	0	0	0	0	0	1	0	0
-TAG	0	0	0	0	1	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009479491.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	11	7	11	3	6	7	4	1	6	7	0	0	7	1	18	15	14	4	5	12	5	2	2	3	5	1	1	1	6	0	15	9	4	4	6	6	4	2	4	7	5	2	1	2	6	10	2	2	4	19	12	0	1	3	10	1	2	5	5	6	1	0	0	0
+1	ND2	YP_009479492.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	11	4	8	3	6	9	5	1	4	3	1	0	10	1	22	22	15	4	2	9	8	2	2	6	11	2	4	0	0	0	15	11	9	2	8	17	9	1	3	6	7	1	0	4	6	4	0	0	7	24	13	2	0	1	4	0	1	8	8	2	0	0	0	0
+2	COX1	YP_009479493.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	17	25	8	1	9	5	9	2	6	12	0	1	15	2	18	13	10	11	8	7	8	5	7	13	2	5	3	1	2	2	28	15	12	13	9	12	14	1	4	10	10	0	1	4	13	10	13	4	10	21	15	1	2	12	11	1	7	14	19	8	0	0	0	1
+3	COX2	YP_009479494.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	9	1	5	2	3	7	4	0	4	6	0	2	5	0	8	6	6	2	0	6	8	0	3	6	7	1	1	5	0	0	10	9	4	7	1	2	4	1	2	2	5	0	0	3	6	5	3	4	7	6	4	1	6	7	14	1	3	4	2	0	0	0	0	0
+4	ATP8	YP_009479495.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	2	2	0	1	0	2	0	0	0	0	0	0	5	0	1	1	2	1	3	3	2	0	0	1	1	1	0	0	0	0	1	2	0	1	2	2	3	0	1	1	2	0	0	1	0	1	2	0	0	2	1	0	1	0	1	1	0	0	1	0	0	1	0	0
+5	ATP6	YP_009479496.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	9	3	6	0	2	3	2	1	3	1	0	0	4	1	13	20	14	6	2	7	6	1	1	3	8	1	0	2	4	0	9	8	7	3	3	5	7	1	4	5	0	1	3	2	4	5	4	0	1	9	5	0	0	1	4	0	1	5	5	2	0	0	0	0
+6	COX3	YP_009479497.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	13	12	3	1	2	5	5	1	4	7	0	2	12	0	12	6	7	1	5	3	4	1	3	12	7	1	1	0	3	1	7	9	5	2	2	8	12	1	1	1	2	0	1	2	5	7	3	2	2	9	9	0	2	5	6	2	0	8	7	7	0	0	0	0
+7	ND3	YP_009479498.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	3	5	1	1	1	6	1	0	1	2	0	1	5	0	8	12	6	1	1	4	3	0	0	0	2	1	0	1	1	0	4	4	0	2	2	2	3	0	0	1	0	1	0	1	2	3	0	1	2	2	2	1	0	4	3	3	0	2	3	1	0	0	0	0
+8	ND4L	YP_009479499.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	4	3	2	0	0	7	2	1	0	0	2	1	0	1	2	11	10	0	0	2	0	0	0	4	3	0	1	0	2	0	1	0	3	1	2	4	2	0	0	1	0	0	1	3	1	2	0	0	3	3	5	0	0	1	2	0	3	1	1	0	1	0	0	0
+9	ND4	YP_009479500.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	7	9	13	4	5	13	4	0	9	5	0	4	16	3	21	34	21	7	7	14	5	2	3	8	8	2	1	3	6	1	20	11	15	8	5	17	12	4	5	6	9	1	2	7	5	10	4	1	11	19	10	0	1	2	10	3	2	10	8	7	0	0	0	0
+10	CYTB	YP_009479503.1	Pagellus acarne	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Spariformes, Sparidae, Pagellus	11	16	6	1	5	13	1	2	3	12	2	2	12	0	18	17	12	6	7	7	6	1	4	8	7	0	2	0	4	2	16	14	5	4	2	14	7	0	8	10	9	0	0	2	9	9	9	0	5	8	19	0	1	8	5	1	3	7	13	5	0	0	0	0

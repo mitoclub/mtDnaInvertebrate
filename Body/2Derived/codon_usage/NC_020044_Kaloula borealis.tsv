@@ -1,65 +1,13 @@
-	YP_007317641.1|ND1	YP_007317642.1|ND2	YP_007317643.1|COX1	YP_007317644.1|COX2	YP_007317645.1|ATP8	YP_007317646.1|ATP6	YP_007317647.1|COX3	YP_007317648.1|ND3	YP_007317649.1|ND4L	YP_007317650.1|ND4	YP_007317651.1|ND5	YP_007317653.1|CYTB
-TTT	16	11	24	8	4	9	12	6	4	21	23	16
-TTC	10	3	18	1	0	4	13	2	2	13	18	16
-TTA	11	14	8	5	2	10	4	2	5	17	14	5
-TTG	1	0	2	0	0	0	1	1	1	1	1	0
-TCT	4	6	4	5	2	3	3	2	1	6	13	1
-TCC	3	7	4	2	0	4	3	1	1	7	11	4
-TCA	14	16	20	8	4	7	4	5	4	15	22	14
-TCG	1	1	1	1	0	0	0	0	1	3	1	1
-TAT	6	4	7	3	0	0	8	1	0	8	4	7
-TAC	3	2	11	5	0	3	2	3	0	6	8	8
-TGT	1	1	0	1	0	0	0	0	1	2	0	0
-TGC	0	0	0	1	0	0	2	1	2	4	7	3
-TGA	7	9	15	5	4	4	12	5	1	12	11	9
-TGG	1	1	2	0	1	1	0	0	0	0	0	2
-CTT	12	16	21	10	0	12	10	11	4	19	18	16
-CTC	9	8	10	5	2	12	7	1	5	13	22	22
-CTA	12	21	10	3	2	16	8	7	6	27	32	13
-CTG	3	2	11	2	0	3	1	1	0	3	3	1
-CCT	1	1	2	3	0	3	0	1	1	2	2	4
-CCC	2	2	6	1	2	3	4	1	0	6	3	5
-CCA	18	13	19	10	5	8	8	7	1	15	19	15
-CCG	0	1	0	0	0	0	1	0	0	0	2	0
-CAT	1	6	5	2	1	1	2	0	3	3	3	1
-CAC	2	0	14	5	0	2	12	0	1	5	14	10
-CAA	8	9	8	6	1	6	9	2	0	11	14	7
-CAG	1	0	0	2	0	2	0	0	0	0	1	0
-CGT	0	0	2	2	0	0	1	0	1	4	0	2
-CGC	3	0	1	2	0	2	2	0	0	4	3	3
-CGA	5	4	5	1	1	2	2	2	2	4	5	4
-CGG	0	0	0	1	0	1	0	0	0	0	2	0
-ATT	24	31	34	19	3	13	12	8	5	23	50	13
-ATC	8	11	6	6	3	8	4	4	2	14	19	21
-ATA	16	19	21	9	0	7	9	3	6	23	18	6
-ATG	1	3	5	2	1	4	2	2	4	5	5	3
-ACT	6	8	9	5	2	6	2	0	0	10	9	2
-ACC	5	13	7	8	2	7	8	3	4	12	17	9
-ACA	12	17	19	3	2	12	9	2	2	15	21	13
-ACG	0	0	2	1	0	0	1	0	1	0	2	0
-AAT	5	5	8	5	1	5	2	0	2	5	8	5
-AAC	5	6	9	5	2	3	3	0	2	10	16	13
-AAA	7	12	7	2	3	1	1	0	1	7	16	10
-AAG	0	1	2	1	0	2	1	1	0	1	4	0
-AGT	0	2	0	1	1	0	0	1	0	1	4	2
-AGC	1	1	6	4	0	3	3	1	1	5	5	2
-GTT	6	3	20	3	0	3	4	0	0	2	7	6
-GTC	2	1	8	3	0	2	5	2	0	7	7	5
-GTA	7	3	13	4	0	3	5	0	0	6	6	6
-GTG	1	0	0	1	0	1	1	0	0	0	3	1
-GCT	8	4	9	6	0	4	6	2	2	6	11	2
-GCC	9	17	23	3	1	6	12	5	7	22	27	24
-GCA	12	6	8	7	0	4	5	3	1	13	17	8
-GCG	0	1	1	0	0	0	1	0	0	0	2	0
-GAT	2	0	8	7	0	1	0	0	0	2	4	4
-GAC	2	2	6	6	2	0	6	3	1	3	9	6
-GAA	7	4	9	8	0	3	3	4	1	10	9	4
-GAG	2	1	2	1	0	1	4	2	1	0	1	0
-GGT	1	5	9	1	0	1	5	2	1	2	3	2
-GGC	4	6	12	3	0	2	6	3	3	6	13	14
-GGA	6	4	17	4	0	6	9	0	0	7	9	8
-GGG	4	1	6	1	0	1	1	0	0	5	3	2
-TAA	0	0	0	0	1	0	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007317641.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	16	10	11	1	4	3	14	1	6	3	1	0	7	1	12	9	12	3	1	2	18	0	1	2	8	1	0	3	5	0	24	8	16	1	6	5	12	0	5	5	7	0	0	1	6	2	7	1	8	9	12	0	2	2	7	2	1	4	6	4	0	0	0	0
+1	ND2	YP_007317642.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	11	3	14	0	6	7	16	1	4	2	1	0	9	1	16	8	21	2	1	2	13	1	6	0	9	0	0	0	4	0	31	11	19	3	8	13	17	0	5	6	12	1	2	1	3	1	3	0	4	17	6	1	0	2	4	1	5	6	4	1	0	0	0	0
+2	COX1	YP_007317643.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	24	18	8	2	4	4	20	1	7	11	0	0	15	2	21	10	10	11	2	6	19	0	5	14	8	0	2	1	5	0	34	6	21	5	9	7	19	2	8	9	7	2	0	6	20	8	13	0	9	23	8	1	8	6	9	2	9	12	17	6	0	0	0	1
+3	COX2	YP_007317644.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	8	1	5	0	5	2	8	1	3	5	1	1	5	0	10	5	3	2	3	1	10	0	2	5	6	2	2	2	1	1	19	6	9	2	5	8	3	1	5	5	2	1	1	4	3	3	4	1	6	3	7	0	7	6	8	1	1	3	4	1	0	0	0	0
+4	ATP8	YP_007317645.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	4	0	2	0	2	0	4	0	0	0	0	0	4	1	0	2	2	0	0	2	5	0	1	0	1	0	0	0	1	0	3	3	0	1	2	2	2	0	1	2	3	0	1	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007317646.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	9	4	10	0	3	4	7	0	0	3	0	0	4	1	12	12	16	3	3	3	8	0	1	2	6	2	0	2	2	1	13	8	7	4	6	7	12	0	5	3	1	2	0	3	3	2	3	1	4	6	4	0	1	0	3	1	1	2	6	1	0	0	0	0
+6	COX3	YP_007317647.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	12	13	4	1	3	3	4	0	8	2	0	2	12	0	10	7	8	1	0	4	8	1	2	12	9	0	1	2	2	0	12	4	9	2	2	8	9	1	2	3	1	1	0	3	4	5	5	1	6	12	5	1	0	6	3	4	5	6	9	1	0	0	0	0
+7	ND3	YP_007317648.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	6	2	2	1	2	1	5	0	1	3	0	1	5	0	11	1	7	1	1	1	7	0	0	0	2	0	0	0	2	0	8	4	3	2	0	3	2	0	0	0	0	1	1	1	0	2	0	0	2	5	3	0	0	3	4	2	2	3	0	0	0	0	0	0
+8	ND4L	YP_007317649.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	4	2	5	1	1	1	4	1	0	0	1	2	1	0	4	5	6	0	1	0	1	0	3	1	0	0	1	0	2	0	5	2	6	4	0	4	2	1	2	2	1	0	0	1	0	0	0	0	2	7	1	0	0	1	1	1	1	3	0	0	1	0	0	0
+9	ND4	YP_007317650.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	21	13	17	1	6	7	15	3	8	6	2	4	12	0	19	13	27	3	2	6	15	0	3	5	11	0	4	4	4	0	23	14	23	5	10	12	15	0	5	10	7	1	1	5	2	7	6	0	6	22	13	0	2	3	10	0	2	6	7	5	0	0	0	0
+10	ND5	YP_007317651.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	23	18	14	1	13	11	22	1	4	8	0	7	11	0	18	22	32	3	2	3	19	2	3	14	14	1	0	3	5	2	50	19	18	5	9	17	21	2	8	16	16	4	4	5	7	7	6	3	11	27	17	2	4	9	9	1	3	13	9	3	0	0	0	1
+11	CYTB	YP_007317653.1	Kaloula borealis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Microhyloidea, Microhylidae, Microhylinae, Kaloula	16	16	5	0	1	4	14	1	7	8	0	3	9	2	16	22	13	1	4	5	15	0	1	10	7	0	2	3	4	0	13	21	6	3	2	9	13	0	5	13	10	0	2	2	6	5	6	1	2	24	8	0	4	6	4	0	2	14	8	2	1	0	0	0

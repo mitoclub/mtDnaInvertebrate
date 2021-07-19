@@ -1,65 +1,13 @@
-	YP_007026985.1|ND1	YP_007026986.1|ND2	YP_007026987.1|COX1	YP_007026988.1|COX2	YP_007026989.1|ATP8	YP_007026990.1|ATP6	YP_007026991.1|COX3	YP_007026992.1|ND3	YP_007026993.1|ND4L	YP_007026994.1|ND4	YP_007026995.1|ND5	YP_007026996.1|cytb
-TTT	9	3	9	2	3	2	2	1	2	1	11	8
-TTC	9	11	33	7	0	9	21	8	4	12	23	21
-TTA	7	2	6	3	2	8	3	1	2	6	7	2
-TTG	0	1	1	0	0	0	0	0	0	1	2	0
-TCT	6	2	5	1	1	2	6	1	0	5	3	4
-TCC	8	17	7	5	2	8	2	3	3	8	18	6
-TCA	4	7	11	10	2	2	5	3	5	14	17	12
-TCG	1	1	1	1	0	0	1	0	1	0	1	0
-TAT	2	2	2	2	1	1	0	1	0	2	2	2
-TAC	11	5	16	5	0	2	11	1	1	10	15	10
-TGT	0	1	0	0	0	0	1	0	1	0	0	0
-TGC	3	1	1	3	0	0	0	1	3	3	6	4
-TGA	8	8	16	4	5	3	12	4	1	12	12	11
-TGG	0	2	1	1	0	1	0	1	0	0	0	0
-CTT	9	6	5	5	0	7	2	2	0	12	16	7
-CTC	18	17	12	7	2	18	12	10	5	25	19	17
-CTA	28	32	36	14	2	30	11	10	10	46	53	36
-CTG	4	5	3	2	0	0	2	4	4	4	7	1
-CCT	2	1	5	1	1	1	4	1	0	5	6	3
-CCC	11	9	9	3	1	6	6	4	1	10	12	8
-CCA	11	9	13	9	6	9	3	2	2	12	15	13
-CCG	0	1	3	0	1	0	0	0	0	0	0	2
-CAT	0	1	3	1	0	1	2	0	0	3	3	3
-CAC	4	9	16	7	0	2	13	0	6	14	10	9
-CAA	6	9	9	7	2	7	9	3	2	13	15	7
-CAG	0	1	0	0	0	1	1	1	0	1	1	1
-CGT	1	0	0	0	0	2	0	0	0	1	0	1
-CGC	2	1	3	2	0	0	0	0	0	1	4	2
-CGA	4	1	5	3	0	3	3	2	2	9	5	4
-CGG	1	1	0	0	0	0	2	0	0	0	0	1
-ATT	7	7	16	0	1	4	6	3	0	16	11	8
-ATC	15	22	27	12	3	11	8	6	5	26	45	23
-ATA	5	13	15	8	0	5	6	3	4	23	21	6
-ATG	7	4	7	2	2	2	2	1	2	5	5	1
-ACT	3	8	7	1	3	2	2	0	0	6	11	2
-ACC	7	19	15	8	3	8	8	8	4	19	29	13
-ACA	7	11	16	5	3	12	10	2	4	20	24	9
-ACG	1	3	0	0	0	0	0	0	0	2	0	1
-AAT	2	2	2	0	0	0	0	1	1	1	4	6
-AAC	11	10	13	5	4	9	5	2	1	12	20	14
-AAA	5	12	8	4	2	4	3	1	1	9	19	9
-AAG	2	2	1	0	0	0	0	0	0	1	1	1
-AGT	0	2	1	2	0	1	0	0	0	2	1	0
-AGC	6	3	3	3	1	3	4	1	3	10	11	1
-GTT	3	1	6	4	0	1	1	0	0	2	2	2
-GTC	6	4	7	9	1	4	7	0	0	3	5	8
-GTA	7	1	17	7	0	4	9	0	1	5	8	13
-GTG	1	1	4	0	0	2	1	1	0	0	1	0
-GCT	5	5	9	8	0	4	1	0	1	5	8	8
-GCC	13	15	20	7	1	8	18	6	7	24	27	13
-GCA	12	14	18	2	0	3	3	3	2	7	13	7
-GCG	2	4	1	0	0	0	1	0	0	2	2	0
-GAT	1	0	2	2	0	1	1	0	0	0	1	0
-GAC	3	1	13	11	0	2	3	3	1	3	9	8
-GAA	7	4	9	13	0	4	5	6	2	9	10	6
-GAG	4	0	1	1	0	0	3	0	0	0	1	1
-GGT	2	0	8	1	0	0	1	1	1	0	3	6
-GGC	5	6	14	2	0	4	7	0	1	10	9	9
-GGA	2	4	21	5	0	4	11	4	2	4	17	7
-GGG	5	2	4	0	0	0	1	0	0	3	4	3
-TAA	1	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007026985.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	9	9	7	0	6	8	4	1	2	11	0	3	8	0	9	18	28	4	2	11	11	0	0	4	6	0	1	2	4	1	7	15	5	7	3	7	7	1	2	11	5	2	0	6	3	6	7	1	5	13	12	2	1	3	7	4	2	5	2	5	1	0	0	0
+1	ND2	YP_007026986.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	3	11	2	1	2	17	7	1	2	5	1	1	8	2	6	17	32	5	1	9	9	1	1	9	9	1	0	1	1	1	7	22	13	4	8	19	11	3	2	10	12	2	2	3	1	4	1	1	5	15	14	4	0	1	4	0	0	6	4	2	0	0	0	0
+2	COX1	YP_007026987.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	9	33	6	1	5	7	11	1	2	16	0	1	16	1	5	12	36	3	5	9	13	3	3	16	9	0	0	3	5	0	16	27	15	7	7	15	16	0	2	13	8	1	1	3	6	7	17	4	9	20	18	1	2	13	9	1	8	14	21	4	0	0	0	1
+3	COX2	YP_007026988.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	2	7	3	0	1	5	10	1	2	5	0	3	4	1	5	7	14	2	1	3	9	0	1	7	7	0	0	2	3	0	0	12	8	2	1	8	5	0	0	5	4	0	2	3	4	9	7	0	8	7	2	0	2	11	13	1	1	2	5	0	1	0	0	0
+4	ATP8	YP_007026989.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	3	0	2	0	1	2	2	0	1	0	0	0	5	0	0	2	2	0	1	1	6	1	0	0	2	0	0	0	0	0	1	3	0	2	3	3	3	0	0	4	2	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_007026990.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	2	9	8	0	2	8	2	0	1	2	0	0	3	1	7	18	30	0	1	6	9	0	1	2	7	1	2	0	3	0	4	11	5	2	2	8	12	0	0	9	4	0	1	3	1	4	4	2	4	8	3	0	1	2	4	0	0	4	4	0	1	0	0	0
+6	COX3	YP_007026991.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	2	21	3	0	6	2	5	1	0	11	1	0	12	0	2	12	11	2	4	6	3	0	2	13	9	1	0	0	3	2	6	8	6	2	2	8	10	0	0	5	3	0	0	4	1	7	9	1	1	18	3	1	1	3	5	3	1	7	11	1	0	0	0	0
+7	ND3	YP_007026992.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	1	8	1	0	1	3	3	0	1	1	0	1	4	1	2	10	10	4	1	4	2	0	0	0	3	1	0	0	2	0	3	6	3	1	0	8	2	0	1	2	1	0	0	1	0	0	0	1	0	6	3	0	0	3	6	0	1	0	4	0	1	0	0	0
+8	ND4L	YP_007026993.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	2	4	2	0	0	3	5	1	0	1	1	3	1	0	0	5	10	4	0	1	2	0	0	6	2	0	0	0	2	0	0	5	4	2	0	4	4	0	1	1	1	0	0	3	0	0	1	0	1	7	2	0	0	1	2	0	1	1	2	0	1	0	0	0
+9	ND4	YP_007026994.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	1	12	6	1	5	8	14	0	2	10	0	3	12	0	12	25	46	4	5	10	12	0	3	14	13	1	1	1	9	0	16	26	23	5	6	19	20	2	1	12	9	1	2	10	2	3	5	0	5	24	7	2	0	3	9	0	0	10	4	3	0	0	0	0
+10	ND5	YP_007026995.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	11	23	7	2	3	18	17	1	2	15	0	6	12	0	16	19	53	7	6	12	15	0	3	10	15	1	0	4	5	0	11	45	21	5	11	29	24	0	4	20	19	1	1	11	2	5	8	1	8	27	13	2	1	9	10	1	3	9	17	4	0	0	1	0
+11	cytb	YP_007026996.1	Petroica goodenovii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Petroicidae, Petroica	8	21	2	0	4	6	12	0	2	10	0	4	11	0	7	17	36	1	3	8	13	2	3	9	7	1	1	2	4	1	8	23	6	1	2	13	9	1	6	14	9	1	0	1	2	8	13	0	8	13	7	0	0	8	6	1	6	9	7	3	1	0	0	0

@@ -1,65 +1,13 @@
-	YP_002860197.1|ND5	YP_002860198.1|ND1	YP_002860199.1|ND2	YP_002860200.1|COX1	YP_002860201.1|COX2	YP_002860202.1|ATP8	YP_002860203.1|ATP6	YP_002860204.1|COX3	YP_002860205.1|ND3	YP_002860206.1|ND4L	YP_002860207.1|ND4	YP_002860209.1|CYTB
-TTT	34	13	9	24	6	4	10	15	6	3	16	22
-TTC	16	7	8	21	2	1	4	13	3	2	20	13
-TTA	11	12	12	9	5	0	9	4	5	5	20	6
-TTG	2	2	2	2	1	1	3	1	1	1	6	5
-TCT	13	9	5	10	3	1	4	3	0	2	12	7
-TCC	20	8	12	9	5	1	2	4	2	2	10	6
-TCA	14	14	11	8	3	0	6	2	2	2	9	7
-TCG	6	1	1	1	0	0	1	2	0	2	2	2
-TAT	8	9	3	9	3	1	1	4	4	0	7	4
-TAC	6	4	3	7	5	0	3	4	1	0	7	8
-TGT	3	0	0	0	1	0	0	0	0	2	1	1
-TGC	6	1	0	0	1	0	1	1	1	1	4	1
-TGA	13	6	9	13	5	4	3	12	5	1	10	9
-TGG	0	1	1	4	0	1	1	0	0	0	2	1
-CTT	23	16	21	13	7	1	11	15	7	6	23	14
-CTC	22	17	19	17	6	0	11	6	8	5	19	17
-CTA	20	11	11	14	3	1	6	2	3	3	15	12
-CTG	10	5	4	8	4	0	7	1	2	3	7	4
-CCT	6	3	3	8	7	2	1	3	4	1	9	5
-CCC	4	7	8	12	4	2	6	5	4	1	9	8
-CCA	12	9	10	9	3	5	7	5	1	0	5	9
-CCG	2	2	0	1	1	1	1	0	0	0	1	1
-CAT	2	0	0	6	3	0	1	5	0	0	1	4
-CAC	13	4	5	13	4	0	3	10	0	4	8	7
-CAA	9	4	6	4	7	1	7	8	2	1	6	8
-CAG	1	2	1	3	0	0	0	0	1	0	5	0
-CGT	3	2	0	1	1	0	0	1	0	0	2	0
-CGC	5	4	3	2	3	0	0	0	0	1	5	6
-CGA	4	2	1	2	0	0	2	3	1	2	4	2
-CGG	0	0	0	3	1	0	2	1	1	0	1	0
-ATT	30	18	26	30	12	3	15	5	8	3	24	21
-ATC	24	12	14	11	14	4	9	12	2	2	12	12
-ATA	19	7	10	19	8	1	7	6	0	5	11	8
-ATG	5	1	3	9	5	1	6	2	4	3	6	4
-ACT	11	4	13	10	5	0	5	7	0	0	7	4
-ACC	19	6	15	9	9	4	8	8	4	2	16	7
-ACA	6	3	6	16	3	1	7	6	0	2	12	8
-ACG	3	1	2	1	2	0	2	0	0	0	1	1
-AAT	9	5	4	10	5	0	6	5	0	1	6	4
-AAC	19	4	6	4	3	0	2	1	0	2	7	15
-AAA	20	7	8	11	3	4	3	1	0	1	5	9
-AAG	2	0	2	0	1	0	1	0	2	0	1	2
-AGT	3	0	1	2	1	0	2	2	0	0	5	2
-AGC	7	2	3	2	3	0	1	0	2	0	8	2
-GTT	14	7	4	8	5	0	5	6	1	3	7	8
-GTC	4	4	2	9	2	0	2	5	1	1	6	6
-GTA	8	6	3	9	5	0	2	6	2	1	2	2
-GTG	1	0	0	8	1	0	2	3	0	0	1	2
-GCT	16	5	6	13	6	1	3	5	4	1	9	10
-GCC	26	14	17	18	6	3	7	12	3	4	20	14
-GCA	15	8	6	11	1	1	5	6	0	1	10	3
-GCG	3	2	2	1	1	1	1	0	1	1	0	1
-GAT	8	1	1	5	6	2	1	2	1	0	0	2
-GAC	6	2	1	9	5	0	0	2	3	1	4	9
-GAA	7	9	5	6	10	1	2	6	6	1	8	5
-GAG	1	1	1	2	1	0	2	3	1	1	4	0
-GGT	5	0	4	10	1	0	1	3	0	1	5	6
-GGC	10	3	3	13	3	0	5	7	3	3	5	8
-GGA	5	6	7	15	3	0	2	7	1	1	4	12
-GGG	7	5	1	7	3	0	0	3	1	1	1	2
-TAA	1	0	0	1	0	1	0	0	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND5	YP_002860197.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	34	16	11	2	13	20	14	6	8	6	3	6	13	0	23	22	20	10	6	4	12	2	2	13	9	1	3	5	4	0	30	24	19	5	11	19	6	3	9	19	20	2	3	7	14	4	8	1	16	26	15	3	8	6	7	1	5	10	5	7	1	0	0	0
+1	ND1	YP_002860198.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	13	7	12	2	9	8	14	1	9	4	0	1	6	1	16	17	11	5	3	7	9	2	0	4	4	2	2	4	2	0	18	12	7	1	4	6	3	1	5	4	7	0	0	2	7	4	6	0	5	14	8	2	1	2	9	1	0	3	6	5	0	0	0	0
+2	ND2	YP_002860199.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	9	8	12	2	5	12	11	1	3	3	0	0	9	1	21	19	11	4	3	8	10	0	0	5	6	1	0	3	1	0	26	14	10	3	13	15	6	2	4	6	8	2	1	3	4	2	3	0	6	17	6	2	1	1	5	1	4	3	7	1	0	0	0	0
+3	COX1	YP_002860200.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	24	21	9	2	10	9	8	1	9	7	0	0	13	4	13	17	14	8	8	12	9	1	6	13	4	3	1	2	2	3	30	11	19	9	10	9	16	1	10	4	11	0	2	2	8	9	9	8	13	18	11	1	5	9	6	2	10	13	15	7	1	0	0	0
+4	COX2	YP_002860201.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	6	2	5	1	3	5	3	0	3	5	1	1	5	0	7	6	3	4	7	4	3	1	3	4	7	0	1	3	0	1	12	14	8	5	5	9	3	2	5	3	3	1	1	3	5	2	5	1	6	6	1	1	6	5	10	1	1	3	3	3	0	0	0	0
+5	ATP8	YP_002860202.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	4	1	0	1	1	1	0	0	1	0	0	0	4	1	1	0	1	0	2	2	5	1	0	0	1	0	0	0	0	0	3	4	1	1	0	4	1	0	0	0	4	0	0	0	0	0	0	0	1	3	1	1	2	0	1	0	0	0	0	0	1	0	0	0
+6	ATP6	YP_002860203.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	10	4	9	3	4	2	6	1	1	3	0	1	3	1	11	11	6	7	1	6	7	1	1	3	7	0	0	0	2	2	15	9	7	6	5	8	7	2	6	2	3	1	2	1	5	2	2	2	3	7	5	1	1	0	2	2	1	5	2	0	0	0	0	0
+7	COX3	YP_002860204.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	15	13	4	1	3	4	2	2	4	4	0	1	12	0	15	6	2	1	3	5	5	0	5	10	8	0	1	0	3	1	5	12	6	2	7	8	6	0	5	1	1	0	2	0	6	5	6	3	5	12	6	0	2	2	6	3	3	7	7	3	0	0	0	0
+8	ND3	YP_002860205.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	6	3	5	1	0	2	2	0	4	1	0	1	5	0	7	8	3	2	4	4	1	0	0	0	2	1	0	0	1	1	8	2	0	4	0	4	0	0	0	0	0	2	0	2	1	1	2	0	4	3	0	1	1	3	6	1	0	3	1	1	1	0	0	0
+9	ND4L	YP_002860206.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	3	2	5	1	2	2	2	2	0	0	2	1	1	0	6	5	3	3	1	1	0	0	0	4	1	0	0	1	2	0	3	2	5	3	0	2	2	0	1	2	1	0	0	0	3	1	1	0	1	4	1	1	0	1	1	1	1	3	1	1	1	0	0	0
+10	ND4	YP_002860207.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	16	20	20	6	12	10	9	2	7	7	1	4	10	2	23	19	15	7	9	9	5	1	1	8	6	5	2	5	4	1	24	12	11	6	7	16	12	1	6	7	5	1	5	8	7	6	2	1	9	20	10	0	0	4	8	4	5	5	4	1	0	0	0	0
+11	CYTB	YP_002860209.1	Fejervarya cancrivora	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Dicroglossidae, Dicroglossinae, Fejervarya	22	13	6	5	7	6	7	2	4	8	1	1	9	1	14	17	12	4	5	8	9	1	4	7	8	0	0	6	2	0	21	12	8	4	4	7	8	1	4	15	9	2	2	2	8	6	2	2	10	14	3	1	2	9	5	0	6	8	12	2	1	0	0	0

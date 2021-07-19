@@ -1,65 +1,16 @@
-	YP_008815532.1	YP_008815533.1	YP_008815534.1	YP_008815535.1	YP_008815536.1	YP_008815537.1	YP_008815538.1	YP_008815539.1	YP_008815540.1	YP_008815541.1	YP_008815542.1	YP_008815543.1	YP_008815544.1	YP_008815545.1	YP_008815546.1
-TTT	29	4	9	11	8	13	18	10	0	10	3	28	11	13	15
-TTC	16	1	13	16	4	5	22	8	5	6	2	31	25	31	16
-TTA	64	7	45	28	27	45	75	15	13	24	8	73	51	69	56
-TTG	1	0	0	1	5	2	6	1	0	1	2	2	2	1	2
-TCT	13	2	7	7	6	14	14	0	0	5	4	14	3	5	3
-TCC	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0
-TCA	12	1	7	7	4	7	17	1	6	11	0	18	7	15	9
-TCG	0	0	0	0	2	0	1	0	0	0	0	1	0	0	0
-TAT	19	2	6	7	10	25	28	4	0	8	3	22	11	13	13
-TAC	7	2	3	6	3	3	2	4	2	4	1	14	8	6	5
-TGT	4	0	1	2	1	0	3	2	0	3	0	6	1	2	3
-TGC	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
-TGA	4	0	1	8	2	5	5	0	0	6	0	8	7	14	5
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	0	0	0	1	2	5	4	1	1	0	3	4	2	0	0
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	4	0	1	1	2	1	3	1	0	0	3	5	0	2	6
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	7	2	2	9	3	3	9	0	1	9	0	17	12	20	9
-CCC	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
-CCA	4	1	4	0	0	0	2	3	0	3	0	3	9	8	3
-CCG	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0
-CAT	1	0	3	8	0	6	4	1	0	4	0	5	7	3	3
-CAC	3	0	3	6	2	0	2	1	0	4	0	7	4	10	0
-CAA	7	1	8	4	3	5	9	4	2	6	1	10	10	10	7
-CAG	0	0	0	0	0	0	1	1	0	0	0	1	0	0	1
-CGT	0	2	0	0	0	5	1	0	0	0	0	3	2	0	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	7	1	6	3	11	17	21	4	0	4	5	17	4	9	13
-ATC	4	0	5	2	2	4	7	0	3	4	1	5	4	11	1
-ATA	52	5	21	18	22	25	43	10	1	18	12	43	25	26	29
-ATG	13	3	4	6	8	6	11	2	3	7	3	19	13	22	12
-ACT	5	1	1	7	3	11	12	2	2	4	1	15	4	9	8
-ACC	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1
-ACA	21	1	13	16	12	4	21	1	1	5	3	27	11	19	7
-ACG	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0
-AAT	12	2	9	7	18	44	25	4	0	11	2	20	10	12	12
-AAC	5	0	7	2	2	11	6	4	2	1	1	6	12	9	2
-AAA	14	2	5	2	6	62	21	7	2	6	2	22	6	10	7
-AAG	0	0	0	0	0	9	0	0	0	0	0	0	1	0	0
-AGT	21	0	4	7	13	14	19	4	0	3	3	25	10	21	13
-AGC	1	0	2	0	2	0	7	2	0	0	0	4	2	2	1
-AGA	9	1	4	4	1	18	8	2	1	6	3	6	11	10	8
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	5	1	6	7	2	4	18	2	3	12	1	25	11	12	9
-GTC	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1
-GTA	32	5	10	14	9	12	22	7	4	8	4	30	15	20	13
-GTG	0	0	0	1	1	0	3	2	0	1	0	6	3	1	1
-GCT	12	0	9	7	6	7	16	3	5	6	3	23	18	27	21
-GCC	6	0	0	1	0	1	3	1	0	1	2	4	0	0	2
-GCA	11	0	10	6	3	4	5	2	5	6	2	8	14	13	9
-GCG	0	0	0	1	0	1	1	1	0	0	0	1	0	0	1
-GAT	11	0	2	5	4	10	11	2	0	9	2	15	6	11	6
-GAC	2	0	2	0	0	1	3	0	0	5	0	3	2	2	1
-GAA	13	1	6	8	4	8	12	6	1	15	3	14	9	7	11
-GAG	0	0	0	0	1	1	1	0	0	0	0	0	0	0	2
-GGT	15	0	7	12	5	6	17	7	2	7	2	29	12	16	10
-GGC	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-GGA	14	0	14	9	3	9	12	3	7	6	3	18	12	35	9
-GGG	0	0	0	1	2	0	0	1	1	0	1	5	2	2	2
-TAA	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	None	YP_008815532.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	29	16	64	1	13	1	12	0	19	7	4	0	4	0	0	0	4	0	7	0	4	1	1	3	7	0	0	0	0	0	7	4	52	13	5	0	21	2	12	5	14	0	21	1	9	0	5	1	32	0	12	6	11	0	11	2	13	0	15	0	14	0	1	0
+1	None	YP_008815533.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	4	1	7	0	2	0	1	0	2	2	0	0	0	0	0	0	0	0	2	0	1	0	0	0	1	0	2	0	0	0	1	0	5	3	1	0	1	0	2	0	2	0	0	0	1	0	1	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+2	None	YP_008815534.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	9	13	45	0	7	0	7	0	6	3	1	0	1	0	0	0	1	0	2	1	4	0	3	3	8	0	0	0	0	0	6	5	21	4	1	0	13	0	9	7	5	0	4	2	4	0	6	0	10	0	9	0	10	0	2	2	6	0	7	0	14	0	1	0
+3	None	YP_008815535.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	11	16	28	1	7	0	7	0	7	6	2	0	8	0	1	0	1	0	9	1	0	0	8	6	4	0	0	0	0	0	3	2	18	6	7	0	16	0	7	2	2	0	7	0	4	0	7	0	14	1	7	1	6	1	5	0	8	0	12	0	9	1	1	0
+4	None	YP_008815536.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	8	4	27	5	6	0	4	2	10	3	1	0	2	0	2	0	2	0	3	0	0	1	0	2	3	0	0	0	0	0	11	2	22	8	3	0	12	0	18	2	6	0	13	2	1	0	2	0	9	1	6	0	3	0	4	0	4	1	5	0	3	2	1	0
+5	None	YP_008815537.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	13	5	45	2	14	0	7	0	25	3	0	0	5	0	5	0	1	0	3	0	0	1	6	0	5	0	5	0	1	0	17	4	25	6	11	1	4	1	44	11	62	9	14	0	18	0	4	0	12	0	7	1	4	1	10	1	8	1	6	1	9	0	1	0
+6	None	YP_008815538.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	18	22	75	6	14	0	17	1	28	2	3	1	5	0	4	0	3	0	9	0	2	1	4	2	9	1	1	0	0	0	21	7	43	11	12	1	21	1	25	6	21	0	19	7	8	0	18	0	22	3	16	3	5	1	11	3	12	1	17	0	12	0	1	0
+7	None	YP_008815539.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	10	8	15	1	0	1	1	0	4	4	2	0	0	0	1	0	1	0	0	0	3	0	1	1	4	1	0	0	0	0	4	0	10	2	2	0	1	0	4	4	7	0	4	2	2	0	2	0	7	2	3	1	2	1	2	0	6	0	7	0	3	1	1	0
+8	None	YP_008815540.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	0	5	13	0	0	0	6	0	0	2	0	1	0	0	1	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	3	1	3	2	0	1	0	0	2	2	0	0	0	1	0	3	0	4	0	5	0	5	0	0	0	1	0	2	0	7	1	1	0
+9	None	YP_008815541.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	10	6	24	1	5	0	11	0	8	4	3	0	6	0	0	0	0	0	9	0	3	0	4	4	6	0	0	0	0	0	4	4	18	7	4	0	5	0	11	1	6	0	3	0	6	0	12	0	8	1	6	1	6	0	9	5	15	0	7	0	6	0	1	0
+10	None	YP_008815542.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	3	2	8	2	4	0	0	0	3	1	0	0	0	0	3	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	5	1	12	3	1	0	3	0	2	1	2	0	3	0	3	0	1	0	4	0	3	2	2	0	2	0	3	0	2	0	3	1	1	0
+11	None	YP_008815543.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	28	31	73	2	14	1	18	1	22	14	6	0	8	0	4	0	5	0	17	0	3	0	5	7	10	1	3	0	0	0	17	5	43	19	15	0	27	0	20	6	22	0	25	4	6	0	25	1	30	6	23	4	8	1	15	3	14	0	29	0	18	5	0	1
+12	None	YP_008815544.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	11	25	51	2	3	0	7	0	11	8	1	0	7	0	2	0	0	0	12	0	9	0	7	4	10	0	2	0	0	0	4	4	25	13	4	0	11	0	10	12	6	1	10	2	11	0	11	0	15	3	18	0	14	0	6	2	9	0	12	0	12	2	1	0
+13	None	YP_008815545.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	13	31	69	1	5	0	15	0	13	6	2	0	14	0	0	0	2	0	20	0	8	0	3	10	10	0	0	0	0	0	9	11	26	22	9	0	19	0	12	9	10	0	21	2	10	0	12	0	20	1	27	0	13	0	11	2	7	0	16	0	35	2	1	0
+14	None	YP_008815546.1	Pochonia chlamydosporia	Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Clavicipitaceae, Pochonia	15	16	56	2	3	0	9	0	13	5	3	0	5	0	0	0	6	0	9	0	3	0	3	0	7	1	1	0	0	0	13	1	29	12	8	1	7	0	12	2	7	0	13	1	8	0	9	1	13	1	21	2	9	1	6	1	11	2	10	0	9	2	1	0

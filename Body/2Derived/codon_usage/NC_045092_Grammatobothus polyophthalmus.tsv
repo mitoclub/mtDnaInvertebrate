@@ -1,65 +1,13 @@
-	YP_009707742.1|ND1	YP_009707743.1|ND2	YP_009707744.1|COX1	YP_009707745.1|COX2	YP_009707746.1|ATP8	YP_009707747.1|ATP6	YP_009707748.1|COX3	YP_009707749.1|ND3	YP_009707750.1|ND4L	YP_009707751.1|ND4	YP_009707752.1|ND5	YP_009707753.1|CYTB
-TTT	9	6	21	3	1	10	14	3	3	6	23	10
-TTC	9	5	21	5	1	4	8	5	3	8	14	17
-TTA	10	8	9	5	3	12	6	5	5	13	16	10
-TTG	3	6	3	2	3	3	0	1	1	6	4	2
-TCT	2	2	6	1	1	4	4	1	1	5	3	5
-TCC	10	3	7	4	0	3	2	3	0	4	10	8
-TCA	8	12	8	5	1	0	4	1	6	7	14	9
-TCG	0	1	2	0	0	1	1	0	1	3	3	0
-TAT	4	2	6	4	1	2	3	0	0	10	5	7
-TAC	4	5	12	5	1	1	7	2	0	3	8	8
-TGT	1	0	0	2	0	1	1	1	1	5	3	2
-TGC	1	1	1	0	0	0	1	1	2	1	3	1
-TGA	4	9	11	4	5	4	12	3	1	10	9	9
-TGG	4	2	6	1	0	0	0	2	0	6	4	3
-CTT	11	11	13	7	1	4	7	8	5	19	16	8
-CTC	14	15	8	4	0	10	5	7	2	11	16	10
-CTA	23	28	18	9	1	14	10	5	11	37	32	21
-CTG	8	7	10	3	1	6	5	2	1	9	7	10
-CCT	4	5	6	3	1	0	0	1	1	3	7	3
-CCC	9	11	11	7	2	7	7	3	1	15	15	8
-CCA	7	6	9	3	3	8	6	4	0	8	7	9
-CCG	1	0	1	0	0	1	1	0	0	2	3	2
-CAT	1	0	4	0	0	1	5	0	1	2	1	2
-CAC	3	8	15	10	0	2	13	1	5	9	15	9
-CAA	7	12	5	7	2	5	8	2	3	8	12	5
-CAG	0	1	1	3	0	3	1	0	0	3	4	1
-CGT	2	0	3	1	0	0	1	0	0	0	1	2
-CGC	1	0	0	2	0	1	2	1	2	3	0	3
-CGA	4	3	4	3	0	4	2	1	0	5	8	2
-CGG	1	1	2	0	0	1	0	0	0	3	3	1
-ATT	12	19	29	6	0	10	8	7	0	22	26	16
-ATC	11	5	10	6	3	8	9	2	1	12	21	18
-ATA	8	10	12	11	1	7	6	2	1	19	21	7
-ATG	2	4	15	1	3	5	1	1	2	7	9	4
-ACT	2	6	6	2	2	2	3	0	1	8	9	2
-ACC	8	16	14	2	1	10	6	1	4	10	18	8
-ACA	7	17	16	10	1	3	11	2	3	17	24	10
-ACG	0	1	1	0	0	1	1	0	0	4	2	0
-AAT	4	5	7	1	1	3	1	0	1	6	12	8
-AAC	7	6	8	3	4	5	0	2	1	11	15	10
-AAA	6	7	7	4	3	2	2	0	0	9	17	6
-AAG	1	2	1	0	0	1	1	1	0	3	4	3
-AGT	1	1	1	0	0	1	1	0	0	4	4	0
-AGC	3	3	4	2	0	3	2	0	3	4	11	2
-GTT	6	3	15	7	1	7	4	4	0	5	6	4
-GTC	5	1	7	5	0	2	4	2	1	2	3	9
-GTA	9	2	15	8	2	5	5	1	1	13	18	13
-GTG	0	3	6	4	0	3	2	1	0	4	4	0
-GCT	5	6	10	2	0	3	5	1	3	4	7	5
-GCC	12	21	21	8	1	8	9	5	5	13	28	14
-GCA	17	14	13	8	0	5	6	3	5	15	27	11
-GCG	3	3	3	0	0	1	2	0	0	0	3	0
-GAT	3	0	8	2	0	0	2	0	0	2	3	2
-GAC	1	3	7	10	1	1	3	4	2	1	9	9
-GAA	7	2	7	15	1	5	4	6	2	7	10	5
-GAG	3	2	4	1	1	1	4	0	0	6	3	2
-GGT	1	1	9	1	0	2	4	1	1	6	0	1
-GGC	4	4	14	2	1	5	10	3	3	3	14	7
-GGA	9	9	13	4	0	2	7	1	1	14	13	14
-GGG	3	3	11	2	0	4	2	3	1	5	5	3
-TAA	1	0	0	0	1	1	0	0	1	0	0	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009707742.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	9	9	10	3	2	10	8	0	4	4	1	1	4	4	11	14	23	8	4	9	7	1	1	3	7	0	2	1	4	1	12	11	8	2	2	8	7	0	4	7	6	1	1	3	6	5	9	0	5	12	17	3	3	1	7	3	1	4	9	3	1	0	0	0
+1	ND2	YP_009707743.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	6	5	8	6	2	3	12	1	2	5	0	1	9	2	11	15	28	7	5	11	6	0	0	8	12	1	0	0	3	1	19	5	10	4	6	16	17	1	5	6	7	2	1	3	3	1	2	3	6	21	14	3	0	3	2	2	1	4	9	3	0	0	0	0
+2	COX1	YP_009707744.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	21	21	9	3	6	7	8	2	6	12	0	1	11	6	13	8	18	10	6	11	9	1	4	15	5	1	3	0	4	2	29	10	12	15	6	14	16	1	7	8	7	1	1	4	15	7	15	6	10	21	13	3	8	7	7	4	9	14	13	11	0	1	0	0
+3	COX2	YP_009707745.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	3	5	5	2	1	4	5	0	4	5	2	0	4	1	7	4	9	3	3	7	3	0	0	10	7	3	1	2	3	0	6	6	11	1	2	2	10	0	1	3	4	0	0	2	7	5	8	4	2	8	8	0	2	10	15	1	1	2	4	2	0	0	0	0
+4	ATP8	YP_009707746.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	1	1	3	3	1	0	1	0	1	1	0	0	5	0	1	0	1	1	1	2	3	0	0	0	2	0	0	0	0	0	0	3	1	3	2	1	1	0	1	4	3	0	0	0	1	0	2	0	0	1	0	0	0	1	1	1	0	1	0	0	1	0	0	0
+5	ATP6	YP_009707747.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	10	4	12	3	4	3	0	1	2	1	1	0	4	0	4	10	14	6	0	7	8	1	1	2	5	3	0	1	4	1	10	8	7	5	2	10	3	1	3	5	2	1	1	3	7	2	5	3	3	8	5	1	0	1	5	1	2	5	2	4	1	0	0	0
+6	COX3	YP_009707748.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	14	8	6	0	4	2	4	1	3	7	1	1	12	0	7	5	10	5	0	7	6	1	5	13	8	1	1	2	2	0	8	9	6	1	3	6	11	1	1	0	2	1	1	2	4	4	5	2	5	9	6	2	2	3	4	4	4	10	7	2	0	0	0	0
+7	ND3	YP_009707749.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	3	5	5	1	1	3	1	0	0	2	1	1	3	2	8	7	5	2	1	3	4	0	0	1	2	0	0	1	1	0	7	2	2	1	0	1	2	0	0	2	0	1	0	0	4	2	1	1	1	5	3	0	0	4	6	0	1	3	1	3	0	0	0	0
+8	ND4L	YP_009707750.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	3	3	5	1	1	0	6	1	0	0	1	2	1	0	5	2	11	1	1	1	0	0	1	5	3	0	0	2	0	0	0	1	1	2	1	4	3	0	1	1	0	0	0	3	0	1	1	0	3	5	5	0	0	2	2	0	1	3	1	1	1	0	0	0
+9	ND4	YP_009707751.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	6	8	13	6	5	4	7	3	10	3	5	1	10	6	19	11	37	9	3	15	8	2	2	9	8	3	0	3	5	3	22	12	19	7	8	10	17	4	6	11	9	3	4	4	5	2	13	4	4	13	15	0	2	1	7	6	6	3	14	5	0	0	0	0
+10	ND5	YP_009707752.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	23	14	16	4	3	10	14	3	5	8	3	3	9	4	16	16	32	7	7	15	7	3	1	15	12	4	1	0	8	3	26	21	21	9	9	18	24	2	12	15	17	4	4	11	6	3	18	4	7	28	27	3	3	9	10	3	0	14	13	5	0	0	0	1
+11	CYTB	YP_009707753.1	Grammatobothus polyophthalmus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Carangaria, Pleuronectiformes, Pleuronectoidei, Bothidae, Grammatobothus	10	17	10	2	5	8	9	0	7	8	2	1	9	3	8	10	21	10	3	8	9	2	2	9	5	1	2	3	2	1	16	18	7	4	2	8	10	0	8	10	6	3	0	2	4	9	13	0	5	14	11	0	2	9	5	2	1	7	14	3	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_009441734.1|ND2	YP_009441735.1|COX1	YP_009441736.1|COX2	YP_009441737.1|ATP8	YP_009441738.1|ATP6	YP_009441739.1|COX3	YP_009441740.1|ND3	YP_009441744.1|ND6	YP_009441745.1|CYTB
-TTT	34	36	13	8	20	23	14	22	31
-TTC	6	6	1	0	2	4	1	2	1
-TTA	38	32	14	8	26	22	17	19	37
-TTG	3	2	2	0	2	2	0	1	1
-TCT	14	19	9	3	7	6	3	4	10
-TCC	1	9	0	0	1	1	0	2	1
-TCA	12	7	6	2	6	4	3	7	7
-TCG	1	1	0	0	0	0	0	0	0
-TAT	10	11	7	3	4	8	1	6	15
-TAC	3	3	2	0	2	3	1	2	1
-TGT	1	0	3	0	0	2	0	0	3
-TGC	0	0	0	0	1	0	1	0	0
-TGA	7	13	4	2	5	12	2	2	11
-TGG	1	1	1	1	1	1	0	0	1
-CTT	6	13	5	1	8	5	3	4	7
-CTC	0	3	0	0	0	0	0	0	2
-CTA	5	10	2	0	1	2	1	3	3
-CTG	0	2	1	0	1	0	0	0	0
-CCT	1	14	6	0	4	5	1	3	17
-CCC	3	6	1	1	1	1	0	0	2
-CCA	3	7	3	1	4	4	3	0	4
-CCG	1	0	0	0	1	0	0	0	0
-CAT	1	11	5	0	4	14	2	1	9
-CAC	1	5	0	0	1	1	0	1	1
-CAA	6	7	8	2	3	6	1	2	7
-CAG	0	0	0	0	0	0	0	0	1
-CGT	2	2	3	0	0	3	1	1	0
-CGC	0	0	2	0	1	0	0	0	1
-CGA	0	7	2	0	2	1	1	0	6
-CGG	0	0	0	0	0	0	0	0	0
-ATT	43	49	30	3	28	25	19	22	49
-ATC	3	4	1	1	2	5	1	5	8
-ATA	31	28	17	2	10	10	3	13	16
-ATG	0	4	0	0	2	1	0	0	0
-ACT	9	13	5	2	10	8	5	5	9
-ACC	0	3	0	0	0	2	0	2	1
-ACA	6	12	5	0	10	9	2	3	9
-ACG	1	0	0	0	0	0	0	1	0
-AAT	24	18	13	3	15	8	4	14	24
-AAC	3	0	2	1	1	1	2	1	3
-AAA	11	9	5	6	3	5	6	10	8
-AAG	1	0	0	0	0	0	0	0	0
-AGT	1	2	2	0	2	0	1	1	3
-AGC	0	1	0	0	0	1	1	0	0
-AGA	5	10	3	0	7	5	0	1	2
-AGG	0	0	0	0	1	1	0	0	0
-GTT	1	13	3	0	4	8	1	2	7
-GTC	0	5	1	0	1	0	0	1	0
-GTA	3	11	2	0	3	2	2	1	6
-GTG	0	1	0	0	0	0	0	0	0
-GCT	2	14	3	0	5	7	1	1	6
-GCC	2	4	0	1	0	1	1	0	4
-GCA	1	16	3	0	1	0	2	1	9
-GCG	0	0	0	0	0	2	0	0	0
-GAT	0	11	8	0	1	5	3	1	7
-GAC	0	5	1	0	0	1	0	0	2
-GAA	6	8	10	0	4	7	4	3	3
-GAG	0	1	0	0	1	0	0	0	0
-GGT	5	18	1	0	2	4	1	1	6
-GGC	0	1	1	0	0	1	0	0	2
-GGA	5	25	4	0	6	13	2	3	14
-GGG	0	0	2	0	0	0	0	0	1
-TAA	1	0	0	1	1	0	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009441734.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	34	6	38	3	14	1	12	1	10	3	1	0	7	1	6	0	5	0	1	3	3	1	1	1	6	0	2	0	0	0	43	3	31	0	9	0	6	1	24	3	11	1	1	0	5	0	1	0	3	0	2	2	1	0	0	0	6	0	5	0	5	0	1	0
+1	COX1	YP_009441735.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	36	6	32	2	19	9	7	1	11	3	0	0	13	1	13	3	10	2	14	6	7	0	11	5	7	0	2	0	7	0	49	4	28	4	13	3	12	0	18	0	9	0	2	1	10	0	13	5	11	1	14	4	16	0	11	5	8	1	18	1	25	0	0	0
+2	COX2	YP_009441736.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	13	1	14	2	9	0	6	0	7	2	3	0	4	1	5	0	2	1	6	1	3	0	5	0	8	0	3	2	2	0	30	1	17	0	5	0	5	0	13	2	5	0	2	0	3	0	3	1	2	0	3	0	3	0	8	1	10	0	1	1	4	2	0	0
+3	ATP8	YP_009441737.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	8	0	8	0	3	0	2	0	3	0	0	0	2	1	1	0	0	0	0	1	1	0	0	0	2	0	0	0	0	0	3	1	2	0	2	0	0	0	3	1	6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009441738.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	20	2	26	2	7	1	6	0	4	2	0	1	5	1	8	0	1	1	4	1	4	1	4	1	3	0	0	1	2	0	28	2	10	2	10	0	10	0	15	1	3	0	2	0	7	1	4	1	3	0	5	0	1	0	1	0	4	1	2	0	6	0	1	0
+5	COX3	YP_009441739.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	23	4	22	2	6	1	4	0	8	3	2	0	12	1	5	0	2	0	5	1	4	0	14	1	6	0	3	0	1	0	25	5	10	1	8	2	9	0	8	1	5	0	0	1	5	1	8	0	2	0	7	1	0	2	5	1	7	0	4	1	13	0	0	0
+6	ND3	YP_009441740.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	14	1	17	0	3	0	3	0	1	1	0	1	2	0	3	0	1	0	1	0	3	0	2	0	1	0	1	0	1	0	19	1	3	0	5	0	2	0	4	2	6	0	1	1	0	0	1	0	2	0	1	1	2	0	3	0	4	0	1	0	2	0	0	1
+7	ND6	YP_009441744.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	22	2	19	1	4	2	7	0	6	2	0	0	2	0	4	0	3	0	3	0	0	0	1	1	2	0	1	0	0	0	22	5	13	0	5	2	3	1	14	1	10	0	1	0	1	0	2	1	1	0	1	0	1	0	1	0	3	0	1	0	3	0	1	0
+8	CYTB	YP_009441745.1	Silvanus bidentatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Silvanidae, Silvaninae, Silvanus	31	1	37	1	10	1	7	0	15	1	3	0	11	1	7	2	3	0	17	2	4	0	9	1	7	1	0	1	6	0	49	8	16	0	9	1	9	0	24	3	8	0	3	0	2	0	7	0	6	0	6	4	9	0	7	2	3	0	6	2	14	1	0	1

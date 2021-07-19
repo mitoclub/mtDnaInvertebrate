@@ -1,65 +1,12 @@
-	YP_009480254.1|ND1	YP_009480255.1|ND2	YP_009480256.1|COX1	YP_009480257.1|COX2	YP_009480258.1|ATP8	YP_009480259.1|ATP6	YP_009480260.1|COX3	YP_009480261.1|ND3	YP_009480262.1|ND4L	YP_009480263.1|ND4	YP_009480265.1|CYTB
-TTT	4	3	8	1	3	2	4	1	2	1	1
-TTC	13	9	35	8	1	8	19	8	3	11	26
-TTA	9	5	5	3	0	3	3	3	1	7	3
-TTG	0	0	0	0	0	0	0	0	0	0	0
-TCT	6	6	2	4	0	1	4	2	1	6	1
-TCC	5	11	12	6	2	5	4	2	5	9	7
-TCA	9	10	10	6	2	5	4	2	4	12	12
-TCG	0	1	0	0	0	0	0	0	0	1	0
-TAT	8	3	3	0	0	2	1	0	1	1	0
-TAC	6	4	14	7	0	1	10	2	2	12	12
-TGT	1	1	0	0	0	0	0	1	0	0	0
-TGC	3	0	1	3	0	0	1	0	3	3	4
-TGA	8	10	17	5	5	4	12	5	1	12	11
-TGG	0	0	0	0	0	0	0	0	0	0	0
-CTT	8	8	4	3	2	7	2	1	1	9	6
-CTC	11	16	14	8	0	12	4	7	4	30	15
-CTA	33	33	36	14	1	35	23	18	12	48	36
-CTG	5	4	4	1	0	5	1	1	1	2	2
-CCT	5	5	5	3	3	3	2	1	0	3	2
-CCC	7	7	10	2	3	3	4	2	1	11	10
-CCA	12	8	15	7	5	8	8	5	2	13	13
-CCG	0	1	0	0	0	1	0	0	0	0	0
-CAT	0	5	1	1	0	0	7	0	1	2	1
-CAC	3	5	18	8	0	3	9	0	5	12	11
-CAA	6	7	8	6	2	8	8	3	3	14	8
-CAG	0	3	0	0	0	0	0	0	0	0	0
-CGT	2	2	2	0	0	1	0	0	0	1	2
-CGC	1	0	1	3	0	2	1	0	0	0	3
-CGA	5	2	6	3	0	2	4	2	2	10	3
-CGG	0	0	0	0	0	0	0	0	0	0	0
-ATT	12	11	16	2	2	3	6	1	1	7	8
-ATC	15	25	25	11	5	16	10	8	4	39	26
-ATA	7	15	21	10	1	8	6	5	6	24	5
-ATG	4	2	1	2	2	1	1	0	1	3	2
-ACT	3	8	7	5	1	3	5	2	0	4	3
-ACC	9	21	13	2	5	10	7	5	5	16	8
-ACA	4	13	16	9	1	11	8	1	2	20	14
-ACG	1	1	1	0	0	0	0	0	0	0	1
-AAT	5	2	1	1	1	0	0	0	0	3	1
-AAC	9	9	14	7	2	9	4	3	2	13	20
-AAA	7	13	9	4	2	4	4	1	0	10	10
-AAG	0	1	0	0	0	0	0	0	0	0	0
-AGT	2	1	0	0	0	1	0	0	1	0	0
-AGC	3	4	4	4	1	3	5	1	3	9	1
-GTT	1	2	7	2	0	2	4	0	1	1	6
-GTC	3	2	11	6	0	1	2	0	0	5	6
-GTA	10	3	21	9	1	6	8	1	0	4	12
-GTG	0	0	1	1	0	0	0	0	1	0	0
-GCT	9	6	5	4	0	0	4	0	2	5	2
-GCC	5	7	21	8	1	10	15	5	5	22	18
-GCA	17	12	19	5	1	3	6	2	2	14	9
-GCG	0	0	0	0	0	0	0	0	0	0	0
-GAT	1	0	3	2	0	0	1	0	0	0	1
-GAC	3	1	12	11	0	3	3	3	1	2	7
-GAA	9	4	10	12	0	4	8	7	1	10	7
-GAG	2	1	0	0	0	0	0	0	1	0	0
-GGT	0	2	9	1	0	1	0	1	2	3	3
-GGC	8	5	9	2	0	5	6	1	1	7	9
-GGA	4	6	26	4	0	2	12	2	1	7	11
-GGG	2	0	3	1	0	0	1	1	0	1	1
-TAA	0	0	0	1	1	1	0	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009480254.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	4	13	9	0	6	5	9	0	8	6	1	3	8	0	8	11	33	5	5	7	12	0	0	3	6	0	2	1	5	0	12	15	7	4	3	9	4	1	5	9	7	0	2	3	1	3	10	0	9	5	17	0	1	3	9	2	0	8	4	2	0	0	1	0
+1	ND2	YP_009480255.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	3	9	5	0	6	11	10	1	3	4	1	0	10	0	8	16	33	4	5	7	8	1	5	5	7	3	2	0	2	0	11	25	15	2	8	21	13	1	2	9	13	1	1	4	2	2	3	0	6	7	12	0	0	1	4	1	2	5	6	0	0	0	0	0
+2	COX1	YP_009480256.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	8	35	5	0	2	12	10	0	3	14	0	1	17	0	4	14	36	4	5	10	15	0	1	18	8	0	2	1	6	0	16	25	21	1	7	13	16	1	1	14	9	0	0	4	7	11	21	1	5	21	19	0	3	12	10	0	9	9	26	3	0	0	0	1
+3	COX2	YP_009480257.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	1	8	3	0	4	6	6	0	0	7	0	3	5	0	3	8	14	1	3	2	7	0	1	8	6	0	0	3	3	0	2	11	10	2	5	2	9	0	1	7	4	0	0	4	2	6	9	1	4	8	5	0	2	11	12	0	1	2	4	1	1	0	0	0
+4	ATP8	YP_009480258.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	3	1	0	0	0	2	2	0	0	0	0	0	5	0	2	0	1	0	3	3	5	0	0	0	2	0	0	0	0	0	2	5	1	2	1	5	1	0	1	2	2	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009480259.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	2	8	3	0	1	5	5	0	2	1	0	0	4	0	7	12	35	5	3	3	8	1	0	3	8	0	1	2	2	0	3	16	8	1	3	10	11	0	0	9	4	0	1	3	2	1	6	0	0	10	3	0	0	3	4	0	1	5	2	0	1	0	0	0
+6	COX3	YP_009480260.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	4	19	3	0	4	4	4	0	1	10	0	1	12	0	2	4	23	1	2	4	8	0	7	9	8	0	0	1	4	0	6	10	6	1	5	7	8	0	0	4	4	0	0	5	4	2	8	0	4	15	6	0	1	3	8	0	0	6	12	1	0	0	0	0
+7	ND3	YP_009480261.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	1	8	3	0	2	2	2	0	0	2	1	0	5	0	1	7	18	1	1	2	5	0	0	0	3	0	0	0	2	0	1	8	5	0	2	5	1	0	0	3	1	0	0	1	0	0	1	0	0	5	2	0	0	3	7	0	1	1	2	1	1	0	0	0
+8	ND4L	YP_009480262.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	2	3	1	0	1	5	4	0	1	2	0	3	1	0	1	4	12	1	0	1	2	0	1	5	3	0	0	0	2	0	1	4	6	1	0	5	2	0	0	2	0	0	1	3	1	0	0	1	2	5	2	0	0	1	1	1	2	1	1	0	1	0	0	0
+9	ND4	YP_009480263.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	1	11	7	0	6	9	12	1	1	12	0	3	12	0	9	30	48	2	3	11	13	0	2	12	14	0	1	0	10	0	7	39	24	3	4	16	20	0	3	13	10	0	0	9	1	5	4	0	5	22	14	0	0	2	10	0	3	7	7	1	0	0	0	0
+10	CYTB	YP_009480265.1	Serinus canaria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Passeroidea, Fringillidae, Carduelinae, Serinus	1	26	3	0	1	7	12	0	0	12	0	4	11	0	6	15	36	2	2	10	13	0	1	11	8	0	2	3	3	0	8	26	5	2	3	8	14	1	1	20	10	0	0	1	6	6	12	0	2	18	9	0	1	7	7	0	3	9	11	1	1	0	0	0

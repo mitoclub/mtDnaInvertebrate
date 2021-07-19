@@ -1,65 +1,8 @@
-	YP_009159704.1|COX3	YP_009159705.1|COX1	YP_009159707.1|ND4L	YP_009159708.1|ATP8	YP_009159712.1|ND3	YP_009159713.1|ND2	YP_009159717.1|CYTB
-TTT	14	35	3	4	12	19	32
-TTC	8	14	0	0	2	3	3
-TTA	16	37	12	10	10	32	26
-TTG	2	4	3	1	2	9	10
-TCT	4	18	5	1	4	10	9
-TCC	0	4	0	1	1	4	3
-TCA	2	3	1	2	1	6	2
-TCG	2	1	0	1	0	0	0
-TAT	11	18	5	1	6	9	14
-TAC	2	5	0	1	1	5	6
-TGT	1	0	0	0	2	4	4
-TGC	2	1	0	0	0	1	1
-TGA	1	1	1	1	1	1	0
-TGG	11	15	0	3	3	5	11
-CTT	6	10	2	0	4	11	8
-CTC	2	0	0	0	0	4	2
-CTA	4	8	1	0	0	1	4
-CTG	0	0	1	0	0	5	3
-CCT	5	13	0	1	2	4	10
-CCC	3	4	0	2	2	4	5
-CCA	2	7	0	0	1	2	3
-CCG	1	2	0	1	1	3	1
-CAT	13	12	1	0	0	3	8
-CAC	1	3	0	0	0	0	2
-CAA	4	6	1	2	2	5	8
-CAG	2	1	0	0	0	2	1
-CGT	1	1	0	0	0	0	4
-CGC	0	0	0	0	0	0	0
-CGA	0	3	1	0	1	1	4
-CGG	0	0	0	0	2	0	0
-ATT	6	28	8	1	10	23	16
-ATC	1	6	2	3	2	2	4
-ATA	9	12	7	1	1	10	6
-ATG	6	24	6	1	2	8	10
-ACT	12	15	0	6	2	8	3
-ACC	3	2	0	1	2	3	2
-ACA	3	14	2	1	0	6	7
-ACG	1	2	2	0	0	2	0
-AAT	4	15	3	2	1	4	16
-AAC	1	3	0	0	0	2	3
-AAA	5	8	1	3	3	13	6
-AAG	0	0	1	1	0	2	1
-AGT	6	7	0	0	0	7	4
-AGC	3	1	0	1	1	3	3
-AGA	2	7	2	2	0	5	2
-AGG	1	1	1	1	0	2	2
-GTT	11	18	1	1	3	13	15
-GTC	6	7	0	1	2	2	3
-GTA	9	12	3	0	2	9	17
-GTG	2	4	3	0	1	9	4
-GCT	12	15	7	4	2	14	12
-GCC	5	15	1	1	1	12	11
-GCA	2	5	1	1	0	1	2
-GCG	1	3	1	0	1	9	3
-GAT	2	9	1	2	3	3	9
-GAC	2	9	0	0	0	2	2
-GAA	4	3	1	1	4	6	4
-GAG	3	5	2	0	4	1	2
-GGT	10	17	1	1	5	7	6
-GGC	1	3	1	0	3	3	2
-GGA	6	20	2	2	2	13	15
-GGG	3	14	2	1	1	12	6
-TAA	0	1	1	1	1	1	1
-TAG	1	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_009159704.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	14	8	16	2	4	0	2	2	11	2	1	2	1	11	6	2	4	0	5	3	2	1	13	1	4	2	1	0	0	0	6	1	9	6	12	3	3	1	4	1	5	0	6	3	2	1	11	6	9	2	12	5	2	1	2	2	4	3	10	1	6	3	0	1
+1	COX1	YP_009159705.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	35	14	37	4	18	4	3	1	18	5	0	1	1	15	10	0	8	0	13	4	7	2	12	3	6	1	1	0	3	0	28	6	12	24	15	2	14	2	15	3	8	0	7	1	7	1	18	7	12	4	15	15	5	3	9	9	3	5	17	3	20	14	1	0
+2	ND4L	YP_009159707.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	3	0	12	3	5	0	1	0	5	0	0	0	1	0	2	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	8	2	7	6	0	0	2	2	3	0	1	1	0	0	2	1	1	0	3	3	7	1	1	1	1	0	1	2	1	1	2	2	1	0
+3	ATP8	YP_009159708.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	4	0	10	1	1	1	2	1	1	1	0	0	1	3	0	0	0	0	1	2	0	1	0	0	2	0	0	0	0	0	1	3	1	1	6	1	1	0	2	0	3	1	0	1	2	1	1	1	0	0	4	1	1	0	2	0	1	0	1	0	2	1	1	0
+4	ND3	YP_009159712.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	12	2	10	2	4	1	1	0	6	1	2	0	1	3	4	0	0	0	2	2	1	1	0	0	2	0	0	0	1	2	10	2	1	2	2	2	0	0	1	0	3	0	0	1	0	0	3	2	2	1	2	1	0	1	3	0	4	4	5	3	2	1	1	0
+5	ND2	YP_009159713.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	19	3	32	9	10	4	6	0	9	5	4	1	1	5	11	4	1	5	4	4	2	3	3	0	5	2	0	0	1	0	23	2	10	8	8	3	6	2	4	2	13	2	7	3	5	2	13	2	9	9	14	12	1	9	3	2	6	1	7	3	13	12	1	0
+6	CYTB	YP_009159717.1	Sagartia ornata	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Actiniaria, Sagartiidae, Sagartia	32	3	26	10	9	3	2	0	14	6	4	1	0	11	8	2	4	3	10	5	3	1	8	2	8	1	4	0	4	0	16	4	6	10	3	2	7	0	16	3	6	1	4	3	2	2	15	3	17	4	12	11	2	3	9	2	4	2	6	2	15	6	1	0

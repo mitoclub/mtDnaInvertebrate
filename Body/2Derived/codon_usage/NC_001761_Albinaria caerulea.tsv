@@ -1,65 +1,10 @@
-	NP_007329.1|ND5	NP_007330.1|ND1	NP_007331.1|ND4L	NP_007332.1|CYTB	NP_007333.1|COX2	NP_007337.1|ND4	NP_007339.1|ND2	NP_007340.1|COX1	NP_007341.1|ND6
-TTT	34	29	6	24	7	22	22	46	9
-TTC	3	2	0	6	1	4	0	2	1
-TTA	53	23	13	35	13	47	30	35	16
-TTG	7	7	2	4	4	16	5	10	2
-TCT	15	7	1	10	5	6	3	12	2
-TCC	4	2	2	1	0	1	0	0	0
-TCA	12	4	0	7	2	8	8	12	4
-TCG	2	1	2	2	0	1	0	1	0
-TAT	21	16	2	14	6	26	11	16	8
-TAC	8	0	1	2	2	4	4	6	1
-TGT	8	3	3	0	3	8	2	2	2
-TGC	1	4	1	1	1	1	0	0	0
-TGA	8	6	0	9	6	6	4	10	3
-TGG	6	2	0	2	0	1	2	4	0
-CTT	14	5	2	12	4	9	8	5	3
-CTC	4	2	1	1	1	0	2	0	2
-CTA	14	13	1	9	3	7	10	8	2
-CTG	4	0	1	4	4	3	1	3	1
-CCT	7	5	0	8	4	4	1	10	0
-CCC	4	0	0	6	0	0	0	5	0
-CCA	4	4	0	6	7	10	4	6	2
-CCG	0	0	0	1	2	3	1	1	1
-CAT	5	2	0	9	7	5	4	12	1
-CAC	2	0	0	3	0	2	1	4	0
-CAA	5	3	2	6	4	5	1	6	2
-CAG	3	0	0	1	2	1	1	2	0
-CGT	3	2	0	5	0	0	0	3	0
-CGC	1	1	0	0	0	0	0	2	0
-CGA	2	4	0	1	3	1	1	6	0
-CGG	1	1	0	0	2	1	0	1	0
-ATT	29	24	6	30	17	37	31	35	15
-ATC	6	1	0	3	2	6	4	7	2
-ATA	38	19	6	13	13	25	27	27	12
-ATG	6	2	4	5	3	6	6	6	6
-ACT	9	2	3	6	4	6	7	18	5
-ACC	2	2	0	1	0	6	2	3	0
-ACA	14	5	0	6	5	11	4	9	3
-ACG	3	0	1	1	1	2	0	1	0
-AAT	21	6	4	11	4	12	12	12	4
-AAC	6	3	1	3	6	4	1	3	2
-AAA	9	7	4	6	6	9	12	5	2
-AAG	4	1	0	1	0	3	1	0	0
-AGT	9	3	3	4	3	7	6	5	1
-AGC	8	3	2	3	0	2	3	2	3
-AGA	12	1	1	3	4	11	9	9	4
-AGG	5	7	2	4	1	1	2	1	3
-GTT	16	8	4	8	7	7	8	14	5
-GTC	3	1	1	1	0	2	2	3	1
-GTA	11	6	4	11	3	16	7	14	5
-GTG	2	1	0	1	1	2	3	4	2
-GCT	14	8	4	9	8	15	2	19	2
-GCC	3	3	0	3	1	3	2	2	1
-GCA	10	8	5	3	4	9	1	10	3
-GCG	2	1	0	2	1	1	2	1	2
-GAT	11	3	0	4	10	2	0	13	0
-GAC	0	1	0	0	2	1	1	4	1
-GAA	3	5	3	6	6	3	4	4	2
-GAG	3	5	0	2	5	4	0	3	0
-GGT	10	5	0	9	5	6	10	12	1
-GGC	3	2	0	1	1	5	2	4	1
-GGA	14	4	1	8	6	5	8	19	5
-GGG	4	4	0	10	2	6	2	10	0
-TAA	0	1	0	0	1	1	1	0	1
-TAG	1	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND5	NP_007329.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	34	3	53	7	15	4	12	2	21	8	8	1	8	6	14	4	14	4	7	4	4	0	5	2	5	3	3	1	2	1	29	6	38	6	9	2	14	3	21	6	9	4	9	8	12	5	16	3	11	2	14	3	10	2	11	0	3	3	10	3	14	4	0	1
+1	ND1	NP_007330.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	29	2	23	7	7	2	4	1	16	0	3	4	6	2	5	2	13	0	5	0	4	0	2	0	3	0	2	1	4	1	24	1	19	2	2	2	5	0	6	3	7	1	3	3	1	7	8	1	6	1	8	3	8	1	3	1	5	5	5	2	4	4	1	0
+2	ND4L	NP_007331.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	6	0	13	2	1	2	0	2	2	1	3	1	0	0	2	1	1	1	0	0	0	0	0	0	2	0	0	0	0	0	6	0	6	4	3	0	0	1	4	1	4	0	3	2	1	2	4	1	4	0	4	0	5	0	0	0	3	0	0	0	1	0	0	0
+3	CYTB	NP_007332.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	24	6	35	4	10	1	7	2	14	2	0	1	9	2	12	1	9	4	8	6	6	1	9	3	6	1	5	0	1	0	30	3	13	5	6	1	6	1	11	3	6	1	4	3	3	4	8	1	11	1	9	3	3	2	4	0	6	2	9	1	8	10	0	0
+4	COX2	NP_007333.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	7	1	13	4	5	0	2	0	6	2	3	1	6	0	4	1	3	4	4	0	7	2	7	0	4	2	0	0	3	2	17	2	13	3	4	0	5	1	4	6	6	0	3	0	4	1	7	0	3	1	8	1	4	1	10	2	6	5	5	1	6	2	1	0
+5	ND4	NP_007337.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	22	4	47	16	6	1	8	1	26	4	8	1	6	1	9	0	7	3	4	0	10	3	5	2	5	1	0	0	1	1	37	6	25	6	6	6	11	2	12	4	9	3	7	2	11	1	7	2	16	2	15	3	9	1	2	1	3	4	6	5	5	6	1	0
+6	ND2	NP_007339.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	22	0	30	5	3	0	8	0	11	4	2	0	4	2	8	2	10	1	1	0	4	1	4	1	1	1	0	0	1	0	31	4	27	6	7	2	4	0	12	1	12	1	6	3	9	2	8	2	7	3	2	2	1	2	0	1	4	0	10	2	8	2	1	0
+7	COX1	NP_007340.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	46	2	35	10	12	0	12	1	16	6	2	0	10	4	5	0	8	3	10	5	6	1	12	4	6	2	3	2	6	1	35	7	27	6	18	3	9	1	12	3	5	0	5	2	9	1	14	3	14	4	19	2	10	1	13	4	4	3	12	4	19	10	0	0
+8	ND6	NP_007341.1	Albinaria caerulea	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Heterobranchia, Euthyneura, Panpulmonata, Eupulmonata, Stylommatophora, Sigmurethra, Clausilioidea, Clausiliidae, Alopiinae, Albinaria	9	1	16	2	2	0	4	0	8	1	2	0	3	0	3	2	2	1	0	0	2	1	1	0	2	0	0	0	0	0	15	2	12	6	5	0	3	0	4	2	2	0	1	3	4	3	5	1	5	2	2	1	3	2	0	1	2	0	1	1	5	0	1	0

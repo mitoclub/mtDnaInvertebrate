@@ -1,65 +1,13 @@
-	YP_009049053.1|ND1	YP_009049054.1|ND2	YP_009049055.1|COX1	YP_009049056.1|COX2	YP_009049057.1|ATP8	YP_009049058.1|ATP6	YP_009049059.1|COX3	YP_009049060.1|ND3	YP_009049061.1|ND4L	YP_009049062.1|ND4	YP_009049063.1|ND5	YP_009049064.1|CYTB
-TTT	6	4	15	3	1	2	6	3	2	1	6	4
-TTC	11	10	28	6	2	5	19	5	2	11	26	24
-TTA	10	11	10	7	0	9	3	5	2	13	20	10
-TTG	1	1	0	0	0	0	0	0	0	0	0	0
-TCT	2	5	4	3	0	1	3	1	1	4	3	2
-TCC	11	7	5	5	0	5	4	6	1	7	7	7
-TCA	9	11	14	6	2	3	8	1	7	11	18	12
-TCG	0	1	0	1	0	0	2	0	0	1	1	1
-TAT	4	2	7	4	0	1	2	1	2	5	3	5
-TAC	11	5	9	3	1	2	6	1	0	9	12	9
-TGT	0	1	0	0	0	0	1	0	2	1	1	2
-TGC	1	0	1	3	0	0	0	1	1	2	5	2
-TGA	8	9	16	4	5	4	11	5	1	7	12	10
-TGG	0	1	1	1	0	0	1	0	0	5	1	1
-CTT	7	8	9	6	1	9	5	1	1	9	10	4
-CTC	12	6	7	5	1	9	4	7	2	14	14	17
-CTA	32	33	33	14	4	28	17	13	14	58	46	31
-CTG	3	3	3	2	0	3	3	1	0	5	8	2
-CCT	6	3	2	1	3	4	4	0	2	1	3	2
-CCC	6	8	9	3	2	5	2	0	1	6	6	5
-CCA	12	11	20	11	4	7	5	7	0	20	19	20
-CCG	0	0	0	0	0	1	0	0	0	0	0	0
-CAT	1	4	8	1	0	2	2	0	3	3	2	3
-CAC	1	6	12	6	1	2	15	0	2	11	9	11
-CAA	4	9	9	8	3	6	8	4	3	15	19	8
-CAG	1	1	0	0	0	2	0	0	0	0	1	0
-CGT	1	1	0	1	0	0	1	0	0	1	0	0
-CGC	2	1	1	1	0	3	0	1	0	3	3	3
-CGA	5	2	7	3	0	2	4	1	2	6	6	5
-CGG	0	0	1	0	0	0	0	0	0	1	0	0
-ATT	14	18	14	5	2	11	8	3	2	9	24	10
-ATC	13	15	27	14	1	11	12	5	0	26	24	19
-ATA	10	15	23	9	2	10	5	5	9	27	41	9
-ATG	1	4	2	1	1	3	1	0	1	4	1	1
-ACT	5	7	8	1	2	4	2	5	2	7	9	2
-ACC	7	15	13	5	5	6	9	4	3	24	33	12
-ACA	14	20	17	9	3	11	10	2	3	25	31	17
-ACG	1	1	0	0	1	1	0	0	1	1	0	0
-AAT	4	4	5	1	0	3	2	0	1	4	3	2
-AAC	6	9	10	4	4	7	2	3	2	11	25	19
-AAA	5	11	9	4	2	3	3	1	0	10	22	10
-AAG	2	1	0	0	0	1	0	0	0	0	2	0
-AGT	0	0	0	0	0	0	0	0	0	2	0	0
-AGC	5	5	5	2	0	5	6	1	4	8	7	1
-GTT	0	1	3	1	1	1	3	1	1	1	1	2
-GTC	1	2	7	3	0	3	3	1	0	1	2	6
-GTA	7	6	23	9	0	3	5	1	1	4	8	6
-GTG	0	0	2	0	0	0	0	0	1	0	1	0
-GCT	5	4	8	4	0	3	4	3	0	4	12	3
-GCC	12	10	23	5	0	6	8	1	4	11	23	14
-GCA	11	16	16	6	0	8	9	2	4	16	15	9
-GCG	0	0	0	0	0	0	1	0	0	0	0	0
-GAT	1	1	3	3	0	0	3	0	0	0	2	0
-GAC	3	0	11	10	0	1	3	3	1	3	7	6
-GAA	10	4	10	12	1	3	6	6	3	9	12	6
-GAG	1	1	0	3	0	1	1	0	0	0	2	1
-GGT	2	1	7	0	0	0	3	2	1	3	1	5
-GGC	6	1	14	3	0	1	4	2	2	8	13	7
-GGA	5	9	22	5	0	5	12	1	1	7	16	13
-GGG	1	1	3	0	0	1	0	0	0	0	2	0
-TAA	0	0	0	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	1	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009049053.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	6	11	10	1	2	11	9	0	4	11	0	1	8	0	7	12	32	3	6	6	12	0	1	1	4	1	1	2	5	0	14	13	10	1	5	7	14	1	4	6	5	2	0	5	0	1	7	0	5	12	11	0	1	3	10	1	2	6	5	1	0	0	0	1
+1	ND2	YP_009049054.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	4	10	11	1	5	7	11	1	2	5	1	0	9	1	8	6	33	3	3	8	11	0	4	6	9	1	1	1	2	0	18	15	15	4	7	15	20	1	4	9	11	1	0	5	1	2	6	0	4	10	16	0	1	0	4	1	1	1	9	1	0	0	0	0
+2	COX1	YP_009049055.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	15	28	10	0	4	5	14	0	7	9	0	1	16	1	9	7	33	3	2	9	20	0	8	12	9	0	0	1	7	1	14	27	23	2	8	13	17	0	5	10	9	0	0	5	3	7	23	2	8	23	16	0	3	11	10	0	7	14	22	3	0	0	0	1
+3	COX2	YP_009049056.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	3	6	7	0	3	5	6	1	4	3	0	3	4	1	6	5	14	2	1	3	11	0	1	6	8	0	1	1	3	0	5	14	9	1	1	5	9	0	1	4	4	0	0	2	1	3	9	0	4	5	6	0	3	10	12	3	0	3	5	0	1	0	0	0
+4	ATP8	YP_009049057.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	1	2	0	0	0	0	2	0	0	1	0	0	5	0	1	1	4	0	3	2	4	0	0	1	3	0	0	0	0	0	2	1	2	1	2	5	3	1	0	4	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009049058.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	2	5	9	0	1	5	3	0	1	2	0	0	4	0	9	9	28	3	4	5	7	1	2	2	6	2	0	3	2	0	11	11	10	3	4	6	11	1	3	7	3	1	0	5	1	3	3	0	3	6	8	0	0	1	3	1	0	1	5	1	1	0	0	0
+6	COX3	YP_009049059.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	6	19	3	0	3	4	8	2	2	6	1	0	11	1	5	4	17	3	4	2	5	0	2	15	8	0	1	0	4	0	8	12	5	1	2	9	10	0	2	2	3	0	0	6	3	3	5	0	4	8	9	1	3	3	6	1	3	4	12	0	0	0	0	0
+7	ND3	YP_009049060.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	3	5	5	0	1	6	1	0	1	1	0	1	5	0	1	7	13	1	0	0	7	0	0	0	4	0	0	1	1	0	3	5	5	0	5	4	2	0	0	3	1	0	0	1	1	1	1	0	3	1	2	0	0	3	6	0	2	2	1	0	1	0	0	0
+8	ND4L	YP_009049061.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	2	2	2	0	1	1	7	0	2	0	2	1	1	0	1	2	14	0	2	1	0	0	3	2	3	0	0	0	2	0	2	0	9	1	2	3	3	1	1	2	0	0	0	4	1	0	1	1	0	4	4	0	0	1	3	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009049062.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	1	11	13	0	4	7	11	1	5	9	1	2	7	5	9	14	58	5	1	6	20	0	3	11	15	0	1	3	6	1	9	26	27	4	7	24	25	1	4	11	10	0	2	8	1	1	4	0	4	11	16	0	0	3	9	0	3	8	7	0	0	0	1	0
+10	ND5	YP_009049063.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	6	26	20	0	3	7	18	1	3	12	1	5	12	1	10	14	46	8	3	6	19	0	2	9	19	1	0	3	6	0	24	24	41	1	9	33	31	0	3	25	22	2	0	7	1	2	8	1	12	23	15	0	2	7	12	2	1	13	16	2	1	0	0	0
+11	CYTB	YP_009049064.1	Amaurornis phoenicurus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Gruiformes, Rallidae, Amaurornis	4	24	10	0	2	7	12	1	5	9	2	2	10	1	4	17	31	2	2	5	20	0	3	11	8	0	0	3	5	0	10	19	9	1	2	12	17	0	2	19	10	0	0	1	2	6	6	0	3	14	9	0	0	6	6	1	5	7	13	0	1	0	0	0

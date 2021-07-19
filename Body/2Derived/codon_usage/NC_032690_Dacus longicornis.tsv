@@ -1,65 +1,10 @@
-	YP_009334157.1|ND2	YP_009334158.1|COX1	YP_009334159.1|COX2	YP_009334160.1|ATP8	YP_009334161.1|ATP6	YP_009334162.1|COX3	YP_009334163.1|ND3	YP_009334167.1|ND6	YP_009334168.1|CYTB
-TTT	17	20	9	3	7	13	2	6	13
-TTC	17	19	5	2	9	13	9	6	17
-TTA	32	35	12	4	16	22	6	19	30
-TTG	0	0	0	0	1	1	0	1	0
-TCT	10	11	1	1	4	4	5	2	3
-TCC	6	4	1	0	4	1	2	2	4
-TCA	7	14	7	4	11	8	4	4	4
-TCG	1	1	1	0	0	2	0	0	0
-TAT	6	8	4	1	3	7	2	7	8
-TAC	6	9	4	2	3	3	0	1	10
-TGT	1	0	1	0	1	0	1	1	1
-TGC	0	0	1	0	1	1	1	0	2
-TGA	8	13	6	3	6	13	3	2	12
-TGG	1	2	0	0	0	0	0	0	1
-CTT	4	11	6	0	7	3	1	3	1
-CTC	2	2	1	0	3	2	2	2	3
-CTA	17	16	10	1	14	5	5	9	24
-CTG	2	0	0	0	0	0	0	1	1
-CCT	1	10	4	1	3	2	3	2	9
-CCC	3	8	4	1	2	1	0	3	5
-CCA	5	6	4	3	5	6	1	2	9
-CCG	0	2	0	0	0	2	0	0	0
-CAT	3	10	4	0	2	7	0	1	2
-CAC	1	7	2	0	6	9	1	2	8
-CAA	7	12	6	3	4	7	1	5	8
-CAG	1	0	1	0	0	1	0	0	0
-CGT	2	1	2	0	0	0	0	0	1
-CGC	0	1	1	0	1	0	1	0	1
-CGA	0	7	4	0	2	3	2	1	6
-CGG	0	0	0	0	0	1	0	0	0
-ATT	24	35	17	4	9	16	16	13	26
-ATC	5	11	7	2	8	6	7	4	14
-ATA	29	26	10	2	12	5	10	19	9
-ATG	1	2	1	0	2	1	0	1	1
-ACT	6	8	2	0	6	7	2	5	4
-ACC	5	7	4	1	1	3	0	3	6
-ACA	12	20	10	5	10	9	5	6	11
-ACG	1	0	0	0	0	1	0	0	0
-AAT	20	14	11	3	6	3	4	7	14
-AAC	9	4	5	0	5	5	1	3	12
-AAA	10	5	4	3	1	2	4	5	7
-AAG	2	0	0	0	1	0	0	0	1
-AGT	1	4	1	0	2	0	1	0	1
-AGC	3	4	0	1	1	1	0	1	0
-AGA	2	1	3	0	4	3	1	3	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	10	2	0	4	5	0	2	6
-GTC	0	3	0	0	3	1	0	0	3
-GTA	7	15	9	1	5	7	2	4	18
-GTG	0	6	1	0	1	0	0	0	0
-GCT	8	13	5	0	1	6	1	2	10
-GCC	7	13	3	1	4	5	1	1	7
-GCA	5	9	3	0	6	7	0	2	7
-GCG	0	2	0	1	1	0	0	0	0
-GAT	2	9	6	0	0	2	0	0	5
-GAC	1	6	4	0	1	3	3	1	5
-GAA	6	9	9	0	4	7	4	3	3
-GAG	0	0	0	0	0	0	0	0	0
-GGT	4	11	3	0	2	4	0	1	5
-GGC	0	5	1	0	0	2	1	0	1
-GGA	6	30	6	0	9	12	2	5	18
-GGG	2	0	1	0	1	2	0	0	0
-TAA	0	0	1	1	1	1	0	1	0
-TAG	1	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009334157.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	17	17	32	0	10	6	7	1	6	6	1	0	8	1	4	2	17	2	1	3	5	0	3	1	7	1	2	0	0	0	24	5	29	1	6	5	12	1	20	9	10	2	1	3	2	0	2	0	7	0	8	7	5	0	2	1	6	0	4	0	6	2	0	1
+1	COX1	YP_009334158.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	20	19	35	0	11	4	14	1	8	9	0	0	13	2	11	2	16	0	10	8	6	2	10	7	12	0	1	1	7	0	35	11	26	2	8	7	20	0	14	4	5	0	4	4	1	0	10	3	15	6	13	13	9	2	9	6	9	0	11	5	30	0	0	0
+2	COX2	YP_009334159.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	9	5	12	0	1	1	7	1	4	4	1	1	6	0	6	1	10	0	4	4	4	0	4	2	6	1	2	1	4	0	17	7	10	1	2	4	10	0	11	5	4	0	1	0	3	0	2	0	9	1	5	3	3	0	6	4	9	0	3	1	6	1	1	0
+3	ATP8	YP_009334160.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	3	2	4	0	1	0	4	0	1	2	0	0	3	0	0	0	1	0	1	1	3	0	0	0	3	0	0	0	0	0	4	2	2	0	0	1	5	0	3	0	3	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009334161.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	7	9	16	1	4	4	11	0	3	3	1	1	6	0	7	3	14	0	3	2	5	0	2	6	4	0	0	1	2	0	9	8	12	2	6	1	10	0	6	5	1	1	2	1	4	0	4	3	5	1	1	4	6	1	0	1	4	0	2	0	9	1	1	0
+5	COX3	YP_009334162.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	13	13	22	1	4	1	8	2	7	3	0	1	13	0	3	2	5	0	2	1	6	2	7	9	7	1	0	0	3	1	16	6	5	1	7	3	9	1	3	5	2	0	0	1	3	0	5	1	7	0	6	5	7	0	2	3	7	0	4	2	12	2	1	0
+6	ND3	YP_009334163.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	2	9	6	0	5	2	4	0	2	0	1	1	3	0	1	2	5	0	3	0	1	0	0	1	1	0	0	1	2	0	16	7	10	0	2	0	5	0	4	1	4	0	1	0	1	0	0	0	2	0	1	1	0	0	0	3	4	0	0	1	2	0	0	1
+7	ND6	YP_009334167.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	6	6	19	1	2	2	4	0	7	1	1	0	2	0	3	2	9	1	2	3	2	0	1	2	5	0	0	0	1	0	13	4	19	1	5	3	6	0	7	3	5	0	0	1	3	0	2	0	4	0	2	1	2	0	0	1	3	0	1	0	5	0	1	0
+8	CYTB	YP_009334168.1	Dacus longicornis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Dacus	13	17	30	0	3	4	4	0	8	10	1	2	12	1	1	3	24	1	9	5	9	0	2	8	8	0	1	1	6	0	26	14	9	1	4	6	11	0	14	12	7	1	1	0	1	0	6	3	18	0	10	7	7	0	5	5	3	0	5	1	18	0	0	0

@@ -1,65 +1,10 @@
-	YP_009159452.1|COX1	YP_009159453.1|COX2	YP_009159454.1|ATP8	YP_009159455.1|ATP6	YP_009159456.1|COX3	YP_009159457.1|ND3	YP_009159461.1|ND6	YP_009159462.1|CYTB	YP_009159464.1|ND2
-TTT	20	10	3	11	12	3	6	16	11
-TTC	21	3	0	3	11	7	6	20	5
-TTA	14	9	1	7	7	4	8	14	12
-TTG	0	0	0	1	0	0	0	1	0
-TCT	12	2	0	3	3	3	5	4	10
-TCC	4	4	0	3	1	1	4	0	8
-TCA	11	8	1	6	7	3	8	12	12
-TCG	1	1	0	0	1	0	0	0	1
-TAT	3	2	2	3	7	1	2	4	3
-TAC	13	4	1	2	4	0	2	9	6
-TGT	0	1	0	0	1	0	1	0	2
-TGC	0	1	0	0	2	1	1	3	0
-TGA	13	6	3	5	11	2	1	10	5
-TGG	2	0	0	0	2	1	0	1	2
-CTT	10	3	2	11	6	8	9	8	14
-CTC	10	8	1	4	4	4	5	5	17
-CTA	24	9	2	13	11	6	12	21	20
-CTG	3	1	0	0	1	0	2	2	0
-CCT	1	0	3	0	0	1	2	1	2
-CCC	12	4	2	6	1	2	1	12	5
-CCA	14	6	0	8	8	1	3	7	7
-CCG	0	0	0	1	0	0	1	2	1
-CAT	9	2	0	1	5	1	0	4	1
-CAC	9	3	0	5	11	0	1	8	2
-CAA	8	9	3	4	7	1	6	6	12
-CAG	0	1	0	0	0	0	0	2	1
-CGT	0	1	0	0	0	0	0	0	0
-CGC	1	2	0	2	0	0	0	0	1
-CGA	8	5	0	2	4	3	1	8	2
-CGG	1	0	0	0	0	0	0	0	0
-ATT	21	14	3	11	8	11	7	23	18
-ATC	18	11	4	5	8	9	7	16	22
-ATA	27	6	4	14	11	1	12	11	16
-ATG	1	1	0	3	2	0	0	3	0
-ACT	8	3	0	3	2	1	5	7	5
-ACC	9	4	0	3	5	7	5	6	12
-ACA	22	6	4	14	15	5	7	13	12
-ACG	0	1	1	1	1	0	0	0	0
-AAT	2	3	1	4	1	0	0	5	3
-AAC	14	9	4	8	5	1	5	10	8
-AAA	7	5	3	2	3	5	4	8	9
-AAG	0	0	1	0	0	0	1	0	3
-AGT	1	0	0	0	0	0	0	0	1
-AGC	1	1	0	1	0	1	0	0	2
-AGA	7	6	1	9	5	0	3	6	10
-AGG	1	2	0	0	0	0	1	0	0
-GTT	8	4	0	1	3	0	1	6	1
-GTC	9	1	0	2	2	0	2	2	0
-GTA	18	5	0	7	10	1	4	14	4
-GTG	3	1	0	1	0	1	0	0	0
-GCT	9	2	1	4	3	0	1	4	9
-GCC	8	3	1	9	7	3	5	12	11
-GCA	22	7	0	6	14	3	3	12	6
-GCG	0	1	0	0	0	1	0	1	0
-GAT	3	6	0	0	1	1	1	2	0
-GAC	12	4	0	1	4	2	2	10	1
-GAA	7	10	0	4	5	5	3	2	2
-GAG	1	0	0	0	1	1	0	1	1
-GGT	7	0	0	1	0	0	0	3	1
-GGC	7	1	0	1	3	0	1	2	1
-GGA	29	5	0	7	16	5	3	18	9
-GGG	5	1	0	1	0	0	1	1	2
-TAA	0	0	1	1	1	1	1	0	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009159452.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	20	21	14	0	12	4	11	1	3	13	0	0	13	2	10	10	24	3	1	12	14	0	9	9	8	0	0	1	8	1	21	18	27	1	8	9	22	0	2	14	7	0	1	1	7	1	8	9	18	3	9	8	22	0	3	12	7	1	7	7	29	5	0	0
+1	COX2	YP_009159453.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	10	3	9	0	2	4	8	1	2	4	1	1	6	0	3	8	9	1	0	4	6	0	2	3	9	1	1	2	5	0	14	11	6	1	3	4	6	1	3	9	5	0	0	1	6	2	4	1	5	1	2	3	7	1	6	4	10	0	0	1	5	1	0	0
+2	ATP8	YP_009159454.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	3	0	1	0	0	0	1	0	2	1	0	0	3	0	2	1	2	0	3	2	0	0	0	0	3	0	0	0	0	0	3	4	4	0	0	0	4	1	1	4	3	1	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_009159455.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	11	3	7	1	3	3	6	0	3	2	0	0	5	0	11	4	13	0	0	6	8	1	1	5	4	0	0	2	2	0	11	5	14	3	3	3	14	1	4	8	2	0	0	1	9	0	1	2	7	1	4	9	6	0	0	1	4	0	1	1	7	1	1	0
+4	COX3	YP_009159456.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	12	11	7	0	3	1	7	1	7	4	1	2	11	2	6	4	11	1	0	1	8	0	5	11	7	0	0	0	4	0	8	8	11	2	2	5	15	1	1	5	3	0	0	0	5	0	3	2	10	0	3	7	14	0	1	4	5	1	0	3	16	0	1	0
+5	ND3	YP_009159457.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	3	7	4	0	3	1	3	0	1	0	0	1	2	1	8	4	6	0	1	2	1	0	1	0	1	0	0	0	3	0	11	9	1	0	1	7	5	0	0	1	5	0	0	1	0	0	0	0	1	1	0	3	3	1	1	2	5	1	0	0	5	0	1	0
+6	ND6	YP_009159461.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	6	6	8	0	5	4	8	0	2	2	1	1	1	0	9	5	12	2	2	1	3	1	0	1	6	0	0	0	1	0	7	7	12	0	5	5	7	0	0	5	4	1	0	0	3	1	1	2	4	0	1	5	3	0	1	2	3	0	0	1	3	1	1	0
+7	CYTB	YP_009159462.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	16	20	14	1	4	0	12	0	4	9	0	3	10	1	8	5	21	2	1	12	7	2	4	8	6	2	0	0	8	0	23	16	11	3	7	6	13	0	5	10	8	0	0	0	6	0	6	2	14	0	4	12	12	1	2	10	2	1	3	2	18	1	0	0
+8	ND2	YP_009159464.1	Macrobrachium bullatum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida, Decapoda, Pleocyemata, Caridea, Palaemonoidea, Palaemonidae, Macrobrachium	11	5	12	0	10	8	12	1	3	6	2	0	5	2	14	17	20	0	2	5	7	1	1	2	12	1	0	1	2	0	18	22	16	0	5	12	12	0	3	8	9	3	1	2	10	0	1	0	4	0	9	11	6	0	0	1	2	1	1	1	9	2	1	0

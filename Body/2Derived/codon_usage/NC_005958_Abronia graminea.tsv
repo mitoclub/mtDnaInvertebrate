@@ -1,65 +1,13 @@
-	YP_044713.1|ND1	YP_044714.1|ND2	YP_044715.1|COX1	YP_044716.1|COX2	YP_044717.1|ATP8	YP_044718.1|ATP6	YP_044719.1|COX3	YP_044720.1|ND3	YP_044721.1|ND4L	YP_044722.1|ND4	YP_044723.1|ND5	YP_044725.1|CYTB
-TTT	10	1	22	5	1	5	14	4	5	9	16	11
-TTC	10	5	17	5	3	4	10	4	3	10	14	16
-TTA	11	11	10	9	1	4	8	4	3	16	27	11
-TTG	0	1	1	0	0	3	0	0	0	2	1	2
-TCT	5	6	3	1	1	3	3	1	0	4	9	3
-TCC	3	7	5	6	0	0	3	4	0	8	10	8
-TCA	15	13	18	7	1	6	6	4	8	13	14	11
-TCG	0	0	2	1	0	0	1	0	0	0	1	1
-TAT	7	3	4	3	2	1	4	0	0	4	4	6
-TAC	5	3	13	7	0	3	5	2	0	10	9	9
-TGT	1	0	1	1	0	0	1	0	1	3	2	2
-TGC	1	0	1	3	0	0	0	1	2	5	2	1
-TGA	9	10	16	4	5	3	11	4	0	10	10	11
-TGG	0	0	1	1	0	0	1	1	0	1	1	1
-CTT	5	5	12	4	1	12	3	6	4	22	14	9
-CTC	7	11	8	2	1	5	3	4	4	13	9	9
-CTA	29	34	25	10	4	23	14	5	9	32	37	26
-CTG	4	2	5	1	0	2	4	2	1	6	5	3
-CCT	3	4	6	6	1	3	2	4	0	1	4	2
-CCC	3	2	3	0	3	2	5	3	0	4	7	6
-CCA	15	11	16	6	3	9	3	2	3	16	19	12
-CCG	1	1	1	0	0	2	1	0	0	1	0	3
-CAT	0	1	9	2	0	1	7	0	1	6	5	6
-CAC	4	4	12	6	0	1	9	2	2	10	10	6
-CAA	9	11	6	9	3	9	10	1	2	13	22	6
-CAG	1	0	1	0	0	1	0	1	0	2	1	1
-CGT	2	0	1	0	0	0	1	1	0	2	0	0
-CGC	1	0	3	1	0	2	0	1	1	1	1	1
-CGA	5	4	4	4	0	3	3	0	1	7	8	7
-CGG	0	0	0	0	0	0	0	0	0	1	0	0
-ATT	7	20	21	8	1	16	3	6	8	20	38	23
-ATC	18	13	21	13	2	14	8	4	0	20	26	19
-ATA	19	25	27	9	2	13	12	4	2	28	35	11
-ATG	1	4	1	3	1	4	1	1	3	3	4	3
-ACT	5	11	7	3	0	0	3	0	1	3	15	6
-ACC	9	10	18	3	9	11	7	4	4	19	21	7
-ACA	7	28	13	12	1	13	13	4	5	22	39	15
-ACG	0	2	0	2	0	0	1	0	0	3	0	1
-AAT	2	1	8	3	2	6	4	2	0	9	15	7
-AAC	12	9	9	7	2	4	5	1	7	7	17	11
-AAA	7	15	8	3	3	3	2	1	0	12	17	9
-AAG	1	0	0	1	0	1	1	0	0	0	3	2
-AGT	0	0	1	0	0	0	2	0	0	2	1	0
-AGC	2	6	3	3	0	3	3	0	2	7	8	1
-GTT	3	1	11	3	0	0	1	0	0	2	3	4
-GTC	1	1	8	2	0	1	5	1	0	1	8	3
-GTA	9	4	12	7	0	5	9	2	1	5	7	3
-GTG	1	0	7	0	0	0	0	0	0	0	1	1
-GCT	3	3	11	1	0	3	1	3	0	4	11	5
-GCC	7	8	15	7	0	7	10	3	3	13	14	11
-GCA	12	11	15	5	0	3	8	5	4	18	16	9
-GCG	0	0	0	0	0	0	0	0	0	0	0	0
-GAT	0	1	8	4	0	0	1	0	1	0	1	2
-GAC	3	1	7	7	0	0	2	2	0	3	6	5
-GAA	8	5	9	11	1	4	8	5	2	9	8	3
-GAG	3	1	1	0	0	0	1	1	0	0	4	2
-GGT	1	1	7	3	0	1	3	3	2	2	3	3
-GGC	9	3	11	1	0	5	5	1	1	4	9	6
-GGA	5	10	26	4	1	2	8	1	1	10	13	12
-GGG	2	1	4	0	0	1	2	0	1	2	2	4
-TAA	1	0	1	0	1	0	0	0	1	0	0	0
-TAG	0	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_044713.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	10	10	11	0	5	3	15	0	7	5	1	1	9	0	5	7	29	4	3	3	15	1	0	4	9	1	2	1	5	0	7	18	19	1	5	9	7	0	2	12	7	1	0	2	3	1	9	1	3	7	12	0	0	3	8	3	1	9	5	2	1	0	0	0
+1	ND2	YP_044714.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	1	5	11	1	6	7	13	0	3	3	0	0	10	0	5	11	34	2	4	2	11	1	1	4	11	0	0	0	4	0	20	13	25	4	11	10	28	2	1	9	15	0	0	6	1	1	4	0	3	8	11	0	1	1	5	1	1	3	10	1	0	1	0	0
+2	COX1	YP_044715.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	22	17	10	1	3	5	18	2	4	13	1	1	16	1	12	8	25	5	6	3	16	1	9	12	6	1	1	3	4	0	21	21	27	1	7	18	13	0	8	9	8	0	1	3	11	8	12	7	11	15	15	0	8	7	9	1	7	11	26	4	1	0	0	0
+3	COX2	YP_044716.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	5	5	9	0	1	6	7	1	3	7	1	3	4	1	4	2	10	1	6	0	6	0	2	6	9	0	0	1	4	0	8	13	9	3	3	3	12	2	3	7	3	1	0	3	3	2	7	0	1	7	5	0	4	7	11	0	3	1	4	0	0	0	0	0
+4	ATP8	YP_044717.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	1	3	1	0	1	0	1	0	2	0	0	0	5	0	1	1	4	0	1	3	3	0	0	0	3	0	0	0	0	0	1	2	2	1	0	9	1	0	2	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0
+5	ATP6	YP_044718.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	5	4	4	3	3	0	6	0	1	3	0	0	3	0	12	5	23	2	3	2	9	2	1	1	9	1	0	2	3	0	16	14	13	4	0	11	13	0	6	4	3	1	0	3	0	1	5	0	3	7	3	0	0	0	4	0	1	5	2	1	0	0	0	0
+6	COX3	YP_044719.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	14	10	8	0	3	3	6	1	4	5	1	0	11	1	3	3	14	4	2	5	3	1	7	9	10	0	1	0	3	0	3	8	12	1	3	7	13	1	4	5	2	1	2	3	1	5	9	0	1	10	8	0	1	2	8	1	3	5	8	2	0	0	0	0
+7	ND3	YP_044720.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	4	4	4	0	1	4	4	0	0	2	0	1	4	1	6	4	5	2	4	3	2	0	0	2	1	1	1	1	0	0	6	4	4	1	0	4	4	0	2	1	1	0	0	0	0	1	2	0	3	3	5	0	0	2	5	1	3	1	1	0	0	0	0	0
+8	ND4L	YP_044721.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	5	3	3	0	0	0	8	0	0	0	1	2	0	0	4	4	9	1	0	0	3	0	1	2	2	0	0	1	1	0	8	0	2	3	1	4	5	0	0	7	0	0	0	2	0	0	1	0	0	3	4	0	1	0	2	0	2	1	1	1	1	0	0	0
+9	ND4	YP_044722.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	9	10	16	2	4	8	13	0	4	10	3	5	10	1	22	13	32	6	1	4	16	1	6	10	13	2	2	1	7	1	20	20	28	3	3	19	22	3	9	7	12	0	2	7	2	1	5	0	4	13	18	0	0	3	9	0	2	4	10	2	0	0	0	0
+10	ND5	YP_044723.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	16	14	27	1	9	10	14	1	4	9	2	2	10	1	14	9	37	5	4	7	19	0	5	10	22	1	0	1	8	0	38	26	35	4	15	21	39	0	15	17	17	3	1	8	3	8	7	1	11	14	16	0	1	6	8	4	3	9	13	2	0	0	1	0
+11	CYTB	YP_044725.1	Abronia graminea	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Lepidosauria, Squamata, Bifurcata, Unidentata, Episquamata, Toxicofera, Anguimorpha, Neoanguimorpha, Anguioidea, Anguidae, Abronia	11	16	11	2	3	8	11	1	6	9	2	1	11	1	9	9	26	3	2	6	12	3	6	6	6	1	0	1	7	0	23	19	11	3	6	7	15	1	7	11	9	2	0	1	4	3	3	1	5	11	9	0	2	5	3	2	3	6	12	4	0	0	0	0

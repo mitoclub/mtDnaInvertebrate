@@ -1,65 +1,22 @@
-	YP_009164871.1|rps4	YP_009164872.1|rpl14	YP_009164873.1|rpl5	YP_009164876.1|cox2	YP_009164877.1|cox1	YP_009164888.1|nad7	YP_009164889.1	YP_009164890.1|nad4	YP_009164891.1|atp1	YP_009164892.1|nad5	YP_009164893.1|nad6	YP_009164897.1|secY	YP_009164901.1|rpl2	YP_009164902.1|rps3	YP_009164903.1|rpl16	YP_009164904.1|orf215	YP_009164905.1|atp8	YP_009164906.1|rps14	YP_009164907.1|rps8	YP_009164908.1|rpl6	YP_009164909.1|rps2
-TTT	12	5	15	17	48	16	6	58	19	76	25	35	4	24	6	19	24	6	5	16	13
-TTC	0	0	0	1	1	1	0	1	2	5	0	1	0	1	0	1	0	1	0	3	1
-TTA	18	10	22	22	57	34	16	65	48	79	20	28	23	19	7	23	8	12	9	19	17
-TTG	0	0	2	1	1	6	0	5	2	2	0	4	1	0	0	1	0	0	1	1	1
-TCT	1	3	2	3	10	5	3	9	9	15	3	4	9	2	1	1	1	2	1	3	3
-TCC	0	0	0	1	1	0	0	0	0	2	1	0	1	2	0	0	0	0	0	0	2
-TCA	1	1	3	5	14	8	1	12	14	20	5	3	5	3	3	4	2	5	6	7	4
-TCG	0	0	1	1	2	0	0	3	0	0	0	0	1	2	1	1	1	0	0	1	2
-TAT	4	2	1	8	18	18	9	27	18	39	14	16	5	18	5	14	6	3	5	4	7
-TAC	0	0	0	0	1	2	0	4	1	2	1	0	2	0	0	1	0	0	0	0	1
-TGT	2	2	1	3	0	7	0	8	3	12	0	1	1	1	0	1	2	1	0	0	0
-TGC	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
-TGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-TGG	1	0	0	7	13	3	0	4	1	8	0	2	1	3	2	1	0	3	1	0	1
-CTT	1	0	3	1	3	0	1	3	1	4	0	3	0	1	2	2	1	0	2	1	1
-CTC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	0	1	0	0	1	1	3	0	2	0	1	1	1	1	1	1	0	0	0	1
-CTG	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-CCT	3	1	2	7	16	8	2	10	11	6	3	2	8	2	2	3	1	0	0	2	1
-CCC	0	0	0	1	1	1	0	0	1	1	0	0	2	0	0	0	0	0	1	0	0
-CCA	0	1	2	4	7	3	0	3	6	7	0	0	3	3	3	0	1	0	0	2	2
-CCG	0	0	0	0	0	4	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0
-CAT	3	1	2	5	15	10	0	9	4	11	1	2	6	5	0	1	1	1	1	4	2
-CAC	0	0	0	1	1	2	0	1	1	0	0	0	1	0	0	0	1	0	1	0	0
-CAA	10	6	6	8	8	13	6	6	27	11	3	3	10	6	3	11	3	6	5	5	11
-CAG	0	0	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0
-CGT	2	2	0	2	2	5	0	2	5	4	0	0	10	2	3	0	0	1	2	0	2
-CGC	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
-CGA	0	0	1	1	3	5	0	1	1	2	1	0	1	4	2	0	0	2	0	0	1
-CGG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	8	13	16	25	35	23	10	56	45	60	18	27	17	24	9	18	10	8	6	16	21
-ATC	1	1	2	2	0	0	0	3	2	4	1	0	1	2	2	1	2	0	1	2	2
-ATA	8	10	13	5	10	13	7	12	7	14	12	8	9	12	3	8	4	3	7	14	15
-ATG	1	1	2	8	19	12	0	15	12	24	6	3	1	5	3	2	0	1	1	2	4
-ACT	1	1	4	7	13	5	1	11	15	16	3	6	6	5	4	1	2	2	2	0	5
-ACC	0	0	0	0	2	4	0	1	3	1	1	0	0	0	0	0	0	0	0	0	1
-ACA	0	5	3	4	13	6	1	11	9	18	11	5	5	3	4	3	1	0	1	2	7
-ACG	0	0	0	0	0	0	0	1	2	1	0	0	2	0	1	0	1	0	0	0	0
-AAT	16	10	27	11	18	18	16	16	31	30	11	17	21	37	1	33	15	9	9	20	24
-AAC	3	0	1	1	1	2	0	1	0	2	0	0	1	4	2	2	0	0	1	1	1
-AAA	36	23	30	9	9	23	12	17	41	25	8	12	31	50	25	38	17	18	20	30	25
-AAG	0	2	0	1	0	1	3	1	2	0	0	0	1	0	2	1	1	0	0	1	1
-AGT	1	2	0	5	10	3	1	13	11	15	4	0	4	3	2	4	0	2	2	7	2
-AGC	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0
-AGA	6	1	1	3	5	9	1	4	19	5	0	0	6	1	3	2	1	5	1	0	0
-AGG	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	4	3	0	13	18	21	0	11	21	15	6	0	1	3	3	0	1	2	1	2	2
-GTC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTA	1	1	0	11	11	3	0	5	16	12	8	2	6	2	4	1	0	0	3	2	3
-GTG	0	0	0	0	5	0	0	2	2	0	0	1	1	0	1	0	0	0	0	1	0
-GCT	0	0	0	5	21	14	0	11	24	22	3	2	7	1	0	0	0	0	0	0	1
-GCC	0	0	0	0	1	2	0	1	1	3	0	1	1	0	0	0	0	0	0	0	0
-GCA	1	2	2	6	9	3	0	9	11	12	1	0	5	2	4	0	0	1	1	0	1
-GCG	0	1	0	1	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
-GAT	0	4	2	16	12	22	1	6	22	15	7	1	4	5	1	2	1	0	5	3	3
-GAC	2	0	0	0	1	2	0	3	2	0	0	0	0	0	0	0	0	0	0	1	0
-GAA	4	1	6	14	5	25	0	16	35	15	5	4	6	8	5	8	3	1	1	5	7
-GAG	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0
-GGT	0	4	2	7	28	15	1	21	34	28	2	1	18	4	8	4	1	2	3	6	2
-GGC	0	0	0	0	1	1	0	0	2	0	0	0	0	1	1	0	0	0	0	0	0
-GGA	2	4	0	4	16	9	2	3	7	15	2	0	7	0	2	1	0	1	0	2	1
-GGG	0	0	0	0	3	1	0	2	0	0	0	0	0	0	1	0	0	0	0	2	1
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	rps4	YP_009164871.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	12	0	18	0	1	0	1	0	4	0	2	0	0	1	1	0	0	0	3	0	0	0	3	0	10	0	2	0	0	0	8	1	8	1	1	0	0	0	16	3	36	0	1	0	6	0	4	0	1	0	0	0	1	0	0	2	4	0	0	0	2	0	1	0
+1	rpl14	YP_009164872.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	5	0	10	0	3	0	1	0	2	0	2	0	0	0	0	0	0	0	1	0	1	0	1	0	6	0	2	0	0	0	13	1	10	1	1	0	5	0	10	0	23	2	2	0	1	0	3	0	1	0	0	0	2	1	4	0	1	0	4	0	4	0	1	0
+2	rpl5	YP_009164873.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	15	0	22	2	2	0	3	1	1	0	1	1	0	0	3	0	1	0	2	0	2	0	2	0	6	2	0	0	1	0	16	2	13	2	4	0	3	0	27	1	30	0	0	0	1	0	0	0	0	0	0	0	2	0	2	0	6	0	2	0	0	0	1	0
+3	cox2	YP_009164876.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	17	1	22	1	3	1	5	1	8	0	3	1	0	7	1	0	0	0	7	1	4	0	5	1	8	0	2	0	1	0	25	2	5	8	7	0	4	0	11	1	9	1	5	0	3	0	13	0	11	0	5	0	6	1	16	0	14	0	7	0	4	0	1	0
+4	cox1	YP_009164877.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	48	1	57	1	10	1	14	2	18	1	0	0	0	13	3	0	0	0	16	1	7	0	15	1	8	0	2	1	3	0	35	0	10	19	13	2	13	0	18	1	9	0	10	0	5	0	18	0	11	5	21	1	9	3	12	1	5	0	28	1	16	3	1	0
+5	nad7	YP_009164888.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	16	1	34	6	5	0	8	0	18	2	7	0	0	3	0	0	1	0	8	1	3	4	10	2	13	0	5	0	5	1	23	0	13	12	5	4	6	0	18	2	23	1	3	1	9	1	21	0	3	0	14	2	3	0	22	2	25	0	15	1	9	1	1	0
+6	None	YP_009164889.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	6	0	16	0	3	0	1	0	9	0	0	0	0	0	1	0	1	0	2	0	0	0	0	0	6	0	0	0	0	0	10	0	7	0	1	0	1	0	16	0	12	3	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	0	1	0
+7	nad4	YP_009164890.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	58	1	65	5	9	0	12	3	27	4	8	0	0	4	3	0	3	0	10	0	3	1	9	1	6	1	2	1	1	0	56	3	12	15	11	1	11	1	16	1	17	1	13	0	4	1	11	1	5	2	11	1	9	0	6	3	16	0	21	0	3	2	1	0
+8	atp1	YP_009164891.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	19	2	48	2	9	0	14	0	18	1	3	0	0	1	1	1	0	0	11	1	6	1	4	1	27	0	5	0	1	0	45	2	7	12	15	3	9	2	31	0	41	2	11	0	19	1	21	0	16	2	24	1	11	0	22	2	35	0	34	2	7	0	1	0
+9	nad5	YP_009164892.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	76	5	79	2	15	2	20	0	39	2	12	0	0	8	4	0	2	0	6	1	7	1	11	0	11	1	4	0	2	0	60	4	14	24	16	1	18	1	30	2	25	0	15	1	5	0	15	0	12	0	22	3	12	0	15	0	15	1	28	0	15	0	1	0
+10	nad6	YP_009164893.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	25	0	20	0	3	1	5	0	14	1	0	0	0	0	0	0	0	1	3	0	0	0	1	0	3	1	0	0	1	0	18	1	12	6	3	1	11	0	11	0	8	0	4	0	0	0	6	0	8	0	3	0	1	0	7	0	5	0	2	0	2	0	1	0
+11	secY	YP_009164897.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	35	1	28	4	4	0	3	0	16	0	1	1	0	2	3	0	1	0	2	0	0	0	2	0	3	0	0	0	0	0	27	0	8	3	6	0	5	0	17	0	12	0	0	0	0	0	0	0	2	1	2	1	0	0	1	0	4	0	1	0	0	0	1	0
+12	rpl2	YP_009164901.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	4	0	23	1	9	1	5	1	5	2	1	0	0	1	0	0	1	0	8	2	3	0	6	1	10	0	10	1	1	0	17	1	9	1	6	0	5	2	21	1	31	1	4	1	6	0	1	0	6	1	7	1	5	1	4	0	6	0	18	0	7	0	1	0
+13	rps3	YP_009164902.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	24	1	19	0	2	2	3	2	18	0	1	0	0	3	1	0	1	0	2	0	3	0	5	0	6	0	2	0	4	0	24	2	12	5	5	0	3	0	37	4	50	0	3	0	1	0	3	0	2	0	1	0	2	0	5	0	8	0	4	1	0	0	1	0
+14	rpl16	YP_009164903.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	6	0	7	0	1	0	3	1	5	0	0	0	0	2	2	0	1	0	2	0	3	0	0	0	3	0	3	0	2	0	9	2	3	3	4	0	4	1	1	2	25	2	2	0	3	0	3	0	4	1	0	0	4	1	1	0	5	1	8	1	2	1	1	0
+15	orf215	YP_009164904.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	19	1	23	1	1	0	4	1	14	1	1	0	0	1	2	0	1	0	3	0	0	0	1	0	11	0	0	0	0	0	18	1	8	2	1	0	3	0	33	2	38	1	4	1	2	0	0	0	1	0	0	0	0	0	2	0	8	0	4	0	1	0	1	0
+16	atp8	YP_009164905.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	24	0	8	0	1	0	2	1	6	0	2	1	0	0	1	0	1	0	1	0	1	0	1	1	3	0	0	0	0	0	10	2	4	0	2	0	1	1	15	0	17	1	0	0	1	0	1	0	0	0	0	0	0	0	1	0	3	0	1	0	0	0	1	0
+17	rps14	YP_009164906.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	6	1	12	0	2	0	5	0	3	0	1	0	0	3	0	0	0	0	0	0	0	1	1	0	6	0	1	0	2	0	8	0	3	1	2	0	0	0	9	0	18	0	2	0	5	0	2	0	0	0	0	0	1	0	0	0	1	0	2	0	1	0	1	0
+18	rps8	YP_009164907.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	5	0	9	1	1	0	6	0	5	0	0	0	0	1	2	0	0	0	0	1	0	0	1	1	5	1	2	0	0	0	6	1	7	1	2	0	1	0	9	1	20	0	2	0	1	0	1	0	3	0	0	0	1	0	5	0	1	0	3	0	0	0	1	0
+19	rpl6	YP_009164908.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	16	3	19	1	3	0	7	1	4	0	0	0	0	0	1	0	0	0	2	0	2	0	4	0	5	0	0	0	0	0	16	2	14	2	0	0	2	0	20	1	30	1	7	0	0	0	2	0	2	1	0	0	0	0	3	1	5	1	6	0	2	2	1	0
+20	rps2	YP_009164909.1	Pseudoperonospora cubensis	Eukaryota, Stramenopiles, Oomycetes, Peronosporales, Peronosporaceae, Pseudoperonospora	13	1	17	1	3	2	4	2	7	1	0	0	0	1	1	0	1	0	1	0	2	0	2	0	11	0	2	0	1	0	21	2	15	4	5	1	7	0	24	1	25	1	2	0	0	0	2	0	3	0	1	0	1	0	3	0	7	0	2	0	1	1	1	0

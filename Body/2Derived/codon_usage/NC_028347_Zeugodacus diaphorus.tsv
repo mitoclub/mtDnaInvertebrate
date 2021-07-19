@@ -1,65 +1,10 @@
-	YP_009179009.1|ND2	YP_009179010.1|COX1	YP_009179011.1|COX2	YP_009179012.1|ATP8	YP_009179013.1|ATP6	YP_009179014.1|COX3	YP_009179015.1|ND3	YP_009179019.1|ND6	YP_009179020.1|CYTB
-TTT	19	19	10	3	7	11	4	8	11
-TTC	17	20	3	1	10	15	5	4	19
-TTA	33	33	11	2	26	22	8	21	37
-TTG	4	2	0	1	0	1	0	0	0
-TCT	13	12	3	3	6	6	1	4	5
-TCC	2	5	1	0	1	0	2	2	1
-TCA	12	11	6	2	11	11	9	5	5
-TCG	0	1	0	0	0	0	0	0	1
-TAT	8	14	7	3	3	8	1	4	13
-TAC	3	3	1	0	3	2	0	4	5
-TGT	1	0	2	0	2	0	2	1	2
-TGC	0	0	0	0	0	1	0	0	1
-TGA	8	13	6	3	6	13	3	1	13
-TGG	1	2	0	0	0	0	0	0	0
-CTT	5	12	6	1	8	2	3	5	5
-CTC	1	0	1	0	0	1	0	0	0
-CTA	14	18	12	1	10	5	4	9	16
-CTG	0	1	0	0	0	1	0	0	0
-CCT	4	12	7	2	5	5	4	1	10
-CCC	2	0	1	0	3	1	0	1	2
-CCA	2	14	3	2	3	5	1	4	10
-CCG	0	0	0	0	0	0	0	0	1
-CAT	3	11	5	0	8	5	1	0	5
-CAC	0	6	2	0	0	11	0	1	6
-CAA	9	10	7	3	4	8	1	7	8
-CAG	0	1	0	0	0	0	0	0	0
-CGT	1	0	1	0	0	0	1	0	3
-CGC	0	1	0	0	0	0	0	0	0
-CGA	1	9	6	0	3	4	1	1	5
-CGG	0	0	0	0	0	0	1	0	0
-ATT	24	40	15	5	15	14	17	15	33
-ATC	8	4	4	2	2	5	6	3	9
-ATA	24	25	11	3	7	4	6	19	7
-ATG	3	1	1	0	2	1	1	0	1
-ACT	4	10	7	1	7	6	2	5	3
-ACC	4	2	0	0	3	1	1	2	4
-ACA	15	22	10	4	7	13	3	5	12
-ACG	0	0	0	0	0	0	0	0	0
-AAT	20	12	12	1	11	4	0	9	21
-AAC	7	5	3	1	0	3	3	2	4
-AAA	10	5	1	4	1	2	4	6	7
-AAG	1	1	2	0	1	0	0	0	1
-AGT	3	6	4	1	3	3	0	0	1
-AGC	1	1	0	1	1	0	0	0	0
-AGA	4	3	1	0	3	1	1	3	1
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	7	4	0	3	4	2	0	4
-GTC	1	1	1	0	0	1	0	1	2
-GTA	5	27	10	1	10	13	4	5	22
-GTG	0	3	0	0	0	0	0	0	0
-GCT	9	18	7	0	6	6	3	5	13
-GCC	4	3	2	0	1	2	0	1	4
-GCA	5	14	3	1	6	8	0	1	8
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	9	9	0	0	4	3	1	9
-GAC	1	6	1	0	1	1	1	0	2
-GAA	6	9	9	0	4	7	4	3	2
-GAG	0	0	0	0	0	0	0	0	0
-GGT	5	16	4	1	3	4	1	0	5
-GGC	0	0	2	0	0	0	0	0	0
-GGA	8	28	5	0	9	16	3	4	19
-GGG	0	2	0	0	0	1	0	1	0
-TAA	1	0	1	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009179009.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	19	17	33	4	13	2	12	0	8	3	1	0	8	1	5	1	14	0	4	2	2	0	3	0	9	0	1	0	1	0	24	8	24	3	4	4	15	0	20	7	10	1	3	1	4	0	5	1	5	0	9	4	5	0	0	1	6	0	5	0	8	0	1	0
+1	COX1	YP_009179010.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	19	20	33	2	12	5	11	1	14	3	0	0	13	2	12	0	18	1	12	0	14	0	11	6	10	1	0	1	9	0	40	4	25	1	10	2	22	0	12	5	5	1	6	1	3	0	7	1	27	3	18	3	14	1	9	6	9	0	16	0	28	2	0	0
+2	COX2	YP_009179011.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	10	3	11	0	3	1	6	0	7	1	2	0	6	0	6	1	12	0	7	1	3	0	5	2	7	0	1	0	6	0	15	4	11	1	7	0	10	0	12	3	1	2	4	0	1	0	4	1	10	0	7	2	3	0	9	1	9	0	4	2	5	0	1	0
+3	ATP8	YP_009179012.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	3	1	2	1	3	0	2	0	3	0	0	0	3	0	1	0	1	0	2	0	2	0	0	0	3	0	0	0	0	0	5	2	3	0	1	0	4	0	1	1	4	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_009179013.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	7	10	26	0	6	1	11	0	3	3	2	0	6	0	8	0	10	0	5	3	3	0	8	0	4	0	0	0	3	0	15	2	7	2	7	3	7	0	11	0	1	1	3	1	3	0	3	0	10	0	6	1	6	0	0	1	4	0	3	0	9	0	1	0
+5	COX3	YP_009179014.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	11	15	22	1	6	0	11	0	8	2	0	1	13	0	2	1	5	1	5	1	5	0	5	11	8	0	0	0	4	0	14	5	4	1	6	1	13	0	4	3	2	0	3	0	1	0	4	1	13	0	6	2	8	0	4	1	7	0	4	0	16	1	1	0
+6	ND3	YP_009179015.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	4	5	8	0	1	2	9	0	1	0	2	0	3	0	3	0	4	0	4	0	1	0	1	0	1	0	1	0	1	1	17	6	6	1	2	1	3	0	0	3	4	0	0	0	1	0	2	0	4	0	3	0	0	0	3	1	4	0	1	0	3	0	0	0
+7	ND6	YP_009179019.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	8	4	21	0	4	2	5	0	4	4	1	0	1	0	5	0	9	0	1	1	4	0	0	1	7	0	0	0	1	0	15	3	19	0	5	2	5	0	9	2	6	0	0	0	3	0	0	1	5	0	5	1	1	0	1	0	3	0	0	0	4	1	1	0
+8	CYTB	YP_009179020.1	Zeugodacus diaphorus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Diptera, Brachycera, Muscomorpha, Tephritoidea, Tephritidae, Zeugodacus, Zeugodacus	11	19	37	0	5	1	5	1	13	5	2	1	13	0	5	0	16	0	10	2	10	1	5	6	8	0	3	0	5	0	33	9	7	1	3	4	12	0	21	4	7	1	1	0	1	0	4	2	22	0	13	4	8	0	9	2	2	0	5	0	19	0	0	0

@@ -1,65 +1,13 @@
-	YP_009003613.1|ND1	YP_009003614.1|ND2	YP_009003615.1|COX1	YP_009003616.1|COX2	YP_009003617.1|ATP8	YP_009003618.1|ATP6	YP_009003619.1|COX3	YP_009003620.1|ND3	YP_009003621.1|ND4L	YP_009003622.1|ND4	YP_009003623.1|ND5	YP_009003625.1|CYTB
-TTT	16	8	31	8	1	10	17	8	2	19	29	23
-TTC	4	6	9	0	1	5	6	2	1	4	12	9
-TTA	31	37	27	14	4	31	22	12	9	35	40	17
-TTG	0	1	2	1	0	1	1	1	0	5	1	1
-TCT	7	5	11	5	1	1	3	3	4	9	8	6
-TCC	3	6	1	3	2	1	1	2	0	2	6	5
-TCA	17	20	16	5	0	3	7	2	4	17	20	13
-TCG	0	0	0	0	0	0	1	0	0	0	1	0
-TAT	10	6	18	10	0	2	11	1	2	9	6	4
-TAC	2	1	1	0	0	1	1	1	0	4	3	7
-TGT	0	1	0	2	0	0	1	1	2	4	5	0
-TGC	1	0	0	0	0	0	1	0	2	1	2	1
-TGA	7	11	17	5	5	3	11	4	1	12	12	10
-TGG	0	0	0	0	0	1	1	0	0	1	2	1
-CTT	8	11	16	7	1	6	7	5	5	23	22	14
-CTC	3	4	1	3	0	4	1	1	3	5	4	2
-CTA	15	13	14	3	1	9	4	7	5	15	20	23
-CTG	0	0	1	1	0	0	0	0	0	1	1	1
-CCT	6	6	10	8	1	5	2	3	0	11	7	9
-CCC	3	0	4	0	1	1	0	0	0	1	1	2
-CCA	13	11	13	4	5	10	8	5	3	10	15	10
-CCG	0	1	0	1	0	0	0	0	0	0	1	0
-CAT	1	1	13	6	1	2	8	0	1	7	4	8
-CAC	0	5	7	1	2	2	6	0	1	8	6	4
-CAA	8	11	9	8	1	11	7	2	1	8	21	7
-CAG	0	0	0	1	0	1	0	0	1	3	2	0
-CGT	0	2	2	1	0	2	2	0	0	1	3	2
-CGC	2	1	0	0	0	0	0	0	1	0	0	0
-CGA	6	2	6	4	0	2	4	1	1	10	5	6
-CGG	0	0	0	0	0	0	0	0	0	0	1	0
-ATT	30	30	36	23	9	20	14	9	5	39	54	27
-ATC	4	6	8	2	1	3	4	1	1	11	14	18
-ATA	18	30	25	13	5	15	7	6	8	30	36	12
-ATG	2	2	3	3	1	1	1	1	1	4	5	1
-ACT	5	12	13	5	0	4	2	1	4	18	16	7
-ACC	8	3	1	3	1	3	6	1	0	5	15	8
-ACA	7	19	21	8	1	16	14	3	7	18	28	11
-ACG	1	1	0	0	0	1	1	0	0	2	1	1
-AAT	7	8	14	4	2	9	3	2	3	18	22	15
-AAC	6	7	4	2	1	1	0	0	1	8	12	9
-AAA	8	9	8	3	3	2	2	2	1	8	19	9
-AAG	0	0	0	0	1	0	0	0	0	0	4	0
-AGT	0	3	0	4	0	2	4	1	1	2	5	2
-AGC	1	3	4	0	1	0	0	1	1	5	3	0
-GTT	3	0	14	6	0	1	5	0	0	3	3	3
-GTC	0	3	4	1	0	2	2	0	0	0	1	3
-GTA	5	2	18	5	0	5	10	1	0	5	8	9
-GTG	0	0	1	0	0	0	0	0	0	0	0	1
-GCT	7	4	19	5	0	6	7	2	3	5	14	7
-GCC	7	7	7	2	0	3	5	3	1	8	9	3
-GCA	6	5	16	5	0	6	8	5	2	13	14	8
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	4	1	9	12	0	1	4	2	1	1	7	5
-GAC	0	0	4	1	0	0	2	1	0	1	4	3
-GAA	11	6	10	13	0	4	8	6	3	7	11	6
-GAG	0	0	2	0	0	0	1	0	0	1	0	0
-GGT	3	4	28	3	0	3	6	0	1	5	10	10
-GGC	2	3	3	1	0	0	3	2	1	6	2	5
-GGA	11	7	15	4	0	5	8	3	4	7	18	11
-GGG	0	0	0	0	0	0	1	0	0	1	0	0
-TAA	0	0	0	0	1	1	0	0	1	0	0	1
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009003613.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	16	4	31	0	7	3	17	0	10	2	0	1	7	0	8	3	15	0	6	3	13	0	1	0	8	0	0	2	6	0	30	4	18	2	5	8	7	1	7	6	8	0	0	1	3	0	5	0	7	7	6	0	4	0	11	0	3	2	11	0	0	0	0	0
+1	ND2	YP_009003614.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	8	6	37	1	5	6	20	0	6	1	1	0	11	0	11	4	13	0	6	0	11	1	1	5	11	0	2	1	2	0	30	6	30	2	12	3	19	1	8	7	9	0	3	3	0	3	2	0	4	7	5	0	1	0	6	0	4	3	7	0	0	0	0	0
+2	COX1	YP_009003615.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	31	9	27	2	11	1	16	0	18	1	0	0	17	0	16	1	14	1	10	4	13	0	13	7	9	0	2	0	6	0	36	8	25	3	13	1	21	0	14	4	8	0	0	4	14	4	18	1	19	7	16	1	9	4	10	2	28	3	15	0	0	1	0	0
+3	COX2	YP_009003616.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	8	0	14	1	5	3	5	0	10	0	2	0	5	0	7	3	3	1	8	0	4	1	6	1	8	1	1	0	4	0	23	2	13	3	5	3	8	0	4	2	3	0	4	0	6	1	5	0	5	2	5	0	12	1	13	0	3	1	4	0	0	0	0	0
+4	ATP8	YP_009003617.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	1	1	4	0	1	2	0	0	0	0	0	0	5	0	1	0	1	0	1	1	5	0	1	2	1	0	0	0	0	0	9	1	5	1	0	1	1	0	2	1	3	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009003618.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	10	5	31	1	1	1	3	0	2	1	0	0	3	1	6	4	9	0	5	1	10	0	2	2	11	1	2	0	2	0	20	3	15	1	4	3	16	1	9	1	2	0	2	0	1	2	5	0	6	3	6	0	1	0	4	0	3	0	5	0	1	0	0	0
+6	COX3	YP_009003619.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	17	6	22	1	3	1	7	1	11	1	1	1	11	1	7	1	4	0	2	0	8	0	8	6	7	0	2	0	4	0	14	4	7	1	2	6	14	1	3	0	2	0	4	0	5	2	10	0	7	5	8	0	4	2	8	1	6	3	8	1	0	0	0	0
+7	ND3	YP_009003620.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	8	2	12	1	3	2	2	0	1	1	1	0	4	0	5	1	7	0	3	0	5	0	0	0	2	0	0	0	1	0	9	1	6	1	1	1	3	0	2	0	2	0	1	1	0	0	1	0	2	3	5	0	2	1	6	0	0	2	3	0	0	0	0	0
+8	ND4L	YP_009003621.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	2	1	9	0	4	0	4	0	2	0	2	2	1	0	5	3	5	0	0	0	3	0	1	1	1	1	0	1	1	0	5	1	8	1	4	0	7	0	3	1	1	0	1	1	0	0	0	0	3	1	2	0	1	0	3	0	1	1	4	0	1	0	0	0
+9	ND4	YP_009003622.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	19	4	35	5	9	2	17	0	9	4	4	1	12	1	23	5	15	1	11	1	10	0	7	8	8	3	1	0	10	0	39	11	30	4	18	5	18	2	18	8	8	0	2	5	3	0	5	0	5	8	13	0	1	1	7	1	5	6	7	1	0	0	0	0
+10	ND5	YP_009003623.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	29	12	40	1	8	6	20	1	6	3	5	2	12	2	22	4	20	1	7	1	15	1	4	6	21	2	3	0	5	1	54	14	36	5	16	15	28	1	22	12	19	4	5	3	3	1	8	0	14	9	14	0	7	4	11	0	10	2	18	0	0	0	1	0
+11	CYTB	YP_009003625.1	Schistometopum gregorii	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Gymnophiona, Schistometopum	23	9	17	1	6	5	13	0	4	7	0	1	10	1	14	2	23	1	9	2	10	0	8	4	7	0	2	0	6	0	27	18	12	1	7	8	11	1	15	9	9	0	2	0	3	3	9	1	7	3	8	0	5	3	6	0	10	5	11	0	1	0	0	0

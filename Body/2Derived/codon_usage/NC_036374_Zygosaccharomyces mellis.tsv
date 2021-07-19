@@ -1,65 +1,14 @@
-	YP_009444429.1|atp9	YP_009444430.1|rps3	YP_009444432.1|cox2	YP_009444433.1|cox1	YP_009444434.1|orf392	YP_009444435.1|orf370	YP_009444436.1|orf343	YP_009444437.1|atp8	YP_009444438.1|atp6	YP_009444439.1|cob	YP_009444440.1|orf372	YP_009444441.1|orf373	YP_009444442.1|orf380
-TTT	0	8	10	18	17	18	17	4	23	20	11	10	16
-TTC	5	1	2	26	1	0	1	1	1	17	0	3	4
-TTA	14	50	25	62	40	45	32	15	47	48	42	37	30
-TTG	0	1	0	1	0	0	1	0	0	0	0	0	2
-TCT	0	6	1	6	10	13	12	0	2	2	12	6	8
-TCC	0	0	0	0	0	0	1	0	0	0	0	1	2
-TCA	4	10	11	35	4	4	5	3	13	22	4	6	8
-TCG	0	0	0	0	0	0	2	0	0	0	0	0	0
-TAT	1	29	12	23	30	16	31	3	12	19	28	26	32
-TAC	2	0	0	2	3	0	0	1	1	2	0	1	2
-TGT	1	0	4	1	7	5	0	0	1	6	5	3	3
-TGC	0	0	0	0	2	1	0	0	1	0	0	1	1
-TGA	0	4	5	10	5	6	4	0	5	8	3	7	6
-TGG	0	0	0	0	0	0	0	0	0	0	0	1	1
-CTT	0	0	0	0	3	6	2	0	0	0	3	2	1
-CTC	0	0	0	0	1	0	0	0	0	0	0	1	0
-CTA	1	1	0	5	3	5	0	0	2	2	9	2	1
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	0	4	7	11	4	6	4	1	4	8	6	6	3
-CCC	0	0	0	0	0	0	1	0	0	0	1	0	2
-CCA	2	1	5	14	0	3	3	2	5	11	0	1	0
-CCG	0	0	0	0	0	1	1	0	0	0	0	0	0
-CAT	0	6	5	15	4	3	10	0	3	11	3	5	3
-CAC	0	0	0	1	2	0	1	0	1	1	0	0	0
-CAA	1	2	9	8	7	7	8	3	3	9	10	5	10
-CAG	0	0	0	0	1	0	1	0	1	0	0	1	2
-CGT	0	2	0	0	0	0	0	0	0	0	5	2	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	1
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	7	44	27	41	41	32	34	3	24	39	34	51	28
-ATC	1	0	1	2	2	0	2	0	2	1	1	0	3
-ATA	0	11	0	1	15	14	5	0	0	0	8	9	9
-ATG	2	5	4	22	5	2	3	2	7	15	1	6	5
-ACT	0	7	4	9	6	11	9	1	7	4	9	9	9
-ACC	0	0	0	0	1	0	0	0	0	0	2	0	3
-ACA	2	5	6	16	9	5	5	1	9	9	8	4	4
-ACG	0	0	0	0	0	1	0	0	0	0	0	0	0
-AAT	1	92	8	23	63	50	28	1	12	18	52	51	49
-AAC	1	1	0	1	1	1	2	0	1	0	1	1	1
-AAA	2	43	8	8	39	44	36	1	4	7	47	44	39
-AAG	0	1	0	2	0	2	1	0	0	0	0	0	0
-AGT	0	10	4	3	7	3	5	0	4	3	11	4	2
-AGC	0	0	0	0	1	1	2	0	0	0	2	0	2
-AGA	1	4	5	9	9	7	7	2	5	11	6	11	13
-AGG	0	0	0	0	1	0	1	0	0	0	0	0	0
-GTT	2	1	9	14	0	5	4	0	4	4	1	5	3
-GTC	0	0	0	1	0	0	1	0	0	0	0	0	0
-GTA	3	4	12	30	8	6	6	3	16	28	5	6	8
-GTG	0	0	0	2	3	0	2	0	0	0	0	0	0
-GCT	4	2	12	26	3	6	9	0	10	11	5	5	7
-GCC	0	0	0	1	2	0	0	0	0	0	1	0	3
-GCA	8	0	3	21	0	1	1	0	3	10	1	1	2
-GCG	0	0	0	0	1	0	0	0	0	0	0	0	0
-GAT	1	8	14	12	11	16	10	0	4	8	10	12	16
-GAC	0	0	1	1	1	0	1	0	0	0	0	1	1
-GAA	1	8	15	12	8	15	12	0	4	5	15	10	12
-GAG	0	0	0	0	1	1	0	0	0	0	0	1	1
-GGT	6	5	11	26	6	4	13	0	9	18	7	9	12
-GGC	0	0	0	0	0	0	1	0	0	0	0	0	0
-GGA	3	1	2	15	4	4	5	1	9	9	2	5	8
-GGG	0	0	0	1	0	0	1	0	0	1	1	1	1
-TAA	1	1	1	1	1	1	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	1	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	atp9	YP_009444429.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	0	5	14	0	0	0	4	0	1	2	1	0	0	0	0	0	1	0	0	0	2	0	0	0	1	0	0	0	0	0	7	1	0	2	0	0	2	0	1	1	2	0	0	0	1	0	2	0	3	0	4	0	8	0	1	0	1	0	6	0	3	0	1	0
+1	rps3	YP_009444430.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	8	1	50	1	6	0	10	0	29	0	0	0	4	0	0	0	1	0	4	0	1	0	6	0	2	0	2	0	0	0	44	0	11	5	7	0	5	0	92	1	43	1	10	0	4	0	1	0	4	0	2	0	0	0	8	0	8	0	5	0	1	0	1	0
+2	cox2	YP_009444432.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	10	2	25	0	1	0	11	0	12	0	4	0	5	0	0	0	0	0	7	0	5	0	5	0	9	0	0	0	0	0	27	1	0	4	4	0	6	0	8	0	8	0	4	0	5	0	9	0	12	0	12	0	3	0	14	1	15	0	11	0	2	0	1	0
+3	cox1	YP_009444433.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	18	26	62	1	6	0	35	0	23	2	1	0	10	0	0	0	5	0	11	0	14	0	15	1	8	0	0	0	0	0	41	2	1	22	9	0	16	0	23	1	8	2	3	0	9	0	14	1	30	2	26	1	21	0	12	1	12	0	26	0	15	1	1	0
+4	orf392	YP_009444434.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	17	1	40	0	10	0	4	0	30	3	7	2	5	0	3	1	3	0	4	0	0	0	4	2	7	1	0	0	0	0	41	2	15	5	6	1	9	0	63	1	39	0	7	1	9	1	0	0	8	3	3	2	0	1	11	1	8	1	6	0	4	0	1	0
+5	orf370	YP_009444435.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	18	0	45	0	13	0	4	0	16	0	5	1	6	0	6	0	5	0	6	0	3	1	3	0	7	0	0	0	0	0	32	0	14	2	11	0	5	1	50	1	44	2	3	1	7	0	5	0	6	0	6	0	1	0	16	0	15	1	4	0	4	0	1	0
+6	orf343	YP_009444436.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	17	1	32	1	12	1	5	2	31	0	0	0	4	0	2	0	0	0	4	1	3	1	10	1	8	1	0	0	0	0	34	2	5	3	9	0	5	0	28	2	36	1	5	2	7	1	4	1	6	2	9	0	1	0	10	1	12	0	13	1	5	1	0	1
+7	atp8	YP_009444437.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	4	1	15	0	0	0	3	0	3	1	0	0	0	0	0	0	0	0	1	0	2	0	0	0	3	0	0	0	0	0	3	0	0	2	1	0	1	0	1	0	1	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+8	atp6	YP_009444438.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	23	1	47	0	2	0	13	0	12	1	1	1	5	0	0	0	2	0	4	0	5	0	3	1	3	1	0	0	0	0	24	2	0	7	7	0	9	0	12	1	4	0	4	0	5	0	4	0	16	0	10	0	3	0	4	0	4	0	9	0	9	0	1	0
+9	cob	YP_009444439.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	20	17	48	0	2	0	22	0	19	2	6	0	8	0	0	0	2	0	8	0	11	0	11	1	9	0	0	0	0	0	39	1	0	15	4	0	9	0	18	0	7	0	3	0	11	0	4	0	28	0	11	0	10	0	8	0	5	0	18	0	9	1	1	0
+10	orf372	YP_009444440.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	11	0	42	0	12	0	4	0	28	0	5	0	3	0	3	0	9	0	6	1	0	0	3	0	10	0	5	0	0	0	34	1	8	1	9	2	8	0	52	1	47	0	11	2	6	0	1	0	5	0	5	1	1	0	10	0	15	0	7	0	2	1	1	0
+11	orf373	YP_009444441.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	10	3	37	0	6	1	6	0	26	1	3	1	7	1	2	1	2	0	6	0	1	0	5	0	5	1	2	0	0	0	51	0	9	6	9	0	4	0	51	1	44	0	4	0	11	0	5	0	6	0	5	0	1	0	12	1	10	1	9	0	5	1	1	0
+12	orf380	YP_009444442.1	Zygosaccharomyces mellis	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Zygosaccharomyces	16	4	30	2	8	2	8	0	32	2	3	1	6	1	1	0	1	0	3	2	0	0	3	0	10	2	1	1	0	0	28	3	9	5	9	3	4	0	49	1	39	0	2	2	13	0	3	0	8	0	7	3	2	0	16	1	12	1	12	0	8	1	1	0

@@ -1,65 +1,13 @@
-	YP_009312061.1|ND1	YP_009312062.1|ND2	YP_009312063.1|COX1	YP_009312064.1|COX2	YP_009312065.1|ATP8	YP_009312066.1|ATP6	YP_009312067.1|COX3	YP_009312068.1|ND3	YP_009312069.1|ND4L	YP_009312070.1|ND4	YP_009312071.1|ND5	YP_009312073.1|CYTB
-TTT	5	3	9	2	0	3	2	2	4	10	14	8
-TTC	12	8	31	6	3	9	20	7	4	7	29	23
-TTA	7	6	13	8	2	5	5	4	4	13	17	17
-TTG	0	0	1	0	0	2	1	0	0	2	0	0
-TCT	1	1	6	2	0	0	4	1	1	2	1	4
-TCC	4	7	4	6	2	2	2	3	4	6	8	5
-TCA	13	6	16	5	1	3	6	1	1	15	18	11
-TCG	0	0	1	0	0	0	0	0	0	1	0	0
-TAT	7	2	7	4	0	3	2	1	0	4	0	2
-TAC	5	7	12	5	0	2	10	1	0	10	10	12
-TGT	0	0	0	0	0	0	1	0	2	0	1	0
-TGC	0	1	1	2	0	0	1	1	1	5	4	3
-TGA	8	10	15	5	5	5	12	5	1	18	13	13
-TGG	0	1	2	0	0	0	0	0	0	1	0	0
-CTT	7	4	15	5	0	6	3	3	1	14	13	8
-CTC	6	5	10	3	0	8	6	4	3	12	11	6
-CTA	40	43	23	12	3	21	16	13	14	45	43	27
-CTG	1	3	2	1	0	3	2	2	1	1	5	1
-CCT	4	0	5	1	2	1	2	3	1	3	6	3
-CCC	6	4	6	2	1	1	2	1	1	2	3	4
-CCA	14	15	15	11	5	14	8	4	0	20	19	14
-CCG	0	0	2	0	0	1	1	0	0	2	0	0
-CAT	0	0	3	2	1	1	4	0	1	2	0	2
-CAC	5	6	16	8	1	2	12	1	3	10	16	10
-CAA	7	14	8	7	1	8	8	3	3	14	17	6
-CAG	0	0	0	1	0	0	1	0	0	0	1	0
-CGT	0	0	1	2	0	0	0	0	0	1	2	2
-CGC	1	1	2	1	0	0	1	1	1	1	1	1
-CGA	7	3	4	3	0	6	4	1	2	9	7	5
-CGG	0	0	1	0	0	0	0	0	0	0	0	0
-ATT	8	13	25	9	4	11	6	3	2	22	27	19
-ATC	15	15	13	7	2	13	10	5	0	18	35	15
-ATA	7	21	16	9	0	9	7	4	4	24	35	9
-ATG	4	1	7	3	1	2	1	1	1	2	1	4
-ACT	2	7	5	6	2	4	3	0	1	4	8	0
-ACC	10	20	10	2	1	2	4	4	2	14	20	14
-ACA	9	25	20	3	0	12	13	4	5	25	27	9
-ACG	1	0	1	0	0	1	1	0	0	0	2	0
-AAT	1	4	7	1	0	1	0	0	1	4	11	3
-AAC	11	4	8	5	3	9	1	3	1	8	19	14
-AAA	7	9	8	4	3	1	2	1	0	8	24	9
-AAG	0	0	0	0	0	0	0	0	0	1	0	0
-AGT	0	0	2	0	1	0	1	0	1	1	1	0
-AGC	4	8	3	3	1	4	2	0	2	6	9	1
-GTT	2	0	6	3	0	4	3	0	0	3	4	3
-GTC	2	2	8	6	0	2	3	2	1	0	6	5
-GTA	17	3	28	11	1	9	8	2	1	14	11	13
-GTG	0	0	1	1	1	1	1	0	0	0	0	2
-GCT	4	2	10	2	1	2	5	0	2	4	5	2
-GCC	17	20	20	7	0	8	9	4	6	15	25	9
-GCA	11	17	16	7	1	9	9	4	5	15	21	19
-GCG	0	0	0	1	0	1	0	0	0	0	0	0
-GAT	0	0	3	2	0	1	0	1	0	0	1	5
-GAC	4	4	11	10	1	0	5	3	1	3	13	6
-GAA	11	5	10	13	2	4	9	6	3	8	12	7
-GAG	0	0	1	2	1	0	1	0	0	3	0	0
-GGT	0	0	9	3	0	2	0	0	0	2	1	5
-GGC	1	2	6	1	1	2	6	2	1	7	8	3
-GGA	15	15	25	5	0	6	15	4	5	18	18	17
-GGG	1	1	6	0	0	1	0	1	0	1	4	0
-TAA	1	0	1	0	0	0	1	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009312061.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	5	12	7	0	1	4	13	0	7	5	0	0	8	0	7	6	40	1	4	6	14	0	0	5	7	0	0	1	7	0	8	15	7	4	2	10	9	1	1	11	7	0	0	4	2	2	17	0	4	17	11	0	0	4	11	0	0	1	15	1	1	0	0	0
+1	ND2	YP_009312062.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	3	8	6	0	1	7	6	0	2	7	0	1	10	1	4	5	43	3	0	4	15	0	0	6	14	0	0	1	3	0	13	15	21	1	7	20	25	0	4	4	9	0	0	8	0	2	3	0	2	20	17	0	0	4	5	0	0	2	15	1	0	0	0	0
+2	COX1	YP_009312063.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	9	31	13	1	6	4	16	1	7	12	0	1	15	2	15	10	23	2	5	6	15	2	3	16	8	0	1	2	4	1	25	13	16	7	5	10	20	1	7	8	8	0	2	3	6	8	28	1	10	20	16	0	3	11	10	1	9	6	25	6	1	0	0	0
+3	COX2	YP_009312064.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	2	6	8	0	2	6	5	0	4	5	0	2	5	0	5	3	12	1	1	2	11	0	2	8	7	1	2	1	3	0	9	7	9	3	6	2	3	0	1	5	4	0	0	3	3	6	11	1	2	7	7	1	2	10	13	2	3	1	5	0	0	0	0	0
+4	ATP8	YP_009312065.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	0	3	2	0	0	2	1	0	0	0	0	0	5	0	0	0	3	0	2	1	5	0	1	1	1	0	0	0	0	0	4	2	0	1	2	1	0	0	0	3	3	0	1	1	0	0	1	1	1	0	1	0	0	1	2	1	0	1	0	0	0	1	0	0
+5	ATP6	YP_009312066.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	3	9	5	2	0	2	3	0	3	2	0	0	5	0	6	8	21	3	1	1	14	1	1	2	8	0	0	0	6	0	11	13	9	2	4	2	12	1	1	9	1	0	0	4	4	2	9	1	2	8	9	1	1	0	4	0	2	2	6	1	0	0	0	0
+6	COX3	YP_009312067.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	2	20	5	1	4	2	6	0	2	10	1	1	12	0	3	6	16	2	2	2	8	1	4	12	8	1	0	1	4	0	6	10	7	1	3	4	13	1	0	1	2	0	1	2	3	3	8	1	5	9	9	0	0	5	9	1	0	6	15	0	1	0	0	0
+7	ND3	YP_009312068.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	2	7	4	0	1	3	1	0	1	1	0	1	5	0	3	4	13	2	3	1	4	0	0	1	3	0	0	1	1	0	3	5	4	1	0	4	4	0	0	3	1	0	0	0	0	2	2	0	0	4	4	0	1	3	6	0	0	2	4	1	0	0	0	0
+8	ND4L	YP_009312069.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	4	4	4	0	1	4	1	0	0	0	2	1	1	0	1	3	14	1	1	1	0	0	1	3	3	0	0	1	2	0	2	0	4	1	1	2	5	0	1	1	0	0	1	2	0	1	1	0	2	6	5	0	0	1	3	0	0	1	5	0	1	0	0	0
+9	ND4	YP_009312070.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	10	7	13	2	2	6	15	1	4	10	0	5	18	1	14	12	45	1	3	2	20	2	2	10	14	0	1	1	9	0	22	18	24	2	4	14	25	0	4	8	8	1	1	6	3	0	14	0	4	15	15	0	0	3	8	3	2	7	18	1	0	0	0	0
+10	ND5	YP_009312071.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	14	29	17	0	1	8	18	0	0	10	1	4	13	0	13	11	43	5	6	3	19	0	0	16	17	1	2	1	7	0	27	35	35	1	8	20	27	2	11	19	24	0	1	9	4	6	11	0	5	25	21	0	1	13	12	0	1	8	18	4	1	0	0	0
+11	CYTB	YP_009312073.1	Cirrhinus microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Cirrhinus	8	23	17	0	4	5	11	0	2	12	0	3	13	0	8	6	27	1	3	4	14	0	2	10	6	0	2	1	5	0	19	15	9	4	0	14	9	0	3	14	9	0	0	1	3	5	13	2	2	9	19	0	5	6	7	0	5	3	17	0	0	0	0	0

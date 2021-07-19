@@ -1,65 +1,10 @@
-	YP_006503922.1|ND2	YP_006503923.1|COX1	YP_006503924.1|COX2	YP_006503925.1|ATP8	YP_006503926.1|ATP6	YP_006503927.1|COX3	YP_006503928.1|ND3	YP_006503932.1|ND6	YP_006503933.1|CYTB
-TTT	5	16	9	2	5	9	4	1	4
-TTC	7	22	2	4	6	13	4	8	23
-TTA	24	28	6	2	13	10	5	10	17
-TTG	3	2	0	0	0	0	0	1	0
-TCT	2	3	0	0	1	0	0	0	0
-TCC	4	4	1	0	1	1	2	0	0
-TCA	21	24	10	4	8	9	4	9	14
-TCG	2	0	1	0	0	1	2	0	0
-TAT	2	5	6	0	2	5	1	0	5
-TAC	10	11	3	1	2	5	0	5	12
-TGT	1	2	2	0	1	1	1	0	2
-TGC	0	0	1	0	0	0	0	1	2
-TGA	8	15	6	3	5	13	3	2	11
-TGG	1	0	0	0	0	0	0	0	1
-CTT	1	4	1	1	4	2	0	0	3
-CTC	1	4	1	0	0	2	1	0	0
-CTA	16	21	13	1	15	12	6	10	21
-CTG	0	0	0	0	0	0	0	0	0
-CCT	2	2	1	0	0	1	0	2	3
-CCC	4	4	2	2	1	1	1	0	2
-CCA	5	20	7	1	9	6	3	2	18
-CCG	0	0	0	0	1	0	0	0	0
-CAT	1	10	1	0	1	2	0	0	2
-CAC	2	7	6	0	4	13	1	2	8
-CAA	8	9	6	2	3	10	1	4	9
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	0	0	0	0	0	0	0	0
-CGC	0	0	1	0	1	0	0	0	0
-CGA	2	7	5	0	2	4	3	1	8
-CGG	0	1	0	0	0	0	0	0	0
-ATT	19	31	15	0	9	14	5	1	11
-ATC	11	14	10	3	9	8	7	8	23
-ATA	35	31	14	6	22	14	17	27	30
-ATG	4	2	1	0	2	1	0	0	1
-ACT	6	5	2	0	3	8	0	1	4
-ACC	1	2	5	1	5	1	1	0	5
-ACA	25	28	13	5	21	18	7	19	22
-ACG	1	2	0	0	0	1	1	0	0
-AAT	9	5	4	1	9	0	2	0	11
-AAC	9	12	8	2	7	10	1	6	14
-AAA	16	10	7	9	5	2	4	9	12
-AAG	1	0	2	0	0	1	0	0	0
-AGT	2	1	0	0	1	0	0	1	0
-AGC	0	1	2	0	0	0	0	0	0
-AGA	5	14	5	1	13	7	3	6	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	2	3	1	0	0	1	0	1	2
-GTC	1	3	0	0	1	1	0	1	4
-GTA	14	22	10	0	7	9	6	2	11
-GTG	1	2	1	0	0	2	0	1	1
-GCT	3	6	2	1	1	2	0	0	3
-GCC	4	9	2	0	2	4	1	2	4
-GCA	6	17	4	0	7	7	6	5	9
-GCG	0	2	0	0	0	0	0	0	0
-GAT	5	8	4	0	0	2	1	0	4
-GAC	0	6	5	0	1	1	2	0	5
-GAA	5	9	13	0	7	7	6	8	7
-GAG	4	1	0	0	0	1	1	0	0
-GGT	2	3	1	0	2	1	0	0	1
-GGC	1	1	1	0	0	1	0	0	1
-GGA	10	32	5	0	6	17	4	5	20
-GGG	5	9	0	0	1	1	0	1	4
-TAA	1	1	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_006503922.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	5	7	24	3	2	4	21	2	2	10	1	0	8	1	1	1	16	0	2	4	5	0	1	2	8	0	0	0	2	0	19	11	35	4	6	1	25	1	9	9	16	1	2	0	5	0	2	1	14	1	3	4	6	0	5	0	5	4	2	1	10	5	1	0
+1	COX1	YP_006503923.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	16	22	28	2	3	4	24	0	5	11	2	0	15	0	4	4	21	0	2	4	20	0	10	7	9	0	0	0	7	1	31	14	31	2	5	2	28	2	5	12	10	0	1	1	14	0	3	3	22	2	6	9	17	2	8	6	9	1	3	1	32	9	1	0
+2	COX2	YP_006503924.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	9	2	6	0	0	1	10	1	6	3	2	1	6	0	1	1	13	0	1	2	7	0	1	6	6	0	0	1	5	0	15	10	14	1	2	5	13	0	4	8	7	2	0	2	5	0	1	0	10	1	2	2	4	0	4	5	13	0	1	1	5	0	0	0
+3	ATP8	YP_006503925.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	2	4	2	0	0	0	4	0	0	1	0	0	3	0	1	0	1	0	0	2	1	0	0	0	2	0	0	0	0	0	0	3	6	0	0	1	5	0	1	2	9	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_006503926.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	5	6	13	0	1	1	8	0	2	2	1	0	5	0	4	0	15	0	0	1	9	1	1	4	3	0	0	1	2	0	9	9	22	2	3	5	21	0	9	7	5	0	1	0	13	0	0	1	7	0	1	2	7	0	0	1	7	0	2	0	6	1	1	0
+5	COX3	YP_006503927.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	9	13	10	0	0	1	9	1	5	5	1	0	13	0	2	2	12	0	1	1	6	0	2	13	10	0	0	0	4	0	14	8	14	1	8	1	18	1	0	10	2	1	0	0	7	0	1	1	9	2	2	4	7	0	2	1	7	1	1	1	17	1	1	0
+6	ND3	YP_006503928.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	4	4	5	0	0	2	4	2	1	0	1	0	3	0	0	1	6	0	0	1	3	0	0	1	1	0	0	0	3	0	5	7	17	0	0	1	7	1	2	1	4	0	0	0	3	0	0	0	6	0	0	1	6	0	1	2	6	1	0	0	4	0	0	1
+7	ND6	YP_006503932.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	1	8	10	1	0	0	9	0	0	5	0	1	2	0	0	0	10	0	2	0	2	0	0	2	4	0	0	0	1	0	1	8	27	0	1	0	19	0	0	6	9	0	1	0	6	0	1	1	2	1	0	2	5	0	0	0	8	0	0	0	5	1	1	0
+8	CYTB	YP_006503933.1	Zootermopsis angusticollis	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Termopsidae, Zootermopsis	4	23	17	0	0	0	14	0	5	12	2	2	11	1	3	0	21	0	3	2	18	0	2	8	9	0	0	0	8	0	11	23	30	1	4	5	22	0	11	14	12	0	0	0	3	0	2	4	11	1	3	4	9	0	4	5	7	0	1	1	20	4	0	0

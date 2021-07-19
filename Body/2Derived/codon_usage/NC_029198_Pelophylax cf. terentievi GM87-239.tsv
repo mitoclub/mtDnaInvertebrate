@@ -1,65 +1,13 @@
-	YP_009228365.1|ND1	YP_009228366.1|ND2	YP_009228367.1|COX1	YP_009228368.1|COX2	YP_009228369.1|ATP8	YP_009228370.1|ATP6	YP_009228371.1|COX3	YP_009228372.1|ND3	YP_009228373.1|ND4L	YP_009228374.1|ND4	YP_009228375.1|ND5	YP_009228377.1|CYTB
-TTT	18	10	30	5	2	10	18	2	2	19	28	12
-TTC	6	6	16	3	1	6	11	7	2	13	15	18
-TTA	7	15	10	5	2	11	6	2	4	18	12	5
-TTG	2	0	5	0	0	2	0	2	2	3	4	2
-TCT	10	10	7	5	0	5	2	1	1	8	16	7
-TCC	8	10	10	2	0	4	0	4	3	9	10	10
-TCA	5	7	8	4	0	7	6	1	2	11	8	7
-TCG	0	1	3	0	1	0	0	0	0	1	4	0
-TAT	9	5	7	5	1	2	6	0	0	8	13	7
-TAC	4	0	10	3	0	1	4	3	0	6	7	6
-TGT	2	0	0	2	0	0	1	1	1	2	3	0
-TGC	1	0	0	0	0	0	1	0	2	2	4	3
-TGA	6	10	16	4	4	5	10	5	0	11	5	10
-TGG	1	0	1	1	1	0	2	0	1	2	3	1
-CTT	18	17	18	8	5	14	9	7	2	23	23	12
-CTC	14	18	13	8	2	8	7	7	7	10	20	22
-CTA	15	19	14	5	1	11	3	5	4	28	23	16
-CTG	6	5	3	0	0	6	3	2	4	4	7	4
-CCT	2	1	4	3	0	3	2	2	1	8	3	4
-CCC	9	7	13	3	3	5	6	5	2	6	13	12
-CCA	9	6	7	7	3	4	3	1	0	6	5	7
-CCG	2	3	2	1	0	2	2	1	0	1	3	0
-CAT	1	1	11	3	0	4	6	0	1	7	4	3
-CAC	2	4	8	6	1	2	8	0	2	3	10	8
-CAA	5	6	6	6	2	6	9	2	2	12	14	6
-CAG	2	2	0	1	0	1	0	0	0	0	3	0
-CGT	1	1	1	0	0	2	1	0	0	1	4	0
-CGC	2	0	4	2	0	1	2	0	2	2	3	3
-CGA	4	3	4	3	0	1	2	2	0	9	3	5
-CGG	1	0	0	0	0	1	0	0	0	0	0	0
-ATT	19	27	28	15	2	10	12	7	3	27	38	13
-ATC	6	8	12	9	0	5	3	5	2	10	20	23
-ATA	6	10	17	8	1	7	5	2	10	15	16	2
-ATG	6	4	8	4	1	1	2	1	1	7	7	6
-ACT	4	7	10	2	2	6	4	1	2	11	11	1
-ACC	8	18	10	6	3	8	11	3	4	15	13	11
-ACA	9	12	16	7	1	8	6	0	1	16	22	13
-ACG	0	1	5	0	0	0	1	1	0	0	2	1
-AAT	6	7	7	1	5	6	2	1	3	9	15	8
-AAC	3	5	9	6	1	3	2	0	0	4	10	11
-AAA	7	11	9	3	4	1	0	0	1	7	20	7
-AAG	1	0	0	1	0	1	2	1	0	3	2	4
-AGT	1	1	1	5	0	1	1	0	1	5	6	0
-AGC	1	3	3	1	1	4	3	1	1	3	3	1
-GTT	4	3	19	3	0	5	10	2	1	8	9	0
-GTC	7	3	4	4	0	4	0	0	0	1	6	10
-GTA	4	1	15	6	0	3	7	1	2	4	8	6
-GTG	0	1	1	0	0	0	0	1	0	1	1	1
-GCT	6	9	13	2	0	3	9	2	1	9	20	7
-GCC	17	15	18	9	0	9	12	8	4	21	24	17
-GCA	5	6	8	6	2	6	6	0	0	8	17	6
-GCG	0	0	2	2	0	0	0	0	1	1	2	0
-GAT	2	2	7	5	0	1	1	3	0	2	9	0
-GAC	2	3	7	9	0	0	4	0	1	3	6	10
-GAA	6	4	6	10	0	4	7	5	0	9	8	4
-GAG	3	1	6	1	1	0	1	1	2	1	3	0
-GGT	2	2	6	2	1	1	7	0	3	2	7	3
-GGC	5	4	11	3	0	2	6	3	0	10	10	14
-GGA	6	5	15	2	0	4	4	1	1	6	8	6
-GGG	2	5	12	2	0	0	3	1	2	2	4	5
-TAA	0	0	0	0	0	0	0	0	1	0	0	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009228365.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	18	6	7	2	10	8	5	0	9	4	2	1	6	1	18	14	15	6	2	9	9	2	1	2	5	2	1	2	4	1	19	6	6	6	4	8	9	0	6	3	7	1	1	1	4	7	4	0	6	17	5	0	2	2	6	3	2	5	6	2	0	0	0	0
+1	ND2	YP_009228366.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	10	6	15	0	10	10	7	1	5	0	0	0	10	0	17	18	19	5	1	7	6	3	1	4	6	2	1	0	3	0	27	8	10	4	7	18	12	1	7	5	11	0	1	3	3	3	1	1	9	15	6	0	2	3	4	1	2	4	5	5	0	0	0	0
+2	COX1	YP_009228367.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	30	16	10	5	7	10	8	3	7	10	0	0	16	1	18	13	14	3	4	13	7	2	11	8	6	0	1	4	4	0	28	12	17	8	10	10	16	5	7	9	9	0	1	3	19	4	15	1	13	18	8	2	7	7	6	6	6	11	15	12	0	0	0	1
+3	COX2	YP_009228368.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	5	3	5	0	5	2	4	0	5	3	2	0	4	1	8	8	5	0	3	3	7	1	3	6	6	1	0	2	3	0	15	9	8	4	2	6	7	0	1	6	3	1	5	1	3	4	6	0	2	9	6	2	5	9	10	1	2	3	2	2	0	0	0	0
+4	ATP8	YP_009228369.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	1	2	0	0	0	0	1	1	0	0	0	4	1	5	2	1	0	0	3	3	0	0	1	2	0	0	0	0	0	2	0	1	1	2	3	1	0	5	1	4	0	0	1	0	0	0	0	0	0	2	0	0	0	0	1	1	0	0	0	0	1	0	0
+5	ATP6	YP_009228370.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	10	6	11	2	5	4	7	0	2	1	0	0	5	0	14	8	11	6	3	5	4	2	4	2	6	1	2	1	1	1	10	5	7	1	6	8	8	0	6	3	1	1	1	4	5	4	3	0	3	9	6	0	1	0	4	0	1	2	4	0	0	0	0	0
+6	COX3	YP_009228371.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	18	11	6	0	2	0	6	0	6	4	1	1	10	2	9	7	3	3	2	6	3	2	6	8	9	0	1	2	2	0	12	3	5	2	4	11	6	1	2	2	0	2	1	3	10	0	7	0	9	12	6	0	1	4	7	1	7	6	4	3	0	0	0	0
+7	ND3	YP_009228372.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	7	2	2	1	4	1	0	0	3	1	0	5	0	7	7	5	2	2	5	1	1	0	0	2	0	0	0	2	0	7	5	2	1	1	3	0	1	1	0	0	1	0	1	2	0	1	1	2	8	0	0	3	0	5	1	0	3	1	1	0	0	0	0
+8	ND4L	YP_009228373.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	2	2	4	2	1	3	2	0	0	0	1	2	0	1	2	7	4	4	1	2	0	0	1	2	2	0	0	2	0	0	3	2	10	1	2	4	1	0	3	0	1	0	1	1	1	0	2	0	1	4	0	1	0	1	0	2	3	0	1	2	1	0	0	0
+9	ND4	YP_009228374.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	19	13	18	3	8	9	11	1	8	6	2	2	11	2	23	10	28	4	8	6	6	1	7	3	12	0	1	2	9	0	27	10	15	7	11	15	16	0	9	4	7	3	5	3	8	1	4	1	9	21	8	1	2	3	9	1	2	10	6	2	0	0	0	0
+10	ND5	YP_009228375.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	28	15	12	4	16	10	8	4	13	7	3	4	5	3	23	20	23	7	3	13	5	3	4	10	14	3	4	3	3	0	38	20	16	7	11	13	22	2	15	10	20	2	6	3	9	6	8	1	20	24	17	2	9	6	8	3	7	10	8	4	0	0	0	0
+11	CYTB	YP_009228377.1	Pelophylax cf. terentievi GM87-239	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Amphibia, Batrachia, Anura, Neobatrachia, Ranoidea, Ranidae, Pelophylax	12	18	5	2	7	10	7	0	7	6	0	3	10	1	12	22	16	4	4	12	7	0	3	8	6	0	0	3	5	0	13	23	2	6	1	11	13	1	8	11	7	4	0	1	0	10	6	1	7	17	6	0	0	10	4	0	3	14	6	5	1	0	0	0

@@ -1,65 +1,12 @@
-	YP_009734616.1|ND4L	YP_009734617.1|ATP8	YP_009734618.1|ATP6	YP_009734620.1|ND5	YP_009734621.1|ND1	YP_009734622.1|ND3	YP_009734623.1|COX2	YP_009734624.1|ND4	YP_009734625.1|ND6	YP_009734626.1|CYTB	YP_009734627.1|COX3
-TTT	2	1	14	37	15	10	10	32	12	18	19
-TTC	1	1	7	8	6	4	3	9	5	15	5
-TTA	7	6	14	35	19	6	15	21	8	14	9
-TTG	7	2	14	30	16	3	8	30	6	16	3
-TCT	2	2	3	14	5	3	6	6	2	11	4
-TCC	3	2	2	12	8	3	5	11	2	4	3
-TCA	0	0	3	9	4	0	2	3	3	6	3
-TCG	0	1	2	5	1	1	1	6	2	0	2
-TAT	3	2	6	18	14	4	7	17	5	14	10
-TAC	2	0	1	10	1	2	4	2	5	6	3
-TGT	0	0	2	4	2	1	1	4	1	1	2
-TGC	0	0	0	2	1	0	1	1	1	3	1
-TGA	1	0	0	1	2	1	0	1	1	0	0
-TGG	0	4	3	12	7	3	6	10	4	12	12
-CTT	2	0	3	5	6	2	3	7	4	5	3
-CTC	1	1	3	4	0	2	0	4	2	4	4
-CTA	1	1	5	14	9	2	7	12	3	7	6
-CTG	2	2	2	4	1	0	1	8	5	3	0
-CCT	0	1	0	6	6	2	3	3	1	5	1
-CCC	0	1	7	9	6	2	6	15	5	11	8
-CCA	0	1	1	3	3	0	1	1	0	4	1
-CCG	0	0	0	3	0	1	3	2	1	1	2
-CAT	0	0	5	9	0	0	4	4	0	8	8
-CAC	1	0	0	4	4	0	2	3	3	4	7
-CAA	1	3	1	12	4	1	5	7	3	7	4
-CAG	0	0	2	2	1	1	2	3	0	1	2
-CGT	0	0	1	0	0	0	0	1	0	1	0
-CGC	0	0	0	1	0	1	1	2	1	2	1
-CGA	2	0	0	4	0	0	0	4	0	4	2
-CGG	0	0	0	2	4	2	1	2	2	2	1
-ATT	8	2	9	25	10	11	9	26	9	17	7
-ATC	1	1	3	12	9	1	4	8	6	6	2
-ATA	10	2	7	14	15	4	10	17	7	13	10
-ATG	4	2	10	21	12	2	8	14	8	11	6
-ACT	1	5	5	14	4	0	5	9	4	4	8
-ACC	0	2	4	18	2	2	4	5	3	1	7
-ACA	1	1	1	7	4	0	5	7	5	6	1
-ACG	1	0	2	5	0	1	0	1	0	1	2
-AAT	1	1	6	9	8	1	4	9	5	12	1
-AAC	2	0	1	4	0	0	3	3	2	6	1
-AAA	3	3	6	14	8	1	4	7	0	3	2
-AAG	0	1	0	5	2	2	4	5	3	2	1
-AGT	0	0	4	10	6	1	3	6	3	5	3
-AGC	0	0	2	5	1	1	3	3	2	7	4
-AGA	0	2	2	4	2	0	4	2	0	1	1
-AGG	1	1	1	2	2	0	2	4	0	3	2
-GTT	1	2	9	14	13	2	8	8	6	15	8
-GTC	2	0	1	4	4	2	3	3	2	7	4
-GTA	1	2	6	7	7	1	3	9	2	8	8
-GTG	4	1	9	14	5	3	6	11	3	5	5
-GCT	2	0	3	11	14	1	3	6	8	3	4
-GCC	4	1	11	32	16	4	4	24	13	17	11
-GCA	1	1	1	9	2	0	3	5	0	4	2
-GCG	3	1	4	6	4	0	5	8	5	3	2
-GAT	1	3	2	9	4	2	6	4	4	6	3
-GAC	0	0	2	8	0	1	7	6	1	3	2
-GAA	2	0	3	12	5	2	7	6	4	3	3
-GAG	1	1	1	4	6	5	5	10	4	6	4
-GGT	1	2	2	9	3	0	2	2	1	6	5
-GGC	3	1	3	8	4	3	5	9	6	5	3
-GGA	0	0	2	5	9	0	0	2	1	4	6
-GGG	2	3	9	20	11	8	3	21	12	13	8
-TAA	1	1	0	1	0	1	0	1	1	1	0
-TAG	0	0	1	0	1	0	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND4L	YP_009734616.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	2	1	7	7	2	3	0	0	3	2	0	0	1	0	2	1	1	2	0	0	0	0	0	1	1	0	0	0	2	0	8	1	10	4	1	0	1	1	1	2	3	0	0	0	0	1	1	2	1	4	2	4	1	3	1	0	2	1	1	3	0	2	1	0
+1	ATP8	YP_009734617.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	1	1	6	2	2	2	0	1	2	0	0	0	0	4	0	1	1	2	1	1	1	0	0	0	3	0	0	0	0	0	2	1	2	2	5	2	1	0	1	0	3	1	0	0	2	1	2	0	2	1	0	1	1	1	3	0	0	1	2	1	0	3	1	0
+2	ATP6	YP_009734618.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	14	7	14	14	3	2	3	2	6	1	2	0	0	3	3	3	5	2	0	7	1	0	5	0	1	2	1	0	0	0	9	3	7	10	5	4	1	2	6	1	6	0	4	2	2	1	9	1	6	9	3	11	1	4	2	2	3	1	2	3	2	9	0	1
+3	ND5	YP_009734620.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	37	8	35	30	14	12	9	5	18	10	4	2	1	12	5	4	14	4	6	9	3	3	9	4	12	2	0	1	4	2	25	12	14	21	14	18	7	5	9	4	14	5	10	5	4	2	14	4	7	14	11	32	9	6	9	8	12	4	9	8	5	20	1	0
+4	ND1	YP_009734621.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	15	6	19	16	5	8	4	1	14	1	2	1	2	7	6	0	9	1	6	6	3	0	0	4	4	1	0	0	0	4	10	9	15	12	4	2	4	0	8	0	8	2	6	1	2	2	13	4	7	5	14	16	2	4	4	0	5	6	3	4	9	11	0	1
+5	ND3	YP_009734622.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	10	4	6	3	3	3	0	1	4	2	1	0	1	3	2	2	2	0	2	2	0	1	0	0	1	1	0	1	0	2	11	1	4	2	0	2	0	1	1	0	1	2	1	1	0	0	2	2	1	3	1	4	0	0	2	1	2	5	0	3	0	8	1	0
+6	COX2	YP_009734623.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	10	3	15	8	6	5	2	1	7	4	1	1	0	6	3	0	7	1	3	6	1	3	4	2	5	2	0	1	0	1	9	4	10	8	5	4	5	0	4	3	4	4	3	3	4	2	8	3	3	6	3	4	3	5	6	7	7	5	2	5	0	3	0	1
+7	ND4	YP_009734624.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	32	9	21	30	6	11	3	6	17	2	4	1	1	10	7	4	12	8	3	15	1	2	4	3	7	3	1	2	4	2	26	8	17	14	9	5	7	1	9	3	7	5	6	3	2	4	8	3	9	11	6	24	5	8	4	6	6	10	2	9	2	21	1	0
+8	ND6	YP_009734625.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	12	5	8	6	2	2	3	2	5	5	1	1	1	4	4	2	3	5	1	5	0	1	0	3	3	0	0	1	0	2	9	6	7	8	4	3	5	0	5	2	0	3	3	2	0	0	6	2	2	3	8	13	0	5	4	1	4	4	1	6	1	12	1	0
+9	CYTB	YP_009734626.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	18	15	14	16	11	4	6	0	14	6	1	3	0	12	5	4	7	3	5	11	4	1	8	4	7	1	1	2	4	2	17	6	13	11	4	1	6	1	12	6	3	2	5	7	1	3	15	7	8	5	3	17	4	3	6	3	3	6	6	5	4	13	1	0
+10	COX3	YP_009734627.1	Sphenopus marsupialis	Eukaryota, Metazoa, Cnidaria, Anthozoa, Hexacorallia, Zoantharia, Sphenopidae, Sphenopus	19	5	9	3	4	3	3	2	10	3	2	1	0	12	3	4	6	0	1	8	1	2	8	7	4	2	0	1	2	1	7	2	10	6	8	7	1	2	1	1	2	1	3	4	1	2	8	4	8	5	4	11	2	2	3	2	3	4	5	3	6	8	0	1

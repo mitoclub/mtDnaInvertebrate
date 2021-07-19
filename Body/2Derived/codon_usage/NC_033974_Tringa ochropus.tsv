@@ -1,65 +1,13 @@
-	YP_009349377.1|ND1	YP_009349378.1|ND2	YP_009349379.1|COX1	YP_009349380.1|COX2	YP_009349381.1|ATP8	YP_009349382.1|ATP6	YP_009349383.1|COX3	YP_009349384.1|ND3	YP_009349385.1|ND4L	YP_009349386.1|ND4	YP_009349387.1|ND5	YP_009349388.1|CYTB
-TTT	6	7	14	1	2	4	6	2	3	7	9	10
-TTC	12	11	28	7	1	6	18	7	2	8	26	20
-TTA	20	10	7	1	0	11	8	4	5	15	13	14
-TTG	0	1	0	0	0	0	0	0	0	2	2	1
-TCT	3	3	3	3	3	2	2	0	3	4	3	2
-TCC	10	8	12	4	1	4	5	3	1	7	18	9
-TCA	9	15	8	9	2	4	8	3	5	15	12	10
-TCG	0	0	0	1	0	0	0	0	0	1	1	0
-TAT	7	3	10	4	0	1	4	2	0	6	2	4
-TAC	8	5	8	4	0	2	6	0	2	7	12	10
-TGT	0	0	0	1	0	0	0	1	1	0	1	2
-TGC	2	1	1	2	0	1	1	0	2	4	5	2
-TGA	8	10	17	5	4	3	12	5	1	10	11	11
-TGG	0	0	0	0	1	1	0	0	0	2	2	0
-CTT	9	8	11	3	1	4	2	2	1	12	10	9
-CTC	14	18	13	10	1	19	5	10	5	18	22	14
-CTA	20	20	28	16	3	25	16	10	10	53	48	27
-CTG	2	4	3	2	2	2	2	0	1	2	2	1
-CCT	7	3	2	4	1	2	1	1	0	3	3	4
-CCC	5	1	8	3	3	9	4	0	1	11	5	9
-CCA	12	14	19	6	3	6	6	7	1	14	21	12
-CCG	0	0	1	0	0	0	1	0	0	0	0	0
-CAT	2	5	3	2	0	1	4	0	1	5	1	5
-CAC	1	5	16	7	1	3	12	0	5	10	10	7
-CAA	6	4	9	7	2	7	7	3	2	12	18	8
-CAG	0	4	0	0	0	1	1	0	0	0	1	0
-CGT	1	0	2	0	0	0	1	0	0	0	3	2
-CGC	2	1	1	2	0	3	1	1	0	2	1	1
-CGA	4	2	4	2	0	2	3	1	2	9	4	5
-CGG	1	0	1	1	0	0	0	0	0	0	0	0
-ATT	13	12	15	6	3	4	6	2	1	19	24	7
-ATC	11	19	26	13	0	13	10	8	2	25	29	22
-ATA	9	17	25	8	1	8	8	4	6	23	34	8
-ATG	3	4	0	2	1	1	2	0	1	1	1	1
-ACT	5	9	13	2	3	8	5	0	2	7	13	5
-ACC	7	14	14	6	7	11	4	9	2	28	38	10
-ACA	8	22	16	6	2	5	10	3	2	18	26	14
-ACG	0	0	0	0	0	0	0	0	1	0	0	0
-AAT	2	3	3	0	1	0	1	1	0	6	5	4
-AAC	10	10	12	4	3	9	4	2	3	10	22	17
-AAA	5	13	9	4	3	3	3	1	0	9	21	9
-AAG	2	1	0	0	0	1	1	0	0	0	0	1
-AGT	1	3	1	0	0	0	2	0	1	1	0	0
-AGC	4	1	2	5	0	4	2	1	3	8	10	1
-GTT	5	1	2	4	0	1	2	0	0	1	1	4
-GTC	1	1	12	5	0	4	6	0	0	2	6	3
-GTA	8	3	19	6	0	1	6	1	2	3	5	10
-GTG	1	0	1	0	0	0	0	0	0	0	2	0
-GCT	9	4	10	3	0	4	1	0	0	8	13	4
-GCC	11	17	25	7	0	8	9	3	7	9	22	12
-GCA	11	9	10	4	0	4	11	5	3	13	12	10
-GCG	0	1	0	0	0	1	1	0	0	0	0	1
-GAT	2	1	7	4	0	1	1	2	0	0	2	2
-GAC	2	0	8	8	0	1	3	1	1	2	8	4
-GAA	10	5	10	14	0	4	7	6	3	9	11	5
-GAG	1	0	0	1	0	0	1	0	0	0	0	2
-GGT	1	3	9	0	0	1	2	0	1	1	1	3
-GGC	8	4	13	2	0	4	6	1	2	4	10	7
-GGA	4	4	24	5	0	3	9	4	1	11	19	13
-GGG	0	2	1	1	0	0	2	0	0	2	3	2
-TAA	0	0	0	1	1	1	0	1	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009349377.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	6	12	20	0	3	10	9	0	7	8	0	2	8	0	9	14	20	2	7	5	12	0	2	1	6	0	1	2	4	1	13	11	9	3	5	7	8	0	2	10	5	2	1	4	5	1	8	1	9	11	11	0	2	2	10	1	1	8	4	0	0	0	0	1
+1	ND2	YP_009349378.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	7	11	10	1	3	8	15	0	3	5	0	1	10	0	8	18	20	4	3	1	14	0	5	5	4	4	0	1	2	0	12	19	17	4	9	14	22	0	3	10	13	1	3	1	1	1	3	0	4	17	9	1	1	0	5	0	3	4	4	2	0	0	0	0
+2	COX1	YP_009349379.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	14	28	7	0	3	12	8	0	10	8	0	1	17	0	11	13	28	3	2	8	19	1	3	16	9	0	2	1	4	1	15	26	25	0	13	14	16	0	3	12	9	0	1	2	2	12	19	1	10	25	10	0	7	8	10	0	9	13	24	1	0	0	0	1
+3	COX2	YP_009349380.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	1	7	1	0	3	4	9	1	4	4	1	2	5	0	3	10	16	2	4	3	6	0	2	7	7	0	0	2	2	1	6	13	8	2	2	6	6	0	0	4	4	0	0	5	4	5	6	0	3	7	4	0	4	8	14	1	0	2	5	1	1	0	0	0
+4	ATP8	YP_009349381.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	2	1	0	0	3	1	2	0	0	0	0	0	4	1	1	1	3	2	1	3	3	0	0	1	2	0	0	0	0	0	3	0	1	1	3	7	2	0	1	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009349382.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	4	6	11	0	2	4	4	0	1	2	0	1	3	1	4	19	25	2	2	9	6	0	1	3	7	1	0	3	2	0	4	13	8	1	8	11	5	0	0	9	3	1	0	4	1	4	1	0	4	8	4	1	1	1	4	0	1	4	3	0	1	0	0	0
+6	COX3	YP_009349383.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	6	18	8	0	2	5	8	0	4	6	0	1	12	0	2	5	16	2	1	4	6	1	4	12	7	1	1	1	3	0	6	10	8	2	5	4	10	0	1	4	3	1	2	2	2	6	6	0	1	9	11	1	1	3	7	1	2	6	9	2	0	0	0	0
+7	ND3	YP_009349384.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	2	7	4	0	0	3	3	0	2	0	1	0	5	0	2	10	10	0	1	0	7	0	0	0	3	0	0	1	1	0	2	8	4	0	0	9	3	0	1	2	1	0	0	1	0	0	1	0	0	3	5	0	2	1	6	0	0	1	4	0	1	0	0	0
+8	ND4L	YP_009349385.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	3	2	5	0	3	1	5	0	0	2	1	2	1	0	1	5	10	1	0	1	1	0	1	5	2	0	0	0	2	0	1	2	6	1	2	2	2	1	0	3	0	0	1	3	0	0	2	0	0	7	3	0	0	1	3	0	1	2	1	0	1	0	0	0
+9	ND4	YP_009349386.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	7	8	15	2	4	7	15	1	6	7	0	4	10	2	12	18	53	2	3	11	14	0	5	10	12	0	0	2	9	0	19	25	23	1	7	28	18	0	6	10	9	0	1	8	1	2	3	0	8	9	13	0	0	2	9	0	1	4	11	2	0	0	0	0
+10	ND5	YP_009349387.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	9	26	13	2	3	18	12	1	2	12	1	5	11	2	10	22	48	2	3	5	21	0	1	10	18	1	3	1	4	0	24	29	34	1	13	38	26	0	5	22	21	0	0	10	1	6	5	2	13	22	12	0	2	8	11	0	1	10	19	3	0	0	1	0
+11	CYTB	YP_009349388.1	Tringa ochropus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Charadriiformes, Scolopacidae, Tringa	10	20	14	1	2	9	10	0	4	10	2	2	11	0	9	14	27	1	4	9	12	0	5	7	8	0	2	1	5	0	7	22	8	1	5	10	14	0	4	17	9	1	0	1	4	3	10	0	4	12	10	1	2	4	5	2	3	7	13	2	1	0	0	0

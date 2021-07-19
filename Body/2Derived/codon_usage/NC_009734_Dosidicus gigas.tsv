@@ -1,65 +1,13 @@
-	YP_001425552.1|COX3	YP_001425553.1|ND3	YP_001425554.1|COX1	YP_001425555.1|COX2	YP_001425556.1|ATP8	YP_001425557.1|ATP6	YP_001425558.1|COX3	YP_001425559.1|ND2	YP_001425560.1|COX1	YP_001425561.1|COX2	YP_001425562.1|ATP8	YP_001425563.1|ATP6
-TTT	19	7	27	9	2	11	19	16	27	9	2	11
-TTC	8	2	15	2	1	7	8	6	15	2	1	7
-TTA	12	10	26	16	2	21	11	19	26	16	2	21
-TTG	0	2	3	0	0	0	0	1	3	0	0	0
-TCT	3	4	16	2	1	8	3	10	16	2	1	8
-TCC	4	1	8	4	3	7	4	8	8	4	3	7
-TCA	3	1	7	5	0	7	3	11	7	5	0	7
-TCG	1	0	1	1	0	0	1	1	1	1	0	0
-TAT	6	1	8	6	1	5	6	6	8	6	1	5
-TAC	4	1	9	5	1	4	4	7	9	5	1	4
-TGT	3	1	0	3	0	0	3	0	0	3	0	0
-TGC	2	0	1	1	0	0	2	0	1	1	0	0
-TGA	10	3	15	4	5	4	10	7	15	4	5	4
-TGG	2	0	2	2	0	0	2	0	2	2	0	0
-CTT	5	3	9	3	0	2	5	14	9	3	0	2
-CTC	3	0	7	4	0	2	3	5	7	4	0	2
-CTA	8	8	24	9	1	5	9	17	24	9	1	5
-CTG	0	0	1	0	0	3	0	1	1	0	0	3
-CCT	6	2	11	5	1	6	6	3	11	5	1	6
-CCC	2	2	6	1	0	1	2	2	6	1	0	1
-CCA	0	1	8	5	2	3	0	7	8	5	2	3
-CCG	1	0	0	0	0	0	1	0	0	0	0	0
-CAT	6	2	8	3	0	4	6	1	8	3	0	4
-CAC	10	1	11	4	0	1	10	4	11	4	0	1
-CAA	5	1	8	7	1	5	5	7	8	7	1	5
-CAG	1	0	0	1	0	0	1	0	0	1	0	0
-CGT	1	3	2	0	0	0	1	0	2	0	0	0
-CGC	0	0	1	0	0	0	0	0	1	0	0	0
-CGA	4	1	8	5	0	3	3	0	8	5	0	3
-CGG	0	0	0	0	0	0	1	0	0	0	0	0
-ATT	12	10	36	16	8	20	11	27	36	16	8	20
-ATC	5	5	6	5	1	10	5	12	6	5	1	10
-ATA	11	5	20	14	4	12	11	39	20	14	4	12
-ATG	2	2	6	2	1	2	2	7	6	2	1	2
-ACT	8	4	16	5	2	6	8	6	16	5	2	6
-ACC	4	1	7	4	1	4	4	7	7	4	1	4
-ACA	10	1	11	6	2	10	10	4	11	6	2	10
-ACG	1	1	1	0	0	0	1	1	1	0	0	0
-AAT	1	6	6	8	2	7	1	12	6	8	2	7
-AAC	5	1	13	3	2	6	5	11	13	3	2	6
-AAA	2	4	6	5	4	1	2	14	6	5	4	1
-AAG	0	0	1	1	1	0	0	1	1	1	1	0
-AGT	2	0	5	0	2	5	2	2	5	0	2	5
-AGC	1	1	0	1	0	0	1	2	0	1	0	0
-AGA	2	0	4	2	0	2	2	8	4	2	0	2
-AGG	0	0	1	0	0	0	0	1	1	0	0	0
-GTT	5	1	10	5	0	2	6	4	10	5	0	2
-GTC	3	1	5	0	0	2	3	2	5	0	0	2
-GTA	8	2	12	4	0	5	8	4	12	4	0	5
-GTG	0	1	3	0	0	0	0	0	3	0	0	0
-GCT	6	0	10	1	0	2	6	5	10	1	0	2
-GCC	6	1	8	6	0	2	6	1	8	6	0	2
-GCA	5	2	13	1	0	4	5	3	13	1	0	4
-GCG	0	0	0	1	0	0	0	1	0	1	0	0
-GAT	0	2	9	7	0	3	0	1	9	7	0	3
-GAC	4	1	7	5	0	4	4	0	7	5	0	4
-GAA	8	4	8	11	0	2	8	3	8	11	0	2
-GAG	0	0	1	0	0	0	0	1	1	0	0	0
-GGT	6	2	17	2	0	6	6	4	17	2	0	6
-GGC	2	1	3	0	0	1	2	0	3	0	0	1
-GGA	9	1	21	6	0	3	9	7	21	6	0	3
-GGG	2	0	2	1	0	0	2	3	2	1	0	0
-TAA	1	1	1	0	1	0	0	1	1	0	1	0
-TAG	0	0	0	0	0	1	1	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX3	YP_001425552.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	19	8	12	0	3	4	3	1	6	4	3	2	10	2	5	3	8	0	6	2	0	1	6	10	5	1	1	0	4	0	12	5	11	2	8	4	10	1	1	5	2	0	2	1	2	0	5	3	8	0	6	6	5	0	0	4	8	0	6	2	9	2	1	0
+1	ND3	YP_001425553.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	7	2	10	2	4	1	1	0	1	1	1	0	3	0	3	0	8	0	2	2	1	0	2	1	1	0	3	0	1	0	10	5	5	2	4	1	1	1	6	1	4	0	0	1	0	0	1	1	2	1	0	1	2	0	2	1	4	0	2	1	1	0	1	0
+2	COX1	YP_001425554.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	27	15	26	3	16	8	7	1	8	9	0	1	15	2	9	7	24	1	11	6	8	0	8	11	8	0	2	1	8	0	36	6	20	6	16	7	11	1	6	13	6	1	5	0	4	1	10	5	12	3	10	8	13	0	9	7	8	1	17	3	21	2	1	0
+3	COX2	YP_001425555.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	9	2	16	0	2	4	5	1	6	5	3	1	4	2	3	4	9	0	5	1	5	0	3	4	7	1	0	0	5	0	16	5	14	2	5	4	6	0	8	3	5	1	0	1	2	0	5	0	4	0	1	6	1	1	7	5	11	0	2	0	6	1	0	0
+4	ATP8	YP_001425556.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	2	1	2	0	1	3	0	0	1	1	0	0	5	0	0	0	1	0	1	0	2	0	0	0	1	0	0	0	0	0	8	1	4	1	2	1	2	0	2	2	4	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+5	ATP6	YP_001425557.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	11	7	21	0	8	7	7	0	5	4	0	0	4	0	2	2	5	3	6	1	3	0	4	1	5	0	0	0	3	0	20	10	12	2	6	4	10	0	7	6	1	0	5	0	2	0	2	2	5	0	2	2	4	0	3	4	2	0	6	1	3	0	0	1
+6	COX3	YP_001425558.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	19	8	11	0	3	4	3	1	6	4	3	2	10	2	5	3	9	0	6	2	0	1	6	10	5	1	1	0	3	1	11	5	11	2	8	4	10	1	1	5	2	0	2	1	2	0	6	3	8	0	6	6	5	0	0	4	8	0	6	2	9	2	0	1
+7	ND2	YP_001425559.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	16	6	19	1	10	8	11	1	6	7	0	0	7	0	14	5	17	1	3	2	7	0	1	4	7	0	0	0	0	0	27	12	39	7	6	7	4	1	12	11	14	1	2	2	8	1	4	2	4	0	5	1	3	1	1	0	3	1	4	0	7	3	1	0
+8	COX1	YP_001425560.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	27	15	26	3	16	8	7	1	8	9	0	1	15	2	9	7	24	1	11	6	8	0	8	11	8	0	2	1	8	0	36	6	20	6	16	7	11	1	6	13	6	1	5	0	4	1	10	5	12	3	10	8	13	0	9	7	8	1	17	3	21	2	1	0
+9	COX2	YP_001425561.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	9	2	16	0	2	4	5	1	6	5	3	1	4	2	3	4	9	0	5	1	5	0	3	4	7	1	0	0	5	0	16	5	14	2	5	4	6	0	8	3	5	1	0	1	2	0	5	0	4	0	1	6	1	1	7	5	11	0	2	0	6	1	0	0
+10	ATP8	YP_001425562.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	2	1	2	0	1	3	0	0	1	1	0	0	5	0	0	0	1	0	1	0	2	0	0	0	1	0	0	0	0	0	8	1	4	1	2	1	2	0	2	2	4	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+11	ATP6	YP_001425563.1	Dosidicus gigas	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Cephalopoda, Coleoidea, Neocoleoidea, Decapodiformes, Teuthida, Oegopsina, Ommastrephidae, Dosidicus	11	7	21	0	8	7	7	0	5	4	0	0	4	0	2	2	5	3	6	1	3	0	4	1	5	0	0	0	3	0	20	10	12	2	6	4	10	0	7	6	1	0	5	0	2	0	2	2	5	0	2	2	4	0	3	4	2	0	6	1	3	0	0	1

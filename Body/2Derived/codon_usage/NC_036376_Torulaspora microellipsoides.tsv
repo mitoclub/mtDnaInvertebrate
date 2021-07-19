@@ -1,65 +1,15 @@
-	YP_009444460.1|atp8	YP_009444461.1|atp6	YP_009444462.1|atp9	YP_009444463.1|orf390	YP_009444464.1|cox2	YP_009444465.1|cox3	YP_009444466.1|rps3	YP_009444467.1|cob	YP_009444468.1|orf343	YP_009444469.1|cox1	YP_009444470.1|orf417	YP_009444471.1|orf315	YP_009444472.1|orf324	YP_009444473.1|orf338
-TTT	6	15	1	10	9	11	7	29	12	23	21	15	13	18
-TTC	0	6	5	0	5	5	1	11	0	22	1	0	0	1
-TTA	13	53	13	50	28	41	47	45	34	69	45	33	30	45
-TTG	0	0	1	1	1	0	0	0	1	0	2	0	1	1
-TCT	1	6	1	4	3	2	8	6	8	12	13	8	11	5
-TCC	0	0	0	0	1	0	0	0	1	0	1	0	2	1
-TCA	1	7	4	2	7	8	6	18	7	27	6	6	5	4
-TCG	0	0	0	1	0	0	0	0	0	0	1	0	0	0
-TAT	4	11	1	30	14	13	29	20	22	19	30	21	34	39
-TAC	0	2	1	1	0	2	0	0	2	6	4	0	0	0
-TGT	0	3	1	2	5	1	1	4	4	1	2	3	4	2
-TGC	0	0	0	0	0	0	0	2	0	0	1	1	0	0
-TGA	0	4	0	4	5	9	3	8	4	10	5	7	0	3
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	0	0	0	9	0	0	0	0	0	2	3	3	0	2
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	0	1	0	2	0	4	2	3	5	1	5	0	2	5
-CTG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CCT	1	4	0	7	9	4	4	14	5	14	3	4	10	1
-CCC	0	0	0	0	0	0	0	0	0	1	0	0	1	2
-CCA	2	5	2	6	4	4	1	6	1	11	2	1	1	1
-CCG	0	0	0	0	0	1	0	0	0	0	0	1	0	0
-CAT	0	4	0	12	4	14	3	13	7	12	7	2	8	2
-CAC	0	0	0	0	1	0	0	0	1	2	0	0	0	0
-CAA	3	4	1	6	9	5	5	7	8	9	6	12	3	12
-CAG	0	0	0	0	0	0	0	0	0	1	2	1	0	0
-CGT	0	0	0	2	0	0	3	0	6	0	0	0	0	1
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-ATT	3	24	7	34	24	24	40	34	30	38	36	28	36	28
-ATC	0	5	2	0	3	0	4	4	3	5	1	0	2	0
-ATA	0	0	0	12	0	0	14	0	8	1	22	8	11	12
-ATG	2	6	2	3	4	8	3	13	1	21	4	2	2	1
-ACT	1	6	1	9	7	8	6	3	9	8	8	11	6	4
-ACC	0	0	0	0	0	1	0	0	1	0	2	2	0	0
-ACA	1	10	2	6	5	10	7	10	7	18	9	3	3	4
-ACG	0	0	0	0	0	0	0	0	0	0	0	1	0	1
-AAT	1	12	0	42	7	9	91	17	44	21	47	42	36	35
-AAC	0	0	2	2	4	0	0	1	1	3	2	1	0	0
-AAA	1	4	2	42	9	2	45	7	41	9	46	31	33	39
-AAG	0	0	0	0	0	0	0	0	2	1	4	0	3	1
-AGT	0	7	1	11	1	6	9	4	10	3	8	1	7	5
-AGC	0	0	0	0	0	0	0	0	1	0	0	0	1	0
-AGA	2	5	1	12	4	7	3	11	7	9	10	9	10	7
-AGG	0	0	0	0	0	0	0	0	0	0	1	0	0	1
-GTT	0	4	1	4	10	4	3	13	4	14	4	3	5	1
-GTC	0	1	0	0	0	1	0	0	0	0	0	0	1	0
-GTA	4	11	2	9	13	14	4	20	6	30	10	6	7	3
-GTG	0	0	0	0	0	1	0	1	0	1	0	0	0	0
-GCT	1	12	4	2	7	11	1	10	1	33	2	7	2	6
-GCC	0	1	1	0	0	0	0	0	0	1	1	1	0	0
-GCA	0	2	5	0	5	9	1	12	3	14	1	4	1	3
-GCG	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-GAT	0	4	1	16	14	5	4	8	6	13	16	11	9	8
-GAC	0	0	0	2	1	0	0	0	2	0	0	1	1	3
-GAA	0	3	1	18	15	8	8	6	17	10	10	8	11	14
-GAG	0	1	0	3	0	0	1	0	1	0	0	1	2	3
-GGT	0	11	5	6	7	12	6	19	7	29	7	10	8	9
-GGC	0	0	0	0	0	0	0	0	0	0	0	1	1	0
-GGA	1	5	5	5	5	5	1	6	1	13	4	4	1	2
-GGG	0	0	0	3	0	0	0	2	2	0	1	0	0	3
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	atp8	YP_009444460.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	6	0	13	0	1	0	1	0	4	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	3	0	0	0	0	0	3	0	0	2	1	0	1	0	1	0	1	0	0	0	2	0	0	0	4	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0
+1	atp6	YP_009444461.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	15	6	53	0	6	0	7	0	11	2	3	0	4	0	0	0	1	0	4	0	5	0	4	0	4	0	0	0	0	0	24	5	0	6	6	0	10	0	12	0	4	0	7	0	5	0	4	1	11	0	12	1	2	0	4	0	3	1	11	0	5	0	1	0
+2	atp9	YP_009444462.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	1	5	13	1	1	0	4	0	1	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	7	2	0	2	1	0	2	0	0	2	2	0	1	0	1	0	1	0	2	0	4	1	5	0	1	0	1	0	5	0	5	0	1	0
+3	orf390	YP_009444463.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	10	0	50	1	4	0	2	1	30	1	2	0	4	0	9	0	2	0	7	0	6	0	12	0	6	0	2	0	0	0	34	0	12	3	9	0	6	0	42	2	42	0	11	0	12	0	4	0	9	0	2	0	0	0	16	2	18	3	6	0	5	3	1	0
+4	cox2	YP_009444464.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	9	5	28	1	3	1	7	0	14	0	5	0	5	0	0	0	0	0	9	0	4	0	4	1	9	0	0	0	0	0	24	3	0	4	7	0	5	0	7	4	9	0	1	0	4	0	10	0	13	0	7	0	5	0	14	1	15	0	7	0	5	0	1	0
+5	cox3	YP_009444465.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	11	5	41	0	2	0	8	0	13	2	1	0	9	0	0	0	4	0	4	0	4	1	14	0	5	0	0	0	0	0	24	0	0	8	8	1	10	0	9	0	2	0	6	0	7	0	4	1	14	1	11	0	9	0	5	0	8	0	12	0	5	0	1	0
+6	rps3	YP_009444466.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	7	1	47	0	8	0	6	0	29	0	1	0	3	0	0	0	2	0	4	0	1	0	3	0	5	0	3	0	0	0	40	4	14	3	6	0	7	0	91	0	45	0	9	0	3	0	3	0	4	0	1	0	1	0	4	0	8	1	6	0	1	0	1	0
+7	cob	YP_009444467.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	29	11	45	0	6	0	18	0	20	0	4	2	8	0	0	0	3	0	14	0	6	0	13	0	7	0	0	0	0	0	34	4	0	13	3	0	10	0	17	1	7	0	4	0	11	0	13	0	20	1	10	0	12	0	8	0	6	0	19	0	6	2	1	0
+8	orf343	YP_009444468.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	12	0	34	1	8	1	7	0	22	2	4	0	4	0	0	0	5	0	5	0	1	0	7	1	8	0	6	0	0	0	30	3	8	1	9	1	7	0	44	1	41	2	10	1	7	0	4	0	6	0	1	0	3	0	6	2	17	1	7	0	1	2	1	0
+9	cox1	YP_009444469.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	23	22	69	0	12	0	27	0	19	6	1	0	10	0	2	0	1	0	14	1	11	0	12	2	9	1	0	0	0	0	38	5	1	21	8	0	18	0	21	3	9	1	3	0	9	0	14	0	30	1	33	1	14	0	13	0	10	0	29	0	13	0	1	0
+10	orf417	YP_009444470.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	21	1	45	2	13	1	6	1	30	4	2	1	5	0	3	0	5	0	3	0	2	0	7	0	6	2	0	0	0	0	36	1	22	4	8	2	9	0	47	2	46	4	8	0	10	1	4	0	10	0	2	1	1	1	16	0	10	0	7	0	4	1	1	0
+11	orf315	YP_009444471.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	15	0	33	0	8	0	6	0	21	0	3	1	7	0	3	0	0	0	4	0	1	1	2	0	12	1	0	0	0	1	28	0	8	2	11	2	3	1	42	1	31	0	1	0	9	0	3	0	6	0	7	1	4	0	11	1	8	1	10	1	4	0	1	0
+12	orf324	YP_009444472.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	13	0	30	1	11	2	5	0	34	0	4	0	0	0	0	0	2	0	10	1	1	0	8	0	3	0	0	0	0	0	36	2	11	2	6	0	3	0	36	0	33	3	7	1	10	0	5	1	7	0	2	0	1	0	9	1	11	2	8	1	1	0	1	0
+13	orf338	YP_009444473.1	Torulaspora microellipsoides	Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Torulaspora	18	1	45	1	5	1	4	0	39	0	2	0	3	0	2	0	5	0	1	2	1	0	2	0	12	0	1	0	0	0	28	0	12	1	4	0	4	1	35	0	39	1	5	0	7	1	1	0	3	0	6	0	3	0	8	3	14	3	9	0	2	3	1	0

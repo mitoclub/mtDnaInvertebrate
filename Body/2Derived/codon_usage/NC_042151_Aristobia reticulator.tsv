@@ -1,65 +1,10 @@
-	YP_009627345.1|COX1	YP_009627346.1|COX2	YP_009627347.1|ATP8	YP_009627348.1|ATP6	YP_009627349.1|COX3	YP_009627350.1|ND3	YP_009627354.1|ND6	YP_009627355.1|CYTB	YP_009627357.1|ND2
-TTT	34	15	4	19	17	14	18	29	35
-TTC	7	0	1	1	6	3	1	3	3
-TTA	50	15	3	33	26	15	19	31	47
-TTG	1	0	0	0	0	0	0	0	0
-TCT	8	8	5	6	5	2	3	7	11
-TCC	3	1	0	1	0	0	2	4	1
-TCA	14	7	0	5	6	5	7	6	12
-TCG	1	0	0	0	0	0	0	0	0
-TAT	15	7	5	6	10	2	6	15	9
-TAC	0	2	0	0	2	1	0	2	2
-TGT	0	2	0	1	2	2	0	3	1
-TGC	0	0	0	0	0	0	0	1	0
-TGA	14	6	3	5	13	2	2	10	8
-TGG	0	0	0	0	0	0	0	0	0
-CTT	12	7	0	2	9	1	6	13	11
-CTC	1	1	0	0	0	0	0	0	1
-CTA	3	3	2	3	2	2	6	10	3
-CTG	0	0	0	0	0	0	0	0	1
-CCT	14	6	2	4	7	3	2	17	3
-CCC	1	1	0	0	0	0	0	1	1
-CCA	10	4	0	7	2	2	1	5	4
-CCG	1	0	0	0	0	0	0	0	0
-CAT	15	5	0	6	16	1	1	9	4
-CAC	3	1	0	0	1	0	0	0	0
-CAA	8	8	1	4	5	2	4	8	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	1	0	0	1	0	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	8	5	0	3	3	2	1	6	2
-CGG	0	1	0	0	0	0	0	0	0
-ATT	39	25	8	29	23	20	27	40	51
-ATC	5	1	1	3	1	3	2	5	2
-ATA	28	10	2	11	10	2	18	13	14
-ATG	0	0	0	1	1	0	0	1	0
-ACT	14	10	0	6	9	2	2	13	12
-ACC	1	0	0	1	1	1	1	1	2
-ACA	16	7	1	10	10	1	2	8	2
-ACG	0	0	0	0	0	0	0	0	0
-AAT	18	9	6	12	8	5	11	22	27
-AAC	0	1	1	3	1	0	2	0	0
-AAA	10	9	4	4	3	6	8	12	15
-AAG	0	0	0	0	0	0	0	1	0
-AGT	4	0	0	0	0	2	1	1	2
-AGC	0	0	0	0	0	0	0	0	0
-AGA	12	2	1	9	6	0	2	4	7
-AGG	0	1	0	1	0	0	0	1	1
-GTT	20	4	0	3	5	1	1	10	1
-GTC	1	0	0	0	0	0	0	0	1
-GTA	17	9	0	3	7	1	1	10	3
-GTG	1	0	0	0	0	0	0	0	0
-GCT	17	5	1	4	2	1	1	11	4
-GCC	1	0	0	0	2	1	0	2	2
-GCA	17	2	0	3	5	2	1	6	5
-GCG	1	0	0	0	0	0	0	0	0
-GAT	15	8	0	1	4	3	0	10	0
-GAC	1	1	0	0	1	0	2	0	0
-GAA	9	9	0	4	8	4	1	3	7
-GAG	0	1	0	0	0	0	0	0	0
-GGT	9	3	0	2	4	0	1	3	1
-GGC	0	1	0	0	1	1	0	1	0
-GGA	30	5	0	8	17	2	4	19	8
-GGG	5	0	0	0	0	0	0	1	2
-TAA	1	0	1	1	1	0	1	0	1
-TAG	0	0	0	0	0	1	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009627345.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	34	7	50	1	8	3	14	1	15	0	0	0	14	0	12	1	3	0	14	1	10	1	15	3	8	0	1	0	8	0	39	5	28	0	14	1	16	0	18	0	10	0	4	0	12	0	20	1	17	1	17	1	17	1	15	1	9	0	9	0	30	5	1	0
+1	COX2	YP_009627346.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	15	0	15	0	8	1	7	0	7	2	2	0	6	0	7	1	3	0	6	1	4	0	5	1	8	0	1	0	5	1	25	1	10	0	10	0	7	0	9	1	9	0	0	0	2	1	4	0	9	0	5	0	2	0	8	1	9	1	3	1	5	0	0	0
+2	ATP8	YP_009627347.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	4	1	3	0	5	0	0	0	5	0	0	0	3	0	0	0	2	0	2	0	0	0	0	0	1	0	0	0	0	0	8	1	2	0	0	0	1	0	6	1	4	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+3	ATP6	YP_009627348.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	19	1	33	0	6	1	5	0	6	0	1	0	5	0	2	0	3	0	4	0	7	0	6	0	4	0	0	0	3	0	29	3	11	1	6	1	10	0	12	3	4	0	0	0	9	1	3	0	3	0	4	0	3	0	1	0	4	0	2	0	8	0	1	0
+4	COX3	YP_009627349.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	17	6	26	0	5	0	6	0	10	2	2	0	13	0	9	0	2	0	7	0	2	0	16	1	5	0	1	0	3	0	23	1	10	1	9	1	10	0	8	1	3	0	0	0	6	0	5	0	7	0	2	2	5	0	4	1	8	0	4	1	17	0	1	0
+5	ND3	YP_009627350.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	14	3	15	0	2	0	5	0	2	1	2	0	2	0	1	0	2	0	3	0	2	0	1	0	2	0	0	0	2	0	20	3	2	0	2	1	1	0	5	0	6	0	2	0	0	0	1	0	1	0	1	1	2	0	3	0	4	0	0	1	2	0	0	1
+6	ND6	YP_009627354.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	18	1	19	0	3	2	7	0	6	0	0	0	2	0	6	0	6	0	2	0	1	0	1	0	4	0	0	0	1	0	27	2	18	0	2	1	2	0	11	2	8	0	1	0	2	0	1	0	1	0	1	0	1	0	0	2	1	0	1	0	4	0	1	0
+7	CYTB	YP_009627355.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	29	3	31	0	7	4	6	0	15	2	3	1	10	0	13	0	10	0	17	1	5	0	9	0	8	0	1	0	6	0	40	5	13	1	13	1	8	0	22	0	12	1	1	0	4	1	10	0	10	0	11	2	6	0	10	0	3	0	3	1	19	1	0	1
+8	ND2	YP_009627357.1	Aristobia reticulator	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Chrysomeloidea, Cerambycidae, Lamiinae, Lamiini, Aristobia	35	3	47	0	11	1	12	0	9	2	1	0	8	0	11	1	3	1	3	1	4	0	4	0	8	0	0	0	2	0	51	2	14	0	12	2	2	0	27	0	15	0	2	0	7	1	1	1	3	0	4	2	5	0	0	0	7	0	1	0	8	2	1	0

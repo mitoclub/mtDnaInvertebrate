@@ -1,65 +1,10 @@
-	YP_009689591.1|ND2	YP_009689592.1|COX1	YP_009689593.1|COX2	YP_009689594.1|ATP8	YP_009689595.1|ATP6	YP_009689596.1|COX3	YP_009689597.1|ND3	YP_009689601.1|ND6	YP_009689602.1|CYTB
-TTT	20	35	11	6	17	18	12	10	23
-TTC	11	7	4	1	3	8	3	3	5
-TTA	29	22	14	3	23	13	4	13	28
-TTG	6	8	2	1	5	4	3	5	5
-TCT	12	11	8	0	7	4	2	4	8
-TCC	4	2	0	0	1	1	1	0	1
-TCA	11	7	4	2	4	2	3	4	4
-TCG	3	3	0	0	2	2	0	0	1
-TAT	9	12	6	3	4	5	2	6	11
-TAC	3	3	1	0	1	4	2	3	7
-TGT	2	0	1	1	2	0	0	2	2
-TGC	1	0	1	0	1	3	1	2	1
-TGA	6	13	5	3	5	8	3	2	10
-TGG	3	2	1	0	0	5	0	2	2
-CTT	10	11	9	1	5	2	6	2	4
-CTC	2	3	0	0	1	2	0	3	1
-CTA	17	16	10	1	5	8	5	11	21
-CTG	4	3	1	0	2	0	0	4	1
-CCT	4	14	6	1	4	5	2	2	7
-CCC	6	2	1	1	5	3	0	3	3
-CCA	2	7	2	1	2	1	2	1	11
-CCG	0	3	1	0	0	1	1	0	1
-CAT	3	12	2	0	3	9	0	0	8
-CAC	1	8	3	1	4	5	1	2	5
-CAA	6	5	8	3	5	9	1	3	6
-CAG	1	2	1	0	2	2	0	0	1
-CGT	1	4	0	0	0	1	1	0	1
-CGC	0	0	1	0	0	0	1	1	0
-CGA	2	6	4	0	2	2	1	0	7
-CGG	0	1	2	0	1	1	0	0	0
-ATT	24	36	12	5	15	14	6	8	28
-ATC	10	11	8	1	3	4	4	7	10
-ATA	16	21	6	2	10	6	8	10	14
-ATG	3	4	1	0	2	3	0	2	2
-ACT	2	10	2	1	7	7	1	3	7
-ACC	5	7	3	0	3	5	1	2	5
-ACA	4	16	7	1	6	6	2	2	7
-ACG	0	3	1	0	1	0	0	0	1
-AAT	14	6	6	2	5	4	2	3	11
-AAC	7	9	6	3	7	3	2	6	7
-AAA	12	3	1	2	1	2	3	3	5
-AAG	1	2	2	0	0	0	0	1	1
-AGT	3	5	3	0	4	1	1	4	2
-AGC	1	2	2	1	1	3	1	2	3
-AGA	9	4	2	0	6	1	2	6	2
-AGG	0	0	0	0	0	0	0	0	1
-GTT	3	8	4	1	0	3	1	0	8
-GTC	0	3	1	0	1	2	0	1	1
-GTA	3	14	9	0	8	11	3	5	11
-GTG	4	8	0	0	1	2	1	0	1
-GCT	8	19	4	0	3	6	4	1	11
-GCC	5	4	2	1	1	7	1	1	3
-GCA	4	16	4	2	5	6	3	1	7
-GCG	1	5	0	0	2	3	1	0	0
-GAT	0	8	7	0	0	5	3	2	8
-GAC	0	8	4	0	1	0	1	0	4
-GAA	2	4	9	0	3	4	4	2	3
-GAG	1	4	0	0	1	4	1	0	1
-GGT	0	6	1	1	2	4	0	1	3
-GGC	4	11	3	0	1	5	1	0	4
-GGA	3	19	1	0	4	9	0	1	10
-GGG	7	14	6	0	2	4	3	4	10
-TAA	1	0	1	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009689591.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	20	11	29	6	12	4	11	3	9	3	2	1	6	3	10	2	17	4	4	6	2	0	3	1	6	1	1	0	2	0	24	10	16	3	2	5	4	0	14	7	12	1	3	1	9	0	3	0	3	4	8	5	4	1	0	0	2	1	0	4	3	7	1	0
+1	COX1	YP_009689592.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	35	7	22	8	11	2	7	3	12	3	0	0	13	2	11	3	16	3	14	2	7	3	12	8	5	2	4	0	6	1	36	11	21	4	10	7	16	3	6	9	3	2	5	2	4	0	8	3	14	8	19	4	16	5	8	8	4	4	6	11	19	14	0	0
+2	COX2	YP_009689593.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	11	4	14	2	8	0	4	0	6	1	1	1	5	1	9	0	10	1	6	1	2	1	2	3	8	1	0	1	4	2	12	8	6	1	2	3	7	1	6	6	1	2	3	2	2	0	4	1	9	0	4	2	4	0	7	4	9	0	1	3	1	6	1	0
+3	ATP8	YP_009689594.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	6	1	3	1	0	0	2	0	3	0	1	0	3	0	1	0	1	0	1	1	1	0	0	1	3	0	0	0	0	0	5	1	2	0	1	0	1	0	2	3	2	0	0	1	0	0	1	0	0	0	0	1	2	0	0	0	0	0	1	0	0	0	1	0
+4	ATP6	YP_009689595.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	17	3	23	5	7	1	4	2	4	1	2	1	5	0	5	1	5	2	4	5	2	0	3	4	5	2	0	0	2	1	15	3	10	2	7	3	6	1	5	7	1	0	4	1	6	0	0	1	8	1	3	1	5	2	0	1	3	1	2	1	4	2	1	0
+5	COX3	YP_009689596.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	18	8	13	4	4	1	2	2	5	4	0	3	8	5	2	2	8	0	5	3	1	1	9	5	9	2	1	0	2	1	14	4	6	3	7	5	6	0	4	3	2	0	1	3	1	0	3	2	11	2	6	7	6	3	5	0	4	4	4	5	9	4	1	0
+6	ND3	YP_009689597.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	12	3	4	3	2	1	3	0	2	2	0	1	3	0	6	0	5	0	2	0	2	1	0	1	1	0	1	1	1	0	6	4	8	0	1	1	2	0	2	2	3	0	1	1	2	0	1	0	3	1	4	1	3	1	3	1	4	1	0	1	0	3	1	0
+7	ND6	YP_009689601.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	10	3	13	5	4	0	4	0	6	3	2	2	2	2	2	3	11	4	2	3	1	0	0	2	3	0	0	1	0	0	8	7	10	2	3	2	2	0	3	6	3	1	4	2	6	0	0	1	5	0	1	1	1	0	2	0	2	0	1	0	1	4	1	0
+8	CYTB	YP_009689602.1	Lepidurus arcticus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Branchiopoda, Notostraca, Triopsidae, Lepidurus	23	5	28	5	8	1	4	1	11	7	2	1	10	2	4	1	21	1	7	3	11	1	8	5	6	1	1	0	7	0	28	10	14	2	7	5	7	1	11	7	5	1	2	3	2	1	8	1	11	1	11	3	7	0	8	4	3	1	3	4	10	10	1	0

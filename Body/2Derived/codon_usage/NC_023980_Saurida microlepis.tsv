@@ -1,65 +1,13 @@
-	YP_009025113.1|ND1	YP_009025114.1|ND2	YP_009025115.1|COX1	YP_009025116.1|COX2	YP_009025117.1|ATP8	YP_009025118.1|ATP6	YP_009025119.1|COX3	YP_009025120.1|ND3	YP_009025121.1|ND4L	YP_009025122.1|ND4	YP_009025123.1|ND5	YP_009025125.1|CYTB
-TTT	11	4	22	3	3	9	9	3	4	6	20	10
-TTC	7	12	20	6	1	7	15	4	2	12	19	21
-TTA	4	5	3	5	3	6	3	2	1	7	11	6
-TTG	4	3	2	0	0	1	0	0	0	1	4	1
-TCT	4	3	4	3	0	0	3	2	1	6	6	6
-TCC	8	18	9	6	1	4	3	4	4	13	18	11
-TCA	3	1	6	3	0	1	5	1	1	2	8	1
-TCG	2	2	2	1	0	0	1	0	0	1	1	0
-TAT	5	0	6	6	0	0	5	0	0	2	2	6
-TAC	7	5	12	3	0	3	8	2	1	11	7	9
-TGT	0	0	0	0	0	0	0	0	2	1	1	0
-TGC	0	0	1	2	0	0	2	1	1	4	5	3
-TGA	6	6	10	3	5	4	11	4	1	13	10	9
-TGG	2	5	7	2	0	1	1	1	0	6	5	3
-CTT	16	22	21	6	1	18	8	9	7	26	28	14
-CTC	21	29	13	8	1	15	14	9	5	35	32	18
-CTA	16	12	14	7	1	9	4	8	10	23	25	17
-CTG	3	6	7	2	0	2	2	2	1	7	6	1
-CCT	3	4	8	2	3	3	6	1	1	4	2	4
-CCC	18	12	12	8	3	13	5	4	1	16	16	13
-CCA	2	3	5	3	3	1	0	1	0	3	8	0
-CCG	1	2	3	1	1	1	1	2	0	5	4	4
-CAT	1	1	5	3	1	0	4	0	3	3	5	2
-CAC	1	7	14	7	2	3	12	0	2	9	14	10
-CAA	6	9	6	8	2	9	8	1	2	7	12	3
-CAG	1	3	2	0	0	1	1	2	1	4	4	2
-CGT	0	0	2	1	0	0	0	0	0	1	0	1
-CGC	1	0	2	1	0	1	1	2	1	4	4	3
-CGA	6	2	2	3	0	4	3	0	1	5	5	2
-CGG	1	2	2	1	0	1	1	0	0	1	1	2
-ATT	16	11	26	11	1	11	7	6	1	20	25	16
-ATC	12	9	15	10	1	9	8	2	2	20	22	14
-ATA	5	6	11	9	0	7	3	0	2	14	18	7
-ATG	5	5	13	2	1	4	4	2	2	5	6	5
-ACT	5	4	7	1	0	2	5	0	1	5	7	4
-ACC	13	25	12	6	1	8	7	7	8	24	31	12
-ACA	4	10	14	4	4	11	9	2	2	13	17	6
-ACG	0	1	3	0	0	2	2	0	0	1	5	1
-AAT	6	2	3	1	0	3	0	0	0	3	10	3
-AAC	5	9	11	4	4	5	1	1	1	10	25	13
-AAA	4	7	8	3	2	1	1	1	0	7	14	7
-AAG	3	2	1	1	1	0	1	0	0	3	6	2
-AGT	2	0	1	1	0	1	1	0	0	1	2	0
-AGC	2	7	4	2	1	3	3	1	3	5	12	0
-GTT	4	3	14	4	0	4	8	1	0	4	6	9
-GTC	6	5	11	8	1	4	5	4	1	6	6	10
-GTA	3	2	13	6	2	0	3	0	0	3	9	9
-GTG	1	1	4	0	0	2	1	0	0	0	4	3
-GCT	0	5	6	4	0	4	2	1	1	4	7	10
-GCC	25	25	25	6	2	9	12	2	9	20	37	14
-GCA	9	10	17	5	0	3	7	4	2	8	7	8
-GCG	1	0	3	1	0	1	0	0	1	1	3	1
-GAT	1	0	5	4	0	1	1	0	0	0	5	3
-GAC	3	1	9	9	1	0	5	5	1	3	6	8
-GAA	8	4	7	13	2	3	6	5	1	13	10	6
-GAG	3	1	4	2	0	1	2	1	2	0	3	1
-GGT	1	1	9	1	0	2	5	0	0	4	1	2
-GGC	7	11	13	5	0	6	9	2	2	12	11	10
-GGA	5	2	12	2	0	2	3	3	2	8	11	11
-GGG	5	2	13	1	0	1	4	1	1	5	4	3
-TAA	1	0	1	0	1	0	0	0	1	0	0	0
-TAG	0	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009025113.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	11	7	4	4	4	8	3	2	5	7	0	0	6	2	16	21	16	3	3	18	2	1	1	1	6	1	0	1	6	1	16	12	5	5	5	13	4	0	6	5	4	3	2	2	4	6	3	1	0	25	9	1	1	3	8	3	1	7	5	5	1	0	0	0
+1	ND2	YP_009025114.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	4	12	5	3	3	18	1	2	0	5	0	0	6	5	22	29	12	6	4	12	3	2	1	7	9	3	0	0	2	2	11	9	6	5	4	25	10	1	2	9	7	2	0	7	3	5	2	1	5	25	10	0	0	1	4	1	1	11	2	2	0	0	0	0
+2	COX1	YP_009025115.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	22	20	3	2	4	9	6	2	6	12	0	1	10	7	21	13	14	7	8	12	5	3	5	14	6	2	2	2	2	2	26	15	11	13	7	12	14	3	3	11	8	1	1	4	14	11	13	4	6	25	17	3	5	9	7	4	9	13	12	13	1	0	0	0
+3	COX2	YP_009025116.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	3	6	5	0	3	6	3	1	6	3	0	2	3	2	6	8	7	2	2	8	3	1	3	7	8	0	1	1	3	1	11	10	9	2	1	6	4	0	1	4	3	1	1	2	4	8	6	0	4	6	5	1	4	9	13	2	1	5	2	1	0	0	0	0
+4	ATP8	YP_009025117.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	3	1	3	0	0	1	0	0	0	0	0	0	5	0	1	1	1	0	3	3	3	1	1	2	2	0	0	0	0	0	1	1	0	1	0	1	4	0	0	4	2	1	0	1	0	1	2	0	0	2	0	0	0	1	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009025118.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	9	7	6	1	0	4	1	0	0	3	0	0	4	1	18	15	9	2	3	13	1	1	0	3	9	1	0	1	4	1	11	9	7	4	2	8	11	2	3	5	1	0	1	3	4	4	0	2	4	9	3	1	1	0	3	1	2	6	2	1	0	0	0	0
+6	COX3	YP_009025119.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	9	15	3	0	3	3	5	1	5	8	0	2	11	1	8	14	4	2	6	5	0	1	4	12	8	1	0	1	3	1	7	8	3	4	5	7	9	2	0	1	1	1	1	3	8	5	3	1	2	12	7	0	1	5	6	2	5	9	3	4	0	0	0	0
+7	ND3	YP_009025120.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	3	4	2	0	2	4	1	0	0	2	0	1	4	1	9	9	8	2	1	4	1	2	0	0	1	2	0	2	0	0	6	2	0	2	0	7	2	0	0	1	1	0	0	1	1	4	0	0	1	2	4	0	0	5	5	1	0	2	3	1	0	0	0	0
+8	ND4L	YP_009025121.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	4	2	1	0	1	4	1	0	0	1	2	1	1	0	7	5	10	1	1	1	0	0	3	2	2	1	0	1	1	0	1	2	2	2	1	8	2	0	0	1	0	0	0	3	0	1	0	0	1	9	2	1	0	1	1	2	0	2	2	1	1	0	0	0
+9	ND4	YP_009025122.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	6	12	7	1	6	13	2	1	2	11	1	4	13	6	26	35	23	7	4	16	3	5	3	9	7	4	1	4	5	1	20	20	14	5	5	24	13	1	3	10	7	3	1	5	4	6	3	0	4	20	8	1	0	3	13	0	4	12	8	5	0	0	0	0
+10	ND5	YP_009025123.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	20	19	11	4	6	18	8	1	2	7	1	5	10	5	28	32	25	6	2	16	8	4	5	14	12	4	0	4	5	1	25	22	18	6	7	31	17	5	10	25	14	6	2	12	6	6	9	4	7	37	7	3	5	6	10	3	1	11	11	4	0	1	0	0
+11	CYTB	YP_009025125.1	Saurida microlepis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Aulopa, Aulopiformes, Aulopoidei, Synodontidae, Harpadontinae, Saurida	10	21	6	1	6	11	1	0	6	9	0	3	9	3	14	18	17	1	4	13	0	4	2	10	3	2	1	3	2	2	16	14	7	5	4	12	6	1	3	13	7	2	0	0	9	10	9	3	10	14	8	1	3	8	6	1	2	10	11	3	0	0	0	0

@@ -1,65 +1,14 @@
-	YP_009740320.1|COX1	YP_009740321.1|ND4	YP_009740322.1|ND3	YP_009740323.1|ND4L	YP_009740324.1|ND1	YP_009740325.1|ND5	YP_009740326.1|CYTB	YP_009740327.1|COX2	YP_009740328.1|ATP8	YP_009740329.1|ND6	YP_009740330.1|ATP6	YP_009740331.1|COX3	YP_009740332.1|ND2
-TTT	35	30	7	10	20	30	24	14	4	11	27	21	34
-TTC	10	10	6	0	8	11	4	1	0	1	2	5	5
-TTA	29	38	14	10	27	42	29	14	3	16	19	17	40
-TTG	4	9	2	1	6	13	2	2	0	2	2	6	3
-TCT	10	13	2	3	6	18	6	7	0	2	4	6	11
-TCC	1	0	0	2	1	5	2	1	0	1	0	1	1
-TCA	8	5	0	0	4	11	2	6	0	1	2	5	7
-TCG	0	2	0	1	0	2	3	0	0	0	1	1	0
-TAT	18	7	6	1	11	17	26	9	1	7	6	11	10
-TAC	2	8	0	1	4	9	6	8	1	2	1	2	3
-TGT	5	16	1	2	7	9	4	5	2	5	7	6	6
-TGC	0	2	1	0	1	2	0	2	0	0	1	0	0
-TGA	8	7	2	0	4	6	6	7	2	1	2	9	5
-TGG	7	6	0	0	1	2	6	4	2	1	3	5	4
-CTT	16	9	2	5	11	10	6	4	0	3	9	2	5
-CTC	0	0	0	0	1	1	2	0	0	1	1	2	1
-CTA	4	15	2	4	5	5	5	2	1	1	1	2	3
-CTG	1	2	0	1	1	2	1	1	1	2	0	0	2
-CCT	20	8	2	0	8	7	15	7	1	5	4	8	8
-CCC	1	3	0	0	1	5	2	1	0	0	0	2	1
-CCA	7	2	0	0	2	0	1	2	0	1	0	3	1
-CCG	1	1	0	0	0	0	3	0	1	0	0	0	2
-CAT	18	3	1	0	2	2	12	6	0	3	3	6	1
-CAC	7	3	0	1	0	1	6	2	0	0	0	4	1
-CAA	1	3	1	1	4	6	5	4	1	3	2	1	3
-CAG	3	2	0	0	1	1	5	2	0	1	1	0	2
-CGT	3	2	1	1	2	2	3	2	0	1	2	6	1
-CGC	0	1	1	1	0	0	1	0	0	0	0	0	0
-CGA	5	0	1	0	2	1	2	2	0	0	1	3	0
-CGG	4	3	1	0	5	1	3	1	0	0	1	1	0
-ATT	27	20	10	6	16	26	24	19	4	5	14	16	19
-ATC	2	7	1	1	2	7	1	1	0	0	3	3	1
-ATA	21	25	4	3	13	30	22	12	1	10	13	10	8
-ATG	7	3	0	0	2	8	2	3	1	1	2	0	6
-ACT	16	6	3	1	5	18	10	4	0	1	4	6	9
-ACC	2	1	0	1	1	0	0	2	0	0	1	1	2
-ACA	6	1	0	0	2	3	5	4	0	3	4	3	4
-ACG	1	1	0	0	0	2	0	0	0	0	0	1	0
-AAT	13	9	1	2	2	12	14	9	1	1	5	11	5
-AAC	2	2	0	0	2	5	1	2	0	0	1	2	2
-AAA	1	1	0	1	0	3	0	0	0	2	0	0	1
-AAG	9	6	2	1	7	10	8	9	1	3	4	5	7
-AGT	5	6	3	4	7	12	7	8	0	8	5	4	9
-AGC	2	5	2	0	2	3	3	2	1	1	1	3	3
-AGA	9	12	0	3	7	17	3	1	1	3	5	1	8
-AGG	6	12	1	3	4	12	6	3	1	4	5	2	4
-GTT	32	15	8	2	14	22	13	13	3	8	9	13	12
-GTC	1	2	0	0	3	5	0	2	1	2	1	1	1
-GTA	15	17	2	6	17	16	11	5	1	10	9	7	10
-GTG	2	5	3	2	4	9	8	6	0	6	2	4	8
-GCT	20	11	3	1	7	9	13	3	3	5	16	12	7
-GCC	4	1	0	0	1	4	3	1	0	0	1	4	1
-GCA	9	4	1	1	5	6	9	3	0	1	0	12	2
-GCG	1	1	0	1	0	4	2	1	0	0	0	1	0
-GAT	10	8	3	1	4	15	9	14	0	0	3	2	1
-GAC	1	2	0	0	1	1	2	1	0	2	2	3	1
-GAA	6	3	4	2	8	4	1	7	2	1	2	6	2
-GAG	6	5	2	1	5	3	7	7	0	3	2	1	2
-GGT	25	18	4	2	8	14	17	12	1	11	11	14	14
-GGC	3	4	1	1	1	3	2	4	0	0	3	1	0
-GGA	13	7	2	1	6	18	10	9	0	4	2	7	11
-GGG	12	10	2	4	6	9	6	3	0	3	5	2	11
-TAA	1	0	1	1	0	0	1	1	0	1	0	0	1
-TAG	0	1	0	0	1	0	0	0	1	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009740320.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	35	10	29	4	10	1	8	0	18	2	5	0	8	7	16	0	4	1	20	1	7	1	18	7	1	3	3	0	5	4	27	2	21	7	16	2	6	1	13	2	1	9	5	2	9	6	32	1	15	2	20	4	9	1	10	1	6	6	25	3	13	12	1	0
+1	ND4	YP_009740321.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	30	10	38	9	13	0	5	2	7	8	16	2	7	6	9	0	15	2	8	3	2	1	3	3	3	2	2	1	0	3	20	7	25	3	6	1	1	1	9	2	1	6	6	5	12	12	15	2	17	5	11	1	4	1	8	2	3	5	18	4	7	10	0	1
+2	ND3	YP_009740322.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	7	6	14	2	2	0	0	0	6	0	1	1	2	0	2	0	2	0	2	0	0	0	1	0	1	0	1	1	1	1	10	1	4	0	3	0	0	0	1	0	0	2	3	2	0	1	8	0	2	3	3	0	1	0	3	0	4	2	4	1	2	2	1	0
+3	ND4L	YP_009740323.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	10	0	10	1	3	2	0	1	1	1	2	0	0	0	5	0	4	1	0	0	0	0	0	1	1	0	1	1	0	0	6	1	3	0	1	1	0	0	2	0	1	1	4	0	3	3	2	0	6	2	1	0	1	1	1	0	2	1	2	1	1	4	1	0
+4	ND1	YP_009740324.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	20	8	27	6	6	1	4	0	11	4	7	1	4	1	11	1	5	1	8	1	2	0	2	0	4	1	2	0	2	5	16	2	13	2	5	1	2	0	2	2	0	7	7	2	7	4	14	3	17	4	7	1	5	0	4	1	8	5	8	1	6	6	0	1
+5	ND5	YP_009740325.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	30	11	42	13	18	5	11	2	17	9	9	2	6	2	10	1	5	2	7	5	0	0	2	1	6	1	2	0	1	1	26	7	30	8	18	0	3	2	12	5	3	10	12	3	17	12	22	5	16	9	9	4	6	4	15	1	4	3	14	3	18	9	0	0
+6	CYTB	YP_009740326.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	24	4	29	2	6	2	2	3	26	6	4	0	6	6	6	2	5	1	15	2	1	3	12	6	5	5	3	1	2	3	24	1	22	2	10	0	5	0	14	1	0	8	7	3	3	6	13	0	11	8	13	3	9	2	9	2	1	7	17	2	10	6	1	0
+7	COX2	YP_009740327.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	14	1	14	2	7	1	6	0	9	8	5	2	7	4	4	0	2	1	7	1	2	0	6	2	4	2	2	0	2	1	19	1	12	3	4	2	4	0	9	2	0	9	8	2	1	3	13	2	5	6	3	1	3	1	14	1	7	7	12	4	9	3	1	0
+8	ATP8	YP_009740328.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	4	0	3	0	0	0	0	0	1	1	2	0	2	2	0	0	1	1	1	0	0	1	0	0	1	0	0	0	0	0	4	0	1	1	0	0	0	0	1	0	0	1	0	1	1	1	3	1	1	0	3	0	0	0	0	0	2	0	1	0	0	0	0	1
+9	ND6	YP_009740329.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	11	1	16	2	2	1	1	0	7	2	5	0	1	1	3	1	1	2	5	0	1	0	3	0	3	1	1	0	0	0	5	0	10	1	1	0	3	0	1	0	2	3	8	1	3	4	8	2	10	6	5	0	1	0	0	2	1	3	11	0	4	3	1	0
+10	ATP6	YP_009740330.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	27	2	19	2	4	0	2	1	6	1	7	1	2	3	9	1	1	0	4	0	0	0	3	0	2	1	2	0	1	1	14	3	13	2	4	1	4	0	5	1	0	4	5	1	5	5	9	1	9	2	16	1	0	0	3	2	2	2	11	3	2	5	0	1
+11	COX3	YP_009740331.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	21	5	17	6	6	1	5	1	11	2	6	0	9	5	2	2	2	0	8	2	3	0	6	4	1	0	6	0	3	1	16	3	10	0	6	1	3	1	11	2	0	5	4	3	1	2	13	1	7	4	12	4	12	1	2	3	6	1	14	1	7	2	0	1
+12	ND2	YP_009740332.1	Scrobicularia plana	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Tellinoidea, Scrobiculariidae, Scrobicularia	34	5	40	3	11	1	7	0	10	3	6	0	5	4	5	1	3	2	8	1	1	2	1	1	3	2	1	0	0	0	19	1	8	6	9	2	4	0	5	2	1	7	9	3	8	4	12	1	10	8	7	1	2	0	1	1	2	2	14	0	11	11	1	0

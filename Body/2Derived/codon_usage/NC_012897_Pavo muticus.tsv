@@ -1,65 +1,13 @@
-	YP_003002007.1|ND1	YP_003002008.1|ND2	YP_003002009.1|COX1	YP_003002010.1|COX2	YP_003002011.1|ATP8	YP_003002012.1|ATP6	YP_003002013.1|COX3	YP_003002014.1|ND3	YP_003002015.1|ND4L	YP_003002016.1|ND4	YP_003002017.1|ND5	YP_003002018.1|CYTB
-TTT	8	5	20	6	1	1	4	2	2	2	7	6
-TTC	14	8	23	2	3	9	20	6	6	13	26	23
-TTA	12	4	13	3	1	7	3	1	2	10	12	5
-TTG	2	0	0	0	0	0	0	1	0	1	0	0
-TCT	3	3	6	3	1	1	2	1	5	5	4	1
-TCC	10	14	4	5	1	6	4	2	0	13	16	14
-TCA	10	15	13	9	1	4	9	3	4	9	15	11
-TCG	0	0	1	0	0	0	0	0	0	2	2	0
-TAT	5	0	10	1	0	1	2	1	1	6	5	3
-TAC	10	5	7	7	0	3	7	1	0	8	7	10
-TGT	0	1	0	1	0	0	0	0	1	1	1	1
-TGC	1	0	1	2	0	0	1	1	2	2	5	2
-TGA	4	10	14	5	5	4	11	5	1	12	11	11
-TGG	4	0	3	0	0	0	1	0	0	0	1	0
-CTT	6	10	11	6	2	13	6	3	1	16	18	6
-CTC	14	17	12	5	2	12	7	11	4	20	28	23
-CTA	24	33	23	15	3	22	16	11	8	44	38	27
-CTG	1	2	4	1	0	7	1	0	3	4	9	1
-CCT	5	1	5	1	1	5	1	0	1	4	3	3
-CCC	9	8	10	8	2	2	4	2	2	15	13	8
-CCA	13	10	15	4	5	11	6	5	2	14	14	13
-CCG	0	0	1	0	0	0	0	0	0	0	1	1
-CAT	2	4	4	2	0	2	5	0	1	5	1	2
-CAC	1	5	15	7	0	2	12	0	5	11	12	11
-CAA	4	10	8	6	1	7	7	4	2	9	16	7
-CAG	1	1	1	1	1	2	0	0	0	1	3	1
-CGT	1	0	1	1	0	1	1	0	0	2	1	2
-CGC	1	2	2	1	0	1	0	0	0	3	2	1
-CGA	5	2	5	3	0	3	4	2	2	5	3	4
-CGG	0	0	0	0	0	0	0	0	0	1	0	1
-ATT	9	8	17	7	2	5	4	2	1	17	15	7
-ATC	12	24	23	9	1	15	11	5	3	26	47	28
-ATA	8	16	21	8	1	6	9	4	5	22	24	7
-ATG	7	3	5	2	2	1	1	1	1	3	6	2
-ACT	5	7	11	4	2	4	3	3	1	13	5	4
-ACC	13	18	15	6	5	11	7	5	3	20	32	10
-ACA	8	18	13	5	3	10	10	5	3	19	31	10
-ACG	0	3	0	0	0	0	0	0	0	0	1	0
-AAT	2	2	1	1	1	1	0	0	0	1	7	6
-AAC	6	10	14	3	4	8	5	2	3	12	18	15
-AAA	4	13	9	4	3	3	4	1	0	11	23	10
-AAG	3	0	0	2	0	0	0	0	0	0	1	0
-AGT	2	0	0	0	0	0	2	0	1	0	1	1
-AGC	9	6	3	2	0	3	3	1	3	9	8	1
-GTT	2	2	6	5	0	1	1	0	1	0	1	2
-GTC	4	1	12	3	0	0	7	0	0	2	3	1
-GTA	3	2	15	8	0	5	4	1	2	6	4	13
-GTG	2	0	1	2	0	0	1	0	0	0	0	0
-GCT	4	1	11	5	0	3	3	2	0	4	10	4
-GCC	19	11	18	5	0	8	10	4	5	13	25	11
-GCA	5	13	16	5	0	3	11	4	3	11	15	13
-GCG	0	0	1	0	0	0	0	0	0	0	0	0
-GAT	1	0	5	6	0	1	1	1	0	1	0	1
-GAC	2	1	10	8	0	0	3	2	1	1	8	5
-GAA	11	4	9	13	0	4	8	5	2	11	14	7
-GAG	1	1	1	1	0	0	0	1	1	0	0	0
-GGT	0	1	3	0	0	0	2	0	0	2	2	3
-GGC	4	7	16	2	0	6	6	1	3	10	13	11
-GGA	7	3	23	6	0	3	11	1	1	7	15	8
-GGG	1	1	5	0	0	0	0	3	0	0	2	2
-TAA	1	0	0	1	1	1	0	1	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_003002007.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	8	14	12	2	3	10	10	0	5	10	0	1	4	4	6	14	24	1	5	9	13	0	2	1	4	1	1	1	5	0	9	12	8	7	5	13	8	0	2	6	4	3	2	9	2	4	3	2	4	19	5	0	1	2	11	1	0	4	7	1	1	0	0	0
+1	ND2	YP_003002008.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	5	8	4	0	3	14	15	0	0	5	1	0	10	0	10	17	33	2	1	8	10	0	4	5	10	1	0	2	2	0	8	24	16	3	7	18	18	3	2	10	13	0	0	6	2	1	2	0	1	11	13	0	0	1	4	1	1	7	3	1	0	0	0	0
+2	COX1	YP_003002009.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	20	23	13	0	6	4	13	1	10	7	0	1	14	3	11	12	23	4	5	10	15	1	4	15	8	1	1	2	5	0	17	23	21	5	11	15	13	0	1	14	9	0	0	3	6	12	15	1	11	18	16	1	5	10	9	1	3	16	23	5	0	0	0	1
+3	COX2	YP_003002010.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	6	2	3	0	3	5	9	0	1	7	1	2	5	0	6	5	15	1	1	8	4	0	2	7	6	1	1	1	3	0	7	9	8	2	4	6	5	0	1	3	4	2	0	2	5	3	8	2	5	5	5	0	6	8	13	1	0	2	6	0	1	0	0	0
+4	ATP8	YP_003002011.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	1	3	1	0	1	1	1	0	0	0	0	0	5	0	2	2	3	0	1	2	5	0	0	0	1	1	0	0	0	0	2	1	1	2	2	5	3	0	1	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_003002012.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	1	9	7	0	1	6	4	0	1	3	0	0	4	0	13	12	22	7	5	2	11	0	2	2	7	2	1	1	3	0	5	15	6	1	4	11	10	0	1	8	3	0	0	3	1	0	5	0	3	8	3	0	1	0	4	0	0	6	3	0	1	0	0	0
+6	COX3	YP_003002013.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	4	20	3	0	2	4	9	0	2	7	0	1	11	1	6	7	16	1	1	4	6	0	5	12	7	0	1	0	4	0	4	11	9	1	3	7	10	0	0	5	4	0	2	3	1	7	4	1	3	10	11	0	1	3	8	0	2	6	11	0	0	0	0	0
+7	ND3	YP_003002014.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	2	6	1	1	1	2	3	0	1	1	0	1	5	0	3	11	11	0	0	2	5	0	0	0	4	0	0	0	2	0	2	5	4	1	3	5	5	0	0	2	1	0	0	1	0	0	1	0	2	4	4	0	1	2	5	1	0	1	1	3	1	0	0	0
+8	ND4L	YP_003002015.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	2	6	2	0	5	0	4	0	1	0	1	2	1	0	1	4	8	3	1	2	2	0	1	5	2	0	0	0	2	0	1	3	5	1	1	3	3	0	0	3	0	0	1	3	1	0	2	0	0	5	3	0	0	1	2	1	0	3	1	0	1	0	0	0
+9	ND4	YP_003002016.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	2	13	10	1	5	13	9	2	6	8	1	2	12	0	16	20	44	4	4	15	14	0	5	11	9	1	2	3	5	1	17	26	22	3	13	20	19	0	1	12	11	0	0	9	0	2	6	0	4	13	11	0	1	1	11	0	2	10	7	0	0	0	0	0
+10	ND5	YP_003002017.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	7	26	12	0	4	16	15	2	5	7	1	5	11	1	18	28	38	9	3	13	14	1	1	12	16	3	1	2	3	0	15	47	24	6	5	32	31	1	7	18	23	1	1	8	1	3	4	0	10	25	15	0	0	8	14	0	2	13	15	2	1	0	0	0
+11	CYTB	YP_003002018.1	Pavo muticus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Galloanserae, Galliformes, Phasianidae, Phasianinae, Pavo	6	23	5	0	1	14	11	0	3	10	1	2	11	0	6	23	27	1	3	8	13	1	2	11	7	1	2	1	4	1	7	28	7	2	4	10	10	0	6	15	10	0	1	1	2	1	13	0	4	11	13	0	1	5	7	0	3	11	8	2	1	0	0	0

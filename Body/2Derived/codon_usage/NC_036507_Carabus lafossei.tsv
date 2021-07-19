@@ -1,65 +1,10 @@
-	YP_009447600.1|ND2	YP_009447601.1|COX1	YP_009447602.1|COX2	YP_009447603.1|ATP8	YP_009447604.1|ATP6	YP_009447605.1|COX3	YP_009447606.1|ND3	YP_009447610.1|ND6	YP_009447611.1|CYTB
-TTT	30	34	13	7	15	22	12	13	29
-TTC	5	8	2	1	1	3	0	3	3
-TTA	43	45	24	5	27	26	15	26	44
-TTG	1	3	0	0	1	2	1	0	1
-TCT	7	17	8	0	8	5	3	2	7
-TCC	1	3	0	0	0	0	0	1	0
-TCA	13	11	4	1	8	8	3	5	5
-TCG	0	1	0	0	0	0	0	1	0
-TAT	16	13	8	5	5	12	0	10	15
-TAC	0	3	2	0	2	0	1	1	3
-TGT	1	0	2	0	1	1	2	0	2
-TGC	0	0	0	0	0	0	0	0	1
-TGA	8	13	6	3	5	13	3	1	11
-TGG	0	1	0	0	0	0	0	0	1
-CTT	2	8	6	2	5	2	2	3	4
-CTC	0	2	0	0	1	0	0	0	1
-CTA	3	7	1	0	4	4	1	1	5
-CTG	1	0	0	0	0	0	0	0	0
-CCT	3	14	4	2	4	4	3	2	11
-CCC	2	3	1	0	1	0	0	0	1
-CCA	3	6	5	0	5	6	1	2	8
-CCG	0	2	0	0	1	0	0	0	1
-CAT	3	15	5	0	4	15	1	0	9
-CAC	0	0	0	0	1	1	0	1	2
-CAA	6	9	8	2	5	6	2	2	8
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	2	0	1	1	0	0	1
-CGC	0	0	0	0	0	0	0	0	0
-CGA	2	9	4	0	2	3	2	1	6
-CGG	0	0	1	0	0	0	0	0	0
-ATT	35	48	18	4	25	20	21	19	40
-ATC	5	1	5	2	0	0	2	3	1
-ATA	42	28	12	3	17	10	8	24	24
-ATG	5	1	1	0	2	1	0	0	1
-ACT	8	17	5	1	9	10	1	8	11
-ACC	3	2	2	0	2	1	0	0	2
-ACA	10	13	7	1	7	12	0	2	10
-ACG	1	0	0	0	0	0	0	0	0
-AAT	29	14	11	8	14	8	6	14	23
-AAC	1	4	4	1	1	0	1	3	2
-AAA	14	5	5	5	3	1	5	8	8
-AAG	0	2	0	0	0	0	0	0	0
-AGT	2	2	2	0	1	1	2	2	0
-AGC	0	2	1	0	0	1	0	0	0
-AGA	7	9	4	0	7	5	1	0	6
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	11	6	0	2	5	0	2	8
-GTC	0	1	0	0	0	1	0	0	0
-GTA	3	19	4	0	5	10	3	1	9
-GTG	0	1	0	0	0	0	0	1	0
-GCT	3	24	2	1	7	5	5	1	10
-GCC	3	1	2	0	0	1	0	0	1
-GCA	1	9	4	0	1	5	0	1	6
-GCG	0	0	0	0	0	0	0	0	0
-GAT	1	15	9	0	1	4	1	1	9
-GAC	0	0	0	0	0	0	2	1	0
-GAA	5	8	11	0	4	7	4	3	3
-GAG	1	1	0	0	0	0	0	0	0
-GGT	2	6	2	0	1	1	0	3	5
-GGC	0	0	0	0	0	0	0	0	1
-GGA	11	34	4	0	8	18	2	2	16
-GGG	0	7	2	0	1	1	1	0	3
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	0	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009447600.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	30	5	43	1	7	1	13	0	16	0	1	0	8	0	2	0	3	1	3	2	3	0	3	0	6	0	0	0	2	0	35	5	42	5	8	3	10	1	29	1	14	0	2	0	7	0	0	0	3	0	3	3	1	0	1	0	5	1	2	0	11	0	1	0
+1	COX1	YP_009447601.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	34	8	45	3	17	3	11	1	13	3	0	0	13	1	8	2	7	0	14	3	6	2	15	0	9	0	1	0	9	0	48	1	28	1	17	2	13	0	14	4	5	2	2	2	9	0	11	1	19	1	24	1	9	0	15	0	8	1	6	0	34	7	0	0
+2	COX2	YP_009447602.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	13	2	24	0	8	0	4	0	8	2	2	0	6	0	6	0	1	0	4	1	5	0	5	0	8	0	2	0	4	1	18	5	12	1	5	2	7	0	11	4	5	0	2	1	4	0	6	0	4	0	2	2	4	0	9	0	11	0	2	0	4	2	0	0
+3	ATP8	YP_009447603.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	7	1	5	0	0	0	1	0	5	0	0	0	3	0	2	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	4	2	3	0	1	0	1	0	8	1	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009447604.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	15	1	27	1	8	0	8	0	5	2	1	0	5	0	5	1	4	0	4	1	5	1	4	1	5	0	1	0	2	0	25	0	17	2	9	2	7	0	14	1	3	0	1	0	7	0	2	0	5	0	7	0	1	0	1	0	4	0	1	0	8	1	1	0
+5	COX3	YP_009447605.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	22	3	26	2	5	0	8	0	12	0	1	0	13	0	2	0	4	0	4	0	6	0	15	1	6	0	1	0	3	0	20	0	10	1	10	1	12	0	8	0	1	0	1	1	5	0	5	1	10	0	5	1	5	0	4	0	7	0	1	0	18	1	1	0
+6	ND3	YP_009447606.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	12	0	15	1	3	0	3	0	0	1	2	0	3	0	2	0	1	0	3	0	1	0	1	0	2	0	0	0	2	0	21	2	8	0	1	0	0	0	6	1	5	0	2	0	1	0	0	0	3	0	5	0	0	0	1	2	4	0	0	0	2	1	0	1
+7	ND6	YP_009447610.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	13	3	26	0	2	1	5	1	10	1	0	0	1	0	3	0	1	0	2	0	2	0	0	1	2	0	0	0	1	0	19	3	24	0	8	0	2	0	14	3	8	0	2	0	0	0	2	0	1	1	1	0	1	0	1	1	3	0	3	0	2	0	1	0
+8	CYTB	YP_009447611.1	Carabus lafossei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Adephaga, Caraboidea, Carabidae, Carabinae, Carabini, Carabina, Carabus, Coptolabrus	29	3	44	1	7	0	5	0	15	3	2	1	11	1	4	1	5	0	11	1	8	1	9	2	8	0	1	0	6	0	40	1	24	1	11	2	10	0	23	2	8	0	0	0	6	0	8	0	9	0	10	1	6	0	9	0	3	0	5	1	16	3	0	1

@@ -1,65 +1,19 @@
-	YP_009498159.1|cox1	YP_009498160.1|nad4	YP_009498161.1|orf281	YP_009498162.1|atp9	YP_009498163.1|rps3	YP_009498164.1|cox3	YP_009498165.1|nad4L	YP_009498166.1|nad5	YP_009498167.1|atp8	YP_009498168.1|cox2	YP_009498169.1|cob	YP_009498170.1|orf237	YP_009498171.1|orf160	YP_009498172.1|nad6	YP_009498173.1|nad1	YP_009498174.1|nad2	YP_009498175.1|nad3	YP_009498180.1|atp6
-TTT	40	27	23	1	17	24	7	54	5	13	27	13	7	19	30	33	11	15
-TTC	10	4	0	4	0	1	0	8	3	2	8	3	1	0	4	3	4	7
-TTA	62	80	28	14	38	31	15	91	7	20	47	22	21	23	50	83	19	37
-TTG	1	0	3	0	0	1	0	2	0	0	1	0	0	0	1	3	0	0
-TCT	14	18	8	4	8	4	1	20	1	8	9	9	3	8	16	27	2	11
-TCC	1	0	0	0	1	0	0	2	0	0	3	0	1	0	0	1	0	0
-TCA	11	9	2	2	7	7	3	15	3	5	9	3	1	3	6	13	4	4
-TCG	0	0	1	0	1	0	0	0	0	1	0	0	0	2	0	2	0	0
-TAT	16	24	25	1	15	11	1	29	4	12	15	14	3	8	10	23	4	11
-TAC	3	4	2	1	0	3	0	2	0	1	1	2	1	1	1	1	0	1
-TGT	0	1	1	1	1	0	0	6	1	3	1	4	0	1	5	3	1	1
-TGC	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-TGA	12	5	1	0	1	7	0	6	0	7	9	5	2	0	5	3	0	1
-TGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTT	3	3	2	0	4	2	0	4	1	1	4	4	5	2	1	3	1	3
-CTC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CTA	1	6	1	0	1	1	1	2	0	2	3	1	5	0	3	8	0	3
-CTG	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-CCT	14	12	4	1	4	2	0	15	2	5	16	2	1	2	11	6	3	3
-CCC	2	1	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0
-CCA	11	4	2	0	3	7	0	7	1	5	5	7	2	2	2	5	0	5
-CCG	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1
-CAT	11	7	6	0	2	12	0	10	0	6	12	4	7	1	3	5	1	3
-CAC	5	0	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	1
-CAA	9	9	1	3	8	11	2	12	3	9	8	6	8	4	9	10	3	5
-CAG	1	1	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0
-CGT	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-CGA	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
-CGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-ATT	20	37	21	5	16	9	9	34	2	15	14	12	12	13	25	26	9	11
-ATC	3	1	2	2	2	1	1	4	1	1	2	2	2	0	0	3	0	0
-ATA	24	32	20	0	26	18	10	42	3	16	22	14	6	23	18	69	6	33
-ATG	16	6	7	2	6	5	4	17	2	4	13	5	5	6	6	8	3	4
-ACT	13	21	8	0	10	6	2	25	3	9	9	5	7	9	13	17	3	7
-ACC	0	0	0	0	0	1	0	0	0	1	0	1	0	1	1	1	0	0
-ACA	24	9	8	2	6	14	0	16	0	6	8	3	3	4	6	14	1	8
-ACG	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-AAT	20	19	22	1	46	4	4	25	1	9	16	21	10	17	15	39	5	13
-AAC	2	3	5	0	3	2	1	4	1	1	3	3	1	2	0	3	1	0
-AAA	8	8	23	1	48	3	3	18	3	5	6	22	4	6	5	17	5	7
-AAG	0	0	0	0	3	0	0	3	0	0	0	1	0	0	0	2	0	1
-AGT	13	12	4	1	18	7	4	21	1	5	9	4	3	5	7	20	3	10
-AGC	0	2	0	0	1	0	0	1	0	0	1	0	2	0	1	2	0	0
-AGA	9	13	1	2	10	4	1	10	1	5	12	5	2	0	8	7	3	2
-AGG	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-GTT	19	14	9	0	8	5	2	11	1	8	6	4	4	2	11	5	3	3
-GTC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-GTA	16	13	5	0	3	11	2	20	1	12	19	3	3	13	6	8	5	10
-GTG	0	0	1	0	0	2	0	0	0	1	1	1	1	0	1	1	0	2
-GCT	23	20	2	6	5	10	2	36	0	10	17	5	2	6	14	14	8	8
-GCC	1	1	1	2	0	0	0	2	0	1	2	0	0	0	1	2	0	1
-GCA	12	5	0	6	1	3	3	11	0	1	7	2	2	4	6	6	0	4
-GCG	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-GAT	15	12	10	0	5	7	1	18	0	10	10	3	7	4	5	9	3	1
-GAC	0	0	0	0	0	0	0	0	0	2	0	1	0	0	1	1	0	0
-GAA	8	11	11	1	12	6	2	13	0	12	6	7	11	2	11	20	4	8
-GAG	0	0	0	0	0	0	1	1	0	0	0	0	2	0	1	0	0	0
-GGT	16	17	6	5	5	15	2	21	0	9	8	6	0	3	7	12	0	7
-GGC	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-GGA	31	9	4	4	4	10	5	22	0	6	12	6	2	6	9	10	3	2
-GGG	3	1	1	1	1	1	0	3	0	1	2	0	1	0	1	3	2	2
-TAA	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox1	YP_009498159.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	40	10	62	1	14	1	11	0	16	3	0	0	12	0	3	0	1	1	14	2	11	1	11	5	9	1	0	0	1	0	20	3	24	16	13	0	24	0	20	2	8	0	13	0	9	0	19	0	16	0	23	1	12	2	15	0	8	0	16	0	31	3	1	0
+1	nad4	YP_009498160.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	27	4	80	0	18	0	9	0	24	4	1	0	5	0	3	0	6	0	12	1	4	0	7	0	9	1	0	0	0	0	37	1	32	6	21	0	9	0	19	3	8	0	12	2	13	0	14	0	13	0	20	1	5	1	12	0	11	0	17	1	9	1	1	0
+2	orf281	YP_009498161.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	23	0	28	3	8	0	2	1	25	2	1	0	1	0	2	0	1	0	4	0	2	0	6	0	1	0	0	0	0	0	21	2	20	7	8	0	8	0	22	5	23	0	4	0	1	0	9	0	5	1	2	1	0	0	10	0	11	0	6	0	4	1	1	0
+3	atp9	YP_009498162.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	1	4	14	0	4	0	2	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	0	0	0	0	5	2	0	2	0	0	2	0	1	0	1	0	1	0	2	0	0	0	0	0	6	2	6	0	0	0	1	0	5	0	4	1	1	0
+4	rps3	YP_009498163.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	17	0	38	0	8	1	7	1	15	0	1	0	1	0	4	0	1	0	4	0	3	0	2	0	8	0	0	0	0	0	16	2	26	6	10	0	6	1	46	3	48	3	18	1	10	0	8	0	3	0	5	0	1	0	5	0	12	0	5	0	4	1	1	0
+5	cox3	YP_009498164.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	24	1	31	1	4	0	7	0	11	3	0	0	7	0	2	0	1	0	2	0	7	1	12	1	11	0	0	0	0	0	9	1	18	5	6	1	14	0	4	2	3	0	7	0	4	0	5	0	11	2	10	0	3	0	7	0	6	0	15	0	10	1	1	0
+6	nad4L	YP_009498165.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	7	0	15	0	1	0	3	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	1	0	9	1	10	4	2	0	0	0	4	1	3	0	4	0	1	0	2	0	2	0	2	0	3	0	1	0	2	1	2	0	5	0	1	0
+7	nad5	YP_009498166.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	54	8	91	2	20	2	15	0	29	2	6	0	6	0	4	0	2	0	15	0	7	0	10	0	12	1	0	0	1	0	34	4	42	17	25	0	16	0	25	4	18	3	21	1	10	0	11	1	20	0	36	2	11	0	18	0	13	1	21	0	22	3	1	0
+8	atp8	YP_009498167.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	5	3	7	0	1	0	3	0	4	0	1	0	0	0	1	0	0	0	2	0	1	0	0	0	3	1	0	0	0	0	2	1	3	2	3	0	0	0	1	1	3	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+9	cox2	YP_009498168.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	13	2	20	0	8	0	5	1	12	1	3	1	7	0	1	0	2	0	5	0	5	1	6	1	9	0	0	0	0	0	15	1	16	4	9	1	6	0	9	1	5	0	5	0	5	0	8	0	12	1	10	1	1	0	10	2	12	0	9	0	6	1	1	0
+10	cob	YP_009498169.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	27	8	47	1	9	3	9	0	15	1	1	0	9	0	4	0	3	0	16	1	5	0	12	1	8	0	0	0	0	0	14	2	22	13	9	0	8	0	16	3	6	0	9	1	12	0	6	0	19	1	17	2	7	0	10	0	6	0	8	0	12	2	1	0
+11	orf237	YP_009498170.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	13	3	22	0	9	0	3	0	14	2	4	0	5	0	4	0	1	1	2	0	7	0	4	0	6	0	0	0	0	0	12	2	14	5	5	1	3	0	21	3	22	1	4	0	5	0	4	0	3	1	5	0	2	1	3	1	7	0	6	0	6	0	1	0
+12	orf160	YP_009498171.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	7	1	21	0	3	1	1	0	3	1	0	0	2	0	5	0	5	0	1	0	2	0	7	0	8	0	0	0	0	0	12	2	6	5	7	0	3	0	10	1	4	0	3	2	2	0	4	0	3	1	2	0	2	0	7	0	11	2	0	0	2	1	0	1
+13	nad6	YP_009498172.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	19	0	23	0	8	0	3	2	8	1	1	0	0	0	2	0	0	0	2	0	2	0	1	0	4	1	0	0	0	0	13	0	23	6	9	1	4	0	17	2	6	0	5	0	0	0	2	0	13	0	6	0	4	0	4	0	2	0	3	0	6	0	1	0
+14	nad1	YP_009498173.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	30	4	50	1	16	0	6	0	10	1	5	0	5	0	1	0	3	0	11	2	2	0	3	0	9	0	0	0	0	0	25	0	18	6	13	1	6	0	15	0	5	0	7	1	8	0	11	0	6	1	14	1	6	0	5	1	11	1	7	0	9	1	1	0
+15	nad2	YP_009498174.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	33	3	83	3	27	1	13	2	23	1	3	0	3	0	3	0	8	0	6	0	5	0	5	1	10	1	0	0	0	0	26	3	69	8	17	1	14	0	39	3	17	2	20	2	7	0	5	0	8	1	14	2	6	0	9	1	20	0	12	1	10	3	1	0
+16	nad3	YP_009498175.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	11	4	19	0	2	0	4	0	4	0	1	0	0	0	1	0	0	0	3	0	0	0	1	0	3	0	0	0	0	0	9	0	6	3	3	0	1	0	5	1	5	0	3	0	3	0	3	0	5	0	8	0	0	0	3	0	4	0	0	0	3	2	1	0
+17	atp6	YP_009498180.1	Lactarius volemus	Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Russulales, Russulaceae, Lactarius	15	7	37	0	11	0	4	0	11	1	1	0	1	0	3	0	3	0	3	0	5	1	3	1	5	0	0	0	0	0	11	0	33	4	7	0	8	0	13	0	7	1	10	0	2	0	3	0	10	2	8	1	4	0	1	0	8	0	7	0	2	2	1	0

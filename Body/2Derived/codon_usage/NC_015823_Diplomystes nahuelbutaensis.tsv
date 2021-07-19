@@ -1,65 +1,13 @@
-	YP_004733919.1|ND1	YP_004733920.1|ND2	YP_004733921.1|COX1	YP_004733922.1|COX2	YP_004733923.1|ATP8	YP_004733924.1|ATP6	YP_004733925.1|COX3	YP_004733926.1|ND3	YP_004733927.1|ND4L	YP_004733928.1|ND4	YP_004733929.1|ND5	YP_004733931.1|CYTB
-TTT	12	7	22	5	0	8	12	5	4	10	25	14
-TTC	6	5	19	4	4	2	11	2	3	7	16	15
-TTA	6	17	11	4	1	13	7	6	7	13	20	11
-TTG	0	2	0	2	0	2	1	1	0	2	0	1
-TCT	1	2	7	3	1	0	2	4	2	3	3	4
-TCC	9	5	8	7	0	2	4	0	0	11	13	9
-TCA	6	4	8	3	1	2	5	1	4	5	20	7
-TCG	1	0	1	1	0	0	0	0	0	0	0	1
-TAT	5	4	11	5	0	2	4	1	0	6	4	4
-TAC	7	5	8	5	0	1	8	1	0	8	8	10
-TGT	0	0	0	1	0	0	0	1	1	0	2	1
-TGC	0	1	1	1	0	0	2	0	2	4	4	2
-TGA	8	10	16	5	4	4	10	4	0	17	13	12
-TGG	0	1	1	0	1	1	2	1	1	4	1	1
-CTT	8	9	12	6	2	8	8	3	1	15	11	7
-CTC	9	12	10	5	1	8	6	5	3	12	12	12
-CTA	32	27	23	10	4	15	8	11	12	31	38	23
-CTG	6	4	7	0	0	2	4	4	1	13	9	7
-CCT	2	3	10	2	1	0	1	1	0	5	2	1
-CCC	6	7	6	6	1	10	6	3	1	10	14	9
-CCA	14	10	11	6	3	5	4	3	1	10	13	9
-CCG	2	1	1	0	0	1	1	1	0	2	0	2
-CAT	1	0	7	3	0	0	3	0	0	1	6	3
-CAC	3	9	12	6	3	3	13	1	4	11	9	9
-CAA	6	14	5	8	1	9	7	3	3	12	12	5
-CAG	1	0	3	0	0	1	2	0	0	0	2	1
-CGT	1	0	2	0	0	1	0	0	0	1	0	1
-CGC	1	1	0	2	0	0	1	1	2	2	2	2
-CGA	5	3	5	3	0	4	2	1	1	7	7	5
-CGG	1	0	1	1	0	0	2	0	0	1	1	1
-ATT	12	15	28	11	1	13	6	7	1	23	41	13
-ATC	14	6	11	4	1	11	6	2	0	16	17	18
-ATA	8	13	18	8	0	7	5	2	5	22	20	9
-ATG	3	3	6	6	1	7	3	1	1	7	7	4
-ACT	5	6	8	4	1	2	4	2	2	7	7	0
-ACC	9	18	10	2	2	10	9	4	3	19	26	7
-ACA	7	23	16	4	4	11	9	1	2	18	23	16
-ACG	1	0	4	0	0	0	1	0	0	1	2	0
-AAT	4	2	8	3	1	3	0	0	1	6	12	8
-AAC	7	5	7	2	2	6	1	3	0	8	21	10
-AAA	6	9	8	4	3	3	2	1	0	9	15	8
-AAG	1	0	0	0	0	0	0	0	0	1	6	1
-AGT	0	2	2	0	0	0	0	1	1	0	3	0
-AGC	2	5	3	3	2	3	3	0	1	6	7	1
-GTT	3	3	12	9	1	3	5	3	0	4	6	3
-GTC	6	0	9	4	0	2	4	0	1	4	6	6
-GTA	9	3	18	8	3	4	8	2	1	4	11	11
-GTG	2	1	3	2	0	1	0	0	0	1	2	3
-GCT	4	3	9	2	0	1	6	3	1	2	5	3
-GCC	21	21	22	8	1	11	11	3	11	20	31	16
-GCA	7	23	14	5	1	9	5	2	4	16	17	11
-GCG	1	2	0	1	0	0	1	0	1	0	0	0
-GAT	3	1	4	2	0	2	2	2	0	2	7	2
-GAC	1	1	10	11	0	0	4	1	1	3	9	9
-GAA	8	4	10	12	3	4	6	5	3	6	8	4
-GAG	3	0	1	3	0	0	2	1	0	4	1	2
-GGT	2	0	6	2	0	3	2	2	0	5	5	0
-GGC	5	6	15	2	0	1	8	2	2	8	10	10
-GGA	8	7	18	3	0	6	10	1	3	11	13	14
-GGG	3	3	8	1	0	0	2	1	0	4	3	1
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004733919.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	12	6	6	0	1	9	6	1	5	7	0	0	8	0	8	9	32	6	2	6	14	2	1	3	6	1	1	1	5	1	12	14	8	3	5	9	7	1	4	7	6	1	0	2	3	6	9	2	4	21	7	1	3	1	8	3	2	5	8	3	0	1	0	0
+1	ND2	YP_004733920.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	7	5	17	2	2	5	4	0	4	5	0	1	10	1	9	12	27	4	3	7	10	1	0	9	14	0	0	1	3	0	15	6	13	3	6	18	23	0	2	5	9	0	2	5	3	0	3	1	3	21	23	2	1	1	4	0	0	6	7	3	0	0	0	0
+2	COX1	YP_004733921.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	22	19	11	0	7	8	8	1	11	8	0	1	16	1	12	10	23	7	10	6	11	1	7	12	5	3	2	0	5	1	28	11	18	6	8	10	16	4	8	7	8	0	2	3	12	9	18	3	9	22	14	0	4	10	10	1	6	15	18	8	1	0	0	0
+3	COX2	YP_004733922.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	5	4	4	2	3	7	3	1	5	5	1	1	5	0	6	5	10	0	2	6	6	0	3	6	8	0	0	2	3	1	11	4	8	6	4	2	4	0	3	2	4	0	0	3	9	4	8	2	2	8	5	1	2	11	12	3	2	2	3	1	0	0	0	0
+4	ATP8	YP_004733923.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	0	4	1	0	1	0	1	0	0	0	0	0	4	1	2	1	4	0	1	1	3	0	0	3	1	0	0	0	0	0	1	1	0	1	1	2	4	0	1	2	3	0	0	2	1	0	3	0	0	1	1	0	0	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_004733924.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	8	2	13	2	0	2	2	0	2	1	0	0	4	1	8	8	15	2	0	10	5	1	0	3	9	1	1	0	4	0	13	11	7	7	2	10	11	0	3	6	3	0	0	3	3	2	4	1	1	11	9	0	2	0	4	0	3	1	6	0	0	0	0	0
+6	COX3	YP_004733925.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	12	11	7	1	2	4	5	0	4	8	0	2	10	2	8	6	8	4	1	6	4	1	3	13	7	2	0	1	2	2	6	6	5	3	4	9	9	1	0	1	2	0	0	3	5	4	8	0	6	11	5	1	2	4	6	2	2	8	10	2	0	0	0	0
+7	ND3	YP_004733926.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	5	2	6	1	4	0	1	0	1	1	1	0	4	1	3	5	11	4	1	3	3	1	0	1	3	0	0	1	1	0	7	2	2	1	2	4	1	0	0	3	1	0	1	0	3	0	2	0	3	3	2	0	2	1	5	1	2	2	1	1	0	0	0	0
+8	ND4L	YP_004733927.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	4	3	7	0	2	0	4	0	0	0	1	2	0	1	1	3	12	1	0	1	1	0	0	4	3	0	0	2	1	0	1	0	5	1	2	3	2	0	1	0	0	0	1	1	0	1	1	0	1	11	4	1	0	1	3	0	0	2	3	0	1	0	0	0
+9	ND4	YP_004733928.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	10	7	13	2	3	11	5	0	6	8	0	4	17	4	15	12	31	13	5	10	10	2	1	11	12	0	1	2	7	1	23	16	22	7	7	19	18	1	6	8	9	1	0	6	4	4	4	1	2	20	16	0	2	3	6	4	5	8	11	4	0	0	0	0
+10	ND5	YP_004733929.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	25	16	20	0	3	13	20	0	4	8	2	4	13	1	11	12	38	9	2	14	13	0	6	9	12	2	0	2	7	1	41	17	20	7	7	26	23	2	12	21	15	6	3	7	6	6	11	2	5	31	17	0	7	9	8	1	5	10	13	3	1	0	0	0
+11	CYTB	YP_004733931.1	Diplomystes nahuelbutaensis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Siluriformes, Diplomystidae, Diplomystes	14	15	11	1	4	9	7	1	4	10	1	2	12	1	7	12	23	7	1	9	9	2	3	9	5	1	1	2	5	1	13	18	9	4	0	7	16	0	8	10	8	1	0	1	3	6	11	3	3	16	11	0	2	9	4	2	0	10	14	1	0	0	0	0

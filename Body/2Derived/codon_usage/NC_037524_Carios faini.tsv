@@ -1,65 +1,10 @@
-	YP_009480293.1|ND2	YP_009480294.1|COX1	YP_009480295.1|COX2	YP_009480296.1|ATP8	YP_009480297.1|ATP6	YP_009480298.1|COX3	YP_009480299.1|ND3	YP_009480303.1|ND6	YP_009480304.1|CYTB
-TTT	21	37	13	4	13	18	6	5	20
-TTC	9	9	4	2	8	11	8	2	11
-TTA	32	39	11	2	22	17	9	20	26
-TTG	2	0	0	0	1	1	0	0	3
-TCT	8	8	2	0	6	2	1	2	8
-TCC	12	2	3	0	0	1	2	0	2
-TCA	17	28	19	2	11	18	6	8	17
-TCG	1	0	0	0	1	1	0	0	0
-TAT	4	10	6	1	5	8	2	4	16
-TAC	7	5	3	1	1	1	1	1	0
-TGT	1	2	2	0	1	1	1	2	2
-TGC	0	0	0	0	0	0	0	0	1
-TGA	7	14	6	3	6	13	2	1	11
-TGG	0	1	0	0	0	0	0	0	0
-CTT	6	5	2	0	3	5	2	4	7
-CTC	2	2	0	0	0	0	1	0	1
-CTA	5	12	3	2	6	2	3	5	14
-CTG	0	1	0	0	0	1	1	0	1
-CCT	2	11	1	0	2	8	1	1	6
-CCC	2	0	2	0	1	0	1	1	2
-CCA	3	16	7	3	7	2	3	3	16
-CCG	1	1	1	0	1	0	0	0	0
-CAT	2	13	4	0	3	8	0	1	6
-CAC	0	4	1	0	0	4	0	1	3
-CAA	6	11	6	1	4	6	2	5	5
-CAG	0	0	0	0	0	0	0	0	0
-CGT	0	1	0	0	1	0	2	0	1
-CGC	0	0	1	0	0	0	0	0	0
-CGA	1	6	6	0	1	3	0	0	5
-CGG	0	1	0	0	1	0	0	0	0
-ATT	36	45	25	9	24	25	14	18	36
-ATC	16	13	8	1	9	7	5	8	16
-ATA	39	33	16	4	18	12	11	16	25
-ATG	0	1	2	0	1	1	0	0	1
-ACT	1	10	4	0	6	2	2	5	7
-ACC	3	8	2	0	1	5	0	1	4
-ACA	7	15	5	3	10	9	3	3	11
-ACG	0	0	0	0	0	0	0	0	0
-AAT	24	11	16	4	12	11	3	10	9
-AAC	2	7	1	2	3	2	1	3	6
-AAA	14	11	4	6	6	6	7	6	12
-AAG	2	0	1	0	0	0	0	1	1
-AGT	2	1	0	0	2	1	1	0	0
-AGC	0	0	0	0	0	1	0	0	0
-AGA	5	6	4	0	2	8	1	1	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	0	5	3	0	2	2	0	0	4
-GTC	1	0	1	0	0	0	0	0	1
-GTA	2	16	2	1	4	7	0	1	4
-GTG	0	1	0	0	0	0	0	0	0
-GCT	0	10	2	0	1	1	0	0	2
-GCC	1	3	0	0	0	1	0	0	0
-GCA	1	12	2	0	6	6	0	0	11
-GCG	0	1	0	0	0	0	0	0	0
-GAT	0	9	6	0	1	4	2	0	1
-GAC	0	6	1	0	0	1	0	0	5
-GAA	4	8	11	0	5	5	4	1	4
-GAG	0	0	0	0	0	0	0	0	1
-GGT	2	9	1	0	1	1	0	0	3
-GGC	0	1	1	0	0	0	0	0	0
-GGA	5	30	4	0	2	10	3	1	16
-GGG	1	1	0	0	1	0	0	1	1
-TAA	1	1	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009480293.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	21	9	32	2	8	12	17	1	4	7	1	0	7	0	6	2	5	0	2	2	3	1	2	0	6	0	0	0	1	0	36	16	39	0	1	3	7	0	24	2	14	2	2	0	5	0	0	1	2	0	0	1	1	0	0	0	4	0	2	0	5	1	1	0
+1	COX1	YP_009480294.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	37	9	39	0	8	2	28	0	10	5	2	0	14	1	5	2	12	1	11	0	16	1	13	4	11	0	1	0	6	1	45	13	33	1	10	8	15	0	11	7	11	0	1	0	6	0	5	0	16	1	10	3	12	1	9	6	8	0	9	1	30	1	1	0
+2	COX2	YP_009480295.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	13	4	11	0	2	3	19	0	6	3	2	0	6	0	2	0	3	0	1	2	7	1	4	1	6	0	0	1	6	0	25	8	16	2	4	2	5	0	16	1	4	1	0	0	4	0	3	1	2	0	2	0	2	0	6	1	11	0	1	1	4	0	0	0
+3	ATP8	YP_009480296.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	4	2	2	0	0	0	2	0	1	1	0	0	3	0	0	0	2	0	0	0	3	0	0	0	1	0	0	0	0	0	9	1	4	0	0	0	3	0	4	2	6	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	YP_009480297.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	13	8	22	1	6	0	11	1	5	1	1	0	6	0	3	0	6	0	2	1	7	1	3	0	4	0	1	0	1	1	24	9	18	1	6	1	10	0	12	3	6	0	2	0	2	0	2	0	4	0	1	0	6	0	1	0	5	0	1	0	2	1	1	0
+5	COX3	YP_009480298.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	18	11	17	1	2	1	18	1	8	1	1	0	13	0	5	0	2	1	8	0	2	0	8	4	6	0	0	0	3	0	25	7	12	1	2	5	9	0	11	2	6	0	1	1	8	0	2	0	7	0	1	1	6	0	4	1	5	0	1	0	10	0	1	0
+6	ND3	YP_009480299.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	6	8	9	0	1	2	6	0	2	1	1	0	2	0	2	1	3	1	1	1	3	0	0	0	2	0	2	0	0	0	14	5	11	0	2	0	3	0	3	1	7	0	1	0	1	0	0	0	0	0	0	0	0	0	2	0	4	0	0	0	3	0	0	1
+7	ND6	YP_009480303.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	5	2	20	0	2	0	8	0	4	1	2	0	1	0	4	0	5	0	1	1	3	0	1	1	5	0	0	0	0	0	18	8	16	0	5	1	3	0	10	3	6	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0
+8	CYTB	YP_009480304.1	Carios faini	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Ixodida, Ixodoidea, Argasidae, Carios	20	11	26	3	8	2	17	0	16	0	2	1	11	0	7	1	14	1	6	2	16	0	6	3	5	0	1	0	5	0	36	16	25	1	7	4	11	0	9	6	12	1	0	0	3	0	4	1	4	0	2	0	11	0	1	5	4	1	3	0	16	1	1	0

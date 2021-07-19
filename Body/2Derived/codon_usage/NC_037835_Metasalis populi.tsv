@@ -1,65 +1,10 @@
-	YP_009488353.1|ND2	YP_009488354.1|COX1	YP_009488355.1|COX2	YP_009488356.1|ATP8	YP_009488357.1|ATP6	YP_009488358.1|COX3	YP_009488359.1|ND3	YP_009488363.1|ND6	YP_009488364.1|CYTB
-TTT	21	34	9	2	12	18	8	11	27
-TTC	1	9	0	1	2	5	1	1	4
-TTA	36	38	21	3	26	23	11	19	33
-TTG	1	3	3	1	2	4	1	3	7
-TCT	2	9	5	1	2	2	0	2	8
-TCC	2	4	1	0	1	0	1	0	0
-TCA	12	17	8	2	11	11	5	5	8
-TCG	0	3	0	0	0	0	0	1	1
-TAT	10	11	7	2	3	11	2	6	13
-TAC	1	3	2	0	1	1	1	1	1
-TGT	4	0	2	1	0	2	1	0	3
-TGC	0	0	0	0	0	0	0	0	0
-TGA	6	14	7	4	2	8	3	1	10
-TGG	2	2	0	0	2	3	0	0	2
-CTT	3	6	0	0	5	2	1	0	3
-CTC	0	0	0	0	0	1	0	0	0
-CTA	6	6	4	0	3	1	4	2	6
-CTG	1	0	0	0	0	0	0	0	1
-CCT	5	12	5	0	4	4	0	1	8
-CCC	0	2	0	0	1	0	0	1	4
-CCA	4	11	6	2	5	4	4	2	7
-CCG	1	2	0	0	0	0	0	0	1
-CAT	2	13	3	0	1	8	0	0	9
-CAC	0	2	2	0	2	5	0	0	2
-CAA	6	8	7	1	2	6	2	1	6
-CAG	1	1	1	0	1	1	1	1	1
-CGT	0	1	1	0	1	0	0	1	0
-CGC	0	0	0	0	0	0	0	0	0
-CGA	0	7	3	0	2	2	2	0	7
-CGG	1	0	3	0	0	1	0	0	0
-ATT	37	50	21	6	19	21	18	23	36
-ATC	1	6	5	1	1	4	1	3	4
-ATA	55	31	16	6	32	19	11	21	19
-ATG	3	6	0	0	3	1	0	4	2
-ACT	4	5	8	0	2	6	1	3	6
-ACC	5	2	0	1	2	1	1	0	5
-ACA	9	25	10	0	12	13	5	4	12
-ACG	1	3	1	0	0	1	0	0	0
-AAT	19	17	13	6	13	7	5	6	22
-AAC	4	2	1	0	3	3	1	3	4
-AAA	21	10	8	6	12	8	6	8	12
-AAG	1	1	0	0	2	1	1	0	0
-AGT	1	3	1	2	3	3	0	1	1
-AGC	0	0	0	0	0	0	0	0	0
-AGA	7	12	2	1	5	5	3	8	6
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	10	2	0	4	1	2	2	13
-GTC	0	1	1	0	0	0	0	0	1
-GTA	5	14	3	3	9	10	4	2	9
-GTG	1	3	0	0	1	0	0	0	1
-GCT	1	4	5	0	2	4	0	1	6
-GCC	1	2	0	0	1	0	0	0	2
-GCA	1	18	2	0	4	3	0	1	9
-GCG	0	0	0	0	0	0	0	0	0
-GAT	0	11	9	0	2	3	2	0	3
-GAC	0	4	1	0	1	1	0	0	3
-GAA	6	7	10	1	6	6	3	4	7
-GAG	0	3	1	0	0	0	1	2	1
-GGT	3	15	2	0	0	6	1	1	5
-GGC	0	0	1	0	0	0	0	0	0
-GGA	5	19	2	0	2	8	3	1	12
-GGG	1	9	1	0	1	4	0	1	5
-TAA	1	1	0	1	0	0	1	1	0
-TAG	0	0	0	0	1	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009488353.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	21	1	36	1	2	2	12	0	10	1	4	0	6	2	3	0	6	1	5	0	4	1	2	0	6	1	0	0	0	1	37	1	55	3	4	5	9	1	19	4	21	1	1	0	7	0	5	0	5	1	1	1	1	0	0	0	6	0	3	0	5	1	1	0
+1	COX1	YP_009488354.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	34	9	38	3	9	4	17	3	11	3	0	0	14	2	6	0	6	0	12	2	11	2	13	2	8	1	1	0	7	0	50	6	31	6	5	2	25	3	17	2	10	1	3	0	12	0	10	1	14	3	4	2	18	0	11	4	7	3	15	0	19	9	1	0
+2	COX2	YP_009488355.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	9	0	21	3	5	1	8	0	7	2	2	0	7	0	0	0	4	0	5	0	6	0	3	2	7	1	1	0	3	3	21	5	16	0	8	0	10	1	13	1	8	0	1	0	2	0	2	1	3	0	5	0	2	0	9	1	10	1	2	1	2	1	0	0
+3	ATP8	YP_009488356.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	2	1	3	1	1	0	2	0	2	0	1	0	4	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	6	1	6	0	0	1	0	0	6	0	6	0	2	0	1	0	0	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009488357.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	12	2	26	2	2	1	11	0	3	1	0	0	2	2	5	0	3	0	4	1	5	0	1	2	2	1	1	0	2	0	19	1	32	3	2	2	12	0	13	3	12	2	3	0	5	0	4	0	9	1	2	1	4	0	2	1	6	0	0	0	2	1	0	1
+5	COX3	YP_009488358.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	18	5	23	4	2	0	11	0	11	1	2	0	8	3	2	1	1	0	4	0	4	0	8	5	6	1	0	0	2	1	21	4	19	1	6	1	13	1	7	3	8	1	3	0	5	0	1	0	10	0	4	0	3	0	3	1	6	0	6	0	8	4	0	0
+6	ND3	YP_009488359.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	8	1	11	1	0	1	5	0	2	1	1	0	3	0	1	0	4	0	0	0	4	0	0	0	2	1	0	0	2	0	18	1	11	0	1	1	5	0	5	1	6	1	0	0	3	0	2	0	4	0	0	0	0	0	2	0	3	1	1	0	3	0	1	0
+7	ND6	YP_009488363.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	11	1	19	3	2	0	5	1	6	1	0	0	1	0	0	0	2	0	1	1	2	0	0	0	1	1	1	0	0	0	23	3	21	4	3	0	4	0	6	3	8	0	1	0	8	0	2	0	2	0	1	0	1	0	0	0	4	2	1	0	1	1	1	0
+8	CYTB	YP_009488364.1	Metasalis populi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Paraneoptera, Hemiptera, Heteroptera, Panheteroptera, Cimicomorpha, Tingidae, Metasalis	27	4	33	7	8	0	8	1	13	1	3	0	10	2	3	0	6	1	8	4	7	1	9	2	6	1	0	0	7	0	36	4	19	2	6	5	12	0	22	4	12	0	1	0	6	0	13	1	9	1	6	2	9	0	3	3	7	1	5	0	12	5	0	1

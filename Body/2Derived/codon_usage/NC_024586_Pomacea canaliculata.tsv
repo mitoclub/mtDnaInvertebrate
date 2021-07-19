@@ -1,65 +1,14 @@
-	YP_009048965.1|COX1	YP_009048966.1|COX2	YP_009048967.1|ATP8	YP_009048968.1|ATP6	YP_009048969.1|ND1	YP_009048970.1|ND6	YP_009048971.1|CYTB	YP_009048972.1|ND4L	YP_009048973.1|ND4	YP_009048974.1|ND5	YP_009048975.1|COX3	YP_009048976.1|ND3	YP_009048977.1|ND2
-TTT	36	12	3	25	35	13	35	6	35	39	27	12	36
-TTC	3	1	0	1	5	2	2	0	6	7	1	1	1
-TTA	39	13	3	22	34	21	39	11	51	56	21	8	39
-TTG	9	5	0	2	7	2	8	1	7	5	8	5	11
-TCT	19	9	1	10	8	8	7	7	12	18	9	7	16
-TCC	0	0	0	1	0	1	0	1	7	3	2	0	1
-TCA	4	1	0	3	5	2	4	0	11	17	1	2	5
-TCG	2	1	0	2	3	1	2	0	0	1	2	0	1
-TAT	17	7	1	9	11	12	14	3	17	8	8	1	11
-TAC	1	1	0	0	3	1	1	1	2	5	0	1	1
-TGT	0	4	0	1	3	2	1	2	5	8	2	2	1
-TGC	1	0	0	1	0	0	3	0	2	0	1	1	2
-TGA	15	6	5	2	6	2	9	0	12	8	10	2	10
-TGG	2	0	1	2	1	0	3	0	0	3	4	1	0
-CTT	11	3	4	4	8	3	9	3	16	14	6	2	5
-CTC	1	3	0	0	2	1	1	0	2	0	0	0	0
-CTA	9	6	0	5	2	5	3	1	4	21	1	2	3
-CTG	0	0	0	2	0	1	1	0	3	2	1	1	0
-CCT	12	7	1	6	7	3	7	0	9	6	6	2	7
-CCC	1	0	0	0	0	0	2	0	0	0	0	0	0
-CCA	8	3	1	3	4	2	11	0	5	9	1	1	1
-CCG	2	0	0	0	1	0	1	0	1	1	1	0	0
-CAT	17	6	1	5	0	0	14	1	5	7	10	0	3
-CAC	2	0	0	0	0	0	0	1	2	0	3	0	1
-CAA	4	5	0	3	5	2	8	2	7	10	3	2	3
-CAG	2	1	1	1	1	0	1	1	4	2	3	0	3
-CGT	6	3	0	3	6	0	4	0	1	1	1	3	0
-CGC	0	0	0	0	0	0	0	0	0	1	0	0	0
-CGA	6	3	0	1	1	1	3	0	2	3	4	1	1
-CGG	0	0	0	0	0	0	0	0	1	1	0	0	0
-ATT	37	25	7	22	20	11	27	9	31	38	9	8	36
-ATC	1	1	0	0	2	2	6	1	8	7	0	1	3
-ATA	17	4	0	10	12	11	9	7	30	39	5	4	17
-ATG	9	3	2	3	2	2	3	1	4	2	3	1	2
-ACT	14	5	3	6	4	4	12	3	10	11	11	0	4
-ACC	1	1	0	1	2	0	4	1	1	2	3	0	0
-ACA	11	5	1	4	1	0	3	0	9	16	2	0	2
-ACG	3	0	0	0	0	0	1	0	0	3	2	0	0
-AAT	14	6	5	6	10	6	14	2	16	19	4	2	11
-AAC	2	0	1	1	2	1	2	2	4	6	0	0	1
-AAA	8	4	4	2	10	3	7	2	14	20	2	2	7
-AAG	0	1	1	0	0	2	3	0	0	1	0	2	4
-AGT	7	3	1	7	6	3	1	1	6	12	3	1	6
-AGC	2	1	0	1	2	1	1	2	2	1	1	0	0
-AGA	3	1	1	4	7	4	3	7	9	19	1	3	14
-AGG	0	0	0	1	2	0	2	2	2	3	0	0	2
-GTT	18	6	1	13	9	6	11	2	7	18	11	8	13
-GTC	2	0	0	0	0	1	2	0	1	1	2	0	0
-GTA	13	9	1	6	13	6	12	2	8	5	2	2	8
-GTG	6	0	0	2	1	1	2	0	0	2	4	2	6
-GCT	28	11	0	9	20	2	11	3	18	19	12	6	14
-GCC	3	0	0	1	1	1	2	1	6	4	0	0	0
-GCA	6	3	0	1	4	1	8	0	4	13	7	2	4
-GCG	4	0	0	0	0	0	0	0	0	2	1	0	2
-GAT	13	14	0	2	5	0	8	1	3	10	4	4	3
-GAC	3	0	0	2	1	0	1	0	0	1	0	1	0
-GAA	7	9	1	2	9	2	5	2	5	8	5	3	1
-GAG	3	3	0	2	3	0	2	0	2	2	4	2	2
-GGT	24	2	1	5	3	3	8	1	3	7	11	2	8
-GGC	2	1	0	1	1	1	2	2	3	3	3	0	7
-GGA	14	6	0	3	6	3	9	2	6	15	7	3	8
-GGG	7	4	0	1	3	2	5	1	5	4	4	1	6
-TAA	0	1	1	0	0	1	1	1	1	1	1	1	0
-TAG	1	0	0	1	1	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009048965.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	36	3	39	9	19	0	4	2	17	1	0	1	15	2	11	1	9	0	12	1	8	2	17	2	4	2	6	0	6	0	37	1	17	9	14	1	11	3	14	2	8	0	7	2	3	0	18	2	13	6	28	3	6	4	13	3	7	3	24	2	14	7	0	1
+1	COX2	YP_009048966.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	12	1	13	5	9	0	1	1	7	1	4	0	6	0	3	3	6	0	7	0	3	0	6	0	5	1	3	0	3	0	25	1	4	3	5	1	5	0	6	0	4	1	3	1	1	0	6	0	9	0	11	0	3	0	14	0	9	3	2	1	6	4	1	0
+2	ATP8	YP_009048967.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	3	0	3	0	1	0	0	0	1	0	0	0	5	1	4	0	0	0	1	0	1	0	1	0	0	1	0	0	0	0	7	0	0	2	3	0	1	0	5	1	4	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0
+3	ATP6	YP_009048968.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	25	1	22	2	10	1	3	2	9	0	1	1	2	2	4	0	5	2	6	0	3	0	5	0	3	1	3	0	1	0	22	0	10	3	6	1	4	0	6	1	2	0	7	1	4	1	13	0	6	2	9	1	1	0	2	2	2	2	5	1	3	1	0	1
+4	ND1	YP_009048969.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	35	5	34	7	8	0	5	3	11	3	3	0	6	1	8	2	2	0	7	0	4	1	0	0	5	1	6	0	1	0	20	2	12	2	4	2	1	0	10	2	10	0	6	2	7	2	9	0	13	1	20	1	4	0	5	1	9	3	3	1	6	3	0	1
+5	ND6	YP_009048970.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	13	2	21	2	8	1	2	1	12	1	2	0	2	0	3	1	5	1	3	0	2	0	0	0	2	0	0	0	1	0	11	2	11	2	4	0	0	0	6	1	3	2	3	1	4	0	6	1	6	1	2	1	1	0	0	0	2	0	3	1	3	2	1	0
+6	CYTB	YP_009048971.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	35	2	39	8	7	0	4	2	14	1	1	3	9	3	9	1	3	1	7	2	11	1	14	0	8	1	4	0	3	0	27	6	9	3	12	4	3	1	14	2	7	3	1	1	3	2	11	2	12	2	11	2	8	0	8	1	5	2	8	2	9	5	1	0
+7	ND4L	YP_009048972.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	6	0	11	1	7	1	0	0	3	1	2	0	0	0	3	0	1	0	0	0	0	0	1	1	2	1	0	0	0	0	9	1	7	1	3	1	0	0	2	2	2	0	1	2	7	2	2	0	2	0	3	1	0	0	1	0	2	0	1	2	2	1	1	0
+8	ND4	YP_009048973.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	35	6	51	7	12	7	11	0	17	2	5	2	12	0	16	2	4	3	9	0	5	1	5	2	7	4	1	0	2	1	31	8	30	4	10	1	9	0	16	4	14	0	6	2	9	2	7	1	8	0	18	6	4	0	3	0	5	2	3	3	6	5	1	0
+9	ND5	YP_009048974.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	39	7	56	5	18	3	17	1	8	5	8	0	8	3	14	0	21	2	6	0	9	1	7	0	10	2	1	1	3	1	38	7	39	2	11	2	16	3	19	6	20	1	12	1	19	3	18	1	5	2	19	4	13	2	10	1	8	2	7	3	15	4	1	0
+10	COX3	YP_009048975.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	27	1	21	8	9	2	1	2	8	0	2	1	10	4	6	0	1	1	6	0	1	1	10	3	3	3	1	0	4	0	9	0	5	3	11	3	2	2	4	0	2	0	3	1	1	0	11	2	2	4	12	0	7	1	4	0	5	4	11	3	7	4	1	0
+11	ND3	YP_009048976.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	12	1	8	5	7	0	2	0	1	1	2	1	2	1	2	0	2	1	2	0	1	0	0	0	2	0	3	0	1	0	8	1	4	1	0	0	0	0	2	0	2	2	1	0	3	0	8	0	2	2	6	0	2	0	4	1	3	2	2	0	3	1	1	0
+12	ND2	YP_009048977.1	Pomacea canaliculata	Eukaryota, Metazoa, Lophotrochozoa, Mollusca, Gastropoda, Caenogastropoda, Architaenioglossa, Ampullarioidea, Ampullariidae, Pomacea	36	1	39	11	16	1	5	1	11	1	1	2	10	0	5	0	3	0	7	0	1	0	3	1	3	3	0	0	1	0	36	3	17	2	4	0	2	0	11	1	7	4	6	0	14	2	13	0	8	6	14	0	4	2	3	0	1	2	8	7	8	6	0	1

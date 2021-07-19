@@ -1,65 +1,13 @@
-	YP_009180048.1|ND1	YP_009180049.1|ND2	YP_009180050.1|COX1	YP_009180051.1|COX2	YP_009180052.1|ATP8	YP_009180053.1|ATP6	YP_009180054.1|COX3	YP_009180055.1|ND3	YP_009180056.1|ND4L	YP_009180057.1|ND4	YP_009180058.1|ND5	YP_009180060.1|CYTB
-TTT	9	3	17	2	2	10	6	6	5	11	19	9
-TTC	9	8	23	7	2	3	17	3	3	6	23	21
-TTA	15	15	12	6	2	12	4	6	3	22	16	13
-TTG	0	1	0	1	0	1	0	0	0	2	2	1
-TCT	3	3	8	3	1	1	4	2	0	1	1	1
-TCC	2	5	5	6	1	1	2	3	5	9	8	5
-TCA	13	8	13	4	0	3	6	0	1	13	19	14
-TCG	0	1	1	0	0	0	0	0	0	0	0	0
-TAT	7	3	13	6	0	2	5	0	0	6	5	7
-TAC	5	4	6	3	0	3	6	2	0	8	6	7
-TGT	0	1	0	0	0	0	0	0	2	1	1	1
-TGC	0	0	1	2	0	0	2	1	1	4	4	2
-TGA	8	11	16	5	5	4	12	5	1	19	12	12
-TGG	0	0	1	0	0	1	0	0	0	1	1	0
-CTT	8	5	16	3	0	6	5	2	1	10	10	7
-CTC	9	6	6	2	0	9	8	1	5	12	15	8
-CTA	31	37	27	14	2	13	11	16	13	37	49	26
-CTG	1	2	3	2	0	4	3	1	1	2	0	6
-CCT	5	2	6	1	1	6	0	1	0	1	1	1
-CCC	8	8	6	3	1	1	4	3	1	5	9	7
-CCA	9	8	15	10	6	10	9	4	1	20	18	13
-CCG	2	0	1	0	0	0	0	0	0	1	0	0
-CAT	0	0	4	3	1	1	3	0	2	4	2	2
-CAC	5	7	15	7	1	2	13	1	2	9	13	10
-CAA	7	13	8	8	1	8	9	4	3	14	17	6
-CAG	0	0	0	0	0	0	0	0	0	0	1	0
-CGT	0	1	0	0	0	0	1	0	0	1	1	1
-CGC	1	0	2	2	0	0	0	1	3	2	1	1
-CGA	6	3	4	4	0	5	4	1	0	8	7	6
-CGG	1	0	2	0	0	1	0	0	0	0	1	0
-ATT	12	18	29	13	4	17	13	6	2	26	37	24
-ATC	10	12	9	7	2	7	4	3	0	14	21	10
-ATA	9	17	20	10	1	7	7	2	4	26	34	12
-ATG	2	1	4	3	1	4	1	2	1	4	5	1
-ACT	3	6	7	4	2	2	3	0	1	7	12	2
-ACC	6	25	10	4	2	4	6	4	1	12	14	9
-ACA	10	21	18	3	1	11	12	4	6	16	31	11
-ACG	0	0	1	0	0	2	1	0	0	3	1	0
-AAT	6	3	10	3	2	4	1	2	0	5	8	8
-AAC	8	7	5	3	1	5	0	1	1	7	20	9
-AAA	7	10	8	4	2	1	2	1	0	8	23	9
-AAG	0	0	0	0	1	0	0	0	0	0	2	0
-AGT	1	0	1	0	0	1	1	0	0	0	2	0
-AGC	2	6	4	3	1	4	2	0	4	6	9	1
-GTT	2	0	12	6	0	3	4	1	0	4	8	3
-GTC	3	1	1	2	0	3	1	1	0	3	4	4
-GTA	13	6	26	9	1	7	10	2	2	9	7	12
-GTG	0	0	4	0	0	2	1	0	0	1	1	1
-GCT	3	2	11	4	1	3	2	1	1	6	5	3
-GCC	17	15	20	4	0	8	11	3	6	15	27	8
-GCA	13	16	14	7	1	9	9	4	6	16	17	20
-GCG	0	0	0	1	0	0	0	0	0	0	0	1
-GAT	2	0	6	2	0	0	2	0	0	0	4	4
-GAC	2	4	8	10	1	1	3	4	1	3	10	7
-GAA	10	5	9	15	3	3	8	6	3	10	8	7
-GAG	1	0	2	0	0	1	2	0	0	1	4	0
-GGT	1	1	9	1	0	2	0	1	0	3	1	2
-GGC	3	2	8	3	1	2	6	1	1	6	6	6
-GGA	11	12	22	5	0	6	12	4	5	18	22	16
-GGG	3	3	7	0	0	1	3	0	0	2	2	1
-TAA	1	0	1	0	0	1	0	0	1	0	1	1
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009180048.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	9	9	15	0	3	2	13	0	7	5	0	0	8	0	8	9	31	1	5	8	9	2	0	5	7	0	0	1	6	1	12	10	9	2	3	6	10	0	6	8	7	0	1	2	2	3	13	0	3	17	13	0	2	2	10	1	1	3	11	3	1	0	0	0
+1	ND2	YP_009180049.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	3	8	15	1	3	5	8	1	3	4	1	0	11	0	5	6	37	2	2	8	8	0	0	7	13	0	1	0	3	0	18	12	17	1	6	25	21	0	3	7	10	0	0	6	0	1	6	0	2	15	16	0	0	4	5	0	1	2	12	3	0	0	0	0
+2	COX1	YP_009180050.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	17	23	12	0	8	5	13	1	13	6	0	1	16	1	16	6	27	3	6	6	15	1	4	15	8	0	0	2	4	2	29	9	20	4	7	10	18	1	10	5	8	0	1	4	12	1	26	4	11	20	14	0	6	8	9	2	9	8	22	7	1	0	0	0
+3	COX2	YP_009180051.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	2	7	6	1	3	6	4	0	6	3	0	2	5	0	3	2	14	2	1	3	10	0	3	7	8	0	0	2	4	0	13	7	10	3	4	4	3	0	3	3	4	0	0	3	6	2	9	0	4	4	7	1	2	10	15	0	1	3	5	0	0	0	0	0
+4	ATP8	YP_009180052.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	2	2	2	0	1	1	0	0	0	0	0	0	5	0	0	0	2	0	1	1	6	0	1	1	1	0	0	0	0	0	4	2	1	1	2	2	1	0	2	1	2	1	0	1	0	0	1	0	1	0	1	0	0	1	3	0	0	1	0	0	0	1	0	0
+5	ATP6	YP_009180053.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	10	3	12	1	1	1	3	0	2	3	0	0	4	1	6	9	13	4	6	1	10	0	1	2	8	0	0	0	5	1	17	7	7	4	2	4	11	2	4	5	1	0	1	4	3	3	7	2	3	8	9	0	0	1	3	1	2	2	6	1	1	0	0	0
+6	COX3	YP_009180054.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	6	17	4	0	4	2	6	0	5	6	0	2	12	0	5	8	11	3	0	4	9	0	3	13	9	0	1	0	4	0	13	4	7	1	3	6	12	1	1	0	2	0	1	2	4	1	10	1	2	11	9	0	2	3	8	2	0	6	12	3	0	0	0	0
+7	ND3	YP_009180055.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	6	3	6	0	2	3	0	0	0	2	0	1	5	0	2	1	16	1	1	3	4	0	0	1	4	0	0	1	1	0	6	3	2	2	0	4	4	0	2	1	1	0	0	0	1	1	2	0	1	3	4	0	0	4	6	0	1	1	4	0	0	0	0	0
+8	ND4L	YP_009180056.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	5	3	3	0	0	5	1	0	0	0	2	1	1	0	1	5	13	1	0	1	1	0	2	2	3	0	0	3	0	0	2	0	4	1	1	1	6	0	0	1	0	0	0	4	0	0	2	0	1	6	6	0	0	1	3	0	0	1	5	0	1	0	0	0
+9	ND4	YP_009180057.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	11	6	22	2	1	9	13	0	6	8	1	4	19	1	10	12	37	2	1	5	20	1	4	9	14	0	1	2	8	0	26	14	26	4	7	12	16	3	5	7	8	0	0	6	4	3	9	1	6	15	16	0	0	3	10	1	3	6	18	2	0	0	0	0
+10	ND5	YP_009180058.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	19	23	16	2	1	8	19	0	5	6	1	4	12	1	10	15	49	0	1	9	18	0	2	13	17	1	1	1	7	1	37	21	34	5	12	14	31	1	8	20	23	2	2	9	8	4	7	1	5	27	17	0	4	10	8	4	1	6	22	2	1	0	0	0
+11	CYTB	YP_009180060.1	Garra kempi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Garra	9	21	13	1	1	5	14	0	7	7	1	2	12	0	7	8	26	6	1	7	13	0	2	10	6	0	1	1	6	0	24	10	12	1	2	9	11	0	8	9	9	0	0	1	3	4	12	1	3	8	20	1	4	7	7	0	2	6	16	1	1	0	0	0

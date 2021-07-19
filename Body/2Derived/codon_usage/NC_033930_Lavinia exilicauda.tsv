@@ -1,65 +1,13 @@
-	YP_009348735.1|ND1	YP_009348736.1|ND2	YP_009348737.1|COX1	YP_009348738.1|COX2	YP_009348739.1|ATP8	YP_009348740.1|ATP6	YP_009348741.1|COX3	YP_009348742.1|ND3	YP_009348743.1|ND4L	YP_009348744.1|ND4	YP_009348745.1|ND5	YP_009348747.1|CYTB
-TTT	12	5	25	6	1	7	12	4	5	6	16	16
-TTC	5	3	17	3	2	6	11	5	3	10	22	12
-TTA	16	9	8	6	0	9	5	6	2	21	21	11
-TTG	0	3	0	0	0	0	1	0	0	2	3	2
-TCT	5	2	9	2	0	1	5	0	1	9	6	6
-TCC	5	7	1	5	1	2	1	2	2	8	6	2
-TCA	9	4	14	6	0	1	5	3	2	5	11	14
-TCG	0	2	2	0	1	0	0	1	1	2	3	0
-TAT	9	4	10	4	0	0	7	0	0	8	9	7
-TAC	4	4	8	5	0	3	4	2	0	6	3	8
-TGT	0	0	1	0	0	0	1	0	0	2	1	2
-TGC	0	1	0	2	0	0	1	1	3	3	4	1
-TGA	7	9	16	4	4	3	11	4	1	18	13	12
-TGG	1	2	1	1	1	2	1	1	0	2	1	0
-CTT	12	11	19	7	1	9	10	2	5	20	23	10
-CTC	10	15	9	2	1	7	5	7	4	15	11	6
-CTA	17	26	23	13	2	20	10	8	10	24	32	27
-CTG	8	7	3	0	0	2	2	2	1	6	8	7
-CCT	10	7	5	1	2	3	2	2	1	9	7	5
-CCC	9	9	6	7	1	4	2	3	0	6	13	3
-CCA	5	2	16	5	3	10	6	3	1	12	8	9
-CCG	0	1	1	1	2	1	2	0	0	1	0	3
-CAT	1	1	7	3	1	1	6	0	3	9	4	2
-CAC	3	5	11	7	1	2	10	1	1	3	11	10
-CAA	6	10	7	8	1	7	8	3	2	6	17	5
-CAG	1	4	1	0	0	1	1	0	1	5	3	2
-CGT	1	0	1	2	0	0	1	0	0	0	0	0
-CGC	3	1	1	1	0	0	2	1	2	3	2	2
-CGA	1	1	5	2	0	6	2	1	1	8	5	6
-CGG	3	2	1	1	0	0	0	0	0	0	2	0
-ATT	13	16	28	11	2	13	10	4	2	27	35	15
-ATC	4	8	9	5	1	8	2	4	0	15	14	12
-ATA	9	13	17	9	1	7	7	1	4	21	25	10
-ATG	4	8	6	3	1	4	2	1	2	6	8	3
-ACT	4	8	4	3	1	6	4	1	2	6	7	3
-ACC	5	17	9	2	3	2	6	5	2	13	25	13
-ACA	7	12	20	5	1	11	12	3	4	13	22	6
-ACG	1	2	2	1	0	1	0	0	1	7	4	1
-AAT	4	3	8	3	1	8	1	0	1	2	13	10
-AAC	7	5	8	1	4	2	0	3	1	6	16	6
-AAA	5	7	8	4	3	1	2	0	0	9	21	9
-AAG	2	2	0	0	0	0	0	1	0	2	2	0
-AGT	1	2	1	1	1	1	1	0	0	4	5	0
-AGC	3	5	3	3	0	3	2	0	2	5	5	3
-GTT	5	8	11	7	2	5	7	2	0	3	9	9
-GTC	5	1	8	5	1	1	2	0	0	0	11	4
-GTA	12	2	24	10	1	7	6	3	2	14	14	9
-GTG	2	1	2	0	0	4	4	0	0	0	0	4
-GCT	2	5	11	2	0	6	2	2	2	10	8	3
-GCC	15	22	21	9	0	6	11	2	4	11	24	11
-GCA	13	13	14	4	2	7	9	4	5	11	19	15
-GCG	3	5	2	1	0	2	0	1	2	3	2	1
-GAT	2	3	7	2	0	0	2	0	0	1	5	6
-GAC	2	1	8	11	0	1	3	4	1	3	9	5
-GAA	7	3	7	14	3	1	7	4	1	7	6	5
-GAG	4	1	4	1	1	3	3	2	2	4	6	1
-GGT	4	1	14	2	0	0	4	0	2	3	1	2
-GGC	5	5	8	1	0	3	9	2	1	13	7	8
-GGA	9	9	17	4	0	7	7	3	2	9	18	9
-GGG	2	3	7	2	0	0	2	2	1	3	5	7
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009348735.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	12	5	16	0	5	5	9	0	9	4	0	0	7	1	12	10	17	8	10	9	5	0	1	3	6	1	1	3	1	3	13	4	9	4	4	5	7	1	4	7	5	2	1	3	5	5	12	2	2	15	13	3	2	2	7	4	4	5	9	2	0	1	0	0
+1	ND2	YP_009348736.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	5	3	9	3	2	7	4	2	4	4	0	1	9	2	11	15	26	7	7	9	2	1	1	5	10	4	0	1	1	2	16	8	13	8	8	17	12	2	3	5	7	2	2	5	8	1	2	1	5	22	13	5	3	1	3	1	1	5	9	3	0	0	0	0
+2	COX1	YP_009348737.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	25	17	8	0	9	1	14	2	10	8	1	0	16	1	19	9	23	3	5	6	16	1	7	11	7	1	1	1	5	1	28	9	17	6	4	9	20	2	8	8	8	0	1	3	11	8	24	2	11	21	14	2	7	8	7	4	14	8	17	7	1	0	0	0
+3	COX2	YP_009348738.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	6	3	6	0	2	5	6	0	4	5	0	2	4	1	7	2	13	0	1	7	5	1	3	7	8	0	2	1	2	1	11	5	9	3	3	2	5	1	3	1	4	0	1	3	7	5	10	0	2	9	4	1	2	11	14	1	2	1	4	2	0	0	0	0
+4	ATP8	YP_009348739.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	1	2	0	0	0	1	0	1	0	0	0	0	4	1	1	1	2	0	2	1	3	2	1	1	1	0	0	0	0	0	2	1	1	1	1	3	1	0	1	4	3	0	1	0	2	1	1	0	0	0	2	0	0	0	3	1	0	0	0	0	1	0	0	0
+5	ATP6	YP_009348740.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	7	6	9	0	1	2	1	0	0	3	0	0	3	2	9	7	20	2	3	4	10	1	1	2	7	1	0	0	6	0	13	8	7	4	6	2	11	1	8	2	1	0	1	3	5	1	7	4	6	6	7	2	0	1	1	3	0	3	7	0	0	0	0	0
+6	COX3	YP_009348741.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	12	11	5	1	5	1	5	0	7	4	1	1	11	1	10	5	10	2	2	2	6	2	6	10	8	1	1	2	2	0	10	2	7	2	4	6	12	0	1	0	2	0	1	2	7	2	6	4	2	11	9	0	2	3	7	3	4	9	7	2	0	0	0	0
+7	ND3	YP_009348742.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	4	5	6	0	0	2	3	1	0	2	0	1	4	1	2	7	8	2	2	3	3	0	0	1	3	0	0	1	1	0	4	4	1	1	1	5	3	0	0	3	0	1	0	0	2	0	3	0	2	2	4	1	0	4	4	2	0	2	3	2	0	0	0	0
+8	ND4L	YP_009348743.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	5	3	2	0	1	2	2	1	0	0	0	3	1	0	5	4	10	1	1	0	1	0	3	1	2	1	0	2	1	0	2	0	4	2	2	2	4	1	1	1	0	0	0	2	0	0	2	0	2	4	5	2	0	1	1	2	2	1	2	1	1	0	0	0
+9	ND4	YP_009348744.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	6	10	21	2	9	8	5	2	8	6	2	3	18	2	20	15	24	6	9	6	12	1	9	3	6	5	0	3	8	0	27	15	21	6	6	13	13	7	2	6	9	2	4	5	3	0	14	0	10	11	11	3	1	3	7	4	3	13	9	3	0	0	0	0
+10	ND5	YP_009348745.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	16	22	21	3	6	6	11	3	9	3	1	4	13	1	23	11	32	8	7	13	8	0	4	11	17	3	0	2	5	2	35	14	25	8	7	25	22	4	13	16	21	2	5	5	9	11	14	0	8	24	19	2	5	9	6	6	1	7	18	5	1	0	0	0
+11	CYTB	YP_009348747.1	Lavinia exilicauda	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Lavinia	16	12	11	2	6	2	14	0	7	8	2	1	12	0	10	6	27	7	5	3	9	3	2	10	5	2	0	2	6	0	15	12	10	3	3	13	6	1	10	6	9	0	0	3	9	4	9	4	3	11	15	1	6	5	5	1	2	8	9	7	0	0	0	0

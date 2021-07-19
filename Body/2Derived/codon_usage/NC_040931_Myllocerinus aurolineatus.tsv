@@ -1,65 +1,10 @@
-	YP_009555975.1|COX1	YP_009555976.1|COX2	YP_009555977.1|ATP8	YP_009555978.1|ATP6	YP_009555979.1|COX3	YP_009555980.1|ND3	YP_009555984.1|ND6	YP_009555985.1|CYTB	YP_009555987.1|ND2
-TTT	44	7	5	15	23	11	16	30	32
-TTC	2	3	1	3	4	2	7	5	3
-TTA	36	13	7	22	26	12	19	27	22
-TTG	1	1	0	0	2	1	0	2	0
-TCT	21	7	1	7	6	4	3	6	18
-TCC	4	0	0	2	1	0	1	1	4
-TCA	11	8	1	7	5	0	5	8	8
-TCG	0	0	0	0	0	1	0	0	1
-TAT	14	5	4	4	9	2	6	17	11
-TAC	4	3	0	0	2	1	1	1	3
-TGT	0	2	0	1	0	1	1	4	4
-TGC	0	0	0	0	1	0	0	0	0
-TGA	14	6	3	6	12	2	3	11	6
-TGG	0	0	0	0	1	0	1	0	0
-CTT	10	11	1	11	8	3	3	7	14
-CTC	0	1	0	1	2	0	0	3	1
-CTA	12	3	0	9	3	5	3	8	11
-CTG	0	0	0	0	0	0	0	0	0
-CCT	15	4	2	1	5	2	1	10	6
-CCC	6	2	1	3	3	1	0	3	1
-CCA	4	4	1	6	4	1	1	8	3
-CCG	0	0	0	0	0	0	0	1	0
-CAT	12	4	0	3	7	1	0	7	6
-CAC	3	1	0	2	6	0	1	1	0
-CAA	7	9	1	3	6	4	0	9	7
-CAG	0	0	0	0	0	0	0	1	0
-CGT	3	3	0	0	1	1	0	1	0
-CGC	0	2	0	0	0	0	0	2	0
-CGA	6	2	0	3	3	1	1	3	2
-CGG	0	0	0	0	0	0	0	0	0
-ATT	38	29	6	26	17	14	18	38	45
-ATC	9	3	1	3	2	0	6	5	7
-ATA	28	11	2	9	11	10	10	19	17
-ATG	1	0	0	1	1	1	0	2	0
-ACT	16	6	0	8	7	1	5	11	8
-ACC	2	3	2	1	2	1	1	3	0
-ACA	9	5	1	7	10	0	4	10	10
-ACG	1	0	0	0	0	0	0	0	0
-AAT	15	13	2	17	8	2	13	16	15
-AAC	5	3	0	2	3	0	2	4	4
-AAA	10	5	5	5	5	7	9	16	19
-AAG	0	0	0	0	0	1	1	0	1
-AGT	2	0	1	0	0	1	0	2	2
-AGC	1	0	0	1	1	0	2	0	2
-AGA	11	6	0	6	7	4	5	6	4
-AGG	0	0	0	0	1	0	1	0	0
-GTT	12	3	1	1	3	2	2	2	4
-GTC	2	1	0	2	0	0	2	0	1
-GTA	16	5	0	3	7	1	2	14	3
-GTG	2	0	0	0	0	0	0	1	0
-GCT	13	4	1	2	4	3	1	11	9
-GCC	6	0	1	1	1	0	0	4	1
-GCA	14	2	0	4	2	2	1	5	3
-GCG	0	0	0	2	0	0	0	0	0
-GAT	15	6	0	1	4	1	2	7	0
-GAC	1	4	0	0	1	2	1	1	1
-GAA	9	9	0	4	8	4	3	3	7
-GAG	0	0	0	0	0	1	0	0	1
-GGT	8	3	0	1	3	0	0	3	3
-GGC	2	0	0	0	2	0	0	3	2
-GGA	31	5	0	7	10	3	4	13	5
-GGG	3	1	0	1	2	0	0	4	1
-TAA	0	1	0	1	0	1	1	0	1
-TAG	0	0	1	0	1	0	0	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009555975.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	44	2	36	1	21	4	11	0	14	4	0	0	14	0	10	0	12	0	15	6	4	0	12	3	7	0	3	0	6	0	38	9	28	1	16	2	9	1	15	5	10	0	2	1	11	0	12	2	16	2	13	6	14	0	15	1	9	0	8	2	31	3	0	0
+1	COX2	YP_009555976.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	7	3	13	1	7	0	8	0	5	3	2	0	6	0	11	1	3	0	4	2	4	0	4	1	9	0	3	2	2	0	29	3	11	0	6	3	5	0	13	3	5	0	0	0	6	0	3	1	5	0	4	0	2	0	6	4	9	0	3	0	5	1	1	0
+2	ATP8	YP_009555977.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	5	1	7	0	1	0	1	0	4	0	0	0	3	0	1	0	0	0	2	1	1	0	0	0	1	0	0	0	0	0	6	1	2	0	0	2	1	0	2	0	5	0	1	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1
+3	ATP6	YP_009555978.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	15	3	22	0	7	2	7	0	4	0	1	0	6	0	11	1	9	0	1	3	6	0	3	2	3	0	0	0	3	0	26	3	9	1	8	1	7	0	17	2	5	0	0	1	6	0	1	2	3	0	2	1	4	2	1	0	4	0	1	0	7	1	1	0
+4	COX3	YP_009555979.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	23	4	26	2	6	1	5	0	9	2	0	1	12	1	8	2	3	0	5	3	4	0	7	6	6	0	1	0	3	0	17	2	11	1	7	2	10	0	8	3	5	0	0	1	7	1	3	0	7	0	4	1	2	0	4	1	8	0	3	2	10	2	0	1
+5	ND3	YP_009555980.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	11	2	12	1	4	0	0	1	2	1	1	0	2	0	3	0	5	0	2	1	1	0	1	0	4	0	1	0	1	0	14	0	10	1	1	1	0	0	2	0	7	1	1	0	4	0	2	0	1	0	3	0	2	0	1	2	4	1	0	0	3	0	1	0
+6	ND6	YP_009555984.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	16	7	19	0	3	1	5	0	6	1	1	0	3	1	3	0	3	0	1	0	1	0	0	1	0	0	0	0	1	0	18	6	10	0	5	1	4	0	13	2	9	1	0	2	5	1	2	2	2	0	1	0	1	0	2	1	3	0	0	0	4	0	1	0
+7	CYTB	YP_009555985.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	30	5	27	2	6	1	8	0	17	1	4	0	11	0	7	3	8	0	10	3	8	1	7	1	9	1	1	2	3	0	38	5	19	2	11	3	10	0	16	4	16	0	2	0	6	0	2	0	14	1	11	4	5	0	7	1	3	0	3	3	13	4	0	1
+8	ND2	YP_009555987.1	Myllocerinus aurolineatus	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Coleoptera, Polyphaga, Cucujiformia, Curculionidae, Entiminae, Cyphicerini, Myllocerinus	32	3	22	0	18	4	8	1	11	3	4	0	6	0	14	1	11	0	6	1	3	0	6	0	7	0	0	0	2	0	45	7	17	0	8	0	10	0	15	4	19	1	2	2	4	0	4	1	3	0	9	1	3	0	0	1	7	1	3	2	5	1	1	0

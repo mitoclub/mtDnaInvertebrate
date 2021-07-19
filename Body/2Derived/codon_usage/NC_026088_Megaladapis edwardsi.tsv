@@ -1,65 +1,12 @@
-	YP_009114653.1|ND1	YP_009114655.1|COX1	YP_009114656.1|COX2	YP_009114657.1|ATP8	YP_009114658.1|ATP6	YP_009114659.1|COX3	YP_009114660.1|ND3	YP_009114661.1|ND4L	YP_009114662.1|ND4	YP_009114663.1|ND5	YP_009114665.1|CYTB
-TTT	10	21	4	0	7	9	3	5	8	19	13
-TTC	8	21	2	1	4	18	4	1	10	26	11
-TTA	7	15	6	4	3	7	1	5	19	16	8
-TTG	0	1	1	0	1	0	1	0	3	1	1
-TCT	2	6	3	1	3	2	2	1	5	12	2
-TCC	6	5	5	0	2	4	1	4	13	12	11
-TCA	12	15	7	4	3	9	1	3	15	14	9
-TCG	1	1	1	0	1	2	0	0	1	1	0
-TAT	8	10	7	2	2	6	3	0	6	9	8
-TAC	6	10	4	1	0	4	1	2	12	13	6
-TGT	0	0	1	0	0	0	1	0	2	2	0
-TGC	2	1	2	0	0	2	0	3	2	2	3
-TGA	9	13	5	3	2	11	4	0	12	12	11
-TGG	0	4	0	0	1	1	0	0	2	0	1
-CTT	7	8	8	3	6	7	6	4	11	15	15
-CTC	9	5	4	2	6	3	4	2	12	13	3
-CTA	30	26	14	5	23	12	13	10	33	44	31
-CTG	4	3	2	0	1	2	1	2	6	3	2
-CCT	3	9	4	4	4	5	3	0	1	3	10
-CCC	10	11	5	1	5	2	3	0	8	8	6
-CCA	9	7	4	1	6	3	1	2	12	12	8
-CCG	0	1	0	0	0	0	0	0	0	1	0
-CAT	1	8	5	0	2	5	0	0	2	9	4
-CAC	2	10	2	1	5	11	0	2	8	4	8
-CAA	5	4	4	4	6	7	3	1	10	19	8
-CAG	2	2	2	0	2	0	0	0	0	0	0
-CGT	1	3	0	0	1	0	0	0	1	1	0
-CGC	1	1	3	0	2	2	0	1	1	1	1
-CGA	5	4	3	0	2	3	1	0	8	6	6
-CGG	0	0	0	0	0	0	0	0	0	0	0
-ATT	17	28	13	4	18	6	3	4	26	35	21
-ATC	10	11	6	2	9	8	3	5	20	25	21
-ATA	13	25	12	2	9	8	4	6	31	36	16
-ATG	5	9	2	2	5	1	0	1	5	6	1
-ACT	6	6	1	0	9	6	3	1	11	13	2
-ACC	9	7	10	1	9	7	4	3	9	17	8
-ACA	13	21	8	4	8	11	6	2	21	20	15
-ACG	0	4	0	1	2	2	0	0	0	1	0
-AAT	6	9	2	1	2	3	2	4	9	15	7
-AAC	5	8	2	2	7	4	1	1	16	21	12
-AAA	8	8	4	6	3	0	3	1	10	20	8
-AAG	0	1	1	0	1	2	1	0	2	3	2
-AGT	0	1	0	0	1	0	2	0	3	5	0
-AGC	2	2	4	1	4	3	1	0	6	6	3
-GTT	3	7	2	0	3	2	0	0	2	3	2
-GTC	0	5	3	2	0	3	0	1	0	3	1
-GTA	8	21	5	0	7	9	5	5	6	5	10
-GTG	2	4	2	0	0	1	0	0	0	3	1
-GCT	9	9	4	1	7	4	2	3	2	5	3
-GCC	8	12	2	0	3	6	2	3	12	14	13
-GCA	8	18	3	0	5	6	5	2	13	21	6
-GCG	0	0	0	0	0	0	0	1	1	0	1
-GAT	2	9	8	1	0	3	0	0	0	3	4
-GAC	1	6	3	0	1	0	3	1	3	8	6
-GAA	9	9	11	0	2	8	5	2	7	8	5
-GAG	2	1	3	1	1	0	0	0	2	2	1
-GGT	2	12	3	0	2	5	1	1	3	5	1
-GGC	4	11	2	0	4	11	2	2	4	8	9
-GGA	4	19	3	0	4	5	0	0	10	11	12
-GGG	2	5	0	0	0	0	0	1	2	3	2
-TAA	0	1	1	0	1	0	0	1	0	1	0
-TAG	1	0	0	1	0	0	1	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009114653.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	10	8	7	0	2	6	12	1	8	6	0	2	9	0	7	9	30	4	3	10	9	0	1	2	5	2	1	1	5	0	17	10	13	5	6	9	13	0	6	5	8	0	0	2	3	0	8	2	9	8	8	0	2	1	9	2	2	4	4	2	0	1	0	0
+1	COX1	YP_009114655.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	21	21	15	1	6	5	15	1	10	10	0	1	13	4	8	5	26	3	9	11	7	1	8	10	4	2	3	1	4	0	28	11	25	9	6	7	21	4	9	8	8	1	1	2	7	5	21	4	9	12	18	0	9	6	9	1	12	11	19	5	1	0	0	0
+2	COX2	YP_009114656.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	4	2	6	1	3	5	7	1	7	4	1	2	5	0	8	4	14	2	4	5	4	0	5	2	4	2	0	3	3	0	13	6	12	2	1	10	8	0	2	2	4	1	0	4	2	3	5	2	4	2	3	0	8	3	11	3	3	2	3	0	1	0	0	0
+3	ATP8	YP_009114657.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	0	1	4	0	1	0	4	0	2	1	0	0	3	0	3	2	5	0	4	1	1	0	0	1	4	0	0	0	0	0	4	2	2	2	0	1	4	1	1	2	6	0	0	1	0	2	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0
+4	ATP6	YP_009114658.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	7	4	3	1	3	2	3	1	2	0	0	0	2	1	6	6	23	1	4	5	6	0	2	5	6	2	1	2	2	0	18	9	9	5	9	9	8	2	2	7	3	1	1	4	3	0	7	0	7	3	5	0	0	1	2	1	2	4	4	0	1	0	0	0
+5	COX3	YP_009114659.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	9	18	7	0	2	4	9	2	6	4	0	2	11	1	7	3	12	2	5	2	3	0	5	11	7	0	0	2	3	0	6	8	8	1	6	7	11	2	3	4	0	2	0	3	2	3	9	1	4	6	6	0	3	0	8	0	5	11	5	0	0	0	0	0
+6	ND3	YP_009114660.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	3	4	1	1	2	1	1	0	3	1	1	0	4	0	6	4	13	1	3	3	1	0	0	0	3	0	0	0	1	0	3	3	4	0	3	4	6	0	2	1	3	1	2	1	0	0	5	0	2	2	5	0	0	3	5	0	1	2	0	0	0	1	0	0
+7	ND4L	YP_009114661.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	5	1	5	0	1	4	3	0	0	2	0	3	0	0	4	2	10	2	0	0	2	0	0	2	1	0	0	1	0	0	4	5	6	1	1	3	2	0	4	1	1	0	0	0	0	1	5	0	3	3	2	1	0	1	2	0	1	2	0	1	1	0	0	0
+8	ND4	YP_009114662.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	8	10	19	3	5	13	15	1	6	12	2	2	12	2	11	12	33	6	1	8	12	0	2	8	10	0	1	1	8	0	26	20	31	5	11	9	21	0	9	16	10	2	3	6	2	0	6	0	2	12	13	1	0	3	7	2	3	4	10	2	0	0	0	0
+9	ND5	YP_009114663.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	19	26	16	1	12	12	14	1	9	13	2	2	12	0	15	13	44	3	3	8	12	1	9	4	19	0	1	1	6	0	35	25	36	6	13	17	20	1	15	21	20	3	5	6	3	3	5	3	5	14	21	0	3	8	8	2	5	8	11	3	1	0	0	0
+10	CYTB	YP_009114665.1	Megaladapis edwardsi	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Euarchontoglires, Primates, Strepsirrhini, Lemuriformes, Lepilemuridae, Megaladapis	13	11	8	1	2	11	9	0	8	6	0	3	11	1	15	3	31	2	10	6	8	0	4	8	8	0	0	1	6	0	21	21	16	1	2	8	15	0	7	12	8	2	0	3	2	1	10	1	3	13	6	1	4	6	5	1	1	9	12	2	0	0	1	0

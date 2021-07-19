@@ -1,65 +1,13 @@
-	YP_009051623.1|ND1	YP_009051624.1|ND2	YP_009051625.1|COX1	YP_009051626.1|COX2	YP_009051627.1|ATP8	YP_009051628.1|ATP6	YP_009051629.1|COX3	YP_009051630.1|ND3	YP_009051631.1|ND4L	YP_009051632.1|ND4	YP_009051633.1|ND5	YP_009051634.1|CYTB
-TTT	3	2	14	1	3	4	3	3	2	1	8	8
-TTC	14	13	28	8	1	6	22	6	3	13	25	26
-TTA	4	4	7	4	1	8	0	1	5	13	10	2
-TTG	0	1	0	1	0	1	0	0	1	1	0	0
-TCT	4	8	4	4	2	1	4	1	2	5	8	2
-TCC	6	10	10	8	3	6	3	4	4	16	19	7
-TCA	12	9	10	5	0	4	6	4	1	12	14	11
-TCG	1	1	0	0	0	0	0	0	0	0	0	0
-TAT	4	2	2	5	0	1	3	1	1	3	3	3
-TAC	12	5	16	3	0	3	7	1	2	11	11	10
-TGT	0	1	0	1	0	0	0	0	1	0	1	1
-TGC	1	1	1	2	0	0	1	1	2	3	5	3
-TGA	6	6	13	4	4	3	11	4	1	12	12	9
-TGG	2	4	4	1	1	1	1	1	0	0	0	2
-CTT	7	12	12	5	1	11	5	7	1	15	14	7
-CTC	23	12	16	9	3	18	13	5	4	23	33	20
-CTA	29	26	27	13	4	24	14	12	10	42	45	33
-CTG	4	9	1	0	0	0	2	0	0	1	7	0
-CCT	4	5	11	4	2	4	5	1	1	5	6	3
-CCC	9	6	8	5	4	8	3	2	0	9	14	8
-CCA	10	10	10	4	3	4	4	4	1	13	14	13
-CCG	0	0	2	0	0	1	0	0	0	0	0	1
-CAT	0	3	4	3	0	1	1	0	2	2	3	0
-CAC	3	5	15	5	0	2	15	0	4	14	11	13
-CAA	5	8	9	6	2	8	9	2	2	14	17	8
-CAG	1	2	0	1	0	1	0	2	0	0	1	0
-CGT	1	2	1	0	0	1	0	0	0	0	1	0
-CGC	5	0	2	2	0	2	1	1	0	4	3	3
-CGA	2	1	5	2	0	2	3	1	1	6	5	5
-CGG	0	0	0	1	0	0	1	0	1	0	0	0
-ATT	7	14	17	9	3	12	1	4	1	12	12	8
-ATC	15	15	26	11	1	9	15	7	3	29	41	23
-ATA	10	15	22	10	1	7	9	2	6	29	23	9
-ATG	2	8	4	1	1	2	1	0	1	1	3	2
-ACT	6	6	4	3	1	4	4	0	2	8	11	2
-ACC	13	19	22	6	2	6	8	10	7	21	33	15
-ACA	8	16	13	4	4	12	10	2	2	17	24	13
-ACG	0	1	0	0	0	0	0	1	0	0	1	0
-AAT	1	2	3	1	1	1	1	0	0	3	8	5
-AAC	12	11	12	4	3	7	3	2	2	11	21	15
-AAA	7	9	9	4	2	4	3	1	0	9	21	9
-AAG	0	3	0	0	0	1	0	0	0	1	1	0
-AGT	0	0	0	0	0	0	1	0	0	1	2	0
-AGC	5	3	3	3	0	3	4	1	3	9	6	2
-GTT	1	3	4	2	0	2	2	1	0	2	1	2
-GTC	4	4	10	4	0	2	4	1	1	3	4	5
-GTA	6	1	18	7	0	3	6	1	1	3	5	8
-GTG	0	1	1	0	0	0	0	0	0	0	1	0
-GCT	4	4	8	3	0	3	5	1	1	4	14	5
-GCC	14	12	22	6	1	9	10	2	8	16	19	12
-GCA	10	13	12	6	1	2	7	2	2	13	13	8
-GCG	0	0	2	0	0	0	0	0	0	0	0	0
-GAT	0	0	2	4	0	0	1	2	0	0	4	2
-GAC	4	1	13	10	0	1	3	1	1	2	4	5
-GAA	9	5	9	14	0	4	6	5	2	7	9	5
-GAG	2	0	1	0	0	0	2	1	0	2	2	2
-GGT	0	3	4	2	0	0	2	1	0	3	2	3
-GGC	6	4	21	2	0	4	9	1	0	7	14	10
-GGA	5	3	20	4	0	3	7	3	3	7	12	7
-GGG	2	2	2	0	0	1	0	0	0	1	4	5
-TAA	0	0	0	1	1	1	0	0	1	0	0	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	1	0	0	0	0	0	0	0	0	0	1	0
-AGG	0	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009051623.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	3	14	4	0	4	6	12	1	4	12	0	1	6	2	7	23	29	4	4	9	10	0	0	3	5	1	1	5	2	0	7	15	10	2	6	13	8	0	1	12	7	0	0	5	1	4	6	0	4	14	10	0	0	4	9	2	0	6	5	2	0	0	1	0
+1	ND2	YP_009051624.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	2	13	4	1	8	10	9	1	2	5	1	1	6	4	12	12	26	9	5	6	10	0	3	5	8	2	2	0	1	0	14	15	15	8	6	19	16	1	2	11	9	3	0	3	3	4	1	1	4	12	13	0	0	1	5	0	3	4	3	2	0	0	0	0
+2	COX1	YP_009051625.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	14	28	7	0	4	10	10	0	2	16	0	1	13	4	12	16	27	1	11	8	10	2	4	15	9	0	1	2	5	0	17	26	22	4	4	22	13	0	3	12	9	0	0	3	4	10	18	1	8	22	12	2	2	13	9	1	4	21	20	2	0	0	0	1
+3	COX2	YP_009051626.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	1	8	4	1	4	8	5	0	5	3	1	2	4	1	5	9	13	0	4	5	4	0	3	5	6	1	0	2	2	1	9	11	10	1	3	6	4	0	1	4	4	0	0	3	2	4	7	0	3	6	6	0	4	10	14	0	2	2	4	0	1	0	0	0
+4	ATP8	YP_009051627.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	3	1	1	0	2	3	0	0	0	0	0	0	4	1	1	3	4	0	2	4	3	0	0	0	2	0	0	0	0	0	3	1	1	1	1	2	4	0	1	3	2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009051628.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	4	6	8	1	1	6	4	0	1	3	0	0	3	1	11	18	24	0	4	8	4	1	1	2	8	1	1	2	2	0	12	9	7	2	4	6	12	0	1	7	4	1	0	3	2	2	3	0	3	9	2	0	0	1	4	0	0	4	3	1	1	0	0	0
+6	COX3	YP_009051629.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	3	22	0	0	4	3	6	0	3	7	0	1	11	1	5	13	14	2	5	3	4	0	1	15	9	0	0	1	3	1	1	15	9	1	4	8	10	0	1	3	3	0	1	4	2	4	6	0	5	10	7	0	1	3	6	2	2	9	7	0	0	0	0	0
+7	ND3	YP_009051630.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	3	6	1	0	1	4	4	0	1	1	0	1	4	1	7	5	12	0	1	2	4	0	0	0	2	2	0	1	1	0	4	7	2	0	0	10	2	1	0	2	1	0	0	1	1	1	1	0	1	2	2	0	2	1	5	1	1	1	3	0	0	0	0	0
+8	ND4L	YP_009051631.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	2	3	5	1	2	4	1	0	1	2	1	2	1	0	1	4	10	0	1	0	1	0	2	4	2	0	0	0	1	1	1	3	6	1	2	7	2	0	0	2	0	0	0	3	0	1	1	0	1	8	2	0	0	1	2	0	0	0	3	0	1	0	0	0
+9	ND4	YP_009051632.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	1	13	13	1	5	16	12	0	3	11	0	3	12	0	15	23	42	1	5	9	13	0	2	14	14	0	0	4	6	0	12	29	29	1	8	21	17	0	3	11	9	1	1	9	2	3	3	0	4	16	13	0	0	2	7	2	3	7	7	1	0	0	0	0
+10	ND5	YP_009051633.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	8	25	10	0	8	19	14	0	3	11	1	5	12	0	14	33	45	7	6	14	14	0	3	11	17	1	1	3	5	0	12	41	23	3	11	33	24	1	8	21	21	1	2	6	1	4	5	1	14	19	13	0	4	4	9	2	2	14	12	4	0	0	1	0
+11	CYTB	YP_009051634.1	Mionectes oleagineus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Passeriformes, Tyrannidae, Mionectes	8	26	2	0	2	7	11	0	3	10	1	3	9	2	7	20	33	0	3	8	13	1	0	13	8	0	0	3	5	0	8	23	9	2	2	15	13	0	5	15	9	0	0	2	2	5	8	0	5	12	8	0	2	5	5	2	3	10	7	5	1	0	0	0

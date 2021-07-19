@@ -1,65 +1,8 @@
-	YP_009755010.1|cox3	YP_009755011.1|nad3	YP_009755012.1|nad2	YP_009755013.1|cox1	YP_009755014.1|cox2	YP_009755015.1|atp8	YP_009755016.1|atp6
-TTT	25	8	31	38	12	3	21
-TTC	0	3	1	4	0	1	4
-TTA	19	15	28	33	17	4	20
-TTG	2	4	5	10	7	0	0
-TCT	6	7	10	15	10	0	8
-TCC	0	0	1	3	0	0	0
-TCA	6	1	6	5	2	0	5
-TCG	1	0	3	1	1	1	2
-TAT	8	2	7	15	8	1	2
-TAC	3	2	2	2	2	0	4
-TGT	2	0	5	1	3	1	1
-TGC	0	1	1	0	0	0	0
-TGA	12	2	6	13	5	5	3
-TGG	1	0	8	4	1	1	1
-CTT	7	3	12	9	7	0	8
-CTC	0	0	0	2	0	0	1
-CTA	6	1	5	10	1	0	7
-CTG	0	0	3	3	1	0	4
-CCT	5	4	1	8	6	1	5
-CCC	2	0	2	1	1	0	1
-CCA	2	0	2	9	1	1	2
-CCG	1	0	1	3	2	0	2
-CAT	9	1	3	17	4	0	4
-CAC	3	0	0	2	2	0	1
-CAA	5	0	4	4	5	1	4
-CAG	1	1	2	2	2	0	0
-CGT	1	1	0	2	0	0	1
-CGC	1	0	1	0	0	0	0
-CGA	3	0	1	8	3	0	1
-CGG	1	2	0	2	3	0	2
-ATT	13	8	27	35	15	8	23
-ATC	2	0	3	4	1	0	4
-ATA	6	3	14	17	9	1	10
-ATG	3	3	7	9	4	2	3
-ACT	5	2	5	12	4	2	3
-ACC	0	0	0	1	0	0	2
-ACA	10	0	1	13	5	1	3
-ACG	2	3	2	2	1	0	1
-AAT	4	2	8	13	5	3	10
-AAC	2	3	5	5	2	0	2
-AAA	2	5	7	6	6	6	2
-AAG	0	1	5	3	0	1	1
-AGT	4	2	6	2	0	0	1
-AGC	1	0	1	1	0	2	0
-AGA	3	2	14	8	5	1	8
-AGG	2	2	4	1	2	1	5
-GTT	9	5	10	23	5	1	6
-GTC	1	0	2	4	3	0	2
-GTA	10	1	8	9	8	1	3
-GTG	2	2	6	5	0	0	4
-GCT	6	4	6	18	10	1	2
-GCC	6	0	3	4	0	0	0
-GCA	3	1	0	12	5	0	4
-GCG	1	0	0	5	1	0	1
-GAT	3	2	0	9	7	1	1
-GAC	0	1	1	7	4	0	2
-GAA	8	1	8	8	11	1	4
-GAG	0	4	0	2	2	0	1
-GGT	6	1	5	11	1	0	0
-GGC	1	1	1	2	1	0	2
-GGA	8	1	7	22	5	0	6
-GGG	4	2	11	14	2	0	3
-TAA	1	1	1	1	0	0	1
-TAG	0	0	0	0	1	1	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	cox3	YP_009755010.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	25	0	19	2	6	0	6	1	8	3	2	0	12	1	7	0	6	0	5	2	2	1	9	3	5	1	1	1	3	1	13	2	6	3	5	0	10	2	4	2	2	0	4	1	3	2	9	1	10	2	6	6	3	1	3	0	8	0	6	1	8	4	1	0
+1	nad3	YP_009755011.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	8	3	15	4	7	0	1	0	2	2	0	1	2	0	3	0	1	0	4	0	0	0	1	0	0	1	1	0	0	2	8	0	3	3	2	0	0	3	2	3	5	1	2	0	2	2	5	0	1	2	4	0	1	0	2	1	1	4	1	1	1	2	1	0
+2	nad2	YP_009755012.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	31	1	28	5	10	1	6	3	7	2	5	1	6	8	12	0	5	3	1	2	2	1	3	0	4	2	0	1	1	0	27	3	14	7	5	0	1	2	8	5	7	5	6	1	14	4	10	2	8	6	6	3	0	0	0	1	8	0	5	1	7	11	1	0
+3	cox1	YP_009755013.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	38	4	33	10	15	3	5	1	15	2	1	0	13	4	9	2	10	3	8	1	9	3	17	2	4	2	2	0	8	2	35	4	17	9	12	1	13	2	13	5	6	3	2	1	8	1	23	4	9	5	18	4	12	5	9	7	8	2	11	2	22	14	1	0
+4	cox2	YP_009755014.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	12	0	17	7	10	0	2	1	8	2	3	0	5	1	7	0	1	1	6	1	1	2	4	2	5	2	0	0	3	3	15	1	9	4	4	0	5	1	5	2	6	0	0	0	5	2	5	3	8	0	10	0	5	1	7	4	11	2	1	1	5	2	0	1
+5	atp8	YP_009755015.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	3	1	4	0	0	0	0	1	1	0	1	0	5	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	8	0	1	2	2	0	1	0	3	0	6	1	0	2	1	1	1	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1
+6	atp6	YP_009755016.1	Lepidozona coreanica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Polyplacophora, Neoloricata, Chitonida, Chitonina, Ischnochitonidae, Lepidozona	21	4	20	0	8	0	5	2	2	4	1	0	3	1	8	1	7	4	5	1	2	2	4	1	4	0	1	0	1	2	23	4	10	3	3	2	3	1	10	2	2	1	1	0	8	5	6	2	3	4	2	0	4	1	1	2	4	1	0	2	6	3	1	0

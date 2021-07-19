@@ -1,65 +1,13 @@
-	YP_001648423.1|ND1	YP_001648424.1|ND2	YP_001648425.1|COX1	YP_001648426.1|COX2	YP_001648427.1|ATP8	YP_001648428.1|ATP6	YP_001648429.1|COX3	YP_001648430.1|ND3	YP_001648431.1|ND4L	YP_001648432.1|ND4	YP_001648433.1|ND5	YP_001648435.1|CYTB
-TTT	9	5	30	5	4	9	11	3	3	7	19	9
-TTC	7	3	11	5	0	2	11	4	4	5	17	17
-TTA	8	3	16	4	2	14	2	10	3	14	18	8
-TTG	0	0	2	0	0	2	0	0	0	0	0	0
-TCT	3	5	3	2	0	2	3	1	4	5	4	2
-TCC	7	8	12	5	0	0	5	2	2	11	13	10
-TCA	7	5	9	4	0	2	5	3	3	4	13	9
-TCG	0	0	1	0	0	0	1	0	0	1	0	1
-TAT	5	5	12	3	0	3	3	1	0	7	9	5
-TAC	5	4	6	4	0	3	9	1	0	6	3	11
-TGT	0	0	0	1	0	0	0	1	0	2	5	1
-TGC	0	0	1	1	0	0	2	0	3	4	1	2
-TGA	7	9	13	5	5	5	11	3	1	13	12	10
-TGG	1	2	4	0	0	0	1	2	0	3	1	2
-CTT	6	20	15	7	1	5	8	5	9	22	20	12
-CTC	14	21	11	6	0	5	10	2	3	22	22	11
-CTA	32	29	15	10	2	20	8	10	7	34	37	20
-CTG	3	3	5	1	0	4	2	3	4	8	4	11
-CCT	1	1	5	2	1	3	3	0	0	5	5	3
-CCC	10	15	9	7	4	8	5	5	2	13	18	15
-CCA	12	9	11	4	3	6	4	4	0	5	7	6
-CCG	0	0	3	1	0	0	0	0	0	1	0	0
-CAT	0	0	10	3	0	1	2	0	1	3	1	1
-CAC	5	6	10	7	1	5	14	1	4	7	14	11
-CAA	6	10	5	8	2	6	6	2	1	8	18	6
-CAG	0	4	3	0	1	1	1	1	1	2	3	0
-CGT	1	0	0	0	0	0	0	0	0	1	1	0
-CGC	3	1	0	1	0	2	2	1	0	3	1	0
-CGA	3	3	7	4	0	3	4	1	2	5	7	7
-CGG	0	0	1	1	0	1	0	0	0	2	0	1
-ATT	9	9	31	13	2	17	7	8	0	27	32	19
-ATC	19	9	9	9	2	3	8	1	0	9	17	17
-ATA	15	16	24	8	2	8	8	2	5	24	28	10
-ATG	0	3	3	3	1	1	3	2	1	2	8	3
-ACT	1	11	3	1	0	5	1	1	0	6	7	5
-ACC	9	21	8	5	4	9	6	2	6	19	26	7
-ACA	9	22	28	7	2	10	10	2	3	23	25	11
-ACG	1	1	1	0	0	1	3	0	0	2	1	0
-AAT	4	2	5	4	4	4	1	1	0	4	8	6
-AAC	10	11	9	2	1	3	3	0	4	5	22	15
-AAA	6	8	7	4	4	1	2	1	0	8	21	9
-AAG	2	1	1	2	0	1	0	0	0	3	1	0
-AGT	0	1	0	1	0	2	0	0	1	1	1	0
-AGC	5	4	5	2	0	2	3	1	1	5	11	1
-GTT	0	1	12	2	0	1	2	0	0	3	7	8
-GTC	2	0	3	5	0	4	4	1	0	2	5	5
-GTA	9	4	17	8	2	7	8	1	1	9	11	3
-GTG	3	0	3	1	0	0	2	0	0	3	1	3
-GCT	1	4	8	2	0	0	1	2	2	2	8	2
-GCC	13	12	24	9	2	11	12	7	4	24	27	12
-GCA	21	14	12	7	1	7	9	1	5	10	18	14
-GCG	0	0	3	0	0	1	0	0	0	0	0	0
-GAT	2	0	9	4	0	0	2	1	1	1	4	3
-GAC	2	1	5	8	0	2	2	3	0	4	8	5
-GAA	8	5	10	12	1	4	9	4	3	9	10	5
-GAG	2	0	1	1	0	0	1	2	0	3	1	1
-GGT	1	0	12	0	0	2	4	1	0	2	2	2
-GGC	4	6	12	0	0	5	9	4	3	15	10	10
-GGA	9	8	18	8	0	3	6	1	0	8	14	9
-GGG	3	3	4	1	0	1	2	0	1	4	5	4
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_001648423.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	9	7	8	0	3	7	7	0	5	5	0	0	7	1	6	14	32	3	1	10	12	0	0	5	6	0	1	3	3	0	9	19	15	0	1	9	9	1	4	10	6	2	0	5	0	2	9	3	1	13	21	0	2	2	8	2	1	4	9	3	0	0	0	0
+1	ND2	YP_001648424.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	5	3	3	0	5	8	5	0	5	4	0	0	9	2	20	21	29	3	1	15	9	0	0	6	10	4	0	1	3	0	9	9	16	3	11	21	22	1	2	11	8	1	1	4	1	0	4	0	4	12	14	0	0	1	5	0	0	6	8	3	0	0	0	0
+2	COX1	YP_001648425.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	30	11	16	2	3	12	9	1	12	6	0	1	13	4	15	11	15	5	5	9	11	3	10	10	5	3	0	0	7	1	31	9	24	3	3	8	28	1	5	9	7	1	0	5	12	3	17	3	8	24	12	3	9	5	10	1	12	12	18	4	1	0	0	0
+3	COX2	YP_001648426.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	5	5	4	0	2	5	4	0	3	4	1	1	5	0	7	6	10	1	2	7	4	1	3	7	8	0	0	1	4	1	13	9	8	3	1	5	7	0	4	2	4	2	1	2	2	5	8	1	2	9	7	0	4	8	12	1	0	0	8	1	0	0	0	0
+4	ATP8	YP_001648427.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	4	0	2	0	0	0	0	0	0	0	0	0	5	0	1	0	2	0	1	4	3	0	0	1	2	1	0	0	0	0	2	2	2	1	0	4	2	0	4	1	4	0	0	0	0	0	2	0	0	2	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_001648428.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	9	2	14	2	2	0	2	0	3	3	0	0	5	0	5	5	20	4	3	8	6	0	1	5	6	1	0	2	3	1	17	3	8	1	5	9	10	1	4	3	1	1	2	2	1	4	7	0	0	11	7	1	0	2	4	0	2	5	3	1	0	0	0	0
+6	COX3	YP_001648429.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	11	11	2	0	3	5	5	1	3	9	0	2	11	1	8	10	8	2	3	5	4	0	2	14	6	1	0	2	4	0	7	8	8	3	1	6	10	3	1	3	2	0	0	3	2	4	8	2	1	12	9	0	2	2	9	1	4	9	6	2	0	0	0	0
+7	ND3	YP_001648430.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	3	4	10	0	1	2	3	0	1	1	1	0	3	2	5	2	10	3	0	5	4	0	0	1	2	1	0	1	1	0	8	1	2	2	1	2	2	0	1	0	1	0	0	1	0	1	1	0	2	7	1	0	1	3	4	2	1	4	1	0	0	0	0	0
+8	ND4L	YP_001648431.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	3	4	3	0	4	2	3	0	0	0	0	3	1	0	9	3	7	4	0	2	0	0	1	4	1	1	0	0	2	0	0	0	5	1	0	6	3	0	0	4	0	0	1	1	0	0	1	0	2	4	5	0	1	0	3	0	0	3	0	1	1	0	0	0
+9	ND4	YP_001648432.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	7	5	14	0	5	11	4	1	7	6	2	4	13	3	22	22	34	8	5	13	5	1	3	7	8	2	1	3	5	2	27	9	24	2	6	19	23	2	4	5	8	3	1	5	3	2	9	3	2	24	10	0	1	4	9	3	2	15	8	4	0	0	0	0
+10	ND5	YP_001648433.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	19	17	18	0	4	13	13	0	9	3	5	1	12	1	20	22	37	4	5	18	7	0	1	14	18	3	1	1	7	0	32	17	28	8	7	26	25	1	8	22	21	1	1	11	7	5	11	1	8	27	18	0	4	8	10	1	2	10	14	5	1	0	0	0
+11	CYTB	YP_001648435.1	Odontobutis platycephala	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Odontobutidae, Odontobutis	9	17	8	0	2	10	9	1	5	11	1	2	10	2	12	11	20	11	3	15	6	0	1	11	6	0	0	0	7	1	19	17	10	3	5	7	11	0	6	15	9	0	0	1	8	5	3	3	2	12	14	0	3	5	5	1	2	10	9	4	0	0	0	0

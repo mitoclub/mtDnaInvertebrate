@@ -1,65 +1,13 @@
-	YP_009235111.1|ND1	YP_009235112.1|ND2	YP_009235113.1|COX1	YP_009235114.1|COX2	YP_009235115.1|ATP8	YP_009235116.1|ATP6	YP_009235117.1|COX3	YP_009235118.1|ND3	YP_009235119.1|ND4L	YP_009235120.1|ND4	YP_009235121.1|ND5	YP_009235123.1|CYTB
-TTT	9	6	28	4	3	9	9	7	4	11	21	12
-TTC	6	4	15	5	0	3	13	2	4	4	24	18
-TTA	13	10	14	9	2	6	2	7	3	15	18	11
-TTG	2	0	4	1	0	0	0	0	1	4	2	2
-TCT	2	2	7	1	0	0	2	2	0	5	6	3
-TCC	2	4	3	5	1	2	3	3	3	7	15	6
-TCA	13	11	15	4	2	4	4	1	3	7	11	14
-TCG	0	0	0	1	0	0	0	0	0	0	1	0
-TAT	6	5	8	6	0	4	5	1	0	11	5	3
-TAC	7	3	9	3	0	1	7	2	0	4	5	11
-TGT	0	0	1	0	0	0	0	0	1	3	3	0
-TGC	0	1	0	2	0	0	2	1	2	2	3	3
-TGA	7	8	14	4	4	5	11	4	0	12	9	12
-TGG	1	3	3	1	1	0	1	1	1	8	5	1
-CTT	7	10	14	6	1	5	7	7	4	14	13	5
-CTC	10	7	9	3	0	11	10	2	6	15	13	13
-CTA	26	36	17	6	1	15	9	5	7	33	31	22
-CTG	5	5	5	3	0	10	4	4	2	7	8	8
-CCT	1	1	2	0	1	1	0	0	0	1	3	1
-CCC	6	7	5	3	3	2	5	2	1	7	9	5
-CCA	13	11	16	10	4	13	7	6	1	19	19	14
-CCG	4	0	5	1	0	1	0	0	0	1	3	1
-CAT	0	1	5	3	0	2	4	0	1	4	5	1
-CAC	4	6	14	7	2	1	12	0	3	9	9	11
-CAA	6	12	7	8	2	8	9	3	3	9	16	6
-CAG	1	0	1	0	0	0	0	0	0	4	4	1
-CGT	0	1	1	0	0	1	1	0	0	0	1	1
-CGC	2	0	2	1	0	2	1	1	1	3	1	0
-CGA	5	3	3	5	0	2	3	0	2	8	5	7
-CGG	1	0	2	0	0	1	0	1	0	0	3	0
-ATT	13	11	23	10	3	15	10	5	1	25	31	15
-ATC	8	12	13	8	2	6	6	4	1	16	25	16
-ATA	9	18	16	10	1	7	3	3	2	18	25	11
-ATG	3	4	7	2	1	3	5	1	3	7	7	3
-ACT	4	9	8	4	2	4	1	0	1	4	7	3
-ACC	11	19	7	4	1	8	8	4	3	17	21	5
-ACA	10	21	22	5	0	6	14	3	4	23	24	12
-ACG	0	1	1	0	0	1	1	0	0	2	2	0
-AAT	3	5	5	3	3	4	0	1	1	3	10	5
-AAC	9	2	11	2	1	6	1	1	1	6	19	12
-AAA	5	10	6	3	2	0	2	1	0	7	22	8
-AAG	2	0	2	1	0	1	0	0	0	3	0	1
-AGT	0	1	1	0	0	0	0	0	0	2	3	0
-AGC	2	7	4	4	0	4	3	1	2	5	8	1
-GTT	4	1	17	4	1	8	5	1	1	5	4	4
-GTC	6	2	8	6	0	2	2	2	0	3	7	10
-GTA	11	1	15	8	3	7	7	1	1	6	12	7
-GTG	0	2	6	2	0	0	3	0	0	2	2	2
-GCT	5	5	6	3	1	3	4	1	1	3	10	2
-GCC	14	11	18	6	1	8	7	4	6	16	33	11
-GCA	12	21	21	5	2	8	11	4	7	17	10	16
-GCG	1	2	0	2	0	1	0	0	0	0	2	2
-GAT	1	0	7	2	0	0	3	0	0	1	2	2
-GAC	3	4	7	10	1	1	2	4	1	2	12	9
-GAA	9	5	9	11	3	3	7	5	2	9	9	6
-GAG	2	0	2	4	0	1	3	1	1	2	3	0
-GGT	1	0	6	1	0	1	3	0	1	3	0	2
-GGC	5	3	10	0	0	1	6	2	2	5	11	2
-GGA	7	11	19	6	0	7	8	5	3	12	10	19
-GGG	5	3	10	2	0	2	5	0	0	9	10	2
-TAA	1	0	0	0	1	0	0	0	1	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009235111.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	9	6	13	2	2	2	13	0	6	7	0	0	7	1	7	10	26	5	1	6	13	4	0	4	6	1	0	2	5	1	13	8	9	3	4	11	10	0	3	9	5	2	0	2	4	6	11	0	5	14	12	1	1	3	9	2	1	5	7	5	1	0	0	0
+1	ND2	YP_009235112.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	6	4	10	0	2	4	11	0	5	3	0	1	8	3	10	7	36	5	1	7	11	0	1	6	12	0	1	0	3	0	11	12	18	4	9	19	21	1	5	2	10	0	1	7	1	2	1	2	5	11	21	2	0	4	5	0	0	3	11	3	0	0	0	0
+2	COX1	YP_009235113.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	28	15	14	4	7	3	15	0	8	9	1	0	14	3	14	9	17	5	2	5	16	5	5	14	7	1	1	2	3	2	23	13	16	7	8	7	22	1	5	11	6	2	1	4	17	8	15	6	6	18	21	0	7	7	9	2	6	10	19	10	0	1	0	0
+3	COX2	YP_009235114.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	4	5	9	1	1	5	4	1	6	3	0	2	4	1	6	3	6	3	0	3	10	1	3	7	8	0	0	1	5	0	10	8	10	2	4	4	5	0	3	2	3	1	0	4	4	6	8	2	3	6	5	2	2	10	11	4	1	0	6	2	0	0	0	0
+4	ATP8	YP_009235115.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	3	0	2	0	0	1	2	0	0	0	0	0	4	1	1	0	1	0	1	3	4	0	0	2	2	0	0	0	0	0	3	2	1	1	2	1	0	0	3	1	2	0	0	0	1	0	3	0	1	1	2	0	0	1	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009235116.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	9	3	6	0	0	2	4	0	4	1	0	0	5	0	5	11	15	10	1	2	13	1	2	1	8	0	1	2	2	1	15	6	7	3	4	8	6	1	4	6	0	1	0	4	8	2	7	0	3	8	8	1	0	1	3	1	1	1	7	2	0	0	0	0
+6	COX3	YP_009235117.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	9	13	2	0	2	3	4	0	5	7	0	2	11	1	7	10	9	4	0	5	7	0	4	12	9	0	1	1	3	0	10	6	3	5	1	8	14	1	0	1	2	0	0	3	5	2	7	3	4	7	11	0	3	2	7	3	3	6	8	5	0	0	0	0
+7	ND3	YP_009235118.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	7	2	7	0	2	3	1	0	1	2	0	1	4	1	7	2	5	4	0	2	6	0	0	0	3	0	0	1	0	1	5	4	3	1	0	4	3	0	1	1	1	0	0	1	1	2	1	0	1	4	4	0	0	4	5	1	0	2	5	0	0	0	0	0
+8	ND4L	YP_009235119.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	4	4	3	1	0	3	3	0	0	0	1	2	0	1	4	6	7	2	0	1	1	0	1	3	3	0	0	1	2	0	1	1	2	3	1	3	4	0	1	1	0	0	0	2	1	0	1	0	1	6	7	0	0	1	2	1	1	2	3	0	1	0	0	0
+9	ND4	YP_009235120.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	11	4	15	4	5	7	7	0	11	4	3	2	12	8	14	15	33	7	1	7	19	1	4	9	9	4	0	3	8	0	25	16	18	7	4	17	23	2	3	6	7	3	2	5	5	3	6	2	3	16	17	0	1	2	9	2	3	5	12	9	0	0	0	0
+10	ND5	YP_009235121.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	21	24	18	2	6	15	11	1	5	5	3	3	9	5	13	13	31	8	3	9	19	3	5	9	16	4	1	1	5	3	31	25	25	7	7	21	24	2	10	19	22	0	3	8	4	7	12	2	10	33	10	2	2	12	9	3	0	11	10	10	1	0	0	0
+11	CYTB	YP_009235123.1	Bhavania australis	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Balitoridae, Bhavania	12	18	11	2	3	6	14	0	3	11	0	3	12	1	5	13	22	8	1	5	14	1	1	11	6	1	1	0	7	0	15	16	11	3	3	5	12	0	5	12	8	1	0	1	4	10	7	2	2	11	16	2	2	9	6	0	2	2	19	2	0	0	0	0

@@ -1,65 +1,10 @@
-	YP_009110018.1|COX2	YP_009110019.1|ND1	YP_009110024.1|ND6	YP_009110025.1|CYTB	YP_009110026.1|ATP6	YP_009110027.1|COX3	YP_009110028.1|ATP8	YP_009110029.1|ND3	YP_009110030.1|COX1
-TTT	3	4	6	14	1	7	0	10	15
-TTC	6	11	2	14	10	9	0	6	24
-TTA	7	11	7	26	17	5	2	10	23
-TTG	0	1	0	1	0	0	0	0	0
-TCT	5	1	2	4	2	2	1	3	6
-TCC	4	3	2	4	6	4	0	1	11
-TCA	12	6	4	11	6	12	2	4	12
-TCG	0	1	1	0	0	1	0	0	0
-TAT	1	5	7	7	5	2	1	2	9
-TAC	6	6	3	9	6	10	1	3	8
-TGT	3	0	1	0	0	1	0	0	0
-TGC	0	1	0	0	0	1	0	1	2
-TGA	8	4	1	14	10	10	0	2	14
-TGG	2	1	1	4	0	0	0	0	0
-CTT	2	7	3	5	3	0	1	1	10
-CTC	6	7	2	8	5	4	3	2	5
-CTA	16	28	13	21	21	26	2	10	32
-CTG	0	2	1	0	1	0	0	0	1
-CCT	1	0	1	0	0	0	0	0	3
-CCC	1	3	1	1	2	5	3	1	4
-CCA	8	10	5	13	7	6	1	2	16
-CCG	0	1	0	1	0	0	0	0	0
-CAT	1	0	2	6	1	1	1	0	6
-CAC	4	1	1	6	3	6	0	0	11
-CAA	4	4	1	5	5	4	1	0	6
-CAG	0	1	0	0	0	0	0	0	1
-CGT	0	0	0	0	0	0	0	0	2
-CGC	2	2	0	1	0	0	0	0	1
-CGA	2	6	1	4	3	2	0	2	5
-CGG	0	0	0	0	0	0	0	0	1
-ATT	8	7	11	14	9	3	1	4	17
-ATC	8	18	6	17	16	10	3	6	26
-ATA	17	24	14	28	27	23	5	8	39
-ATG	2	2	3	2	1	1	1	0	2
-ACT	0	1	6	3	1	4	1	2	6
-ACC	4	13	5	11	13	8	1	0	13
-ACA	11	12	5	14	20	21	1	4	23
-ACG	0	0	1	1	0	1	0	0	0
-AAT	1	1	11	8	4	3	1	3	12
-AAC	8	11	2	7	20	13	0	3	7
-AAA	7	10	3	10	11	5	3	3	7
-AAG	0	1	1	1	1	0	1	0	1
-AGT	0	1	2	5	0	0	0	0	3
-AGC	5	3	0	5	6	2	0	1	4
-AGA	7	17	5	8	5	12	1	5	10
-AGG	0	0	0	0	2	0	1	0	0
-GTT	3	2	1	1	1	1	0	3	4
-GTC	1	3	0	2	0	0	0	1	3
-GTA	4	6	4	6	5	7	2	2	19
-GTG	0	1	0	0	0	0	0	2	2
-GCT	1	2	0	1	1	0	0	1	10
-GCC	2	5	0	5	3	0	0	2	7
-GCA	6	5	3	8	6	6	0	1	8
-GCG	0	0	0	0	0	0	0	0	0
-GAT	4	1	0	2	0	2	0	1	4
-GAC	6	3	1	6	2	1	0	0	6
-GAA	5	9	0	5	5	5	0	2	8
-GAG	4	1	1	1	1	0	0	2	0
-GGT	1	2	0	2	1	3	1	2	5
-GGC	2	2	1	3	1	0	0	0	10
-GGA	3	8	1	16	1	9	0	0	27
-GGG	1	1	1	0	0	0	0	1	4
-TAA	1	1	1	0	0	1	0	1	0
-TAG	0	0	0	1	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX2	YP_009110018.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	3	6	7	0	5	4	12	0	1	6	3	0	8	2	2	6	16	0	1	1	8	0	1	4	4	0	0	2	2	0	8	8	17	2	0	4	11	0	1	8	7	0	0	5	7	0	3	1	4	0	1	2	6	0	4	6	5	4	1	2	3	1	1	0
+1	ND1	YP_009110019.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	4	11	11	1	1	3	6	1	5	6	0	1	4	1	7	7	28	2	0	3	10	1	0	1	4	1	0	2	6	0	7	18	24	2	1	13	12	0	1	11	10	1	1	3	17	0	2	3	6	1	2	5	5	0	1	3	9	1	2	2	8	1	1	0
+2	ND6	YP_009110024.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	6	2	7	0	2	2	4	1	7	3	1	0	1	1	3	2	13	1	1	1	5	0	2	1	1	0	0	0	1	0	11	6	14	3	6	5	5	1	11	2	3	1	2	0	5	0	1	0	4	0	0	0	3	0	0	1	0	1	0	1	1	1	1	0
+3	CYTB	YP_009110025.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	14	14	26	1	4	4	11	0	7	9	0	0	14	4	5	8	21	0	0	1	13	1	6	6	5	0	0	1	4	0	14	17	28	2	3	11	14	1	8	7	10	1	5	5	8	0	1	2	6	0	1	5	8	0	2	6	5	1	2	3	16	0	0	1
+4	ATP6	YP_009110026.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	1	10	17	0	2	6	6	0	5	6	0	0	10	0	3	5	21	1	0	2	7	0	1	3	5	0	0	0	3	0	9	16	27	1	1	13	20	0	4	20	11	1	0	6	5	2	1	0	5	0	1	3	6	0	0	2	5	1	1	1	1	0	0	0
+5	COX3	YP_009110027.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	7	9	5	0	2	4	12	1	2	10	1	1	10	0	0	4	26	0	0	5	6	0	1	6	4	0	0	0	2	0	3	10	23	1	4	8	21	1	3	13	5	0	0	2	12	0	1	0	7	0	0	0	6	0	2	1	5	0	3	0	9	0	1	0
+6	ATP8	YP_009110028.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	0	0	2	0	1	0	2	0	1	1	0	0	0	0	1	3	2	0	0	3	1	0	1	0	1	0	0	0	0	0	1	3	5	1	1	1	1	0	1	0	3	1	0	0	1	1	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+7	ND3	YP_009110029.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	10	6	10	0	3	1	4	0	2	3	0	1	2	0	1	2	10	0	0	1	2	0	0	0	0	0	0	0	2	0	4	6	8	0	2	0	4	0	3	3	3	0	0	1	5	0	3	1	2	2	1	2	1	0	1	0	2	2	2	0	0	1	1	0
+8	COX1	YP_009110030.1	Trichinella pseudospiralis	Eukaryota, Metazoa, Ecdysozoa, Nematoda, Enoplea, Dorylaimia, Trichinellida, Trichinellidae, Trichinella	15	24	23	0	6	11	12	0	9	8	0	2	14	0	10	5	32	1	3	4	16	0	6	11	6	1	2	1	5	1	17	26	39	2	6	13	23	0	12	7	7	1	3	4	10	0	4	3	19	2	10	7	8	0	4	6	8	0	5	10	27	4	0	0

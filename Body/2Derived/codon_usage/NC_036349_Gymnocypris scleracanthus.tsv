@@ -1,65 +1,13 @@
-	YP_009443291.1|ND1	YP_009443292.1|ND2	YP_009443293.1|COX1	YP_009443294.1|COX2	YP_009443295.1|ATP8	YP_009443296.1|ATP6	YP_009443297.1|COX3	YP_009443298.1|ND3	YP_009443299.1|ND4L	YP_009443300.1|ND4	YP_009443301.1|ND5	YP_009443303.1|CYTB
-TTT	11	5	20	3	0	7	12	4	5	12	21	16
-TTC	8	4	21	6	3	3	13	5	3	6	20	16
-TTA	6	4	12	7	4	10	9	9	2	20	10	6
-TTG	3	6	2	1	2	4	0	0	2	7	6	2
-TCT	4	5	7	4	0	1	2	0	1	3	8	4
-TCC	7	4	7	5	2	0	2	3	3	7	4	6
-TCA	4	5	12	3	0	4	5	2	2	12	12	8
-TCG	5	1	2	2	0	0	1	0	0	3	3	1
-TAT	8	4	12	8	0	4	4	1	0	9	5	8
-TAC	4	5	6	2	0	1	6	1	0	5	6	6
-TGT	0	1	0	1	0	0	0	0	2	2	1	1
-TGC	0	0	1	1	0	1	2	1	1	3	3	2
-TGA	7	7	15	5	5	4	10	2	0	14	9	10
-TGG	1	4	2	0	0	0	2	3	1	6	4	2
-CTT	15	15	23	7	1	10	4	2	2	15	27	11
-CTC	9	12	5	1	0	5	6	5	5	18	16	6
-CTA	20	17	19	8	0	18	11	7	9	19	25	27
-CTG	5	9	4	4	0	3	2	2	3	4	7	9
-CCT	3	4	8	1	1	2	2	1	0	10	12	1
-CCC	15	8	4	4	1	5	5	0	1	3	6	4
-CCA	5	6	11	9	5	8	4	6	1	13	7	15
-CCG	1	1	5	0	0	1	2	1	0	1	1	2
-CAT	1	4	8	3	1	2	12	0	3	4	5	5
-CAC	3	3	11	6	1	1	4	0	1	7	9	7
-CAA	6	10	8	8	1	9	7	1	2	11	12	5
-CAG	1	2	0	0	0	0	2	2	1	4	6	0
-CGT	0	1	2	1	0	1	1	2	0	0	1	0
-CGC	0	1	1	2	0	0	1	0	1	2	1	2
-CGA	4	1	3	2	0	4	2	0	2	7	6	5
-CGG	4	1	2	1	0	0	1	0	0	2	2	1
-ATT	11	16	26	13	2	16	9	6	2	32	35	20
-ATC	14	6	11	5	1	5	5	1	0	6	19	9
-ATA	5	10	15	9	1	6	5	2	3	15	21	6
-ATG	6	9	8	3	1	4	3	2	2	14	11	7
-ACT	4	9	6	4	1	5	4	2	1	8	12	4
-ACC	6	21	8	4	1	3	7	3	5	11	22	9
-ACA	7	13	19	3	1	10	10	3	2	12	22	7
-ACG	1	6	2	0	1	1	2	0	1	2	5	1
-AAT	7	2	6	3	1	5	0	1	1	4	13	6
-AAC	5	5	9	3	3	4	1	1	0	6	15	11
-AAA	5	5	7	3	3	1	2	0	0	6	16	5
-AAG	2	4	1	1	0	0	0	1	0	3	7	4
-AGT	2	5	0	0	0	0	0	0	0	1	2	1
-AGC	2	3	6	3	0	4	3	0	4	5	9	1
-GTT	5	5	11	6	1	7	6	2	1	4	14	5
-GTC	1	1	7	4	2	0	2	2	0	2	4	7
-GTA	10	5	18	9	1	10	8	0	1	14	10	12
-GTG	3	5	8	1	0	3	1	2	0	1	3	4
-GCT	8	5	14	0	1	3	5	2	4	6	7	6
-GCC	16	18	19	7	0	9	9	4	2	15	28	10
-GCA	10	16	11	6	1	7	7	4	5	12	14	14
-GCG	1	3	1	2	0	0	1	0	1	6	5	1
-GAT	3	1	5	3	0	1	1	1	1	1	4	5
-GAC	1	2	9	9	0	0	5	4	0	3	9	5
-GAA	8	3	9	13	3	3	8	6	3	7	8	6
-GAG	3	2	2	2	0	1	1	1	0	4	4	1
-GGT	3	1	8	1	1	1	0	1	2	6	2	6
-GGC	2	9	11	2	1	4	6	1	1	8	8	8
-GGA	5	6	18	4	0	5	10	3	3	8	15	6
-GGG	8	2	8	2	0	1	6	1	0	9	8	5
-TAA	0	0	1	0	0	1	0	0	1	0	1	0
-TAG	1	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009443291.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	11	8	6	3	4	7	4	5	8	4	0	0	7	1	15	9	20	5	3	15	5	1	1	3	6	1	0	0	4	4	11	14	5	6	4	6	7	1	7	5	5	2	2	2	5	1	10	3	8	16	10	1	3	1	8	3	3	2	5	8	0	1	0	0
+1	ND2	YP_009443292.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	5	4	4	6	5	4	5	1	4	5	1	0	7	4	15	12	17	9	4	8	6	1	4	3	10	2	1	1	1	1	16	6	10	9	9	21	13	6	2	5	5	4	5	3	5	1	5	5	5	18	16	3	1	2	3	2	1	9	6	2	0	0	0	0
+2	COX1	YP_009443293.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	20	21	12	2	7	7	12	2	12	6	0	1	15	2	23	5	19	4	8	4	11	5	8	11	8	0	2	1	3	2	26	11	15	8	6	8	19	2	6	9	7	1	0	6	11	7	18	8	14	19	11	1	5	9	9	2	8	11	18	8	1	0	0	0
+3	COX2	YP_009443294.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	3	6	7	1	4	5	3	2	8	2	1	1	5	0	7	1	8	4	1	4	9	0	3	6	8	0	1	2	2	1	13	5	9	3	4	4	3	0	3	3	3	1	0	3	6	4	9	1	0	7	6	2	3	9	13	2	1	2	4	2	0	0	0	0
+4	ATP8	YP_009443295.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	0	3	4	2	0	2	0	0	0	0	0	0	5	0	1	0	0	0	1	1	5	0	1	1	1	0	0	0	0	0	2	1	1	1	1	1	1	1	1	3	3	0	0	0	1	2	1	0	1	0	1	0	0	0	3	0	1	1	0	0	0	1	0	0
+5	ATP6	YP_009443296.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	7	3	10	4	1	0	4	0	4	1	0	1	4	0	10	5	18	3	2	5	8	1	2	1	9	0	1	0	4	0	16	5	6	4	5	3	10	1	5	4	1	0	0	4	7	0	10	3	3	9	7	0	1	0	3	1	1	4	5	1	1	0	0	0
+6	COX3	YP_009443297.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	12	13	9	0	2	2	5	1	4	6	0	2	10	2	4	6	11	2	2	5	4	2	12	4	7	2	1	1	2	1	9	5	5	3	4	7	10	2	0	1	2	0	0	3	6	2	8	1	5	9	7	1	1	5	8	1	0	6	10	6	0	0	0	0
+7	ND3	YP_009443298.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	4	5	9	0	0	3	2	0	1	1	0	1	2	3	2	5	7	2	1	0	6	1	0	0	1	2	2	0	0	0	6	1	2	2	2	3	3	0	1	1	0	1	0	0	2	2	0	2	2	4	4	0	1	4	6	1	1	1	3	1	0	0	0	0
+8	ND4L	YP_009443299.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	5	3	2	2	1	3	2	0	0	0	2	1	0	1	2	5	9	3	0	1	1	0	3	1	2	1	0	1	2	0	2	0	3	2	1	5	2	1	1	0	0	0	0	4	1	0	1	0	4	2	5	1	1	0	3	0	2	1	3	0	1	0	0	0
+9	ND4	YP_009443300.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	12	6	20	7	3	7	12	3	9	5	2	3	14	6	15	18	19	4	10	3	13	1	4	7	11	4	0	2	7	2	32	6	15	14	8	11	12	2	4	6	6	3	1	5	4	2	14	1	6	15	12	6	1	3	7	4	6	8	8	9	0	0	0	0
+10	ND5	YP_009443301.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	21	20	10	6	8	4	12	3	5	6	1	3	9	4	27	16	25	7	12	6	7	1	5	9	12	6	1	1	6	2	35	19	21	11	12	22	22	5	13	15	16	7	2	9	14	4	10	3	7	28	14	5	4	9	8	4	2	8	15	8	1	0	0	0
+11	CYTB	YP_009443303.1	Gymnocypris scleracanthus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Gymnocypris	16	16	6	2	4	6	8	1	8	6	1	2	10	2	11	6	27	9	1	4	15	2	5	7	5	0	0	2	5	1	20	9	6	7	4	9	7	1	6	11	5	4	1	1	5	7	12	4	6	10	14	1	5	5	6	1	6	8	6	5	0	0	0	0

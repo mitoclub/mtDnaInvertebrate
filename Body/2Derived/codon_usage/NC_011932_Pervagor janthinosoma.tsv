@@ -1,65 +1,13 @@
-	YP_002519599.1|ND1	YP_002519600.1|ND2	YP_002519601.1|COX1	YP_002519602.1|COX2	YP_002519603.1|ATP8	YP_002519604.1|ATP6	YP_002519605.1|COX3	YP_002519606.1|ND3	YP_002519607.1|ND4L	YP_002519608.1|ND4	YP_002519609.1|ND5	YP_002519611.1|CYTB
-TTT	9	4	26	4	1	9	9	3	4	7	23	13
-TTC	9	5	15	4	2	4	17	5	3	7	20	15
-TTA	8	11	13	6	1	10	5	3	3	15	14	11
-TTG	8	2	1	3	0	1	1	0	1	6	4	0
-TCT	5	3	8	4	2	3	1	0	2	6	7	10
-TCC	7	7	8	8	1	2	2	6	6	8	9	2
-TCA	4	6	6	1	0	1	5	2	3	7	11	5
-TCG	2	1	1	0	0	0	0	0	0	2	2	3
-TAT	6	3	5	6	0	5	2	0	0	5	3	6
-TAC	4	4	14	4	0	1	8	2	0	7	8	9
-TGT	0	0	0	1	0	0	0	0	3	1	1	1
-TGC	1	3	1	2	0	1	2	1	0	4	4	2
-TGA	6	10	15	4	5	3	12	4	0	16	9	11
-TGG	3	1	2	1	0	2	1	1	1	2	4	1
-CTT	14	16	15	8	1	20	10	12	6	24	13	16
-CTC	18	17	14	4	1	10	4	7	5	25	21	10
-CTA	12	22	16	9	1	10	8	7	8	21	34	11
-CTG	4	9	4	0	0	5	5	1	0	9	7	6
-CCT	7	1	13	5	3	4	3	2	1	7	7	10
-CCC	10	15	9	5	5	7	9	5	1	12	17	10
-CCA	5	3	4	4	1	4	1	2	0	6	6	3
-CCG	2	1	2	0	1	1	0	1	0	1	2	0
-CAT	0	1	1	2	0	1	4	1	2	3	5	6
-CAC	5	6	18	7	2	3	11	0	2	12	8	6
-CAA	4	9	4	6	2	5	9	1	2	7	19	5
-CAG	2	4	3	2	0	3	0	1	0	2	5	1
-CGT	2	0	2	0	0	2	1	1	0	1	2	1
-CGC	1	1	1	2	0	0	0	1	1	0	1	2
-CGA	3	2	4	3	0	4	3	0	2	8	5	3
-CGG	2	1	2	1	0	0	1	0	0	2	1	2
-ATT	11	10	24	11	1	8	6	6	0	20	26	13
-ATC	10	8	15	9	2	4	6	2	1	10	22	14
-ATA	4	9	12	4	0	3	5	0	1	15	17	6
-ATG	9	9	12	5	2	6	2	1	3	8	10	8
-ACT	2	5	7	3	1	2	2	0	2	10	13	3
-ACC	9	19	9	2	2	9	8	1	1	14	16	9
-ACA	4	18	16	3	1	5	12	2	5	18	19	9
-ACG	2	1	0	1	0	0	1	0	1	1	1	0
-AAT	3	2	5	2	1	1	0	0	0	3	5	6
-AAC	7	10	9	3	0	9	3	1	1	5	20	12
-AAA	4	7	6	3	2	1	2	0	0	8	15	5
-AAG	3	1	2	1	0	0	0	1	0	4	5	4
-AGT	0	1	0	0	1	1	0	0	1	3	3	0
-AGC	3	3	5	4	0	2	3	0	2	5	12	1
-GTT	6	3	14	7	1	8	5	1	3	7	9	8
-GTC	8	1	11	6	2	6	8	2	3	6	12	10
-GTA	7	0	12	4	0	3	4	1	0	6	8	8
-GTG	0	5	5	5	1	1	2	2	0	1	5	4
-GCT	11	4	16	6	0	6	3	2	1	5	12	8
-GCC	15	20	22	3	2	9	9	8	5	20	31	14
-GCA	10	16	14	6	3	7	9	1	4	12	17	9
-GCG	1	2	1	0	0	0	1	0	0	3	5	4
-GAT	1	0	2	3	0	0	0	2	0	3	4	4
-GAC	3	1	13	10	2	1	4	2	1	2	9	7
-GAA	5	5	4	11	2	3	6	5	2	5	8	4
-GAG	6	0	7	3	0	1	2	1	0	8	5	2
-GGT	1	1	6	0	0	2	0	0	1	2	0	1
-GGC	7	6	13	2	0	6	11	4	2	12	16	7
-GGA	5	8	17	5	0	2	10	1	2	4	7	11
-GGG	4	5	10	2	0	0	3	1	0	7	8	8
-TAA	0	0	1	0	1	0	0	0	1	0	0	0
-TAG	1	0	0	0	0	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_002519599.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	9	9	8	8	5	7	4	2	6	4	0	1	6	3	14	18	12	4	7	10	5	2	0	5	4	2	2	1	3	2	11	10	4	9	2	9	4	2	3	7	4	3	0	3	6	8	7	0	11	15	10	1	1	3	5	6	1	7	5	4	0	1	0	0
+1	ND2	YP_002519600.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	4	5	11	2	3	7	6	1	3	4	0	3	10	1	16	17	22	9	1	15	3	1	1	6	9	4	0	1	2	1	10	8	9	9	5	19	18	1	2	10	7	1	1	3	3	1	0	5	4	20	16	2	0	1	5	0	1	6	8	5	0	0	0	0
+2	COX1	YP_002519601.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	26	15	13	1	8	8	6	1	5	14	0	1	15	2	15	14	16	4	13	9	4	2	1	18	4	3	2	1	4	2	24	15	12	12	7	9	16	0	5	9	6	2	0	5	14	11	12	5	16	22	14	1	2	13	4	7	6	13	17	10	1	0	0	0
+3	COX2	YP_002519602.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	4	4	6	3	4	8	1	0	6	4	1	2	4	1	8	4	9	0	5	5	4	0	2	7	6	2	0	2	3	1	11	9	4	5	3	2	3	1	2	3	3	1	0	4	7	6	4	5	6	3	6	0	3	10	11	3	0	2	5	2	0	0	0	0
+4	ATP8	YP_002519603.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	1	2	1	0	2	1	0	0	0	0	0	0	5	0	1	1	1	0	3	5	1	1	0	2	2	0	0	0	0	0	1	2	0	2	1	2	1	0	1	0	2	0	1	0	1	2	0	1	0	2	3	0	0	2	2	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_002519604.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	9	4	10	1	3	2	1	0	5	1	0	1	3	2	20	10	10	5	4	7	4	1	1	3	5	3	2	0	4	0	8	4	3	6	2	9	5	0	1	9	1	0	1	2	8	6	3	1	6	9	7	0	0	1	3	1	2	6	2	0	0	0	0	0
+6	COX3	YP_002519605.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	9	17	5	1	1	2	5	0	2	8	0	2	12	1	10	4	8	5	3	9	1	0	4	11	9	0	1	0	3	1	6	6	5	2	2	8	12	1	0	3	2	0	0	3	5	8	4	2	3	9	9	1	0	4	6	2	0	11	10	3	0	0	0	0
+7	ND3	YP_002519606.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	3	5	3	0	0	6	2	0	0	2	0	1	4	1	12	7	7	1	2	5	2	1	1	0	1	1	1	1	0	0	6	2	0	1	0	1	2	0	0	1	0	1	0	0	1	2	1	2	2	8	1	0	2	2	5	1	0	4	1	1	0	0	0	0
+8	ND4L	YP_002519607.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	4	3	3	1	2	6	3	0	0	0	3	0	0	1	6	5	8	0	1	1	0	0	2	2	2	0	0	1	2	0	0	1	1	3	2	1	5	1	0	1	0	0	1	2	3	3	0	0	1	5	4	0	0	1	2	0	1	2	2	0	1	0	0	0
+9	ND4	YP_002519608.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	7	7	15	6	6	8	7	2	5	7	1	4	16	2	24	25	21	9	7	12	6	1	3	12	7	2	1	0	8	2	20	10	15	8	10	14	18	1	3	5	8	4	3	5	7	6	6	1	5	20	12	3	3	2	5	8	2	12	4	7	0	0	0	0
+10	ND5	YP_002519609.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	23	20	14	4	7	9	11	2	3	8	1	4	9	4	13	21	34	7	7	17	6	2	5	8	19	5	2	1	5	1	26	22	17	10	13	16	19	1	5	20	15	5	3	12	9	12	8	5	12	31	17	5	4	9	8	5	0	16	7	8	0	1	0	0
+11	CYTB	YP_002519611.1	Pervagor janthinosoma	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Eupercaria, Tetraodontiformes, Monacanthidae, Pervagor	13	15	11	0	10	2	5	3	6	9	1	2	11	1	16	10	11	6	10	10	3	0	6	6	5	1	1	2	3	2	13	14	6	8	3	9	9	0	6	12	5	4	0	1	8	10	8	4	8	14	9	4	4	7	4	2	1	7	11	8	0	0	0	0

@@ -1,65 +1,13 @@
-	YP_007025866.1|ND1	YP_007025867.1|ND2	YP_007025868.1|COX1	YP_007025869.1|COX2	YP_007025870.1|ATP8	YP_007025871.1|ATP6	YP_007025872.1|COX3	YP_007025873.1|ND3	YP_007025874.1|ND4L	YP_007025875.1|ND4	YP_007025876.1|ND5	YP_007025878.1|CYTB
-TTT	13	5	18	5	1	7	15	6	6	8	18	11
-TTC	2	3	24	4	2	4	8	3	2	8	23	17
-TTA	5	7	10	9	1	12	3	6	4	12	12	8
-TTG	8	7	2	0	0	2	1	0	2	4	4	3
-TCT	2	5	6	5	0	1	1	1	0	8	6	6
-TCC	5	5	7	4	1	2	4	3	4	7	10	4
-TCA	11	5	11	4	1	1	4	1	2	6	12	9
-TCG	1	1	3	0	0	0	1	1	0	0	4	2
-TAT	5	5	5	5	0	1	6	2	0	6	4	8
-TAC	7	3	13	4	0	3	5	0	0	7	6	7
-TGT	0	0	0	0	0	0	1	0	1	2	2	2
-TGC	0	1	1	2	0	0	1	1	2	3	4	1
-TGA	6	8	13	5	5	4	11	4	0	17	10	10
-TGG	2	3	4	0	0	1	1	1	1	3	4	2
-CTT	13	16	17	4	2	11	9	1	2	19	27	10
-CTC	11	11	7	4	0	4	7	8	6	18	16	12
-CTA	18	18	19	10	2	14	13	8	6	26	36	23
-CTG	9	6	7	1	0	5	0	2	3	9	7	4
-CCT	2	4	4	2	2	3	3	0	1	4	4	2
-CCC	13	10	6	5	3	5	2	4	0	13	13	6
-CCA	5	4	12	5	2	9	6	2	1	8	10	11
-CCG	4	1	6	2	1	1	1	2	0	2	4	3
-CAT	0	1	4	3	1	1	8	1	3	6	1	5
-CAC	4	5	14	7	0	2	8	0	1	6	12	8
-CAA	3	8	8	5	2	7	8	3	3	10	18	6
-CAG	4	5	0	2	0	1	1	0	0	2	2	1
-CGT	1	0	1	1	0	0	3	0	0	0	2	0
-CGC	2	1	2	0	0	2	2	0	3	7	3	1
-CGA	3	0	5	2	0	3	0	2	0	3	4	5
-CGG	2	4	0	3	0	1	0	0	0	1	2	2
-ATT	13	18	31	9	1	14	10	6	2	20	23	13
-ATC	7	7	6	6	1	8	4	0	0	18	22	13
-ATA	7	17	13	9	1	7	7	3	3	17	17	5
-ATG	6	6	10	4	1	4	2	1	2	8	15	8
-ACT	3	7	4	1	2	5	4	1	0	8	4	3
-ACC	8	17	10	3	2	5	5	3	3	17	25	12
-ACA	6	16	20	4	1	6	8	4	6	12	21	8
-ACG	2	3	2	3	0	3	5	0	1	3	6	1
-AAT	5	3	4	2	2	4	0	1	1	1	8	5
-AAC	7	9	12	2	2	5	1	1	1	9	16	11
-AAA	6	7	8	4	3	0	2	0	0	10	14	8
-AAG	1	0	0	1	0	1	0	1	0	1	8	1
-AGT	0	0	1	0	1	0	1	0	0	4	1	2
-AGC	3	6	4	4	0	5	2	1	4	3	11	1
-GTT	7	2	10	7	2	3	6	2	1	2	11	8
-GTC	6	6	5	5	0	5	3	1	0	7	7	6
-GTA	6	6	23	8	2	7	6	2	1	11	7	10
-GTG	4	2	7	3	0	3	3	0	0	2	5	2
-GCT	2	3	10	4	0	2	2	1	1	6	6	5
-GCC	14	20	22	7	1	9	13	6	4	16	27	10
-GCA	13	14	15	3	1	8	5	3	5	17	17	16
-GCG	3	2	0	2	1	1	2	1	1	1	4	1
-GAT	0	2	4	3	0	0	1	1	0	0	6	4
-GAC	4	2	10	10	2	1	5	3	1	3	9	7
-GAA	7	2	7	11	2	2	7	6	3	6	6	4
-GAG	4	2	4	3	0	2	2	0	0	6	5	1
-GGT	2	0	8	2	0	0	3	0	0	1	1	2
-GGC	5	6	17	2	0	4	7	2	1	7	13	9
-GGA	8	7	10	4	0	5	8	1	1	12	10	11
-GGG	4	4	10	1	0	1	4	3	3	7	7	4
-TAA	1	0	1	0	0	1	0	0	1	0	1	0
-TAG	0	0	0	0	1	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_007025866.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	13	2	5	8	2	5	11	1	5	7	0	0	6	2	13	11	18	9	2	13	5	4	0	4	3	4	1	2	3	2	13	7	7	6	3	8	6	2	5	7	6	1	0	3	7	6	6	4	2	14	13	3	0	4	7	4	2	5	8	4	1	0	0	0
+1	ND2	YP_007025867.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	5	3	7	7	5	5	5	1	5	3	0	1	8	3	16	11	18	6	4	10	4	1	1	5	8	5	0	1	0	4	18	7	17	6	7	17	16	3	3	9	7	0	0	6	2	6	6	2	3	20	14	2	2	2	2	2	0	6	7	4	0	0	0	0
+2	COX1	YP_007025868.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	18	24	10	2	6	7	11	3	5	13	0	1	13	4	17	7	19	7	4	6	12	6	4	14	8	0	1	2	5	0	31	6	13	10	4	10	20	2	4	12	8	0	1	4	10	5	23	7	10	22	15	0	4	10	7	4	8	17	10	10	1	0	0	0
+3	COX2	YP_007025869.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	5	4	9	0	5	4	4	0	5	4	0	2	5	0	4	4	10	1	2	5	5	2	3	7	5	2	1	0	2	3	9	6	9	4	1	3	4	3	2	2	4	1	0	4	7	5	8	3	4	7	3	2	3	10	11	3	2	2	4	1	0	0	0	0
+4	ATP8	YP_007025870.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	1	2	1	0	0	1	1	0	0	0	0	0	5	0	2	0	2	0	2	3	2	1	1	0	2	0	0	0	0	0	1	1	1	1	2	2	1	0	2	2	3	0	1	0	2	0	2	0	0	1	1	1	0	2	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_007025871.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	7	4	12	2	1	2	1	0	1	3	0	0	4	1	11	4	14	5	3	5	9	1	1	2	7	1	0	2	3	1	14	8	7	4	5	5	6	3	4	5	0	1	0	5	3	5	7	3	2	9	8	1	0	1	2	2	0	4	5	1	1	0	0	0
+6	COX3	YP_007025872.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	15	8	3	1	1	4	4	1	6	5	1	1	11	1	9	7	13	0	3	2	6	1	8	8	8	1	3	2	0	0	10	4	7	2	4	5	8	5	0	1	2	0	1	2	6	3	6	3	2	13	5	2	1	5	7	2	3	7	8	4	0	0	0	0
+7	ND3	YP_007025873.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	6	3	6	0	1	3	1	1	2	0	0	1	4	1	1	8	8	2	0	4	2	2	1	0	3	0	0	0	2	0	6	0	3	1	1	3	4	0	1	1	0	1	0	1	2	1	2	0	1	6	3	1	1	3	6	0	0	2	1	3	0	0	0	0
+8	ND4L	YP_007025874.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	6	2	4	2	0	4	2	0	0	0	1	2	0	1	2	6	6	3	1	0	1	0	3	1	3	0	0	3	0	0	2	0	3	2	0	3	6	1	1	1	0	0	0	4	1	0	1	0	1	4	5	1	0	1	3	0	0	1	1	3	1	0	0	0
+9	ND4	YP_007025875.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	8	8	12	4	8	7	6	0	6	7	2	3	17	3	19	18	26	9	4	13	8	2	6	6	10	2	0	7	3	1	20	18	17	8	8	17	12	3	1	9	10	1	4	3	2	7	11	2	6	16	17	1	0	3	6	6	1	7	12	7	0	0	0	0
+10	ND5	YP_007025876.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	18	23	12	4	6	10	12	4	4	6	2	4	10	4	27	16	36	7	4	13	10	4	1	12	18	2	2	3	4	2	23	22	17	15	4	25	21	6	8	16	14	8	1	11	11	7	7	5	6	27	17	4	6	9	6	5	1	13	10	7	1	0	0	0
+11	CYTB	YP_007025878.1	Phoxinus keumkang	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Ostariophysi, Cypriniformes, Cyprinidae, Phoxinus	11	17	8	3	6	4	9	2	8	7	2	1	10	2	10	12	23	4	2	6	11	3	5	8	6	1	0	1	5	2	13	13	5	8	3	12	8	1	5	11	8	1	2	1	8	6	10	2	5	10	16	1	4	7	4	1	2	9	11	4	0	0	0	0

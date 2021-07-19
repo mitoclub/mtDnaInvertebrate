@@ -1,65 +1,12 @@
-	YP_009127079.1|ND2	YP_009127080.1|ND3	YP_009127081.1|ND6	YP_009127082.1|CYTB	YP_009127085.1|COX1	YP_009127086.1|COX2	YP_009127087.1|ATP8	YP_009127088.1|ATP6	YP_009127089.1|COX3	YP_009127090.1|ND4L	YP_009127091.1|ND4
-TTT	38	17	17	38	44	11	4	16	28	15	38
-TTC	6	3	1	2	6	2	0	3	4	0	8
-TTA	32	12	13	44	52	18	5	33	22	11	56
-TTG	3	2	3	3	5	0	0	2	2	0	4
-TCT	15	4	3	11	21	8	0	10	17	1	11
-TCC	2	1	0	0	3	2	0	1	0	0	2
-TCA	9	1	0	7	17	7	1	4	7	2	10
-TCG	0	0	0	0	0	0	0	0	0	0	1
-TAT	15	2	10	17	9	10	3	10	8	4	19
-TAC	3	0	1	4	6	0	1	0	2	0	4
-TGT	4	2	1	1	0	1	0	1	0	2	6
-TGC	1	0	0	1	0	1	0	2	0	1	2
-TGA	7	3	1	9	14	6	3	3	10	0	5
-TGG	1	0	0	1	0	0	0	1	1	0	0
-CTT	5	0	4	2	4	3	0	3	2	2	6
-CTC	1	0	0	0	0	0	0	0	0	0	1
-CTA	1	2	3	3	1	1	0	2	6	2	8
-CTG	0	1	0	1	0	0	0	0	0	0	0
-CCT	4	3	2	9	15	5	2	4	5	0	5
-CCC	1	0	0	3	1	1	0	1	0	0	0
-CCA	0	0	1	5	5	2	0	1	2	0	5
-CCG	0	1	0	1	1	0	0	1	0	0	0
-CAT	3	0	0	7	13	3	0	3	9	1	5
-CAC	1	0	0	1	3	0	0	0	1	0	2
-CAA	2	1	0	5	3	4	2	2	4	0	1
-CAG	1	0	0	1	2	1	0	0	0	0	0
-CGT	1	0	1	3	4	1	0	2	0	1	3
-CGC	0	0	0	1	0	1	0	0	1	0	0
-CGA	0	2	0	1	3	2	0	0	2	0	0
-CGG	0	1	0	0	0	1	0	0	0	0	0
-ATT	38	13	14	45	44	36	8	22	24	10	41
-ATC	4	1	2	3	4	5	1	3	2	1	10
-ATA	36	10	13	20	43	18	8	19	25	7	52
-ATG	0	2	2	1	3	2	0	1	4	2	5
-ACT	5	2	2	9	16	3	0	11	5	1	5
-ACC	1	0	0	1	4	0	0	0	1	0	1
-ACA	3	0	2	3	5	1	1	0	1	2	6
-ACG	0	0	1	1	0	0	0	0	0	0	0
-AAT	23	4	10	25	18	24	3	17	11	9	26
-AAC	1	0	1	6	4	3	2	0	1	0	4
-AAA	14	6	6	13	12	7	7	8	7	3	14
-AAG	2	0	1	4	0	0	0	2	3	1	2
-AGT	2	2	0	3	7	1	0	1	0	1	4
-AGC	0	0	1	0	0	0	0	0	1	0	1
-AGA	7	3	5	3	9	2	0	8	4	5	13
-AGG	1	0	0	1	1	2	0	0	0	1	1
-GTT	5	3	3	8	9	2	0	4	3	1	2
-GTC	0	1	0	2	3	0	0	0	1	0	0
-GTA	1	2	2	7	15	2	0	5	8	2	14
-GTG	1	0	0	1	1	0	0	0	0	0	0
-GCT	0	0	0	4	11	2	0	3	2	1	1
-GCC	0	0	0	1	1	0	0	0	0	0	2
-GCA	0	0	0	2	8	0	0	1	1	0	2
-GCG	0	0	0	0	0	0	0	0	0	0	0
-GAT	3	1	0	3	12	3	0	1	3	3	5
-GAC	0	0	0	1	3	3	0	0	1	0	0
-GAA	4	6	1	6	7	7	0	5	7	2	7
-GAG	0	0	2	1	1	2	0	0	1	0	1
-GGT	4	2	0	5	8	1	0	3	4	1	4
-GGC	0	0	0	2	3	0	0	0	0	0	2
-GGA	6	1	4	11	21	3	0	3	8	1	14
-GGG	0	0	0	2	7	2	0	0	2	0	2
-TAA	1	1	1	0	0	0	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009127079.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	38	6	32	3	15	2	9	0	15	3	4	1	7	1	5	1	1	0	4	1	0	0	3	1	2	1	1	0	0	0	38	4	36	0	5	1	3	0	23	1	14	2	2	0	7	1	5	0	1	1	0	0	0	0	3	0	4	0	4	0	6	0	1	0
+1	ND3	YP_009127080.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	17	3	12	2	4	1	1	0	2	0	2	0	3	0	0	0	2	1	3	0	0	1	0	0	1	0	0	0	2	1	13	1	10	2	2	0	0	0	4	0	6	0	2	0	3	0	3	1	2	0	0	0	0	0	1	0	6	0	2	0	1	0	1	0
+2	ND6	YP_009127081.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	17	1	13	3	3	0	0	0	10	1	1	0	1	0	4	0	3	0	2	0	1	0	0	0	0	0	1	0	0	0	14	2	13	2	2	0	2	1	10	1	6	1	0	1	5	0	3	0	2	0	0	0	0	0	0	0	1	2	0	0	4	0	1	0
+3	CYTB	YP_009127082.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	38	2	44	3	11	0	7	0	17	4	1	1	9	1	2	0	3	1	9	3	5	1	7	1	5	1	3	1	1	0	45	3	20	1	9	1	3	1	25	6	13	4	3	0	3	1	8	2	7	1	4	1	2	0	3	1	6	1	5	2	11	2	0	0
+4	COX1	YP_009127085.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	44	6	52	5	21	3	17	0	9	6	0	0	14	0	4	0	1	0	15	1	5	1	13	3	3	2	4	0	3	0	44	4	43	3	16	4	5	0	18	4	12	0	7	0	9	1	9	3	15	1	11	1	8	0	12	3	7	1	8	3	21	7	0	0
+5	COX2	YP_009127086.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	11	2	18	0	8	2	7	0	10	0	1	1	6	0	3	0	1	0	5	1	2	0	3	0	4	1	1	1	2	1	36	5	18	2	3	0	1	0	24	3	7	0	1	0	2	2	2	0	2	0	2	0	0	0	3	3	7	2	1	0	3	2	0	0
+6	ATP8	YP_009127087.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	4	0	5	0	0	0	1	0	3	1	0	0	3	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	8	1	8	0	0	0	1	0	3	2	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+7	ATP6	YP_009127088.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	16	3	33	2	10	1	4	0	10	0	1	2	3	1	3	0	2	0	4	1	1	1	3	0	2	0	2	0	0	0	22	3	19	1	11	0	0	0	17	0	8	2	1	0	8	0	4	0	5	0	3	0	1	0	1	0	5	0	3	0	3	0	1	0
+8	COX3	YP_009127089.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	28	4	22	2	17	0	7	0	8	2	0	0	10	1	2	0	6	0	5	0	2	0	9	1	4	0	0	1	2	0	24	2	25	4	5	1	1	0	11	1	7	3	0	1	4	0	3	1	8	0	2	0	1	0	3	1	7	1	4	0	8	2	1	0
+9	ND4L	YP_009127090.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	15	0	11	0	1	0	2	0	4	0	2	1	0	0	2	0	2	0	0	0	0	0	1	0	0	0	1	0	0	0	10	1	7	2	1	0	2	0	9	0	3	1	1	0	5	1	1	0	2	0	1	0	0	0	3	0	2	0	1	0	1	0	1	0
+10	ND4	YP_009127091.1	Acerella muscorum	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Protura, Protura, Acerentomata, Acerentomidae, Acerella	38	8	56	4	11	2	10	1	19	4	6	2	5	0	6	1	8	0	5	0	5	0	5	2	1	0	3	0	0	0	41	10	52	5	5	1	6	0	26	4	14	2	4	1	13	1	2	0	14	0	1	2	2	0	5	0	7	1	4	2	14	2	1	0

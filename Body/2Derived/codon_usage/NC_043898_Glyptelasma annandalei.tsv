@@ -1,65 +1,10 @@
-	YP_009675548.1|COX1	YP_009675549.1|COX2	YP_009675550.1|ATP8	YP_009675551.1|ATP6	YP_009675552.1|COX3	YP_009675553.1|ND3	YP_009675557.1|ND6	YP_009675558.1|CYTB	YP_009675560.1|ND2
-TTT	37	13	2	17	21	11	16	23	24
-TTC	7	2	1	3	5	3	1	8	9
-TTA	39	15	4	22	13	14	14	23	28
-TTG	0	1	0	0	0	1	2	2	6
-TCT	13	9	3	4	8	3	3	8	17
-TCC	3	1	1	3	3	4	0	5	7
-TCA	12	5	1	5	6	5	2	7	15
-TCG	2	0	0	0	0	1	0	0	0
-TAT	9	6	2	4	5	3	4	11	10
-TAC	6	3	0	2	5	1	1	6	1
-TGT	0	2	0	0	2	1	0	0	3
-TGC	0	0	0	0	0	0	0	2	0
-TGA	13	5	3	2	10	3	1	10	5
-TGG	2	1	0	2	3	0	0	1	4
-CTT	7	6	0	6	5	1	3	5	5
-CTC	4	0	0	1	0	0	2	1	0
-CTA	10	8	1	6	7	3	6	16	7
-CTG	2	0	0	0	0	0	0	1	2
-CCT	16	5	1	7	9	2	4	9	7
-CCC	2	2	2	0	1	1	1	5	0
-CCA	7	3	1	1	1	2	4	7	2
-CCG	1	1	0	0	0	0	0	1	1
-CAT	16	2	0	2	13	0	0	7	1
-CAC	5	4	1	2	3	0	2	4	1
-CAA	5	7	1	4	5	1	2	5	8
-CAG	0	1	0	0	2	0	0	0	0
-CGT	1	4	0	0	1	0	0	0	1
-CGC	1	0	0	0	0	1	0	0	0
-CGA	7	2	0	1	3	0	1	6	1
-CGG	1	0	0	1	0	1	0	1	0
-ATT	37	18	8	17	17	11	15	33	26
-ATC	7	3	0	6	4	6	6	8	13
-ATA	25	10	3	12	11	2	16	22	28
-ATG	2	1	1	4	1	0	1	3	3
-ACT	14	6	1	10	5	1	5	9	0
-ACC	6	2	0	1	5	1	1	6	5
-ACA	17	5	0	2	6	1	4	4	5
-ACG	0	0	0	0	1	0	0	1	0
-AAT	15	10	1	9	4	2	8	12	12
-AAC	2	3	0	3	4	1	1	4	6
-AAA	7	4	6	5	2	5	7	12	14
-AAG	0	0	0	1	0	0	1	0	1
-AGT	1	3	1	1	3	0	0	1	4
-AGC	1	1	1	0	0	1	0	0	1
-AGA	8	2	2	9	2	2	5	6	9
-AGG	1	0	0	1	1	2	2	1	2
-GTT	7	3	1	4	1	1	0	8	4
-GTC	2	3	0	3	2	0	0	3	1
-GTA	23	6	0	10	17	0	5	5	5
-GTG	2	1	0	0	2	1	0	2	1
-GCT	17	6	0	8	8	2	2	14	3
-GCC	4	2	0	3	4	2	3	2	3
-GCA	16	2	1	3	4	1	1	7	3
-GCG	0	0	0	1	0	0	1	0	0
-GAT	9	6	0	1	2	3	1	8	0
-GAC	6	3	0	1	0	2	0	1	0
-GAA	7	11	2	3	9	3	2	5	5
-GAG	2	1	0	2	0	1	2	2	1
-GGT	6	2	0	1	4	0	0	4	5
-GGC	2	0	0	1	0	0	0	2	2
-GGA	28	3	0	1	9	0	1	15	4
-GGG	9	2	0	3	3	4	2	5	1
-TAA	1	1	1	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009675548.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	37	7	39	0	13	3	12	2	9	6	0	0	13	2	7	4	10	2	16	2	7	1	16	5	5	0	1	1	7	1	37	7	25	2	14	6	17	0	15	2	7	0	1	1	8	1	7	2	23	2	17	4	16	0	9	6	7	2	6	2	28	9	1	0
+1	COX2	YP_009675549.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	13	2	15	1	9	1	5	0	6	3	2	0	5	1	6	0	8	0	5	2	3	1	2	4	7	1	4	0	2	0	18	3	10	1	6	2	5	0	10	3	4	0	3	1	2	0	3	3	6	1	6	2	2	0	6	3	11	1	2	0	3	2	1	0
+2	ATP8	YP_009675550.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	2	1	4	0	3	1	1	0	2	0	0	0	3	0	0	0	1	0	1	2	1	0	0	1	1	0	0	0	0	0	8	0	3	1	1	0	0	0	1	0	6	0	1	1	2	0	1	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	1	0
+3	ATP6	YP_009675551.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	17	3	22	0	4	3	5	0	4	2	0	0	2	2	6	1	6	0	7	0	1	0	2	2	4	0	0	0	1	1	17	6	12	4	10	1	2	0	9	3	5	1	1	0	9	1	4	3	10	0	8	3	3	1	1	1	3	2	1	1	1	3	1	0
+4	COX3	YP_009675552.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	21	5	13	0	8	3	6	0	5	5	2	0	10	3	5	0	7	0	9	1	1	0	13	3	5	2	1	0	3	0	17	4	11	1	5	5	6	1	4	4	2	0	3	0	2	1	1	2	17	2	8	4	4	0	2	0	9	0	4	0	9	3	1	0
+5	ND3	YP_009675553.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	11	3	14	1	3	4	5	1	3	1	1	0	3	0	1	0	3	0	2	1	2	0	0	0	1	0	0	1	0	1	11	6	2	0	1	1	1	0	2	1	5	0	0	1	2	2	1	0	0	1	2	2	1	0	3	2	3	1	0	0	0	4	1	0
+6	ND6	YP_009675557.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	16	1	14	2	3	0	2	0	4	1	0	0	1	0	3	2	6	0	4	1	4	0	0	2	2	0	0	0	1	0	15	6	16	1	5	1	4	0	8	1	7	1	0	0	5	2	0	0	5	0	2	3	1	1	1	0	2	2	0	0	1	2	1	0
+7	CYTB	YP_009675558.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	23	8	23	2	8	5	7	0	11	6	0	2	10	1	5	1	16	1	9	5	7	1	7	4	5	0	0	0	6	1	33	8	22	3	9	6	4	1	12	4	12	0	1	0	6	1	8	3	5	2	14	2	7	0	8	1	5	2	4	2	15	5	1	0
+8	ND2	YP_009675560.1	Glyptelasma annandalei	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Crustacea, Multicrustacea, Hexanauplia, Cirripedia, Thoracica, Pedunculata, Lepadomorpha, Poecilasmatidae, Glyptelasma	24	9	28	6	17	7	15	0	10	1	3	0	5	4	5	0	7	2	7	0	2	1	1	1	8	0	1	0	1	0	26	13	28	3	0	5	5	0	12	6	14	1	4	1	9	2	4	1	5	1	3	3	3	0	0	0	5	1	5	2	4	1	0	0

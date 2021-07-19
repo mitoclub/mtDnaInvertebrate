@@ -1,65 +1,10 @@
-	YP_009630380.1|ND2	YP_009630381.1|COX1	YP_009630382.1|COX2	YP_009630383.1|ATP8	YP_009630384.1|ATP6	YP_009630385.1|COX3	YP_009630386.1|ND3	YP_009630390.1|ND6	YP_009630391.1|CYTB
-TTT	19	23	4	3	10	8	6	7	12
-TTC	8	18	9	3	6	17	3	4	19
-TTA	37	34	11	1	19	13	3	12	22
-TTG	1	2	1	0	2	0	0	0	0
-TCT	1	12	4	2	1	2	4	1	1
-TCC	8	4	2	0	6	5	2	1	4
-TCA	15	12	3	1	6	7	1	8	7
-TCG	0	0	0	0	0	0	1	0	1
-TAT	6	8	5	1	4	9	0	1	3
-TAC	4	8	2	0	2	2	2	5	15
-TGT	1	0	2	0	0	0	1	0	0
-TGC	1	0	0	0	1	0	0	1	3
-TGA	8	15	6	3	5	11	3	1	11
-TGG	1	0	0	0	0	2	0	0	1
-CTT	12	9	10	1	7	10	2	6	11
-CTC	7	4	5	0	7	4	4	0	10
-CTA	9	18	8	1	8	6	10	11	15
-CTG	3	0	0	1	0	0	0	1	1
-CCT	4	12	5	2	5	3	2	2	5
-CCC	4	4	4	0	2	6	2	0	8
-CCA	2	11	2	3	4	2	1	3	7
-CCG	1	0	0	0	0	0	0	0	2
-CAT	2	5	3	0	6	7	1	2	4
-CAC	2	10	3	0	1	10	0	0	8
-CAA	7	9	7	3	3	9	1	5	8
-CAG	1	2	1	0	1	0	0	0	0
-CGT	0	0	2	0	0	1	0	1	0
-CGC	0	0	2	0	1	1	1	0	0
-CGA	2	10	3	0	2	2	1	0	7
-CGG	0	1	0	0	0	0	1	0	1
-ATT	19	36	19	7	11	10	12	14	23
-ATC	8	6	2	0	8	8	7	8	9
-ATA	20	23	5	4	8	4	4	12	13
-ATG	2	3	2	0	2	3	0	1	2
-ACT	14	15	6	0	7	6	2	5	6
-ACC	10	5	3	1	6	5	0	5	8
-ACA	9	12	8	1	4	9	1	7	7
-ACG	0	0	0	1	0	0	0	0	0
-AAT	17	10	7	2	10	4	2	5	13
-AAC	5	7	8	2	4	3	2	3	7
-AAA	10	4	1	3	2	0	4	3	6
-AAG	2	1	1	1	0	0	0	1	1
-AGT	2	5	3	0	4	2	0	2	2
-AGC	1	2	2	1	3	2	1	3	0
-AGA	3	3	4	1	4	1	4	4	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	10	6	0	3	5	3	1	14
-GTC	2	5	1	0	1	2	2	2	4
-GTA	8	17	6	0	7	10	1	5	6
-GTG	2	3	0	0	1	0	0	1	2
-GCT	3	16	3	1	2	4	1	4	5
-GCC	7	9	3	0	8	9	4	0	9
-GCA	8	15	8	0	5	6	2	1	11
-GCG	0	1	0	1	0	0	0	0	0
-GAT	0	9	6	0	1	3	1	1	7
-GAC	0	6	5	0	0	1	3	1	7
-GAA	6	8	9	1	4	6	4	4	2
-GAG	0	1	0	0	0	1	0	1	0
-GGT	3	13	3	0	3	4	1	2	5
-GGC	1	3	0	0	2	5	1	3	1
-GGA	9	24	2	0	5	6	3	3	15
-GGG	3	7	2	0	1	6	0	1	4
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009630380.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	19	8	37	1	1	8	15	0	6	4	1	1	8	1	12	7	9	3	4	4	2	1	2	2	7	1	0	0	2	0	19	8	20	2	14	10	9	0	17	5	10	2	2	1	3	0	3	2	8	2	3	7	8	0	0	0	6	0	3	1	9	3	1	0
+1	COX1	YP_009630381.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	23	18	34	2	12	4	12	0	8	8	0	0	15	0	9	4	18	0	12	4	11	0	5	10	9	2	0	0	10	1	36	6	23	3	15	5	12	0	10	7	4	1	5	2	3	0	10	5	17	3	16	9	15	1	9	6	8	1	13	3	24	7	0	0
+2	COX2	YP_009630382.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	4	9	11	1	4	2	3	0	5	2	2	0	6	0	10	5	8	0	5	4	2	0	3	3	7	1	2	2	3	0	19	2	5	2	6	3	8	0	7	8	1	1	3	2	4	0	6	1	6	0	3	3	8	0	6	5	9	0	3	0	2	2	0	0
+3	ATP8	YP_009630383.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	3	3	1	0	2	0	1	0	1	0	0	0	3	0	1	0	1	1	2	0	3	0	0	0	3	0	0	0	0	0	7	0	4	0	0	1	1	1	2	2	3	1	0	1	1	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009630384.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	10	6	19	2	1	6	6	0	4	2	0	1	5	0	7	7	8	0	5	2	4	0	6	1	3	1	0	1	2	0	11	8	8	2	7	6	4	0	10	4	2	0	4	3	4	0	3	1	7	1	2	8	5	0	1	0	4	0	3	2	5	1	1	0
+5	COX3	YP_009630385.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	8	17	13	0	2	5	7	0	9	2	0	0	11	2	10	4	6	0	3	6	2	0	7	10	9	0	1	1	2	0	10	8	4	3	6	5	9	0	4	3	0	0	2	2	1	0	5	2	10	0	4	9	6	0	3	1	6	1	4	5	6	6	1	0
+6	ND3	YP_009630386.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	6	3	3	0	4	2	1	1	0	2	1	0	3	0	2	4	10	0	2	2	1	0	1	0	1	0	0	1	1	1	12	7	4	0	2	0	1	0	2	2	4	0	0	1	4	0	3	2	1	0	1	4	2	0	1	3	4	0	1	1	3	0	0	1
+7	ND6	YP_009630390.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	7	4	12	0	1	1	8	0	1	5	0	1	1	0	6	0	11	1	2	0	3	0	2	0	5	0	1	0	0	0	14	8	12	1	5	5	7	0	5	3	3	1	2	3	4	0	1	2	5	1	4	0	1	0	1	1	4	1	2	3	3	1	1	0
+8	CYTB	YP_009630391.1	Neuroperla schedingi	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Plecoptera, Eusthenioidea, Eustheniidae, Stenoperlinae, Neuroperla	12	19	22	0	1	4	7	1	3	15	0	3	11	1	11	10	15	1	5	8	7	2	4	8	8	0	0	0	7	1	23	9	13	2	6	8	7	0	13	7	6	1	2	0	3	0	14	4	6	2	5	9	11	0	7	7	2	0	5	1	15	4	1	0

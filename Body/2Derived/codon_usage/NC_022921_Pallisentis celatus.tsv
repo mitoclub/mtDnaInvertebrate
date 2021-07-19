@@ -1,65 +1,13 @@
-	YP_008854340.1|COX1	YP_008854341.1|ND6	YP_008854342.1|ATP6	YP_008854343.1|ND3	YP_008854344.1|ND4L	YP_008854345.1|ND4	YP_008854346.1|ND5	YP_008854347.1|CYTB	YP_008854348.1|ND1	YP_008854349.1|COX2	YP_008854350.1|COX3	YP_008854351.1|ND2
-TTT	42	12	22	11	8	35	50	29	33	12	16	31
-TTC	6	1	3	3	2	8	3	2	1	1	2	4
-TTA	20	11	12	1	9	26	35	23	22	9	19	17
-TTG	30	4	14	6	4	45	39	25	22	12	21	26
-TCT	9	4	6	2	3	8	14	12	4	9	3	10
-TCC	4	0	2	2	1	0	5	2	1	0	1	4
-TCA	4	3	2	0	0	5	9	2	5	1	3	4
-TCG	5	2	3	1	1	1	1	3	2	2	1	0
-TAT	15	2	3	4	1	12	15	14	5	14	2	6
-TAC	6	1	0	0	0	3	2	6	0	1	0	2
-TGT	2	3	2	2	2	6	6	2	2	3	0	3
-TGC	1	0	0	3	0	1	0	0	0	1	1	1
-TGA	8	0	2	5	0	3	6	1	2	4	3	4
-TGG	7	0	3	5	2	10	11	7	4	3	10	9
-CTT	8	0	3	4	0	6	10	3	2	5	2	3
-CTC	5	1	0	0	0	1	1	0	0	0	0	3
-CTA	6	1	1	2	1	1	2	0	1	0	0	1
-CTG	3	0	0	2	1	3	2	1	4	1	1	1
-CCT	5	0	2	0	0	1	5	2	3	3	1	2
-CCC	4	1	0	1	0	2	0	1	2	0	0	0
-CCA	5	1	0	2	0	2	2	4	0	3	0	4
-CCG	2	0	1	0	0	1	0	2	1	1	1	0
-CAT	8	0	1	0	0	3	6	6	0	0	3	1
-CAC	5	0	0	0	0	2	0	0	0	2	1	0
-CAA	3	0	1	0	0	2	2	3	1	1	1	2
-CAG	2	2	1	0	1	1	1	2	3	2	1	3
-CGT	4	0	1	1	0	2	2	4	4	1	2	0
-CGC	0	0	0	0	0	0	1	0	0	0	0	1
-CGA	3	1	2	0	0	0	2	2	1	2	0	0
-CGG	2	0	1	0	0	2	0	1	3	0	0	2
-ATT	21	1	7	2	4	15	16	12	15	9	6	13
-ATC	7	2	0	3	0	0	0	3	3	1	3	1
-ATA	13	5	2	6	0	4	11	4	8	3	6	6
-ATG	17	2	5	1	3	22	20	13	9	6	7	5
-ACT	6	0	3	0	0	2	4	2	2	2	2	0
-ACC	2	0	0	1	1	2	0	1	0	0	2	1
-ACA	4	0	1	0	0	4	8	3	2	1	6	1
-ACG	6	0	1	0	0	2	1	0	1	0	2	4
-AAT	9	1	4	1	0	3	1	4	2	0	4	4
-AAC	2	2	0	0	0	1	3	1	1	2	0	0
-AAA	7	2	0	2	0	5	5	4	5	1	0	1
-AAG	3	0	1	3	0	6	4	5	2	3	1	5
-AGT	7	1	5	6	1	5	12	6	5	4	1	4
-AGC	4	2	1	2	1	1	1	0	0	0	0	4
-AGA	4	1	3	3	0	4	7	6	6	2	2	3
-AGG	10	4	2	2	3	9	13	10	4	5	10	3
-GTT	26	11	11	6	9	33	33	36	24	13	13	17
-GTC	2	0	2	2	0	3	3	1	2	4	0	2
-GTA	8	3	4	2	2	9	15	13	4	2	5	12
-GTG	24	7	12	8	10	21	36	17	18	9	16	21
-GCT	13	2	1	1	0	5	8	7	4	4	1	5
-GCC	4	0	1	0	0	0	1	0	0	0	1	2
-GCA	8	0	2	0	0	6	6	3	2	1	1	2
-GCG	2	2	0	0	1	1	5	3	2	0	1	3
-GAT	12	1	3	2	0	4	13	4	4	6	4	1
-GAC	3	0	0	1	0	0	2	0	1	0	1	0
-GAA	7	0	0	1	1	5	4	2	5	5	3	2
-GAG	7	0	3	2	2	6	6	8	2	4	6	3
-GGT	18	3	3	3	6	23	18	17	14	11	15	13
-GGC	3	1	1	1	0	2	2	1	2	5	3	3
-GGA	7	4	3	1	0	4	9	1	2	1	7	6
-GGG	21	6	10	1	6	18	30	16	13	7	10	12
-TAA	0	1	0	0	0	0	0	0	0	0	0	1
-TAG	0	0	0	1	0	0	1	1	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_008854340.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	42	6	20	30	9	4	4	5	15	6	2	1	8	7	8	5	6	3	5	4	5	2	8	5	3	2	4	0	3	2	21	7	13	17	6	2	4	6	9	2	7	3	7	4	4	10	26	2	8	24	13	4	8	2	12	3	7	7	18	3	7	21	0	0
+1	ND6	YP_008854341.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	12	1	11	4	4	0	3	2	2	1	3	0	0	0	0	1	1	0	0	1	1	0	0	0	0	2	0	0	1	0	1	2	5	2	0	0	0	0	1	2	2	0	1	2	1	4	11	0	3	7	2	0	0	2	1	0	0	0	3	1	4	6	1	0
+2	ATP6	YP_008854342.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	22	3	12	14	6	2	2	3	3	0	2	0	2	3	3	0	1	0	2	0	0	1	1	0	1	1	1	0	2	1	7	0	2	5	3	0	1	1	4	0	0	1	5	1	3	2	11	2	4	12	1	1	2	0	3	0	0	3	3	1	3	10	0	0
+3	ND3	YP_008854343.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	11	3	1	6	2	2	0	1	4	0	2	3	5	5	4	0	2	2	0	1	2	0	0	0	0	0	1	0	0	0	2	3	6	1	0	1	0	0	1	0	2	3	6	2	3	2	6	2	2	8	1	0	0	0	2	1	1	2	3	1	1	1	0	1
+4	ND4L	YP_008854344.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	8	2	9	4	3	1	0	1	1	0	2	0	0	2	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	4	0	0	3	0	1	0	0	0	0	0	0	1	1	0	3	9	0	2	10	0	0	0	1	0	0	1	2	6	0	0	6	0	0
+5	ND4	YP_008854345.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	35	8	26	45	8	0	5	1	12	3	6	1	3	10	6	1	1	3	1	2	2	1	3	2	2	1	2	0	0	2	15	0	4	22	2	2	4	2	3	1	5	6	5	1	4	9	33	3	9	21	5	0	6	1	4	0	5	6	23	2	4	18	0	0
+6	ND5	YP_008854346.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	50	3	35	39	14	5	9	1	15	2	6	0	6	11	10	1	2	2	5	0	2	0	6	0	2	1	2	1	2	0	16	0	11	20	4	0	8	1	1	3	5	4	12	1	7	13	33	3	15	36	8	1	6	5	13	2	4	6	18	2	9	30	0	1
+7	CYTB	YP_008854347.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	29	2	23	25	12	2	2	3	14	6	2	0	1	7	3	0	0	1	2	1	4	2	6	0	3	2	4	0	2	1	12	3	4	13	2	1	3	0	4	1	4	5	6	0	6	10	36	1	13	17	7	0	3	3	4	0	2	8	17	1	1	16	0	1
+8	ND1	YP_008854348.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	33	1	22	22	4	1	5	2	5	0	2	0	2	4	2	0	1	4	3	2	0	1	0	0	1	3	4	0	1	3	15	3	8	9	2	0	2	1	2	1	5	2	5	0	6	4	24	2	4	18	4	0	2	2	4	1	5	2	14	2	2	13	0	0
+9	COX2	YP_008854349.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	12	1	9	12	9	0	1	2	14	1	3	1	4	3	5	0	0	1	3	0	3	1	0	2	1	2	1	0	2	0	9	1	3	6	2	0	1	0	0	2	1	3	4	0	2	5	13	4	2	9	4	0	1	0	6	0	5	4	11	5	1	7	0	1
+10	COX3	YP_008854350.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	16	2	19	21	3	1	3	1	2	0	0	1	3	10	2	0	0	1	1	0	0	1	3	1	1	1	2	0	0	0	6	3	6	7	2	2	6	2	4	0	0	1	1	0	2	10	13	0	5	16	1	1	1	1	4	1	3	6	15	3	7	10	0	0
+11	ND2	YP_008854351.1	Pallisentis celatus	Eukaryota, Metazoa, Lophotrochozoa, Acanthocephala, Eoacanthocephala, Gyracanthocephala, Quadrigyridae, Pallisentis	31	4	17	26	10	4	4	0	6	2	3	1	4	9	3	3	1	1	2	0	4	0	1	0	2	3	0	1	0	2	13	1	6	5	0	1	1	4	4	0	1	5	4	4	3	3	17	2	12	21	5	2	2	3	1	0	2	3	13	3	6	12	1	0

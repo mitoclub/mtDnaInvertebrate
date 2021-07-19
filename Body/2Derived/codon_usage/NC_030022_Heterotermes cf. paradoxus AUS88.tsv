@@ -1,65 +1,10 @@
-	YP_009250558.1|ND2	YP_009250559.1|COX1	YP_009250560.1|COX2	YP_009250561.1|ATP8	YP_009250562.1|ATP6	YP_009250563.1|COX3	YP_009250564.1|ND3	YP_009250568.1|ND6	YP_009250569.1|CYTB
-TTT	5	16	3	0	3	2	2	2	6
-TTC	11	28	7	5	10	22	6	4	21
-TTA	12	11	4	1	6	6	2	1	5
-TTG	0	3	0	0	0	0	0	0	1
-TCT	3	1	0	0	1	0	0	0	1
-TCC	6	4	2	0	0	1	1	0	2
-TCA	17	22	8	2	5	10	9	9	11
-TCG	3	2	0	0	0	0	0	0	0
-TAT	1	6	4	0	2	3	0	1	5
-TAC	10	9	3	2	1	6	2	6	12
-TGT	1	0	1	0	0	0	0	0	1
-TGC	2	2	1	0	0	1	1	1	3
-TGA	6	13	6	3	4	13	3	1	12
-TGG	3	2	0	0	0	0	0	0	0
-CTT	3	8	0	0	5	3	0	0	4
-CTC	1	4	1	0	4	1	1	2	1
-CTA	25	27	20	2	23	19	11	18	34
-CTG	5	3	0	0	3	2	0	0	1
-CCT	2	4	1	1	1	0	0	0	1
-CCC	2	5	2	0	3	2	2	1	3
-CCA	9	18	9	2	7	8	3	4	19
-CCG	0	0	0	0	0	0	0	0	0
-CAT	0	4	3	0	2	3	0	0	2
-CAC	3	11	4	0	4	11	1	2	9
-CAA	4	10	9	2	4	9	1	4	8
-CAG	2	0	1	0	0	0	0	0	0
-CGT	0	0	0	0	0	0	0	0	0
-CGC	0	1	0	0	0	0	0	0	0
-CGA	1	7	7	0	3	4	3	1	8
-CGG	0	1	1	0	0	0	0	0	0
-ATT	11	23	10	2	11	7	4	6	11
-ATC	20	20	8	1	12	10	8	6	19
-ATA	27	26	13	9	14	7	12	26	21
-ATG	7	5	3	0	2	2	0	2	1
-ACT	4	3	1	0	1	4	1	1	2
-ACC	10	4	4	1	5	4	0	4	6
-ACA	10	28	13	6	17	16	7	12	19
-ACG	7	1	2	1	0	1	0	2	1
-AAT	7	4	2	1	8	5	2	1	7
-AAC	11	15	8	5	9	3	3	11	17
-AAA	10	2	4	3	5	4	5	4	10
-AAG	7	7	1	0	1	0	0	1	2
-AGT	1	1	0	1	1	0	0	0	0
-AGC	2	3	1	0	2	1	0	0	1
-AGA	8	11	7	1	12	5	4	6	3
-AGG	0	0	0	0	0	0	0	0	0
-GTT	3	5	4	0	0	2	0	0	0
-GTC	2	5	1	0	2	1	0	1	3
-GTA	11	22	9	1	7	11	3	6	19
-GTG	3	1	0	0	0	0	0	0	1
-GCT	3	4	1	0	1	1	0	0	1
-GCC	3	6	1	0	1	5	0	2	6
-GCA	13	28	9	0	6	13	8	4	18
-GCG	0	1	1	0	0	0	0	0	1
-GAT	0	8	5	0	0	2	0	0	3
-GAC	2	6	4	0	1	3	3	1	6
-GAA	7	7	11	1	5	8	6	4	5
-GAG	2	3	0	0	1	0	0	0	0
-GGT	3	6	0	0	1	0	0	0	0
-GGC	1	0	0	0	0	0	0	0	0
-GGA	9	33	8	0	8	21	3	5	21
-GGG	4	5	0	0	2	0	0	1	3
-TAA	1	1	0	1	1	1	1	1	0
-TAG	0	0	0	0	0	0	0	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_009250558.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	5	11	12	0	3	6	17	3	1	10	1	2	6	3	3	1	25	5	2	2	9	0	0	3	4	2	0	0	1	0	11	20	27	7	4	10	10	7	7	11	10	7	1	2	8	0	3	2	11	3	3	3	13	0	0	2	7	2	3	1	9	4	1	0
+1	COX1	YP_009250559.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	16	28	11	3	1	4	22	2	6	9	0	2	13	2	8	4	27	3	4	5	18	0	4	11	10	0	0	1	7	1	23	20	26	5	3	4	28	1	4	15	2	7	1	3	11	0	5	5	22	1	4	6	28	1	8	6	7	3	6	0	33	5	1	0
+2	COX2	YP_009250560.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	3	7	4	0	0	2	8	0	4	3	1	1	6	0	0	1	20	0	1	2	9	0	3	4	9	1	0	0	7	1	10	8	13	3	1	4	13	2	2	8	4	1	0	1	7	0	4	1	9	0	1	1	9	1	5	4	11	0	0	0	8	0	0	0
+3	ATP8	YP_009250561.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	0	5	1	0	0	0	2	0	0	2	0	0	3	0	0	0	2	0	1	0	2	0	0	0	2	0	0	0	0	0	2	1	9	0	0	1	6	1	1	5	3	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_009250562.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	3	10	6	0	1	0	5	0	2	1	0	0	4	0	5	4	23	3	1	3	7	0	2	4	4	0	0	0	3	0	11	12	14	2	1	5	17	0	8	9	5	1	1	2	12	0	0	2	7	0	1	1	6	0	0	1	5	1	1	0	8	2	1	0
+5	COX3	YP_009250563.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	2	22	6	0	0	1	10	0	3	6	0	1	13	0	3	1	19	2	0	2	8	0	3	11	9	0	0	0	4	0	7	10	7	2	4	4	16	1	5	3	4	0	0	1	5	0	2	1	11	0	1	5	13	0	2	3	8	0	0	0	21	0	1	0
+6	ND3	YP_009250564.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	2	6	2	0	0	1	9	0	0	2	0	1	3	0	0	1	11	0	0	2	3	0	0	1	1	0	0	0	3	0	4	8	12	0	1	0	7	0	2	3	5	0	0	0	4	0	0	0	3	0	0	0	8	0	0	3	6	0	0	0	3	0	1	0
+7	ND6	YP_009250568.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	2	4	1	0	0	0	9	0	1	6	0	1	1	0	0	2	18	0	0	1	4	0	0	2	4	0	0	0	1	0	6	6	26	2	1	4	12	2	1	11	4	1	0	0	6	0	0	1	6	0	0	2	4	0	0	1	4	0	0	0	5	1	1	0
+8	CYTB	YP_009250569.1	Heterotermes cf. paradoxus AUS88	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Polyneoptera, Dictyoptera, Blattodea, Blattoidea, Termitoidae, Rhinotermitidae, Heterotermes	6	21	5	1	1	2	11	0	5	12	1	3	12	0	4	1	34	1	1	3	19	0	2	9	8	0	0	0	8	0	11	19	21	1	2	6	19	1	7	17	10	2	0	1	3	0	0	3	19	1	1	6	18	1	3	6	5	0	0	0	21	3	0	1

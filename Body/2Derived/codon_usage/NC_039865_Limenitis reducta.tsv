@@ -1,65 +1,9 @@
-	YP_009537871.1|COX1	YP_009537872.1|COX2	YP_009537873.1|ATP8	YP_009537874.1|ATP6	YP_009537875.1|COX3	YP_009537876.1|ND3	YP_009537880.1|ND6	YP_009537881.1|CYTB
-TTT	38	14	8	18	24	14	20	33
-TTC	4	1	0	1	4	1	3	3
-TTA	45	23	1	33	19	8	25	49
-TTG	0	0	0	0	2	0	0	0
-TCT	15	4	0	6	4	3	3	8
-TCC	4	2	0	1	1	1	0	1
-TCA	18	8	1	6	5	6	8	7
-TCG	0	0	0	0	0	0	0	0
-TAT	17	9	4	8	9	2	10	16
-TAC	3	1	0	0	2	0	1	3
-TGT	0	1	0	0	3	1	1	3
-TGC	0	1	0	0	0	1	0	0
-TGA	14	6	3	5	12	3	2	12
-TGG	0	0	0	0	1	0	0	0
-CTT	10	3	1	1	6	2	7	3
-CTC	1	0	0	0	0	0	0	0
-CTA	6	1	0	1	0	2	3	4
-CTG	0	0	0	0	0	0	0	0
-CCT	11	2	2	5	6	3	0	10
-CCC	6	1	1	1	1	0	0	2
-CCA	7	6	0	2	3	2	2	9
-CCG	1	0	0	1	0	0	0	0
-CAT	12	5	0	6	14	2	2	5
-CAC	4	0	0	0	1	0	0	3
-CAA	8	8	1	4	6	1	2	9
-CAG	1	0	0	0	0	0	0	0
-CGT	3	3	0	1	0	0	0	1
-CGC	0	0	0	1	0	1	0	0
-CGA	5	4	0	1	4	1	1	5
-CGG	0	0	0	0	0	0	0	0
-ATT	53	30	8	29	31	19	22	50
-ATC	4	6	2	5	2	4	2	5
-ATA	32	7	4	11	5	11	12	15
-ATG	0	1	0	1	2	0	0	1
-ACT	15	6	0	11	10	1	4	11
-ACC	0	1	0	2	2	1	2	2
-ACA	13	3	0	6	11	2	1	11
-ACG	0	0	0	0	0	0	0	0
-AAT	18	21	7	17	10	6	14	24
-AAC	6	2	2	4	3	1	3	3
-AAA	6	4	7	2	3	5	7	11
-AAG	0	0	0	0	0	0	0	0
-AGT	4	2	0	3	3	0	0	0
-AGC	1	0	0	0	0	0	0	0
-AGA	5	3	0	7	3	0	2	2
-AGG	0	0	0	0	0	0	0	0
-GTT	13	2	0	3	3	1	3	7
-GTC	1	0	0	0	0	0	0	0
-GTA	9	4	0	3	8	2	1	4
-GTG	0	0	0	0	1	0	0	0
-GCT	21	4	0	2	6	0	0	9
-GCC	2	0	0	0	2	0	1	3
-GCA	4	3	0	2	2	0	2	4
-GCG	0	0	0	1	0	1	0	0
-GAT	15	7	0	0	4	2	1	7
-GAC	0	2	0	1	0	1	0	0
-GAA	9	9	0	5	7	3	4	5
-GAG	0	0	0	0	0	1	0	0
-GGT	10	1	0	1	5	1	1	6
-GGC	0	0	0	0	0	0	0	0
-GGA	36	5	1	6	11	1	3	16
-GGG	0	0	0	1	1	0	1	1
-TAA	0	0	1	1	1	1	1	1
-TAG	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009537871.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	38	4	45	0	15	4	18	0	17	3	0	0	14	0	10	1	6	0	11	6	7	1	12	4	8	1	3	0	5	0	53	4	32	0	15	0	13	0	18	6	6	0	4	1	5	0	13	1	9	0	21	2	4	0	15	0	9	0	10	0	36	0	0	0
+1	COX2	YP_009537872.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	14	1	23	0	4	2	8	0	9	1	1	1	6	0	3	0	1	0	2	1	6	0	5	0	8	0	3	0	4	0	30	6	7	1	6	1	3	0	21	2	4	0	2	0	3	0	2	0	4	0	4	0	3	0	7	2	9	0	1	0	5	0	0	0
+2	ATP8	YP_009537873.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	8	0	1	0	0	0	1	0	4	0	0	0	3	0	1	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	8	2	4	0	0	0	0	0	7	2	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+3	ATP6	YP_009537874.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	18	1	33	0	6	1	6	0	8	0	0	0	5	0	1	0	1	0	5	1	2	1	6	0	4	0	1	1	1	0	29	5	11	1	11	2	6	0	17	4	2	0	3	0	7	0	3	0	3	0	2	0	2	1	0	1	5	0	1	0	6	1	1	0
+4	COX3	YP_009537875.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	24	4	19	2	4	1	5	0	9	2	3	0	12	1	6	0	0	0	6	1	3	0	14	1	6	0	0	0	4	0	31	2	5	2	10	2	11	0	10	3	3	0	3	0	3	0	3	0	8	1	6	2	2	0	4	0	7	0	5	0	11	1	1	0
+5	ND3	YP_009537876.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	14	1	8	0	3	1	6	0	2	0	1	1	3	0	2	0	2	0	3	0	2	0	2	0	1	0	0	1	1	0	19	4	11	0	1	1	2	0	6	1	5	0	0	0	0	0	1	0	2	0	0	0	0	1	2	1	3	1	1	0	1	0	1	0
+6	ND6	YP_009537880.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	20	3	25	0	3	0	8	0	10	1	1	0	2	0	7	0	3	0	0	0	2	0	2	0	2	0	0	0	1	0	22	2	12	0	4	2	1	0	14	3	7	0	0	0	2	0	3	0	1	0	0	1	2	0	1	0	4	0	1	0	3	1	1	0
+7	CYTB	YP_009537881.1	Limenitis reducta	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Lepidoptera, Glossata, Ditrysia, Papilionoidea, Nymphalidae, Limenitidinae, Limenitidini, Limenitis	33	3	49	0	8	1	7	0	16	3	3	0	12	0	3	0	4	0	10	2	9	0	5	3	9	0	1	0	5	0	50	5	15	1	11	2	11	0	24	3	11	0	0	0	2	0	7	0	4	0	9	3	4	0	7	0	5	0	6	0	16	1	1	0

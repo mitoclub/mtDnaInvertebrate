@@ -1,65 +1,10 @@
-	NP_758873.1|ND2	NP_758874.1|COX1	NP_758875.2|COX2	NP_758876.1|ATP8	NP_758877.2|ATP6	NP_758878.1|COX3	NP_758879.1|ND3	NP_758883.1|ND6	NP_758884.1|CYTB
-TTT	30	48	16	3	6	26	15	16	26
-TTC	4	0	0	0	0	1	1	0	2
-TTA	43	48	24	1	14	33	10	23	42
-TTG	8	5	0	1	6	1	3	4	3
-TCT	5	21	5	0	0	7	3	6	11
-TCC	1	1	0	0	1	0	0	1	2
-TCA	1	4	4	1	3	2	0	1	3
-TCG	1	0	1	0	0	0	0	0	2
-TAT	17	13	13	7	6	15	5	8	23
-TAC	0	2	0	0	0	0	0	0	4
-TGT	0	3	4	0	0	2	2	1	5
-TGC	0	0	0	0	0	0	0	0	0
-TGA	7	11	3	1	1	10	3	1	9
-TGG	0	3	3	0	0	2	0	0	1
-CTT	1	2	1	0	1	2	0	1	0
-CTC	0	0	0	0	0	0	0	0	0
-CTA	1	3	0	0	0	1	0	0	1
-CTG	1	0	0	0	0	0	0	0	0
-CCT	4	18	7	2	4	6	3	3	17
-CCC	1	0	0	0	0	1	0	0	1
-CCA	1	4	1	0	0	0	0	0	0
-CCG	0	1	0	0	0	0	0	0	1
-CAT	2	15	5	1	2	10	1	2	9
-CAC	0	2	0	0	0	0	0	0	0
-CAA	5	4	3	1	1	2	0	0	4
-CAG	0	2	2	0	0	1	0	0	1
-CGT	0	6	4	0	1	0	0	0	3
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	3	2	0	0	2	1	0	5
-CGG	0	0	0	0	1	0	0	1	0
-ATT	28	46	20	2	11	26	20	15	41
-ATC	1	2	0	0	0	0	0	1	1
-ATA	39	39	22	7	12	21	11	28	26
-ATG	6	2	1	1	1	1	1	0	4
-ACT	3	18	4	0	4	7	3	2	7
-ACC	0	0	0	0	0	0	0	0	1
-ACA	0	7	3	0	2	2	0	1	2
-ACG	0	1	0	0	0	0	0	0	1
-AAT	20	21	14	1	5	12	3	8	17
-AAC	1	0	0	0	0	0	0	0	0
-AAA	11	5	3	0	1	5	4	3	3
-AAG	4	5	3	1	1	2	1	1	6
-AGT	9	9	3	0	1	5	2	1	1
-AGC	0	0	0	0	1	0	0	0	0
-AGA	14	10	6	0	3	8	1	5	11
-AGG	0	1	0	0	0	0	0	0	0
-GTT	8	16	9	0	3	6	0	1	7
-GTC	0	1	0	0	0	0	0	0	0
-GTA	15	23	4	2	7	8	3	4	15
-GTG	1	1	0	0	0	2	0	1	2
-GCT	0	16	5	0	2	3	1	0	8
-GCC	0	0	0	0	1	1	0	0	0
-GCA	0	6	2	0	1	0	0	1	4
-GCG	0	1	0	0	0	1	0	0	0
-GAT	1	15	8	0	0	2	1	0	7
-GAC	0	0	1	0	0	2	0	0	0
-GAA	5	4	11	0	3	7	6	2	5
-GAG	3	3	1	0	2	1	0	0	0
-GGT	4	21	2	0	0	5	1	1	12
-GGC	0	0	0	0	0	0	0	0	0
-GGA	6	16	3	0	2	6	1	1	4
-GGG	1	6	2	0	2	2	1	1	7
-TAA	1	0	0	1	1	1	0	1	0
-TAG	0	1	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	NP_758873.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	30	4	43	8	5	1	1	1	17	0	0	0	7	0	1	0	1	1	4	1	1	0	2	0	5	0	0	0	1	0	28	1	39	6	3	0	0	0	20	1	11	4	9	0	14	0	8	0	15	1	0	0	0	0	1	0	5	3	4	0	6	1	1	0
+1	COX1	NP_758874.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	48	0	48	5	21	1	4	0	13	2	3	0	11	3	2	0	3	0	18	0	4	1	15	2	4	2	6	0	3	0	46	2	39	2	18	0	7	1	21	0	5	5	9	0	10	1	16	1	23	1	16	0	6	1	15	0	4	3	21	0	16	6	0	1
+2	COX2	NP_758875.2	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	16	0	24	0	5	0	4	1	13	0	4	0	3	3	1	0	0	0	7	0	1	0	5	0	3	2	4	0	2	0	20	0	22	1	4	0	3	0	14	0	3	3	3	0	6	0	9	0	4	0	5	0	2	0	8	1	11	1	2	0	3	2	0	0
+3	ATP8	NP_758876.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	3	0	1	1	0	0	1	0	7	0	0	0	1	0	0	0	0	0	2	0	0	0	1	0	1	0	0	0	0	0	2	0	7	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+4	ATP6	NP_758877.2	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	6	0	14	6	0	1	3	0	6	0	0	0	1	0	1	0	0	0	4	0	0	0	2	0	1	0	1	0	0	1	11	0	12	1	4	0	2	0	5	0	1	1	1	1	3	0	3	0	7	0	2	1	1	0	0	0	3	2	0	0	2	2	1	0
+5	COX3	NP_758878.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	26	1	33	1	7	0	2	0	15	0	2	0	10	2	2	0	1	0	6	1	0	0	10	0	2	1	0	0	2	0	26	0	21	1	7	0	2	0	12	0	5	2	5	0	8	0	6	0	8	2	3	1	0	1	2	2	7	1	5	0	6	2	1	0
+6	ND3	NP_758879.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	15	1	10	3	3	0	0	0	5	0	2	0	3	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	1	0	20	0	11	1	3	0	0	0	3	0	4	1	2	0	1	0	0	0	3	0	1	0	0	0	1	0	6	0	1	0	1	1	0	1
+7	ND6	NP_758883.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	16	0	23	4	6	1	1	0	8	0	1	0	1	0	1	0	0	0	3	0	0	0	2	0	0	0	0	0	0	1	15	1	28	0	2	0	1	0	8	0	3	1	1	0	5	0	1	0	4	1	0	0	1	0	0	0	2	0	1	0	1	1	1	0
+8	CYTB	NP_758884.1	Varroa destructor	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Chelicerata, Arachnida, Acari, Parasitiformes, Mesostigmata, Gamasina, Dermanyssoidea, Varroidae, Varroa	26	2	42	3	11	2	3	2	23	4	5	0	9	1	0	0	1	0	17	1	0	1	9	0	4	1	3	0	5	0	41	1	26	4	7	1	2	1	17	0	3	6	1	0	11	0	7	0	15	2	8	0	4	0	7	0	5	0	12	0	4	7	0	1

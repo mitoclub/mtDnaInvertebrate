@@ -1,65 +1,13 @@
-	YP_004935131.1|ND1	YP_004935132.1|ND2	YP_004935133.1|COX1	YP_004935134.1|COX2	YP_004935135.1|ATP8	YP_004935136.1|ATP6	YP_004935137.1|COX3	YP_004935138.1|ND3	YP_004935139.1|ND4L	YP_004935140.1|ND4	YP_004935141.1|ND5	YP_004935143.1|CYTB
-TTT	9	4	25	5	2	8	10	4	4	4	22	11
-TTC	10	4	16	5	2	4	12	6	3	11	23	21
-TTA	10	13	8	3	1	6	6	1	3	6	13	9
-TTG	0	1	1	0	0	1	0	0	0	1	2	1
-TCT	5	1	9	0	0	3	4	2	3	5	9	6
-TCC	7	6	8	4	1	4	1	2	1	7	11	8
-TCA	4	5	7	6	2	0	4	2	3	10	6	7
-TCG	0	1	1	0	0	0	0	0	0	0	0	0
-TAT	7	3	8	2	0	1	4	2	0	5	4	5
-TAC	6	4	10	7	0	3	9	0	0	9	7	11
-TGT	0	1	0	1	0	0	1	1	1	1	0	1
-TGC	0	1	1	1	0	1	2	0	2	3	6	3
-TGA	8	9	15	5	4	4	12	5	1	17	13	11
-TGG	0	2	2	0	1	0	0	0	0	0	1	0
-CTT	15	23	16	7	1	16	5	8	9	22	26	24
-CTC	10	15	9	7	2	6	6	6	8	20	16	8
-CTA	27	25	21	6	1	16	11	11	4	35	37	16
-CTG	1	3	9	4	0	4	2	1	1	8	4	3
-CCT	8	6	9	3	2	6	2	3	0	7	7	7
-CCC	8	14	9	4	2	5	7	5	1	13	15	4
-CCA	8	5	9	7	3	5	4	1	0	8	10	11
-CCG	0	0	1	0	0	0	0	0	1	0	3	0
-CAT	0	0	6	2	1	1	4	0	2	5	3	5
-CAC	5	6	14	7	1	3	11	0	3	8	12	7
-CAA	6	12	7	10	3	6	8	2	2	11	16	7
-CAG	1	2	1	0	0	1	0	1	0	0	2	0
-CGT	0	0	1	0	0	0	0	0	0	1	1	0
-CGC	2	1	1	2	0	2	1	1	0	4	2	0
-CGA	6	3	6	3	0	2	4	1	2	6	6	6
-CGG	0	0	0	1	0	1	0	0	0	0	0	2
-ATT	10	14	21	15	1	14	9	3	1	21	29	15
-ATC	12	9	16	4	1	6	5	4	0	14	20	14
-ATA	5	12	12	7	0	7	7	1	1	22	23	8
-ATG	3	2	13	4	1	3	3	2	3	7	4	3
-ACT	2	9	11	7	1	6	2	2	2	6	8	5
-ACC	4	13	4	3	4	2	6	5	3	20	29	6
-ACA	16	22	20	3	4	10	12	0	5	15	26	11
-ACG	0	0	0	0	0	0	0	0	0	1	0	0
-AAT	5	5	5	0	1	3	0	1	1	4	9	6
-AAC	6	9	10	5	1	7	3	1	1	8	19	12
-AAA	7	8	8	2	2	3	3	1	0	7	21	7
-AAG	0	1	0	1	0	0	0	0	0	2	0	1
-AGT	0	0	1	0	0	2	0	0	1	1	2	0
-AGC	5	5	3	3	0	3	3	0	2	4	9	1
-GTT	5	2	10	10	1	5	7	2	1	5	9	7
-GTC	4	3	6	5	1	4	6	1	0	3	6	5
-GTA	9	1	22	5	0	7	6	4	0	7	10	11
-GTG	1	0	4	2	0	0	0	0	0	2	3	2
-GCT	6	5	19	3	1	9	6	2	4	12	11	8
-GCC	13	23	18	7	2	8	8	5	4	19	27	12
-GCA	16	12	12	9	0	5	9	1	6	11	14	10
-GCG	0	0	0	0	0	0	0	0	0	0	1	0
-GAT	2	0	6	5	1	0	1	1	0	1	2	4
-GAC	2	1	9	7	1	1	4	3	1	3	10	7
-GAA	10	5	9	10	2	4	8	5	3	9	9	4
-GAG	1	0	1	3	0	0	1	1	0	2	3	1
-GGT	2	0	7	1	0	1	9	1	0	4	6	6
-GGC	8	9	14	1	0	4	5	1	4	8	13	5
-GGA	7	5	19	4	0	2	5	1	1	11	9	14
-GGG	0	3	7	2	0	2	3	3	0	4	3	1
-TAA	1	1	1	0	0	1	0	0	1	0	0	0
-TAG	0	0	0	0	1	0	0	0	0	0	1	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_004935131.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	9	10	10	0	5	7	4	0	7	6	0	0	8	0	15	10	27	1	8	8	8	0	0	5	6	1	0	2	6	0	10	12	5	3	2	4	16	0	5	6	7	0	0	5	5	4	9	1	6	13	16	0	2	2	10	1	2	8	7	0	1	0	0	0
+1	ND2	YP_004935132.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	4	4	13	1	1	6	5	1	3	4	1	1	9	2	23	15	25	3	6	14	5	0	0	6	12	2	0	1	3	0	14	9	12	2	9	13	22	0	5	9	8	1	0	5	2	3	1	0	5	23	12	0	0	1	5	0	0	9	5	3	1	0	0	0
+2	COX1	YP_004935133.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	25	16	8	1	9	8	7	1	8	10	0	1	15	2	16	9	21	9	9	9	9	1	6	14	7	1	1	1	6	0	21	16	12	13	11	4	20	0	5	10	8	0	1	3	10	6	22	4	19	18	12	0	6	9	9	1	7	14	19	7	1	0	0	0
+3	COX2	YP_004935134.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	5	5	3	0	0	4	6	0	2	7	1	1	5	0	7	7	6	4	3	4	7	0	2	7	10	0	0	2	3	1	15	4	7	4	7	3	3	0	0	5	2	1	0	3	10	5	5	2	3	7	9	0	5	7	10	3	1	1	4	2	0	0	0	0
+4	ATP8	YP_004935135.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	2	2	1	0	0	1	2	0	0	0	0	0	4	1	1	2	1	0	2	2	3	0	1	1	3	0	0	0	0	0	1	1	0	1	1	4	4	0	1	1	2	0	0	0	1	1	0	0	1	2	0	0	1	1	2	0	0	0	0	0	0	1	0	0
+5	ATP6	YP_004935136.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	8	4	6	1	3	4	0	0	1	3	0	1	4	0	16	6	16	4	6	5	5	0	1	3	6	1	0	2	2	1	14	6	7	3	6	2	10	0	3	7	3	0	2	3	5	4	7	0	9	8	5	0	0	1	4	0	1	4	2	2	1	0	0	0
+6	COX3	YP_004935137.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	10	12	6	0	4	1	4	0	4	9	1	2	12	0	5	6	11	2	2	7	4	0	4	11	8	0	0	1	4	0	9	5	7	3	2	6	12	0	0	3	3	0	0	3	7	6	6	0	6	8	9	0	1	4	8	1	9	5	5	3	0	0	0	0
+7	ND3	YP_004935138.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	4	6	1	0	2	2	2	0	2	0	1	0	5	0	8	6	11	1	3	5	1	0	0	0	2	1	0	1	1	0	3	4	1	2	2	5	0	0	1	1	1	0	0	0	2	1	4	0	2	5	1	0	1	3	5	1	1	1	1	3	0	0	0	0
+8	ND4L	YP_004935139.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	4	3	3	0	3	1	3	0	0	0	1	2	1	0	9	8	4	1	0	1	0	1	2	3	2	0	0	0	2	0	1	0	1	3	2	3	5	0	1	1	0	0	1	2	1	0	0	0	4	4	6	0	0	1	3	0	0	4	1	0	1	0	0	0
+9	ND4	YP_004935140.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	4	11	6	1	5	7	10	0	5	9	1	3	17	0	22	20	35	8	7	13	8	0	5	8	11	0	1	4	6	0	21	14	22	7	6	20	15	1	4	8	7	2	1	4	5	3	7	2	12	19	11	0	1	3	9	2	4	8	11	4	0	0	0	0
+10	ND5	YP_004935141.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	22	23	13	2	9	11	6	0	4	7	0	6	13	1	26	16	37	4	7	15	10	3	3	12	16	2	1	2	6	0	29	20	23	4	8	29	26	0	9	19	21	0	2	9	9	6	10	3	11	27	14	1	2	10	9	3	6	13	9	3	0	1	0	0
+11	CYTB	YP_004935143.1	Boleophthalmus pectinirostris	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Neoteleostei, Acanthomorphata, Gobiaria, Gobiiformes, Gobioidei, Gobiidae, Oxudercinae, Boleophthalmus	11	21	9	1	6	8	7	0	5	11	1	3	11	0	24	8	16	3	7	4	11	0	5	7	7	0	0	0	6	2	15	14	8	3	5	6	11	0	6	12	7	1	0	1	7	5	11	2	8	12	10	0	4	7	4	1	6	5	14	1	0	0	0	0

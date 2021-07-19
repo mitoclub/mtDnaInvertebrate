@@ -1,65 +1,14 @@
-	YP_009694533.2|COX1	YP_009694534.1|COX2	YP_009694535.1|CYTB	YP_009694536.1|ATP8	YP_009694537.1|ND4	YP_009694538.1|ATP6	YP_009694539.1|ND3	YP_009694540.1|ND1	YP_009694541.1|ND5	YP_009694542.1|ND6	YP_009694543.1|ND4L	YP_009694544.1|ND2	YP_009694545.1|COX3
-TTT	52	19	30	8	37	29	12	32	34	18	15	38	21
-TTC	7	0	5	0	3	2	1	4	10	0	0	3	2
-TTA	44	23	17	0	39	15	8	19	40	10	10	30	13
-TTG	14	6	13	2	20	11	5	10	19	10	2	15	9
-TCT	22	8	13	0	11	9	3	8	15	4	3	10	9
-TCC	2	2	0	0	6	0	1	1	9	0	0	0	2
-TCA	2	3	2	1	3	4	1	2	7	2	0	1	2
-TCG	2	3	0	1	3	1	0	1	3	0	0	3	2
-TAT	15	12	17	2	17	8	0	10	12	2	2	11	12
-TAC	6	3	3	1	2	1	0	1	8	3	0	4	3
-TGT	3	5	6	1	13	2	1	5	10	2	3	8	3
-TGC	0	2	3	0	3	2	0	5	0	0	0	1	0
-TGA	10	2	6	0	5	3	1	3	5	4	0	9	9
-TGG	11	9	7	2	9	6	2	4	6	2	0	4	8
-CTT	12	2	7	1	4	4	2	6	8	5	0	4	4
-CTC	1	0	1	0	1	0	1	1	6	0	0	0	0
-CTA	4	2	4	0	4	1	2	5	8	2	1	3	3
-CTG	1	1	1	0	3	0	1	4	4	2	0	0	0
-CCT	13	5	10	2	5	3	0	4	5	0	0	7	2
-CCC	3	1	4	0	3	0	0	2	2	2	0	1	3
-CCA	3	0	2	0	4	2	3	2	4	0	0	1	1
-CCG	5	1	1	0	2	1	1	2	1	0	0	0	1
-CAT	13	5	9	0	4	3	1	0	4	1	2	1	10
-CAC	6	1	2	0	1	0	0	0	3	0	0	0	2
-CAA	3	2	2	0	4	2	2	4	7	0	0	3	5
-CAG	3	3	2	1	1	1	0	2	2	0	0	3	1
-CGT	12	1	2	0	3	0	0	5	4	0	1	0	0
-CGC	1	0	1	0	1	1	0	0	1	0	0	0	0
-CGA	5	2	1	0	0	0	1	3	4	0	1	1	2
-CGG	2	2	3	1	1	1	1	3	2	1	0	0	1
-ATT	34	10	19	3	20	10	10	15	24	11	4	21	15
-ATC	1	0	5	0	7	0	0	2	5	1	0	2	1
-ATA	17	15	9	0	17	7	4	11	20	2	2	14	1
-ATG	17	5	10	1	13	11	3	3	22	3	1	7	9
-ACT	17	6	12	0	4	8	1	3	9	1	3	2	4
-ACC	0	0	2	0	0	0	1	0	2	0	0	0	2
-ACA	5	2	2	0	3	2	0	2	2	3	0	0	4
-ACG	3	2	1	0	0	0	0	0	5	0	1	0	3
-AAT	12	18	12	0	7	8	2	3	7	2	4	7	2
-AAC	1	1	1	0	2	1	0	1	1	0	0	0	3
-AAA	7	9	3	1	3	4	2	2	8	5	0	8	4
-AAG	8	4	7	1	9	1	2	4	11	3	1	3	4
-AGT	9	5	2	1	7	2	3	5	8	1	0	5	6
-AGC	4	1	2	0	1	1	0	0	7	0	0	1	2
-AGA	12	2	5	0	8	1	1	5	7	4	2	5	3
-AGG	8	6	7	1	12	4	1	7	9	8	3	8	5
-GTT	24	26	14	1	19	7	1	12	22	8	3	25	10
-GTC	9	0	3	0	2	0	0	2	5	0	1	2	1
-GTA	14	5	4	0	6	6	3	7	13	11	2	13	9
-GTG	14	12	11	3	15	6	0	13	20	8	3	10	12
-GCT	20	7	11	0	10	8	2	8	16	4	2	5	8
-GCC	2	0	5	0	4	1	1	0	5	0	0	0	0
-GCA	5	1	4	0	4	3	2	1	10	0	1	2	4
-GCG	2	3	2	1	2	2	0	4	6	2	1	1	3
-GAT	12	12	10	1	4	4	1	6	14	2	0	1	5
-GAC	3	3	2	0	3	0	2	0	1	1	0	0	0
-GAA	5	16	1	0	7	3	1	8	4	1	0	3	2
-GAG	5	13	4	1	6	6	4	7	4	1	2	9	5
-GGT	17	9	3	0	12	4	4	5	9	3	2	14	9
-GGC	3	1	3	0	6	0	1	3	4	0	0	2	0
-GGA	6	1	4	0	3	3	0	2	5	0	1	4	1
-GGG	28	18	23	0	20	12	4	14	29	16	3	26	16
-TAA	1	1	1	0	1	1	1	0	1	1	1	0	0
-TAG	0	0	0	1	0	0	0	1	0	0	0	1	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	COX1	YP_009694533.2	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	52	7	44	14	22	2	2	2	15	6	3	0	10	11	12	1	4	1	13	3	3	5	13	6	3	3	12	1	5	2	34	1	17	17	17	0	5	3	12	1	7	8	9	4	12	8	24	9	14	14	20	2	5	2	12	3	5	5	17	3	6	28	1	0
+1	COX2	YP_009694534.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	19	0	23	6	8	2	3	3	12	3	5	2	2	9	2	0	2	1	5	1	0	1	5	1	2	3	1	0	2	2	10	0	15	5	6	0	2	2	18	1	9	4	5	1	2	6	26	0	5	12	7	0	1	3	12	3	16	13	9	1	1	18	1	0
+2	CYTB	YP_009694535.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	30	5	17	13	13	0	2	0	17	3	6	3	6	7	7	1	4	1	10	4	2	1	9	2	2	2	2	1	1	3	19	5	9	10	12	2	2	1	12	1	3	7	2	2	5	7	14	3	4	11	11	5	4	2	10	2	1	4	3	3	4	23	1	0
+3	ATP8	YP_009694536.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	8	0	0	2	0	0	1	1	2	1	1	0	0	2	1	0	0	0	2	0	0	0	0	0	0	1	0	0	0	1	3	0	0	1	0	0	0	0	0	0	1	1	1	0	0	1	1	0	0	3	0	0	0	1	1	0	0	1	0	0	0	0	0	1
+4	ND4	YP_009694537.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	37	3	39	20	11	6	3	3	17	2	13	3	5	9	4	1	4	3	5	3	4	2	4	1	4	1	3	1	0	1	20	7	17	13	4	0	3	0	7	2	3	9	7	1	8	12	19	2	6	15	10	4	4	2	4	3	7	6	12	6	3	20	1	0
+5	ATP6	YP_009694538.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	29	2	15	11	9	0	4	1	8	1	2	2	3	6	4	0	1	0	3	0	2	1	3	0	2	1	0	1	0	1	10	0	7	11	8	0	2	0	8	1	4	1	2	1	1	4	7	0	6	6	8	1	3	2	4	0	3	6	4	0	3	12	1	0
+6	ND3	YP_009694539.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	12	1	8	5	3	1	1	0	0	0	1	0	1	2	2	1	2	1	0	0	3	1	1	0	2	0	0	0	1	1	10	0	4	3	1	1	0	0	2	0	2	2	3	0	1	1	1	0	3	0	2	1	2	0	1	2	1	4	4	1	0	4	1	0
+7	ND1	YP_009694540.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	32	4	19	10	8	1	2	1	10	1	5	5	3	4	6	1	5	4	4	2	2	2	0	0	4	2	5	0	3	3	15	2	11	3	3	0	2	0	3	1	2	4	5	0	5	7	12	2	7	13	8	0	1	4	6	0	8	7	5	3	2	14	0	1
+8	ND5	YP_009694541.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	34	10	40	19	15	9	7	3	12	8	10	0	5	6	8	6	8	4	5	2	4	1	4	3	7	2	4	1	4	2	24	5	20	22	9	2	2	5	7	1	8	11	8	7	7	9	22	5	13	20	16	5	10	6	14	1	4	4	9	4	5	29	1	0
+9	ND6	YP_009694542.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	18	0	10	10	4	0	2	0	2	3	2	0	4	2	5	0	2	2	0	2	0	0	1	0	0	0	0	0	0	1	11	1	2	3	1	0	3	0	2	0	5	3	1	0	4	8	8	0	11	8	4	0	0	2	2	1	1	1	3	0	0	16	1	0
+10	ND4L	YP_009694543.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	15	0	10	2	3	0	0	0	2	0	3	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	1	0	1	0	4	0	2	1	3	0	0	1	4	0	0	1	0	0	2	3	3	1	2	3	2	0	1	1	0	0	0	2	2	0	1	3	1	0
+11	ND2	YP_009694544.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	38	3	30	15	10	0	1	3	11	4	8	1	9	4	4	0	3	0	7	1	1	0	1	0	3	3	0	0	1	0	21	2	14	7	2	0	0	0	7	0	8	3	5	1	5	8	25	2	13	10	5	0	2	1	1	0	3	9	14	2	4	26	0	1
+12	COX3	YP_009694545.1	Archivesica marissinica	Eukaryota, Metazoa, Spiralia, Lophotrochozoa, Mollusca, Bivalvia, Heterodonta, Euheterodonta, Veneroida, Glossoidea, Vesicomyidae, Archivesica	21	2	13	9	9	2	2	2	12	3	3	0	9	8	4	0	3	0	2	3	1	1	10	2	5	1	0	0	2	1	15	1	1	9	4	2	4	3	2	3	4	4	6	2	3	5	10	1	9	12	8	0	4	3	5	0	2	5	9	0	1	16	0	1

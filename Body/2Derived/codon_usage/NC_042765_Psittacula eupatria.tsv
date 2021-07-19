@@ -1,65 +1,13 @@
-	YP_009652708.1|ND1	YP_009652709.1|ND2	YP_009652710.1|COX1	YP_009652711.1|COX2	YP_009652712.1|ATP8	YP_009652713.1|ATP6	YP_009652714.1|COX3	YP_009652715.1|ND3	YP_009652716.1|ND4L	YP_009652717.1|ND4	YP_009652718.1|ND5	YP_009652719.1|CYTB
-TTT	3	2	9	0	0	0	1	1	1	2	7	4
-TTC	14	9	30	9	3	9	22	7	3	9	24	24
-TTA	4	3	5	2	1	3	2	0	3	5	5	1
-TTG	0	0	1	0	0	0	0	0	0	0	0	0
-TCT	2	2	1	2	0	0	0	1	1	5	1	0
-TCC	12	11	13	6	3	3	5	2	5	11	15	15
-TCA	11	17	11	7	2	5	8	3	4	12	20	8
-TCG	0	1	0	0	0	0	0	0	0	1	0	1
-TAT	2	2	3	1	0	0	3	0	0	4	1	2
-TAC	13	4	13	6	0	3	7	3	2	10	10	11
-TGT	0	1	0	0	0	0	0	1	1	0	1	1
-TGC	0	1	1	3	0	0	1	1	2	5	4	3
-TGA	9	8	15	5	4	4	12	4	1	10	10	9
-TGG	0	2	2	0	1	0	0	0	0	2	1	2
-CTT	6	4	7	2	2	8	1	4	2	7	9	3
-CTC	18	18	14	11	0	20	7	6	4	32	26	17
-CTA	38	39	38	15	2	27	22	14	11	56	66	43
-CTG	0	0	1	0	0	1	0	1	1	2	1	2
-CCT	3	3	2	2	0	2	3	0	0	2	2	1
-CCC	14	8	13	3	5	6	5	2	1	18	9	13
-CCA	12	12	13	9	3	9	5	5	3	14	17	13
-CCG	0	0	2	0	0	1	0	0	0	0	1	0
-CAT	0	0	4	0	0	1	3	0	0	1	2	1
-CAC	3	7	16	9	0	3	12	0	5	15	12	10
-CAA	4	8	7	6	2	8	8	2	3	13	15	7
-CAG	1	0	2	1	0	0	2	1	0	1	4	1
-CGT	1	0	1	0	0	0	0	0	0	1	1	0
-CGC	1	1	2	2	0	3	0	0	0	4	3	1
-CGA	6	2	5	3	0	2	4	2	2	4	4	7
-CGG	0	0	0	0	0	0	0	0	0	1	0	0
-ATT	2	5	10	6	3	5	2	4	1	7	13	4
-ATC	18	27	31	14	3	17	17	7	3	23	32	26
-ATA	15	15	22	9	3	9	6	5	6	25	25	6
-ATG	2	3	1	2	1	1	1	0	1	4	3	1
-ACT	1	7	3	0	1	2	3	2	0	1	6	2
-ACC	11	23	22	10	2	14	10	8	2	27	45	16
-ACA	12	26	16	9	4	11	11	4	4	22	38	10
-ACG	0	1	0	0	0	2	1	0	1	0	0	0
-AAT	2	0	3	0	0	0	1	0	0	0	4	2
-AAC	10	11	13	4	6	10	4	2	3	15	22	20
-AAA	7	14	8	4	3	3	2	2	0	9	23	9
-AAG	0	1	1	0	0	0	1	0	0	1	1	1
-AGT	1	0	1	0	0	0	0	0	0	0	1	0
-AGC	5	6	2	2	0	3	5	1	4	10	10	3
-GTT	4	0	2	2	0	1	3	0	0	2	0	2
-GTC	2	1	9	7	0	2	3	0	0	3	2	5
-GTA	6	3	20	4	0	3	8	1	1	4	6	7
-GTG	0	0	2	0	0	0	0	0	0	1	2	0
-GCT	2	1	5	3	0	0	0	1	1	4	6	5
-GCC	10	11	26	8	0	8	8	4	5	18	26	18
-GCA	10	8	14	3	1	5	10	1	3	12	15	7
-GCG	2	0	1	0	0	0	1	0	0	0	1	0
-GAT	1	0	2	1	0	0	1	0	0	0	1	0
-GAC	3	1	13	12	0	1	3	3	1	3	7	6
-GAA	7	4	10	14	0	4	7	6	3	8	8	6
-GAG	4	1	0	1	0	0	1	0	0	1	4	1
-GGT	2	1	7	0	0	0	1	0	0	2	0	0
-GGC	3	4	11	2	0	3	6	1	2	7	10	8
-GGA	6	5	22	4	0	4	12	3	2	7	20	13
-GGG	1	2	7	2	0	1	0	1	0	1	1	1
-TAA	0	0	0	1	1	1	0	0	1	0	1	1
-TAG	0	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	1	0	1	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_009652708.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	3	14	4	0	2	12	11	0	2	13	0	0	9	0	6	18	38	0	3	14	12	0	0	3	4	1	1	1	6	0	2	18	15	2	1	11	12	0	2	10	7	0	1	5	4	2	6	0	2	10	10	2	1	3	7	4	2	3	6	1	0	0	0	1
+1	ND2	YP_009652709.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	2	9	3	0	2	11	17	1	2	4	1	1	8	2	4	18	39	0	3	8	12	0	0	7	8	0	0	1	2	0	5	27	15	3	7	23	26	1	0	11	14	1	0	6	0	1	3	0	1	11	8	0	0	1	4	1	1	4	5	2	0	0	0	0
+2	COX1	YP_009652710.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	9	30	5	1	1	13	11	0	3	13	0	1	15	2	7	14	38	1	2	13	13	2	4	16	7	2	1	2	5	0	10	31	22	1	3	22	16	0	3	13	8	1	1	2	2	9	20	2	5	26	14	1	2	13	10	0	7	11	22	7	0	0	0	1
+3	COX2	YP_009652711.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	0	9	2	0	2	6	7	0	1	6	0	3	5	0	2	11	15	0	2	3	9	0	0	9	6	1	0	2	3	0	6	14	9	2	0	10	9	0	0	4	4	0	0	2	2	7	4	0	3	8	3	0	1	12	14	1	0	2	4	2	1	0	0	0
+4	ATP8	YP_009652712.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	0	3	1	0	0	3	2	0	0	0	0	0	4	1	2	0	2	0	0	5	3	0	0	0	2	0	0	0	0	0	3	3	3	1	1	2	4	0	0	6	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_009652713.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	0	9	3	0	0	3	5	0	0	3	0	0	4	0	8	20	27	1	2	6	9	1	1	3	8	0	0	3	2	0	5	17	9	1	2	14	11	2	0	10	3	0	0	3	1	2	3	0	0	8	5	0	0	1	4	0	0	3	4	1	1	0	0	0
+6	COX3	YP_009652714.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	1	22	2	0	0	5	8	0	3	7	0	1	12	0	1	7	22	0	3	5	5	0	3	12	8	2	0	0	4	0	2	17	6	1	3	10	11	1	1	4	2	1	0	5	3	3	8	0	0	8	10	1	1	3	7	1	1	6	12	0	0	0	0	0
+7	ND3	YP_009652715.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	1	7	0	0	1	2	3	0	0	3	1	1	4	0	4	6	14	1	0	2	5	0	0	0	2	1	0	0	2	0	4	7	5	0	2	8	4	0	0	2	2	0	0	1	0	0	1	0	1	4	1	0	0	3	6	0	0	1	3	1	0	0	0	0
+8	ND4L	YP_009652716.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	1	3	3	0	1	5	4	0	0	2	1	2	1	0	2	4	11	1	0	1	3	0	0	5	3	0	0	0	2	0	1	3	6	1	0	2	4	1	0	3	0	0	0	4	0	0	1	0	1	5	3	0	0	1	3	0	0	2	2	0	1	0	0	0
+9	ND4	YP_009652717.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	2	9	5	0	5	11	12	1	4	10	0	5	10	2	7	32	56	2	2	18	14	0	1	15	13	1	1	4	4	1	7	23	25	4	1	27	22	0	0	15	9	1	0	10	2	3	4	1	4	18	12	0	0	3	8	1	2	7	7	1	0	0	0	0
+10	ND5	YP_009652718.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	7	24	5	0	1	15	20	0	1	10	1	4	10	1	9	26	66	1	2	9	17	1	2	12	15	4	1	3	4	0	13	32	25	3	6	45	38	0	4	22	23	1	1	10	0	2	6	2	6	26	15	1	1	7	8	4	0	10	20	1	1	0	0	0
+11	CYTB	YP_009652719.1	Psittacula eupatria	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Archelosauria, Archosauria, Dinosauria, Saurischia, Theropoda, Coelurosauria, Aves, Neognathae, Psittaciformes, Psittacidae, Psittacula	4	24	1	0	0	15	8	1	2	11	1	3	9	2	3	17	43	2	1	13	13	0	1	10	7	1	0	1	7	0	4	26	6	1	2	16	10	0	2	20	9	1	0	3	2	5	7	0	5	18	7	0	0	6	6	1	0	8	13	1	1	0	0	0

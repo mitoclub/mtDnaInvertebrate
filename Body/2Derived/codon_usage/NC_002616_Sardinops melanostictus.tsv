@@ -1,65 +1,13 @@
-	NP_071453.1|ND1	NP_071454.1|ND2	NP_071455.1|COX1	NP_071456.1|COX2	NP_071457.1|ATP8	NP_071458.1|ATP6	NP_071459.1|COX3	NP_071460.1|ND3	NP_071461.1|ND4L	NP_071462.1|ND4	NP_071463.1|ND5	NP_071465.1|CYTB
-TTT	10	5	17	3	2	6	7	4	3	6	17	7
-TTC	12	5	25	4	2	5	18	3	3	11	23	22
-TTA	3	6	8	4	1	8	4	4	3	12	10	5
-TTG	1	4	1	1	0	1	0	1	0	7	3	2
-TCT	5	5	4	4	2	2	1	0	2	3	8	6
-TCC	7	7	4	6	0	1	3	1	1	4	10	4
-TCA	3	2	10	5	0	1	7	2	1	9	11	8
-TCG	3	3	6	0	0	0	0	4	2	3	3	4
-TAT	5	5	4	5	0	3	4	1	0	7	7	7
-TAC	6	5	13	4	1	2	7	1	0	7	4	8
-TGT	0	1	0	0	0	0	0	0	3	1	3	1
-TGC	1	1	1	2	0	0	2	1	0	4	3	2
-TGA	7	7	15	4	4	3	8	3	1	9	8	10
-TGG	2	4	2	1	1	2	4	2	0	11	6	3
-CTT	25	14	21	8	1	12	8	4	9	20	21	8
-CTC	12	19	12	7	0	14	4	8	4	16	17	15
-CTA	7	16	15	6	2	12	10	5	4	12	19	12
-CTG	10	6	6	4	1	4	7	3	4	19	18	14
-CCT	6	4	6	4	1	2	3	1	1	6	6	7
-CCC	10	10	11	2	5	8	5	4	0	13	16	7
-CCA	4	5	9	7	3	5	3	2	0	3	6	5
-CCG	4	0	2	1	0	3	2	1	1	6	3	2
-CAT	0	0	6	2	0	2	2	0	1	3	4	3
-CAC	4	7	14	8	1	1	14	0	3	8	9	9
-CAA	3	5	4	7	1	3	5	2	2	6	8	3
-CAG	3	9	4	1	0	6	3	1	1	5	11	2
-CGT	0	1	1	1	0	1	2	0	0	2	1	2
-CGC	0	0	0	1	0	0	0	0	0	1	1	0
-CGA	4	1	4	4	0	2	2	1	2	5	3	2
-CGG	4	2	3	0	0	3	1	1	1	3	5	4
-ATT	12	13	20	8	3	10	6	7	0	26	25	10
-ATC	6	6	18	9	1	9	8	5	0	9	26	14
-ATA	4	5	4	4	0	5	2	2	2	5	7	3
-ATG	8	11	20	8	1	4	4	3	4	21	22	8
-ACT	4	10	8	4	0	6	6	2	0	5	11	6
-ACC	10	21	9	1	2	4	6	2	5	20	23	8
-ACA	3	7	12	3	1	8	9	2	3	13	19	4
-ACG	2	6	7	1	0	3	2	0	0	4	8	1
-AAT	4	6	9	0	0	3	0	0	0	2	8	2
-AAC	7	3	5	4	4	6	2	1	1	9	17	14
-AAA	5	0	7	3	2	0	0	0	0	4	11	6
-AAG	2	8	2	1	1	1	2	1	0	6	9	4
-AGT	0	0	1	1	0	0	0	1	0	3	4	0
-AGC	3	5	4	2	0	4	3	0	4	6	8	2
-GTT	7	2	8	6	1	4	4	1	2	7	7	9
-GTC	10	7	7	8	1	5	5	2	0	7	12	13
-GTA	5	3	20	8	1	5	5	0	3	5	6	7
-GTG	4	3	8	0	0	3	3	2	0	4	7	5
-GCT	8	10	10	3	2	4	4	1	4	6	10	8
-GCC	13	28	18	4	2	10	9	3	4	15	36	12
-GCA	8	9	15	5	1	4	7	3	2	11	6	10
-GCG	4	5	5	3	0	1	1	2	2	6	8	4
-GAT	1	0	9	1	0	0	0	1	1	3	6	7
-GAC	3	0	6	13	0	1	5	2	0	1	8	4
-GAA	2	2	6	10	1	1	4	5	1	6	5	3
-GAG	9	3	4	5	2	3	5	2	2	5	5	4
-GGT	4	2	10	2	0	3	1	1	0	3	3	5
-GGC	8	6	8	2	0	2	9	1	5	11	12	9
-GGA	5	3	14	2	1	3	7	3	1	8	8	7
-GGG	2	5	14	3	0	3	6	1	0	7	10	7
-TAA	0	0	1	0	1	0	0	0	1	0	1	0
-TAG	1	0	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	0
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	NP_071453.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	10	12	3	1	5	7	3	3	5	6	0	1	7	2	25	12	7	10	6	10	4	4	0	4	3	3	0	0	4	4	12	6	4	8	4	10	3	2	4	7	5	2	0	3	7	10	5	4	8	13	8	4	1	3	2	9	4	8	5	2	0	1	0	0
+1	ND2	NP_071454.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	5	5	6	4	5	7	2	3	5	5	1	1	7	4	14	19	16	6	4	10	5	0	0	7	5	9	1	0	1	2	13	6	5	11	10	21	7	6	6	3	0	8	0	5	2	7	3	3	10	28	9	5	0	0	2	3	2	6	3	5	0	0	0	0
+2	COX1	NP_071455.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	17	25	8	1	4	4	10	6	4	13	0	1	15	2	21	12	15	6	6	11	9	2	6	14	4	4	1	0	4	3	20	18	4	20	8	9	12	7	9	5	7	2	1	4	8	7	20	8	10	18	15	5	9	6	6	4	10	8	14	14	1	0	0	0
+3	COX2	NP_071456.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	3	4	4	1	4	6	5	0	5	4	0	2	4	1	8	7	6	4	4	2	7	1	2	8	7	1	1	1	4	0	8	9	4	8	4	1	3	1	0	4	3	1	1	2	6	8	8	0	3	4	5	3	1	13	10	5	2	2	2	3	0	0	0	0
+4	ATP8	NP_071457.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	2	2	1	0	2	0	0	0	0	1	0	0	4	1	1	0	2	1	1	5	3	0	0	1	1	0	0	0	0	0	3	1	0	1	0	2	1	0	0	4	2	1	0	0	1	1	1	0	2	2	1	0	0	0	1	2	0	0	1	0	1	0	0	0
+5	ATP6	NP_071458.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	6	5	8	1	2	1	1	0	3	2	0	0	3	2	12	14	12	4	2	8	5	3	2	1	3	6	1	0	2	3	10	9	5	4	6	4	8	3	3	6	0	1	0	4	4	5	5	3	4	10	4	1	0	1	1	3	3	2	3	3	0	0	0	0
+6	COX3	NP_071459.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	7	18	4	0	1	3	7	0	4	7	0	2	8	4	8	4	10	7	3	5	3	2	2	14	5	3	2	0	2	1	6	8	2	4	6	6	9	2	0	2	0	2	0	3	4	5	5	3	4	9	7	1	0	5	4	5	1	9	7	6	0	0	0	0
+7	ND3	NP_071460.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	4	3	4	1	0	1	2	4	1	1	0	1	3	2	4	8	5	3	1	4	2	1	0	0	2	1	0	0	1	1	7	5	2	3	2	2	2	0	0	1	0	1	1	0	1	2	0	2	1	3	3	2	1	2	5	2	1	1	3	1	0	0	0	0
+8	ND4L	NP_071461.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	3	3	3	0	2	1	1	2	0	0	3	0	1	0	9	4	4	4	1	0	0	1	1	3	2	1	0	0	2	1	0	0	2	4	0	5	3	0	0	1	0	0	0	4	2	0	3	0	4	4	2	2	1	0	1	2	0	5	1	0	1	0	0	0
+9	ND4	NP_071462.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	6	11	12	7	3	4	9	3	7	7	1	4	9	11	20	16	12	19	6	13	3	6	3	8	6	5	2	1	5	3	26	9	5	21	5	20	13	4	2	9	4	6	3	6	7	7	5	4	6	15	11	6	3	1	6	5	3	11	8	7	0	0	0	0
+10	ND5	NP_071463.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	17	23	10	3	8	10	11	3	7	4	3	3	8	6	21	17	19	18	6	16	6	3	4	9	8	11	1	1	3	5	25	26	7	22	11	23	19	8	8	17	11	9	4	8	7	12	6	7	10	36	6	8	6	8	5	5	3	12	8	10	1	0	0	0
+11	CYTB	NP_071465.1	Sardinops melanostictus	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Actinopterygii, Neopterygii, Teleostei, Clupei, Clupeiformes, Clupeoidei, Clupeidae, Sardinops	7	22	5	2	6	4	8	4	7	8	1	2	10	3	8	15	12	14	7	7	5	2	3	9	3	2	2	0	2	4	10	14	3	8	6	8	4	1	2	14	6	4	0	2	9	13	7	5	8	12	10	4	7	4	3	4	5	9	7	7	0	0	0	0

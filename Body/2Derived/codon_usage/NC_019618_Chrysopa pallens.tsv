@@ -1,65 +1,10 @@
-	YP_007025981.1|ND2	YP_007025982.1|COX1	YP_007025983.1|COX2	YP_007025984.1|ATP8	YP_007025985.1|ATP6	YP_007025986.1|COX3	YP_007025987.1|ND3	YP_007025991.1|ND6	YP_007025992.1|CYTB
-TTT	32	37	18	6	18	17	14	16	28
-TTC	4	6	1	0	2	5	1	0	4
-TTA	41	54	28	5	36	26	14	28	47
-TTG	3	3	0	0	1	0	0	0	0
-TCT	12	14	4	3	5	6	3	2	8
-TCC	3	3	1	0	0	0	0	0	1
-TCA	14	12	5	1	6	8	7	5	5
-TCG	1	0	0	0	0	0	0	0	0
-TAT	11	16	6	3	5	12	2	6	17
-TAC	5	2	0	1	0	1	1	2	2
-TGT	5	0	2	0	1	1	1	1	3
-TGC	1	0	0	0	0	0	0	0	0
-TGA	7	15	6	4	5	13	3	2	12
-TGG	2	0	0	0	0	0	0	0	0
-CTT	0	3	0	0	1	4	0	0	4
-CTC	0	1	0	0	0	1	0	0	0
-CTA	7	5	1	1	1	3	2	3	6
-CTG	0	2	0	0	0	0	0	1	0
-CCT	4	8	6	2	6	3	1	1	12
-CCC	1	3	0	0	1	1	0	0	2
-CCA	3	16	5	1	4	5	2	2	8
-CCG	0	0	0	0	0	1	0	0	0
-CAT	2	14	5	0	7	14	2	1	12
-CAC	0	2	0	0	0	1	0	0	0
-CAA	5	10	7	1	3	7	1	4	10
-CAG	0	0	0	0	0	0	0	0	0
-CGT	1	3	1	0	0	2	0	0	2
-CGC	0	0	0	0	0	0	0	0	0
-CGA	1	7	6	0	3	2	2	1	5
-CGG	0	0	0	0	0	0	0	0	0
-ATT	42	44	24	10	18	25	22	24	42
-ATC	3	2	0	0	2	1	0	0	3
-ATA	26	24	9	3	15	5	7	14	16
-ATG	1	1	1	0	1	1	1	0	1
-ACT	5	20	9	0	10	8	2	8	7
-ACC	1	1	0	0	0	1	0	0	2
-ACA	3	14	8	1	8	15	0	3	10
-ACG	0	0	0	0	0	0	0	0	0
-AAT	25	15	13	4	15	9	6	17	21
-AAC	6	1	2	0	0	1	0	1	1
-AAA	10	3	7	4	2	1	4	4	5
-AAG	1	3	0	0	0	0	0	0	1
-AGT	3	8	2	0	5	2	1	1	0
-AGC	0	0	1	0	0	0	0	0	0
-AGA	5	5	4	1	7	5	1	5	5
-AGG	0	0	0	0	0	0	0	0	0
-GTT	5	17	4	0	3	3	0	0	6
-GTC	0	1	1	0	0	0	0	0	0
-GTA	6	17	7	0	6	8	2	5	13
-GTG	0	1	0	0	0	1	0	0	0
-GCT	2	25	3	0	6	6	4	0	8
-GCC	1	2	0	0	2	3	0	0	1
-GCA	7	8	5	0	4	1	0	2	12
-GCG	0	0	0	0	0	0	0	0	0
-GAT	2	15	8	0	1	5	1	1	9
-GAC	0	0	1	0	0	0	2	0	1
-GAA	4	9	9	1	4	7	3	4	2
-GAG	0	0	0	0	0	0	1	0	0
-GGT	6	20	4	0	5	7	1	1	5
-GGC	1	0	0	0	0	0	0	0	0
-GGA	6	22	3	0	6	14	3	4	19
-GGG	1	0	1	0	0	0	0	0	0
-TAA	1	0	0	1	1	1	0	1	1
-TAG	0	0	0	0	0	0	1	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG
+0	ND2	YP_007025981.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	32	4	41	3	12	3	14	1	11	5	5	1	7	2	0	0	7	0	4	1	3	0	2	0	5	0	1	0	1	0	42	3	26	1	5	1	3	0	25	6	10	1	3	0	5	0	5	0	6	0	2	1	7	0	2	0	4	0	6	1	6	1	1	0
+1	COX1	YP_007025982.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	37	6	54	3	14	3	12	0	16	2	0	0	15	0	3	1	5	2	8	3	16	0	14	2	10	0	3	0	7	0	44	2	24	1	20	1	14	0	15	1	3	3	8	0	5	0	17	1	17	1	25	2	8	0	15	0	9	0	20	0	22	0	0	0
+2	COX2	YP_007025983.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	18	1	28	0	4	1	5	0	6	0	2	0	6	0	0	0	1	0	6	0	5	0	5	0	7	0	1	0	6	0	24	0	9	1	9	0	8	0	13	2	7	0	2	1	4	0	4	1	7	0	3	0	5	0	8	1	9	0	4	0	3	1	0	0
+3	ATP8	YP_007025984.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	6	0	5	0	3	0	1	0	3	1	0	0	4	0	0	0	1	0	2	0	1	0	0	0	1	0	0	0	0	0	10	0	3	0	0	0	1	0	4	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+4	ATP6	YP_007025985.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	18	2	36	1	5	0	6	0	5	0	1	0	5	0	1	0	1	0	6	1	4	0	7	0	3	0	0	0	3	0	18	2	15	1	10	0	8	0	15	0	2	0	5	0	7	0	3	0	6	0	6	2	4	0	1	0	4	0	5	0	6	0	1	0
+5	COX3	YP_007025986.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	17	5	26	0	6	0	8	0	12	1	1	0	13	0	4	1	3	0	3	1	5	1	14	1	7	0	2	0	2	0	25	1	5	1	8	1	15	0	9	1	1	0	2	0	5	0	3	0	8	1	6	3	1	0	5	0	7	0	7	0	14	0	1	0
+6	ND3	YP_007025987.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	14	1	14	0	3	0	7	0	2	1	1	0	3	0	0	0	2	0	1	0	2	0	2	0	1	0	0	0	2	0	22	0	7	1	2	0	0	0	6	0	4	0	1	0	1	0	0	0	2	0	4	0	0	0	1	2	3	1	1	0	3	0	0	1
+7	ND6	YP_007025991.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	16	0	28	0	2	0	5	0	6	2	1	0	2	0	0	0	3	1	1	0	2	0	1	0	4	0	0	0	1	0	24	0	14	0	8	0	3	0	17	1	4	0	1	0	5	0	0	0	5	0	0	0	2	0	1	0	4	0	1	0	4	0	1	0
+8	CYTB	YP_007025992.1	Chrysopa pallens	Eukaryota, Metazoa, Ecdysozoa, Arthropoda, Hexapoda, Insecta, Pterygota, Neoptera, Holometabola, Neuroptera, Hemerobiiformia, Chrysopidae, Chrysopinae, Chrysopa	28	4	47	0	8	1	5	0	17	2	3	0	12	0	4	0	6	0	12	2	8	0	12	0	10	0	2	0	5	0	42	3	16	1	7	2	10	0	21	1	5	1	0	0	5	0	6	0	13	0	8	1	12	0	9	1	2	0	5	0	19	0	1	0

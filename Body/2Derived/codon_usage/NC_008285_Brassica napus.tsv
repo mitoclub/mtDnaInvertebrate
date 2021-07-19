@@ -1,65 +1,38 @@
-	YP_717102.1|orf115a	YP_717105.1|orf124	YP_717107.1|orf113a	YP_717111.1|orf101a	YP_717113.1|orf113b	YP_717115.1|ccmFN2	YP_717123.1|orf119	YP_717124.1|orf125	YP_717125.1|orf161	YP_717126.1|orf159	YP_717127.1|matR	YP_717128.1|orf115b	YP_717129.1|orf104	YP_717132.1|orf115c	YP_717133.1|orf108a	YP_717136.1|cox3	YP_717137.1|orf147	YP_717138.1|orf164	YP_717140.1|orf100b	YP_717142.1|orf115d	YP_717144.1|atp9	YP_717145.1|orf322	YP_717146.1|nad3	YP_717147.1|rps12	YP_717148.1|ccmB	YP_717152.1|orf128	YP_717156.1|orf117b	YP_717157.1|rpl2	YP_717158.1|orfX	YP_717159.1|nad4	YP_717162.1|nad6	YP_717168.1|rps3	YP_717169.1|rpl5	YP_717170.1|rps14	YP_717171.1|cob	YP_717173.1|orf101f	YP_717174.1|ccmC
-TTT	1	4	1	2	7	8	13	5	10	7	9	0	6	1	5	15	4	3	5	7	4	10	12	2	10	18	1	5	13	24	6	20	7	5	22	4	11
-TTC	6	2	4	3	2	3	3	4	3	4	15	1	6	0	3	7	4	6	2	9	3	9	3	0	5	3	7	14	12	18	8	20	8	1	9	15	6
-TTA	1	4	0	0	0	7	2	0	1	2	6	0	0	1	3	6	2	0	1	2	2	5	4	1	8	4	0	5	7	20	8	5	2	1	12	2	6
-TTG	1	1	3	3	1	4	2	3	1	2	8	0	5	2	3	6	11	10	0	0	5	6	4	4	6	3	2	5	9	7	9	9	4	5	9	4	7
-TCT	5	3	2	2	5	6	4	10	3	8	3	1	1	1	5	9	1	6	2	7	2	4	3	0	6	0	4	12	6	15	4	12	3	5	5	5	11
-TCC	5	2	1	3	1	1	2	1	4	2	12	2	4	0	6	2	1	3	2	1	0	6	3	2	5	0	1	7	4	7	1	7	3	3	4	0	2
-TCA	2	2	0	1	0	1	2	3	4	6	9	2	0	4	1	2	0	2	4	2	4	5	2	2	3	1	3	1	3	9	2	8	2	0	2	2	6
-TCG	1	1	0	0	1	4	1	3	2	1	14	1	1	0	3	3	0	1	0	0	0	3	2	4	7	4	2	6	8	1	1	6	6	2	0	1	2
-TAT	1	0	2	0	2	2	1	0	1	3	5	0	1	3	2	9	2	2	2	6	1	4	3	1	6	1	3	4	7	15	5	14	2	3	13	1	3
-TAC	1	4	1	3	1	1	3	4	3	1	10	1	2	1	0	2	4	3	0	2	0	4	2	0	1	1	0	0	3	2	2	7	1	0	4	1	2
-TGT	4	2	1	1	1	3	0	0	1	0	3	2	6	2	0	1	1	2	1	2	0	0	1	2	3	1	1	0	3	5	0	5	1	2	4	1	0
-TGC	1	2	1	0	0	1	3	0	1	1	6	3	5	0	1	0	1	2	0	4	0	1	0	1	1	4	2	5	5	3	0	1	1	0	1	2	1
-TGG	0	0	1	1	5	13	1	3	2	2	10	5	1	2	1	12	4	2	0	1	0	3	3	0	2	3	3	5	6	6	4	5	1	1	13	2	6
-CTT	2	2	2	3	1	7	1	6	4	2	14	1	4	1	5	4	5	4	0	2	0	6	1	0	8	7	5	6	6	16	7	9	0	2	13	5	7
-CTC	3	4	10	1	2	1	0	1	1	6	12	0	3	0	1	5	4	7	1	5	0	9	2	0	2	4	2	5	3	3	2	7	3	1	3	1	4
-CTA	2	7	0	0	0	4	1	3	1	3	17	5	1	3	1	5	4	0	0	1	1	5	2	1	5	4	1	0	2	12	1	5	1	0	7	3	2
-CTG	1	0	2	0	3	0	2	0	2	1	10	1	4	3	2	3	0	0	2	0	0	8	2	0	4	1	3	4	2	7	2	6	3	0	2	5	3
-CCT	2	3	4	3	3	2	3	0	3	3	9	2	3	0	2	7	0	4	0	2	0	5	5	1	6	2	1	11	6	14	2	4	1	2	14	2	8
-CCC	1	3	1	4	0	5	1	3	0	2	16	4	2	1	0	2	1	4	2	3	0	12	1	2	5	3	1	2	6	7	1	4	1	1	3	1	3
-CCA	2	5	2	3	2	3	2	2	2	3	4	2	0	1	2	4	2	2	0	1	2	6	3	2	6	1	0	4	5	3	6	7	4	1	4	2	6
-CCG	6	0	2	3	1	0	0	1	5	0	6	2	1	0	1	0	2	1	5	0	0	2	0	5	2	2	1	5	3	5	1	7	5	0	7	0	3
-CAT	1	3	2	0	3	5	0	4	1	5	10	2	0	0	2	12	1	3	1	1	1	0	0	5	5	1	2	5	3	10	4	7	4	1	14	3	6
-CAC	2	0	1	1	2	1	1	0	1	0	14	2	0	1	1	2	2	2	0	1	0	3	0	1	1	0	2	1	1	2	1	1	1	1	3	1	0
-CAA	1	1	3	3	4	1	2	0	7	1	15	3	0	2	4	5	4	3	2	1	1	4	0	1	6	2	1	7	6	8	2	12	6	1	6	0	6
-CAG	4	2	0	2	3	6	3	0	2	2	9	1	1	1	7	1	0	2	3	1	0	3	0	3	0	0	1	5	1	3	1	3	3	0	3	1	0
-CGT	0	0	1	2	1	5	1	0	1	2	7	0	1	1	1	1	0	5	0	1	0	4	1	4	3	0	0	3	6	2	1	11	1	5	5	1	6
-CGC	1	2	4	2	0	2	2	0	2	3	7	4	2	0	3	1	0	1	2	0	0	4	0	1	0	0	1	1	1	2	2	6	1	1	0	2	1
-CGA	2	1	0	1	2	3	2	2	2	3	11	4	0	0	1	2	0	2	0	1	1	3	1	4	3	2	2	7	2	5	3	10	3	5	3	2	2
-CGG	3	2	0	3	0	4	2	1	0	4	11	3	1	0	0	1	0	1	2	1	0	5	1	2	3	1	1	2	2	3	0	7	1	1	0	2	2
-ATT	2	3	2	3	4	6	1	5	6	4	13	1	3	2	3	11	1	5	3	3	4	7	6	4	8	5	1	4	11	24	9	10	4	2	17	1	13
-ATC	2	3	5	3	3	3	2	1	7	3	27	4	2	5	2	4	1	7	0	1	3	6	3	0	6	3	0	6	9	12	4	11	2	1	4	2	6
-ATA	0	2	0	1	5	2	1	2	3	3	18	1	2	3	1	5	3	8	0	1	1	4	1	4	1	3	0	5	7	13	6	16	5	1	12	0	8
-ATG	3	1	5	2	2	6	1	1	3	4	5	2	1	4	1	6	4	3	2	3	3	4	3	2	4	1	6	8	4	16	9	8	6	3	11	2	7
-ACT	0	4	0	2	1	4	2	6	4	2	7	4	1	1	2	4	0	3	2	2	0	1	0	1	4	1	1	7	3	11	7	6	5	0	5	2	2
-ACC	2	5	2	2	1	6	0	1	1	1	7	2	1	0	5	7	4	3	0	3	1	2	2	0	3	0	2	5	2	8	3	8	0	0	5	0	6
-ACA	3	0	1	3	0	5	3	1	2	2	8	3	0	9	0	1	0	1	1	1	1	0	0	1	4	0	1	2	7	7	1	6	4	0	5	0	5
-ACG	0	0	2	2	1	2	1	1	1	0	6	1	1	0	1	2	2	1	3	1	0	7	1	3	2	0	1	6	7	2	4	6	1	1	2	0	3
-AAT	2	1	2	3	3	4	2	5	6	5	8	0	2	5	1	1	2	1	1	3	1	7	1	4	2	1	2	4	4	10	6	17	8	2	11	1	2
-AAC	0	3	0	2	1	1	1	0	4	0	11	3	3	1	1	0	1	2	1	0	1	1	1	0	2	2	1	3	1	3	0	10	3	1	2	0	4
-AAA	0	3	0	1	2	3	2	1	4	6	14	3	1	3	2	3	3	2	3	6	2	5	2	10	3	2	2	13	3	8	2	35	8	6	4	4	2
-AAG	5	0	1	0	0	4	2	2	2	3	29	3	1	5	1	2	6	0	3	2	0	5	1	3	1	2	0	18	4	5	2	22	2	5	1	2	3
-AGT	1	2	1	3	2	3	3	3	1	2	7	1	2	1	1	3	3	6	1	1	1	4	3	0	5	1	2	5	5	8	3	5	1	3	10	2	3
-AGC	1	0	5	2	2	0	0	1	2	1	14	2	2	0	3	0	1	1	2	3	0	3	0	1	3	0	2	9	2	8	2	5	2	0	6	1	3
-AGA	3	3	2	1	1	1	0	3	5	5	13	3	1	2	0	1	4	4	5	2	0	2	1	7	1	1	2	10	0	9	3	18	3	5	2	1	2
-AGG	4	0	0	2	1	1	2	3	0	3	12	2	1	1	2	1	4	1	4	0	0	2	1	0	0	1	3	6	3	0	5	7	1	0	2	0	0
-GTT	3	2	4	1	1	4	3	2	6	1	12	2	1	1	0	7	4	9	2	1	0	3	3	1	4	2	0	3	8	12	9	4	2	1	11	2	6
-GTC	1	2	3	3	1	4	1	0	0	0	14	0	2	2	0	2	3	2	1	2	1	5	1	0	3	1	2	5	3	2	3	7	3	0	2	1	2
-GTA	1	1	0	0	2	4	1	3	0	3	13	0	1	2	2	10	2	1	1	0	1	8	1	3	2	0	0	5	4	7	7	9	5	2	11	2	3
-GTG	1	2	3	0	4	5	8	1	2	1	3	1	1	5	0	3	3	1	1	0	1	5	1	2	1	2	0	6	3	12	2	8	1	0	9	0	1
-GCT	2	1	0	0	2	6	1	4	3	4	4	2	0	1	0	10	3	2	3	0	8	10	2	3	1	3	3	13	3	6	6	9	1	1	13	2	10
-GCC	5	3	1	1	1	2	3	1	4	2	21	2	1	1	3	1	6	1	3	1	4	6	3	1	0	1	2	8	2	10	3	6	2	1	7	1	1
-GCA	3	2	1	1	2	2	4	2	1	2	6	2	0	2	0	8	3	1	2	3	2	7	2	2	1	1	2	8	5	7	1	7	2	2	5	1	2
-GCG	1	0	4	0	1	5	1	2	2	0	12	0	2	0	0	2	7	1	0	1	2	3	0	0	0	2	0	4	1	4	1	6	0	1	3	0	3
-GAT	0	1	3	5	2	4	2	1	5	6	7	3	3	6	2	4	2	4	6	4	0	5	6	4	3	0	4	7	1	5	3	9	6	4	9	3	3
-GAC	1	3	1	1	0	2	2	2	4	0	17	4	0	2	0	1	6	1	1	1	0	6	0	1	1	1	3	3	2	4	3	11	2	1	3	0	0
-GAA	0	5	3	3	3	4	1	1	3	6	21	1	1	5	2	7	0	4	0	0	2	14	5	5	6	4	3	4	8	11	5	20	10	1	5	0	8
-GAG	1	3	6	0	0	2	3	3	4	4	16	1	0	5	0	3	5	1	1	0	0	18	1	0	1	3	4	5	6	3	1	8	5	2	2	0	0
-GGT	3	1	0	1	1	2	1	3	3	2	12	1	2	3	3	11	0	1	1	2	4	7	4	6	9	3	1	6	5	14	3	8	2	2	10	0	5
-GGC	0	3	5	1	6	4	1	0	2	0	11	2	2	0	0	4	1	4	1	0	1	5	0	2	0	1	1	8	2	2	0	5	1	1	3	0	1
-GGA	1	1	0	2	5	6	0	2	1	2	14	1	2	6	3	8	1	0	2	2	3	8	2	4	2	6	8	7	3	14	4	10	5	1	13	0	5
-GGG	2	2	0	0	0	1	4	3	0	3	13	4	1	1	1	4	2	0	5	2	0	13	0	0	1	2	5	9	0	4	2	12	4	0	3	0	6
-TAA	0	1	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	1	0	1	0	0	1	0
-TAG	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0
-TGA	1	0	0	1	0	1	1	0	1	1	0	0	1	1	0	1	0	1	0	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	1	0	1
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	AGA	AGG	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	TGA
+0	orf115a	YP_717102.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	6	1	1	5	5	2	1	1	1	4	1	0	2	3	2	1	2	1	2	6	1	2	1	4	0	1	2	3	2	2	0	3	0	2	3	0	2	0	0	5	1	1	3	4	3	1	1	1	2	5	3	1	0	1	0	1	3	0	1	2	0	0	1
+1	orf124	YP_717105.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	2	4	1	3	2	2	1	0	4	2	2	0	2	4	7	0	3	3	5	0	3	0	1	2	0	2	1	2	3	3	2	1	4	5	0	0	1	3	3	0	2	0	3	0	2	2	1	2	1	3	2	0	1	3	5	3	1	3	1	2	1	0	0
+2	orf113a	YP_717107.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	4	0	3	2	1	0	0	2	1	1	1	1	2	10	0	2	4	1	2	2	2	1	3	0	1	4	0	0	2	5	0	5	0	2	1	2	2	0	0	1	1	5	2	0	4	3	0	3	0	1	1	4	3	1	3	6	0	5	0	0	0	1	0
+3	orf101a	YP_717111.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	2	3	0	3	2	3	1	0	0	3	1	0	1	3	1	0	0	3	4	3	3	0	1	3	2	2	2	1	3	3	3	1	2	2	2	3	2	3	2	1	0	3	2	1	2	1	3	0	0	0	1	1	0	5	1	3	0	1	1	2	0	0	0	1
+4	orf113b	YP_717113.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	2	0	1	5	1	0	1	2	1	1	0	5	1	2	0	3	3	0	2	1	3	2	4	3	1	0	2	0	4	3	5	2	1	1	0	1	3	1	2	0	2	2	1	1	1	1	2	4	2	1	2	1	2	0	3	0	1	6	5	0	1	0	0
+5	ccmFN2	YP_717115.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	8	3	7	4	6	1	1	4	2	1	3	1	13	7	1	4	0	2	5	3	0	5	1	1	6	5	2	3	4	6	3	2	6	4	6	5	2	4	1	3	4	3	0	1	1	4	4	4	5	6	2	2	5	4	2	4	2	2	4	6	1	0	0	1
+6	orf119	YP_717123.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	13	3	2	2	4	2	2	1	1	3	0	3	1	1	0	1	2	3	1	2	0	0	1	2	3	1	2	2	2	1	2	1	1	2	0	3	1	2	1	2	2	3	0	0	2	3	1	1	8	1	3	4	1	2	2	1	3	1	1	0	4	0	0	1
+7	orf125	YP_717124.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	4	0	3	10	1	3	3	0	4	0	0	3	6	1	3	0	0	3	2	1	4	0	0	0	0	0	2	1	5	1	2	1	6	1	1	1	5	0	1	2	3	1	3	3	2	0	3	1	4	1	2	2	1	2	1	3	3	0	2	3	1	0	0
+8	orf161	YP_717125.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	10	3	1	1	3	4	4	2	1	3	1	1	2	4	1	1	2	3	0	2	5	1	1	7	2	1	2	2	0	6	7	3	3	4	1	2	1	6	4	4	2	1	2	5	0	6	0	0	2	3	4	1	2	5	4	3	4	3	2	1	0	0	0	1
+9	orf159	YP_717126.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	4	2	2	8	2	6	1	3	1	0	1	2	2	6	3	1	3	2	3	0	5	0	1	2	2	3	3	4	4	3	3	4	2	1	2	0	5	0	6	3	2	1	5	3	1	0	3	1	4	2	2	0	6	0	6	4	2	0	2	3	0	0	1
+10	matR	YP_717127.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	9	15	6	8	3	12	9	14	5	10	3	6	10	14	12	17	10	9	16	4	6	10	14	15	9	7	7	11	11	13	27	18	5	7	7	8	6	8	11	14	29	7	14	13	12	12	14	13	3	4	21	6	12	7	17	21	16	12	11	14	13	0	1	0
+11	orf115b	YP_717128.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	0	1	0	0	1	2	2	1	0	1	2	3	5	1	0	5	1	2	4	2	2	2	2	3	1	0	4	4	3	1	4	1	2	4	2	3	1	0	3	3	3	1	2	3	2	2	0	0	1	2	2	2	0	3	4	1	1	1	2	1	4	0	1	0
+12	orf104	YP_717129.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	6	6	0	5	1	4	0	1	1	2	6	5	1	4	3	1	4	3	2	0	1	0	0	0	1	1	2	0	1	3	2	2	1	1	1	0	1	2	3	1	1	2	2	1	1	1	2	1	1	0	1	0	2	3	0	1	0	2	2	2	1	0	0	1
+13	orf115c	YP_717132.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	0	1	2	1	0	4	0	3	1	2	0	2	1	0	3	3	0	1	1	0	0	1	2	1	1	0	0	0	2	5	3	4	1	0	9	0	5	1	3	5	1	0	2	1	1	2	2	5	1	1	2	0	6	2	5	5	3	0	6	1	0	0	1
+14	orf108a	YP_717133.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	3	3	3	5	6	1	3	2	0	0	1	1	5	1	1	2	2	0	2	1	2	1	4	7	1	3	1	0	3	2	1	1	2	5	0	1	1	1	2	1	1	3	0	2	0	0	2	0	0	3	0	0	2	0	2	0	3	0	3	1	1	0	0
+15	cox3	YP_717136.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	15	7	6	6	9	2	2	3	9	2	1	0	12	4	5	5	3	7	2	4	0	12	2	5	1	1	1	2	1	11	4	5	6	4	7	1	2	1	0	3	2	3	0	1	1	7	2	10	3	10	1	8	2	4	1	7	3	11	4	8	4	0	0	1
+16	orf147	YP_717137.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	4	2	11	1	1	0	0	2	4	1	1	4	5	4	4	0	0	1	2	2	1	2	4	0	0	0	0	0	1	1	3	4	0	4	0	2	2	1	3	6	3	1	4	4	4	3	2	3	3	6	3	7	2	6	0	5	0	1	1	2	0	1	0
+17	orf164	YP_717138.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	3	6	0	10	6	3	2	1	2	3	2	2	2	4	7	0	0	4	4	2	1	3	2	3	2	5	1	2	1	5	7	8	3	3	3	1	1	1	2	2	0	6	1	4	1	9	2	1	1	2	1	1	1	4	1	4	1	1	4	0	0	0	0	1
+18	orf100b	YP_717140.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	2	1	0	2	2	4	0	2	0	1	0	0	0	1	0	2	0	2	0	5	1	0	2	3	0	2	0	2	3	0	0	2	2	0	1	3	1	1	3	3	1	2	5	4	2	1	1	1	3	3	2	0	6	1	0	1	1	1	2	5	0	1	0
+19	orf115d	YP_717142.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	9	2	0	7	1	2	0	6	2	2	4	1	2	5	1	0	2	3	1	0	1	1	1	1	1	0	1	1	3	1	1	3	2	3	1	1	3	0	6	2	1	3	2	0	1	2	0	0	0	1	3	1	4	1	0	0	2	0	2	2	0	1	0
+20	atp9	YP_717144.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	3	2	5	2	0	4	0	1	0	0	0	0	0	0	1	0	0	0	2	0	1	0	1	0	0	0	1	0	4	3	1	3	0	1	1	0	1	1	2	0	1	0	0	0	0	1	1	1	8	4	2	2	0	0	2	0	4	1	3	0	0	0	1
+21	orf322	YP_717145.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	10	9	5	6	4	6	5	3	4	4	0	1	3	6	9	5	8	5	12	6	2	0	3	4	3	4	4	3	5	7	6	4	4	1	2	0	7	7	1	5	5	4	3	2	2	3	5	8	5	10	6	7	3	5	6	14	18	7	5	8	13	1	0	0
+22	nad3	YP_717146.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	12	3	4	4	3	3	2	2	3	2	1	0	3	1	2	2	2	5	1	3	0	0	0	0	0	1	0	1	1	6	3	1	3	0	2	0	1	1	1	2	1	3	0	1	1	3	1	1	1	2	3	2	0	6	0	5	1	4	0	2	0	1	0	0
+23	rps12	YP_717147.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	2	0	1	4	0	2	2	4	1	0	2	1	0	0	0	1	0	1	2	2	5	5	1	1	3	4	1	4	2	4	0	4	2	1	0	1	3	4	0	10	3	0	1	7	0	1	0	3	2	3	1	2	0	4	1	5	0	6	2	4	0	0	0	1
+24	ccmB	YP_717148.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	10	5	8	6	6	5	3	7	6	1	3	1	2	8	2	5	4	6	5	6	2	5	1	6	0	3	0	3	3	8	6	1	4	4	3	4	2	2	2	3	1	5	3	1	0	4	3	2	1	1	0	1	0	3	1	6	1	9	0	2	1	1	0	0
+25	orf128	YP_717152.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	18	3	4	3	0	0	1	4	1	1	1	4	3	7	4	4	1	2	3	1	2	1	0	2	0	0	0	2	1	5	3	3	1	1	0	0	0	1	2	2	2	1	0	1	1	2	1	0	2	3	1	1	2	0	1	4	3	3	1	6	2	0	0	1
+26	orf117b	YP_717156.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	1	7	0	2	4	1	3	2	3	0	1	2	3	5	2	1	3	1	1	0	1	2	2	1	1	0	1	2	1	1	0	0	6	1	2	1	1	2	1	2	0	2	2	2	3	0	2	0	0	3	2	2	0	4	3	3	4	1	1	8	5	1	0	0
+27	rpl2	YP_717157.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	14	5	5	12	7	1	6	4	0	0	5	5	6	5	0	4	11	2	4	5	5	1	7	5	3	1	7	2	4	6	5	8	7	5	2	6	4	3	13	18	5	9	10	6	3	5	5	6	13	8	8	4	7	3	4	5	6	8	7	9	0	0	1
+28	orfX	YP_717158.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	13	12	7	9	6	4	3	8	7	3	3	5	6	6	3	2	2	6	6	5	3	3	1	6	1	6	1	2	2	11	9	7	4	3	2	7	7	4	1	3	4	5	2	0	3	8	3	4	3	3	2	5	1	1	2	8	6	5	2	3	0	0	1	0
+29	nad4	YP_717159.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	24	18	20	7	15	7	9	1	15	2	5	3	6	16	3	12	7	14	7	3	5	10	2	8	3	2	2	5	3	24	12	13	16	11	8	7	2	10	3	8	5	8	8	9	0	12	2	7	12	6	10	7	4	5	4	11	3	14	2	14	4	0	0	1
+30	nad6	YP_717162.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	6	8	8	9	4	1	2	1	5	2	0	0	4	7	2	1	2	2	1	6	1	4	1	2	1	1	2	3	0	9	4	6	9	7	3	1	4	6	0	2	2	3	2	3	5	9	3	7	2	6	3	1	1	3	3	5	1	3	0	4	2	1	0	0
+31	rps3	YP_717168.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	20	20	5	9	12	7	8	6	14	7	5	1	5	9	7	5	6	4	4	7	7	7	1	12	3	11	6	10	7	10	11	16	8	6	8	6	6	17	10	35	22	5	5	18	7	4	7	9	8	9	6	7	6	9	11	20	8	8	5	10	12	0	1	0
+32	rpl5	YP_717169.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	7	8	2	4	3	3	2	6	2	1	1	1	1	0	3	1	3	1	1	4	5	4	1	6	3	1	1	3	1	4	2	5	6	5	0	4	1	8	3	8	2	1	2	3	1	2	3	5	1	1	2	2	0	6	2	10	5	2	1	5	4	1	0	0
+33	rps14	YP_717170.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	5	1	1	5	5	3	0	2	3	0	2	0	1	2	1	0	0	2	1	1	0	1	1	1	0	5	1	5	1	2	1	1	3	0	0	0	1	2	1	6	5	3	0	5	0	1	0	2	0	1	1	2	1	4	1	1	2	2	1	1	0	0	1	0
+34	cob	YP_717171.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	22	9	12	9	5	4	2	0	13	4	4	1	13	13	3	7	2	14	3	4	7	14	3	6	3	5	0	3	0	17	4	12	11	5	5	5	2	11	2	4	1	10	6	2	2	11	2	11	9	13	7	5	3	9	3	5	2	10	3	13	3	0	0	1
+35	orf101f	YP_717173.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	4	15	2	4	5	0	2	1	1	1	1	2	2	5	1	3	5	2	1	2	0	3	1	0	1	1	2	2	2	1	2	0	2	2	0	0	0	1	0	4	2	2	1	1	0	2	1	2	0	2	1	1	0	3	0	0	0	0	0	0	0	1	0	0
+36	ccmC	YP_717174.1	Brassica napus	Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliophyta, eudicotyledons, Gunneridae, Pentapetalae, rosids, malvids, Brassicales, Brassicaceae, Brassiceae, Brassica	11	6	6	7	11	2	6	2	3	2	0	1	6	7	4	2	3	8	3	6	3	6	0	6	0	6	1	2	2	13	6	8	7	2	6	5	3	2	4	2	3	3	3	2	0	6	2	3	1	10	1	2	3	3	0	8	0	5	1	5	6	0	0	1

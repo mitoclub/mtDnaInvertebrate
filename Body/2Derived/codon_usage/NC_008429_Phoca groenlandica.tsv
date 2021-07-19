@@ -1,65 +1,13 @@
-	YP_778864.1|ND1	YP_778865.1|ND2	YP_778866.1|COX1	YP_778867.1|COX2	YP_778868.1|ATP8	YP_778869.1|ATP6	YP_778870.1|COX3	YP_778871.1|ND3	YP_778872.1|ND4L	YP_778873.1|ND4	YP_778874.1|ND5	YP_778876.1|CYTB
-TTT	4	4	14	2	1	6	9	4	2	10	11	6
-TTC	17	8	28	4	3	7	15	4	3	10	30	17
-TTA	7	4	13	8	3	7	2	3	2	14	13	7
-TTG	0	0	1	1	0	0	1	0	1	0	1	0
-TCT	0	1	5	3	2	2	4	1	2	3	4	1
-TCC	5	8	10	2	0	3	5	3	4	10	16	5
-TCA	12	18	12	9	1	5	6	2	2	11	17	14
-TCG	0	0	0	1	2	0	1	0	0	0	2	0
-TAT	3	2	7	3	2	2	5	1	2	8	7	4
-TAC	9	7	12	7	0	1	7	2	2	8	13	12
-TGT	0	0	1	1	0	0	0	1	1	1	1	2
-TGC	1	0	0	1	0	0	2	0	2	3	3	2
-TGA	9	9	15	4	3	3	12	4	0	11	10	12
-TGG	0	1	2	1	0	0	0	0	0	2	2	0
-CTT	4	3	8	3	1	7	4	1	2	10	10	3
-CTC	6	10	5	6	0	6	4	6	4	9	19	11
-CTA	36	35	24	12	6	17	15	15	9	48	44	34
-CTG	1	2	8	4	1	6	4	1	3	13	3	5
-CCT	5	4	11	4	1	5	6	3	0	4	3	1
-CCC	9	8	9	3	3	4	1	1	1	12	9	12
-CCA	6	10	8	7	3	4	5	1	0	6	13	8
-CCG	2	0	0	0	0	0	0	1	0	1	1	1
-CAT	2	0	10	4	1	2	6	1	2	2	4	5
-CAC	2	4	8	4	1	5	10	0	0	6	12	7
-CAA	5	8	6	7	2	8	7	1	2	10	14	6
-CAG	1	1	0	0	1	1	0	0	0	1	4	1
-CGT	0	0	0	1	0	1	0	0	0	1	1	0
-CGC	1	1	1	0	0	0	1	1	0	4	2	0
-CGA	7	2	6	5	0	3	3	0	1	5	6	7
-CGG	0	0	1	0	0	0	1	0	0	0	0	1
-ATT	11	15	16	10	2	12	8	2	2	16	27	11
-ATC	17	27	20	7	3	15	8	2	4	22	36	33
-ATA	19	31	24	14	3	9	9	6	8	32	40	8
-ATG	1	4	9	3	1	3	4	0	3	6	3	4
-ACT	4	4	12	3	1	7	5	2	1	6	7	1
-ACC	8	12	6	5	0	5	9	4	0	10	24	9
-ACA	9	20	16	9	4	9	8	4	4	19	19	14
-ACG	1	1	4	0	2	1	0	1	0	2	4	1
-AAT	3	5	13	3	2	2	3	2	3	8	10	6
-AAC	10	10	5	3	0	7	4	3	2	13	24	10
-AAA	7	15	7	4	5	3	2	3	0	11	19	7
-AAG	0	0	2	1	1	1	1	0	0	2	3	2
-AGT	0	1	2	1	1	0	3	2	0	1	3	1
-AGC	2	2	1	3	0	4	1	0	1	10	5	2
-GTT	1	2	5	1	0	1	0	0	0	2	3	4
-GTC	5	2	9	3	1	2	5	0	1	2	5	4
-GTA	9	3	22	7	0	4	9	2	7	10	8	11
-GTG	1	2	3	2	0	1	0	0	0	1	2	2
-GCT	5	2	8	3	0	6	2	1	2	5	9	1
-GCC	15	6	13	2	0	8	9	6	4	12	12	11
-GCA	10	9	20	2	0	4	4	6	2	17	17	11
-GCG	0	1	1	1	0	0	0	0	0	0	0	1
-GAT	0	0	8	5	1	2	1	0	1	2	5	3
-GAC	3	1	6	5	0	1	2	2	0	1	5	9
-GAA	11	6	10	14	3	3	6	7	2	8	9	5
-GAG	0	0	0	1	0	0	2	0	0	0	4	0
-GGT	0	2	10	2	0	3	4	0	1	0	2	2
-GGC	2	5	11	1	0	1	7	0	0	9	7	4
-GGA	10	7	19	5	0	5	9	3	3	7	16	16
-GGG	0	2	7	0	0	2	0	0	0	2	3	2
-TAA	0	0	1	1	1	1	0	0	1	0	1	0
-TAG	1	1	0	0	0	0	0	0	0	0	0	0
-AGA	0	0	0	0	0	0	0	0	0	0	0	1
-AGG	0	0	0	0	0	0	0	0	0	0	0	0
+	GenName	GenID	OrganismName	Taxonomy	TTT	TTC	TTA	TTG	TCT	TCC	TCA	TCG	TAT	TAC	TGT	TGC	TGA	TGG	CTT	CTC	CTA	CTG	CCT	CCC	CCA	CCG	CAT	CAC	CAA	CAG	CGT	CGC	CGA	CGG	ATT	ATC	ATA	ATG	ACT	ACC	ACA	ACG	AAT	AAC	AAA	AAG	AGT	AGC	GTT	GTC	GTA	GTG	GCT	GCC	GCA	GCG	GAT	GAC	GAA	GAG	GGT	GGC	GGA	GGG	TAA	TAG	AGA	AGG
+0	ND1	YP_778864.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	4	17	7	0	0	5	12	0	3	9	0	1	9	0	4	6	36	1	5	9	6	2	2	2	5	1	0	1	7	0	11	17	19	1	4	8	9	1	3	10	7	0	0	2	1	5	9	1	5	15	10	0	0	3	11	0	0	2	10	0	0	1	0	0
+1	ND2	YP_778865.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	4	8	4	0	1	8	18	0	2	7	0	0	9	1	3	10	35	2	4	8	10	0	0	4	8	1	0	1	2	0	15	27	31	4	4	12	20	1	5	10	15	0	1	2	2	2	3	2	2	6	9	1	0	1	6	0	2	5	7	2	0	1	0	0
+2	COX1	YP_778866.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	14	28	13	1	5	10	12	0	7	12	1	0	15	2	8	5	24	8	11	9	8	0	10	8	6	0	0	1	6	1	16	20	24	9	12	6	16	4	13	5	7	2	2	1	5	9	22	3	8	13	20	1	8	6	10	0	10	11	19	7	1	0	0	0
+3	COX2	YP_778867.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	2	4	8	1	3	2	9	1	3	7	1	1	4	1	3	6	12	4	4	3	7	0	4	4	7	0	1	0	5	0	10	7	14	3	3	5	9	0	3	3	4	1	1	3	1	3	7	2	3	2	2	1	5	5	14	1	2	1	5	0	1	0	0	0
+4	ATP8	YP_778868.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	1	3	3	0	2	0	1	2	2	0	0	0	3	0	1	0	6	1	1	3	3	0	1	1	2	1	0	0	0	0	2	3	3	1	1	0	4	2	2	0	5	1	1	0	0	1	0	0	0	0	0	0	1	0	3	0	0	0	0	0	1	0	0	0
+5	ATP6	YP_778869.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	6	7	7	0	2	3	5	0	2	1	0	0	3	0	7	6	17	6	5	4	4	0	2	5	8	1	1	0	3	0	12	15	9	3	7	5	9	1	2	7	3	1	0	4	1	2	4	1	6	8	4	0	2	1	3	0	3	1	5	2	1	0	0	0
+6	COX3	YP_778870.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	9	15	2	1	4	5	6	1	5	7	0	2	12	0	4	4	15	4	6	1	5	0	6	10	7	0	0	1	3	1	8	8	9	4	5	9	8	0	3	4	2	1	3	1	0	5	9	0	2	9	4	0	1	2	6	2	4	7	9	0	0	0	0	0
+7	ND3	YP_778871.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	4	4	3	0	1	3	2	0	1	2	1	0	4	0	1	6	15	1	3	1	1	1	1	0	1	0	0	1	0	0	2	2	6	0	2	4	4	1	2	3	3	0	2	0	0	0	2	0	1	6	6	0	0	2	7	0	0	0	3	0	0	0	0	0
+8	ND4L	YP_778872.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	2	3	2	1	2	4	2	0	2	2	1	2	0	0	2	4	9	3	0	1	0	0	2	0	2	0	0	0	1	0	2	4	8	3	1	0	4	0	3	2	0	0	0	1	0	1	7	0	2	4	2	0	1	0	2	0	1	0	3	0	1	0	0	0
+9	ND4	YP_778873.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	10	10	14	0	3	10	11	0	8	8	1	3	11	2	10	9	48	13	4	12	6	1	2	6	10	1	1	4	5	0	16	22	32	6	6	10	19	2	8	13	11	2	1	10	2	2	10	1	5	12	17	0	2	1	8	0	0	9	7	2	0	0	0	0
+10	ND5	YP_778874.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	11	30	13	1	4	16	17	2	7	13	1	3	10	2	10	19	44	3	3	9	13	1	4	12	14	4	1	2	6	0	27	36	40	3	7	24	19	4	10	24	19	3	3	5	3	5	8	2	9	12	17	0	5	5	9	4	2	7	16	3	1	0	0	0
+11	CYTB	YP_778876.1	Phoca groenlandica	Eukaryota, Metazoa, Chordata, Craniata, Vertebrata, Euteleostomi, Mammalia, Eutheria, Laurasiatheria, Carnivora, Caniformia, Phocidae, Phoca	6	17	7	0	1	5	14	0	4	12	2	2	12	0	3	11	34	5	1	12	8	1	5	7	6	1	0	0	7	1	11	33	8	4	1	9	14	1	6	10	7	2	1	2	4	4	11	2	1	11	11	1	3	9	5	0	2	4	16	2	0	0	1	0
