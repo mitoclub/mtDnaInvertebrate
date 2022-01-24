@@ -1,1 +1,2 @@
 Body/2Derived/CodonUsageDerived.csv filter=lfs diff=lfs merge=lfs -text
+Body/2Derived/08_CodonUsageDerived_RSCU.csv filter=lfs diff=lfs merge=lfs -text
